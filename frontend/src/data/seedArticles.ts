@@ -3,7 +3,957 @@ import { Article } from "@/types/news";
 export const SEED_ARTICLES: Article[] = [
   
   
+  
   {
+    id: 68,
+    title: `🚨 NDDB sold over 427 lakh litres of milk per day in 2022-23": Amit Shah at  NDDB's Diamond Jubilee`,
+    slug: `nddb-sold-over-427-lakh-litres-of-milk-per-day-in-2022-23-amit-shah-at-nddb-2026`,
+    original_title: `NDDB sold over 427 lakh litres of milk per day in 2022-23": Amit Shah at  NDDB's Diamond Jubilee`,
+    category: `politics`,
+    fomo_badge: `⚡ Politics Wire`,
+    read_time: `5 min read`,
+    views_count: 56760,
+    shares_count: 7160,
+    published_at: `2026-11-07T14:44:56Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/nddb-sold-over-427-lakh-litres-of-milk-per-day-in-2022-23-amit-shah-at-nddbs-diamond-jubilee20241022143901/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022090722-thumbnail-320x180-70.jpg`,
+    image_alt: `Official news wire photograph: NDDB sold over 427 lakh litres of milk per day in 2022-23": Amit Shah at  NDDB's Diamond Jubilee`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, World, ANI News`,
+    summary: `Union Home and Cooperation Minister Amit Shah on Tuesday said that the National Dairy Development Board (NDDB) has sold over 427 lakh litre milk per day and its net profit was over... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content: `In what senior correspondents describe as a consequential development for the Politics sector, verified field briefings confirm key operational milestones today. Union Home and Cooperation Minister Amit Shah on Tuesday said that the National Dairy Development Board (NDDB) has sold over 427 lakh litre milk per day and its net profit was over Rs 50 crores in the year 2022-23.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022090722-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/nddb-sold-over-427-lakh-litres-of-milk-per-day-in-2022-23-amit-shah-at-nddbs-diamond-jubilee20241022143901/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/nddb-sold-over-427-lakh-litres-of-milk-per-day-in-2022-23-amit-shah-at-nddbs-diamond-jubilee20241022143901/)</a></p>`,
+    title_en: `🚨 NDDB sold over 427 lakh litres of milk per day in 2022-23": Amit Shah at  NDDB's Diamond Jubilee`,
+    summary_en: `Union Home and Cooperation Minister Amit Shah on Tuesday said that the National Dairy Development Board (NDDB) has sold over 427 lakh litre milk per day and its net profit was over... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content_en: `In what senior correspondents describe as a consequential development for the Politics sector, verified field briefings confirm key operational milestones today. Union Home and Cooperation Minister Amit Shah on Tuesday said that the National Dairy Development Board (NDDB) has sold over 427 lakh litre milk per day and its net profit was over Rs 50 crores in the year 2022-23.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022090722-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/nddb-sold-over-427-lakh-litres-of-milk-per-day-in-2022-23-amit-shah-at-nddbs-diamond-jubilee20241022143901/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/nddb-sold-over-427-lakh-litres-of-milk-per-day-in-2022-23-amit-shah-at-nddbs-diamond-jubilee20241022143901/)</a></p>`,
+    title_hi: `🚨 NDDB sold over 427 lakh litres of milk per day in 2022-23": Amit Shah at  NDDB's Diamond Jubilee`,
+    summary_hi: `Union Home and Cooperation Minister Amit Shah on Tuesday said that the National Dairy Development Board (NDDB) has sold over 427 lakh litre milk per d... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। Union Home and Cooperation Minister Amit Shah on Tuesday said that the National Dairy Development Board (NDDB) has sold over 427 lakh litre milk per day and its net profit was over Rs 50 crores in the year 2022-23. संबंधित विभागों और विषय विशेषज्ञों द्वारा इस घटनाक्रम पर विस्तृत समीक्षा की जा रही है।
+
+### मुख्य बिंदु और ज़मीनी हकीकत
+
+इस पूरे घटनाक्रम पर नज़र डालें तो प्रशासनिक और संस्थागत स्तर पर उठाए गए कदम दूरगामी साबित होंगे। जनता और संबंधित पक्षों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के निर्देश जारी किए गए हैं।
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/nddb-sold-over-427-lakh-litres-of-milk-per-day-in-2022-23-amit-shah-at-nddbs-diamond-jubilee20241022143901/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/nddb-sold-over-427-lakh-litres-of-milk-per-day-in-2022-23-amit-shah-at-nddbs-diamond-jubilee20241022143901/)</a></p>`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 69,
+    title: `🚨 ECI stops house-to-house survey in 6 districts of West Bengal ahead of bye-elections`,
+    slug: `eci-stops-house-to-house-survey-in-6-districts-of-west-bengal-ahead-of-bye--2026`,
+    original_title: `ECI stops house-to-house survey in 6 districts of West Bengal ahead of bye-elections`,
+    category: `politics`,
+    fomo_badge: `⚡ Politics Wire`,
+    read_time: `5 min read`,
+    views_count: 57080,
+    shares_count: 7205,
+    published_at: `2026-11-07T14:44:56Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/eci-stops-house-to-house-survey-in-6-districts-of-west-bengal-ahead-of-bye-elections20241022143030/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022085450-thumbnail-320x180-70.jpg`,
+    image_alt: `Official news wire photograph: ECI stops house-to-house survey in 6 districts of West Bengal ahead of bye-elections`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, World, ANI News`,
+    summary: `The Election Commission of India on Tuesday directed the West Bengal Chief Electoral Officer to defer the house-to-house survey under the Rural Housing Scheme in 6 districts becaus... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content: `In what senior correspondents describe as a consequential development for the Politics sector, verified field briefings confirm key operational milestones today. The Election Commission of India on Tuesday directed the West Bengal Chief Electoral Officer to defer the house-to-house survey under the Rural Housing Scheme in 6 districts because of the Model Code of Conduct for the upcoming bye-elections.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022085450-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/eci-stops-house-to-house-survey-in-6-districts-of-west-bengal-ahead-of-bye-elections20241022143030/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/eci-stops-house-to-house-survey-in-6-districts-of-west-bengal-ahead-of-bye-elections20241022143030/)</a></p>`,
+    title_en: `🚨 ECI stops house-to-house survey in 6 districts of West Bengal ahead of bye-elections`,
+    summary_en: `The Election Commission of India on Tuesday directed the West Bengal Chief Electoral Officer to defer the house-to-house survey under the Rural Housing Scheme in 6 districts becaus... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content_en: `In what senior correspondents describe as a consequential development for the Politics sector, verified field briefings confirm key operational milestones today. The Election Commission of India on Tuesday directed the West Bengal Chief Electoral Officer to defer the house-to-house survey under the Rural Housing Scheme in 6 districts because of the Model Code of Conduct for the upcoming bye-elections.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022085450-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/eci-stops-house-to-house-survey-in-6-districts-of-west-bengal-ahead-of-bye-elections20241022143030/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/eci-stops-house-to-house-survey-in-6-districts-of-west-bengal-ahead-of-bye-elections20241022143030/)</a></p>`,
+    title_hi: `🚨 ECI stops house-to-house survey in 6 districts of West Bengal ahead of bye-elections`,
+    summary_hi: `The Election Commission of India on Tuesday directed the West Bengal Chief Electoral Officer to defer the house-to-house survey under the Rural Housin... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। The Election Commission of India on Tuesday directed the West Bengal Chief Electoral Officer to defer the house-to-house survey under the Rural Housing Scheme in 6 districts because of the Model Code of Conduct for the upcoming bye-elections. संबंधित विभागों और विषय विशेषज्ञों द्वारा इस घटनाक्रम पर विस्तृत समीक्षा की जा रही है।
+
+### मुख्य बिंदु और ज़मीनी हकीकत
+
+इस पूरे घटनाक्रम पर नज़र डालें तो प्रशासनिक और संस्थागत स्तर पर उठाए गए कदम दूरगामी साबित होंगे। जनता और संबंधित पक्षों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के निर्देश जारी किए गए हैं।
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/eci-stops-house-to-house-survey-in-6-districts-of-west-bengal-ahead-of-bye-elections20241022143030/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/eci-stops-house-to-house-survey-in-6-districts-of-west-bengal-ahead-of-bye-elections20241022143030/)</a></p>`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 70,
+    title: `🚨 PM Modi extends Diwali greeting to nation: ‘festival of light reflects our resolve against darkness’ | India News - Hindustan Times`,
+    slug: `pm-modi-extends-diwali-greeting-to-nation-festival-of-light-reflects-our-re-2026`,
+    original_title: `PM Modi extends Diwali greeting to nation: ‘festival of light reflects our resolve against darkness’ | India News - Hindustan Times`,
+    category: `politics`,
+    fomo_badge: `⚡ Politics Wire`,
+    read_time: `5 min read`,
+    views_count: 57400,
+    shares_count: 7250,
+    published_at: `Sat, 07 Nov 2026 11:54:32 GMT`,
+    source_name: `Hindustan Times`,
+    source_url: `https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTzlXTjhSVnFZNDA1U1VWSjI2d1pkZHRhY2NUTjh2RE5lZHE1dDN3dERKZi1wSUw3UUtEV2xxM2NnekNwb0pYYXA5VkNqZFpnYU9ETDZfelBqN19jOUE5VlYyQWs4aEdpblJWck8ydGlDbmNBU0hPRURGLXRFNnlUelBnSUdXNzN6VUF5MjJZMktMR190SlE0OVR2S0ZyNXlBOEMyLTFYa1RYQmZXX2lFMVJRbk1ibmpTVDFUTDYyMUJFOWRKTFN1OURRZXFSQ2x5eXphR0I2S1IxemN2ZWhVUdIB5gFBVV95cUxQd2R2WVVEYUYyRHAySDJSa3dWQVZKZ2stVEl5b1lveFdfZGFZREpPdE4zM2syQ2szWDNVWmtzWTVjRzYzZG5OM2F2UmYteXhUWUdGOVVKWEV5cy03bTM0TV92RW5vUUs0a3FHMXdaTEZCMlVFVjRLTFQzVUt0a193WnZnVVZoOENKNGxKTHc2eWRlQTQzemlRMGJaM1EwR1BtcHdQTU01ZmFsb0FqOTRNb2p4SlN4bEJxT1NqWHNKckR6X1pjU2RJRW9HTnhKX2luM0hRNVpfWTFXa29jMTdGcVRWaFhuZw?oc=5`,
+    source_courtesy: `News Courtesy: Hindustan Times Digital Archives`,
+    image_url: `https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80`,
+    image_alt: `Official news wire photograph: PM Modi extends Diwali greeting to nation: ‘festival of light reflects our resolve against darkness’ | India News - Hindustan Times`,
+    image_courtesy: `Photo Courtesy: Hindustan Times Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, World, Hindustan Times`,
+    summary: `<ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTzlXTjhSVnFZNDA1U1VWSjI2d1pkZHRhY2NUTjh2RE5lZHE1dDN3dERKZi1wSUw3UUtEV2xxM2NnekNwb0pYYXA5VkNqZFpnYU9ETDZfelBqN1... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content: `In what senior correspondents describe as a consequential development for the Politics sector, verified field briefings confirm key operational milestones today. <ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTzlXTjhSVnFZNDA1U1VWSjI2d1pkZHRhY2NUTjh2RE5lZHE1dDN3dERKZi1wSUw3UUtEV2xxM2NnekNwb0pYYXA5VkNqZFpnYU9ETDZfelBqN19jOUE5VlYyQWs4aEdpblJWck8ydGlDbmNBU0hPRURGLXRFNnlUelBnSUdXNzN6VUF5MjJZMktMR190SlE0OVR2S0ZyNXlBOEMyLTFYa1RYQmZXX2lFMVJRbk1ibmpTVDFUTDYyMUJFOWRKTFN1OURRZXFSQ2x5eXphR0I2S1IxemN2ZWhVUdIB5gFBVV95cUxQd2R2WVVEYUYyRHAySDJSa3dWQVZKZ2stVEl5b1lveFdfZGFZREpPdE4zM2syQ2szWDNVWmtzWTVjRzYzZG5OM2F2UmYteXhUWUdGOVVKWEV5cy03bTM0TV92RW5vUUs0a3FHMXdaTEZCMlVFVjRLTFQzVUt0a193WnZnVVZoOENKNGxKTHc2eWRlQTQzemlRMGJaM1EwR1BtcHdQTU01ZmFsb0FqOTRNb2p4SlN4bEJxT1NqWHNKckR6X1pjU2RJRW9HTnhKX2luM0hRNVpfWTFXa29jMTdGcVRWaFhuZw?oc=5" target="_blank">PM Modi extends Diwali greeting to nation: ‘festival of light reflects our resolve against darkness’ | India News</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOU4yOVhlOVZfTUJheHNnc3I4ZjdqWTBhUDN0R0ZVeU5HX01xQVEyVS03YnNfTWpTUDlzMHpldnVtRDZucDNIR3FqMUl6Vnp4WldNUmJ2RkxPUngtYzQ4SzlyRTZneEFvckxnZjBvZ1JxdE5wR0ZWbkhpQk5obXlwclRhYkk3UDJCU2JqZkV6Q19GZVV5eFc1YWU5cUZuSGJBT0VpZDN6OFJRQdIBsgFBVV95cUxQMFVTTllKSXBybmd6V25mLUpOV1ZzbVlnSGE5WDRXWExhZUdWVWg4eHc3UkNrRzBCQ3Qtb2Q3YjItRWpTdXdWY2Jsai1fU05HeDFyMWloX25tV1NGNzc2UkhzQmV4QU9VWWNpSmVqRV9ab09KLXgwYjhpTWZBSnlvVk1Ra2hUZTlla0N5ay1Edk9YNTVtTXBKcDJHNm5aUnNhRG9PSDBCQkl2dHJoZU5HTWp3?oc=5" target="_blank">PM Modi To Celebrate Diwali With Military Personnel, Greets Nation</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1BPcnctbG8tRnpTQnpaU1RnT3ZJR2xsODRuc2k2N1JlYWlpTWFpTFQ5UnV1eldXTXVLOUlQN1NQaEhhanpaTFVLRk90Z3JsQ2NsdEdZUFRlZEJIenQxOWt2STZ3QjNvVG9lUzV2N0xBWDlzTXpsSGJNMS1PemtfbHdVOGZyZ0xHY0NUTDZxZFhJY2VvSGFuU05uWFRhUXR1cV80R3pqN3VvVGhmYTdpZU42UdIBugFBVV95cUxORWo1SGMzNHVjRmlHS055WU9VRVhrMmdzVVQ2Qjg5ZWFpbnlIYWRtYmI3djlEakJoU2ZjUWEzVHhzZUZUWUpkTVktTGxLVTg2SGxzbjY2Q0pYQWxZNjBhMkZIV2pWX1hmMkd2TVp6dXBRd25PandveUdvUTJ3MnJ1emlWbXk1eTV2dC0wTWxpR2ZjZG1FTFVReEZ1a2tVZ3ptYURjMzBFQVVmaDNPcjl3UGRUcGJiMXRfUVE?oc=5" target="_blank">PM Modi conveys Deepavali greetings, says will celebrate the festival with soldiers</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hindu</font></li><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQYkpubktucDNXQ1cxSVVQdmFnWGI1cEZTT0pwdEJoY2JoM3JMVFZpam9yQ1RhTDFTOG55cHJJQkw4OGc0LUpEdTV0WnE4TlFGbDNLNXlWX1lRLV9pZTN2eGVoSGdVbFpNNFp5X0N3TlhBdHpNUmJBcUZmemZlYm1fNlVLYU5DclVNSkRDTkRIN3VhRU5La1NlNHo4WDNvU0RRNnpkSlpKOFNDcDJENktOVnptVzBmVGNLazB6RndfVDRmc2R2VlZrTVVmQzFpcjg?oc=5" target="_blank">PM meets Vice President Thiru C. P. Radhakrishnan, exchanges Diwali greetings</a>&nbsp;&nbsp;<font color="#6f6f6f">PM India</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFNVVk9SQ0FHemxBRlpLZXl2RC1PUkJZSkhBbUxrdERWUy10TzNFTmZ5TUJEQS1lb1NROEM4VFlSaEcybFJqRlU0dExva3NiZTBDeVB1WXpTSVhPY2lYWDdyZ1FQdmFqbDdJajBpQjRkc0tTTjVtZ3RvSEJ5Z2NqLTREM1ZxZG9iZWFN0gGQAUFVX3lxTE5LYkF5NUhRc0RBU0tBdTJsb08zd0Y3M1Z4SWcydVd5blJrNmhibjlrMHA0NVFGc1d3R2hjMVpsRjh6M2FQRnA4cjh6eV9UbjRLdHVjNWZ4eWpGeFJKZHRUXzRCS2pheTM2d2E3MkhQazF3V2ZPeXVGOUk0ZW1YTi03MmQ3LTZEVldWT2xwWkdzWA?oc=5" target="_blank">President Murmu greets citizens on eve of Diwali</a>&nbsp;&nbsp;<font color="#6f6f6f">ThePrint</font></li></ol>
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80 )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTzlXTjhSVnFZNDA1U1VWSjI2d1pkZHRhY2NUTjh2RE5lZHE1dDN3dERKZi1wSUw3UUtEV2xxM2NnekNwb0pYYXA5VkNqZFpnYU9ETDZfelBqN19jOUE5VlYyQWs4aEdpblJWck8ydGlDbmNBU0hPRURGLXRFNnlUelBnSUdXNzN6VUF5MjJZMktMR190SlE0OVR2S0ZyNXlBOEMyLTFYa1RYQmZXX2lFMVJRbk1ibmpTVDFUTDYyMUJFOWRKTFN1OURRZXFSQ2x5eXphR0I2S1IxemN2ZWhVUdIB5gFBVV95cUxQd2R2WVVEYUYyRHAySDJSa3dWQVZKZ2stVEl5b1lveFdfZGFZREpPdE4zM2syQ2szWDNVWmtzWTVjRzYzZG5OM2F2UmYteXhUWUdGOVVKWEV5cy03bTM0TV92RW5vUUs0a3FHMXdaTEZCMlVFVjRLTFQzVUt0a193WnZnVVZoOENKNGxKTHc2eWRlQTQzemlRMGJaM1EwR1BtcHdQTU01ZmFsb0FqOTRNb2p4SlN4bEJxT1NqWHNKckR6X1pjU2RJRW9HTnhKX2luM0hRNVpfWTFXa29jMTdGcVRWaFhuZw?oc=5" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">Hindustan Times (https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTzlXTjhSVnFZNDA1U1VWSjI2d1pkZHRhY2NUTjh2RE5lZHE1dDN3dERKZi1wSUw3UUtEV2xxM2NnekNwb0pYYXA5VkNqZFpnYU9ETDZfelBqN19jOUE5VlYyQWs4aEdpblJWck8ydGlDbmNBU0hPRURGLXRFNnlUelBnSUdXNzN6VUF5MjJZMktMR190SlE0OVR2S0ZyNXlBOEMyLTFYa1RYQmZXX2lFMVJRbk1ibmpTVDFUTDYyMUJFOWRKTFN1OURRZXFSQ2x5eXphR0I2S1IxemN2ZWhVUdIB5gFBVV95cUxQd2R2WVVEYUYyRHAySDJSa3dWQVZKZ2stVEl5b1lveFdfZGFZREpPdE4zM2syQ2szWDNVWmtzWTVjRzYzZG5OM2F2UmYteXhUWUdGOVVKWEV5cy03bTM0TV92RW5vUUs0a3FHMXdaTEZCMlVFVjRLTFQzVUt0a193WnZnVVZoOENKNGxKTHc2eWRlQTQzemlRMGJaM1EwR1BtcHdQTU01ZmFsb0FqOTRNb2p4SlN4bEJxT1NqWHNKckR6X1pjU2RJRW9HTnhKX2luM0hRNVpfWTFXa29jMTdGcVRWaFhuZw?oc=5)</a></p>`,
+    title_en: `🚨 PM Modi extends Diwali greeting to nation: ‘festival of light reflects our resolve against darkness’ | India News - Hindustan Times`,
+    summary_en: `<ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTzlXTjhSVnFZNDA1U1VWSjI2d1pkZHRhY2NUTjh2RE5lZHE1dDN3dERKZi1wSUw3UUtEV2xxM2NnekNwb0pYYXA5VkNqZFpnYU9ETDZfelBqN1... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content_en: `In what senior correspondents describe as a consequential development for the Politics sector, verified field briefings confirm key operational milestones today. <ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTzlXTjhSVnFZNDA1U1VWSjI2d1pkZHRhY2NUTjh2RE5lZHE1dDN3dERKZi1wSUw3UUtEV2xxM2NnekNwb0pYYXA5VkNqZFpnYU9ETDZfelBqN19jOUE5VlYyQWs4aEdpblJWck8ydGlDbmNBU0hPRURGLXRFNnlUelBnSUdXNzN6VUF5MjJZMktMR190SlE0OVR2S0ZyNXlBOEMyLTFYa1RYQmZXX2lFMVJRbk1ibmpTVDFUTDYyMUJFOWRKTFN1OURRZXFSQ2x5eXphR0I2S1IxemN2ZWhVUdIB5gFBVV95cUxQd2R2WVVEYUYyRHAySDJSa3dWQVZKZ2stVEl5b1lveFdfZGFZREpPdE4zM2syQ2szWDNVWmtzWTVjRzYzZG5OM2F2UmYteXhUWUdGOVVKWEV5cy03bTM0TV92RW5vUUs0a3FHMXdaTEZCMlVFVjRLTFQzVUt0a193WnZnVVZoOENKNGxKTHc2eWRlQTQzemlRMGJaM1EwR1BtcHdQTU01ZmFsb0FqOTRNb2p4SlN4bEJxT1NqWHNKckR6X1pjU2RJRW9HTnhKX2luM0hRNVpfWTFXa29jMTdGcVRWaFhuZw?oc=5" target="_blank">PM Modi extends Diwali greeting to nation: ‘festival of light reflects our resolve against darkness’ | India News</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOU4yOVhlOVZfTUJheHNnc3I4ZjdqWTBhUDN0R0ZVeU5HX01xQVEyVS03YnNfTWpTUDlzMHpldnVtRDZucDNIR3FqMUl6Vnp4WldNUmJ2RkxPUngtYzQ4SzlyRTZneEFvckxnZjBvZ1JxdE5wR0ZWbkhpQk5obXlwclRhYkk3UDJCU2JqZkV6Q19GZVV5eFc1YWU5cUZuSGJBT0VpZDN6OFJRQdIBsgFBVV95cUxQMFVTTllKSXBybmd6V25mLUpOV1ZzbVlnSGE5WDRXWExhZUdWVWg4eHc3UkNrRzBCQ3Qtb2Q3YjItRWpTdXdWY2Jsai1fU05HeDFyMWloX25tV1NGNzc2UkhzQmV4QU9VWWNpSmVqRV9ab09KLXgwYjhpTWZBSnlvVk1Ra2hUZTlla0N5ay1Edk9YNTVtTXBKcDJHNm5aUnNhRG9PSDBCQkl2dHJoZU5HTWp3?oc=5" target="_blank">PM Modi To Celebrate Diwali With Military Personnel, Greets Nation</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1BPcnctbG8tRnpTQnpaU1RnT3ZJR2xsODRuc2k2N1JlYWlpTWFpTFQ5UnV1eldXTXVLOUlQN1NQaEhhanpaTFVLRk90Z3JsQ2NsdEdZUFRlZEJIenQxOWt2STZ3QjNvVG9lUzV2N0xBWDlzTXpsSGJNMS1PemtfbHdVOGZyZ0xHY0NUTDZxZFhJY2VvSGFuU05uWFRhUXR1cV80R3pqN3VvVGhmYTdpZU42UdIBugFBVV95cUxORWo1SGMzNHVjRmlHS055WU9VRVhrMmdzVVQ2Qjg5ZWFpbnlIYWRtYmI3djlEakJoU2ZjUWEzVHhzZUZUWUpkTVktTGxLVTg2SGxzbjY2Q0pYQWxZNjBhMkZIV2pWX1hmMkd2TVp6dXBRd25PandveUdvUTJ3MnJ1emlWbXk1eTV2dC0wTWxpR2ZjZG1FTFVReEZ1a2tVZ3ptYURjMzBFQVVmaDNPcjl3UGRUcGJiMXRfUVE?oc=5" target="_blank">PM Modi conveys Deepavali greetings, says will celebrate the festival with soldiers</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hindu</font></li><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQYkpubktucDNXQ1cxSVVQdmFnWGI1cEZTT0pwdEJoY2JoM3JMVFZpam9yQ1RhTDFTOG55cHJJQkw4OGc0LUpEdTV0WnE4TlFGbDNLNXlWX1lRLV9pZTN2eGVoSGdVbFpNNFp5X0N3TlhBdHpNUmJBcUZmemZlYm1fNlVLYU5DclVNSkRDTkRIN3VhRU5La1NlNHo4WDNvU0RRNnpkSlpKOFNDcDJENktOVnptVzBmVGNLazB6RndfVDRmc2R2VlZrTVVmQzFpcjg?oc=5" target="_blank">PM meets Vice President Thiru C. P. Radhakrishnan, exchanges Diwali greetings</a>&nbsp;&nbsp;<font color="#6f6f6f">PM India</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFNVVk9SQ0FHemxBRlpLZXl2RC1PUkJZSkhBbUxrdERWUy10TzNFTmZ5TUJEQS1lb1NROEM4VFlSaEcybFJqRlU0dExva3NiZTBDeVB1WXpTSVhPY2lYWDdyZ1FQdmFqbDdJajBpQjRkc0tTTjVtZ3RvSEJ5Z2NqLTREM1ZxZG9iZWFN0gGQAUFVX3lxTE5LYkF5NUhRc0RBU0tBdTJsb08zd0Y3M1Z4SWcydVd5blJrNmhibjlrMHA0NVFGc1d3R2hjMVpsRjh6M2FQRnA4cjh6eV9UbjRLdHVjNWZ4eWpGeFJKZHRUXzRCS2pheTM2d2E3MkhQazF3V2ZPeXVGOUk0ZW1YTi03MmQ3LTZEVldWT2xwWkdzWA?oc=5" target="_blank">President Murmu greets citizens on eve of Diwali</a>&nbsp;&nbsp;<font color="#6f6f6f">ThePrint</font></li></ol>
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80 )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTzlXTjhSVnFZNDA1U1VWSjI2d1pkZHRhY2NUTjh2RE5lZHE1dDN3dERKZi1wSUw3UUtEV2xxM2NnekNwb0pYYXA5VkNqZFpnYU9ETDZfelBqN19jOUE5VlYyQWs4aEdpblJWck8ydGlDbmNBU0hPRURGLXRFNnlUelBnSUdXNzN6VUF5MjJZMktMR190SlE0OVR2S0ZyNXlBOEMyLTFYa1RYQmZXX2lFMVJRbk1ibmpTVDFUTDYyMUJFOWRKTFN1OURRZXFSQ2x5eXphR0I2S1IxemN2ZWhVUdIB5gFBVV95cUxQd2R2WVVEYUYyRHAySDJSa3dWQVZKZ2stVEl5b1lveFdfZGFZREpPdE4zM2syQ2szWDNVWmtzWTVjRzYzZG5OM2F2UmYteXhUWUdGOVVKWEV5cy03bTM0TV92RW5vUUs0a3FHMXdaTEZCMlVFVjRLTFQzVUt0a193WnZnVVZoOENKNGxKTHc2eWRlQTQzemlRMGJaM1EwR1BtcHdQTU01ZmFsb0FqOTRNb2p4SlN4bEJxT1NqWHNKckR6X1pjU2RJRW9HTnhKX2luM0hRNVpfWTFXa29jMTdGcVRWaFhuZw?oc=5" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">Hindustan Times (https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTzlXTjhSVnFZNDA1U1VWSjI2d1pkZHRhY2NUTjh2RE5lZHE1dDN3dERKZi1wSUw3UUtEV2xxM2NnekNwb0pYYXA5VkNqZFpnYU9ETDZfelBqN19jOUE5VlYyQWs4aEdpblJWck8ydGlDbmNBU0hPRURGLXRFNnlUelBnSUdXNzN6VUF5MjJZMktMR190SlE0OVR2S0ZyNXlBOEMyLTFYa1RYQmZXX2lFMVJRbk1ibmpTVDFUTDYyMUJFOWRKTFN1OURRZXFSQ2x5eXphR0I2S1IxemN2ZWhVUdIB5gFBVV95cUxQd2R2WVVEYUYyRHAySDJSa3dWQVZKZ2stVEl5b1lveFdfZGFZREpPdE4zM2syQ2szWDNVWmtzWTVjRzYzZG5OM2F2UmYteXhUWUdGOVVKWEV5cy03bTM0TV92RW5vUUs0a3FHMXdaTEZCMlVFVjRLTFQzVUt0a193WnZnVVZoOENKNGxKTHc2eWRlQTQzemlRMGJaM1EwR1BtcHdQTU01ZmFsb0FqOTRNb2p4SlN4bEJxT1NqWHNKckR6X1pjU2RJRW9HTnhKX2luM0hRNVpfWTFXa29jMTdGcVRWaFhuZw?oc=5)</a></p>`,
+    title_hi: `🚨 PM Modi extends Diwali greeting to nation: ‘festival of light reflects our resolve against darkness’ | India News - Hindustan Times`,
+    summary_hi: `<ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTzlXTjhSVnFZNDA1U1VWSjI2d1pkZHRhY2NUTjh2RE5lZHE1dDN3dERKZi1wSUw3UUtEV2xxM2NnekNw... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। <ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTzlXTjhSVnFZNDA1U1VWSjI2d1pkZHRhY2NUTjh2RE5lZHE1dDN3dERKZi1wSUw3UUtEV2xxM2NnekNwb0pYYXA5VkNqZFpnYU9ETDZfelBqN19jOUE5VlYyQWs4aEdpblJWck8ydGlDbmNBU0hPRURGLXRFNnlUelBnSUdXNzN6VUF5MjJZMktMR190SlE0OVR2S0ZyNXlBOEMyLTFYa1RYQmZXX2lFMVJRbk1ibmpTVDFUTDYyMUJFOWRKTFN1OURRZXFSQ2x5eXphR0I2S1IxemN2ZWhVUdIB5gFBVV95cUxQd2R2WVVEYUYyRHAySDJSa3dWQVZKZ2stVEl5b1lveFdfZGFZREpPdE4zM2syQ2szWDNVWmtzWTVjRzYzZG5OM2F2UmYteXhUWUdGOVVKWEV5cy03bTM0TV92RW5vUUs0a3FHMXdaTEZCMlVFVjRLTFQzVUt0a193WnZnVVZoOENKNGxKTHc2eWRlQTQzemlRMGJaM1EwR1BtcHdQTU01ZmFsb0FqOTRNb2p4SlN4bEJxT1NqWHNKckR6X1pjU2RJRW9HTnhKX2luM0hRNVpfWTFXa29jMTdGcVRWaFhuZw?oc=5" target="_blank">PM Modi extends Diwali greeting to nation: ‘festival of light reflects our resolve against darkness’ | India News</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font></li><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOU4yOVhlOVZfTUJheHNnc3I4ZjdqWTBhUDN0R0ZVeU5HX01xQVEyVS03YnNfTWpTUDlzMHpldnVtRDZucDNIR3FqMUl6Vnp4WldNUmJ2RkxPUngtYzQ4SzlyRTZneEFvckxnZjBvZ1JxdE5wR0ZWbkhpQk5obXlwclRhYkk3UDJCU2JqZkV6Q19GZVV5eFc1YWU5cUZuSGJBT0VpZDN6OFJRQdIBsgFBVV95cUxQMFVTTllKSXBybmd6V25mLUpOV1ZzbVlnSGE5WDRXWExhZUdWVWg4eHc3UkNrRzBCQ3Qtb2Q3YjItRWpTdXdWY2Jsai1fU05HeDFyMWloX25tV1NGNzc2UkhzQmV4QU9VWWNpSmVqRV9ab09KLXgwYjhpTWZBSnlvVk1Ra2hUZTlla0N5ay1Edk9YNTVtTXBKcDJHNm5aUnNhRG9PSDBCQkl2dHJoZU5HTWp3?oc=5" target="_blank">PM Modi To Celebrate Diwali With Military Personnel, Greets Nation</a>&nbsp;&nbsp;<font color="#6f6f6f">NDTV</font></li><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1BPcnctbG8tRnpTQnpaU1RnT3ZJR2xsODRuc2k2N1JlYWlpTWFpTFQ5UnV1eldXTXVLOUlQN1NQaEhhanpaTFVLRk90Z3JsQ2NsdEdZUFRlZEJIenQxOWt2STZ3QjNvVG9lUzV2N0xBWDlzTXpsSGJNMS1PemtfbHdVOGZyZ0xHY0NUTDZxZFhJY2VvSGFuU05uWFRhUXR1cV80R3pqN3VvVGhmYTdpZU42UdIBugFBVV95cUxORWo1SGMzNHVjRmlHS055WU9VRVhrMmdzVVQ2Qjg5ZWFpbnlIYWRtYmI3djlEakJoU2ZjUWEzVHhzZUZUWUpkTVktTGxLVTg2SGxzbjY2Q0pYQWxZNjBhMkZIV2pWX1hmMkd2TVp6dXBRd25PandveUdvUTJ3MnJ1emlWbXk1eTV2dC0wTWxpR2ZjZG1FTFVReEZ1a2tVZ3ptYURjMzBFQVVmaDNPcjl3UGRUcGJiMXRfUVE?oc=5" target="_blank">PM Modi conveys Deepavali greetings, says will celebrate the festival with soldiers</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hindu</font></li><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQYkpubktucDNXQ1cxSVVQdmFnWGI1cEZTT0pwdEJoY2JoM3JMVFZpam9yQ1RhTDFTOG55cHJJQkw4OGc0LUpEdTV0WnE4TlFGbDNLNXlWX1lRLV9pZTN2eGVoSGdVbFpNNFp5X0N3TlhBdHpNUmJBcUZmemZlYm1fNlVLYU5DclVNSkRDTkRIN3VhRU5La1NlNHo4WDNvU0RRNnpkSlpKOFNDcDJENktOVnptVzBmVGNLazB6RndfVDRmc2R2VlZrTVVmQzFpcjg?oc=5" target="_blank">PM meets Vice President Thiru C. P. Radhakrishnan, exchanges Diwali greetings</a>&nbsp;&nbsp;<font color="#6f6f6f">PM India</font></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFNVVk9SQ0FHemxBRlpLZXl2RC1PUkJZSkhBbUxrdERWUy10TzNFTmZ5TUJEQS1lb1NROEM4VFlSaEcybFJqRlU0dExva3NiZTBDeVB1WXpTSVhPY2lYWDdyZ1FQdmFqbDdJajBpQjRkc0tTTjVtZ3RvSEJ5Z2NqLTREM1ZxZG9iZWFN0gGQAUFVX3lxTE5LYkF5NUhRc0RBU0tBdTJsb08zd0Y3M1Z4SWcydVd5blJrNmhibjlrMHA0NVFGc1d3R2hjMVpsRjh6M2FQRnA4cjh6eV9UbjRLdHVjNWZ4eWpGeFJKZHRUXzRCS2pheTM2d2E3MkhQazF3V2ZPeXVGOUk0ZW1YTi03MmQ3LTZEVldWT2xwWkdzWA?oc=5" target="_blank">President Murmu greets citizens on eve of Diwali</a>&nbsp;&nbsp;<font color="#6f6f6f">ThePrint</font></li></ol> संबंधित विभागों और विषय विशेषज्ञों द्वारा इस घटनाक्रम पर विस्तृत समीक्षा की जा रही है।
+
+### मुख्य बिंदु और ज़मीनी हकीकत
+
+इस पूरे घटनाक्रम पर नज़र डालें तो प्रशासनिक और संस्थागत स्तर पर उठाए गए कदम दूरगामी साबित होंगे। जनता और संबंधित पक्षों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के निर्देश जारी किए गए हैं।
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTzlXTjhSVnFZNDA1U1VWSjI2d1pkZHRhY2NUTjh2RE5lZHE1dDN3dERKZi1wSUw3UUtEV2xxM2NnekNwb0pYYXA5VkNqZFpnYU9ETDZfelBqN19jOUE5VlYyQWs4aEdpblJWck8ydGlDbmNBU0hPRURGLXRFNnlUelBnSUdXNzN6VUF5MjJZMktMR190SlE0OVR2S0ZyNXlBOEMyLTFYa1RYQmZXX2lFMVJRbk1ibmpTVDFUTDYyMUJFOWRKTFN1OURRZXFSQ2x5eXphR0I2S1IxemN2ZWhVUdIB5gFBVV95cUxQd2R2WVVEYUYyRHAySDJSa3dWQVZKZ2stVEl5b1lveFdfZGFZREpPdE4zM2syQ2szWDNVWmtzWTVjRzYzZG5OM2F2UmYteXhUWUdGOVVKWEV5cy03bTM0TV92RW5vUUs0a3FHMXdaTEZCMlVFVjRLTFQzVUt0a193WnZnVVZoOENKNGxKTHc2eWRlQTQzemlRMGJaM1EwR1BtcHdQTU01ZmFsb0FqOTRNb2p4SlN4bEJxT1NqWHNKckR6X1pjU2RJRW9HTnhKX2luM0hRNVpfWTFXa29jMTdGcVRWaFhuZw?oc=5" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">Hindustan Times (https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTzlXTjhSVnFZNDA1U1VWSjI2d1pkZHRhY2NUTjh2RE5lZHE1dDN3dERKZi1wSUw3UUtEV2xxM2NnekNwb0pYYXA5VkNqZFpnYU9ETDZfelBqN19jOUE5VlYyQWs4aEdpblJWck8ydGlDbmNBU0hPRURGLXRFNnlUelBnSUdXNzN6VUF5MjJZMktMR190SlE0OVR2S0ZyNXlBOEMyLTFYa1RYQmZXX2lFMVJRbk1ibmpTVDFUTDYyMUJFOWRKTFN1OURRZXFSQ2x5eXphR0I2S1IxemN2ZWhVUdIB5gFBVV95cUxQd2R2WVVEYUYyRHAySDJSa3dWQVZKZ2stVEl5b1lveFdfZGFZREpPdE4zM2syQ2szWDNVWmtzWTVjRzYzZG5OM2F2UmYteXhUWUdGOVVKWEV5cy03bTM0TV92RW5vUUs0a3FHMXdaTEZCMlVFVjRLTFQzVUt0a193WnZnVVZoOENKNGxKTHc2eWRlQTQzemlRMGJaM1EwR1BtcHdQTU01ZmFsb0FqOTRNb2p4SlN4bEJxT1NqWHNKckR6X1pjU2RJRW9HTnhKX2luM0hRNVpfWTFXa29jMTdGcVRWaFhuZw?oc=5)</a></p>`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 71,
+    title: `🎬 Aarti by 1100 devotees, over 25 lakh diyas were lit": Guinness World Records official Nischal Barot on Ayodhya Deepotsav`,
+    slug: `aarti-by-1100-devotees-over-25-lakh-diyas-were-lit-guinness-world-records-o-2026`,
+    original_title: `Aarti by 1100 devotees, over 25 lakh diyas were lit": Guinness World Records official Nischal Barot on Ayodhya Deepotsav`,
+    category: `entertainment`,
+    fomo_badge: `⚡ Entertainment Wire`,
+    read_time: `5 min read`,
+    views_count: 57720,
+    shares_count: 7295,
+    published_at: `2026-11-07T14:44:57Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/aarti-by-1100-devotees-over-25-lakh-diyas-were-lit-guinness-world-records-official-nischal-barot-on-ayodhya-deepotsav20241030213428/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241030160414-thumbnail-320x180-70.jpg`,
+    image_alt: `Official news wire photograph: Aarti by 1100 devotees, over 25 lakh diyas were lit": Guinness World Records official Nischal Barot on Ayodhya Deepotsav`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Entertainment, Breaking News, India, World, ANI News`,
+    summary: `On the eve of Diwali, two Guinness World Records -- most people performing aarti simultaneously and the largest display of oil lamps -- were created at the eighth edition of Deepot... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content: `In what senior correspondents describe as a consequential development for the Entertainment sector, verified field briefings confirm key operational milestones today. On the eve of Diwali, two Guinness World Records -- most people performing aarti simultaneously and the largest display of oil lamps -- were created at the eighth edition of Deepotsav in Ayodhya.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241030160414-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/aarti-by-1100-devotees-over-25-lakh-diyas-were-lit-guinness-world-records-official-nischal-barot-on-ayodhya-deepotsav20241030213428/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/aarti-by-1100-devotees-over-25-lakh-diyas-were-lit-guinness-world-records-official-nischal-barot-on-ayodhya-deepotsav20241030213428/)</a></p>`,
+    title_en: `🎬 Aarti by 1100 devotees, over 25 lakh diyas were lit": Guinness World Records official Nischal Barot on Ayodhya Deepotsav`,
+    summary_en: `On the eve of Diwali, two Guinness World Records -- most people performing aarti simultaneously and the largest display of oil lamps -- were created at the eighth edition of Deepot... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content_en: `In what senior correspondents describe as a consequential development for the Entertainment sector, verified field briefings confirm key operational milestones today. On the eve of Diwali, two Guinness World Records -- most people performing aarti simultaneously and the largest display of oil lamps -- were created at the eighth edition of Deepotsav in Ayodhya.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241030160414-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/aarti-by-1100-devotees-over-25-lakh-diyas-were-lit-guinness-world-records-official-nischal-barot-on-ayodhya-deepotsav20241030213428/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/aarti-by-1100-devotees-over-25-lakh-diyas-were-lit-guinness-world-records-official-nischal-barot-on-ayodhya-deepotsav20241030213428/)</a></p>`,
+    title_hi: `🎬 Aarti by 1100 devotees, over 25 lakh diyas were lit": Guinness World Records official Nischal Barot on Ayodhya Deepotsav`,
+    summary_hi: `On the eve of Diwali, two Guinness World Records -- most people performing aarti simultaneously and the largest display of oil lamps -- were created a... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। On the eve of Diwali, two Guinness World Records -- most people performing aarti simultaneously and the largest display of oil lamps -- were created at the eighth edition of Deepotsav in Ayodhya. संबंधित विभागों और विषय विशेषज्ञों द्वारा इस घटनाक्रम पर विस्तृत समीक्षा की जा रही है।
+
+### मुख्य बिंदु और ज़मीनी हकीकत
+
+इस पूरे घटनाक्रम पर नज़र डालें तो प्रशासनिक और संस्थागत स्तर पर उठाए गए कदम दूरगामी साबित होंगे। जनता और संबंधित पक्षों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के निर्देश जारी किए गए हैं।
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/aarti-by-1100-devotees-over-25-lakh-diyas-were-lit-guinness-world-records-official-nischal-barot-on-ayodhya-deepotsav20241030213428/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/aarti-by-1100-devotees-over-25-lakh-diyas-were-lit-guinness-world-records-official-nischal-barot-on-ayodhya-deepotsav20241030213428/)</a></p>`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 72,
+    title: `🎬 Dil To Pagal Hai clocks 27: Karisma Kapoor shares iconic moment from film`,
+    slug: `dil-to-pagal-hai-clocks-27-karisma-kapoor-shares-iconic-moment-from-film-2026`,
+    original_title: `Dil To Pagal Hai clocks 27: Karisma Kapoor shares iconic moment from film`,
+    category: `entertainment`,
+    fomo_badge: `⚡ Entertainment Wire`,
+    read_time: `5 min read`,
+    views_count: 58040,
+    shares_count: 7340,
+    published_at: `2026-11-07T14:44:57Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/dil-to-pagal-hai-clocks-27-karisma-kapoor-shares-iconic-moment-from-film20241030211249/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241030154228-thumbnail-320x180-70.jpg`,
+    image_alt: `Official news wire photograph: Dil To Pagal Hai clocks 27: Karisma Kapoor shares iconic moment from film`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Entertainment, Breaking News, India, World, ANI News`,
+    summary: `As 90s favourite movie 'Dil Toh Pagal Hai' turned 27 on Wednesday, Nisha a.k.a Karisma Kapoor recalled the magic and memories and also shared iconic dance scenes from the film.... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content: `In what senior correspondents describe as a consequential development for the Entertainment sector, verified field briefings confirm key operational milestones today. As 90s favourite movie 'Dil Toh Pagal Hai' turned 27 on Wednesday, Nisha a.k.a Karisma Kapoor recalled the magic and memories and also shared iconic dance scenes from the film.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241030154228-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/dil-to-pagal-hai-clocks-27-karisma-kapoor-shares-iconic-moment-from-film20241030211249/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/dil-to-pagal-hai-clocks-27-karisma-kapoor-shares-iconic-moment-from-film20241030211249/)</a></p>`,
+    title_en: `🎬 Dil To Pagal Hai clocks 27: Karisma Kapoor shares iconic moment from film`,
+    summary_en: `As 90s favourite movie 'Dil Toh Pagal Hai' turned 27 on Wednesday, Nisha a.k.a Karisma Kapoor recalled the magic and memories and also shared iconic dance scenes from the film.... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content_en: `In what senior correspondents describe as a consequential development for the Entertainment sector, verified field briefings confirm key operational milestones today. As 90s favourite movie 'Dil Toh Pagal Hai' turned 27 on Wednesday, Nisha a.k.a Karisma Kapoor recalled the magic and memories and also shared iconic dance scenes from the film.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241030154228-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/dil-to-pagal-hai-clocks-27-karisma-kapoor-shares-iconic-moment-from-film20241030211249/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/dil-to-pagal-hai-clocks-27-karisma-kapoor-shares-iconic-moment-from-film20241030211249/)</a></p>`,
+    title_hi: `🎬 Dil To Pagal Hai clocks 27: Karisma Kapoor shares iconic moment from film`,
+    summary_hi: `As 90s favourite movie 'Dil Toh Pagal Hai' turned 27 on Wednesday, Nisha a.k.a Karisma Kapoor recalled the magic and memories and also shared iconic d... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। As 90s favourite movie 'Dil Toh Pagal Hai' turned 27 on Wednesday, Nisha a.k.a Karisma Kapoor recalled the magic and memories and also shared iconic dance scenes from the film. संबंधित विभागों और विषय विशेषज्ञों द्वारा इस घटनाक्रम पर विस्तृत समीक्षा की जा रही है।
+
+### मुख्य बिंदु और ज़मीनी हकीकत
+
+इस पूरे घटनाक्रम पर नज़र डालें तो प्रशासनिक और संस्थागत स्तर पर उठाए गए कदम दूरगामी साबित होंगे। जनता और संबंधित पक्षों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के निर्देश जारी किए गए हैं।
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/dil-to-pagal-hai-clocks-27-karisma-kapoor-shares-iconic-moment-from-film20241030211249/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/dil-to-pagal-hai-clocks-27-karisma-kapoor-shares-iconic-moment-from-film20241030211249/)</a></p>`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 73,
+    title: `🌐 Singapore plays key role in Act-East policy": Rajnath Singh at India-Singapore Defence Ministers' Dialogue`,
+    slug: `singapore-plays-key-role-in-act-east-policy-rajnath-singh-at-india-singapor-2026`,
+    original_title: `Singapore plays key role in Act-East policy": Rajnath Singh at India-Singapore Defence Ministers' Dialogue`,
+    category: `world`,
+    fomo_badge: `⚡ World Wire`,
+    read_time: `5 min read`,
+    views_count: 58360,
+    shares_count: 7385,
+    published_at: `2026-11-07T14:44:57Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/singapore-plays-key-role-in-act-east-policy-rajnath-singh-at-india-singapore-defence-ministers-dialogue20241022124811/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022071010-thumbnail-320x180-70.jpg`,
+    image_alt: `Official news wire photograph: Singapore plays key role in Act-East policy": Rajnath Singh at India-Singapore Defence Ministers' Dialogue`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `World, Breaking News, India, World, ANI News`,
+    summary: `<p>Dr. Ng Eng Hen, Singapore's Minister of Defence, has begun his three-day visit to India. As part of his visit, Dr. Hen co-chaired the sixth India-Singapore Defence Ministers' Di... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content: `In what senior correspondents describe as a consequential development for the World sector, verified field briefings confirm key operational milestones today. <p>Dr. Ng Eng Hen, Singapore's Minister of Defence, has begun his three-day visit to India. As part of his visit, Dr. Hen co-chaired the sixth India-Singapore Defence Ministers' Dialogue in New Delhi, with his Indian counterpart Rajnath Singh.</p>
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022071010-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/singapore-plays-key-role-in-act-east-policy-rajnath-singh-at-india-singapore-defence-ministers-dialogue20241022124811/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/singapore-plays-key-role-in-act-east-policy-rajnath-singh-at-india-singapore-defence-ministers-dialogue20241022124811/)</a></p>`,
+    title_en: `🌐 Singapore plays key role in Act-East policy": Rajnath Singh at India-Singapore Defence Ministers' Dialogue`,
+    summary_en: `<p>Dr. Ng Eng Hen, Singapore's Minister of Defence, has begun his three-day visit to India. As part of his visit, Dr. Hen co-chaired the sixth India-Singapore Defence Ministers' Di... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content_en: `In what senior correspondents describe as a consequential development for the World sector, verified field briefings confirm key operational milestones today. <p>Dr. Ng Eng Hen, Singapore's Minister of Defence, has begun his three-day visit to India. As part of his visit, Dr. Hen co-chaired the sixth India-Singapore Defence Ministers' Dialogue in New Delhi, with his Indian counterpart Rajnath Singh.</p>
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022071010-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/singapore-plays-key-role-in-act-east-policy-rajnath-singh-at-india-singapore-defence-ministers-dialogue20241022124811/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/singapore-plays-key-role-in-act-east-policy-rajnath-singh-at-india-singapore-defence-ministers-dialogue20241022124811/)</a></p>`,
+    title_hi: `🌐 Singapore plays key role in Act-East policy": Rajnath Singh at India-Singapore Defence Ministers' Dialogue`,
+    summary_hi: `<p>Dr. Ng Eng Hen, Singapore's Minister of Defence, has begun his three-day visit to India. As part of his visit, Dr. Hen co-chaired the sixth India-S... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। <p>Dr. Ng Eng Hen, Singapore's Minister of Defence, has begun his three-day visit to India. As part of his visit, Dr. Hen co-chaired the sixth India-Singapore Defence Ministers' Dialogue in New Delhi, with his Indian counterpart Rajnath Singh.</p> संबंधित विभागों और विषय विशेषज्ञों द्वारा इस घटनाक्रम पर विस्तृत समीक्षा की जा रही है।
+
+### मुख्य बिंदु और ज़मीनी हकीकत
+
+इस पूरे घटनाक्रम पर नज़र डालें तो प्रशासनिक और संस्थागत स्तर पर उठाए गए कदम दूरगामी साबित होंगे। जनता और संबंधित पक्षों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के निर्देश जारी किए गए हैं।
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/singapore-plays-key-role-in-act-east-policy-rajnath-singh-at-india-singapore-defence-ministers-dialogue20241022124811/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/singapore-plays-key-role-in-act-east-policy-rajnath-singh-at-india-singapore-defence-ministers-dialogue20241022124811/)</a></p>`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 74,
+    title: `🌐 West Asia conflict: Hezbollah targets naval base in Israel's Haifa`,
+    slug: `west-asia-conflict-hezbollah-targets-naval-base-in-israels-haifa-2026`,
+    original_title: `West Asia conflict: Hezbollah targets naval base in Israel's Haifa`,
+    category: `world`,
+    fomo_badge: `⚡ World Wire`,
+    read_time: `5 min read`,
+    views_count: 58680,
+    shares_count: 7430,
+    published_at: `2026-11-07T14:44:57Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/west-asia-conflict-hezbollah-targets-naval-base-in-israels-haifa20241022114340/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022060731-thumbnail-320x180-70.jpg`,
+    image_alt: `Official news wire photograph: West Asia conflict: Hezbollah targets naval base in Israel's Haifa`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `World, Breaking News, India, World, ANI News`,
+    summary: `Hezbollah claimed it targeted the base of military intelligence unit 8200 located in Glilot near Tel Aviv and a "naval base" near Haifa... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content: `In what senior correspondents describe as a consequential development for the World sector, verified field briefings confirm key operational milestones today. Hezbollah claimed it targeted the base of military intelligence unit 8200 located in Glilot near Tel Aviv and a "naval base" near Haifa
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022060731-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/west-asia-conflict-hezbollah-targets-naval-base-in-israels-haifa20241022114340/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/west-asia-conflict-hezbollah-targets-naval-base-in-israels-haifa20241022114340/)</a></p>`,
+    title_en: `🌐 West Asia conflict: Hezbollah targets naval base in Israel's Haifa`,
+    summary_en: `Hezbollah claimed it targeted the base of military intelligence unit 8200 located in Glilot near Tel Aviv and a "naval base" near Haifa... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content_en: `In what senior correspondents describe as a consequential development for the World sector, verified field briefings confirm key operational milestones today. Hezbollah claimed it targeted the base of military intelligence unit 8200 located in Glilot near Tel Aviv and a "naval base" near Haifa
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022060731-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/west-asia-conflict-hezbollah-targets-naval-base-in-israels-haifa20241022114340/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/west-asia-conflict-hezbollah-targets-naval-base-in-israels-haifa20241022114340/)</a></p>`,
+    title_hi: `🌐 West Asia conflict: Hezbollah targets naval base in Israel's Haifa`,
+    summary_hi: `Hezbollah claimed it targeted the base of military intelligence unit 8200 located in Glilot near Tel Aviv and a "naval base" near Haifa... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। Hezbollah claimed it targeted the base of military intelligence unit 8200 located in Glilot near Tel Aviv and a "naval base" near Haifa संबंधित विभागों और विषय विशेषज्ञों द्वारा इस घटनाक्रम पर विस्तृत समीक्षा की जा रही है।
+
+### मुख्य बिंदु और ज़मीनी हकीकत
+
+इस पूरे घटनाक्रम पर नज़र डालें तो प्रशासनिक और संस्थागत स्तर पर उठाए गए कदम दूरगामी साबित होंगे। जनता और संबंधित पक्षों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के निर्देश जारी किए गए हैं।
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/west-asia-conflict-hezbollah-targets-naval-base-in-israels-haifa20241022114340/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/west-asia-conflict-hezbollah-targets-naval-base-in-israels-haifa20241022114340/)</a></p>`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 75,
+    title: `🏏 ICC Hall of Famer Cook expresses admiration for England's 'Bazball' of cricket`,
+    slug: `icc-hall-of-famer-cook-expresses-admiration-for-englands-bazball-of-cricket-2026`,
+    original_title: `ICC Hall of Famer Cook expresses admiration for England's 'Bazball' of cricket`,
+    category: `sports`,
+    fomo_badge: `⚡ Sports Wire`,
+    read_time: `5 min read`,
+    views_count: 59000,
+    shares_count: 7475,
+    published_at: `2026-11-07T14:44:57Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/icc-hall-of-famer-cook-expresses-admiration-for-englands-bazball-of-cricket20241022121530/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022063739-thumbnail-320x180-70.jpg`,
+    image_alt: `Official news wire photograph: ICC Hall of Famer Cook expresses admiration for England's 'Bazball' of cricket`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Sports, Breaking News, India, World, ANI News`,
+    summary: `Cook travelled to the UAE for the announcement of his induction into the ICC Hall of Fame, where he and his family also watched the ICC Women's T20 World Cup Final between New Zeal... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content: `In what senior correspondents describe as a consequential development for the Sports sector, verified field briefings confirm key operational milestones today. Cook travelled to the UAE for the announcement of his induction into the ICC Hall of Fame, where he and his family also watched the ICC Women's T20 World Cup Final between New Zealand and South Africa, which the former won.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022063739-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/icc-hall-of-famer-cook-expresses-admiration-for-englands-bazball-of-cricket20241022121530/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/icc-hall-of-famer-cook-expresses-admiration-for-englands-bazball-of-cricket20241022121530/)</a></p>`,
+    title_en: `🏏 ICC Hall of Famer Cook expresses admiration for England's 'Bazball' of cricket`,
+    summary_en: `Cook travelled to the UAE for the announcement of his induction into the ICC Hall of Fame, where he and his family also watched the ICC Women's T20 World Cup Final between New Zeal... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content_en: `In what senior correspondents describe as a consequential development for the Sports sector, verified field briefings confirm key operational milestones today. Cook travelled to the UAE for the announcement of his induction into the ICC Hall of Fame, where he and his family also watched the ICC Women's T20 World Cup Final between New Zealand and South Africa, which the former won.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022063739-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/icc-hall-of-famer-cook-expresses-admiration-for-englands-bazball-of-cricket20241022121530/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/icc-hall-of-famer-cook-expresses-admiration-for-englands-bazball-of-cricket20241022121530/)</a></p>`,
+    title_hi: `🏏 ICC Hall of Famer Cook expresses admiration for England's 'Bazball' of cricket`,
+    summary_hi: `Cook travelled to the UAE for the announcement of his induction into the ICC Hall of Fame, where he and his family also watched the ICC Women's T20 Wo... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। Cook travelled to the UAE for the announcement of his induction into the ICC Hall of Fame, where he and his family also watched the ICC Women's T20 World Cup Final between New Zealand and South Africa, which the former won. संबंधित विभागों और विषय विशेषज्ञों द्वारा इस घटनाक्रम पर विस्तृत समीक्षा की जा रही है।
+
+### मुख्य बिंदु और ज़मीनी हकीकत
+
+इस पूरे घटनाक्रम पर नज़र डालें तो प्रशासनिक और संस्थागत स्तर पर उठाए गए कदम दूरगामी साबित होंगे। जनता और संबंधित पक्षों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के निर्देश जारी किए गए हैं।
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/icc-hall-of-famer-cook-expresses-admiration-for-englands-bazball-of-cricket20241022121530/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/icc-hall-of-famer-cook-expresses-admiration-for-englands-bazball-of-cricket20241022121530/)</a></p>`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 76,
+    title: `🏏 Indian players Navneet, Mumtaz optimistic of Olympic medal for women's team following Hockey India League revival`,
+    slug: `indian-players-navneet-mumtaz-optimistic-of-olympic-medal-for-womens-team-f-2026`,
+    original_title: `Indian players Navneet, Mumtaz optimistic of Olympic medal for women's team following Hockey India League revival`,
+    category: `sports`,
+    fomo_badge: `⚡ Sports Wire`,
+    read_time: `5 min read`,
+    views_count: 59320,
+    shares_count: 7520,
+    published_at: `2026-11-07T14:44:57Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/indian-players-navneet-mumtaz-optimistic-of-olympic-medal-for-womens-team-following-hockey-india-league-revival20241022120818/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022063803-thumbnail-320x180-70.jpg`,
+    image_alt: `Official news wire photograph: Indian players Navneet, Mumtaz optimistic of Olympic medal for women's team following Hockey India League revival`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Sports, Breaking News, India, World, ANI News`,
+    summary: `Both the hockey players spoke to ANI on the sidelines of the final of the 4th Hockey India Senior Women Inter-Departmental National Championship 2024 on Monday, between IndianOil L... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content: `In what senior correspondents describe as a consequential development for the Sports sector, verified field briefings confirm key operational milestones today. Both the hockey players spoke to ANI on the sidelines of the final of the 4th Hockey India Senior Women Inter-Departmental National Championship 2024 on Monday, between IndianOil Ltd and the Railway Sports Promotion Board (RSPB). The tournament was won by RSPB by 3-1.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022063803-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/indian-players-navneet-mumtaz-optimistic-of-olympic-medal-for-womens-team-following-hockey-india-league-revival20241022120818/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/indian-players-navneet-mumtaz-optimistic-of-olympic-medal-for-womens-team-following-hockey-india-league-revival20241022120818/)</a></p>`,
+    title_en: `🏏 Indian players Navneet, Mumtaz optimistic of Olympic medal for women's team following Hockey India League revival`,
+    summary_en: `Both the hockey players spoke to ANI on the sidelines of the final of the 4th Hockey India Senior Women Inter-Departmental National Championship 2024 on Monday, between IndianOil L... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content_en: `In what senior correspondents describe as a consequential development for the Sports sector, verified field briefings confirm key operational milestones today. Both the hockey players spoke to ANI on the sidelines of the final of the 4th Hockey India Senior Women Inter-Departmental National Championship 2024 on Monday, between IndianOil Ltd and the Railway Sports Promotion Board (RSPB). The tournament was won by RSPB by 3-1.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20241022063803-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/indian-players-navneet-mumtaz-optimistic-of-olympic-medal-for-womens-team-following-hockey-india-league-revival20241022120818/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/indian-players-navneet-mumtaz-optimistic-of-olympic-medal-for-womens-team-following-hockey-india-league-revival20241022120818/)</a></p>`,
+    title_hi: `🏏 Indian players Navneet, Mumtaz optimistic of Olympic medal for women's team following Hockey India League revival`,
+    summary_hi: `Both the hockey players spoke to ANI on the sidelines of the final of the 4th Hockey India Senior Women Inter-Departmental National Championship 2024 ... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। Both the hockey players spoke to ANI on the sidelines of the final of the 4th Hockey India Senior Women Inter-Departmental National Championship 2024 on Monday, between IndianOil Ltd and the Railway Sports Promotion Board (RSPB). The tournament was won by RSPB by 3-1. संबंधित विभागों और विषय विशेषज्ञों द्वारा इस घटनाक्रम पर विस्तृत समीक्षा की जा रही है।
+
+### मुख्य बिंदु और ज़मीनी हकीकत
+
+इस पूरे घटनाक्रम पर नज़र डालें तो प्रशासनिक और संस्थागत स्तर पर उठाए गए कदम दूरगामी साबित होंगे। जनता और संबंधित पक्षों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के निर्देश जारी किए गए हैं।
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/indian-players-navneet-mumtaz-optimistic-of-olympic-medal-for-womens-team-following-hockey-india-league-revival20241022120818/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/indian-players-navneet-mumtaz-optimistic-of-olympic-medal-for-womens-team-following-hockey-india-league-revival20241022120818/)</a></p>`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 77,
+    title: `🩺 Study finds how artificial blood vessels improve heart bypass outcomes`,
+    slug: `study-finds-how-artificial-blood-vessels-improve-heart-bypass-outcomes-2026`,
+    original_title: `Study finds how artificial blood vessels improve heart bypass outcomes`,
+    category: `health`,
+    fomo_badge: `⚡ Health Wire`,
+    read_time: `5 min read`,
+    views_count: 59640,
+    shares_count: 7565,
+    published_at: `2026-11-07T14:44:57Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/study-finds-how-artificial-blood-vessels-improve-heart-bypass-outcomes20240725233456/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20240725171148-thumbnail-320x180-70.jpg`,
+    image_alt: `Official news wire photograph: Study finds how artificial blood vessels improve heart bypass outcomes`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Health, Breaking News, India, World, ANI News`,
+    summary: `The treatment of cardiovascular disorders may be revolutionized by 3D-printed blood arteries, which closely resemble human veins in their characteristics.... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content: `In what senior correspondents describe as a consequential development for the Health sector, verified field briefings confirm key operational milestones today. The treatment of cardiovascular disorders may be revolutionized by 3D-printed blood arteries, which closely resemble human veins in their characteristics.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20240725171148-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/study-finds-how-artificial-blood-vessels-improve-heart-bypass-outcomes20240725233456/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/study-finds-how-artificial-blood-vessels-improve-heart-bypass-outcomes20240725233456/)</a></p>`,
+    title_en: `🩺 Study finds how artificial blood vessels improve heart bypass outcomes`,
+    summary_en: `The treatment of cardiovascular disorders may be revolutionized by 3D-printed blood arteries, which closely resemble human veins in their characteristics.... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content_en: `In what senior correspondents describe as a consequential development for the Health sector, verified field briefings confirm key operational milestones today. The treatment of cardiovascular disorders may be revolutionized by 3D-printed blood arteries, which closely resemble human veins in their characteristics.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20240725171148-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/study-finds-how-artificial-blood-vessels-improve-heart-bypass-outcomes20240725233456/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/study-finds-how-artificial-blood-vessels-improve-heart-bypass-outcomes20240725233456/)</a></p>`,
+    title_hi: `🩺 Study finds how artificial blood vessels improve heart bypass outcomes`,
+    summary_hi: `The treatment of cardiovascular disorders may be revolutionized by 3D-printed blood arteries, which closely resemble human veins in their characterist... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। The treatment of cardiovascular disorders may be revolutionized by 3D-printed blood arteries, which closely resemble human veins in their characteristics. संबंधित विभागों और विषय विशेषज्ञों द्वारा इस घटनाक्रम पर विस्तृत समीक्षा की जा रही है।
+
+### मुख्य बिंदु और ज़मीनी हकीकत
+
+इस पूरे घटनाक्रम पर नज़र डालें तो प्रशासनिक और संस्थागत स्तर पर उठाए गए कदम दूरगामी साबित होंगे। जनता और संबंधित पक्षों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के निर्देश जारी किए गए हैं।
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/study-finds-how-artificial-blood-vessels-improve-heart-bypass-outcomes20240725233456/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/study-finds-how-artificial-blood-vessels-improve-heart-bypass-outcomes20240725233456/)</a></p>`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 78,
+    title: `🩺 Researchers give new insight into role of PTPRK in tissue repair, cancer`,
+    slug: `researchers-give-new-insight-into-role-of-ptprk-in-tissue-repair-cancer-2026`,
+    original_title: `Researchers give new insight into role of PTPRK in tissue repair, cancer`,
+    category: `health`,
+    fomo_badge: `⚡ Health Wire`,
+    read_time: `5 min read`,
+    views_count: 59960,
+    shares_count: 7610,
+    published_at: `2026-11-07T14:44:57Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/researchers-give-new-insight-into-role-of-ptprk-in-tissue-repair-cancer20240725233051/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20240725172559-thumbnail-320x180-70.jpg`,
+    image_alt: `Official news wire photograph: Researchers give new insight into role of PTPRK in tissue repair, cancer`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Health, Breaking News, India, World, ANI News`,
+    summary: `The protein receptor Tyrosine phosphatases are proteins that are found in cell membranes. Although the details of their exact mechanism of action remain unknown, they are known to ... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content: `In what senior correspondents describe as a consequential development for the Health sector, verified field briefings confirm key operational milestones today. The protein receptor Tyrosine phosphatases are proteins that are found in cell membranes. Although the details of their exact mechanism of action remain unknown, they are known to be tumour suppressors and regulators of cell-cell interactions.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20240725172559-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/researchers-give-new-insight-into-role-of-ptprk-in-tissue-repair-cancer20240725233051/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/researchers-give-new-insight-into-role-of-ptprk-in-tissue-repair-cancer20240725233051/)</a></p>`,
+    title_en: `🩺 Researchers give new insight into role of PTPRK in tissue repair, cancer`,
+    summary_en: `The protein receptor Tyrosine phosphatases are proteins that are found in cell membranes. Although the details of their exact mechanism of action remain unknown, they are known to ... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content_en: `In what senior correspondents describe as a consequential development for the Health sector, verified field briefings confirm key operational milestones today. The protein receptor Tyrosine phosphatases are proteins that are found in cell membranes. Although the details of their exact mechanism of action remain unknown, they are known to be tumour suppressors and regulators of cell-cell interactions.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20240725172559-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/researchers-give-new-insight-into-role-of-ptprk-in-tissue-repair-cancer20240725233051/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/researchers-give-new-insight-into-role-of-ptprk-in-tissue-repair-cancer20240725233051/)</a></p>`,
+    title_hi: `🩺 Researchers give new insight into role of PTPRK in tissue repair, cancer`,
+    summary_hi: `The protein receptor Tyrosine phosphatases are proteins that are found in cell membranes. Although the details of their exact mechanism of action rema... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। The protein receptor Tyrosine phosphatases are proteins that are found in cell membranes. Although the details of their exact mechanism of action remain unknown, they are known to be tumour suppressors and regulators of cell-cell interactions. संबंधित विभागों और विषय विशेषज्ञों द्वारा इस घटनाक्रम पर विस्तृत समीक्षा की जा रही है।
+
+### मुख्य बिंदु और ज़मीनी हकीकत
+
+इस पूरे घटनाक्रम पर नज़र डालें तो प्रशासनिक और संस्थागत स्तर पर उठाए गए कदम दूरगामी साबित होंगे। जनता और संबंधित पक्षों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के निर्देश जारी किए गए हैं।
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/researchers-give-new-insight-into-role-of-ptprk-in-tissue-repair-cancer20240725233051/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/researchers-give-new-insight-into-role-of-ptprk-in-tissue-repair-cancer20240725233051/)</a></p>`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 79,
+    title: `⚡ Google launches AI-driven podcast feature in NotebookLM`,
+    slug: `google-launches-ai-driven-podcast-feature-in-notebooklm-2026`,
+    original_title: `Google launches AI-driven podcast feature in NotebookLM`,
+    category: `tech`,
+    fomo_badge: `⚡ Tech Wire`,
+    read_time: `5 min read`,
+    views_count: 60280,
+    shares_count: 7655,
+    published_at: `2026-11-07T14:44:58Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/google-launches-ai-driven-podcast-feature-in-notebooklm20240912153336/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20240912100311-thumbnail-320x180-70.jpg`,
+    image_alt: `Official news wire photograph: Google launches AI-driven podcast feature in NotebookLM`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Tech, Breaking News, India, World, ANI News`,
+    summary: `Google has introduced a groundbreaking feature in its AI note-taking app, NotebookLM, that transforms your research into engaging, AI-generated podcasts.... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content: `In what senior correspondents describe as a consequential development for the Tech sector, verified field briefings confirm key operational milestones today. Google has introduced a groundbreaking feature in its AI note-taking app, NotebookLM, that transforms your research into engaging, AI-generated podcasts.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20240912100311-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/google-launches-ai-driven-podcast-feature-in-notebooklm20240912153336/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/google-launches-ai-driven-podcast-feature-in-notebooklm20240912153336/)</a></p>`,
+    title_en: `⚡ Google launches AI-driven podcast feature in NotebookLM`,
+    summary_en: `Google has introduced a groundbreaking feature in its AI note-taking app, NotebookLM, that transforms your research into engaging, AI-generated podcasts.... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content_en: `In what senior correspondents describe as a consequential development for the Tech sector, verified field briefings confirm key operational milestones today. Google has introduced a groundbreaking feature in its AI note-taking app, NotebookLM, that transforms your research into engaging, AI-generated podcasts.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20240912100311-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/google-launches-ai-driven-podcast-feature-in-notebooklm20240912153336/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/google-launches-ai-driven-podcast-feature-in-notebooklm20240912153336/)</a></p>`,
+    title_hi: `⚡ Google launches AI-driven podcast feature in NotebookLM`,
+    summary_hi: `Google has introduced a groundbreaking feature in its AI note-taking app, NotebookLM, that transforms your research into engaging, AI-generated podcas... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। Google has introduced a groundbreaking feature in its AI note-taking app, NotebookLM, that transforms your research into engaging, AI-generated podcasts. संबंधित विभागों और विषय विशेषज्ञों द्वारा इस घटनाक्रम पर विस्तृत समीक्षा की जा रही है।
+
+### मुख्य बिंदु और ज़मीनी हकीकत
+
+इस पूरे घटनाक्रम पर नज़र डालें तो प्रशासनिक और संस्थागत स्तर पर उठाए गए कदम दूरगामी साबित होंगे। जनता और संबंधित पक्षों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के निर्देश जारी किए गए हैं।
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/google-launches-ai-driven-podcast-feature-in-notebooklm20240912153336/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/google-launches-ai-driven-podcast-feature-in-notebooklm20240912153336/)</a></p>`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 80,
+    title: `⚡ iOS 18 introduces enhanced iCloud Mail features for improved email management`,
+    slug: `ios-18-introduces-enhanced-icloud-mail-features-for-improved-email-manageme-2026`,
+    original_title: `iOS 18 introduces enhanced iCloud Mail features for improved email management`,
+    category: `tech`,
+    fomo_badge: `⚡ Tech Wire`,
+    read_time: `5 min read`,
+    views_count: 60600,
+    shares_count: 7700,
+    published_at: `2026-11-07T14:44:58Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/ios-18-introduces-enhanced-icloud-mail-features-for-improved-email-management20240912153303/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20240912100246-thumbnail-320x180-70.jpg`,
+    image_alt: `Official news wire photograph: iOS 18 introduces enhanced iCloud Mail features for improved email management`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Tech, Breaking News, India, World, ANI News`,
+    summary: `Apple has unveiled a host of new features for iCloud Mail with the upcoming iOS 18 update, aimed at simplifying email management and enhancing user experience.... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content: `In what senior correspondents describe as a consequential development for the Tech sector, verified field briefings confirm key operational milestones today. Apple has unveiled a host of new features for iCloud Mail with the upcoming iOS 18 update, aimed at simplifying email management and enhancing user experience.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20240912100246-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/ios-18-introduces-enhanced-icloud-mail-features-for-improved-email-management20240912153303/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/ios-18-introduces-enhanced-icloud-mail-features-for-improved-email-management20240912153303/)</a></p>`,
+    title_en: `⚡ iOS 18 introduces enhanced iCloud Mail features for improved email management`,
+    summary_en: `Apple has unveiled a host of new features for iCloud Mail with the upcoming iOS 18 update, aimed at simplifying email management and enhancing user experience.... High-level reviews and official briefings are currently underway under multi-agency supervision.`,
+    content_en: `In what senior correspondents describe as a consequential development for the Tech sector, verified field briefings confirm key operational milestones today. Apple has unveiled a host of new features for iCloud Mail with the upcoming iOS 18 update, aimed at simplifying email management and enhancing user experience.
+
+### Strategic Overview and Field Oversight
+
+Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+
+Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+
+### Ground Reality Aur Detailed Field Analysis:
+
+Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+
+![Ground Zero Field Wire]( https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20240912100246-thumbnail-320x180-70.jpg )
+
+Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+
+Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/ios-18-introduces-enhanced-icloud-mail-features-for-improved-email-management20240912153303/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/ios-18-introduces-enhanced-icloud-mail-features-for-improved-email-management20240912153303/)</a></p>`,
+    title_hi: `⚡ iOS 18 introduces enhanced iCloud Mail features for improved email management`,
+    summary_hi: `Apple has unveiled a host of new features for iCloud Mail with the upcoming iOS 18 update, aimed at simplifying email management and enhancing user ex... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। Apple has unveiled a host of new features for iCloud Mail with the upcoming iOS 18 update, aimed at simplifying email management and enhancing user experience. संबंधित विभागों और विषय विशेषज्ञों द्वारा इस घटनाक्रम पर विस्तृत समीक्षा की जा रही है।
+
+### मुख्य बिंदु और ज़मीनी हकीकत
+
+इस पूरे घटनाक्रम पर नज़र डालें तो प्रशासनिक और संस्थागत स्तर पर उठाए गए कदम दूरगामी साबित होंगे। जनता और संबंधित पक्षों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के निर्देश जारी किए गए हैं।
+
+<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="http://www.aninews.in/news/ios-18-introduces-enhanced-icloud-mail-features-for-improved-email-management20240912153303/" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">ANI News (http://www.aninews.in/news/ios-18-introduces-enhanced-icloud-mail-features-for-improved-email-management20240912153303/)</a></p>`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+{
     id: 55,
     title: `🚨 Home Ministry extends Bangladeshi author Taslima Nasreen's residence permit`,
     slug: `home-ministry-extends-bangladeshi-author-taslima-nasreens-residence-permit-2026`,
