@@ -223,7 +223,7 @@ export default function ArticleModal({
     return parts.map((part, i) => {
       if (part.startsWith("**") && part.endsWith("**")) {
         return (
-          <strong key={i} className="font-bold text-white">
+          <strong key={i} className="font-bold text-slate-950 dark:text-white">
             {part.slice(2, -2)}
           </strong>
         );
@@ -464,24 +464,29 @@ export default function ArticleModal({
           </div>
 
           {/* Full Longform Story Content with Rich In-Article Media */}
-          <div className="text-slate-200 text-base sm:text-lg leading-relaxed font-sans space-y-6">
+          <div className="text-slate-800 dark:text-slate-200 text-base sm:text-lg leading-relaxed font-sans space-y-6">
             {displayContent.split("\n\n").map((para, index) => {
               const trimmed = para.trim();
               if (!trimmed) return null;
 
-              // 1. Embedded Image Figures: ![Caption](imageUrl)
+              // 1. Embedded Image Figures: ![Caption](imageUrl) - omit duplicates of main image
               const imgMatch = trimmed.match(/^!\[(.*?)\]\((.*?)\)$/);
               if (imgMatch) {
                 const [, caption, src] = imgMatch;
+                const cleanSrc = src.trim();
+                // Never show duplicate of main hero image in content body
+                if (cleanSrc === rawImage || cleanSrc === displayImage || cleanSrc === article.image_url) {
+                  return null;
+                }
                 return (
                   <figure
                     key={index}
-                    className="my-6 rounded-lg overflow-hidden border border-slate-800 bg-[#0c1322] shadow-xl"
+                    className="my-6 rounded-lg overflow-hidden border border-slate-200 dark:border-slate-800 bg-slate-100 dark:bg-[#0c1322] shadow-xl"
                   >
-                    <div className="relative w-full h-56 sm:h-72 md:h-80 bg-slate-900">
+                    <div className="relative w-full h-56 sm:h-72 md:h-80 bg-slate-200 dark:bg-slate-900">
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img
-                        src={src}
+                        src={cleanSrc}
                         alt={caption || "Editorial Photograph"}
                         className="w-full h-full object-cover"
                         onError={(e) => {
@@ -491,9 +496,9 @@ export default function ArticleModal({
                       />
                     </div>
                     {caption && (
-                      <figcaption className="p-3 text-xs text-slate-300 bg-slate-900/90 border-t border-slate-800 flex items-center justify-between gap-3">
-                        <span className="font-medium text-slate-200">{caption}</span>
-                        <span className="text-[11px] text-slate-400 shrink-0 uppercase tracking-wider">
+                      <figcaption className="p-3 text-xs text-slate-700 dark:text-slate-300 bg-slate-200/90 dark:bg-slate-900/90 border-t border-slate-300 dark:border-slate-800 flex items-center justify-between gap-3">
+                        <span className="font-medium text-slate-800 dark:text-slate-200">{caption}</span>
+                        <span className="text-[11px] text-slate-500 dark:text-slate-400 shrink-0 uppercase tracking-wider">
                           Editorial Wire
                         </span>
                       </figcaption>
@@ -508,7 +513,7 @@ export default function ArticleModal({
                 return (
                   <h3
                     key={index}
-                    className="font-serif text-xl sm:text-2xl font-bold text-white pt-5 border-b border-slate-800/80 pb-2 flex items-center gap-2.5"
+                    className="font-serif text-xl sm:text-2xl font-bold text-slate-950 dark:text-white pt-5 border-b border-slate-200 dark:border-slate-800/80 pb-2 flex items-center gap-2.5"
                   >
                     <span className="w-2.5 h-2.5 rounded-full bg-red-600 inline-block shrink-0" />
                     {headingText}
@@ -524,9 +529,9 @@ export default function ArticleModal({
                   return (
                     <blockquote
                       key={index}
-                      className="my-5 p-4 bg-[#0e172a] border-l-4 border-l-slate-700 rounded-r border-t border-r border-b border-slate-800 text-slate-200 text-base"
+                      className="my-5 p-4 bg-slate-100 dark:bg-[#0e172a] border-l-4 border-l-red-600 rounded-r border-t border-r border-b border-slate-200 dark:border-slate-800 text-slate-800 dark:text-slate-200 text-base"
                     >
-                      <ul className="space-y-2 list-disc list-inside text-slate-300 pl-2">
+                      <ul className="space-y-2 list-disc list-inside text-slate-700 dark:text-slate-300 pl-2">
                         {points.map((pt, pIdx) => (
                           <li key={pIdx} className="leading-relaxed">
                             {renderFormattedInlineText(pt)}
@@ -539,29 +544,23 @@ export default function ArticleModal({
                 return (
                   <blockquote
                     key={index}
-                    className="my-5 p-4 bg-[#0e172a] border-l-4 border-l-slate-700 rounded-r border-t border-r border-b border-slate-800 italic text-slate-200 font-serif text-base"
+                    className="my-5 p-4 bg-slate-100 dark:bg-[#0e172a] border-l-4 border-l-red-600 rounded-r border-t border-r border-b border-slate-200 dark:border-slate-800 italic text-slate-800 dark:text-slate-200 font-serif text-base"
                   >
                     {renderFormattedInlineText(quoteText)}
                   </blockquote>
                 );
               }
 
-              // 4. Source HTML paragraph embedded at bottom
+              // 4. Source HTML paragraph embedded in body - SKIP to prevent duplicate source!
               if (trimmed.includes("<p className=") || (trimmed.startsWith("Source:") && trimmed.includes("http"))) {
-                return (
-                  <div
-                    key={index}
-                    className="pt-6 border-t border-slate-800 text-sm text-slate-400 my-6"
-                    dangerouslySetInnerHTML={{ __html: trimmed }}
-                  />
-                );
+                return null;
               }
 
               // 5. Clean journalistic bullet list if any exist
               if (trimmed.startsWith("- ") || trimmed.startsWith("• ") || trimmed.includes("• ")) {
                 const points = extractBulletPoints(trimmed);
                 return (
-                  <ul key={index} className="my-4 space-y-2 list-disc list-inside text-slate-300 pl-2">
+                  <ul key={index} className="my-4 space-y-2 list-disc list-inside text-slate-700 dark:text-slate-300 pl-2">
                     {points.map((pt, pIdx) => (
                       <li key={pIdx} className="leading-relaxed">
                         {renderFormattedInlineText(pt)}
@@ -579,16 +578,16 @@ export default function ArticleModal({
               );
             })}
 
-            {/* Clickable Original Source Link */}
-            <div className="pt-6 border-t border-slate-200 dark:border-slate-800 text-sm text-slate-500 dark:text-slate-400">
-              <span className="font-semibold text-slate-800 dark:text-slate-300">Source: </span>
+            {/* Exactly One Official Primary Source Link */}
+            <div className="pt-6 border-t border-slate-200 dark:border-slate-800 text-sm text-slate-600 dark:text-slate-400 flex items-center gap-2 flex-wrap">
+              <span className="font-bold text-slate-900 dark:text-slate-200">Source:</span>
               <a
                 href={article.source_url || "https://aninews.in"}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[#d32f2f] hover:underline font-semibold break-all"
               >
-                {article.source_url || "https://aninews.in"}
+                {article.source_name ? `${article.source_name} (${article.source_url})` : (article.source_url || "https://aninews.in")}
               </a>
             </div>
           </div>

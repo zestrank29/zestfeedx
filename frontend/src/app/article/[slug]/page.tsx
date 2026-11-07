@@ -381,10 +381,15 @@ export default async function ArticlePage({ params }: Props) {
                 const trimmed = para.trim();
                 if (!trimmed) return null;
 
-                // 1. Embedded Image Figures: ![Caption](imageUrl)
+                // 1. Embedded Image Figures: ![Caption](imageUrl) - omit duplicates of main image
                 const imgMatch = trimmed.match(/^!\[(.*?)\]\((.*?)\)$/);
                 if (imgMatch) {
                   const [, caption, src] = imgMatch;
+                  const cleanSrc = src.trim();
+                  // Never show duplicate of main hero image in content body
+                  if (cleanSrc === rawImage || cleanSrc === article.image_url) {
+                    return null;
+                  }
                   return (
                     <figure
                       key={index}
@@ -392,7 +397,7 @@ export default async function ArticlePage({ params }: Props) {
                     >
                       <div className="relative w-full h-64 sm:h-80 md:h-[420px] bg-slate-900">
                         <SafeImage
-                          src={src}
+                          src={cleanSrc}
                           alt={caption || "Editorial Photograph"}
                           fill
                           className="object-cover"
@@ -454,15 +459,9 @@ export default async function ArticlePage({ params }: Props) {
                   );
                 }
 
-                // 4. Source HTML paragraph embedded at bottom
+                // 4. Source HTML paragraph embedded in body - SKIP to prevent duplicate source!
                 if (trimmed.includes("<p className=") || (trimmed.startsWith("Source:") && trimmed.includes("http"))) {
-                  return (
-                    <div
-                      key={index}
-                      className="pt-6 border-t border-slate-800 text-sm text-slate-400 my-6"
-                      dangerouslySetInnerHTML={{ __html: trimmed }}
-                    />
-                  );
+                  return null;
                 }
 
                 // 5. Clean journalistic bullet list if any exist
@@ -488,16 +487,16 @@ export default async function ArticlePage({ params }: Props) {
               })}
             </div>
 
-            {/* Clickable Original Source Link */}
-            <div className="pt-6 border-t border-slate-800 text-sm text-slate-400 my-6">
-              <span className="font-semibold text-slate-300">Source: </span>
+            {/* Exactly One Official Primary Source Link */}
+            <div className="pt-6 border-t border-slate-800 text-sm text-slate-400 my-6 flex items-center gap-2 flex-wrap">
+              <span className="font-semibold text-slate-300">Source:</span>
               <a
                 href={article.source_url || "https://news.google.com"}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-red-400 hover:text-red-300 underline font-semibold break-all"
               >
-                {article.source_url || "https://news.google.com"}
+                {article.source_name ? `${article.source_name} (${article.source_url})` : (article.source_url || "https://news.google.com")}
               </a>
             </div>
 

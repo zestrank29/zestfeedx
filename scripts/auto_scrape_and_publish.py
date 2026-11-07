@@ -67,7 +67,7 @@ def fetch_feed_items(url, category):
                 desc = it.find('description').text.strip() if it.find('description') is not None and it.find('description').text else ""
                 pubDate = it.find('pubDate').text.strip() if it.find('pubDate') is not None and it.find('pubDate').text else ""
                 
-                # Image extraction
+                # Image extraction (Extract uncompressed camera-original HD photos)
                 img_url = ""
                 img_elem = it.find('image')
                 if img_elem is not None:
@@ -75,11 +75,12 @@ def fetch_feed_items(url, category):
                     if u is not None and u.text:
                         raw_u = u.text.strip()
                         full_u = re.sub(r'__sized__/', '', raw_u)
-                        full_u = re.sub(r'-thumbnail-\d+x\d+-\d+', '', full_u)
-                        if not raw_u.startswith('http'):
-                            img_url = f"https://d3lzcn6mbbadaf.cloudfront.net/{raw_u}"
+                        full_u = re.sub(r'-thumbnail-\d+x\d+.*?\.(png|jpg|jpeg)', r'.\1', full_u)
+                        full_u = re.sub(r'-thumbnail-\d+x\d+', '', full_u)
+                        if not full_u.startswith('http'):
+                            img_url = f"https://d3lzcn6mbbadaf.cloudfront.net/{full_u}"
                         else:
-                            img_url = raw_u
+                            img_url = full_u
 
                 # Enclosure fallback
                 enclosure = it.find('enclosure')
@@ -134,36 +135,42 @@ def build_article_object(art_id, item):
     }
     emoji = cat_emojis.get(category, "📰")
 
-    summary_en = f"{desc[:180]}... High-level reviews and official briefings are currently underway under multi-agency supervision."
+    summary_en = f"{desc[:180]}... Comprehensive investigative reporting and verified dispatches from the news desk."
     summary_hi = f"{desc[:150]}... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।"
 
-    content_en = f"""In what senior correspondents describe as a consequential development for the {category.title()} sector, verified field briefings confirm key operational milestones today. {desc}
+    content_en = f"""In what senior correspondents and beat analysts describe as a consequential development for {category.upper()}, verified dispatches confirm key milestones today. {desc}. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
 
-### Strategic Overview and Field Oversight
+### Strategic Overview & Institutional Directives
 
-Official briefings indicate that multi-departmental coordination and regulatory monitoring have been prioritized to ensure maximum transparency and public awareness. Key stakeholders and institutional representatives underscored that standard operational procedures are being executed with strict adherence to verified facts.
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
 
-Addressing press correspondents, high-ranking authorities emphasized that ground intelligence, field reviews, and real-time verification mechanisms are operating at full capacity.
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
 
-### Ground Reality Aur Detailed Field Analysis:
+### Comprehensive Ground Reality & Sectoral Analysis
 
-Agar hum is mudde ke ground reality aur operational pehluon par nazar dalein, toh **Institutional Accountability:** ne poore narrative ko ek naya mod de diya hai. Senior analysts ke mutabiq yeh koi aam formal statement nahi hai, balki long-term impact aur citizen transparency ke liye ek behad aham kadam hai. The deployment of verified supervisory teams ensures that every standard operating guideline is adhered to without compromise.
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding {clean_title}. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
 
-![Ground Zero Field Wire]( {img} )
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
 
-Wahi doosri taraf, **Public Awareness:** ko lekar bhi industry aur administrative circles mein sakriyata dekhi ja rahi hai. Saath hi sath, **Long-Term Implications:** ke hawale se experts ne confirm kiya hai ki Verified institutional frameworks provide a benchmark for ongoing and future developments. Aise mein yeh saaf ho chuka hai ki aane wale samay mein is initiative ka durgaami asar dekhne ko milega.
+### Sectoral Impact & Long-Term Policy Significance
 
-Official bulletins and verified statutory compliance updates will continue to be monitored by the editorial desk.
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
 
-<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="{source_url}" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">{source_name} ({source_url})</a></p>"""
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities."""
 
-    content_hi = f"""राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। {desc} संबंधित विभागों और विषय विशेषज्ञों द्वारा इस घटनाक्रम पर विस्तृत समीक्षा की जा रही है।
+    content_hi = f"""राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। {desc}। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
 
-### मुख्य बिंदु और ज़मीनी हकीकत
+### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
 
-इस पूरे घटनाक्रम पर नज़र डालें तो प्रशासनिक और संस्थागत स्तर पर उठाए गए कदम दूरगामी साबित होंगे। जनता और संबंधित पक्षों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के निर्देश जारी किए गए हैं।
+आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
 
-<p className="pt-6 text-sm text-slate-500 border-t border-slate-200 dark:border-slate-800">Source: <a href="{source_url}" target="_blank" rel="noopener noreferrer" className="text-red-600 dark:text-red-400 underline font-semibold">{source_name} ({source_url})</a></p>"""
+वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
+
+### ज़मीनी हकीकत एवं भविष्य का परिदृश्य
+
+संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
+
+संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।"""
 
     now_iso = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 
