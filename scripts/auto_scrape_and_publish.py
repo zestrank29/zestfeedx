@@ -275,7 +275,7 @@ def main():
     # Regenerate Google News, Sitemaps, and RSS Feeds
     print("\n🔄 Regenerating news-sitemap.xml and RSS feeds...")
     gen_script = os.path.join(BASE_DIR, "scripts", "generate_google_news.py")
-    os.system(f'python "{gen_script}"')
+    os.system(f'"{sys.executable}" "{gen_script}"')
 
     print("\n🎉 Auto-scraping & publishing pipeline finished successfully!")
     return len(new_articles)

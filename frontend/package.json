@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "prebuild": "python ../scripts/generate_google_news.py",
-    "build": "python ../scripts/generate_google_news.py && next build",
+    "build": "next build",
     "start": "next start",
     "lint": "eslint"
   },
