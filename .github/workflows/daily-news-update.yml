@@ -96,3 +96,4 @@ jobs:
           local-dir: ./frontend/out/
           server-dir: ${{ secrets.HOSTINGER_FTP_DIR || 'domains/zestfeedx.com/public_html/' }}
           dangerous-clean-slate: false
+

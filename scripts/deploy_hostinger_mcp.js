@@ -99,3 +99,4 @@ deployToHostinger().catch((err) => {
   console.error('Deployment error:', err);
   process.exit(1);
 });
+

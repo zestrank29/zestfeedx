@@ -45,3 +45,4 @@ echo ✅ DAILY NEWS UPDATE COMPLETED SUCCESSFULLY: %date% %time% >> "%LOG_FILE%"
 echo ============================================================ >> "%LOG_FILE%" 2>&1
 
 exit /b 0
+
