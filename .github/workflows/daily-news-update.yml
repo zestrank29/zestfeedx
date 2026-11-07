@@ -95,6 +95,6 @@ jobs:
           username: ${{ secrets.HOSTINGER_FTP_USERNAME || secrets.FTP_USERNAME || 'u340027669' }}
           password: ${{ secrets.HOSTINGER_FTP_PASSWORD || secrets.FTP_PASSWORD }}
           local-dir: ./frontend/out/
-          server-dir: ${{ secrets.HOSTINGER_FTP_DIR || 'domains/zestfeedx.com/public_html/' }}
+          server-dir: ${{ secrets.HOSTINGER_FTP_DIR || 'public_html/' }}
           dangerous-clean-slate: false
 
