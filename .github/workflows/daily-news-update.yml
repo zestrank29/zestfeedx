@@ -79,46 +79,13 @@ jobs:
             git push origin main || true
           fi
 
-      - name: 🔍 Test & Verify Hostinger FTPS Connection
-        env:
-          FTP_PWD: ${{ secrets.HOSTINGER_FTP_PASSWORD || secrets.FTP_PASSWORD }}
-          FTP_SRV: ${{ secrets.HOSTINGER_FTP_SERVER || secrets.FTP_SERVER || 'ftp.zestfeedx.com' }}
-          FTP_USR: ${{ secrets.HOSTINGER_FTP_USERNAME || secrets.FTP_USERNAME || 'u340027669' }}
-        run: |
-          python - << 'EOF'
-          import os, ftplib, ssl
-          server = os.environ.get('FTP_SRV', 'ftp.zestfeedx.com')
-          user = os.environ.get('FTP_USR', 'u340027669')
-          pwd = os.environ.get('FTP_PWD', '')
-          if not pwd:
-              print("⚠️ Warning: No FTP password found in secrets.")
-              exit(0)
-          print(f"📡 Testing FTPS connection to {server} with user {user}...")
-          try:
-              ctx = ssl.create_default_context()
-              ctx.check_hostname = False
-              ctx.verify_mode = ssl.CERT_NONE
-              ftp = ftplib.FTP_TLS(context=ctx, timeout=12)
-              ftp.connect(server, 21)
-              ftp.login(user, pwd)
-              ftp.prot_p()
-              print("✅ FTPS Authentication Successful!")
-              dirs = ftp.nlst()
-              print(f"📁 Root directory contents ({len(dirs)} items): {dirs[:10]}")
-              ftp.quit()
-          except Exception as e:
-              print(f"❌ FTP Diagnostic Error: {e}")
-          EOF
-
       - name: 🚀 Deploy to Hostinger via FTPS
         if: env.HOSTINGER_FTP_PASSWORD != '' || env.FTP_PASSWORD != ''
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ secrets.HOSTINGER_FTP_SERVER || secrets.FTP_SERVER || 'ftp.zestfeedx.com' }}
-          username: ${{ secrets.HOSTINGER_FTP_USERNAME || secrets.FTP_USERNAME || 'u340027669' }}
-          password: ${{ secrets.HOSTINGER_FTP_PASSWORD || secrets.FTP_PASSWORD }}
-          local-dir: ./frontend/out/
-          server-dir: ${{ secrets.HOSTINGER_FTP_DIR || 'domains/zestfeedx.com/public_html/' }}
-          security: loose
-          dangerous-clean-slate: false
+        env:
+          HOSTINGER_FTP_SERVER: ${{ secrets.HOSTINGER_FTP_SERVER || secrets.FTP_SERVER || 'ftp.zestfeedx.com' }}
+          HOSTINGER_FTP_USERNAME: ${{ secrets.HOSTINGER_FTP_USERNAME || secrets.FTP_USERNAME || 'u340027669' }}
+          HOSTINGER_FTP_PASSWORD: ${{ secrets.HOSTINGER_FTP_PASSWORD || secrets.FTP_PASSWORD }}
+          HOSTINGER_FTP_DIR: ${{ secrets.HOSTINGER_FTP_DIR }}
+        run: |
+          python scripts/deploy_ftps.py
 
