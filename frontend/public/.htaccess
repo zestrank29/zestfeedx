@@ -1,0 +1,35 @@
+Options -Indexes
+RewriteEngine On
+RewriteBase /
+
+# Serve llms.txt as plain text for AI crawlers (ChatGPT, Gemini, Claude)
+<Files "llms.txt">
+  ForceType text/plain
+  Header set Content-Type "text/plain; charset=utf-8"
+</Files>
+
+# Prevent stale browser caching for HTML and dynamic assets
+<IfModule mod_headers.c>
+  <FilesMatch "\.(html|htm)$">
+    Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires "0"
+  </FilesMatch>
+  <FilesMatch "\.(css|js)$">
+    Header set Cache-Control "max-age=31536000, public, immutable"
+  </FilesMatch>
+</IfModule>
+
+# If an article slug without .html is requested, serve article/{slug}.html
+RewriteCond %{DOCUMENT_ROOT}/article/$1.html -f
+RewriteRule ^article/([^/]+)/?$ article/$1.html [L]
+
+# Generic fallback to .html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.+)$ $1.html [L]
+
+# Fallback for SPA
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.html [L]

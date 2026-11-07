@@ -1,0 +1,98 @@
+name: Automated News Pipeline & Hostinger Deploy
+
+on:
+  schedule:
+    # Runs twice every day: at 04:30 UTC (10:00 AM IST) and 12:30 UTC (6:00 PM IST)
+    - cron: '30 4,12 * * *'
+  workflow_dispatch: # Allows 1-click manual trigger anytime from GitHub Actions tab
+
+# Prevent overlapping runs
+concurrency:
+  group: auto-news-pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-build-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      HOSTINGER_FTP_PASSWORD: ${{ secrets.HOSTINGER_FTP_PASSWORD }}
+      FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 📦 Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install Pillow
+
+      - name: ⚙️ Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+          cache-dependency-path: frontend/package.json
+
+      - name: 📦 Install Frontend Dependencies
+        run: |
+          cd frontend
+          npm install
+
+      - name: 🔄 Scrape Latest News & Generate Dispatches
+        run: |
+          python scripts/auto_scrape_and_publish.py
+
+      - name: 🏗️ Build Static Next.js Frontend & Sitemaps
+        run: |
+          cd frontend
+          npm run build
+
+      - name: 📋 Copy .htaccess to Output
+        run: |
+          cp frontend/public/.htaccess frontend/out/.htaccess || true
+
+      - name: 💾 Commit & Push Updated Dispatches to Repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add frontend/src/data/seedArticles.ts frontend/public/
+          if git diff --staged --quiet; then
+            echo "No new dispatches to commit. Repository is up-to-date."
+          else
+            git commit -m "Auto-update latest news dispatches & sitemaps $(date -u +'%Y-%m-%d %H:%M UTC') [skip ci]"
+            git pull --rebase origin main
+            git push origin main
+          fi
+
+      - name: 🔍 Check Hostinger Deployment Credentials
+        run: |
+          if [ -z "$HOSTINGER_FTP_PASSWORD" ] && [ -z "$FTP_PASSWORD" ]; then
+            echo "::warning title=Hostinger FTP Password Missing::HOSTINGER_FTP_PASSWORD secret is not set in GitHub repository secrets. FTPS deployment will be skipped. To enable automated Hostinger deployment from GitHub Actions, add HOSTINGER_FTP_PASSWORD to GitHub Repo Settings -> Secrets and variables -> Actions."
+          else
+            echo "Hostinger FTPS credentials detected. Proceeding with deployment."
+          fi
+
+      - name: 🚀 Deploy to Hostinger via FTPS
+        if: env.HOSTINGER_FTP_PASSWORD != '' || env.FTP_PASSWORD != ''
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.HOSTINGER_FTP_SERVER || secrets.FTP_SERVER || 'ftp.zestfeedx.com' }}
+          username: ${{ secrets.HOSTINGER_FTP_USERNAME || secrets.FTP_USERNAME || 'u340027669' }}
+          password: ${{ secrets.HOSTINGER_FTP_PASSWORD || secrets.FTP_PASSWORD }}
+          local-dir: ./frontend/out/
+          server-dir: ${{ secrets.HOSTINGER_FTP_DIR || 'domains/zestfeedx.com/public_html/' }}
+          dangerous-clean-slate: false

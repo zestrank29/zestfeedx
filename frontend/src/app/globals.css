@@ -1,0 +1,227 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --background: #f8fafc;
+    --foreground: #0f172a;
+  }
+  .dark {
+    --background: #090d16;
+    --foreground: #f8fafc;
+  }
+}
+
+body {
+  background-color: #f8fafc;
+  color: #0f172a;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  overflow-x: hidden;
+  line-height: 1.6;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+html.dark body {
+  background-color: #090d16;
+  color: #f1f5f9;
+}
+
+/* Broadsheet Editorial Typography */
+.font-serif {
+  font-family: "Merriweather", Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+/* High-Contrast Dark Editorial Cards */
+.editorial-card {
+  background: #0f172a;
+  border: 1px solid #1e293b;
+  transition: all 0.25s ease-in-out;
+}
+
+.editorial-card:hover {
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.4);
+  border-color: #334155;
+  transform: translateY(-2px);
+}
+
+/* Skeleton Image Placeholder Shimmer */
+.skeleton-loader {
+  background: linear-gradient(
+    90deg,
+    #1e293b 0%,
+    #334155 50%,
+    #1e293b 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+/* Continuous Auto-Moving Marquee for Breaking Tickers and Hero Cards */
+@keyframes marquee {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+.animate-marquee {
+  display: inline-flex !important;
+  width: max-content !important;
+  white-space: nowrap !important;
+  will-change: transform;
+  animation: marquee 45s linear infinite !important;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* Slow, comfortable reading speed for Breaking News Boxes */
+.animate-marquee-slow {
+  display: inline-flex !important;
+  width: max-content !important;
+  white-space: nowrap !important;
+  will-change: transform;
+  animation: marquee 75s linear infinite !important;
+}
+
+.animate-marquee-slow:hover {
+  animation-play-state: paused;
+}
+
+/* Continuous, seamless slow auto-crawl for Hero Section side-by-side cards */
+.animate-hero-crawl {
+  display: inline-flex !important;
+  width: max-content !important;
+  will-change: transform;
+  animation: marquee 85s linear infinite !important;
+}
+
+.animate-hero-crawl:hover {
+  animation-play-state: paused;
+}
+
+/* Custom Dark Scrollbar */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #090d16;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
+/* 3D Perspective & Depth Helpers */
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+/* Glassmorphism & Cyber Glow Effects */
+.glass-cyber {
+  background: rgba(15, 23, 42, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-cyber-glow {
+  background: radial-gradient(circle at 50% 0%, rgba(30, 41, 59, 0.9) 0%, rgba(15, 23, 42, 0.85) 100%);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* 3D Card Hover Holographic Sheen */
+@keyframes holographic-sheen {
+  0% {
+    transform: translateX(-100%) rotate(25deg);
+  }
+  100% {
+    transform: translateX(200%) rotate(25deg);
+  }
+}
+
+.holographic-sheen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 60%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.12) 50%,
+    transparent 100%
+  );
+  pointer-events: none;
+  transform: translateX(-100%) rotate(25deg);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.group:hover .holographic-sheen {
+  opacity: 1;
+  animation: holographic-sheen 1.2s ease infinite;
+}
+
+/* Soundwave Audio Equalizer Animation for Desi Voice Reader */
+@keyframes soundwave-1 {
+  0%, 100% { height: 4px; }
+  50% { height: 18px; }
+}
+
+@keyframes soundwave-2 {
+  0%, 100% { height: 16px; }
+  50% { height: 6px; }
+}
+
+@keyframes soundwave-3 {
+  0%, 100% { height: 8px; }
+  50% { height: 20px; }
+}
+
+@keyframes soundwave-4 {
+  0%, 100% { height: 14px; }
+  50% { height: 5px; }
+}
+
+.soundwave-1 { animation: soundwave-1 0.7s ease-in-out infinite; }
+.soundwave-2 { animation: soundwave-2 0.5s ease-in-out infinite; }
+.soundwave-3 { animation: soundwave-3 0.9s ease-in-out infinite; }
+.soundwave-4 { animation: soundwave-4 0.6s ease-in-out infinite; }
+
+/* Radiant Chromatic Brand Text Glow */
+.chromatic-text {
+  background: linear-gradient(135deg, #ffffff 0%, #38bdf8 45%, #ec4899 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

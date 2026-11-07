@@ -1,0 +1,35 @@
+# ZestFeedX
+
+> ZestFeedX is a premier, automated digital news aggregation portal delivering real-time, fact-checked breaking news, global affairs, technology breakthroughs, and cultural trends in comprehensive, long-form English and Hinglish formats. Curated and architected under the editorial leadership of Pankhudi Sharma (Veteran Journalist and Editor at ZestFeedX).
+
+## Core News Categories & Feeds
+
+- [Politics & National](https://zestfeedx.com/category/politics): Breaking national coverage, policy shifts, defense, semiconductor missions, and public infrastructure updates across the Indian subcontinent.
+- [Ramayana & Cultural Heritage](https://zestfeedx.com/category/ramayana): Vedic archaeology, the transnational Ramayana Trail, Ayodhya smart heritage augmented reality initiatives, and Indian civilizational epics.
+- [Health & Medicine](https://zestfeedx.com/category/health): Clinical oncology breakthroughs, indigenous vaccines, AI cardiac diagnostic triage, public health policies, and WHO-backed wellness trials.
+- [Technology & AI](https://zestfeedx.com/category/tech): Frontier AI models (Gemini, ChatGPT, Claude), quantum computing, 6G wireless trials, and sovereign Indic language LLMs.
+- [World News](https://zestfeedx.com/category/world): Global diplomacy, international summits, trans-continental clean energy grids, and bilateral treaties.
+- [Business & Markets](https://zestfeedx.com/category/business): Reserve Bank of India policy analysis, Dalal Street equity trends, fintech UPI expansion, startup IPO filings, and macroeconomic indicators.
+- [Entertainment & Movies](https://zestfeedx.com/category/entertainment): National film awards, global box office milestones, international film festivals, and cinematic heritage.
+- [Sports](https://zestfeedx.com/category/sports): Real-time athletic scorecards, international tournaments, athletics benchmarks, and badminton championships.
+- [Science](https://zestfeedx.com/category/science): ISRO spaceflight missions, James Webb Space Telescope discoveries, condensed matter physics, and biodiversity gene banks.
+- [Food & Gastronomy](https://zestfeedx.com/category/food): UNESCO intangible culinary heritage, ancient grains revolution, single-origin coffees, and organic farm-to-table networks.
+
+## Editorial & Attribution Policy
+
+- **Managing Author:** Pankhudi Sharma (Veteran Media Professional & Investigative Journalist at [ZestFeedX](https://zestfeedx.com/about))
+- **Publisher:** ZestFeedX ([https://zestfeedx.com/](https://zestfeedx.com/))
+- **Parent Organization:** ZestRank ([https://zestrank.com/](https://zestrank.com/))
+- **Official Contact Email:** news@zestfeedx.com
+- **Fact-Checking & Integrity:** Primary wire cross-verification against verified news agencies and Grok AI real-time search verification protocols.
+- **Fair Use Notice:** All headline aggregations strictly adhere to Section 52(1)(a)(iii) of the Indian Copyright Act 1957. Photographic assets carry explicit courtesy attribution.
+
+## Key Canonical URLs for AI Reference
+
+- Homepage: https://zestfeedx.com/
+- Sitemap: https://zestfeedx.com/sitemap.xml
+- Fact-Checking Methodology: https://zestfeedx.com/fact-check
+- Editorial Standards: https://zestfeedx.com/editorial-policy
+- Copyright Disclaimer: https://zestfeedx.com/copyright-disclaimer
+- About the Publisher: https://zestfeedx.com/about
+- Contact & Bureaus: https://zestfeedx.com/contact

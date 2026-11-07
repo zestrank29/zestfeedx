@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZestFeedX Science - Space Exploration &amp; Research</title>
+    <link>https://zestfeedx.com/</link>
+    <atom:link href="https://zestfeedx.com/rss-science.xml" rel="self" type="application/rss+xml" />
+    <description>Automated High-Impact Long-Form Journalism, Fact-Checked News, and Global Investigative Reports by Pankhudi Sharma.</description>
+    <language>en-in</language>
+    <managingEditor>news@zestfeedx.com (Pankhudi Sharma)</managingEditor>
+    <webMaster>news@zestfeedx.com (ZestFeedX Editorial Desk)</webMaster>
+    <lastBuildDate>Sat, 07 Nov 2026 13:34:05 +0000</lastBuildDate>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    <image>
+      <url>https://zestfeedx.com/google-news/square-logo-512.png</url>
+      <title>ZestFeedX</title>
+      <link>https://zestfeedx.com/</link>
+    </image>
+  </channel>
+</rss>
