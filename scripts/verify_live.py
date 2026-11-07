@@ -14,6 +14,8 @@ try:
             print("✓ Dark/Light theme instant detection script present")
         if "GTM-WVCLHN6M" in html:
             print("✓ Google Tag Manager active")
+        if "swg-basic.js" in html and "CAow3KLIDA:openaccess" in html:
+            print("✓ Google News Subscribe with Google (SwG Basic) active")
         if "Pankhudi Sharma" in html and 'href="https://zestfeedx.com/about"' in html:
             print("✓ Pankhudi Sharma links to /about")
         if "Siddaramiah" in html or "Kazan" in html or "Commonwealth" in html or "affected areas" in html:

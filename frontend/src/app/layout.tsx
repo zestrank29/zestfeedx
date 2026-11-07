@@ -127,6 +127,25 @@ gtag('js', new Date());`,
           }}
         />
 
+        {/* Google News Subscribe with Google (SwG Basic / Reader Revenue Manager) */}
+        <script
+          async
+          type="application/javascript"
+          src="https://news.google.com/swg/js/v1/swg-basic.js"
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {
+  basicSubscriptions.init({
+    type: "NewsArticle",
+    isPartOfType: ["Product"],
+    isPartOfProductId: "CAow3KLIDA:openaccess",
+    clientOptions: { theme: "light", lang: "en" },
+  });
+});`,
+          }}
+        />
+
         {/* Google Fonts: Merriweather & Public Sans */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />

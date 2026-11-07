@@ -110,11 +110,13 @@ export default async function ArticlePage({ params }: Props) {
         "@type": "NewsArticle",
         "@id": `${canonicalUrl}#article`,
         "isPartOf": {
-          "@type": "WebPage",
+          "@type": ["WebPage", "Product"],
           "@id": canonicalUrl,
           "name": article.title_en || article.title,
+          "productID": "CAow3KLIDA:openaccess",
           "url": canonicalUrl
         },
+        "isAccessibleForFree": true,
         "headline": article.title_en || article.title,
         "description": article.summary_en || article.summary,
         "image": [rawImage],
@@ -225,6 +227,25 @@ export default async function ArticlePage({ params }: Props) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schema2026) }}
+      />
+
+      {/* Google News Subscribe with Google (SwG Basic / Reader Revenue Manager) */}
+      <script
+        async
+        type="application/javascript"
+        src="https://news.google.com/swg/js/v1/swg-basic.js"
+      />
+      <script
+        dangerouslySetInnerHTML={{
+          __html: `(self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {
+  basicSubscriptions.init({
+    type: "NewsArticle",
+    isPartOfType: ["Product"],
+    isPartOfProductId: "CAow3KLIDA:openaccess",
+    clientOptions: { theme: "light", lang: "en" },
+  });
+});`,
+        }}
       />
 
       {/* Top Reading Navigation */}
