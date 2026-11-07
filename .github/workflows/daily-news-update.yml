@@ -66,6 +66,7 @@ jobs:
           cp frontend/public/.htaccess frontend/out/.htaccess || true
 
       - name: 💾 Commit & Push Updated Dispatches to Repository
+        continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -73,9 +74,9 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new dispatches to commit. Repository is up-to-date."
           else
-            git commit -m "Auto-update latest news dispatches & sitemaps $(date -u +'%Y-%m-%d %H:%M UTC') [skip ci]"
-            git pull --rebase origin main
-            git push origin main
+            git commit -m "Auto-update latest news dispatches & sitemaps [skip ci]" || true
+            git pull --rebase origin main || true
+            git push origin main || true
           fi
 
       - name: 🔍 Check Hostinger Deployment Credentials
