@@ -11,6 +11,10 @@ echo ============================================================ >> "%LOG_FILE%
 echo 🚀 ZESTFEEDX DAILY NEWS AUTO-UPDATE: %date% %time% >> "%LOG_FILE%" 2>&1
 echo ============================================================ >> "%LOG_FILE%" 2>&1
 
+echo [0/4] Syncing latest updates from GitHub... >> "%LOG_FILE%" 2>&1
+cd /d "%ROOT_DIR%"
+call git pull origin main >> "%LOG_FILE%" 2>&1
+
 echo [1/4] Scraping fresh news from ANI and Google News wires... >> "%LOG_FILE%" 2>&1
 cd /d "%ROOT_DIR%"
 call python scripts/auto_scrape_and_publish.py >> "%LOG_FILE%" 2>&1
