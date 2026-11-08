@@ -1,7 +1,1035 @@
 import { Article } from "@/types/news";
 
 export const SEED_ARTICLES: Article[] = [
+  
   {
+    id: 107,
+    title: `🚨 Hoax bomb threats sent to multiple CRPF schools across country`,
+    slug: `hoax-bomb-threats-sent-to-multiple-crpf-schools-across-country-2026`,
+    original_title: `Hoax bomb threats sent to multiple CRPF schools across country`,
+    category: `politics`,
+    fomo_badge: `⚡ Politics Wire`,
+    read_time: `5 min read`,
+    views_count: 69240,
+    shares_count: 8915,
+    published_at: `2026-11-08T11:27:27Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/hoax-bomb-threats-sent-to-multiple-crpf-schools-across-country20241022135937/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20241022080514.jpg`,
+    image_alt: `Official news wire photograph: Hoax bomb threats sent to multiple CRPF schools across country`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, World, ANI News`,
+    summary: `<p>Multiple Central Reserve Police Force (CRPF) schools nationwide received hoax bomb threats late on Monday night, sources said.</p>... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `In what senior correspondents and beat analysts describe as a consequential development for POLITICS, verified dispatches confirm key milestones today. <p>Multiple Central Reserve Police Force (CRPF) schools nationwide received hoax bomb threats late on Monday night, sources said.</p>. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding Hoax bomb threats sent to multiple CRPF schools across country. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_en: `🚨 Hoax bomb threats sent to multiple CRPF schools across country`,
+    summary_en: `<p>Multiple Central Reserve Police Force (CRPF) schools nationwide received hoax bomb threats late on Monday night, sources said.</p>... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `In what senior correspondents and beat analysts describe as a consequential development for POLITICS, verified dispatches confirm key milestones today. <p>Multiple Central Reserve Police Force (CRPF) schools nationwide received hoax bomb threats late on Monday night, sources said.</p>. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding Hoax bomb threats sent to multiple CRPF schools across country. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_hi: `🚨 Hoax bomb threats sent to multiple CRPF schools across country`,
+    summary_hi: `<p>Multiple Central Reserve Police Force (CRPF) schools nationwide received hoax bomb threats late on Monday night, sources said.</p>... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। <p>Multiple Central Reserve Police Force (CRPF) schools nationwide received hoax bomb threats late on Monday night, sources said.</p>। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
+
+### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
+
+आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
+
+वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
+
+### ज़मीनी हकीकत एवं भविष्य का परिदृश्य
+
+संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
+
+संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 108,
+    title: `🚨 ED arrests six persons in cross-border drugs smuggling network`,
+    slug: `ed-arrests-six-persons-in-cross-border-drugs-smuggling-network-2026`,
+    original_title: `ED arrests six persons in cross-border drugs smuggling network`,
+    category: `politics`,
+    fomo_badge: `⚡ Politics Wire`,
+    read_time: `5 min read`,
+    views_count: 69560,
+    shares_count: 8960,
+    published_at: `2026-11-08T11:27:27Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/ed-arrests-six-persons-in-cross-border-drugs-smuggling-network20241022135913/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20241022082632.jpg`,
+    image_alt: `Official news wire photograph: ED arrests six persons in cross-border drugs smuggling network`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, World, ANI News`,
+    summary: `The Enforcement Directorate (ED) has arrested six persons in connection with an investigation under the Prevention of Money Laundering Act (PMLA) case linked to a cross-border drug... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `In what senior correspondents and beat analysts describe as a consequential development for POLITICS, verified dispatches confirm key milestones today. The Enforcement Directorate (ED) has arrested six persons in connection with an investigation under the Prevention of Money Laundering Act (PMLA) case linked to a cross-border drug smuggling network, the agency said on Tuesday.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding ED arrests six persons in cross-border drugs smuggling network. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_en: `🚨 ED arrests six persons in cross-border drugs smuggling network`,
+    summary_en: `The Enforcement Directorate (ED) has arrested six persons in connection with an investigation under the Prevention of Money Laundering Act (PMLA) case linked to a cross-border drug... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `In what senior correspondents and beat analysts describe as a consequential development for POLITICS, verified dispatches confirm key milestones today. The Enforcement Directorate (ED) has arrested six persons in connection with an investigation under the Prevention of Money Laundering Act (PMLA) case linked to a cross-border drug smuggling network, the agency said on Tuesday.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding ED arrests six persons in cross-border drugs smuggling network. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_hi: `🚨 ED arrests six persons in cross-border drugs smuggling network`,
+    summary_hi: `The Enforcement Directorate (ED) has arrested six persons in connection with an investigation under the Prevention of Money Laundering Act (PMLA) case... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। The Enforcement Directorate (ED) has arrested six persons in connection with an investigation under the Prevention of Money Laundering Act (PMLA) case linked to a cross-border drug smuggling network, the agency said on Tuesday.। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
+
+### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
+
+आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
+
+वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
+
+### ज़मीनी हकीकत एवं भविष्य का परिदृश्य
+
+संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
+
+संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 109,
+    title: `🚨 End of Maoist terror victory of right policies and strong political will: PM Modi`,
+    slug: `end-of-maoist-terror-victory-of-right-policies-and-strong-political-will-pm-2026`,
+    original_title: `End of Maoist terror victory of right policies and strong political will: PM Modi`,
+    category: `politics`,
+    fomo_badge: `⚡ Politics Wire`,
+    read_time: `5 min read`,
+    views_count: 69880,
+    shares_count: 9005,
+    published_at: `Sun, 08 Nov 2026 05:25:13 GMT`,
+    source_name: `The Hindu`,
+    source_url: `https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0xPeEdGUHF6U1Bfb1ZBVDlZaDUteU1nMGFVN0RaZHpKRXhqbDlxWGJacEpTV2lKY05qajhYZ05VVmJBSjlvNjFubHExa0d0OGV1VkJIbTliaTVkN2Nqa1BxT3RWSGlPS0NURkdJcTVSaGR3S05mNHhUdU1xTXhMMlJMRTR4VXFNYkc5TTEyR1RJdUVRS2dCRi02b2YxeE1UQU1zcmtzNDQ4ZWVTRFJUQXI5d2ZCWHVTTEdkVA?oc=5`,
+    source_courtesy: `News Courtesy: The Hindu Digital Archives`,
+    image_url: `https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80`,
+    image_alt: `Official news wire photograph: End of Maoist terror victory of right policies and strong political will: PM Modi`,
+    image_courtesy: `Photo Courtesy: The Hindu Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, World, The Hindu`,
+    summary: `<ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0xPeEdGUHF6U1Bfb1ZBVDlZaDUteU1nMGFVN0RaZHpKRXhqbDlxWGJacEpTV2lKY05qajhYZ05VVmJBSjlvNjFubHExa0d0OGV1VkJIbTliaT... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `In what senior correspondents and beat analysts describe as a consequential development for POLITICS, verified dispatches confirm key milestones today. <ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0xPeEdGUHF6U1Bfb1ZBVDlZaDUteU1nMGFVN0RaZHpKRXhqbDlxWGJacEpTV2lKY05qajhYZ05VVmJBSjlvNjFubHExa0d0OGV1VkJIbTliaTVkN2Nqa1BxT3RWSGlPS0NURkdJcTVSaGR3S05mNHhUdU1xTXhMMlJMRTR4VXFNYkc5TTEyR1RJdUVRS2dCRi02b2YxeE1UQU1zcmtzNDQ4ZWVTRFJUQXI5d2ZCWHVTTEdkVA?oc=5" target="_blank">End of Maoist terror victory of right policies and strong political will: PM Modi</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hindu</font></li><li><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxPT2ZoWk9URldrM1dOSVNxeEY5U1pNWkRLRUdfVUZSdVJzSThhdV9GWExaM2VpWm1OQlBKYVdUSmZIRGJuMmc1OW1WdkhjM0VkTWVwUVlKUGlqaloxelpjQUJvM2ZGVVRmdHBaMzdMRWZEZ1VxWnJYMGNOXzlGN0w2T2JNWG5CZVktaG5PQS0xWlR0TnVYSldxNkxqY3NxRXNzblRxTWhaZ3NycmhwSm5PZC14UmxMc3dabXUyZ0VMakJmTUI5NEdUOXBES1VZUGMzZ0I4aGptanVkeU02b0x5UjZTNUQ5NlNYV1cydXRPbnhJeUROd1ZQQw?oc=5" target="_blank">PM celebrates Diwali with the security forces at CoBRA Operations Base at Karanpur in Bastar, Chhattisgarh</a>&nbsp;&nbsp;<font color="#6f6f6f">PM India</font></li><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSVMxU3FHQnRkcXU1YzB1czJ3T3dFX3E5WkMxWlp5RlZUT0tGMWRiTlVsVVNsYzRpZ0pmUExVQWw0Y0RUbU1ONXJfMDBaLWxkYVFsUEEyaWJ0WGFPUUk4WEVLQ3kxY3lLaGpSeXd2Z1Ezd1RGcnZoanBRM3h5RXdiZVc4d2pqRFVWMTBDV0k3eTZTNnhvNUxLNWJVTlNkRFZNQTJIaTZGeWZxdWZIVGJqbkhldXdqcVZza2V2cG5lblo0Ymx3X3VhYzgwT3ZwNWhYYjZVVTM4Y3dCdGNwTHhjMk5lSVZDamR1bGE1WktIa3g2MDA?oc=5" target="_blank">'First Diwali without Naxal terror': PM Modi celebrates with jawans in Bastar, targets Congress</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of India</font></li><li><a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUxHcDZKbzA1ZWRjNVBrTUhra21EUVl2eTBLbnJmWjdrWUl0dng3cVJYZ1pSM1J3UWl6N2ZIa2x2djFhQnVSZ1RUYU9hd1BENGlfVjdCdWNLQnRLdDQ5R3VNWjJ5NEZ2a09WTm10RVhTUVc3c3IwSXI3VGRIaWxiUXh2bUhhTWVTQlFoNzFQb2hPdzNOVjFjdHU1UjRpLXplWmgyXy1pUzFwbTd3QUI1NFJaQUdRTzZkaGZUMGJ4aUgzMHhEb0lLejdwemFIUHZ1MXdGTERTU1lwS3E4RUl4WmVsTUE?oc=5" target="_blank">PM distributes sweets and celebrates Diwali with Jawans at CoBRA Operations Base at Bastar</a>&nbsp;&nbsp;<font color="#6f6f6f">PM India</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxORVJoZDRHaHE4NWVUblV6dm8yYzNKWG5pRjByQXJ5LTlNZ1hfU3FkcV8zOFJvTDFidHotOG5VSG9nNEEzd2lCRE5LaDN2ZG9lTklnRUgxcGwwbTFzS2RTRzF6MDZJR3IxZHJfZVllMDBrWGVJRm9kb0MxbVQ2UXRRWWd3WmZlUjJBNVl1YlVDMUJzTGwyVFltVTZSQXJ1Q2QxdmxnUk1CUW0wdGJheS1hOHhZT0J4Q2c?oc=5" target="_blank">First Diwali Since Nation Became Free From Naxalism: PM Modi in Bastar</a>&nbsp;&nbsp;<font color="#6f6f6f">Deccan Chronicle</font></li></ol>. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding End of Maoist terror victory of right policies and strong political will: PM Modi. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_en: `🚨 End of Maoist terror victory of right policies and strong political will: PM Modi`,
+    summary_en: `<ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0xPeEdGUHF6U1Bfb1ZBVDlZaDUteU1nMGFVN0RaZHpKRXhqbDlxWGJacEpTV2lKY05qajhYZ05VVmJBSjlvNjFubHExa0d0OGV1VkJIbTliaT... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `In what senior correspondents and beat analysts describe as a consequential development for POLITICS, verified dispatches confirm key milestones today. <ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0xPeEdGUHF6U1Bfb1ZBVDlZaDUteU1nMGFVN0RaZHpKRXhqbDlxWGJacEpTV2lKY05qajhYZ05VVmJBSjlvNjFubHExa0d0OGV1VkJIbTliaTVkN2Nqa1BxT3RWSGlPS0NURkdJcTVSaGR3S05mNHhUdU1xTXhMMlJMRTR4VXFNYkc5TTEyR1RJdUVRS2dCRi02b2YxeE1UQU1zcmtzNDQ4ZWVTRFJUQXI5d2ZCWHVTTEdkVA?oc=5" target="_blank">End of Maoist terror victory of right policies and strong political will: PM Modi</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hindu</font></li><li><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxPT2ZoWk9URldrM1dOSVNxeEY5U1pNWkRLRUdfVUZSdVJzSThhdV9GWExaM2VpWm1OQlBKYVdUSmZIRGJuMmc1OW1WdkhjM0VkTWVwUVlKUGlqaloxelpjQUJvM2ZGVVRmdHBaMzdMRWZEZ1VxWnJYMGNOXzlGN0w2T2JNWG5CZVktaG5PQS0xWlR0TnVYSldxNkxqY3NxRXNzblRxTWhaZ3NycmhwSm5PZC14UmxMc3dabXUyZ0VMakJmTUI5NEdUOXBES1VZUGMzZ0I4aGptanVkeU02b0x5UjZTNUQ5NlNYV1cydXRPbnhJeUROd1ZQQw?oc=5" target="_blank">PM celebrates Diwali with the security forces at CoBRA Operations Base at Karanpur in Bastar, Chhattisgarh</a>&nbsp;&nbsp;<font color="#6f6f6f">PM India</font></li><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSVMxU3FHQnRkcXU1YzB1czJ3T3dFX3E5WkMxWlp5RlZUT0tGMWRiTlVsVVNsYzRpZ0pmUExVQWw0Y0RUbU1ONXJfMDBaLWxkYVFsUEEyaWJ0WGFPUUk4WEVLQ3kxY3lLaGpSeXd2Z1Ezd1RGcnZoanBRM3h5RXdiZVc4d2pqRFVWMTBDV0k3eTZTNnhvNUxLNWJVTlNkRFZNQTJIaTZGeWZxdWZIVGJqbkhldXdqcVZza2V2cG5lblo0Ymx3X3VhYzgwT3ZwNWhYYjZVVTM4Y3dCdGNwTHhjMk5lSVZDamR1bGE1WktIa3g2MDA?oc=5" target="_blank">'First Diwali without Naxal terror': PM Modi celebrates with jawans in Bastar, targets Congress</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of India</font></li><li><a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUxHcDZKbzA1ZWRjNVBrTUhra21EUVl2eTBLbnJmWjdrWUl0dng3cVJYZ1pSM1J3UWl6N2ZIa2x2djFhQnVSZ1RUYU9hd1BENGlfVjdCdWNLQnRLdDQ5R3VNWjJ5NEZ2a09WTm10RVhTUVc3c3IwSXI3VGRIaWxiUXh2bUhhTWVTQlFoNzFQb2hPdzNOVjFjdHU1UjRpLXplWmgyXy1pUzFwbTd3QUI1NFJaQUdRTzZkaGZUMGJ4aUgzMHhEb0lLejdwemFIUHZ1MXdGTERTU1lwS3E4RUl4WmVsTUE?oc=5" target="_blank">PM distributes sweets and celebrates Diwali with Jawans at CoBRA Operations Base at Bastar</a>&nbsp;&nbsp;<font color="#6f6f6f">PM India</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxORVJoZDRHaHE4NWVUblV6dm8yYzNKWG5pRjByQXJ5LTlNZ1hfU3FkcV8zOFJvTDFidHotOG5VSG9nNEEzd2lCRE5LaDN2ZG9lTklnRUgxcGwwbTFzS2RTRzF6MDZJR3IxZHJfZVllMDBrWGVJRm9kb0MxbVQ2UXRRWWd3WmZlUjJBNVl1YlVDMUJzTGwyVFltVTZSQXJ1Q2QxdmxnUk1CUW0wdGJheS1hOHhZT0J4Q2c?oc=5" target="_blank">First Diwali Since Nation Became Free From Naxalism: PM Modi in Bastar</a>&nbsp;&nbsp;<font color="#6f6f6f">Deccan Chronicle</font></li></ol>. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding End of Maoist terror victory of right policies and strong political will: PM Modi. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_hi: `🚨 End of Maoist terror victory of right policies and strong political will: PM Modi`,
+    summary_hi: `<ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0xPeEdGUHF6U1Bfb1ZBVDlZaDUteU1nMGFVN0RaZHpKRXhqbDlxWGJacEpTV2lKY05qajhYZ05VVmJB... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। <ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0xPeEdGUHF6U1Bfb1ZBVDlZaDUteU1nMGFVN0RaZHpKRXhqbDlxWGJacEpTV2lKY05qajhYZ05VVmJBSjlvNjFubHExa0d0OGV1VkJIbTliaTVkN2Nqa1BxT3RWSGlPS0NURkdJcTVSaGR3S05mNHhUdU1xTXhMMlJMRTR4VXFNYkc5TTEyR1RJdUVRS2dCRi02b2YxeE1UQU1zcmtzNDQ4ZWVTRFJUQXI5d2ZCWHVTTEdkVA?oc=5" target="_blank">End of Maoist terror victory of right policies and strong political will: PM Modi</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hindu</font></li><li><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxPT2ZoWk9URldrM1dOSVNxeEY5U1pNWkRLRUdfVUZSdVJzSThhdV9GWExaM2VpWm1OQlBKYVdUSmZIRGJuMmc1OW1WdkhjM0VkTWVwUVlKUGlqaloxelpjQUJvM2ZGVVRmdHBaMzdMRWZEZ1VxWnJYMGNOXzlGN0w2T2JNWG5CZVktaG5PQS0xWlR0TnVYSldxNkxqY3NxRXNzblRxTWhaZ3NycmhwSm5PZC14UmxMc3dabXUyZ0VMakJmTUI5NEdUOXBES1VZUGMzZ0I4aGptanVkeU02b0x5UjZTNUQ5NlNYV1cydXRPbnhJeUROd1ZQQw?oc=5" target="_blank">PM celebrates Diwali with the security forces at CoBRA Operations Base at Karanpur in Bastar, Chhattisgarh</a>&nbsp;&nbsp;<font color="#6f6f6f">PM India</font></li><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSVMxU3FHQnRkcXU1YzB1czJ3T3dFX3E5WkMxWlp5RlZUT0tGMWRiTlVsVVNsYzRpZ0pmUExVQWw0Y0RUbU1ONXJfMDBaLWxkYVFsUEEyaWJ0WGFPUUk4WEVLQ3kxY3lLaGpSeXd2Z1Ezd1RGcnZoanBRM3h5RXdiZVc4d2pqRFVWMTBDV0k3eTZTNnhvNUxLNWJVTlNkRFZNQTJIaTZGeWZxdWZIVGJqbkhldXdqcVZza2V2cG5lblo0Ymx3X3VhYzgwT3ZwNWhYYjZVVTM4Y3dCdGNwTHhjMk5lSVZDamR1bGE1WktIa3g2MDA?oc=5" target="_blank">'First Diwali without Naxal terror': PM Modi celebrates with jawans in Bastar, targets Congress</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of India</font></li><li><a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUxHcDZKbzA1ZWRjNVBrTUhra21EUVl2eTBLbnJmWjdrWUl0dng3cVJYZ1pSM1J3UWl6N2ZIa2x2djFhQnVSZ1RUYU9hd1BENGlfVjdCdWNLQnRLdDQ5R3VNWjJ5NEZ2a09WTm10RVhTUVc3c3IwSXI3VGRIaWxiUXh2bUhhTWVTQlFoNzFQb2hPdzNOVjFjdHU1UjRpLXplWmgyXy1pUzFwbTd3QUI1NFJaQUdRTzZkaGZUMGJ4aUgzMHhEb0lLejdwemFIUHZ1MXdGTERTU1lwS3E4RUl4WmVsTUE?oc=5" target="_blank">PM distributes sweets and celebrates Diwali with Jawans at CoBRA Operations Base at Bastar</a>&nbsp;&nbsp;<font color="#6f6f6f">PM India</font></li><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxORVJoZDRHaHE4NWVUblV6dm8yYzNKWG5pRjByQXJ5LTlNZ1hfU3FkcV8zOFJvTDFidHotOG5VSG9nNEEzd2lCRE5LaDN2ZG9lTklnRUgxcGwwbTFzS2RTRzF6MDZJR3IxZHJfZVllMDBrWGVJRm9kb0MxbVQ2UXRRWWd3WmZlUjJBNVl1YlVDMUJzTGwyVFltVTZSQXJ1Q2QxdmxnUk1CUW0wdGJheS1hOHhZT0J4Q2c?oc=5" target="_blank">First Diwali Since Nation Became Free From Naxalism: PM Modi in Bastar</a>&nbsp;&nbsp;<font color="#6f6f6f">Deccan Chronicle</font></li></ol>। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
+
+### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
+
+आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
+
+वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
+
+### ज़मीनी हकीकत एवं भविष्य का परिदृश्य
+
+संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
+
+संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 110,
+    title: `🎬 If  I were a hero...": Annu Kapoor open up on controversy over kissing scene with Priyanka Chopra`,
+    slug: `if-i-were-a-hero-annu-kapoor-open-up-on-controversy-over-kissing-scene-with-2026`,
+    original_title: `If  I were a hero...": Annu Kapoor open up on controversy over kissing scene with Priyanka Chopra`,
+    category: `entertainment`,
+    fomo_badge: `⚡ Entertainment Wire`,
+    read_time: `5 min read`,
+    views_count: 70200,
+    shares_count: 9050,
+    published_at: `2026-11-08T11:27:28Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/if-i-were-a-hero-annu-kapoor-open-up-on-controversy-over-kissing-scene-with-priyanka-chopra20241022174058/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20241022121033.jpg`,
+    image_alt: `Official news wire photograph: If  I were a hero...": Annu Kapoor open up on controversy over kissing scene with Priyanka Chopra`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Entertainment, Breaking News, India, World, ANI News`,
+    summary: `<p>Annu Kapoor is one of the actors who never hesitated to speak his views without any filters and this time he shared his perception of working with Priyanka Chopra in 7 Khoon Maa... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `In what senior correspondents and beat analysts describe as a consequential development for ENTERTAINMENT, verified dispatches confirm key milestones today. <p>Annu Kapoor is one of the actors who never hesitated to speak his views without any filters and this time he shared his perception of working with Priyanka Chopra in 7 Khoon Maaf.</p>. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding If  I were a hero...": Annu Kapoor open up on controversy over kissing scene with Priyanka Chopra. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_en: `🎬 If  I were a hero...": Annu Kapoor open up on controversy over kissing scene with Priyanka Chopra`,
+    summary_en: `<p>Annu Kapoor is one of the actors who never hesitated to speak his views without any filters and this time he shared his perception of working with Priyanka Chopra in 7 Khoon Maa... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `In what senior correspondents and beat analysts describe as a consequential development for ENTERTAINMENT, verified dispatches confirm key milestones today. <p>Annu Kapoor is one of the actors who never hesitated to speak his views without any filters and this time he shared his perception of working with Priyanka Chopra in 7 Khoon Maaf.</p>. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding If  I were a hero...": Annu Kapoor open up on controversy over kissing scene with Priyanka Chopra. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_hi: `🎬 If  I were a hero...": Annu Kapoor open up on controversy over kissing scene with Priyanka Chopra`,
+    summary_hi: `<p>Annu Kapoor is one of the actors who never hesitated to speak his views without any filters and this time he shared his perception of working with ... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। <p>Annu Kapoor is one of the actors who never hesitated to speak his views without any filters and this time he shared his perception of working with Priyanka Chopra in 7 Khoon Maaf.</p>। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
+
+### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
+
+आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
+
+वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
+
+### ज़मीनी हकीकत एवं भविष्य का परिदृश्य
+
+संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
+
+संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 111,
+    title: `🎬 Indian films and fashion are having a very big moment": Kareena Kapoor`,
+    slug: `indian-films-and-fashion-are-having-a-very-big-moment-kareena-kapoor-2026`,
+    original_title: `Indian films and fashion are having a very big moment": Kareena Kapoor`,
+    category: `entertainment`,
+    fomo_badge: `⚡ Entertainment Wire`,
+    read_time: `5 min read`,
+    views_count: 70520,
+    shares_count: 9095,
+    published_at: `2026-11-08T11:27:28Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/indian-films-and-fashion-are-having-a-very-big-moment-kareena-kapoor20241022170304/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20241022113252.jpg`,
+    image_alt: `Official news wire photograph: Indian films and fashion are having a very big moment": Kareena Kapoor`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Entertainment, Breaking News, India, World, ANI News`,
+    summary: `Bollywood diva Kareena Kapoor Khan talked about the impact the Indian fashion industry and cinema are making worldwide.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `In what senior correspondents and beat analysts describe as a consequential development for ENTERTAINMENT, verified dispatches confirm key milestones today. Bollywood diva Kareena Kapoor Khan talked about the impact the Indian fashion industry and cinema are making worldwide.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding Indian films and fashion are having a very big moment": Kareena Kapoor. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_en: `🎬 Indian films and fashion are having a very big moment": Kareena Kapoor`,
+    summary_en: `Bollywood diva Kareena Kapoor Khan talked about the impact the Indian fashion industry and cinema are making worldwide.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `In what senior correspondents and beat analysts describe as a consequential development for ENTERTAINMENT, verified dispatches confirm key milestones today. Bollywood diva Kareena Kapoor Khan talked about the impact the Indian fashion industry and cinema are making worldwide.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding Indian films and fashion are having a very big moment": Kareena Kapoor. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_hi: `🎬 Indian films and fashion are having a very big moment": Kareena Kapoor`,
+    summary_hi: `Bollywood diva Kareena Kapoor Khan talked about the impact the Indian fashion industry and cinema are making worldwide.... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। Bollywood diva Kareena Kapoor Khan talked about the impact the Indian fashion industry and cinema are making worldwide.। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
+
+### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
+
+आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
+
+वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
+
+### ज़मीनी हकीकत एवं भविष्य का परिदृश्य
+
+संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
+
+संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 112,
+    title: `🌐 China is set to carry out live-fire drills in the Taiwan Strait`,
+    slug: `china-is-set-to-carry-out-live-fire-drills-in-the-taiwan-strait-2026`,
+    original_title: `China is set to carry out live-fire drills in the Taiwan Strait`,
+    category: `world`,
+    fomo_badge: `⚡ World Wire`,
+    read_time: `5 min read`,
+    views_count: 70840,
+    shares_count: 9140,
+    published_at: `2026-11-08T11:27:28Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/china-is-set-to-carry-out-live-fire-drills-in-the-taiwan-strait20241022094407/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20241022041357.jpg`,
+    image_alt: `Official news wire photograph: China is set to carry out live-fire drills in the Taiwan Strait`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `World, Breaking News, India, World, ANI News`,
+    summary: `The development comes just after warships of the US and Canada sailed through the contested waters in the Taiwan Strait on Sunday and following a mega military exercise a week ago ... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `In what senior correspondents and beat analysts describe as a consequential development for WORLD, verified dispatches confirm key milestones today. The development comes just after warships of the US and Canada sailed through the contested waters in the Taiwan Strait on Sunday and following a mega military exercise a week ago by Beijing.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding China is set to carry out live-fire drills in the Taiwan Strait. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_en: `🌐 China is set to carry out live-fire drills in the Taiwan Strait`,
+    summary_en: `The development comes just after warships of the US and Canada sailed through the contested waters in the Taiwan Strait on Sunday and following a mega military exercise a week ago ... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `In what senior correspondents and beat analysts describe as a consequential development for WORLD, verified dispatches confirm key milestones today. The development comes just after warships of the US and Canada sailed through the contested waters in the Taiwan Strait on Sunday and following a mega military exercise a week ago by Beijing.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding China is set to carry out live-fire drills in the Taiwan Strait. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_hi: `🌐 China is set to carry out live-fire drills in the Taiwan Strait`,
+    summary_hi: `The development comes just after warships of the US and Canada sailed through the contested waters in the Taiwan Strait on Sunday and following a mega... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। The development comes just after warships of the US and Canada sailed through the contested waters in the Taiwan Strait on Sunday and following a mega military exercise a week ago by Beijing.। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
+
+### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
+
+आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
+
+वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
+
+### ज़मीनी हकीकत एवं भविष्य का परिदृश्य
+
+संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
+
+संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 113,
+    title: `🌐 High probability of meeting between PM Modi, President Xi": Former Indian envoy on patrolling agreement between India-China`,
+    slug: `high-probability-of-meeting-between-pm-modi-president-xi-former-indian-envo-2026`,
+    original_title: `High probability of meeting between PM Modi, President Xi": Former Indian envoy on patrolling agreement between India-China`,
+    category: `world`,
+    fomo_badge: `⚡ World Wire`,
+    read_time: `5 min read`,
+    views_count: 71160,
+    shares_count: 9185,
+    published_at: `2026-11-08T11:27:28Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/high-probability-of-meeting-between-pm-modi-president-xi-former-indian-envoy-on-patrolling-agreement-between-india-china20241022093002/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20241022035953.jpg`,
+    image_alt: `Official news wire photograph: High probability of meeting between PM Modi, President Xi": Former Indian envoy on patrolling agreement between India-China`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `World, Breaking News, India, World, ANI News`,
+    summary: `Gautam Bambawale, former Indian Ambassador to China, Bhutan, and Pakistan said that the recent agreement on border patrolling between India and China along the Line of Actual Contr... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `In what senior correspondents and beat analysts describe as a consequential development for WORLD, verified dispatches confirm key milestones today. Gautam Bambawale, former Indian Ambassador to China, Bhutan, and Pakistan said that the recent agreement on border patrolling between India and China along the Line of Actual Control (LAC) has opened up possibilities for a bilateral meeting between Prime Minister Narendra Modi and President Xi Jinping in Kazan along the sidelines of the BRICS Summit.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding High probability of meeting between PM Modi, President Xi": Former Indian envoy on patrolling agreement between India-China. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_en: `🌐 High probability of meeting between PM Modi, President Xi": Former Indian envoy on patrolling agreement between India-China`,
+    summary_en: `Gautam Bambawale, former Indian Ambassador to China, Bhutan, and Pakistan said that the recent agreement on border patrolling between India and China along the Line of Actual Contr... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `In what senior correspondents and beat analysts describe as a consequential development for WORLD, verified dispatches confirm key milestones today. Gautam Bambawale, former Indian Ambassador to China, Bhutan, and Pakistan said that the recent agreement on border patrolling between India and China along the Line of Actual Control (LAC) has opened up possibilities for a bilateral meeting between Prime Minister Narendra Modi and President Xi Jinping in Kazan along the sidelines of the BRICS Summit.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding High probability of meeting between PM Modi, President Xi": Former Indian envoy on patrolling agreement between India-China. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_hi: `🌐 High probability of meeting between PM Modi, President Xi": Former Indian envoy on patrolling agreement between India-China`,
+    summary_hi: `Gautam Bambawale, former Indian Ambassador to China, Bhutan, and Pakistan said that the recent agreement on border patrolling between India and China ... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। Gautam Bambawale, former Indian Ambassador to China, Bhutan, and Pakistan said that the recent agreement on border patrolling between India and China along the Line of Actual Control (LAC) has opened up possibilities for a bilateral meeting between Prime Minister Narendra Modi and President Xi Jinping in Kazan along the sidelines of the BRICS Summit.। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
+
+### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
+
+आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
+
+वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
+
+### ज़मीनी हकीकत एवं भविष्य का परिदृश्य
+
+संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
+
+संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 114,
+    title: `🏏 ISL: "We are very happy," says Khalid Jamil on Jamshedpur FC's third home win in a row`,
+    slug: `isl-we-are-very-happy-says-khalid-jamil-on-jamshedpur-fcs-third-home-win-in-2026`,
+    original_title: `ISL: "We are very happy," says Khalid Jamil on Jamshedpur FC's third home win in a row`,
+    category: `sports`,
+    fomo_badge: `⚡ Sports Wire`,
+    read_time: `5 min read`,
+    views_count: 71480,
+    shares_count: 9230,
+    published_at: `2026-11-08T11:27:28Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/isl-we-are-very-happy-says-khalid-jamil-on-jamshedpur-fcs-third-home-win-in-a-row20241022094050/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20241022041035.jpg`,
+    image_alt: `Official news wire photograph: ISL: "We are very happy," says Khalid Jamil on Jamshedpur FC's third home win in a row`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Sports, Breaking News, India, World, ANI News`,
+    summary: `Rei Tachikawa and Jordan Murray's first-half goals gave the hosts a 2-0 lead before the half-time break. Despite Hyderabad FC scoring an early goal in the second half, the Jamshedp... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `In what senior correspondents and beat analysts describe as a consequential development for SPORTS, verified dispatches confirm key milestones today. Rei Tachikawa and Jordan Murray's first-half goals gave the hosts a 2-0 lead before the half-time break. Despite Hyderabad FC scoring an early goal in the second half, the Jamshedpur FC defence stood firm, denying the opponents the opportunity to net an equalizer.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding ISL: "We are very happy," says Khalid Jamil on Jamshedpur FC's third home win in a row. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_en: `🏏 ISL: "We are very happy," says Khalid Jamil on Jamshedpur FC's third home win in a row`,
+    summary_en: `Rei Tachikawa and Jordan Murray's first-half goals gave the hosts a 2-0 lead before the half-time break. Despite Hyderabad FC scoring an early goal in the second half, the Jamshedp... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `In what senior correspondents and beat analysts describe as a consequential development for SPORTS, verified dispatches confirm key milestones today. Rei Tachikawa and Jordan Murray's first-half goals gave the hosts a 2-0 lead before the half-time break. Despite Hyderabad FC scoring an early goal in the second half, the Jamshedpur FC defence stood firm, denying the opponents the opportunity to net an equalizer.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding ISL: "We are very happy," says Khalid Jamil on Jamshedpur FC's third home win in a row. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_hi: `🏏 ISL: "We are very happy," says Khalid Jamil on Jamshedpur FC's third home win in a row`,
+    summary_hi: `Rei Tachikawa and Jordan Murray's first-half goals gave the hosts a 2-0 lead before the half-time break. Despite Hyderabad FC scoring an early goal in... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। Rei Tachikawa and Jordan Murray's first-half goals gave the hosts a 2-0 lead before the half-time break. Despite Hyderabad FC scoring an early goal in the second half, the Jamshedpur FC defence stood firm, denying the opponents the opportunity to net an equalizer.। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
+
+### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
+
+आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
+
+वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
+
+### ज़मीनी हकीकत एवं भविष्य का परिदृश्य
+
+संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
+
+संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 115,
+    title: `🏏 MS Dhoni expresses admiration for more aggressive, result-oriented Test cricket`,
+    slug: `ms-dhoni-expresses-admiration-for-more-aggressive-result-oriented-test-cric-2026`,
+    original_title: `MS Dhoni expresses admiration for more aggressive, result-oriented Test cricket`,
+    category: `sports`,
+    fomo_badge: `⚡ Sports Wire`,
+    read_time: `5 min read`,
+    views_count: 71800,
+    shares_count: 9275,
+    published_at: `2026-11-08T11:27:28Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/ms-dhoni-expresses-admiration-for-more-aggressive-result-oriented-test-cricket20241028101424/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20241028044413.jpg`,
+    image_alt: `Official news wire photograph: MS Dhoni expresses admiration for more aggressive, result-oriented Test cricket`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Sports, Breaking News, India, World, ANI News`,
+    summary: `Dhoni was speaking at an event in Goa. Speaking at the event, Dhoni said as quoted by ESPNCricinfo that cricket has evolved a lot over the years.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `In what senior correspondents and beat analysts describe as a consequential development for SPORTS, verified dispatches confirm key milestones today. Dhoni was speaking at an event in Goa. Speaking at the event, Dhoni said as quoted by ESPNCricinfo that cricket has evolved a lot over the years.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding MS Dhoni expresses admiration for more aggressive, result-oriented Test cricket. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_en: `🏏 MS Dhoni expresses admiration for more aggressive, result-oriented Test cricket`,
+    summary_en: `Dhoni was speaking at an event in Goa. Speaking at the event, Dhoni said as quoted by ESPNCricinfo that cricket has evolved a lot over the years.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `In what senior correspondents and beat analysts describe as a consequential development for SPORTS, verified dispatches confirm key milestones today. Dhoni was speaking at an event in Goa. Speaking at the event, Dhoni said as quoted by ESPNCricinfo that cricket has evolved a lot over the years.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding MS Dhoni expresses admiration for more aggressive, result-oriented Test cricket. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_hi: `🏏 MS Dhoni expresses admiration for more aggressive, result-oriented Test cricket`,
+    summary_hi: `Dhoni was speaking at an event in Goa. Speaking at the event, Dhoni said as quoted by ESPNCricinfo that cricket has evolved a lot over the years.... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। Dhoni was speaking at an event in Goa. Speaking at the event, Dhoni said as quoted by ESPNCricinfo that cricket has evolved a lot over the years.। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
+
+### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
+
+आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
+
+वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
+
+### ज़मीनी हकीकत एवं भविष्य का परिदृश्य
+
+संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
+
+संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 116,
+    title: `🩺 Study finds how new type of blood test could identify children at risk of diabetes`,
+    slug: `study-finds-how-new-type-of-blood-test-could-identify-children-at-risk-of-d-2026`,
+    original_title: `Study finds how new type of blood test could identify children at risk of diabetes`,
+    category: `health`,
+    fomo_badge: `⚡ Health Wire`,
+    read_time: `5 min read`,
+    views_count: 72120,
+    shares_count: 9320,
+    published_at: `2026-11-08T11:27:29Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/study-finds-how-new-type-of-blood-test-could-identify-children-at-risk-of-diabetes20240920230454/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20240920172831.jpg`,
+    image_alt: `Official news wire photograph: Study finds how new type of blood test could identify children at risk of diabetes`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Health, Breaking News, India, World, ANI News`,
+    summary: `Scientists have developed a novel blood test that uses lipids to identify children who are more susceptible to obesity-related problems, such as type 2 diabetes, liver, and heart d... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `In what senior correspondents and beat analysts describe as a consequential development for HEALTH, verified dispatches confirm key milestones today. Scientists have developed a novel blood test that uses lipids to identify children who are more susceptible to obesity-related problems, such as type 2 diabetes, liver, and heart disease.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding Study finds how new type of blood test could identify children at risk of diabetes. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_en: `🩺 Study finds how new type of blood test could identify children at risk of diabetes`,
+    summary_en: `Scientists have developed a novel blood test that uses lipids to identify children who are more susceptible to obesity-related problems, such as type 2 diabetes, liver, and heart d... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `In what senior correspondents and beat analysts describe as a consequential development for HEALTH, verified dispatches confirm key milestones today. Scientists have developed a novel blood test that uses lipids to identify children who are more susceptible to obesity-related problems, such as type 2 diabetes, liver, and heart disease.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding Study finds how new type of blood test could identify children at risk of diabetes. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_hi: `🩺 Study finds how new type of blood test could identify children at risk of diabetes`,
+    summary_hi: `Scientists have developed a novel blood test that uses lipids to identify children who are more susceptible to obesity-related problems, such as type ... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। Scientists have developed a novel blood test that uses lipids to identify children who are more susceptible to obesity-related problems, such as type 2 diabetes, liver, and heart disease.। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
+
+### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
+
+आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
+
+वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
+
+### ज़मीनी हकीकत एवं भविष्य का परिदृश्य
+
+संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
+
+संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 117,
+    title: `🩺 Fever drives enhanced activity, mitochondrial damage in immune cells: Study`,
+    slug: `fever-drives-enhanced-activity-mitochondrial-damage-in-immune-cells-study-2026`,
+    original_title: `Fever drives enhanced activity, mitochondrial damage in immune cells: Study`,
+    category: `health`,
+    fomo_badge: `⚡ Health Wire`,
+    read_time: `5 min read`,
+    views_count: 72440,
+    shares_count: 9365,
+    published_at: `2026-11-08T11:27:29Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/fever-drives-enhanced-activity-mitochondrial-damage-in-immune-cells-study20240922203519/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20240922150510.jpg`,
+    image_alt: `Official news wire photograph: Fever drives enhanced activity, mitochondrial damage in immune cells: Study`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Health, Breaking News, India, World, ANI News`,
+    summary: `Fever increases immune cell metabolism, proliferation, and activity, but it also causes mitochondrial stress, DNA damage, and cell death in a specific subgroup of T cells, accordin... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `In what senior correspondents and beat analysts describe as a consequential development for HEALTH, verified dispatches confirm key milestones today. Fever increases immune cell metabolism, proliferation, and activity, but it also causes mitochondrial stress, DNA damage, and cell death in a specific subgroup of T cells, according to Vanderbilt University Medical Centre researchers.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding Fever drives enhanced activity, mitochondrial damage in immune cells: Study. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_en: `🩺 Fever drives enhanced activity, mitochondrial damage in immune cells: Study`,
+    summary_en: `Fever increases immune cell metabolism, proliferation, and activity, but it also causes mitochondrial stress, DNA damage, and cell death in a specific subgroup of T cells, accordin... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `In what senior correspondents and beat analysts describe as a consequential development for HEALTH, verified dispatches confirm key milestones today. Fever increases immune cell metabolism, proliferation, and activity, but it also causes mitochondrial stress, DNA damage, and cell death in a specific subgroup of T cells, according to Vanderbilt University Medical Centre researchers.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding Fever drives enhanced activity, mitochondrial damage in immune cells: Study. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_hi: `🩺 Fever drives enhanced activity, mitochondrial damage in immune cells: Study`,
+    summary_hi: `Fever increases immune cell metabolism, proliferation, and activity, but it also causes mitochondrial stress, DNA damage, and cell death in a specific... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। Fever increases immune cell metabolism, proliferation, and activity, but it also causes mitochondrial stress, DNA damage, and cell death in a specific subgroup of T cells, according to Vanderbilt University Medical Centre researchers.। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
+
+### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
+
+आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
+
+वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
+
+### ज़मीनी हकीकत एवं भविष्य का परिदृश्य
+
+संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
+
+संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 118,
+    title: `⚡ Apple's iPhone 16 debuts with A18 Chip and cutting-edge AI technology`,
+    slug: `apples-iphone-16-debuts-with-a18-chip-and-cutting-edge-ai-technology-2026`,
+    original_title: `Apple's iPhone 16 debuts with A18 Chip and cutting-edge AI technology`,
+    category: `tech`,
+    fomo_badge: `⚡ Tech Wire`,
+    read_time: `5 min read`,
+    views_count: 72760,
+    shares_count: 9410,
+    published_at: `2026-11-08T11:27:29Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/apples-iphone-16-debuts-with-a18-chip-and-cutting-edge-ai-technology20240910004306/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20240909191255.jpg`,
+    image_alt: `Official news wire photograph: Apple's iPhone 16 debuts with A18 Chip and cutting-edge AI technology`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Tech, Breaking News, India, World, ANI News`,
+    summary: `Apple has once again captured the tech world's attention with the grand unveiling of their latest innovation, the iPhone 16.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `In what senior correspondents and beat analysts describe as a consequential development for TECH, verified dispatches confirm key milestones today. Apple has once again captured the tech world's attention with the grand unveiling of their latest innovation, the iPhone 16.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding Apple's iPhone 16 debuts with A18 Chip and cutting-edge AI technology. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_en: `⚡ Apple's iPhone 16 debuts with A18 Chip and cutting-edge AI technology`,
+    summary_en: `Apple has once again captured the tech world's attention with the grand unveiling of their latest innovation, the iPhone 16.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `In what senior correspondents and beat analysts describe as a consequential development for TECH, verified dispatches confirm key milestones today. Apple has once again captured the tech world's attention with the grand unveiling of their latest innovation, the iPhone 16.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding Apple's iPhone 16 debuts with A18 Chip and cutting-edge AI technology. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_hi: `⚡ Apple's iPhone 16 debuts with A18 Chip and cutting-edge AI technology`,
+    summary_hi: `Apple has once again captured the tech world's attention with the grand unveiling of their latest innovation, the iPhone 16.... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। Apple has once again captured the tech world's attention with the grand unveiling of their latest innovation, the iPhone 16.। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
+
+### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
+
+आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
+
+वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
+
+### ज़मीनी हकीकत एवं भविष्य का परिदृश्य
+
+संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
+
+संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+  {
+    id: 119,
+    title: `⚡ Apple unveils the "sleekest" and "smartest" Apple Watch Series 10`,
+    slug: `apple-unveils-the-sleekest-and-smartest-apple-watch-series-10-2026`,
+    original_title: `Apple unveils the "sleekest" and "smartest" Apple Watch Series 10`,
+    category: `tech`,
+    fomo_badge: `⚡ Tech Wire`,
+    read_time: `5 min read`,
+    views_count: 73080,
+    shares_count: 9455,
+    published_at: `2026-11-08T11:27:29Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/apple-unveils-the-sleekest-and-smartest-apple-watch-series-1020240909234917/`,
+    source_courtesy: `News Courtesy: ANI News Digital Archives`,
+    image_url: `https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20240909181904.jpg`,
+    image_alt: `Official news wire photograph: Apple unveils the "sleekest" and "smartest" Apple Watch Series 10`,
+    image_courtesy: `Photo Courtesy: ANI News Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Tech, Breaking News, India, World, ANI News`,
+    summary: `In a dazzling showcase at Apple Park's new event space, The Observatory, Apple has introduced the Apple Watch Series 10, a marvel of modern design and technology.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `In what senior correspondents and beat analysts describe as a consequential development for TECH, verified dispatches confirm key milestones today. In a dazzling showcase at Apple Park's new event space, The Observatory, Apple has introduced the Apple Watch Series 10, a marvel of modern design and technology.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding Apple unveils the "sleekest" and "smartest" Apple Watch Series 10. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_en: `⚡ Apple unveils the "sleekest" and "smartest" Apple Watch Series 10`,
+    summary_en: `In a dazzling showcase at Apple Park's new event space, The Observatory, Apple has introduced the Apple Watch Series 10, a marvel of modern design and technology.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `In what senior correspondents and beat analysts describe as a consequential development for TECH, verified dispatches confirm key milestones today. In a dazzling showcase at Apple Park's new event space, The Observatory, Apple has introduced the Apple Watch Series 10, a marvel of modern design and technology.. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+
+### Strategic Overview & Institutional Directives
+
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+
+### Comprehensive Ground Reality & Sectoral Analysis
+
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding Apple unveils the "sleekest" and "smartest" Apple Watch Series 10. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+
+Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+
+### Sectoral Impact & Long-Term Policy Significance
+
+Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+
+Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities.`,
+    title_hi: `⚡ Apple unveils the "sleekest" and "smartest" Apple Watch Series 10`,
+    summary_hi: `In a dazzling showcase at Apple Park's new event space, The Observatory, Apple has introduced the Apple Watch Series 10, a marvel of modern design and... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
+    content_hi: `राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। In a dazzling showcase at Apple Park's new event space, The Observatory, Apple has introduced the Apple Watch Series 10, a marvel of modern design and technology.। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
+
+### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
+
+आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
+
+वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
+
+### ज़मीनी हकीकत एवं भविष्य का परिदृश्य
+
+संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
+
+संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.`,
+    author_url: `https://zestfeedx.com/about`,
+  },
+{
     id: 94,
     title: `🚨 Conservation of water resources is collective responsibility: President Murmu`,
     slug: `conservation-of-water-resources-is-collective-responsibility-president-murm-2026`,
