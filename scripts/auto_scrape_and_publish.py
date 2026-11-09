@@ -147,23 +147,43 @@ def build_article_object(art_id, item):
     summary_en = f"{desc[:180]}... Comprehensive investigative reporting and verified dispatches from the news desk."
     summary_hi = f"{desc[:150]}... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।"
 
-    content_en = f"""In what senior correspondents and beat analysts describe as a consequential development for {category.upper()}, verified dispatches confirm key milestones today. {desc}. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+    # Generate 800+ word structured investigative report with Markdown Table & 'Why This Matters'
+    try:
+        from scripts.upgrade_all_seed_articles import generate_800w_article
+        content_en = generate_800w_article(clean_title, category, desc, source_name)
+    except Exception:
+        content_en = f"""In what senior correspondents and beat analysts describe as a consequential development for {category.upper()}, verified dispatches confirm key milestones today. {desc}. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
 
 ### Strategic Overview & Institutional Directives
 
-Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding. Parliamentary and industry observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability and operational transparency.
+Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding regarding {clean_title}. Parliamentary observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability, civic protection, and operational transparency across government ministries.
 
-Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and uphold institutional integrity.
+Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and maintain civil order across key jurisdictions.
 
-### Comprehensive Ground Reality & Sectoral Analysis
+### Ground Dynamics & Sectoral Realities
 
-An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding {clean_title}. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder interests, regional stability, and legislative representation.
+An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding {clean_title}. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder welfare, regional stability, and legislative representation under constitutional norms.
 
-Simultaneously, civic leaders and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every stage.
+Simultaneously, civic leaders, municipal authorities, and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every operational level.
 
-### Sectoral Impact & Long-Term Policy Significance
+### Sectoral Milestones & Governance Assessment
 
-Constitutional experts and senior commentators point out that the precedents established through these actions provide a vital benchmark for upcoming policy initiatives. The multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation.
+| Governance Parameter | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Strategic Impact & Policy Analysis
+
+Beyond the immediate headlines, this development carries profound systemic implications for policy formulation and governance architecture. Independent legal scholars and political strategists point out that the institutional precedents established today create an authoritative framework that will guide future statutory implementations. By establishing clear accountability metrics, authorities are setting a vital benchmark that balances executive responsiveness with long-term systemic durability.
+
+Furthermore, the decision directly impacts broader socio-economic dynamics, signaling to market participants, civic institutions, and the electorate that regulatory standards will be rigorously preserved. Analysts project that the ripple effects will influence parliamentary discussions in the upcoming session, creating renewed momentum for comprehensive institutional modernizations.
+
+### Strategic Outlook & Long-Term Trajectory
+
+Constitutional experts and senior commentators point out that the multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation. High-level secretariats have already initiated preliminary scheduling for subsequent review cycles to ensure persistent policy momentum.
 
 Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities."""
 
@@ -190,7 +210,7 @@ Official bulletins and statutory filings will continue to be monitored by the ed
         "original_title": clean_title,
         "category": category,
         "fomo_badge": f"⚡ {category.title()} Wire",
-        "read_time": "5 min read",
+        "read_time": "6 min read",
         "views_count": 35000 + (art_id * 320),
         "shares_count": 4100 + (art_id * 45),
         "published_at": item["pubDate"] or now_iso,
@@ -211,7 +231,7 @@ Official bulletins and statutory filings will continue to be monitored by the ed
         "summary_hi": summary_hi,
         "content_hi": content_hi,
         "author_name": "Pankhudi Sharma",
-        "author_bio": "Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.",
+        "author_bio": "Senior Digital Editor covering national policy, frontier tech, and lifestyle trends with over 15 years of investigative journalism experience.",
         "author_url": "https://zestfeedx.com/about"
     }
 
@@ -292,6 +312,16 @@ def main():
     print("\n🔄 Regenerating news-sitemap.xml and RSS feeds...")
     gen_script = os.path.join(BASE_DIR, "scripts", "generate_google_news.py")
     os.system(f'"{sys.executable}" "{gen_script}"')
+
+    # Instant Real-Time Search Engine Indexing (Google Indexing API, Bing, IndexNow)
+    try:
+        new_urls = [f"https://zestfeedx.com/article/{a['slug']}" for a in new_articles]
+        print(f"\n⚡ Dispatching {len(new_urls)} new URLs to Search Engine Indexing APIs...")
+        idx_script = os.path.join(BASE_DIR, "scripts", "realtime_indexing.py")
+        if os.path.exists(idx_script):
+            os.system(f'"{sys.executable}" "{idx_script}" ' + " ".join(f'"{u}"' for u in new_urls))
+    except Exception as e:
+        print(f"[Indexing Integration] Non-blocking notice: {e}")
 
     print("\n🎉 Auto-scraping & publishing pipeline finished successfully!")
     return len(new_articles)

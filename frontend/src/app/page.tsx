@@ -226,6 +226,21 @@ export default function HomePage() {
         />
       </div>
 
+      {/* 2.5 AdSense Leaderboard Placement (728x90 Native Responsive Slot) */}
+      <div
+        className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 my-3 flex flex-col items-center justify-center min-h-[90px] overflow-hidden"
+        data-ad-slot="adsense-leaderboard-728x90"
+      >
+        <div className="w-full max-w-[728px] h-[90px] rounded border border-dashed border-slate-300 dark:border-slate-800/80 bg-slate-100/50 dark:bg-slate-900/30 flex flex-col items-center justify-center text-center">
+          <span className="text-[9px] uppercase tracking-widest text-slate-400 font-mono">
+            Advertisement
+          </span>
+          <span className="text-xs text-slate-400 font-serif">
+            [Google AdSense Responsive Leaderboard — 728×90]
+          </span>
+        </div>
+      </div>
+
       {/* 3. Hero Section: Side-by-Side Auto-Running Latest News */}
       <section aria-label="Lead Editorial Stories" className="w-full p-0 m-0">
         <HeroBanner

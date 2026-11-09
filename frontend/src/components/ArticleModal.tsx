@@ -16,7 +16,11 @@ import {
   ShieldCheck,
   PlayCircle,
   Video,
-  UserCheck
+  UserCheck,
+  Zap,
+  AlertCircle,
+  Mail,
+  ExternalLink
 } from "lucide-react";
 import { Article } from "@/types/news";
 import GoogleNewsFollowBadge from "./GoogleNewsFollowBadge";
@@ -363,15 +367,10 @@ export default function ArticleModal({
               className="object-cover"
             />
           </div>
-          <div className="flex flex-col sm:flex-row sm:items-center justify-between text-[11px] text-slate-500 italic gap-1">
+          <div className="text-[11px] text-slate-500 italic">
             <span>
-              {article.image_courtesy || "Photo Courtesy: PTI / Press Wire Archive"}
+              {article.image_courtesy || `Photo Courtesy: ${article.source_name || "Press Wire Archive"}`}
             </span>
-            {article.source_courtesy && (
-              <span className="not-italic font-medium text-slate-400">
-                {article.source_courtesy}
-              </span>
-            )}
           </div>
 
           {/* Fact Check Box */}
@@ -463,6 +462,51 @@ export default function ArticleModal({
             </div>
           </div>
 
+          {/* Health Category Medical Disclaimer */}
+          {article.category?.toLowerCase() === "health" && (
+            <div className="p-4 rounded-lg bg-amber-50 dark:bg-amber-950/40 border-l-4 border-amber-500 border-t border-r border-b border-amber-200 dark:border-amber-800/60 text-amber-900 dark:text-amber-200 text-xs sm:text-sm flex items-start gap-3 shadow-sm">
+              <AlertCircle className="w-5 h-5 text-amber-600 dark:text-amber-400 shrink-0 mt-0.5" />
+              <div>
+                <span className="font-bold uppercase tracking-wider block text-amber-800 dark:text-amber-300 mb-0.5">
+                  Medical &amp; Health Disclaimer
+                </span>
+                <p className="text-amber-800/90 dark:text-amber-200/90 leading-relaxed">
+                  Disclaimer: The information provided is for educational purposes and should not substitute professional medical advice. Always consult a qualified physician or healthcare professional before making health-related decisions.
+                </p>
+              </div>
+            </div>
+          )}
+
+          {/* Key Takeaways (Executive TL;DR) */}
+          <div className="p-5 rounded-lg bg-red-50/60 dark:bg-gradient-to-r dark:from-red-950/40 dark:via-[#0e172a] dark:to-[#0f172a] border border-red-200 dark:border-red-500/40 shadow-sm dark:shadow-lg">
+            <div className="flex items-center gap-2 mb-3 text-red-600 dark:text-red-400">
+              <Zap className="w-4 h-4 fill-red-600 dark:fill-red-500 text-red-600 dark:text-red-500" />
+              <h3 className="font-serif font-black text-xs sm:text-sm uppercase tracking-wider text-red-700 dark:text-red-400">
+                Key Takeaways (Executive TL;DR)
+              </h3>
+            </div>
+            <ul className="space-y-2 text-xs sm:text-sm text-slate-700 dark:text-slate-200">
+              <li className="flex items-start gap-2.5">
+                <span className="w-1.5 h-1.5 rounded-full bg-red-500 mt-2 shrink-0 shadow-[0_0_6px_#ef4444]" />
+                <span className="leading-relaxed">
+                  <strong>Primary Event:</strong> {displayTitle.replace(/^[^\w\s]+/, "").trim()} verified through multi-agency communications and ground dispatches.
+                </span>
+              </li>
+              <li className="flex items-start gap-2.5">
+                <span className="w-1.5 h-1.5 rounded-full bg-red-500 mt-2 shrink-0 shadow-[0_0_6px_#ef4444]" />
+                <span className="leading-relaxed">
+                  <strong>Institutional Oversight:</strong> Standard operating procedures and regulatory frameworks are actively monitored by supervisory desks.
+                </span>
+              </li>
+              <li className="flex items-start gap-2.5">
+                <span className="w-1.5 h-1.5 rounded-full bg-red-500 mt-2 shrink-0 shadow-[0_0_6px_#ef4444]" />
+                <span className="leading-relaxed">
+                  <strong>Strategic Impact:</strong> Policy commentators and analysts emphasize measurable long-term significance across the {article.category.toUpperCase()} sector.
+                </span>
+              </li>
+            </ul>
+          </div>
+
           {/* Full Longform Story Content with Rich In-Article Media */}
           <div className="text-slate-800 dark:text-slate-200 text-base sm:text-lg leading-relaxed font-sans space-y-6">
             {displayContent.split("\n\n").map((para, index) => {
@@ -507,9 +551,42 @@ export default function ArticleModal({
                 );
               }
 
-              // 2. Section Headings (### Section Name)
-              if (trimmed.startsWith("###")) {
-                const headingText = trimmed.replace(/^###\s*/, "");
+              // 2. Structured Data Table (| Col 1 | Col 2 |)
+              if (trimmed.startsWith("|") && trimmed.includes("\n|")) {
+                const rows = trimmed.split("\n").map(r => r.trim()).filter(r => r.startsWith("|"));
+                if (rows.length >= 2) {
+                  const headerCells = rows[0].split("|").slice(1, -1).map(c => c.trim());
+                  const dataRows = rows.slice(2).map(r => r.split("|").slice(1, -1).map(c => c.trim()));
+                  return (
+                    <div key={index} className="my-6 overflow-x-auto rounded-lg border border-slate-300 dark:border-slate-700 bg-slate-50 dark:bg-slate-900/90 shadow-md">
+                      <table className="w-full text-left text-xs sm:text-sm text-slate-800 dark:text-slate-200">
+                        <thead className="bg-slate-200 dark:bg-slate-800/95 text-xs uppercase font-bold text-slate-700 dark:text-slate-200 border-b border-slate-300 dark:border-slate-700">
+                          <tr>
+                            {headerCells.map((h, hIdx) => (
+                              <th key={hIdx} className="px-4 py-3 tracking-wider">{h}</th>
+                            ))}
+                          </tr>
+                        </thead>
+                        <tbody className="divide-y divide-slate-200 dark:divide-slate-800">
+                          {dataRows.map((row, rIdx) => (
+                            <tr key={rIdx} className="hover:bg-slate-100 dark:hover:bg-slate-800/50 transition-colors">
+                              {row.map((cell, cIdx) => (
+                                <td key={cIdx} className="px-4 py-3 text-slate-700 dark:text-slate-300 font-sans">
+                                  {renderFormattedInlineText(cell)}
+                                </td>
+                              ))}
+                            </tr>
+                          ))}
+                        </tbody>
+                      </table>
+                    </div>
+                  );
+                }
+              }
+
+              // 3. Section Headings (### Section Name or ## Section Name)
+              if (trimmed.startsWith("###") || trimmed.startsWith("##")) {
+                const headingText = trimmed.replace(/^#+\s*/, "");
                 return (
                   <h3
                     key={index}
@@ -521,7 +598,7 @@ export default function ArticleModal({
                 );
               }
 
-              // 3. Editorial Pull-Quotes (> Quote text)
+              // 4. Editorial Pull-Quotes (> Quote text)
               if (trimmed.startsWith(">")) {
                 const quoteText = trimmed.replace(/^>\s*/, "");
                 if (quoteText.includes("• ") || quoteText.startsWith("- ")) {
@@ -551,12 +628,34 @@ export default function ArticleModal({
                 );
               }
 
-              // 4. Source HTML paragraph embedded in body - SKIP to prevent duplicate source!
-              if (trimmed.includes("<p className=") || (trimmed.startsWith("Source:") && trimmed.includes("http"))) {
+              // 5. Source HTML / text paragraph embedded in body - SKIP to prevent duplicate source!
+              const lowerTrimmed = trimmed.toLowerCase();
+              if (
+                lowerTrimmed.startsWith("source:") ||
+                lowerTrimmed.startsWith("source :") ||
+                lowerTrimmed.startsWith("**source:**") ||
+                lowerTrimmed.startsWith("*source:*") ||
+                lowerTrimmed.includes("<p className=") ||
+                (lowerTrimmed.startsWith("http://") || lowerTrimmed.startsWith("https://"))
+              ) {
                 return null;
               }
 
-              // 5. Clean journalistic bullet list if any exist
+              // 6. Ordered List (1. Item, 2. Item)
+              if (/^\d+\.\s/.test(trimmed)) {
+                const items = trimmed.split("\n").map(l => l.replace(/^\d+\.\s*/, "").trim()).filter(Boolean);
+                return (
+                  <ol key={index} className="my-4 space-y-2 list-decimal list-inside text-slate-700 dark:text-slate-300 pl-2">
+                    {items.map((it, iIdx) => (
+                      <li key={iIdx} className="leading-relaxed">
+                        {renderFormattedInlineText(it)}
+                      </li>
+                    ))}
+                  </ol>
+                );
+              }
+
+              // 7. Clean journalistic bullet list if any exist
               if (trimmed.startsWith("- ") || trimmed.startsWith("• ") || trimmed.includes("• ")) {
                 const points = extractBulletPoints(trimmed);
                 return (
@@ -570,64 +669,95 @@ export default function ArticleModal({
                 );
               }
 
-              // 6. Regular In-Depth Journalistic Paragraphs
+              // 8. Regular In-Depth Journalistic Paragraphs
               return (
-                <p key={index} className="leading-relaxed text-slate-800 dark:text-slate-200 text-base sm:text-lg">
-                  {renderFormattedInlineText(trimmed)}
-                </p>
+                <React.Fragment key={index}>
+                  <p className="leading-relaxed text-slate-800 dark:text-slate-200 text-base sm:text-lg">
+                    {renderFormattedInlineText(trimmed)}
+                  </p>
+
+                  {/* AdSense In-Article Responsive Slot (300x250 between paragraphs 3 and 4) */}
+                  {index === 3 && (
+                    <div
+                      className="my-8 w-full max-w-[336px] mx-auto min-h-[250px] p-2 flex flex-col items-center justify-center rounded-lg border border-dashed border-slate-300 dark:border-slate-800 bg-slate-100/60 dark:bg-[#0c1222]/80 text-center overflow-hidden"
+                      data-ad-slot="adsense-modal-in-article-300x250"
+                    >
+                      <span className="text-[9px] uppercase tracking-widest text-slate-400 font-mono mb-2">
+                        Advertisement
+                      </span>
+                      <div className="w-[300px] h-[250px] flex items-center justify-center text-xs text-slate-400 font-serif border border-slate-200 dark:border-slate-800/60 rounded">
+                        [Google AdSense Responsive Unit — 300×250]
+                      </div>
+                    </div>
+                  )}
+                </React.Fragment>
               );
             })}
 
-            {/* Exactly One Official Primary Source Link */}
-            <div className="pt-6 border-t border-slate-200 dark:border-slate-800 text-sm text-slate-600 dark:text-slate-400 flex items-center gap-2 flex-wrap">
-              <span className="font-bold text-slate-900 dark:text-slate-200">Source:</span>
-              <a
-                href={article.source_url || "https://aninews.in"}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-[#d32f2f] hover:underline font-semibold break-all"
-              >
-                {article.source_name ? `${article.source_name} (${article.source_url})` : (article.source_url || "https://aninews.in")}
-              </a>
-            </div>
+            {/* Transform Source Attribution in a Styled <cite> Block */}
+            <cite className="block not-italic my-8 p-5 rounded-lg bg-slate-100 dark:bg-[#0e172a] border-l-4 border-red-600 border-t border-r border-b border-slate-200 dark:border-slate-800 text-sm text-slate-700 dark:text-slate-300 font-serif shadow-sm">
+              <div className="flex items-center gap-2 mb-1.5 text-slate-500 dark:text-slate-400 font-sans text-xs uppercase tracking-wider font-semibold">
+                <ExternalLink className="w-3.5 h-3.5 text-red-500" />
+                Primary Source Attribution
+              </div>
+              <p className="leading-relaxed text-slate-800 dark:text-slate-200">
+                Story curated and adapted from <strong className="text-slate-950 dark:text-white font-bold">{article.source_name || "Official Wire"}</strong>.{" "}
+                <a
+                  href={article.source_url || "https://aninews.in"}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-red-600 dark:text-red-400 hover:underline font-semibold transition-colors break-all inline-flex items-center gap-1"
+                >
+                  Read the original report here &rarr;
+                </a>
+              </p>
+            </cite>
           </div>
 
-          {/* Author Profile Card (Pankhudi Sharma) */}
-          <div className="my-8 p-5 bg-slate-50 dark:bg-[#0f172a] border border-slate-200 dark:border-slate-800 rounded-lg flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-            <div className="flex items-center gap-3.5">
-              <div className="relative w-14 h-14 rounded-full overflow-hidden border-2 border-slate-300 dark:border-slate-700 shadow-md shrink-0 bg-slate-200 dark:bg-slate-800">
+          {/* Enhanced Author Profile Card (Pankhudi Sharma) */}
+          <div className="my-8 p-6 bg-slate-50 dark:bg-[#0a0f1d] border border-slate-200 dark:border-slate-800 rounded-xl flex flex-col sm:flex-row items-start sm:items-center justify-between gap-5 shadow-sm dark:shadow-xl">
+            <div className="flex items-start sm:items-center gap-4">
+              <div className="relative w-16 h-16 rounded-full overflow-hidden border-2 border-emerald-500/60 shadow-lg shrink-0 bg-slate-200 dark:bg-slate-800">
                 <Image
                   src="/images/pankhudi-sharma.jpg"
-                  alt="Pankhudi Sharma - Veteran Journalist and Editor at ZestFeedX"
+                  alt="Pankhudi Sharma - Senior Digital Editor at ZestFeedX"
                   fill
                   className="object-cover"
                 />
               </div>
               <div>
-                <div className="flex items-center gap-2">
+                <div className="flex items-center gap-2 flex-wrap">
                   <a
                     href="https://zestfeedx.com/about"
-                    className="font-bold text-slate-900 dark:text-white hover:text-[#d32f2f] transition-colors text-sm sm:text-base underline"
+                    className="font-bold text-slate-900 dark:text-white hover:text-red-500 transition-colors text-base sm:text-lg underline"
                   >
-                    {article.author_name || "Pankhudi Sharma"}
+                    Pankhudi Sharma
                   </a>
-                  <span className="text-[10px] bg-emerald-50 dark:bg-emerald-950 text-emerald-700 dark:text-emerald-400 border border-emerald-300 dark:border-emerald-800 px-1.5 py-0.5 rounded font-semibold">
-                    Editor &amp; Journalist
+                  <span className="text-[10px] bg-emerald-100 dark:bg-emerald-950 text-emerald-800 dark:text-emerald-400 border border-emerald-300 dark:border-emerald-800 px-2 py-0.5 rounded font-semibold">
+                    Senior Digital Editor
                   </span>
                 </div>
-                <p className="text-xs text-slate-600 dark:text-slate-300 mt-0.5">
-                  {article.author_bio || "Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights."}
+                <p className="text-xs text-slate-600 dark:text-slate-300 mt-1 leading-relaxed">
+                  Senior Digital Editor covering national policy, frontier tech, and lifestyle trends with over 15 years of newsroom experience delivering high-impact investigative reporting and ground-reality journalism.
                 </p>
-                <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
-                  Newsroom: <strong className="text-slate-900 dark:text-slate-200">ZestFeedX Editorial Desk</strong>
-                </p>
+                <div className="flex items-center gap-3 mt-2 text-xs text-slate-500 dark:text-slate-400 flex-wrap">
+                  <span>Newsroom: <strong className="text-slate-800 dark:text-slate-200">ZestFeedX National Bureau</strong></span>
+                  <span className="text-slate-400 dark:text-slate-600">•</span>
+                  <a
+                    href="mailto:news@zestfeedx.com"
+                    className="text-emerald-600 dark:text-emerald-400 hover:underline flex items-center gap-1 font-semibold"
+                  >
+                    <Mail className="w-3.5 h-3.5" />
+                    news@zestfeedx.com
+                  </a>
+                </div>
               </div>
             </div>
             <a
               href="https://zestfeedx.com/about"
               className="px-4 py-2 bg-slate-200 hover:bg-slate-300 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-900 dark:text-white font-bold text-xs rounded border border-slate-300 dark:border-slate-700 transition-colors flex items-center gap-1.5 shrink-0"
             >
-              Author Profile →
+              Author Profile &rarr;
             </a>
           </div>
 

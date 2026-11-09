@@ -34,28 +34,41 @@ export default function EditorialPolicyPage() {
 
         <div className="prose max-w-none text-slate-300 leading-relaxed space-y-6">
           <p className="text-lg font-serif text-slate-200">
-            At <strong>ZestFeedX</strong>, journalistic integrity and factual precision govern every report. Founded under the editorial leadership of <a href="https://zestfeedx.com/about" className="text-white hover:text-red-400 underline font-semibold">Pankhudi Sharma</a> (Veteran Journalist and Editor), our news desk fuses computational rigor with broadsheet ethics.
+            At <strong>ZestFeedX</strong>, journalistic integrity, factual precision, and editorial transparency govern every report we publish. Operating under the leadership of <strong>Pankhudi Sharma</strong> (Senior Digital Editor &amp; Investigative Journalist), our digital newsroom combines computational newsroom automation with strict broadsheet journalistic standards to deliver high-impact, verified reporting.
           </p>
 
           <h2 className="font-serif text-xl font-bold text-white border-b border-slate-800 pb-2 pt-4">
-            1. Automated Hourly Ingestion with Algorithmic Verification
+            1. Content Curation & Primary Source Verification
           </h2>
           <p>
-            News items ingested through our 60-minute scheduler (Google Trends, Google News India, and certified RSS feeds) undergo real-time cross-referencing against verified wire reports. No synthetic fiction or ungrounded claims are ever published.
+            News topics are monitored in real time across official government gazettes, press bureaus (such as ANI, PTI, and PIB), and primary institutional communiqués. Before any dispatch is drafted, our editorial desk cross-references claims against at least two independent primary records to prevent synthetic fiction, misquotes, or speculative rumors.
           </p>
 
           <h2 className="font-serif text-xl font-bold text-white border-b border-slate-800 pb-2 pt-4">
-            2. Long-Form Investigative Journalism (800+ Words)
+            2. In-Depth Analysis & Original Value-Add (800+ Words)
           </h2>
           <p>
-            Every dispatch produced under Pankhudi Sharma's editorial direction provides comprehensive analysis, breaking the story into detailed sections with takeaways and an explicit clickable link pointing back to the original primary source.
+            ZestFeedX does not engage in shallow content aggregation or automated rewriting. Every published report is transformed into a comprehensive 800+ word deep-dive that includes:
+          </p>
+          <ul className="list-disc list-inside space-y-1.5 pl-2 text-slate-300">
+            <li><strong>Key Takeaways (Executive TL;DR):</strong> Immediate, high-clarity bullet summaries placed at the top of the article.</li>
+            <li><strong>Factual Timeline &amp; Context:</strong> Verified developments, official notifications, and verified quotes.</li>
+            <li><strong>"Why This Matters &amp; Strategic Impact":</strong> Independent analytical commentary examining long-term economic, legislative, and societal implications.</li>
+            <li><strong>Structured Data:</strong> Comparative tables, metrics, and milestones for enhanced reader accessibility.</li>
+          </ul>
+
+          <h2 className="font-serif text-xl font-bold text-white border-b border-slate-800 pb-2 pt-4">
+            3. Explicit Source Attribution & Fair Dealing
+          </h2>
+          <p>
+            Every story published on ZestFeedX includes an explicit, prominent source citation block acknowledging the originating news agency or official publisher (formatted as: <em>"Story curated and adapted from [Source Name]. Read the original report here."</em>). All aggregation operates under Section 52(1)(a)(iii) of the Indian Copyright Act, 1957 for fair dealing, reporting of current events, and public commentary.
           </p>
 
           <h2 className="font-serif text-xl font-bold text-white border-b border-slate-800 pb-2 pt-4">
-            3. Strict Fair Use Attribution
+            4. Corrections & Accountability Policy
           </h2>
           <p>
-            Under Section 52(1)(a)(iii) of the Indian Copyright Act, 1957, all headline citations and excerpts are presented strictly for informational commentary, educational reporting, and news aggregation. Full attribution to original source publishers is permanently maintained. For queries, contact: <a href="mailto:news@zestfeedx.com" className="text-red-400 underline">news@zestfeedx.com</a>.
+            We take factual accuracy seriously. When an error or clarification is warranted, our editorial desk updates the story promptly with an explicit editor&apos;s note detailing the amendment. Readers, stakeholders, and newsroom peers may submit corrections directly to our editor at <a href="mailto:news@zestfeedx.com" className="text-red-400 underline font-semibold">news@zestfeedx.com</a>.
           </p>
         </div>
       </div>

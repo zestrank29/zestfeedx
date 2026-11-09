@@ -6,15 +6,13 @@ import { ShieldCheck, Mail, MapPin } from "lucide-react";
 import GoogleNewsFollowBadge from "./GoogleNewsFollowBadge";
 
 const ALL_CATEGORIES = [
-  { id: "politics", label: "Politics & National" },
-  { id: "health", label: "Health & Medicine" },
+  { id: "politics", label: "National & Politics" },
   { id: "tech", label: "AI & Technology" },
-  { id: "business", label: "Business & Economy" },
+  { id: "health", label: "Health & Medicine" },
   { id: "world", label: "World Affairs" },
   { id: "sports", label: "Sports & Athletics" },
   { id: "entertainment", label: "Movies & Entertainment" },
-  { id: "science", label: "Space & Science" },
-  { id: "food", label: "Food & Gastronomy" },
+  { id: "ramayana", label: "Ramayana & Cultural Heritage" },
 ];
 
 export default function Footer() {
@@ -81,7 +79,7 @@ export default function Footer() {
           {/* Column 1: Core Priority Sections */}
           <div>
             <h4 className="font-serif font-black text-sm uppercase tracking-wider text-white border-b border-slate-800 pb-1.5 mb-3">
-              Core News
+              National & Tech
             </h4>
             <ul className="space-y-2 text-xs">
               {ALL_CATEGORIES.slice(0, 3).map((c) => (
@@ -97,13 +95,13 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Column 2: Tech, Entertainment, Sports */}
+          {/* Column 2: World & Athletics */}
           <div>
             <h4 className="font-serif font-black text-sm uppercase tracking-wider text-white border-b border-slate-800 pb-1.5 mb-3">
-              Features & Beat
+              Global & Sports
             </h4>
             <ul className="space-y-2 text-xs">
-              {ALL_CATEGORIES.slice(3, 6).map((c) => (
+              {ALL_CATEGORIES.slice(3, 5).map((c) => (
                 <li key={c.id}>
                   <Link
                     href={`/category/${c.id}`}
@@ -116,13 +114,13 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Column 3: Science, Health, Food */}
+          {/* Column 3: Culture & Entertainment */}
           <div>
             <h4 className="font-serif font-black text-sm uppercase tracking-wider text-white border-b border-slate-800 pb-1.5 mb-3">
-              Living & Discovery
+              Culture & Media
             </h4>
             <ul className="space-y-2 text-xs">
-              {ALL_CATEGORIES.slice(6, 9).map((c) => (
+              {ALL_CATEGORIES.slice(5, 7).map((c) => (
                 <li key={c.id}>
                   <Link
                     href={`/category/${c.id}`}
@@ -138,27 +136,27 @@ export default function Footer() {
           {/* Column 4: Institutional & Editorial */}
           <div>
             <h4 className="font-serif font-black text-sm uppercase tracking-wider text-white border-b border-slate-800 pb-1.5 mb-3">
-              Editorial & Standards
+              Editorial & Transparency
             </h4>
             <ul className="space-y-2 text-xs">
               <li>
                 <Link href="/about" className="text-slate-400 hover:text-red-400 transition-colors">
-                  About ZestFeedX & Author Bio
+                  About Us & Author Persona
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="text-slate-400 hover:text-red-400 transition-colors">
-                  Contact Us & Bureaus
-                </Link>
-              </li>
-              <li>
-                <Link href="/editorial-policy" className="text-slate-400 hover:text-red-400 transition-colors">
-                  Editorial Policy & Code
+                <Link href="/editorial-policy" className="text-slate-400 hover:text-red-400 transition-colors font-semibold">
+                  Editorial Policy & Ethics
                 </Link>
               </li>
               <li>
                 <Link href="/fact-check" className="text-slate-400 hover:text-emerald-400 transition-colors font-semibold">
                   Fact-Checking Methodology
+                </Link>
+              </li>
+              <li>
+                <Link href="/contact" className="text-slate-400 hover:text-red-400 transition-colors">
+                  Contact Newsroom Bureaus
                 </Link>
               </li>
             </ul>
@@ -172,7 +170,7 @@ export default function Footer() {
             <ul className="space-y-2 text-xs">
               <li>
                 <Link href="/copyright-disclaimer" className="text-slate-400 hover:text-red-400 transition-colors font-semibold">
-                  Copyright & Fair Use
+                  DMCA & Copyright Policy
                 </Link>
               </li>
               <li>
@@ -184,6 +182,11 @@ export default function Footer() {
                 <Link href="/terms" className="text-slate-400 hover:text-red-400 transition-colors">
                   Terms of Service
                 </Link>
+              </li>
+              <li>
+                <a href="https://zestrank.com/" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-emerald-400 transition-colors">
+                  Network: ZestRank
+                </a>
               </li>
             </ul>
           </div>

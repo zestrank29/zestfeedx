@@ -34,6 +34,8 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+config/*.json
+*service-account*.json
 
 # Backups & Archives
 backup_theme_pre_3d_redesign/
