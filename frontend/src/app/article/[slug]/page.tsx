@@ -28,6 +28,17 @@ interface Props {
   params: Promise<{ slug: string }>;
 }
 
+function formatDate(dateStr?: string) {
+  if (!dateStr) return "Nov 9, 2026";
+  try {
+    const d = new Date(dateStr);
+    if (!isNaN(d.getTime())) {
+      return d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+    }
+  } catch {}
+  return dateStr.replace(/GMT.*$/, "").trim() || "Nov 9, 2026";
+}
+
 export function generateStaticParams() {
   return SEED_ARTICLES.map((a) => ({
     slug: a.slug,
@@ -334,15 +345,19 @@ export default async function ArticlePage({ params }: Props) {
 
             {/* Byline & Timestamps */}
             <div className="flex flex-wrap items-center justify-between text-xs text-slate-400 py-3 border-y border-slate-800 mb-6 gap-2">
-              <div className="flex items-center gap-2">
+              <div className="flex flex-wrap items-center gap-2">
                 <span className="font-bold text-emerald-400 flex items-center gap-1">
                   <UserCheck className="w-3.5 h-3.5" />
                   By {article.author_name || "Pankhudi Sharma"}
                 </span>
                 <span className="text-slate-700">•</span>
-                <span className="flex items-center gap-1">
+                <span className="font-semibold text-red-400">
+                  Source: {article.source_name || "Official Wire"}
+                </span>
+                <span className="text-slate-700">•</span>
+                <span className="flex items-center gap-1 text-slate-300">
                   <Calendar className="w-3 h-3 text-slate-500" />
-                  {article.published_at ? article.published_at.slice(0, 10) : "Nov 6, 2026"}
+                  {formatDate(article.published_at)}
                 </span>
               </div>
               <div className="flex items-center gap-3">

@@ -4,7 +4,8 @@ import json
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, timezone
+import subprocess
 import io
 
 # Ensure UTF-8 output on all systems including Windows Task Scheduler
@@ -16,11 +17,27 @@ if sys.platform == "win32":
         pass
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
 SEED_FILE = os.path.join(BASE_DIR, "frontend", "src", "data", "seedArticles.ts")
+
+if SCRIPTS_DIR not in sys.path:
+    sys.path.insert(0, SCRIPTS_DIR)
+if BASE_DIR not in sys.path:
+    sys.path.insert(0, BASE_DIR)
+
+try:
+    from upgrade_all_seed_articles import generate_800w_article, to_hd_image
+except Exception:
+    to_hd_image = lambda u: u or "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1600&q=85"
+    generate_800w_article = None
 
 FEEDS = {
     "politics": [
+        "https://news.google.com/rss/search?q=%22Narendra+Modi%22+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=%22PM+Modi%22+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
         "https://aninews.in/rss/feed/category/national.xml",
+        "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+        "https://www.thehindu.com/news/national/feeder/default.rss",
         "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN:en"
     ],
     "ramayana": [
@@ -43,7 +60,9 @@ FEEDS = {
     ]
 }
 
-HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+}
 
 def make_slug(title):
     clean = re.sub(r'[^a-zA-Z0-9\s-]', '', title).strip().lower()
@@ -61,6 +80,14 @@ def get_existing_slugs_and_titles():
     max_id = max(ids) if ids else 100
     return slugs, titles, max_id
 
+def clean_html(text):
+    if not text:
+        return ""
+    clean = re.sub(r'<[^>]+>', ' ', text)
+    clean = re.sub(r'&[a-zA-Z0-9#]+;', ' ', clean)
+    clean = re.sub(r'\s+', ' ', clean)
+    return clean.strip()
+
 def fetch_feed_items(url, category):
     items = []
     try:
@@ -73,9 +100,10 @@ def fetch_feed_items(url, category):
             for it in channel.findall('item'):
                 title = it.find('title').text.strip() if it.find('title') is not None and it.find('title').text else ""
                 link = it.find('link').text.strip() if it.find('link') is not None and it.find('link').text else ""
-                desc = it.find('description').text.strip() if it.find('description') is not None and it.find('description').text else ""
+                desc_raw = it.find('description').text.strip() if it.find('description') is not None and it.find('description').text else ""
+                desc = clean_html(desc_raw)
                 pubDate = it.find('pubDate').text.strip() if it.find('pubDate') is not None and it.find('pubDate').text else ""
-                
+
                 # Image extraction (Extract uncompressed camera-original HD photos)
                 img_url = ""
                 img_elem = it.find('image')
@@ -96,17 +124,34 @@ def fetch_feed_items(url, category):
                 if not img_url and enclosure is not None and 'url' in enclosure.attrib:
                     img_url = enclosure.attrib['url']
 
-                # Source name
+                # Source name extraction & normalization
                 src = it.find('source')
-                source_name = src.text.strip() if src is not None and src.text else "ANI News"
-                if "aninews.in" in link:
+                source_name = src.text.strip() if src is not None and src.text else "Official Wire"
+                lower_link = link.lower()
+                lower_title = title.lower()
+
+                if "aninews.in" in lower_link or "ani news" in lower_title:
                     source_name = "ANI News"
-                elif "thehindu.com" in link:
+                elif "thehindu.com" in lower_link or "the hindu" in lower_title:
                     source_name = "The Hindu"
-                elif "indiatimes.com" in link:
+                elif "indiatimes.com" in lower_link or "timesofindia" in lower_link or "the times of india" in lower_title:
                     source_name = "The Times of India"
-                elif "ndtv.com" in link:
+                elif "ndtv.com" in lower_link or "ndtv" in lower_title:
                     source_name = "NDTV"
+                elif "hindustantimes.com" in lower_link or "hindustan times" in lower_title:
+                    source_name = "Hindustan Times"
+                elif "indianexpress.com" in lower_link or "indian express" in lower_title:
+                    source_name = "The Indian Express"
+                elif "newsonair" in lower_link or "news on air" in lower_title:
+                    source_name = "News On AIR"
+                elif "ddnews" in lower_link or "dd news" in lower_title:
+                    source_name = "DD News"
+                elif "reuters" in lower_link or "reuters" in lower_title:
+                    source_name = "Reuters"
+
+                # Specialized HD imagery for PM Modi dispatches
+                if ("modi" in lower_title or "pm modi" in lower_title or "prime minister" in lower_title) and not img_url:
+                    img_url = "/images/pm-modi-bastar-diwali-2026.jpg"
 
                 if title and link:
                     items.append({
@@ -125,13 +170,20 @@ def fetch_feed_items(url, category):
 def build_article_object(art_id, item):
     title = item["title"]
     clean_title = re.sub(r'^[\"\']|[\"\']$', '', title)
-    clean_title = re.sub(r'\s*-\s*(ANI News|The Hindu|The Times of India|NDTV|BBC).*$', '', clean_title).strip()
+    clean_title = re.sub(r'\s*-\s*(ANI News|The Hindu|The Times of India|NDTV|BBC|Reuters|Business Standard|Rediff|News On AIR|DD News).*$', '', clean_title).strip()
     slug = make_slug(clean_title)
-    img = item["img"] or "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80"
+    
+    img = item["img"]
+    if not img:
+        img = "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1600&q=85"
+    else:
+        img = to_hd_image(img)
+
     source_url = item["link"]
     source_name = item["source_name"]
     category = item["category"]
-    desc = item["desc"] or f"Comprehensive investigative report and ground reality analysis on {clean_title}."
+    raw_desc = item["desc"] or f"Comprehensive investigative report and ground reality analysis on {clean_title}."
+    desc = clean_html(raw_desc)
 
     cat_emojis = {
         "politics": "🚨",
@@ -148,10 +200,9 @@ def build_article_object(art_id, item):
     summary_hi = f"{desc[:150]}... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।"
 
     # Generate 800+ word structured investigative report with Markdown Table & 'Why This Matters'
-    try:
-        from scripts.upgrade_all_seed_articles import generate_800w_article
+    if generate_800w_article:
         content_en = generate_800w_article(clean_title, category, desc, source_name)
-    except Exception:
+    else:
         content_en = f"""In what senior correspondents and beat analysts describe as a consequential development for {category.upper()}, verified dispatches confirm key milestones today. {desc}. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
 
 ### Strategic Overview & Institutional Directives
@@ -201,7 +252,7 @@ Official bulletins and statutory filings will continue to be monitored by the ed
 
 संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।"""
 
-    now_iso = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+    now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     return {
         "id": art_id,
@@ -266,7 +317,7 @@ def main():
                 existing_slugs.add(slug)
                 existing_titles.add(title)
                 current_id += 1
-                print(f"  ✓ Added: {art['title'][:65]}... (Image: {bool(item['img'])})")
+                print(f"  ✓ Added: {art['title'][:65]}... ({art['source_name']}, Image: {bool(item['img'])})")
 
                 # Limit 2 new articles per category per run to maintain high editorial quality
                 if sum(1 for a in new_articles if a["category"] == cat) >= 2:
@@ -308,10 +359,10 @@ def main():
 
     print(f"✅ Successfully prepended {len(new_articles)} new articles into {SEED_FILE}")
 
-    # Regenerate Google News, Sitemaps, and RSS Feeds
+    # Regenerate Google News, Sitemaps, and RSS Feeds safely using subprocess
     print("\n🔄 Regenerating news-sitemap.xml and RSS feeds...")
     gen_script = os.path.join(BASE_DIR, "scripts", "generate_google_news.py")
-    os.system(f'"{sys.executable}" "{gen_script}"')
+    subprocess.run([sys.executable, gen_script], check=False)
 
     # Instant Real-Time Search Engine Indexing (Google Indexing API, Bing, IndexNow)
     try:
@@ -319,7 +370,7 @@ def main():
         print(f"\n⚡ Dispatching {len(new_urls)} new URLs to Search Engine Indexing APIs...")
         idx_script = os.path.join(BASE_DIR, "scripts", "realtime_indexing.py")
         if os.path.exists(idx_script):
-            os.system(f'"{sys.executable}" "{idx_script}" ' + " ".join(f'"{u}"' for u in new_urls))
+            subprocess.run([sys.executable, idx_script] + new_urls, check=False)
     except Exception as e:
         print(f"[Indexing Integration] Non-blocking notice: {e}")
 
@@ -328,4 +379,3 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(0 if main() >= 0 else 1)
-

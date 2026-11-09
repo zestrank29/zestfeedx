@@ -3,7 +3,18 @@
 import React from "react";
 import Image from "next/image";
 import { Article } from "@/types/news";
-import { Clock, Eye, ShieldCheck, Flame, ArrowUpRight } from "lucide-react";
+import { Clock, Eye, ShieldCheck, Flame, ArrowUpRight, Calendar } from "lucide-react";
+
+function formatDate(dateStr?: string) {
+  if (!dateStr) return "Nov 9, 2026";
+  try {
+    const d = new Date(dateStr);
+    if (!isNaN(d.getTime())) {
+      return d.toLocaleDateString("en-US", { month: "short", day: "numeric" });
+    }
+  } catch {}
+  return dateStr.replace(/GMT.*$/, "").trim().slice(0, 11) || "Nov 9, 2026";
+}
 
 interface HeroBannerProps {
   breakingArticles: Article[];
@@ -90,18 +101,29 @@ export default function HeroBanner({
                 </p>
               </div>
 
-              {/* Card Footer Credit */}
-              <div className="pt-3 mt-4 border-t border-slate-100 dark:border-slate-800/80 flex items-center justify-between text-[11px] text-slate-500 dark:text-slate-400">
-                <a
-                  href="https://zestfeedx.com/about"
-                  onClick={(e) => e.stopPropagation()}
-                  className="font-medium text-slate-700 dark:text-slate-300 hover:text-[#d32f2f] dark:hover:text-red-400 underline decoration-slate-300 dark:decoration-slate-600 transition-colors flex items-center gap-1"
-                >
-                  Pankhudi Sharma
-                </a>
-                <span className="flex items-center gap-1 text-slate-500 dark:text-cyan-400 font-mono text-[10px]">
-                  <Clock className="w-3 h-3 text-slate-400" /> {art.read_time || "4 min read"}
-                </span>
+              {/* Card Footer Credit with Source & Date */}
+              <div className="pt-2 mt-3 border-t border-slate-100 dark:border-slate-800/80 flex flex-col gap-1.5 text-[11px] text-slate-500 dark:text-slate-400">
+                <div className="flex items-center justify-between">
+                  <span className="font-semibold text-red-600 dark:text-red-400 truncate max-w-[65%]">
+                    {art.source_name || "Official Wire"}
+                  </span>
+                  <span className="flex items-center gap-1 text-[10px] font-mono text-slate-500">
+                    <Calendar className="w-3 h-3 text-slate-400" />
+                    {formatDate(art.published_at)}
+                  </span>
+                </div>
+                <div className="flex items-center justify-between text-[10px]">
+                  <a
+                    href="https://zestfeedx.com/about"
+                    onClick={(e) => e.stopPropagation()}
+                    className="font-medium text-slate-700 dark:text-slate-300 hover:text-[#d32f2f] dark:hover:text-red-400 underline decoration-slate-300 dark:decoration-slate-600 transition-colors"
+                  >
+                    By Pankhudi Sharma
+                  </a>
+                  <span className="flex items-center gap-1 text-slate-500 dark:text-cyan-400 font-mono">
+                    <Clock className="w-3 h-3 text-slate-400" /> {art.read_time || "4 min read"}
+                  </span>
+                </div>
               </div>
             </div>
           </div>

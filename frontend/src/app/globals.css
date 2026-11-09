@@ -34,10 +34,11 @@ html.dark body {
 
 /* High-Contrast Wire Feed Header */
 .feed-header-title {
-  color: #0f172a;
+  color: #090d16 !important;
 }
 html.dark .feed-header-title,
-.dark .feed-header-title {
+.dark .feed-header-title,
+body.dark .feed-header-title {
   color: #ffffff !important;
 }
 

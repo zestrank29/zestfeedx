@@ -3,8 +3,19 @@
 import React, { useState, useRef } from "react";
 import Image from "next/image";
 import confetti from "canvas-confetti";
-import { Clock, Eye, Share2, Check, ShieldCheck, UserCheck, Flame, Zap, Sparkles, ArrowUpRight } from "lucide-react";
+import { Clock, Eye, Share2, Check, ShieldCheck, UserCheck, Flame, Zap, Sparkles, ArrowUpRight, Calendar } from "lucide-react";
 import { Article } from "@/types/news";
+
+function formatDate(dateStr?: string) {
+  if (!dateStr) return "Nov 9, 2026";
+  try {
+    const d = new Date(dateStr);
+    if (!isNaN(d.getTime())) {
+      return d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+    }
+  } catch {}
+  return dateStr.replace(/GMT.*$/, "").trim() || "Nov 9, 2026";
+}
 
 interface NewsCardProps {
   article: Article;
@@ -312,6 +323,18 @@ export default function NewsCard({ article, onSelect, language = "en" }: NewsCar
             <span>💡</span>
             <span className="font-mono font-semibold">{reactions.boost}</span>
           </button>
+        </div>
+
+        {/* Explicit News Date & Single Source Attribution */}
+        <div className="flex items-center justify-between text-[11px] pt-2 border-t border-slate-100 dark:border-slate-800/80">
+          <span className="font-semibold text-red-600 dark:text-red-400 flex items-center gap-1 truncate max-w-[60%]">
+            <span className="w-1.5 h-1.5 rounded-full bg-red-600 dark:bg-red-400 shrink-0" />
+            <span className="truncate">{article.source_name || "Official Wire"}</span>
+          </span>
+          <span className="flex items-center gap-1 text-slate-500 dark:text-slate-400 shrink-0 text-[10px] font-mono">
+            <Calendar className="w-3 h-3 text-slate-400 shrink-0" />
+            {formatDate(article.published_at)}
+          </span>
         </div>
 
         <div className="flex items-center justify-between text-[11px] text-slate-500 dark:text-slate-400">
