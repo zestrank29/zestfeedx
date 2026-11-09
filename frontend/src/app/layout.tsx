@@ -127,6 +127,13 @@ gtag('js', new Date());`,
           }}
         />
 
+        {/* Ahrefs Web Analytics */}
+        <script
+          src="https://analytics.ahrefs.com/analytics.js"
+          data-key="xB6JTtj0a/A+BHY659408A"
+          async
+        />
+
         {/* Google News Subscribe with Google (SwG Basic / Reader Revenue Manager) */}
         <script
           async
