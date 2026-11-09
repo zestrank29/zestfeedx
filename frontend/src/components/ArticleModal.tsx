@@ -316,6 +316,7 @@ export default function ArticleModal({
 
             <button
               onClick={onClose}
+              aria-label="Close article modal"
               className="p-1.5 text-slate-500 hover:text-slate-900 hover:bg-slate-200 dark:text-slate-400 dark:hover:text-white dark:hover:bg-slate-800 rounded transition-colors cursor-pointer"
               title="Close article"
             >
@@ -463,12 +464,14 @@ export default function ArticleModal({
                 <GoogleNewsFollowBadge variant="pill" />
                 <button
                   onClick={handleWhatsAppShare}
+                  aria-label="Share article on WhatsApp"
                   className="px-3 py-1.5 text-xs font-semibold border border-slate-700 bg-slate-800/80 rounded text-slate-200 hover:bg-slate-700 flex items-center gap-1 cursor-pointer"
                 >
                   <Share2 className="w-3 h-3 text-emerald-400" /> WhatsApp
                 </button>
                 <button
                   onClick={handleCopyLink}
+                  aria-label="Copy article link to clipboard"
                   className="px-3 py-1.5 text-xs font-semibold border border-slate-700 bg-slate-800/80 rounded text-slate-200 hover:bg-slate-700 flex items-center gap-1 cursor-pointer"
                 >
                   {copied ? <Check className="w-3 h-3 text-emerald-400" /> : "Copy Link"}
@@ -796,6 +799,7 @@ export default function ArticleModal({
             </div>
             <button
               onClick={() => alert("Connecting to live video transmission stream...")}
+              aria-label="Watch live broadcast transmission"
               className="px-4 py-2 bg-red-600 hover:bg-red-700 text-white font-bold text-xs rounded transition-colors flex items-center gap-1.5 shrink-0 cursor-pointer"
             >
               <PlayCircle className="w-4 h-4" /> Watch Broadcast
@@ -820,6 +824,7 @@ export default function ArticleModal({
                 <button
                   key={emoji}
                   onClick={() => handleReaction(emoji)}
+                  aria-label={`React with ${emoji}`}
                   className={`flex items-center gap-1.5 px-3 py-1.5 rounded border text-xs font-semibold transition-colors cursor-pointer ${
                     userReacted === emoji
                       ? "bg-red-600 text-white border-red-500"

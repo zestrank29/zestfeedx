@@ -301,6 +301,7 @@ export default function NewsCard({ article, onSelect, language = "en" }: NewsCar
         <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar py-0.5">
           <button
             onClick={(e) => handleReaction(e, "fire")}
+            aria-label="React with fire to breaking news"
             className="flex items-center gap-1 px-2 py-0.5 rounded-full bg-slate-100 hover:bg-slate-200 dark:bg-slate-800/80 dark:hover:bg-rose-950/80 border border-slate-200 dark:border-slate-700/60 text-[10px] text-slate-700 dark:text-slate-300 hover:text-rose-600 dark:hover:text-rose-300 transition-colors cursor-pointer"
             title="React: Fire Breaking News"
           >
@@ -309,6 +310,7 @@ export default function NewsCard({ article, onSelect, language = "en" }: NewsCar
           </button>
           <button
             onClick={(e) => handleReaction(e, "shock")}
+            aria-label="React with shock to trending curiosity"
             className="flex items-center gap-1 px-2 py-0.5 rounded-full bg-slate-100 hover:bg-slate-200 dark:bg-slate-800/80 dark:hover:bg-amber-950/80 border border-slate-200 dark:border-slate-700/60 text-[10px] text-slate-700 dark:text-slate-300 hover:text-amber-600 dark:hover:text-amber-300 transition-colors cursor-pointer"
             title="React: Trending Curiosity"
           >
@@ -317,6 +319,7 @@ export default function NewsCard({ article, onSelect, language = "en" }: NewsCar
           </button>
           <button
             onClick={(e) => handleReaction(e, "boost")}
+            aria-label="React with insight to deep analysis"
             className="flex items-center gap-1 px-2 py-0.5 rounded-full bg-slate-100 hover:bg-slate-200 dark:bg-slate-800/80 dark:hover:bg-cyan-950/80 border border-slate-200 dark:border-slate-700/60 text-[10px] text-slate-700 dark:text-slate-300 hover:text-cyan-600 dark:hover:text-cyan-300 transition-colors cursor-pointer"
             title="React: Deep Insight"
           >
@@ -331,13 +334,13 @@ export default function NewsCard({ article, onSelect, language = "en" }: NewsCar
             <span className="w-1.5 h-1.5 rounded-full bg-red-600 dark:bg-red-400 shrink-0" />
             <span className="truncate">{article.source_name || "Official Wire"}</span>
           </span>
-          <span className="flex items-center gap-1 text-slate-500 dark:text-slate-400 shrink-0 text-[10px] font-mono">
-            <Calendar className="w-3 h-3 text-slate-400 shrink-0" />
+          <span className="flex items-center gap-1 text-slate-600 dark:text-slate-300 shrink-0 text-[10px] font-mono">
+            <Calendar className="w-3 h-3 text-slate-500 dark:text-slate-400 shrink-0" />
             {formatDate(article.published_at)}
           </span>
         </div>
 
-        <div className="flex items-center justify-between text-[11px] text-slate-500 dark:text-slate-400">
+        <div className="flex items-center justify-between text-[11px] text-slate-600 dark:text-slate-300">
           <a
             href="https://zestfeedx.com/about"
             onClick={(e) => e.stopPropagation()}
@@ -348,12 +351,12 @@ export default function NewsCard({ article, onSelect, language = "en" }: NewsCar
           </a>
           <div className="flex items-center gap-2 font-mono text-[10px]">
             <span className="flex items-center gap-1">
-              <Clock className="w-3 h-3 text-slate-400 dark:text-slate-500" />
+              <Clock className="w-3 h-3 text-slate-500 dark:text-slate-400" />
               {article.read_time}
             </span>
             <span>•</span>
             <span className="flex items-center gap-1">
-              <Eye className="w-3 h-3 text-slate-400 dark:text-slate-500" />
+              <Eye className="w-3 h-3 text-slate-500 dark:text-slate-400" />
               {article.views_count.toLocaleString()}
             </span>
           </div>
@@ -367,6 +370,7 @@ export default function NewsCard({ article, onSelect, language = "en" }: NewsCar
           </span>
           <button
             onClick={handleShare}
+            aria-label="Share article link"
             className="p-1.5 rounded-lg bg-slate-800/60 hover:bg-slate-700 text-slate-300 hover:text-white transition-all cursor-pointer"
             title="Share Story & Launch Confetti"
           >

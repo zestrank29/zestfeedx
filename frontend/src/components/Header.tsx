@@ -143,6 +143,7 @@ export default function Header({
           {/* Dark / Light Theme Toggle Button */}
           <button
             onClick={toggleTheme}
+            aria-label={theme === "dark" ? "Switch to Light Broadsheet Mode" : "Switch to Dark Mode"}
             className="flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-0.5 rounded border transition-all cursor-pointer bg-white text-slate-800 border-slate-300 hover:bg-slate-50 dark:bg-slate-900 dark:text-amber-300 dark:border-slate-700 dark:hover:bg-slate-800 shadow-xs"
             title={theme === "dark" ? "Switch to Light Broadsheet Mode" : "Switch to Dark Mode"}
           >
@@ -166,6 +167,7 @@ export default function Header({
             <div className="flex items-center bg-white dark:bg-slate-900 border border-slate-300 dark:border-slate-700 rounded p-0.5 text-[11px] font-bold shadow-xs">
               <button
                 onClick={() => onToggleLanguage("en")}
+                aria-label="Switch to English Broadsheet Mode"
                 className={`px-2 py-0.5 rounded transition-all cursor-pointer ${
                   currentLanguage === "en"
                     ? "bg-[#d32f2f] text-white font-black shadow-sm"
@@ -177,12 +179,13 @@ export default function Header({
               </button>
               <button
                 onClick={() => onToggleLanguage("hi")}
+                aria-label="Switch to Hindi News Mode"
                 className={`px-2 py-0.5 rounded transition-all cursor-pointer ${
                   currentLanguage === "hi"
                     ? "bg-amber-600 text-white font-black shadow-sm"
                     : "text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white"
                 }`}
-                title="Trendy Hinglish Broadsheet Mode"
+                title="Hindi News Mode"
               >
                 🇮🇳 HI
               </button>
@@ -200,6 +203,7 @@ export default function Header({
           <button
             onClick={onTriggerScrape}
             disabled={isScraping}
+            aria-label="Trigger hourly news refresh and aggregation"
             className="flex items-center gap-1.5 text-[11px] text-red-700 dark:text-red-400 hover:text-red-800 dark:hover:text-red-300 font-semibold px-2 py-0.5 rounded bg-red-50 dark:bg-red-950/40 border border-red-200 dark:border-red-500/30 transition-colors cursor-pointer"
             title="Trigger hourly fetch & publish"
           >
@@ -281,6 +285,7 @@ export default function Header({
           <div className="flex items-center pl-2">
             <button
               onClick={() => setShowSearch(!showSearch)}
+              aria-label="Toggle news search input"
               className={`p-2 rounded transition-all cursor-pointer ${
                 showSearch
                   ? "bg-[#d32f2f] text-white"
@@ -310,7 +315,8 @@ export default function Header({
             {searchQuery && (
               <button
                 onClick={() => onSearchChange("")}
-                className="absolute right-3 text-xs text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white px-2 py-0.5 rounded bg-slate-200 dark:bg-slate-800"
+                aria-label="Clear search input"
+                className="absolute right-3 text-xs text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white px-2 py-0.5 rounded bg-slate-200 dark:bg-slate-800 cursor-pointer"
               >
                 Clear
               </button>

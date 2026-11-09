@@ -67,6 +67,7 @@ export default function HeroBanner({
                 src={art.image_url || DEFAULT_FALLBACK_IMAGE}
                 alt={art.image_alt || title}
                 fill
+                priority={idx === 0}
                 className="object-cover transition-transform duration-500 ease-out group-hover:scale-105"
                 sizes="(max-width: 768px) 300px, 380px"
               />

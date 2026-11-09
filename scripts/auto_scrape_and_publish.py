@@ -72,9 +72,38 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
 }
 
-def make_slug(title):
+try:
+    from googlenewsdecoder import gnewsdecoder
+except ImportError:
+    gnewsdecoder = None
+
+def extract_og_image(url):
+    if not url:
+        return ""
+    try:
+        req = urllib.request.Request(url, headers=HEADERS)
+        with urllib.request.urlopen(req, timeout=8) as resp:
+            html = resp.read().decode("utf-8", errors="ignore")
+            og = re.search(r'<meta[^>]+property=[\'"]og:image[\'"][^>]+content=[\'"]([^\'"]+)[\'"]', html, re.I)
+            if not og:
+                og = re.search(r'<meta[^>]+content=[\'"]([^\'"]+)[\'"][^>]+property=[\'"]og:image[\'"]', html, re.I)
+            if not og:
+                og = re.search(r'<meta[^>]+name=[\'"]twitter:image[\'"][^>]+content=[\'"]([^\'"]+)[\'"]', html, re.I)
+            if og:
+                img = og.group(1).strip()
+                if img.startswith("//"):
+                    img = "https:" + img
+                if img.startswith("http"):
+                    return img
+    except Exception:
+        pass
+    return ""
+
+def make_slug(title, category="news", art_id=0):
     clean = re.sub(r'[^a-zA-Z0-9\s-]', '', title).strip().lower()
     clean = re.sub(r'\s+', '-', clean)
+    if len(clean.replace('-', '')) < 3:
+        clean = f"{category}-breaking-dispatch-{art_id}"
     return clean[:75] + "-2026"
 
 def get_existing_slugs_and_titles():
@@ -179,17 +208,36 @@ def build_article_object(art_id, item):
     title = item["title"]
     clean_title = re.sub(r'^[\"\']|[\"\']$', '', title)
     clean_title = re.sub(r'\s*-\s*(ANI News|The Hindu|The Times of India|NDTV|BBC|Reuters|Business Standard|Rediff|News On AIR|DD News).*$', '', clean_title).strip()
-    slug = make_slug(clean_title)
+    category = item["category"]
+    slug = make_slug(clean_title, category, art_id)
     
     img = item["img"]
-    if not img:
-        img = "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1600&q=85"
-    else:
-        img = to_hd_image(img)
-
     source_url = item["link"]
     source_name = item["source_name"]
-    category = item["category"]
+
+    # If no RSS image, attempt live publisher og:image extraction
+    if not img and source_url:
+        target_fetch_url = source_url
+        if "news.google.com" in source_url and gnewsdecoder:
+            try:
+                dec = gnewsdecoder(source_url)
+                if dec.get("success"):
+                    target_fetch_url = dec["decoded_url"]
+                    source_url = target_fetch_url
+            except Exception:
+                pass
+        img = extract_og_image(target_fetch_url)
+
+    if not img:
+        lower_t = clean_title.lower()
+        if "modi" in lower_t or category == "politics":
+            img = "/images/pm-modi-bastar-diwali-2026.jpg"
+        elif "delhi" in lower_t and ("air" in lower_t or "smog" in lower_t or "pollution" in lower_t):
+            img = "/images/delhi-air-quality-diwali-2026.jpg"
+        else:
+            img = "/images/pm-modi-bastar-diwali-2026.jpg"
+    else:
+        img = to_hd_image(img)
     raw_desc = item["desc"] or f"Comprehensive investigative report and ground reality analysis on {clean_title}."
     desc = clean_html(raw_desc)
 

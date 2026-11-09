@@ -44,14 +44,14 @@ export default function InfiniteNewsFeed({
   return (
     <div className="w-full max-w-7xl mx-auto py-6">
       {/* Editorial Section Header */}
-      <div className="border-b border-slate-300 dark:border-slate-800 pb-2.5 mb-6 flex items-center justify-between">
+      <div className="border-b-2 border-red-600 pb-3 mb-6 flex items-center justify-between">
         <div className="flex items-center gap-2.5">
-          <span className="w-3 h-3 bg-red-600 rounded-full shrink-0 shadow-xs" />
+          <span className="w-3.5 h-3.5 bg-red-600 rounded-full shrink-0 shadow-sm animate-pulse" />
           <h2 className="font-serif font-black text-xl sm:text-2xl text-slate-950 dark:text-white uppercase tracking-tight feed-header-title">
             Latest Wire & Beat Dispatches
           </h2>
         </div>
-        <span className="text-xs font-bold text-slate-700 dark:text-slate-300 uppercase tracking-wider">
+        <span className="text-xs font-bold text-slate-800 dark:text-slate-200 uppercase tracking-wider bg-slate-200/90 dark:bg-slate-800 px-3 py-1 rounded">
           Continuous Wire Feed
         </span>
       </div>
