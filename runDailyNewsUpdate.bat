@@ -1,5 +1,8 @@
 @echo off
 setlocal enabledelayedexpansion
+chcp 65001 > nul
+set "PYTHONUTF8=1"
+set "PYTHONIOENCODING=utf-8"
 
 set "ROOT_DIR=d:\BuzzNews"
 set "LOG_DIR=%ROOT_DIR%\logs"

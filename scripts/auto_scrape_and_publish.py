@@ -5,6 +5,15 @@ import re
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime
+import io
+
+# Ensure UTF-8 output on all systems including Windows Task Scheduler
+if sys.platform == "win32":
+    try:
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+        sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
+    except Exception:
+        pass
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SEED_FILE = os.path.join(BASE_DIR, "frontend", "src", "data", "seedArticles.ts")

@@ -53,10 +53,28 @@ export async function deployToHostinger() {
             mcpProcess.stdin.write(JSON.stringify(deployReq) + '\n');
           } else if (msg.id === 2) {
             // Deploy response
-            console.log('✅ Deploy Result:', JSON.stringify(msg.result || msg.error));
-            console.log('🎉 Successfully deployed zestfeedx.com to Hostinger!');
-            mcpProcess.kill();
-            resolve(msg.result);
+            console.log('Deploy Result:', JSON.stringify(msg.result || msg.error));
+            // Send tools/call to clear cache
+            const cacheReq = {
+              jsonrpc: '2.0',
+              id: 3,
+              method: 'tools/call',
+              params: {
+                name: 'execute',
+                arguments: {
+                  operation: 'hosting_cache_clear-website',
+                  params: {
+                    domain: 'zestfeedx.com',
+                    username: 'u340027669',
+                  },
+                },
+              },
+            };
+            mcpProcess.stdin.write(JSON.stringify(cacheReq) + '\n');
+          } else if (msg.id === 3) {
+            console.log('Cache Clear Result:', JSON.stringify(msg.result || msg.error));
+            mcpProcess.stdin.end();
+            resolve({ success: true });
           }
         } catch (e) {
           // Non-JSON output
@@ -64,20 +82,20 @@ export async function deployToHostinger() {
       }
     });
 
-    mcpProcess.stderr.on('data', (data) => {
+    mcpProcess.stderr.on('data', (err) => {
       // Ignore routine logs
     });
 
     mcpProcess.on('error', (err) => {
-      console.error('MCP process error:', err);
       reject(err);
     });
 
     mcpProcess.on('close', (code) => {
-      if (!initialized) {
-        console.log('Hostinger MCP exited with code', code);
+      if (code !== 0 && !initialized) {
+        reject(new Error(`MCP Process exited with code ${code}`));
+      } else {
+        resolve({ success: true });
       }
-      resolve();
     });
 
     // Send initialize request
@@ -95,8 +113,15 @@ export async function deployToHostinger() {
   });
 }
 
-deployToHostinger().catch((err) => {
-  console.error('Deployment error:', err);
-  process.exit(1);
-});
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  deployToHostinger()
+    .then(() => {
+      console.log('✅ Deployment and cache purge completed successfully!');
+      process.exit(0);
+    })
+    .catch((err) => {
+      console.error('❌ Deployment error:', err.message);
+      process.exit(1);
+    });
+}
 
