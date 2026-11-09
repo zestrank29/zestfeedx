@@ -48,23 +48,23 @@ export default function Footer() {
               news@zestfeedx.com
             </a>
             <span className="text-slate-700">|</span>
-            <a href="/sitemap.xml" className="hover:text-red-400 transition-colors">
+            <a href="/sitemap.xml" rel="nofollow" className="hover:text-red-400 transition-colors">
               XML Sitemap
             </a>
             <span className="text-slate-700">|</span>
-            <a href="/news-sitemap.xml" className="hover:text-red-400 transition-colors">
+            <a href="/news-sitemap.xml" rel="nofollow" className="hover:text-red-400 transition-colors">
               Google News Sitemap
             </a>
             <span className="text-slate-700">|</span>
-            <a href="/rss.xml" className="hover:text-red-400 transition-colors">
+            <a href="/rss.xml" rel="nofollow" className="hover:text-red-400 transition-colors">
               RSS Feed
             </a>
             <span className="text-slate-700">|</span>
-            <a href="/robots.txt" className="hover:text-red-400 transition-colors">
+            <a href="/robots.txt" rel="nofollow" className="hover:text-red-400 transition-colors">
               Robots.txt
             </a>
             <span className="text-slate-700">|</span>
-            <a href="/llms.txt" className="hover:text-emerald-400 text-slate-300 transition-colors">
+            <a href="/llms.txt" rel="nofollow" className="hover:text-emerald-400 text-slate-300 transition-colors">
               llms.txt
             </a>
           </div>
@@ -85,7 +85,7 @@ export default function Footer() {
               {ALL_CATEGORIES.slice(0, 3).map((c) => (
                 <li key={c.id}>
                   <Link
-                    href={`/category/${c.id}`}
+                    href={`/category/${c.id}/`}
                     className="text-slate-400 hover:text-red-400 transition-colors text-left font-medium block"
                   >
                     {c.label}
@@ -104,7 +104,7 @@ export default function Footer() {
               {ALL_CATEGORIES.slice(3, 5).map((c) => (
                 <li key={c.id}>
                   <Link
-                    href={`/category/${c.id}`}
+                    href={`/category/${c.id}/`}
                     className="text-slate-400 hover:text-red-400 transition-colors text-left font-medium block"
                   >
                     {c.label}
@@ -123,7 +123,7 @@ export default function Footer() {
               {ALL_CATEGORIES.slice(5, 7).map((c) => (
                 <li key={c.id}>
                   <Link
-                    href={`/category/${c.id}`}
+                    href={`/category/${c.id}/`}
                     className="text-slate-400 hover:text-red-400 transition-colors text-left font-medium block"
                   >
                     {c.label}
@@ -140,22 +140,22 @@ export default function Footer() {
             </h4>
             <ul className="space-y-2 text-xs">
               <li>
-                <Link href="/about" className="text-slate-400 hover:text-red-400 transition-colors">
+                <Link href="/about/" className="text-slate-400 hover:text-red-400 transition-colors">
                   About Us & Author Persona
                 </Link>
               </li>
               <li>
-                <Link href="/editorial-policy" className="text-slate-400 hover:text-red-400 transition-colors font-semibold">
+                <Link href="/editorial-policy/" className="text-slate-400 hover:text-red-400 transition-colors font-semibold">
                   Editorial Policy & Ethics
                 </Link>
               </li>
               <li>
-                <Link href="/fact-check" className="text-slate-400 hover:text-emerald-400 transition-colors font-semibold">
+                <Link href="/fact-check/" className="text-slate-400 hover:text-emerald-400 transition-colors font-semibold">
                   Fact-Checking Methodology
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="text-slate-400 hover:text-red-400 transition-colors">
+                <Link href="/contact/" className="text-slate-400 hover:text-red-400 transition-colors">
                   Contact Newsroom Bureaus
                 </Link>
               </li>
@@ -169,17 +169,17 @@ export default function Footer() {
             </h4>
             <ul className="space-y-2 text-xs">
               <li>
-                <Link href="/copyright-disclaimer" className="text-slate-400 hover:text-red-400 transition-colors font-semibold">
+                <Link href="/copyright-disclaimer/" className="text-slate-400 hover:text-red-400 transition-colors font-semibold">
                   DMCA & Copyright Policy
                 </Link>
               </li>
               <li>
-                <Link href="/privacy-policy" className="text-slate-400 hover:text-red-400 transition-colors">
+                <Link href="/privacy-policy/" className="text-slate-400 hover:text-red-400 transition-colors">
                   Privacy Policy (DPDP Act)
                 </Link>
               </li>
               <li>
-                <Link href="/terms" className="text-slate-400 hover:text-red-400 transition-colors">
+                <Link href="/terms/" className="text-slate-400 hover:text-red-400 transition-colors">
                   Terms of Service
                 </Link>
               </li>

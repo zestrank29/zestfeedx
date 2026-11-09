@@ -2,9 +2,34 @@ import React from "react";
 import Link from "next/link";
 import { ArrowLeft, Scale, ShieldCheck } from "lucide-react";
 
-export const metadata = {
-  title: "Terms of Service | ZestFeedX",
-  description: "Terms and conditions governing the access and usage of ZestFeedX digital services.",
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Terms of Service & User Agreement | ZestFeedX",
+  description: "Terms and conditions, statutory compliance, and user agreement governing reader access and usage of ZestFeedX digital dispatches.",
+  alternates: {
+    canonical: "https://zestfeedx.com/terms/",
+  },
+  openGraph: {
+    title: "Terms of Service & User Agreement | ZestFeedX",
+    description: "Terms and conditions, statutory compliance, and user agreement governing reader access and usage of ZestFeedX digital dispatches.",
+    url: "https://zestfeedx.com/terms/",
+    siteName: "ZestFeedX",
+    images: [
+      {
+        url: "https://zestfeedx.com/google-news/wide-logo-light.png",
+        width: 600,
+        height: 60,
+        alt: "ZestFeedX Terms of Service",
+      },
+    ],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Terms of Service & User Agreement | ZestFeedX",
+    description: "Terms and conditions, statutory compliance, and user agreement governing reader access and usage of ZestFeedX digital dispatches.",
+  },
 };
 
 export default function TermsPage() {

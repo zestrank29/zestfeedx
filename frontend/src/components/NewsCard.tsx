@@ -172,7 +172,7 @@ export default function NewsCard({ article, onSelect, language = "en" }: NewsCar
 
   const handleShare = (e: React.MouseEvent) => {
     e.stopPropagation();
-    const shareUrl = `${window.location.origin}/article/${article.slug}`;
+    const shareUrl = `${window.location.origin}/article/${article.slug}/`;
     const shareText = `${displayTitle}\n\n${shareUrl}`;
 
     confetti({

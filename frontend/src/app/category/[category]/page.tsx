@@ -9,34 +9,22 @@ import { SEED_ARTICLES } from "@/data/seedArticles";
 
 const CATEGORIES = [
   "politics",
-  "india",
-  "ramayana",
-  "culture",
-  "health",
   "tech",
-  "entertainment",
-  "movies",
-  "sports",
-  "business",
+  "health",
   "world",
-  "science",
-  "food",
+  "sports",
+  "entertainment",
+  "ramayana",
 ];
 
 const CATEGORY_TITLES: { [key: string]: string } = {
   politics: "Politics & National Affairs",
-  india: "Politics & National Affairs",
   ramayana: "Ramayana & Cultural Heritage",
-  culture: "Ramayana & Cultural Heritage",
-  health: "Health & Medicine",
-  tech: "AI & Modern Technology",
+  health: "Health & Medical News",
+  tech: "Frontier Tech & AI News",
   entertainment: "Movies & Entertainment",
-  movies: "Movies & Entertainment",
   sports: "Sports & Athletics",
-  business: "Business & Economy",
   world: "World & Global Diplomacy",
-  science: "Space & Frontier Science",
-  food: "Food & Gastronomy",
 };
 
 interface Props {
@@ -52,12 +40,35 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { category } = await params;
   const catName = CATEGORY_TITLES[category.toLowerCase()] || category;
+  const canonicalUrl = `https://zestfeedx.com/category/${category.toLowerCase()}/`;
+  const seoTitle = `${catName} | ZestFeedX`;
+  const metaDesc = `Latest fact-checked investigative journalism and comprehensive long-form reports on ${catName} by Pankhudi Sharma.`;
 
   return {
-    title: `${catName} Long-Form News | ZestFeedX`,
-    description: `Latest investigative journalism and comprehensive long-form reports on ${catName} by Pankhudi Sharma.`,
+    title: seoTitle,
+    description: metaDesc,
     alternates: {
-      canonical: `https://zestfeedx.com/category/${category.toLowerCase()}`,
+      canonical: canonicalUrl,
+    },
+    openGraph: {
+      title: seoTitle,
+      description: metaDesc,
+      url: canonicalUrl,
+      siteName: "ZestFeedX",
+      images: [
+        {
+          url: "https://zestfeedx.com/google-news/wide-logo-light.png",
+          width: 600,
+          height: 60,
+          alt: `${catName} Wire - ZestFeedX`,
+        },
+      ],
+      type: "website",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: seoTitle,
+      description: metaDesc,
     },
   };
 }
@@ -136,7 +147,7 @@ export default async function CategoryPage({ params }: Props) {
           <div className="lg:col-span-8">
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
               {articles.map((article) => (
-                <Link key={article.id} href={`/article/${article.slug}`} className="block group">
+                <Link key={article.id} href={`/article/${article.slug}/`} className="block group">
                   <div className="p-4 bg-gradient-to-b from-[#11192e] to-[#0c1222] border border-cyan-500/30 hover:border-cyan-400 rounded-2xl shadow-xl hover:shadow-[0_12px_35px_-8px_rgba(6,182,212,0.35)] transition-all duration-300 h-full flex flex-col justify-between group-hover:scale-[1.02]">
                     <div>
                       <div className="relative aspect-[16/9] w-full overflow-hidden rounded-xl bg-slate-900 mb-3 border border-slate-800 shadow-inner">

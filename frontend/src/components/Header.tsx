@@ -239,7 +239,7 @@ export default function Header({
                 <UserCheck className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
                 <span>Lead Editor:</span>
                 <a
-                  href="https://zestfeedx.com/about"
+                  href="https://zestfeedx.com/about/"
                   onClick={(e) => e.stopPropagation()}
                   className="text-slate-900 dark:text-white hover:text-red-600 dark:hover:text-red-400 underline font-semibold transition-colors"
                 >

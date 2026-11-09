@@ -2,6 +2,10 @@ Options -Indexes
 RewriteEngine On
 RewriteBase /
 
+# Force HTTPS (Fixes HTTP to HTTPS redirect)
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
 # Serve llms.txt as plain text for AI crawlers (ChatGPT, Gemini, Claude)
 <Files "llms.txt">
   ForceType text/plain
@@ -20,16 +24,10 @@ RewriteBase /
   </FilesMatch>
 </IfModule>
 
-# If an article slug without .html is requested, serve article/{slug}.html
-RewriteCond %{DOCUMENT_ROOT}/article/$1.html -f
-RewriteRule ^article/([^/]+)/?$ article/$1.html [L]
+# Handle directory index for Next.js trailing slash output
+DirectoryIndex index.html
 
-# Generic fallback to .html
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME}.html -f
-RewriteRule ^(.+)$ $1.html [L]
-
-# Fallback for SPA
+# Fallback for SPA routing if path does not exist
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^ index.html [L]

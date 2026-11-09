@@ -2,9 +2,34 @@ import React from "react";
 import Link from "next/link";
 import { ArrowLeft, Lock, Eye, Shield } from "lucide-react";
 
-export const metadata = {
-  title: "Privacy Policy | ZestFeedX",
-  description: "Privacy policy and DPDP Act compliance documentation for ZestFeedX users.",
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Privacy Policy & Data Protection | ZestFeedX",
+  description: "Review our transparent Privacy Policy, DPDP Act compliance, cookie usage, and reader data safeguards governing ZestFeedX.",
+  alternates: {
+    canonical: "https://zestfeedx.com/privacy-policy/",
+  },
+  openGraph: {
+    title: "Privacy Policy & Data Protection | ZestFeedX",
+    description: "Review our transparent Privacy Policy, DPDP Act compliance, cookie usage, and reader data safeguards governing ZestFeedX.",
+    url: "https://zestfeedx.com/privacy-policy/",
+    siteName: "ZestFeedX",
+    images: [
+      {
+        url: "https://zestfeedx.com/google-news/wide-logo-light.png",
+        width: 600,
+        height: 60,
+        alt: "ZestFeedX Privacy Policy",
+      },
+    ],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Privacy Policy & Data Protection | ZestFeedX",
+    description: "Review our transparent Privacy Policy, DPDP Act compliance, cookie usage, and reader data safeguards governing ZestFeedX.",
+  },
 };
 
 export default function PrivacyPolicyPage() {

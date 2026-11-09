@@ -194,3 +194,4 @@ if __name__ == "__main__":
         # Default test ping with home and sample article
         target_urls = ["https://zestfeedx.com/"]
     submit_urls_for_indexing(target_urls)
+

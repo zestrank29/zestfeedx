@@ -2,9 +2,34 @@ import React from "react";
 import Link from "next/link";
 import { ArrowLeft, Mail, MapPin, AlertCircle, UserCheck } from "lucide-react";
 
-export const metadata = {
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
   title: "Contact Us & Editorial Bureaus | ZestFeedX",
-  description: "Contact the editorial board, press grievance officer, and strategy team of ZestFeedX at news@zestfeedx.com.",
+  description: "Contact the editorial board, press grievance officer, and strategy team of ZestFeedX directly at news@zestfeedx.com for inquiries.",
+  alternates: {
+    canonical: "https://zestfeedx.com/contact/",
+  },
+  openGraph: {
+    title: "Contact Us & Editorial Bureaus | ZestFeedX",
+    description: "Contact the editorial board, press grievance officer, and strategy team of ZestFeedX directly at news@zestfeedx.com for inquiries.",
+    url: "https://zestfeedx.com/contact/",
+    siteName: "ZestFeedX",
+    images: [
+      {
+        url: "https://zestfeedx.com/google-news/wide-logo-light.png",
+        width: 600,
+        height: 60,
+        alt: "Contact ZestFeedX Newsroom",
+      },
+    ],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Contact Us & Editorial Bureaus | ZestFeedX",
+    description: "Contact the editorial board, press grievance officer, and strategy team of ZestFeedX directly at news@zestfeedx.com for inquiries.",
+  },
 };
 
 export default function ContactPage() {

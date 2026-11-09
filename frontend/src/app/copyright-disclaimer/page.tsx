@@ -2,9 +2,34 @@ import React from "react";
 import Link from "next/link";
 import { ArrowLeft, Copyright, ShieldAlert, FileText } from "lucide-react";
 
-export const metadata = {
-  title: "Copyright & Fair Use Notice | ZestFeedX",
-  description: "Learn about copyright policies, image credits, and Fair Use principles under Section 52(1)(a)(iii) governing ZestFeedX.",
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "DMCA & Copyright Policy | ZestFeedX",
+  description: "Learn about copyright policies, image credits, and Fair Use principles under Section 52(1)(a)(iii) governing ZestFeedX dispatches.",
+  alternates: {
+    canonical: "https://zestfeedx.com/copyright-disclaimer/",
+  },
+  openGraph: {
+    title: "DMCA & Copyright Policy | ZestFeedX",
+    description: "Learn about copyright policies, image credits, and Fair Use principles under Section 52(1)(a)(iii) governing ZestFeedX dispatches.",
+    url: "https://zestfeedx.com/copyright-disclaimer/",
+    siteName: "ZestFeedX",
+    images: [
+      {
+        url: "https://zestfeedx.com/google-news/wide-logo-light.png",
+        width: 600,
+        height: 60,
+        alt: "ZestFeedX Copyright Policies",
+      },
+    ],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "DMCA & Copyright Policy | ZestFeedX",
+    description: "Learn about copyright policies, image credits, and Fair Use principles under Section 52(1)(a)(iii) governing ZestFeedX dispatches.",
+  },
 };
 
 export default function CopyrightDisclaimerPage() {

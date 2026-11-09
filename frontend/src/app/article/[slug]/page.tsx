@@ -37,7 +37,7 @@ export function generateStaticParams() {
 async function fetchArticle(slug: string): Promise<{ article: Article; related: Article[] } | null> {
   const found = SEED_ARTICLES.find((a) => a.slug === slug);
   if (found) {
-    const related = SEED_ARTICLES.filter((a) => a.slug !== slug).slice(0, 4);
+    const related = SEED_ARTICLES.filter((a) => a.slug !== slug).slice(0, 8);
     return { article: found, related };
   }
   return null;
@@ -55,21 +55,35 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   const art = data.article;
-  const canonicalUrl = `https://zestfeedx.com/article/${art.slug}`;
+  const canonicalUrl = `https://zestfeedx.com/article/${art.slug}/`;
   const rawImage =
     art.image_url ||
     "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80";
 
+  // Strict SEO Length Optimization (< 60 chars for title, 120-150 chars for description)
+  const cleanTitle = (art.original_title || art.title).replace(/^[^\w\s]+/, "").trim();
+  const shortTitle = cleanTitle.length > 46 ? `${cleanTitle.slice(0, 43)}...` : cleanTitle;
+  const seoTitle = `${shortTitle} | ZestFeedX`;
+
+  let rawDesc = (art.summary_en || art.summary || cleanTitle).replace(/<[^>]+>/g, "").split("...")[0].trim();
+  let metaDesc = rawDesc;
+  if (metaDesc.length > 150) {
+    metaDesc = `${metaDesc.slice(0, 147)}...`;
+  } else if (metaDesc.length < 120) {
+    metaDesc = `${metaDesc} - Ground report and verified analysis from ZestFeedX Editorial Desk.`;
+    if (metaDesc.length > 150) metaDesc = `${metaDesc.slice(0, 147)}...`;
+  }
+
   return {
-    title: `${art.title_en || art.title} - ZestFeedX`,
-    description: art.summary_en || art.summary,
+    title: seoTitle,
+    description: metaDesc,
     alternates: {
       canonical: canonicalUrl,
     },
     keywords: art.tags ? art.tags.split(",") : ["news", "india", "investigative", "zestfeedx", "pankhudisharma"],
     openGraph: {
-      title: art.title_en || art.title,
-      description: art.summary_en || art.summary,
+      title: seoTitle,
+      description: metaDesc,
       url: canonicalUrl,
       siteName: "ZestFeedX",
       images: [
@@ -77,7 +91,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
           url: rawImage,
           width: 1200,
           height: 675,
-          alt: art.image_alt || art.title,
+          alt: art.image_alt || cleanTitle,
         },
       ],
       type: "article",
@@ -85,8 +99,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: "summary_large_image",
-      title: art.title_en || art.title,
-      description: art.summary_en || art.summary,
+      title: seoTitle,
+      description: metaDesc,
       images: [rawImage],
     },
   };
@@ -101,12 +115,14 @@ export default async function ArticlePage({ params }: Props) {
   }
 
   const { article, related } = data;
-  const canonicalUrl = `https://zestfeedx.com/article/${article.slug}`;
+  const canonicalUrl = `https://zestfeedx.com/article/${article.slug}/`;
   const rawImage =
     article.image_url ||
     "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80";
 
-  // 2026 Zero-Error Schema JSON-LD combining NewsArticle, Person, Organization, BreadcrumbList
+  const cleanHeadline = (article.original_title || article.title).replace(/^[^\w\s]+/, "").trim().slice(0, 105);
+
+  // 2026 Zero-Error Schema JSON-LD conforming strictly to Schema.org NewsArticle & Google Rich Results
   const schema2026 = {
     "@context": "https://schema.org",
     "@graph": [
@@ -114,54 +130,39 @@ export default async function ArticlePage({ params }: Props) {
         "@type": "NewsArticle",
         "@id": `${canonicalUrl}#article`,
         "isPartOf": {
-          "@type": ["WebPage", "Product"],
+          "@type": "WebPage",
           "@id": canonicalUrl,
-          "name": article.title_en || article.title,
-          "productID": "CAow3KLIDA:openaccess",
+          "name": cleanHeadline,
           "url": canonicalUrl
         },
-        "isAccessibleForFree": true,
-        "headline": article.title_en || article.title,
-        "description": article.summary_en || article.summary,
+        "headline": cleanHeadline,
+        "description": (article.summary_en || article.summary).slice(0, 150),
         "image": [rawImage],
         "datePublished": article.published_at,
         "dateModified": article.published_at,
-        "mainEntityOfPage": canonicalUrl,
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": canonicalUrl
+        },
         "author": {
-          "@id": "https://zestfeedx.com/#author-pankhudi-sharma"
+          "@type": "Person",
+          "name": "Pankhudi Sharma",
+          "jobTitle": "Senior Digital Editor",
+          "url": "https://zestfeedx.com/about/"
         },
         "publisher": {
-          "@id": "https://zestfeedx.com/#organization"
+          "@type": "NewsMediaOrganization",
+          "name": "ZestFeedX",
+          "url": "https://zestfeedx.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://zestfeedx.com/google-news/wide-logo-light.png",
+            "width": 600,
+            "height": 60
+          }
         },
         "articleSection": article.category,
         "inLanguage": "en-IN"
-      },
-      {
-        "@type": "Person",
-        "@id": "https://zestfeedx.com/#author-pankhudi-sharma",
-        "name": article.author_name || "Pankhudi Sharma",
-        "jobTitle": "Veteran Journalist and Editor",
-        "worksFor": {
-          "@type": "Organization",
-          "name": "ZestFeedX",
-          "url": "https://zestfeedx.com"
-        },
-        "description": article.author_bio || "Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.",
-        "url": "https://zestfeedx.com/about"
-      },
-      {
-        "@type": "Organization",
-        "@id": "https://zestfeedx.com/#organization",
-        "name": "ZestFeedX",
-        "url": "https://zestfeedx.com",
-        "email": "news@zestfeedx.com",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://zestfeedx.com/favicon.ico"
-        },
-        "sameAs": [
-          "https://zestrank.com/"
-        ]
       },
       {
         "@type": "BreadcrumbList",
@@ -171,18 +172,18 @@ export default async function ArticlePage({ params }: Props) {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://zestfeedx.com"
+            "item": "https://zestfeedx.com/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": article.category.toUpperCase(),
-            "item": `https://zestfeedx.com/?category=${article.category}`
+            "item": `https://zestfeedx.com/category/${article.category}/`
           },
           {
             "@type": "ListItem",
             "position": 3,
-            "name": article.title_en || article.title,
+            "name": cleanHeadline,
             "item": canonicalUrl
           }
         ]
@@ -677,7 +678,7 @@ export default async function ArticlePage({ params }: Props) {
                 </div>
               </div>
               <Link
-                href="/about"
+                href="/about/"
                 className="px-4 py-2 bg-slate-800 hover:bg-slate-700 text-white font-bold text-xs rounded border border-slate-700 transition-colors flex items-center gap-1.5 shrink-0"
               >
                 Author Profile &rarr;
@@ -719,7 +720,7 @@ export default async function ArticlePage({ params }: Props) {
                   {related.map((rel) => (
                     <Link
                       key={rel.id}
-                      href={`/article/${rel.slug}`}
+                      href={`/article/${rel.slug}/`}
                       className="p-3.5 bg-[#0a0f1d] border border-slate-800 hover:border-slate-600 rounded transition-colors group"
                     >
                       <span className="text-[10px] font-bold text-red-500 uppercase tracking-wider block mb-1">

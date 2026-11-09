@@ -3,9 +3,34 @@ import Link from "next/link";
 import Image from "next/image";
 import { ArrowLeft, Award, Shield, Newspaper, CheckCircle2, Mail, ExternalLink } from "lucide-react";
 
-export const metadata = {
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
   title: "About Us & Editorial Leadership | ZestFeedX",
-  description: "Learn about ZestFeedX: investigative journalism, long-form reporting, and editorial leadership by Pankhudi Sharma.",
+  description: "Learn about ZestFeedX: fact-checked investigative journalism, long-form reporting, and newsroom editorial leadership by Pankhudi Sharma.",
+  alternates: {
+    canonical: "https://zestfeedx.com/about/",
+  },
+  openGraph: {
+    title: "About Us & Editorial Leadership | ZestFeedX",
+    description: "Learn about ZestFeedX: fact-checked investigative journalism, long-form reporting, and newsroom editorial leadership by Pankhudi Sharma.",
+    url: "https://zestfeedx.com/about/",
+    siteName: "ZestFeedX",
+    images: [
+      {
+        url: "https://zestfeedx.com/google-news/wide-logo-light.png",
+        width: 600,
+        height: 60,
+        alt: "ZestFeedX Editorial Newsroom",
+      },
+    ],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "About Us & Editorial Leadership | ZestFeedX",
+    description: "Learn about ZestFeedX: fact-checked investigative journalism, long-form reporting, and newsroom editorial leadership by Pankhudi Sharma.",
+  },
 };
 
 export default function AboutPage() {

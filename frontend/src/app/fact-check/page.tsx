@@ -2,9 +2,34 @@ import React from "react";
 import Link from "next/link";
 import { ArrowLeft, ShieldCheck, CheckCircle2, Search, Cpu } from "lucide-react";
 
-export const metadata = {
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
   title: "Fact-Checking Methodology | ZestFeedX",
-  description: "Learn how ZestFeedX verifies breaking stories with Grok AI, primary wire triangulation, and editorial oversight.",
+  description: "Learn how ZestFeedX verifies breaking stories with primary wire triangulation, cross-agency verification, and editorial oversight.",
+  alternates: {
+    canonical: "https://zestfeedx.com/fact-check/",
+  },
+  openGraph: {
+    title: "Fact-Checking Methodology | ZestFeedX",
+    description: "Learn how ZestFeedX verifies breaking stories with primary wire triangulation, cross-agency verification, and editorial oversight.",
+    url: "https://zestfeedx.com/fact-check/",
+    siteName: "ZestFeedX",
+    images: [
+      {
+        url: "https://zestfeedx.com/google-news/wide-logo-light.png",
+        width: 600,
+        height: 60,
+        alt: "ZestFeedX Verification Protocols",
+      },
+    ],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Fact-Checking Methodology | ZestFeedX",
+    description: "Learn how ZestFeedX verifies breaking stories with primary wire triangulation, cross-agency verification, and editorial oversight.",
+  },
 };
 
 export default function FactCheckPage() {

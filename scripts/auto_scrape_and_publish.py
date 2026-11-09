@@ -315,7 +315,7 @@ def main():
 
     # Instant Real-Time Search Engine Indexing (Google Indexing API, Bing, IndexNow)
     try:
-        new_urls = [f"https://zestfeedx.com/article/{a['slug']}" for a in new_articles]
+        new_urls = [f"https://zestfeedx.com/article/{a['slug']}/" for a in new_articles]
         print(f"\n⚡ Dispatching {len(new_urls)} new URLs to Search Engine Indexing APIs...")
         idx_script = os.path.join(BASE_DIR, "scripts", "realtime_indexing.py")
         if os.path.exists(idx_script):

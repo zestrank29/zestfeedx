@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 export const metadata: Metadata = {
   metadataBase: new URL("https://zestfeedx.com"),
   title: {
-    default: "ZestFeedX | Breaking News, Investigative Reports & Global Trends",
+    default: "ZestFeedX | Breaking News & Investigative Reports",
     template: "%s | ZestFeedX",
   },
   description:
@@ -63,14 +63,16 @@ export default function RootLayout({
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Organization",
+        "@type": "NewsMediaOrganization",
         "@id": "https://zestfeedx.com/#organization",
         "name": "ZestFeedX",
-        "url": "https://zestfeedx.com",
+        "url": "https://zestfeedx.com/",
         "email": "news@zestfeedx.com",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://zestfeedx.com/favicon.ico"
+          "url": "https://zestfeedx.com/google-news/wide-logo-light.png",
+          "width": 600,
+          "height": 60
         },
         "sameAs": [
           "https://zestrank.com/"
@@ -78,21 +80,21 @@ export default function RootLayout({
         "founder": {
           "@type": "Person",
           "name": "Pankhudi Sharma",
-          "jobTitle": "Veteran Journalist and Editor",
-          "url": "https://zestfeedx.com/about"
+          "jobTitle": "Senior Digital Editor",
+          "url": "https://zestfeedx.com/about/"
         }
       },
       {
         "@type": "Person",
         "@id": "https://zestfeedx.com/#author-pankhudi-sharma",
         "name": "Pankhudi Sharma",
-        "jobTitle": "Veteran Journalist and Editor",
-        "description": "Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.",
-        "url": "https://zestfeedx.com/about",
+        "jobTitle": "Senior Digital Editor",
+        "description": "Senior Digital Editor covering national policy, frontier tech, and lifestyle trends with over 15 years of investigative journalism experience.",
+        "url": "https://zestfeedx.com/about/",
         "worksFor": {
           "@type": "Organization",
           "name": "ZestFeedX",
-          "url": "https://zestfeedx.com"
+          "url": "https://zestfeedx.com/"
         }
       }
     ]
@@ -160,7 +162,6 @@ gtag('js', new Date());`,
           href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400&family=Public+Sans:wght@400;500;600;700;800&display=swap"
           rel="stylesheet"
         />
-        <link rel="canonical" href="https://zestfeedx.com/" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(globalOrganizationSchema) }}

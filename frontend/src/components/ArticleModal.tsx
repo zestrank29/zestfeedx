@@ -204,7 +204,7 @@ export default function ArticleModal({
       spread: 60,
       origin: { y: 0.6 },
     });
-    const url = `${window.location.origin}/article/${article.slug}`;
+    const url = `${window.location.origin}/article/${article.slug}/`;
     const text = `*${displayTitle}*\n\nRead full report on ZestFeedX:\n${url}`;
     window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(text)}`, "_blank");
   };
@@ -215,7 +215,7 @@ export default function ArticleModal({
       spread: 50,
       origin: { y: 0.6 },
     });
-    const url = `${window.location.origin}/article/${article.slug}`;
+    const url = `${window.location.origin}/article/${article.slug}/`;
     navigator.clipboard.writeText(url);
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
@@ -728,7 +728,7 @@ export default function ArticleModal({
               <div>
                 <div className="flex items-center gap-2 flex-wrap">
                   <a
-                    href="https://zestfeedx.com/about"
+                    href="https://zestfeedx.com/about/"
                     className="font-bold text-slate-900 dark:text-white hover:text-red-500 transition-colors text-base sm:text-lg underline"
                   >
                     Pankhudi Sharma
@@ -754,7 +754,7 @@ export default function ArticleModal({
               </div>
             </div>
             <a
-              href="https://zestfeedx.com/about"
+              href="https://zestfeedx.com/about/"
               className="px-4 py-2 bg-slate-200 hover:bg-slate-300 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-900 dark:text-white font-bold text-xs rounded border border-slate-300 dark:border-slate-700 transition-colors flex items-center gap-1.5 shrink-0"
             >
               Author Profile &rarr;

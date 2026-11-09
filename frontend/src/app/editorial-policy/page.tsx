@@ -2,9 +2,34 @@ import React from "react";
 import Link from "next/link";
 import { ArrowLeft, CheckCircle2, ShieldAlert, Award } from "lucide-react";
 
-export const metadata = {
-  title: "Editorial Policy & Code of Ethics | ZestFeedX",
-  description: "Read the editorial guidelines, verification protocols, and journalistic standards governing ZestFeedX.",
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Editorial Policy & Ethics | ZestFeedX",
+  description: "Read the editorial guidelines, verification protocols, multi-tier fact checking, and journalistic standards governing ZestFeedX.",
+  alternates: {
+    canonical: "https://zestfeedx.com/editorial-policy/",
+  },
+  openGraph: {
+    title: "Editorial Policy & Ethics | ZestFeedX",
+    description: "Read the editorial guidelines, verification protocols, multi-tier fact checking, and journalistic standards governing ZestFeedX.",
+    url: "https://zestfeedx.com/editorial-policy/",
+    siteName: "ZestFeedX",
+    images: [
+      {
+        url: "https://zestfeedx.com/google-news/wide-logo-light.png",
+        width: 600,
+        height: 60,
+        alt: "ZestFeedX Editorial Standards",
+      },
+    ],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Editorial Policy & Ethics | ZestFeedX",
+    description: "Read the editorial guidelines, verification protocols, multi-tier fact checking, and journalistic standards governing ZestFeedX.",
+  },
 };
 
 export default function EditorialPolicyPage() {

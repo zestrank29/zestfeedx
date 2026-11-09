@@ -68,15 +68,17 @@ def parse_articles():
     return articles
 
 def generate_news_sitemap(articles):
-    # Google News sitemap standard (XML with <news:news>)
+    # Google News sitemap standard (XML with <news:news>) - strictly recent breaking dispatches (< 48 hours)
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"',
         '        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">',
     ]
 
-    for art in articles:
-        url = f"https://zestfeedx.com/article/{art['slug']}"
+    # Only include latest 25 recent breaking articles to prevent duplicate sitemap collisions
+    recent_news = articles[:25]
+    for art in recent_news:
+        url = f"https://zestfeedx.com/article/{art['slug']}/"
         # Format date for W3C / ISO8601
         date_str = art['published_at']
         escaped_title = html.escape(art['title'])
@@ -96,7 +98,7 @@ def generate_news_sitemap(articles):
     output_path = os.path.join(PUBLIC_DIR, "news-sitemap.xml")
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-    print(f"Generated {output_path} with {len(articles)} entries.")
+    print(f"Generated {output_path} with {len(recent_news)} entries.")
 
 def format_rfc822(dt_str):
     try:
@@ -132,7 +134,7 @@ def generate_rss_xml(articles, filename="rss.xml", filter_category=None, feed_ti
     ]
 
     for art in filtered:
-        url = f"https://zestfeedx.com/article/{art['slug']}"
+        url = f"https://zestfeedx.com/article/{art['slug']}/"
         rfc_date = format_rfc822(art['published_at'])
         escaped_title = html.escape(art['title'])
         escaped_desc = html.escape(art['summary'])
