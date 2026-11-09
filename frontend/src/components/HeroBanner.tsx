@@ -56,10 +56,19 @@ export default function HeroBanner({
         const summary = getDisplaySummary(art);
 
         return (
-          <div
+          <article
             key={`${keyPrefix}-${art.id}-${idx}`}
             onClick={() => onSelectArticle(art)}
-            className="w-[300px] sm:w-[350px] md:w-[380px] shrink-0 bg-white dark:bg-[#11192e] border border-slate-200 dark:border-cyan-500/30 hover:border-[#d32f2f] dark:hover:border-cyan-400 rounded-xl overflow-hidden flex flex-col justify-between cursor-pointer transition-all duration-300 group shadow-sm hover:shadow-lg dark:shadow-xl hover:scale-[1.01]"
+            onKeyDown={(e) => {
+              if (e.key === "Enter" || e.key === " ") {
+                e.preventDefault();
+                onSelectArticle(art);
+              }
+            }}
+            tabIndex={0}
+            role="article"
+            aria-label={`Featured dispatch: ${title}`}
+            className="w-[300px] sm:w-[350px] md:w-[380px] shrink-0 bg-white dark:bg-[#11192e] border border-slate-200 dark:border-cyan-500/30 hover:border-[#d32f2f] dark:hover:border-cyan-400 rounded-xl overflow-hidden flex flex-col justify-between cursor-pointer transition-all duration-300 group shadow-sm hover:shadow-lg dark:shadow-xl hover:scale-[1.01] focus:outline-none focus:ring-2 focus:ring-red-500"
           >
             {/* 16:9 Thumbnail Photo Header */}
             <div className="relative w-full h-44 sm:h-48 md:h-52 bg-slate-200 dark:bg-slate-900 overflow-hidden">
@@ -67,7 +76,8 @@ export default function HeroBanner({
                 src={art.image_url || DEFAULT_FALLBACK_IMAGE}
                 alt={art.image_alt || title}
                 fill
-                priority={idx === 0}
+                priority={idx === 0 && keyPrefix === "hero-a"}
+                loading={idx === 0 && keyPrefix === "hero-a" ? undefined : "lazy"}
                 className="object-cover transition-transform duration-500 ease-out group-hover:scale-105"
                 sizes="(max-width: 768px) 300px, 380px"
               />
@@ -127,7 +137,7 @@ export default function HeroBanner({
                 </div>
               </div>
             </div>
-          </div>
+          </article>
         );
       })}
     </div>

@@ -3,7 +3,6 @@
 import React, { useState, useEffect, useCallback } from "react";
 import Header, { CATEGORIES } from "@/components/Header";
 import HeroBanner from "@/components/HeroBanner";
-import ThreeHeroGlobe from "@/components/ThreeHeroGlobe";
 import BreakingTicker from "@/components/BreakingTicker";
 import InfiniteNewsFeed from "@/components/InfiniteNewsFeed";
 import ArticleModal from "@/components/ArticleModal";
@@ -275,6 +274,7 @@ export default function HomePage() {
                 <button
                   key={c.id}
                   onClick={() => handleCategorySelect(c.id)}
+                  aria-label={`Filter dispatches by ${c.label}`}
                   className={`px-3.5 py-1.5 text-xs rounded font-bold transition-all whitespace-nowrap cursor-pointer ${
                     isActive
                       ? "bg-[#d32f2f] text-white shadow-xs"

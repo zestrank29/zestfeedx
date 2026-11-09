@@ -270,6 +270,7 @@ export default function ArticleModal({
     <div
       role="dialog"
       aria-modal="true"
+      aria-labelledby="modal-article-title"
       className="fixed inset-0 z-50 overflow-y-auto bg-black/85 backdrop-blur-md flex items-center justify-center p-2 sm:p-4 md:p-6"
       onClick={onClose}
     >
@@ -294,6 +295,7 @@ export default function ArticleModal({
             <div className="flex items-center bg-white dark:bg-slate-900 border border-slate-300 dark:border-slate-700 rounded p-0.5 text-xs font-bold shadow-xs">
               <button
                 onClick={() => setModalLang("en")}
+                aria-label="Read dispatch in English"
                 className={`px-2.5 py-1 rounded transition-all cursor-pointer ${
                   modalLang === "en"
                     ? "bg-[#d32f2f] text-white shadow-xs"
@@ -304,6 +306,7 @@ export default function ArticleModal({
               </button>
               <button
                 onClick={() => setModalLang("hi")}
+                aria-label="Read dispatch in Hindi"
                 className={`px-2.5 py-1 rounded transition-all cursor-pointer ${
                   modalLang === "hi"
                     ? "bg-[#d32f2f] text-white shadow-xs"
@@ -328,7 +331,7 @@ export default function ArticleModal({
         {/* Modal Scrollable Content */}
         <div className="overflow-y-auto p-6 sm:p-8 md:p-10 space-y-6">
           {/* Main Headline */}
-          <h1 className="font-serif text-2xl sm:text-3xl md:text-4xl font-black text-slate-950 dark:text-white leading-tight">
+          <h1 id="modal-article-title" className="font-serif text-2xl sm:text-3xl md:text-4xl font-black text-slate-950 dark:text-white leading-tight">
             {displayTitle}
           </h1>
 

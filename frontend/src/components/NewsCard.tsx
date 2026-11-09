@@ -2,6 +2,7 @@
 
 import React, { useState, useRef } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import confetti from "canvas-confetti";
 import { Clock, Eye, Share2, Check, ShieldCheck, UserCheck, Flame, Zap, Sparkles, ArrowUpRight, Calendar } from "lucide-react";
 import { Article } from "@/types/news";
@@ -286,7 +287,18 @@ export default function NewsCard({ article, onSelect, language = "en" }: NewsCar
 
         {/* High-Contrast Bold Headline */}
         <h3 className="font-serif text-base sm:text-lg font-bold text-slate-950 dark:text-white leading-snug group-hover:text-[#d32f2f] dark:group-hover:text-cyan-300 transition-colors line-clamp-2">
-          {displayTitle}
+          <Link
+            href={`/article/${article.slug}/`}
+            onClick={(e) => {
+              if (onSelect) {
+                e.preventDefault();
+                onSelect(article);
+              }
+            }}
+            className="hover:underline focus:outline-none focus:ring-1 focus:ring-red-500 rounded"
+          >
+            {displayTitle}
+          </Link>
         </h3>
 
         {/* Summary Snippet */}
@@ -302,7 +314,7 @@ export default function NewsCard({ article, onSelect, language = "en" }: NewsCar
           <button
             onClick={(e) => handleReaction(e, "fire")}
             aria-label="React with fire to breaking news"
-            className="flex items-center gap-1 px-2 py-0.5 rounded-full bg-slate-100 hover:bg-slate-200 dark:bg-slate-800/80 dark:hover:bg-rose-950/80 border border-slate-200 dark:border-slate-700/60 text-[10px] text-slate-700 dark:text-slate-300 hover:text-rose-600 dark:hover:text-rose-300 transition-colors cursor-pointer"
+            className="flex items-center gap-1 px-2.5 py-1 min-h-[30px] rounded-full bg-slate-100 hover:bg-slate-200 dark:bg-slate-800/80 dark:hover:bg-rose-950/80 border border-slate-200 dark:border-slate-700/60 text-[10px] text-slate-700 dark:text-slate-300 hover:text-rose-600 dark:hover:text-rose-300 transition-colors cursor-pointer"
             title="React: Fire Breaking News"
           >
             <span>🔥</span>
@@ -311,7 +323,7 @@ export default function NewsCard({ article, onSelect, language = "en" }: NewsCar
           <button
             onClick={(e) => handleReaction(e, "shock")}
             aria-label="React with shock to trending curiosity"
-            className="flex items-center gap-1 px-2 py-0.5 rounded-full bg-slate-100 hover:bg-slate-200 dark:bg-slate-800/80 dark:hover:bg-amber-950/80 border border-slate-200 dark:border-slate-700/60 text-[10px] text-slate-700 dark:text-slate-300 hover:text-amber-600 dark:hover:text-amber-300 transition-colors cursor-pointer"
+            className="flex items-center gap-1 px-2.5 py-1 min-h-[30px] rounded-full bg-slate-100 hover:bg-slate-200 dark:bg-slate-800/80 dark:hover:bg-amber-950/80 border border-slate-200 dark:border-slate-700/60 text-[10px] text-slate-700 dark:text-slate-300 hover:text-amber-600 dark:hover:text-amber-300 transition-colors cursor-pointer"
             title="React: Trending Curiosity"
           >
             <span>⚡</span>
@@ -320,7 +332,7 @@ export default function NewsCard({ article, onSelect, language = "en" }: NewsCar
           <button
             onClick={(e) => handleReaction(e, "boost")}
             aria-label="React with insight to deep analysis"
-            className="flex items-center gap-1 px-2 py-0.5 rounded-full bg-slate-100 hover:bg-slate-200 dark:bg-slate-800/80 dark:hover:bg-cyan-950/80 border border-slate-200 dark:border-slate-700/60 text-[10px] text-slate-700 dark:text-slate-300 hover:text-cyan-600 dark:hover:text-cyan-300 transition-colors cursor-pointer"
+            className="flex items-center gap-1 px-2.5 py-1 min-h-[30px] rounded-full bg-slate-100 hover:bg-slate-200 dark:bg-slate-800/80 dark:hover:bg-cyan-950/80 border border-slate-200 dark:border-slate-700/60 text-[10px] text-slate-700 dark:text-slate-300 hover:text-cyan-600 dark:hover:text-cyan-300 transition-colors cursor-pointer"
             title="React: Deep Insight"
           >
             <span>💡</span>
@@ -364,10 +376,19 @@ export default function NewsCard({ article, onSelect, language = "en" }: NewsCar
 
         {/* Read Dispatch CTA Bar */}
         <div className="flex items-center justify-between pt-1">
-          <span className="text-[10px] font-semibold text-cyan-400 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
+          <Link
+            href={`/article/${article.slug}/`}
+            onClick={(e) => {
+              if (onSelect) {
+                e.preventDefault();
+                onSelect(article);
+              }
+            }}
+            className="text-[10px] font-semibold text-cyan-400 flex items-center gap-1 group-hover:translate-x-1 transition-transform hover:underline"
+          >
             Read Full Dispatch
             <ArrowUpRight className="w-3.5 h-3.5" />
-          </span>
+          </Link>
           <button
             onClick={handleShare}
             aria-label="Share article link"

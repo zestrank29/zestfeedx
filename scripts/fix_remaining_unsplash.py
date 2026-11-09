@@ -69,3 +69,4 @@ content = re.sub(
 with open('frontend/src/data/seedArticles.ts', 'w', encoding='utf-8') as f:
     f.write(content)
 print('Seed articles successfully updated with authentic news photos!')
+

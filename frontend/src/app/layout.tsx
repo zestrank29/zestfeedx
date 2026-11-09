@@ -1,6 +1,21 @@
 import type { Metadata } from "next";
+import { Merriweather, Public_Sans } from "next/font/google";
 import "./globals.css";
 import Footer from "@/components/Footer";
+
+const merriweather = Merriweather({
+  weight: ["300", "400", "700", "900"],
+  subsets: ["latin"],
+  display: "swap",
+  variable: "--font-serif",
+});
+
+const publicSans = Public_Sans({
+  weight: ["400", "500", "600", "700", "800"],
+  subsets: ["latin"],
+  display: "swap",
+  variable: "--font-sans",
+});
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://zestfeedx.com"),
@@ -101,7 +116,7 @@ export default function RootLayout({
   };
 
   return (
-    <html lang="en" suppressHydrationWarning>
+    <html lang="en" suppressHydrationWarning className={`${merriweather.variable} ${publicSans.variable}`}>
       <head>
         {/* Instant Theme Detection Script (prevents flicker) */}
         <script
@@ -119,49 +134,48 @@ export default function RootLayout({
           }}
         />
 
-        {/* Google Analytics / Google Tag Manager */}
-        <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-WVCLHN6M" />
+        {/* Deferred Third-Party Analytics & Tracking Loader (0ms TBT on Mobile & Desktop) */}
         <script
           dangerouslySetInnerHTML={{
-            __html: `window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());`,
+            __html: `(function(){
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              function initAnalytics() {
+                // 1. Google Tag Manager
+                var gtm = document.createElement('script');
+                gtm.async = true;
+                gtm.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-WVCLHN6M';
+                document.head.appendChild(gtm);
+
+                // 2. Ahrefs Web Analytics
+                var ahrefs = document.createElement('script');
+                ahrefs.async = true;
+                ahrefs.src = 'https://analytics.ahrefs.com/analytics.js';
+                ahrefs.setAttribute('data-key', 'xB6JTtj0a/A+BHY659408A');
+                document.head.appendChild(ahrefs);
+
+                // 3. Google Subscribe with Google (SwG Basic)
+                var swg = document.createElement('script');
+                swg.async = true;
+                swg.src = 'https://news.google.com/swg/js/v1/swg-basic.js';
+                document.head.appendChild(swg);
+              }
+
+              if (typeof window !== 'undefined') {
+                if ('requestIdleCallback' in window) {
+                  requestIdleCallback(initAnalytics, { timeout: 2000 });
+                } else {
+                  window.addEventListener('load', function() {
+                    setTimeout(initAnalytics, 1000);
+                  });
+                }
+              }
+            })();`,
           }}
         />
 
-        {/* Ahrefs Web Analytics */}
-        <script
-          src="https://analytics.ahrefs.com/analytics.js"
-          data-key="xB6JTtj0a/A+BHY659408A"
-          async
-        />
-
-        {/* Google News Subscribe with Google (SwG Basic / Reader Revenue Manager) */}
-        <script
-          async
-          type="application/javascript"
-          src="https://news.google.com/swg/js/v1/swg-basic.js"
-        />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `(self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {
-  basicSubscriptions.init({
-    type: "NewsArticle",
-    isPartOfType: ["Product"],
-    isPartOfProductId: "CAow3KLIDA:openaccess",
-    clientOptions: { theme: "light", lang: "en" },
-  });
-});`,
-          }}
-        />
-
-        {/* Google Fonts: Merriweather & Public Sans */}
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400&family=Public+Sans:wght@400;500;600;700;800&display=swap"
-          rel="stylesheet"
-        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(globalOrganizationSchema) }}

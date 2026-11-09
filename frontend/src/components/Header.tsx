@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
+import Link from "next/link";
 import { Search, RotateCw, Clock, UserCheck, TrendingUp, Sun, Moon } from "lucide-react";
 import GoogleNewsFollowBadge from "./GoogleNewsFollowBadge";
 
@@ -144,7 +145,7 @@ export default function Header({
           <button
             onClick={toggleTheme}
             aria-label={theme === "dark" ? "Switch to Light Broadsheet Mode" : "Switch to Dark Mode"}
-            className="flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-0.5 rounded border transition-all cursor-pointer bg-white text-slate-800 border-slate-300 hover:bg-slate-50 dark:bg-slate-900 dark:text-amber-300 dark:border-slate-700 dark:hover:bg-slate-800 shadow-xs"
+            className="flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 min-h-[36px] rounded border transition-all cursor-pointer bg-white text-slate-800 border-slate-300 hover:bg-slate-50 dark:bg-slate-900 dark:text-amber-300 dark:border-slate-700 dark:hover:bg-slate-800 shadow-xs"
             title={theme === "dark" ? "Switch to Light Broadsheet Mode" : "Switch to Dark Mode"}
           >
             {theme === "dark" ? (
@@ -168,7 +169,7 @@ export default function Header({
               <button
                 onClick={() => onToggleLanguage("en")}
                 aria-label="Switch to English Broadsheet Mode"
-                className={`px-2 py-0.5 rounded transition-all cursor-pointer ${
+                className={`px-2.5 py-1 min-h-[32px] rounded transition-all cursor-pointer ${
                   currentLanguage === "en"
                     ? "bg-[#d32f2f] text-white font-black shadow-sm"
                     : "text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white"
@@ -180,7 +181,7 @@ export default function Header({
               <button
                 onClick={() => onToggleLanguage("hi")}
                 aria-label="Switch to Hindi News Mode"
-                className={`px-2 py-0.5 rounded transition-all cursor-pointer ${
+                className={`px-2.5 py-1 min-h-[32px] rounded transition-all cursor-pointer ${
                   currentLanguage === "hi"
                     ? "bg-amber-600 text-white font-black shadow-sm"
                     : "text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white"
@@ -204,7 +205,7 @@ export default function Header({
             onClick={onTriggerScrape}
             disabled={isScraping}
             aria-label="Trigger hourly news refresh and aggregation"
-            className="flex items-center gap-1.5 text-[11px] text-red-700 dark:text-red-400 hover:text-red-800 dark:hover:text-red-300 font-semibold px-2 py-0.5 rounded bg-red-50 dark:bg-red-950/40 border border-red-200 dark:border-red-500/30 transition-colors cursor-pointer"
+            className="flex items-center gap-1.5 text-[11px] text-red-700 dark:text-red-400 hover:text-red-800 dark:hover:text-red-300 font-semibold px-2.5 py-1 min-h-[36px] rounded bg-red-50 dark:bg-red-950/40 border border-red-200 dark:border-red-500/30 transition-colors cursor-pointer"
             title="Trigger hourly fetch & publish"
           >
             <RotateCw className={`w-3.5 h-3.5 ${isScraping ? "animate-spin text-red-600 dark:text-red-400" : ""}`} />
@@ -216,9 +217,11 @@ export default function Header({
       {/* 2. Times of India Broadsheet Masthead */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6 border-b border-slate-200 dark:border-slate-800 relative bg-white dark:bg-[#0a0f1d] transition-colors duration-200">
         <div className="flex flex-col items-center justify-center text-center">
-          <div
+          <Link
+            href="/"
             onClick={() => { onSelectCategory("all"); onSearchChange(""); }}
-            className="cursor-pointer group flex flex-col items-center"
+            className="cursor-pointer group flex flex-col items-center focus:outline-none focus:ring-2 focus:ring-red-500 rounded-lg p-1"
+            aria-label="ZestFeedX Front Page"
           >
             {/* Masthead Title */}
             <div className="flex items-center justify-center gap-2.5">
@@ -242,19 +245,15 @@ export default function Header({
               <span className="flex items-center gap-1">
                 <UserCheck className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
                 <span>Lead Editor:</span>
-                <a
-                  href="https://zestfeedx.com/about/"
-                  onClick={(e) => e.stopPropagation()}
-                  className="text-slate-900 dark:text-white hover:text-red-600 dark:hover:text-red-400 underline font-semibold transition-colors"
-                >
+                <span className="text-slate-900 dark:text-white underline font-semibold transition-colors">
                   Pankhudi Sharma
-                </a>
+                </span>
               </span>
               <span className="text-slate-300 dark:text-slate-600">•</span>
               <span>Daily Broadsheet Edition</span>
               <span className="text-slate-300 dark:text-slate-600">•</span>
             </div>
-          </div>
+          </Link>
         </div>
       </div>
 
@@ -262,7 +261,7 @@ export default function Header({
       <div className="bg-white dark:bg-[#0b1224] text-slate-800 dark:text-slate-200 sticky top-0 z-40 border-b-2 border-[#d32f2f] shadow-md p-0 m-0 transition-colors duration-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
           {/* Category Tabs */}
-          <nav className="flex items-center overflow-x-auto no-scrollbar py-0">
+          <nav aria-label="Primary news categories" className="flex items-center overflow-x-auto no-scrollbar py-0">
             {CATEGORIES.map((cat) => {
               const isActive = selectedCategory === cat.id;
               return (

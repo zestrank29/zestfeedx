@@ -39,7 +39,16 @@ export default function BreakingTicker({
           <div
             key={`${keyPrefix}-${art.id}`}
             onClick={() => onSelectArticle(art)}
-            className="flex items-center gap-3 px-3 py-1.5 bg-white dark:bg-[#0f172a] hover:bg-slate-50 dark:hover:bg-[#1e293b] border border-slate-200 dark:border-slate-800 rounded-lg cursor-pointer transition-all shadow-xs group shrink-0 hover:scale-[1.01]"
+            onKeyDown={(e) => {
+              if (e.key === "Enter" || e.key === " ") {
+                e.preventDefault();
+                onSelectArticle(art);
+              }
+            }}
+            tabIndex={0}
+            role="button"
+            aria-label={`Breaking news dispatch: ${title}`}
+            className="flex items-center gap-3 px-3 py-1.5 bg-white dark:bg-[#0f172a] hover:bg-slate-50 dark:hover:bg-[#1e293b] border border-slate-200 dark:border-slate-800 rounded-lg cursor-pointer transition-all shadow-xs group shrink-0 hover:scale-[1.01] focus:outline-none focus:ring-1 focus:ring-red-500"
             title={title}
           >
             {/* Small News Thumbnail Box */}
@@ -48,6 +57,8 @@ export default function BreakingTicker({
               <img
                 src={art.image_url || DEFAULT_FALLBACK_IMAGE}
                 alt={title}
+                width={48}
+                height={36}
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 loading="lazy"
                 onError={(e) => {

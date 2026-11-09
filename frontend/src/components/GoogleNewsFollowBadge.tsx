@@ -46,6 +46,7 @@ export default function GoogleNewsFollowBadge({
           href={googleNewsUrl}
           target="_blank"
           rel="noopener noreferrer"
+          aria-label="Add ZestFeedX to Google Preferred Sources"
           className="mt-3.5 inline-flex items-center justify-center w-full gap-2 px-3.5 py-2 bg-[#1a73e8] hover:bg-[#1557b0] text-white text-xs font-bold rounded-lg transition-colors shadow-md cursor-pointer"
         >
           <span>⭐ Add to Google Preferred Sources</span>
@@ -60,6 +61,7 @@ export default function GoogleNewsFollowBadge({
         href={googleNewsUrl}
         target="_blank"
         rel="noopener noreferrer"
+        aria-label="Follow ZestFeedX on Google News"
         className={`inline-flex items-center gap-2.5 px-4 py-2 bg-[#0e172a] hover:bg-[#1e293b] border border-blue-500/40 hover:border-blue-400 rounded-lg transition-all text-xs text-slate-200 group ${className}`}
         title="Follow ZestFeedX on Google News"
       >
@@ -91,7 +93,8 @@ export default function GoogleNewsFollowBadge({
       href={googleNewsUrl}
       target="_blank"
       rel="noopener noreferrer"
-      className={`inline-flex items-center gap-1.5 px-2.5 py-1 bg-slate-900/90 hover:bg-slate-800 border border-slate-700 hover:border-blue-500/60 rounded text-[11px] font-medium text-slate-200 hover:text-white transition-all group ${className}`}
+      aria-label="Follow ZestFeedX on Google News"
+      className={`inline-flex items-center gap-1.5 px-2.5 py-1 min-h-[32px] bg-slate-900/90 hover:bg-slate-800 border border-slate-700 hover:border-blue-500/60 rounded text-[11px] font-medium text-slate-200 hover:text-white transition-all group ${className}`}
       title="Add ZestFeedX to Google Preferred Sources"
     >
       <div className="w-3.5 h-3.5 shrink-0">
