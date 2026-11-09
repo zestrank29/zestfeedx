@@ -33,6 +33,8 @@ except Exception:
 
 FEEDS = {
     "politics": [
+        "https://news.google.com/rss?hl=hi&gl=IN&ceid=IN:hi",
+        "https://news.google.com/rss/headlines/section/topic/NATION?hl=hi&gl=IN&ceid=IN:hi",
         "https://news.google.com/rss/search?q=%22Narendra+Modi%22+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
         "https://news.google.com/rss/search?q=%22PM+Modi%22+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
         "https://aninews.in/rss/feed/category/national.xml",
@@ -41,21 +43,27 @@ FEEDS = {
         "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRpZ0FQAQ?hl=en-IN&gl=IN&ceid=IN:en"
     ],
     "ramayana": [
+        "https://news.google.com/rss/search?q=%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A3&hl=hi&gl=IN&ceid=IN:hi",
         "https://news.google.com/rss/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNR014ZDIwU0JXVnVMVWRDS0FBUAE?hl=en-IN&gl=IN&ceid=IN:en"
     ],
     "entertainment": [
+        "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=hi&gl=IN&ceid=IN:hi",
         "https://aninews.in/rss/feed/category/entertainment.xml"
     ],
     "world": [
+        "https://news.google.com/rss/headlines/section/topic/WORLD?hl=hi&gl=IN&ceid=IN:hi",
         "https://aninews.in/rss/feed/category/world.xml"
     ],
     "sports": [
+        "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=hi&gl=IN&ceid=IN:hi",
         "https://aninews.in/rss/feed/category/sports.xml"
     ],
     "health": [
+        "https://news.google.com/rss/headlines/section/topic/HEALTH?hl=hi&gl=IN&ceid=IN:hi",
         "https://aninews.in/rss/feed/category/health.xml"
     ],
     "tech": [
+        "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=hi&gl=IN&ceid=IN:hi",
         "https://aninews.in/rss/feed/category/tech.xml"
     ]
 }
