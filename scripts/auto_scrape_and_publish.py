@@ -101,10 +101,10 @@ def extract_og_image(url):
 
 def make_slug(title, category="news", art_id=0):
     clean = re.sub(r'[^a-zA-Z0-9\s-]', '', title).strip().lower()
-    clean = re.sub(r'\s+', '-', clean)
-    if len(clean.replace('-', '')) < 3:
+    clean = re.sub(r'[-\s]+', '-', clean).strip('-')
+    if len(clean) < 12 or clean.startswith(("dainik-", "jagran", "aajtak", "india-tv", "news18", "bbc", "hindustan")):
         clean = f"{category}-breaking-dispatch-{art_id}"
-    return clean[:75] + "-2026"
+    return clean[:75].strip('-') + "-2026"
 
 def get_existing_slugs_and_titles():
     if not os.path.exists(SEED_FILE):

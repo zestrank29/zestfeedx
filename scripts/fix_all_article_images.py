@@ -85,15 +85,23 @@ def main():
             continue
         cur_img = img_match.group(1)
 
-        # Check if it has an unsplash image
-        if "unsplash.com" in cur_img:
+        title_m = re.search(r'original_title:\s*[`"\']([^`"\']+)[`"\']', block) or re.search(r'title:\s*[`"\']([^`"\']+)[`"\']', block)
+        title = title_m.group(1) if title_m else ""
+
+        # Check if it has an unsplash image OR a non-Modi article accidentally falling back to the Modi image
+        needs_fix = "unsplash.com" in cur_img or (
+            "pm-modi-bastar-diwali" in cur_img
+            and "modi" not in title.lower()
+            and "advani" not in title.lower()
+            and "narendra" not in title.lower()
+            and "bastar" not in title.lower()
+        )
+        if needs_fix:
             id_m = re.search(r'id:\s*(\d+)', block)
-            title_m = re.search(r'original_title:\s*[`"\']([^`"\']+)[`"\']', block) or re.search(r'title:\s*[`"\']([^`"\']+)[`"\']', block)
             src_m = re.search(r'source_name:\s*[`"\']([^`"\']+)[`"\']', block)
             src_url_m = re.search(r'source_url:\s*[`"\']([^`"\']+)[`"\']', block)
 
             art_id = id_m.group(1) if id_m else "?"
-            title = title_m.group(1) if title_m else ""
             src_name = src_m.group(1) if src_m else "Official Wire"
             src_url = src_url_m.group(1) if src_url_m else ""
 
