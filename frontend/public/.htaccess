@@ -26,11 +26,3 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 # Handle directory index for Next.js trailing slash output
 DirectoryIndex index.html
-
-# Error 404 redirect directly to home page
-ErrorDocument 404 /
-
-# Any non-existent file or directory redirects (302) directly to home page
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ / [R=302,L]
