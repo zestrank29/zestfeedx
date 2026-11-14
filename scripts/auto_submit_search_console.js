@@ -35,7 +35,7 @@ function submitToIndexNow(urls) {
     });
 
     const options = {
-      hostname: 'api.indexnow.org',
+      hostname: 'www.bing.com',
       port: 443,
       path: '/indexnow',
       method: 'POST',
