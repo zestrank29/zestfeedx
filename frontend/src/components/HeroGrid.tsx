@@ -195,9 +195,4 @@ export default function HeroGrid({
       </div>
     </section>
   );
-          </div >
-        </div >
-      </div >
-    </section >
-  );
 }
