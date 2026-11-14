@@ -55,6 +55,7 @@ jobs:
       - name: 🔄 Scrape Latest News & Generate Dispatches
         run: |
           python scripts/auto_scrape_and_publish.py
+          node scripts/generate_news_sitemap.js
 
       - name: 🏗️ Build Static Next.js Frontend & Sitemaps
         run: |
@@ -89,4 +90,9 @@ jobs:
           HOSTINGER_FTP_DIR: ${{ secrets.HOSTINGER_FTP_DIR }}
         run: |
           python scripts/deploy_ftps.py
+
+      - name: 📡 Auto-Submit Sitemaps & News to Google Search Console & IndexNow
+        continue-on-error: true
+        run: |
+          node scripts/auto_submit_search_console.js
 

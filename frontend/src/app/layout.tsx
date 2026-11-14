@@ -4,6 +4,7 @@ import "./globals.css";
 
 import CookieConsentBanner from "@/components/CookieConsentBanner";
 import GlobalHeader from "@/components/GlobalHeader";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
 
 const fraunces = Fraunces({
   subsets: ["latin"],
@@ -80,6 +81,12 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  verification: {
+    google: "zestfeedx-broadsheet-search-console-verification",
+    other: {
+      "msvalidate.01": "zestfeedx-bing-verification-token",
+    },
+  },
 };
 
 export default function RootLayout({
@@ -143,6 +150,7 @@ export default function RootLayout({
         />
       </head>
       <body className="min-h-screen bg-[var(--background)] text-[var(--foreground)] antialiased selection:bg-[#FF5A1F] selection:text-white">
+        <GoogleAnalytics />
         <GlobalHeader />
         {children}
         <CookieConsentBanner />

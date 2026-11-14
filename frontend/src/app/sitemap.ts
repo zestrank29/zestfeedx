@@ -1,5 +1,6 @@
 import { MetadataRoute } from "next";
 import { ORIGINAL_ARTICLES } from "@/data/demoContent";
+import { SEED_ARTICLES } from "@/data/seedArticles";
 
 export const dynamic = "force-static";
 
@@ -116,13 +117,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.85,
   }));
 
-  // Index ONLY original articles authored or edited by real journalists
-  const articleRoutes: MetadataRoute.Sitemap = ORIGINAL_ARTICLES.map((art) => ({
+  // Index all broadsheet articles (original investigations and verified dispatches)
+  const originalRoutes: MetadataRoute.Sitemap = ORIGINAL_ARTICLES.map((art) => ({
     url: `${baseUrl}/article/${art.slug}/`,
     lastModified: new Date(art.published_at),
-    changeFrequency: "daily",
-    priority: art.is_lead_story ? 0.95 : 0.9,
+    changeFrequency: "hourly",
+    priority: art.is_lead_story ? 1.0 : 0.9,
   }));
 
-  return [...staticRoutes, ...categoryRoutes, ...articleRoutes];
+  const seedRoutes: MetadataRoute.Sitemap = SEED_ARTICLES.map((art) => ({
+    url: `${baseUrl}/article/${art.slug}/`,
+    lastModified: new Date(art.published_at || Date.now()),
+    changeFrequency: "daily",
+    priority: 0.85,
+  }));
+
+  return [...staticRoutes, ...categoryRoutes, ...originalRoutes, ...seedRoutes];
 }
