@@ -1,102 +1,101 @@
 import React from "react";
 import Link from "next/link";
-import { ArrowLeft, ShieldCheck, CheckCircle2, Search, Cpu } from "lucide-react";
-
+import { ArrowLeft, CheckCircle2, ShieldCheck, Database, FileText, Search } from "lucide-react";
+import Footer from "@/components/Footer";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Fact-Checking Methodology | ZestFeedX",
-  description: "Learn how ZestFeedX verifies breaking stories with primary wire triangulation, cross-agency verification, and editorial oversight.",
+  title: "Fact-Checking Methodology & Protocols | ZestFeedX",
+  description:
+    "Explore the rigorous multi-tier fact-checking protocols, regulatory verification chains, and data auditing standards governing ZestFeedX.",
   alternates: {
     canonical: "https://zestfeedx.com/fact-check/",
-  },
-  openGraph: {
-    title: "Fact-Checking Methodology | ZestFeedX",
-    description: "Learn how ZestFeedX verifies breaking stories with primary wire triangulation, cross-agency verification, and editorial oversight.",
-    url: "https://zestfeedx.com/fact-check/",
-    siteName: "ZestFeedX",
-    images: [
-      {
-        url: "https://zestfeedx.com/google-news/wide-logo-light.png",
-        width: 600,
-        height: 60,
-        alt: "ZestFeedX Verification Protocols",
-      },
-    ],
-    type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Fact-Checking Methodology | ZestFeedX",
-    description: "Learn how ZestFeedX verifies breaking stories with primary wire triangulation, cross-agency verification, and editorial oversight.",
   },
 };
 
 export default function FactCheckPage() {
   return (
-    <div className="min-h-screen bg-[#090d16] text-slate-100 font-sans p-0 m-0">
-      <div className="bg-[#0f172a] border-b border-slate-800 sticky top-0 z-30 shadow-md">
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-3.5 flex items-center justify-between">
-          <Link href="/" className="font-serif text-xl sm:text-2xl font-black tracking-tight text-white uppercase flex items-center gap-2">
-            <span className="w-2.5 h-2.5 bg-red-600 rounded-full" />
-            ZESTFEEDX
+    <div className="min-h-screen flex flex-col bg-[#FAF8F4] dark:bg-[#080C16] text-[#0B1020] dark:text-[#F1F5F9] transition-colors">
+      <header className="border-b border-[#E8E4DC] dark:border-[#1E293B] sticky top-0 z-30 bg-[#FAF8F4]/95 dark:bg-[#080C16]/95 backdrop-blur-md">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3.5 flex items-center justify-between">
+          <Link href="/" className="font-display text-2xl font-bold tracking-tight text-[#0B1020] dark:text-[#F1F5F9]">
+            ZestFeed<span className="text-[#FF5A1F] italic font-serif">X</span>
           </Link>
-          <Link href="/" className="text-xs font-semibold text-slate-400 hover:text-white flex items-center gap-1.5 transition-colors">
-            <ArrowLeft className="w-3.5 h-3.5" /> Back to Home
+          <Link
+            href="/"
+            className="text-xs font-semibold text-[#525866] dark:text-[#94A3B8] hover:text-[#FF5A1F] flex items-center gap-1.5 transition-colors"
+          >
+            <ArrowLeft className="w-3.5 h-3.5" /> Back to Front Page
           </Link>
         </div>
-      </div>
+      </header>
 
-      <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
-        <div className="border-b border-slate-800 pb-3 mb-8">
-          <span className="text-xs font-bold text-emerald-400 uppercase tracking-widest block mb-1">
-            Factual Rigour & Grok AI Protocols
-          </span>
-          <h1 className="font-serif text-3xl sm:text-5xl font-black text-white">
-            Fact-Checking & Grok Verification Protocol
-          </h1>
-        </div>
-
-        <div className="prose max-w-none text-slate-300 leading-relaxed space-y-6">
-          <div className="p-5 bg-emerald-950/40 border border-emerald-800/80 rounded-lg flex items-start gap-3">
-            <ShieldCheck className="w-6 h-6 text-emerald-400 shrink-0 mt-1" />
-            <div>
-              <h3 className="font-serif font-bold text-base text-emerald-300 mb-1">
-                Commitment to Zero Factual Inaccuracies
-              </h3>
-              <p className="text-xs text-emerald-200/90 leading-relaxed">
-                Every long-form article published on ZestFeedX is cross-checked against certified wire feeds, government releases, and live web intelligence powered by Grok AI fact-checking protocols before publication.
-              </p>
-            </div>
+      <main className="flex-1 py-12">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="border-b-2 border-[#0B1020] dark:border-[#F1F5F9] pb-4 mb-8">
+            <span className="text-xs font-bold text-[#FF5A1F] uppercase tracking-widest block mb-1">
+              Verification Standards
+            </span>
+            <h1 className="font-display text-3xl sm:text-5xl font-bold tracking-tight">
+              Fact-Checking Policy
+            </h1>
+            <p className="mt-2 text-base text-[#525866] dark:text-[#94A3B8] max-w-2xl">
+              How ZestFeedX verifies claims, audits datasets, and eliminates misinformation before publication.
+            </p>
           </div>
 
-          <h2 className="font-serif text-xl font-bold text-white border-b border-slate-800 pb-2 pt-4">
-            Our 3-Tier Verification Pipeline
-          </h2>
-          <div className="space-y-4">
-            <div className="p-5 bg-[#0f172a] border border-slate-800 rounded-lg">
-              <h4 className="font-bold text-white text-base mb-1">1. Primary Source Wire Triangulation</h4>
-              <p className="text-sm text-slate-400">
-                We require minimum 2 independent reputable wire reports (such as PTI, ANI, Reuters, or PIB communiqués) confirming the foundational facts.
+          <div className="prose prose-slate dark:prose-invert max-w-none text-[#525866] dark:text-[#94A3B8] leading-relaxed space-y-8">
+            <section>
+              <h2 className="font-display text-2xl font-bold text-[#0B1020] dark:text-[#F1F5F9]">
+                The Three-Tier Verification Chain
+              </h2>
+              <p>
+                In an era of viral social media rumors, algorithmic amplification, and synthetic media, ZestFeedX enforces a non-negotiable verification process prior to publishing any empirical assertion:
               </p>
-            </div>
 
-            <div className="p-5 bg-[#0f172a] border border-slate-800 rounded-lg">
-              <h4 className="font-bold text-white text-base mb-1">2. Grok AI Real-Time Cross-Examination</h4>
-              <p className="text-sm text-slate-400">
-                Using real-time web retrieval, Grok parses active claims to detect debunked rumors, outdated statistics, or altered quotes.
-              </p>
-            </div>
+              <div className="space-y-4 not-prose my-6">
+                <div className="p-4 bg-white dark:bg-[#0F172A] border-l-4 border-[#FF5A1F] border-y border-r border-[#E8E4DC] dark:border-[#1E293B] rounded-r-lg">
+                  <h3 className="font-display text-sm font-bold text-[#0B1020] dark:text-[#F1F5F9] flex items-center gap-2">
+                    <Database className="w-4 h-4 text-[#FF5A1F]" /> Tier 1: Primary Document Corroboration
+                  </h3>
+                  <p className="text-xs text-[#525866] dark:text-[#94A3B8] mt-1">
+                    All policy claims must be grounded in primary administrative documentation—official Union gazettes, judicial rulings, Parliament answers, or direct regulatory circulars (RBI, SEBI, IRDAI).
+                  </p>
+                </div>
 
-            <div className="p-5 bg-[#0f172a] border border-slate-800 rounded-lg">
-              <h4 className="font-bold text-white text-base mb-1">3. Editorial Oversight & Correction Registry</h4>
-              <p className="text-sm text-slate-400">
-                Directed by <a href="https://zestfeedx.com/about" className="text-white hover:text-red-400 underline font-semibold">Pankhudi Sharma</a> (Veteran Journalist and Editor), our correction policy is transparent and accountable. Submit corrections to: <a href="mailto:news@zestfeedx.com" className="text-emerald-400 underline font-semibold">news@zestfeedx.com</a>.
+                <div className="p-4 bg-white dark:bg-[#0F172A] border-l-4 border-[#0E7C86] border-y border-r border-[#E8E4DC] dark:border-[#1E293B] rounded-r-lg">
+                  <h3 className="font-display text-sm font-bold text-[#0B1020] dark:text-[#F1F5F9] flex items-center gap-2">
+                    <ShieldCheck className="w-4 h-4 text-[#0E7C86]" /> Tier 2: Multi-Source Independent Cross-Referencing
+                  </h3>
+                  <p className="text-xs text-[#525866] dark:text-[#94A3B8] mt-1">
+                    When reporting from wire dispatches or field developments, our pipeline clusters coverage from at least 3 distinct institutional publishers to identify discrepancies before writing our original 40-word brief.
+                  </p>
+                </div>
+
+                <div className="p-4 bg-white dark:bg-[#0F172A] border-l-4 border-emerald-600 border-y border-r border-[#E8E4DC] dark:border-[#1E293B] rounded-r-lg">
+                  <h3 className="font-display text-sm font-bold text-[#0B1020] dark:text-[#F1F5F9] flex items-center gap-2">
+                    <FileText className="w-4 h-4 text-emerald-600" /> Tier 3: Senior Editorial Fact-Check Sign-off
+                  </h3>
+                  <p className="text-xs text-[#525866] dark:text-[#94A3B8] mt-1">
+                    Every long-form investigation undergoes a secondary desk review by the Senior Digital Editor to audit quotes, context, dates, and quantitative claims.
+                  </p>
+                </div>
+              </div>
+            </section>
+
+            <section>
+              <h2 className="font-display text-2xl font-bold text-[#0B1020] dark:text-[#F1F5F9]">
+                Zero Tolerance for Speculative Rumors
+              </h2>
+              <p>
+                ZestFeedX does not cover unconfirmed social media chatter, anonymous WhatsApp forwards, or speculative entertainment rumors. If a story cannot be corroborated through official administrative channels, credible industry spokespersons, or scientific telemetry, it does not appear on our broadsheet.
               </p>
-            </div>
+            </section>
           </div>
         </div>
-      </div>
+      </main>
+
+      <Footer />
     </div>
   );
 }

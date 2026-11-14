@@ -1,5 +1,5 @@
 import { MetadataRoute } from "next";
-import { SEED_ARTICLES } from "@/data/seedArticles";
+import { ORIGINAL_ARTICLES } from "@/data/demoContent";
 
 export const dynamic = "force-static";
 
@@ -14,13 +14,49 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1.0,
     },
     {
-      url: `${baseUrl}/about/`,
+      url: `${baseUrl}/hi/`,
       lastModified: new Date(),
-      changeFrequency: "monthly",
-      priority: 0.7,
+      changeFrequency: "hourly",
+      priority: 1.0,
     },
     {
-      url: `${baseUrl}/contact/`,
+      url: `${baseUrl}/en/`,
+      lastModified: new Date(),
+      changeFrequency: "hourly",
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/topic/delhi-aqi/`,
+      lastModified: new Date(),
+      changeFrequency: "hourly",
+      priority: 0.95,
+    },
+    {
+      url: `${baseUrl}/data/gold-silver-price-india/`,
+      lastModified: new Date(),
+      changeFrequency: "hourly",
+      priority: 0.95,
+    },
+    {
+      url: `${baseUrl}/data/petrol-diesel-price-india/`,
+      lastModified: new Date(),
+      changeFrequency: "daily",
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/explainers/`,
+      lastModified: new Date(),
+      changeFrequency: "daily",
+      priority: 0.85,
+    },
+    {
+      url: `${baseUrl}/advertise/`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/about/`,
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.7,
@@ -35,13 +71,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: `${baseUrl}/fact-check/`,
       lastModified: new Date(),
       changeFrequency: "weekly",
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/copyright-disclaimer/`,
-      lastModified: new Date(),
-      changeFrequency: "monthly",
-      priority: 0.7,
+      priority: 0.75,
     },
     {
       url: `${baseUrl}/privacy-policy/`,
@@ -55,16 +85,28 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.6,
     },
+    {
+      url: `${baseUrl}/copyright-disclaimer/`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.6,
+    },
+    {
+      url: `${baseUrl}/contact/`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.7,
+    },
   ];
 
   const activeCategories = [
-    "politics",
+    "markets",
     "tech",
-    "health",
+    "india",
     "world",
+    "health",
     "sports",
     "entertainment",
-    "ramayana"
   ];
 
   const categoryRoutes: MetadataRoute.Sitemap = activeCategories.map((cat) => ({
@@ -74,11 +116,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.85,
   }));
 
-  const articleRoutes: MetadataRoute.Sitemap = SEED_ARTICLES.map((art) => ({
+  // Index ONLY original articles authored or edited by real journalists
+  const articleRoutes: MetadataRoute.Sitemap = ORIGINAL_ARTICLES.map((art) => ({
     url: `${baseUrl}/article/${art.slug}/`,
     lastModified: new Date(art.published_at),
     changeFrequency: "daily",
-    priority: 0.9,
+    priority: art.is_lead_story ? 0.95 : 0.9,
   }));
 
   return [...staticRoutes, ...categoryRoutes, ...articleRoutes];

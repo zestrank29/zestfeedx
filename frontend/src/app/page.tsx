@@ -1,313 +1,265 @@
 "use client";
 
-import React, { useState, useEffect, useCallback } from "react";
-import Header, { CATEGORIES } from "@/components/Header";
-import HeroBanner from "@/components/HeroBanner";
-import BreakingTicker from "@/components/BreakingTicker";
-import InfiniteNewsFeed from "@/components/InfiniteNewsFeed";
-import ArticleModal from "@/components/ArticleModal";
-import { Article, NewsResponse, TrendingResponse } from "@/types/news";
-import { SEED_ARTICLES } from "@/data/seedArticles";
+import React, { useState, useEffect, Suspense } from "react";
+import { useSearchParams } from "next/navigation";
+import TopBar from "@/components/TopBar";
+import Masthead from "@/components/Masthead";
+import BreakingStrip from "@/components/BreakingStrip";
+import HeroGrid from "@/components/HeroGrid";
+import AdSlot from "@/components/AdSlot";
+import MorningBriefCard from "@/components/MorningBriefCard";
+import VerticalSection from "@/components/VerticalSection";
+import ExplainerCarousel from "@/components/ExplainerCarousel";
+import NewsletterBanner from "@/components/NewsletterBanner";
+import Footer from "@/components/Footer";
+import { Globe, PlaneTakeoff } from "lucide-react";
 
-const CATEGORY_DISPLAY_TITLES: { [key: string]: string } = {
-  all: "Latest Long-Form Broadsheet Reports",
-  politics: "Politics & National Affairs",
-  india: "Politics & National Affairs",
-  ramayana: "Ramayana & Cultural Heritage",
-  culture: "Ramayana & Cultural Heritage",
-  health: "Health & Science",
-  tech: "AI & Modern Technology",
-  business: "Business & Financial Markets",
-  world: "World Affairs & Global Diplomacy",
-  sports: "Sports & Athletics",
-  entertainment: "Movies & Entertainment",
-  science: "Space & Frontier Science",
-  food: "Food & Gastronomy",
-};
+import {
+  ORIGINAL_ARTICLES,
+  CURATED_BRIEFS,
+  OriginalArticle,
+  CuratedBrief,
+} from "@/data/demoContent";
 
-export default function HomePage() {
-  const [currentLanguage, setCurrentLanguage] = useState<"en" | "hi">("en");
-  const [articles, setArticles] = useState<Article[]>(SEED_ARTICLES);
-  const [breakingArticles, setBreakingArticles] = useState<Article[]>(SEED_ARTICLES.slice(0, 10));
-  const [trendingTags, setTrendingTags] = useState<string[]>([
-    "Politics2026", "HealthTech", "AIRevolution", "NationalPolicy", "Markets", "CancerTherapy"
-  ]);
+interface HomePageContentProps {
+  initialLanguage?: "en" | "hi";
+  initialEdition?: "india" | "world";
+}
+
+export function HomePageContent({
+  initialLanguage = "en",
+  initialEdition = "india",
+}: HomePageContentProps) {
+  const searchParams = useSearchParams();
+  const urlLang = searchParams?.get("lang") as "en" | "hi" | null;
+  const urlEdition = searchParams?.get("edition") as "india" | "world" | null;
+
+  const [currentLanguage, setCurrentLanguage] = useState<"en" | "hi">(urlLang || initialLanguage);
+  const [currentEdition, setCurrentEdition] = useState<"india" | "world">(urlEdition || initialEdition);
   const [selectedCategory, setSelectedCategory] = useState("all");
   const [searchQuery, setSearchQuery] = useState("");
-  const [page, setPage] = useState(1);
-  const [hasMore, setHasMore] = useState(false);
-  const [isLoading, setIsLoading] = useState(false);
-  const [isScraping, setIsScraping] = useState(false);
-  const [selectedArticle, setSelectedArticle] = useState<Article | null>(null);
 
-  // Sync category from URL search parameters on mount
+  // Sync state when URL params change
   useEffect(() => {
+    if (urlLang && (urlLang === "en" || urlLang === "hi")) {
+      setCurrentLanguage(urlLang);
+    }
+  }, [urlLang]);
+
+  useEffect(() => {
+    if (urlEdition && (urlEdition === "india" || urlEdition === "world")) {
+      setCurrentEdition(urlEdition);
+    }
+  }, [urlEdition]);
+
+  // Handle language switch and update URL without hard reload
+  const handleLanguageChange = (newLang: "en" | "hi") => {
+    setCurrentLanguage(newLang);
     if (typeof window !== "undefined") {
-      const params = new URLSearchParams(window.location.search);
-      const cat = params.get("category");
-      if (cat) {
-        setSelectedCategory(cat.toLowerCase());
-      }
-    }
-  }, []);
-
-  // Fetch Trending / Breaking on initial load
-  useEffect(() => {
-    async function loadTrending() {
-      if (typeof window !== "undefined" && window.location.hostname === "localhost") {
-        try {
-          const res = await fetch("http://127.0.0.1:8000/api/trending");
-          if (res.ok) {
-            const data: TrendingResponse = await res.json();
-            if (data.breaking && data.breaking.length > 0) {
-              setBreakingArticles(data.breaking);
-            }
-            if (data.tags && data.tags.length > 0) {
-              setTrendingTags(data.tags);
-            }
-          }
-        } catch {}
-      }
-    }
-    loadTrending();
-  }, []);
-
-  // Category matcher that supports synonyms like politics / india, tech / ai, etc.
-  const matchCategory = (artCat: string, targetCat: string) => {
-    const a = (artCat || "").toLowerCase();
-    const t = (targetCat || "").toLowerCase();
-    if (t === "all") return true;
-    if (t === "politics" || t === "india" || t === "national") {
-      return a === "politics" || a === "india" || a === "national";
-    }
-    if (t === "ramayana" || t === "culture") {
-      return a === "ramayana" || a === "culture";
-    }
-    if (t === "entertainment" || t === "movies") {
-      return a === "entertainment" || a === "movies";
-    }
-    if (t === "tech" || t === "ai" || t === "technology") {
-      return a === "tech" || a === "ai" || a === "technology";
-    }
-    return a === t;
-  };
-
-  // Fetch News Feed
-  const fetchNews = useCallback(
-    async (pageNum: number, category: string, search: string, append: boolean = false) => {
-      setIsLoading(true);
-      try {
-        let loaded = false;
-        if (typeof window !== "undefined" && window.location.hostname === "localhost") {
-          try {
-            const queryParams = new URLSearchParams({
-              page: pageNum.toString(),
-              limit: "9",
-            });
-            if (category && category !== "all") queryParams.append("category", category);
-            if (search.trim()) queryParams.append("search", search.trim());
-
-            const res = await fetch(`http://127.0.0.1:8000/api/news?${queryParams.toString()}`);
-            if (res.ok) {
-              const data: NewsResponse = await res.json();
-              if (data?.items && data.items.length > 0) {
-                if (append) {
-                  setArticles((prev) => [...prev, ...data.items]);
-                } else {
-                  setArticles(data.items);
-                }
-                setHasMore(data.has_more);
-                loaded = true;
-              }
-            }
-          } catch {}
-        }
-
-        if (!loaded) {
-          // Client-side filtering across all 45+ seed long-form articles
-          let filtered = [...SEED_ARTICLES];
-          if (category && category !== "all") {
-            filtered = filtered.filter((a) => matchCategory(a.category, category));
-          }
-          if (search && search.trim()) {
-            const q = search.toLowerCase();
-            filtered = filtered.filter((a) =>
-              a.title.toLowerCase().includes(q) ||
-              a.content.toLowerCase().includes(q) ||
-              (a.tags && a.tags.toLowerCase().includes(q))
-            );
-          }
-          setArticles(filtered);
-          setHasMore(false);
-        }
-      } finally {
-        setIsLoading(false);
-      }
-    },
-    []
-  );
-
-  // Trigger fetch when category or search changes
-  useEffect(() => {
-    setPage(1);
-    fetchNews(1, selectedCategory, searchQuery, false);
-  }, [selectedCategory, searchQuery, fetchNews]);
-
-  const handleCategorySelect = (cat: string) => {
-    setSelectedCategory(cat);
-    if (typeof window !== "undefined") {
-      const url = cat === "all" ? window.location.pathname : `?category=${cat}`;
-      window.history.pushState({}, "", url);
-
-      // Smoothly scroll down to the news section so the user sees the category news immediately
-      const newsSection = document.getElementById("categorized-news-section");
-      if (newsSection && cat !== "all") {
-        newsSection.scrollIntoView({ behavior: "smooth" });
-      }
-    }
-  };
-
-  const handleLoadMore = () => {
-    if (isLoading || !hasMore) return;
-    const nextPage = page + 1;
-    setPage(nextPage);
-    fetchNews(nextPage, selectedCategory, searchQuery, true);
-  };
-
-  const handleTriggerScrape = async () => {
-    setIsScraping(true);
-    try {
-      if (typeof window !== "undefined" && window.location.hostname === "localhost") {
-        const res = await fetch("http://127.0.0.1:8000/api/scrape/trigger", {
-          method: "POST",
-        });
-        if (res.ok) {
-          setPage(1);
-          await fetchNews(1, selectedCategory, searchQuery, false);
-        }
+      const url = new URL(window.location.href);
+      if (newLang === "hi") {
+        url.searchParams.set("lang", "hi");
       } else {
-        await new Promise((r) => setTimeout(r, 1200));
-        setPage(1);
-        await fetchNews(1, selectedCategory, searchQuery, false);
+        url.searchParams.delete("lang");
       }
-    } catch (err) {
-      console.error("Error triggering scrape:", err);
-    } finally {
-      setIsScraping(false);
+      window.history.pushState({}, "", url.toString());
     }
   };
 
-  const currentCategoryTitle =
-    CATEGORY_DISPLAY_TITLES[selectedCategory.toLowerCase()] ||
-    selectedCategory.toUpperCase();
+  // Handle edition switch and update URL
+  const handleEditionChange = (newEdition: "india" | "world") => {
+    setCurrentEdition(newEdition);
+    if (typeof window !== "undefined") {
+      const url = new URL(window.location.href);
+      if (newEdition === "world") {
+        url.searchParams.set("edition", "world");
+      } else {
+        url.searchParams.delete("edition");
+      }
+      window.history.pushState({}, "", url.toString());
+    }
+  };
+
+  // Edition-specific story prioritization
+  // In World/Diaspora mode: prioritize cross-border remittances (art-2), student visas (art-9), and silicon fabs (art-3)
+  const leadStory =
+    currentEdition === "world"
+      ? ORIGINAL_ARTICLES.find((a) => a.id === "art-2") || ORIGINAL_ARTICLES[0]
+      : ORIGINAL_ARTICLES.find((a) => a.is_lead_story) || ORIGINAL_ARTICLES[0];
+
+  const secondaryStories =
+    currentEdition === "world"
+      ? [
+          ORIGINAL_ARTICLES.find((a) => a.id === "art-9") || ORIGINAL_ARTICLES[1],
+          ORIGINAL_ARTICLES.find((a) => a.id === "art-3") || ORIGINAL_ARTICLES[2],
+        ]
+      : ORIGINAL_ARTICLES.filter((a) => a.is_secondary_story);
+
+  // Group by vertical for Section 7
+  const marketsOriginal = ORIGINAL_ARTICLES.filter((a) => a.category === "markets");
+  const marketsCurated = CURATED_BRIEFS.filter((b) => b.category === "markets" || b.category === "tech");
+
+  const techOriginal = ORIGINAL_ARTICLES.filter((a) => a.category === "tech");
+  const techCurated = CURATED_BRIEFS.filter((b) => b.category === "tech");
+
+  const indiaOriginal = ORIGINAL_ARTICLES.filter((a) => a.category === "india" || a.category === "health");
+  const indiaCurated = CURATED_BRIEFS.filter((b) => b.category === "india" || b.category === "health" || b.category === "world");
+
+  // Search filter if user types in search
+  const filteredOriginal = searchQuery
+    ? ORIGINAL_ARTICLES.filter(
+        (a) =>
+          a.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+          a.deck.toLowerCase().includes(searchQuery.toLowerCase()) ||
+          (a.title_hi && a.title_hi.toLowerCase().includes(searchQuery.toLowerCase())) ||
+          a.tags.some((t) => t.toLowerCase().includes(searchQuery.toLowerCase()))
+      )
+    : null;
+
+  const isHindi = currentLanguage === "hi";
 
   return (
-    <div className="min-h-screen flex flex-col bg-slate-50 dark:bg-[#090d16] text-slate-900 dark:text-slate-100 overflow-x-hidden font-sans p-0 m-0 transition-colors duration-200">
-      {/* 1. Top Header & Navigation (Zero Gap) */}
-      <Header
-        selectedCategory={selectedCategory}
-        onSelectCategory={handleCategorySelect}
-        searchQuery={searchQuery}
-        onSearchChange={setSearchQuery}
-        onTriggerScrape={handleTriggerScrape}
-        isScraping={isScraping}
+    <div className={`min-h-screen flex flex-col bg-[#FAF8F4] dark:bg-[#080C16] text-[#0B1020] dark:text-[#F1F5F9] transition-colors ${isHindi ? "font-hindi" : ""}`}>
+      {/* 1. Slim Top Bar */}
+      <TopBar
         currentLanguage={currentLanguage}
-        onToggleLanguage={setCurrentLanguage}
+        onLanguageChange={handleLanguageChange}
+        currentEdition={currentEdition}
+        onEditionChange={handleEditionChange}
       />
 
-      {/* 2. Top Breaking News Continuous Marquee Ticker */}
-      <div className="p-0 m-0">
-        <BreakingTicker
-          breakingArticles={breakingArticles}
-          tags={trendingTags}
-          onSelectArticle={setSelectedArticle}
-          language={currentLanguage}
-        />
-      </div>
+      {/* 2. Masthead + Sticky Category Nav */}
+      <Masthead
+        selectedCategory={selectedCategory}
+        onSelectCategory={setSelectedCategory}
+        currentLanguage={currentLanguage}
+        searchQuery={searchQuery}
+        onSearchChange={setSearchQuery}
+      />
 
-      {/* 2.5 AdSense Leaderboard Placement (728x90 Native Responsive Slot) */}
-      <div
-        className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 my-3 flex flex-col items-center justify-center min-h-[90px] overflow-hidden"
-        data-ad-slot="adsense-leaderboard-728x90"
-      >
-        <div className="w-full max-w-[728px] h-[90px] rounded border border-dashed border-slate-300 dark:border-slate-800/80 bg-slate-100/50 dark:bg-slate-900/30 flex flex-col items-center justify-center text-center">
-          <span className="text-[9px] uppercase tracking-widest text-slate-400 font-mono">
-            Advertisement
-          </span>
-          <span className="text-xs text-slate-400 font-serif">
-            [Google AdSense Responsive Leaderboard — 728×90]
-          </span>
-        </div>
-      </div>
+      {/* 3. Breaking Strip */}
+      <BreakingStrip currentLanguage={currentLanguage} />
 
-      {/* 3. Hero Section: Side-by-Side Auto-Running Latest News */}
-      <section aria-label="Lead Editorial Stories" className="w-full p-0 m-0">
-        <HeroBanner
-          breakingArticles={breakingArticles}
-          onSelectArticle={setSelectedArticle}
-          language={currentLanguage}
-        />
-      </section>
+      {/* Main Content Area */}
+      <main className="flex-1">
+        {/* Edition Context Banner (Active when World Edition is Selected) */}
+        {currentEdition === "world" && (
+          <div className="bg-[#0B1020] text-white py-2 px-4 text-center text-xs border-b border-[#E8E4DC] dark:border-[#1E293B]">
+            <div className="max-w-7xl mx-auto flex items-center justify-center gap-2 font-medium">
+              <Globe className="w-3.5 h-3.5 text-[#FF5A1F]" />
+              <span>
+                {isHindi
+                  ? "वैश्विक प्रवासी संस्करण सक्रिय • अमेरिका, खाड़ी, ब्रिटेन और कनाडा में 3.2 करोड़ भारतीयों के लिए प्रेषण, वीज़ा एवं नीतिगत रिपोर्ट"
+                  : "Global Diaspora Edition Active • Prioritizing cross-border CBDC remittances, H-1B & student visa reforms, and bilateral trade pacts for 32M overseas Indians."}
+              </span>
+            </div>
+          </div>
+        )}
 
-      {/* 4. Categorized Long-Form News Feed (Starts Directly Below Hero) */}
-      <main
-        id="categorized-news-section"
-        className="flex-1 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8"
-      >
-        {/* Section Heading & Category Filter Bar */}
-        <div className="border-b border-slate-200 dark:border-slate-800 pb-4 mb-8 flex flex-wrap items-center justify-between gap-4">
-          <div className="flex items-center gap-3">
-            <span className="w-3 h-3 bg-[#d32f2f] rounded-xs shadow-xs" />
-            <h2 className="font-serif text-2xl sm:text-3xl md:text-4xl font-black text-slate-950 dark:text-white uppercase tracking-tight">
-              {currentCategoryTitle}
+        {searchQuery ? (
+          /* Search Results View */
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+            <h2 className="font-display text-2xl font-bold mb-4">
+              {isHindi ? `"${searchQuery}" के लिए खोज परिणाम` : `Search Results for "${searchQuery}"`} ({filteredOriginal?.length || 0} {isHindi ? "परिणाम" : "matches"})
             </h2>
-            <span className="text-xs bg-slate-200 dark:bg-slate-800 text-slate-800 dark:text-slate-300 border border-slate-300 dark:border-slate-700 px-3 py-1 rounded font-mono shadow-xs">
-              {articles.length} Dispatches
-            </span>
+            {filteredOriginal && filteredOriginal.length > 0 ? (
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                {filteredOriginal.map((art) => (
+                  <article
+                    key={art.id}
+                    className="p-4 bg-white dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] rounded-lg"
+                  >
+                    <span className="text-[10px] uppercase font-bold text-[#FF5A1F]">
+                      {art.category}
+                    </span>
+                    <a href={`/article/${art.slug}`}>
+                      <h3 className="font-display text-base font-bold mt-1 hover:text-[#FF5A1F]">
+                        {isHindi && art.title_hi ? art.title_hi : art.title}
+                      </h3>
+                    </a>
+                    <p className="text-xs text-[#525866] dark:text-[#94A3B8] mt-2 line-clamp-2">
+                      {isHindi && art.deck_hi ? art.deck_hi : art.deck}
+                    </p>
+                  </article>
+                ))}
+              </div>
+            ) : (
+              <p className="text-sm text-[#525866] dark:text-[#94A3B8]">
+                {isHindi
+                  ? "कोई सत्यापित रिपोर्ट नहीं मिली। 'बस्तर', 'आरबीआई' या 'सेमीकंडक्टर' जैसे कीवर्ड खोजें।"
+                  : "No matching verified reports found. Try keywords like 'Bastar', 'RBI', or 'Semiconductor'."}
+              </p>
+            )}
           </div>
+        ) : (
+          /* Standard 10-Section Broadsheet Homepage */
+          <>
+            {/* 4. Lead story + 2 secondary stories + Top 5 reads */}
+            <HeroGrid
+              leadStory={leadStory}
+              secondaryStories={secondaryStories}
+              curatedReads={CURATED_BRIEFS}
+              currentLanguage={currentLanguage}
+            />
 
-          {/* Quick Category Selector Pills directly above news */}
-          <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar py-1">
-            {CATEGORIES.map((c) => {
-              const isActive = selectedCategory === c.id;
-              return (
-                <button
-                  key={c.id}
-                  onClick={() => handleCategorySelect(c.id)}
-                  aria-label={`Filter dispatches by ${c.label}`}
-                  className={`px-3.5 py-1.5 text-xs rounded font-bold transition-all whitespace-nowrap cursor-pointer ${
-                    isActive
-                      ? "bg-[#d32f2f] text-white shadow-xs"
-                      : "bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-400 hover:text-slate-950 dark:hover:text-white border border-slate-300 dark:border-slate-800"
-                  }`}
-                >
-                  {c.label}
-                </button>
-              );
-            })}
-          </div>
-        </div>
+            {/* 5. Leaderboard ad slot (reserved height, zero CLS) */}
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+              <AdSlot format="leaderboard" slotId="home-leaderboard-top" />
+            </div>
 
-        {/* Main News Feed Grid */}
-        <InfiniteNewsFeed
-          articles={articles}
-          isLoading={isLoading}
-          hasMore={hasMore}
-          onLoadMore={handleLoadMore}
-          onSelectArticle={setSelectedArticle}
-          language={currentLanguage}
-        />
+            {/* 6. Morning Brief card (original, editor-approved) */}
+            <MorningBriefCard currentLanguage={currentLanguage} />
+
+            {/* 7. Vertical sections: Markets & Money, Tech & AI, India Policy */}
+            <VerticalSection
+              id="markets"
+              title="Markets & Economy"
+              title_hi="बाजार एवं अर्थव्यवस्था"
+              tagline="Monetary policy, rupee liquidity, capital markets, and industrial expansion"
+              originalArticles={marketsOriginal}
+              curatedBriefs={marketsCurated}
+              currentLanguage={currentLanguage}
+            />
+
+            <VerticalSection
+              id="tech"
+              title="Tech, AI & Frontiers"
+              title_hi="तकनीक, कृत्रिम बुद्धिमत्ता एवं भविष्य"
+              tagline="Semiconductor fabs, sovereign AI compute, and digital public infrastructure"
+              originalArticles={techOriginal}
+              curatedBriefs={techCurated}
+              currentLanguage={currentLanguage}
+            />
+
+            <VerticalSection
+              id="india"
+              title="India Policy & Health"
+              title_hi="भारत नीतियां, स्वास्थ्य एवं पर्यावरण"
+              tagline="Cabinet decisions, environmental air monitoring, and national security"
+              originalArticles={indiaOriginal}
+              curatedBriefs={indiaCurated}
+              currentLanguage={currentLanguage}
+            />
+
+            {/* 8. Explainers carousel */}
+            <ExplainerCarousel currentLanguage={currentLanguage} />
+
+            {/* 9. Newsletter signup with sponsor slot */}
+            <NewsletterBanner />
+          </>
+        )}
       </main>
 
-      {/* 5. Article Detail Reading Modal */}
-      {selectedArticle && (
-        <ArticleModal
-          article={selectedArticle}
-          onClose={() => setSelectedArticle(null)}
-          onSelectRelated={(art) => setSelectedArticle(art)}
-          defaultLanguage={currentLanguage}
-        />
-      )}
+      {/* 10. Institutional Footer */}
+      <Footer />
     </div>
+  );
+}
+
+export default function HomePage() {
+  return (
+    <Suspense fallback={<div className="min-h-screen bg-[#FAF8F4] dark:bg-[#080C16]" />}>
+      <HomePageContent />
+    </Suspense>
   );
 }

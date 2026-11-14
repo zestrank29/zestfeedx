@@ -7,19 +7,31 @@
     "prebuild": "python ../scripts/generate_google_news.py",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "test": "tsx src/lib/pipeline/__tests__/pipeline.test.ts",
+    "lint": "eslint",
+    "db:generate": "drizzle-kit generate",
+    "db:push": "drizzle-kit push",
+    "db:seed": "tsx src/db/seed.ts",
+    "db:studio": "drizzle-kit studio"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.3.3",
     "@types/canvas-confetti": "^1.9.0",
     "@types/three": "^0.187.0",
     "canvas-confetti": "^1.9.4",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "dotenv": "^18.0.10",
+    "drizzle-orm": "^0.45.4",
     "framer-motion": "^14.9.0",
     "lucide-react": "^1.66.0",
     "next": "16.4.4",
+    "playwright": "^1.65.1",
     "postcss": "^8.5.32",
+    "postgres": "^4.1.1",
     "react": "19.3.0",
     "react-dom": "19.3.0",
+    "tailwind-merge": "^3.7.0",
     "three": "^0.187.0"
   },
   "devDependencies": {
@@ -27,9 +39,11 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "drizzle-kit": "^0.31.11",
     "eslint": "^9",
     "eslint-config-next": "16.4.4",
     "tailwindcss": "^4",
+    "tsx": "^4.23.15",
     "typescript": "^5"
   }
 }

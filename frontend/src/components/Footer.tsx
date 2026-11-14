@@ -2,211 +2,149 @@
 
 import React from "react";
 import Link from "next/link";
-import { ShieldCheck, Mail, MapPin } from "lucide-react";
-import GoogleNewsFollowBadge from "./GoogleNewsFollowBadge";
-
-const ALL_CATEGORIES = [
-  { id: "politics", label: "National & Politics" },
-  { id: "tech", label: "AI & Technology" },
-  { id: "health", label: "Health & Medicine" },
-  { id: "world", label: "World Affairs" },
-  { id: "sports", label: "Sports & Athletics" },
-  { id: "entertainment", label: "Movies & Entertainment" },
-  { id: "ramayana", label: "Ramayana & Cultural Heritage" },
-];
+import { ShieldCheck, Mail, MapPin, ExternalLink, ArrowUp } from "lucide-react";
 
 export default function Footer() {
+  const scrollToTop = () => {
+    if (typeof window !== "undefined") {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+  };
+
   return (
-    <footer className="w-full border-t border-slate-800 bg-[#070b14] pt-10 pb-12 px-4 sm:px-6 lg:px-8 text-xs text-slate-400">
-      <div className="max-w-7xl mx-auto">
-        {/* Top Footer Masthead & Verification */}
-        <div className="flex flex-col md:flex-row items-start md:items-center justify-between border-b border-slate-800 pb-6 mb-8 gap-4">
-          <div>
-            <Link
-              href="/"
-              className="font-serif text-2xl font-black uppercase tracking-tight flex items-center gap-2 chromatic-text"
-            >
-              <span className="w-2.5 h-2.5 bg-gradient-to-tr from-cyan-400 to-rose-500 rounded-full shadow-[0_0_8px_#00f0ff] animate-pulse" />
-              ZESTFEEDX
+    <footer className="w-full bg-[#FAF8F4] dark:bg-[#05080F] border-t-2 border-[#0B1020] dark:border-[#1E293B] text-[#525866] dark:text-[#94A3B8] transition-colors">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        {/* Top Brand Grid */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 pb-10 border-b border-[#E8E4DC] dark:border-[#1E293B]">
+          {/* Col 1 & 2: Brand Info */}
+          <div className="lg:col-span-2 space-y-3">
+            <Link href="/" className="inline-block focus:outline-hidden">
+              <span className="font-display text-2xl font-bold tracking-tight text-[#0B1020] dark:text-[#F1F5F9]">
+                ZestFeed<span className="text-[#FF5A1F] italic font-serif">X</span>
+              </span>
             </Link>
-            <p className="text-xs text-slate-400 font-serif mt-1">
-              Automated Long-Form News & Investigative Analysis • Lead Editor: Pankhudi Sharma
+            <p className="text-xs leading-relaxed max-w-sm">
+              An independent, original-first digital broadsheet delivering verified investigative journalism, macroeconomics, tech policy, and cultural intelligence for India and the global diaspora.
             </p>
+            <div className="text-[11px] space-y-1 pt-1 font-mono">
+              <p className="flex items-center gap-1.5 text-[#0B1020] dark:text-[#F1F5F9]">
+                <MapPin className="w-3.5 h-3.5 text-[#FF5A1F]" />
+                <span>Editorial Bureau: Connaught Place, New Delhi 110001, India</span>
+              </p>
+              <p className="flex items-center gap-1.5">
+                <Mail className="w-3.5 h-3.5 text-[#0E7C86]" />
+                <span>Tips & Inquiries: editorial@zestfeedx.com</span>
+              </p>
+            </div>
           </div>
 
-          <div className="flex flex-wrap items-center gap-4 text-xs text-slate-300 font-semibold">
-            <span className="flex items-center gap-1.5 text-emerald-400 bg-emerald-950/60 px-2.5 py-1 rounded border border-emerald-800/80">
-              <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-              Grok AI Fact-Check Verified Desk
-            </span>
-            <span className="text-slate-700">|</span>
-            <a
-              href="mailto:news@zestfeedx.com"
-              className="flex items-center gap-1 text-slate-300 hover:text-emerald-400 transition-colors"
-            >
-              <Mail className="w-3.5 h-3.5 text-emerald-400" />
-              news@zestfeedx.com
-            </a>
-            <span className="text-slate-700">|</span>
-            <a href="/sitemap.xml" rel="nofollow" className="hover:text-red-400 transition-colors">
-              XML Sitemap
-            </a>
-            <span className="text-slate-700">|</span>
-            <a href="/news-sitemap.xml" rel="nofollow" className="hover:text-red-400 transition-colors">
-              Google News Sitemap
-            </a>
-            <span className="text-slate-700">|</span>
-            <a href="/rss.xml" rel="nofollow" className="hover:text-red-400 transition-colors">
-              RSS Feed
-            </a>
-            <span className="text-slate-700">|</span>
-            <a href="/robots.txt" rel="nofollow" className="hover:text-red-400 transition-colors">
-              Robots.txt
-            </a>
-            <span className="text-slate-700">|</span>
-            <a href="/llms.txt" rel="nofollow" className="hover:text-emerald-400 text-slate-300 transition-colors">
-              llms.txt
-            </a>
-          </div>
-
-          <div className="mt-3 md:mt-0">
-            <GoogleNewsFollowBadge variant="banner" />
-          </div>
-        </div>
-
-        {/* Multi-Column Footer Directory */}
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-8 mb-10">
-          {/* Column 1: Core Priority Sections */}
+          {/* Col 3: Editorial & Trust Standards */}
           <div>
-            <h4 className="font-serif font-black text-sm uppercase tracking-wider text-white border-b border-slate-800 pb-1.5 mb-3">
-              National & Tech
-            </h4>
-            <ul className="space-y-2 text-xs">
-              {ALL_CATEGORIES.slice(0, 3).map((c) => (
-                <li key={c.id}>
-                  <Link
-                    href={`/category/${c.id}/`}
-                    className="text-slate-400 hover:text-red-400 transition-colors text-left font-medium block"
-                  >
-                    {c.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Column 2: World & Athletics */}
-          <div>
-            <h4 className="font-serif font-black text-sm uppercase tracking-wider text-white border-b border-slate-800 pb-1.5 mb-3">
-              Global & Sports
-            </h4>
-            <ul className="space-y-2 text-xs">
-              {ALL_CATEGORIES.slice(3, 5).map((c) => (
-                <li key={c.id}>
-                  <Link
-                    href={`/category/${c.id}/`}
-                    className="text-slate-400 hover:text-red-400 transition-colors text-left font-medium block"
-                  >
-                    {c.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Column 3: Culture & Entertainment */}
-          <div>
-            <h4 className="font-serif font-black text-sm uppercase tracking-wider text-white border-b border-slate-800 pb-1.5 mb-3">
-              Culture & Media
-            </h4>
-            <ul className="space-y-2 text-xs">
-              {ALL_CATEGORIES.slice(5, 7).map((c) => (
-                <li key={c.id}>
-                  <Link
-                    href={`/category/${c.id}/`}
-                    className="text-slate-400 hover:text-red-400 transition-colors text-left font-medium block"
-                  >
-                    {c.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Column 4: Institutional & Editorial */}
-          <div>
-            <h4 className="font-serif font-black text-sm uppercase tracking-wider text-white border-b border-slate-800 pb-1.5 mb-3">
-              Editorial & Transparency
+            <h4 className="font-display text-xs font-bold uppercase tracking-wider text-[#0B1020] dark:text-[#F1F5F9] mb-3">
+              Editorial Standards
             </h4>
             <ul className="space-y-2 text-xs">
               <li>
-                <Link href="/about/" className="text-slate-400 hover:text-red-400 transition-colors">
-                  About Us & Author Persona
+                <Link href="/about" className="hover:text-[#FF5A1F] transition-colors">
+                  About ZestFeedX
                 </Link>
               </li>
               <li>
-                <Link href="/editorial-policy/" className="text-slate-400 hover:text-red-400 transition-colors font-semibold">
-                  Editorial Policy & Ethics
+                <Link href="/editorial-policy" className="hover:text-[#FF5A1F] transition-colors">
+                  Editorial & Ethics Policy
                 </Link>
               </li>
               <li>
-                <Link href="/fact-check/" className="text-slate-400 hover:text-emerald-400 transition-colors font-semibold">
-                  Fact-Checking Methodology
+                <Link href="/editorial-policy#ai-disclosure" className="hover:text-[#FF5A1F] transition-colors">
+                  AI Assistance Disclosure
                 </Link>
               </li>
               <li>
-                <Link href="/contact/" className="text-slate-400 hover:text-red-400 transition-colors">
-                  Contact Newsroom Bureaus
+                <Link href="/fact-check" className="hover:text-[#FF5A1F] transition-colors">
+                  Fact-Checking Guidelines
+                </Link>
+              </li>
+              <li>
+                <Link href="/fact-check#corrections" className="hover:text-[#FF5A1F] transition-colors">
+                  Corrections Policy
                 </Link>
               </li>
             </ul>
           </div>
 
-          {/* Column 5: Legal & Disclaimers */}
+          {/* Col 4: Commercial & Partnerships */}
           <div>
-            <h4 className="font-serif font-black text-sm uppercase tracking-wider text-white border-b border-slate-800 pb-1.5 mb-3">
-              Legal & Compliance
+            <h4 className="font-display text-xs font-bold uppercase tracking-wider text-[#0B1020] dark:text-[#F1F5F9] mb-3">
+              Commercial & Community
             </h4>
             <ul className="space-y-2 text-xs">
               <li>
-                <Link href="/copyright-disclaimer/" className="text-slate-400 hover:text-red-400 transition-colors font-semibold">
-                  DMCA & Copyright Policy
+                <Link href="/advertise" className="hover:text-[#FF5A1F] transition-colors">
+                  Advertise & Media Kit
                 </Link>
               </li>
               <li>
-                <Link href="/privacy-policy/" className="text-slate-400 hover:text-red-400 transition-colors">
+                <Link href="/advertise#sponsored-posts" className="hover:text-[#FF5A1F] transition-colors">
+                  Sponsored Post Guidelines
+                </Link>
+              </li>
+              <li>
+                <Link href="/contact" className="hover:text-[#FF5A1F] transition-colors">
+                  Pitch a Story / Write for Us
+                </Link>
+              </li>
+              <li>
+                <Link href="#newsletter" className="hover:text-[#FF5A1F] transition-colors">
+                  Newsletter Archive
+                </Link>
+              </li>
+            </ul>
+          </div>
+
+          {/* Col 5: Legal & Compliance */}
+          <div>
+            <h4 className="font-display text-xs font-bold uppercase tracking-wider text-[#0B1020] dark:text-[#F1F5F9] mb-3">
+              Compliance & Legal
+            </h4>
+            <ul className="space-y-2 text-xs">
+              <li>
+                <Link href="/privacy-policy" className="hover:text-[#FF5A1F] transition-colors">
                   Privacy Policy (DPDP Act)
                 </Link>
               </li>
               <li>
-                <Link href="/terms/" className="text-slate-400 hover:text-red-400 transition-colors">
+                <Link href="/terms" className="hover:text-[#FF5A1F] transition-colors">
                   Terms of Service
                 </Link>
               </li>
               <li>
-                <a href="https://zestrank.com/" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-emerald-400 transition-colors">
-                  Network: ZestRank
-                </a>
+                <Link href="/copyright-disclaimer" className="hover:text-[#FF5A1F] transition-colors">
+                  Copyright & Fair Use Notice
+                </Link>
+              </li>
+              <li>
+                <Link href="/contact" className="hover:text-[#FF5A1F] transition-colors">
+                  Grievance Officer (IT Rules)
+                </Link>
               </li>
             </ul>
           </div>
         </div>
 
-        {/* Bottom Attribution Notice & Exact Copyright Format */}
-        <div className="border-t border-slate-800 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-center sm:text-left">
-          <div className="text-[11px] text-slate-500 space-y-1">
-            <p>
-              Headlines aggregated under Section 52(1)(a)(iii) of the Indian Copyright Act, 1957. All journalistic dispatches edited under the direction of Pankhudi Sharma. Inquiries: <a href="mailto:news@zestfeedx.com" className="text-slate-400 hover:underline">news@zestfeedx.com</a>
-            </p>
-          </div>
-
-          {/* Exact Required Footer Attribution HTML */}
-          <div className="shrink-0 text-xs text-slate-300">
-            <p>&copy; 2026 ZestFeedX. Website created by <a href="https://zestrank.com/" target="_blank" rel="noopener" className="text-white hover:text-emerald-400 underline font-semibold transition-colors">ZestRank</a>.</p>
-          </div>
+        {/* Bottom Bar: Copyright & Back to Top */}
+        <div className="pt-6 flex flex-col sm:flex-row items-center justify-between text-[11px] gap-3">
+          <p>
+            © {new Date().getFullYear()} ZestFeedX Media Group. All rights reserved. Registered under the Press and Registration of Periodicals Act.
+          </p>
+          <button
+            onClick={scrollToTop}
+            className="flex items-center gap-1 font-semibold text-[#0B1020] dark:text-[#F1F5F9] hover:text-[#FF5A1F] transition"
+          >
+            <span>Back to top</span>
+            <ArrowUp className="w-3.5 h-3.5" />
+          </button>
         </div>
       </div>
     </footer>
   );
 }
-

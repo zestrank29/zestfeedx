@@ -1,156 +1,172 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { ArrowLeft, Award, Shield, Newspaper, CheckCircle2, Mail, ExternalLink } from "lucide-react";
-
+import { ArrowLeft, Shield, Award, Users, CheckCircle2, Building, Mail, Sparkles } from "lucide-react";
+import Footer from "@/components/Footer";
+import { DEMO_AUTHORS } from "@/data/demoContent";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About Us & Editorial Leadership | ZestFeedX",
-  description: "Learn about ZestFeedX: fact-checked investigative journalism, long-form reporting, and newsroom editorial leadership by Pankhudi Sharma.",
+  title: "About Us, Newsroom Leadership & Ownership | ZestFeedX",
+  description:
+    "Learn about ZestFeedX: independent broadsheet journalism, economic intelligence, and newsroom editorial leadership by Pankhudi Sharma and Rohan Sen.",
   alternates: {
     canonical: "https://zestfeedx.com/about/",
-  },
-  openGraph: {
-    title: "About Us & Editorial Leadership | ZestFeedX",
-    description: "Learn about ZestFeedX: fact-checked investigative journalism, long-form reporting, and newsroom editorial leadership by Pankhudi Sharma.",
-    url: "https://zestfeedx.com/about/",
-    siteName: "ZestFeedX",
-    images: [
-      {
-        url: "https://zestfeedx.com/google-news/wide-logo-light.png",
-        width: 600,
-        height: 60,
-        alt: "ZestFeedX Editorial Newsroom",
-      },
-    ],
-    type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "About Us & Editorial Leadership | ZestFeedX",
-    description: "Learn about ZestFeedX: fact-checked investigative journalism, long-form reporting, and newsroom editorial leadership by Pankhudi Sharma.",
   },
 };
 
 export default function AboutPage() {
+  const pankhudi = DEMO_AUTHORS.pankhudi;
+  const rohan = DEMO_AUTHORS.rohan;
+
   return (
-    <div className="min-h-screen bg-[#090d16] text-slate-100 font-sans p-0 m-0">
-      {/* Top Reading Navigation */}
-      <div className="bg-[#0f172a] border-b border-slate-800 sticky top-0 z-30 shadow-md">
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-3.5 flex items-center justify-between">
-          <Link
-            href="/"
-            className="font-serif text-xl sm:text-2xl font-black uppercase tracking-tight flex items-center gap-2 chromatic-text"
-          >
-            <span className="w-2.5 h-2.5 bg-gradient-to-tr from-cyan-400 to-rose-500 rounded-full shadow-[0_0_8px_#00f0ff] animate-pulse" />
-            ZESTFEEDX
+    <div className="min-h-screen flex flex-col bg-[#FAF8F4] dark:bg-[#080C16] text-[#0B1020] dark:text-[#F1F5F9] transition-colors">
+      {/* Navigation Header */}
+      <header className="border-b border-[#E8E4DC] dark:border-[#1E293B] sticky top-0 z-30 bg-[#FAF8F4]/95 dark:bg-[#080C16]/95 backdrop-blur-md">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3.5 flex items-center justify-between">
+          <Link href="/" className="font-display text-2xl font-bold tracking-tight text-[#0B1020] dark:text-[#F1F5F9]">
+            ZestFeed<span className="text-[#FF5A1F] italic font-serif">X</span>
           </Link>
           <Link
             href="/"
-            className="text-xs font-semibold text-slate-300 hover:text-cyan-300 flex items-center gap-1.5 transition-colors px-3 py-1.5 rounded-lg bg-slate-800/80 border border-slate-700/80"
+            className="text-xs font-semibold text-[#525866] dark:text-[#94A3B8] hover:text-[#FF5A1F] flex items-center gap-1.5 transition-colors"
           >
-            <ArrowLeft className="w-3.5 h-3.5 text-cyan-400" /> Back to 3D Newsroom
+            <ArrowLeft className="w-3.5 h-3.5" /> Back to Front Page
           </Link>
         </div>
-      </div>
+      </header>
 
-      <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
-        {/* Section Header */}
-        <div className="border-b border-slate-800 pb-3 mb-8">
-          <span className="text-xs font-bold text-red-500 uppercase tracking-widest block mb-1">
-            Institutional Profile & Newsroom Leadership
-          </span>
-          <h1 className="font-serif text-3xl sm:text-5xl font-black text-white">
-            About ZestFeedX
-          </h1>
-        </div>
+      {/* Main Content */}
+      <main className="flex-1 py-12">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          {/* Header */}
+          <div className="border-b-2 border-[#0B1020] dark:border-[#F1F5F9] pb-4 mb-8">
+            <span className="text-xs font-bold text-[#FF5A1F] uppercase tracking-widest block mb-1">
+              Institutional Profile & Governance
+            </span>
+            <h1 className="font-display text-3xl sm:text-5xl font-bold tracking-tight">
+              About ZestFeedX
+            </h1>
+            <p className="mt-2 text-base text-[#525866] dark:text-[#94A3B8] max-w-2xl">
+              Broadsheet journalism of record for India and the global Indian diaspora. Uncluttered, analytical, original-first.
+            </p>
+          </div>
 
-        {/* AUTHOR BIO SPLIT-COLUMN SECTION (Phase 4 Spec) */}
-        <section aria-label="Author Profile" className="my-8 p-6 sm:p-8 bg-[#0f172a] border border-slate-800 rounded-xl shadow-2xl backdrop-blur-md">
-          <div className="grid grid-cols-1 md:grid-cols-12 gap-6 sm:gap-8 items-center">
-            {/* Left Column: Author Portrait with Glassmorphism & Neon Border */}
-            <div className="md:col-span-4 flex justify-center">
-              <div className="relative w-44 h-44 sm:w-52 sm:h-52 rounded-2xl overflow-hidden p-1 bg-linear-to-tr from-red-600 via-rose-500 to-amber-500 shadow-[0_0_25px_rgba(239,68,68,0.35)] border border-slate-700/60 group">
-                <div className="relative w-full h-full rounded-xl overflow-hidden bg-slate-900">
+          {/* Mission */}
+          <div className="prose prose-slate dark:prose-invert max-w-none text-[#525866] dark:text-[#94A3B8] leading-relaxed space-y-6">
+            <h2 className="font-display text-2xl font-bold text-[#0B1020] dark:text-[#F1F5F9]">
+              Our Editorial Charter
+            </h2>
+            <p>
+              Founded in New Delhi, <strong>ZestFeedX</strong> was created to restore rigor and dignity to Indian digital journalism. In an internet ecosystem overwhelmed by clickbait headlines, aggregated sensationalism, and opaque financial incentives, ZestFeedX operates on a broadsheet ethos: deep domain expertise, original investigative reporting, verified primary source documentation, and uncompromising transparent governance.
+            </p>
+            <p>
+              We cover macroeconomic policy, capital markets, semiconductor industrialization, environmental science, and foreign bilateral relations—focusing on matters that determine India&rsquo;s economic trajectory and the welfare of 32 million overseas Indians.
+            </p>
+
+            {/* Core Newsroom Pillars */}
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 my-8 not-prose">
+              <div className="p-5 bg-white dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] rounded-lg">
+                <Shield className="w-6 h-6 text-[#FF5A1F] mb-3" />
+                <h3 className="font-display text-base font-bold text-[#0B1020] dark:text-[#F1F5F9] mb-1">
+                  100% Original Reporting
+                </h3>
+                <p className="text-xs text-[#525866] dark:text-[#94A3B8]">
+                  Every indexable article is researched, synthesized, and published under the byline of a real, named journalist with verifiable credentials.
+                </p>
+              </div>
+
+              <div className="p-5 bg-white dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] rounded-lg">
+                <CheckCircle2 className="w-6 h-6 text-[#0E7C86] mb-3" />
+                <h3 className="font-display text-base font-bold text-[#0B1020] dark:text-[#F1F5F9] mb-1">
+                  Primary Source Fact-Checking
+                </h3>
+                <p className="text-xs text-[#525866] dark:text-[#94A3B8]">
+                  Every key claim is grounded in official government gazettes, regulatory disclosures (RBI, SEBI), and real-time environmental telemetry (CPCB, CAAQMS).
+                </p>
+              </div>
+
+              <div className="p-5 bg-white dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] rounded-lg">
+                <Sparkles className="w-6 h-6 text-amber-500 mb-3" />
+                <h3 className="font-display text-base font-bold text-[#0B1020] dark:text-[#F1F5F9] mb-1">
+                  AI-Assisted, Human-Governed
+                </h3>
+                <p className="text-xs text-[#525866] dark:text-[#94A3B8]">
+                  Computational algorithms aid in clustering and deduplication, but no content is ever published without human editorial review and sign-off.
+                </p>
+              </div>
+            </div>
+
+            {/* Editorial Leadership */}
+            <h2 className="font-display text-2xl font-bold text-[#0B1020] dark:text-[#F1F5F9] pt-4">
+              Newsroom Leadership & Bylines
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-6 not-prose">
+              {/* Pankhudi */}
+              <div className="p-6 bg-white dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] rounded-xl flex gap-5">
+                <div className="relative w-20 h-20 rounded-full overflow-hidden shrink-0 border border-[#DDD7CD] dark:border-[#334155]">
                   <Image
-                    src="/images/pankhudi-sharma.jpg"
-                    alt="Pankhudi Sharma - Veteran Journalist and Editor at ZestFeedX"
+                    src={pankhudi.avatar}
+                    alt={pankhudi.name}
                     fill
-                    priority
-                    className="object-cover object-top transition-transform duration-500 group-hover:scale-105"
+                    sizes="80px"
+                    className="object-cover"
                   />
+                </div>
+                <div>
+                  <h3 className="font-display text-lg font-bold text-[#0B1020] dark:text-[#F1F5F9]">
+                    {pankhudi.name}
+                  </h3>
+                  <p className="text-xs font-semibold text-[#FF5A1F]">{pankhudi.role}</p>
+                  <p className="text-xs text-[#525866] dark:text-[#94A3B8] mt-2 line-clamp-3">
+                    {pankhudi.bio}
+                  </p>
+                  <p className="text-[10px] text-[#94A3B8] font-mono mt-2">{pankhudi.email}</p>
+                </div>
+              </div>
+
+              {/* Rohan */}
+              <div className="p-6 bg-white dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] rounded-xl flex gap-5">
+                <div className="relative w-20 h-20 rounded-full overflow-hidden shrink-0 border border-[#DDD7CD] dark:border-[#334155]">
+                  <Image
+                    src={rohan.avatar}
+                    alt={rohan.name}
+                    fill
+                    sizes="80px"
+                    className="object-cover"
+                  />
+                </div>
+                <div>
+                  <h3 className="font-display text-lg font-bold text-[#0B1020] dark:text-[#F1F5F9]">
+                    {rohan.name}
+                  </h3>
+                  <p className="text-xs font-semibold text-[#0E7C86]">{rohan.role}</p>
+                  <p className="text-xs text-[#525866] dark:text-[#94A3B8] mt-2 line-clamp-3">
+                    {rohan.bio}
+                  </p>
+                  <p className="text-[10px] text-[#94A3B8] font-mono mt-2">{rohan.email}</p>
                 </div>
               </div>
             </div>
 
-            {/* Right Column: Name in prominent H2 tag, official bio and credentials */}
-            <div className="md:col-span-8 flex flex-col justify-center space-y-3">
-              <div className="flex flex-wrap items-center gap-2">
-                <span className="px-2.5 py-0.5 rounded text-[11px] font-bold bg-red-950 text-red-400 border border-red-800/80 uppercase tracking-wider">
-                  Editorial Lead & Author
-                </span>
-                <span className="px-2.5 py-0.5 rounded text-[11px] font-bold bg-emerald-950 text-emerald-400 border border-emerald-800/80">
-                  15+ Years Investigative Experience
-                </span>
-              </div>
-
-              <h2 className="font-serif text-2xl sm:text-4xl font-black text-white tracking-tight">
-                Pankhudi Sharma
-              </h2>
-
-              <p className="text-sm sm:text-base text-slate-200 leading-relaxed font-sans">
-                Veteran media professional with over 15 years of experience in investigative journalism and digital storytelling, delivering high-impact news and trending global insights.
-              </p>
-
-              <div className="pt-2 flex flex-wrap items-center gap-4 text-xs text-slate-400">
-                <span>
-                  Newsroom: <strong className="text-white font-semibold">ZestFeedX Editorial Desk</strong>
-                </span>
-                <span className="text-slate-700">•</span>
-                <a
-                  href="mailto:news@zestfeedx.com"
-                  className="text-emerald-400 hover:underline flex items-center gap-1 font-medium"
-                >
-                  <Mail className="w-3.5 h-3.5" /> news@zestfeedx.com
-                </a>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Editorial Mission & Standards */}
-        <div className="prose max-w-none text-slate-300 leading-relaxed space-y-6 my-10">
-          <p className="text-lg font-serif text-slate-200 leading-relaxed">
-            <strong>ZestFeedX</strong> is an autonomous, high-curiosity digital news aggregation and analysis engine delivering real-time, fact-checked breaking news, global affairs, technology breakthroughs, and cultural trends in comprehensive, long-form English and Hinglish formats.
-          </p>
-
-          <h3 className="font-serif text-2xl font-bold text-white border-b border-slate-800 pb-2 pt-4">
-            Our Journalistic Mission: Truth Before Speed
-          </h3>
-          <p>
-            In an era inundated with unverified viral claims and clickbait sensationalism, ZestFeedX adheres to broadsheet rigor: every wire dispatch ingested through our hourly automated aggregation from Google News India and top RSS feeds undergoes multi-stage algorithmic validation and Grok AI fact-checking before publication.
-          </p>
-
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 my-8">
-            <div className="p-5 bg-[#0f172a] border border-slate-800 rounded-lg">
-              <Shield className="w-6 h-6 text-red-500 mb-2" />
-              <h4 className="font-serif font-bold text-base text-white mb-1">Factual Integrity</h4>
-              <p className="text-xs text-slate-400">Cross-verified against primary press bureaus, official communiqués, and Grok AI intelligence.</p>
-            </div>
-            <div className="p-5 bg-[#0f172a] border border-slate-800 rounded-lg">
-              <Award className="w-6 h-6 text-red-500 mb-2" />
-              <h4 className="font-serif font-bold text-base text-white mb-1">Long-Form Journalism</h4>
-              <p className="text-xs text-slate-400">Comprehensive, structured 800+ word reporting with deep context and source attribution.</p>
-            </div>
-            <div className="p-5 bg-[#0f172a] border border-slate-800 rounded-lg">
-              <Newspaper className="w-6 h-6 text-red-500 mb-2" />
-              <h4 className="font-serif font-bold text-base text-white mb-1">Zero-Error Architecture</h4>
-              <p className="text-xs text-slate-400">Engineered with 2026 Schema JSON-LD, automated XML sitemaps, and llms.txt compliance.</p>
-            </div>
+            {/* Ownership & Funding Transparency */}
+            <h2 className="font-display text-2xl font-bold text-[#0B1020] dark:text-[#F1F5F9] pt-4">
+              Ownership & Funding Transparency
+            </h2>
+            <p>
+              In full accordance with international trust standards and Google Publisher policies, ZestFeedX maintains complete transparency regarding its ownership and financial sustenance:
+            </p>
+            <ul>
+              <li><strong>Corporate Structure:</strong> ZestFeedX operates as an independent, privately held digital media enterprise incorporated in New Delhi, India.</li>
+              <li><strong>Independence:</strong> We have no corporate affiliations with political parties, government ministries, or state-funded sovereign wealth vehicles.</li>
+              <li><strong>Revenue Model:</strong> Our editorial operations are funded strictly through programmatic display advertising (Google AdSense), verified institutional guest features, and transparent newsletter sponsorships. Commercial relationships never influence editorial judgment.</li>
+            </ul>
           </div>
         </div>
-      </div>
+      </main>
+
+      {/* Institutional Footer */}
+      <Footer />
     </div>
   );
 }
