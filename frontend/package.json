@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build --webpack",
+    "postbuild": "node scripts/fix-htaccess.js",
     "start": "next start",
     "test": "tsx src/lib/pipeline/__tests__/pipeline.test.ts",
     "lint": "eslint",
