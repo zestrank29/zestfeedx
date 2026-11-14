@@ -133,25 +133,6 @@ export default async function ArticlePage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      {/* Masthead Header */}
-      <div className="border-b border-[#E8E4DC] dark:border-[#1E293B] py-3">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
-          <Link href="/" className="inline-block">
-            <span className="font-display text-2xl font-bold tracking-tight text-[#0B1020] dark:text-[#F1F5F9]">
-              ZestFeed<span className="text-[#FF5A1F] italic font-serif">X</span>
-            </span>
-          </Link>
-
-          <Link
-            href="/"
-            className="text-xs font-semibold text-[#525866] dark:text-[#94A3B8] hover:text-[#FF5A1F] flex items-center gap-1"
-          >
-            <ArrowLeft className="w-3.5 h-3.5" />
-            <span>Return to Front Page</span>
-          </Link>
-        </div>
-      </div>
-
       {/* Main Article Container */}
       <main className="flex-1 py-8">
         <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -308,13 +289,27 @@ export default async function ArticlePage({ params }: Props) {
           <div className="text-base leading-relaxed text-[#0B1020] dark:text-[#F1F5F9] space-y-6 first-letter-dropcap">
             {article.content_markdown
               .trim()
+              .replace(/â€”/g, "—")
+              .replace(/âš¡/g, "⚡")
+              .replace(/communiquÃ©s/g, "communiqués")
               .split("\n\n")
-              .map((block, i) => {
+              .map((rawBlock, i) => {
+                const block = rawBlock.trim();
+                if (block.startsWith("## ")) {
+                  return (
+                    <h2
+                      key={i}
+                      className="font-display text-2xl sm:text-3xl font-bold tracking-tight text-[#0B1020] dark:text-[#F1F5F9] pt-6 pb-2 border-b border-[#E8E4DC] dark:border-[#1E293B]"
+                    >
+                      {block.replace("## ", "")}
+                    </h2>
+                  );
+                }
                 if (block.startsWith("### ")) {
                   return (
                     <h3
                       key={i}
-                      className="font-display text-xl sm:text-2xl font-bold tracking-tight text-[#0B1020] dark:text-[#F1F5F9] pt-4 border-t border-[#E8E4DC] dark:border-[#1E293B]"
+                      className="font-display text-xl sm:text-2xl font-bold tracking-tight text-[#FF5A1F] dark:text-[#FF5A1F] pt-4"
                     >
                       {block.replace("### ", "")}
                     </h3>
@@ -324,15 +319,53 @@ export default async function ArticlePage({ params }: Props) {
                   return (
                     <blockquote
                       key={i}
-                      className="border-l-2 border-[#FF5A1F] pl-4 italic text-sm sm:text-base text-[#525866] dark:text-[#94A3B8] my-4"
+                      className="border-l-4 border-[#FF5A1F] pl-4 italic text-sm sm:text-base text-[#525866] dark:text-[#94A3B8] my-4 bg-[#F6F2EA]/60 dark:bg-[#1E293B]/40 py-2 rounded-r"
                     >
                       {block.replace(/> /g, "").replace(/\n/g, " ")}
                     </blockquote>
                   );
                 }
+                if (block.includes("|") && block.includes("---")) {
+                  const lines = block.split("\n").filter((l) => l.trim().startsWith("|"));
+                  if (lines.length >= 2) {
+                    const headers = lines[0].split("|").map((c) => c.trim()).filter((_, idx, arr) => idx > 0 && idx < arr.length - 1);
+                    const rows = lines.slice(2).map((l) => l.split("|").map((c) => c.trim()).filter((_, idx, arr) => idx > 0 && idx < arr.length - 1));
+                    return (
+                      <div key={i} className="my-6 overflow-x-auto rounded-lg border border-[#E8E4DC] dark:border-[#1E293B]">
+                        <table className="w-full text-left text-xs sm:text-sm">
+                          <thead className="bg-[#ECE7DE] dark:bg-[#1E293B] text-[#0B1020] dark:text-[#F1F5F9] font-bold">
+                            <tr>
+                              {headers.map((h, hi) => (
+                                <th key={hi} className="p-3 border-b border-[#E8E4DC] dark:border-[#334155]">{h}</th>
+                              ))}
+                            </tr>
+                          </thead>
+                          <tbody className="divide-y divide-[#E8E4DC] dark:divide-[#1E293B]">
+                            {rows.map((row, ri) => (
+                              <tr key={ri} className={ri % 2 === 0 ? "bg-white dark:bg-[#080C16]" : "bg-[#FAF8F4] dark:bg-[#0F172A]"}>
+                                {row.map((cell, ci) => (
+                                  <td key={ci} className="p-3 font-medium text-[#525866] dark:text-[#94A3B8]">
+                                    {cell.replace(/\*\*(.*?)\*\*/g, "$1")}
+                                  </td>
+                                ))}
+                              </tr>
+                            ))}
+                          </tbody>
+                        </table>
+                      </div>
+                    );
+                  }
+                }
+                // Paragraph with bold parsing
+                const parts = block.split(/(\*\*.*?\*\*)/g);
                 return (
                   <p key={i} className="text-sm sm:text-base leading-relaxed">
-                    {block}
+                    {parts.map((p, pi) => {
+                      if (p.startsWith("**") && p.endsWith("**")) {
+                        return <strong key={pi} className="font-semibold text-[#0B1020] dark:text-[#F1F5F9]">{p.slice(2, -2)}</strong>;
+                      }
+                      return p;
+                    })}
                   </p>
                 );
               })}

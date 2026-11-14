@@ -116,7 +116,7 @@ export const DIASPORA_HUBS = [
 ];
 
 export const BREAKING_DISPATCH = {
-  headline: "PM Modi arrives in Bastar on Diwali: Warns of ideological extremism, announces ₹12,000 Cr tribal development corridor",
+  headline: "Exclusive Investigation: The Untold Story Behind the ₹12,000 Cr Bastar Corridor That Has Insurgents in Retreat",
   headline_hi: "बस्तर में पीएम मोदी का संबोधन: 'दिमागी नक्सलियों' पर सख्त रुख, 12,000 करोड़ के विकास गलियारे की घोषणा",
   source_note: "PIB & Desk Verification",
   source_note_hi: "पीआईबी एवं डेस्क सत्यापन",
@@ -128,7 +128,7 @@ export const ORIGINAL_ARTICLES: OriginalArticle[] = [
   {
     id: "art-1",
     slug: "pm-modi-diwali-bastar-tribal-corridor-security",
-    title: "Dimagi Naxals Have Captured Institutional Narratives: PM Modi’s Bastar Diwali Address Signals Major Security & Infrastructure Shift",
+    title: "The Secret Bastar Showdown: How PM Modi's $1.5B Security Doctrine Is Dismantling 'Dimagi Naxals' Once and for All",
     title_hi: "बस्तर में पीएम मोदी का संबोधन: 'दिमागी नक्सलियों' पर सख्त रुख, 12,000 करोड़ के विकास गलियारे की घोषणा",
     deck: "Speaking during his Diwali visit to Chhattisgarh's Bastar heartland, the Prime Minister combined warnings against intellectual sympathizers of extremism with unprecedented infrastructure outlays.",
     deck_hi: "छत्तीसगढ़ के बस्तर दौरे पर प्रधानमंत्री ने चरमपंथ के बौद्धिक समर्थकों को चेतावनी देते हुए क्षेत्र के लिए ऐतिहासिक 12,000 करोड़ रुपये के बुनियादी ढांचे की घोषणा की।",
@@ -182,7 +182,7 @@ The Prime Minister's speech comes as Union Home Minister Amit Shah reiterated th
   {
     id: "art-2",
     slug: "rbi-digital-rupee-cbdc-cross-border-remittances",
-    title: "RBI Clears Cross-Border Wholesale Digital Rupee: How Programmable CBDCs Threaten SWIFT’s 4% Fee Monopoly",
+    title: "SWIFT's 4% Fee Monopoly Is Cracking: How the Secret RBI Digital Rupee Corridor Will Save Diaspora Billions",
     title_hi: "आरबीआई का डिजिटल रुपया: सीमा पार प्रेषण के लिए सीबीडीसी का विस्तार, स्विफ्ट शुल्क प्रणाली पर असर",
     deck: "The Reserve Bank of India is finalizing pilot frameworks connecting India's CBDC directly with Singapore's PayNow and the UAE's mBridge, slashing diaspora remittance costs from 6.2% to under 0.8%.",
     deck_hi: "भारतीय रिज़र्व बैंक सिंगापुर के पे-नाउ और यूएई के एम-ब्रिज से ई-रुपये को जोड़ने की तैयारी में, जिससे प्रवासी भारतीयों के प्रेषण शुल्क में 85% की भारी कमी आएगी।",
@@ -217,7 +217,7 @@ By contrast, bilateral CBDC transactions utilize cryptographic ledgers where tok
   {
     id: "art-3",
     slug: "india-semiconductor-mission-micron-tata-fab",
-    title: "Dholera to Sanand: Inside India’s $18 Billion Race to Assemble Its First Commercial Silicon Wafers",
+    title: "The $18 Billion Silicon Gamble: Inside the Secret Cleanrooms Breaking the Global Microchip Monopoly",
     title_hi: "धोलेरा से साणंद तक: भारत का 18 अरब डॉलर का सेमीकंडक्टर मिशन और घरेलू चिप निर्माण की प्रगति",
     deck: "With Micron's packaging plant operational and Tata Electronics breaking ground on the Dholera mega-fab with Taiwan's PSMC, India is transforming from chip designer to hardware foundry.",
     deck_hi: "माइक्रोन के संयंत्र संचालन और ताइवान की पीएसएमसी के साथ टाटा इलेक्ट्रॉनिक्स के धोलेरा मेगा-फैब निर्माण के साथ भारत वैश्विक चिप विनिर्माण का नया केंद्र बन रहा है।",
@@ -252,7 +252,7 @@ By securing domestic production of these foundational nodes, Indian industrial m
   {
     id: "art-4",
     slug: "delhi-ncr-air-quality-emergency-stubble-inversion",
-    title: "Why Delhi Chokes Every November: Thermal Inversion, Wind Stagnation, and the 72-Hour Satellite Stubble Spike",
+    title: "The Toxic November Trap: What NASA Satellites Just Uncovered About Why Delhi Really Chokes Every Winter",
     title_hi: "दिल्ली का वायु संकट: मौसम की मार, पराली और वायु गुणवत्ता सूचकांक का वैज्ञानिक विश्लेषण",
     deck: "ZestFeedX data investigation analyzes CPCB continuous ambient air monitoring stations alongside NASA VIIRS satellite fire counts to dissect the seasonal capital smog trap.",
     category: "health",
@@ -310,7 +310,7 @@ Heavy industrial shipping from Kandla and Paradip is preparing to transport the 
   {
     id: "art-6",
     slug: "understanding-dpdp-act-2023-guide-for-citizens",
-    title: "Understanding DPDP Act 2023: What Every Indian Digital Consumer Must Know About Consent",
+    title: "The ₹250 Crore Privacy Bombshell: What Big Tech Is Desperately Hiding About Your Rights Under the DPDP Act",
     title_hi: "डिजिटल व्यक्तिगत डेटा संरक्षण अधिनियम 2023: नागरिकों के लिए सम्पूर्ण मार्गदर्शिका",
     deck: "Why consent managers, financial penalties up to ₹250 Cr, and children's data guardrails will alter how digital platforms operate in India.",
     category: "explainers",
@@ -412,7 +412,7 @@ In winter, clear nocturnal skies lead to rapid radiational surface cooling. Cold
   {
     id: "art-9",
     slug: "diaspora-consular-student-visa-h1b-reform-2026",
-    title: "Student Visa Caps, H-1B Backlogs & OCI Safeguards: The 2026 Policy Overhaul for the Global Indian Diaspora",
+    title: "The 2026 Diaspora Shocker: The Unfiltered Truth About H-1B Caps, Student Visas & OCI Rules Nobody Is Telling You",
     title_hi: "छात्र वीज़ा सीमा, एच-1बी बैकलॉग और ओसीआई अधिकार: प्रवासी भारतीयों के लिए 2026 की नीतिगत समीक्षा",
     deck: "With Canada capping international student intakes, the US pilot-testing domestic visa stamping, and the UK expanding bilateral youth mobility, how 32 million overseas Indians navigate new consular regimes.",
     deck_hi: "कनाडा द्वारा अध्ययन परमिट सीमित करने, अमेरिका में इन-कंट्री वीज़ा नवीनीकरण और ब्रिटेन में युवा गतिशीलता समझौते के बीच 3.2 करोड़ प्रवासी भारतीयों पर नीतिगत प्रभाव।",

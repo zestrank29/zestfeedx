@@ -3,6 +3,7 @@ import { Fraunces, Inter, Noto_Sans_Devanagari } from "next/font/google";
 import "./globals.css";
 
 import CookieConsentBanner from "@/components/CookieConsentBanner";
+import GlobalHeader from "@/components/GlobalHeader";
 
 const fraunces = Fraunces({
   subsets: ["latin"],
@@ -142,6 +143,7 @@ export default function RootLayout({
         />
       </head>
       <body className="min-h-screen bg-[var(--background)] text-[var(--foreground)] antialiased selection:bg-[#FF5A1F] selection:text-white">
+        <GlobalHeader />
         {children}
         <CookieConsentBanner />
       </body>

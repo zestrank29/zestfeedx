@@ -21,8 +21,8 @@ function seedToArticle(s: any): OriginalArticle {
       email: "news@zestfeedx.com",
     },
     published_at: s.published_at || new Date().toISOString(),
-    reading_time_mins: 4,
-    word_count: 850,
+    reading_time_mins: 7,
+    word_count: 1050,
     hero_image: s.image_url || "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1600&q=85",
     hero_image_caption: s.title_en || s.title,
     hero_image_credit: s.source_name || "Bureau Wire & Primary Records",
@@ -36,7 +36,7 @@ function seedToArticle(s: any): OriginalArticle {
     citations: [
       {
         label: s.source_name || "Official Administrative Gazette",
-        url: s.url || "https://zestfeedx.com",
+        url: s.source_url || s.url || "https://zestfeedx.com",
         publisher: s.source_name || "Verified Press Wire",
       },
     ],

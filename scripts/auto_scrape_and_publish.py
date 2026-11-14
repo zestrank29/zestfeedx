@@ -204,9 +204,76 @@ def fetch_feed_items(url, category):
         print(f"[Scraper] Error fetching feed {url}: {e}")
     return items
 
+CATEGORY_HD_IMAGES = {
+    "politics": [
+        "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1532375810709-75b1da00537c?auto=format&fit=crop&w=1600&q=85"
+    ],
+    "tech": [
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1517433670267-08bbd4be890f?auto=format&fit=crop&w=1600&q=85"
+    ],
+    "markets": [
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1600&q=85"
+    ],
+    "world": [
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1600&q=85"
+    ],
+    "sports": [
+        "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1600&q=85"
+    ],
+    "entertainment": [
+        "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1600&q=85"
+    ],
+    "health": [
+        "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&w=1600&q=85"
+    ],
+    "ramayana": [
+        "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&fit=crop&w=1600&q=85",
+        "https://images.unsplash.com/photo-1609137144827-c157643b97ba?auto=format&fit=crop&w=1600&q=85"
+    ]
+}
+
+def generate_curiosity_headline(original_title):
+    clean = re.sub(r'^[^\w\s]+', '', original_title).strip()
+    clean = re.sub(r'^(breaking|exclusive|alert|just in|watch|update|live):\s*', '', clean, flags=re.I).strip()
+    patterns = [
+        "The Secret Truth Behind: {}",
+        "Why Everyone Is Shocked By {}",
+        "Behind Closed Doors: What Really Happened When {}",
+        "The Untold Inside Story: How {} Is Shaking the Entire Sector",
+        "Revealed: The Shocking Details Behind {}",
+        "Why Insiders Are Calling {} a Total Game-Changer",
+        "The Midnight Move: How {} Caught Everyone Completely Off Guard",
+        "What Nobody Is Telling You About {}"
+    ]
+    h = sum(ord(c) for c in clean) % len(patterns)
+    return patterns[h].format(clean)
+
+def get_unique_category_image(category, art_id):
+    cat_key = (category or "politics").lower()
+    pool = CATEGORY_HD_IMAGES.get(cat_key, CATEGORY_HD_IMAGES["politics"])
+    base_img = pool[art_id % len(pool)]
+    return f"{base_img.split('&q=')[0]}&q=85&art_id={art_id}"
+
 def build_article_object(art_id, item):
-    title = item["title"]
-    clean_title = re.sub(r'^[\"\']|[\"\']$', '', title)
+    raw_title = item["title"]
+    clean_title = re.sub(r'^[\"\']|[\"\']$', '', raw_title)
     clean_title = re.sub(r'\s*-\s*(ANI News|The Hindu|The Times of India|NDTV|BBC|Reuters|Business Standard|Rediff|News On AIR|DD News).*$', '', clean_title).strip()
     category = item["category"]
     slug = make_slug(clean_title, category, art_id)
@@ -215,7 +282,6 @@ def build_article_object(art_id, item):
     source_url = item["link"]
     source_name = item["source_name"]
 
-    # If no RSS image, attempt live publisher og:image extraction
     if not img and source_url:
         target_fetch_url = source_url
         if "news.google.com" in source_url and gnewsdecoder:
@@ -229,15 +295,12 @@ def build_article_object(art_id, item):
         img = extract_og_image(target_fetch_url)
 
     if not img:
-        lower_t = clean_title.lower()
-        if "modi" in lower_t or category == "politics":
-            img = "/images/pm-modi-bastar-diwali-2026.jpg"
-        elif "delhi" in lower_t and ("air" in lower_t or "smog" in lower_t or "pollution" in lower_t):
-            img = "/images/delhi-air-quality-diwali-2026.jpg"
-        else:
-            img = "/images/pm-modi-bastar-diwali-2026.jpg"
+        img = get_unique_category_image(category, art_id)
     else:
         img = to_hd_image(img)
+    
+    # Generate high-curiosity headline
+    curiosity_title = generate_curiosity_headline(clean_title)
     raw_desc = item["desc"] or f"Comprehensive investigative report and ground reality analysis on {clean_title}."
     desc = clean_html(raw_desc)
 
@@ -312,12 +375,12 @@ Official bulletins and statutory filings will continue to be monitored by the ed
 
     return {
         "id": art_id,
-        "title": f"{emoji} {clean_title}",
+        "title": f"{emoji} {curiosity_title}",
         "slug": slug,
         "original_title": clean_title,
         "category": category,
         "fomo_badge": f"⚡ {category.title()} Wire",
-        "read_time": "6 min read",
+        "read_time": "7 min read",
         "views_count": 35000 + (art_id * 320),
         "shares_count": 4100 + (art_id * 45),
         "published_at": item["pubDate"] or now_iso,
@@ -325,13 +388,13 @@ Official bulletins and statutory filings will continue to be monitored by the ed
         "source_url": source_url,
         "source_courtesy": f"News Courtesy: {source_name} Digital Archives",
         "image_url": img,
-        "image_alt": f"Official news wire photograph: {clean_title}",
+        "image_alt": f"Official news wire photograph: {curiosity_title}",
         "image_courtesy": f"Photo Courtesy: {source_name} Photo Wire",
         "fact_check_status": "Verified by Multi-Agency Editorial Desk",
         "tags": f"{category.title()}, Breaking News, India, World, {source_name}",
         "summary": summary_en,
         "content": content_en,
-        "title_en": f"{emoji} {clean_title}",
+        "title_en": f"{emoji} {curiosity_title}",
         "summary_en": summary_en,
         "content_en": content_en,
         "title_hi": f"{emoji} {clean_title}",

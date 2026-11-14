@@ -120,24 +120,7 @@ export function HomePageContent({
 
   return (
     <div className={`min-h-screen flex flex-col bg-[#FAF8F4] dark:bg-[#080C16] text-[#0B1020] dark:text-[#F1F5F9] transition-colors ${isHindi ? "font-hindi" : ""}`}>
-      {/* 1. Slim Top Bar */}
-      <TopBar
-        currentLanguage={currentLanguage}
-        onLanguageChange={handleLanguageChange}
-        currentEdition={currentEdition}
-        onEditionChange={handleEditionChange}
-      />
-
-      {/* 2. Masthead + Sticky Category Nav */}
-      <Masthead
-        selectedCategory={selectedCategory}
-        onSelectCategory={setSelectedCategory}
-        currentLanguage={currentLanguage}
-        searchQuery={searchQuery}
-        onSearchChange={setSearchQuery}
-      />
-
-      {/* 3. Breaking Strip */}
+      {/* Breaking Strip */}
       <BreakingStrip currentLanguage={currentLanguage} />
 
       {/* Main Content Area */}
