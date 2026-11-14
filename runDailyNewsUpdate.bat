@@ -37,9 +37,9 @@ if %errorlevel% neq 0 (
 echo [2.5/4] Copying .htaccess to output... >> "%LOG_FILE%" 2>&1
 copy /y "%ROOT_DIR%\frontend\public\.htaccess" "%ROOT_DIR%\frontend\out\.htaccess" >> "%LOG_FILE%" 2>&1
 
-echo [3/4] Deploying to Hostinger via MCP... >> "%LOG_FILE%" 2>&1
+echo [3/4] Auto-submitting to Search Console and IndexNow... >> "%LOG_FILE%" 2>&1
 cd /d "%ROOT_DIR%"
-call node scripts/deploy_hostinger_mcp.js >> "%LOG_FILE%" 2>&1
+call node scripts/auto_submit_search_console.js >> "%LOG_FILE%" 2>&1
 
 echo [4/4] Syncing local changes to GitHub (if remote configured)... >> "%LOG_FILE%" 2>&1
 cd /d "%ROOT_DIR%"

@@ -46,6 +46,10 @@ backup_theme_pre_3d_redesign/
 .DS_Store
 Thumbs.db
 
+# Build caches
+*.tsbuildinfo
+frontend/tsconfig.tsbuildinfo
+
 # Verification scripts
 frontend/capture_*.js
 
