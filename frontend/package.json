@@ -4,7 +4,6 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "python ../scripts/generate_google_news.py",
     "build": "next build",
     "start": "next start",
     "test": "tsx src/lib/pipeline/__tests__/pipeline.test.ts",
