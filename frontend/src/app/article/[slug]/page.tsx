@@ -23,6 +23,8 @@ import { getArticleBySlug, getAllPublishedArticles } from "@/db/queries/articles
 import { formatISTDate } from "@/lib/utils";
 import ReadingProgressBar from "./ReadingProgressBar";
 import ArticleShareBar from "./ArticleShareBar";
+import ReaderCounter from "@/components/ReaderCounter";
+import AiSummarizer from "@/components/AiSummarizer";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -227,11 +229,24 @@ export default async function ArticlePage({ params }: Props) {
                   <span>•</span>
                   <span>{article.word_count} words</span>
                 </div>
+                <div className="mt-1.5">
+                  <ReaderCounter slug={article.slug} />
+                </div>
               </div>
             </div>
 
             {/* Interactive Share & Bookmark Bar */}
             <ArticleShareBar title={article.title} url={`https://zestfeedx.com/article/${article.slug}`} />
+
+            {/* AI Animated & Highlighted Article Summarizer */}
+            <AiSummarizer
+              title={article.title}
+              deck={article.deck}
+              takeaways={article.key_takeaways}
+              whyItMatters={article.why_it_matters}
+              category={article.category}
+              wordCount={article.word_count}
+            />
           </header>
 
           {/* Hero Image */}
@@ -246,11 +261,25 @@ export default async function ArticlePage({ params }: Props) {
                 className="object-cover"
               />
             </div>
-            <figcaption className="text-xs text-[#525866] dark:text-[#94A3B8] mt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-1">
+            <figcaption className="text-xs text-[#525866] dark:text-[#94A3B8] mt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-[#E8E4DC] dark:border-[#1E293B] pb-2">
               <span>{article.hero_image_caption}</span>
-              <span className="shrink-0 font-mono text-[10px] text-[#94A3B8] dark:text-[#64748B]">
-                Credit: {article.hero_image_credit}
-              </span>
+              <div className="flex items-center gap-2 shrink-0">
+                <span className="font-mono text-[10px] text-[#94A3B8] dark:text-[#64748B]">
+                  Photo Source: {article.hero_image_credit}
+                </span>
+                {article.citations && article.citations.length > 0 && article.citations[0].url && (
+                  <a
+                    href={article.citations[0].url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-[10px] font-semibold text-[#FF5A1F] hover:underline flex items-center gap-0.5"
+                    title="View original primary source report"
+                  >
+                    <span>Source Link</span>
+                    <ExternalLink className="w-2.5 h-2.5" />
+                  </a>
+                )}
+              </div>
             </figcaption>
           </figure>
 

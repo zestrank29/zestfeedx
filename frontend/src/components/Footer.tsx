@@ -33,7 +33,7 @@ export default function Footer() {
               </p>
               <p className="flex items-center gap-1.5">
                 <Mail className="w-3.5 h-3.5 text-[#0E7C86]" />
-                <span>Tips & Inquiries: editorial@zestfeedx.com</span>
+                <span>Tips & Inquiries: news@zestfeedx.com</span>
               </p>
             </div>
           </div>

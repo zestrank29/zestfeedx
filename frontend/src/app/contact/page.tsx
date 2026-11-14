@@ -60,39 +60,61 @@ export default function ContactPage() {
 
                 <div className="space-y-3 text-xs text-[#525866] dark:text-[#94A3B8]">
                   <div>
-                    <span className="font-semibold text-[#0B1020] dark:text-[#F1F5F9] block">Editorial Inquiries & News Desk</span>
-                    <a href="mailto:editorial@zestfeedx.com" className="text-[#FF5A1F] font-mono hover:underline">
-                      editorial@zestfeedx.com
+                    <span className="font-semibold text-[#0B1020] dark:text-[#F1F5F9] block">Editorial Inquiries & Central News Desk</span>
+                    <a href="mailto:news@zestfeedx.com" className="text-[#FF5A1F] font-mono hover:underline">
+                      news@zestfeedx.com
                     </a>
                   </div>
 
                   <div>
-                    <span className="font-semibold text-[#0B1020] dark:text-[#F1F5F9] block">Fact-Checking & Corrections</span>
-                    <a href="mailto:corrections@zestfeedx.com" className="text-[#0E7C86] font-mono hover:underline">
-                      corrections@zestfeedx.com
+                    <span className="font-semibold text-[#0B1020] dark:text-[#F1F5F9] block">Fact-Checking, Corrections & Legal</span>
+                    <a href="mailto:news@zestfeedx.com" className="text-[#0E7C86] font-mono hover:underline">
+                      news@zestfeedx.com
                     </a>
                   </div>
 
                   <div>
                     <span className="font-semibold text-[#0B1020] dark:text-[#F1F5F9] block">Press Releases & Official Statements</span>
-                    <a href="mailto:press@zestfeedx.com" className="font-mono text-[#525866] dark:text-[#94A3B8] hover:underline">
-                      press@zestfeedx.com
+                    <a href="mailto:news@zestfeedx.com" className="font-mono text-[#525866] dark:text-[#94A3B8] hover:underline">
+                      news@zestfeedx.com
                     </a>
                   </div>
 
                   <div>
                     <span className="font-semibold text-[#0B1020] dark:text-[#F1F5F9] block">Commercial Advertising & Sponsored Posts</span>
-                    <a href="mailto:ads@zestfeedx.com" className="text-[#FF5A1F] font-mono hover:underline">
-                      ads@zestfeedx.com
+                    <a href="mailto:news@zestfeedx.com" className="text-[#FF5A1F] font-mono hover:underline">
+                      news@zestfeedx.com
                     </a>
                   </div>
 
                   <div>
                     <span className="font-semibold text-[#0B1020] dark:text-[#F1F5F9] block">Data Protection Officer (DPDP Act)</span>
-                    <a href="mailto:dpo@zestfeedx.com" className="font-mono text-[#525866] dark:text-[#94A3B8] hover:underline">
-                      dpo@zestfeedx.com
+                    <a href="mailto:news@zestfeedx.com" className="font-mono text-[#525866] dark:text-[#94A3B8] hover:underline">
+                      news@zestfeedx.com
                     </a>
                   </div>
+                </div>
+              </div>
+
+              {/* Newsletter Bureau Section */}
+              <div id="newsletter" className="scroll-mt-24 p-6 bg-white dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] rounded-xl space-y-3">
+                <div className="flex items-center gap-2">
+                  <Mail className="w-5 h-5 text-[#FF5A1F]" />
+                  <h3 className="font-display text-base font-bold text-[#0B1020] dark:text-[#F1F5F9]">
+                    The Dispatch Newsletter Desk
+                  </h3>
+                </div>
+                <p className="text-xs text-[#525866] dark:text-[#94A3B8] leading-relaxed">
+                  Join 250,000+ business leaders and policymakers who receive our 07:00 IST Morning Brief and curated Sunday macro debriefs. For newsletter sponsorships or subscriber support:
+                </p>
+                <div className="pt-2">
+                  <a
+                    href="mailto:news@zestfeedx.com?subject=Newsletter%20Inquiry"
+                    className="inline-flex items-center gap-2 px-3.5 py-2 bg-[#FF5A1F] hover:bg-[#E04B14] text-white font-semibold text-xs rounded-md transition"
+                  >
+                    <Mail className="w-3.5 h-3.5" />
+                    <span>Contact Newsletter Team (news@zestfeedx.com)</span>
+                  </a>
                 </div>
               </div>
 

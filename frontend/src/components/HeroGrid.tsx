@@ -7,6 +7,7 @@ import { motion } from "framer-motion";
 import { Clock, User, ArrowUpRight, ChevronRight } from "lucide-react";
 import { OriginalArticle, CuratedBrief } from "@/data/demoContent";
 import { formatRelativeTimeIST } from "@/lib/utils";
+import ReaderCounter from "@/components/ReaderCounter";
 
 interface HeroGridProps {
   leadStory: OriginalArticle;
@@ -54,28 +55,31 @@ export default function HeroGrid({
               {isHindi && leadStory.deck_hi ? leadStory.deck_hi : leadStory.deck}
             </p>
 
-            {/* Author Byline */}
-            <div className="flex items-center gap-3 my-4 py-2 border-y border-[#E8E4DC] dark:border-[#1E293B]">
-              <div className="relative w-8 h-8 rounded-full overflow-hidden shrink-0 border border-[#DDD7CD] dark:border-[#334155]">
-                <Image
-                  src={leadStory.author.avatar}
-                  alt={leadStory.author.name}
-                  fill
-                  sizes="32px"
-                  className="object-cover"
-                />
+            {/* Author Byline & Reader Counter */}
+            <div className="flex flex-wrap items-center justify-between gap-3 my-4 py-2 border-y border-[#E8E4DC] dark:border-[#1E293B]">
+              <div className="flex items-center gap-3">
+                <div className="relative w-8 h-8 rounded-full overflow-hidden shrink-0 border border-[#DDD7CD] dark:border-[#334155]">
+                  <Image
+                    src={leadStory.author.avatar}
+                    alt={leadStory.author.name}
+                    fill
+                    sizes="32px"
+                    className="object-cover"
+                  />
+                </div>
+                <div className="text-xs">
+                  <Link
+                    href={`/author/${leadStory.author.slug}`}
+                    className="font-semibold text-[#0B1020] dark:text-[#F1F5F9] hover:underline"
+                  >
+                    {isHindi ? `लेखक: ${leadStory.author.name}` : `By ${leadStory.author.name}`}
+                  </Link>
+                  <p className="text-[10px] text-[#525866] dark:text-[#94A3B8]">
+                    {leadStory.author.role} • {leadStory.reading_time_mins} {isHindi ? "मिनट पठन" : "min read"}
+                  </p>
+                </div>
               </div>
-              <div className="text-xs">
-                <Link
-                  href={`/author/${leadStory.author.slug}`}
-                  className="font-semibold text-[#0B1020] dark:text-[#F1F5F9] hover:underline"
-                >
-                  {isHindi ? `लेखक: ${leadStory.author.name}` : `By ${leadStory.author.name}`}
-                </Link>
-                <p className="text-[10px] text-[#525866] dark:text-[#94A3B8]">
-                  {leadStory.author.role} • {leadStory.reading_time_mins} {isHindi ? "मिनट पठन" : "min read"}
-                </p>
-              </div>
+              <ReaderCounter slug={leadStory.slug} compact={false} />
             </div>
 
             {/* Hero Image Container */}
@@ -128,11 +132,14 @@ export default function HeroGrid({
                       <p className={`mt-1 text-xs text-[#525866] dark:text-[#94A3B8] line-clamp-2 ${isHindi ? "font-hindi leading-[1.6]!" : ""}`}>
                         {isHindi && art.deck_hi ? art.deck_hi : art.deck}
                       </p>
-                      <div className="mt-2 text-[10px] text-[#525866] dark:text-[#94A3B8]">
-                        <span className="font-semibold text-[#0B1020] dark:text-[#F1F5F9]">
-                          {art.author.name}
-                        </span>{" "}
-                        • {art.reading_time_mins} {isHindi ? "मिनट पठन" : "min read"}
+                      <div className="mt-2 flex items-center justify-between text-[10px] text-[#525866] dark:text-[#94A3B8]">
+                        <span>
+                          <span className="font-semibold text-[#0B1020] dark:text-[#F1F5F9]">
+                            {art.author.name}
+                          </span>{" "}
+                          • {art.reading_time_mins} {isHindi ? "मिनट पठन" : "min read"}
+                        </span>
+                        <ReaderCounter slug={art.slug} compact={true} />
                       </div>
                     </div>
 

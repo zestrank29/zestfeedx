@@ -6,15 +6,15 @@ import { motion } from "framer-motion";
 import { Search, Bell, Menu, X, ArrowUpRight } from "lucide-react";
 
 export const CATEGORIES = [
-  { id: "all", label: "Front Page", label_hi: "मुख्य पृष्ठ" },
-  { id: "markets", label: "Markets & Money", label_hi: "बाजार एवं वित्त" },
-  { id: "tech", label: "Tech & AI", label_hi: "तकनीक एवं एआई" },
-  { id: "india", label: "India Policy", label_hi: "भारत एवं नीतियां" },
-  { id: "world", label: "World Affairs", label_hi: "वैश्विक परिदृश्य" },
-  { id: "health", label: "Health & Climate", label_hi: "स्वास्थ्य एवं पर्यावरण" },
-  { id: "sports", label: "Sports", label_hi: "खेल जगत" },
-  { id: "entertainment", label: "Culture & Arts", label_hi: "कला एवं संस्कृति" },
-  { id: "explainers", label: "Explainers", label_hi: "विश्लेषण एवं तथ्य" },
+  { id: "all", label: "Front Page", label_hi: "मुख्य पृष्ठ", href: "/" },
+  { id: "markets", label: "Markets & Money", label_hi: "बाजार एवं वित्त", href: "/category/markets/" },
+  { id: "tech", label: "Tech & AI", label_hi: "तकनीक एवं एआई", href: "/category/tech/" },
+  { id: "india", label: "India Policy", label_hi: "भारत एवं नीतियां", href: "/category/india/" },
+  { id: "world", label: "World Affairs", label_hi: "वैश्विक परिदृश्य", href: "/category/world/" },
+  { id: "health", label: "Health & Climate", label_hi: "स्वास्थ्य एवं पर्यावरण", href: "/category/health/" },
+  { id: "sports", label: "Sports", label_hi: "खेल जगत", href: "/category/sports/" },
+  { id: "entertainment", label: "Culture & Arts", label_hi: "कला एवं संस्कृति", href: "/category/entertainment/" },
+  { id: "explainers", label: "Explainers", label_hi: "विश्लेषण एवं तथ्य", href: "/explainers/" },
 ];
 
 interface MastheadProps {
@@ -135,19 +135,20 @@ export default function Masthead({
               const title = currentLanguage === "hi" ? cat.label_hi : cat.label;
               return (
                 <li key={cat.id} className="relative shrink-0">
-                  <button
+                  <Link
+                    href={cat.href}
                     onClick={() => {
                       onSelectCategory(cat.id);
                       setMobileMenuOpen(false);
                     }}
-                    className={`px-3 py-1.5 rounded-sm transition-colors text-[11px] sm:text-xs font-semibold tracking-tight ${
+                    className={`px-3 py-1.5 rounded-sm transition-colors text-[11px] sm:text-xs font-semibold tracking-tight inline-block ${
                       isSelected
                         ? "text-[#FF5A1F]"
                         : "text-[#525866] dark:text-[#94A3B8] hover:text-[#0B1020] dark:hover:text-[#FFFFFF]"
                     }`}
                   >
                     {title}
-                  </button>
+                  </Link>
                   {isSelected && (
                     <motion.div
                       layoutId="categoryActiveIndicator"
@@ -168,20 +169,21 @@ export default function Masthead({
           <p className="text-[10px] uppercase font-bold tracking-widest text-[#94A3B8]">Categories</p>
           <div className="grid grid-cols-2 gap-2 text-xs">
             {CATEGORIES.map((cat) => (
-              <button
+              <Link
                 key={cat.id}
+                href={cat.href}
                 onClick={() => {
                   onSelectCategory(cat.id);
                   setMobileMenuOpen(false);
                 }}
-                className={`text-left py-1.5 px-2 rounded ${
+                className={`text-left py-1.5 px-2 rounded block ${
                   selectedCategory === cat.id
                     ? "bg-[#FF5A1F] text-white font-bold"
                     : "text-[#525866] dark:text-[#94A3B8] hover:bg-[#ECE7DE] dark:hover:bg-[#1E293B]"
                 }`}
               >
                 {currentLanguage === "hi" ? cat.label_hi : cat.label}
-              </button>
+              </Link>
             ))}
           </div>
           <div className="pt-2 border-t border-[#E8E4DC] dark:border-[#1E293B] flex flex-col gap-2">

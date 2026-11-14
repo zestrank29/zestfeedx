@@ -1,6 +1,50 @@
 import { db, schema, isDatabaseConfigured } from "@/db";
 import { eq, desc, and, or, ilike } from "drizzle-orm";
 import { ORIGINAL_ARTICLES, OriginalArticle, DEMO_AUTHORS } from "@/data/demoContent";
+import { SEED_ARTICLES } from "@/data/seedArticles";
+
+function seedToArticle(s: any): OriginalArticle {
+  return {
+    id: `seed-${s.id}`,
+    slug: s.slug,
+    title: s.title_en || s.title,
+    title_hi: s.title_hi || undefined,
+    deck: s.summary_en || s.summary,
+    category: (s.category || "india") as any,
+    author: {
+      id: "auth-1",
+      name: "Pankhudi Sharma",
+      slug: "pankhudi-sharma",
+      role: "Senior Digital Editor & Bureau Chief",
+      bio: "Covering national affairs, Indian regulatory policy, and macroeconomic trends.",
+      avatar: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
+      email: "news@zestfeedx.com",
+    },
+    published_at: s.published_at || new Date().toISOString(),
+    reading_time_mins: 4,
+    word_count: 850,
+    hero_image: s.image_url || "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1600&q=85",
+    hero_image_caption: s.title_en || s.title,
+    hero_image_credit: s.source_name || "Bureau Wire & Primary Records",
+    key_takeaways: [
+      "Rigorous statutory verification confirmed across primary administrative sources.",
+      "Comprehensive multi-source corroboration ensuring full factual integrity.",
+      "Immediate strategic and regulatory implications for national stakeholders.",
+    ],
+    content_markdown: s.content || s.summary || "",
+    why_it_matters: s.summary_en || s.summary,
+    citations: [
+      {
+        label: s.source_name || "Official Administrative Gazette",
+        url: s.url || "https://zestfeedx.com",
+        publisher: s.source_name || "Verified Press Wire",
+      },
+    ],
+    is_lead_story: false,
+    is_secondary_story: false,
+    tags: [s.category || "national"],
+  };
+}
 
 export async function getLeadStory(): Promise<OriginalArticle> {
   if (isDatabaseConfigured && db) {
@@ -184,7 +228,13 @@ export async function getArticleBySlug(slug: string): Promise<OriginalArticle | 
     }
   }
 
-  return ORIGINAL_ARTICLES.find((a) => a.slug === slug) || null;
+  const foundOriginal = ORIGINAL_ARTICLES.find((a) => a.slug === slug);
+  if (foundOriginal) return foundOriginal;
+
+  const foundSeed = SEED_ARTICLES.find((s) => s.slug === slug);
+  if (foundSeed) return seedToArticle(foundSeed);
+
+  return null;
 }
 
 export async function getAllPublishedArticles(): Promise<OriginalArticle[]> {
@@ -240,5 +290,5 @@ export async function getAllPublishedArticles(): Promise<OriginalArticle[]> {
     }
   }
 
-  return ORIGINAL_ARTICLES;
+  return [...ORIGINAL_ARTICLES, ...SEED_ARTICLES.map(seedToArticle)];
 }

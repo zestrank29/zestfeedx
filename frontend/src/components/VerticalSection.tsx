@@ -6,6 +6,7 @@ import Image from "next/image";
 import { ArrowUpRight, Clock, ChevronRight } from "lucide-react";
 import { OriginalArticle, CuratedBrief } from "@/data/demoContent";
 import { formatRelativeTimeIST } from "@/lib/utils";
+import ReaderCounter from "@/components/ReaderCounter";
 
 interface VerticalSectionProps {
   id: string;
@@ -95,13 +96,16 @@ export default function VerticalSection({
                   </div>
                 </div>
 
-                <div className="p-4 pt-0 border-t border-[#F0ECE1] dark:border-[#1E293B] mt-2 flex items-center justify-between text-[11px]">
+                <div className="p-4 pt-2 border-t border-[#F0ECE1] dark:border-[#1E293B] mt-2 flex flex-wrap items-center justify-between gap-2 text-[11px]">
                   <span className="font-semibold text-[#0B1020] dark:text-[#F1F5F9]">
                     By {art.author.name}
                   </span>
-                  <span className="text-[#94A3B8] font-mono text-[10px]">
-                    {formatRelativeTimeIST(art.published_at)}
-                  </span>
+                  <div className="flex items-center gap-2">
+                    <ReaderCounter slug={art.slug} compact={true} />
+                    <span className="text-[#94A3B8] font-mono text-[10px]">
+                      {formatRelativeTimeIST(art.published_at)}
+                    </span>
+                  </div>
                 </div>
               </article>
             ))}

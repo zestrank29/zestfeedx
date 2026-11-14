@@ -2,8 +2,8 @@ name: Automated News Pipeline & Hostinger Deploy
 
 on:
   schedule:
-    # Runs twice every day: at 04:30 UTC (10:00 AM IST) and 12:30 UTC (6:00 PM IST)
-    - cron: '30 4,12 * * *'
+    # Runs every hour at minute 0 (24x7 hourly verified news update)
+    - cron: '0 * * * *'
   workflow_dispatch: # Allows 1-click manual trigger anytime from GitHub Actions tab
 
 # Prevent overlapping runs

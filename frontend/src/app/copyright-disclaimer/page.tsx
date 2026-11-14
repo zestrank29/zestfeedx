@@ -77,7 +77,7 @@ export default function CopyrightDisclaimerPage() {
               </p>
               <div className="mt-3 text-xs font-mono text-[#0B1020] dark:text-[#F1F5F9] space-y-1">
                 <p><strong>Legal Desk:</strong> Intellectual Property Compliance Officer</p>
-                <p><strong>Email:</strong> legal@zestfeedx.com / copyright@zestfeedx.com</p>
+                <p><strong>Email:</strong> news@zestfeedx.com</p>
                 <p><strong>Review SLA:</strong> All verified notices are reviewed and resolved within 24 to 48 business hours.</p>
               </div>
             </section>

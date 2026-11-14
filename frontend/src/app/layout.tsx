@@ -94,7 +94,7 @@ export default function RootLayout({
         "@id": "https://zestfeedx.com/#organization",
         name: "ZestFeedX",
         url: "https://zestfeedx.com/",
-        email: "editorial@zestfeedx.com",
+        email: "news@zestfeedx.com",
         foundingDate: "2024",
         publishingPrinciples: "https://zestfeedx.com/editorial-policy",
         correctionsPolicy: "https://zestfeedx.com/corrections",

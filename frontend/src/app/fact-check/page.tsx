@@ -91,6 +91,31 @@ export default function FactCheckPage() {
                 ZestFeedX does not cover unconfirmed social media chatter, anonymous WhatsApp forwards, or speculative entertainment rumors. If a story cannot be corroborated through official administrative channels, credible industry spokespersons, or scientific telemetry, it does not appear on our broadsheet.
               </p>
             </section>
+
+            {/* Corrections & Verification Dispute Protocol */}
+            <section id="corrections" className="scroll-mt-24 p-6 bg-white dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] rounded-xl not-prose">
+              <h2 className="font-display text-xl font-bold text-[#0B1020] dark:text-[#F1F5F9] mb-3 flex items-center gap-2">
+                <CheckCircle2 className="w-5 h-5 text-[#FF5A1F]" />
+                Corrections & Fact-Checking Grievance Protocol
+              </h2>
+              <p className="text-xs sm:text-sm text-[#525866] dark:text-[#94A3B8] leading-relaxed mb-4">
+                We believe in absolute transparency. If you identify any factual error, inaccurate statistic, misattributed quotation, or unverified assertion in any ZestFeedX dispatch, our editorial ombudsman investigates immediately:
+              </p>
+              <div className="space-y-3 text-xs text-[#525866] dark:text-[#94A3B8]">
+                <div className="flex items-start gap-2">
+                  <span className="font-bold text-[#FF5A1F]">•</span>
+                  <span><strong>24-Hour Review Turnaround:</strong> Any dispute submitted to our fact-checking desk is logged into our verification queue and acknowledged within 24 hours.</span>
+                </div>
+                <div className="flex items-start gap-2">
+                  <span className="font-bold text-[#0E7C86]">•</span>
+                  <span><strong>Public Correction Notice:</strong> If a factual correction is warranted, an explicit footnote is added at the top and bottom of the article detailing what was corrected, the original phrasing, and the timestamp.</span>
+                </div>
+                <div className="flex items-start gap-2">
+                  <span className="font-bold text-purple-600">•</span>
+                  <span><strong>Direct Ombudsman Contact:</strong> Send documented evidence, primary links, or corrections directly to our central desk at <a href="mailto:news@zestfeedx.com" className="text-[#FF5A1F] font-semibold underline">news@zestfeedx.com</a>.</span>
+                </div>
+              </div>
+            </section>
           </div>
         </div>
       </main>

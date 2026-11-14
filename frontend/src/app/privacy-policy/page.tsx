@@ -98,7 +98,7 @@ export default function PrivacyPolicyPage() {
               </p>
               <div className="mt-3 text-xs font-mono text-[#0B1020] dark:text-[#F1F5F9] space-y-1">
                 <p><strong>Officer:</strong> Editorial Grievance & Compliance Cell</p>
-                <p><strong>Email:</strong> dpo@zestfeedx.com / privacy@zestfeedx.com</p>
+                <p><strong>Email:</strong> news@zestfeedx.com</p>
                 <p><strong>Address:</strong> ZestFeedX Digital Media, Barakhamba Road, Connaught Place, New Delhi 110001, India</p>
               </div>
             </section>

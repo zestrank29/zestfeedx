@@ -61,7 +61,7 @@ export default function EditorialPolicyPage() {
             </section>
 
             {/* 2. AI-Assisted Disclosure */}
-            <section className="p-6 bg-white dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] rounded-xl not-prose">
+            <section id="ai-disclosure" className="p-6 bg-white dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] rounded-xl not-prose scroll-mt-24">
               <div className="flex items-center gap-2 mb-3">
                 <Sparkles className="w-5 h-5 text-[#FF5A1F]" />
                 <h3 className="font-display text-lg font-bold text-[#0B1020] dark:text-[#F1F5F9]">
@@ -89,7 +89,7 @@ export default function EditorialPolicyPage() {
               <ul>
                 <li><strong>Correction Footnote:</strong> When an article is updated to correct a factual error, an italicized footnote is appended at the base of the article detailing what was changed, why, and the exact timestamp of correction.</li>
                 <li><strong>Major Retractions:</strong> In the rare event that an entire premise of a report is found to be fundamentally flawed, an editor&rsquo;s note is prominently placed at the top of the article, explaining the withdrawal while preserving archival integrity.</li>
-                <li><strong>Editorial Grievance Desk:</strong> If you believe a fact in a ZestFeedX dispatch is inaccurate, email our desk directly at <a href="mailto:corrections@zestfeedx.com" className="text-[#FF5A1F] font-semibold">corrections@zestfeedx.com</a>. Every reported dispute is acknowledged within 24 hours.</li>
+                <li><strong>Editorial Grievance Desk:</strong> If you believe a fact in a ZestFeedX dispatch is inaccurate, email our desk directly at <a href="mailto:news@zestfeedx.com" className="text-[#FF5A1F] font-semibold">news@zestfeedx.com</a>. Every reported dispute is acknowledged within 24 hours.</li>
               </ul>
             </section>
 

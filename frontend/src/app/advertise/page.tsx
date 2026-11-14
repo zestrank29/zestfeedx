@@ -244,8 +244,8 @@ export default function AdvertisePage() {
           </div>
         </div>
 
-        {/* Pricing Tiers Grid */}
-        <div className="mb-14">
+        {/* Pricing Tiers Grid & Sponsored Posts */}
+        <div id="sponsored-posts" className="mb-14 scroll-mt-24">
           <h2 className="font-display text-2xl font-bold text-center text-[#0B1020] dark:text-[#F1F5F9] mb-2">
             Transparent Commercial Rates
           </h2>
