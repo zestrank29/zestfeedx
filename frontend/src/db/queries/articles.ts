@@ -105,6 +105,9 @@ export async function getLeadStory(): Promise<OriginalArticle> {
     }
   }
 
+  if (SEED_ARTICLES && SEED_ARTICLES.length > 0) {
+    return seedToArticle(SEED_ARTICLES[0]);
+  }
   return ORIGINAL_ARTICLES.find((a) => a.is_lead_story) || ORIGINAL_ARTICLES[0];
 }
 
@@ -166,6 +169,9 @@ export async function getSecondaryStories(): Promise<OriginalArticle[]> {
     }
   }
 
+  if (SEED_ARTICLES && SEED_ARTICLES.length > 2) {
+    return SEED_ARTICLES.slice(1, 3).map(seedToArticle);
+  }
   return ORIGINAL_ARTICLES.filter((a) => a.is_secondary_story);
 }
 
@@ -228,11 +234,11 @@ export async function getArticleBySlug(slug: string): Promise<OriginalArticle | 
     }
   }
 
-  const foundOriginal = ORIGINAL_ARTICLES.find((a) => a.slug === slug);
-  if (foundOriginal) return foundOriginal;
-
   const foundSeed = SEED_ARTICLES.find((s) => s.slug === slug);
   if (foundSeed) return seedToArticle(foundSeed);
+
+  const foundOriginal = ORIGINAL_ARTICLES.find((a) => a.slug === slug);
+  if (foundOriginal) return foundOriginal;
 
   return null;
 }
@@ -290,5 +296,5 @@ export async function getAllPublishedArticles(): Promise<OriginalArticle[]> {
     }
   }
 
-  return [...ORIGINAL_ARTICLES, ...SEED_ARTICLES.map(seedToArticle)];
+  return [...SEED_ARTICLES.map(seedToArticle), ...ORIGINAL_ARTICLES];
 }

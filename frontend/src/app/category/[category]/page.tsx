@@ -137,7 +137,7 @@ export default async function CategoryPage({ params }: Props) {
     is_original: true,
   }));
 
-  // Pull matching seed articles
+  // Pull matching seed articles (freshest hourly dispatches)
   const seeds = SEED_ARTICLES.filter((a) => isMatch(a.category, catKey)).map((a) => ({
     id: a.id,
     slug: a.slug,
@@ -145,12 +145,13 @@ export default async function CategoryPage({ params }: Props) {
     summary: a.summary_en || a.summary,
     category: a.category,
     image_url: a.image_url,
-    author: "Pankhudi Sharma",
+    author: a.author_name || "Pankhudi Sharma",
     read_time: a.read_time,
     is_original: false,
   }));
 
-  const allArticles = [...originals, ...seeds];
+  // Put freshest hourly seed articles first, followed by original flagship investigations
+  const allArticles = [...seeds, ...originals];
 
   if (allArticles.length === 0) {
     notFound();

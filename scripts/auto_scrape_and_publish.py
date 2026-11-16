@@ -480,16 +480,15 @@ def main():
 
     # Regenerate Google News, Sitemaps, and RSS Feeds safely using subprocess
     print("\n🔄 Regenerating news-sitemap.xml and RSS feeds...")
-    gen_script = os.path.join(BASE_DIR, "scripts", "generate_google_news.py")
-    subprocess.run([sys.executable, gen_script], check=False)
+    gen_script = os.path.join(BASE_DIR, "scripts", "generate_news_sitemap.js")
+    if os.path.exists(gen_script):
+        subprocess.run(["node", gen_script], check=False)
 
     # Instant Real-Time Search Engine Indexing (Google Indexing API, Bing, IndexNow)
     try:
-        new_urls = [f"https://zestfeedx.com/article/{a['slug']}/" for a in new_articles]
-        print(f"\n⚡ Dispatching {len(new_urls)} new URLs to Search Engine Indexing APIs...")
-        idx_script = os.path.join(BASE_DIR, "scripts", "realtime_indexing.py")
+        idx_script = os.path.join(BASE_DIR, "scripts", "auto_submit_search_console.js")
         if os.path.exists(idx_script):
-            subprocess.run([sys.executable, idx_script] + new_urls, check=False)
+            subprocess.run(["node", idx_script], check=False)
     except Exception as e:
         print(f"[Indexing Integration] Non-blocking notice: {e}")
 
