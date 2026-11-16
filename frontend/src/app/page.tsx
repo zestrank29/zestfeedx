@@ -25,6 +25,7 @@ import {
 import { SEED_ARTICLES } from "@/data/seedArticles";
 
 function seedToOriginalArticle(art: any): OriginalArticle {
+  const isHi = art.language === "hi" || /[\u0900-\u097F]/.test(art.title || "");
   const cat = (art.category || "india").toLowerCase();
   const validCat = ["markets", "tech", "india", "world", "sports", "entertainment", "health", "explainers"].includes(cat)
     ? cat
@@ -33,17 +34,20 @@ function seedToOriginalArticle(art: any): OriginalArticle {
   return {
     id: `seed-${art.id}`,
     slug: art.slug,
-    title: art.title_en || art.title,
+    language: isHi ? "hi" : "en",
+    title: isHi ? (art.title_hi || art.title) : (art.title_en || art.title),
     title_hi: art.title_hi || art.title,
-    deck: art.summary_en || art.summary || "",
+    deck: isHi ? (art.summary_hi || art.summary || "") : (art.summary_en || art.summary || ""),
     deck_hi: art.summary_hi || art.summary || "",
     category: validCat as any,
     author: {
       id: "pankhudi-sharma",
       name: art.author_name || "Pankhudi Sharma",
       slug: "pankhudi-sharma",
-      role: "Senior Digital Editor",
-      bio: art.author_bio || "Senior Digital Editor covering national policy, frontier tech, and lifestyle trends with over 15 years of investigative journalism experience.",
+      role: isHi ? "वरिष्ठ डिजिटल संपादक" : "Senior Digital Editor",
+      bio: isHi
+        ? "राष्ट्रीय नीति, प्रौद्योगिकी और आर्थिक रुझानों पर 15 वर्षों से अधिक के अनुभव के साथ खोजी पत्रकारिता।"
+        : (art.author_bio || "Senior Digital Editor covering national policy, frontier tech, and lifestyle trends with over 15 years of investigative journalism experience."),
       avatar: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
       email: "news@zestfeedx.com",
     },
@@ -53,13 +57,19 @@ function seedToOriginalArticle(art: any): OriginalArticle {
     hero_image: art.image_url || "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1600&q=85",
     hero_image_caption: art.image_alt || art.title,
     hero_image_credit: art.image_courtesy || "ZestFeedX Digital Archives",
-    key_takeaways: [
-      art.summary_en || art.summary || "Verified multi-source investigative dispatch.",
-      "Primary agency and gazette cross-verification completed.",
-      "Strategic implications monitored by editorial research desk.",
-    ],
-    content_markdown: art.content_en || art.content || "",
-    why_it_matters: art.summary_en || art.summary || "",
+    key_takeaways: isHi
+      ? [
+          "विभागीय समीक्षा एवं उच्चस्तरीय वैधानिक निगरानी सक्रिय।",
+          "विधिक दिशा-निर्देशों के अनुरूप शत-प्रतिशत अनुपालन सुनिश्चित।",
+          "संपादकीय अनुसंधान डेस्क द्वारा नीतिगत प्रभावों का लगातार विश्लेषण।",
+        ]
+      : [
+          art.summary_en || art.summary || "Verified multi-source investigative dispatch.",
+          "Primary agency and gazette cross-verification completed.",
+          "Strategic implications monitored by editorial research desk.",
+        ],
+    content_markdown: isHi ? (art.content_hi || art.content || "") : (art.content_en || art.content || ""),
+    why_it_matters: isHi ? (art.summary_hi || art.summary || "") : (art.summary_en || art.summary || ""),
     citations: [
       {
         label: art.source_name || "Verified Press Wire",
@@ -112,8 +122,14 @@ export function HomePageContent({
   }, []);
 
   const allArticles = React.useMemo(() => {
-    return [...convertedSeeds, ...ORIGINAL_ARTICLES];
-  }, [convertedSeeds]);
+    if (currentLanguage === "hi") {
+      const hiSeeds = convertedSeeds.filter((a) => a.language === "hi");
+      return hiSeeds.length > 0 ? hiSeeds : convertedSeeds;
+    } else {
+      const enSeeds = convertedSeeds.filter((a) => a.language === "en");
+      return [...enSeeds, ...ORIGINAL_ARTICLES];
+    }
+  }, [convertedSeeds, currentLanguage]);
 
   // Edition-specific story prioritization
   const leadStory = React.useMemo(() => {
@@ -144,20 +160,26 @@ export function HomePageContent({
   // Top 5 Curated Reads on the right side of the Hero Grid
   const curatedReads: CuratedBrief[] = React.useMemo(() => {
     const rawSeeds = SEED_ARTICLES || [];
-    if (rawSeeds.length >= 8) {
-      return rawSeeds.slice(3, 8).map((s) => ({
+    const filteredSeeds = rawSeeds.filter((s) => {
+      const isHi = s.language === "hi" || /[\u0900-\u097F]/.test(s.title || "");
+      return currentLanguage === "hi" ? isHi : !isHi;
+    });
+
+    if (filteredSeeds.length >= 8) {
+      return filteredSeeds.slice(3, 8).map((s) => ({
         id: `brief-${s.id}`,
-        title: s.title_en || s.title,
+        title: currentLanguage === "hi" ? (s.title_hi || s.title) : (s.title_en || s.title),
         title_hi: s.title_hi || s.title,
-        summary: s.summary_en || s.summary || "",
+        summary: currentLanguage === "hi" ? (s.summary_hi || s.summary || "") : (s.summary_en || s.summary || ""),
         source_name: s.source_name || "Verified Press Wire",
         source_url: `/article/${s.slug}`,
         published_at: s.published_at || new Date().toISOString(),
         category: (s.category || "india") as any,
+        language: currentLanguage,
       }));
     }
     return CURATED_BRIEFS;
-  }, []);
+  }, [currentLanguage]);
 
   // Group by vertical for Section 7 (Markets, Tech, India Policy)
   const marketsOriginal = React.useMemo(() => {

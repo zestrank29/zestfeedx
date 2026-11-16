@@ -39,6 +39,7 @@ export interface Article {
   views_count: number;
   shares_count: number;
   published_at: string;
+  language?: "en" | "hi";
   // Dual-Language Curiosity Fields
   title_en?: string;
   content_en?: string;

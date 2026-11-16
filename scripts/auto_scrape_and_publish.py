@@ -250,20 +250,38 @@ CATEGORY_HD_IMAGES = {
 }
 
 def generate_curiosity_headline(original_title):
-    clean = re.sub(r'^[^\w\s]+', '', original_title).strip()
+    clean = re.sub(r'^[^\w\s\u0900-\u097F]+', '', original_title).strip()
     clean = re.sub(r'^(breaking|exclusive|alert|just in|watch|update|live):\s*', '', clean, flags=re.I).strip()
-    patterns = [
-        "The Secret Truth Behind: {}",
-        "Why Everyone Is Shocked By {}",
-        "Behind Closed Doors: What Really Happened When {}",
-        "The Untold Inside Story: How {} Is Shaking the Entire Sector",
-        "Revealed: The Shocking Details Behind {}",
-        "Why Insiders Are Calling {} a Total Game-Changer",
-        "The Midnight Move: How {} Caught Everyone Completely Off Guard",
-        "What Nobody Is Telling You About {}"
-    ]
-    h = sum(ord(c) for c in clean) % len(patterns)
-    return patterns[h].format(clean)
+    
+    # Strip media brand suffixes
+    clean = re.sub(r'\s*[-–—|]\s*(Jagran|Dainik Bhaskar|AajTak|India TV Hindi|PM India|NDTV Hindi|NDTV India|NDTV|Amar Ujala|Navbharat Times|Hindustan|Zee News|ABP News|News18|BBC Hindi|Jansatta|ANI News|The Hindu|The Times of India|BBC|Reuters|Business Standard|Rediff|News On AIR|DD News).*$', '', clean, flags=re.I).strip()
+
+    is_hindi = bool(re.search(r'[\u0900-\u097F]', clean))
+    if is_hindi:
+        hindi_prefixes = [
+            "बड़ा खुलासा: {}",
+            "विशेष रिपोर्ट: {}",
+            "ताज़ा अपडेट: {}",
+            "अंदर की बात: {}",
+            "ग्राउंड रिपोर्ट: {}",
+            "महत्वपूर्ण जानकारी: {}",
+            "बड़ी खबर: {}"
+        ]
+        h = sum(ord(c) for c in clean) % len(hindi_prefixes)
+        return hindi_prefixes[h].format(clean)
+    else:
+        eng_patterns = [
+            "The Secret Truth Behind: {}",
+            "Why Everyone Is Shocked By {}",
+            "Behind Closed Doors: What Really Happened When {}",
+            "The Untold Inside Story: How {} Is Shaking the Entire Sector",
+            "Revealed: The Shocking Details Behind {}",
+            "Why Insiders Are Calling {} a Total Game-Changer",
+            "The Midnight Move: How {} Caught Everyone Completely Off Guard",
+            "What Nobody Is Telling You About {}"
+        ]
+        h = sum(ord(c) for c in clean) % len(eng_patterns)
+        return eng_patterns[h].format(clean)
 
 def get_unique_category_image(category, art_id):
     cat_key = (category or "politics").lower()
@@ -300,6 +318,7 @@ def build_article_object(art_id, item):
         img = to_hd_image(img)
     
     # Generate high-curiosity headline
+    is_hindi = bool(re.search(r'[\u0900-\u097F]', clean_title))
     curiosity_title = generate_curiosity_headline(clean_title)
     raw_desc = item["desc"] or f"Comprehensive investigative report and ground reality analysis on {clean_title}."
     desc = clean_html(raw_desc)
@@ -315,14 +334,50 @@ def build_article_object(art_id, item):
     }
     emoji = cat_emojis.get(category, "📰")
 
-    summary_en = f"{desc[:180]}... Comprehensive investigative reporting and verified dispatches from the news desk."
-    summary_hi = f"{desc[:150]}... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।"
+    if is_hindi:
+        clean_desc_hi = re.sub(r'[a-zA-Z]', '', desc).strip()
+        if not clean_desc_hi:
+            clean_desc_hi = clean_title
+        summary_hi = f"{clean_desc_hi[:180]}... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।"
+        summary_final = summary_hi
+        
+        content_hi = f"""राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। {clean_desc_hi}। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
 
-    # Generate 800+ word structured investigative report with Markdown Table & 'Why This Matters'
-    if generate_800w_article:
-        content_en = generate_800w_article(clean_title, category, desc, source_name)
+### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
+
+आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
+
+वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
+
+### मुख्य बिंदु एवं प्रशासनिक स्थिति
+
+| व्यवस्था बिंदु | प्रशासनिक स्थिति | वर्तमान स्थिति |
+| :--- | :--- | :--- |
+| विभागीय समीक्षा | उच्चस्तरीय समिति | सक्रिय एवं प्रगति पर |
+| वैधानिक अनुपालन | दिशा-निर्देशों के अनुरूप | लागू |
+| जन सूचना तंत्र | नियमित बुलेटिन जारी | सत्यापित |
+| अंतर-विभागीय समन्वय | केंद्रीय व क्षेत्रीय डेस्क | समन्वित |
+
+### ज़मीनी हकीकत एवं नीतिगत विश्लेषण
+
+संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
+
+संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।"""
+        content_final = content_hi
+        badge = "⚡ ताज़ा बुलेटिन"
+        alt_text = f"आधिकारिक समाचार छायाचित्र: {clean_title}"
+        tags_str = f"{category.title()}, Breaking News, National, Hindi News"
     else:
-        content_en = f"""In what senior correspondents and beat analysts describe as a consequential development for {category.upper()}, verified dispatches confirm key milestones today. {desc}. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+        clean_desc_en = re.sub(r'[\u0900-\u097F]', '', desc).strip()
+        if not clean_desc_en:
+            clean_desc_en = clean_title
+        summary_en = f"{clean_desc_en[:180]}... Comprehensive investigative reporting and verified dispatches from the news desk."
+        summary_final = summary_en
+
+        if generate_800w_article:
+            content_final = generate_800w_article(clean_title, category, clean_desc_en, source_name)
+        else:
+            content_final = f"""In what senior correspondents and beat analysts describe as a consequential development for {category.upper()}, verified dispatches confirm key milestones today. {clean_desc_en}. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
 
 ### Strategic Overview & Institutional Directives
 
@@ -356,20 +411,9 @@ Furthermore, the decision directly impacts broader socio-economic dynamics, sign
 Constitutional experts and senior commentators point out that the multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation. High-level secretariats have already initiated preliminary scheduling for subsequent review cycles to ensure persistent policy momentum.
 
 Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities."""
-
-    content_hi = f"""राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। {desc}। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
-
-### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
-
-आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
-
-वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
-
-### ज़मीनी हकीकत एवं भविष्य का परिदृश्य
-
-संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
-
-संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।"""
+        badge = f"⚡ {category.title()} Wire"
+        alt_text = f"Official news wire photograph: {curiosity_title}"
+        tags_str = f"{category.title()}, Breaking News, India, World, {source_name}"
 
     now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
@@ -379,7 +423,8 @@ Official bulletins and statutory filings will continue to be monitored by the ed
         "slug": slug,
         "original_title": clean_title,
         "category": category,
-        "fomo_badge": f"⚡ {category.title()} Wire",
+        "language": "hi" if is_hindi else "en",
+        "fomo_badge": badge,
         "read_time": "7 min read",
         "views_count": 35000 + (art_id * 320),
         "shares_count": 4100 + (art_id * 45),
@@ -388,18 +433,18 @@ Official bulletins and statutory filings will continue to be monitored by the ed
         "source_url": source_url,
         "source_courtesy": f"News Courtesy: {source_name} Digital Archives",
         "image_url": img,
-        "image_alt": f"Official news wire photograph: {curiosity_title}",
+        "image_alt": alt_text,
         "image_courtesy": f"Photo Courtesy: {source_name} Photo Wire",
         "fact_check_status": "Verified by Multi-Agency Editorial Desk",
-        "tags": f"{category.title()}, Breaking News, India, World, {source_name}",
-        "summary": summary_en,
-        "content": content_en,
-        "title_en": f"{emoji} {curiosity_title}",
-        "summary_en": summary_en,
-        "content_en": content_en,
-        "title_hi": f"{emoji} {clean_title}",
-        "summary_hi": summary_hi,
-        "content_hi": content_hi,
+        "tags": tags_str,
+        "summary": summary_final,
+        "content": content_final,
+        "title_en": "" if is_hindi else f"{emoji} {curiosity_title}",
+        "summary_en": "" if is_hindi else summary_final,
+        "content_en": "" if is_hindi else content_final,
+        "title_hi": f"{emoji} {curiosity_title}" if is_hindi else "",
+        "summary_hi": summary_final if is_hindi else "",
+        "content_hi": content_final if is_hindi else "",
         "author_name": "Pankhudi Sharma",
         "author_bio": "Senior Digital Editor covering national policy, frontier tech, and lifestyle trends with over 15 years of investigative journalism experience.",
         "author_url": "https://zestfeedx.com/about"

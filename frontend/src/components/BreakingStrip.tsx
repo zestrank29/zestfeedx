@@ -13,17 +13,24 @@ interface BreakingStripProps {
 export default function BreakingStrip({ currentLanguage }: BreakingStripProps) {
   const isHindi = currentLanguage === "hi";
 
-  // Pull freshest 5 breaking dispatches directly from hourly verified feed
-  const tickerItems = (SEED_ARTICLES && SEED_ARTICLES.length > 0)
-    ? SEED_ARTICLES.slice(0, 5).map((art) => ({
-        headline: art.title_en || art.title,
+  // Filter breaking dispatches strictly by current language: pure English or pure Hindi
+  const filteredSeeds = React.useMemo(() => {
+    return (SEED_ARTICLES || []).filter((art) => {
+      const isArtHindi = art.language === "hi" || /[\u0900-\u097F]/.test(art.title || "");
+      return isHindi ? isArtHindi : !isArtHindi;
+    });
+  }, [isHindi]);
+
+  const tickerItems = (filteredSeeds.length > 0)
+    ? filteredSeeds.slice(0, 5).map((art) => ({
+        headline: isHindi ? (art.title_hi || art.title) : (art.title_en || art.title),
         headline_hi: art.title_hi || art.title,
         slug: art.slug,
         source: art.source_name || "Bureau Wire",
       }))
     : [
         {
-          headline: BREAKING_DISPATCH.headline,
+          headline: isHindi ? BREAKING_DISPATCH.headline_hi : BREAKING_DISPATCH.headline,
           headline_hi: BREAKING_DISPATCH.headline_hi,
           slug: BREAKING_DISPATCH.slug,
           source: BREAKING_DISPATCH.source_note,

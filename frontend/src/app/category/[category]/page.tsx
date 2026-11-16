@@ -8,6 +8,7 @@ import Footer from "@/components/Footer";
 import ReaderCounter from "@/components/ReaderCounter";
 import { SEED_ARTICLES } from "@/data/seedArticles";
 import { ORIGINAL_ARTICLES } from "@/data/demoContent";
+import CategoryFeed, { CategoryFeedArticle } from "./CategoryFeed";
 
 const CATEGORIES = [
   "markets",
@@ -125,7 +126,7 @@ export default async function CategoryPage({ params }: Props) {
   };
 
   // Pull matching original articles first
-  const originals = ORIGINAL_ARTICLES.filter((a) => isMatch(a.category, catKey)).map((a) => ({
+  const originals: CategoryFeedArticle[] = ORIGINAL_ARTICLES.filter((a) => isMatch(a.category, catKey)).map((a) => ({
     id: a.id,
     slug: a.slug,
     title: a.title,
@@ -134,21 +135,26 @@ export default async function CategoryPage({ params }: Props) {
     image_url: a.hero_image,
     author: a.author.name,
     read_time: `${a.reading_time_mins} min read`,
+    language: "en",
     is_original: true,
   }));
 
   // Pull matching seed articles (freshest hourly dispatches)
-  const seeds = SEED_ARTICLES.filter((a) => isMatch(a.category, catKey)).map((a) => ({
-    id: a.id,
-    slug: a.slug,
-    title: a.title_en || a.title,
-    summary: a.summary_en || a.summary,
-    category: a.category,
-    image_url: a.image_url,
-    author: a.author_name || "Pankhudi Sharma",
-    read_time: a.read_time,
-    is_original: false,
-  }));
+  const seeds: CategoryFeedArticle[] = SEED_ARTICLES.filter((a) => isMatch(a.category, catKey)).map((a) => {
+    const isHi = a.language === "hi" || /[\u0900-\u097F]/.test(a.title || "");
+    return {
+      id: a.id,
+      slug: a.slug,
+      title: isHi ? (a.title_hi || a.title) : (a.title_en || a.title),
+      summary: isHi ? (a.summary_hi || a.summary) : (a.summary_en || a.summary),
+      category: a.category,
+      image_url: a.image_url,
+      author: a.author_name || (isHi ? "वरिष्ठ डिजिटल संपादक" : "Pankhudi Sharma"),
+      read_time: a.read_time,
+      language: isHi ? "hi" : "en",
+      is_original: false,
+    };
+  });
 
   // Put freshest hourly seed articles first, followed by original flagship investigations
   const allArticles = [...seeds, ...originals];
@@ -189,71 +195,12 @@ export default async function CategoryPage({ params }: Props) {
                 {catMeta.subtitle}
               </p>
             </div>
-            <div className="text-right">
-              <span className="inline-block px-3 py-1 rounded-full text-xs font-bold bg-[#0E7C86]/10 text-[#0E7C86] dark:bg-[#0E7C86]/20 dark:text-[#2DD4BF] border border-[#0E7C86]/30">
-                {allArticles.length} Verified Reports
-              </span>
-            </div>
           </div>
 
-          {/* Articles Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {allArticles.map((article) => (
-              <article
-                key={article.id}
-                className="group bg-white dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] hover:border-[#FF5A1F] rounded-xl overflow-hidden flex flex-col justify-between shadow-2xs hover:shadow-md transition-all duration-300"
-              >
-                <div>
-                  <Link
-                    href={`/article/${article.slug}/`}
-                    className="relative w-full aspect-16/10 block overflow-hidden bg-[#ECE7DE] dark:bg-[#1E293B]"
-                  >
-                    <Image
-                      src={article.image_url}
-                      alt={article.title}
-                      fill
-                      sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                      className="object-cover group-hover:scale-105 transition-transform duration-500 ease-out"
-                    />
-                    <div className="absolute top-2.5 left-2.5 z-10 flex items-center gap-1.5 px-2.5 py-1 rounded-md backdrop-blur-md bg-[#0B1020]/80 text-white border border-white/20 text-[10px] font-bold uppercase tracking-wider">
-                      <span className="w-1.5 h-1.5 rounded-full bg-[#FF5A1F]" />
-                      <span>{article.category}</span>
-                    </div>
-                  </Link>
-
-                  <div className="p-5">
-                    <div className="flex items-center justify-between text-[11px] text-[#525866] dark:text-[#94A3B8] mb-2">
-                      <span className="font-semibold text-[#0E7C86]">{article.read_time}</span>
-                      <ReaderCounter slug={article.slug} compact={true} />
-                    </div>
-
-                    <Link href={`/article/${article.slug}/`} className="block">
-                      <h2 className="font-display text-lg font-bold text-[#0B1020] dark:text-[#F1F5F9] leading-snug group-hover:text-[#FF5A1F] transition-colors line-clamp-2">
-                        {article.title}
-                      </h2>
-                    </Link>
-
-                    <p className="mt-2.5 text-xs text-[#525866] dark:text-[#94A3B8] line-clamp-3 leading-relaxed">
-                      {article.summary}
-                    </p>
-                  </div>
-                </div>
-
-                <div className="p-5 pt-3 border-t border-[#F0ECE1] dark:border-[#1E293B] flex items-center justify-between text-xs">
-                  <span className="font-medium text-[#0B1020] dark:text-[#F1F5F9]">
-                    By {article.author}
-                  </span>
-                  <Link
-                    href={`/article/${article.slug}/`}
-                    className="text-[#FF5A1F] font-semibold text-xs flex items-center gap-1 group-hover:translate-x-0.5 transition-transform"
-                  >
-                    <span>Read Full News</span>
-                    <ChevronRight className="w-3.5 h-3.5" />
-                  </Link>
-                </div>
-              </article>
-            ))}
-          </div>
+          {/* Interactive Category Feed with Language Separation */}
+          <React.Suspense fallback={<div className="py-10 text-center text-sm text-[#94A3B8]">Loading dispatches...</div>}>
+            <CategoryFeed articles={allArticles} categoryTitle={catMeta.title} />
+          </React.Suspense>
         </div>
       </main>
 

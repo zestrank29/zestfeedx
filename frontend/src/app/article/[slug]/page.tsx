@@ -122,8 +122,10 @@ export default async function ArticlePage({ params }: Props) {
     },
   };
 
+  const isHindi = article.language === "hi" || /[\u0900-\u097F]/.test(article.title);
+
   return (
-    <div className="min-h-screen flex flex-col bg-[#FAF8F4] dark:bg-[#080C16] text-[#0B1020] dark:text-[#F1F5F9] transition-colors">
+    <div className={`min-h-screen flex flex-col bg-[#FAF8F4] dark:bg-[#080C16] text-[#0B1020] dark:text-[#F1F5F9] transition-colors ${isHindi ? "font-hindi" : ""}`}>
       {/* Scroll Reading Progress Bar */}
       <ReadingProgressBar />
 
@@ -164,11 +166,11 @@ export default async function ArticlePage({ params }: Props) {
 
           {/* Article Header */}
           <header className="mb-6">
-            <h1 className="font-display text-2xl sm:text-4xl md:text-5xl font-bold tracking-tight text-[#0B1020] dark:text-[#F1F5F9] leading-[1.15]">
+            <h1 className={`font-display text-2xl sm:text-4xl md:text-5xl font-bold tracking-tight text-[#0B1020] dark:text-[#F1F5F9] leading-[1.15] ${isHindi ? "leading-[1.3]!" : ""}`}>
               {article.title}
             </h1>
 
-            <p className="mt-4 text-base sm:text-lg text-[#525866] dark:text-[#94A3B8] leading-relaxed">
+            <p className={`mt-4 text-base sm:text-lg text-[#525866] dark:text-[#94A3B8] leading-relaxed ${isHindi ? "leading-[1.6]!" : ""}`}>
               {article.deck}
             </p>
 

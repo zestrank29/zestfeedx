@@ -4,19 +4,23 @@ import { ORIGINAL_ARTICLES, OriginalArticle, DEMO_AUTHORS } from "@/data/demoCon
 import { SEED_ARTICLES } from "@/data/seedArticles";
 
 function seedToArticle(s: any): OriginalArticle {
+  const isHindi = s.language === "hi" || /[\u0900-\u097F]/.test(s.title || "");
   return {
     id: `seed-${s.id}`,
     slug: s.slug,
-    title: s.title_en || s.title,
+    language: isHindi ? "hi" : "en",
+    title: isHindi ? (s.title_hi || s.title) : (s.title_en || s.title),
     title_hi: s.title_hi || undefined,
-    deck: s.summary_en || s.summary,
+    deck: isHindi ? (s.summary_hi || s.summary) : (s.summary_en || s.summary),
     category: (s.category || "india") as any,
     author: {
       id: "auth-1",
       name: "Pankhudi Sharma",
       slug: "pankhudi-sharma",
-      role: "Senior Digital Editor & Bureau Chief",
-      bio: "Covering national affairs, Indian regulatory policy, and macroeconomic trends.",
+      role: isHindi ? "वरिष्ठ डिजिटल संपादक एवं ब्यूरो प्रमुख" : "Senior Digital Editor & Bureau Chief",
+      bio: isHindi
+        ? "राष्ट्रीय नीति, प्रौद्योगिकी और आर्थिक रुझानों पर 15 वर्षों से अधिक के अनुभव के साथ खोजी पत्रकारिता।"
+        : "Covering national affairs, Indian regulatory policy, and macroeconomic trends.",
       avatar: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
       email: "news@zestfeedx.com",
     },
@@ -24,15 +28,21 @@ function seedToArticle(s: any): OriginalArticle {
     reading_time_mins: 7,
     word_count: 1050,
     hero_image: s.image_url || "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1600&q=85",
-    hero_image_caption: s.title_en || s.title,
+    hero_image_caption: isHindi ? (s.title_hi || s.title) : (s.title_en || s.title),
     hero_image_credit: s.source_name || "Bureau Wire & Primary Records",
-    key_takeaways: [
-      "Rigorous statutory verification confirmed across primary administrative sources.",
-      "Comprehensive multi-source corroboration ensuring full factual integrity.",
-      "Immediate strategic and regulatory implications for national stakeholders.",
-    ],
-    content_markdown: s.content || s.summary || "",
-    why_it_matters: s.summary_en || s.summary,
+    key_takeaways: isHindi
+      ? [
+          "विभागीय समीक्षा एवं उच्चस्तरीय वैधानिक निगरानी सक्रिय।",
+          "विधिक दिशा-निर्देशों के अनुरूप शत-प्रतिशत अनुपालन सुनिश्चित।",
+          "संपादकीय अनुसंधान डेस्क द्वारा नीतिगत प्रभावों का लगातार विश्लेषण।",
+        ]
+      : [
+          "Rigorous statutory verification confirmed across primary administrative sources.",
+          "Comprehensive multi-source corroboration ensuring full factual integrity.",
+          "Immediate strategic and regulatory implications for national stakeholders.",
+        ],
+    content_markdown: isHindi ? (s.content_hi || s.content || "") : (s.content_en || s.content || ""),
+    why_it_matters: isHindi ? (s.summary_hi || s.summary) : (s.summary_en || s.summary),
     citations: [
       {
         label: s.source_name || "Official Administrative Gazette",

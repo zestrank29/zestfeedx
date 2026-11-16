@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import { Moon, Sun, Globe, TrendingUp, TrendingDown, CloudSun, MapPin, Building2 } from "lucide-react";
+import { Moon, Sun, Globe, TrendingUp, TrendingDown, CloudSun, MapPin, Building2, Radio } from "lucide-react";
 import { MARKET_TICKERS, CITY_METRICS, DIASPORA_TICKERS, DIASPORA_HUBS, MarketTicker } from "@/data/demoContent";
 
 interface TopBarProps {
@@ -19,6 +19,8 @@ export default function TopBar({
 }: TopBarProps) {
   const [isDarkMode, setIsDarkMode] = useState(false);
   const [activeCityIdx, setActiveCityIdx] = useState(0);
+  const [liveMarketTickers, setLiveMarketTickers] = useState<MarketTicker[]>(MARKET_TICKERS);
+  const [isMarketLive, setIsMarketLive] = useState(true);
 
   // Sync dark mode state with HTML class
   useEffect(() => {
@@ -38,6 +40,33 @@ export default function TopBar({
     }
   };
 
+  // Live Market Data Fetching (Sensex, Nifty, Gold, Silver, USD/INR)
+  useEffect(() => {
+    let isMounted = true;
+
+    async function fetchLiveMarkets() {
+      try {
+        const res = await fetch("/api/markets/live", { cache: "no-store" });
+        if (!res.ok) return;
+        const data = await res.json();
+        if (isMounted && data?.tickers && data.tickers.length > 0) {
+          setLiveMarketTickers(data.tickers);
+          setIsMarketLive(data.is_live ?? true);
+        }
+      } catch {
+        // keep previous tickers on non-blocking network failure
+      }
+    }
+
+    fetchLiveMarkets();
+    const marketInterval = setInterval(fetchLiveMarkets, 20000); // 20s live update
+
+    return () => {
+      isMounted = false;
+      clearInterval(marketInterval);
+    };
+  }, []);
+
   const activeCityList = currentEdition === "world" ? DIASPORA_HUBS : CITY_METRICS;
 
   // Cycle through hubs/cities every 5 seconds
@@ -50,7 +79,7 @@ export default function TopBar({
 
   const currentCity = CITY_METRICS[activeCityIdx % CITY_METRICS.length];
   const currentDiasporaHub = DIASPORA_HUBS[activeCityIdx % DIASPORA_HUBS.length];
-  const activeTickers = currentEdition === "world" ? DIASPORA_TICKERS : MARKET_TICKERS;
+  const activeTickers = currentEdition === "world" ? DIASPORA_TICKERS : liveMarketTickers;
 
   return (
     <div className="w-full bg-[#FAF8F4] dark:bg-[#080C16] border-b border-[#E8E4DC] dark:border-[#1E293B] text-[11px] font-medium tracking-tight text-[#525866] dark:text-[#94A3B8] transition-colors">
@@ -92,7 +121,7 @@ export default function TopBar({
                   : "hover:text-[#0B1020] dark:hover:text-white"
               }`}
             >
-              English
+              EN
             </button>
             <span className="text-[#DDD7CD] dark:text-[#334155]">/</span>
             <button
@@ -107,24 +136,33 @@ export default function TopBar({
             </button>
           </div>
 
-          {/* City Weather & AQI Live Metric / Diaspora Global Hub */}
+          {/* Live City Weather & AQI Metrics */}
           {currentEdition === "india" ? (
             <div className="hidden md:flex items-center gap-2 border-l border-[#E8E4DC] dark:border-[#1E293B] pl-3">
               <span className="flex items-center gap-1 text-[#0B1020] dark:text-[#F1F5F9]">
-                <MapPin className="w-3 h-3 text-[#0E7C86]" />
+                <MapPin className="w-3 h-3 text-[#FF5A1F]" />
                 <span className="font-semibold">{currentCity.city}:</span>
               </span>
               <span className="flex items-center gap-1">
                 <CloudSun className="w-3 h-3 text-amber-500" />
                 <span>{currentCity.temp}</span>
               </span>
+              <span>•</span>
               <span className="flex items-center gap-1">
-                <span>AQI</span>
+                <span>{currentLanguage === "hi" ? "वायु गुणवत्ता (AQI):" : "AQI:"}</span>
                 <span
-                  className="px-1.5 py-0.2 rounded text-[10px] font-bold text-white shadow-2xs"
-                  style={{ backgroundColor: currentCity.aqi_color }}
+                  className={`px-1.5 py-0.2 rounded text-[10px] font-bold ${
+                    currentCity.aqi > 300
+                      ? "bg-rose-500 text-white"
+                      : currentCity.aqi > 200
+                      ? "bg-amber-500 text-white"
+                      : "bg-emerald-600 text-white"
+                  }`}
                 >
-                  {currentCity.aqi} ({currentCity.aqi_label})
+                  {currentCity.aqi}
+                </span>
+                <span className="text-[10px] text-[#525866] dark:text-[#94A3B8]">
+                  ({currentCity.aqi_label})
                 </span>
               </span>
             </div>
@@ -146,20 +184,21 @@ export default function TopBar({
           )}
         </div>
 
-        {/* Right Side: Market Ticker & Dark Mode */}
+        {/* Right Side: Live Market Ticker & Dark Mode */}
         <div className="flex items-center gap-3 sm:gap-4 ml-auto">
-          {/* Delayed Market Chips */}
+          {/* Live Market Chips with Pulse Indicator */}
           <div className="hidden lg:flex items-center gap-3">
-            <span className="text-[10px] uppercase tracking-wider text-[#94A3B8] font-mono border-r border-[#E8E4DC] dark:border-[#1E293B] pr-2">
-              {currentEdition === "world"
-                ? currentLanguage === "hi"
-                  ? "विदेशी प्रेषण (विलंबित)"
-                  : "Remittance FX (Delayed)"
-                : currentLanguage === "hi"
-                ? "बाजार (15 मिनट विलंबित)"
-                : "Markets (15m delayed)"}
-            </span>
-            {activeTickers.slice(0, 3).map((item: MarketTicker) => (
+            <div className="flex items-center gap-1.5 text-[10px] uppercase tracking-wider font-mono border-r border-[#E8E4DC] dark:border-[#1E293B] pr-2.5">
+              <span className="relative flex h-2 w-2">
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+                <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
+              </span>
+              <span className="font-bold text-emerald-600 dark:text-emerald-400">
+                {currentLanguage === "hi" ? "लाइव बाजार" : "LIVE"}
+              </span>
+            </div>
+
+            {activeTickers.slice(0, 4).map((item: MarketTicker) => (
               <div key={item.symbol} className="flex items-center gap-1">
                 <span className="font-semibold text-[#0B1020] dark:text-[#F1F5F9]">{item.name}</span>
                 <span>{item.value}</span>

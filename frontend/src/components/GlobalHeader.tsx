@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { motion } from "framer-motion";
 import {
   Search,
@@ -19,6 +19,7 @@ import {
   CITY_METRICS,
   DIASPORA_TICKERS,
   DIASPORA_HUBS,
+  MarketTicker,
 } from "@/data/demoContent";
 
 export const CATEGORIES = [
@@ -36,6 +37,7 @@ export const CATEGORIES = [
 
 export default function GlobalHeader() {
   const pathname = usePathname();
+  const router = useRouter();
   const [currentLanguage, setCurrentLanguage] = useState<"en" | "hi">("en");
   const [currentEdition, setCurrentEdition] = useState<"india" | "world">("india");
   const [isDarkMode, setIsDarkMode] = useState(false);
@@ -43,6 +45,43 @@ export default function GlobalHeader() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
+  const [liveMarketTickers, setLiveMarketTickers] = useState<MarketTicker[]>(MARKET_TICKERS);
+  const [isMarketLive, setIsMarketLive] = useState(true);
+
+  // Sync language with pathname
+  useEffect(() => {
+    if (pathname?.startsWith("/hi")) {
+      setCurrentLanguage("hi");
+    } else {
+      setCurrentLanguage("en");
+    }
+  }, [pathname]);
+
+  // Fetch real-time market data (Sensex, Nifty 50, Gold, Silver, USD/INR)
+  useEffect(() => {
+    let isMounted = true;
+
+    async function fetchLiveMarkets() {
+      try {
+        const res = await fetch("/api/markets/live", { cache: "no-store" });
+        if (!res.ok) return;
+        const data = await res.json();
+        if (isMounted && data?.tickers && data.tickers.length > 0) {
+          setLiveMarketTickers(data.tickers);
+          setIsMarketLive(data.is_live ?? true);
+        }
+      } catch {
+        // preserve current display on transient error
+      }
+    }
+
+    fetchLiveMarkets();
+    const interval = setInterval(fetchLiveMarkets, 20000); // 20s polling
+    return () => {
+      isMounted = false;
+      clearInterval(interval);
+    };
+  }, []);
 
   // Detect current active category from pathname
   const getActiveCategory = () => {
@@ -66,11 +105,8 @@ export default function GlobalHeader() {
     if (typeof window !== "undefined") {
       const isDark = document.documentElement.classList.contains("dark");
       setIsDarkMode(isDark);
-      if (pathname?.startsWith("/hi")) {
-        setCurrentLanguage("hi");
-      }
     }
-  }, [pathname]);
+  }, []);
 
   const toggleDarkMode = () => {
     if (typeof window !== "undefined") {
@@ -79,6 +115,15 @@ export default function GlobalHeader() {
       try {
         localStorage.setItem("zest_theme", isDark ? "dark" : "light");
       } catch {}
+    }
+  };
+
+  const handleLanguageSwitch = (lang: "en" | "hi") => {
+    setCurrentLanguage(lang);
+    if (lang === "hi") {
+      router.push("/hi");
+    } else {
+      router.push("/");
     }
   };
 
@@ -91,7 +136,7 @@ export default function GlobalHeader() {
     return () => clearInterval(timer);
   }, [activeCityList.length]);
 
-  const activeTickers = currentEdition === "world" ? DIASPORA_TICKERS : MARKET_TICKERS;
+  const activeTickers = currentEdition === "world" ? DIASPORA_TICKERS : liveMarketTickers;
   const currentCity = CITY_METRICS[activeCityIdx % CITY_METRICS.length];
   const currentDiasporaHub = DIASPORA_HUBS[activeCityIdx % DIASPORA_HUBS.length];
 
@@ -138,7 +183,7 @@ export default function GlobalHeader() {
             <div className="flex items-center gap-1 border-l border-[#E8E4DC] dark:border-[#1E293B] pl-2 sm:pl-3">
               <Globe className="w-3 h-3 text-[#FF5A1F]" />
               <button
-                onClick={() => setCurrentLanguage("en")}
+                onClick={() => handleLanguageSwitch("en")}
                 className={`px-1.5 py-0.5 rounded transition ${
                   currentLanguage === "en"
                     ? "font-bold text-[#FF5A1F] underline underline-offset-2"
@@ -149,7 +194,7 @@ export default function GlobalHeader() {
               </button>
               <span className="text-[#DDD7CD] dark:text-[#334155]">/</span>
               <button
-                onClick={() => setCurrentLanguage("hi")}
+                onClick={() => handleLanguageSwitch("hi")}
                 className={`px-1.5 py-0.5 rounded transition font-hindi ${
                   currentLanguage === "hi"
                     ? "font-bold text-[#FF5A1F] underline underline-offset-2"
@@ -184,10 +229,18 @@ export default function GlobalHeader() {
             </div>
           </div>
 
-          {/* Right: Delayed Financial Tickers & Dark Mode */}
+          {/* Right: Real-time Live Financial Tickers & Dark Mode */}
           <div className="flex items-center gap-3">
             <div className="hidden md:flex items-center gap-3 overflow-x-auto scrollbar-none py-0.5">
-              {activeTickers.slice(0, 4).map((tick) => (
+              {/* Pulsing Live Badge for Markets */}
+              <div className="flex items-center gap-1.5 mr-0.5 shrink-0">
+                <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-ping" />
+                <span className="text-[9px] font-bold tracking-widest text-emerald-600 dark:text-emerald-400 uppercase">
+                  LIVE
+                </span>
+              </div>
+
+              {activeTickers.slice(0, 5).map((tick) => (
                 <div key={tick.symbol} className="flex items-center gap-1.5 shrink-0 text-[10.5px]">
                   <span className="font-semibold text-[#0B1020] dark:text-[#F1F5F9]">{tick.symbol}</span>
                   <span className="font-mono font-medium">{tick.value}</span>

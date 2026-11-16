@@ -32,6 +32,7 @@ export interface OriginalArticle {
   is_secondary_story?: boolean;
   is_trending?: boolean;
   tags: string[];
+  language?: "en" | "hi";
 }
 
 export interface CuratedBrief {
@@ -43,6 +44,7 @@ export interface CuratedBrief {
   source_url: string;
   published_at: string;
   category: "markets" | "tech" | "india" | "world" | "sports" | "entertainment" | "health";
+  language?: "en" | "hi";
 }
 
 export interface MarketTicker {
