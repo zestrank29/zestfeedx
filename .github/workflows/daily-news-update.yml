@@ -2,8 +2,14 @@ name: Automated News Pipeline & Hostinger Deploy
 
 on:
   schedule:
-    # Runs every hour at minute 0 (24x7 hourly verified news update)
-    - cron: '0 * * * *'
+    # 24x7 Fixed Daily Timing (Runs at minute 25 of every hour to guarantee zero queue delay):
+    # - 06:25 AM IST (00:55 UTC) - Early Morning Executive Briefing
+    # - 09:25 AM IST (03:55 UTC) - Opening Bell Markets & Policy Wire
+    # - 01:25 PM IST (07:55 UTC) - Midday Dispatches & Parliamentary Review
+    # - 06:25 PM IST (12:55 UTC) - Evening Market Closing & Institutional Wrap
+    # - 09:25 PM IST (15:55 UTC) - Prime-Time National & Global Roundup
+    # - Hourly cadence (24 runs/day) ensures immediate publication of breaking news
+    - cron: '25 * * * *'
   workflow_dispatch: # Allows 1-click manual trigger anytime from GitHub Actions tab
 
 # Prevent overlapping runs
