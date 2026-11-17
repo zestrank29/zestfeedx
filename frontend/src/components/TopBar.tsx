@@ -36,7 +36,7 @@ export default function TopBar({
       setIsDarkMode(isDark);
       try {
         localStorage.setItem("zest_theme", isDark ? "dark" : "light");
-      } catch {}
+      } catch { }
     }
   };
 
@@ -90,21 +90,19 @@ export default function TopBar({
           <div className="flex items-center bg-[#ECE7DE] dark:bg-[#0F172A] rounded p-0.5 border border-[#DDD7CD] dark:border-[#1E293B]">
             <button
               onClick={() => onEditionChange("india")}
-              className={`px-2 py-0.5 rounded text-[10px] font-semibold transition-all ${
-                currentEdition === "india"
-                  ? "bg-[#FFFFFF] dark:bg-[#1E293B] text-[#0B1020] dark:text-[#F1F5F9] shadow-xs"
-                  : "text-[#525866] dark:text-[#94A3B8] hover:text-[#0B1020] dark:hover:text-[#FFFFFF]"
-              }`}
+              className={`px-2 py-0.5 rounded text-[10px] font-semibold transition-all ${currentEdition === "india"
+                ? "bg-[#FFFFFF] dark:bg-[#1E293B] text-[#0B1020] dark:text-[#F1F5F9] shadow-xs"
+                : "text-[#525866] dark:text-[#94A3B8] hover:text-[#0B1020] dark:hover:text-[#FFFFFF]"
+                }`}
             >
               {currentLanguage === "hi" ? "भारत संस्करण" : "India Edition"}
             </button>
             <button
               onClick={() => onEditionChange("world")}
-              className={`px-2 py-0.5 rounded text-[10px] font-semibold transition-all ${
-                currentEdition === "world"
-                  ? "bg-[#FFFFFF] dark:bg-[#1E293B] text-[#0B1020] dark:text-[#F1F5F9] shadow-xs"
-                  : "text-[#525866] dark:text-[#94A3B8] hover:text-[#0B1020] dark:hover:text-[#FFFFFF]"
-              }`}
+              className={`px-2 py-0.5 rounded text-[10px] font-semibold transition-all ${currentEdition === "world"
+                ? "bg-[#FFFFFF] dark:bg-[#1E293B] text-[#0B1020] dark:text-[#F1F5F9] shadow-xs"
+                : "text-[#525866] dark:text-[#94A3B8] hover:text-[#0B1020] dark:hover:text-[#FFFFFF]"
+                }`}
             >
               {currentLanguage === "hi" ? "वैश्विक प्रवासी" : "Global Diaspora"}
             </button>
@@ -115,22 +113,20 @@ export default function TopBar({
             <Globe className="w-3 h-3 text-[#FF5A1F]" />
             <button
               onClick={() => onLanguageChange("en")}
-              className={`px-1.5 py-0.5 rounded transition ${
-                currentLanguage === "en"
-                  ? "font-bold text-[#FF5A1F] underline underline-offset-2"
-                  : "hover:text-[#0B1020] dark:hover:text-white"
-              }`}
+              className={`px-1.5 py-0.5 rounded transition ${currentLanguage === "en"
+                ? "font-bold text-[#FF5A1F] underline underline-offset-2"
+                : "hover:text-[#0B1020] dark:hover:text-white"
+                }`}
             >
               EN
             </button>
             <span className="text-[#DDD7CD] dark:text-[#334155]">/</span>
             <button
               onClick={() => onLanguageChange("hi")}
-              className={`px-1.5 py-0.5 rounded transition font-hindi ${
-                currentLanguage === "hi"
-                  ? "font-bold text-[#FF5A1F] underline underline-offset-2"
-                  : "hover:text-[#0B1020] dark:hover:text-white"
-              }`}
+              className={`px-1.5 py-0.5 rounded transition font-hindi ${currentLanguage === "hi"
+                ? "font-bold text-[#FF5A1F] underline underline-offset-2"
+                : "hover:text-[#0B1020] dark:hover:text-white"
+                }`}
             >
               हिंदी
             </button>
@@ -151,13 +147,12 @@ export default function TopBar({
               <span className="flex items-center gap-1">
                 <span>{currentLanguage === "hi" ? "वायु गुणवत्ता (AQI):" : "AQI:"}</span>
                 <span
-                  className={`px-1.5 py-0.2 rounded text-[10px] font-bold ${
-                    currentCity.aqi > 300
-                      ? "bg-rose-500 text-white"
-                      : currentCity.aqi > 200
+                  className={`px-1.5 py-0.2 rounded text-[10px] font-bold ${currentCity.aqi > 300
+                    ? "bg-rose-500 text-white"
+                    : currentCity.aqi > 200
                       ? "bg-amber-500 text-white"
                       : "bg-emerald-600 text-white"
-                  }`}
+                    }`}
                 >
                   {currentCity.aqi}
                 </span>
@@ -203,9 +198,8 @@ export default function TopBar({
                 <span className="font-semibold text-[#0B1020] dark:text-[#F1F5F9]">{item.name}</span>
                 <span>{item.value}</span>
                 <span
-                  className={`flex items-center text-[10px] font-bold ${
-                    item.is_positive ? "text-emerald-600 dark:text-emerald-400" : "text-[#D7263D]"
-                  }`}
+                  className={`flex items-center text-[10px] font-bold ${item.is_positive ? "text-emerald-600 dark:text-emerald-400" : "text-[#D7263D]"
+                    }`}
                 >
                   {item.is_positive ? (
                     <TrendingUp className="w-2.5 h-2.5 mr-0.5 inline" />
