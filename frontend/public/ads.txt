@@ -1,3 +1,2 @@
 # ZestFeedX Authorized Digital Ads Declaration (ads.txt)
-# Replace pub-0000000000000000 with your Google AdSense Publisher ID
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-1815409654667822, DIRECT, f08c47fec0942fa0

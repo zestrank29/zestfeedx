@@ -118,7 +118,7 @@ export default function RootLayout({
     ],
   };
 
-  const adsenseClientId = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID;
+  const adsenseClientId = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID || "ca-pub-1815409654667822";
 
   return (
     <html
