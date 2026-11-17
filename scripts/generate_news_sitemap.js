@@ -26,20 +26,23 @@ function toIso8601(dateStr) {
 
 function run() {
   const content = fs.readFileSync(SEED_FILE, 'utf8');
-  const regex = /\{\s*id:\s*(\d+),[\s\S]*?\n\s*\}(?=,|\s*\])/g;
+  const regex = /\{\s*["']?id["']?:\s*(\d+),[\s\S]*?\n\s*\}(?=,|\s*\])/g;
 
   const entries = [];
   let match;
 
   while ((match = regex.exec(content)) !== null) {
     const block = match[0];
-    const slugMatch = block.match(/slug:\s*[`'"]([\s\S]*?)[`'"]/);
-    const titleMatch = block.match(/title:\s*[`'"]([\s\S]*?)[`'"]/);
-    const dateMatch = block.match(/published_at:\s*[`'"]([\s\S]*?)[`'"]/);
+    const slugMatch = block.match(/["']?slug["']?:\s*[`'"]([\s\S]*?)[`'"]/);
+    const titleMatch = block.match(/["']?title["']?:\s*[`'"]([\s\S]*?)[`'"]/);
+    const dateMatch = block.match(/["']?published_at["']?:\s*[`'"]([\s\S]*?)[`'"]/);
+    const langMatch = block.match(/["']?language["']?:\s*[`'"]([\s\S]*?)[`'"]/);
 
     if (slugMatch && titleMatch) {
       const slug = slugMatch[1].trim();
-      const title = titleMatch[1].trim().replace(/^[^\w\s]+/, '').trim();
+      const rawTitle = titleMatch[1].trim();
+      const title = rawTitle.replace(/^[🚨🏹🎬🌐🏏🩺⚡📰\s]+/, '').trim();
+      const isHi = (langMatch && langMatch[1].trim() === 'hi') || /[\u0900-\u097F]/.test(rawTitle);
       const pubDate = dateMatch ? toIso8601(dateMatch[1]) : new Date().toISOString();
 
       entries.push(`  <url>
@@ -47,7 +50,7 @@ function run() {
     <news:news>
       <news:publication>
         <news:name>ZestFeedX</news:name>
-        <news:language>en</news:language>
+        <news:language>${isHi ? 'hi' : 'en'}</news:language>
       </news:publication>
       <news:publication_date>${pubDate}</news:publication_date>
       <news:title>${escapeXml(title)}</news:title>

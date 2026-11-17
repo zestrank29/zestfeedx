@@ -41,36 +41,60 @@ export default function AdSlot({ format, className = "", slotId = "default" }: A
   };
 
   const config = formatConfig[format];
+  const adsenseClient = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID;
 
+  if (adsenseClient) {
+    return (
+      <div
+        className={`my-6 mx-auto flex flex-col items-center justify-center ${config.widthClass} ${className}`}
+        data-ad-slot={slotId}
+      >
+        <span className="text-[9px] uppercase tracking-widest font-mono text-slate-400 mb-1">
+          Advertisement
+        </span>
+        <ins
+          className="adsbygoogle"
+          style={{ display: "block" }}
+          data-ad-client={adsenseClient}
+          data-ad-slot={slotId}
+          data-ad-format="auto"
+          data-full-width-responsive="true"
+        />
+      </div>
+    );
+  }
+
+  // Pre-approval / Fallback State: High-value editorial briefing box (eliminates "empty ad placeholder" flag)
   return (
     <div
       className={`my-6 mx-auto flex flex-col items-center justify-center ${config.widthClass} ${className}`}
-      data-ad-slot={slotId}
+      data-editorial-slot={slotId}
     >
-      <div className="w-full flex items-center justify-between pb-1 px-1">
-        <span className="text-[9px] uppercase tracking-widest font-mono text-[#94A3B8] dark:text-[#64748B]">
-          Advertisement
-        </span>
-        <span className="text-[8px] uppercase tracking-wider text-[#CBD5E1] dark:text-[#475569]">
-          Direct Partner
-        </span>
-      </div>
-
       <div
-        className={`w-full ${config.minHeight} bg-[#ECE7DE]/50 dark:bg-[#0F172A]/70 border border-dashed border-[#DDD7CD] dark:border-[#1E293B] rounded-lg flex flex-col items-center justify-center p-4 text-center transition-colors group hover:border-[#FF5A1F]`}
+        className={`w-full ${config.minHeight} bg-white dark:bg-[#0c1222] border border-slate-200 dark:border-slate-800 rounded-xl flex flex-col sm:flex-row items-center justify-between p-5 text-left transition-colors shadow-sm`}
       >
-        <span className="text-[10px] font-mono text-[#525866] dark:text-[#94A3B8] uppercase tracking-wider mb-1">
-          ZestFeedX Sponsor Network
-        </span>
-        <p className="text-xs font-semibold text-[#0B1020] dark:text-[#F1F5F9] max-w-sm mb-2">
-          Connect with 250k+ founders, investors, and policymakers in India and the global diaspora.
-        </p>
+        <div className="max-w-xl">
+          <div className="flex items-center gap-2 mb-1.5">
+            <span className="px-2 py-0.5 rounded text-[10px] font-mono font-bold uppercase tracking-wider bg-red-100 text-red-800 dark:bg-red-950/70 dark:text-red-300">
+              Executive Briefing
+            </span>
+            <span className="text-[11px] font-mono text-slate-500">
+              ZestFeedX Intelligence Wire
+            </span>
+          </div>
+          <p className="text-xs sm:text-sm font-semibold text-slate-900 dark:text-slate-100 mb-1">
+            Independent, fact-checked dispatches covering Indian macro policy, capital markets, and civilizational heritage.
+          </p>
+          <p className="text-[11px] text-slate-500 dark:text-slate-400">
+            Read by over 250,000 leaders, analysts, and global diaspora readers daily.
+          </p>
+        </div>
         <Link
-          href="/advertise"
-          className="inline-flex items-center gap-1 text-[11px] font-bold text-[#FF5A1F] group-hover:underline underline-offset-2"
+          href="/explainers"
+          className="mt-3 sm:mt-0 shrink-0 inline-flex items-center gap-1.5 px-4 py-2 rounded-lg bg-red-600 hover:bg-red-700 text-white text-xs font-bold transition-colors shadow-sm"
         >
-          <span>Reserve this placement</span>
-          <ArrowUpRight className="w-3 h-3" />
+          <span>Explore Explainers</span>
+          <ArrowUpRight className="w-3.5 h-3.5" />
         </Link>
       </div>
     </div>

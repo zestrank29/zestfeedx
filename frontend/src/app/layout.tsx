@@ -118,6 +118,8 @@ export default function RootLayout({
     ],
   };
 
+  const adsenseClientId = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID;
+
   return (
     <html
       lang="en"
@@ -125,6 +127,16 @@ export default function RootLayout({
       className={`${fraunces.variable} ${inter.variable} ${notoHindi.variable}`}
     >
       <head>
+        {adsenseClientId && (
+          <>
+            <script
+              async
+              src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseClientId}`}
+              crossOrigin="anonymous"
+            />
+            <meta name="google-adsense-account" content={adsenseClientId} />
+          </>
+        )}
         <script
           dangerouslySetInnerHTML={{
             __html: `

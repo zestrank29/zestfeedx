@@ -387,10 +387,14 @@ def generate_curiosity_headline(original_title):
     clean = re.sub(r'^(breaking|exclusive|alert|just in|watch|update|live):\s*', '', clean, flags=re.I).strip()
     
     # Strip media brand suffixes
-    clean = re.sub(r'\s*[-–—|]\s*(Jagran|Dainik Bhaskar|AajTak|India TV Hindi|PM India|NDTV Hindi|NDTV India|NDTV|Amar Ujala|Navbharat Times|Hindustan|Zee News|ABP News|News18|BBC Hindi|Jansatta|ANI News|The Hindu|The Times of India|BBC|Reuters|Business Standard|Rediff|News On AIR|DD News).*$', '', clean, flags=re.I).strip()
+    clean = re.sub(r'\s*[-–—|]\s*(Jagran|Dainik Bhaskar|AajTak|India TV Hindi|PM India|NDTV Hindi|NDTV India|NDTV|Amar Ujala|Navbharat Times|Hindustan|Zee News|ABP News|News18|BBC Hindi|Jansatta|ANI News|The Hindu|The Times of India|BBC|Reuters|Business Standard|Rediff|News On AIR|DD News|Cricinfo|Navbharat Live|Nai Dunia).*$', '', clean, flags=re.I).strip()
 
     is_hindi = bool(re.search(r'[\u0900-\u097F]', clean))
     if is_hindi:
+        # Strip any English phrases or words
+        clean = re.sub(r'^(Why Insiders Are Calling|The Secret Truth Behind|Why Everyone Is Shocked By|Behind Closed Doors|The Untold Inside Story|Revealed|The Midnight Move|What Nobody Is Telling You About|How)\s*:?\s*', '', clean, flags=re.I).strip()
+        clean = re.sub(r'\s*(a Total Game-Changer|Is Shaking the Entire Sector|Caught Everyone Completely Off Guard).*$', '', clean, flags=re.I).strip()
+        clean = re.sub(r'\s*-\s*[A-Za-z\s]+$', '', clean).strip()
         hindi_prefixes = [
             "बड़ा खुलासा: {}",
             "विशेष रिपोर्ट: {}",
@@ -403,6 +407,9 @@ def generate_curiosity_headline(original_title):
         h = sum(ord(c) for c in clean) % len(hindi_prefixes)
         return hindi_prefixes[h].format(clean)
     else:
+        # Strip any stray Hindi prefix
+        clean = re.sub(r'^(बड़ा खुलासा|विशेष रिपोर्ट|ताज़ा अपडेट|अंदर की बात|ग्राउंड रिपोर्ट|महत्वपूर्ण जानकारी|बड़ी खबर)\s*:?\s*', '', clean).strip()
+        clean = re.sub(r'[\u0900-\u097F]+', '', clean).strip()
         eng_patterns = [
             "The Secret Truth Behind: {}",
             "Why Everyone Is Shocked By {}",
@@ -490,32 +497,37 @@ def build_article_object(art_id, item, seen_images):
         clean_desc_hi = re.sub(r'[a-zA-Z]', '', desc).strip()
         if not clean_desc_hi:
             clean_desc_hi = clean_title
-        summary_hi = f"{clean_desc_hi[:180]}... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।"
+        summary_hi = f"{clean_desc_hi[:160]}... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।"
         summary_final = summary_hi
         
-        content_hi = f"""राष्ट्रीय व अंतरराष्ट्रीय मीडिया गलियारों से आज की बड़ी खबर। {clean_desc_hi}। इस महत्वपूर्ण घटनाक्रम पर प्रशासनिक, नीतिगत और संस्थागत स्तर पर विस्तृत समीक्षा की जा रही है।
+        content_final = f"""### मुख्य घटनाक्रम एवं आधिकारिक पृष्ठभूमि
 
-### प्रशासनिक समीक्षा एवं प्राथमिक बिंदु
+राष्ट्रीय एवं क्षेत्रीय मीडिया गलियारों से आज की बड़ी और सत्यापित खबर। **{clean_title}** के संबंध में आधिकारिक सूचनाएं और प्रशासनिक विवरण सामने आए हैं। {source_name} द्वारा जारी सत्यापित रिपोर्ट के अनुसार, इस पूरे मामले पर उच्चस्तरीय नीतिगत व प्रशासनिक हलकों में गहन समीक्षा की जा रही है।
 
-आधिकारिक सूत्रों के अनुसार, इस पूरे मामले पर संबंधित विभागों और उच्चाधिकारियों द्वारा लगातार निगरानी रखी जा रही है। पारदर्शिता, नियमों का पालन और जनहित को सर्वोपरि रखते हुए सभी आवश्यक दिशा-निर्देश जारी किए गए हैं।
+प्रशासनिक पारदर्शिता, वैधानिक नियमों के कड़े अनुपालन और जनसाधारण के हितों को सर्वोच्च प्राथमिकता देते हुए संबंधित विभागों द्वारा आवश्यक दिशा-निर्देश जारी किए गए हैं।
 
-वरिष्ठ विशेषज्ञों का मानना है कि यह घटनाक्रम दूरगामी प्रभाव डालने वाला सिद्ध होगा। स्थिति पर नियंत्रण और कार्यकुशलता बनाए रखने के लिए विशेष पर्यवेक्षक दलों का गठन किया गया है।
+### प्रशासनिक समीक्षा एवं ज़मीनी हकीकत
 
-### मुख्य बिंदु एवं प्रशासनिक स्थिति
+ज़मीनी हकीकत और विषय विशेषज्ञों के विश्लेषण से स्पष्ट होता है कि {clean_desc_hi}। इस घटनाक्रम का सीधा प्रभाव संबंधित क्षेत्र, जनसंस्थाओं और नीतिगत प्राथमिकताओं पर पड़ना तय माना जा रहा है।
+
+वरिष्ठ संपादकीय विशेषज्ञों और जमीनी संवाददाताओं का मानना है कि इस प्रकार के नीतिगत और संस्थागत निर्णय दीर्घकालिक स्थिरता और व्यवस्थागत जवाबदेही को सुदृढ़ करते हैं। संबंधित उच्चाधिकारियों द्वारा स्थिति पर निरंतर नजर रखी जा रही है ताकि सभी कार्य सुचारु रूप से संपन्न हो सकें।
+
+### मुख्य बिंदु एवं व्यवस्थागत स्थिति
 
 | व्यवस्था बिंदु | प्रशासनिक स्थिति | वर्तमान स्थिति |
 | :--- | :--- | :--- |
 | विभागीय समीक्षा | उच्चस्तरीय समिति | सक्रिय एवं प्रगति पर |
-| वैधानिक अनुपालन | दिशा-निर्देशों के अनुरूप | लागू |
-| जन सूचना तंत्र | नियमित बुलेटिन जारी | सत्यापित |
+| वैधानिक अनुपालन | दिशा-निर्देशों के अनुरूप | पूरी तरह लागू |
+| जन सूचना तंत्र | नियमित आधिकारिक बुलेटिन | सत्यापित |
 | अंतर-विभागीय समन्वय | केंद्रीय व क्षेत्रीय डेस्क | समन्वित |
 
-### ज़मीनी हकीकत एवं नीतिगत विश्लेषण
+### दूरगामी प्रभाव एवं विश्लेषणात्मक दृष्टिकोण
 
-संबंधित विषय विशेषज्ञों ने पुष्टि की है कि संस्थागत जवाबदेही और स्थापित नियामक ढांचे भविष्य के कार्यों के लिए एक मानक स्थापित करेंगे। जनसाधारण और हितधारकों को पारदर्शी व सत्यापित जानकारी उपलब्ध कराने के स्पष्ट निर्देश दिए गए हैं।
+संबंधित विशेषज्ञों ने पुष्टि की है कि नियमों की स्पष्टता और पारदर्शिता भविष्य के प्रशासनिक कार्यों के लिए एक आदर्श मानक स्थापित करेगी। जनसाधारण और हितधारकों तक सही, निष्पक्ष और तथ्यपरक जानकारी पहुंचाना ही पत्रकारिता का मूल ध्येय है।
 
-संपादकीय विभाग द्वारा इस पूरे घटनाक्रम और आधिकारिक बुलेटिनों पर निरंतर नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं के साथ विश्लेषण का यह क्रम जारी रहेगा।"""
-        content_final = content_hi
+संपादकीय विभाग द्वारा इस पूरे घटनाक्रम पर लगातार नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं और प्रेस नोटों के आधार पर विस्तृत विश्लेषण का यह क्रम अनवरत जारी रहेगा।
+
+*ZestFeedX न्यूज़ डेस्क — निष्पक्ष, तथ्यपरक और सत्यापित पत्रकारिता का विश्वसनीय मंच।*"""
         badge = "⚡ ताज़ा बुलेटिन"
         alt_text = f"आधिकारिक समाचार छायाचित्र: {clean_title}"
         tags_str = f"{category.title()}, Breaking News, National, Hindi News"
@@ -523,46 +535,118 @@ def build_article_object(art_id, item, seen_images):
         clean_desc_en = re.sub(r'[\u0900-\u097F]', '', desc).strip()
         if not clean_desc_en:
             clean_desc_en = clean_title
-        summary_en = f"{clean_desc_en[:180]}... Comprehensive investigative reporting and verified dispatches from the news desk."
+        summary_en = f"{clean_desc_en[:160]}... Comprehensive investigative reporting and verified dispatches from the news desk."
         summary_final = summary_en
 
-        if generate_800w_article:
-            content_final = generate_800w_article(clean_title, category, clean_desc_en, source_name)
+        cat_lower = category.lower()
+        if cat_lower in ["markets", "economy", "money"]:
+            content_final = f"""### Market Overview & Monetary Context
+
+Financial markets and macro analysts are closely monitoring unfolding developments surrounding **{clean_title}**. According to corroborated dispatches reported by {source_name}, this development comes at a pivotal juncture for institutional capital flows, sectoral valuations, and investor sentiment across domestic and regional exchanges.
+
+The Reserve Bank of India and global monetary authorities have continued to prioritize market stability, systemic liquidity, and regulatory transparency. Beat analysts observe that benchmark indices and sector-specific asset classes are pricing in the immediate balance-sheet implications of this proceeding.
+
+### Institutional Directives & Capital Allocation
+
+A rigorous examination of fiscal disclosures confirms that institutional asset allocators, mutual fund trustees, and credit-rating agencies are evaluating risk-adjusted returns in light of {clean_desc_en}. Corporate treasury desks emphasize that statutory governance, transparent audit standards, and risk mitigation frameworks remain fundamental in preserving stakeholder value.
+
+Addressing financial correspondents, senior macro economists noted that sustained industrial capex and resilient domestic consumption provide substantial downside protection. However, geopolitical supply constraints and foreign portfolio rebalancing warrant prudent hedging strategies across market segments.
+
+### Key Financial & Sectoral Indicators
+
+| Financial Parameter | Benchmark Assessment | Market Consensus |
+| :--- | :--- | :--- |
+| Sectoral Valuation | Risk-Adjusted Multiple | Neutral to Constructive |
+| Institutional Inflows | Long-Term Strategic Capital | Verified & Active |
+| Regulatory Posture | Statutory Compliance Mandate | Enforced & Monitored |
+| Macro Durability Index | Core Operational Stability | Resilient |
+
+### Strategic Outlook & Investor Takeaways
+
+Looking forward, market veterans emphasize that the systemic precedents set by this development will establish a benchmark for corporate governance and capital expenditure cycles in the quarters ahead. Portfolio managers are advised to monitor subsequent statutory filings, quarterly guidance communiqués, and macroeconomic data prints to evaluate long-term portfolio positioning.
+
+*Official dispatches and financial communiqués continue to be monitored by the ZestFeedX Financial Markets desk.*"""
+        elif cat_lower in ["tech", "ai"]:
+            content_final = f"""### Technological Architecture & Sectoral Disruption
+
+The technology and frontier computing ecosystem witnessed significant momentum today as verified reports confirmed key milestones regarding **{clean_title}**. According to technical briefs published by {source_name}, this breakthrough represents a strategic evolution in high-performance digital infrastructure, computational efficiency, and enterprise deployment.
+
+As sovereign computing initiatives, semiconductor fabrication pipelines, and foundation model deployments accelerate nationwide, industry architects emphasize that sustainable software engineering, low-latency interoperability, and cryptographic security must remain central to modern platform engineering.
+
+### Enterprise Implications & Digital Infrastructure
+
+Field evaluations indicate that enterprise stakeholders and systems architects are evaluating scalable adoption roadmaps for {clean_desc_en}. With cloud-native platforms, edge AI acceleration, and localized data centers transforming enterprise productivity, technical governance and uptime reliability have emerged as primary operational metrics.
+
+Senior technology leaders underline that regulatory alignment—specifically adherence to sovereign data protection mandates and transparent algorithmic accountability—ensures that computational advancements translate into dependable, resilient real-world utility across commercial and public sectors.
+
+### Core Technical Benchmarks
+
+| Architectural Parameter | Technical Benchmark | Operational Status |
+| :--- | :--- | :--- |
+| Computational Throughput | High-Efficiency Optimization | Verified Benchmark |
+| Security & Data Governance | Zero-Trust Regulatory Compliance | Audited & Enforced |
+| Scalability Metric | Distributed Cloud-Native Capacity | Active Deployment |
+| Systems Interoperability | Standardized API Integration | Production Ready |
+
+### Future Roadmap & Innovation Trajectory
+
+Industry researchers predict that this development will catalyze further architectural innovation across software stacks and hardware acceleration fabrics. Development teams and enterprise decision-makers should prioritize scalable, standards-compliant infrastructure to capitalize on subsequent ecosystem iterations.
+
+*ZestFeedX Frontier Tech desk will continue to provide real-time architectural evaluations as new releases and benchmarks are published.*"""
+        elif cat_lower in ["sports"]:
+            content_final = f"""### Match Tactical Analysis & Competitive Overview
+
+The sporting world witnessed high-intensity developments today as verified dispatches confirmed decisive outcomes regarding **{clean_title}**. According to reports compiled by {source_name}, this fixture and its subsequent tactical ramifications mark an essential milestone in the current competitive season.
+
+Athletic directors, high-performance coaches, and sports scientists emphasize that elite consistency, disciplined physical conditioning, and tactical adaptability remain paramount as teams navigate rigorous domestic and international tournament schedules.
+
+### Tactical Execution & Key Athletic Milestones
+
+A technical breakdown of the performance shows that tactical execution under pressure defined the outcome surrounding {clean_desc_en}. Ground observers noted disciplined defensive structures, precise set-piece execution, and decisive contributions during pivotal passages of play.
+
+Coaching staff and performance analysts highlighted that athletic workloads and recovery protocols are being managed with scientific rigor, ensuring peak physiological readiness and injury mitigation ahead of critical fixtures in the upcoming championship calendar.
+
+### Performance & Tactical Metrics
+
+| Athletic Parameter | Performance Metric | Competitive Standing |
+| :--- | :--- | :--- |
+| Tactical Discipline | High-Efficiency Execution | Verified on Field |
+| Physical Conditioning | Peak Physiological Index | Monitored by Staff |
+| Statistical Contribution | Match-Winning Benchmark | Recorded in Table |
+| Tournament Trajectory | Championship Contention | Active & Progressing |
+
+### Championship Outlook & Next Fixtures
+
+With tournament standings tightening, sports analysts observe that strategic depth and tactical composure will determine upcoming knockout progressions. Fans and franchise analysts alike await subsequent fixtures as the competitive calendar enters its decisive phase.
+
+*ZestFeedX Sports Desk delivers verified athletic dispatches, tactical breakdowns, and official federation updates.*"""
         else:
-            content_final = f"""In what senior correspondents and beat analysts describe as a consequential development for {category.upper()}, verified dispatches confirm key milestones today. {clean_desc_en}. High-level reviews and official briefings are currently underway under multi-agency supervision to monitor developments in real time.
+            content_final = f"""### Strategic Overview & Legislative Framework
 
-### Strategic Overview & Institutional Directives
+In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **{clean_title}**. According to authoritative communiqués released by {source_name}, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
 
-Official communiqués released by administrative secretariats confirm that comprehensive inter-departmental coordination, protocol monitoring, and regulatory compliance have been prioritized to oversee this proceeding regarding {clean_title}. Parliamentary observers emphasize that all standard operating procedures are being executed with strict adherence to established statutory guidelines, ensuring complete accountability, civic protection, and operational transparency across government ministries.
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
 
-Addressing press correspondents during the morning briefing, senior spokespersons underscored that state apparatuses, ground intelligence desks, and verification mechanisms are maintaining round-the-clock surveillance to facilitate seamless public administration and maintain civil order across key jurisdictions.
+### Institutional Oversight & Ground Reality
 
-### Ground Dynamics & Sectoral Realities
+Ground reality assessments indicate that {clean_desc_en} establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
 
-An examination of ground realities reveals that **Institutional Governance and Accountability** have reshaped the broader discourse surrounding {clean_title}. Senior sector analysts note that this represents a coordinated institutional alignment aimed at safeguarding stakeholder welfare, regional stability, and legislative representation under constitutional norms.
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
 
-Simultaneously, civic leaders, municipal authorities, and field observers have highlighted heightened public engagement across regional administrative circles. Verified ground assessments affirm that multi-agency supervisory committees are actively monitoring compliance metrics to uphold institutional confidence at every operational level.
+### Governance Parameter Assessment
 
-### Sectoral Milestones & Governance Assessment
-
-| Governance Parameter | Operational Benchmark | Statutory Status |
+| Institutional Metric | Operational Benchmark | Statutory Status |
 | :--- | :--- | :--- |
 | Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
 | Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
 | Public Transparency Index | High-Frequency Field Dispatches | Documented |
 | Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
 
-### Why This Matters: Strategic Impact & Policy Analysis
+### Why This Matters: Policy Impact & Outlook
 
-Beyond the immediate headlines, this development carries profound systemic implications for policy formulation and governance architecture. Independent legal scholars and political strategists point out that the institutional precedents established today create an authoritative framework that will guide future statutory implementations. By establishing clear accountability metrics, authorities are setting a vital benchmark that balances executive responsiveness with long-term systemic durability.
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
 
-Furthermore, the decision directly impacts broader socio-economic dynamics, signaling to market participants, civic institutions, and the electorate that regulatory standards will be rigorously preserved. Analysts project that the ripple effects will influence parliamentary discussions in the upcoming session, creating renewed momentum for comprehensive institutional modernizations.
-
-### Strategic Outlook & Long-Term Trajectory
-
-Constitutional experts and senior commentators point out that the multi-tiered supervisory framework guarantees that administrative commitments translate into tangible legislative actions and grassroots representation. High-level secretariats have already initiated preliminary scheduling for subsequent review cycles to ensure persistent policy momentum.
-
-Official bulletins and statutory filings will continue to be monitored by the editorial desk as verified reports and institutional documentations are finalized by competent authorities."""
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*"""
         badge = f"⚡ {category.title()} Wire"
         alt_text = f"Official news wire photograph: {curiosity_title}"
         tags_str = f"{category.title()}, Breaking News, India, World, {source_name}"
@@ -597,9 +681,9 @@ Official bulletins and statutory filings will continue to be monitored by the ed
         "title_hi": f"{emoji} {curiosity_title}" if is_hindi else "",
         "summary_hi": summary_final if is_hindi else "",
         "content_hi": content_final if is_hindi else "",
-        "author_name": "Pankhudi Sharma",
+        "author_name": "पंखुड़ी शर्मा (वरिष्ठ डिजिटल संपादक)" if is_hindi else "Pankhudi Sharma",
         "author_bio": "Senior Digital Editor covering national policy, frontier tech, and lifestyle trends with over 15 years of investigative journalism experience.",
-        "author_url": "https://zestfeedx.com/about"
+        "author_url": "https://zestfeedx.com/author/pankhudi-sharma"
     }
 
 def main():

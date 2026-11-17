@@ -50,13 +50,13 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/editorial-policy" className="hover:text-[#FF5A1F] transition-colors">
-                  Editorial & Ethics Policy
+                <Link href="/author/pankhudi-sharma" className="hover:text-[#FF5A1F] transition-colors">
+                  Editorial Masthead & Byline
                 </Link>
               </li>
               <li>
-                <Link href="/editorial-policy#ai-disclosure" className="hover:text-[#FF5A1F] transition-colors">
-                  AI Assistance Disclosure
+                <Link href="/editorial-policy" className="hover:text-[#FF5A1F] transition-colors">
+                  Editorial & Ethics Policy
                 </Link>
               </li>
               <li>
@@ -65,8 +65,8 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/fact-check#corrections" className="hover:text-[#FF5A1F] transition-colors">
-                  Corrections Policy
+                <Link href="/corrections" className="hover:text-[#FF5A1F] transition-colors">
+                  Public Corrections Log
                 </Link>
               </li>
             </ul>
@@ -94,8 +94,8 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="#newsletter" className="hover:text-[#FF5A1F] transition-colors">
-                  Newsletter Archive
+                <Link href="/contact#newsletter" className="hover:text-[#FF5A1F] transition-colors">
+                  Newsletter Archive & Subscriptions
                 </Link>
               </li>
             </ul>

@@ -82,11 +82,25 @@ export default function PrivacyPolicyPage() {
 
             <section>
               <h2 className="font-display text-2xl font-bold text-[#0B1020] dark:text-[#F1F5F9]">
-                4. Advertising & Cookie Disclosures
+                4. Google AdSense & Third-Party Advertising Disclosures
               </h2>
               <p>
-                ZestFeedX partners with Google AdSense and accredited digital ad networks. These services may use non-sensitive browser cookies to serve relevant contextual advertisements. Readers may manage or disable marketing cookies anytime through our on-site cookie manager or via your browser settings.
+                ZestFeedX partners with Google AdSense and certified digital advertising networks to serve contextual and programmatic advertisements. In compliance with Google AdSense Publisher Policies, we disclose the following mandatory advertising practices:
               </p>
+              <ul>
+                <li>
+                  <strong>Third-Party Vendor Cookies:</strong> Third-party vendors, including Google, use cookies and web beacons to serve advertisements based on a user&apos;s prior visits to ZestFeedX or other websites on the Internet.
+                </li>
+                <li>
+                  <strong>Google Advertising Cookies:</strong> Google&apos;s use of advertising cookies enables it and its partners to serve ads to our readers based on their visit to our site and/or other sites across the World Wide Web.
+                </li>
+                <li>
+                  <strong>Opt-Out Rights:</strong> Users may opt out of personalized advertising at any time by visiting <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener noreferrer" className="text-[#FF5A1F] underline">Google Ads Settings</a>. Alternatively, users can opt out of third-party vendor use of cookies for personalized advertising by visiting <a href="https://www.aboutads.info/choices/" target="_blank" rel="noopener noreferrer" className="text-[#FF5A1F] underline">AboutAds.info Choices</a>.
+                </li>
+                <li>
+                  <strong>Cookie Preference Management:</strong> Readers may also manage, customize, or revoke analytics and marketing cookies at any time using our on-site Cookie Consent Manager accessible from the bottom banner or through browser settings.
+                </li>
+              </ul>
             </section>
 
             <section className="p-6 bg-white dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] rounded-xl not-prose">

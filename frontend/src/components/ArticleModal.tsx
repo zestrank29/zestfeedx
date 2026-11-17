@@ -20,7 +20,8 @@ import {
   Zap,
   AlertCircle,
   Mail,
-  ExternalLink
+  ExternalLink,
+  Sparkles
 } from "lucide-react";
 import { Article } from "@/types/news";
 import GoogleNewsFollowBadge from "./GoogleNewsFollowBadge";
@@ -697,18 +698,16 @@ export default function ArticleModal({
                     {renderFormattedInlineText(trimmed)}
                   </p>
 
-                  {/* AdSense In-Article Responsive Slot (300x250 between paragraphs 3 and 4) */}
+                  {/* Editorial In-Article Executive Briefing Callout */}
                   {index === 3 && (
-                    <div
-                      className="my-8 w-full max-w-[336px] mx-auto min-h-[250px] p-2 flex flex-col items-center justify-center rounded-lg border border-dashed border-slate-300 dark:border-slate-800 bg-slate-100/60 dark:bg-[#0c1222]/80 text-center overflow-hidden"
-                      data-ad-slot="adsense-modal-in-article-300x250"
-                    >
-                      <span className="text-[9px] uppercase tracking-widest text-slate-400 font-mono mb-2">
-                        Advertisement
-                      </span>
-                      <div className="w-[300px] h-[250px] flex items-center justify-center text-xs text-slate-400 font-serif border border-slate-200 dark:border-slate-800/60 rounded">
-                        [Google AdSense Responsive Unit — 300×250]
+                    <div className="my-8 p-5 rounded-xl bg-slate-100/80 dark:bg-[#0e172a] border-l-4 border-red-600 text-xs sm:text-sm text-slate-700 dark:text-slate-300 font-sans shadow-sm">
+                      <div className="font-bold text-slate-900 dark:text-white uppercase tracking-wider text-[11px] mb-1 flex items-center gap-1.5">
+                        <Sparkles className="w-3.5 h-3.5 text-red-600" />
+                        ZestFeedX Editorial Briefing
                       </div>
+                      <p className="leading-relaxed">
+                        Follow our live verified coverage on this topic. All stories are fact-checked against primary gazettes, official ministries, and certified bureaus.
+                      </p>
                     </div>
                   )}
                 </React.Fragment>
