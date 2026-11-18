@@ -3,15 +3,30 @@ import { Suspense } from "react";
 import { HomePageContent } from "../page";
 
 export const metadata: Metadata = {
-  title: "ZestFeedX | Broadsheet Journalism for India & the Diaspora",
+  title: "Latest News, Breaking News, India News & Top Headlines | ZestFeedX",
   description:
-    "Fast, beautifully formatted, original-first news, financial intelligence, and in-depth cultural analysis for India and the global Indian diaspora.",
+    "Read latest news, breaking news from India and world. Get live news updates, market insights, politics, tech, explainers & top headlines today on ZestFeedX.",
   alternates: {
     canonical: "https://zestfeedx.com/",
     languages: {
       "en-IN": "https://zestfeedx.com/en/",
       "hi-IN": "https://zestfeedx.com/hi/",
     },
+  },
+  openGraph: {
+    title: "Latest News, Breaking News, India News & Top Headlines | ZestFeedX",
+    description:
+      "Read latest news, breaking news from India and world. Get live news updates, market insights, politics, tech, explainers & top headlines today on ZestFeedX.",
+    url: "https://zestfeedx.com/en/",
+    siteName: "ZestFeedX",
+    locale: "en_IN",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Latest News, Breaking News, India News & Top Headlines | ZestFeedX",
+    description:
+      "Read latest news, breaking news from India and world. Get live news updates, market insights, politics, tech, explainers & top headlines today on ZestFeedX.",
   },
 };
 

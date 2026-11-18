@@ -28,18 +28,24 @@ const notoHindi = Noto_Sans_Devanagari({
 export const metadata: Metadata = {
   metadataBase: new URL("https://zestfeedx.com"),
   title: {
-    default: "ZestFeedX | Broadsheet Journalism for India & the Diaspora",
+    default: "Latest News, Breaking News, India News & Top Headlines | ZestFeedX",
     template: "%s | ZestFeedX",
   },
   description:
-    "Fast, beautifully formatted, original-first news, financial intelligence, and in-depth cultural analysis for India and the global Indian diaspora.",
+    "Read latest news, breaking news from India and world. Get live news updates, market insights, politics, tech, explainers & top headlines today on ZestFeedX.",
   keywords: [
-    "ZestFeedX",
+    "Latest News",
+    "Breaking News",
     "India News",
+    "Top Headlines Today",
+    "Live News Updates",
+    "ZestFeedX",
+    "Business News",
     "Sensex Nifty Analysis",
     "Indian Economy",
-    "Tech India",
-    "Investigative Reports",
+    "Tech News India",
+    "Current Affairs",
+    "World News",
     "Delhi AQI",
     "Indian Diaspora",
     "Pankhudi Sharma"
@@ -56,9 +62,9 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "ZestFeedX | Broadsheet Journalism for India & the Diaspora",
+    title: "Latest News, Breaking News, India News & Top Headlines | ZestFeedX",
     description:
-      "Original-first news, market data, and investigative analysis for India and the global diaspora.",
+      "Read latest news, breaking news from India and world. Get live news updates, market insights, politics, tech, explainers & top headlines today on ZestFeedX.",
     url: "https://zestfeedx.com",
     siteName: "ZestFeedX",
     locale: "en_IN",
@@ -66,9 +72,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "ZestFeedX | Broadsheet Journalism for India & the Diaspora",
+    title: "Latest News, Breaking News, India News & Top Headlines | ZestFeedX",
     description:
-      "Original-first news, market data, and investigative analysis for India and the global diaspora.",
+      "Read latest news, breaking news from India and world. Get live news updates, market insights, politics, tech, explainers & top headlines today on ZestFeedX.",
   },
   robots: {
     index: true,
