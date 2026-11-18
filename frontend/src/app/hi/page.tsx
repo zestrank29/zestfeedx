@@ -3,7 +3,9 @@ import { Suspense } from "react";
 import { HomePageContent } from "../page";
 
 export const metadata: Metadata = {
-  title: "ताजा समाचार, ब्रेकिंग न्यूज़, मुख्य समाचार | ZestFeedX हिंदी",
+  title: {
+    absolute: "ताजा समाचार, ब्रेकिंग न्यूज़, मुख्य समाचार | ZestFeedX हिंदी",
+  },
   description:
     "जेस्टफीडएक्स (ZestFeedX) पर पढ़ें भारत और दुनिया के ताज़ा समाचार, ब्रेकिंग न्यूज़, बिज़नेस, शेयर बाज़ार, राजनीति व समसामयिक विषयों के लाइव अपडेट व गहन विश्लेषण।",
   alternates: {

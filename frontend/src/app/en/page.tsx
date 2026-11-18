@@ -3,7 +3,9 @@ import { Suspense } from "react";
 import { HomePageContent } from "../page";
 
 export const metadata: Metadata = {
-  title: "Latest News, Breaking News, India News & Top Headlines | ZestFeedX",
+  title: {
+    absolute: "Latest News, Breaking News, India News & Top Headlines | ZestFeedX",
+  },
   description:
     "Read latest news, breaking news from India and world. Get live news updates, market insights, politics, tech, explainers & top headlines today on ZestFeedX.",
   alternates: {
