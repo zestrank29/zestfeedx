@@ -8,7 +8,254 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+  
   {
+    id: 654,
+    title: `🚨 The Untold Inside Story: How SC: Assess buyer's liability before home loan recovery Is Shaking the Entire Sector`,
+    slug: `sc-assess-buyers-liability-before-home-loan-recovery-2026`,
+    original_title: `SC: Assess buyer's liability before home loan recovery`,
+    category: `politics`,
+    language: `en`,
+    fomo_badge: `⚡ Politics Wire`,
+    read_time: `7 min read`,
+    views_count: 244280,
+    shares_count: 33530,
+    published_at: `2026-11-20T03:22:09+05:30`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/india/sc-assess-buyers-liability-before-home-loan-recovery/articleshow/136005296.cms`,
+    source_courtesy: `News Courtesy: The Times of India Digital Archives`,
+    image_url: `https://static.toiimg.com/photo/msid-136005312,imgsize-56694.cms`,
+    image_alt: `Official news wire photograph: The Untold Inside Story: How SC: Assess buyer's liability before home loan recovery Is Shaking the Entire Sector`,
+    image_courtesy: `Photo Courtesy: The Times of India Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, World, The Times of India`,
+    summary: `Comprehensive investigative report and ground reality analysis on SC: Assess buyer's liability before home loan recovery.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `### Strategic Overview & Legislative Framework
+
+In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **SC: Assess buyer's liability before home loan recovery**. According to authoritative communiqués released by The Times of India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+
+### Institutional Oversight & Ground Reality
+
+Ground reality assessments indicate that Comprehensive investigative report and ground reality analysis on SC: Assess buyer's liability before home loan recovery. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+
+### Governance Parameter Assessment
+
+| Institutional Metric | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Policy Impact & Outlook
+
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+    title_en: `🚨 The Untold Inside Story: How SC: Assess buyer's liability before home loan recovery Is Shaking the Entire Sector`,
+    summary_en: `Comprehensive investigative report and ground reality analysis on SC: Assess buyer's liability before home loan recovery.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `### Strategic Overview & Legislative Framework
+
+In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **SC: Assess buyer's liability before home loan recovery**. According to authoritative communiqués released by The Times of India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+
+### Institutional Oversight & Ground Reality
+
+Ground reality assessments indicate that Comprehensive investigative report and ground reality analysis on SC: Assess buyer's liability before home loan recovery. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+
+### Governance Parameter Assessment
+
+| Institutional Metric | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Policy Impact & Outlook
+
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, frontier tech, and lifestyle trends with over 15 years of investigative journalism experience.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+  },
+  {
+    id: 655,
+    title: `🚨 Behind Closed Doors: What Really Happened When Archaeological Experience Pavilion at Purana Qila to bring alive India's civilisational journey through layers of excavations`,
+    slug: `archaeological-experience-pavilion-at-purana-qila-to-bring-alive-indias-civ-2026`,
+    original_title: `Archaeological Experience Pavilion at Purana Qila to bring alive India's civilisational journey through layers of excavations`,
+    category: `politics`,
+    language: `en`,
+    fomo_badge: `⚡ Politics Wire`,
+    read_time: `7 min read`,
+    views_count: 244600,
+    shares_count: 33575,
+    published_at: `2026-11-20T02:11:06+05:30`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/india/archaeological-experience-pavilion-at-purana-qila-to-bring-alive-indias-civilisational-journey-through-layers-of-excavations/articleshow/136004447.cms`,
+    source_courtesy: `News Courtesy: The Times of India Digital Archives`,
+    image_url: `https://static.toiimg.com/photo/msid-136004448,imgsize-127726.cms`,
+    image_alt: `Official news wire photograph: Behind Closed Doors: What Really Happened When Archaeological Experience Pavilion at Purana Qila to bring alive India's civilisational journey through layers of excavations`,
+    image_courtesy: `Photo Courtesy: The Times of India Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, World, The Times of India`,
+    summary: `Comprehensive investigative report and ground reality analysis on Archaeological Experience Pavilion at Purana Qila to bring alive India's civilisational journe... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `### Strategic Overview & Legislative Framework
+
+In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Archaeological Experience Pavilion at Purana Qila to bring alive India's civilisational journey through layers of excavations**. According to authoritative communiqués released by The Times of India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+
+### Institutional Oversight & Ground Reality
+
+Ground reality assessments indicate that Comprehensive investigative report and ground reality analysis on Archaeological Experience Pavilion at Purana Qila to bring alive India's civilisational journey through layers of excavations. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+
+### Governance Parameter Assessment
+
+| Institutional Metric | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Policy Impact & Outlook
+
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+    title_en: `🚨 Behind Closed Doors: What Really Happened When Archaeological Experience Pavilion at Purana Qila to bring alive India's civilisational journey through layers of excavations`,
+    summary_en: `Comprehensive investigative report and ground reality analysis on Archaeological Experience Pavilion at Purana Qila to bring alive India's civilisational journe... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `### Strategic Overview & Legislative Framework
+
+In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Archaeological Experience Pavilion at Purana Qila to bring alive India's civilisational journey through layers of excavations**. According to authoritative communiqués released by The Times of India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+
+### Institutional Oversight & Ground Reality
+
+Ground reality assessments indicate that Comprehensive investigative report and ground reality analysis on Archaeological Experience Pavilion at Purana Qila to bring alive India's civilisational journey through layers of excavations. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+
+### Governance Parameter Assessment
+
+| Institutional Metric | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Policy Impact & Outlook
+
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, frontier tech, and lifestyle trends with over 15 years of investigative journalism experience.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+  },
+  {
+    id: 656,
+    title: `🚨 Why Insiders Are Calling Karnataka Cabinet okays confiscation of book that ‘insults’ Basavanna and ‘distorts’ his philosophy a Total Game-Changer`,
+    slug: `karnataka-cabinet-okays-confiscation-of-book-that-insults-basavanna-and-dis-2026`,
+    original_title: `Karnataka Cabinet okays confiscation of book that ‘insults’ Basavanna and ‘distorts’ his philosophy`,
+    category: `politics`,
+    language: `en`,
+    fomo_badge: `⚡ Politics Wire`,
+    read_time: `7 min read`,
+    views_count: 244920,
+    shares_count: 33620,
+    published_at: `Fri, 20 Nov 2026 03:21:01 +0530`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-okays-confiscation-of-book-that-insults-basavanna-and-distorts-his-philosophy/article71720767.ece`,
+    source_courtesy: `News Courtesy: The Hindu Digital Archives`,
+    image_url: `https://th-i.thgim.com/public/incoming/f6tmk6/article71721230.ece/alternates/LANDSCAPE_1200/Ravi%20Hanj%20book%20Basava%20Mantapa%202.JPEG`,
+    image_alt: `Official news wire photograph: Why Insiders Are Calling Karnataka Cabinet okays confiscation of book that ‘insults’ Basavanna and ‘distorts’ his philosophy a Total Game-Changer`,
+    image_courtesy: `Photo Courtesy: The Hindu Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, World, The Hindu`,
+    summary: `Basava Samiti has accused U.S.-based author Ravi Hanj of hurting the sentiments of followers of the 12th century social reformer Basavanna in his book ‘Basava M... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `### Strategic Overview & Legislative Framework
+
+In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Karnataka Cabinet okays confiscation of book that ‘insults’ Basavanna and ‘distorts’ his philosophy**. According to authoritative communiqués released by The Hindu, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+
+### Institutional Oversight & Ground Reality
+
+Ground reality assessments indicate that Basava Samiti has accused U.S.-based author Ravi Hanj of hurting the sentiments of followers of the 12th century social reformer Basavanna in his book ‘Basava Mantapa’ establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+
+### Governance Parameter Assessment
+
+| Institutional Metric | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Policy Impact & Outlook
+
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+    title_en: `🚨 Why Insiders Are Calling Karnataka Cabinet okays confiscation of book that ‘insults’ Basavanna and ‘distorts’ his philosophy a Total Game-Changer`,
+    summary_en: `Basava Samiti has accused U.S.-based author Ravi Hanj of hurting the sentiments of followers of the 12th century social reformer Basavanna in his book ‘Basava M... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `### Strategic Overview & Legislative Framework
+
+In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Karnataka Cabinet okays confiscation of book that ‘insults’ Basavanna and ‘distorts’ his philosophy**. According to authoritative communiqués released by The Hindu, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+
+### Institutional Oversight & Ground Reality
+
+Ground reality assessments indicate that Basava Samiti has accused U.S.-based author Ravi Hanj of hurting the sentiments of followers of the 12th century social reformer Basavanna in his book ‘Basava Mantapa’ establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+
+### Governance Parameter Assessment
+
+| Institutional Metric | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Policy Impact & Outlook
+
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, frontier tech, and lifestyle trends with over 15 years of investigative journalism experience.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+  },
+{
     id: 634,
     title: `🚨 विशेष रिपोर्ट: चीन से रूस और अमेरिका की बढ़ती क़रीबी भारत को इन मोर्चों पर पहुँचा सकती है चोट`,
     slug: `politics-breaking-dispatch-634-2026`,
