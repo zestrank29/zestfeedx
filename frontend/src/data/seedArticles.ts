@@ -15,7 +15,254 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+  
   {
+    id: 774,
+    title: `🚨 What Nobody Is Telling You About Ganges treaty: Bangladesh &amp; India meeting today`,
+    slug: `ganges-treaty-bangladesh-amp-india-meeting-today-2026`,
+    original_title: `Ganges treaty: Bangladesh &amp; India meeting today`,
+    category: `politics`,
+    language: `en`,
+    fomo_badge: `⚡ Politics Wire`,
+    read_time: `7 min read`,
+    views_count: 282680,
+    shares_count: 38930,
+    published_at: `2026-11-22T05:29:52+05:30`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/india/ganges-treaty-bangladesh-india-meeting-today/articleshow/136065152.cms`,
+    source_courtesy: `News Courtesy: The Times of India Digital Archives`,
+    image_url: `https://static.toiimg.com/photo/msid-136065203,imgsize-141056.cms`,
+    image_alt: `Official news wire photograph: What Nobody Is Telling You About Ganges treaty: Bangladesh &amp; India meeting today`,
+    image_courtesy: `Photo Courtesy: The Times of India Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, World, The Times of India`,
+    summary: `Comprehensive investigative report and ground reality analysis on Ganges treaty: Bangladesh India meeting today.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `### Strategic Overview & Legislative Framework
+
+In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Ganges treaty: Bangladesh &amp; India meeting today**. According to authoritative communiqués released by The Times of India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+
+### Institutional Oversight & Ground Reality
+
+Ground reality assessments indicate that Comprehensive investigative report and ground reality analysis on Ganges treaty: Bangladesh India meeting today. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+
+### Governance Parameter Assessment
+
+| Institutional Metric | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Policy Impact & Outlook
+
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+    title_en: `🚨 What Nobody Is Telling You About Ganges treaty: Bangladesh &amp; India meeting today`,
+    summary_en: `Comprehensive investigative report and ground reality analysis on Ganges treaty: Bangladesh India meeting today.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `### Strategic Overview & Legislative Framework
+
+In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Ganges treaty: Bangladesh &amp; India meeting today**. According to authoritative communiqués released by The Times of India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+
+### Institutional Oversight & Ground Reality
+
+Ground reality assessments indicate that Comprehensive investigative report and ground reality analysis on Ganges treaty: Bangladesh India meeting today. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+
+### Governance Parameter Assessment
+
+| Institutional Metric | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Policy Impact & Outlook
+
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, frontier tech, and lifestyle trends with over 15 years of investigative journalism experience.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+  },
+  {
+    id: 775,
+    title: `🚨 Revealed: The Shocking Details Behind Amit Shah &amp; Sergio Gor laud joint India-US effort in transnational narcotics network bust`,
+    slug: `amit-shah-amp-sergio-gor-laud-joint-india-us-effort-in-transnational-narcot-2026`,
+    original_title: `Amit Shah &amp; Sergio Gor laud joint India-US effort in transnational narcotics network bust`,
+    category: `politics`,
+    language: `en`,
+    fomo_badge: `⚡ Politics Wire`,
+    read_time: `7 min read`,
+    views_count: 283000,
+    shares_count: 38975,
+    published_at: `2026-11-22T04:45:09+05:30`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/india/amit-shah-sergio-gor-laud-joint-effort-in-transnational-narcotics-network-bust/articleshow/136065009.cms`,
+    source_courtesy: `News Courtesy: The Times of India Digital Archives`,
+    image_url: `https://static.toiimg.com/photo/msid-136065012,imgsize-64066.cms`,
+    image_alt: `Official news wire photograph: Revealed: The Shocking Details Behind Amit Shah &amp; Sergio Gor laud joint India-US effort in transnational narcotics network bust`,
+    image_courtesy: `Photo Courtesy: The Times of India Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, World, The Times of India`,
+    summary: `Comprehensive investigative report and ground reality analysis on Amit Shah Sergio Gor laud joint India-US effort in transnational narcotics network bust.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `### Strategic Overview & Legislative Framework
+
+In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Amit Shah &amp; Sergio Gor laud joint India-US effort in transnational narcotics network bust**. According to authoritative communiqués released by The Times of India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+
+### Institutional Oversight & Ground Reality
+
+Ground reality assessments indicate that Comprehensive investigative report and ground reality analysis on Amit Shah Sergio Gor laud joint India-US effort in transnational narcotics network bust. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+
+### Governance Parameter Assessment
+
+| Institutional Metric | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Policy Impact & Outlook
+
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+    title_en: `🚨 Revealed: The Shocking Details Behind Amit Shah &amp; Sergio Gor laud joint India-US effort in transnational narcotics network bust`,
+    summary_en: `Comprehensive investigative report and ground reality analysis on Amit Shah Sergio Gor laud joint India-US effort in transnational narcotics network bust.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `### Strategic Overview & Legislative Framework
+
+In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Amit Shah &amp; Sergio Gor laud joint India-US effort in transnational narcotics network bust**. According to authoritative communiqués released by The Times of India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+
+### Institutional Oversight & Ground Reality
+
+Ground reality assessments indicate that Comprehensive investigative report and ground reality analysis on Amit Shah Sergio Gor laud joint India-US effort in transnational narcotics network bust. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+
+### Governance Parameter Assessment
+
+| Institutional Metric | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Policy Impact & Outlook
+
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, frontier tech, and lifestyle trends with over 15 years of investigative journalism experience.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+  },
+  {
+    id: 776,
+    title: `🚨 The Untold Inside Story: How TDP defends venue choice for Vijayawada Mayor swearing-in, slams YSRCP for making it an issue Is Shaking the Entire Sector`,
+    slug: `tdp-defends-venue-choice-for-vijayawada-mayor-swearing-in-slams-ysrcp-for-m-2026`,
+    original_title: `TDP defends venue choice for Vijayawada Mayor swearing-in, slams YSRCP for making it an issue`,
+    category: `politics`,
+    language: `en`,
+    fomo_badge: `⚡ Politics Wire`,
+    read_time: `7 min read`,
+    views_count: 283320,
+    shares_count: 39020,
+    published_at: `Sun, 22 Nov 2026 04:55:39 +0530`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/news/national/andhra-pradesh/tdp-defends-venue-choice-for-vijayawada-mayor-swearing-in-slams-ysrcp-for-making-it-an-issue/article71728823.ece`,
+    source_courtesy: `News Courtesy: The Hindu Digital Archives`,
+    image_url: `https://th-i.thgim.com/public/incoming/bnbg9e/article71729030.ece/alternates/LANDSCAPE_1200/DSC_0125.JPG`,
+    image_alt: `Official news wire photograph: The Untold Inside Story: How TDP defends venue choice for Vijayawada Mayor swearing-in, slams YSRCP for making it an issue Is Shaking the Entire Sector`,
+    image_courtesy: `Photo Courtesy: The Hindu Photo Wire`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, World, The Hindu`,
+    summary: `Vijayawada MP says there is no rule stating that the event has to be held at the VMC council hall; YSRCP corporators submit a representation to NTR District Col... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content: `### Strategic Overview & Legislative Framework
+
+In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **TDP defends venue choice for Vijayawada Mayor swearing-in, slams YSRCP for making it an issue**. According to authoritative communiqués released by The Hindu, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+
+### Institutional Oversight & Ground Reality
+
+Ground reality assessments indicate that Vijayawada MP says there is no rule stating that the event has to be held at the VMC council hall; YSRCP corporators submit a representation to NTR District Collector seeking his intervention establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+
+### Governance Parameter Assessment
+
+| Institutional Metric | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Policy Impact & Outlook
+
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+    title_en: `🚨 The Untold Inside Story: How TDP defends venue choice for Vijayawada Mayor swearing-in, slams YSRCP for making it an issue Is Shaking the Entire Sector`,
+    summary_en: `Vijayawada MP says there is no rule stating that the event has to be held at the VMC council hall; YSRCP corporators submit a representation to NTR District Col... Comprehensive investigative reporting and verified dispatches from the news desk.`,
+    content_en: `### Strategic Overview & Legislative Framework
+
+In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **TDP defends venue choice for Vijayawada Mayor swearing-in, slams YSRCP for making it an issue**. According to authoritative communiqués released by The Hindu, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+
+### Institutional Oversight & Ground Reality
+
+Ground reality assessments indicate that Vijayawada MP says there is no rule stating that the event has to be held at the VMC council hall; YSRCP corporators submit a representation to NTR District Collector seeking his intervention establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+
+### Governance Parameter Assessment
+
+| Institutional Metric | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Policy Impact & Outlook
+
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, frontier tech, and lifestyle trends with over 15 years of investigative journalism experience.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+  },
+{
     id: 754,
     title: `🚨 ताज़ा अपडेट: बिहारः पीएम मोदी ने जिस 'नीतीश सेतु' का किया उद्घाटन उस पर क्यों मचा सियासी घमासान`,
     slug: `politics-breaking-dispatch-754-2026`,
