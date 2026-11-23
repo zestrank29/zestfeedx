@@ -19,6 +19,12 @@ export const metadata: Metadata = {
     siteName: "ZestFeedX",
     type: "website",
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "Corrections & Public Clarifications Policy | ZestFeedX",
+    description:
+      "ZestFeedX is committed to uncompromising accuracy. Read our formal corrections procedure and public clarifications log.",
+  },
 };
 
 export default function CorrectionsPage() {
@@ -71,7 +77,7 @@ export default function CorrectionsPage() {
               Home
             </Link>
             <ChevronRight className="w-3 h-3 text-slate-400" />
-            <Link href="/editorial-policy" className="hover:text-red-600 transition-colors">
+            <Link href="/editorial-policy/" className="hover:text-red-600 transition-colors">
               Editorial Policy
             </Link>
             <ChevronRight className="w-3 h-3 text-slate-400" />
@@ -151,7 +157,7 @@ export default function CorrectionsPage() {
                 <span>Submit Correction: news@zestfeedx.com</span>
               </a>
               <Link
-                href="/contact"
+                href="/contact/"
                 className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg border border-slate-300 dark:border-slate-700 text-xs font-semibold hover:bg-white dark:hover:bg-slate-800 transition-colors"
               >
                 <span>Editorial Contact Desk &rarr;</span>

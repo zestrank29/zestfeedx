@@ -41,7 +41,7 @@ export default function VerticalSection({
             <p className="text-xs text-[#525866] dark:text-[#94A3B8] mt-0.5">{tagline}</p>
           </div>
           <Link
-            href={`/category/${id}`}
+            href={`/category/${id}/`}
             className="text-xs font-semibold text-[#FF5A1F] hover:underline flex items-center gap-1 group"
           >
             <span>Explore all</span>
@@ -59,7 +59,7 @@ export default function VerticalSection({
               >
                 <div>
                   <Link
-                    href={`/article/${art.slug}`}
+                    href={`/article/${art.slug}/`}
                     className="relative w-full aspect-16/10 block overflow-hidden bg-[#ECE7DE] dark:bg-[#1E293B]"
                   >
                     <Image
@@ -84,7 +84,7 @@ export default function VerticalSection({
                       <span>{art.reading_time_mins} min read</span>
                     </div>
 
-                    <Link href={`/article/${art.slug}`} className="block">
+                    <Link href={`/article/${art.slug}/`} className="block">
                       <h4 className="font-display text-base font-bold text-[#0B1020] dark:text-[#F1F5F9] leading-snug group-hover:text-[#FF5A1F] transition-colors">
                         {currentLanguage === "hi" && art.title_hi ? art.title_hi : art.title}
                       </h4>

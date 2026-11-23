@@ -7,10 +7,35 @@ import AdSlot from "@/components/AdSlot";
 import { formatISTDate } from "@/lib/utils";
 
 export const metadata: Metadata = {
-  title: "Petrol and Diesel Price Today in India (City-Wise) | State VAT & Excise Duty Breakdown",
-  description: "Live daily petrol and diesel rates across Delhi, Mumbai, Kolkata, Chennai, Bengaluru, and Hyderabad with state VAT, union excise duty, and OMC refinery cost breakdowns.",
+  title: "Petrol & Diesel Price Today in India (City-Wise) | ZestFeedX",
+  description:
+    "Live daily petrol and diesel rates across Delhi, Mumbai, Bengaluru and major Indian cities with state VAT, excise duty and OMC price tracking on ZestFeedX.",
   alternates: {
     canonical: "https://zestfeedx.com/data/petrol-diesel-price-india/",
+  },
+  openGraph: {
+    title: "Petrol & Diesel Price Today in India (City-Wise) | ZestFeedX",
+    description:
+      "Live daily petrol and diesel rates across Delhi, Mumbai, Bengaluru and major Indian cities with state VAT, excise duty and OMC price tracking on ZestFeedX.",
+    url: "https://zestfeedx.com/data/petrol-diesel-price-india/",
+    siteName: "ZestFeedX",
+    locale: "en_IN",
+    type: "website",
+    images: [
+      {
+        url: "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=1200&q=80",
+        width: 1200,
+        height: 630,
+        alt: "Petrol and Diesel Price Today in India",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Petrol & Diesel Price Today in India (City-Wise) | ZestFeedX",
+    description:
+      "Live daily petrol and diesel rates across Delhi, Mumbai, Bengaluru and major Indian cities with state VAT, excise duty and OMC price tracking on ZestFeedX.",
+    images: ["https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=1200&q=80"],
   },
 };
 

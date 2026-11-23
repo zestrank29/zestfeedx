@@ -7,10 +7,35 @@ import AdSlot from "@/components/AdSlot";
 import { formatISTDate } from "@/lib/utils";
 
 export const metadata: Metadata = {
-  title: "Gold and Silver Rates Today in India (24K, 22K by City) | MCX Spot & Duty Analysis",
-  description: "Live 24K and 22K gold prices per 10 grams and silver per 1kg across Delhi, Mumbai, Chennai, Bengaluru, Kolkata, and Hyderabad with customs duty and GST breakdowns.",
+  title: "Gold & Silver Rates Today in India (24K, 22K) | ZestFeedX",
+  description:
+    "Live 24K & 22K gold prices per 10g and silver per 1kg across major Indian cities with MCX spot rates, import duty and GST breakdown on ZestFeedX.",
   alternates: {
     canonical: "https://zestfeedx.com/data/gold-silver-price-india/",
+  },
+  openGraph: {
+    title: "Gold & Silver Rates Today in India (24K, 22K) | ZestFeedX",
+    description:
+      "Live 24K & 22K gold prices per 10g and silver per 1kg across major Indian cities with MCX spot rates, import duty and GST breakdown on ZestFeedX.",
+    url: "https://zestfeedx.com/data/gold-silver-price-india/",
+    siteName: "ZestFeedX",
+    locale: "en_IN",
+    type: "website",
+    images: [
+      {
+        url: "https://images.unsplash.com/photo-1610375461246-83df859d849d?auto=format&fit=crop&w=1200&q=80",
+        width: 1200,
+        height: 630,
+        alt: "Gold and Silver Rates in India",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Gold & Silver Rates Today in India (24K, 22K) | ZestFeedX",
+    description:
+      "Live 24K & 22K gold prices per 10g and silver per 1kg across major Indian cities with MCX spot rates, import duty and GST breakdown on ZestFeedX.",
+    images: ["https://images.unsplash.com/photo-1610375461246-83df859d849d?auto=format&fit=crop&w=1200&q=80"],
   },
 };
 

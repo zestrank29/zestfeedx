@@ -26,6 +26,37 @@ import ArticleShareBar from "./ArticleShareBar";
 import ReaderCounter from "@/components/ReaderCounter";
 import AiSummarizer from "@/components/AiSummarizer";
 
+function formatSeoTitle(rawTitle: string): string {
+  const clean = rawTitle.replace(/^[🚨🏹🎬🌐🏏🩺⚡📰\s]+/, "").trim();
+  const suffix = " | ZestFeedX";
+  const maxCleanLen = 60 - suffix.length; // 47 chars
+  if (clean.length + suffix.length <= 60) {
+    return `${clean}${suffix}`;
+  }
+  const truncated = clean.slice(0, maxCleanLen);
+  const lastSpace = truncated.lastIndexOf(" ");
+  const trimmed = lastSpace > 25 ? truncated.slice(0, lastSpace) : truncated;
+  return `${trimmed.trim()}${suffix}`;
+}
+
+function formatSeoDescription(rawDeck: string, title?: string): string {
+  const text = (rawDeck || title || "Latest verified news report and ground analysis from ZestFeedX digital newsroom.").replace(/^[🚨🏹🎬🌐🏏🩺⚡📰\s]+/, "").trim();
+  if (text.length >= 120 && text.length <= 155) {
+    return text;
+  }
+  if (text.length > 155) {
+    const truncated = text.slice(0, 152);
+    const lastSpace = truncated.lastIndexOf(" ");
+    const trimmed = lastSpace > 100 ? truncated.slice(0, lastSpace) : truncated;
+    return `${trimmed.trim()}...`;
+  }
+  const padded = `${text} Read verified news updates and full macro analysis on ZestFeedX.`;
+  if (padded.length > 155) {
+    return padded.slice(0, 152).trim() + "...";
+  }
+  return padded;
+}
+
 interface Props {
   params: Promise<{ slug: string }>;
 }
@@ -43,23 +74,27 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   if (!article) {
     return {
-      title: "Article Not Found | ZestFeedX",
-      description: "Verified investigative journalism and macro analysis.",
+      title: { absolute: "Article Not Found | ZestFeedX" },
+      description: "Verified investigative journalism and macro analysis from ZestFeedX newsroom.",
     };
   }
 
-  const canonicalUrl = `https://zestfeedx.com/article/${article.slug}`;
+  const canonicalUrl = `https://zestfeedx.com/article/${article.slug}/`;
+  const seoTitle = formatSeoTitle(article.title);
+  const seoDesc = formatSeoDescription(article.deck, article.title);
 
   return {
-    title: `${article.title} | ZestFeedX`,
-    description: article.deck,
-    authors: [{ name: article.author.name, url: `https://zestfeedx.com/author/${article.author.slug}` }],
+    title: {
+      absolute: seoTitle,
+    },
+    description: seoDesc,
+    authors: [{ name: article.author.name, url: `https://zestfeedx.com/author/${article.author.slug}/` }],
     alternates: {
       canonical: canonicalUrl,
     },
     openGraph: {
       title: article.title,
-      description: article.deck,
+      description: seoDesc,
       url: canonicalUrl,
       type: "article",
       publishedTime: article.published_at,
@@ -76,7 +111,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     twitter: {
       card: "summary_large_image",
       title: article.title,
-      description: article.deck,
+      description: seoDesc,
       images: [article.hero_image],
     },
   };
@@ -91,7 +126,22 @@ export default async function ArticlePage({ params }: Props) {
   }
 
   const allArticles = await getAllPublishedArticles();
-  const related = allArticles.filter((a) => a.slug !== slug).slice(0, 3);
+  const sameCat = allArticles.filter((a) => a.slug !== slug && a.category === article.category);
+  const curIdx = allArticles.findIndex((a) => a.slug === slug);
+  const adjacent: typeof allArticles = [];
+  if (curIdx !== -1) {
+    for (let offset = 1; adjacent.length < 6 && (curIdx - offset >= 0 || curIdx + offset < allArticles.length); offset++) {
+      if (curIdx + offset < allArticles.length) adjacent.push(allArticles[curIdx + offset]);
+      if (curIdx - offset >= 0) adjacent.push(allArticles[curIdx - offset]);
+    }
+  }
+  const relatedMap = new Map();
+  [...sameCat, ...adjacent].forEach((a) => {
+    if (a.slug !== slug && !relatedMap.has(a.slug)) {
+      relatedMap.set(a.slug, a);
+    }
+  });
+  const related = Array.from(relatedMap.values()).slice(0, 6);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -105,15 +155,17 @@ export default async function ArticlePage({ params }: Props) {
       "@type": "Person",
       name: article.author.name,
       jobTitle: article.author.role,
-      url: `https://zestfeedx.com/author/${article.author.slug}`,
+      url: `https://zestfeedx.com/author/${article.author.slug}/`,
     },
     publisher: {
       "@type": "NewsMediaOrganization",
       name: "ZestFeedX",
-      url: "https://zestfeedx.com",
+      url: "https://zestfeedx.com/",
       logo: {
         "@type": "ImageObject",
-        url: "https://zestfeedx.com/logo.png",
+        url: "https://zestfeedx.com/favicon.ico",
+        width: 512,
+        height: 512,
       },
     },
     mainEntityOfPage: {
@@ -151,7 +203,7 @@ export default async function ArticlePage({ params }: Props) {
               </li>
               <li>
                 <Link
-                  href={`/#${article.category}`}
+                  href={`/category/${article.category}/`}
                   className="hover:text-[#0B1020] dark:hover:text-white uppercase font-bold text-[10px] text-[#0E7C86]"
                 >
                   {article.category}
@@ -188,7 +240,7 @@ export default async function ArticlePage({ params }: Props) {
                 </div>
                 <div>
                   <Link
-                    href={`/author/${article.author.slug}`}
+                    href={`/author/${article.author.slug}/`}
                     className="font-display text-sm font-bold text-[#0B1020] dark:text-[#F1F5F9] hover:underline"
                   >
                     {article.author.name}
@@ -219,7 +271,7 @@ export default async function ArticlePage({ params }: Props) {
             </div>
 
             {/* Interactive Share & Bookmark Bar */}
-            <ArticleShareBar title={article.title} url={`https://zestfeedx.com/article/${article.slug}`} />
+            <ArticleShareBar title={article.title} url={`https://zestfeedx.com/article/${article.slug}/`} />
 
             {/* AI Animated & Highlighted Article Summarizer */}
             <AiSummarizer
@@ -433,7 +485,7 @@ export default async function ArticlePage({ params }: Props) {
                   <p className="text-[11px] text-[#0E7C86] font-semibold">{article.author.role}</p>
                 </div>
                 <Link
-                  href={`/author/${article.author.slug}`}
+                  href={`/author/${article.author.slug}/`}
                   className="text-xs font-bold text-[#FF5A1F] hover:underline"
                 >
                   View Desk Archive →
@@ -451,11 +503,11 @@ export default async function ArticlePage({ params }: Props) {
               <h3 className="font-display text-xl font-bold text-[#0B1020] dark:text-[#F1F5F9] mb-6">
                 Related Investigative Dispatches
               </h3>
-              <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
                 {related.map((rel) => (
                   <article key={rel.id} className="group">
                     <Link
-                      href={`/article/${rel.slug}`}
+                      href={`/article/${rel.slug}/`}
                       className="relative w-full aspect-16/10 rounded-md overflow-hidden bg-[#ECE7DE] dark:bg-[#1E293B] block mb-2.5"
                     >
                       <Image
@@ -469,7 +521,7 @@ export default async function ArticlePage({ params }: Props) {
                     <span className="text-[10px] font-bold uppercase text-[#0E7C86]">
                       {rel.category}
                     </span>
-                    <Link href={`/article/${rel.slug}`} className="block">
+                    <Link href={`/article/${rel.slug}/`} className="block">
                       <h4 className="font-display text-xs font-bold text-[#0B1020] dark:text-[#F1F5F9] group-hover:text-[#FF5A1F] transition-colors leading-snug line-clamp-2 mt-1">
                         {rel.title}
                       </h4>

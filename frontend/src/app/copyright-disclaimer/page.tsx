@@ -11,6 +11,20 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://zestfeedx.com/copyright-disclaimer/",
   },
+  openGraph: {
+    title: "Copyright Disclaimer & Fair Dealing Notice | ZestFeedX",
+    description:
+      "Review ZestFeedX copyright ownership, fair dealing standards under the Indian Copyright Act 1957, and DMCA/copyright notice takedown procedures.",
+    url: "https://zestfeedx.com/copyright-disclaimer/",
+    siteName: "ZestFeedX",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Copyright Disclaimer & Fair Dealing Notice | ZestFeedX",
+    description:
+      "Review ZestFeedX copyright ownership, fair dealing standards under the Indian Copyright Act 1957, and DMCA/copyright notice takedown procedures.",
+  },
 };
 
 export default function CopyrightDisclaimerPage() {

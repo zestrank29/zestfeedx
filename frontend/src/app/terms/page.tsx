@@ -11,6 +11,20 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://zestfeedx.com/terms/",
   },
+  openGraph: {
+    title: "Terms of Service & Advertiser Guidelines | ZestFeedX",
+    description:
+      "Review ZestFeedX terms of use, content syndication policies, intellectual property rights, and commercial advertiser guidelines.",
+    url: "https://zestfeedx.com/terms/",
+    siteName: "ZestFeedX",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Terms of Service & Advertiser Guidelines | ZestFeedX",
+    description:
+      "Review ZestFeedX terms of use, content syndication policies, intellectual property rights, and commercial advertiser guidelines.",
+  },
 };
 
 export default function TermsPage() {

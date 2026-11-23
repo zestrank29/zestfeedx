@@ -11,8 +11,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://zestfeedx.com/",
     languages: {
-      "en-IN": "https://zestfeedx.com/en/",
+      "en-IN": "https://zestfeedx.com/",
       "hi-IN": "https://zestfeedx.com/hi/",
+      "x-default": "https://zestfeedx.com/",
     },
   },
   openGraph: {

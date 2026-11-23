@@ -13,6 +13,7 @@ export const metadata: Metadata = {
     languages: {
       "en-IN": "https://zestfeedx.com/",
       "hi-IN": "https://zestfeedx.com/hi/",
+      "x-default": "https://zestfeedx.com/",
     },
   },
   openGraph: {

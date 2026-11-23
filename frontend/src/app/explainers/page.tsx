@@ -7,16 +7,68 @@ import AdSlot from "@/components/AdSlot";
 import { EXPLAINER_STORIES } from "@/data/demoContent";
 
 export const metadata: Metadata = {
-  title: "The Explainer Desk | In-Depth Primers on Policy, Tech & Finance",
-  description: "Comprehensive explanatory journalism breaking down complex Indian laws, financial shifts, and scientific phenomena simply and authoritatively.",
+  title: "The Explainer Desk | Policy, Tech & Finance Primers",
+  description:
+    "Comprehensive explanatory journalism breaking down complex Indian laws, financial shifts, and scientific phenomena simply and authoritatively.",
   alternates: {
     canonical: "https://zestfeedx.com/explainers/",
+  },
+  openGraph: {
+    title: "The Explainer Desk | Policy, Tech & Finance Primers",
+    description:
+      "Comprehensive explanatory journalism breaking down complex Indian laws, financial shifts, and scientific phenomena simply and authoritatively.",
+    url: "https://zestfeedx.com/explainers/",
+    siteName: "ZestFeedX",
+    locale: "en_IN",
+    type: "website",
+    images: [
+      {
+        url: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+        width: 1200,
+        height: 630,
+        alt: "The Explainer Desk - ZestFeedX",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "The Explainer Desk | Policy, Tech & Finance Primers",
+    description:
+      "Comprehensive explanatory journalism breaking down complex Indian laws, financial shifts, and scientific phenomena simply and authoritatively.",
+    images: ["https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80"],
   },
 };
 
 export default function ExplainersIndexPage() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "The Explainer Desk | ZestFeedX",
+    description: "In-depth primers translating complicated Indian regulatory filings, constitutional rulings, and macroeconomic transitions.",
+    url: "https://zestfeedx.com/explainers/",
+    publisher: {
+      "@type": "NewsMediaOrganization",
+      name: "ZestFeedX",
+      url: "https://zestfeedx.com/",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://zestfeedx.com/favicon.ico",
+      },
+    },
+    hasPart: EXPLAINER_STORIES.map((item) => ({
+      "@type": "Article",
+      headline: item.title,
+      description: item.subtitle,
+      url: `https://zestfeedx.com/article/${item.slug}/`,
+    })),
+  };
+
   return (
     <div className="min-h-screen flex flex-col bg-[#FAF8F4] dark:bg-[#080C16] text-[#0B1020] dark:text-[#F1F5F9] transition-colors">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <main className="flex-1 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full">
         {/* Banner */}
         <div className="mb-8 border-b-2 border-[#0B1020] dark:border-[#F1F5F9] pb-6">
@@ -53,7 +105,7 @@ export default function ExplainersIndexPage() {
                   </span>
                 </div>
 
-                <Link href={`/article/${item.slug}`} className="block">
+                <Link href={`/article/${item.slug}/`} className="block">
                   <h2 className="font-display text-lg font-bold text-[#0B1020] dark:text-[#F1F5F9] leading-snug group-hover:text-[#FF5A1F] transition-colors mb-2">
                     {item.title}
                   </h2>
@@ -67,7 +119,7 @@ export default function ExplainersIndexPage() {
               <div className="pt-4 border-t border-[#F0ECE1] dark:border-[#1E293B] mt-6 flex items-center justify-between text-xs">
                 <span className="text-[#94A3B8] text-[11px]">{item.date}</span>
                 <Link
-                  href={`/article/${item.slug}`}
+                  href={`/article/${item.slug}/`}
                   className="font-bold text-[#FF5A1F] flex items-center gap-1 group-hover:translate-x-0.5 transition-transform"
                 >
                   <span>Read Primer</span>

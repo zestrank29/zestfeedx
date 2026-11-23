@@ -45,27 +45,27 @@ export default function Footer() {
             </h4>
             <ul className="space-y-2 text-xs">
               <li>
-                <Link href="/about" className="hover:text-[#FF5A1F] transition-colors">
+                <Link href="/about/" className="hover:text-[#FF5A1F] transition-colors">
                   About ZestFeedX
                 </Link>
               </li>
               <li>
-                <Link href="/author/pankhudi-sharma" className="hover:text-[#FF5A1F] transition-colors">
+                <Link href="/author/pankhudi-sharma/" className="hover:text-[#FF5A1F] transition-colors">
                   Editorial Masthead & Byline
                 </Link>
               </li>
               <li>
-                <Link href="/editorial-policy" className="hover:text-[#FF5A1F] transition-colors">
+                <Link href="/editorial-policy/" className="hover:text-[#FF5A1F] transition-colors">
                   Editorial & Ethics Policy
                 </Link>
               </li>
               <li>
-                <Link href="/fact-check" className="hover:text-[#FF5A1F] transition-colors">
+                <Link href="/fact-check/" className="hover:text-[#FF5A1F] transition-colors">
                   Fact-Checking Guidelines
                 </Link>
               </li>
               <li>
-                <Link href="/corrections" className="hover:text-[#FF5A1F] transition-colors">
+                <Link href="/corrections/" className="hover:text-[#FF5A1F] transition-colors">
                   Public Corrections Log
                 </Link>
               </li>
@@ -79,22 +79,22 @@ export default function Footer() {
             </h4>
             <ul className="space-y-2 text-xs">
               <li>
-                <Link href="/advertise" className="hover:text-[#FF5A1F] transition-colors">
+                <Link href="/advertise/" className="hover:text-[#FF5A1F] transition-colors">
                   Advertise & Media Kit
                 </Link>
               </li>
               <li>
-                <Link href="/advertise#sponsored-posts" className="hover:text-[#FF5A1F] transition-colors">
+                <Link href="/advertise/#sponsored-posts" className="hover:text-[#FF5A1F] transition-colors">
                   Sponsored Post Guidelines
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="hover:text-[#FF5A1F] transition-colors">
+                <Link href="/contact/" className="hover:text-[#FF5A1F] transition-colors">
                   Pitch a Story / Write for Us
                 </Link>
               </li>
               <li>
-                <Link href="/contact#newsletter" className="hover:text-[#FF5A1F] transition-colors">
+                <Link href="/contact/#newsletter" className="hover:text-[#FF5A1F] transition-colors">
                   Newsletter Archive & Subscriptions
                 </Link>
               </li>
@@ -108,22 +108,22 @@ export default function Footer() {
             </h4>
             <ul className="space-y-2 text-xs">
               <li>
-                <Link href="/privacy-policy" className="hover:text-[#FF5A1F] transition-colors">
+                <Link href="/privacy-policy/" className="hover:text-[#FF5A1F] transition-colors">
                   Privacy Policy (DPDP Act)
                 </Link>
               </li>
               <li>
-                <Link href="/terms" className="hover:text-[#FF5A1F] transition-colors">
+                <Link href="/terms/" className="hover:text-[#FF5A1F] transition-colors">
                   Terms of Service
                 </Link>
               </li>
               <li>
-                <Link href="/copyright-disclaimer" className="hover:text-[#FF5A1F] transition-colors">
+                <Link href="/copyright-disclaimer/" className="hover:text-[#FF5A1F] transition-colors">
                   Copyright & Fair Use Notice
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="hover:text-[#FF5A1F] transition-colors">
+                <Link href="/contact/" className="hover:text-[#FF5A1F] transition-colors">
                   Grievance Officer (IT Rules)
                 </Link>
               </li>

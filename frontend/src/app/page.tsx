@@ -268,7 +268,7 @@ export function HomePageContent({
                       <span className="text-[10px] uppercase font-bold text-[#FF5A1F]">
                         {art.category}
                       </span>
-                      <Link href={`/article/${art.slug}`}>
+                      <Link href={`/article/${art.slug}/`}>
                         <h3 className="font-display text-base font-bold mt-1 hover:text-[#FF5A1F] line-clamp-2">
                           {isHindi && art.title_hi ? art.title_hi : art.title}
                         </h3>
@@ -362,7 +362,7 @@ export function HomePageContent({
                     >
                       <div>
                         {/* Image */}
-                        <Link href={`/article/${article.slug}`} className="block relative w-full h-44 overflow-hidden bg-[#ECE7DE] dark:bg-[#1E293B]">
+                        <Link href={`/article/${article.slug}/`} className="block relative w-full h-44 overflow-hidden bg-[#ECE7DE] dark:bg-[#1E293B]">
                           <Image
                             src={article.hero_image}
                             alt={article.title}
@@ -387,7 +387,7 @@ export function HomePageContent({
                             </span>
                           </div>
 
-                          <Link href={`/article/${article.slug}`}>
+                          <Link href={`/article/${article.slug}/`}>
                             <h3 className="font-display text-base font-bold text-[#0B1020] dark:text-[#F1F5F9] leading-snug group-hover:text-[#FF5A1F] transition-colors line-clamp-2">
                               {isHindi && article.title_hi ? article.title_hi : article.title}
                             </h3>
@@ -407,7 +407,7 @@ export function HomePageContent({
                         <div className="flex items-center gap-3">
                           <ReaderCounter slug={article.slug} compact={true} />
                           <Link
-                            href={`/article/${article.slug}`}
+                            href={`/article/${article.slug}/`}
                             className="text-[#FF5A1F] font-bold inline-flex items-center gap-0.5 hover:underline"
                           >
                             <span>Read</span>

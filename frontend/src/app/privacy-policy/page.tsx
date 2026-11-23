@@ -11,6 +11,30 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://zestfeedx.com/privacy-policy/",
   },
+  openGraph: {
+    title: "Privacy Policy (DPDP Act 2023 & GDPR) | ZestFeedX",
+    description:
+      "Review ZestFeedX’s privacy practices compliant with India’s Digital Personal Data Protection (DPDP) Act 2023 and the EU GDPR.",
+    url: "https://zestfeedx.com/privacy-policy/",
+    siteName: "ZestFeedX",
+    locale: "en_IN",
+    type: "website",
+    images: [
+      {
+        url: "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
+        width: 1200,
+        height: 630,
+        alt: "ZestFeedX Privacy Policy",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Privacy Policy (DPDP Act 2023 & GDPR) | ZestFeedX",
+    description:
+      "Review ZestFeedX’s privacy practices compliant with India’s Digital Personal Data Protection (DPDP) Act 2023 and the EU GDPR.",
+    images: ["https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80"],
+  },
 };
 
 export default function PrivacyPolicyPage() {

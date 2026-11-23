@@ -6,18 +6,21 @@ RewriteBase /
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
+# Fast GZIP / Deflate compression for AI bots, mobile and desktop
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json application/xml
+</IfModule>
+
 # Serve llms.txt as plain text for AI crawlers (ChatGPT, Gemini, Claude)
 <Files "llms.txt">
   ForceType text/plain
   Header set Content-Type "text/plain; charset=utf-8"
 </Files>
 
-# Prevent stale browser caching for HTML and dynamic assets
+# Fast caching with revalidation for HTML
 <IfModule mod_headers.c>
   <FilesMatch "\.(html|htm)$">
-    Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
-    Header set Pragma "no-cache"
-    Header set Expires "0"
+    Header set Cache-Control "public, max-age=3600, s-maxage=86400, stale-while-revalidate=86400"
   </FilesMatch>
   <FilesMatch "\.(css|js|jpg|jpeg|png|gif|webp|svg|ico|woff|woff2|ttf|eot)$">
     Header set Cache-Control "max-age=31536000, public, immutable"

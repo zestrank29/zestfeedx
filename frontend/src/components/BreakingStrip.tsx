@@ -57,7 +57,7 @@ export default function BreakingStrip({ currentLanguage }: BreakingStripProps) {
               return (
                 <React.Fragment key={`${item.slug}-${idx}`}>
                   <Link
-                    href={`/article/${item.slug}`}
+                    href={`/article/${item.slug}/`}
                     className="hover:text-[#FF5A1F] transition-colors flex items-center gap-2 group"
                   >
                     <span className={`font-semibold underline-offset-4 group-hover:underline ${isHindi ? "font-hindi text-sm" : ""}`}>

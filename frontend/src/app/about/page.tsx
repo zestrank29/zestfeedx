@@ -13,6 +13,30 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://zestfeedx.com/about/",
   },
+  openGraph: {
+    title: "About Us, Newsroom Leadership & Ownership | ZestFeedX",
+    description:
+      "Learn about ZestFeedX: independent broadsheet journalism, economic intelligence, and newsroom editorial leadership by Pankhudi Sharma and Rohan Sen.",
+    url: "https://zestfeedx.com/about/",
+    siteName: "ZestFeedX",
+    locale: "en_IN",
+    type: "website",
+    images: [
+      {
+        url: "https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&w=1200&q=80",
+        width: 1200,
+        height: 630,
+        alt: "About ZestFeedX",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "About Us, Newsroom Leadership & Ownership | ZestFeedX",
+    description:
+      "Learn about ZestFeedX: independent broadsheet journalism, economic intelligence, and newsroom editorial leadership by Pankhudi Sharma and Rohan Sen.",
+    images: ["https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&w=1200&q=80"],
+  },
 };
 
 export default function AboutPage() {

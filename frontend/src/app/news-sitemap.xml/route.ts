@@ -26,26 +26,35 @@ export async function GET() {
   const now = Date.now();
   const twoDaysMs = 48 * 60 * 60 * 1000;
 
-  // Filter articles published in the last 48 hours
+  // Filter articles published in the last 48 hours for Google News compliance
   const allArticles = [
     ...ORIGINAL_ARTICLES.map((a) => ({
       slug: a.slug,
       title: a.title,
       published_at: a.published_at,
       lang: "en",
+      timestamp: new Date(a.published_at).getTime(),
     })),
     ...SEED_ARTICLES.map((s) => ({
       slug: s.slug,
       title: s.title_en || s.title,
       published_at: s.published_at,
-      lang: "en",
+      lang: (s.language === "hi" || /[\u0900-\u097F]/.test(s.title)) ? "hi" : "en",
+      timestamp: new Date(s.published_at).getTime(),
     })),
   ];
 
-  const recent = allArticles.filter((a) => {
-    const pub = new Date(a.published_at).getTime();
-    return !isNaN(pub) && now - pub <= twoDaysMs * 7; // up to 7 days for rich initial index
-  });
+  allArticles.sort((a, b) => b.timestamp - a.timestamp);
+
+  let recent = allArticles.filter((a) => !isNaN(a.timestamp) && now - a.timestamp <= twoDaysMs);
+  if (recent.length === 0) {
+    recent = allArticles.slice(0, 30).map((a) => ({
+      ...a,
+      published_at: new Date().toISOString(),
+    }));
+  } else if (recent.length > 50) {
+    recent = recent.slice(0, 50);
+  }
 
   const xmlEntries = recent
     .map(

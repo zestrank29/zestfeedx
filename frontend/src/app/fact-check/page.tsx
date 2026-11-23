@@ -11,6 +11,30 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://zestfeedx.com/fact-check/",
   },
+  openGraph: {
+    title: "Fact-Checking Methodology & Protocols | ZestFeedX",
+    description:
+      "Explore the rigorous multi-tier fact-checking protocols, regulatory verification chains, and data auditing standards governing ZestFeedX.",
+    url: "https://zestfeedx.com/fact-check/",
+    siteName: "ZestFeedX",
+    locale: "en_IN",
+    type: "website",
+    images: [
+      {
+        url: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80",
+        width: 1200,
+        height: 630,
+        alt: "ZestFeedX Fact-Checking Methodology",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Fact-Checking Methodology & Protocols | ZestFeedX",
+    description:
+      "Explore the rigorous multi-tier fact-checking protocols, regulatory verification chains, and data auditing standards governing ZestFeedX.",
+    images: ["https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80"],
+  },
 };
 
 export default function FactCheckPage() {

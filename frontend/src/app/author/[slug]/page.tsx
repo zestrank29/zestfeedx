@@ -81,7 +81,7 @@ export default async function AuthorProfilePage({ params }: Props) {
   const originalArticles = ORIGINAL_ARTICLES.filter(
     (a) => a.author.slug === author.slug || author.slug === "pankhudi-sharma"
   );
-  const seedArticles = SEED_ARTICLES.slice(0, 18);
+  const seedArticles = SEED_ARTICLES.slice(0, 48);
 
   const authorJsonLd = {
     "@context": "https://schema.org",
@@ -114,7 +114,7 @@ export default async function AuthorProfilePage({ params }: Props) {
               Home
             </Link>
             <ChevronRight className="w-3 h-3 text-slate-400" />
-            <Link href="/about" className="hover:text-red-600 transition-colors">
+            <Link href="/about/" className="hover:text-red-600 transition-colors">
               Editorial Desk
             </Link>
             <ChevronRight className="w-3 h-3 text-slate-400" />
@@ -178,7 +178,7 @@ export default async function AuthorProfilePage({ params }: Props) {
                   )}
 
                   <Link
-                    href="/editorial-policy"
+                    href="/editorial-policy/"
                     className="inline-flex items-center gap-1 text-slate-500 dark:text-slate-400 hover:underline"
                   >
                     <span>Editorial Standards & Fact-Check Policy &rarr;</span>
@@ -221,7 +221,7 @@ export default async function AuthorProfilePage({ params }: Props) {
                     </div>
                   </div>
 
-                  <Link href={`/article/${art.slug}`}>
+                  <Link href={`/article/${art.slug}/`}>
                     <h3 className="font-serif font-bold text-lg leading-snug group-hover:text-red-600 transition-colors mb-2 text-slate-900 dark:text-white">
                       {art.title}
                     </h3>
@@ -238,7 +238,7 @@ export default async function AuthorProfilePage({ params }: Props) {
                     {art.reading_time_mins} min read
                   </span>
                   <Link
-                    href={`/article/${art.slug}`}
+                    href={`/article/${art.slug}/`}
                     className="font-sans font-bold text-red-600 hover:underline"
                   >
                     Read Analysis &rarr;
@@ -274,7 +274,7 @@ export default async function AuthorProfilePage({ params }: Props) {
                       className="object-cover"
                     />
                   </div>
-                  <Link href={`/article/${s.slug}`}>
+                  <Link href={`/article/${s.slug}/`}>
                     <h3 className="font-serif font-bold text-sm sm:text-base leading-snug hover:text-red-600 transition-colors line-clamp-2 mb-2 text-slate-900 dark:text-white">
                       {s.title}
                     </h3>
@@ -286,7 +286,7 @@ export default async function AuthorProfilePage({ params }: Props) {
 
                 <div className="flex items-center justify-between pt-2 border-t border-slate-100 dark:border-slate-800 text-[11px] font-mono text-slate-500">
                   <span>{s.category.toUpperCase()}</span>
-                  <Link href={`/article/${s.slug}`} className="text-red-600 font-sans font-semibold hover:underline">
+                  <Link href={`/article/${s.slug}/`} className="text-red-600 font-sans font-semibold hover:underline">
                     Read &rarr;
                   </Link>
                 </div>

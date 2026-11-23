@@ -21,12 +21,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1.0,
     },
     {
-      url: `${baseUrl}/en/`,
-      lastModified: new Date(),
-      changeFrequency: "hourly",
-      priority: 0.9,
-    },
-    {
       url: `${baseUrl}/topic/delhi-aqi/`,
       lastModified: new Date(),
       changeFrequency: "hourly",
@@ -110,16 +104,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "daily",
       priority: 0.85,
     },
+    {
+      url: `${baseUrl}/author/rohan-sen/`,
+      lastModified: new Date(),
+      changeFrequency: "daily",
+      priority: 0.85,
+    },
   ];
 
   const activeCategories = [
     "markets",
     "tech",
     "india",
+    "politics",
     "world",
     "health",
     "sports",
     "entertainment",
+    "ramayana",
+    "explainers",
   ];
 
   const categoryRoutes: MetadataRoute.Sitemap = activeCategories.map((cat) => ({

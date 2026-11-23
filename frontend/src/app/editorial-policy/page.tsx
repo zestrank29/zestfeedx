@@ -11,6 +11,30 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://zestfeedx.com/editorial-policy/",
   },
+  openGraph: {
+    title: "Editorial Policy, AI Disclosure & Corrections | ZestFeedX",
+    description:
+      "Read the editorial guidelines, AI-assistance disclosures, multi-tier fact checking, and formal corrections policy governing ZestFeedX.",
+    url: "https://zestfeedx.com/editorial-policy/",
+    siteName: "ZestFeedX",
+    locale: "en_IN",
+    type: "website",
+    images: [
+      {
+        url: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+        width: 1200,
+        height: 630,
+        alt: "ZestFeedX Editorial Policy",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Editorial Policy, AI Disclosure & Corrections | ZestFeedX",
+    description:
+      "Read the editorial guidelines, AI-assistance disclosures, multi-tier fact checking, and formal corrections policy governing ZestFeedX.",
+    images: ["https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80"],
+  },
 };
 
 export default function EditorialPolicyPage() {

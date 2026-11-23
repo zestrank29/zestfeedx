@@ -55,7 +55,7 @@ export default function ExplainerCarousel({ currentLanguage = "en" }: ExplainerC
                   </span>
                 </div>
 
-                <Link href={`/article/${item.slug}`} className="block">
+                <Link href={`/article/${item.slug}/`} className="block">
                   <h4 className={`font-display text-base font-bold text-[#0B1020] dark:text-[#F1F5F9] leading-snug group-hover:text-[#FF5A1F] transition-colors mb-2 ${isHindi ? "font-hindi leading-[1.35]!" : ""}`}>
                     {isHindi && item.title_hi ? item.title_hi : item.title}
                   </h4>
@@ -69,7 +69,7 @@ export default function ExplainerCarousel({ currentLanguage = "en" }: ExplainerC
               <div className="pt-4 border-t border-[#F0ECE1] dark:border-[#1E293B] mt-4 flex items-center justify-between text-[11px]">
                 <span className="text-[#94A3B8]">{item.date}</span>
                 <Link
-                  href={`/article/${item.slug}`}
+                  href={`/article/${item.slug}/`}
                   className="font-semibold text-[#FF5A1F] flex items-center gap-1 group-hover:translate-x-0.5 transition-transform"
                 >
                   <span>{isHindi ? "पूरा विश्लेषण पढ़ें" : "Read primer"}</span>

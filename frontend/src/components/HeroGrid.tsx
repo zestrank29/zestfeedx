@@ -42,12 +42,12 @@ export default function HeroGrid({
             </div>
 
             {/* Headline */}
-            <Link href={`/article/${leadStory.slug}`} className="block focus:outline-hidden">
-              <h2 className={`font-display text-2xl sm:text-3xl md:text-4xl font-bold text-[#0B1020] dark:text-[#F1F5F9] leading-[1.18] group-hover:text-[#FF5A1F] transition-colors ${isHindi ? "font-hindi leading-[1.35]!" : ""}`}>
+            <Link href={`/article/${leadStory.slug}/`} className="block focus:outline-hidden">
+              <h1 className={`font-display text-2xl sm:text-3xl md:text-4xl font-bold text-[#0B1020] dark:text-[#F1F5F9] leading-[1.18] group-hover:text-[#FF5A1F] transition-colors ${isHindi ? "font-hindi leading-[1.35]!" : ""}`}>
                 {isHindi && leadStory.title_hi
                   ? leadStory.title_hi
                   : leadStory.title}
-              </h2>
+              </h1>
             </Link>
 
             {/* Deck / Subtitle */}
@@ -69,7 +69,7 @@ export default function HeroGrid({
                 </div>
                 <div className="text-xs">
                   <Link
-                    href={`/author/${leadStory.author.slug}`}
+                    href={`/author/${leadStory.author.slug}/`}
                     className="font-semibold text-[#0B1020] dark:text-[#F1F5F9] hover:underline"
                   >
                     {isHindi ? `लेखक: ${leadStory.author.name}` : `By ${leadStory.author.name}`}
@@ -84,7 +84,7 @@ export default function HeroGrid({
 
             {/* Hero Image Container */}
             <Link
-              href={`/article/${leadStory.slug}`}
+              href={`/article/${leadStory.slug}/`}
               className="relative w-full aspect-16/9 rounded-lg overflow-hidden bg-[#ECE7DE] dark:bg-[#1E293B] block focus:outline-hidden"
             >
               <Image
@@ -124,7 +124,7 @@ export default function HeroGrid({
 
                   <div className="flex gap-4">
                     <div className="flex-1">
-                      <Link href={`/article/${art.slug}`} className="block">
+                      <Link href={`/article/${art.slug}/`} className="block">
                         <h3 className={`font-display text-base sm:text-lg font-bold text-[#0B1020] dark:text-[#F1F5F9] leading-snug group-hover:text-[#FF5A1F] transition-colors ${isHindi ? "font-hindi leading-[1.35]!" : ""}`}>
                           {isHindi && art.title_hi ? art.title_hi : art.title}
                         </h3>
@@ -144,7 +144,7 @@ export default function HeroGrid({
                     </div>
 
                     <Link
-                      href={`/article/${art.slug}`}
+                      href={`/article/${art.slug}/`}
                       className="relative w-24 h-20 rounded-md overflow-hidden bg-[#ECE7DE] dark:bg-[#1E293B] shrink-0"
                     >
                       <Image

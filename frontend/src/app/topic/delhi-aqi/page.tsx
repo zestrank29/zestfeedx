@@ -9,15 +9,35 @@ import AdSlot from "@/components/AdSlot";
 import { formatISTDate } from "@/lib/utils";
 
 export const metadata: Metadata = {
-  title: "Delhi NCR Air Quality Live Monitor (AQI) | CPCB Real-Time Stations & Health Advisory",
-  description: "Live neighborhood-by-neighborhood Air Quality Index (AQI) across Delhi, Noida, Gurugram, and Faridabad from CPCB monitoring stations with meteorology and health advisories.",
+  title: "Delhi NCR AQI Live Monitor & CPCB Data | ZestFeedX",
+  description:
+    "Live Delhi NCR Air Quality Index (AQI) from CPCB stations. Neighborhood telemetry, meteorology, health advisories and GRAP Stage status on ZestFeedX.",
   alternates: {
     canonical: "https://zestfeedx.com/topic/delhi-aqi/",
   },
   openGraph: {
-    title: "Delhi NCR Air Quality Live Monitor (AQI) | ZestFeedX Intelligence",
-    description: "Real-time CPCB telemetry, GRAP Stage enforcement status, and scientific analysis of winter thermal inversion.",
+    title: "Delhi NCR AQI Live Monitor & CPCB Data | ZestFeedX",
+    description:
+      "Live Delhi NCR Air Quality Index (AQI) from CPCB stations. Neighborhood telemetry, meteorology, health advisories and GRAP Stage status on ZestFeedX.",
     url: "https://zestfeedx.com/topic/delhi-aqi/",
+    siteName: "ZestFeedX",
+    locale: "en_IN",
+    type: "website",
+    images: [
+      {
+        url: "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1200&q=80",
+        width: 1200,
+        height: 630,
+        alt: "Delhi Air Quality Index Monitor",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Delhi NCR AQI Live Monitor & CPCB Data | ZestFeedX",
+    description:
+      "Live Delhi NCR Air Quality Index (AQI) from CPCB stations. Neighborhood telemetry, meteorology, health advisories and GRAP Stage status on ZestFeedX.",
+    images: ["https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1200&q=80"],
   },
 };
 
@@ -287,7 +307,7 @@ export default function DelhiAqiPage() {
 
           <div className="pt-4 border-t border-[#E8E4DC] dark:border-[#1E293B] flex flex-wrap items-center justify-between text-xs gap-3">
             <span className="text-[#94A3B8]">
-              Related Investigation: <Link href="/article/delhi-ncr-air-quality-emergency-stubble-inversion" className="text-[#FF5A1F] font-semibold hover:underline">Read the full data deep-dive →</Link>
+              Related Investigation: <Link href="/article/delhi-ncr-air-quality-emergency-stubble-inversion/" className="text-[#FF5A1F] font-semibold hover:underline">Read the full data deep-dive →</Link>
             </span>
             <span className="font-mono text-[11px] text-[#525866] dark:text-[#94A3B8]">
               Attribution: CPCB CAAQMS Network & SAFAR India
