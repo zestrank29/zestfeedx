@@ -9,14 +9,18 @@ import AdSlot from "@/components/AdSlot";
 import { formatISTDate } from "@/lib/utils";
 
 export const metadata: Metadata = {
-  title: "Delhi NCR AQI Live Monitor & CPCB Data | ZestFeedX",
+  title: {
+    absolute: "Delhi NCR AQI Live Monitor | ZestFeedX",
+  },
   description:
-    "Live Delhi NCR Air Quality Index (AQI) from CPCB stations. Neighborhood telemetry, meteorology, health advisories and GRAP Stage status on ZestFeedX.",
+    "Real-time CPCB Air Quality Index (AQI) tracking across New Delhi, Noida, Gurugram, Ghaziabad, and Faridabad with ground public health advisory.",
   alternates: {
     canonical: "https://zestfeedx.com/topic/delhi-aqi/",
   },
   openGraph: {
-    title: "Delhi NCR AQI Live Monitor & CPCB Data | ZestFeedX",
+    title: {
+    absolute: "Delhi NCR AQI Live Monitor | ZestFeedX",
+  },
     description:
       "Live Delhi NCR Air Quality Index (AQI) from CPCB stations. Neighborhood telemetry, meteorology, health advisories and GRAP Stage status on ZestFeedX.",
     url: "https://zestfeedx.com/topic/delhi-aqi/",
@@ -34,7 +38,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Delhi NCR AQI Live Monitor & CPCB Data | ZestFeedX",
+    title: {
+    absolute: "Delhi NCR AQI Live Monitor | ZestFeedX",
+  },
     description:
       "Live Delhi NCR Air Quality Index (AQI) from CPCB stations. Neighborhood telemetry, meteorology, health advisories and GRAP Stage status on ZestFeedX.",
     images: ["https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1200&q=80"],

@@ -7,14 +7,18 @@ import AdSlot from "@/components/AdSlot";
 import { EXPLAINER_STORIES } from "@/data/demoContent";
 
 export const metadata: Metadata = {
-  title: "The Explainer Desk | Policy, Tech & Finance Primers",
+  title: {
+    absolute: "The Explainer Desk Primers | ZestFeedX",
+  },
   description:
-    "Comprehensive explanatory journalism breaking down complex Indian laws, financial shifts, and scientific phenomena simply and authoritatively.",
+    "Comprehensive explanatory journalism breaking down complex Indian policy gazettes, macro economics, and frontier technology into clear primers.",
   alternates: {
     canonical: "https://zestfeedx.com/explainers/",
   },
   openGraph: {
-    title: "The Explainer Desk | Policy, Tech & Finance Primers",
+    title: {
+    absolute: "The Explainer Desk Primers | ZestFeedX",
+  },
     description:
       "Comprehensive explanatory journalism breaking down complex Indian laws, financial shifts, and scientific phenomena simply and authoritatively.",
     url: "https://zestfeedx.com/explainers/",
@@ -32,7 +36,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "The Explainer Desk | Policy, Tech & Finance Primers",
+    title: {
+    absolute: "The Explainer Desk Primers | ZestFeedX",
+  },
     description:
       "Comprehensive explanatory journalism breaking down complex Indian laws, financial shifts, and scientific phenomena simply and authoritatively.",
     images: ["https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80"],

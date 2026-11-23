@@ -188,21 +188,19 @@ export default function AdvertiseContent() {
           <div className="mt-6 inline-flex items-center bg-[#ECE7DE] dark:bg-[#0F172A] p-1 rounded-lg border border-[#DDD7CD] dark:border-[#1E293B]">
             <button
               onClick={() => setCurrency("INR")}
-              className={`px-4 py-1.5 rounded-md text-xs font-bold transition-all ${
-                isINR
-                  ? "bg-white dark:bg-[#1E293B] text-[#0B1020] dark:text-white shadow-xs"
-                  : "text-[#525866] dark:text-[#94A3B8]"
-              }`}
+              className={`px-4 py-1.5 rounded-md text-xs font-bold transition-all ${isINR
+                ? "bg-white dark:bg-[#1E293B] text-[#0B1020] dark:text-white shadow-xs"
+                : "text-[#525866] dark:text-[#94A3B8]"
+                }`}
             >
               INR (₹) • Razorpay + GST Invoice
             </button>
             <button
               onClick={() => setCurrency("USD")}
-              className={`px-4 py-1.5 rounded-md text-xs font-bold transition-all ${
-                !isINR
-                  ? "bg-white dark:bg-[#1E293B] text-[#0B1020] dark:text-white shadow-xs"
-                  : "text-[#525866] dark:text-[#94A3B8]"
-              }`}
+              className={`px-4 py-1.5 rounded-md text-xs font-bold transition-all ${!isINR
+                ? "bg-white dark:bg-[#1E293B] text-[#0B1020] dark:text-white shadow-xs"
+                : "text-[#525866] dark:text-[#94A3B8]"
+                }`}
             >
               USD ($) • Stripe Global
             </button>
@@ -264,11 +262,10 @@ export default function AdvertiseContent() {
                 <div
                   key={prod.id}
                   onClick={() => setSelectedProduct(prod.id)}
-                  className={`cursor-pointer bg-white dark:bg-[#0F172A] rounded-xl p-6 border transition-all flex flex-col justify-between relative ${
-                    isSelected
-                      ? "border-2 border-[#FF5A1F] shadow-md -translate-y-1"
-                      : "border-[#E8E4DC] dark:border-[#1E293B] hover:border-[#94A3B8]"
-                  }`}
+                  className={`cursor-pointer bg-white dark:bg-[#0F172A] rounded-xl p-6 border transition-all flex flex-col justify-between relative ${isSelected
+                    ? "border-2 border-[#FF5A1F] shadow-md -translate-y-1"
+                    : "border-[#E8E4DC] dark:border-[#1E293B] hover:border-[#94A3B8]"
+                    }`}
                 >
                   {prod.recommended && (
                     <span className="absolute -top-3 left-1/2 -translate-x-1/2 bg-[#FF5A1F] text-white text-[9px] font-bold uppercase tracking-widest px-2.5 py-0.5 rounded-full shadow-xs">
@@ -303,11 +300,10 @@ export default function AdvertiseContent() {
 
                   <button
                     type="button"
-                    className={`w-full py-2 rounded-lg text-xs font-bold transition ${
-                      isSelected
-                        ? "bg-[#FF5A1F] text-white shadow-xs"
-                        : "bg-[#ECE7DE] dark:bg-[#1E293B] text-[#0B1020] dark:text-white hover:bg-[#DDD7CD]"
-                    }`}
+                    className={`w-full py-2 rounded-lg text-xs font-bold transition ${isSelected
+                      ? "bg-[#FF5A1F] text-white shadow-xs"
+                      : "bg-[#ECE7DE] dark:bg-[#1E293B] text-[#0B1020] dark:text-white hover:bg-[#DDD7CD]"
+                      }`}
                   >
                     {isSelected ? "Selected Option" : "Select Placement"}
                   </button>

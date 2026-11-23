@@ -59,15 +59,15 @@ function seedToOriginalArticle(art: any): OriginalArticle {
     hero_image_credit: art.image_courtesy || "ZestFeedX Digital Archives",
     key_takeaways: isHi
       ? [
-          "विभागीय समीक्षा एवं उच्चस्तरीय वैधानिक निगरानी सक्रिय।",
-          "विधिक दिशा-निर्देशों के अनुरूप शत-प्रतिशत अनुपालन सुनिश्चित।",
-          "संपादकीय अनुसंधान डेस्क द्वारा नीतिगत प्रभावों का लगातार विश्लेषण।",
-        ]
+        "विभागीय समीक्षा एवं उच्चस्तरीय वैधानिक निगरानी सक्रिय।",
+        "विधिक दिशा-निर्देशों के अनुरूप शत-प्रतिशत अनुपालन सुनिश्चित।",
+        "संपादकीय अनुसंधान डेस्क द्वारा नीतिगत प्रभावों का लगातार विश्लेषण।",
+      ]
       : [
-          art.summary_en || art.summary || "Verified multi-source investigative dispatch.",
-          "Primary agency and gazette cross-verification completed.",
-          "Strategic implications monitored by editorial research desk.",
-        ],
+        art.summary_en || art.summary || "Verified multi-source investigative dispatch.",
+        "Primary agency and gazette cross-verification completed.",
+        "Strategic implications monitored by editorial research desk.",
+      ],
     content_markdown: isHi ? (art.content_hi || art.content || "") : (art.content_en || art.content || ""),
     why_it_matters: isHi ? (art.summary_hi || art.summary || "") : (art.summary_en || art.summary || ""),
     citations: [
@@ -84,6 +84,20 @@ function seedToOriginalArticle(art: any): OriginalArticle {
   };
 }
 
+function SearchParamsWatcher({
+  onParams,
+}: {
+  onParams: (lang: "en" | "hi" | null, edition: "india" | "world" | null) => void;
+}) {
+  const searchParams = useSearchParams();
+  useEffect(() => {
+    const urlLang = searchParams?.get("lang") as "en" | "hi" | null;
+    const urlEdition = searchParams?.get("edition") as "india" | "world" | null;
+    onParams(urlLang, urlEdition);
+  }, [searchParams, onParams]);
+  return null;
+}
+
 interface HomePageContentProps {
   initialLanguage?: "en" | "hi";
   initialEdition?: "india" | "world";
@@ -93,28 +107,23 @@ export function HomePageContent({
   initialLanguage = "en",
   initialEdition = "india",
 }: HomePageContentProps) {
-  const searchParams = useSearchParams();
-  const urlLang = searchParams?.get("lang") as "en" | "hi" | null;
-  const urlEdition = searchParams?.get("edition") as "india" | "world" | null;
-
-  const [currentLanguage, setCurrentLanguage] = useState<"en" | "hi">(urlLang || initialLanguage);
-  const [currentEdition, setCurrentEdition] = useState<"india" | "world">(urlEdition || initialEdition);
+  const [currentLanguage, setCurrentLanguage] = useState<"en" | "hi">(initialLanguage);
+  const [currentEdition, setCurrentEdition] = useState<"india" | "world">(initialEdition);
   const [searchQuery, setSearchQuery] = useState("");
   const [wireCategoryFilter, setWireCategoryFilter] = useState("all");
   const [visibleWireCount, setVisibleWireCount] = useState(12);
 
-  // Sync state when URL params change
-  useEffect(() => {
-    if (urlLang && (urlLang === "en" || urlLang === "hi")) {
-      setCurrentLanguage(urlLang);
-    }
-  }, [urlLang]);
-
-  useEffect(() => {
-    if (urlEdition && (urlEdition === "india" || urlEdition === "world")) {
-      setCurrentEdition(urlEdition);
-    }
-  }, [urlEdition]);
+  const handleParams = React.useCallback(
+    (lang: "en" | "hi" | null, edition: "india" | "world" | null) => {
+      if (lang && (lang === "en" || lang === "hi")) {
+        setCurrentLanguage(lang);
+      }
+      if (edition && (edition === "india" || edition === "world")) {
+        setCurrentEdition(edition);
+      }
+    },
+    []
+  );
 
   // Merge newest seed articles (hourly verified scraper) with flagship original investigations
   const convertedSeeds = React.useMemo(() => {
@@ -220,12 +229,12 @@ export function HomePageContent({
   // Search filter if user types in search
   const filteredOriginal = searchQuery
     ? allArticles.filter(
-        (a) =>
-          a.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-          a.deck.toLowerCase().includes(searchQuery.toLowerCase()) ||
-          (a.title_hi && a.title_hi.toLowerCase().includes(searchQuery.toLowerCase())) ||
-          a.tags.some((t) => t.toLowerCase().includes(searchQuery.toLowerCase()))
-      )
+      (a) =>
+        a.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        a.deck.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        (a.title_hi && a.title_hi.toLowerCase().includes(searchQuery.toLowerCase())) ||
+        a.tags.some((t) => t.toLowerCase().includes(searchQuery.toLowerCase()))
+    )
     : null;
 
   const isHindi = currentLanguage === "hi";
@@ -235,8 +244,18 @@ export function HomePageContent({
       {/* Breaking Strip */}
       <BreakingStrip currentLanguage={currentLanguage} />
 
+      <Suspense fallback={null}>
+        <SearchParamsWatcher onParams={handleParams} />
+      </Suspense>
+
       {/* Main Content Area */}
       <main className="flex-1">
+        {/* Screen Reader Primary Heading */}
+        <h1 className="sr-only">
+          {isHindi
+            ? "ZestFeedX हिंदी — ताज़ा समाचार, मुख्य समाचार एवं आर्थिक विश्लेषण"
+            : "ZestFeedX — Latest News, Breaking News, India & World Macro Analysis"}
+        </h1>
         {/* Edition Context Banner (Active when World Edition is Selected) */}
         {currentEdition === "world" && (
           <div className="bg-[#0B1020] text-white py-2 px-4 text-center text-xs border-b border-[#E8E4DC] dark:border-[#1E293B]">
@@ -341,11 +360,10 @@ export function HomePageContent({
                           setWireCategoryFilter(cat);
                           setVisibleWireCount(12);
                         }}
-                        className={`text-xs font-semibold px-3 py-1.5 rounded-md transition-colors capitalize ${
-                          wireCategoryFilter === cat
-                            ? "bg-[#0B1020] dark:bg-white text-white dark:text-[#0B1020] shadow-xs"
-                            : "text-[#525866] dark:text-[#94A3B8] hover:text-[#0B1020] dark:hover:text-white"
-                        }`}
+                        className={`text-xs font-semibold px-3 py-1.5 rounded-md transition-colors capitalize ${wireCategoryFilter === cat
+                          ? "bg-[#0B1020] dark:bg-white text-white dark:text-[#0B1020] shadow-xs"
+                          : "text-[#525866] dark:text-[#94A3B8] hover:text-[#0B1020] dark:hover:text-white"
+                          }`}
                       >
                         {cat === "all" ? (isHindi ? "सभी" : "All Stories") : cat}
                       </button>
@@ -481,9 +499,5 @@ export function HomePageContent({
 }
 
 export default function HomePage() {
-  return (
-    <Suspense fallback={<div className="min-h-screen bg-[#FAF8F4] dark:bg-[#080C16]" />}>
-      <HomePageContent />
-    </Suspense>
-  );
+  return <HomePageContent />;
 }

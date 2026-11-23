@@ -7,7 +7,9 @@ import { DEMO_AUTHORS } from "@/data/demoContent";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About Us, Newsroom Leadership & Ownership | ZestFeedX",
+  title: {
+    absolute: "About Newsroom & Byline Standards | ZestFeedX",
+  },
   description:
     "Learn about ZestFeedX: independent broadsheet journalism, economic intelligence, and newsroom editorial leadership by Pankhudi Sharma and Rohan Sen.",
   alternates: {

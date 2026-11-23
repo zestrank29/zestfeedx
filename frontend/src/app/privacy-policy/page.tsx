@@ -5,7 +5,9 @@ import Footer from "@/components/Footer";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy (DPDP Act 2023 & GDPR) | ZestFeedX",
+  title: {
+    absolute: "Privacy Policy & Security | ZestFeedX",
+  },
   description:
     "Review ZestFeedX’s privacy practices compliant with India’s Digital Personal Data Protection (DPDP) Act 2023 and the EU GDPR.",
   alternates: {

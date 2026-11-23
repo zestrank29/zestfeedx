@@ -5,7 +5,9 @@ import Footer from "@/components/Footer";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Editorial Policy, AI Disclosure & Corrections | ZestFeedX",
+  title: {
+    absolute: "Editorial Policy & Ethics | ZestFeedX",
+  },
   description:
     "Read the editorial guidelines, AI-assistance disclosures, multi-tier fact checking, and formal corrections policy governing ZestFeedX.",
   alternates: {

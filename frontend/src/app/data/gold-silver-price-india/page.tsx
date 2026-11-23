@@ -7,14 +7,18 @@ import AdSlot from "@/components/AdSlot";
 import { formatISTDate } from "@/lib/utils";
 
 export const metadata: Metadata = {
-  title: "Gold & Silver Rates Today in India (24K, 22K) | ZestFeedX",
+  title: {
+    absolute: "Gold & Silver Rates in India | ZestFeedX",
+  },
   description:
-    "Live 24K & 22K gold prices per 10g and silver per 1kg across major Indian cities with MCX spot rates, import duty and GST breakdown on ZestFeedX.",
+    "Live 24K and 22K gold prices per 10g and silver per 1kg across major Indian cities including Delhi, Mumbai, Chennai, and Kolkata.",
   alternates: {
     canonical: "https://zestfeedx.com/data/gold-silver-price-india/",
   },
   openGraph: {
-    title: "Gold & Silver Rates Today in India (24K, 22K) | ZestFeedX",
+    title: {
+    absolute: "Gold & Silver Rates in India | ZestFeedX",
+  },
     description:
       "Live 24K & 22K gold prices per 10g and silver per 1kg across major Indian cities with MCX spot rates, import duty and GST breakdown on ZestFeedX.",
     url: "https://zestfeedx.com/data/gold-silver-price-india/",
@@ -32,7 +36,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Gold & Silver Rates Today in India (24K, 22K) | ZestFeedX",
+    title: {
+    absolute: "Gold & Silver Rates in India | ZestFeedX",
+  },
     description:
       "Live 24K & 22K gold prices per 10g and silver per 1kg across major Indian cities with MCX spot rates, import duty and GST breakdown on ZestFeedX.",
     images: ["https://images.unsplash.com/photo-1610375461246-83df859d849d?auto=format&fit=crop&w=1200&q=80"],

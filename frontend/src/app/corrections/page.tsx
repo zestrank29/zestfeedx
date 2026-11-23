@@ -5,14 +5,18 @@ import { ShieldAlert, CheckCircle2, ChevronRight, Mail, AlertTriangle, FileText,
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Corrections & Public Clarifications Policy | ZestFeedX",
+  title: {
+    absolute: "Corrections & Public Policy | ZestFeedX",
+  },
   description:
-    "ZestFeedX is committed to uncompromising accuracy. Read our formal corrections procedure, transparency log, and how to submit factual corrections.",
+    "ZestFeedX is committed to accuracy. Read our formal corrections procedure, public clarifications log, and how to submit factual corrections.",
   alternates: {
     canonical: "https://zestfeedx.com/corrections/",
   },
   openGraph: {
-    title: "Corrections & Public Clarifications Policy | ZestFeedX",
+    title: {
+    absolute: "Corrections & Public Policy | ZestFeedX",
+  },
     description:
       "ZestFeedX is committed to uncompromising accuracy. Read our formal corrections procedure and public clarifications log.",
     url: "https://zestfeedx.com/corrections/",
@@ -21,7 +25,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Corrections & Public Clarifications Policy | ZestFeedX",
+    title: {
+    absolute: "Corrections & Public Policy | ZestFeedX",
+  },
     description:
       "ZestFeedX is committed to uncompromising accuracy. Read our formal corrections procedure and public clarifications log.",
   },

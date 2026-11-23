@@ -5,14 +5,18 @@ import Footer from "@/components/Footer";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Copyright Disclaimer & Fair Dealing Notice | ZestFeedX",
+  title: {
+    absolute: "Copyright & Fair Dealing | ZestFeedX",
+  },
   description:
     "Review ZestFeedX copyright ownership, fair dealing standards under the Indian Copyright Act 1957, and DMCA/copyright notice takedown procedures.",
   alternates: {
     canonical: "https://zestfeedx.com/copyright-disclaimer/",
   },
   openGraph: {
-    title: "Copyright Disclaimer & Fair Dealing Notice | ZestFeedX",
+    title: {
+    absolute: "Copyright & Fair Dealing | ZestFeedX",
+  },
     description:
       "Review ZestFeedX copyright ownership, fair dealing standards under the Indian Copyright Act 1957, and DMCA/copyright notice takedown procedures.",
     url: "https://zestfeedx.com/copyright-disclaimer/",
@@ -21,7 +25,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Copyright Disclaimer & Fair Dealing Notice | ZestFeedX",
+    title: {
+    absolute: "Copyright & Fair Dealing | ZestFeedX",
+  },
     description:
       "Review ZestFeedX copyright ownership, fair dealing standards under the Indian Copyright Act 1957, and DMCA/copyright notice takedown procedures.",
   },

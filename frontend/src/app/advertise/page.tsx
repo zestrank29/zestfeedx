@@ -2,14 +2,18 @@ import { Metadata } from "next";
 import AdvertiseContent from "./AdvertiseContent";
 
 export const metadata: Metadata = {
-  title: "Advertise & Partner with ZestFeedX | Media Kit 2026",
+  title: {
+    absolute: "Advertise & Partner with Us | ZestFeedX",
+  },
   description:
-    "Explore advertising, sponsored articles, and newsletter partnerships on ZestFeedX reaching founders, investors, and policymakers across India and the diaspora.",
+    "Explore advertising, sponsored articles, and newsletter partnerships on ZestFeedX. Reach policy makers, founders, and macro executives.",
   alternates: {
     canonical: "https://zestfeedx.com/advertise/",
   },
   openGraph: {
-    title: "Advertise & Partner with ZestFeedX | Media Kit 2026",
+    title: {
+    absolute: "Advertise & Partner with Us | ZestFeedX",
+  },
     description:
       "Explore advertising, sponsored articles, and newsletter partnerships on ZestFeedX reaching founders, investors, and policymakers across India and the diaspora.",
     url: "https://zestfeedx.com/advertise/",
@@ -27,7 +31,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Advertise & Partner with ZestFeedX | Media Kit 2026",
+    title: {
+    absolute: "Advertise & Partner with Us | ZestFeedX",
+  },
     description:
       "Explore advertising, sponsored articles, and newsletter partnerships on ZestFeedX reaching founders, investors, and policymakers across India and the diaspora.",
     images: ["https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80"],

@@ -5,7 +5,9 @@ import Footer from "@/components/Footer";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Fact-Checking Methodology & Protocols | ZestFeedX",
+  title: {
+    absolute: "Fact-Check Bureau Policy | ZestFeedX",
+  },
   description:
     "Explore the rigorous multi-tier fact-checking protocols, regulatory verification chains, and data auditing standards governing ZestFeedX.",
   alternates: {

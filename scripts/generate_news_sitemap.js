@@ -21,7 +21,7 @@ function toIso8601(dateStr) {
     if (!isNaN(d.getTime())) {
       return d.toISOString();
     }
-  } catch {}
+  } catch { }
   return new Date().toISOString();
 }
 

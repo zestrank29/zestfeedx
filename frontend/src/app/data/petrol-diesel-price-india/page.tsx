@@ -7,14 +7,18 @@ import AdSlot from "@/components/AdSlot";
 import { formatISTDate } from "@/lib/utils";
 
 export const metadata: Metadata = {
-  title: "Petrol & Diesel Price Today in India (City-Wise) | ZestFeedX",
+  title: {
+    absolute: "Petrol & Diesel Rates in India | ZestFeedX",
+  },
   description:
-    "Live daily petrol and diesel rates across Delhi, Mumbai, Bengaluru and major Indian cities with state VAT, excise duty and OMC price tracking on ZestFeedX.",
+    "Daily city-wise petrol and diesel fuel retail rates across Delhi, Mumbai, Bengaluru, Kolkata, Chennai, Hyderabad, and major Indian cities.",
   alternates: {
     canonical: "https://zestfeedx.com/data/petrol-diesel-price-india/",
   },
   openGraph: {
-    title: "Petrol & Diesel Price Today in India (City-Wise) | ZestFeedX",
+    title: {
+    absolute: "Petrol & Diesel Rates in India | ZestFeedX",
+  },
     description:
       "Live daily petrol and diesel rates across Delhi, Mumbai, Bengaluru and major Indian cities with state VAT, excise duty and OMC price tracking on ZestFeedX.",
     url: "https://zestfeedx.com/data/petrol-diesel-price-india/",
@@ -32,7 +36,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Petrol & Diesel Price Today in India (City-Wise) | ZestFeedX",
+    title: {
+    absolute: "Petrol & Diesel Rates in India | ZestFeedX",
+  },
     description:
       "Live daily petrol and diesel rates across Delhi, Mumbai, Bengaluru and major Indian cities with state VAT, excise duty and OMC price tracking on ZestFeedX.",
     images: ["https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=1200&q=80"],

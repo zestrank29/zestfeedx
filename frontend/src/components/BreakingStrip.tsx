@@ -23,19 +23,19 @@ export default function BreakingStrip({ currentLanguage }: BreakingStripProps) {
 
   const tickerItems = (filteredSeeds.length > 0)
     ? filteredSeeds.slice(0, 5).map((art) => ({
-        headline: isHindi ? (art.title_hi || art.title) : (art.title_en || art.title),
-        headline_hi: art.title_hi || art.title,
-        slug: art.slug,
-        source: art.source_name || "Bureau Wire",
-      }))
+      headline: isHindi ? (art.title_hi || art.title) : (art.title_en || art.title),
+      headline_hi: art.title_hi || art.title,
+      slug: art.slug,
+      source: art.source_name || "Bureau Wire",
+    }))
     : [
-        {
-          headline: isHindi ? BREAKING_DISPATCH.headline_hi : BREAKING_DISPATCH.headline,
-          headline_hi: BREAKING_DISPATCH.headline_hi,
-          slug: BREAKING_DISPATCH.slug,
-          source: BREAKING_DISPATCH.source_note,
-        },
-      ];
+      {
+        headline: isHindi ? BREAKING_DISPATCH.headline_hi : BREAKING_DISPATCH.headline,
+        headline_hi: BREAKING_DISPATCH.headline_hi,
+        slug: BREAKING_DISPATCH.slug,
+        source: BREAKING_DISPATCH.source_note,
+      },
+    ];
 
   return (
     <aside

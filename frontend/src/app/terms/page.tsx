@@ -5,14 +5,18 @@ import Footer from "@/components/Footer";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Terms of Service & Advertiser Guidelines | ZestFeedX",
+  title: {
+    absolute: "Terms of Service & Rules | ZestFeedX",
+  },
   description:
     "Review ZestFeedX terms of use, content syndication policies, intellectual property rights, and commercial advertiser guidelines.",
   alternates: {
     canonical: "https://zestfeedx.com/terms/",
   },
   openGraph: {
-    title: "Terms of Service & Advertiser Guidelines | ZestFeedX",
+    title: {
+    absolute: "Terms of Service & Rules | ZestFeedX",
+  },
     description:
       "Review ZestFeedX terms of use, content syndication policies, intellectual property rights, and commercial advertiser guidelines.",
     url: "https://zestfeedx.com/terms/",
@@ -21,7 +25,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Terms of Service & Advertiser Guidelines | ZestFeedX",
+    title: {
+    absolute: "Terms of Service & Rules | ZestFeedX",
+  },
     description:
       "Review ZestFeedX terms of use, content syndication policies, intellectual property rights, and commercial advertiser guidelines.",
   },

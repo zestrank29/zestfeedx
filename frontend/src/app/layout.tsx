@@ -28,11 +28,11 @@ const notoHindi = Noto_Sans_Devanagari({
 export const metadata: Metadata = {
   metadataBase: new URL("https://zestfeedx.com"),
   title: {
-    default: "Latest News, Breaking News, India News & Top Headlines | ZestFeedX",
+    default: "Latest News, Breaking News & India Headlines | ZestFeedX",
     template: "%s | ZestFeedX",
   },
   description:
-    "Read latest news, breaking news from India and world. Get live news updates, market insights, politics, tech, explainers & top headlines today on ZestFeedX.",
+    "Read latest news, breaking news from India and world. Get live updates, market insights, politics, tech and top headlines today on ZestFeedX.",
   keywords: [
     "Latest News",
     "Breaking News",
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Latest News, Breaking News, India News & Top Headlines | ZestFeedX",
     description:
-      "Read latest news, breaking news from India and world. Get live news updates, market insights, politics, tech, explainers & top headlines today on ZestFeedX.",
+    "Read latest news, breaking news from India and world. Get live updates, market insights, politics, tech and top headlines today on ZestFeedX.",
     url: "https://zestfeedx.com/",
     siteName: "ZestFeedX",
     locale: "en_IN",
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Latest News, Breaking News, India News & Top Headlines | ZestFeedX",
     description:
-      "Read latest news, breaking news from India and world. Get live news updates, market insights, politics, tech, explainers & top headlines today on ZestFeedX.",
+    "Read latest news, breaking news from India and world. Get live updates, market insights, politics, tech and top headlines today on ZestFeedX.",
   },
   robots: {
     index: true,
