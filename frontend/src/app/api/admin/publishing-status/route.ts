@@ -3,6 +3,8 @@ import fs from "fs";
 import path from "path";
 import defaultCalendar from "@/data/editorial_calendar.json";
 import defaultCricketTelemetry from "@/data/cricket_telemetry.json";
+import defaultSourceRegistry from "@/data/source_registry.json";
+import defaultGeminiUsage from "@/data/gemini_usage.json";
 
 export const dynamic = "force-dynamic";
 
@@ -48,7 +50,7 @@ export async function GET(req: NextRequest) {
     if (fs.existsSync(CALENDAR_FILE)) {
       try {
         calendarData = JSON.parse(fs.readFileSync(CALENDAR_FILE, "utf-8"));
-      } catch {}
+      } catch { }
     }
 
     let cricketData = (defaultCricketTelemetry as any) || {
@@ -62,7 +64,7 @@ export async function GET(req: NextRequest) {
     if (fs.existsSync(CRICKET_FILE)) {
       try {
         cricketData = JSON.parse(fs.readFileSync(CRICKET_FILE, "utf-8"));
-      } catch {}
+      } catch { }
     }
 
     // Determine alerts
@@ -85,11 +87,20 @@ export async function GET(req: NextRequest) {
       });
     }
 
+    if (statusData.approved_queue_size === 0) {
+      alerts.push({
+        type: "info",
+        message: "No approved stories currently waiting in the upcoming slot queue. The harvester will populate them at the next hourly checkpoint.",
+      });
+    }
+
     return NextResponse.json({
       ...statusData,
       alerts,
       editorial_calendar: calendarData,
       cricket_telemetry: cricketData,
+      source_registry: defaultSourceRegistry,
+      gemini_usage: defaultGeminiUsage,
       queue_preview: {
         approved_count: queueData.approved.length,
         collected_count: queueData.collected.length,

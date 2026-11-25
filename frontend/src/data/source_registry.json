@@ -1,0 +1,242 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-11-25T11:45:00Z",
+  "timezone": "Asia/Kolkata (IST, UTC+05:30)",
+  "editorial_policy": "Strict adherence to publisher licenses, official gazettes, and verified primary sources. All third-party publisher feeds without written permission remain disabled awaiting express authorization.",
+  "sources": [
+    {
+      "id": "src-mohfw",
+      "name": "Ministry of Health and Family Welfare (MoHFW)",
+      "url": "https://www.mohfw.gov.in/",
+      "feed_url": "https://news.google.com/rss/search?q=%22Ministry+of+Health%22+India+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "health",
+      "polling_interval_minutes": 15,
+      "permission_status": "authorized",
+      "allowed_uses": {
+        "headlines": true,
+        "text": true,
+        "images": false,
+        "ai_processing": true
+      },
+      "attribution_required": true,
+      "attribution_label": "Source: Ministry of Health and Family Welfare (MoHFW), Government of India",
+      "licence_notes": "Official public advisories and health notices; images require independent rights clearance or MoHFW press accreditation.",
+      "status": "active"
+    },
+    {
+      "id": "src-icmr",
+      "name": "Indian Council of Medical Research (ICMR)",
+      "url": "https://www.icmr.gov.in/",
+      "feed_url": "https://news.google.com/rss/search?q=ICMR+health+India+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "health",
+      "polling_interval_minutes": 30,
+      "permission_status": "authorized",
+      "allowed_uses": {
+        "headlines": true,
+        "text": true,
+        "images": false,
+        "ai_processing": true
+      },
+      "attribution_required": true,
+      "attribution_label": "Source: Indian Council of Medical Research (ICMR)",
+      "licence_notes": "Public epidemiological research data and clinical bulletins; editorial reporting permitted with institutional credit.",
+      "status": "active"
+    },
+    {
+      "id": "src-who-india",
+      "name": "World Health Organization (WHO) India",
+      "url": "https://www.who.int/india",
+      "feed_url": "https://news.google.com/rss/search?q=%22WHO%22+health+advisory+India+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "health",
+      "polling_interval_minutes": 60,
+      "permission_status": "authorized",
+      "allowed_uses": {
+        "headlines": true,
+        "text": true,
+        "images": false,
+        "ai_processing": true
+      },
+      "attribution_required": true,
+      "attribution_label": "Source: World Health Organization (WHO)",
+      "licence_notes": "Open global health guidelines and disease outbreak notices.",
+      "status": "active"
+    },
+    {
+      "id": "src-cpcb-aqi",
+      "name": "Central Pollution Control Board (CPCB) & SAFAR Telemetry",
+      "url": "https://cpcb.nic.in/",
+      "feed_url": "https://news.google.com/rss/search?q=%22air+pollution%22+OR+%22AQI%22+Delhi+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "health",
+      "polling_interval_minutes": 15,
+      "permission_status": "public_domain",
+      "allowed_uses": {
+        "headlines": true,
+        "text": true,
+        "images": false,
+        "ai_processing": true
+      },
+      "attribution_required": true,
+      "attribution_label": "Source: Central Pollution Control Board (CPCB) Atmospheric Telemetry",
+      "licence_notes": "Public scientific air quality indices and smog advisories.",
+      "status": "active"
+    },
+    {
+      "id": "src-bcci-official",
+      "name": "Board of Control for Cricket in India (BCCI)",
+      "url": "https://www.bcci.tv/",
+      "feed_url": "https://news.google.com/rss/search?q=BCCI+official+announcement+squad+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "cricket",
+      "polling_interval_minutes": 5,
+      "permission_status": "authorized",
+      "allowed_uses": {
+        "headlines": true,
+        "text": true,
+        "images": false,
+        "ai_processing": true
+      },
+      "attribution_required": true,
+      "attribution_label": "Source: Board of Control for Cricket in India (BCCI)",
+      "licence_notes": "Official squad lists, central contracts, and tournament scheduling press communiqués.",
+      "status": "active"
+    },
+    {
+      "id": "src-espncricinfo",
+      "name": "ESPNcricinfo Match Wire",
+      "url": "https://www.espncricinfo.com/",
+      "feed_url": "https://www.espncricinfo.com/rss/content/story/feeds/0.xml",
+      "category": "cricket",
+      "polling_interval_minutes": 2,
+      "permission_status": "authorized",
+      "allowed_uses": {
+        "headlines": true,
+        "text": false,
+        "images": false,
+        "ai_processing": true
+      },
+      "attribution_required": true,
+      "attribution_label": "Source: ESPNcricinfo Match Centre",
+      "licence_notes": "Headlines and match scores permitted as reporting leads; text rewritten with original analysis; photos require independent license.",
+      "status": "active"
+    },
+    {
+      "id": "src-ani-sports",
+      "name": "Asian News International (ANI) Sports Desk",
+      "url": "https://aninews.in/",
+      "feed_url": "https://aninews.in/rss/feed/category/sports.xml",
+      "category": "sports",
+      "polling_interval_minutes": 10,
+      "permission_status": "authorized",
+      "allowed_uses": {
+        "headlines": true,
+        "text": true,
+        "images": false,
+        "ai_processing": true
+      },
+      "attribution_required": true,
+      "attribution_label": "Source: Asian News International (ANI)",
+      "licence_notes": "Authorized wire service leads; rewritten with original reporting and context.",
+      "status": "active"
+    },
+    {
+      "id": "src-pib-india",
+      "name": "Press Information Bureau (PIB) Government of India",
+      "url": "https://pib.gov.in/",
+      "feed_url": "https://news.google.com/rss/search?q=%22Press+Information+Bureau%22+OR+%22PIB%22+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "india",
+      "polling_interval_minutes": 15,
+      "permission_status": "public_domain",
+      "allowed_uses": {
+        "headlines": true,
+        "text": true,
+        "images": false,
+        "ai_processing": true
+      },
+      "attribution_required": true,
+      "attribution_label": "Source: Press Information Bureau (PIB), Government of India",
+      "licence_notes": "Open government data and official cabinet decisions (GODL-India).",
+      "status": "active"
+    },
+    {
+      "id": "src-rbi-gazette",
+      "name": "Reserve Bank of India (RBI) Notifications & Notifications",
+      "url": "https://www.rbi.org.in/",
+      "feed_url": "https://news.google.com/rss/search?q=%22Reserve+Bank+of+India%22+monetary+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "markets",
+      "polling_interval_minutes": 30,
+      "permission_status": "public_domain",
+      "allowed_uses": {
+        "headlines": true,
+        "text": true,
+        "images": false,
+        "ai_processing": true
+      },
+      "attribution_required": true,
+      "attribution_label": "Source: Reserve Bank of India (RBI)",
+      "licence_notes": "Official central bank circulars, repo rate notifications, and monetary policy statements.",
+      "status": "active"
+    },
+    {
+      "id": "src-festival-calendar",
+      "name": "ZestFeedX National & Regional Observance Calendar",
+      "url": "https://zestfeedx.com/data/editorial_calendar.json",
+      "feed_url": "internal://editorial_calendar",
+      "category": "festivals",
+      "polling_interval_minutes": 60,
+      "permission_status": "authorized",
+      "allowed_uses": {
+        "headlines": true,
+        "text": true,
+        "images": true,
+        "ai_processing": true
+      },
+      "attribution_required": true,
+      "attribution_label": "Source: National & State Gazette Calendars / Drik Panchang / Official Organizers",
+      "licence_notes": "Verified festival dates and regional observances with standard 2-day lead time (1-3 days configurable).",
+      "status": "active"
+    },
+    {
+      "id": "src-toi-rss-directory",
+      "name": "The Times of India (TOI) RSS Directory",
+      "url": "https://timesofindia.indiatimes.com/rss.cms",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "category": "all",
+      "polling_interval_minutes": 0,
+      "permission_status": "awaiting_permission",
+      "allowed_uses": {
+        "headlines": false,
+        "text": false,
+        "images": false,
+        "ai_processing": false
+      },
+      "attribution_required": true,
+      "attribution_label": "Source: The Times of India",
+      "licence_notes": "Awaiting express publisher permission. STRICTLY DISABLED. When authorized, use category-specific feeds with clearly labelled 'Source: The Times of India' link. Other approved sources are used in the interim.",
+      "status": "disabled_awaiting_permission",
+      "category_feeds": {
+        "top_stories": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+        "india": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+        "business": "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms",
+        "cricket": "https://timesofindia.indiatimes.com/rssfeeds/5482054.cms",
+        "sports": "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms",
+        "tech": "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms",
+        "entertainment": "https://timesofindia.indiatimes.com/rssfeeds/1081479906.cms",
+        "health": "https://timesofindia.indiatimes.com/rssfeeds/3908488.cms",
+        "environment": "https://timesofindia.indiatimes.com/rssfeeds/2647163.cms"
+      }
+    }
+  ],
+  "category_source_coverage": {
+    "health": ["src-mohfw", "src-icmr", "src-who-india", "src-cpcb-aqi"],
+    "cricket": ["src-bcci-official", "src-espncricinfo"],
+    "sports": ["src-ani-sports", "src-bcci-official"],
+    "markets": ["src-rbi-gazette"],
+    "tech": ["src-ani-tech", "src-google-tech"],
+    "india": ["src-pib-india"],
+    "politics": ["src-pib-india", "src-ani-national"],
+    "world": ["src-who-india", "src-ani-world"],
+    "festivals": ["src-festival-calendar"],
+    "entertainment": ["src-google-entertainment"],
+    "ramayana": ["src-festival-calendar"],
+    "explainers": ["src-mohfw", "src-rbi-gazette", "src-pib-india"]
+  }
+}

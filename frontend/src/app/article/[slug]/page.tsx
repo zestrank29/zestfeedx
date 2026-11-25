@@ -2,6 +2,9 @@ import React from "react";
 import { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
+import SafeImage from "@/components/SafeImage";
+
+export const revalidate = 60;
 import { notFound } from "next/navigation";
 import TopBar from "@/components/TopBar";
 import Masthead from "@/components/Masthead";
@@ -367,9 +370,10 @@ export default async function ArticlePage({ params }: Props) {
           {/* Hero Image */}
           <figure className="mb-8">
             <div className="relative w-full aspect-16/9 rounded-lg overflow-hidden bg-[#ECE7DE] dark:bg-[#1E293B]">
-              <Image
+              <SafeImage
                 src={article.hero_image}
                 alt={article.title}
+                category={article.category}
                 fill
                 priority
                 sizes="(max-width: 1024px) 100vw, 896px"

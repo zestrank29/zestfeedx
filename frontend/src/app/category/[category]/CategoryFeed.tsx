@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
-import Image from "next/image";
+import SafeImage from "@/components/SafeImage";
 import { useSearchParams } from "next/navigation";
 import { ChevronRight, Globe, ShieldCheck, CheckCircle2, Clock, Activity, Wind, Heart, Apple, Users } from "lucide-react";
 import ReaderCounter from "@/components/ReaderCounter";
@@ -179,9 +179,10 @@ export default function CategoryFeed({ articles, categoryTitle }: CategoryFeedPr
                   href={`/article/${article.slug}/`}
                   className="relative w-full aspect-16/10 block overflow-hidden bg-[#ECE7DE] dark:bg-[#1E293B]"
                 >
-                  <Image
+                  <SafeImage
                     src={article.image_url}
                     alt={article.title}
+                    category={article.category}
                     fill
                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                     className="object-cover group-hover:scale-105 transition-transform duration-500 ease-out"

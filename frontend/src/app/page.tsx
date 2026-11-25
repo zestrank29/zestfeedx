@@ -153,13 +153,20 @@ export function HomePageContent({
   }, []);
 
   const allArticles = React.useMemo(() => {
+    let list: OriginalArticle[] = [];
     if (currentLanguage === "hi") {
       const hiSeeds = convertedSeeds.filter((a) => a.language === "hi");
-      return hiSeeds.length > 0 ? hiSeeds : convertedSeeds;
+      list = hiSeeds.length > 0 ? hiSeeds : convertedSeeds;
     } else {
       const enSeeds = convertedSeeds.filter((a) => a.language === "en");
-      return [...enSeeds, ...ORIGINAL_ARTICLES];
+      list = [...enSeeds, ...ORIGINAL_ARTICLES];
     }
+    // Sort strictly by actual ZestFeedX published_at timestamp descending
+    return list.sort((a, b) => {
+      const dateA = a.published_at ? new Date(a.published_at).getTime() : 0;
+      const dateB = b.published_at ? new Date(b.published_at).getTime() : 0;
+      return dateB - dateA;
+    });
   }, [convertedSeeds, currentLanguage]);
 
   // Edition-specific story prioritization

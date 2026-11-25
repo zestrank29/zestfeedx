@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
+import { revalidatePath } from "next/cache";
 import fs from "fs";
 import path from "path";
 
@@ -22,7 +23,18 @@ export async function GET(req: NextRequest) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   }
 
-  // 2. Read live publishing telemetry
+  // 2. Invalidate Public Caches across Homepage & Categories
+  let cacheInvalidated = false;
+  try {
+    revalidatePath("/", "page");
+    revalidatePath("/category/[category]", "page");
+    revalidatePath("/news-sitemap.xml");
+    cacheInvalidated = true;
+  } catch (err) {
+    console.warn("[Cron Ingest] Cache revalidation notice:", err);
+  }
+
+  // 3. Read live publishing telemetry
   let statusData: any = {
     status: "healthy",
     timezone: "Asia/Kolkata (IST, UTC+05:30)",
@@ -38,6 +50,7 @@ export async function GET(req: NextRequest) {
   return NextResponse.json({
     success: true,
     message: "ZestFeedX Hostinger cron heartbeat acknowledged. Scheduled daily publishing active at 10:00 AM IST.",
+    cache_invalidated: cacheInvalidated,
     telemetry: statusData,
     execution_time_ms: Date.now() - startTime,
     timestamp_utc: new Date().toISOString(),

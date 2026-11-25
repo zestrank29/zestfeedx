@@ -57,7 +57,10 @@ export interface Article {
   medical_reviewed?: boolean;
   medical_reviewer_name?: string;
   medical_reviewer_credentials?: string;
+  medical_review_date?: string;
   updated_at?: string;
+  source_published_at?: string;
+  event_at?: string;
   why_it_matters_today?: string;
   who_is_affected?: string;
   what_readers_are_searching_for?: string;

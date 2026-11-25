@@ -1,5 +1,7 @@
 import React from "react";
 import { Metadata } from "next";
+
+export const revalidate = 60;
 import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
@@ -189,8 +191,12 @@ export default async function CategoryPage({ params }: Props) {
     };
   });
 
-  // Put freshest hourly seed articles first, followed by original flagship investigations
-  const allArticles = [...seeds, ...originals];
+  // Sort strictly by actual ZestFeedX published_at timestamp descending
+  const allArticles = [...seeds, ...originals].sort((a, b) => {
+    const dateA = a.published_at ? new Date(a.published_at).getTime() : 0;
+    const dateB = b.published_at ? new Date(b.published_at).getTime() : 0;
+    return dateB - dateA;
+  });
 
   if (allArticles.length === 0) {
     notFound();
