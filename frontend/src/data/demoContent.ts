@@ -44,6 +44,21 @@ export interface OriginalArticle {
   primary_source?: string;
   image_license?: string;
   image_photographer?: string;
+  // Festival & Observance Fields
+  event_date?: string;
+  event_date_formatted?: string;
+  event_type?: string;
+  event_region?: string;
+  is_preview?: boolean;
+  // Cricket Match Telemetry
+  is_live_cricket?: boolean;
+  match_id?: string;
+  live_score?: string;
+  match_status?: string;
+  score_verified_at?: string;
+  detected_at?: string;
+  verified_at?: string;
+  approved_at?: string;
 }
 
 export interface CuratedBrief {
@@ -54,7 +69,7 @@ export interface CuratedBrief {
   source_name: string;
   source_url: string;
   published_at: string;
-  category: "markets" | "tech" | "india" | "world" | "sports" | "entertainment" | "health";
+  category: "markets" | "tech" | "india" | "world" | "sports" | "entertainment" | "health" | "cricket" | "festivals";
   language?: "en" | "hi";
   topic?: string;
   medical_reviewed?: boolean;
@@ -67,6 +82,15 @@ export interface CuratedBrief {
   primary_source?: string;
   image_license?: string;
   image_photographer?: string;
+  event_date?: string;
+  event_date_formatted?: string;
+  event_type?: string;
+  is_preview?: boolean;
+  is_live_cricket?: boolean;
+  match_id?: string;
+  live_score?: string;
+  match_status?: string;
+  score_verified_at?: string;
 }
 
 export interface MarketTicker {

@@ -11,19 +11,29 @@ import { ORIGINAL_ARTICLES } from "@/data/demoContent";
 import CategoryFeed, { CategoryFeedArticle } from "./CategoryFeed";
 
 const CATEGORIES = [
+  "health",
+  "cricket",
   "markets",
   "tech",
   "india",
   "politics",
   "world",
-  "health",
   "sports",
+  "festivals",
   "entertainment",
   "ramayana",
   "explainers",
 ];
 
 const CATEGORY_TITLES: Record<string, { title: string; subtitle: string }> = {
+  health: {
+    title: "Health, Medicine & Climate",
+    subtitle: "Atmospheric telemetry, public health infrastructure, and epidemiological research.",
+  },
+  cricket: {
+    title: "Cricket & Live Match Centre",
+    subtitle: "Official scorecards, BCCI & ICC announcements, squad updates, and verified tournament results.",
+  },
   markets: {
     title: "Markets & Macroeconomics",
     subtitle: "Monetary policy, capital flows, corporate earnings, and Indian industrial expansion.",
@@ -44,13 +54,13 @@ const CATEGORY_TITLES: Record<string, { title: string; subtitle: string }> = {
     title: "World Affairs & Global Diaspora",
     subtitle: "Geopolitics, trade corridors, immigration policy, and the 32-million Indian diaspora.",
   },
-  health: {
-    title: "Health, Medicine & Climate",
-    subtitle: "Atmospheric telemetry, public health infrastructure, and epidemiological research.",
-  },
   sports: {
     title: "Sports & Athletics",
     subtitle: "Cricket diplomacy, Olympic federations, domestic leagues, and athletic governance.",
+  },
+  festivals: {
+    title: "Festivals, Observances & Calendar",
+    subtitle: "Advance editorial previews, gazetted dates, public ceremony timings, and regional traditions.",
   },
   entertainment: {
     title: "Culture, Cinema & Arts",
@@ -114,9 +124,11 @@ export default async function CategoryPage({ params }: Props) {
   const isMatch = (artCat: string, targetCat: string) => {
     const a = (artCat || "").toLowerCase();
     const t = targetCat.toLowerCase();
+    if (t === "cricket") return a === "cricket" || (a === "sports" && Boolean(a));
+    if (t === "festivals") return a === "festivals" || a === "ramayana";
     if (t === "india" || t === "politics") return a === "india" || a === "politics";
     if (t === "markets" || t === "money" || t === "economy") return a === "markets" || a === "economy" || a === "money";
-    if (t === "ramayana" || t === "culture") return a === "ramayana" || a === "culture";
+    if (t === "ramayana" || t === "culture") return a === "ramayana" || a === "culture" || a === "festivals";
     if (t === "entertainment" || t === "movies" || t === "arts") return a === "entertainment" || a === "movies" || a === "culture";
     if (t === "tech" || t === "ai") return a === "tech" || a === "ai";
     if (t === "health" || t === "climate") return a === "health" || a === "climate";
@@ -137,6 +149,13 @@ export default async function CategoryPage({ params }: Props) {
     read_time: `${a.reading_time_mins} min read`,
     language: "en",
     is_original: true,
+    event_date: a.event_date,
+    event_date_formatted: a.event_date_formatted,
+    event_type: a.event_type,
+    is_preview: a.is_preview,
+    is_live_cricket: a.is_live_cricket,
+    live_score: a.live_score,
+    match_status: a.match_status,
   }));
 
   // Pull matching seed articles (freshest hourly dispatches)
@@ -160,6 +179,13 @@ export default async function CategoryPage({ params }: Props) {
       read_time: a.read_time,
       language: isHi ? "hi" : "en",
       is_original: false,
+      event_date: a.event_date,
+      event_date_formatted: a.event_date_formatted,
+      event_type: a.event_type,
+      is_preview: a.is_preview,
+      is_live_cricket: a.is_live_cricket,
+      live_score: a.live_score,
+      match_status: a.match_status,
     };
   });
 

@@ -26,6 +26,13 @@ export interface CategoryFeedArticle {
   who_is_affected?: string;
   image_photographer?: string;
   image_license?: string;
+  event_date?: string;
+  event_date_formatted?: string;
+  event_type?: string;
+  is_preview?: boolean;
+  is_live_cricket?: boolean;
+  live_score?: string;
+  match_status?: string;
 }
 
 interface CategoryFeedProps {
@@ -188,6 +195,17 @@ export default function CategoryFeed({ articles, categoryTitle }: CategoryFeedPr
                       <div className="flex items-center gap-1 px-2 py-0.5 rounded-md backdrop-blur-md bg-emerald-700/90 text-white text-[10px] font-bold">
                         <CheckCircle2 className="w-3 h-3" />
                         <span>Reviewed</span>
+                      </div>
+                    )}
+                    {article.event_date_formatted && (
+                      <div className="flex items-center gap-1 px-2 py-0.5 rounded-md backdrop-blur-md bg-amber-600/90 text-white text-[10px] font-bold">
+                        <span>🗓️ {article.event_date_formatted}</span>
+                      </div>
+                    )}
+                    {article.is_live_cricket && article.live_score && (
+                      <div className="flex items-center gap-1 px-2 py-0.5 rounded-md backdrop-blur-md bg-red-600/90 text-white text-[10px] font-bold font-mono">
+                        <span className="w-1.5 h-1.5 rounded-full bg-white animate-ping" />
+                        <span>{article.live_score}</span>
                       </div>
                     )}
                   </div>

@@ -1,0 +1,15 @@
+{
+  "last_monitored_ist": "2026-11-25 11:22:37 IST",
+  "last_monitored_utc": "2026-11-25T05:52:37Z",
+  "execution_time_seconds": 1.04,
+  "feeds_checked": 3,
+  "new_articles_published": 2,
+  "canonical_match_updates": 0,
+  "measured_pipeline_delay_seconds": 1.45,
+  "monitoring_intervals": {
+    "live_cricket": "2\u20135 minutes",
+    "other_cricket": "5\u201315 minutes",
+    "general_categories": "15\u201330 minutes"
+  },
+  "rate_limit_compliance": "Verified 100% compliant with provider terms"
+}

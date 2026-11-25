@@ -64,6 +64,22 @@ export interface Article {
   primary_source?: string;
   image_license?: string;
   image_photographer?: string;
+  // Festival & Observance Editorial Calendar Fields
+  event_date?: string;
+  event_date_formatted?: string;
+  event_type?: string;
+  event_region?: string;
+  is_preview?: boolean;
+  // Cricket & High-Frequency Match Telemetry
+  is_live_cricket?: boolean;
+  match_id?: string;
+  live_score?: string;
+  match_status?: string;
+  score_verified_at?: string;
+  // Latency & Pipeline Telemetry
+  detected_at?: string;
+  verified_at?: string;
+  approved_at?: string;
 }
 
 export interface NewsResponse {

@@ -64,6 +64,19 @@ function seedToArticle(s: any): OriginalArticle {
     primary_source: s.primary_source,
     image_license: s.image_license,
     image_photographer: s.image_photographer,
+    event_date: s.event_date,
+    event_date_formatted: s.event_date_formatted,
+    event_type: s.event_type,
+    event_region: s.event_region,
+    is_preview: s.is_preview,
+    is_live_cricket: s.is_live_cricket,
+    match_id: s.match_id,
+    live_score: s.live_score,
+    match_status: s.match_status,
+    score_verified_at: s.score_verified_at,
+    detected_at: s.detected_at,
+    verified_at: s.verified_at,
+    approved_at: s.approved_at,
   };
 }
 

@@ -1,9 +1,9 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef, useCallback } from "react";
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
-import { motion } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import {
   Search,
   Menu,
@@ -13,6 +13,10 @@ import {
   Moon,
   Sun,
   Flame,
+  ChevronLeft,
+  ChevronRight,
+  Sparkles,
+  Layers,
 } from "lucide-react";
 import {
   MARKET_TICKERS,
@@ -23,16 +27,18 @@ import {
 } from "@/data/demoContent";
 
 export const CATEGORIES = [
-  { id: "all", label: "Front Page", label_hi: "मुख्य पृष्ठ", href: "/" },
-  { id: "health", label: "Health & Medicine", label_hi: "स्वास्थ्य एवं चिकित्सा", href: "/category/health/" },
-  { id: "markets", label: "Markets & Money", label_hi: "बाजार एवं वित्त", href: "/category/markets/" },
-  { id: "tech", label: "Tech & AI", label_hi: "तकनीक एवं एआई", href: "/category/tech/" },
-  { id: "india", label: "India Policy", label_hi: "भारत एवं नीतियां", href: "/category/india/" },
-  { id: "world", label: "World Affairs", label_hi: "वैश्विक परिदृश्य", href: "/category/world/" },
-  { id: "sports", label: "Sports", label_hi: "खेल जगत", href: "/category/sports/" },
-  { id: "entertainment", label: "Culture & Arts", label_hi: "कला एवं संस्कृति", href: "/category/entertainment/" },
-  { id: "ramayana", label: "Heritage", label_hi: "विरासत एवं संस्कृति", href: "/category/ramayana/" },
-  { id: "explainers", label: "Deep Explainers", label_hi: "गहन विश्लेषण", href: "/explainers/" },
+  { id: "all", label: "Front Page", label_hi: "मुख्य पृष्ठ", href: "/", icon: "📰" },
+  { id: "health", label: "Health & Medicine", label_hi: "स्वास्थ्य एवं चिकित्सा", href: "/category/health/", icon: "🩺", badge: "Lead" },
+  { id: "cricket", label: "Cricket", label_hi: "क्रिकेट", href: "/category/cricket/", icon: "🏏", badge: "Live" },
+  { id: "festivals", label: "Festivals & Calendar", label_hi: "त्योहार एवं पंचांग", href: "/category/festivals/", icon: "🗓️" },
+  { id: "markets", label: "Markets & Money", label_hi: "बाजार एवं वित्त", href: "/category/markets/", icon: "📈" },
+  { id: "tech", label: "Tech & AI", label_hi: "तकनीक एवं एआई", href: "/category/tech/", icon: "⚡" },
+  { id: "india", label: "India Policy", label_hi: "भारत एवं नीतियां", href: "/category/india/", icon: "🏛️" },
+  { id: "world", label: "World Affairs", label_hi: "वैश्विक परिदृश्य", href: "/category/world/", icon: "🌐" },
+  { id: "sports", label: "Sports", label_hi: "खेल जगत", href: "/category/sports/", icon: "🏅" },
+  { id: "entertainment", label: "Culture & Arts", label_hi: "कला एवं संस्कृति", href: "/category/entertainment/", icon: "🎬" },
+  { id: "ramayana", label: "Heritage", label_hi: "विरासत एवं संस्कृति", href: "/category/ramayana/", icon: "🏹" },
+  { id: "explainers", label: "Deep Explainers", label_hi: "गहन विश्लेषण", href: "/explainers/", icon: "💡" },
 ];
 
 export default function GlobalHeader() {
@@ -43,10 +49,52 @@ export default function GlobalHeader() {
   const [isDarkMode, setIsDarkMode] = useState(false);
   const [activeCityIdx, setActiveCityIdx] = useState(0);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [mobileDrawerOpen, setMobileDrawerOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
   const [liveMarketTickers, setLiveMarketTickers] = useState<MarketTicker[]>(MARKET_TICKERS);
   const [isMarketLive, setIsMarketLive] = useState(true);
+  const [canScrollLeft, setCanScrollLeft] = useState(false);
+  const [canScrollRight, setCanScrollRight] = useState(true);
+
+  const categoryNavRef = useRef<HTMLUListElement>(null);
+  const categoriesTriggerRef = useRef<HTMLButtonElement>(null);
+  const drawerCloseBtnRef = useRef<HTMLButtonElement>(null);
+
+  // Check horizontal scroll bounds
+  const checkScrollButtons = useCallback(() => {
+    if (!categoryNavRef.current) return;
+    const { scrollLeft, scrollWidth, clientWidth } = categoryNavRef.current;
+    setCanScrollLeft(scrollLeft > 5);
+    setCanScrollRight(scrollLeft + clientWidth < scrollWidth - 5);
+  }, []);
+
+  const scrollCategory = (direction: "left" | "right") => {
+    if (!categoryNavRef.current) return;
+    const distance = direction === "left" ? -280 : 280;
+    categoryNavRef.current.scrollBy({ left: distance, behavior: "smooth" });
+  };
+
+  // Close mobile drawer on Escape and trap/return focus
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "Escape" && mobileDrawerOpen) {
+        setMobileDrawerOpen(false);
+        categoriesTriggerRef.current?.focus();
+      }
+    };
+    if (mobileDrawerOpen) {
+      document.body.style.overflow = "hidden";
+      window.addEventListener("keydown", handleKeyDown);
+      setTimeout(() => drawerCloseBtnRef.current?.focus(), 50);
+    } else {
+      document.body.style.overflow = "";
+    }
+    return () => {
+      document.body.style.overflow = "";
+      window.removeEventListener("keydown", handleKeyDown);
+    };
+  }, [mobileDrawerOpen]);
 
   // Sync language with pathname
   useEffect(() => {
@@ -86,11 +134,13 @@ export default function GlobalHeader() {
   // Detect current active category from pathname
   const getActiveCategory = () => {
     if (!pathname || pathname === "/" || pathname === "/en" || pathname === "/hi") return "all";
+    if (pathname.includes("/category/health")) return "health";
+    if (pathname.includes("/category/cricket")) return "cricket";
+    if (pathname.includes("/category/festivals")) return "festivals";
     if (pathname.includes("/category/markets")) return "markets";
     if (pathname.includes("/category/tech")) return "tech";
     if (pathname.includes("/category/india")) return "india";
     if (pathname.includes("/category/world")) return "world";
-    if (pathname.includes("/category/health")) return "health";
     if (pathname.includes("/category/sports")) return "sports";
     if (pathname.includes("/category/entertainment")) return "entertainment";
     if (pathname.includes("/category/ramayana")) return "ramayana";
@@ -99,6 +149,15 @@ export default function GlobalHeader() {
   };
 
   const activeCategory = getActiveCategory();
+
+  // Auto-scroll active category into view
+  useEffect(() => {
+    checkScrollButtons();
+    const activeEl = categoryNavRef.current?.querySelector('[data-active="true"]');
+    if (activeEl) {
+      (activeEl as HTMLElement).scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
+    }
+  }, [pathname, checkScrollButtons]);
 
   // Dark mode init
   useEffect(() => {
@@ -341,10 +400,52 @@ export default function GlobalHeader() {
         )}
       </div>
 
-      {/* 3. PERMANENT STICKY CATEGORY NAVIGATION MENU */}
-      <nav className="w-full border-t border-[#E8E4DC] dark:border-[#1E293B] sticky top-0 z-50 bg-[#FAF8F4]/95 dark:bg-[#080C16]/95 backdrop-blur-md shadow-xs">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <ul className="flex items-center gap-1 sm:gap-2 overflow-x-auto py-1.5 scrollbar-none text-xs font-medium">
+      {/* 3. PERMANENT STICKY CATEGORY NAVIGATION MENU (DESKTOP & MOBILE) */}
+      <nav
+        aria-label="Categories Navigation"
+        className="w-full border-t border-[#E8E4DC] dark:border-[#1E293B] sticky top-0 z-40 bg-[#FAF8F4]/98 dark:bg-[#080C16]/98 backdrop-blur-md shadow-xs transition-all"
+      >
+        <div className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8 flex items-center justify-between gap-1 sm:gap-2">
+          {/* Mobile Categories Button (Clearly labelled, compact trigger) */}
+          <div className="sm:hidden flex items-center gap-1.5 py-1.5 shrink-0">
+            <button
+              ref={categoriesTriggerRef}
+              onClick={() => setMobileDrawerOpen(true)}
+              aria-expanded={mobileDrawerOpen}
+              aria-controls="mobile-categories-drawer"
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-md bg-[#0B1020] dark:bg-white text-white dark:text-[#0B1020] text-xs font-bold shadow-xs focus-visible:ring-2 focus-visible:ring-[#FF5A1F] focus-visible:outline-none transition-transform active:scale-95"
+            >
+              <Menu className="w-3.5 h-3.5" />
+              <span>{currentLanguage === "hi" ? "सभी श्रेणियां" : "Categories"}</span>
+            </button>
+          </div>
+
+          {/* Desktop Left Scroll Chevron Button */}
+          {canScrollLeft && (
+            <button
+              onClick={() => scrollCategory("left")}
+              aria-label="Scroll categories left"
+              className="hidden sm:flex items-center justify-center w-7 h-7 rounded-full bg-[#FAF8F4] dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] text-[#525866] dark:text-[#94A3B8] hover:text-[#0B1020] dark:hover:text-white shadow-xs shrink-0 transition-opacity"
+            >
+              <ChevronLeft className="w-4 h-4" />
+            </button>
+          )}
+
+          {/* Horizontal Scrollable Category Bar (Mouse, Touch & Keyboard Supported) */}
+          <ul
+            ref={categoryNavRef}
+            onScroll={checkScrollButtons}
+            tabIndex={0}
+            aria-label="News categories list"
+            onKeyDown={(e) => {
+              if (e.key === "ArrowRight") {
+                scrollCategory("right");
+              } else if (e.key === "ArrowLeft") {
+                scrollCategory("left");
+              }
+            }}
+            className="flex items-center gap-1 sm:gap-1.5 overflow-x-auto py-1.5 scrollbar-none text-xs font-medium flex-1 scroll-smooth focus-visible:ring-1 focus-visible:ring-[#FF5A1F] focus-visible:outline-none rounded"
+          >
             {CATEGORIES.map((cat) => {
               const isSelected = activeCategory === cat.id;
               const title = currentLanguage === "hi" ? cat.label_hi : cat.label;
@@ -352,14 +453,26 @@ export default function GlobalHeader() {
                 <li key={cat.id} className="relative shrink-0">
                   <Link
                     href={cat.href}
-                    onClick={() => setMobileMenuOpen(false)}
-                    className={`px-3 py-1.5 rounded-sm transition-colors text-[11px] sm:text-xs font-semibold tracking-tight inline-block ${
+                    data-active={isSelected ? "true" : "false"}
+                    className={`px-3 py-1.5 rounded-md transition-all text-[11px] sm:text-xs font-semibold tracking-tight inline-flex items-center gap-1.5 whitespace-nowrap focus-visible:ring-2 focus-visible:ring-[#FF5A1F] focus-visible:outline-none ${
                       isSelected
-                        ? "text-[#FF5A1F]"
-                        : "text-[#525866] dark:text-[#94A3B8] hover:text-[#0B1020] dark:hover:text-[#FFFFFF]"
+                        ? "text-[#FF5A1F] bg-[#FF5A1F]/10 dark:bg-[#FF5A1F]/15 font-bold"
+                        : "text-[#525866] dark:text-[#94A3B8] hover:text-[#0B1020] dark:hover:text-[#FFFFFF] hover:bg-[#ECE7DE]/50 dark:hover:bg-[#1E293B]/50"
                     }`}
                   >
-                    {title}
+                    <span>{cat.icon}</span>
+                    <span>{title}</span>
+                    {cat.badge && (
+                      <span
+                        className={`text-[9px] font-bold px-1.5 py-0.2 rounded uppercase tracking-wider ${
+                          cat.badge === "Lead"
+                            ? "bg-[#0E7C86] text-white"
+                            : "bg-[#D7263D] text-white animate-pulse"
+                        }`}
+                      >
+                        {cat.badge}
+                      </span>
+                    )}
                   </Link>
                   {isSelected && (
                     <motion.div
@@ -372,40 +485,155 @@ export default function GlobalHeader() {
               );
             })}
           </ul>
+
+          {/* Desktop Right Scroll Chevron Button */}
+          {canScrollRight && (
+            <button
+              onClick={() => scrollCategory("right")}
+              aria-label="Scroll categories right"
+              className="hidden sm:flex items-center justify-center w-7 h-7 rounded-full bg-[#FAF8F4] dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] text-[#525866] dark:text-[#94A3B8] hover:text-[#0B1020] dark:hover:text-white shadow-xs shrink-0 transition-opacity"
+            >
+              <ChevronRight className="w-4 h-4" />
+            </button>
+          )}
         </div>
       </nav>
 
-      {/* Mobile Drawer Menu */}
-      {mobileMenuOpen && (
-        <div className="sm:hidden border-t border-[#E8E4DC] dark:border-[#1E293B] bg-[#FAF8F4] dark:bg-[#0F172A] px-4 py-4 space-y-3">
-          <p className="text-[10px] uppercase font-bold tracking-widest text-[#94A3B8]">Browse Categories</p>
-          <div className="grid grid-cols-2 gap-2 text-xs">
-            {CATEGORIES.map((cat) => (
-              <Link
-                key={cat.id}
-                href={cat.href}
-                onClick={() => setMobileMenuOpen(false)}
-                className={`py-2 px-2.5 rounded block text-center ${
-                  activeCategory === cat.id
-                    ? "bg-[#FF5A1F] text-white font-bold"
-                    : "text-[#525866] dark:text-[#94A3B8] bg-[#ECE7DE]/50 dark:bg-[#1E293B]/50 hover:bg-[#ECE7DE] dark:hover:bg-[#1E293B]"
-                }`}
-              >
-                {currentLanguage === "hi" ? cat.label_hi : cat.label}
-              </Link>
-            ))}
-          </div>
-          <div className="pt-2 border-t border-[#E8E4DC] dark:border-[#1E293B]">
-            <Link
-              href="/#newsletter"
-              onClick={() => setMobileMenuOpen(false)}
-              className="block text-center bg-[#FF5A1F] text-white py-2 rounded text-xs font-semibold"
+      {/* Mobile Categories Slide-Over Drawer (Accessible, Full Screen Height, Escape & Keyboard Trapping) */}
+      <AnimatePresence>
+        {mobileDrawerOpen && (
+          <div className="fixed inset-0 z-50 flex justify-end">
+            {/* Backdrop */}
+            <motion.div
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+              onClick={() => {
+                setMobileDrawerOpen(false);
+                categoriesTriggerRef.current?.focus();
+              }}
+              className="fixed inset-0 bg-black/60 backdrop-blur-xs"
+              aria-hidden="true"
+            />
+
+            {/* Drawer Panel */}
+            <motion.div
+              id="mobile-categories-drawer"
+              role="dialog"
+              aria-modal="true"
+              aria-label="All News Categories"
+              initial={{ x: "100%" }}
+              animate={{ x: 0 }}
+              exit={{ x: "100%" }}
+              transition={{ type: "spring", damping: 30, stiffness: 300 }}
+              className="relative w-full max-w-xs sm:max-w-sm bg-[#FAF8F4] dark:bg-[#080C16] text-[#0B1020] dark:text-[#F1F5F9] shadow-2xl flex flex-col h-full z-10 border-l border-[#E8E4DC] dark:border-[#1E293B]"
             >
-              Subscribe to The Dispatch
-            </Link>
+              {/* Drawer Header */}
+              <div className="p-4 border-b border-[#E8E4DC] dark:border-[#1E293B] flex items-center justify-between bg-white dark:bg-[#0F172A]">
+                <div>
+                  <h3 className="font-serif text-lg font-bold text-[#0B1020] dark:text-white">
+                    {currentLanguage === "hi" ? "सभी समाचार श्रेणियां" : "All Categories"}
+                  </h3>
+                  <p className="text-[11px] text-[#525866] dark:text-[#94A3B8]">
+                    {currentLanguage === "hi" ? "प्रत्येक श्रेणी सीधे सुलभ है" : "Reachable & scrollable across mobile"}
+                  </p>
+                </div>
+                <button
+                  ref={drawerCloseBtnRef}
+                  onClick={() => {
+                    setMobileDrawerOpen(false);
+                    categoriesTriggerRef.current?.focus();
+                  }}
+                  aria-label="Close categories menu"
+                  className="p-2 rounded-lg bg-[#FAF8F4] dark:bg-[#1E293B] text-[#525866] dark:text-[#94A3B8] hover:text-[#0B1020] dark:hover:text-white focus-visible:ring-2 focus-visible:ring-[#FF5A1F] focus-visible:outline-none"
+                >
+                  <X className="w-5 h-5" />
+                </button>
+              </div>
+
+              {/* Drawer Scrollable Content (Shows every category including below screen) */}
+              <div className="flex-1 overflow-y-auto p-4 space-y-1.5 pb-20">
+                {CATEGORIES.map((cat) => {
+                  const isSelected = activeCategory === cat.id;
+                  const title = currentLanguage === "hi" ? cat.label_hi : cat.label;
+                  return (
+                    <Link
+                      key={cat.id}
+                      href={cat.href}
+                      onClick={() => setMobileDrawerOpen(false)}
+                      className={`flex items-center justify-between p-3 rounded-xl transition-all text-sm font-semibold min-h-[48px] focus-visible:ring-2 focus-visible:ring-[#FF5A1F] focus-visible:outline-none ${
+                        isSelected
+                          ? "bg-[#FF5A1F] text-white shadow-xs"
+                          : "bg-white dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] text-[#0B1020] dark:text-[#F1F5F9] hover:border-[#FF5A1F]"
+                      }`}
+                    >
+                      <div className="flex items-center gap-3">
+                        <span className="text-lg">{cat.icon}</span>
+                        <div>
+                          <span>{title}</span>
+                          {currentLanguage !== "hi" && cat.label_hi && (
+                            <span className="block text-[10px] text-opacity-80 font-normal">
+                              {cat.label_hi}
+                            </span>
+                          )}
+                        </div>
+                      </div>
+
+                      <div className="flex items-center gap-1.5">
+                        {cat.badge && (
+                          <span
+                            className={`text-[10px] font-bold px-2 py-0.5 rounded-full uppercase tracking-wider ${
+                              cat.badge === "Lead"
+                                ? "bg-[#0E7C86] text-white"
+                                : "bg-[#D7263D] text-white"
+                            }`}
+                          >
+                            {cat.badge}
+                          </span>
+                        )}
+                        <ChevronRight className="w-4 h-4 opacity-50" />
+                      </div>
+                    </Link>
+                  );
+                })}
+
+                {/* Direct Telemetry & Calendar Admin Links */}
+                <div className="pt-4 mt-4 border-t border-[#E8E4DC] dark:border-[#1E293B] space-y-2">
+                  <Link
+                    href="/admin/publishing-status/"
+                    onClick={() => setMobileDrawerOpen(false)}
+                    className="flex items-center justify-between p-2.5 rounded-lg text-xs font-semibold bg-[#FAF8F4] dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] text-[#525866] dark:text-[#94A3B8]"
+                  >
+                    <span className="flex items-center gap-2">
+                      <Layers className="w-3.5 h-3.5 text-[#0E7C86]" />
+                      Publishing Status & Telemetry
+                    </span>
+                    <ChevronRight className="w-3.5 h-3.5" />
+                  </Link>
+                  <Link
+                    href="/category/health/"
+                    onClick={() => setMobileDrawerOpen(false)}
+                    className="flex items-center justify-between p-2.5 rounded-lg text-xs font-semibold bg-[#0E7C86]/10 text-[#0E7C86] border border-[#0E7C86]/30"
+                  >
+                    <span>🩺 Health & Medicine Bureau</span>
+                    <ChevronRight className="w-3.5 h-3.5" />
+                  </Link>
+                  <Link
+                    href="/category/cricket/"
+                    onClick={() => setMobileDrawerOpen(false)}
+                    className="flex items-center justify-between p-2.5 rounded-lg text-xs font-semibold bg-[#D7263D]/10 text-[#D7263D] border border-[#D7263D]/30"
+                  >
+                    <span>🏏 Cricket Match Centre</span>
+                    <ChevronRight className="w-3.5 h-3.5" />
+                  </Link>
+                </div>
+              </div>
+            </motion.div>
           </div>
-        </div>
-      )}
+        )}
+      </AnimatePresence>
+
+      {/* Traditional Quick Dropdown for Search or Edition */}
     </header>
   );
 }

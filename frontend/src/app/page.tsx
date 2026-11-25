@@ -28,9 +28,9 @@ import { SEED_ARTICLES } from "@/data/seedArticles";
 function seedToOriginalArticle(art: any): OriginalArticle {
   const isHi = art.language === "hi" || /[\u0900-\u097F]/.test(art.title || "");
   const cat = (art.category || "india").toLowerCase();
-  const validCat = ["markets", "tech", "india", "world", "sports", "entertainment", "health", "explainers"].includes(cat)
+  const validCat = ["markets", "tech", "india", "world", "sports", "entertainment", "health", "explainers", "cricket", "festivals"].includes(cat)
     ? cat
-    : cat === "politics" ? "india" : "markets";
+    : cat === "politics" ? "india" : (cat === "ramayana" ? "festivals" : "markets");
 
   return {
     id: `seed-${art.id}`,
@@ -41,6 +41,27 @@ function seedToOriginalArticle(art: any): OriginalArticle {
     deck: isHi ? (art.summary_hi || art.summary || "") : (art.summary_en || art.summary || ""),
     deck_hi: art.summary_hi || art.summary || "",
     category: validCat as any,
+    topic: art.topic,
+    medical_reviewed: art.medical_reviewed,
+    medical_reviewer_name: art.medical_reviewer_name,
+    medical_reviewer_credentials: art.medical_reviewer_credentials,
+    updated_at: art.updated_at,
+    why_it_matters_today: art.why_it_matters_today,
+    who_is_affected: art.who_is_affected,
+    what_readers_are_searching_for: art.what_readers_are_searching_for,
+    primary_source: art.primary_source,
+    image_license: art.image_license,
+    image_photographer: art.image_photographer,
+    event_date: art.event_date,
+    event_date_formatted: art.event_date_formatted,
+    event_type: art.event_type,
+    event_region: art.event_region,
+    is_preview: art.is_preview,
+    is_live_cricket: art.is_live_cricket,
+    match_id: art.match_id,
+    live_score: art.live_score,
+    match_status: art.match_status,
+    score_verified_at: art.score_verified_at,
     author: {
       id: "pankhudi-sharma",
       name: art.author_name || "Pankhudi Sharma",

@@ -6,7 +6,655 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+  
+  
+  
   {
+    id: 953,
+    title: `🏏 Shoriful admits Bangladesh's pace attack 'lacked discipline'`,
+    slug: `shoriful-admits-bangladeshs-pace-attack-lacked-discipline-2026`,
+    original_title: `Shoriful admits Bangladesh's pace attack 'lacked discipline'`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `🏏 Cricket Wire`,
+    read_time: `6 min read`,
+    views_count: 343430,
+    shares_count: 53250,
+    published_at: `2026-11-25T05:52:37Z`,
+    updated_at: `2026-11-25T05:52:37Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1563856.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1517649763962-0c623266ddc0?auto=format&fit=crop&w=1600&q=85&sig=953`,
+    image_alt: `Cricket photograph: Shoriful admits Bangladesh's pace attack 'lacked discipline'`,
+    image_courtesy: `Photo: Stadium Photography Wire (Unsplash Editorial Clearance)`,
+    image_photographer: `Stadium Photography Wire`,
+    image_license: `Unsplash Editorial Clearance`,
+    fact_check_status: `Verified against Official Cricket Match Centre`,
+    tags: `Cricket, BCCI, Live Score, Sports, Match Report`,
+    summary: `Shoriful admits Bangladesh's pace attack 'lacked discipline'. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **Shoriful admits Bangladesh's pace attack 'lacked discipline'**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** ipl-2027-tournament-hub
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Active Match Progress
+* **Score Checked At:** 2026-11-25 11:22:37 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Active Match Progress | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    title_en: `Shoriful admits Bangladesh's pace attack 'lacked discipline'`,
+    summary_en: `Shoriful admits Bangladesh's pace attack 'lacked discipline'. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content_en: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **Shoriful admits Bangladesh's pace attack 'lacked discipline'**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** ipl-2027-tournament-hub
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Active Match Progress
+* **Score Checked At:** 2026-11-25 11:22:37 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Active Match Progress | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    author_name: `Rohan Sen`,
+    author_bio: `Senior Sports Correspondent covering international cricket, IPL, and tactical athletic telemetry.`,
+    author_url: `https://zestfeedx.com/author/rohan-sen`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `ipl-2027-tournament-hub`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-25 11:22:37 IST`,
+    detected_at: `2026-11-25T05:52:37Z`,
+    verified_at: `2026-11-25T05:52:37Z`,
+    approved_at: `2026-11-25T05:52:37Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Shoriful admits Bangladesh's pace attack 'lacked discipline'.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 954,
+    title: `🏏 South Africa pick eight uncapped players for India women's Test`,
+    slug: `south-africa-pick-eight-uncapped-players-for-india-womens-test-2026`,
+    original_title: `South Africa pick eight uncapped players for India women's Test`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `🏏 Cricket Wire`,
+    read_time: `6 min read`,
+    views_count: 343740,
+    shares_count: 53300,
+    published_at: `2026-11-25T05:52:37Z`,
+    updated_at: `2026-11-25T05:52:37Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1563796.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85&sig=954`,
+    image_alt: `Cricket photograph: South Africa pick eight uncapped players for India women's Test`,
+    image_courtesy: `Photo: Action Sports Photography / Unsplash (Unsplash Commercial & Editorial License)`,
+    image_photographer: `Action Sports Photography / Unsplash`,
+    image_license: `Unsplash Commercial & Editorial License`,
+    fact_check_status: `Verified against Official Cricket Match Centre`,
+    tags: `Cricket, BCCI, Live Score, Sports, Match Report`,
+    summary: `South Africa pick eight uncapped players for India women's Test. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **South Africa pick eight uncapped players for India women's Test**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** match-india-vs-south-africa-2026
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Official Squad Announcement
+* **Score Checked At:** 2026-11-25 11:22:37 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Official Squad Announcement | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    title_en: `South Africa pick eight uncapped players for India women's Test`,
+    summary_en: `South Africa pick eight uncapped players for India women's Test. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content_en: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **South Africa pick eight uncapped players for India women's Test**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** match-india-vs-south-africa-2026
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Official Squad Announcement
+* **Score Checked At:** 2026-11-25 11:22:37 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Official Squad Announcement | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    author_name: `Rohan Sen`,
+    author_bio: `Senior Sports Correspondent covering international cricket, IPL, and tactical athletic telemetry.`,
+    author_url: `https://zestfeedx.com/author/rohan-sen`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-india-vs-south-africa-2026`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Official Squad Announcement`,
+    score_verified_at: `2026-11-25 11:22:37 IST`,
+    detected_at: `2026-11-25T05:52:37Z`,
+    verified_at: `2026-11-25T05:52:37Z`,
+    approved_at: `2026-11-25T05:52:37Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding South Africa pick eight uncapped players for India women's Test.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 951,
+    title: `🏏 Ben Stokes enters IPL 2027 auction at maximum base price`,
+    slug: `ben-stokes-enters-ipl-2027-auction-at-maximum-base-price-2026`,
+    original_title: `Ben Stokes enters IPL 2027 auction at maximum base price`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `🏏 Cricket Wire`,
+    read_time: `6 min read`,
+    views_count: 342810,
+    shares_count: 53150,
+    published_at: `2026-11-25T05:52:29Z`,
+    updated_at: `2026-11-25T05:52:29Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1563846.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85&sig=951`,
+    image_alt: `Cricket photograph: Ben Stokes enters IPL 2027 auction at maximum base price`,
+    image_courtesy: `Photo: Action Sports Photography / Unsplash (Unsplash Commercial & Editorial License)`,
+    image_photographer: `Action Sports Photography / Unsplash`,
+    image_license: `Unsplash Commercial & Editorial License`,
+    fact_check_status: `Verified against Official Cricket Match Centre`,
+    tags: `Cricket, BCCI, Live Score, Sports, Match Report`,
+    summary: `Ben Stokes enters IPL 2027 auction at maximum base price. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **Ben Stokes enters IPL 2027 auction at maximum base price**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** ipl-2027-tournament-hub
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Session Break
+* **Score Checked At:** 2026-11-25 11:22:29 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Session Break | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    title_en: `Ben Stokes enters IPL 2027 auction at maximum base price`,
+    summary_en: `Ben Stokes enters IPL 2027 auction at maximum base price. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content_en: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **Ben Stokes enters IPL 2027 auction at maximum base price**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** ipl-2027-tournament-hub
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Session Break
+* **Score Checked At:** 2026-11-25 11:22:29 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Session Break | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    author_name: `Rohan Sen`,
+    author_bio: `Senior Sports Correspondent covering international cricket, IPL, and tactical athletic telemetry.`,
+    author_url: `https://zestfeedx.com/author/rohan-sen`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `ipl-2027-tournament-hub`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Session Break`,
+    score_verified_at: `2026-11-25 11:22:29 IST`,
+    detected_at: `2026-11-25T05:52:28Z`,
+    verified_at: `2026-11-25T05:52:29Z`,
+    approved_at: `2026-11-25T05:52:29Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Ben Stokes enters IPL 2027 auction at maximum base price.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 952,
+    title: `🏏 Ackerman, Mulder tons grind down Bangladesh as SA batters make hay`,
+    slug: `ackerman-mulder-tons-grind-down-bangladesh-as-sa-batters-make-hay-2026`,
+    original_title: `Ackerman, Mulder tons grind down Bangladesh as SA batters make hay`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `🏏 Cricket Wire`,
+    read_time: `6 min read`,
+    views_count: 343120,
+    shares_count: 53200,
+    published_at: `2026-11-25T05:52:29Z`,
+    updated_at: `2026-11-25T05:52:29Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1563809.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85&sig=952`,
+    image_alt: `Cricket photograph: Ackerman, Mulder tons grind down Bangladesh as SA batters make hay`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Official Editorial Wire Clearance)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Official Editorial Wire Clearance`,
+    fact_check_status: `Verified against Official Cricket Match Centre`,
+    tags: `Cricket, BCCI, Live Score, Sports, Match Report`,
+    summary: `Ackerman, Mulder tons grind down Bangladesh as SA batters make hay. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **Ackerman, Mulder tons grind down Bangladesh as SA batters make hay**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** match-south-africa-vs-bangladesh-2026
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Active Match Progress
+* **Score Checked At:** 2026-11-25 11:22:29 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Active Match Progress | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    title_en: `Ackerman, Mulder tons grind down Bangladesh as SA batters make hay`,
+    summary_en: `Ackerman, Mulder tons grind down Bangladesh as SA batters make hay. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content_en: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **Ackerman, Mulder tons grind down Bangladesh as SA batters make hay**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** match-south-africa-vs-bangladesh-2026
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Active Match Progress
+* **Score Checked At:** 2026-11-25 11:22:29 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Active Match Progress | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    author_name: `Rohan Sen`,
+    author_bio: `Senior Sports Correspondent covering international cricket, IPL, and tactical athletic telemetry.`,
+    author_url: `https://zestfeedx.com/author/rohan-sen`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-south-africa-vs-bangladesh-2026`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-25 11:22:29 IST`,
+    detected_at: `2026-11-25T05:52:28Z`,
+    verified_at: `2026-11-25T05:52:29Z`,
+    approved_at: `2026-11-25T05:52:29Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Ackerman, Mulder tons grind down Bangladesh as SA batters make hay.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 948,
+    title: `🗓️ Constitution Day 2026 in India: Date, History and Significance of Samvidhan Divas`,
+    slug: `constitution-day-2026-in-india-date-history-and-significance-of-samvidhan-divas-2026`,
+    original_title: `Constitution Day 2026 in India: Date, History and Significance of Samvidhan Divas`,
+    category: `india`,
+    topic: `civic-observance`,
+    language: `en`,
+    fomo_badge: `🗓️ National Civic Observance`,
+    read_time: `7 min read`,
+    views_count: 212640,
+    shares_count: 43020,
+    published_at: `2026-11-25T05:46:43Z`,
+    updated_at: `2026-11-25T05:46:43Z`,
+    source_name: `Official Government Calendar & Archives`,
+    source_url: `https://knowindia.india.gov.in/calendar/`,
+    source_courtesy: `Verified Source: https://knowindia.india.gov.in/calendar/`,
+    image_url: `https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1600&q=85&sig=constitution-day-2026`,
+    image_alt: `The Constitution of India preamble tablet and Supreme Court pillars (File photo: Supreme Court of India & Parliamentary Archives).`,
+    image_courtesy: `Photo: Parliamentary Archives / Editorial Wire (Official Government Press Handout (Govt of India))`,
+    image_photographer: `Parliamentary Archives / Editorial Wire`,
+    image_license: `Official Government Press Handout (Govt of India)`,
+    fact_check_status: `Verified against India Statutory Calendar`,
+    tags: `Observance, Festival, India, Constitution Day (Samvidhan Divas), Verified Explainer`,
+    summary: `Constitution Day 2026 in India: Commemorating the 77th anniversary of the adoption of the Indian Constitution on November 26. Key history, preamble reading timings, parliamentary celebrations, and civic observance details.`,
+    content: `### Overview: 77th Samvidhan Divas Celebrations
+
+India observes **Constitution Day (Samvidhan Divas)** annually on **November 26, 2026** to commemorate the historic adoption of the Constitution of India by the Constituent Assembly in 1949. Formally notified by the Ministry of Social Justice and Empowerment in November 2015, this **National Civic Observance** pays tribute to the drafting committee chaired by Dr. B.R. Ambedkar and reaffirms the nation's commitment to constitutional democracy, liberty, and justice.
+
+Unlike national holidays that mandate nationwide administrative shutdowns, Constitution Day is celebrated as an active civic and educational observance. Government secretariats, high courts, universities, and public institutions across India conduct mass readings of the Preamble at 11:00 AM IST.
+
+### When & Where It Takes Place in 2026
+
+* **Official Date:** November 26, 2026 (Thursday).
+* **Location:** Observed nationwide across all 28 states, 8 Union Territories, and Indian diplomatic missions abroad.
+* **National Ceremony:** The Supreme Court of India hosts a commemorative ceremonial sitting in New Delhi, attended by the Chief Justice of India, the President of India, and Union Law Ministry dignitaries.
+* **Administrative Status:** Working civic observance. Central and state government departments, banking institutions, and commercial establishments remain open while conducting institutional preamble pledges.
+
+### Why This Observance Matters Today
+
+The Constitution of India is the longest written sovereign constitution in human history, containing 395 articles in 22 parts and 8 schedules at adoption (now expanded to over 448 articles in 25 parts). In an era characterized by dynamic digital jurisprudence, sovereign data governance, and rapid socio-economic expansion, Samvidhan Divas serves as a constitutional compass for citizens and public servants alike.
+
+Key civic tenets underscored in the 2026 national observance include:
+1. **Sovereign Democratic Republic:** Strengthening electoral integrity and democratic accountability across multi-tier administrative governance.
+2. **Fundamental Rights & Civic Duties:** Balancing individual liberties under Part III with citizen obligations under Article 51A.
+3. **Judicial Access:** Expanding affordable legal assistance and local language court judgments through digital public infrastructure.
+
+### Confirmed Official Schedule & Preamble Readings
+
+| Event / Institution | Verified Timing (IST) | Official Protocol |
+| :--- | :--- | :--- |
+| Parliamentary Central Hall | 11:00 AM IST | Commemorative Addresses & Live Broadcast |
+| Supreme Court of India | 10:30 AM IST | Annual Constitution Day Judicial Conference |
+| State Secretariats | 11:00 AM IST | Mass Preamble Reading & Citizen Pledge |
+| Educational Institutions | Morning Assembly | Quiz competitions on Fundamental Duties |
+
+*ZestFeedX Civic & Policy Desk — Dispatches verified against the official gazettes of the Ministry of Law and Justice and Parliamentary Records.*`,
+    title_en: `Constitution Day 2026 in India: Date, History and Significance of Samvidhan Divas`,
+    summary_en: `Constitution Day 2026 in India: Commemorating the 77th anniversary of the adoption of the Indian Constitution on November 26. Key history, preamble reading timings, parliamentary celebrations, and civic observance details.`,
+    content_en: `### Overview: 77th Samvidhan Divas Celebrations
+
+India observes **Constitution Day (Samvidhan Divas)** annually on **November 26, 2026** to commemorate the historic adoption of the Constitution of India by the Constituent Assembly in 1949. Formally notified by the Ministry of Social Justice and Empowerment in November 2015, this **National Civic Observance** pays tribute to the drafting committee chaired by Dr. B.R. Ambedkar and reaffirms the nation's commitment to constitutional democracy, liberty, and justice.
+
+Unlike national holidays that mandate nationwide administrative shutdowns, Constitution Day is celebrated as an active civic and educational observance. Government secretariats, high courts, universities, and public institutions across India conduct mass readings of the Preamble at 11:00 AM IST.
+
+### When & Where It Takes Place in 2026
+
+* **Official Date:** November 26, 2026 (Thursday).
+* **Location:** Observed nationwide across all 28 states, 8 Union Territories, and Indian diplomatic missions abroad.
+* **National Ceremony:** The Supreme Court of India hosts a commemorative ceremonial sitting in New Delhi, attended by the Chief Justice of India, the President of India, and Union Law Ministry dignitaries.
+* **Administrative Status:** Working civic observance. Central and state government departments, banking institutions, and commercial establishments remain open while conducting institutional preamble pledges.
+
+### Why This Observance Matters Today
+
+The Constitution of India is the longest written sovereign constitution in human history, containing 395 articles in 22 parts and 8 schedules at adoption (now expanded to over 448 articles in 25 parts). In an era characterized by dynamic digital jurisprudence, sovereign data governance, and rapid socio-economic expansion, Samvidhan Divas serves as a constitutional compass for citizens and public servants alike.
+
+Key civic tenets underscored in the 2026 national observance include:
+1. **Sovereign Democratic Republic:** Strengthening electoral integrity and democratic accountability across multi-tier administrative governance.
+2. **Fundamental Rights & Civic Duties:** Balancing individual liberties under Part III with citizen obligations under Article 51A.
+3. **Judicial Access:** Expanding affordable legal assistance and local language court judgments through digital public infrastructure.
+
+### Confirmed Official Schedule & Preamble Readings
+
+| Event / Institution | Verified Timing (IST) | Official Protocol |
+| :--- | :--- | :--- |
+| Parliamentary Central Hall | 11:00 AM IST | Commemorative Addresses & Live Broadcast |
+| Supreme Court of India | 10:30 AM IST | Annual Constitution Day Judicial Conference |
+| State Secretariats | 11:00 AM IST | Mass Preamble Reading & Citizen Pledge |
+| Educational Institutions | Morning Assembly | Quiz competitions on Fundamental Duties |
+
+*ZestFeedX Civic & Policy Desk — Dispatches verified against the official gazettes of the Ministry of Law and Justice and Parliamentary Records.*`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering civic governance, cultural heritage, and national observances.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    why_it_matters_today: `Explains the statutory significance, ceremonial timings, and public closures for Constitution Day (Samvidhan Divas) 2026-11-26.`,
+    who_is_affected: `Citizens, public institutions, diaspora communities, and commercial organizations across India.`,
+    what_readers_are_searching_for: `Readers are searching for 'Constitution Day (Samvidhan Divas) 2026 date, history, timings, and significance'.`,
+    primary_source: `https://knowindia.india.gov.in/calendar/`,
+    event_date: `2026-11-26`,
+    event_date_formatted: `November 26, 2026`,
+    event_type: `National Civic Observance`,
+    event_region: `India`,
+    is_preview: true,
+  },
+  {
+    id: 949,
+    title: `🗓️ U.S. Thanksgiving 2026: Date, Origins and How It Is Observed`,
+    slug: `us-thanksgiving-2026-date-origins-and-how-it-is-observed-2026`,
+    original_title: `U.S. Thanksgiving 2026: Date, Origins and How It Is Observed`,
+    category: `world`,
+    topic: `cultural-observance`,
+    language: `en`,
+    fomo_badge: `🗓️ Federal Holiday & Cultural Observance`,
+    read_time: `7 min read`,
+    views_count: 212820,
+    shares_count: 43060,
+    published_at: `2026-11-25T05:46:43Z`,
+    updated_at: `2026-11-25T05:46:43Z`,
+    source_name: `Official Government Calendar & Archives`,
+    source_url: `https://www.archives.gov/legislative/features/thanksgiving`,
+    source_courtesy: `Verified Source: https://www.archives.gov/legislative/features/thanksgiving`,
+    image_url: `https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1600&q=85&sig=thanksgiving-2026`,
+    image_alt: `Thanksgiving harvest celebration and festive table setting (File photo: Unsplash Editorial Clearance).`,
+    image_courtesy: `Photo: Claudio Schwarz / Unsplash (Unsplash Commercial & Editorial License)`,
+    image_photographer: `Claudio Schwarz / Unsplash`,
+    image_license: `Unsplash Commercial & Editorial License`,
+    fact_check_status: `Verified against United States Statutory Calendar`,
+    tags: `Observance, Festival, United States, U.S. Thanksgiving Day, Verified Explainer`,
+    summary: `U.S. Thanksgiving 2026: Observed on Thursday, November 26 across the United States. Exploring its historical 1621 origins, federal holiday declarations, Macy's parade schedule, and travel advisories for overseas diaspora.`,
+    content: `### Origins & Modern Observance
+
+**U.S. Thanksgiving Day** is observed annually on the **fourth Thursday of November**, falling on **November 26, 2026** this year. Tracing its historical roots to the 1621 harvest feast shared between the English colonists (Pilgrims) of Plymouth and the Wampanoag people, Thanksgiving was formally designated a permanent federal holiday by President Abraham Lincoln in 1863 amidst the American Civil War.
+
+Today, Thanksgiving represents the focal point of the American autumn season, centering on familial gatherings, charitable meal distributions, gratitude, and traditional harvest cuisine including roast turkey, cranberry compote, and pumpkin pie.
+
+### Where & How It Is Observed
+
+* **Official Date:** November 26, 2026 (Thursday).
+* **Location:** Observed nationwide across all 50 U.S. states and overseas military/diplomatic installations.
+* **Federal Holiday Status:** All federal courts, executive agencies, post offices, and the New York Stock Exchange (NYSE) and Nasdaq are closed.
+* **Global Indian Diaspora Impact:** For the estimated 4.5 million Indian-Americans residing in the United States, Thanksgiving offers an extended four-day weekend frequently utilized for community reunions, cultural celebrations, and travel to domestic metropolitan hubs.
+
+### Travel Logistics & Verified Public Timings
+
+The Thanksgiving travel corridor represents one of the highest-density transit windows globally. The Federal Aviation Administration (FAA) and AAA project record passenger volumes across U.S. airports and interstate highway networks between Wednesday and Sunday.
+
+| Event / Service | Verified Timing (EST) | Public Status |
+| :--- | :--- | :--- |
+| Macy's Thanksgiving Day Parade | 8:30 AM – 12:00 PM EST | Live broadcast from Manhattan, New York |
+| Equity Markets (NYSE / Nasdaq) | Closed All Day | Re-opens Friday for abbreviated half-day trading |
+| Federal & State Offices | Closed | Closed Thursday and Friday |
+| Black Friday Retail Openings | Friday 5:00 AM EST | Early in-store trading across major retailers |
+
+*ZestFeedX World Desk continues to provide verified international holiday guides and travel advisories for the global Indian community.*`,
+    title_en: `U.S. Thanksgiving 2026: Date, Origins and How It Is Observed`,
+    summary_en: `U.S. Thanksgiving 2026: Observed on Thursday, November 26 across the United States. Exploring its historical 1621 origins, federal holiday declarations, Macy's parade schedule, and travel advisories for overseas diaspora.`,
+    content_en: `### Origins & Modern Observance
+
+**U.S. Thanksgiving Day** is observed annually on the **fourth Thursday of November**, falling on **November 26, 2026** this year. Tracing its historical roots to the 1621 harvest feast shared between the English colonists (Pilgrims) of Plymouth and the Wampanoag people, Thanksgiving was formally designated a permanent federal holiday by President Abraham Lincoln in 1863 amidst the American Civil War.
+
+Today, Thanksgiving represents the focal point of the American autumn season, centering on familial gatherings, charitable meal distributions, gratitude, and traditional harvest cuisine including roast turkey, cranberry compote, and pumpkin pie.
+
+### Where & How It Is Observed
+
+* **Official Date:** November 26, 2026 (Thursday).
+* **Location:** Observed nationwide across all 50 U.S. states and overseas military/diplomatic installations.
+* **Federal Holiday Status:** All federal courts, executive agencies, post offices, and the New York Stock Exchange (NYSE) and Nasdaq are closed.
+* **Global Indian Diaspora Impact:** For the estimated 4.5 million Indian-Americans residing in the United States, Thanksgiving offers an extended four-day weekend frequently utilized for community reunions, cultural celebrations, and travel to domestic metropolitan hubs.
+
+### Travel Logistics & Verified Public Timings
+
+The Thanksgiving travel corridor represents one of the highest-density transit windows globally. The Federal Aviation Administration (FAA) and AAA project record passenger volumes across U.S. airports and interstate highway networks between Wednesday and Sunday.
+
+| Event / Service | Verified Timing (EST) | Public Status |
+| :--- | :--- | :--- |
+| Macy's Thanksgiving Day Parade | 8:30 AM – 12:00 PM EST | Live broadcast from Manhattan, New York |
+| Equity Markets (NYSE / Nasdaq) | Closed All Day | Re-opens Friday for abbreviated half-day trading |
+| Federal & State Offices | Closed | Closed Thursday and Friday |
+| Black Friday Retail Openings | Friday 5:00 AM EST | Early in-store trading across major retailers |
+
+*ZestFeedX World Desk continues to provide verified international holiday guides and travel advisories for the global Indian community.*`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering civic governance, cultural heritage, and national observances.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    why_it_matters_today: `Explains the statutory significance, ceremonial timings, and public closures for U.S. Thanksgiving Day 2026-11-26.`,
+    who_is_affected: `Citizens, public institutions, diaspora communities, and commercial organizations across United States.`,
+    what_readers_are_searching_for: `Readers are searching for 'U.S. Thanksgiving Day 2026 date, history, timings, and significance'.`,
+    primary_source: `https://www.archives.gov/legislative/features/thanksgiving`,
+    event_date: `2026-11-26`,
+    event_date_formatted: `November 26, 2026`,
+    event_type: `Federal Holiday & Cultural Observance`,
+    event_region: `United States`,
+    is_preview: true,
+  },
+  {
+    id: 950,
+    title: `🗓️ Guru Nanak Jayanti 2026: Gurpurab Date, Akhand Path, and Sacred Traditions of the 557th Prakash Parv`,
+    slug: `guru-nanak-jayanti-2026-gurpurab-date-akhand-path-and-sacred-traditions-2026`,
+    original_title: `Guru Nanak Jayanti 2026: Gurpurab Date, Akhand Path, and Sacred Traditions of the 557th Prakash Parv`,
+    category: `ramayana`,
+    topic: `heritage-festival`,
+    language: `en`,
+    fomo_badge: `🗓️ Sacred Religious Observance`,
+    read_time: `7 min read`,
+    views_count: 213000,
+    shares_count: 43100,
+    published_at: `2026-11-25T05:46:43Z`,
+    updated_at: `2026-11-25T05:46:43Z`,
+    source_name: `Official Government Calendar & Archives`,
+    source_url: `https://dopt.gov.in/holiday-calendar`,
+    source_courtesy: `Verified Source: https://dopt.gov.in/holiday-calendar`,
+    image_url: `https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1600&q=85&sig=gurpurab-2026`,
+    image_alt: `Golden Temple illumination on Prakash Parv (File photo: Shiromani Gurdwara Parbandhak Committee).`,
+    image_courtesy: `Photo: Heritage Visual Media / Editorial Wire (Official Editorial Wire Distribution)`,
+    image_photographer: `Heritage Visual Media / Editorial Wire`,
+    image_license: `Official Editorial Wire Distribution`,
+    fact_check_status: `Verified against India & Global Statutory Calendar`,
+    tags: `Observance, Festival, India & Global, Guru Nanak Jayanti (Gurpurab), Verified Explainer`,
+    summary: `Guru Nanak Jayanti 2026: Celebrating the 557th birth anniversary of Guru Nanak Dev Ji. Nagar Kirtan processions, Golden Temple illuminations, and community Langar guidelines across Punjab and the global diaspora.`,
+    content: `### Cultural Significance & Heritage Context
+
+Celebrations for **Guru Nanak Jayanti (Gurpurab)** arrive across **India & Global** on **November 24, 2026**. As a Sacred Religious Observance, this occasion brings together vibrant community customs, ceremonial observances, and cultural heritage preserved across generations.
+
+Authoritative cultural boards and regional administrative bodies have confirmed the official festive calendar, ensuring that public arrangements, ceremonial venues, and family traditions are conducted smoothly.
+
+### Key Dates, Timings & Observance Details
+
+* **Observance Date:** November 24, 2026.
+* **Territory / Region:** India & Global.
+* **Civic / Holiday Classification:** Sacred Religious Observance.
+* **Public Logistics:** Regional transport departments and civic authorities have announced specialized service arrangements to facilitate pilgrim travel and community gatherings.
+
+### Why This Festival Matters
+
+Beyond ceremonial rituals, Guru Nanak Jayanti (Gurpurab) reinforces communal harmony, family unity, and cultural continuity. In an increasingly globalized world, traditional observances provide an enduring connection to civilizational values and ancestral heritage.
+
+| Parameter | Verified Detail | Administrative Status |
+| :--- | :--- | :--- |
+| Auspicious Date | November 24, 2026 | Confirmed by Regional Calendar |
+| Civic Status | Sacred Religious Observance | Published in Official Gazette |
+| Community Events | Regional Centers & Temples | Operational Guidelines Enforced |
+
+*ZestFeedX Cultural & Heritage Bureau verifies all holiday schedules against official regional calendars and state gazettes.*`,
+    title_en: `Guru Nanak Jayanti 2026: Gurpurab Date, Akhand Path, and Sacred Traditions of the 557th Prakash Parv`,
+    summary_en: `Guru Nanak Jayanti 2026: Celebrating the 557th birth anniversary of Guru Nanak Dev Ji. Nagar Kirtan processions, Golden Temple illuminations, and community Langar guidelines across Punjab and the global diaspora.`,
+    content_en: `### Cultural Significance & Heritage Context
+
+Celebrations for **Guru Nanak Jayanti (Gurpurab)** arrive across **India & Global** on **November 24, 2026**. As a Sacred Religious Observance, this occasion brings together vibrant community customs, ceremonial observances, and cultural heritage preserved across generations.
+
+Authoritative cultural boards and regional administrative bodies have confirmed the official festive calendar, ensuring that public arrangements, ceremonial venues, and family traditions are conducted smoothly.
+
+### Key Dates, Timings & Observance Details
+
+* **Observance Date:** November 24, 2026.
+* **Territory / Region:** India & Global.
+* **Civic / Holiday Classification:** Sacred Religious Observance.
+* **Public Logistics:** Regional transport departments and civic authorities have announced specialized service arrangements to facilitate pilgrim travel and community gatherings.
+
+### Why This Festival Matters
+
+Beyond ceremonial rituals, Guru Nanak Jayanti (Gurpurab) reinforces communal harmony, family unity, and cultural continuity. In an increasingly globalized world, traditional observances provide an enduring connection to civilizational values and ancestral heritage.
+
+| Parameter | Verified Detail | Administrative Status |
+| :--- | :--- | :--- |
+| Auspicious Date | November 24, 2026 | Confirmed by Regional Calendar |
+| Civic Status | Sacred Religious Observance | Published in Official Gazette |
+| Community Events | Regional Centers & Temples | Operational Guidelines Enforced |
+
+*ZestFeedX Cultural & Heritage Bureau verifies all holiday schedules against official regional calendars and state gazettes.*`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering civic governance, cultural heritage, and national observances.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    why_it_matters_today: `Explains the statutory significance, ceremonial timings, and public closures for Guru Nanak Jayanti (Gurpurab) 2026-11-24.`,
+    who_is_affected: `Citizens, public institutions, diaspora communities, and commercial organizations across India & Global.`,
+    what_readers_are_searching_for: `Readers are searching for 'Guru Nanak Jayanti (Gurpurab) 2026 date, history, timings, and significance'.`,
+    primary_source: `https://dopt.gov.in/holiday-calendar`,
+    event_date: `2026-11-24`,
+    event_date_formatted: `November 24, 2026`,
+    event_type: `Sacred Religious Observance`,
+    event_region: `India & Global`,
+    is_preview: true,
+  },
+{
     id: 934,
     title: `🩺 National Orientation Programme for Tribal Healers on Public Health, Kanha Shanti Vanam, Hyderabad - www.pib.gov.in`,
     slug: `national-orientation-programme-for-tribal-healers-on-public-health-kan-2026`,

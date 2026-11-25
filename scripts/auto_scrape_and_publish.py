@@ -629,13 +629,29 @@ def main():
             queue["approved"] = remaining_approved
             save_queue(queue)
 
-            # Step 4: Regenerate sitemaps & feeds
-            print("\n--- PHASE 4: SITEMAP & DISCOVERY CACHE REFRESH ---")
+            # Step 4: Advance Festival Previews & Fast Cricket Monitoring
+            print("\n--- PHASE 4: FESTIVAL CALENDAR & CRICKET MONITOR ---")
+            try:
+                fest_script = os.path.join(SCRIPTS_DIR, "festival_publisher.py")
+                if os.path.exists(fest_script):
+                    subprocess.run([sys.executable, fest_script], check=False)
+            except Exception as e:
+                print(f"[Festival Publisher] Notice: {e}")
+
+            try:
+                cricket_script = os.path.join(SCRIPTS_DIR, "cricket_monitor.py")
+                if os.path.exists(cricket_script):
+                    subprocess.run([sys.executable, cricket_script], check=False)
+            except Exception as e:
+                print(f"[Cricket Monitor] Notice: {e}")
+
+            # Step 5: Regenerate sitemaps & feeds
+            print("\n--- PHASE 5: SITEMAP & DISCOVERY CACHE REFRESH ---")
             gen_script = os.path.join(SCRIPTS_DIR, "generate_news_sitemap.js")
             if os.path.exists(gen_script):
                 subprocess.run(["node", gen_script], check=False)
             
-            # Step 5: Instant Engine Submission (IndexNow & Google)
+            # Step 6: Instant Engine Submission (IndexNow & Google)
             idx_script = os.path.join(SCRIPTS_DIR, "auto_submit_search_console.js")
             if os.path.exists(idx_script):
                 subprocess.run(["node", idx_script], check=False)

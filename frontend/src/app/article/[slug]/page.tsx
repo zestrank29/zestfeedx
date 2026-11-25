@@ -268,6 +268,12 @@ export default async function ArticlePage({ params }: Props) {
                   <Calendar className="w-3.5 h-3.5 text-[#FF5A1F]" />
                   <span>Published: {formatISTDate(article.published_at, true)}</span>
                 </div>
+                {article.event_date_formatted && (
+                  <div className="flex items-center gap-1 font-mono font-bold text-[#FF5A1F] mt-0.5">
+                    <Calendar className="w-3.5 h-3.5" />
+                    <span>Event Date: {article.event_date_formatted} ({article.event_region || "India"})</span>
+                  </div>
+                )}
                 {hasSubstantiveUpdate && (
                   <div className="flex items-center gap-1 font-mono font-medium text-emerald-600 dark:text-emerald-400 mt-0.5">
                     <CheckCircle className="w-3.5 h-3.5" />
@@ -299,6 +305,47 @@ export default async function ArticlePage({ params }: Props) {
                   <p className="text-emerald-700 dark:text-emerald-400/90 mt-0.5 leading-relaxed">
                     Credentials: {article.medical_reviewer_credentials || "MBBS, MD (Internal Medicine), Clinical Consultant"}. This health dispatch has undergone independent medical fact-checking to verify pharmacological, dosage, and diagnostic claims against ICMR and WHO clinical benchmarks.
                   </p>
+                </div>
+              </div>
+            )}
+
+            {/* Advance Festival / Observance Preview Banner */}
+            {article.event_type && (
+              <div className="mt-4 p-4 rounded-xl bg-gradient-to-r from-amber-500/10 to-orange-500/10 border border-amber-500/30 flex items-start gap-3">
+                <div className="text-lg">🗓️</div>
+                <div className="text-xs">
+                  <div className="flex items-center gap-2">
+                    <span className="font-bold uppercase tracking-wider text-amber-900 dark:text-amber-300">
+                      {article.event_type}
+                    </span>
+                    <span className="text-[10px] font-bold px-2 py-0.5 rounded-full bg-amber-200 dark:bg-amber-900 text-amber-900 dark:text-amber-100">
+                      Advance Verified Preview
+                    </span>
+                  </div>
+                  <p className="text-[#525866] dark:text-[#94A3B8] mt-1 leading-relaxed">
+                    <strong>Official Event Date:</strong> {article.event_date_formatted || article.event_date} ({article.event_region || "National"}). Published in advance for citizen planning, public ceremony timings, and administrative schedules.
+                  </p>
+                </div>
+              </div>
+            )}
+
+            {/* Live Cricket Match Centre Telemetry Banner */}
+            {article.is_live_cricket && article.live_score && (
+              <div className="mt-4 p-4 rounded-xl bg-gradient-to-r from-red-600/15 via-[#0B1020]/10 to-amber-600/15 border border-red-500/40 shadow-xs">
+                <div className="flex items-center justify-between text-xs mb-1">
+                  <span className="flex items-center gap-1.5 font-bold text-[#D7263D] uppercase tracking-wider">
+                    <span className="w-2 h-2 rounded-full bg-[#D7263D] animate-ping" />
+                    Live Cricket Match Centre
+                  </span>
+                  <span className="font-mono text-[11px] text-[#525866] dark:text-[#94A3B8]">
+                    Score verified: {article.score_verified_at || formatISTDate(article.updated_at || article.published_at, true)}
+                  </span>
+                </div>
+                <div className="text-2xl font-mono font-bold text-[#0B1020] dark:text-white tracking-tight">
+                  {article.live_score}
+                </div>
+                <div className="text-xs text-[#525866] dark:text-[#94A3B8] mt-1 font-medium">
+                  {article.match_status}
                 </div>
               </div>
             )}
