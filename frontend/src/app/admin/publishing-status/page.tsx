@@ -18,6 +18,8 @@ import {
 } from "lucide-react";
 import fs from "fs";
 import path from "path";
+import defaultCalendar from "@/data/editorial_calendar.json";
+import defaultCricketTelemetry from "@/data/cricket_telemetry.json";
 
 export const dynamic = "force-dynamic";
 
@@ -102,14 +104,14 @@ function getPublishingData(): {
     } catch {}
   }
 
-  let calendar: CalendarEntry[] = [];
+  let calendar: CalendarEntry[] = (defaultCalendar as any[]) || [];
   if (fs.existsSync(calendarFile)) {
     try {
       calendar = JSON.parse(fs.readFileSync(calendarFile, "utf-8"));
     } catch {}
   }
 
-  let cricket: CricketTelemetry = {
+  let cricket: CricketTelemetry = (defaultCricketTelemetry as any) || {
     monitoring_intervals: {
       live_cricket: "2–5 minutes",
       other_cricket: "5–15 minutes",

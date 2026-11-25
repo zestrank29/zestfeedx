@@ -173,7 +173,7 @@ export default function GlobalHeader() {
       setIsDarkMode(isDark);
       try {
         localStorage.setItem("zest_theme", isDark ? "dark" : "light");
-      } catch {}
+      } catch { }
     }
   };
 
@@ -218,21 +218,19 @@ export default function GlobalHeader() {
             <div className="flex items-center bg-[#ECE7DE] dark:bg-[#0F172A] rounded p-0.5 border border-[#DDD7CD] dark:border-[#1E293B]">
               <button
                 onClick={() => setCurrentEdition("india")}
-                className={`px-2 py-0.5 rounded text-[10px] font-semibold transition-all ${
-                  currentEdition === "india"
+                className={`px-2 py-0.5 rounded text-[10px] font-semibold transition-all ${currentEdition === "india"
                     ? "bg-[#FFFFFF] dark:bg-[#1E293B] text-[#0B1020] dark:text-[#F1F5F9] shadow-xs"
                     : "text-[#525866] dark:text-[#94A3B8] hover:text-[#0B1020] dark:hover:text-[#FFFFFF]"
-                }`}
+                  }`}
               >
                 {currentLanguage === "hi" ? "भारत" : "India"}
               </button>
               <button
                 onClick={() => setCurrentEdition("world")}
-                className={`px-2 py-0.5 rounded text-[10px] font-semibold transition-all ${
-                  currentEdition === "world"
+                className={`px-2 py-0.5 rounded text-[10px] font-semibold transition-all ${currentEdition === "world"
                     ? "bg-[#FFFFFF] dark:bg-[#1E293B] text-[#0B1020] dark:text-[#F1F5F9] shadow-xs"
                     : "text-[#525866] dark:text-[#94A3B8] hover:text-[#0B1020] dark:hover:text-[#FFFFFF]"
-                }`}
+                  }`}
               >
                 {currentLanguage === "hi" ? "प्रवासी" : "Diaspora"}
               </button>
@@ -243,22 +241,20 @@ export default function GlobalHeader() {
               <Globe className="w-3 h-3 text-[#FF5A1F]" />
               <button
                 onClick={() => handleLanguageSwitch("en")}
-                className={`px-1.5 py-0.5 rounded transition ${
-                  currentLanguage === "en"
+                className={`px-1.5 py-0.5 rounded transition ${currentLanguage === "en"
                     ? "font-bold text-[#FF5A1F] underline underline-offset-2"
                     : "hover:text-[#0B1020] dark:hover:text-white"
-                }`}
+                  }`}
               >
                 EN
               </button>
               <span className="text-[#DDD7CD] dark:text-[#334155]">/</span>
               <button
                 onClick={() => handleLanguageSwitch("hi")}
-                className={`px-1.5 py-0.5 rounded transition font-hindi ${
-                  currentLanguage === "hi"
+                className={`px-1.5 py-0.5 rounded transition font-hindi ${currentLanguage === "hi"
                     ? "font-bold text-[#FF5A1F] underline underline-offset-2"
                     : "hover:text-[#0B1020] dark:hover:text-white"
-                }`}
+                  }`}
               >
                 हिन्दी
               </button>
@@ -304,9 +300,8 @@ export default function GlobalHeader() {
                   <span className="font-semibold text-[#0B1020] dark:text-[#F1F5F9]">{tick.symbol}</span>
                   <span className="font-mono font-medium">{tick.value}</span>
                   <span
-                    className={`font-mono text-[9.5px] ${
-                      tick.is_positive ? "text-[#10B981]" : "text-[#D7263D]"
-                    }`}
+                    className={`font-mono text-[9.5px] ${tick.is_positive ? "text-[#10B981]" : "text-[#D7263D]"
+                      }`}
                   >
                     {tick.change}
                   </span>
@@ -454,21 +449,19 @@ export default function GlobalHeader() {
                   <Link
                     href={cat.href}
                     data-active={isSelected ? "true" : "false"}
-                    className={`px-3 py-1.5 rounded-md transition-all text-[11px] sm:text-xs font-semibold tracking-tight inline-flex items-center gap-1.5 whitespace-nowrap focus-visible:ring-2 focus-visible:ring-[#FF5A1F] focus-visible:outline-none ${
-                      isSelected
+                    className={`px-3 py-1.5 rounded-md transition-all text-[11px] sm:text-xs font-semibold tracking-tight inline-flex items-center gap-1.5 whitespace-nowrap focus-visible:ring-2 focus-visible:ring-[#FF5A1F] focus-visible:outline-none ${isSelected
                         ? "text-[#FF5A1F] bg-[#FF5A1F]/10 dark:bg-[#FF5A1F]/15 font-bold"
                         : "text-[#525866] dark:text-[#94A3B8] hover:text-[#0B1020] dark:hover:text-[#FFFFFF] hover:bg-[#ECE7DE]/50 dark:hover:bg-[#1E293B]/50"
-                    }`}
+                      }`}
                   >
                     <span>{cat.icon}</span>
                     <span>{title}</span>
                     {cat.badge && (
                       <span
-                        className={`text-[9px] font-bold px-1.5 py-0.2 rounded uppercase tracking-wider ${
-                          cat.badge === "Lead"
+                        className={`text-[9px] font-bold px-1.5 py-0.2 rounded uppercase tracking-wider ${cat.badge === "Lead"
                             ? "bg-[#0E7C86] text-white"
                             : "bg-[#D7263D] text-white animate-pulse"
-                        }`}
+                          }`}
                       >
                         {cat.badge}
                       </span>
@@ -561,11 +554,10 @@ export default function GlobalHeader() {
                       key={cat.id}
                       href={cat.href}
                       onClick={() => setMobileDrawerOpen(false)}
-                      className={`flex items-center justify-between p-3 rounded-xl transition-all text-sm font-semibold min-h-[48px] focus-visible:ring-2 focus-visible:ring-[#FF5A1F] focus-visible:outline-none ${
-                        isSelected
+                      className={`flex items-center justify-between p-3 rounded-xl transition-all text-sm font-semibold min-h-[48px] focus-visible:ring-2 focus-visible:ring-[#FF5A1F] focus-visible:outline-none ${isSelected
                           ? "bg-[#FF5A1F] text-white shadow-xs"
                           : "bg-white dark:bg-[#0F172A] border border-[#E8E4DC] dark:border-[#1E293B] text-[#0B1020] dark:text-[#F1F5F9] hover:border-[#FF5A1F]"
-                      }`}
+                        }`}
                     >
                       <div className="flex items-center gap-3">
                         <span className="text-lg">{cat.icon}</span>
@@ -582,11 +574,10 @@ export default function GlobalHeader() {
                       <div className="flex items-center gap-1.5">
                         {cat.badge && (
                           <span
-                            className={`text-[10px] font-bold px-2 py-0.5 rounded-full uppercase tracking-wider ${
-                              cat.badge === "Lead"
+                            className={`text-[10px] font-bold px-2 py-0.5 rounded-full uppercase tracking-wider ${cat.badge === "Lead"
                                 ? "bg-[#0E7C86] text-white"
                                 : "bg-[#D7263D] text-white"
-                            }`}
+                              }`}
                           >
                             {cat.badge}
                           </span>

@@ -379,6 +379,11 @@ export default async function ArticlePage({ params }: Props) {
             <figcaption className="text-xs text-[#525866] dark:text-[#94A3B8] mt-2 flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-[#E8E4DC] dark:border-[#1E293B] pb-2">
               <span className="leading-snug">{article.hero_image_caption}</span>
               <div className="flex items-center gap-2 shrink-0 flex-wrap">
+                {article.is_preview && (
+                  <span className="text-[10px] font-bold px-1.5 py-0.5 rounded bg-amber-500/10 text-amber-700 dark:text-amber-400 border border-amber-500/20">
+                    File Photo
+                  </span>
+                )}
                 <span className="font-mono text-[10px] text-[#94A3B8] dark:text-[#64748B]">
                   {article.image_photographer
                     ? `Photo: ${article.image_photographer} (${article.image_license || "Editorial Wire"})`

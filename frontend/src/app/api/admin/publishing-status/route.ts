@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
+import defaultCalendar from "@/data/editorial_calendar.json";
+import defaultCricketTelemetry from "@/data/cricket_telemetry.json";
 
 export const dynamic = "force-dynamic";
 
@@ -42,14 +44,14 @@ export async function GET(req: NextRequest) {
       }
     }
 
-    let calendarData = [];
+    let calendarData = (defaultCalendar as any[]) || [];
     if (fs.existsSync(CALENDAR_FILE)) {
       try {
         calendarData = JSON.parse(fs.readFileSync(CALENDAR_FILE, "utf-8"));
       } catch {}
     }
 
-    let cricketData = {
+    let cricketData = (defaultCricketTelemetry as any) || {
       monitoring_intervals: {
         live_cricket: "2–5 minutes",
         other_cricket: "5–15 minutes",
