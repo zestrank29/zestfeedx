@@ -24,11 +24,11 @@ import {
 
 export const CATEGORIES = [
   { id: "all", label: "Front Page", label_hi: "मुख्य पृष्ठ", href: "/" },
+  { id: "health", label: "Health & Medicine", label_hi: "स्वास्थ्य एवं चिकित्सा", href: "/category/health/" },
   { id: "markets", label: "Markets & Money", label_hi: "बाजार एवं वित्त", href: "/category/markets/" },
   { id: "tech", label: "Tech & AI", label_hi: "तकनीक एवं एआई", href: "/category/tech/" },
   { id: "india", label: "India Policy", label_hi: "भारत एवं नीतियां", href: "/category/india/" },
   { id: "world", label: "World Affairs", label_hi: "वैश्विक परिदृश्य", href: "/category/world/" },
-  { id: "health", label: "Health & Climate", label_hi: "स्वास्थ्य एवं पर्यावरण", href: "/category/health/" },
   { id: "sports", label: "Sports", label_hi: "खेल जगत", href: "/category/sports/" },
   { id: "entertainment", label: "Culture & Arts", label_hi: "कला एवं संस्कृति", href: "/category/entertainment/" },
   { id: "ramayana", label: "Heritage", label_hi: "विरासत एवं संस्कृति", href: "/category/ramayana/" },

@@ -33,6 +33,17 @@ export interface OriginalArticle {
   is_trending?: boolean;
   tags: string[];
   language?: "en" | "hi";
+  topic?: string;
+  medical_reviewed?: boolean;
+  medical_reviewer_name?: string;
+  medical_reviewer_credentials?: string;
+  updated_at?: string;
+  why_it_matters_today?: string;
+  who_is_affected?: string;
+  what_readers_are_searching_for?: string;
+  primary_source?: string;
+  image_license?: string;
+  image_photographer?: string;
 }
 
 export interface CuratedBrief {
@@ -45,6 +56,17 @@ export interface CuratedBrief {
   published_at: string;
   category: "markets" | "tech" | "india" | "world" | "sports" | "entertainment" | "health";
   language?: "en" | "hi";
+  topic?: string;
+  medical_reviewed?: boolean;
+  medical_reviewer_name?: string;
+  medical_reviewer_credentials?: string;
+  updated_at?: string;
+  why_it_matters_today?: string;
+  who_is_affected?: string;
+  what_readers_are_searching_for?: string;
+  primary_source?: string;
+  image_license?: string;
+  image_photographer?: string;
 }
 
 export interface MarketTicker {

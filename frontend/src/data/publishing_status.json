@@ -1,0 +1,13 @@
+{
+  "last_run_at": "2026-11-25T05:16:21Z",
+  "last_run_ist": "2026-11-25 10:46:21 IST",
+  "next_scheduled_run_ist": "2026-11-25 11:25:00 IST (Hourly slot) & 2026-11-26 10:00:00 IST (Owner 10:00 AM slot)",
+  "timezone": "Asia/Kolkata (IST, UTC+05:30)",
+  "configured_daily_time_ist": "10:00 AM IST",
+  "status": "healthy",
+  "approved_queue_size": 0,
+  "published_count": 994,
+  "failure_count": 0,
+  "recent_errors": [],
+  "last_run_summary": "Published 14 new articles. 0 items currently in approved queue."
+}

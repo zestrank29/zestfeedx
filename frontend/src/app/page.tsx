@@ -8,6 +8,7 @@ import BreakingStrip from "@/components/BreakingStrip";
 import HeroGrid from "@/components/HeroGrid";
 import AdSlot from "@/components/AdSlot";
 import MorningBriefCard from "@/components/MorningBriefCard";
+import HealthLeadSection from "@/components/HealthLeadSection";
 import VerticalSection from "@/components/VerticalSection";
 import ExplainerCarousel from "@/components/ExplainerCarousel";
 import NewsletterBanner from "@/components/NewsletterBanner";
@@ -330,6 +331,12 @@ export function HomePageContent({
             {/* 6. Morning Brief card (original, editor-approved) */}
             <MorningBriefCard currentLanguage={currentLanguage} />
 
+            {/* 6.5 Dedicated Health & Clinical Bureau Section (Priority Lead Category) */}
+            <HealthLeadSection
+              articles={allArticles}
+              currentLanguage={currentLanguage}
+            />
+
             {/* 24x7 Verified Continuous News Wire (Hourly Updated) */}
             <section className="py-10 bg-white dark:bg-[#0B1020] border-y border-[#E8E4DC] dark:border-[#1E293B]">
               <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -353,7 +360,7 @@ export function HomePageContent({
 
                   {/* Wire Category Filter Tabs */}
                   <div className="flex flex-wrap items-center gap-1.5 bg-[#FAF8F4] dark:bg-[#080C16] p-1.5 rounded-lg border border-[#E8E4DC] dark:border-[#1E293B]">
-                    {["all", "india", "markets", "tech", "world", "sports", "entertainment"].map((cat) => (
+                    {["all", "health", "india", "markets", "tech", "world", "sports", "entertainment"].map((cat) => (
                       <button
                         key={cat}
                         onClick={() => {

@@ -53,6 +53,17 @@ function seedToArticle(s: any): OriginalArticle {
     is_lead_story: false,
     is_secondary_story: false,
     tags: [s.category || "national"],
+    topic: s.topic,
+    medical_reviewed: s.medical_reviewed,
+    medical_reviewer_name: s.medical_reviewer_name,
+    medical_reviewer_credentials: s.medical_reviewer_credentials,
+    updated_at: s.updated_at,
+    why_it_matters_today: s.why_it_matters_today,
+    who_is_affected: s.who_is_affected,
+    what_readers_are_searching_for: s.what_readers_are_searching_for,
+    primary_source: s.primary_source,
+    image_license: s.image_license,
+    image_photographer: s.image_photographer,
   };
 }
 

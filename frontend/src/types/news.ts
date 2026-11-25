@@ -52,6 +52,18 @@ export interface Article {
   author_bio?: string;
   author_company?: string;
   author_url?: string;
+  // Clinical Review & Health Metadata
+  topic?: string;
+  medical_reviewed?: boolean;
+  medical_reviewer_name?: string;
+  medical_reviewer_credentials?: string;
+  updated_at?: string;
+  why_it_matters_today?: string;
+  who_is_affected?: string;
+  what_readers_are_searching_for?: string;
+  primary_source?: string;
+  image_license?: string;
+  image_photographer?: string;
 }
 
 export interface NewsResponse {

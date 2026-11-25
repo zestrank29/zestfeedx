@@ -140,7 +140,7 @@ export default async function CategoryPage({ params }: Props) {
   }));
 
   // Pull matching seed articles (freshest hourly dispatches)
-  const seeds: CategoryFeedArticle[] = SEED_ARTICLES.filter((a) => isMatch(a.category, catKey)).map((a) => {
+  const seeds: CategoryFeedArticle[] = SEED_ARTICLES.filter((a) => isMatch(a.category, catKey)).map((a: any) => {
     const isHi = a.language === "hi" || /[\u0900-\u097F]/.test(a.title || "");
     return {
       id: a.id,
@@ -148,6 +148,13 @@ export default async function CategoryPage({ params }: Props) {
       title: isHi ? (a.title_hi || a.title) : (a.title_en || a.title),
       summary: isHi ? (a.summary_hi || a.summary) : (a.summary_en || a.summary),
       category: a.category,
+      topic: a.topic || "",
+      medical_reviewed: a.medical_reviewed || false,
+      published_at: a.published_at,
+      why_it_matters_today: a.why_it_matters_today,
+      who_is_affected: a.who_is_affected,
+      image_photographer: a.image_photographer,
+      image_license: a.image_license,
       image_url: a.image_url,
       author: a.author_name || (isHi ? "वरिष्ठ डिजिटल संपादक" : "Pankhudi Sharma"),
       read_time: a.read_time,
