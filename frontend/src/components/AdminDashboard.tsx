@@ -509,8 +509,8 @@ export default function AdminDashboard({
                       </td>
                     </tr>
                   ) : (
-                    articles.map((art) => (
-                      <tr key={art.id} className="hover:bg-slate-50 dark:hover:bg-white/5">
+                    articles.map((art, idx) => (
+                      <tr key={`${art.id}-${art.slug}-${idx}`} className="hover:bg-slate-50 dark:hover:bg-white/5">
                         <td className="p-3 align-top">
                           <input
                             type="checkbox"
