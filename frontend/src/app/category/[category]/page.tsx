@@ -11,6 +11,7 @@ import ReaderCounter from "@/components/ReaderCounter";
 import { SEED_ARTICLES } from "@/data/seedArticles";
 import { ORIGINAL_ARTICLES } from "@/data/demoContent";
 import CategoryFeed, { CategoryFeedArticle } from "./CategoryFeed";
+import LiveCricketWidget from "@/components/LiveCricketWidget";
 
 const CATEGORIES = [
   "health",
@@ -235,6 +236,9 @@ export default async function CategoryPage({ params }: Props) {
               </p>
             </div>
           </div>
+
+          {/* Live Cricket Scoreboard Widget on Cricket & Sports Sections */}
+          {(catKey === "cricket" || catKey === "sports") && <LiveCricketWidget />}
 
           {/* Interactive Category Feed with Language Separation */}
           <React.Suspense fallback={<div className="py-10 text-center text-sm text-[#94A3B8]">Loading dispatches...</div>}>

@@ -28,6 +28,7 @@ import ReadingProgressBar from "./ReadingProgressBar";
 import ArticleShareBar from "./ArticleShareBar";
 import ReaderCounter from "@/components/ReaderCounter";
 import AiSummarizer from "@/components/AiSummarizer";
+import LiveCricketWidget from "@/components/LiveCricketWidget";
 
 function formatSeoTitle(rawTitle: string): string {
   const clean = rawTitle.replace(/^[🚨🏹🎬🌐🏏🩺⚡📰\s]+/, "").trim();
@@ -296,6 +297,11 @@ export default async function ArticlePage({ params }: Props) {
                 </div>
               </div>
             </div>
+
+            {/* Live Cricket Scoreboard (Shown on all Cricket & Live Match articles) */}
+            {(article.category?.toLowerCase() === "cricket" || article.is_live_cricket) && (
+              <LiveCricketWidget compact />
+            )}
 
             {/* Medical / Clinical Review Verified Banner (Only when review happened) */}
             {article.medical_reviewed && (
