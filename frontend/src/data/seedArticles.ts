@@ -12,7 +12,723 @@ export const SEED_ARTICLES: Article[] = [
   
 
   
+  
+  
   {
+    id: 97975,
+    title: `Bancroft leads WA's late charge in thrilling Tasmania draw`,
+    slug: `bancroft-leads-was-late-charge-in-thrilling-tasmania-draw-2026`,
+    original_title: `Bancroft leads WA's late charge in thrilling Tasmania draw`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T13:00:38Z`,
+    updated_at: `2026-11-26T13:00:38Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564286.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Bancroft leads WA's late charge in thrilling Tasmania draw`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `Chasing a fourth innings target of 142 runs off 13 overs, WA fell agonisingly short at 137 for 6 with Bancroft finishing 57 not out from 36 balls`,
+    content: `Chasing a fourth innings target of 142 runs off 13 overs, WA fell agonisingly short at 137 for 6 with Bancroft finishing 57 not out from 36 balls
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564286.html?ex_cid=OTC-RSS)`,
+    title_en: `Bancroft leads WA's late charge in thrilling Tasmania draw`,
+    summary_en: `Chasing a fourth innings target of 142 runs off 13 overs, WA fell agonisingly short at 137 for 6 with Bancroft finishing 57 not out from 36 balls`,
+    content_en: `Chasing a fourth innings target of 142 runs off 13 overs, WA fell agonisingly short at 137 for 6 with Bancroft finishing 57 not out from 36 balls
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564286.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-97975`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-26 18:30:38 IST`,
+    detected_at: `2026-11-26T13:00:30Z`,
+    verified_at: `2026-11-26T13:00:38Z`,
+    approved_at: `2026-11-26T13:00:38Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Bancroft leads WA's late charge in thrilling Tasmania draw.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 97976,
+    title: `Hampshire re-sign Amanda-Jade Wellington for 2027 season`,
+    slug: `hampshire-re-sign-amanda-jade-wellington-for-2027-season-2026`,
+    original_title: `Hampshire re-sign Amanda-Jade Wellington for 2027 season`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T13:00:38Z`,
+    updated_at: `2026-11-26T13:00:38Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564307.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1517649763962-0c623266ddc0?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Hampshire re-sign Amanda-Jade Wellington for 2027 season`,
+    image_courtesy: `Photo: Stadium Photography Wire (Unsplash License)`,
+    image_photographer: `Stadium Photography Wire`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `Australia legspinner took 58 wickets across formats for south-coast club last summer`,
+    content: `Australia legspinner took 58 wickets across formats for south-coast club last summer
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564307.html?ex_cid=OTC-RSS)`,
+    title_en: `Hampshire re-sign Amanda-Jade Wellington for 2027 season`,
+    summary_en: `Australia legspinner took 58 wickets across formats for south-coast club last summer`,
+    content_en: `Australia legspinner took 58 wickets across formats for south-coast club last summer
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564307.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-97976`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-26 18:30:38 IST`,
+    detected_at: `2026-11-26T13:00:30Z`,
+    verified_at: `2026-11-26T13:00:38Z`,
+    approved_at: `2026-11-26T13:00:38Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Hampshire re-sign Amanda-Jade Wellington for 2027 season.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 97965,
+    title: `Researchers find connection between PFAS, kidney function and gut health`,
+    slug: `researchers-find-connection-between-pfas-kidney-function-and-gut-healt-2026`,
+    original_title: `Researchers find connection between PFAS, kidney function and gut health`,
+    category: `health`,
+    topic: `public-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T12:58:32Z`,
+    updated_at: `2026-11-26T12:58:32Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/researchers-find-connection-between-pfas-kidney-function-and-gut-health20241017225425/`,
+    source_courtesy: `Source: ANI News`,
+    image_url: `/images/articles/researchers-find-connection-between-pfas-kidney-function-and-gut-healt-2026.jpg`,
+    image_alt: `Researchers find connection between PFAS, kidney function and gut health`,
+    image_courtesy: `Image: ANI News (External Source Attribution)`,
+    image_photographer: `ANI News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `ANI | Updated: Oct 17, 2024 22:54 IST`,
+    content: `ANI | Updated: Oct 17, 2024 22:54 IST
+
+Los Angeles [US], October 17 (ANI): According to new research, the link between per- and polyfluoroalkyl substances, or PFAS, and kidney damage could be due to dysregulation of the gut microbiota, which is made up of bacteria and other microorganisms that live in the digestive tract. PFAS are chemicals that are created and used in a variety of items, including furniture and food packaging. They are frequently referred to as "forever chemicals" because once they collect in the environment or the human body, they take a long time to break down. The group of chemicals is known to increase risk for a range of health problems, including cardiovascular disease, cancer and chronic kidney disease, but the biological mechanisms behind that risk are poorly understood. "Nearly everyone has PFAS in their blood, and these chemicals are associated with a number of negative health effects. But we don't have any known interventions to reduce PFAS in the body, so we can't actually provide recommendations to help," said Hailey Hampson, PhD, a postdoctoral fellow in population and public health sciences at the Keck School of Medicine of USC, who is lead author of the new study. Findings from the research, funded in part by the National Institutes of Health, are starting to connect the dots between that problem and potential solutions. Building on past studies that link kidney damage to both PFAS and gut problems, the research team analyzed the three factors together for the first time. They found that increased PFAS exposure was associated with worse kidney function four years later, and that changes in the gut microbiome and related metabolites explained up to 50 per cent of that decrease in function. The results were just published in the journal Science of the Total Environment. The findings, which add to other Keck School of Medicine studies of PFAS, including longitudinal research, offer early clues about how to protect the kidney s from PFAS-related damage. "Our findings are an important piece of the puzzle about the many different health risks of PFAS, which can provide policymakers with information that helps them develop policies to protect the public from exposure to these chemicals," said Jesse A. Goodrich, PhD, an assistant professor of population and public health sciences at the Keck School of Medicine and senior author of the study.
+
+The researchers analyzed data from 78 participants, ages 17 to 22, enrolled in the Southern California Children's Health Study, a large-scale longitudinal effort to understand the effects of pollution on health. Fifty-six per cent of the sample was Hispanic, a group that faces an outsized risk for chronic kidney disease. At baseline, the researchers collected blood and stool samples that allowed them to measure PFAS exposure, gut microbiome bacteria and circulating metabolites (these metabolites , many of which are produced by the gut microbiome, are present in the blood). At a follow-up appointment four years later, the researchers collected a second round of data on kidney function. They found that when PFAS exposure increased by one standard deviation, kidney function was 2.4% worse at the follow-up visit. The researchers then performed a statistical analysis to determine whether a third factor--gut bacteria and related metabolites --contributed to that association. The analysis revealed two separate groups of bacteria and metabolites that helped explain the effect of PFAS exposure on kidney function. One group explained 38 per cent of the change in kidney function, and one group explained 50 per cent of the change. Both groups of bacteria and metabolites performed beneficial activities, such as lowering inflammation in the body, that were hindered when PFAS exposure went up. "We saw that exposure to PFAS was potentially altering the composition of the microbiome, associated with lower levels of beneficial bacteria and lower anti-inflammatory metabolites ," Hampson said. The findings provide a roadmap for researchers seeking to better understand the link between PFAS and kidney health. Hampson and her colleagues observed reductions in anti-inflammatory metabolites , as well as the bacteria that produce them, and increases in inflammatory metabolites . "This points to inflammation and oxidative stress as a potential mechanism, so that's an area where future research can focus," she said. One limitation of the study is its small sample size. Larger studies are needed to determine whether and how the findings can be used to protect against PFAS-induced kidney damage, Goodrich said. Next, the research team will move beyond measuring metabolites in the blood to detecting their presence in specific body tissues, including in the kidney s. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/researchers-find-connection-between-pfas-kidney-function-and-gut-health20241017225425/)`,
+    title_en: `Researchers find connection between PFAS, kidney function and gut health`,
+    summary_en: `ANI | Updated: Oct 17, 2024 22:54 IST`,
+    content_en: `ANI | Updated: Oct 17, 2024 22:54 IST
+
+Los Angeles [US], October 17 (ANI): According to new research, the link between per- and polyfluoroalkyl substances, or PFAS, and kidney damage could be due to dysregulation of the gut microbiota, which is made up of bacteria and other microorganisms that live in the digestive tract. PFAS are chemicals that are created and used in a variety of items, including furniture and food packaging. They are frequently referred to as "forever chemicals" because once they collect in the environment or the human body, they take a long time to break down. The group of chemicals is known to increase risk for a range of health problems, including cardiovascular disease, cancer and chronic kidney disease, but the biological mechanisms behind that risk are poorly understood. "Nearly everyone has PFAS in their blood, and these chemicals are associated with a number of negative health effects. But we don't have any known interventions to reduce PFAS in the body, so we can't actually provide recommendations to help," said Hailey Hampson, PhD, a postdoctoral fellow in population and public health sciences at the Keck School of Medicine of USC, who is lead author of the new study. Findings from the research, funded in part by the National Institutes of Health, are starting to connect the dots between that problem and potential solutions. Building on past studies that link kidney damage to both PFAS and gut problems, the research team analyzed the three factors together for the first time. They found that increased PFAS exposure was associated with worse kidney function four years later, and that changes in the gut microbiome and related metabolites explained up to 50 per cent of that decrease in function. The results were just published in the journal Science of the Total Environment. The findings, which add to other Keck School of Medicine studies of PFAS, including longitudinal research, offer early clues about how to protect the kidney s from PFAS-related damage. "Our findings are an important piece of the puzzle about the many different health risks of PFAS, which can provide policymakers with information that helps them develop policies to protect the public from exposure to these chemicals," said Jesse A. Goodrich, PhD, an assistant professor of population and public health sciences at the Keck School of Medicine and senior author of the study.
+
+The researchers analyzed data from 78 participants, ages 17 to 22, enrolled in the Southern California Children's Health Study, a large-scale longitudinal effort to understand the effects of pollution on health. Fifty-six per cent of the sample was Hispanic, a group that faces an outsized risk for chronic kidney disease. At baseline, the researchers collected blood and stool samples that allowed them to measure PFAS exposure, gut microbiome bacteria and circulating metabolites (these metabolites , many of which are produced by the gut microbiome, are present in the blood). At a follow-up appointment four years later, the researchers collected a second round of data on kidney function. They found that when PFAS exposure increased by one standard deviation, kidney function was 2.4% worse at the follow-up visit. The researchers then performed a statistical analysis to determine whether a third factor--gut bacteria and related metabolites --contributed to that association. The analysis revealed two separate groups of bacteria and metabolites that helped explain the effect of PFAS exposure on kidney function. One group explained 38 per cent of the change in kidney function, and one group explained 50 per cent of the change. Both groups of bacteria and metabolites performed beneficial activities, such as lowering inflammation in the body, that were hindered when PFAS exposure went up. "We saw that exposure to PFAS was potentially altering the composition of the microbiome, associated with lower levels of beneficial bacteria and lower anti-inflammatory metabolites ," Hampson said. The findings provide a roadmap for researchers seeking to better understand the link between PFAS and kidney health. Hampson and her colleagues observed reductions in anti-inflammatory metabolites , as well as the bacteria that produce them, and increases in inflammatory metabolites . "This points to inflammation and oxidative stress as a potential mechanism, so that's an area where future research can focus," she said. One limitation of the study is its small sample size. Larger studies are needed to determine whether and how the findings can be used to protect against PFAS-induced kidney damage, Goodrich said. Next, the research team will move beyond measuring metabolites in the blood to detecting their presence in specific body tissues, including in the kidney s. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/researchers-find-connection-between-pfas-kidney-function-and-gut-health20241017225425/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to ANI News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Researchers find connection between PFAS, kidney function and gut health.`,
+    primary_source: `ANI News`,
+  },
+  {
+    id: 97966,
+    title: `Researchers reveals ways of preventing cancer cells from colonizing liver`,
+    slug: `researchers-reveals-ways-of-preventing-cancer-cells-from-colonizing-li-2026`,
+    original_title: `Researchers reveals ways of preventing cancer cells from colonizing liver`,
+    category: `health`,
+    topic: `public-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T12:58:33Z`,
+    updated_at: `2026-11-26T12:58:33Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/researchers-reveals-ways-of-preventing-cancer-cells-from-colonizing-liver20240724233025/`,
+    source_courtesy: `Source: ANI News`,
+    image_url: `/images/articles/researchers-reveals-ways-of-preventing-cancer-cells-from-colonizing-li-2026.jpg`,
+    image_alt: `Researchers reveals ways of preventing cancer cells from colonizing liver`,
+    image_courtesy: `Image: ANI News (External Source Attribution)`,
+    image_photographer: `ANI News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `ANI | Updated: Jul 24, 2024 23:30 IST`,
+    content: `ANI | Updated: Jul 24, 2024 23:30 IST
+
+Zurich [Switzerland], July 24 (ANI): Nine times out of ten, metastasis is the cause of cancer deaths. This is the point when the primary tumour has sent out cells, like seeds, and invaded other organs of the body. Despite significant advancements in the treatment of primary tumours, medicine remains mainly powerless against metastases. As of right now, there are no drugs that stop this process. Researchers from the Department of Biosystems Science and Engineering at ETH Zurich in Basel, under the direction of Andreas Moor, have now published findings in the journal Nature that demonstrate how colorectal cancer cells colonise the liver . Their research will aid in the creation of therapies that might impede the spread of disease. Cancer is said to metastasis e when cells from the primary tumour break off and travel via the circulatory system to other parts of the body. "Colorectal cancer metastasis es to the liver because of how our blood flows," Moor says. Blood is first enriched with nutrients in the intestines before it goes to the liver , which metabolises the nutrients. For colorectal cancer cells, the liver is the last stop. "They get caught in the liver 's capillary network," Moor says. Costanza Borrelli, a doctoral student, and other members of Moor's team have now shown that the liver cells also play a large role in whether or not the cancer cells lodged there can colonise their new location. Science has known for over a century that, much like plant seeds in soil, cancer cells are dependent on their environment, yet it was previously unknown which molecular mechanisms play a role here. Using sophisticated tests on genetically modified mice, Moor and his team have discovered that the secret lies in certain proteins on the cell surface. When liver cells have a protein called Plexin-B2 and the colorectal cancer cells possess certain proteins from the semaphorin family, the colorectal cancer cells can attach themselves to the liver cells.
+
+Cancer cells that have semaphorins on their surface are especially dangerous, as attested by clinical studies cited by Moor's researchers in their paper. The study data shows that colorectal cancer metastasis es earlier and more frequently to the liver if the tumour has large amounts of semaphorin. Plexin and its counterpart semaphorin were previously known to the research community for their function in the nervous system, where the two proteins steer growing nerve cells and ensure they form the right pathways. "Why liver cells also create plexin and what this protein does in healthy liver s is anything but clear - and interests us immensely," Moor says. In other words, the question of its function remains open. What Moor and his team have discovered, however, is that direct contact between plexin and semaphorin triggers fundamental changes in colorectal cancer cells. To break off from the primary tumour, the cancer cells have to change their identity: they free themselves from the surface layer of the intestine, or epithelium, severing their close connections to neighbouring cells. Once in the bloodstream, the cancer cells resemble those from connective tissue called mesenchyme. Yet once they find their new niche - thanks to the plexin on some liver cells - the cancer cells turn back into their sedentary form. "An epithelisation process takes place," the researchers wrote in their paper. Moor expands: "You can spot this immediately if you look at the cancer cells , as they form invaginations similar to the folds or crypts in the intestines." The researchers' discovery will have an impact on more than colorectal cancer patients: further tests have shown that plexin also encourages the formation of metastases in melanoma and pancreatic cancer. For Moor and his team, this throws up many new research questions. One in particular is drawing their focus: when cancer cells cluster together to form a tumour, they also influence cells in their environment. "Cancer cells set up their own ecosystem," Moor explains. If efforts to inhibit the crucial interaction between plexin and semaphorin succeed, it may be possible to prevent the cancer from establishing new tumours in the first place. That's because early on, when the relationships among the cells in this ecosystem have not yet been firmly established, tumour metastases are especially vulnerable, Moor explains. He appears confident that an answer lies within this "critical period of time in the development of metastases", even though the path to any potential treatment is still long. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/researchers-reveals-ways-of-preventing-cancer-cells-from-colonizing-liver20240724233025/)`,
+    title_en: `Researchers reveals ways of preventing cancer cells from colonizing liver`,
+    summary_en: `ANI | Updated: Jul 24, 2024 23:30 IST`,
+    content_en: `ANI | Updated: Jul 24, 2024 23:30 IST
+
+Zurich [Switzerland], July 24 (ANI): Nine times out of ten, metastasis is the cause of cancer deaths. This is the point when the primary tumour has sent out cells, like seeds, and invaded other organs of the body. Despite significant advancements in the treatment of primary tumours, medicine remains mainly powerless against metastases. As of right now, there are no drugs that stop this process. Researchers from the Department of Biosystems Science and Engineering at ETH Zurich in Basel, under the direction of Andreas Moor, have now published findings in the journal Nature that demonstrate how colorectal cancer cells colonise the liver . Their research will aid in the creation of therapies that might impede the spread of disease. Cancer is said to metastasis e when cells from the primary tumour break off and travel via the circulatory system to other parts of the body. "Colorectal cancer metastasis es to the liver because of how our blood flows," Moor says. Blood is first enriched with nutrients in the intestines before it goes to the liver , which metabolises the nutrients. For colorectal cancer cells, the liver is the last stop. "They get caught in the liver 's capillary network," Moor says. Costanza Borrelli, a doctoral student, and other members of Moor's team have now shown that the liver cells also play a large role in whether or not the cancer cells lodged there can colonise their new location. Science has known for over a century that, much like plant seeds in soil, cancer cells are dependent on their environment, yet it was previously unknown which molecular mechanisms play a role here. Using sophisticated tests on genetically modified mice, Moor and his team have discovered that the secret lies in certain proteins on the cell surface. When liver cells have a protein called Plexin-B2 and the colorectal cancer cells possess certain proteins from the semaphorin family, the colorectal cancer cells can attach themselves to the liver cells.
+
+Cancer cells that have semaphorins on their surface are especially dangerous, as attested by clinical studies cited by Moor's researchers in their paper. The study data shows that colorectal cancer metastasis es earlier and more frequently to the liver if the tumour has large amounts of semaphorin. Plexin and its counterpart semaphorin were previously known to the research community for their function in the nervous system, where the two proteins steer growing nerve cells and ensure they form the right pathways. "Why liver cells also create plexin and what this protein does in healthy liver s is anything but clear - and interests us immensely," Moor says. In other words, the question of its function remains open. What Moor and his team have discovered, however, is that direct contact between plexin and semaphorin triggers fundamental changes in colorectal cancer cells. To break off from the primary tumour, the cancer cells have to change their identity: they free themselves from the surface layer of the intestine, or epithelium, severing their close connections to neighbouring cells. Once in the bloodstream, the cancer cells resemble those from connective tissue called mesenchyme. Yet once they find their new niche - thanks to the plexin on some liver cells - the cancer cells turn back into their sedentary form. "An epithelisation process takes place," the researchers wrote in their paper. Moor expands: "You can spot this immediately if you look at the cancer cells , as they form invaginations similar to the folds or crypts in the intestines." The researchers' discovery will have an impact on more than colorectal cancer patients: further tests have shown that plexin also encourages the formation of metastases in melanoma and pancreatic cancer. For Moor and his team, this throws up many new research questions. One in particular is drawing their focus: when cancer cells cluster together to form a tumour, they also influence cells in their environment. "Cancer cells set up their own ecosystem," Moor explains. If efforts to inhibit the crucial interaction between plexin and semaphorin succeed, it may be possible to prevent the cancer from establishing new tumours in the first place. That's because early on, when the relationships among the cells in this ecosystem have not yet been firmly established, tumour metastases are especially vulnerable, Moor explains. He appears confident that an answer lies within this "critical period of time in the development of metastases", even though the path to any potential treatment is still long. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/researchers-reveals-ways-of-preventing-cancer-cells-from-colonizing-liver20240724233025/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to ANI News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Researchers reveals ways of preventing cancer cells from colonizing liver.`,
+    primary_source: `ANI News`,
+  },
+  {
+    id: 97967,
+    title: `Survey of the affected areas is being conducted": Karnataka CM Siddaramiah`,
+    slug: `survey-of-the-affected-areas-is-being-conducted-karnataka-cm-siddarami-2026`,
+    original_title: `Survey of the affected areas is being conducted": Karnataka CM Siddaramiah`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T12:58:48Z`,
+    updated_at: `2026-11-26T12:58:48Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/survey-of-the-affected-areas-is-being-conducted-karnataka-cm-siddaramiah20241022150636/`,
+    source_courtesy: `Source: ANI News`,
+    image_url: `/images/articles/survey-of-the-affected-areas-is-being-conducted-karnataka-cm-siddarami-2026.jpg`,
+    image_alt: `Survey of the affected areas is being conducted": Karnataka CM Siddaramiah`,
+    image_courtesy: `Image: ANI News (External Source Attribution)`,
+    image_photographer: `ANI News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `ANI | Updated: Oct 22, 2024 15:06 IST`,
+    content: `ANI | Updated: Oct 22, 2024 15:06 IST
+
+Mysuru ( Karnataka ) [India], October 22 (ANI); Addressing a press conference here on Tuesday, Chief Minister Siddaramiah said that the situation of the heavy rain was being monitored and necessary preparations were underway. Speaking to the media, Siddaramiah said "We have been monitoring the situation. All necessary preparations are underway. Surveys of the affected areas are also being conducted, and relief measures will be implemented promptly." Heavy rains in Bengaluru have posed problems for the residents. Earlier today, the Janata Dal-Secular (JDS) attacked the Karnataka Chief Minister Siddaramiah and Deputy Chief Minister DK Shivakumar for their so-called 'visionary' governance after residents faced issues due to the waterlogging. Taking to X, JDS in a post wrote "Welcome to *Brand Bengaluru*! Where a physically challenged woman falling into a pothole during heavy rains is just another day in paradise. While@siddaramaiah&@DKShivakumarkeep patting themselves on the back for their 'visionary' governance, the city's crumbling infrastructure is doing all the talking. BBMP's mastery in turning roads into death traps is unmatched. *Bravo* on setting new standards of neglect and irresponsibility."
+
+BJP leader CT Ravi said, "Earlier, Bengaluru used to have thousands of ponds, who looted all, who earn money through that?... Bengaluru, despite being an international city is in such a condition, who is responsible?.." Meanwhile, on the by-election s in Sandur, Siddaramiah said that discussions on finding a suitable candidate for the Channapatna constituency are still ongoing. "Discussions are ongoing about selecting a suitable candidate for the Channapatna constituency. Congress ticket would be given to the wife of MP E. Tukaram. Discussions are on. The final decision on ticket distribution for both Channapatna and Shiggaon constituencies will be made in the coming days..," the CM said. Channapatna will go for by-polls on November 13. The seat fell vacant after the election of its representative, JD(S) state President D Kumaraswamy, to Lok Sabha from the Mandya parliamentary segment. On October 21, Karnataka Legislative Council Member (MLC) CP Yogeshwar resigned on Monday and said that he was thinking of upcoming Channapatna bye-elections as an independent candidate. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/survey-of-the-affected-areas-is-being-conducted-karnataka-cm-siddaramiah20241022150636/)`,
+    title_en: `Survey of the affected areas is being conducted": Karnataka CM Siddaramiah`,
+    summary_en: `ANI | Updated: Oct 22, 2024 15:06 IST`,
+    content_en: `ANI | Updated: Oct 22, 2024 15:06 IST
+
+Mysuru ( Karnataka ) [India], October 22 (ANI); Addressing a press conference here on Tuesday, Chief Minister Siddaramiah said that the situation of the heavy rain was being monitored and necessary preparations were underway. Speaking to the media, Siddaramiah said "We have been monitoring the situation. All necessary preparations are underway. Surveys of the affected areas are also being conducted, and relief measures will be implemented promptly." Heavy rains in Bengaluru have posed problems for the residents. Earlier today, the Janata Dal-Secular (JDS) attacked the Karnataka Chief Minister Siddaramiah and Deputy Chief Minister DK Shivakumar for their so-called 'visionary' governance after residents faced issues due to the waterlogging. Taking to X, JDS in a post wrote "Welcome to *Brand Bengaluru*! Where a physically challenged woman falling into a pothole during heavy rains is just another day in paradise. While@siddaramaiah&@DKShivakumarkeep patting themselves on the back for their 'visionary' governance, the city's crumbling infrastructure is doing all the talking. BBMP's mastery in turning roads into death traps is unmatched. *Bravo* on setting new standards of neglect and irresponsibility."
+
+BJP leader CT Ravi said, "Earlier, Bengaluru used to have thousands of ponds, who looted all, who earn money through that?... Bengaluru, despite being an international city is in such a condition, who is responsible?.." Meanwhile, on the by-election s in Sandur, Siddaramiah said that discussions on finding a suitable candidate for the Channapatna constituency are still ongoing. "Discussions are ongoing about selecting a suitable candidate for the Channapatna constituency. Congress ticket would be given to the wife of MP E. Tukaram. Discussions are on. The final decision on ticket distribution for both Channapatna and Shiggaon constituencies will be made in the coming days..," the CM said. Channapatna will go for by-polls on November 13. The seat fell vacant after the election of its representative, JD(S) state President D Kumaraswamy, to Lok Sabha from the Mandya parliamentary segment. On October 21, Karnataka Legislative Council Member (MLC) CP Yogeshwar resigned on Monday and said that he was thinking of upcoming Channapatna bye-elections as an independent candidate. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/survey-of-the-affected-areas-is-being-conducted-karnataka-cm-siddaramiah20241022150636/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to ANI News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Survey of the affected areas is being conducted": Karnataka CM Siddaramiah.`,
+    primary_source: `ANI News`,
+  },
+  {
+    id: 97968,
+    title: `Priyanka will be a passionate champion of Wayanad's needs," says Rahul Gandhi`,
+    slug: `priyanka-will-be-a-passionate-champion-of-wayanads-needs-says-rahul-ga-2026`,
+    original_title: `Priyanka will be a passionate champion of Wayanad's needs," says Rahul Gandhi`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T12:58:50Z`,
+    updated_at: `2026-11-26T12:58:50Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/priyanka-will-be-a-passionate-champion-of-wayanads-needs-says-rahul-gandhi20241022144747/`,
+    source_courtesy: `Source: ANI News`,
+    image_url: `/images/articles/priyanka-will-be-a-passionate-champion-of-wayanads-needs-says-rahul-ga-2026.jpg`,
+    image_alt: `Priyanka will be a passionate champion of Wayanad's needs," says Rahul Gandhi`,
+    image_courtesy: `Image: ANI News (External Source Attribution)`,
+    image_photographer: `ANI News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `ANI | Updated: Oct 22, 2024 14:47 IST`,
+    content: `ANI | Updated: Oct 22, 2024 14:47 IST
+
+New Delhi [India], October 22 (ANI): Exuding confidence over the candidature of Congress leader Priyanka Gandhi Vadra , Lok Sabha Leader of Opposition Rahul Gandhi on Tuesday said that she will emerge as a passionate champion of Wayanad 's needs and a powerful voice in Parliament. "The people of Wayanad hold a special place in my heart, and I can't imagine a better representative for them than my sister, Priyanka Gandhi. I'm confident she will be a passionate champion of Wayanad 's needs and a powerful voice in Parliament. Join us tomorrow, 23rd October, as she files her nomination for the Wayanad Lok Sabha constituency. Together, let's ensure Wayanad continues to be represented with love," Rahul Gandhi wrote on X. "The people of India have saved the Constitution and democracy. The deprived and poor population of the country stood with India to protect their rights. Congratulations to all the alliance partners and the lion workers of Congress," Rahul Gandhi said in a separate post on X.
+
+Earlier on Monday, Priyanka Gandhi Vadra met party chief Mallikarjun Kharge in Delhi to discuss campaign strategies as she prepares to file nomination for the by-elections in Wayanad Lok Sabha constituency. Vadra, along with Congress leader Rahul Gandhi , will lead a roadshow from Waynad's Kalpetta New Bus Stand in the morning before filing the nomination on October 23. After the Election Commission of India (ECI) announced the bypoll, Congress declared Gandhi's candidature for the Waynad seat as part of the United Democratic Front (UDF) in Kerala. Senior Congress leaders will also remain present during Gandhi's nomination filing before the district collector in the afternoon. After being active in politics for five years, All India Congress Committee (AICC) General Secretary Gandhi will make her electoral debut in the Waynad Lok Sabha constituency, where the by-poll is scheduled to be held on November 13. Along with this, the election commission announced by-elections in 47 assembly seats across 15 states . (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/priyanka-will-be-a-passionate-champion-of-wayanads-needs-says-rahul-gandhi20241022144747/)`,
+    title_en: `Priyanka will be a passionate champion of Wayanad's needs," says Rahul Gandhi`,
+    summary_en: `ANI | Updated: Oct 22, 2024 14:47 IST`,
+    content_en: `ANI | Updated: Oct 22, 2024 14:47 IST
+
+New Delhi [India], October 22 (ANI): Exuding confidence over the candidature of Congress leader Priyanka Gandhi Vadra , Lok Sabha Leader of Opposition Rahul Gandhi on Tuesday said that she will emerge as a passionate champion of Wayanad 's needs and a powerful voice in Parliament. "The people of Wayanad hold a special place in my heart, and I can't imagine a better representative for them than my sister, Priyanka Gandhi. I'm confident she will be a passionate champion of Wayanad 's needs and a powerful voice in Parliament. Join us tomorrow, 23rd October, as she files her nomination for the Wayanad Lok Sabha constituency. Together, let's ensure Wayanad continues to be represented with love," Rahul Gandhi wrote on X. "The people of India have saved the Constitution and democracy. The deprived and poor population of the country stood with India to protect their rights. Congratulations to all the alliance partners and the lion workers of Congress," Rahul Gandhi said in a separate post on X.
+
+Earlier on Monday, Priyanka Gandhi Vadra met party chief Mallikarjun Kharge in Delhi to discuss campaign strategies as she prepares to file nomination for the by-elections in Wayanad Lok Sabha constituency. Vadra, along with Congress leader Rahul Gandhi , will lead a roadshow from Waynad's Kalpetta New Bus Stand in the morning before filing the nomination on October 23. After the Election Commission of India (ECI) announced the bypoll, Congress declared Gandhi's candidature for the Waynad seat as part of the United Democratic Front (UDF) in Kerala. Senior Congress leaders will also remain present during Gandhi's nomination filing before the district collector in the afternoon. After being active in politics for five years, All India Congress Committee (AICC) General Secretary Gandhi will make her electoral debut in the Waynad Lok Sabha constituency, where the by-poll is scheduled to be held on November 13. Along with this, the election commission announced by-elections in 47 assembly seats across 15 states . (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/priyanka-will-be-a-passionate-champion-of-wayanads-needs-says-rahul-gandhi20241022144747/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to ANI News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Priyanka will be a passionate champion of Wayanad's needs," says Rahul Gandhi.`,
+    primary_source: `ANI News`,
+  },
+  {
+    id: 97969,
+    title: `Study reveals 54 per cent of parents often lack instant answers for kids' questions`,
+    slug: `study-reveals-54-per-cent-of-parents-often-lack-instant-answers-for-ki-2026`,
+    original_title: `Study reveals 54 per cent of parents often lack instant answers for kids' questions`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T12:59:06Z`,
+    updated_at: `2026-11-26T12:59:06Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/study-reveals-54-per-cent-of-parents-often-lack-instant-answers-for-kids-questions20240805232911/`,
+    source_courtesy: `Source: ANI News`,
+    image_url: `/images/articles/study-reveals-54-per-cent-of-parents-often-lack-instant-answers-for-ki-2026.jpg`,
+    image_alt: `Study reveals 54 per cent of parents often lack instant answers for kids' questions`,
+    image_courtesy: `Image: ANI News (External Source Attribution)`,
+    image_photographer: `ANI News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `ANI | Updated: Aug 05, 2024 23:29 IST`,
+    content: `ANI | Updated: Aug 05, 2024 23:29 IST
+
+New Delhi [India], August 5 (ANI): A recent survey commissioned by Amazon Alexa and conducted by Kantar sheds light on the difficulties parents face in answering their children's questions. The study, which surveyed over 750 parents across six cities in June 2024, reveals that 54 per cent of parents often struggle to provide immediate answers to their kids ' queries. The research highlights the role of technology in bridging this gap, as well as the common practices parents use to address their children's curiosity. According to the survey, while 52 per cent of parents make an effort to search for accurate answers when they are unsure, 44 per cent admit to improvising answers on the spot. Interestingly, only 3 per cent of parents choose to ignore the question or redirect the topic to avoid answering. This indicates a significant effort by parents to engage with their children's inquisitiveness, despite the challenges involved. The study also found that 63 per cent of parents observe that their children ask more questions while watching television. Other activities that spark curiosity include travelling (57 per cent), studying (56 per cent), engaging in outdoor activities (55 per cent), using handheld devices (52 per cent), and listening to adult conversations (50 per cent). Popular topics of inquiry among children include food, animals, nature, general knowledge, holidays, technology, and movies.
+
+Technology has emerged as a vital tool for parents trying to provide answers. Over 80 per cent of parents utilize technology to assist in answering their children's questions. Voice AI services like Amazon's Alexa , available on devices such as Echo smart speakers, are particularly noted for their utility. "When kids are feeling curious, parents can leverage Alexa to provide answers on a wide range of topics," said Dilip RS, Country Manager for Alexa , Amazon India. The study underscores Alexa 's role as an educational resource, with families asking 25 million questions per month. Despite the challenges, over 90 per cent of parents encourage their children to ask more questions to support their growth and learning. Nearly 92 per cent of parents reported that they also learn new information while responding to their kids ' inquiries. This mutual learning process highlights the importance of maintaining an environment that fosters curiosity and knowledge. Deepender Rana, Executive Managing Director - South Asia, Insights Division at Kantar, emphasized the importance of screen-free learning solutions. "While TV drives curiosity, many parents prefer screen-free methods for their children. Voice-first search tools like Alexa provide a valuable solution for finding answers and learning in a screen-free manner," said Deepender Rana. With Alexa 's expanding range of voice-first experiences designed for children, parents are equipped to support their children's curiosity with reliable and engaging content while ensuring trust and safety. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/study-reveals-54-per-cent-of-parents-often-lack-instant-answers-for-kids-questions20240805232911/)`,
+    title_en: `Study reveals 54 per cent of parents often lack instant answers for kids' questions`,
+    summary_en: `ANI | Updated: Aug 05, 2024 23:29 IST`,
+    content_en: `ANI | Updated: Aug 05, 2024 23:29 IST
+
+New Delhi [India], August 5 (ANI): A recent survey commissioned by Amazon Alexa and conducted by Kantar sheds light on the difficulties parents face in answering their children's questions. The study, which surveyed over 750 parents across six cities in June 2024, reveals that 54 per cent of parents often struggle to provide immediate answers to their kids ' queries. The research highlights the role of technology in bridging this gap, as well as the common practices parents use to address their children's curiosity. According to the survey, while 52 per cent of parents make an effort to search for accurate answers when they are unsure, 44 per cent admit to improvising answers on the spot. Interestingly, only 3 per cent of parents choose to ignore the question or redirect the topic to avoid answering. This indicates a significant effort by parents to engage with their children's inquisitiveness, despite the challenges involved. The study also found that 63 per cent of parents observe that their children ask more questions while watching television. Other activities that spark curiosity include travelling (57 per cent), studying (56 per cent), engaging in outdoor activities (55 per cent), using handheld devices (52 per cent), and listening to adult conversations (50 per cent). Popular topics of inquiry among children include food, animals, nature, general knowledge, holidays, technology, and movies.
+
+Technology has emerged as a vital tool for parents trying to provide answers. Over 80 per cent of parents utilize technology to assist in answering their children's questions. Voice AI services like Amazon's Alexa , available on devices such as Echo smart speakers, are particularly noted for their utility. "When kids are feeling curious, parents can leverage Alexa to provide answers on a wide range of topics," said Dilip RS, Country Manager for Alexa , Amazon India. The study underscores Alexa 's role as an educational resource, with families asking 25 million questions per month. Despite the challenges, over 90 per cent of parents encourage their children to ask more questions to support their growth and learning. Nearly 92 per cent of parents reported that they also learn new information while responding to their kids ' inquiries. This mutual learning process highlights the importance of maintaining an environment that fosters curiosity and knowledge. Deepender Rana, Executive Managing Director - South Asia, Insights Division at Kantar, emphasized the importance of screen-free learning solutions. "While TV drives curiosity, many parents prefer screen-free methods for their children. Voice-first search tools like Alexa provide a valuable solution for finding answers and learning in a screen-free manner," said Deepender Rana. With Alexa 's expanding range of voice-first experiences designed for children, parents are equipped to support their children's curiosity with reliable and engaging content while ensuring trust and safety. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/study-reveals-54-per-cent-of-parents-often-lack-instant-answers-for-kids-questions20240805232911/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to ANI News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Study reveals 54 per cent of parents often lack instant answers for kids' questions.`,
+    primary_source: `ANI News`,
+  },
+  {
+    id: 97970,
+    title: `Apple's updated MagSafe charger offers enhanced charging speeds but limited to latest iPhone models`,
+    slug: `apples-updated-magsafe-charger-offers-enhanced-charging-speeds-but-lim-2026`,
+    original_title: `Apple's updated MagSafe charger offers enhanced charging speeds but limited to latest iPhone models`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T12:59:10Z`,
+    updated_at: `2026-11-26T12:59:10Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/apples-updated-magsafe-charger-offers-enhanced-charging-speeds-but-limited-to-latest-iphone-models20240910232741/`,
+    source_courtesy: `Source: ANI News`,
+    image_url: `/images/articles/apples-updated-magsafe-charger-offers-enhanced-charging-speeds-but-lim-2026.jpg`,
+    image_alt: `Apple's updated MagSafe charger offers enhanced charging speeds but limited to latest iPhone models`,
+    image_courtesy: `Image: ANI News (External Source Attribution)`,
+    image_photographer: `ANI News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `ANI | Updated: Sep 10, 2024 23:27 IST`,
+    content: `ANI | Updated: Sep 10, 2024 23:27 IST
+
+Washington [US], September 10 (ANI): Apple has announced the launch of an updated MagSafe Charger designed to enhance wireless charging speeds for the upcoming iPhone 16 series. Unveiled on September 9, the new charger promises to deliver charging rates comparable to traditional wired connections, marking a significant upgrade for Apple 's wireless charging technology. The refreshed MagSafe Charger maintains its signature compact puck design and compatibility with both Qi2 and Qi charging standards, as per GSM Arena. However, the standout feature of this new model is its support for up to 25W wireless charging. According to Apple 's official website, the charger can replenish up to 50 per cent of an iPhone 16's battery in approximately 30 minutes when used with a 30W USB-C power adapter. This advancement means that the iPhone 16 will experience faster wireless charging compared to previous models such as the iPhone 15 when using a standard 20W wired adapter, as per GSM Arena. However, there are limitations to note. The 25W charging rate is exclusive to the latest iPhone 16 series.
+
+For earlier models ranging from the iPhone 12 to the iPhone 15, the MagSafe Charger will offer a maximum output of 15W. For iPhone s from the 8 to the 11 series, which lack magnetic compatibility, the charger will provide up to 7.5W, as per GSM Arena. The new MagSafe Charger is priced at USD 39/Pound 39/Euro 49 for the 1-meter version and USD 49/Pound 49/Euro 59 for the 2-meter variant. It is important to note that availability may vary by region, with some markets, including China, currently excluded from the rollout, as per GSM Arena. Additionally, the 30W USB-C Power Adapter, which is sold separately, is priced at USD 39/Pound 39/Euro 45. Both the updated MagSafe Charger and the 30W USB-C Power Adapter are available for immediate shipping, ensuring that customers can have these accessories in hand ahead of the iPhone 16's official release in just ten days. This new accessory reflects Apple 's efforts to innovate within its ecosystem, providing users with more efficient and versatile charging solutions as the company prepares for the latest addition to its smartphone lineup. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/apples-updated-magsafe-charger-offers-enhanced-charging-speeds-but-limited-to-latest-iphone-models20240910232741/)`,
+    title_en: `Apple's updated MagSafe charger offers enhanced charging speeds but limited to latest iPhone models`,
+    summary_en: `ANI | Updated: Sep 10, 2024 23:27 IST`,
+    content_en: `ANI | Updated: Sep 10, 2024 23:27 IST
+
+Washington [US], September 10 (ANI): Apple has announced the launch of an updated MagSafe Charger designed to enhance wireless charging speeds for the upcoming iPhone 16 series. Unveiled on September 9, the new charger promises to deliver charging rates comparable to traditional wired connections, marking a significant upgrade for Apple 's wireless charging technology. The refreshed MagSafe Charger maintains its signature compact puck design and compatibility with both Qi2 and Qi charging standards, as per GSM Arena. However, the standout feature of this new model is its support for up to 25W wireless charging. According to Apple 's official website, the charger can replenish up to 50 per cent of an iPhone 16's battery in approximately 30 minutes when used with a 30W USB-C power adapter. This advancement means that the iPhone 16 will experience faster wireless charging compared to previous models such as the iPhone 15 when using a standard 20W wired adapter, as per GSM Arena. However, there are limitations to note. The 25W charging rate is exclusive to the latest iPhone 16 series.
+
+For earlier models ranging from the iPhone 12 to the iPhone 15, the MagSafe Charger will offer a maximum output of 15W. For iPhone s from the 8 to the 11 series, which lack magnetic compatibility, the charger will provide up to 7.5W, as per GSM Arena. The new MagSafe Charger is priced at USD 39/Pound 39/Euro 49 for the 1-meter version and USD 49/Pound 49/Euro 59 for the 2-meter variant. It is important to note that availability may vary by region, with some markets, including China, currently excluded from the rollout, as per GSM Arena. Additionally, the 30W USB-C Power Adapter, which is sold separately, is priced at USD 39/Pound 39/Euro 45. Both the updated MagSafe Charger and the 30W USB-C Power Adapter are available for immediate shipping, ensuring that customers can have these accessories in hand ahead of the iPhone 16's official release in just ten days. This new accessory reflects Apple 's efforts to innovate within its ecosystem, providing users with more efficient and versatile charging solutions as the company prepares for the latest addition to its smartphone lineup. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/apples-updated-magsafe-charger-offers-enhanced-charging-speeds-but-limited-to-latest-iphone-models20240910232741/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to ANI News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Apple's updated MagSafe charger offers enhanced charging speeds but limited to latest iPhone models.`,
+    primary_source: `ANI News`,
+  },
+  {
+    id: 97971,
+    title: `PM Narendra Modi welcomed with 'Krishna Bhajan' upon his arrival at Hotel Korston in Kazan`,
+    slug: `pm-narendra-modi-welcomed-with-krishna-bhajan-upon-his-arrival-at-hote-2026`,
+    original_title: `PM Narendra Modi welcomed with 'Krishna Bhajan' upon his arrival at Hotel Korston in Kazan`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T12:59:26Z`,
+    updated_at: `2026-11-26T12:59:26Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/pm-narendra-modi-welcomed-with-krishna-bhajan-upon-his-arrival-at-hotel-korston-in-kazan20241022150720/`,
+    source_courtesy: `Source: ANI News`,
+    image_url: `/images/articles/pm-narendra-modi-welcomed-with-krishna-bhajan-upon-his-arrival-at-hote-2026.jpg`,
+    image_alt: `PM Narendra Modi welcomed with 'Krishna Bhajan' upon his arrival at Hotel Korston in Kazan`,
+    image_courtesy: `Image: ANI News (External Source Attribution)`,
+    image_photographer: `ANI News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `ANI | Updated: Oct 22, 2024 15:07 IST`,
+    content: `ANI | Updated: Oct 22, 2024 15:07 IST
+
+Kazan [Russia], October 22 (ANI): As Prime Minister Narendra Modi arrived at Hotel Korston in Kazan, Russian nationals warmly welcomed PM Modi, by singing Krishna Bhajan. PM Modi was seen listening to the Krishna Bhajan performed by the Russian nationals. PM Modi also greeted and interacted with members of the Indian diaspora as he arrived at Hotel Korston. He is here to attend the 16th BRICS Summit, being held under the Chairmanship of Russia. The Prime Minister is also expected to hold bilateral meetings with his counterparts from BRICS member countries. Notably, Prime Minister Narendra Modi on Tuesday touched down in Kazan city of Russia to participate in the 16th BRICS Summit. Upon arrival, PM Modi also witnessed a dance performance by the artists of the Russian community at Hotel Korston in Kazan. A Russian artist who performed along with her team, while speaking with ANI, said, "We were so excited and nervous, we rehearsed for this dance for nearly three months...The people really like PM Modi. He (PM Modi) said that we are exciting dancers." Meanwhile, PM Modi shared a post on X about his arrival in Kazan and said, "Landed in Kazan for the BRICS Summit. This is an important Summit, and the discussions here will contribute to a better planet."
+
+Landed in Kazan for the BRICS Summit. This is an important Summit, and the discussions here will contribute to a better planet. pic.twitter.com/miELPu2OJ9
+
+Randhir Jaiswal, official spokesperson of the Ministry of External Affairs also shared a post on X and said, "PM @narendramodi lands in the heritage city of Kazan, Russia. On arrival, PM was warmly received by the Head of the Republic of Tatarstan Rustam Minnikhanov."
+
+PM @narendramodi lands in the heritage city of Kazan, Russia. On arrival, PM was warmly received by the Head of the Republic of Tatarstan Rustam Minnikhanov. pic.twitter.com/BEP3G90ujr
+
+The 16th BRICS Summit in Kazan is being held under the chairmanship of Russia from October 22-24. During his visit, PM Modi is also expected to hold bilateral meetings with his counterparts from BRICS member countries and invited leaders in Kazan. The Ministry of External Affairs (MEA) said, "The Summit, themed 'Strengthening Multilateralism for Just Global Development and Security,' will provide an important platform for leaders to discuss key global issues." It further said, "The Summit will offer a valuable opportunity to assess the progress of initiatives launched by BRICS and to identify potential areas for future collaboration." This visit marks, PM Modi's second visit to Russia this year. He travelled to Moscow in July to attend the 22nd India-Russia Annual Summit where he held a bilateral meeting with President Putin. He was also conferred with Russia's highest civilian award, the Order of St. Andrew the Apostle at the Kremlin in Moscow. BRIC, as a formal grouping, started after the meeting of the Leaders of Russia, India and China in St Petersburg on the margins of G8 Outreach Summit in 2006. The grouping was formalized during the first meeting of BRIC Foreign Ministers on the margins of UNGA in New York in 2006. The first BRIC Summit was held in Russia's Yekaterinburg in 2009. It was agreed to expand BRIC into BRICS with the inclusion of South Africa at the BRIC Foreign Ministers' meeting in New York in 2010. South Africa attended the 3rd BRICS Summit in Sanya in 2011. A further expansion of BRICS took place in 2024 with five new members - Egypt, Ethiopia, Iran, Saudi Arabia, and the United Arab Emirates. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/pm-narendra-modi-welcomed-with-krishna-bhajan-upon-his-arrival-at-hotel-korston-in-kazan20241022150720/)`,
+    title_en: `PM Narendra Modi welcomed with 'Krishna Bhajan' upon his arrival at Hotel Korston in Kazan`,
+    summary_en: `ANI | Updated: Oct 22, 2024 15:07 IST`,
+    content_en: `ANI | Updated: Oct 22, 2024 15:07 IST
+
+Kazan [Russia], October 22 (ANI): As Prime Minister Narendra Modi arrived at Hotel Korston in Kazan, Russian nationals warmly welcomed PM Modi, by singing Krishna Bhajan. PM Modi was seen listening to the Krishna Bhajan performed by the Russian nationals. PM Modi also greeted and interacted with members of the Indian diaspora as he arrived at Hotel Korston. He is here to attend the 16th BRICS Summit, being held under the Chairmanship of Russia. The Prime Minister is also expected to hold bilateral meetings with his counterparts from BRICS member countries. Notably, Prime Minister Narendra Modi on Tuesday touched down in Kazan city of Russia to participate in the 16th BRICS Summit. Upon arrival, PM Modi also witnessed a dance performance by the artists of the Russian community at Hotel Korston in Kazan. A Russian artist who performed along with her team, while speaking with ANI, said, "We were so excited and nervous, we rehearsed for this dance for nearly three months...The people really like PM Modi. He (PM Modi) said that we are exciting dancers." Meanwhile, PM Modi shared a post on X about his arrival in Kazan and said, "Landed in Kazan for the BRICS Summit. This is an important Summit, and the discussions here will contribute to a better planet."
+
+Landed in Kazan for the BRICS Summit. This is an important Summit, and the discussions here will contribute to a better planet. pic.twitter.com/miELPu2OJ9
+
+Randhir Jaiswal, official spokesperson of the Ministry of External Affairs also shared a post on X and said, "PM @narendramodi lands in the heritage city of Kazan, Russia. On arrival, PM was warmly received by the Head of the Republic of Tatarstan Rustam Minnikhanov."
+
+PM @narendramodi lands in the heritage city of Kazan, Russia. On arrival, PM was warmly received by the Head of the Republic of Tatarstan Rustam Minnikhanov. pic.twitter.com/BEP3G90ujr
+
+The 16th BRICS Summit in Kazan is being held under the chairmanship of Russia from October 22-24. During his visit, PM Modi is also expected to hold bilateral meetings with his counterparts from BRICS member countries and invited leaders in Kazan. The Ministry of External Affairs (MEA) said, "The Summit, themed 'Strengthening Multilateralism for Just Global Development and Security,' will provide an important platform for leaders to discuss key global issues." It further said, "The Summit will offer a valuable opportunity to assess the progress of initiatives launched by BRICS and to identify potential areas for future collaboration." This visit marks, PM Modi's second visit to Russia this year. He travelled to Moscow in July to attend the 22nd India-Russia Annual Summit where he held a bilateral meeting with President Putin. He was also conferred with Russia's highest civilian award, the Order of St. Andrew the Apostle at the Kremlin in Moscow. BRIC, as a formal grouping, started after the meeting of the Leaders of Russia, India and China in St Petersburg on the margins of G8 Outreach Summit in 2006. The grouping was formalized during the first meeting of BRIC Foreign Ministers on the margins of UNGA in New York in 2006. The first BRIC Summit was held in Russia's Yekaterinburg in 2009. It was agreed to expand BRIC into BRICS with the inclusion of South Africa at the BRIC Foreign Ministers' meeting in New York in 2010. South Africa attended the 3rd BRICS Summit in Sanya in 2011. A further expansion of BRICS took place in 2024 with five new members - Egypt, Ethiopia, Iran, Saudi Arabia, and the United Arab Emirates. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/pm-narendra-modi-welcomed-with-krishna-bhajan-upon-his-arrival-at-hotel-korston-in-kazan20241022150720/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to ANI News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for PM Narendra Modi welcomed with 'Krishna Bhajan' upon his arrival at Hotel Korston in Kazan.`,
+    primary_source: `ANI News`,
+  },
+  {
+    id: 97972,
+    title: `Singapore's Defence Minister Dr. Ng Eng Hen lays wreath at National War Memorial`,
+    slug: `singapores-defence-minister-dr-ng-eng-hen-lays-wreath-at-national-war-2026`,
+    original_title: `Singapore's Defence Minister Dr. Ng Eng Hen lays wreath at National War Memorial`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T12:59:31Z`,
+    updated_at: `2026-11-26T12:59:31Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/singapores-defence-minister-dr-ng-eng-hen-lays-wreath-at-national-war-memorial20241022112000/`,
+    source_courtesy: `Source: ANI News`,
+    image_url: `/images/articles/singapores-defence-minister-dr-ng-eng-hen-lays-wreath-at-national-war-2026.jpg`,
+    image_alt: `Singapore's Defence Minister Dr. Ng Eng Hen lays wreath at National War Memorial`,
+    image_courtesy: `Image: ANI News (External Source Attribution)`,
+    image_photographer: `ANI News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `ANI | Updated: Oct 22, 2024 11:20 IST`,
+    content: `ANI | Updated: Oct 22, 2024 11:20 IST
+
+New Delhi [ India ], October 22 (ANI): Dr. Ng Eng Hen , Singapore 's Minister of Defence, has begun his three-day visit to India by laying a wreath at the National War Memorial in New Delhi. As part of his visit, Dr. Ng Eng Hen on Tuesday will co-chair the sixth India - Singapore Defence Ministers' Dialogue in New Delhi, with his India n counterpart Rajnath Singh . A day before, the Ministry of Defence in a press release had said that Defence Minister Rajnath Singh and his Singapore counterpart Dr Ng Eng Hen will co-chair the sixth India - Singapore Defence Ministers' Dialogue in New Delhi on October 22, 2024.
+
+"The meeting aims to carry forward defence cooperation between the two countries. Both sides will also exchange views on regional and global issues of shared interest," the Ministry of Defence said. The release further said that India and Singapore share a Comprehensive Strategic Partnership. The bilateral defence relations form a significant pillar to this collaboration. The engagements have diversified to include wide-ranging contacts between the Services, military-to-military exchanges, high-level visits, capacity building and training programmes, cooperation in UN Peacekeeping, ship visits and bilateral exercises. Inaugurated in 2016, the India - Singapore Defence Ministers' Dialogue is a key platform to strengthen bilateral defence cooperation between Singapore and India . Dr Ng's visit to India underscores the strong and long-standing bilateral defence relationship between Singapore and India . Singapore is a key pillar of India 's Act East Policy, and an important partner of the Indo-Pacific vision. Defence and security partnership between the two countries is an important factor of stability in the Indo-Pacific region, the release by Ministry of Defence said. Notably, the Singapore an Defence Minister will be on a visit to India from October 21-23, 2024. The fifth edition of the Defence Ministers' Dialogue took place in January 2021 through virtual teleconference. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/singapores-defence-minister-dr-ng-eng-hen-lays-wreath-at-national-war-memorial20241022112000/)`,
+    title_en: `Singapore's Defence Minister Dr. Ng Eng Hen lays wreath at National War Memorial`,
+    summary_en: `ANI | Updated: Oct 22, 2024 11:20 IST`,
+    content_en: `ANI | Updated: Oct 22, 2024 11:20 IST
+
+New Delhi [ India ], October 22 (ANI): Dr. Ng Eng Hen , Singapore 's Minister of Defence, has begun his three-day visit to India by laying a wreath at the National War Memorial in New Delhi. As part of his visit, Dr. Ng Eng Hen on Tuesday will co-chair the sixth India - Singapore Defence Ministers' Dialogue in New Delhi, with his India n counterpart Rajnath Singh . A day before, the Ministry of Defence in a press release had said that Defence Minister Rajnath Singh and his Singapore counterpart Dr Ng Eng Hen will co-chair the sixth India - Singapore Defence Ministers' Dialogue in New Delhi on October 22, 2024.
+
+"The meeting aims to carry forward defence cooperation between the two countries. Both sides will also exchange views on regional and global issues of shared interest," the Ministry of Defence said. The release further said that India and Singapore share a Comprehensive Strategic Partnership. The bilateral defence relations form a significant pillar to this collaboration. The engagements have diversified to include wide-ranging contacts between the Services, military-to-military exchanges, high-level visits, capacity building and training programmes, cooperation in UN Peacekeeping, ship visits and bilateral exercises. Inaugurated in 2016, the India - Singapore Defence Ministers' Dialogue is a key platform to strengthen bilateral defence cooperation between Singapore and India . Dr Ng's visit to India underscores the strong and long-standing bilateral defence relationship between Singapore and India . Singapore is a key pillar of India 's Act East Policy, and an important partner of the Indo-Pacific vision. Defence and security partnership between the two countries is an important factor of stability in the Indo-Pacific region, the release by Ministry of Defence said. Notably, the Singapore an Defence Minister will be on a visit to India from October 21-23, 2024. The fifth edition of the Defence Ministers' Dialogue took place in January 2021 through virtual teleconference. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/singapores-defence-minister-dr-ng-eng-hen-lays-wreath-at-national-war-memorial20241022112000/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to ANI News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Singapore's Defence Minister Dr. Ng Eng Hen lays wreath at National War Memorial.`,
+    primary_source: `ANI News`,
+  },
+  {
+    id: 97973,
+    title: `Big blow for India as wrestling, field hockey, badminton, cricket, table tennis removed from CWG 2026`,
+    slug: `big-blow-for-india-as-wrestling-field-hockey-badminton-cricket-table-t-2026`,
+    original_title: `Big blow for India as wrestling, field hockey, badminton, cricket, table tennis removed from CWG 2026`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T12:59:47Z`,
+    updated_at: `2026-11-26T12:59:47Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/big-blow-for-india-as-wrestling-field-hockey-badminton-cricket-table-tennis-removed-from-cwg-202620241022145514/`,
+    source_courtesy: `Source: ANI News`,
+    image_url: `/images/articles/big-blow-for-india-as-wrestling-field-hockey-badminton-cricket-table-t-2026.jpg`,
+    image_alt: `Big blow for India as wrestling, field hockey, badminton, cricket, table tennis removed from CWG 2026`,
+    image_courtesy: `Image: ANI News (External Source Attribution)`,
+    image_photographer: `ANI News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `ANI | Updated: Oct 22, 2024 14:55 IST`,
+    content: `ANI | Updated: Oct 22, 2024 14:55 IST
+
+New Delhi [India], October 22 (ANI): In a massive blow to India's medal chances, cricket, field hockey, badminton, wrestling among others have been dropped from the programme for Commonwealth Games 2026 in Glasgow, which will be held from July 23 to August 2, 2026. The sporting event's return to the Scottish city after 12 events would not be as bright for the Indians as some of their best medal-scoring sports have been removed from the schedule. The CWG 2026 will be featuring only 10 sports across four venues placed within an eight-mile corridor, organisers Commonwealth Games Federation (CGF) announced on Tuesday, as per Olympics.com.
+
+The 10 Commonwealth sports that will compete across Glasgow in 2026 🤩 Which sport are you most looking forward to? #Glasgow2026 pic.twitter.com/Co8rOitq51
+
+More info on the #Glasgow2026 sports programme: https://t.co/1HwK4BcZzC
+
+The 10-sport itinerary for Glasgow 2026 includes athletics (track and field), swimming, 3x3 basketball, track cycling, weightlifting, lawn bowls, artistic gymnastics, netball, boxing and judo, The para variants of the first five will be part of the integrated para programme at the 2026 CWG. Four venues will be hosting the game, including Scotstoun Stadium, Tollcross International Swimming Centre, Emirates Arena - including the Sir Chris Hoy Velodrome, and the Scottish Event Campus (SEC). The list of sports for 2026 CWG is way more thinner than the 2022 edition in Birmingham, which had 20 sports. The sports excluded include hockey, cricket, badminton, wrestling, table tennis, diving, rugby sevens, beach volleyball, mountain biking, squash and rhythmic gymnastics. Shooting, which was earlier removed from the Birmingham 2022 CWG programme, is still not reinstated in the schedule. Shooting and wrestling have been dominant sports for India at CWG since its inception, having won 135 and 114 medals, including 63 and 49 gold medals respectively. In the last edition, India won 12 medals in wrestling, including six gold, a silver and five bronze medals. Field hockey's exclusion means the sport will be missing from the event for the first time since its CWG debut back in 1998. With a total of six medals shared between men's and women's team, including a gold, four silver and a bronze, India is the second-most successful field-hockey side in CWG behind Australia. India also has a stellar record in badminton, table tennis and squash at the CWG, having won 31 medals (including 10 gold), 28 medals (including 10 gold) and five medals (including a gold) across all editions of the competitions in which they were played. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/big-blow-for-india-as-wrestling-field-hockey-badminton-cricket-table-tennis-removed-from-cwg-202620241022145514/)`,
+    title_en: `Big blow for India as wrestling, field hockey, badminton, cricket, table tennis removed from CWG 2026`,
+    summary_en: `ANI | Updated: Oct 22, 2024 14:55 IST`,
+    content_en: `ANI | Updated: Oct 22, 2024 14:55 IST
+
+New Delhi [India], October 22 (ANI): In a massive blow to India's medal chances, cricket, field hockey, badminton, wrestling among others have been dropped from the programme for Commonwealth Games 2026 in Glasgow, which will be held from July 23 to August 2, 2026. The sporting event's return to the Scottish city after 12 events would not be as bright for the Indians as some of their best medal-scoring sports have been removed from the schedule. The CWG 2026 will be featuring only 10 sports across four venues placed within an eight-mile corridor, organisers Commonwealth Games Federation (CGF) announced on Tuesday, as per Olympics.com.
+
+The 10 Commonwealth sports that will compete across Glasgow in 2026 🤩 Which sport are you most looking forward to? #Glasgow2026 pic.twitter.com/Co8rOitq51
+
+More info on the #Glasgow2026 sports programme: https://t.co/1HwK4BcZzC
+
+The 10-sport itinerary for Glasgow 2026 includes athletics (track and field), swimming, 3x3 basketball, track cycling, weightlifting, lawn bowls, artistic gymnastics, netball, boxing and judo, The para variants of the first five will be part of the integrated para programme at the 2026 CWG. Four venues will be hosting the game, including Scotstoun Stadium, Tollcross International Swimming Centre, Emirates Arena - including the Sir Chris Hoy Velodrome, and the Scottish Event Campus (SEC). The list of sports for 2026 CWG is way more thinner than the 2022 edition in Birmingham, which had 20 sports. The sports excluded include hockey, cricket, badminton, wrestling, table tennis, diving, rugby sevens, beach volleyball, mountain biking, squash and rhythmic gymnastics. Shooting, which was earlier removed from the Birmingham 2022 CWG programme, is still not reinstated in the schedule. Shooting and wrestling have been dominant sports for India at CWG since its inception, having won 135 and 114 medals, including 63 and 49 gold medals respectively. In the last edition, India won 12 medals in wrestling, including six gold, a silver and five bronze medals. Field hockey's exclusion means the sport will be missing from the event for the first time since its CWG debut back in 1998. With a total of six medals shared between men's and women's team, including a gold, four silver and a bronze, India is the second-most successful field-hockey side in CWG behind Australia. India also has a stellar record in badminton, table tennis and squash at the CWG, having won 31 medals (including 10 gold), 28 medals (including 10 gold) and five medals (including a gold) across all editions of the competitions in which they were played. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/big-blow-for-india-as-wrestling-field-hockey-badminton-cricket-table-tennis-removed-from-cwg-202620241022145514/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to ANI News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Big blow for India as wrestling, field hockey, badminton, cricket, table tennis removed from CWG 2026.`,
+    primary_source: `ANI News`,
+  },
+  {
+    id: 97974,
+    title: `Think he will be fine for this Test...": Indian assistant coach Ryan on Gill's status for Pune Test`,
+    slug: `think-he-will-be-fine-for-this-test-indian-assistant-coach-ryan-on-gil-2026`,
+    original_title: `Think he will be fine for this Test...": Indian assistant coach Ryan on Gill's status for Pune Test`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T12:59:49Z`,
+    updated_at: `2026-11-26T12:59:49Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/think-he-will-be-fine-for-this-test-indian-assistant-coach-ryan-on-gills-status-for-pune-test20241022142707/`,
+    source_courtesy: `Source: ANI News`,
+    image_url: `/images/articles/think-he-will-be-fine-for-this-test-indian-assistant-coach-ryan-on-gil-2026.jpg`,
+    image_alt: `Think he will be fine for this Test...": Indian assistant coach Ryan on Gill's status for Pune Test`,
+    image_courtesy: `Image: ANI News (External Source Attribution)`,
+    image_photographer: `ANI News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `ANI | Updated: Oct 22, 2024 14:27 IST`,
+    content: `ANI | Updated: Oct 22, 2024 14:27 IST
+
+Pune (Maharashtra) [India], October 22 (ANI): Ahead of the second Test against New Zealand at Pune, Indian team assistant coach Ryan ten Doeschate confirmed that batter Shubman Gill is fit enough to feature in the game. Gill missed the first Test against the Kiwis at Bengaluru due to neck stiffness. His presence was missed as star batter Virat Kohli could not deliver runs at number three in the first innings and India lost the match by eight wickets, marking their first loss to Kiwis on home soil since 1988. Speaking about Gill during the pre-match presser, Ryan said, "He looks so (available for the next game). He has a slight discomfort. He batted for a long in Bengaluru in the nets session. I think he will be fine for this Test." Ryan said that the move to bring spin bowling all-rounder Washington Sundar to the squad for second and third Tests was not a "desperate measure", rather the team needs bowlers to turn away the ball from left-handers, with Kiwis having three frontline left-handed batters in skipper Tom Latham, Devon Conway and Rachin Ravindra. "Definitely not a desperate measure (to add Washington to the squad). We have Axar Patel (along with Ravichandran Ashwin and Ravindra Jadeja) in the squad. We wanted to have someone who can take the ball away from the lefties. We want that option. It is good to see guys getting rewarded for Ranji trophy. We have a lot of faith in the spinners we have," said Ryan. For the second and third Tests, Sundar has been added to the squad. This decision follows Sundar's outstanding performance in the ongoing Elite Group D Ranji Trophy match against Delhi. Sundar impressed with a remarkable 152 runs off 269 balls, featuring 19 fours and a six for Tamil Nadu. Batting at number three, a position different from his usual lower-middle-order slot, Sundar's innings was a pivotal moment in the match. Known for his all-round abilities, Sundar has proven his worth both as a spinner and a batter. In his Test career, he has scored 265 runs in four Tests and six innings, boasting an impressive average of 66.25. His achievements include three fifties, with a top score of 96 not out.
+
+Speaking about Rishabh Pant, who was hit in the knee in the same leg for which he underwent surgery, Ryan said Rishabh is looking good ahead of the match and expressed hope he will keep wickets in the match. "He was having slight discomfort while running towards the end range of the movement of his knee while running. Fingers crossed he will be fine to keep wickets in the second Test," said Ryan. During day two of the first Test, in NZ's first innings, Pant was hit on his right knee which forced him off the field during the 37th over. The ball delivered by Ravindra Jadeja turned, kept a little low and struck Pant on the leg where he had got the operation done. Dhruv Jurel kept wickets for the remainder of the innings. However, he returned to bat during Team India's second innings, scoring a brisk 99 in 105 balls, with nine fours and five sixes. Ryan also said that there are no concerns around KL Rahul's batting form, saying that he looks in a great space. "There is a fight for the spot (between Gill, KL and Sarfaraz). Sarfaraz was brilliant in the last game. I went to KL after the last game and asked how many balls you missed and he had not missed any. He is in good space but we will have to fit in seven players in six spots. So there is competition. There are no concerns about KL's form, he is batting well," said Ryan. KL, meanwhile has had a massively inconsistent run in Tests since 2022, averaging just 25.70 in 12 Tests and 21 innings, in which he has made 514 runs. He has scored a century and three fifties, with best score of 101. However, his record since December 2023, from the series against South Africa, for which he made a return to the Test side after being dropped, has been slightly better. In six Tests since December 2023, he has scored 339 runs in six Tests and 10 innings at an average of 37.66, with a century and two fifties. India squad for second and third Test against NZ: Rohit Sharma (C), Jasprit Bumrah (VC), Yashasvi Jaiswal, Shubman Gill, Virat Kohli, KL Rahul, Sarfaraz Khan, Rishabh Pant (WK), Dhruv Jurel (WK), Ravichandran Ashwin, Ravindra Jadeja, Axar Patel, Kuldeep Yadav, Mohd. Siraj, Akash Deep, Washington Sundar. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/think-he-will-be-fine-for-this-test-indian-assistant-coach-ryan-on-gills-status-for-pune-test20241022142707/)`,
+    title_en: `Think he will be fine for this Test...": Indian assistant coach Ryan on Gill's status for Pune Test`,
+    summary_en: `ANI | Updated: Oct 22, 2024 14:27 IST`,
+    content_en: `ANI | Updated: Oct 22, 2024 14:27 IST
+
+Pune (Maharashtra) [India], October 22 (ANI): Ahead of the second Test against New Zealand at Pune, Indian team assistant coach Ryan ten Doeschate confirmed that batter Shubman Gill is fit enough to feature in the game. Gill missed the first Test against the Kiwis at Bengaluru due to neck stiffness. His presence was missed as star batter Virat Kohli could not deliver runs at number three in the first innings and India lost the match by eight wickets, marking their first loss to Kiwis on home soil since 1988. Speaking about Gill during the pre-match presser, Ryan said, "He looks so (available for the next game). He has a slight discomfort. He batted for a long in Bengaluru in the nets session. I think he will be fine for this Test." Ryan said that the move to bring spin bowling all-rounder Washington Sundar to the squad for second and third Tests was not a "desperate measure", rather the team needs bowlers to turn away the ball from left-handers, with Kiwis having three frontline left-handed batters in skipper Tom Latham, Devon Conway and Rachin Ravindra. "Definitely not a desperate measure (to add Washington to the squad). We have Axar Patel (along with Ravichandran Ashwin and Ravindra Jadeja) in the squad. We wanted to have someone who can take the ball away from the lefties. We want that option. It is good to see guys getting rewarded for Ranji trophy. We have a lot of faith in the spinners we have," said Ryan. For the second and third Tests, Sundar has been added to the squad. This decision follows Sundar's outstanding performance in the ongoing Elite Group D Ranji Trophy match against Delhi. Sundar impressed with a remarkable 152 runs off 269 balls, featuring 19 fours and a six for Tamil Nadu. Batting at number three, a position different from his usual lower-middle-order slot, Sundar's innings was a pivotal moment in the match. Known for his all-round abilities, Sundar has proven his worth both as a spinner and a batter. In his Test career, he has scored 265 runs in four Tests and six innings, boasting an impressive average of 66.25. His achievements include three fifties, with a top score of 96 not out.
+
+Speaking about Rishabh Pant, who was hit in the knee in the same leg for which he underwent surgery, Ryan said Rishabh is looking good ahead of the match and expressed hope he will keep wickets in the match. "He was having slight discomfort while running towards the end range of the movement of his knee while running. Fingers crossed he will be fine to keep wickets in the second Test," said Ryan. During day two of the first Test, in NZ's first innings, Pant was hit on his right knee which forced him off the field during the 37th over. The ball delivered by Ravindra Jadeja turned, kept a little low and struck Pant on the leg where he had got the operation done. Dhruv Jurel kept wickets for the remainder of the innings. However, he returned to bat during Team India's second innings, scoring a brisk 99 in 105 balls, with nine fours and five sixes. Ryan also said that there are no concerns around KL Rahul's batting form, saying that he looks in a great space. "There is a fight for the spot (between Gill, KL and Sarfaraz). Sarfaraz was brilliant in the last game. I went to KL after the last game and asked how many balls you missed and he had not missed any. He is in good space but we will have to fit in seven players in six spots. So there is competition. There are no concerns about KL's form, he is batting well," said Ryan. KL, meanwhile has had a massively inconsistent run in Tests since 2022, averaging just 25.70 in 12 Tests and 21 innings, in which he has made 514 runs. He has scored a century and three fifties, with best score of 101. However, his record since December 2023, from the series against South Africa, for which he made a return to the Test side after being dropped, has been slightly better. In six Tests since December 2023, he has scored 339 runs in six Tests and 10 innings at an average of 37.66, with a century and two fifties. India squad for second and third Test against NZ: Rohit Sharma (C), Jasprit Bumrah (VC), Yashasvi Jaiswal, Shubman Gill, Virat Kohli, KL Rahul, Sarfaraz Khan, Rishabh Pant (WK), Dhruv Jurel (WK), Ravichandran Ashwin, Ravindra Jadeja, Axar Patel, Kuldeep Yadav, Mohd. Siraj, Akash Deep, Washington Sundar. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/think-he-will-be-fine-for-this-test-indian-assistant-coach-ryan-on-gills-status-for-pune-test20241022142707/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to ANI News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Think he will be fine for this Test...": Indian assistant coach Ryan on Gill's status for Pune Test.`,
+    primary_source: `ANI News`,
+  },
+{
     id: 97963,
     title: `Seven-star Mulder leads South Africa to 2-0 whitewash`,
     slug: `seven-star-mulder-leads-south-africa-to-2-0-whitewash-2026`,
