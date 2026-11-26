@@ -5,7 +5,147 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+  
   {
+    id: 97880,
+    title: `'It appeals across demographics': How steamy soap The Hunting Wives took on sex, scandal and the US's blue-red divide`,
+    slug: `how-steamy-soap-the-hunting-wives-took-on-sex-scandal-and-the-uss-blue-red-divide-2026`,
+    original_title: `'It appeals across demographics': How steamy soap The Hunting Wives took on sex, scandal and the US's blue-red divide`,
+    category: `entertainment`,
+    topic: `culture`,
+    language: `en`,
+    fomo_badge: `Culture Wire`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T05:55:30Z`,
+    updated_at: `2026-11-26T05:55:30Z`,
+    source_name: `BBC Culture`,
+    source_url: `https://www.bbc.com/culture/article/20261124-how-steamy-soap-the-hunting-wives-took-on-sex-scandal-and-the-uss-blue-red-divide`,
+    source_courtesy: `Source: BBC Culture`,
+    image_url: `/images/articles/how-steamy-soap-the-hunting-wives-took-on-sex-scandal-and-the-uss-blue-red-divide-2026.jpg`,
+    image_alt: `'It appeals across demographics': How steamy soap The Hunting Wives took on sex, scandal and the US's blue-red divide`,
+    image_courtesy: `Image Courtesy: BBC Culture`,
+    image_photographer: `BBC Culture`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Entertainment, Culture, Television, BBC Culture`,
+    summary: `Back for a second run, the Netflix show has been a big hit with its brazen depiction of a rich east Texas community full of secrets – and clashes between conservatives and liberals.`,
+    content: `The Netflix show has been a big hit with its brazen depiction of a rich east Texas community full of secrets – and clashes between conservatives and liberals. Now it's back for a second run, and promises to be even more outrageous.
+
+In the past few years, glossy shows about rich women with secrets have become one of TV's most popular sub-genres. But few have landed with quite the force of The Hunting Wives. Set in the affluent, fictional east Texas community of Maple Brook, Netflix's glossy soap centres on a clique of rich conservative women, led by formidable oil tycoon's wife Margo Banks (Malin Åkerman) – and their disruption by the arrival of Sophie O'Neil (Brittany Snow), a former political PR from the East Coast.
+
+As the married, politically-at-odds Sophie and Margo begin an affair, the show serves up a provocative, no-holds-barred mix of sex, scandal and culture war clashes, in a way that is very intentionally designed, Snow has said, "to shock people".
+
+Take the first five minutes of the opening episode of season one. Sophie first encounters Margo (Malin Åkerman) in the women's bathroom during a National Rifle Association gala. After asking Sophie for a sanitary pad, Margo then drops her gown to reveal her naked body.
+
+Margo is offered a Xanax recreationally by Sophie, and the pair promptly "toast" their tablets, as Margo purrs playfully to Sophie: "Well, I just think this party just got a whole load better". Outside, Margo's Stetson-wearing husband, Texas governor hopeful Jed Banks (Dermot Mulroney), delivers a fiery speech on the necessity of firearms to fend off the "personas malos" who "keep pouring in every day".
+
+Audiences eagerly embraced the first series' brazen style: it's earned more than 35 million views so far on Netflix and hit number one in 10 countries, including the US. Its second season, released tomorrow, delivers even more sensational drama. True to contemporary TV tropes, the show is centred on a murder investigation. But the real drama lies in the relationship between Sophie and Margo, and the elite families' salacious double lives.
+
+The Hunting Wives has been talked about as part of a new wave of so-called "red state" TV shows – series set in rural America that feature conservative or conservative-coded characters and explore the issues affecting them. Most notably, these include Taylor Sheridan's universe of series like Yellowstone, Landman and this year's Dutton Ranch. What the success of these shows highlights is the appetite for dramas that focus on the experiences of US citizens beyond the coastal cities .
+
+The Hunting Wives pulls off a neat trick, skewering both sides of the political divide. It depicts the Republican elite of east Texas as hypocritical – one character gets an abortion, then makes a crass joke to the other women about targeting abortion clinics. But it is similarly mocking of its Democrat-leaning characters, newbie Sophie, and her husband Graham (Evan Jonigkeit), metropolitan liberals whose morals seem to crumble quickly as they attempt to become part of this community.
+
+"Its appeal cuts across demographics," says Judy Berman, TV critic at Time magazine. "The Hunting Wives is cunning in that, instead of really engaging with or taking a position on partisan issues, it hinges on the crassness of politics as a performance. Sophie is an East Coast liberal who used to work in political PR; Margo is campaigning to become the right-wing First Lady of Texas. And they make such a dynamic match because they both think about optics more than ethics."
+
+"I think that if there's one thing red and blue America can agree on right now, it's that politics is a deeply cynical business," Berman adds.
+
+For all its heightened soap-opera antics, Taylor Prewitt, an editor at Texas Monthly magazine, says The Hunting Wives accurately reflects the varied political landscape in the US's second biggest state. Indeed, she points out, this traditional "red state" has just turned blue in the midterms, with the election of James Talarico as the state's first elected Democratic US senator in almost 30 years.
+
+"We're made up of a lot of different political ideologies which maybe you don't encounter in a more homogenous state. Texans often have to interact with someone of opposing views, whatever their own personal beliefs might be. That teasing and poking across the aisle that you see in the show – the judgements that the characters have for one another – is something that people here encounter a lot."
+
+The showrunner, Rebecca Cutter, previously explained to the Wall Street Journal : "Texas is the tip of the spear of the culture war. So I said, 'Let's dive into that' and see if we can make that fun and not preachy," and added that the show "makes fun of everyone equally".
+
+An element of the show that has predictably attracted a lot of attention is the sex. As well as Sophie and Margo's sensual lust-across-the-political-divide, other female characters are also shown getting intimate with each other. Meanwhile in a scene of a kind rarely seen on mainstream TV, one woman is shown pleasuring her husband with a sex toy.
+
+This centring of female pleasure in a glossy, mainstream soap is striking – and something that led the host of the Call Her Daddy podcast, Alex Cooper, to ask Åkerman if the show was conscientiously created for the female gaze.
+
+"Absolutely," Åkerman replied. "It has been really great to have a female showrunner and creator, female directors, women that I get to work with who I adore… to be able to have these conversations with our lady directors and go, what do we find sexy? What do we think would look beautiful?"
+
+• 10 of the best TV shows to watch this December
+
+• Why a new small-screen Carrie is annoying people
+
+• 19 of the best TV shows so far in 2026
+
+Indeed, second time around, Netflix are leaning far more into the show's eroticism – irreverent, traffic-stopping billboards in Los Angeles advertising the new season have shown hands suggestively moving over guns, holsters, and Stetsons.
+
+Before the second series has aired, a third has already been confirmed by Netflix – which shows just how much faith they have in this show's enduring appeal to a wide cross-section of viewers. As Prewitt says, the main appeal is obviously "the scandal and the sex", but adds "ultimately the story is very well-told and very engaging" in depicting Texan life.
+
+Whether it's politics or parties, Prewitt says that for her Texans are defined by a certain ostentatiousness: "We love flash, drama, largesse". So far, certainly, the Hunting Wives has managed to channel this OTT spirit into something that speaks to many Americans looking for a good time.
+
+The Hunting Wives season two is released on Netflix internationally on 26 November.
+
+---
+
+**Original Source:** [BBC Culture](https://www.bbc.com/culture/article/20261124-how-steamy-soap-the-hunting-wives-took-on-sex-scandal-and-the-uss-blue-red-divide)`,
+    title_en: `'It appeals across demographics': How steamy soap The Hunting Wives took on sex, scandal and the US's blue-red divide`,
+    summary_en: `Back for a second run, the Netflix show has been a big hit with its brazen depiction of a rich east Texas community full of secrets – and clashes between conservatives and liberals.`,
+    content_en: `The Netflix show has been a big hit with its brazen depiction of a rich east Texas community full of secrets – and clashes between conservatives and liberals. Now it's back for a second run, and promises to be even more outrageous.
+
+In the past few years, glossy shows about rich women with secrets have become one of TV's most popular sub-genres. But few have landed with quite the force of The Hunting Wives. Set in the affluent, fictional east Texas community of Maple Brook, Netflix's glossy soap centres on a clique of rich conservative women, led by formidable oil tycoon's wife Margo Banks (Malin Åkerman) – and their disruption by the arrival of Sophie O'Neil (Brittany Snow), a former political PR from the East Coast.
+
+As the married, politically-at-odds Sophie and Margo begin an affair, the show serves up a provocative, no-holds-barred mix of sex, scandal and culture war clashes, in a way that is very intentionally designed, Snow has said, "to shock people".
+
+Take the first five minutes of the opening episode of season one. Sophie first encounters Margo (Malin Åkerman) in the women's bathroom during a National Rifle Association gala. After asking Sophie for a sanitary pad, Margo then drops her gown to reveal her naked body.
+
+Margo is offered a Xanax recreationally by Sophie, and the pair promptly "toast" their tablets, as Margo purrs playfully to Sophie: "Well, I just think this party just got a whole load better". Outside, Margo's Stetson-wearing husband, Texas governor hopeful Jed Banks (Dermot Mulroney), delivers a fiery speech on the necessity of firearms to fend off the "personas malos" who "keep pouring in every day".
+
+Audiences eagerly embraced the first series' brazen style: it's earned more than 35 million views so far on Netflix and hit number one in 10 countries, including the US. Its second season, released tomorrow, delivers even more sensational drama. True to contemporary TV tropes, the show is centred on a murder investigation. But the real drama lies in the relationship between Sophie and Margo, and the elite families' salacious double lives.
+
+The Hunting Wives has been talked about as part of a new wave of so-called "red state" TV shows – series set in rural America that feature conservative or conservative-coded characters and explore the issues affecting them. Most notably, these include Taylor Sheridan's universe of series like Yellowstone, Landman and this year's Dutton Ranch. What the success of these shows highlights is the appetite for dramas that focus on the experiences of US citizens beyond the coastal cities .
+
+The Hunting Wives pulls off a neat trick, skewering both sides of the political divide. It depicts the Republican elite of east Texas as hypocritical – one character gets an abortion, then makes a crass joke to the other women about targeting abortion clinics. But it is similarly mocking of its Democrat-leaning characters, newbie Sophie, and her husband Graham (Evan Jonigkeit), metropolitan liberals whose morals seem to crumble quickly as they attempt to become part of this community.
+
+"Its appeal cuts across demographics," says Judy Berman, TV critic at Time magazine. "The Hunting Wives is cunning in that, instead of really engaging with or taking a position on partisan issues, it hinges on the crassness of politics as a performance. Sophie is an East Coast liberal who used to work in political PR; Margo is campaigning to become the right-wing First Lady of Texas. And they make such a dynamic match because they both think about optics more than ethics."
+
+"I think that if there's one thing red and blue America can agree on right now, it's that politics is a deeply cynical business," Berman adds.
+
+For all its heightened soap-opera antics, Taylor Prewitt, an editor at Texas Monthly magazine, says The Hunting Wives accurately reflects the varied political landscape in the US's second biggest state. Indeed, she points out, this traditional "red state" has just turned blue in the midterms, with the election of James Talarico as the state's first elected Democratic US senator in almost 30 years.
+
+"We're made up of a lot of different political ideologies which maybe you don't encounter in a more homogenous state. Texans often have to interact with someone of opposing views, whatever their own personal beliefs might be. That teasing and poking across the aisle that you see in the show – the judgements that the characters have for one another – is something that people here encounter a lot."
+
+The showrunner, Rebecca Cutter, previously explained to the Wall Street Journal : "Texas is the tip of the spear of the culture war. So I said, 'Let's dive into that' and see if we can make that fun and not preachy," and added that the show "makes fun of everyone equally".
+
+An element of the show that has predictably attracted a lot of attention is the sex. As well as Sophie and Margo's sensual lust-across-the-political-divide, other female characters are also shown getting intimate with each other. Meanwhile in a scene of a kind rarely seen on mainstream TV, one woman is shown pleasuring her husband with a sex toy.
+
+This centring of female pleasure in a glossy, mainstream soap is striking – and something that led the host of the Call Her Daddy podcast, Alex Cooper, to ask Åkerman if the show was conscientiously created for the female gaze.
+
+"Absolutely," Åkerman replied. "It has been really great to have a female showrunner and creator, female directors, women that I get to work with who I adore… to be able to have these conversations with our lady directors and go, what do we find sexy? What do we think would look beautiful?"
+
+• 10 of the best TV shows to watch this December
+
+• Why a new small-screen Carrie is annoying people
+
+• 19 of the best TV shows so far in 2026
+
+Indeed, second time around, Netflix are leaning far more into the show's eroticism – irreverent, traffic-stopping billboards in Los Angeles advertising the new season have shown hands suggestively moving over guns, holsters, and Stetsons.
+
+Before the second series has aired, a third has already been confirmed by Netflix – which shows just how much faith they have in this show's enduring appeal to a wide cross-section of viewers. As Prewitt says, the main appeal is obviously "the scandal and the sex", but adds "ultimately the story is very well-told and very engaging" in depicting Texan life.
+
+Whether it's politics or parties, Prewitt says that for her Texans are defined by a certain ostentatiousness: "We love flash, drama, largesse". So far, certainly, the Hunting Wives has managed to channel this OTT spirit into something that speaks to many Americans looking for a good time.
+
+The Hunting Wives season two is released on Netflix internationally on 26 November.
+
+---
+
+**Original Source:** [BBC Culture](https://www.bbc.com/culture/article/20261124-how-steamy-soap-the-hunting-wives-took-on-sex-scandal-and-the-uss-blue-red-divide)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Back for a second run, the Netflix show has been a big hit with its brazen depiction of a rich east Texas community full of secrets – and clashes between conservatives and liberals.`,
+    who_is_affected: `Readers following global television and cultural commentary.`,
+    what_readers_are_searching_for: `'It appeals across demographics': How steamy soap The Hunting Wives took on sex, scandal and the US's blue-red divide`,
+    primary_source: `BBC Culture`,
+  },
+{
     id: 97878,
     title: `🏏 Shanto: 'We have to do consistently well to go to the next level'`,
     slug: `shanto-we-have-to-do-consistently-well-to-go-to-the-next-level-2026`,
