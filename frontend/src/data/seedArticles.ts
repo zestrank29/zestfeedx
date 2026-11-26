@@ -10,6 +10,3242 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+
+  
+  {
+    id: 97963,
+    title: `Seven-star Mulder leads South Africa to 2-0 whitewash`,
+    slug: `seven-star-mulder-leads-south-africa-to-2-0-whitewash-2026`,
+    original_title: `Seven-star Mulder leads South Africa to 2-0 whitewash`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:22:21Z`,
+    updated_at: `2026-11-26T06:22:21Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1563890.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Seven-star Mulder leads South Africa to 2-0 whitewash`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `The allrounder's century and seven-wicket haul helped South Africa inflict an innings defeat on Bangladesh`,
+    content: `The allrounder's century and seven-wicket haul helped South Africa inflict an innings defeat on Bangladesh
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563890.html?ex_cid=OTC-RSS)`,
+    title_en: `Seven-star Mulder leads South Africa to 2-0 whitewash`,
+    summary_en: `The allrounder's century and seven-wicket haul helped South Africa inflict an innings defeat on Bangladesh`,
+    content_en: `The allrounder's century and seven-wicket haul helped South Africa inflict an innings defeat on Bangladesh
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563890.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-south-africa-vs-bangladesh-2026`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-26 11:52:21 IST`,
+    detected_at: `2026-11-26T06:22:20Z`,
+    verified_at: `2026-11-26T06:22:21Z`,
+    approved_at: `2026-11-26T06:22:21Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Seven-star Mulder leads South Africa to 2-0 whitewash.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 97964,
+    title: `Rocchiccioli 140, Wasley 88 turn tables on Tasmania`,
+    slug: `rocchiccioli-140-wasley-88-turn-tables-on-tasmania-2026`,
+    original_title: `Rocchiccioli 140, Wasley 88 turn tables on Tasmania`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:22:21Z`,
+    updated_at: `2026-11-26T06:22:21Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1563883.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1517649763962-0c623266ddc0?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Rocchiccioli 140, Wasley 88 turn tables on Tasmania`,
+    image_courtesy: `Photo: Stadium Photography Wire (Unsplash License)`,
+    image_photographer: `Stadium Photography Wire`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `The spectacular 170-run seventh-wicket partnership between Rocchiccioli and Wasley has given Western Australia a sniff of victory`,
+    content: `The spectacular 170-run seventh-wicket partnership between Rocchiccioli and Wasley has given Western Australia a sniff of victory
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563883.html?ex_cid=OTC-RSS)`,
+    title_en: `Rocchiccioli 140, Wasley 88 turn tables on Tasmania`,
+    summary_en: `The spectacular 170-run seventh-wicket partnership between Rocchiccioli and Wasley has given Western Australia a sniff of victory`,
+    content_en: `The spectacular 170-run seventh-wicket partnership between Rocchiccioli and Wasley has given Western Australia a sniff of victory
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563883.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-97964`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-26 11:52:21 IST`,
+    detected_at: `2026-11-26T06:22:20Z`,
+    verified_at: `2026-11-26T06:22:21Z`,
+    approved_at: `2026-11-26T06:22:21Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Rocchiccioli 140, Wasley 88 turn tables on Tasmania.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 97935,
+    title: `Anaemia prevalence lower than earlier estimates, severe cases below 2 per cent: ICMR survey - ET HealthWorld`,
+    slug: `anaemia-prevalence-lower-than-earlier-estimates-severe-cases-below-2-p-2026`,
+    original_title: `Anaemia prevalence lower than earlier estimates, severe cases below 2 per cent: ICMR survey - ET HealthWorld`,
+    category: `health`,
+    topic: `public-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:20:45Z`,
+    updated_at: `2026-11-26T06:20:45Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://health.economictimes.indiatimes.com/amp/news/industry/anaemia-prevalence-lower-than-earlier-estimates-severe-cases-below-2-per-cent-icmr-survey/136117234`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/anaemia-prevalence-lower-than-earlier-estimates-severe-cases-below-2-p-2026.jpg`,
+    image_alt: `Anaemia prevalence lower than earlier estimates, severe cases below 2 per cent: ICMR survey - ET HealthWorld`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `New Delhi: The prevalence of anaemia in India is lower than reported in previous national surveys, with severe anaemia accounting for less than two per cent of cases across most age groups, according to findings of the ICMR's SAMPADA survey`,
+    content: `New Delhi: The prevalence of anaemia in India is lower than reported in previous national surveys, with severe anaemia accounting for less than two per cent of cases across most age groups, according to findings of the ICMR's SAMPADA survey released on Monday.The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA), conducted during 2023-25, covered more than two lakh individuals from over 81,000 households across 183 districts in 35 states and Union territories.More than 1.7 lakh blood samples were analysed for haemoglobin estimation across different age, sex and physiological groups.A major strength of SAMPADA is the 'gold standard' method of venous blood sampling and automated analysers for haemoglobin estimation, providing greater accuracy and reproducibility, the ministry said in a statement.In a sub-sample, the survey also assessed iron status, folate, vitamin B12, together with inflammatory biomarkers C-reactive protein (CRP) and alpha-1-acid glycoprotein (AGP) to obtain national-level prevalence estimates.The survey found anaemia prevalence of 42 per cent among children aged 12-59 months, 46 per cent among adolescent girls aged 10-19 years, 22-23 per cent among adolescent boys and men aged 20-59 years, and 56 per cent among women of reproductive age.The findings also showed that most cases of anaemia were mild, indicating an opportunity for early intervention, the Department of Health Research said.About half of anaemic women, including pregnant and lactating women, adolescent girls and children, had mild anaemia.Iron deficiency was found to account for about half of the anaemia burden among women, adolescent girls and children, the findings showed.Among adolescent boys, adult men and older men who were anaemic, around three-fourths had mild anaemia."SAMPADA provides nationally representative estimates of anaemia across children, adolescents, adults, pregnant and lactating women and older adults, together with detailed information on micronutrient deficiencies to evaluate potential causes of anaemia," said Dr Rajiv Bahl, Secretary, Department of Health Research and Director General of ICMR."It is encouraging that the prevalence of anaemia is lower in SAMPADA compared to previous national surveys.
+
+The comprehensive anaemia profiling in SAMPADA survey provides an evidence base to strengthen the ongoing national efforts towards Anaemia Mukt Bharat," he said.However, the survey indicated that anaemia cannot be attributed to iron deficiency alone and that infections, haemoglobinopathies and inflammation associated with chronic diseases also need to be addressed.Vitamin B12 and folate deficiency were found to be similar among anaemic and non-anaemic individuals across population groups, suggesting a limited contribution of these deficiencies to anaemia in India.Iron deficiency was concentrated in specific life stages, particularly among children under five, adolescent girls and women of reproductive age, while adolescent boys, men and older adults had relatively low prevalence of iron deficiency.The survey also found a high prevalence of iron deficiency among people with moderate and severe anaemia, underscoring the need for testing and appropriate treatment, the department said."The findings support more targeted, population-specific and life-course approaches to anaemia prevention and management.
+
+The evidence can contribute, while also identifying areas where further research and improved surveillance are required," said Dr Bharati Kulkarni, Director, ICMR-NIN.The survey is among the largest nutrition surveys undertaken globally and provides nationally representative evidence on anaemia and micronutrient deficiencies across the life course, the department said.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://health.economictimes.indiatimes.com/amp/news/industry/anaemia-prevalence-lower-than-earlier-estimates-severe-cases-below-2-per-cent-icmr-survey/136117234)`,
+    title_en: `Anaemia prevalence lower than earlier estimates, severe cases below 2 per cent: ICMR survey - ET HealthWorld`,
+    summary_en: `New Delhi: The prevalence of anaemia in India is lower than reported in previous national surveys, with severe anaemia accounting for less than two per cent of cases across most age groups, according to findings of the ICMR's SAMPADA survey`,
+    content_en: `New Delhi: The prevalence of anaemia in India is lower than reported in previous national surveys, with severe anaemia accounting for less than two per cent of cases across most age groups, according to findings of the ICMR's SAMPADA survey released on Monday.The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA), conducted during 2023-25, covered more than two lakh individuals from over 81,000 households across 183 districts in 35 states and Union territories.More than 1.7 lakh blood samples were analysed for haemoglobin estimation across different age, sex and physiological groups.A major strength of SAMPADA is the 'gold standard' method of venous blood sampling and automated analysers for haemoglobin estimation, providing greater accuracy and reproducibility, the ministry said in a statement.In a sub-sample, the survey also assessed iron status, folate, vitamin B12, together with inflammatory biomarkers C-reactive protein (CRP) and alpha-1-acid glycoprotein (AGP) to obtain national-level prevalence estimates.The survey found anaemia prevalence of 42 per cent among children aged 12-59 months, 46 per cent among adolescent girls aged 10-19 years, 22-23 per cent among adolescent boys and men aged 20-59 years, and 56 per cent among women of reproductive age.The findings also showed that most cases of anaemia were mild, indicating an opportunity for early intervention, the Department of Health Research said.About half of anaemic women, including pregnant and lactating women, adolescent girls and children, had mild anaemia.Iron deficiency was found to account for about half of the anaemia burden among women, adolescent girls and children, the findings showed.Among adolescent boys, adult men and older men who were anaemic, around three-fourths had mild anaemia."SAMPADA provides nationally representative estimates of anaemia across children, adolescents, adults, pregnant and lactating women and older adults, together with detailed information on micronutrient deficiencies to evaluate potential causes of anaemia," said Dr Rajiv Bahl, Secretary, Department of Health Research and Director General of ICMR."It is encouraging that the prevalence of anaemia is lower in SAMPADA compared to previous national surveys.
+
+The comprehensive anaemia profiling in SAMPADA survey provides an evidence base to strengthen the ongoing national efforts towards Anaemia Mukt Bharat," he said.However, the survey indicated that anaemia cannot be attributed to iron deficiency alone and that infections, haemoglobinopathies and inflammation associated with chronic diseases also need to be addressed.Vitamin B12 and folate deficiency were found to be similar among anaemic and non-anaemic individuals across population groups, suggesting a limited contribution of these deficiencies to anaemia in India.Iron deficiency was concentrated in specific life stages, particularly among children under five, adolescent girls and women of reproductive age, while adolescent boys, men and older adults had relatively low prevalence of iron deficiency.The survey also found a high prevalence of iron deficiency among people with moderate and severe anaemia, underscoring the need for testing and appropriate treatment, the department said."The findings support more targeted, population-specific and life-course approaches to anaemia prevention and management.
+
+The evidence can contribute, while also identifying areas where further research and improved surveillance are required," said Dr Bharati Kulkarni, Director, ICMR-NIN.The survey is among the largest nutrition surveys undertaken globally and provides nationally representative evidence on anaemia and micronutrient deficiencies across the life course, the department said.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://health.economictimes.indiatimes.com/amp/news/industry/anaemia-prevalence-lower-than-earlier-estimates-severe-cases-below-2-per-cent-icmr-survey/136117234)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Anaemia prevalence lower than earlier estimates, severe cases below 2 per cent: ICMR survey - ET HealthWorld.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 97936,
+    title: `41.8% of Indian children aged 12–59 months have anaemia; highest in Andhra Pradesh, lowest in Keralam: ICMR - The South First`,
+    slug: `418-of-indian-children-aged-1259-months-have-anaemia-highest-in-andhra-2026`,
+    original_title: `41.8% of Indian children aged 12–59 months have anaemia; highest in Andhra Pradesh, lowest in Keralam: ICMR - The South First`,
+    category: `health`,
+    topic: `public-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:20:48Z`,
+    updated_at: `2026-11-26T06:20:48Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://thesouthfirst.com/health/41-8-of-indian-children-aged-12-59-months-have-anaemia-highest-in-andhra-pradesh-lowest-in-keralam-icmr/`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/418-of-indian-children-aged-1259-months-have-anaemia-highest-in-andhra-2026.jpg`,
+    image_alt: `41.8% of Indian children aged 12–59 months have anaemia; highest in Andhra Pradesh, lowest in Keralam: ICMR - The South First`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `Synopsis: The ICMR-NIN SAMPADA survey finds anaemia in 41.8 percent of children aged 12–59 months and 31.3 percent of those aged 5–9 years. Andhra Pradesh records the highest estimate among younger children, while Chhattisgarh leads among o`,
+    content: `Synopsis: The ICMR-NIN SAMPADA survey finds anaemia in 41.8 percent of children aged 12–59 months and 31.3 percent of those aged 5–9 years. Andhra Pradesh records the highest estimate among younger children, while Chhattisgarh leads among older children. Keralam reports the lowest estimates in both age groups.
+
+More than two in five children aged 12–59 months in India have anaemia, with Andhra Pradesh recording the highest state-level estimate and Keralam the lowest, according to a new national survey by the Indian Council of Medical Research (ICMR) released on 23 November. The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA) 2023–25 found that 41.8 percent of children aged 12–59 months had anaemia.
+
+The prevalence was 57.5 percent in Andhra Pradesh, while Keralam recorded 14.5 percent. The survey also found that 31.3 percent of children aged 5–9 years had anaemia nationally. Chhattisgarh recorded the highest state-level estimate in this age group, at 59.9 percent, followed by Ladakh at 59.3 percent.
+
+Keralam again reported the lowest estimate, at 9.8 percent. These rankings are based on the survey's point estimates. The 95 percent confidence intervals overlap for some states, including Andhra Pradesh, Gujarat and Chhattisgarh among younger children, and Chhattisgarh and Ladakh among children aged 5–9 years.
+
+The findings indicate that anaemia remains a considerable nutritional and public health concern among children, although its prevalence varies significantly across states and age groups. The findings are part of one of India's most comprehensive assessments of anaemia and micronutrient deficiencies across the life course.
+
+Unlike earlier assessments that largely focused on women and young children, SAMPADA provides estimates across different age groups, including school-age children and older adults. Also Read: Medical scans add to carbon footprint: Hyderabad-based AIG Hospitals study finds greener alternative
+More than two in five children aged 12–59 months have anaemia
+According to the survey, 41.8 percent of children aged 12–59 months had anaemia, with the prevalence marginally higher in rural areas (42 percent) than urban areas (41.2 percent).
+
+Of the children in this age group, 23.3 percent had mild anaemia, 17 percent had moderate anaemia and 1.5 percent had severe anaemia. The rural-urban differences were also visible in the severity estimates. Mild anaemia affected 24.1 percent of children in rural areas and 20.7 percent in urban areas.
+
+Moderate anaemia was reported in 16.5 percent of rural children and 18.6 percent of urban children. Severe anaemia affected 1.3 percent of children in rural areas and 1.9 percent in urban areas. Anaemia persists among children aged 5–9 years
+The survey found that 31.3 percent of children aged 5–9 years had anaemia, meaning nearly one in three children in this age group were affected.
+
+The prevalence was higher in rural areas, at 31.9 percent, compared with 29.2 percent in urban areas. Among children in this age group, 12.9 percent had mild anaemia, 17.4 percent had moderate anaemia and 1 percent had severe anaemia. Unlike the pattern observed among children aged 12–59 months, moderate anaemia accounted for a larger proportion of cases than mild anaemia in the 5–9 age group.
+
+Moderate anaemia affected 17.9 percent of rural children and 15.9 percent of urban children. Severe anaemia was reported in 1 percent of rural children and 0.9 percent of urban children. The findings underline that anaemia remains a concern even after children move beyond their early years, reinforcing the importance of nutritional assessment and interventions during school age.
+
+Also Read: Can damaged spinal cord nerves grow back? Hyderabad’s CCMB scientists find two genes restoring movement
+Andhra Pradesh has the highest estimate among children aged 12–59 months
+The state-wise findings show substantial variations in anaemia prevalence among children aged 12–59 months.
+
+Andhra Pradesh recorded the highest state-level estimate, at 57.5 percent, followed by Gujarat at 56.5 percent and Chhattisgarh at 55.6 percent. The Andaman and Nicobar Islands reported 51.3 percent. At the other end, Keralam recorded the lowest estimate at 14.5 percent, followed by Uttarakhand at 14.6 percent, Mizoram at 14.8 percent and Goa at 17.4 percent.
+
+Among the southern states, Telangana reported 47.4 percent prevalence, Tamil Nadu 43.3 percent and Karnataka 35.6 percent, in addition to Andhra Pradesh and Keralam. Chhattisgarh records the highest estimate among children aged 5–9 years
+The state-wise picture changes among children aged 5–9 years.
+
+Chhattisgarh recorded the highest point estimate in this age group, with 59.9 percent of children having anaemia. Ladakh followed closely at 59.3 percent, while Gujarat reported 51.7 percent. Keralam again recorded the lowest prevalence, at 9.8 percent, followed by Himachal Pradesh at 11.9 percent and Puducherry at 14.5 percent.
+
+Among southern states, Andhra Pradesh reported 32 percent, Telangana 23.8 percent, Tamil Nadu 22.2 percent and Karnataka 20.3 percent. The findings show that Andhra Pradesh's particularly high prevalence among younger children does not translate into the highest prevalence among school-age children.
+
+Instead, Chhattisgarh and Ladakh report substantially higher estimates in the 5–9 age group. Also Read: Karnataka could see 9.41 lakh dementia cases by 2036; experts stress need for early diagnosis
+South India presents contrasting patterns
+The five southern states show considerable differences in childhood anaemia.
+
+Andhra Pradesh reported 57.5 percent prevalence among children aged 12–59 months and 32 percent among those aged 5–9 years. Telangana recorded 47.4 percent and 23.8 percent, respectively. Tamil Nadu reported 43.3 percent among younger children and 22.2 percent among school-age children.
+
+Karnataka's corresponding estimates were 35.6 percent and 20.3 percent, while Keralam recorded 14.5 percent and 9.8 percent. The figures suggest that the prevalence of anaemia is considerably lower in Keralam across both age groups, while Andhra Pradesh reports a much higher burden among children aged 12–59 months.
+
+However, the difference between states should be interpreted alongside the survey's confidence intervals and sampling design. The estimates describe population-level prevalence and do not establish the reasons behind the differences. Also Read: When the DJ gets louder, the damage goes beyond the ears: How noise affects the heart and newborns
+ICMR uses venous blood sampling for haemoglobin estimation
+The ICMR-National Institute of Nutrition (ICMR-NIN) conducted SAMPADA between 2023 and 2025, covering more than 2 lakh individuals from over 81,000 households across 183 districts in 35 States and Union Territories.
+
+More than 1.7 lakh blood samples were analysed as part of the survey. One of the key methodological strengths of the survey was the use of venous blood samples and automated analysers to measure haemoglobin. The institute said this approach provides greater accuracy and reproducibility than point-of-care devices used in previous national surveys.
+
+Haemoglobin was measured within four to six hours of sample collection in field laboratories, with quality checks and centralised validation undertaken throughout the process. The survey used the World Health Organization's 2024 haemoglobin cut-offs to define anaemia across age groups and physiological categories.
+
+For children aged 12–23 months, anaemia was defined as haemoglobin below 10.5 g/dL, while the threshold for children aged 24–59 months was below 11 g/dL. For children aged 5–9 years, the threshold was below 11.5 g/dL. ICMR-NIN has reported that the overall anaemia estimates are lower than those recorded in previous national surveys.
+
+The institute attributes greater accuracy and reproducibility to the use of venous blood sampling and automated analysers compared with point-of-care methods. (Edited by Dese Gowda)
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://thesouthfirst.com/health/41-8-of-indian-children-aged-12-59-months-have-anaemia-highest-in-andhra-pradesh-lowest-in-keralam-icmr/)`,
+    title_en: `41.8% of Indian children aged 12–59 months have anaemia; highest in Andhra Pradesh, lowest in Keralam: ICMR - The South First`,
+    summary_en: `Synopsis: The ICMR-NIN SAMPADA survey finds anaemia in 41.8 percent of children aged 12–59 months and 31.3 percent of those aged 5–9 years. Andhra Pradesh records the highest estimate among younger children, while Chhattisgarh leads among o`,
+    content_en: `Synopsis: The ICMR-NIN SAMPADA survey finds anaemia in 41.8 percent of children aged 12–59 months and 31.3 percent of those aged 5–9 years. Andhra Pradesh records the highest estimate among younger children, while Chhattisgarh leads among older children. Keralam reports the lowest estimates in both age groups.
+
+More than two in five children aged 12–59 months in India have anaemia, with Andhra Pradesh recording the highest state-level estimate and Keralam the lowest, according to a new national survey by the Indian Council of Medical Research (ICMR) released on 23 November. The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA) 2023–25 found that 41.8 percent of children aged 12–59 months had anaemia.
+
+The prevalence was 57.5 percent in Andhra Pradesh, while Keralam recorded 14.5 percent. The survey also found that 31.3 percent of children aged 5–9 years had anaemia nationally. Chhattisgarh recorded the highest state-level estimate in this age group, at 59.9 percent, followed by Ladakh at 59.3 percent.
+
+Keralam again reported the lowest estimate, at 9.8 percent. These rankings are based on the survey's point estimates. The 95 percent confidence intervals overlap for some states, including Andhra Pradesh, Gujarat and Chhattisgarh among younger children, and Chhattisgarh and Ladakh among children aged 5–9 years.
+
+The findings indicate that anaemia remains a considerable nutritional and public health concern among children, although its prevalence varies significantly across states and age groups. The findings are part of one of India's most comprehensive assessments of anaemia and micronutrient deficiencies across the life course.
+
+Unlike earlier assessments that largely focused on women and young children, SAMPADA provides estimates across different age groups, including school-age children and older adults. Also Read: Medical scans add to carbon footprint: Hyderabad-based AIG Hospitals study finds greener alternative
+More than two in five children aged 12–59 months have anaemia
+According to the survey, 41.8 percent of children aged 12–59 months had anaemia, with the prevalence marginally higher in rural areas (42 percent) than urban areas (41.2 percent).
+
+Of the children in this age group, 23.3 percent had mild anaemia, 17 percent had moderate anaemia and 1.5 percent had severe anaemia. The rural-urban differences were also visible in the severity estimates. Mild anaemia affected 24.1 percent of children in rural areas and 20.7 percent in urban areas.
+
+Moderate anaemia was reported in 16.5 percent of rural children and 18.6 percent of urban children. Severe anaemia affected 1.3 percent of children in rural areas and 1.9 percent in urban areas. Anaemia persists among children aged 5–9 years
+The survey found that 31.3 percent of children aged 5–9 years had anaemia, meaning nearly one in three children in this age group were affected.
+
+The prevalence was higher in rural areas, at 31.9 percent, compared with 29.2 percent in urban areas. Among children in this age group, 12.9 percent had mild anaemia, 17.4 percent had moderate anaemia and 1 percent had severe anaemia. Unlike the pattern observed among children aged 12–59 months, moderate anaemia accounted for a larger proportion of cases than mild anaemia in the 5–9 age group.
+
+Moderate anaemia affected 17.9 percent of rural children and 15.9 percent of urban children. Severe anaemia was reported in 1 percent of rural children and 0.9 percent of urban children. The findings underline that anaemia remains a concern even after children move beyond their early years, reinforcing the importance of nutritional assessment and interventions during school age.
+
+Also Read: Can damaged spinal cord nerves grow back? Hyderabad’s CCMB scientists find two genes restoring movement
+Andhra Pradesh has the highest estimate among children aged 12–59 months
+The state-wise findings show substantial variations in anaemia prevalence among children aged 12–59 months.
+
+Andhra Pradesh recorded the highest state-level estimate, at 57.5 percent, followed by Gujarat at 56.5 percent and Chhattisgarh at 55.6 percent. The Andaman and Nicobar Islands reported 51.3 percent. At the other end, Keralam recorded the lowest estimate at 14.5 percent, followed by Uttarakhand at 14.6 percent, Mizoram at 14.8 percent and Goa at 17.4 percent.
+
+Among the southern states, Telangana reported 47.4 percent prevalence, Tamil Nadu 43.3 percent and Karnataka 35.6 percent, in addition to Andhra Pradesh and Keralam. Chhattisgarh records the highest estimate among children aged 5–9 years
+The state-wise picture changes among children aged 5–9 years.
+
+Chhattisgarh recorded the highest point estimate in this age group, with 59.9 percent of children having anaemia. Ladakh followed closely at 59.3 percent, while Gujarat reported 51.7 percent. Keralam again recorded the lowest prevalence, at 9.8 percent, followed by Himachal Pradesh at 11.9 percent and Puducherry at 14.5 percent.
+
+Among southern states, Andhra Pradesh reported 32 percent, Telangana 23.8 percent, Tamil Nadu 22.2 percent and Karnataka 20.3 percent. The findings show that Andhra Pradesh's particularly high prevalence among younger children does not translate into the highest prevalence among school-age children.
+
+Instead, Chhattisgarh and Ladakh report substantially higher estimates in the 5–9 age group. Also Read: Karnataka could see 9.41 lakh dementia cases by 2036; experts stress need for early diagnosis
+South India presents contrasting patterns
+The five southern states show considerable differences in childhood anaemia.
+
+Andhra Pradesh reported 57.5 percent prevalence among children aged 12–59 months and 32 percent among those aged 5–9 years. Telangana recorded 47.4 percent and 23.8 percent, respectively. Tamil Nadu reported 43.3 percent among younger children and 22.2 percent among school-age children.
+
+Karnataka's corresponding estimates were 35.6 percent and 20.3 percent, while Keralam recorded 14.5 percent and 9.8 percent. The figures suggest that the prevalence of anaemia is considerably lower in Keralam across both age groups, while Andhra Pradesh reports a much higher burden among children aged 12–59 months.
+
+However, the difference between states should be interpreted alongside the survey's confidence intervals and sampling design. The estimates describe population-level prevalence and do not establish the reasons behind the differences. Also Read: When the DJ gets louder, the damage goes beyond the ears: How noise affects the heart and newborns
+ICMR uses venous blood sampling for haemoglobin estimation
+The ICMR-National Institute of Nutrition (ICMR-NIN) conducted SAMPADA between 2023 and 2025, covering more than 2 lakh individuals from over 81,000 households across 183 districts in 35 States and Union Territories.
+
+More than 1.7 lakh blood samples were analysed as part of the survey. One of the key methodological strengths of the survey was the use of venous blood samples and automated analysers to measure haemoglobin. The institute said this approach provides greater accuracy and reproducibility than point-of-care devices used in previous national surveys.
+
+Haemoglobin was measured within four to six hours of sample collection in field laboratories, with quality checks and centralised validation undertaken throughout the process. The survey used the World Health Organization's 2024 haemoglobin cut-offs to define anaemia across age groups and physiological categories.
+
+For children aged 12–23 months, anaemia was defined as haemoglobin below 10.5 g/dL, while the threshold for children aged 24–59 months was below 11 g/dL. For children aged 5–9 years, the threshold was below 11.5 g/dL. ICMR-NIN has reported that the overall anaemia estimates are lower than those recorded in previous national surveys.
+
+The institute attributes greater accuracy and reproducibility to the use of venous blood sampling and automated analysers compared with point-of-care methods. (Edited by Dese Gowda)
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://thesouthfirst.com/health/41-8-of-indian-children-aged-12-59-months-have-anaemia-highest-in-andhra-pradesh-lowest-in-keralam-icmr/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for 41.8% of Indian children aged 12–59 months have anaemia; highest in Andhra Pradesh, lowest in Keralam: ICMR - The South First.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 97937,
+    title: `बच्चों में सर्दी और दमा की गंभीरता से बचाव के लिए इंफ्लूएंजा का लगाएं वार्षिक टीका - Jagran`,
+    slug: `health-breaking-report-25457-97937-2026`,
+    original_title: `बच्चों में सर्दी और दमा की गंभीरता से बचाव के लिए इंफ्लूएंजा का लगाएं वार्षिक टीका - Jagran`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:20:50Z`,
+    updated_at: `2026-11-26T06:20:50Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/uttar-pradesh/varanasi-city-annual-vaccination-against-influenza-to-prevent-severity-of-colds-and-asthma-in-children-40447844.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/health-breaking-report-25457-97937-2026.webp`,
+    image_alt: `बच्चों में सर्दी और दमा की गंभीरता से बचाव के लिए इंफ्लूएंजा का लगाएं वार्षिक टीका - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `सर्दी के मौसम में बच्चों में एलर्जी, दमा, सर्दी-जुकाम और डायरिया जैसे मामले बढ़ रहे हैं। 'हेलो जागरण' कार्यक्रम में शिशु रोग विशेषज्ञ डॉ. राहुल कुमार सिंह ने बच्चों के स्वास्थ्य, बचाव और उपचार पर महत्वपूर्ण जानकारी दी।`,
+    content: `सर्दी के मौसम में बच्चों में एलर्जी, दमा, सर्दी-जुकाम और डायरिया जैसे मामले बढ़ रहे हैं। 'हेलो जागरण' कार्यक्रम में शिशु रोग विशेषज्ञ डॉ. राहुल कुमार सिंह ने बच्चों के स्वास्थ्य, बचाव और उपचार पर महत्वपूर्ण जानकारी दी।
+
+बच्चों को सर्दी से बचाने के लिए गर्म कपड़े पहनाएं।
+
+6 माह से 5 साल के बच्चों को फ्लू टीका लगवाएं।
+
+डेंगू, दमा, एनीमिया के लक्षणों पर तुरंत डॉक्टर को दिखाएं।
+
+जागरण संवाददाता, वाराणसी। सर्दी का मौसम शुरू हो चुका है। ओपीडी में एलर्जी, दमा, सर्दी, जुकाम, बुखार व डायरिया के मरीज अधिक आ रहे हैं। वहीं कुछ मरीजों में डेंगू, स्क्रब टाइफस के मरीज भी देखने को मिल रहे हैं। सर्दी से बचाव को लेकर बच्चों को मौसम के अनुसार गर्म कपड़े सुबह-शाम अवश्य पहनाएं।
+
+यह ध्यान रहे कि शरीर पूरी तरह ढका रहे। छह महीने से पांच साल तक के बच्चों को इंफ्लूएंजा का वार्षिक टीका जरूर लगवा लेना चाहिए। इससे सर्दी और कुछ हद तक दमें की गंभीरता से बचा जा सकता है।
+
+दैनिक जागरण के लोकप्रिय कार्यक्रम ‘हेलो जागरण’ में बुधवार को पं. दीनदयाल उपाध्याय अस्पताल के शिशु रोग विशेष डा. राहुल कुमार सिंह ने पाठकों से बात की। इन्होंने संक्रमण, बुखार, सामान्य सर्दी-जुकाम, फ्लू, गले में खराश, निमोनिया, पेट, पाचन की समस्याएं, दस्त, उल्टी, पेट दर्द या नवजात में पोषण से जुड़ी समस्याएं, कुपोषण, एनीमिया आदि संबंधित जानकारी दी। साथ ही बचाव व उपचार के बारे में भी बताया।
+
+मेरा पांच साल का बच्चा है। सर में दर्द, तेज बुखार, उल्टी और शरीर में लाल दाने निकल रहे हैं क्या करें? सुनीता (दुर्गाकुंड)
+
+यह डेंगू का लक्षण हो सकता है। इसके लिए आप अपने नजदीकी स्वास्थ्य केंद्र पर बाल रोग चिकित्सक से मिलकर करके सीबीसी, डेंगू, एलएफटी की जांच कराने की आवश्यकता है। रिपोर्ट के आधार पर आगे का इलाज किया जाएगा।
+
+दो साल का बच्चा है हर एक घंटे पर दस्त कर रहा है चार दिन से एंटीबायोटिक दे रहे है, लेकिन आराम नहीं मिल रहा है क्या करें? अमित (सारनाथ) एंटीबायोटिक अपने मन से नहीं लेना चाहिए। सर्दी के मौसम में बच्चे को वायरल डायरिया अक्सर हो जाता है। इसमें किसी तरह का एंटीबायोटिक का इस्तेमाल नहीं होता है। बच्चे में निर्जलीकरण के लक्षण होने पर नजदीकी स्वास्थ्य केंद्र जाएं या घर में सुपाच्य भोजन एवं ओआरएस का घोल पीने से ठीक हो सकता है।
+
+मेरी बच्ची 13 साल की है। लंबाई नहीं बढ़ रहा है क्या करें? राजेश यादव (काशी विद्यापीठ)
+
+बच्चों की लंबाई अनुवांशिक एवं माता-पिता की लंबाई के अनुपात (मिड पेरेंटल हाइट) में ही होती हैं। साथ ही कुपोषण, पेट में केंचुआ की वजह से हो सकता है। ऐसे में केचुआ से बचाव के लिए 1-14 साल के बच्चों को हर छह माह पर एल्बेंडाजोल की दवा दें। जंग फूड देने की बजाए पौष्टिक भोजन दें। इससे बच्चे का स्वास्थ्य बेहतर होगा और लंबाई भी बढ़ेगी।
+
+10 साल की बच्ची है और पांच दिन से सांस तेज चल रही है और आज से सांस में सीटी जैसी आवाज आ रही है क्या करें? विवेक (राजातालाब) - यह बच्चे में दमा का लक्षण हो सकता है। इसे गंभीरता से लेने की जरूरत है। इस मौसम में पराली के जलने और वायु प्रदूषण बढ़ने की वजह से समस्या की गंभीरता देखने को मिल रही है। सांस में सीटी जैसी आवाज आने पर स्वास्थ्य केंद्र में विशेषज्ञ डाक्टर से मिलकर नेबुलाइज, आक्सीजन, एचएचएचएफएनसी का सपोर्ट लें।
+
+16 साल की लड़की है चलने में थक जा रही है और कोई भी काम करने में असमर्थ है। साथ ही हथेली सफेद पड़ चुकी है क्या करें? क्षमा (बड़ागांव)
+
+यह गंभीर एनीमिया का लक्षण हो सकता है। नजदीकी स्वास्थ्य केंद्र पर जाकर चिकित्सक की सलाह से जरूरी जांच कराएं और आवश्यक हो तो रक्त चढ़वा लेना चाहिए।
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/uttar-pradesh/varanasi-city-annual-vaccination-against-influenza-to-prevent-severity-of-colds-and-asthma-in-children-40447844.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `बच्चों में सर्दी और दमा की गंभीरता से बचाव के लिए इंफ्लूएंजा का लगाएं वार्षिक टीका - Jagran`,
+    summary_hi: `सर्दी के मौसम में बच्चों में एलर्जी, दमा, सर्दी-जुकाम और डायरिया जैसे मामले बढ़ रहे हैं। 'हेलो जागरण' कार्यक्रम में शिशु रोग विशेषज्ञ डॉ. राहुल कुमार सिंह ने बच्चों के स्वास्थ्य, बचाव और उपचार पर महत्वपूर्ण जानकारी दी।`,
+    content_hi: `सर्दी के मौसम में बच्चों में एलर्जी, दमा, सर्दी-जुकाम और डायरिया जैसे मामले बढ़ रहे हैं। 'हेलो जागरण' कार्यक्रम में शिशु रोग विशेषज्ञ डॉ. राहुल कुमार सिंह ने बच्चों के स्वास्थ्य, बचाव और उपचार पर महत्वपूर्ण जानकारी दी।
+
+बच्चों को सर्दी से बचाने के लिए गर्म कपड़े पहनाएं।
+
+6 माह से 5 साल के बच्चों को फ्लू टीका लगवाएं।
+
+डेंगू, दमा, एनीमिया के लक्षणों पर तुरंत डॉक्टर को दिखाएं।
+
+जागरण संवाददाता, वाराणसी। सर्दी का मौसम शुरू हो चुका है। ओपीडी में एलर्जी, दमा, सर्दी, जुकाम, बुखार व डायरिया के मरीज अधिक आ रहे हैं। वहीं कुछ मरीजों में डेंगू, स्क्रब टाइफस के मरीज भी देखने को मिल रहे हैं। सर्दी से बचाव को लेकर बच्चों को मौसम के अनुसार गर्म कपड़े सुबह-शाम अवश्य पहनाएं।
+
+यह ध्यान रहे कि शरीर पूरी तरह ढका रहे। छह महीने से पांच साल तक के बच्चों को इंफ्लूएंजा का वार्षिक टीका जरूर लगवा लेना चाहिए। इससे सर्दी और कुछ हद तक दमें की गंभीरता से बचा जा सकता है।
+
+दैनिक जागरण के लोकप्रिय कार्यक्रम ‘हेलो जागरण’ में बुधवार को पं. दीनदयाल उपाध्याय अस्पताल के शिशु रोग विशेष डा. राहुल कुमार सिंह ने पाठकों से बात की। इन्होंने संक्रमण, बुखार, सामान्य सर्दी-जुकाम, फ्लू, गले में खराश, निमोनिया, पेट, पाचन की समस्याएं, दस्त, उल्टी, पेट दर्द या नवजात में पोषण से जुड़ी समस्याएं, कुपोषण, एनीमिया आदि संबंधित जानकारी दी। साथ ही बचाव व उपचार के बारे में भी बताया।
+
+मेरा पांच साल का बच्चा है। सर में दर्द, तेज बुखार, उल्टी और शरीर में लाल दाने निकल रहे हैं क्या करें? सुनीता (दुर्गाकुंड)
+
+यह डेंगू का लक्षण हो सकता है। इसके लिए आप अपने नजदीकी स्वास्थ्य केंद्र पर बाल रोग चिकित्सक से मिलकर करके सीबीसी, डेंगू, एलएफटी की जांच कराने की आवश्यकता है। रिपोर्ट के आधार पर आगे का इलाज किया जाएगा।
+
+दो साल का बच्चा है हर एक घंटे पर दस्त कर रहा है चार दिन से एंटीबायोटिक दे रहे है, लेकिन आराम नहीं मिल रहा है क्या करें? अमित (सारनाथ) एंटीबायोटिक अपने मन से नहीं लेना चाहिए। सर्दी के मौसम में बच्चे को वायरल डायरिया अक्सर हो जाता है। इसमें किसी तरह का एंटीबायोटिक का इस्तेमाल नहीं होता है। बच्चे में निर्जलीकरण के लक्षण होने पर नजदीकी स्वास्थ्य केंद्र जाएं या घर में सुपाच्य भोजन एवं ओआरएस का घोल पीने से ठीक हो सकता है।
+
+मेरी बच्ची 13 साल की है। लंबाई नहीं बढ़ रहा है क्या करें? राजेश यादव (काशी विद्यापीठ)
+
+बच्चों की लंबाई अनुवांशिक एवं माता-पिता की लंबाई के अनुपात (मिड पेरेंटल हाइट) में ही होती हैं। साथ ही कुपोषण, पेट में केंचुआ की वजह से हो सकता है। ऐसे में केचुआ से बचाव के लिए 1-14 साल के बच्चों को हर छह माह पर एल्बेंडाजोल की दवा दें। जंग फूड देने की बजाए पौष्टिक भोजन दें। इससे बच्चे का स्वास्थ्य बेहतर होगा और लंबाई भी बढ़ेगी।
+
+10 साल की बच्ची है और पांच दिन से सांस तेज चल रही है और आज से सांस में सीटी जैसी आवाज आ रही है क्या करें? विवेक (राजातालाब) - यह बच्चे में दमा का लक्षण हो सकता है। इसे गंभीरता से लेने की जरूरत है। इस मौसम में पराली के जलने और वायु प्रदूषण बढ़ने की वजह से समस्या की गंभीरता देखने को मिल रही है। सांस में सीटी जैसी आवाज आने पर स्वास्थ्य केंद्र में विशेषज्ञ डाक्टर से मिलकर नेबुलाइज, आक्सीजन, एचएचएचएफएनसी का सपोर्ट लें।
+
+16 साल की लड़की है चलने में थक जा रही है और कोई भी काम करने में असमर्थ है। साथ ही हथेली सफेद पड़ चुकी है क्या करें? क्षमा (बड़ागांव)
+
+यह गंभीर एनीमिया का लक्षण हो सकता है। नजदीकी स्वास्थ्य केंद्र पर जाकर चिकित्सक की सलाह से जरूरी जांच कराएं और आवश्यक हो तो रक्त चढ़वा लेना चाहिए।
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/uttar-pradesh/varanasi-city-annual-vaccination-against-influenza-to-prevent-severity-of-colds-and-asthma-in-children-40447844.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक बच्चों में सर्दी और दमा की गंभीरता से बचाव के लिए इंफ्लूएंजा का लगाएं वार्षिक टीका - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+  {
+    id: 97938,
+    title: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    slug: `health-breaking-report-82132-97938-2026`,
+    original_title: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:20:52Z`,
+    updated_at: `2026-11-26T06:20:52Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/c5m2lke8jdzzo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/health-breaking-report-82132-97938-2026.jpg`,
+    image_alt: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.`,
+    content: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.
+
+साल 2025 में भारत, पाकिस्तान, इंडोनेशिया, यूक्रेन, नाइजीरिया और इथियोपिया समेत 57 देशों में खसरे के बड़े प्रकोप दर्ज किए गए.
+
+विशेषज्ञों का कहना है कि मामलों में बढ़ोतरी का सीधा संबंध टीकाकरण की घटती दरों से है. विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) के मुताबिक़, साल 2019 में दुनियाभर के 86% बच्चों को खसरे के टीके की पहली खुराक दी गई थी, लेकिन साल 2025 तक यह आंकड़ा घटकर 84% हो गया.
+
+हालांकि ये दोनों आंकड़े भी उस 95% टीकाकरण कवरेज से काफ़ी कम हैं, जो किसी आबादी में खसरे के प्रसार को रोकने के लिए ज़रूरी है.
+
+टीकाकरण के प्रति हिचकिचाहट, टीकाकरण की कम दरों के पीछे एक प्रमुख कारण है. टीकों की सुरक्षा, उनके असर और उनके दुष्प्रभावों को लेकर चिंताएं ऑनलाइन ग़लत सूचनाओं के प्रसार से और बढ़ जाती हैं.
+
+लंदन स्कूल ऑफ़ हाइजीन एंड ट्रॉपिकल मेडिसिन में बाल स्वास्थ्य की प्रोफेसर हेलेन बेडफोर्ड कहती हैं, "इंटरनेट और मीडिया के इस दौर में टीकाकरण से जुड़े मिथक, अफ़वाहें और चिंताएं बहुत तेज़ी से दुनियाभर में फैल सकती हैं."
+
+हालांकि, ब्रिटेन की यूनिवर्सिटी ऑफ हडर्सफ़ील्ड में निवारक स्वास्थ्य की शोधकर्ता सुज़ाना कोला-पामर का कहना है कि टीकाकरण को लेकर हिचकिचाने वाले लोगों को तुरंत टीका-विरोधी नहीं मान लेना चाहिए.
+
+वह बीबीसी वर्ल्ड सर्विस से कहती हैं कि इसके बजाय, उनमें से कई लोग सिर्फ़ "आश्वासन चाहते हैं."
+
+तो वैज्ञानिक कैसे तय करते हैं कि कोई टीका सुरक्षित है और आप ऑनलाइन फैलाई जा रही ग़लत सूचनाओं की पहचान कैसे कर सकते हैं?
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+आज भी टीकों के विकास को चिकित्सा विज्ञान की सबसे बड़ी उपलब्धियों में से एक माना जाता है. डब्ल्यूएचओ का अनुमान है कि खसरा, टिटनेस, डिप्थीरिया और इन्फ्लुएंजा जैसी बीमारियों से हर साल 35 लाख से 50 लाख लोगों की जान बचाने में टीके मदद करते हैं.
+
+टीका शरीर की प्रतिरक्षा प्रणाली (इम्यून सिस्टम) को किसी संक्रमण की पहचान करना और उससे लड़ना सिखाता है, ताकि वास्तविक संक्रमण के संपर्क में आने से पहले ही शरीर उससे निपटने के लिए तैयार हो जाए.
+
+बेडफोर्ड बताती हैं, "टीके वास्तविक संक्रमण से गुज़रे बिना ही वह इम्यूनिटी दे देते हैं, जो आमतौर पर वास्तव में संक्रमण होने पर शरीर में विकसित होती है."
+
+उदाहरण के लिए, मम्प्स (गलसुआ), खसरा और रूबेला (एमएमआर) का टीका इन बीमारियों का कारण बनने वाले वायरस के कमज़ोर रूपों से तैयार किया जाता है. इसे शरीर में इंजेक्ट करने पर प्रतिरक्षा प्रणाली सक्रिय हो जाती है और भविष्य में वास्तविक संक्रमण के संपर्क में आने पर वह उसे पहचानकर तुरंत प्रतिक्रिया देती है.
+
+हालांकि, सभी टीके एक ही तरह से काम नहीं करते.
+
+मैसेंजर आरएनए (एमआरएनए) टीकों में आनुवंशिक निर्देशों का इस्तेमाल किया जाता है, जो अस्थायी रूप से कोशिकाओं को बिना नुक़सान वाले प्रोटीन बनाने के लिए कहते हैं.
+
+यह प्रोटीन शरीर में इम्यून रेस्पॉन्स पैदा करता है. फाइज़र का कोविड-19 टीका एमआरएनए टीके का एक उदाहरण है.
+
+### टीकों का परीक्षण कैसे किया जाता है?
+
+यह प्रक्रिया वैज्ञानिक शोध से शुरू होती है. इसमें यह देखा जाता है कि इस विषय पर क्षेत्र के दूसरे शोधकर्ताओं ने क्या काम किया है और वे किन निष्कर्षों पर पहुंचे हैं.
+
+जब वैज्ञानिक किसी नए विचार का परीक्षण करने के लिए तैयार होते हैं, तो वे प्रयोगशाला में जांच शुरू करते हैं. जांच सबसे पहले कोशिकाओं पर और फिर जानवरों पर, जिनमें अक्सर चूहों का इस्तेमाल किया जाता है.
+
+ऑक्सफोर्ड यूनिवर्सिटी के वैक्सीन नॉलेज प्रोजेक्ट के मुताबिक़, अगले चरण के परीक्षणों में जाने से पहले यह साबित करना ज़रूरी होता है कि परीक्षण किया जा रहा टीका जानवरों में इम्यून रेस्पॉन्स पैदा कर सकता है.
+
+इसके बाद इंसानों पर परीक्षण किए जाते हैं, जिन्हें आमतौर पर तीन चरणों में बांटा जाता है.
+
+फेज़ 1- पहले चरण में वॉलंटियर्स के एक छोटे समूह पर परीक्षण किया जाता है. इनमें आमतौर पर युवा और स्वस्थ वयस्क शामिल होते हैं. डब्ल्यूएचओ के मुताबिक़, इस चरण में सुरक्षा से जुड़ी किसी बड़ी चिंता और टीके की सही खुराक का पता लगाया जाता है.
+
+फेज़ 2- दूसरे चरण में स्वयंसेवकों के एक बड़े समूह पर परीक्षण किया जाता है. इसमें आमतौर पर कई सौ लोग शामिल होते हैं, जो उस आबादी से होते हैं जिसके लिए टीका तैयार किया गया है.
+
+उनकी तुलना ऐसे लोगों के एक समूह से की जाती है जिन्हें टीका नहीं दिया गया होता. इसे कंट्रोल ग्रुप कहा जाता है. डॉक्टर टीके के संभावित दुष्प्रभावों और शरीर की प्रतिरक्षा प्रतिक्रिया का अध्ययन करते हैं.
+
+फेज़ 3- तीसरे चरण में इससे भी बड़े समूह पर टीके का परीक्षण किया जाता है. इसमें आमतौर पर हज़ारों वॉलंटियर्स शामिल होते हैं. साथ ही एक कंट्रोल ग्रुप भी रखा जाता है.
+
+ये परीक्षण आमतौर पर अलग-अलग देशों में किए जाते हैं, ताकि यह सुनिश्चित किया जा सके कि टीका अलग-अलग उम्र, जातीयता (एथनेसिटी), सामाजिक पृष्ठभूमि और रहन-सहन वाले लोगों के बीच प्रभावी और सुरक्षित है.
+
+किसी टीके को इन तीनों चरणों से गुज़रने में कई दशक भी लग सकते हैं. मेनबी के नाम से जाने जाने वाले मेनिंगोकोकल बीमारी के टीके को विकसित करने में क़रीब 15 साल लगे थे.
+
+बेडफोर्ड कहती हैं, "जब आप किसी पूरी आबादी के स्वस्थ बच्चों को कोई टीका देने जा रहे होते हैं, तो आपको पूरी तरह आश्वस्त होना पड़ता है कि वह बहुत सुरक्षित है."
+
+हालांकि, असाधारण परिस्थितियों में सुरक्षा जांच से समझौता किए बिना टीकों को तेज़ी से विकसित और उनका परीक्षण किया जा सकता है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c5m2lke8jdzzo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    summary_hi: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.`,
+    content_hi: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.
+
+साल 2025 में भारत, पाकिस्तान, इंडोनेशिया, यूक्रेन, नाइजीरिया और इथियोपिया समेत 57 देशों में खसरे के बड़े प्रकोप दर्ज किए गए.
+
+विशेषज्ञों का कहना है कि मामलों में बढ़ोतरी का सीधा संबंध टीकाकरण की घटती दरों से है. विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) के मुताबिक़, साल 2019 में दुनियाभर के 86% बच्चों को खसरे के टीके की पहली खुराक दी गई थी, लेकिन साल 2025 तक यह आंकड़ा घटकर 84% हो गया.
+
+हालांकि ये दोनों आंकड़े भी उस 95% टीकाकरण कवरेज से काफ़ी कम हैं, जो किसी आबादी में खसरे के प्रसार को रोकने के लिए ज़रूरी है.
+
+टीकाकरण के प्रति हिचकिचाहट, टीकाकरण की कम दरों के पीछे एक प्रमुख कारण है. टीकों की सुरक्षा, उनके असर और उनके दुष्प्रभावों को लेकर चिंताएं ऑनलाइन ग़लत सूचनाओं के प्रसार से और बढ़ जाती हैं.
+
+लंदन स्कूल ऑफ़ हाइजीन एंड ट्रॉपिकल मेडिसिन में बाल स्वास्थ्य की प्रोफेसर हेलेन बेडफोर्ड कहती हैं, "इंटरनेट और मीडिया के इस दौर में टीकाकरण से जुड़े मिथक, अफ़वाहें और चिंताएं बहुत तेज़ी से दुनियाभर में फैल सकती हैं."
+
+हालांकि, ब्रिटेन की यूनिवर्सिटी ऑफ हडर्सफ़ील्ड में निवारक स्वास्थ्य की शोधकर्ता सुज़ाना कोला-पामर का कहना है कि टीकाकरण को लेकर हिचकिचाने वाले लोगों को तुरंत टीका-विरोधी नहीं मान लेना चाहिए.
+
+वह बीबीसी वर्ल्ड सर्विस से कहती हैं कि इसके बजाय, उनमें से कई लोग सिर्फ़ "आश्वासन चाहते हैं."
+
+तो वैज्ञानिक कैसे तय करते हैं कि कोई टीका सुरक्षित है और आप ऑनलाइन फैलाई जा रही ग़लत सूचनाओं की पहचान कैसे कर सकते हैं?
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+आज भी टीकों के विकास को चिकित्सा विज्ञान की सबसे बड़ी उपलब्धियों में से एक माना जाता है. डब्ल्यूएचओ का अनुमान है कि खसरा, टिटनेस, डिप्थीरिया और इन्फ्लुएंजा जैसी बीमारियों से हर साल 35 लाख से 50 लाख लोगों की जान बचाने में टीके मदद करते हैं.
+
+टीका शरीर की प्रतिरक्षा प्रणाली (इम्यून सिस्टम) को किसी संक्रमण की पहचान करना और उससे लड़ना सिखाता है, ताकि वास्तविक संक्रमण के संपर्क में आने से पहले ही शरीर उससे निपटने के लिए तैयार हो जाए.
+
+बेडफोर्ड बताती हैं, "टीके वास्तविक संक्रमण से गुज़रे बिना ही वह इम्यूनिटी दे देते हैं, जो आमतौर पर वास्तव में संक्रमण होने पर शरीर में विकसित होती है."
+
+उदाहरण के लिए, मम्प्स (गलसुआ), खसरा और रूबेला (एमएमआर) का टीका इन बीमारियों का कारण बनने वाले वायरस के कमज़ोर रूपों से तैयार किया जाता है. इसे शरीर में इंजेक्ट करने पर प्रतिरक्षा प्रणाली सक्रिय हो जाती है और भविष्य में वास्तविक संक्रमण के संपर्क में आने पर वह उसे पहचानकर तुरंत प्रतिक्रिया देती है.
+
+हालांकि, सभी टीके एक ही तरह से काम नहीं करते.
+
+मैसेंजर आरएनए (एमआरएनए) टीकों में आनुवंशिक निर्देशों का इस्तेमाल किया जाता है, जो अस्थायी रूप से कोशिकाओं को बिना नुक़सान वाले प्रोटीन बनाने के लिए कहते हैं.
+
+यह प्रोटीन शरीर में इम्यून रेस्पॉन्स पैदा करता है. फाइज़र का कोविड-19 टीका एमआरएनए टीके का एक उदाहरण है.
+
+### टीकों का परीक्षण कैसे किया जाता है?
+
+यह प्रक्रिया वैज्ञानिक शोध से शुरू होती है. इसमें यह देखा जाता है कि इस विषय पर क्षेत्र के दूसरे शोधकर्ताओं ने क्या काम किया है और वे किन निष्कर्षों पर पहुंचे हैं.
+
+जब वैज्ञानिक किसी नए विचार का परीक्षण करने के लिए तैयार होते हैं, तो वे प्रयोगशाला में जांच शुरू करते हैं. जांच सबसे पहले कोशिकाओं पर और फिर जानवरों पर, जिनमें अक्सर चूहों का इस्तेमाल किया जाता है.
+
+ऑक्सफोर्ड यूनिवर्सिटी के वैक्सीन नॉलेज प्रोजेक्ट के मुताबिक़, अगले चरण के परीक्षणों में जाने से पहले यह साबित करना ज़रूरी होता है कि परीक्षण किया जा रहा टीका जानवरों में इम्यून रेस्पॉन्स पैदा कर सकता है.
+
+इसके बाद इंसानों पर परीक्षण किए जाते हैं, जिन्हें आमतौर पर तीन चरणों में बांटा जाता है.
+
+फेज़ 1- पहले चरण में वॉलंटियर्स के एक छोटे समूह पर परीक्षण किया जाता है. इनमें आमतौर पर युवा और स्वस्थ वयस्क शामिल होते हैं. डब्ल्यूएचओ के मुताबिक़, इस चरण में सुरक्षा से जुड़ी किसी बड़ी चिंता और टीके की सही खुराक का पता लगाया जाता है.
+
+फेज़ 2- दूसरे चरण में स्वयंसेवकों के एक बड़े समूह पर परीक्षण किया जाता है. इसमें आमतौर पर कई सौ लोग शामिल होते हैं, जो उस आबादी से होते हैं जिसके लिए टीका तैयार किया गया है.
+
+उनकी तुलना ऐसे लोगों के एक समूह से की जाती है जिन्हें टीका नहीं दिया गया होता. इसे कंट्रोल ग्रुप कहा जाता है. डॉक्टर टीके के संभावित दुष्प्रभावों और शरीर की प्रतिरक्षा प्रतिक्रिया का अध्ययन करते हैं.
+
+फेज़ 3- तीसरे चरण में इससे भी बड़े समूह पर टीके का परीक्षण किया जाता है. इसमें आमतौर पर हज़ारों वॉलंटियर्स शामिल होते हैं. साथ ही एक कंट्रोल ग्रुप भी रखा जाता है.
+
+ये परीक्षण आमतौर पर अलग-अलग देशों में किए जाते हैं, ताकि यह सुनिश्चित किया जा सके कि टीका अलग-अलग उम्र, जातीयता (एथनेसिटी), सामाजिक पृष्ठभूमि और रहन-सहन वाले लोगों के बीच प्रभावी और सुरक्षित है.
+
+किसी टीके को इन तीनों चरणों से गुज़रने में कई दशक भी लग सकते हैं. मेनबी के नाम से जाने जाने वाले मेनिंगोकोकल बीमारी के टीके को विकसित करने में क़रीब 15 साल लगे थे.
+
+बेडफोर्ड कहती हैं, "जब आप किसी पूरी आबादी के स्वस्थ बच्चों को कोई टीका देने जा रहे होते हैं, तो आपको पूरी तरह आश्वस्त होना पड़ता है कि वह बहुत सुरक्षित है."
+
+हालांकि, असाधारण परिस्थितियों में सुरक्षा जांच से समझौता किए बिना टीकों को तेज़ी से विकसित और उनका परीक्षण किया जा सकता है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c5m2lke8jdzzo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक हमें कैसे पता चलेगा कि टीके सुरक्षित हैं? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 97939,
+    title: `Why is November 26 celebrated as Constitution Day in India`,
+    slug: `why-is-november-26-celebrated-as-constitution-day-in-india-2026`,
+    original_title: `Why is November 26 celebrated as Constitution Day in India`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:20:54Z`,
+    updated_at: `2026-11-26T06:20:54Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/news/national/why-is-november-26-celebrated-as-constitution-day-in-india/article71733839.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Why is November 26 celebrated as Constitution Day in India`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `Constitution Day, also known as Samvidhan Diwas, is observed every year on November 26 to commemorate the adoption of the Constitution of India in 1949 by the Constituent Assembly. The Constitution came into force on January 26, 1950, two m`,
+    content: `Constitution Day, also known as Samvidhan Diwas, is observed every year on November 26 to commemorate the adoption of the Constitution of India in 1949 by the Constituent Assembly. The Constitution came into force on January 26, 1950, two months later, making India a republic. However, November 26 is celebrated as the Constitution Day to commemorate the moment the Constitution of India was formally adopted for “We, the People of India”.
+
+Also read| Constitution Day: Changing nature of observance through The Hindu’s eyes https://www.thehindu.com/news/national/constitution-day-changing-nature-of-observance-through-the-hindus-eyes-1979-2024/article68914914.ece But the event ‘Constitution Day’ was started only a little over a decade ago when Prime Minister Narendra Modi announced it in October 2015 while laying the foundation stone for the Dr.
+
+B.R. Ambedkar Memorial in Mumbai. Prior to this, it was called ‘National Law Day’,  first initiated by former Supreme Court Bar Association (SCBA) president Laxmi Mall Singhvi in 1979. Reimagining the Constitution Reimagining the Constitution Explore the colonial legacy of India’s Constitution and its impact on citizenship, equality, and personal liberties through diverse philosophical insights Reimagining the Constitution storyline 1 Drafting of the Constitution Members of the Constituent Assembly debated the governing charter of Independent India for over three years with an initial draft prepared in February 1948 by Constitutional Advisor B.N.
+
+Rau (following an earlier draft preamble presented in October 1947). Also read| The Constitution Debate: Power, Rights and Democracy in India https://www.thehindu.com/news/national/the-constitution-debate-power-rights-and-democracy-in-india/article70325322.ece Dr. Ambedkar’s drafting committee revised the draft in 1948 and the Assembly spent a year discussing it.
+
+They considered more than 2000 amendments and accepted several before adopting the final draft. Handwritten in both English and Hindi, with artwork by Nandalal Bose of Santiniketan, the Constitution was signed by Constituent Assembly members on January 24, 1950, when Dr. Rajendra Prasad was elected unopposed as India’s first President.
+
+Shaping the Preamble “WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship: EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity of the Nation, IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day on November 1949., do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.” Dr.
+
+Ambedkar drafted a normative Preamble in 1948, drawing on the December 1946 Objectives Resolution and the July 1946 Declaration of the Expert’s Committee. It added Dr. Ambedkar’s own emphasis on fraternity and human dignity to establish India as a sovereign democratic republic securing Justice (social, economic, political), Liberty, Equality and Fraternity.
+
+Indian Constitution and the Revolution Without a Revolution Indian Constitution and the Revolution Without a Revolution Explore the paradox of India’s post-colonial transition: a constitution designed for revolution without embracing the chaos of one Indian Constitution and the Revolution Without a Revolution storyline 1 The original Preamble, adopted on November 26, 1949, did not contain the words ‘socialist’ and ‘secular’.
+
+These were inserted in 1976 through the 42nd Constitution Amendment. In November 2024, the Supreme Court upheld the inclusion after a batch of petitions challenged the validity of the inclusion of the words ‘socialist, secular’ in the Preamble. The SC stated that ‘secular’ denotes a Republic that upholds equal respect for all religions and ‘socialist’ represents a Republic dedicated to eliminating all forms of exploitation (whether social, political, or economic).
+
+Supreme Court upholds ‘secular, socialist’ in Preamble of the Constitution storyline 1 The Hindu article, dated November 26, 2025, notes that Dr. Ambedkar “envisioned and crafted the Constitution as a site of struggle where seminal issues could be settled through constitutional means”.
+
+He shaped the Preamble as an instrument of social revolution grounded in the 19th and early 20th century anti-caste movement, it further argues. https://www.thehindu.com/news/national/dr-br-ambedkars-transformation-of-the-constitution-into-a-unique-site-of-struggle/article70325313.ece A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity Exploring the intricate relationship between religious identity and legal frameworks, this analysis reveals how colonial legacies continue to shape contemporary interpretations of citizenship, minority rights, and social justice within India’s constitutional landscape A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity storyline 1 Core values, Rights and Duties As the supreme law of India, the Constitution guarantees citizens of India fundamental rights such as freedom of speech and expression, freedom of conscience and religion, protection against arbitrary arrest and detention, freedom of movement and cultural and educational guarantees, while also outlining fundamental duties in Part IVA.
+
+It emphasizes the principles of Justice (social, economic and political), Liberty, Equality and Fraternity alongside abolition of untouchability and Article 15’s bar on state discrimination on grounds including religion, race, caste, sex, and place of birth. Balancing faith, dignity and constitutional rights Balancing faith, dignity and constitutional rights The Sabarimala review’s final arguments will also centre on the broader architecture of India’s religious freedom jurisprudence Balancing faith, dignity and constitutional rights opinion 1 The Hindu article from November 26, 2022, contends that these provisions underpin our daily activities, travel, career choices, reading or watching the news, and even questioning why the police stop us, and underscores the importance of  treating the Constitution Day as more than a form of symbolism.
+
+It particularly emphasizes teaching constitutional values and fraternity at home and in schools, and resolving socio-economic conflicts through constitutional methods, among others. https://www.thehindu.com/opinion/op-ed/the-constitution-of-india-deserves-better/article66184599.ece
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/why-is-november-26-celebrated-as-constitution-day-in-india/article71733839.ece)`,
+    title_en: `Why is November 26 celebrated as Constitution Day in India`,
+    summary_en: `Constitution Day, also known as Samvidhan Diwas, is observed every year on November 26 to commemorate the adoption of the Constitution of India in 1949 by the Constituent Assembly. The Constitution came into force on January 26, 1950, two m`,
+    content_en: `Constitution Day, also known as Samvidhan Diwas, is observed every year on November 26 to commemorate the adoption of the Constitution of India in 1949 by the Constituent Assembly. The Constitution came into force on January 26, 1950, two months later, making India a republic. However, November 26 is celebrated as the Constitution Day to commemorate the moment the Constitution of India was formally adopted for “We, the People of India”.
+
+Also read| Constitution Day: Changing nature of observance through The Hindu’s eyes https://www.thehindu.com/news/national/constitution-day-changing-nature-of-observance-through-the-hindus-eyes-1979-2024/article68914914.ece But the event ‘Constitution Day’ was started only a little over a decade ago when Prime Minister Narendra Modi announced it in October 2015 while laying the foundation stone for the Dr.
+
+B.R. Ambedkar Memorial in Mumbai. Prior to this, it was called ‘National Law Day’,  first initiated by former Supreme Court Bar Association (SCBA) president Laxmi Mall Singhvi in 1979. Reimagining the Constitution Reimagining the Constitution Explore the colonial legacy of India’s Constitution and its impact on citizenship, equality, and personal liberties through diverse philosophical insights Reimagining the Constitution storyline 1 Drafting of the Constitution Members of the Constituent Assembly debated the governing charter of Independent India for over three years with an initial draft prepared in February 1948 by Constitutional Advisor B.N.
+
+Rau (following an earlier draft preamble presented in October 1947). Also read| The Constitution Debate: Power, Rights and Democracy in India https://www.thehindu.com/news/national/the-constitution-debate-power-rights-and-democracy-in-india/article70325322.ece Dr. Ambedkar’s drafting committee revised the draft in 1948 and the Assembly spent a year discussing it.
+
+They considered more than 2000 amendments and accepted several before adopting the final draft. Handwritten in both English and Hindi, with artwork by Nandalal Bose of Santiniketan, the Constitution was signed by Constituent Assembly members on January 24, 1950, when Dr. Rajendra Prasad was elected unopposed as India’s first President.
+
+Shaping the Preamble “WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship: EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity of the Nation, IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day on November 1949., do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.” Dr.
+
+Ambedkar drafted a normative Preamble in 1948, drawing on the December 1946 Objectives Resolution and the July 1946 Declaration of the Expert’s Committee. It added Dr. Ambedkar’s own emphasis on fraternity and human dignity to establish India as a sovereign democratic republic securing Justice (social, economic, political), Liberty, Equality and Fraternity.
+
+Indian Constitution and the Revolution Without a Revolution Indian Constitution and the Revolution Without a Revolution Explore the paradox of India’s post-colonial transition: a constitution designed for revolution without embracing the chaos of one Indian Constitution and the Revolution Without a Revolution storyline 1 The original Preamble, adopted on November 26, 1949, did not contain the words ‘socialist’ and ‘secular’.
+
+These were inserted in 1976 through the 42nd Constitution Amendment. In November 2024, the Supreme Court upheld the inclusion after a batch of petitions challenged the validity of the inclusion of the words ‘socialist, secular’ in the Preamble. The SC stated that ‘secular’ denotes a Republic that upholds equal respect for all religions and ‘socialist’ represents a Republic dedicated to eliminating all forms of exploitation (whether social, political, or economic).
+
+Supreme Court upholds ‘secular, socialist’ in Preamble of the Constitution storyline 1 The Hindu article, dated November 26, 2025, notes that Dr. Ambedkar “envisioned and crafted the Constitution as a site of struggle where seminal issues could be settled through constitutional means”.
+
+He shaped the Preamble as an instrument of social revolution grounded in the 19th and early 20th century anti-caste movement, it further argues. https://www.thehindu.com/news/national/dr-br-ambedkars-transformation-of-the-constitution-into-a-unique-site-of-struggle/article70325313.ece A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity Exploring the intricate relationship between religious identity and legal frameworks, this analysis reveals how colonial legacies continue to shape contemporary interpretations of citizenship, minority rights, and social justice within India’s constitutional landscape A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity storyline 1 Core values, Rights and Duties As the supreme law of India, the Constitution guarantees citizens of India fundamental rights such as freedom of speech and expression, freedom of conscience and religion, protection against arbitrary arrest and detention, freedom of movement and cultural and educational guarantees, while also outlining fundamental duties in Part IVA.
+
+It emphasizes the principles of Justice (social, economic and political), Liberty, Equality and Fraternity alongside abolition of untouchability and Article 15’s bar on state discrimination on grounds including religion, race, caste, sex, and place of birth. Balancing faith, dignity and constitutional rights Balancing faith, dignity and constitutional rights The Sabarimala review’s final arguments will also centre on the broader architecture of India’s religious freedom jurisprudence Balancing faith, dignity and constitutional rights opinion 1 The Hindu article from November 26, 2022, contends that these provisions underpin our daily activities, travel, career choices, reading or watching the news, and even questioning why the police stop us, and underscores the importance of  treating the Constitution Day as more than a form of symbolism.
+
+It particularly emphasizes teaching constitutional values and fraternity at home and in schools, and resolving socio-economic conflicts through constitutional methods, among others. https://www.thehindu.com/opinion/op-ed/the-constitution-of-india-deserves-better/article66184599.ece
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/why-is-november-26-celebrated-as-constitution-day-in-india/article71733839.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Why is November 26 celebrated as Constitution Day in India.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 97940,
+    title: `18 years after 26/11 terror attack, how has India secured its coastal frontier`,
+    slug: `18-years-after-2611-terror-attack-how-has-india-secured-its-coastal-fr-2026`,
+    original_title: `18 years after 26/11 terror attack, how has India secured its coastal frontier`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:20:56Z`,
+    updated_at: `2026-11-26T06:20:56Z`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/defence/news/18-years-after-26/11-terror-attack-how-has-india-secured-its-coastal-frontier/articleshow/136179027.cms`,
+    source_courtesy: `Source: The Times of India`,
+    image_url: `/images/articles/18-years-after-2611-terror-attack-how-has-india-secured-its-coastal-fr-2026.jpg`,
+    image_alt: `18 years after 26/11 terror attack, how has India secured its coastal frontier`,
+    image_courtesy: `Image: The Times of India (External Source Attribution)`,
+    image_photographer: `The Times of India`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `Eighteen years after the November 2008 Mumbai attacks exposed serious gaps in maritime surveillance and intelligence coordination. The 26/11 attacks saw 10 Lashkar-e-Taiba terrorists reach Mumbai by sea after commandeering the fishing trawl`,
+    content: `Eighteen years after the November 2008 Mumbai attacks exposed serious gaps in maritime surveillance and intelligence coordination. The 26/11 attacks saw 10 Lashkar-e-Taiba terrorists reach Mumbai by sea after commandeering the fishing trawler Kuber. The terrorists had travelled from Karachi, killed the trawler's captain and used inflatable boats to land undetected.
+
+The attacks, which killed 166 people, led to a fundamental rethink. The navy became the lead agency for overall maritime security, including coastal and offshore security. The coast guard was made responsible for coordinating coastal security in territorial waters, while state marine police continued to handle shallow coastal areas.In order to have better response and coordination, the navy has regularly holds exercises such as Sea Vigil-26, which strengthens the coastal security architecture.
+
+The fifth edition of the nationwide exercise, held from November 11 to 19, tested the preparedness of the navy, coast guard, coastal police, customs and other agencies responsible for securing the coastline and the Exclusive Economic Zone (EEZ). Fishing and coastal communities also took part, in recognition of their role in spotting suspicious activity at sea.A key change has been an integrated surveillance and information-sharing network, with the Information Management and Analysis Centre (IMAC), set up in Gurugram in 2014 and run by the navy.
+
+The IMAC collects, analyses and disseminates maritime security information. The centre draws on coastal radars, Automatic Identification System (AIS) transmissions, shipping databases, intelligence inputs and international arrangements to build a common operational picture and flag vessels behaving suspiciously.
+
+The Information Fusion Centre for the Indian Ocean Region, established in 2018, extends this by exchanging information with regional and international partners.The coastal surveillance network is another pillar, according to the coast guard, it has static sensor stations with radars, AIS, day-and-night cameras and meteorological systems at 46 locations along the coast and islands.
+
+Its second phase envisages 38 more radar stations and eight mobile surveillance systems. The coast guard also carries out regular boardings to verify the identity and registration documents of fishing vessels and the people on board.Yet surveillance depends on being able to track a vast number of small boats, as many fishing vessels do not carry AIS transponders, which leaves gaps in the maritime picture.
+
+A substantial share of the fishing fleet consisted of smaller vessels that don't have transponders. The government has since tried to expand tracking and distress-alert equipment among fishermen, but ensuring that small boats are registered, identifiable and connected to the network remains a challenge.
+
+AIS also cannot detect vessels that do not transmit or deliberately switch off their equipment.Sea Vigil-26 tested some of these weaknesses, this edition simulated terrorists commandeering fishing boats to reach the shore, attacks on coastal installations, merchant ship hijackings near port limits and drone attacks.
+
+Joint audit teams inspected fish landing centres, coastal police stations, ports and other critical sites. It was the first edition since Operation Sindoor and the first since the coastline was officially remeasured at 11,098 km, up from 7,516 km.The threat has also evolved since 2008, while infiltration through fishing boats remains possible, but agencies must now reckon with unmanned surface vessels, underwater drones, commercial aerial drones, encrypted communications and potential strikes on ports, offshore energy assets and other critical infrastructure.
+
+Recent conflicts have shown how cheap unmanned platforms can threaten high-value targets. Coastal defence will therefore need sensors that cover the surface, air and underwater domains, not just conventional vessel tracking.Coordination is the other challenge as the framework involves the navy, coast guard, marine police, intelligence agencies, port authorities, customs and several central and state departments.
+
+IMAC and the radar network have improved information sharing, but their value depends on how quickly information reaches the agency that must respond. Coastal police stations, in turn, need adequate boats, communication equipment and trained personnel to work alongside central forces.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/defence/news/18-years-after-26/11-terror-attack-how-has-india-secured-its-coastal-frontier/articleshow/136179027.cms)`,
+    title_en: `18 years after 26/11 terror attack, how has India secured its coastal frontier`,
+    summary_en: `Eighteen years after the November 2008 Mumbai attacks exposed serious gaps in maritime surveillance and intelligence coordination. The 26/11 attacks saw 10 Lashkar-e-Taiba terrorists reach Mumbai by sea after commandeering the fishing trawl`,
+    content_en: `Eighteen years after the November 2008 Mumbai attacks exposed serious gaps in maritime surveillance and intelligence coordination. The 26/11 attacks saw 10 Lashkar-e-Taiba terrorists reach Mumbai by sea after commandeering the fishing trawler Kuber. The terrorists had travelled from Karachi, killed the trawler's captain and used inflatable boats to land undetected.
+
+The attacks, which killed 166 people, led to a fundamental rethink. The navy became the lead agency for overall maritime security, including coastal and offshore security. The coast guard was made responsible for coordinating coastal security in territorial waters, while state marine police continued to handle shallow coastal areas.In order to have better response and coordination, the navy has regularly holds exercises such as Sea Vigil-26, which strengthens the coastal security architecture.
+
+The fifth edition of the nationwide exercise, held from November 11 to 19, tested the preparedness of the navy, coast guard, coastal police, customs and other agencies responsible for securing the coastline and the Exclusive Economic Zone (EEZ). Fishing and coastal communities also took part, in recognition of their role in spotting suspicious activity at sea.A key change has been an integrated surveillance and information-sharing network, with the Information Management and Analysis Centre (IMAC), set up in Gurugram in 2014 and run by the navy.
+
+The IMAC collects, analyses and disseminates maritime security information. The centre draws on coastal radars, Automatic Identification System (AIS) transmissions, shipping databases, intelligence inputs and international arrangements to build a common operational picture and flag vessels behaving suspiciously.
+
+The Information Fusion Centre for the Indian Ocean Region, established in 2018, extends this by exchanging information with regional and international partners.The coastal surveillance network is another pillar, according to the coast guard, it has static sensor stations with radars, AIS, day-and-night cameras and meteorological systems at 46 locations along the coast and islands.
+
+Its second phase envisages 38 more radar stations and eight mobile surveillance systems. The coast guard also carries out regular boardings to verify the identity and registration documents of fishing vessels and the people on board.Yet surveillance depends on being able to track a vast number of small boats, as many fishing vessels do not carry AIS transponders, which leaves gaps in the maritime picture.
+
+A substantial share of the fishing fleet consisted of smaller vessels that don't have transponders. The government has since tried to expand tracking and distress-alert equipment among fishermen, but ensuring that small boats are registered, identifiable and connected to the network remains a challenge.
+
+AIS also cannot detect vessels that do not transmit or deliberately switch off their equipment.Sea Vigil-26 tested some of these weaknesses, this edition simulated terrorists commandeering fishing boats to reach the shore, attacks on coastal installations, merchant ship hijackings near port limits and drone attacks.
+
+Joint audit teams inspected fish landing centres, coastal police stations, ports and other critical sites. It was the first edition since Operation Sindoor and the first since the coastline was officially remeasured at 11,098 km, up from 7,516 km.The threat has also evolved since 2008, while infiltration through fishing boats remains possible, but agencies must now reckon with unmanned surface vessels, underwater drones, commercial aerial drones, encrypted communications and potential strikes on ports, offshore energy assets and other critical infrastructure.
+
+Recent conflicts have shown how cheap unmanned platforms can threaten high-value targets. Coastal defence will therefore need sensors that cover the surface, air and underwater domains, not just conventional vessel tracking.Coordination is the other challenge as the framework involves the navy, coast guard, marine police, intelligence agencies, port authorities, customs and several central and state departments.
+
+IMAC and the radar network have improved information sharing, but their value depends on how quickly information reaches the agency that must respond. Coastal police stations, in turn, need adequate boats, communication equipment and trained personnel to work alongside central forces.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/defence/news/18-years-after-26/11-terror-attack-how-has-india-secured-its-coastal-frontier/articleshow/136179027.cms)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Times of India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for 18 years after 26/11 terror attack, how has India secured its coastal frontier.`,
+    primary_source: `The Times of India`,
+  },
+  {
+    id: 97941,
+    title: `सौरव दास ने लगाया ब्रिटेन जाने से रोकने का आरोप, सरकार ने क्या जवाब दिया?`,
+    slug: `politics-breaking-report-37237-97941-2026`,
+    original_title: `सौरव दास ने लगाया ब्रिटेन जाने से रोकने का आरोप, सरकार ने क्या जवाब दिया?`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:20:57Z`,
+    updated_at: `2026-11-26T06:20:57Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cmwy8627g50wo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/politics-breaking-report-37237-97941-2026.jpg`,
+    image_alt: `सौरव दास ने लगाया ब्रिटेन जाने से रोकने का आरोप, सरकार ने क्या जवाब दिया?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `केंद्र सरकार ने कॉकरोच जनता पार्टी के नेता सौरव दास के उस आरोप का जवाब दिया है, जिसमें उन्होंने कहा था कि उन्हें विदेश जाने से रोका गया.`,
+    content: `केंद्र सरकार ने कॉकरोच जनता पार्टी के नेता सौरव दास के उस आरोप का जवाब दिया है, जिसमें उन्होंने कहा था कि उन्हें विदेश जाने से रोका गया.
+
+सौरव दास ने दावा किया था कि उन्हें ऑक्सफ़र्ड यूनिवर्सिटी के एक कार्यक्रम के लिए लंदन जाने से रोक दिया गया.
+
+सौरव दास को जारी किए गए कारण बताओ नोटिस पर विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि पासपोर्ट के लिए आवेदन करते समय आवेदक को सही जानकारी देना अनिवार्य है.
+
+विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा , "अगर किसी भी स्तर पर अधिकारियों को कोई विसंगति मिलती है या इसकी सूचना दी जाती है और मामला तथ्यों को छिपाने से जुड़ा होता है, तो हम आवेदक को कारण बताओ नोटिस जारी करते हैं. इसके ज़रिए उसे अपना पक्ष रखने का मौका दिया जाता है.''
+
+सौरव दास ने सोमवार देर रात दिल्ली एयरपोर्ट से सोशल मीडिया एक्स पर एक वीडियो शेयर किया था.
+
+उन्होंने क हा था , "मैं दिल्ली इंटरनेशनल एयरपोर्ट पर हूं. दिल्ली से लंदन के लिए मेरी फ़्लाइट रात एक बजे की थी. मैं प्रतिष्ठित ऑक्सफ़र्ड यूनिवर्सिटी जा रहा था, वहां के स्टूडेंट्स यूनियन ने मुझे एक लेक्चर देने के लिए इन्वाइट किया था. मुझे एक पैनल डिस्कशन में हिस्सा लेना था."
+
+हालांकि इस मामले पर लंदन में मौजूद पत्रकार नाओमी कांटन ने एक्स पर दावा किया है, " सौरव दास को ऑक्सफ़र्ड यूनिवर्सिटी में लेक्चर देने के लिए आमंत्रित नहीं किया गया था. उन्हें ऑक्सफ़र्ड यूनियन में बोलने के लिए आमंत्रित किया गया था. ऑक्सफ़र्ड यूनियन एक अलग और स्वतंत्र रूप से संचालित डिबेट कराने वाली संस्था है. यह यूनिवर्सिटी का हिस्सा नहीं है."
+
+संबंधित कानून प्रवर्तन एजेंसियों से मिली रिपोर्ट के आधार पर चेन्नई के क्षेत्रीय पासपोर्ट कार्यालय (आरपीओ) ने 23 नवंबर, 2026 को सौरव दास को कारण बताओ नोटिस जारी किया था. इसमें उनसे सात दिनों के भीतर अपने जन्मस्थान के बारे में स्पष्टीकरण देने को कहा गया है. उन्हें यह भी सलाह दी गई है कि जवाब दाखिल करने तक वे अपने पासपोर्ट का इस्तेमाल न करें."
+
+जायसवाल ने इस मामले में सरकार का पक्ष रखते हुए कहा, "जब कोई व्यक्ति पासपोर्ट के लिए आवेदन करता है और फॉर्म भरता है, तो उससे यह अपेक्षा की जाती है कि वह सही जानकारी देगा. अगर अधिकारियों की ओर से हमारे संज्ञान में कोई कमी या विसंगति लाई जाती है, तो तय प्रक्रिया के तहत आवेदक या पासपोर्ट धारक को कारण बताओ नोटिस जारी किया जाता है. इस नोटिस के ज़रिए उससे आवेदन में दी गई जानकारी और सामने आई विसंगतियों के बारे में स्पष्टीकरण मांगा जाता है."
+
+सौरव दास ने आरोप लगाया, "जैसे ही मैं इमिग्रेशन चेक पर गया, तब मुझे पता चला कि मेरा पासपोर्ट फ़्लैग कर दिया गया है."
+
+उन्होंने कहा, "मेरा पासपोर्ट फ़्लैग कर के मुझे देश से बाहर जाने से रोक दिया. सरकार को इतना डर क्यों है कि कोई पढ़ा-लिखा युवा, पढ़े-लिखे लोगों के बीच जाकर कुछ इंटेलेक्चुअल डिस्कशन कर रहा है."
+
+सौरव दास ने दावा किया, "ऑक्सफ़र्ड यूनिवर्सिटी में जो भारतीय स्टूडेंट्स हैं, उन्होंने मुझे बुलाया कि 'हम इस मूवमेंट से जुड़ना चाहते हैं, हम देश के युवाओं का साथ देना चाहते हैं. हम जानना चाहते हैं कि हमारे देश में क्या हो रहा है.' लेकिन इस सरकार को पढ़ाई-लिखाई से कोई मतलब नहीं है."
+
+"आप स्कूलों की हालत देख रहे हैं. ये सरकार हमारे आंदोलन से डरती है. ऐसा करने से हम नहीं दबने वाले. उनको ये समझ में नहीं आ रहा है कि हम युवाओं के पास बहुत समय है. बार-बार लंदन जाएंगे, पेरिस जाएंगे. हमारे पास बहुत कुछ करने का समय है."
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+विदेश जाने का अधिकार संविधान के अनुच्छेद 19(1) के किसी भी प्रावधान के तहत साफ़ रूप से अधिकार नहीं है. पासपोर्ट अधिनियम की धारा 10(3)(सी), पासपोर्ट ज़ब्त करके विदेश जाने के अधिकार पर प्रतिबंध लगाने की अनुमति देती है.
+
+पासपोर्ट एक्ट की धारा 10 के तहत पासपोर्ट अथॉरिटी को किसी व्यक्ति का पासपोर्ट या यात्रा दस्तावेज जब्त करने और उसे वापस करने का अधिकार है.
+
+अधिनियम की धारा 10(1) के प्रावधानों के तहत नोटिस जारी करने के बाद अथॉरिटी, पासपोर्ट धारक को अपना पासपोर्ट और यात्रा दस्तावेज जमा करने के लिए भी कह सकता है.
+
+भारत के पासपोर्ट एक्ट के मुताबिक़ किसी शख़्स को विदेश जाने से रोकने की कई वजहें हो सकती हैं.
+
+इनमें यात्रा के लिए वैध पासपोर्ट, वीज़ा समेत अन्य वैध दस्तावेज़ होना शामिल है.
+
+कोई शख़्स कितने दिनों के लिए अन्य देश में जा रहा है और इसके लिए उसके पास वैध अनुमति है या नहीं है. यह भी विदेश यात्रा को रोकने का आधार बन सकता है.
+
+किसी ग़लत सूचना या जानकारी के आधार पर भी किसी शख़्स का पासपोर्ट ज़ब्त किया जा सकता है. या उसे यात्रा करने से रोका जा सकता है. अदालत के आदेश पर किसी शख़्स का पासपोर्ट ज़ब्त किया जा सकता है या उसे विदेश यात्रा करने से रोका जा सकता है.
+
+इसके अलावा भी सरकार या सरकारी एजेंसियों के पास किसी शख़्स को विदेश यात्रा से रोकने के कई आधार होते हैं. पासपोर्ट फ़्लैग करने का आमतौर पर मतलब है कि इमिग्रेशन या सुरक्षा एजेंसियों के डेटाबेस में किसी पासपोर्ट के साथ एक ख़ास अलर्ट या निशान जोड़ देना.
+
+अगर किसी का पासपोर्ट फ़्लैग किया गया हो तो इमिग्रेशन के वक़्त पासपोर्ट की स्कैनिंग में यह दिख जाता है, जिसका मतलब होता है कि उस शख़्स की अतिरिक्त जांच या उसके संबंध में कोई कार्रवाई करने की ज़रूरत है.
+
+हालांकि जैसा सौरव दास का दावा है कि उनका पासपोर्ट फ़्लैग किया गया है, तो इसके पीछे की आधिकारिक वजह की जानकारी अभी नहीं मिल पाई है.
+
+सोशल मीडिया एक्स पर सौरव दास की पोस्ट को शेयर करते हुए सीजेपी के क़ानूनी मामलों की प्रमुख रत्ना सिंह ने भी अपना वीज़ा रिजेक्ट किए जाने का आरोप लगाया.
+
+रत्ना सिंह ने कहा , "सौरव और मुझे, दोनों को ऑक्सफ़र्ड यूनियन ने आमंत्रित किया था. कुछ दिन पहले मेरा वीज़ा रिज़ेक्ट कर दिया गया था. मैं इसे फिर भी मान सकती थी, क्योंकि इसमें किसी सीधे हस्तक्षेप के साफ़ संकेत नहीं थे."
+
+"लेकिन अब जो हुआ है, वह पूरी तरह अविश्वसनीय है. यह शर्मनाक है कि इस देश के युवाओं को सिर्फ़ इसलिए निशाना बनाया जा रहा है, क्योंकि उनमें सच बोलने और सत्ता में बैठे लोगों की आंखों में आंखें डालकर सवाल पूछने की हिम्मत है."
+
+"आज जिस तरह सौरव को विमान में सवार होने की अनुमति नहीं दी गई, उससे इस देश में अभिव्यक्ति की आज़ादी की स्थिति और युवाओं की आवाज़ को दी जा रही जगह को लेकर बेहद गंभीर सवाल खड़े होते हैं."
+
+कॉकरोच जनता पार्टी के संस्थापक अभिजीत दीपके ने इस मुद्दे पर तीखी प्रतिक्रया दी है.
+
+उन्होंने एक्स पर एक पोस्ट में लिखा है कि सौरव को ऑक्सफ़र्ड यूनिवर्सिटी में एक कॉन्फ्रेंस में बोलने के लिए आमंत्रित किया गया था, लेकिन ऐसा लगता है कि सत्ता में बैठे किसी शख़्स को ख़ुद दुनिया भर में घूमना पसंद है, लेकिन सौरव को ऑक्सफ़र्ड से मिले इस आमंत्रण से जलन हो रही है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cmwy8627g50wo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `सौरव दास ने लगाया ब्रिटेन जाने से रोकने का आरोप, सरकार ने क्या जवाब दिया?`,
+    summary_hi: `केंद्र सरकार ने कॉकरोच जनता पार्टी के नेता सौरव दास के उस आरोप का जवाब दिया है, जिसमें उन्होंने कहा था कि उन्हें विदेश जाने से रोका गया.`,
+    content_hi: `केंद्र सरकार ने कॉकरोच जनता पार्टी के नेता सौरव दास के उस आरोप का जवाब दिया है, जिसमें उन्होंने कहा था कि उन्हें विदेश जाने से रोका गया.
+
+सौरव दास ने दावा किया था कि उन्हें ऑक्सफ़र्ड यूनिवर्सिटी के एक कार्यक्रम के लिए लंदन जाने से रोक दिया गया.
+
+सौरव दास को जारी किए गए कारण बताओ नोटिस पर विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि पासपोर्ट के लिए आवेदन करते समय आवेदक को सही जानकारी देना अनिवार्य है.
+
+विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा , "अगर किसी भी स्तर पर अधिकारियों को कोई विसंगति मिलती है या इसकी सूचना दी जाती है और मामला तथ्यों को छिपाने से जुड़ा होता है, तो हम आवेदक को कारण बताओ नोटिस जारी करते हैं. इसके ज़रिए उसे अपना पक्ष रखने का मौका दिया जाता है.''
+
+सौरव दास ने सोमवार देर रात दिल्ली एयरपोर्ट से सोशल मीडिया एक्स पर एक वीडियो शेयर किया था.
+
+उन्होंने क हा था , "मैं दिल्ली इंटरनेशनल एयरपोर्ट पर हूं. दिल्ली से लंदन के लिए मेरी फ़्लाइट रात एक बजे की थी. मैं प्रतिष्ठित ऑक्सफ़र्ड यूनिवर्सिटी जा रहा था, वहां के स्टूडेंट्स यूनियन ने मुझे एक लेक्चर देने के लिए इन्वाइट किया था. मुझे एक पैनल डिस्कशन में हिस्सा लेना था."
+
+हालांकि इस मामले पर लंदन में मौजूद पत्रकार नाओमी कांटन ने एक्स पर दावा किया है, " सौरव दास को ऑक्सफ़र्ड यूनिवर्सिटी में लेक्चर देने के लिए आमंत्रित नहीं किया गया था. उन्हें ऑक्सफ़र्ड यूनियन में बोलने के लिए आमंत्रित किया गया था. ऑक्सफ़र्ड यूनियन एक अलग और स्वतंत्र रूप से संचालित डिबेट कराने वाली संस्था है. यह यूनिवर्सिटी का हिस्सा नहीं है."
+
+संबंधित कानून प्रवर्तन एजेंसियों से मिली रिपोर्ट के आधार पर चेन्नई के क्षेत्रीय पासपोर्ट कार्यालय (आरपीओ) ने 23 नवंबर, 2026 को सौरव दास को कारण बताओ नोटिस जारी किया था. इसमें उनसे सात दिनों के भीतर अपने जन्मस्थान के बारे में स्पष्टीकरण देने को कहा गया है. उन्हें यह भी सलाह दी गई है कि जवाब दाखिल करने तक वे अपने पासपोर्ट का इस्तेमाल न करें."
+
+जायसवाल ने इस मामले में सरकार का पक्ष रखते हुए कहा, "जब कोई व्यक्ति पासपोर्ट के लिए आवेदन करता है और फॉर्म भरता है, तो उससे यह अपेक्षा की जाती है कि वह सही जानकारी देगा. अगर अधिकारियों की ओर से हमारे संज्ञान में कोई कमी या विसंगति लाई जाती है, तो तय प्रक्रिया के तहत आवेदक या पासपोर्ट धारक को कारण बताओ नोटिस जारी किया जाता है. इस नोटिस के ज़रिए उससे आवेदन में दी गई जानकारी और सामने आई विसंगतियों के बारे में स्पष्टीकरण मांगा जाता है."
+
+सौरव दास ने आरोप लगाया, "जैसे ही मैं इमिग्रेशन चेक पर गया, तब मुझे पता चला कि मेरा पासपोर्ट फ़्लैग कर दिया गया है."
+
+उन्होंने कहा, "मेरा पासपोर्ट फ़्लैग कर के मुझे देश से बाहर जाने से रोक दिया. सरकार को इतना डर क्यों है कि कोई पढ़ा-लिखा युवा, पढ़े-लिखे लोगों के बीच जाकर कुछ इंटेलेक्चुअल डिस्कशन कर रहा है."
+
+सौरव दास ने दावा किया, "ऑक्सफ़र्ड यूनिवर्सिटी में जो भारतीय स्टूडेंट्स हैं, उन्होंने मुझे बुलाया कि 'हम इस मूवमेंट से जुड़ना चाहते हैं, हम देश के युवाओं का साथ देना चाहते हैं. हम जानना चाहते हैं कि हमारे देश में क्या हो रहा है.' लेकिन इस सरकार को पढ़ाई-लिखाई से कोई मतलब नहीं है."
+
+"आप स्कूलों की हालत देख रहे हैं. ये सरकार हमारे आंदोलन से डरती है. ऐसा करने से हम नहीं दबने वाले. उनको ये समझ में नहीं आ रहा है कि हम युवाओं के पास बहुत समय है. बार-बार लंदन जाएंगे, पेरिस जाएंगे. हमारे पास बहुत कुछ करने का समय है."
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+विदेश जाने का अधिकार संविधान के अनुच्छेद 19(1) के किसी भी प्रावधान के तहत साफ़ रूप से अधिकार नहीं है. पासपोर्ट अधिनियम की धारा 10(3)(सी), पासपोर्ट ज़ब्त करके विदेश जाने के अधिकार पर प्रतिबंध लगाने की अनुमति देती है.
+
+पासपोर्ट एक्ट की धारा 10 के तहत पासपोर्ट अथॉरिटी को किसी व्यक्ति का पासपोर्ट या यात्रा दस्तावेज जब्त करने और उसे वापस करने का अधिकार है.
+
+अधिनियम की धारा 10(1) के प्रावधानों के तहत नोटिस जारी करने के बाद अथॉरिटी, पासपोर्ट धारक को अपना पासपोर्ट और यात्रा दस्तावेज जमा करने के लिए भी कह सकता है.
+
+भारत के पासपोर्ट एक्ट के मुताबिक़ किसी शख़्स को विदेश जाने से रोकने की कई वजहें हो सकती हैं.
+
+इनमें यात्रा के लिए वैध पासपोर्ट, वीज़ा समेत अन्य वैध दस्तावेज़ होना शामिल है.
+
+कोई शख़्स कितने दिनों के लिए अन्य देश में जा रहा है और इसके लिए उसके पास वैध अनुमति है या नहीं है. यह भी विदेश यात्रा को रोकने का आधार बन सकता है.
+
+किसी ग़लत सूचना या जानकारी के आधार पर भी किसी शख़्स का पासपोर्ट ज़ब्त किया जा सकता है. या उसे यात्रा करने से रोका जा सकता है. अदालत के आदेश पर किसी शख़्स का पासपोर्ट ज़ब्त किया जा सकता है या उसे विदेश यात्रा करने से रोका जा सकता है.
+
+इसके अलावा भी सरकार या सरकारी एजेंसियों के पास किसी शख़्स को विदेश यात्रा से रोकने के कई आधार होते हैं. पासपोर्ट फ़्लैग करने का आमतौर पर मतलब है कि इमिग्रेशन या सुरक्षा एजेंसियों के डेटाबेस में किसी पासपोर्ट के साथ एक ख़ास अलर्ट या निशान जोड़ देना.
+
+अगर किसी का पासपोर्ट फ़्लैग किया गया हो तो इमिग्रेशन के वक़्त पासपोर्ट की स्कैनिंग में यह दिख जाता है, जिसका मतलब होता है कि उस शख़्स की अतिरिक्त जांच या उसके संबंध में कोई कार्रवाई करने की ज़रूरत है.
+
+हालांकि जैसा सौरव दास का दावा है कि उनका पासपोर्ट फ़्लैग किया गया है, तो इसके पीछे की आधिकारिक वजह की जानकारी अभी नहीं मिल पाई है.
+
+सोशल मीडिया एक्स पर सौरव दास की पोस्ट को शेयर करते हुए सीजेपी के क़ानूनी मामलों की प्रमुख रत्ना सिंह ने भी अपना वीज़ा रिजेक्ट किए जाने का आरोप लगाया.
+
+रत्ना सिंह ने कहा , "सौरव और मुझे, दोनों को ऑक्सफ़र्ड यूनियन ने आमंत्रित किया था. कुछ दिन पहले मेरा वीज़ा रिज़ेक्ट कर दिया गया था. मैं इसे फिर भी मान सकती थी, क्योंकि इसमें किसी सीधे हस्तक्षेप के साफ़ संकेत नहीं थे."
+
+"लेकिन अब जो हुआ है, वह पूरी तरह अविश्वसनीय है. यह शर्मनाक है कि इस देश के युवाओं को सिर्फ़ इसलिए निशाना बनाया जा रहा है, क्योंकि उनमें सच बोलने और सत्ता में बैठे लोगों की आंखों में आंखें डालकर सवाल पूछने की हिम्मत है."
+
+"आज जिस तरह सौरव को विमान में सवार होने की अनुमति नहीं दी गई, उससे इस देश में अभिव्यक्ति की आज़ादी की स्थिति और युवाओं की आवाज़ को दी जा रही जगह को लेकर बेहद गंभीर सवाल खड़े होते हैं."
+
+कॉकरोच जनता पार्टी के संस्थापक अभिजीत दीपके ने इस मुद्दे पर तीखी प्रतिक्रया दी है.
+
+उन्होंने एक्स पर एक पोस्ट में लिखा है कि सौरव को ऑक्सफ़र्ड यूनिवर्सिटी में एक कॉन्फ्रेंस में बोलने के लिए आमंत्रित किया गया था, लेकिन ऐसा लगता है कि सत्ता में बैठे किसी शख़्स को ख़ुद दुनिया भर में घूमना पसंद है, लेकिन सौरव को ऑक्सफ़र्ड से मिले इस आमंत्रण से जलन हो रही है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cmwy8627g50wo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक सौरव दास ने लगाया ब्रिटेन जाने से रोकने का आरोप, सरकार ने क्या जवाब दिया? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 97942,
+    title: `रिजिजू की मौजूदगी में वक्फ दिवस पर बजा वंदे मातरम्, खड़े हुए मौलाना, अब अल्लाह - ABP News`,
+    slug: `abp-news-2026`,
+    original_title: `रिजिजू की मौजूदगी में वक्फ दिवस पर बजा वंदे मातरम्, खड़े हुए मौलाना, अब अल्लाह - ABP News`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:21:00Z`,
+    updated_at: `2026-11-26T06:21:00Z`,
+    source_name: `ABP News`,
+    source_url: `https://www.abplive.com/news/india/jammu-kashmir-vande-mataram-controversy-at-waqf-event-kiren-rijiju-why-religious-leaders-apologize-ann-3219289`,
+    source_courtesy: `Source: ABP News`,
+    image_url: `/images/articles/abp-news-2026.jpg`,
+    image_alt: `रिजिजू की मौजूदगी में वक्फ दिवस पर बजा वंदे मातरम्, खड़े हुए मौलाना, अब अल्लाह - ABP News`,
+    image_courtesy: `Image: ABP News (External Source Attribution)`,
+    image_photographer: `ABP News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `जम्मू कश्मीर में वक्फ दिवस के मौके पर केंद्रीय मंत्री किरेन रिजिजू की मौजूदगी में बजाए गए वंदे मातरम् की वजह से सियासी बखेड़ा खड़ा हो गया.धार्मिक नेताओं ने इसे 'थोपा गया' कदम बताते हुए इस पर आपत्ति जताई, जिससे विवाद खड़ा हो गया. जम्मू के कई`,
+    content: `जम्मू कश्मीर में वक्फ दिवस के मौके पर केंद्रीय मंत्री किरेन रिजिजू की मौजूदगी में बजाए गए वंदे मातरम् की वजह से सियासी बखेड़ा खड़ा हो गया.धार्मिक नेताओं ने इसे 'थोपा गया' कदम बताते हुए इस पर आपत्ति जताई, जिससे विवाद खड़ा हो गया. जम्मू के कई इमामों के द्वारा 'कलमा' का पाठ करने और वंदे मातरम् पर खड़े होने के लिए अल्लाह से क्षमा मांगने के बाद विवाद और भी बढ़ गया.
+
+श्रीनगर के SKUAST-कश्मीर में आयोजित वक्फ दिवस कार्यक्रम में केंद्रीय अल्पसंख्यक मामलों के मंत्री किरेन रिजिजू मुख्य अतिथि के रूप में शामिल हुए.उनके साथ जम्मू-कश्मीर वक्फ बोर्ड की अध्यक्ष डॉ. सैयद दरख्शां अंद्राबी, राज्यसभा सांसद सतीश पूनिया, नेशनल कॉन्फ्रेंस के सांसद मियां अल्ताफ अहमद लारवी और कई विश्वविद्यालयों के कुलपति और कई इस्लामी विद्वान व उपदेशक भी वहां मौजूद थे.&nbsp;
+कार्यक्रम के वीडियो क्लिप्स पर जनता की तीखी प्रतिक्रिया के बाद समारोह में शामिल हुए कई धार्मिक विद्वानों और उपदेशकों ने सार्वजनिक रूप से माफी मांगी.
+
+MMU ने वक्फ बोर्ड की आलोचना की
+ऑल इंडिया मुस्लिम पर्सनल लॉ बोर्ड (AIMPLB) का हवाला देते हुए, 'मुत्ताहिदा मजलिस-ए-उलेमा' (MMU) ने जोर देकर कहा कि किसी आधिकारिक कार्यक्रम में इस गीत को बजाना कानूनी रूप से अनिवार्य नहीं है. उन्होंने वक्फ बोर्ड की आलोचना करते हुए कहा कि वे मुस्लिम वक्फ संपत्तियों की धार्मिक पवित्रता बनाए रखने में विफल रहे हैं.
+
+'मुत्ताहिदा मजलिस-ए-उलेमा' (MMU), जो जम्मू-कश्मीर के प्रमुख इस्लामी संगठनों का एक समूह है. इसके प्रमुख कश्मीर के मुख्य धर्मगुरु मीरवाइज उमर फारूक ने इस गीत को शामिल किए जाने की निंदा की. उन्होंने इसे 'अस्वीकार्य' बताते हुए कहा कि इससे मुसलमानों की भावनाओं को गहरी ठेस पहुंची है. MMU ने कहा कि मातृभूमि को ईश्वरीय दर्जा देना, इस्लाम के मूल सिद्धांत 'तौहीद' (अल्लाह की पूर्ण एकेश्वरवाद/एकता) के खिलाफ है.
+
+मौलाना अब्दुल रशीद ने जताया खेद
+मौलाना अब्दुल रशीद दाऊदी ने 'वंदे मातरम् ' के दौरान खड़े होने के अपने कदम का बचाव करते हुए कहा कि अब ऐसा करना अनिवार्य है क्योंकि यह एक कानून बन गया है. हालांकि, साथ ही उन्होंने यह भी कहा कि राष्ट्रीय गीत का गायन जरूरी नहीं था, क्योंकि यह कोई सरकारी कार्यक्रम नहीं था.
+
+हालांकि, यह विवाद तब और बढ़ गया जब जम्मू के इस्लामी मौलवियों और इमामों ने, जो श्रीनगर में J&amp;K वक्फ बोर्ड के 'वक्फ दिवस' समारोह में शामिल हुए थे, सार्वजनिक रूप से वीडियो जारी कर माफी मांगी. उन्होंने इस बात पर खेद जताया कि कार्यक्रम के दौरान 'वंदे मातरम् ' बजने पर वे खड़े हो गए थे.
+
+माफीनामा जारी करते हुए एक मौलाना ने कहा, 'जैसे ही यह गीत बजा, हमें अपनी गलती का एहसास हो गया. बाहर आने के बाद, हमने न केवल अल्लाह के अलावा किसी और के सम्मान में खड़े होने के गंभीर पाप के लिए अल्लाह से माफी मांगी, बल्कि अल्लाह और उसकी एकता में अपने विश्वास को फिर से दोहराने के लिए 'कलमा शहादत' का पाठ भी किया.'
+'वंदे मातरम् ' विवाद पर क्या बोले मौलवी?
+
+अपने माफीनामे में, मौलवियों ने साफ किया कि उन्हें इस बात की जानकारी नहीं थी कि आधिकारिक कार्यक्रम में 'वंदे मातरम् ' भी शामिल है. उन्होंने बताया कि वे केवल शिष्टाचार या भ्रम की वजह से खड़े हो गए थे, लेकिन उन्होंने गीत नहीं गाया. उन्होंने यह भी माना कि इस गीत में शामिल होना या इसका समर्थन करना इस्लामी सिद्धांतों के खिलाफ है.
+
+MMU ने बुधवार को घोषणा की कि वे इस मामले पर कानूनी राय ले रहे हैं. साथ ही, वे अधिकारियों के सामने एक औपचारिक प्रतिवेदन (representation) भी पेश करेंगे. उनका आरोप है कि पूरे जम्मू-कश्मीर में सरकारी कार्यक्रमों और शिक्षण संस्थानों में 'वंदे मातरम् ' को 'जबरदस्ती थोपा' जा रहा है. यह विवाद अब और तूल पकड़ रहा है, क्योंकि इसके समर्थन और विरोध में कई समूहों ने एक-दूसरे के खिलाफ अभियान शुरू कर दिए हैं.
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/news/india/jammu-kashmir-vande-mataram-controversy-at-waqf-event-kiren-rijiju-why-religious-leaders-apologize-ann-3219289)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `रिजिजू की मौजूदगी में वक्फ दिवस पर बजा वंदे मातरम्, खड़े हुए मौलाना, अब अल्लाह - ABP News`,
+    summary_hi: `जम्मू कश्मीर में वक्फ दिवस के मौके पर केंद्रीय मंत्री किरेन रिजिजू की मौजूदगी में बजाए गए वंदे मातरम् की वजह से सियासी बखेड़ा खड़ा हो गया.धार्मिक नेताओं ने इसे 'थोपा गया' कदम बताते हुए इस पर आपत्ति जताई, जिससे विवाद खड़ा हो गया. जम्मू के कई`,
+    content_hi: `जम्मू कश्मीर में वक्फ दिवस के मौके पर केंद्रीय मंत्री किरेन रिजिजू की मौजूदगी में बजाए गए वंदे मातरम् की वजह से सियासी बखेड़ा खड़ा हो गया.धार्मिक नेताओं ने इसे 'थोपा गया' कदम बताते हुए इस पर आपत्ति जताई, जिससे विवाद खड़ा हो गया. जम्मू के कई इमामों के द्वारा 'कलमा' का पाठ करने और वंदे मातरम् पर खड़े होने के लिए अल्लाह से क्षमा मांगने के बाद विवाद और भी बढ़ गया.
+
+श्रीनगर के SKUAST-कश्मीर में आयोजित वक्फ दिवस कार्यक्रम में केंद्रीय अल्पसंख्यक मामलों के मंत्री किरेन रिजिजू मुख्य अतिथि के रूप में शामिल हुए.उनके साथ जम्मू-कश्मीर वक्फ बोर्ड की अध्यक्ष डॉ. सैयद दरख्शां अंद्राबी, राज्यसभा सांसद सतीश पूनिया, नेशनल कॉन्फ्रेंस के सांसद मियां अल्ताफ अहमद लारवी और कई विश्वविद्यालयों के कुलपति और कई इस्लामी विद्वान व उपदेशक भी वहां मौजूद थे.&nbsp;
+कार्यक्रम के वीडियो क्लिप्स पर जनता की तीखी प्रतिक्रिया के बाद समारोह में शामिल हुए कई धार्मिक विद्वानों और उपदेशकों ने सार्वजनिक रूप से माफी मांगी.
+
+MMU ने वक्फ बोर्ड की आलोचना की
+ऑल इंडिया मुस्लिम पर्सनल लॉ बोर्ड (AIMPLB) का हवाला देते हुए, 'मुत्ताहिदा मजलिस-ए-उलेमा' (MMU) ने जोर देकर कहा कि किसी आधिकारिक कार्यक्रम में इस गीत को बजाना कानूनी रूप से अनिवार्य नहीं है. उन्होंने वक्फ बोर्ड की आलोचना करते हुए कहा कि वे मुस्लिम वक्फ संपत्तियों की धार्मिक पवित्रता बनाए रखने में विफल रहे हैं.
+
+'मुत्ताहिदा मजलिस-ए-उलेमा' (MMU), जो जम्मू-कश्मीर के प्रमुख इस्लामी संगठनों का एक समूह है. इसके प्रमुख कश्मीर के मुख्य धर्मगुरु मीरवाइज उमर फारूक ने इस गीत को शामिल किए जाने की निंदा की. उन्होंने इसे 'अस्वीकार्य' बताते हुए कहा कि इससे मुसलमानों की भावनाओं को गहरी ठेस पहुंची है. MMU ने कहा कि मातृभूमि को ईश्वरीय दर्जा देना, इस्लाम के मूल सिद्धांत 'तौहीद' (अल्लाह की पूर्ण एकेश्वरवाद/एकता) के खिलाफ है.
+
+मौलाना अब्दुल रशीद ने जताया खेद
+मौलाना अब्दुल रशीद दाऊदी ने 'वंदे मातरम् ' के दौरान खड़े होने के अपने कदम का बचाव करते हुए कहा कि अब ऐसा करना अनिवार्य है क्योंकि यह एक कानून बन गया है. हालांकि, साथ ही उन्होंने यह भी कहा कि राष्ट्रीय गीत का गायन जरूरी नहीं था, क्योंकि यह कोई सरकारी कार्यक्रम नहीं था.
+
+हालांकि, यह विवाद तब और बढ़ गया जब जम्मू के इस्लामी मौलवियों और इमामों ने, जो श्रीनगर में J&amp;K वक्फ बोर्ड के 'वक्फ दिवस' समारोह में शामिल हुए थे, सार्वजनिक रूप से वीडियो जारी कर माफी मांगी. उन्होंने इस बात पर खेद जताया कि कार्यक्रम के दौरान 'वंदे मातरम् ' बजने पर वे खड़े हो गए थे.
+
+माफीनामा जारी करते हुए एक मौलाना ने कहा, 'जैसे ही यह गीत बजा, हमें अपनी गलती का एहसास हो गया. बाहर आने के बाद, हमने न केवल अल्लाह के अलावा किसी और के सम्मान में खड़े होने के गंभीर पाप के लिए अल्लाह से माफी मांगी, बल्कि अल्लाह और उसकी एकता में अपने विश्वास को फिर से दोहराने के लिए 'कलमा शहादत' का पाठ भी किया.'
+'वंदे मातरम् ' विवाद पर क्या बोले मौलवी?
+
+अपने माफीनामे में, मौलवियों ने साफ किया कि उन्हें इस बात की जानकारी नहीं थी कि आधिकारिक कार्यक्रम में 'वंदे मातरम् ' भी शामिल है. उन्होंने बताया कि वे केवल शिष्टाचार या भ्रम की वजह से खड़े हो गए थे, लेकिन उन्होंने गीत नहीं गाया. उन्होंने यह भी माना कि इस गीत में शामिल होना या इसका समर्थन करना इस्लामी सिद्धांतों के खिलाफ है.
+
+MMU ने बुधवार को घोषणा की कि वे इस मामले पर कानूनी राय ले रहे हैं. साथ ही, वे अधिकारियों के सामने एक औपचारिक प्रतिवेदन (representation) भी पेश करेंगे. उनका आरोप है कि पूरे जम्मू-कश्मीर में सरकारी कार्यक्रमों और शिक्षण संस्थानों में 'वंदे मातरम् ' को 'जबरदस्ती थोपा' जा रहा है. यह विवाद अब और तूल पकड़ रहा है, क्योंकि इसके समर्थन और विरोध में कई समूहों ने एक-दूसरे के खिलाफ अभियान शुरू कर दिए हैं.
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/news/india/jammu-kashmir-vande-mataram-controversy-at-waqf-event-kiren-rijiju-why-religious-leaders-apologize-ann-3219289)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट ABP News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक रिजिजू की मौजूदगी में वक्फ दिवस पर बजा वंदे मातरम्, खड़े हुए मौलाना, अब अल्लाह - ABP News से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `ABP News`,
+  },
+  {
+    id: 97943,
+    title: `Today's Wordle Hints & Answer - November 24, 2026 (Puzzle #1984) - ScreenRant`,
+    slug: `todays-wordle-hints-answer-november-24-2026-puzzle-1984-screenrant-2026`,
+    original_title: `Today's Wordle Hints & Answer - November 24, 2026 (Puzzle #1984) - ScreenRant`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:21:02Z`,
+    updated_at: `2026-11-26T06:21:02Z`,
+    source_name: `ScreenRant`,
+    source_url: `https://screenrant.com/todays-wordle-hints-answer-november-24-2026-puzzle-1984/`,
+    source_courtesy: `Source: ScreenRant`,
+    image_url: `/images/articles/todays-wordle-hints-answer-november-24-2026-puzzle-1984-screenrant-2026.jpg`,
+    image_alt: `Today's Wordle Hints & Answer - November 24, 2026 (Puzzle #1984) - ScreenRant`,
+    image_courtesy: `Image: ScreenRant (External Source Attribution)`,
+    image_photographer: `ScreenRant`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Common letters in today's Wordle might bail you out of a lost streak, as the rest of the puzzle is trying to trick you at every step. Most players will fall short to wild guesses that try to make use of seemingly easy clues set to lead you `,
+    content: `Common letters in today's Wordle might bail you out of a lost streak, as the rest of the puzzle is trying to trick you at every step. Most players will fall short to wild guesses that try to make use of seemingly easy clues set to lead you on a hasty path. However, those who take the time to think about the puzzle's structure may come to a better conclusion.
+
+Many veterans prefer to use Wordle ’s hard mode as it prevents them from using random guesses and is a bit more strategic. This mode doesn’t let players reuse confirmed letters in other spots , which will prevent you from wasting your attempts on random words. Using this mode in tandem with some hints may just let you solve today’s Wordle without cheating.
+
+### Best Starting Words For Today’s Wordle Answer
+
+### Three Starting Words To Help You Solve Wordle
+
+If you are wondering which words to start your Wordle puzzle with, we have three recommendations that serve different purposes. One starting word will pose a difficult challenge, while the other two should help you find the answer faster. All three suggestions either share consonants, vowels, or the same letters as the answer, so that you can solve today’s Wordle without using hints.
+
+There are a few best starting words and combos you can use for future Wordle answers; however, the suggestions below are tailored for today’s Wordle answer.
+
+There are only three consonants and two vowels that make up today's word, which represents the standard structure of any puzzle for a Wordle game. That being said, both of the vowels for today are the same and located next to each other , meaning that players have to guess for a single vowel rather than two different ones. This can make clues harder, but the rest of the puzzle far simpler once you discover them.
+
+### Challenging Start Word For Today's Wordle
+
+### Medium Start Word For Today's Wordle
+
+### Save Your Wordle Streak: Hints For Today's Wordle Answer
+
+If you have used a few attempts and don’t want to waste more on random guesses, it might be time to use some hints. The hints provided below will point you in the right direction but will not spoil the answer . So, you will still need to use a guess to solve today’s Wordle answer, albeit with just a bit more information.
+
+There is one repeating letter used in the puzzle.
+
+The answer is used primarily as a verb and a noun.
+
+The vowels are in the 3rd & 4th positions.
+
+Describes to smile, speak, or write in a way that shows scorn, contempt, or disrespect.
+
+Usually, curling your upper lip will get people to describe your expression as today's Wordle answer , giving players a context they might need. For those still struggling, think about a scornful or contemptuous facial expression you've seen, usually in the shape of a half-smile. There can also be signs of this expression in a snide remark, adding some dialogue to a term with a strong "personality."
+
+If you have used five attempts and don’t want to lose your streak to another random guess, it’s better to use the actual answer to solve today’s Wordle answer . However, if you used all the starting words we mentioned earlier, you could have solved today’s answer in four to five attempts. Nevertheless, here’s the actual answer that solves today’s puzzle.
+
+November 24's Wordle answer is SNEER.
+
+If you’re wondering which answers Wordle has already used, here’s a list of the past 10 answers.
+
+If you still crave more games similar to Wordle , we have three options that you can explore. These games don’t take too much of your time and are the perfect game to play after Wordle . They offer something unique but should be easy to understand and play during short breaks.
+
+Find the four words that share something in common. Find hints and tips to beat Connections with our daily answer article.
+
+Guess the mystery country in the fewest number of guesses.
+
+Satisfy every "Rule" that the game prompts once a player has entered the desired password. Rules can conflict with each other as you progress.
+
+Guess the country based on the map image.
+
+---
+
+**Original Source:** [ScreenRant](https://screenrant.com/todays-wordle-hints-answer-november-24-2026-puzzle-1984/)`,
+    title_en: `Today's Wordle Hints & Answer - November 24, 2026 (Puzzle #1984) - ScreenRant`,
+    summary_en: `Common letters in today's Wordle might bail you out of a lost streak, as the rest of the puzzle is trying to trick you at every step. Most players will fall short to wild guesses that try to make use of seemingly easy clues set to lead you `,
+    content_en: `Common letters in today's Wordle might bail you out of a lost streak, as the rest of the puzzle is trying to trick you at every step. Most players will fall short to wild guesses that try to make use of seemingly easy clues set to lead you on a hasty path. However, those who take the time to think about the puzzle's structure may come to a better conclusion.
+
+Many veterans prefer to use Wordle ’s hard mode as it prevents them from using random guesses and is a bit more strategic. This mode doesn’t let players reuse confirmed letters in other spots , which will prevent you from wasting your attempts on random words. Using this mode in tandem with some hints may just let you solve today’s Wordle without cheating.
+
+### Best Starting Words For Today’s Wordle Answer
+
+### Three Starting Words To Help You Solve Wordle
+
+If you are wondering which words to start your Wordle puzzle with, we have three recommendations that serve different purposes. One starting word will pose a difficult challenge, while the other two should help you find the answer faster. All three suggestions either share consonants, vowels, or the same letters as the answer, so that you can solve today’s Wordle without using hints.
+
+There are a few best starting words and combos you can use for future Wordle answers; however, the suggestions below are tailored for today’s Wordle answer.
+
+There are only three consonants and two vowels that make up today's word, which represents the standard structure of any puzzle for a Wordle game. That being said, both of the vowels for today are the same and located next to each other , meaning that players have to guess for a single vowel rather than two different ones. This can make clues harder, but the rest of the puzzle far simpler once you discover them.
+
+### Challenging Start Word For Today's Wordle
+
+### Medium Start Word For Today's Wordle
+
+### Save Your Wordle Streak: Hints For Today's Wordle Answer
+
+If you have used a few attempts and don’t want to waste more on random guesses, it might be time to use some hints. The hints provided below will point you in the right direction but will not spoil the answer . So, you will still need to use a guess to solve today’s Wordle answer, albeit with just a bit more information.
+
+There is one repeating letter used in the puzzle.
+
+The answer is used primarily as a verb and a noun.
+
+The vowels are in the 3rd & 4th positions.
+
+Describes to smile, speak, or write in a way that shows scorn, contempt, or disrespect.
+
+Usually, curling your upper lip will get people to describe your expression as today's Wordle answer , giving players a context they might need. For those still struggling, think about a scornful or contemptuous facial expression you've seen, usually in the shape of a half-smile. There can also be signs of this expression in a snide remark, adding some dialogue to a term with a strong "personality."
+
+If you have used five attempts and don’t want to lose your streak to another random guess, it’s better to use the actual answer to solve today’s Wordle answer . However, if you used all the starting words we mentioned earlier, you could have solved today’s answer in four to five attempts. Nevertheless, here’s the actual answer that solves today’s puzzle.
+
+November 24's Wordle answer is SNEER.
+
+If you’re wondering which answers Wordle has already used, here’s a list of the past 10 answers.
+
+If you still crave more games similar to Wordle , we have three options that you can explore. These games don’t take too much of your time and are the perfect game to play after Wordle . They offer something unique but should be easy to understand and play during short breaks.
+
+Find the four words that share something in common. Find hints and tips to beat Connections with our daily answer article.
+
+Guess the mystery country in the fewest number of guesses.
+
+Satisfy every "Rule" that the game prompts once a player has entered the desired password. Rules can conflict with each other as you progress.
+
+Guess the country based on the map image.
+
+---
+
+**Original Source:** [ScreenRant](https://screenrant.com/todays-wordle-hints-answer-november-24-2026-puzzle-1984/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to ScreenRant.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Today's Wordle Hints & Answer - November 24, 2026 (Puzzle #1984) - ScreenRant.`,
+    primary_source: `ScreenRant`,
+  },
+  {
+    id: 97944,
+    title: `Pelvic Radiotherapy Linked to More Early Bowel Side Effects - EMJ`,
+    slug: `pelvic-radiotherapy-linked-to-more-early-bowel-side-effects-emj-2026`,
+    original_title: `Pelvic Radiotherapy Linked to More Early Bowel Side Effects - EMJ`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:21:05Z`,
+    updated_at: `2026-11-26T06:21:05Z`,
+    source_name: `EMJ`,
+    source_url: `https://www.emjreviews.com/oncology/news/pelvic-radiotherapy-linked-to-more-early-bowel-side-effects/`,
+    source_courtesy: `Source: EMJ`,
+    image_url: `/images/articles/pelvic-radiotherapy-linked-to-more-early-bowel-side-effects-emj-2026.webp`,
+    image_alt: `Pelvic Radiotherapy Linked to More Early Bowel Side Effects - EMJ`,
+    image_courtesy: `Image: EMJ (External Source Attribution)`,
+    image_photographer: `EMJ`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `This site is intended for healthcare professionals`,
+    content: `This site is intended for healthcare professionals
+
+ADDING pelvic lymph nodes to stereotactic body radiotherapy for high-risk localised prostate cancer increased early bowel side effects in the phase 3 PACE-NODES trial.
+
+Grade 2 or worse gastrointestinal events affected 28.0% of men who received pelvic nodal treatment and 21.3% of those who received prostate-only treatment. By 12 weeks, bowel side effects were infrequent in both groups.
+
+The trial, published in The Lancet Oncology , recruited 1,166 men at 47 hospitals in the UK, Ireland and New Zealand. Their median age was 72.7 years, and all were scheduled to receive at least 12 months of hormone therapy.
+
+Researchers randomly assigned participants to stereotactic body radiotherapy (SBRT) directed at the prostate alone or at both the prostate and pelvic lymph nodes.
+
+Both groups received 36.25 Gy to the prostate in five fractions on alternate days. The combined-treatment group also received 25 Gy to the pelvic lymph nodes.
+
+The early safety analysis included 555 patients who received prostate-only SBRT and 511 who received pelvic nodal SBRT. Researchers grouped patients by the treatment they received because some changed groups, most commonly when radiotherapy planning constraints could not be met.
+
+The 6.7 percentage point difference in grade 2 or worse gastrointestinal events had a 95% confidence interval of 1.6–11.9 percentage points. Grade 3 bowel events were uncommon.
+
+Grade 2 or worse urinary and genital side effects affected 35.8% of patients who received pelvic nodal SBRT and 40.2% of those who received prostate-only SBRT. The difference was statistically inconclusive. There were no treatment-related deaths.
+
+Patients’ reports showed a similar pattern for bowel symptoms. Four weeks after treatment, 65.5% of respondents in the pelvic nodal group reported a clinically important decline in bowel function, compared with 54.9% in the prostate-only group.
+
+Overall, bowel and urinary side effects peaked at two weeks. By Week 12, both kinds of side effect were infrequent and occurred at similar rates in the two groups.
+
+The analysis focused on side effects in the first 12 weeks. The trial is continuing to assess longer-term toxicity and its primary endpoint, time to biochemical or clinical failure.
+
+Those results will help determine whether treating the pelvic nodes improves cancer control and how any benefit weighs against the added bowel side effects.
+
+Pathmanathan A et al. Prostate and pelvic nodal stereotactic body radiotherapy (SBRT) versus prostate-only SBRT for high-risk, localised prostate cancer (PACE-NODES). Lancet Oncol. Published online 20 November 2026.
+
+Featured image: staras on AdobeStock
+
+Each article is made available under the terms of the Creative Commons Attribution-Non Commercial 4.0 License .
+
+Rate this content's potential impact on patient outcomes
+
+Average rating 0 / 5. Vote count: 0
+
+No votes so far! Be the first to rate this content.
+
+### Lifestyle Factors Impact Cognitive Outcomes in Prostate Cancer
+
+### Liquid Biopsy Shows Promise in High-Risk Localised Prostate Cancer
+
+### Advancing Treatment in Uveal Melanoma – Marlana Orloff
+
+---
+
+**Original Source:** [EMJ](https://www.emjreviews.com/oncology/news/pelvic-radiotherapy-linked-to-more-early-bowel-side-effects/)`,
+    title_en: `Pelvic Radiotherapy Linked to More Early Bowel Side Effects - EMJ`,
+    summary_en: `This site is intended for healthcare professionals`,
+    content_en: `This site is intended for healthcare professionals
+
+ADDING pelvic lymph nodes to stereotactic body radiotherapy for high-risk localised prostate cancer increased early bowel side effects in the phase 3 PACE-NODES trial.
+
+Grade 2 or worse gastrointestinal events affected 28.0% of men who received pelvic nodal treatment and 21.3% of those who received prostate-only treatment. By 12 weeks, bowel side effects were infrequent in both groups.
+
+The trial, published in The Lancet Oncology , recruited 1,166 men at 47 hospitals in the UK, Ireland and New Zealand. Their median age was 72.7 years, and all were scheduled to receive at least 12 months of hormone therapy.
+
+Researchers randomly assigned participants to stereotactic body radiotherapy (SBRT) directed at the prostate alone or at both the prostate and pelvic lymph nodes.
+
+Both groups received 36.25 Gy to the prostate in five fractions on alternate days. The combined-treatment group also received 25 Gy to the pelvic lymph nodes.
+
+The early safety analysis included 555 patients who received prostate-only SBRT and 511 who received pelvic nodal SBRT. Researchers grouped patients by the treatment they received because some changed groups, most commonly when radiotherapy planning constraints could not be met.
+
+The 6.7 percentage point difference in grade 2 or worse gastrointestinal events had a 95% confidence interval of 1.6–11.9 percentage points. Grade 3 bowel events were uncommon.
+
+Grade 2 or worse urinary and genital side effects affected 35.8% of patients who received pelvic nodal SBRT and 40.2% of those who received prostate-only SBRT. The difference was statistically inconclusive. There were no treatment-related deaths.
+
+Patients’ reports showed a similar pattern for bowel symptoms. Four weeks after treatment, 65.5% of respondents in the pelvic nodal group reported a clinically important decline in bowel function, compared with 54.9% in the prostate-only group.
+
+Overall, bowel and urinary side effects peaked at two weeks. By Week 12, both kinds of side effect were infrequent and occurred at similar rates in the two groups.
+
+The analysis focused on side effects in the first 12 weeks. The trial is continuing to assess longer-term toxicity and its primary endpoint, time to biochemical or clinical failure.
+
+Those results will help determine whether treating the pelvic nodes improves cancer control and how any benefit weighs against the added bowel side effects.
+
+Pathmanathan A et al. Prostate and pelvic nodal stereotactic body radiotherapy (SBRT) versus prostate-only SBRT for high-risk, localised prostate cancer (PACE-NODES). Lancet Oncol. Published online 20 November 2026.
+
+Featured image: staras on AdobeStock
+
+Each article is made available under the terms of the Creative Commons Attribution-Non Commercial 4.0 License .
+
+Rate this content's potential impact on patient outcomes
+
+Average rating 0 / 5. Vote count: 0
+
+No votes so far! Be the first to rate this content.
+
+### Lifestyle Factors Impact Cognitive Outcomes in Prostate Cancer
+
+### Liquid Biopsy Shows Promise in High-Risk Localised Prostate Cancer
+
+### Advancing Treatment in Uveal Melanoma – Marlana Orloff
+
+---
+
+**Original Source:** [EMJ](https://www.emjreviews.com/oncology/news/pelvic-radiotherapy-linked-to-more-early-bowel-side-effects/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to EMJ.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Pelvic Radiotherapy Linked to More Early Bowel Side Effects - EMJ.`,
+    primary_source: `EMJ`,
+  },
+  {
+    id: 97945,
+    title: `गूगल आपको एक एआई फिल्म में अभिनेता बनाना चाहता है। - Vietnam.vn`,
+    slug: `vietnamvn-2026`,
+    original_title: `गूगल आपको एक एआई फिल्म में अभिनेता बनाना चाहता है। - Vietnam.vn`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:21:10Z`,
+    updated_at: `2026-11-26T06:21:10Z`,
+    source_name: `Vietnam.vn`,
+    source_url: `https://www.vietnam.vn/hi/google-muon-bien-ban-thanh-dien-vien-trong-phim-ai`,
+    source_courtesy: `Source: Vietnam.vn`,
+    image_url: `/images/articles/vietnamvn-2026.webp`,
+    image_alt: `गूगल आपको एक एआई फिल्म में अभिनेता बनाना चाहता है। - Vietnam.vn`,
+    image_courtesy: `Image: Vietnam.vn (External Source Attribution)`,
+    image_photographer: `Vietnam.vn`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `गूगल ने एआई का उपयोग करके फिल्में बनाने वाले एक टीवी चैनल का विचार प्रस्तावित किया, जिसमें दर्शकों की छवियों और आवाजों को कहानी में शामिल किया जाएगा और यहां तक ​​कि विज्ञापनों को भी वैयक्तिकृत किया जाएगा।`,
+    content: `गूगल ने एआई का उपयोग करके फिल्में बनाने वाले एक टीवी चैनल का विचार प्रस्तावित किया, जिसमें दर्शकों की छवियों और आवाजों को कहानी में शामिल किया जाएगा और यहां तक ​​कि विज्ञापनों को भी वैयक्तिकृत किया जाएगा।
+
+गूगल एक नए मनोरंजन कॉन्सेप्ट पर शोध कर रहा है, जिसमें दर्शक अब सिर्फ स्क्रीन के सामने नहीं बैठेंगे, बल्कि आर्टिफिशियल इंटेलिजेंस ( एआई ) द्वारा बनाई गई फिल्मों में मुख्य किरदार बन सकेंगे। पेटेंटलाइज़ द्वारा खोजे गए पेटेंट दस्तावेजों के अनुसार, 'माई चैनल' नामक यह सिस्टम प्रत्येक व्यक्ति के लिए एक व्यक्तिगत टेलीविजन चैनल बना सकता है, जिसमें उनकी पसंद, देखने की आदतों और व्यक्तिगत डेटा के आधार पर सामग्री तैयार की जाएगी। मौजूदा स्ट्रीमिंग प्लेटफॉर्म की तरह पहले से मौजूद फिल्मों का सुझाव देने के बजाय, गूगल चाहता है कि एआई प्रत्येक दर्शक के लिए पूरी तरह से नई कहानियां बनाए।
+
+प्रोफ़ाइल विवरण के अनुसार, मेरा चैनल YouTube व्यूइंग हिस्ट्री, पसंदीदा कंटेंट जॉनर, भाषा, लोकेशन और डेमोग्राफिक डेटा जैसे विभिन्न सूचना स्रोतों का उपयोग करके रचनात्मक प्रक्रिया को निर्देशित कर सकता है। इसके आधार पर, AI साइंस फिक्शन, रोमांटिक कॉमेडी, एडवेंचर या एक्शन जैसे विभिन्न जॉनर में वीडियो बनाता है। खास बात यह है कि उपयोगकर्ता अपनी निजी तस्वीरों से बनाए गए अवतारों के माध्यम से सीधे इन वीडियो में दिखाई दे सकते हैं। सिस्टम उनकी आवाज़ का उपयोग करके डायलॉग भी बना सकता है, जिससे अनुभव ऐसा हो जाता है मानो उपयोगकर्ता खुद कोई फिल्म देख रहे हों।
+
+गूगल द्वारा दिया गया एक उदाहरण उन लोगों से संबंधित है जो नियमित रूप से खेल और प्रसिद्ध खिलाड़ियों के वीडियो देखते हैं। पहले से मौजूद वीडियो को बार-बार चलाने के बजाय, एआई एक नई कहानी बना सकता है जिसमें दर्शक स्टैंड में बैठकर चीयर करते हुए दिखाई दें या खिलाड़ी के साथ बातचीत के क्षण साझा करें। टेलीविजन चैनल भी एकत्रित डेटा के आधार पर स्वचालित रूप से नई सामग्री तैयार कर सकते हैं, इसके लिए उन्हें हर बार देखने के लिए उपयोगकर्ताओं के अनुरोध का इंतजार करने की आवश्यकता नहीं होगी। यह मनोरंजन उद्योग के लिए एक नया दृष्टिकोण खोलता है, जहां केवल तैयार उत्पादों को वितरित करने के बजाय निरंतर सामग्री का निर्माण किया जाता है।
+
+वीडियो को वैयक्तिकृत करने के अलावा, Google अपने 'माई चैनल' सिस्टम में विज्ञापन शामिल करने पर भी विचार कर रहा है। पेटेंट आवेदन में एक विज्ञापन सर्वर से कनेक्ट करने और प्लेबैक से पहले वीडियो में विज्ञापन डालने के लिए एक समर्पित घटक का उपयोग करने की क्षमता का वर्णन किया गया है। इससे व्यक्तिगत दर्शक की विशेषताओं और प्राथमिकताओं के आधार पर विज्ञापन चुने जा सकेंगे। यह मॉडल वैयक्तिकरण को सामग्री अनुशंसा से वीडियो स्क्रिप्ट और विज्ञापन तक विस्तारित करता है, लेकिन यह गोपनीयता और व्यक्तिगत डेटा के दुरुपयोग की सीमा के बारे में भी प्रश्न उठाता है।
+
+वास्तविक छवियों और आवाज़ों का उपयोग करके अभूतपूर्व परिदृश्य बनाना उपयोगकर्ताओं के अपनी डिजिटल पहचान पर नियंत्रण खोने का जोखिम भी पैदा करता है। इसलिए, यदि यह विचार एक व्यावसायिक उत्पाद बन जाता है, तो अनुमति प्राप्त करने, डेटा प्रबंधन और एआई-जनित सामग्री को सीमित करने के तंत्र ऐसे मुद्दे होंगे जिन पर ध्यान देने की आवश्यकता होगी। वर्तमान में, माई चैनल केवल एक पेटेंट आवेदन में दिखाई देता है और अभी तक यह कोई ऐसी सेवा नहीं है जिसे Google ने विकसित करने की पुष्टि की हो। गौरतलब है कि आवेदन को परीक्षक द्वारा अस्वीकार कर दिया गया है, हालांकि Google अभी भी सुरक्षा अनुरोध में संशोधन कर सकता है या अपील कर सकता है। इसलिए, भविष्य में इस विचार के टीवी उपकरणों पर आने की संभावना अनिश्चित बनी हुई है।
+
+### पेश है 2027 सुजुकी इग्निस - एक किफायती इलेक्ट्रिक कार, 3.6 मीटर लंबी, जिसमें 4 सीटों की व्यवस्था है।
+
+### वियतनाम पोस्ट और राकुटेन वाइबर ने डिजिटल कनेक्टिविटी इकोसिस्टम का विस्तार करने के लिए सहयोग किया है।
+
+### हुआवेई मेट एक्स8, एक उत्कृष्ट कृति है, जिसमें चुंबकीय तकनीक है जो सिलवटों को खत्म कर देती है।
+
+### पेरिस से लौटे वियतनामी-अमेरिकी इंजीनियर को अपने वतन से आजीवन प्रेम है।
+
+### सेमीकंडक्टर क्षेत्र में हो रही प्रगति का लाभ उठाने के लिए बुनियादी ढांचे के विकास में तेजी लाएं।
+
+### इस स्थिति में बिटकॉइन की कीमत 53,000 डॉलर से नीचे गिर सकती है।
+
+---
+
+**मूल स्रोत (Original Source):** [Vietnam.vn](https://www.vietnam.vn/hi/google-muon-bien-ban-thanh-dien-vien-trong-phim-ai)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `गूगल आपको एक एआई फिल्म में अभिनेता बनाना चाहता है। - Vietnam.vn`,
+    summary_hi: `गूगल ने एआई का उपयोग करके फिल्में बनाने वाले एक टीवी चैनल का विचार प्रस्तावित किया, जिसमें दर्शकों की छवियों और आवाजों को कहानी में शामिल किया जाएगा और यहां तक ​​कि विज्ञापनों को भी वैयक्तिकृत किया जाएगा।`,
+    content_hi: `गूगल ने एआई का उपयोग करके फिल्में बनाने वाले एक टीवी चैनल का विचार प्रस्तावित किया, जिसमें दर्शकों की छवियों और आवाजों को कहानी में शामिल किया जाएगा और यहां तक ​​कि विज्ञापनों को भी वैयक्तिकृत किया जाएगा।
+
+गूगल एक नए मनोरंजन कॉन्सेप्ट पर शोध कर रहा है, जिसमें दर्शक अब सिर्फ स्क्रीन के सामने नहीं बैठेंगे, बल्कि आर्टिफिशियल इंटेलिजेंस ( एआई ) द्वारा बनाई गई फिल्मों में मुख्य किरदार बन सकेंगे। पेटेंटलाइज़ द्वारा खोजे गए पेटेंट दस्तावेजों के अनुसार, 'माई चैनल' नामक यह सिस्टम प्रत्येक व्यक्ति के लिए एक व्यक्तिगत टेलीविजन चैनल बना सकता है, जिसमें उनकी पसंद, देखने की आदतों और व्यक्तिगत डेटा के आधार पर सामग्री तैयार की जाएगी। मौजूदा स्ट्रीमिंग प्लेटफॉर्म की तरह पहले से मौजूद फिल्मों का सुझाव देने के बजाय, गूगल चाहता है कि एआई प्रत्येक दर्शक के लिए पूरी तरह से नई कहानियां बनाए।
+
+प्रोफ़ाइल विवरण के अनुसार, मेरा चैनल YouTube व्यूइंग हिस्ट्री, पसंदीदा कंटेंट जॉनर, भाषा, लोकेशन और डेमोग्राफिक डेटा जैसे विभिन्न सूचना स्रोतों का उपयोग करके रचनात्मक प्रक्रिया को निर्देशित कर सकता है। इसके आधार पर, AI साइंस फिक्शन, रोमांटिक कॉमेडी, एडवेंचर या एक्शन जैसे विभिन्न जॉनर में वीडियो बनाता है। खास बात यह है कि उपयोगकर्ता अपनी निजी तस्वीरों से बनाए गए अवतारों के माध्यम से सीधे इन वीडियो में दिखाई दे सकते हैं। सिस्टम उनकी आवाज़ का उपयोग करके डायलॉग भी बना सकता है, जिससे अनुभव ऐसा हो जाता है मानो उपयोगकर्ता खुद कोई फिल्म देख रहे हों।
+
+गूगल द्वारा दिया गया एक उदाहरण उन लोगों से संबंधित है जो नियमित रूप से खेल और प्रसिद्ध खिलाड़ियों के वीडियो देखते हैं। पहले से मौजूद वीडियो को बार-बार चलाने के बजाय, एआई एक नई कहानी बना सकता है जिसमें दर्शक स्टैंड में बैठकर चीयर करते हुए दिखाई दें या खिलाड़ी के साथ बातचीत के क्षण साझा करें। टेलीविजन चैनल भी एकत्रित डेटा के आधार पर स्वचालित रूप से नई सामग्री तैयार कर सकते हैं, इसके लिए उन्हें हर बार देखने के लिए उपयोगकर्ताओं के अनुरोध का इंतजार करने की आवश्यकता नहीं होगी। यह मनोरंजन उद्योग के लिए एक नया दृष्टिकोण खोलता है, जहां केवल तैयार उत्पादों को वितरित करने के बजाय निरंतर सामग्री का निर्माण किया जाता है।
+
+वीडियो को वैयक्तिकृत करने के अलावा, Google अपने 'माई चैनल' सिस्टम में विज्ञापन शामिल करने पर भी विचार कर रहा है। पेटेंट आवेदन में एक विज्ञापन सर्वर से कनेक्ट करने और प्लेबैक से पहले वीडियो में विज्ञापन डालने के लिए एक समर्पित घटक का उपयोग करने की क्षमता का वर्णन किया गया है। इससे व्यक्तिगत दर्शक की विशेषताओं और प्राथमिकताओं के आधार पर विज्ञापन चुने जा सकेंगे। यह मॉडल वैयक्तिकरण को सामग्री अनुशंसा से वीडियो स्क्रिप्ट और विज्ञापन तक विस्तारित करता है, लेकिन यह गोपनीयता और व्यक्तिगत डेटा के दुरुपयोग की सीमा के बारे में भी प्रश्न उठाता है।
+
+वास्तविक छवियों और आवाज़ों का उपयोग करके अभूतपूर्व परिदृश्य बनाना उपयोगकर्ताओं के अपनी डिजिटल पहचान पर नियंत्रण खोने का जोखिम भी पैदा करता है। इसलिए, यदि यह विचार एक व्यावसायिक उत्पाद बन जाता है, तो अनुमति प्राप्त करने, डेटा प्रबंधन और एआई-जनित सामग्री को सीमित करने के तंत्र ऐसे मुद्दे होंगे जिन पर ध्यान देने की आवश्यकता होगी। वर्तमान में, माई चैनल केवल एक पेटेंट आवेदन में दिखाई देता है और अभी तक यह कोई ऐसी सेवा नहीं है जिसे Google ने विकसित करने की पुष्टि की हो। गौरतलब है कि आवेदन को परीक्षक द्वारा अस्वीकार कर दिया गया है, हालांकि Google अभी भी सुरक्षा अनुरोध में संशोधन कर सकता है या अपील कर सकता है। इसलिए, भविष्य में इस विचार के टीवी उपकरणों पर आने की संभावना अनिश्चित बनी हुई है।
+
+### पेश है 2027 सुजुकी इग्निस - एक किफायती इलेक्ट्रिक कार, 3.6 मीटर लंबी, जिसमें 4 सीटों की व्यवस्था है।
+
+### वियतनाम पोस्ट और राकुटेन वाइबर ने डिजिटल कनेक्टिविटी इकोसिस्टम का विस्तार करने के लिए सहयोग किया है।
+
+### हुआवेई मेट एक्स8, एक उत्कृष्ट कृति है, जिसमें चुंबकीय तकनीक है जो सिलवटों को खत्म कर देती है।
+
+### पेरिस से लौटे वियतनामी-अमेरिकी इंजीनियर को अपने वतन से आजीवन प्रेम है।
+
+### सेमीकंडक्टर क्षेत्र में हो रही प्रगति का लाभ उठाने के लिए बुनियादी ढांचे के विकास में तेजी लाएं।
+
+### इस स्थिति में बिटकॉइन की कीमत 53,000 डॉलर से नीचे गिर सकती है।
+
+---
+
+**मूल स्रोत (Original Source):** [Vietnam.vn](https://www.vietnam.vn/hi/google-muon-bien-ban-thanh-dien-vien-trong-phim-ai)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट Vietnam.vn के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक गूगल आपको एक एआई फिल्म में अभिनेता बनाना चाहता है। - Vietnam.vn से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Vietnam.vn`,
+  },
+  {
+    id: 97946,
+    title: `OnePlus Nord 7 की फोटो और स्पेसिफिकेशन्स लीक, मिल सकती है 9000mAh बैटरी और RGB लाइट - 91Mobiles`,
+    slug: `oneplus-nord-7-9000mah-rgb-91mobiles-2026`,
+    original_title: `OnePlus Nord 7 की फोटो और स्पेसिफिकेशन्स लीक, मिल सकती है 9000mAh बैटरी और RGB लाइट - 91Mobiles`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:21:11Z`,
+    updated_at: `2026-11-26T06:21:11Z`,
+    source_name: `91Mobiles`,
+    source_url: `https://www.91mobiles.com/hindi/oneplus-nord-7-image-leaked-with-rgb-light-and-specifications/`,
+    source_courtesy: `Source: 91Mobiles`,
+    image_url: `/images/articles/oneplus-nord-7-9000mah-rgb-91mobiles-2026.jpg`,
+    image_alt: `OnePlus Nord 7 की फोटो और स्पेसिफिकेशन्स लीक, मिल सकती है 9000mAh बैटरी और RGB लाइट - 91Mobiles`,
+    image_courtesy: `Image: 91Mobiles (External Source Attribution)`,
+    image_photographer: `91Mobiles`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `OnePlus Nord 7 का इंतजार कर रहे यूजर्स के लिए अहम जानकारी सामने आई है। कंपनी की ओर से हालांकि अभी तक इस मोबाइल से जुड़ी कोई भी आधिकारिक जानकारी नहीं दी गई है लेकिन लीक में इस अपकमिंग वनप्लस फोन की फोटो और कई अहम स्पेसिफिकेशन्स सामने आ गई है`,
+    content: `OnePlus Nord 7 का इंतजार कर रहे यूजर्स के लिए अहम जानकारी सामने आई है। कंपनी की ओर से हालांकि अभी तक इस मोबाइल से जुड़ी कोई भी आधिकारिक जानकारी नहीं दी गई है लेकिन लीक में इस अपकमिंग वनप्लस फोन की फोटो और कई अहम स्पेसिफिकेशन्स सामने आ गई हैं। टिपस्टर अ​भिषेक यादव ने स्मार्टफोन की लाइव इमेज शेयर करते हुए दावा किया है कि यह मोबाइल वनप्लस नोर्ड 7 है जो आने वाले समय में भारतीय बाजार में उतारा जाएगा। Nord 7 की लीक इमेज और स्पेक्स आप आगे देख सकते हैं।
+
+टिपस्टर द्वारा शेयर की गई फोटो में OnePlus Nord 7 का फ्रंट और बैक पैनल दिखाया गया है। लीक इमेज में फोन को डार्क ग्रीन कलर शेड में दिखाया गया है जिसका फ्रेम टील ग्रीन फिनिश का नजर आ रहा है। फोन में ऊपरी बाईं ओर बड़ा रेक्टेंगुलर कैमरा मॉड्यूल दिया गया है जिसमें दो कैमरा सेंसर वर्टिकल पोजिशन में लगे हैं, जबकि इनके दाईं ओर फ्लैश और एक वर्टिकल RGB लाइट मौजूद है। लीक फोटो में यह लाइट ऑरेंज कलर में जलती हुई नजर आ रही है। बताया जा रहा है कि यह लाइट नोटिफिकेशन्स इत्यादि पर चमकेगी।
+
+EXCLUSIVE: ✨ OnePlus Nord 7, with a vertical RGB light inside the camera module.
+
+🔋 9000mAh battery 🔳 Dimensity 8500 📱 144Hz Super AMOLED display 🔌 80W wired charging https://t.co/FXe88QZAcH
+
+— Abhishek Yadav (@yabhishekhd) November 24, 2026
+
+वनप्लस नोर्ड 7 की लीक इमेज में फोन की लुक इसकी पिछली जेनरेशन वाले वनप्लस नोर्ड 6 से काफी अलग नजर आई है। Nord 7 के फ्रंट पैनल पर नैरो बेजल्स वाली फ्लैट डिस्प्ले दिखाई गई है जिसके ऊपरी ओर ठीक बीच में सेल्फी कैमरा से लैस पंच-होल लगाया गया है। दिलचस्प बात है कि फोन की स्क्रीन पर 23 नवंबर की तारीख भी नजर आ रही है। वहीं मोबाइल के साइड फ्रेम पर वॉल्यूम और पावर बटन दिखाई दे रहे हैं।
+
+### OnePlus Nord 7 स्पेसिफिकेशन्स (लीक)
+
+टिपस्टर के मुताबिक वनप्लस नोर्ड 7 को MediaTek Dimensity 8500 चिपसेट पर लॉन्च किया जा सकता है। यह जनवरी 2026 में अनाउंस हुआ प्रोसेसर है जो 3.4गीगाहर्ट्ज़ तक की क्लॉक स्पीड पर रन करने की क्षमता रखता है। इस चिपसेट को वनप्लस नोर्ड 6 में दिए गए Snapdragon 8s Gen 4 चिप की तुलना में हल्का फास्ट कहा जा सकता है क्योंकि, स्नैपड्रैगन प्रोसेसर की टॉप क्लॉक स्पीड 3.21गीगाहर्ट्ज़ तक ही जाती है। हालांकि असली परफॉर्मेंस तो फोन का रियल इस्तेमाल करने के बाद ही पता चलती है।
+
+OnePlus Nord 7 5G फोन में 144Hz रिफ्रेश रेट वाली Super AMOLED डिस्प्ले दिए जाने की बात लीक में सामने आई है। हालांकि, अभी स्क्रीन का साइज, रेजोल्यूशन और ब्राइटनेस जैसी जानकारियां सामने नहीं आई हैं। OnePlus Nord 6 से तुलना करें तो इस मोबाइल को 165Hz रिफ्रेश रेट वाली AMOLED डिस्प्ले पर लॉन्च किया गया था। ऐसे में नए मॉडल में रिफ्रेश रेट कम होना थोड़ा निराश कर सकता है। खासकर उन यूजर्स को जो फोन पर गेमिंग और स्मूथ स्क्रॉलिंग को प्राथमिकता देते हैं।
+
+लीक के अनुसार पावर बैकअप के लिए वनप्लस नोर्ड 7 5जी स्मार्टफोन को 9000mAh बैटरी से लैस कर भारतीय बाजार में उतारा जा सकता है। वहीं मोबाइल को तेजी से चार्ज करने के लिए इसमें 80W फास्ट चार्जिंग दी जा सकती है। बताते चलें कि अप्रैल 2026 में वनप्लस नोर्ड 6 ब्रांड का सबसे बड़ी बैटरी वाला फोन बनकर आया था और उसमें भी 9000mAh बैटरी दी गई थी। 91मोबाइल्स की टेस्टिंग में इस वनप्लस फोन ने 20 घंटे 46 मिनट का PCMark battery बेंचमार्क स्कोर अचीव किया था।
+
+OnePlus Nord 7 की लीक हुई फोटो में दिखाई गई RGB लाइट इस स्मार्टफोन सीरीज को नई लुक देने की कोशिश करेगी जो वनप्लस फैंस को पसंद आ सकती है। इस डिजाइन के साथ वनप्लस कंपनी आरजीबी लाइट वाले स्मार्टफोंस के इंडस्ट्री ट्रेंड में जुड़ने की कोशिश कर रही है। ऐसी ही RGB लाइट लुक हमें इं​डियन मार्केट में मौजूद Infinix GT 20 Pro, Ai+ Nova 2 Ultra और Tecno POVA 5 Pro जैसे स्मार्टफोंस में देखने को मिल चुकी है। हालांकि अपकमिंग वनप्लस नोर्ड 7 की कीमत क्या होगी, इससे जुड़ी अभी कोई आधिकारिक जानकारी नहीं है। वहीं लीक्ड स्पेक्स सही साबित होती हैं तो OnePlus Nord 7 की 9000एमएएच बैटरी उन यूजर्स के लिए अच्छी बात हो सकती है जो लंबी बैटरी लाइफ चाहते हैं।
+
+बता दें कि 25 नवंबर 2026 को OnePlus Nord 6 कंपनी वेबसाइट 46,999 रुपये की शुरुआती कीमत पर सेल के लिए उपलब्ध है जिसमें 8GB RAM + 256GB Storage दी गई है। अगर इस मोबाइल से तुलना करें तो नोर्ड 6 का सक्सेसर बनकर आ रहे OnePlus Nord 7 का प्राइस भी 45 हजार से 50 हजार रुपये की रेंज में रखा जा सकता है। अगर आप वनप्लस नोर्ड 7 का इंतजार नहीं करना चाहते हैं तो इसी बजट में iQOO 15R, Motorola Edge 70 Max, Redmi Note 17 Pro Max और vivo V70 Elite को चेक कर सकते हैं। आइकू फोन में Snapdragon 8 Gen 5 प्रोसेसर, 7600mAh बैटरी और 100W चार्जिंग मिलती है। वहीं मोटोरोला मोबाइल में Snapdragon 8 Gen 5 प्रोसेसर और 7,100mAh बैटरी लगी है। इसी तरह 10,000mAh बैटरी वाला फोन रेडमी नोट 17 प्रो मैक्स और 50MP सेल्फी कैमरा वाला vivo V70 Elite भी चुना जा सकता है।
+
+---
+
+**मूल स्रोत (Original Source):** [91Mobiles](https://www.91mobiles.com/hindi/oneplus-nord-7-image-leaked-with-rgb-light-and-specifications/)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `OnePlus Nord 7 की फोटो और स्पेसिफिकेशन्स लीक, मिल सकती है 9000mAh बैटरी और RGB लाइट - 91Mobiles`,
+    summary_hi: `OnePlus Nord 7 का इंतजार कर रहे यूजर्स के लिए अहम जानकारी सामने आई है। कंपनी की ओर से हालांकि अभी तक इस मोबाइल से जुड़ी कोई भी आधिकारिक जानकारी नहीं दी गई है लेकिन लीक में इस अपकमिंग वनप्लस फोन की फोटो और कई अहम स्पेसिफिकेशन्स सामने आ गई है`,
+    content_hi: `OnePlus Nord 7 का इंतजार कर रहे यूजर्स के लिए अहम जानकारी सामने आई है। कंपनी की ओर से हालांकि अभी तक इस मोबाइल से जुड़ी कोई भी आधिकारिक जानकारी नहीं दी गई है लेकिन लीक में इस अपकमिंग वनप्लस फोन की फोटो और कई अहम स्पेसिफिकेशन्स सामने आ गई हैं। टिपस्टर अ​भिषेक यादव ने स्मार्टफोन की लाइव इमेज शेयर करते हुए दावा किया है कि यह मोबाइल वनप्लस नोर्ड 7 है जो आने वाले समय में भारतीय बाजार में उतारा जाएगा। Nord 7 की लीक इमेज और स्पेक्स आप आगे देख सकते हैं।
+
+टिपस्टर द्वारा शेयर की गई फोटो में OnePlus Nord 7 का फ्रंट और बैक पैनल दिखाया गया है। लीक इमेज में फोन को डार्क ग्रीन कलर शेड में दिखाया गया है जिसका फ्रेम टील ग्रीन फिनिश का नजर आ रहा है। फोन में ऊपरी बाईं ओर बड़ा रेक्टेंगुलर कैमरा मॉड्यूल दिया गया है जिसमें दो कैमरा सेंसर वर्टिकल पोजिशन में लगे हैं, जबकि इनके दाईं ओर फ्लैश और एक वर्टिकल RGB लाइट मौजूद है। लीक फोटो में यह लाइट ऑरेंज कलर में जलती हुई नजर आ रही है। बताया जा रहा है कि यह लाइट नोटिफिकेशन्स इत्यादि पर चमकेगी।
+
+EXCLUSIVE: ✨ OnePlus Nord 7, with a vertical RGB light inside the camera module.
+
+🔋 9000mAh battery 🔳 Dimensity 8500 📱 144Hz Super AMOLED display 🔌 80W wired charging https://t.co/FXe88QZAcH
+
+— Abhishek Yadav (@yabhishekhd) November 24, 2026
+
+वनप्लस नोर्ड 7 की लीक इमेज में फोन की लुक इसकी पिछली जेनरेशन वाले वनप्लस नोर्ड 6 से काफी अलग नजर आई है। Nord 7 के फ्रंट पैनल पर नैरो बेजल्स वाली फ्लैट डिस्प्ले दिखाई गई है जिसके ऊपरी ओर ठीक बीच में सेल्फी कैमरा से लैस पंच-होल लगाया गया है। दिलचस्प बात है कि फोन की स्क्रीन पर 23 नवंबर की तारीख भी नजर आ रही है। वहीं मोबाइल के साइड फ्रेम पर वॉल्यूम और पावर बटन दिखाई दे रहे हैं।
+
+### OnePlus Nord 7 स्पेसिफिकेशन्स (लीक)
+
+टिपस्टर के मुताबिक वनप्लस नोर्ड 7 को MediaTek Dimensity 8500 चिपसेट पर लॉन्च किया जा सकता है। यह जनवरी 2026 में अनाउंस हुआ प्रोसेसर है जो 3.4गीगाहर्ट्ज़ तक की क्लॉक स्पीड पर रन करने की क्षमता रखता है। इस चिपसेट को वनप्लस नोर्ड 6 में दिए गए Snapdragon 8s Gen 4 चिप की तुलना में हल्का फास्ट कहा जा सकता है क्योंकि, स्नैपड्रैगन प्रोसेसर की टॉप क्लॉक स्पीड 3.21गीगाहर्ट्ज़ तक ही जाती है। हालांकि असली परफॉर्मेंस तो फोन का रियल इस्तेमाल करने के बाद ही पता चलती है।
+
+OnePlus Nord 7 5G फोन में 144Hz रिफ्रेश रेट वाली Super AMOLED डिस्प्ले दिए जाने की बात लीक में सामने आई है। हालांकि, अभी स्क्रीन का साइज, रेजोल्यूशन और ब्राइटनेस जैसी जानकारियां सामने नहीं आई हैं। OnePlus Nord 6 से तुलना करें तो इस मोबाइल को 165Hz रिफ्रेश रेट वाली AMOLED डिस्प्ले पर लॉन्च किया गया था। ऐसे में नए मॉडल में रिफ्रेश रेट कम होना थोड़ा निराश कर सकता है। खासकर उन यूजर्स को जो फोन पर गेमिंग और स्मूथ स्क्रॉलिंग को प्राथमिकता देते हैं।
+
+लीक के अनुसार पावर बैकअप के लिए वनप्लस नोर्ड 7 5जी स्मार्टफोन को 9000mAh बैटरी से लैस कर भारतीय बाजार में उतारा जा सकता है। वहीं मोबाइल को तेजी से चार्ज करने के लिए इसमें 80W फास्ट चार्जिंग दी जा सकती है। बताते चलें कि अप्रैल 2026 में वनप्लस नोर्ड 6 ब्रांड का सबसे बड़ी बैटरी वाला फोन बनकर आया था और उसमें भी 9000mAh बैटरी दी गई थी। 91मोबाइल्स की टेस्टिंग में इस वनप्लस फोन ने 20 घंटे 46 मिनट का PCMark battery बेंचमार्क स्कोर अचीव किया था।
+
+OnePlus Nord 7 की लीक हुई फोटो में दिखाई गई RGB लाइट इस स्मार्टफोन सीरीज को नई लुक देने की कोशिश करेगी जो वनप्लस फैंस को पसंद आ सकती है। इस डिजाइन के साथ वनप्लस कंपनी आरजीबी लाइट वाले स्मार्टफोंस के इंडस्ट्री ट्रेंड में जुड़ने की कोशिश कर रही है। ऐसी ही RGB लाइट लुक हमें इं​डियन मार्केट में मौजूद Infinix GT 20 Pro, Ai+ Nova 2 Ultra और Tecno POVA 5 Pro जैसे स्मार्टफोंस में देखने को मिल चुकी है। हालांकि अपकमिंग वनप्लस नोर्ड 7 की कीमत क्या होगी, इससे जुड़ी अभी कोई आधिकारिक जानकारी नहीं है। वहीं लीक्ड स्पेक्स सही साबित होती हैं तो OnePlus Nord 7 की 9000एमएएच बैटरी उन यूजर्स के लिए अच्छी बात हो सकती है जो लंबी बैटरी लाइफ चाहते हैं।
+
+बता दें कि 25 नवंबर 2026 को OnePlus Nord 6 कंपनी वेबसाइट 46,999 रुपये की शुरुआती कीमत पर सेल के लिए उपलब्ध है जिसमें 8GB RAM + 256GB Storage दी गई है। अगर इस मोबाइल से तुलना करें तो नोर्ड 6 का सक्सेसर बनकर आ रहे OnePlus Nord 7 का प्राइस भी 45 हजार से 50 हजार रुपये की रेंज में रखा जा सकता है। अगर आप वनप्लस नोर्ड 7 का इंतजार नहीं करना चाहते हैं तो इसी बजट में iQOO 15R, Motorola Edge 70 Max, Redmi Note 17 Pro Max और vivo V70 Elite को चेक कर सकते हैं। आइकू फोन में Snapdragon 8 Gen 5 प्रोसेसर, 7600mAh बैटरी और 100W चार्जिंग मिलती है। वहीं मोटोरोला मोबाइल में Snapdragon 8 Gen 5 प्रोसेसर और 7,100mAh बैटरी लगी है। इसी तरह 10,000mAh बैटरी वाला फोन रेडमी नोट 17 प्रो मैक्स और 50MP सेल्फी कैमरा वाला vivo V70 Elite भी चुना जा सकता है।
+
+---
+
+**मूल स्रोत (Original Source):** [91Mobiles](https://www.91mobiles.com/hindi/oneplus-nord-7-image-leaked-with-rgb-light-and-specifications/)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट 91Mobiles के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक OnePlus Nord 7 की फोटो और स्पेसिफिकेशन्स लीक, मिल सकती है 9000mAh बैटरी और RGB लाइट - 91Mobiles से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `91Mobiles`,
+  },
+  {
+    id: 97947,
+    title: `Kim Jong Un says North Korea should widen deployment of tactical nukes - Al Jazeera`,
+    slug: `kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes-2026`,
+    original_title: `Kim Jong Un says North Korea should widen deployment of tactical nukes - Al Jazeera`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:21:13Z`,
+    updated_at: `2026-11-26T06:21:13Z`,
+    source_name: `Al Jazeera`,
+    source_url: `https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes`,
+    source_courtesy: `Source: Al Jazeera`,
+    image_url: `/images/articles/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes-2026.webp`,
+    image_alt: `Kim Jong Un says North Korea should widen deployment of tactical nukes - Al Jazeera`,
+    image_courtesy: `Image: Al Jazeera (External Source Attribution)`,
+    image_photographer: `Al Jazeera`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `Kim warns attempts to deny North Korea’s nuclear status will be seen as “an open declaration of war”.`,
+    content: `Kim warns attempts to deny North Korea’s nuclear status will be seen as “an open declaration of war”.
+
+North Korean leader Kim Jong Un has urged his country to focus on deploying tactical nuclear weapons “across multiple domains for different missions”.
+
+Kim said North Korea’s nuclear material production capacity was being systematically expanded on Thursday, according to state media KCNA.
+
+Maintaining North Korea’s status as a nuclear-weapons state was “absolutely inviolable”, Kim said during an inspection of nuclear material production and weapons research facilities. KCNA did not identify the facilities or their locations.
+
+The country’s status would not change because of what he called “denuclearisation rhetoric from forces that ignore objective reality and failed to recognise the changed situation”.
+
+“Our nuclear capability is now a reality,” he said, calling recent achievements in nuclear weapons production a major success in carrying ⁠⁠out the country’s nuclear policy.
+
+Any attempt to deny North Korea’s nuclear status, which it enshrined in its constitution in 2023, would be regarded as “an open declaration of war”, he said.
+
+Kim said diversified use of tactical nuclear weapons was an “important and urgent task raised from tactical nukes’ military value in modern warfare and from the inevitable reality facing the border with the most dangerous enemy state”.
+
+Kim’s statements come during a growing border dispute with South Korea over a landmine explosion that injured three South Korean soldiers in the Demilitarized Zone (DMZ), a heavily fortified territory between the two countries, on September 21.
+
+Seoul demanded an apology from Pyongyang in October after a joint South Korea-United Nations investigation found that North Korea had planted the landmines more than a year ago.
+
+Pyongyang sent a letter to the UN Security Council in response, accusing Seoul of fabricating the explosion, and fired about 10 short-range ballistic missiles off its east coast into the Sea of Japan less than a week later.
+
+South Korea estimates that North Korea possesses between 80 and 120 nuclear warheads.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes)`,
+    title_en: `Kim Jong Un says North Korea should widen deployment of tactical nukes - Al Jazeera`,
+    summary_en: `Kim warns attempts to deny North Korea’s nuclear status will be seen as “an open declaration of war”.`,
+    content_en: `Kim warns attempts to deny North Korea’s nuclear status will be seen as “an open declaration of war”.
+
+North Korean leader Kim Jong Un has urged his country to focus on deploying tactical nuclear weapons “across multiple domains for different missions”.
+
+Kim said North Korea’s nuclear material production capacity was being systematically expanded on Thursday, according to state media KCNA.
+
+Maintaining North Korea’s status as a nuclear-weapons state was “absolutely inviolable”, Kim said during an inspection of nuclear material production and weapons research facilities. KCNA did not identify the facilities or their locations.
+
+The country’s status would not change because of what he called “denuclearisation rhetoric from forces that ignore objective reality and failed to recognise the changed situation”.
+
+“Our nuclear capability is now a reality,” he said, calling recent achievements in nuclear weapons production a major success in carrying ⁠⁠out the country’s nuclear policy.
+
+Any attempt to deny North Korea’s nuclear status, which it enshrined in its constitution in 2023, would be regarded as “an open declaration of war”, he said.
+
+Kim said diversified use of tactical nuclear weapons was an “important and urgent task raised from tactical nukes’ military value in modern warfare and from the inevitable reality facing the border with the most dangerous enemy state”.
+
+Kim’s statements come during a growing border dispute with South Korea over a landmine explosion that injured three South Korean soldiers in the Demilitarized Zone (DMZ), a heavily fortified territory between the two countries, on September 21.
+
+Seoul demanded an apology from Pyongyang in October after a joint South Korea-United Nations investigation found that North Korea had planted the landmines more than a year ago.
+
+Pyongyang sent a letter to the UN Security Council in response, accusing Seoul of fabricating the explosion, and fired about 10 short-range ballistic missiles off its east coast into the Sea of Japan less than a week later.
+
+South Korea estimates that North Korea possesses between 80 and 120 nuclear warheads.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Al Jazeera.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Kim Jong Un says North Korea should widen deployment of tactical nukes - Al Jazeera.`,
+    primary_source: `Al Jazeera`,
+  },
+  {
+    id: 97948,
+    title: `Climate summits need radical reform – here’s how to transform global negotiations - The Conversation`,
+    slug: `climate-summits-need-radical-reform-heres-how-to-transform-global-nego-2026`,
+    original_title: `Climate summits need radical reform – here’s how to transform global negotiations - The Conversation`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:21:14Z`,
+    updated_at: `2026-11-26T06:21:14Z`,
+    source_name: `The Conversation`,
+    source_url: `https://theconversation.com/climate-summits-need-radical-reform-heres-how-to-transform-global-negotiations-297316`,
+    source_courtesy: `Source: The Conversation`,
+    image_url: `/images/articles/climate-summits-need-radical-reform-heres-how-to-transform-global-nego-2026.jpg`,
+    image_alt: `Climate summits need radical reform – here’s how to transform global negotiations - The Conversation`,
+    image_courtesy: `Image: The Conversation (External Source Attribution)`,
+    image_photographer: `The Conversation`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `The recent failure of the UN climate summit, Cop31, went beyond already gloomy
+expectations. Yet this political and diplomatic catastrophe may become a historical opportunity for global climate governance to tackle its structural problems.`,
+    content: `The recent failure of the UN climate summit, Cop31, went beyond already gloomy
+expectations. Yet this political and diplomatic catastrophe may become a historical opportunity for global climate governance to tackle its structural problems.
+
+It is a miracle that Cop climate summits have survived and grown for 31 years, with all decisions needing unanimous consensus from all 195 nations or parties. Cops have produced some positive results such as the 2015 Paris climate agreement to cut greenhouse gases. But now it’s time for radical reform. A reform that must not only abolish unanimity, but also make the Cop capable of engaging a strong enough coalition of interests to advance the climate change agenda.
+
+Where could that start? What kind of alliance does such a reform need? A recent conference on the global governance of climate change provides some answers.
+
+Cop has probably been killed by a contradiction. The first Cop in 1995 – chaired by Angela Merkel, then Germany’s young environment minister – was regulated by a UN law. This was the Framework Convention on Climate Change , which envisaged that decisions had to be taken by consensus or, if that wasn’t possible, by two-thirds of the parties (each state of the world is a “party”). This law, known as draft rule 42, was never accepted or rejected, leaving Cop trapped in the unanimity trap.
+
+In 2010, this was enough for Bolivia alone to object to risk derailing the entire negotiation. It is a trap because countries have naturally different interests. Most developing countries are highly exposed to climate change and do not contribute much to the problem; some others not only benefit from oil production but also from global warming itself (notably Russia, as Arctic trade routes open up due to ice melting).
+
+Most other traditional UN institutions do not operate under such strict consensus: the General Assembly (the main policymaking body of the UN ), Unesco (the UN’s Educational, Scientific and Cultural Organisation ) and the World Health Organization all vote with a qualified two-thirds majority on important matters.
+
+So unanimity must be abolished. But that is not enough. Cop also manages to be both inefficient and not inclusive enough of the actors that matter a lot in achieving the goals of a climate change agenda. The parties include the tiny country of San Marino yet there’s no representation from megacities like Mumbai or Seattle – cities which may be exposed to climate disaster and host some of the solutions.
+
+A new annual conference called Transitioning Away from Fossil Fuels was a significant attempt to move beyond the Cop gridlock. In 2026, 57 countries joined the first meeting in Santa Marta, Colombia after realising at Cop30 last year in Brazil, that, by “consensus”, Cop cannot even agree on the need for a roadmap to end dependence on fossil fuels. And yet even shrinking the number of parties to a quarter of Cop’s total was not enough to get beyond the acknowledgement of such a necessity: the final document did not indicate any timeline nor commit countries to specific targets.
+
+It is too early to say that the Santa Marta process won’t work. But I would argue that it was a mistake not to invite certain nations, namely India and China and the US (although representatives from California did attend).
+
+It was also risky to start the conference with a declaration ( issued by Colombia’s
+then president, Gustavo Petro about the inadequacy of capitalism to stop climate change. Capitalism may be a form of governing economy as primitive as fossil fuels, but to start from such a principle unnecessarily alienates leaders of other countries and business.
+
+Another way to bring together countries and political sides that may have different visions of the world yet share common energy interests is to invite all countries that may respond positively to two simple questions: “Are you interested in developing within two years and sharing your plan to reduce in your country (or city or region) the percentage of energy consumption coming from fossil fuels? If so, are you willing to support each other in building the necessary supply chains and financial facilities to improve that target?”
+
+This may inspire politically diverse local and national governments and business leaders to gradually join what would become a concrete problem-solving exercise. Common ground could hopefully be found in their shared interest to reduce energy dependency and mitigate climate risks.
+
+Once most of the net importers of fossil fuels are aligned, the net exporters (including some members of Opec, the oil producers’ cartel) may also commit. This is the sort of coalition of the willing that we need: an alliance capable of increasing its scope and delivering results.
+
+As director of the thinktank Vision, I recently convened the fifth conference on global governance of climate change, held in Venice, Italy, in October 2026, titled Beyond Cop. Over three days, international delegates produced a strong proposal on how to reform Cop. The proposal was authored by professors and students including Kalypso Nikolaidis, chair in global affairs, and Helena Marchall, a masters student, both at the School of Transnational Governance of the European University Institute.
+
+The conference proposes looking beyond ideologies, pre-defined agendas, cognitive biases and siloed thinking that make it difficult for politicians, business and academics to solve complex questions. One suggested change is to make Venice a permanent hub for a new global governance of climate adaptation (the practical steps to prepare for the consequences of a changing climate). This would help drive action and avoid the risk of focusing primarily on mitigation (cutting greenhouse gas emissions to achieve net zero).
+
+We need courage, vision and pragmatism. These are the ingredients to respond to existential threats.
+
+---
+
+**Original Source:** [The Conversation](https://theconversation.com/climate-summits-need-radical-reform-heres-how-to-transform-global-negotiations-297316)`,
+    title_en: `Climate summits need radical reform – here’s how to transform global negotiations - The Conversation`,
+    summary_en: `The recent failure of the UN climate summit, Cop31, went beyond already gloomy
+expectations. Yet this political and diplomatic catastrophe may become a historical opportunity for global climate governance to tackle its structural problems.`,
+    content_en: `The recent failure of the UN climate summit, Cop31, went beyond already gloomy
+expectations. Yet this political and diplomatic catastrophe may become a historical opportunity for global climate governance to tackle its structural problems.
+
+It is a miracle that Cop climate summits have survived and grown for 31 years, with all decisions needing unanimous consensus from all 195 nations or parties. Cops have produced some positive results such as the 2015 Paris climate agreement to cut greenhouse gases. But now it’s time for radical reform. A reform that must not only abolish unanimity, but also make the Cop capable of engaging a strong enough coalition of interests to advance the climate change agenda.
+
+Where could that start? What kind of alliance does such a reform need? A recent conference on the global governance of climate change provides some answers.
+
+Cop has probably been killed by a contradiction. The first Cop in 1995 – chaired by Angela Merkel, then Germany’s young environment minister – was regulated by a UN law. This was the Framework Convention on Climate Change , which envisaged that decisions had to be taken by consensus or, if that wasn’t possible, by two-thirds of the parties (each state of the world is a “party”). This law, known as draft rule 42, was never accepted or rejected, leaving Cop trapped in the unanimity trap.
+
+In 2010, this was enough for Bolivia alone to object to risk derailing the entire negotiation. It is a trap because countries have naturally different interests. Most developing countries are highly exposed to climate change and do not contribute much to the problem; some others not only benefit from oil production but also from global warming itself (notably Russia, as Arctic trade routes open up due to ice melting).
+
+Most other traditional UN institutions do not operate under such strict consensus: the General Assembly (the main policymaking body of the UN ), Unesco (the UN’s Educational, Scientific and Cultural Organisation ) and the World Health Organization all vote with a qualified two-thirds majority on important matters.
+
+So unanimity must be abolished. But that is not enough. Cop also manages to be both inefficient and not inclusive enough of the actors that matter a lot in achieving the goals of a climate change agenda. The parties include the tiny country of San Marino yet there’s no representation from megacities like Mumbai or Seattle – cities which may be exposed to climate disaster and host some of the solutions.
+
+A new annual conference called Transitioning Away from Fossil Fuels was a significant attempt to move beyond the Cop gridlock. In 2026, 57 countries joined the first meeting in Santa Marta, Colombia after realising at Cop30 last year in Brazil, that, by “consensus”, Cop cannot even agree on the need for a roadmap to end dependence on fossil fuels. And yet even shrinking the number of parties to a quarter of Cop’s total was not enough to get beyond the acknowledgement of such a necessity: the final document did not indicate any timeline nor commit countries to specific targets.
+
+It is too early to say that the Santa Marta process won’t work. But I would argue that it was a mistake not to invite certain nations, namely India and China and the US (although representatives from California did attend).
+
+It was also risky to start the conference with a declaration ( issued by Colombia’s
+then president, Gustavo Petro about the inadequacy of capitalism to stop climate change. Capitalism may be a form of governing economy as primitive as fossil fuels, but to start from such a principle unnecessarily alienates leaders of other countries and business.
+
+Another way to bring together countries and political sides that may have different visions of the world yet share common energy interests is to invite all countries that may respond positively to two simple questions: “Are you interested in developing within two years and sharing your plan to reduce in your country (or city or region) the percentage of energy consumption coming from fossil fuels? If so, are you willing to support each other in building the necessary supply chains and financial facilities to improve that target?”
+
+This may inspire politically diverse local and national governments and business leaders to gradually join what would become a concrete problem-solving exercise. Common ground could hopefully be found in their shared interest to reduce energy dependency and mitigate climate risks.
+
+Once most of the net importers of fossil fuels are aligned, the net exporters (including some members of Opec, the oil producers’ cartel) may also commit. This is the sort of coalition of the willing that we need: an alliance capable of increasing its scope and delivering results.
+
+As director of the thinktank Vision, I recently convened the fifth conference on global governance of climate change, held in Venice, Italy, in October 2026, titled Beyond Cop. Over three days, international delegates produced a strong proposal on how to reform Cop. The proposal was authored by professors and students including Kalypso Nikolaidis, chair in global affairs, and Helena Marchall, a masters student, both at the School of Transnational Governance of the European University Institute.
+
+The conference proposes looking beyond ideologies, pre-defined agendas, cognitive biases and siloed thinking that make it difficult for politicians, business and academics to solve complex questions. One suggested change is to make Venice a permanent hub for a new global governance of climate adaptation (the practical steps to prepare for the consequences of a changing climate). This would help drive action and avoid the risk of focusing primarily on mitigation (cutting greenhouse gas emissions to achieve net zero).
+
+We need courage, vision and pragmatism. These are the ingredients to respond to existential threats.
+
+---
+
+**Original Source:** [The Conversation](https://theconversation.com/climate-summits-need-radical-reform-heres-how-to-transform-global-negotiations-297316)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Conversation.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Climate summits need radical reform – here’s how to transform global negotiations - The Conversation.`,
+    primary_source: `The Conversation`,
+  },
+  {
+    id: 97949,
+    title: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    slug: `world-breaking-report-33977-97949-2026`,
+    original_title: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:21:16Z`,
+    updated_at: `2026-11-26T06:21:16Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/ckg5rzg1d4leo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/world-breaking-report-33977-97949-2026.jpg`,
+    image_alt: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.`,
+    content: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.
+
+ये टैरिफ़ मैन्युफ़ैक्चरिंग के अलग-अलग क्षेत्रों में ज़रूरत से ज़्यादा उत्पादन और उत्पादन क्षमता की जांच के लिए की गई सेक्शन 301 की जांच के बाद लगाए जा रहे हैं.
+
+इस जांच के दायरे में आने वाली देश हैं: भारत, चीन, यूरोपीय संघ, सिंगापुर, स्विट्ज़रलैंड, इंडोनेशिया, मलेशिया, कंबोडिया, थाईलैंड, दक्षिण कोरिया, वियतनाम, ताइवान, बांग्लादेश और जापान.
+
+अलग-अलग देशों और उत्पादों पर अलग-अलग दरों से टैरिफ़ लगाया जाएगा.
+
+चीन पर सबसे ज़्यादा, 40 फ़ीसदी तक टैरिफ़ लगाया गया है. इसके बाद वियतनाम पर 35 फ़ीसदी तक टैरिफ़ लगेगा. वहीं, दूसरे देशों पर 20 या 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा.
+
+कुछ देशों पर अधिकतम 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा. इनमें थाईलैंड और भारत शामिल हैं. वहीं, जापान समेत कुछ अन्य देशों पर अधिकतम 20 फ़ीसदी तक टैरिफ़ लगेगा. इस सूची में ब्रिटेन शामिल नहीं है.
+
+हालांकि, इनमें से कुछ टैरिफ़ की दरें असल में कम हो जाएंगी, क्योंकि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप पहले ही कुछ देशों के साथ टैरिफ़ की अधिकतम सीमा तय करने पर सहमत हो चुके हैं.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+राष्ट्रपति ट्रंप ने अपने दूसरे कार्यकाल में बार-बार टैरिफ़ लगाने की धमकी दी है या उन्हें लागू किया है. उनका तर्क है कि इस नीति से अमेरिका में मैन्युफ़ैक्चरिंग को बढ़ावा मिलेगा और रोज़गार के नए अवसर पैदा होंगे.
+
+हालांकि, अर्थशास्त्रियों ने चेतावनी दी है कि आयात पर टैक्स लगाने से महंगाई बढ़ सकती है और उपभोक्ताओं के लिए चीज़ें महंगी हो सकती हैं. इससे वैश्विक व्यापार पर भी असर पड़ सकता है.
+
+यह ताज़ा क़दम ऐसे समय उठाया गया है, जब इस साल की शुरुआत में अमेरिकी सुप्रीम कोर्ट ने फ़ैसला दिया था कि आपातकालीन शक्तियों का इस्तेमाल करके ट्रंप की ओर से लगाए गए कई टैरिफ़ ग़ैरक़ानूनी थे.
+
+इसके बाद इस साल गर्मी में अमेरिका की उन कंपनियों को अरबों डॉलर का टैरिफ़ रिफंड देना पड़ा, जिन्होंने सामान आयात करने के लिए ये शुल्क चुकाए थे.
+
+हालांकि, इससे ट्रंप प्रशासन की टैरिफ़ लगाने की कोशिशों पर कोई रोक नहीं लगी. व्हाइट हाउस इन टैक्स को लागू करने के लिए क़ानून के दूसरे रास्ते तलाश रहा है. आज का फ़ैसला भी इसी कोशिश का एक और उदाहरण है.
+
+पिछले साल अप्रैल में डोनाल्ड ट्रंप ने दुनिया के कई व्यापारिक साझेदारों पर बड़े पैमाने पर टैरिफ़ लगाने का एलान किया था. इसके लिए उन्होंने अमेरिकी राष्ट्रपति को मिले आपातकालीन अधिकारों का इस्तेमाल किया था.
+
+इनमें से कई टैरिफ़ को बाद में अमेरिकी सुप्रीम कोर्ट ने रद्द कर दिया था.
+
+इसलिए बुधवार को जिन आयात शुल्कों का एलान किया गया है, वे ट्रंप के टैरिफ़ को दोबारा लागू करने की नई कोशिश हैं.
+
+हालांकि, इस बार ट्रंप प्रशासन ने अलग तरीक़ा अपनाया है. ISEAS-युसोफ़ इशाक इंस्टीट्यूट के व्यापार विशेषज्ञ जयंत मेनन का कहना है कि इस वजह से इन टैरिफ़ को किसी क़ानूनी चुनौती के ज़रिए रद्द कराना मुश्किल हो सकता है.
+
+मेनन के मुताबिक़, पिछले साल ट्रंप ने जिन टैरिफ़ का एलान किया था, उनकी तुलना में नए शुल्क कम क्षेत्रों पर लागू होंगे. इनकी दरें भी ज़्यादातर मामलों में काफ़ी कम और एक जैसी हैं.
+
+ये टैरिफ़ व्हाइट हाउस की ओर से कराई गई कई महीनों की जांच पर भी आधारित हैं. इस जांच में इन क्षेत्रों की श्रम और व्यापार नीतियों और अमेरिका पर उनके संभावित असर का अध्ययन किया गया.
+
+### सुप्रीम कोर्ट के फ़ैसले के बाद नए टैरिफ़ की तैयारी की थी
+
+नए टैरिफ़ लगाने के प्रस्ताव ऐसे समय आए हैं, जब व्हाइट हाउस ने मार्च में दूसरे देशों की व्यापार नीतियों की जांच शुरू की थी.
+
+यह जांच अमेरिकी सुप्रीम कोर्ट के उस फ़ैसले के बाद शुरू हुई थी, जिसमें कहा गया था कि ट्रंप के तथाकथित 'लिबरेशन डे' टैरिफ़, जिन्हें प्रशासन ने जवाबी टैरिफ़ कहा था, क़ानूनी नहीं थे.
+
+अदालत के इस फ़ैसले के बाद ट्रंप ने कहा था कि वह टैरिफ़ लगाने के लिए दूसरे क़ानूनी तरीक़ों का इस्तेमाल करेंगे.
+
+मार्च में अमेरिका ने सेक्शन 301 के तहत जांच शुरू की. इसमें यह पता लगाया जाना था कि क्या कुछ व्यापारिक साझेदार ऐसी नीतियां अपना रहे हैं, जो "अनुचित या भेदभावपूर्ण हैं और अमेरिकी व्यापार पर बोझ डालती हैं या उसे सीमित करती हैं".
+
+उस समय अमेरिकी व्यापार प्रतिनिधि जैमीसन ग्रीयर ने कहा था, "अमेरिका अब अपने औद्योगिक आधार को उन देशों के हाथों ख़त्म नहीं होने देगा, जो अपनी ज़रूरत से ज़्यादा उत्पादन और क्षमता की समस्या हमारे यहां निर्यात कर सकते हैं."
+
+उन्होंने कहा था, "आज शुरू की गई जांच राष्ट्रपति ट्रंप की उस प्रतिबद्धता को दिखाती है, जिसके तहत अहम सप्लाई चेन को वापस अमेरिका लाना और मैन्युफ़ैक्चरिंग के सभी क्षेत्रों में अमेरिकी कामगारों के लिए अच्छी तनख़्वाह वाली नौकरियां पैदा करना शामिल है."
+
+ग्रीयर ने आगे कहा, "कई क्षेत्रों में अमेरिका के व्यापारिक साझेदार घरेलू स्तर पर अपनी खपत से ज़्यादा सामान बना रहे हैं."
+
+आज के एलान में जिन देशों और क्षेत्रों को निशाना बनाया गया है, उनमें से कई ऐसे हैं जिन पर ट्रंप अक्सर व्यापार के मामले में निशाना साधते रहे हैं.
+
+लेकिन इस सूची में एक अहम नाम नहीं है-कनाडा.
+
+जब कनाडा के बारे में पूछा गया, तो मंगलवार को पत्रकारों को जानकारी देने वाले ट्रंप प्रशासन के एक वरिष्ठ अधिकारी ने कहा कि जिन देशों की व्यापार नीतियों की जांच शुरू की गई थी और बाद में जिन्हें दोषी  पाया गया उनमें कनाडा शामिल नहीं था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ckg5rzg1d4leo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    summary_hi: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.`,
+    content_hi: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.
+
+ये टैरिफ़ मैन्युफ़ैक्चरिंग के अलग-अलग क्षेत्रों में ज़रूरत से ज़्यादा उत्पादन और उत्पादन क्षमता की जांच के लिए की गई सेक्शन 301 की जांच के बाद लगाए जा रहे हैं.
+
+इस जांच के दायरे में आने वाली देश हैं: भारत, चीन, यूरोपीय संघ, सिंगापुर, स्विट्ज़रलैंड, इंडोनेशिया, मलेशिया, कंबोडिया, थाईलैंड, दक्षिण कोरिया, वियतनाम, ताइवान, बांग्लादेश और जापान.
+
+अलग-अलग देशों और उत्पादों पर अलग-अलग दरों से टैरिफ़ लगाया जाएगा.
+
+चीन पर सबसे ज़्यादा, 40 फ़ीसदी तक टैरिफ़ लगाया गया है. इसके बाद वियतनाम पर 35 फ़ीसदी तक टैरिफ़ लगेगा. वहीं, दूसरे देशों पर 20 या 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा.
+
+कुछ देशों पर अधिकतम 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा. इनमें थाईलैंड और भारत शामिल हैं. वहीं, जापान समेत कुछ अन्य देशों पर अधिकतम 20 फ़ीसदी तक टैरिफ़ लगेगा. इस सूची में ब्रिटेन शामिल नहीं है.
+
+हालांकि, इनमें से कुछ टैरिफ़ की दरें असल में कम हो जाएंगी, क्योंकि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप पहले ही कुछ देशों के साथ टैरिफ़ की अधिकतम सीमा तय करने पर सहमत हो चुके हैं.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+राष्ट्रपति ट्रंप ने अपने दूसरे कार्यकाल में बार-बार टैरिफ़ लगाने की धमकी दी है या उन्हें लागू किया है. उनका तर्क है कि इस नीति से अमेरिका में मैन्युफ़ैक्चरिंग को बढ़ावा मिलेगा और रोज़गार के नए अवसर पैदा होंगे.
+
+हालांकि, अर्थशास्त्रियों ने चेतावनी दी है कि आयात पर टैक्स लगाने से महंगाई बढ़ सकती है और उपभोक्ताओं के लिए चीज़ें महंगी हो सकती हैं. इससे वैश्विक व्यापार पर भी असर पड़ सकता है.
+
+यह ताज़ा क़दम ऐसे समय उठाया गया है, जब इस साल की शुरुआत में अमेरिकी सुप्रीम कोर्ट ने फ़ैसला दिया था कि आपातकालीन शक्तियों का इस्तेमाल करके ट्रंप की ओर से लगाए गए कई टैरिफ़ ग़ैरक़ानूनी थे.
+
+इसके बाद इस साल गर्मी में अमेरिका की उन कंपनियों को अरबों डॉलर का टैरिफ़ रिफंड देना पड़ा, जिन्होंने सामान आयात करने के लिए ये शुल्क चुकाए थे.
+
+हालांकि, इससे ट्रंप प्रशासन की टैरिफ़ लगाने की कोशिशों पर कोई रोक नहीं लगी. व्हाइट हाउस इन टैक्स को लागू करने के लिए क़ानून के दूसरे रास्ते तलाश रहा है. आज का फ़ैसला भी इसी कोशिश का एक और उदाहरण है.
+
+पिछले साल अप्रैल में डोनाल्ड ट्रंप ने दुनिया के कई व्यापारिक साझेदारों पर बड़े पैमाने पर टैरिफ़ लगाने का एलान किया था. इसके लिए उन्होंने अमेरिकी राष्ट्रपति को मिले आपातकालीन अधिकारों का इस्तेमाल किया था.
+
+इनमें से कई टैरिफ़ को बाद में अमेरिकी सुप्रीम कोर्ट ने रद्द कर दिया था.
+
+इसलिए बुधवार को जिन आयात शुल्कों का एलान किया गया है, वे ट्रंप के टैरिफ़ को दोबारा लागू करने की नई कोशिश हैं.
+
+हालांकि, इस बार ट्रंप प्रशासन ने अलग तरीक़ा अपनाया है. ISEAS-युसोफ़ इशाक इंस्टीट्यूट के व्यापार विशेषज्ञ जयंत मेनन का कहना है कि इस वजह से इन टैरिफ़ को किसी क़ानूनी चुनौती के ज़रिए रद्द कराना मुश्किल हो सकता है.
+
+मेनन के मुताबिक़, पिछले साल ट्रंप ने जिन टैरिफ़ का एलान किया था, उनकी तुलना में नए शुल्क कम क्षेत्रों पर लागू होंगे. इनकी दरें भी ज़्यादातर मामलों में काफ़ी कम और एक जैसी हैं.
+
+ये टैरिफ़ व्हाइट हाउस की ओर से कराई गई कई महीनों की जांच पर भी आधारित हैं. इस जांच में इन क्षेत्रों की श्रम और व्यापार नीतियों और अमेरिका पर उनके संभावित असर का अध्ययन किया गया.
+
+### सुप्रीम कोर्ट के फ़ैसले के बाद नए टैरिफ़ की तैयारी की थी
+
+नए टैरिफ़ लगाने के प्रस्ताव ऐसे समय आए हैं, जब व्हाइट हाउस ने मार्च में दूसरे देशों की व्यापार नीतियों की जांच शुरू की थी.
+
+यह जांच अमेरिकी सुप्रीम कोर्ट के उस फ़ैसले के बाद शुरू हुई थी, जिसमें कहा गया था कि ट्रंप के तथाकथित 'लिबरेशन डे' टैरिफ़, जिन्हें प्रशासन ने जवाबी टैरिफ़ कहा था, क़ानूनी नहीं थे.
+
+अदालत के इस फ़ैसले के बाद ट्रंप ने कहा था कि वह टैरिफ़ लगाने के लिए दूसरे क़ानूनी तरीक़ों का इस्तेमाल करेंगे.
+
+मार्च में अमेरिका ने सेक्शन 301 के तहत जांच शुरू की. इसमें यह पता लगाया जाना था कि क्या कुछ व्यापारिक साझेदार ऐसी नीतियां अपना रहे हैं, जो "अनुचित या भेदभावपूर्ण हैं और अमेरिकी व्यापार पर बोझ डालती हैं या उसे सीमित करती हैं".
+
+उस समय अमेरिकी व्यापार प्रतिनिधि जैमीसन ग्रीयर ने कहा था, "अमेरिका अब अपने औद्योगिक आधार को उन देशों के हाथों ख़त्म नहीं होने देगा, जो अपनी ज़रूरत से ज़्यादा उत्पादन और क्षमता की समस्या हमारे यहां निर्यात कर सकते हैं."
+
+उन्होंने कहा था, "आज शुरू की गई जांच राष्ट्रपति ट्रंप की उस प्रतिबद्धता को दिखाती है, जिसके तहत अहम सप्लाई चेन को वापस अमेरिका लाना और मैन्युफ़ैक्चरिंग के सभी क्षेत्रों में अमेरिकी कामगारों के लिए अच्छी तनख़्वाह वाली नौकरियां पैदा करना शामिल है."
+
+ग्रीयर ने आगे कहा, "कई क्षेत्रों में अमेरिका के व्यापारिक साझेदार घरेलू स्तर पर अपनी खपत से ज़्यादा सामान बना रहे हैं."
+
+आज के एलान में जिन देशों और क्षेत्रों को निशाना बनाया गया है, उनमें से कई ऐसे हैं जिन पर ट्रंप अक्सर व्यापार के मामले में निशाना साधते रहे हैं.
+
+लेकिन इस सूची में एक अहम नाम नहीं है-कनाडा.
+
+जब कनाडा के बारे में पूछा गया, तो मंगलवार को पत्रकारों को जानकारी देने वाले ट्रंप प्रशासन के एक वरिष्ठ अधिकारी ने कहा कि जिन देशों की व्यापार नीतियों की जांच शुरू की गई थी और बाद में जिन्हें दोषी  पाया गया उनमें कनाडा शामिल नहीं था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ckg5rzg1d4leo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 97950,
+    title: `AI से पूछा बम बनाने का तरीका, कॉफी पीते-पीते कॉलेज को उड़ाना चाहता था पाकिस्तानी छात्र... पुलिस ने दबोचा - AajTak`,
+    slug: `ai-aajtak-2026`,
+    original_title: `AI से पूछा बम बनाने का तरीका, कॉफी पीते-पीते कॉलेज को उड़ाना चाहता था पाकिस्तानी छात्र... पुलिस ने दबोचा - AajTak`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:21:19Z`,
+    updated_at: `2026-11-26T06:21:19Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/world/story/pakistan-lahore-student-arrested-for-bomb-plot-using-ai-chatbot-claude-ntc-drmt-rptc-2706219-2026-11-26`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b079b2a976cf-pakistani-student-bomb-plot-ai-263625492.jpg`,
+    image_alt: `AI से पूछा बम बनाने का तरीका, कॉफी पीते-पीते कॉलेज को उड़ाना चाहता था पाकिस्तानी छात्र... पुलिस ने दबोचा - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `पाकिस्तान के लाहौर में एक छात्र को अपने ही कॉलेज में बम हमले की साजिश रचने के आरोप में गिरफ्तार किया गया है. आरोप है कि 17 साल के इस किशोर ने बम तैयार करने के लिए एंथ्रोपिक के एआई चैटबॉट &#039;क्लॉड&#039; (Claude AI) से मदद मांगी थी. और पढ़`,
+    content: `पाकिस्तान के लाहौर में एक छात्र को अपने ही कॉलेज में बम हमले की साजिश रचने के आरोप में गिरफ्तार किया गया है. आरोप है कि 17 साल के इस किशोर ने बम तैयार करने के लिए एंथ्रोपिक के एआई चैटबॉट &#039;क्लॉड&#039; (Claude AI) से मदद मांगी थी. और पढ़ेंNCCIA लाहौर के अतिरिक्त निदेशक आतिफ अमीर के मुताबिक, एजेंसी को अमेरिकी जांच एजेंसी FBI और क्लॉड AI की ओर से चैटबॉट के साथ किशोर की बातचीत की जानकारी मिली थी.
+
+इन चैट्स से खुलासा हुआ कि स्थानीय कॉलेज का फर्स्ट ईयर का ये छात्र बम बनाने और एक सरकारी शिक्षण संस्थान को निशाना बनाने के तरीके तलाश रहा था.कॉफी पीते हुए कॉलेज को उड़ाना चाहता था छात्रसोमवार को नेशनल साइबर क्राइम इन्वेस्टिगेशन एजेंसी (NCCIA) के अधिकारियों ने बेदिया रोड इलाके में स्थित उसके घर से उसे दबोचा.छात्र पर आरोप है कि उसने बड़ी इमारत को नुकसान पहुंचाने वाला बम बनाने के लिए पोटेशियम अमोनियम नाइट्रेट और चीनी समेत कई केमिकल्स को मिलाने का तरीका पूछा था.
+
+अमीर ने ये भी दावा किया कि किशोर ने एक कप कॉफी पीते हुए इस हमले को अंजाम देने का इरादा जाहिर किया था. Advertisement        लैपटॉप जब्त, घर से नहीं मिला कोई विस्फोटकछापेमारी के दौरान जांचकर्ताओं ने वो लैपटॉप बरामद कर लिया है, जिसका इस्तेमाल छात्र ने क्लॉड एआई चलाने के लिए किया था.
+
+इस डिवाइस में चैटबॉट के साथ हुई बातचीत का डेटा मौजूद था. हालांकि, तलाशी के दौरान उसके घर से कोई विस्फोटक सामग्री या हथियार बरामद नहीं हुए. NCCIA ने पाकिस्तान के इलेक्ट्रॉनिक अपराध रोकथाम अधिनियम (PECA) 2016 और पाकिस्तान दंड संहिता की संबंधित धाराओं के तहत मामला दर्ज किया है.मानसिक स्थिति की हो रही है जांचअधिकारी छात्र की मानसिक स्थिति समझने की कोशिश कर रहे हैं ताकी साफ हो सके कि उसने हमले की योजना क्यों बनाई.
+
+इसके साथ ही उसके मोबाइल फोन की भी फोरेंसिक जांच की जा रही है. जांच टीमें अभी ये पता लगाने में जुटी हैं कि क्या छात्र की संस्थान से कोई निजी रंजिश थी या उसकी ये योजना सिर्फ ऑनलाइन बातचीत तक ही सीमित थी.यह भी पढ़ें: &#039;बम वाली जैकेट पहनकर सेना की चेकपोस्ट पर धमाका करेंगे&#039;, आतंकी उजैद के मोबाइल से सनसनीखेज खुलासाNCCIA अधिकारी ने स्पष्ट किया कि ChatGPT, Deepseek और क्लॉड जैसे AI प्लेटफॉर्म पर साझा की जाने वाली धमकी भरी या हिंसक सामग्री की सूचना कानून प्रवर्तन एजेंसियों को दी जा सकती है.
+
+इस मामले ने आपराधिक गतिविधियों के लिए AI के गलत इस्तेमाल को लेकर चिंता पैदा कर दी है.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/pakistan-lahore-student-arrested-for-bomb-plot-using-ai-chatbot-claude-ntc-drmt-rptc-2706219-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `AI से पूछा बम बनाने का तरीका, कॉफी पीते-पीते कॉलेज को उड़ाना चाहता था पाकिस्तानी छात्र... पुलिस ने दबोचा - AajTak`,
+    summary_hi: `पाकिस्तान के लाहौर में एक छात्र को अपने ही कॉलेज में बम हमले की साजिश रचने के आरोप में गिरफ्तार किया गया है. आरोप है कि 17 साल के इस किशोर ने बम तैयार करने के लिए एंथ्रोपिक के एआई चैटबॉट &#039;क्लॉड&#039; (Claude AI) से मदद मांगी थी. और पढ़`,
+    content_hi: `पाकिस्तान के लाहौर में एक छात्र को अपने ही कॉलेज में बम हमले की साजिश रचने के आरोप में गिरफ्तार किया गया है. आरोप है कि 17 साल के इस किशोर ने बम तैयार करने के लिए एंथ्रोपिक के एआई चैटबॉट &#039;क्लॉड&#039; (Claude AI) से मदद मांगी थी. और पढ़ेंNCCIA लाहौर के अतिरिक्त निदेशक आतिफ अमीर के मुताबिक, एजेंसी को अमेरिकी जांच एजेंसी FBI और क्लॉड AI की ओर से चैटबॉट के साथ किशोर की बातचीत की जानकारी मिली थी.
+
+इन चैट्स से खुलासा हुआ कि स्थानीय कॉलेज का फर्स्ट ईयर का ये छात्र बम बनाने और एक सरकारी शिक्षण संस्थान को निशाना बनाने के तरीके तलाश रहा था.कॉफी पीते हुए कॉलेज को उड़ाना चाहता था छात्रसोमवार को नेशनल साइबर क्राइम इन्वेस्टिगेशन एजेंसी (NCCIA) के अधिकारियों ने बेदिया रोड इलाके में स्थित उसके घर से उसे दबोचा.छात्र पर आरोप है कि उसने बड़ी इमारत को नुकसान पहुंचाने वाला बम बनाने के लिए पोटेशियम अमोनियम नाइट्रेट और चीनी समेत कई केमिकल्स को मिलाने का तरीका पूछा था.
+
+अमीर ने ये भी दावा किया कि किशोर ने एक कप कॉफी पीते हुए इस हमले को अंजाम देने का इरादा जाहिर किया था. Advertisement        लैपटॉप जब्त, घर से नहीं मिला कोई विस्फोटकछापेमारी के दौरान जांचकर्ताओं ने वो लैपटॉप बरामद कर लिया है, जिसका इस्तेमाल छात्र ने क्लॉड एआई चलाने के लिए किया था.
+
+इस डिवाइस में चैटबॉट के साथ हुई बातचीत का डेटा मौजूद था. हालांकि, तलाशी के दौरान उसके घर से कोई विस्फोटक सामग्री या हथियार बरामद नहीं हुए. NCCIA ने पाकिस्तान के इलेक्ट्रॉनिक अपराध रोकथाम अधिनियम (PECA) 2016 और पाकिस्तान दंड संहिता की संबंधित धाराओं के तहत मामला दर्ज किया है.मानसिक स्थिति की हो रही है जांचअधिकारी छात्र की मानसिक स्थिति समझने की कोशिश कर रहे हैं ताकी साफ हो सके कि उसने हमले की योजना क्यों बनाई.
+
+इसके साथ ही उसके मोबाइल फोन की भी फोरेंसिक जांच की जा रही है. जांच टीमें अभी ये पता लगाने में जुटी हैं कि क्या छात्र की संस्थान से कोई निजी रंजिश थी या उसकी ये योजना सिर्फ ऑनलाइन बातचीत तक ही सीमित थी.यह भी पढ़ें: &#039;बम वाली जैकेट पहनकर सेना की चेकपोस्ट पर धमाका करेंगे&#039;, आतंकी उजैद के मोबाइल से सनसनीखेज खुलासाNCCIA अधिकारी ने स्पष्ट किया कि ChatGPT, Deepseek और क्लॉड जैसे AI प्लेटफॉर्म पर साझा की जाने वाली धमकी भरी या हिंसक सामग्री की सूचना कानून प्रवर्तन एजेंसियों को दी जा सकती है.
+
+इस मामले ने आपराधिक गतिविधियों के लिए AI के गलत इस्तेमाल को लेकर चिंता पैदा कर दी है.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/pakistan-lahore-student-arrested-for-bomb-plot-using-ai-chatbot-claude-ntc-drmt-rptc-2706219-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक AI से पूछा बम बनाने का तरीका, कॉफी पीते-पीते कॉलेज को उड़ाना चाहता था पाकिस्तानी छात्र... पुलिस ने दबोचा - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 97951,
+    title: `It really did hurt me': Khawaja on the Cummins presser - Cricbuzz`,
+    slug: `it-really-did-hurt-me-khawaja-on-the-cummins-presser-cricbuzz-2026`,
+    original_title: `It really did hurt me': Khawaja on the Cummins presser - Cricbuzz`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:21:44Z`,
+    updated_at: `2026-11-26T06:21:44Z`,
+    source_name: `Cricbuzz`,
+    source_url: `https://www.cricbuzz.com/cricket-news/141056/it-really-did-hurt-me-khawaja-on-the-cummins-presser`,
+    source_courtesy: `Source: Cricbuzz`,
+    image_url: `/images/articles/it-really-did-hurt-me-khawaja-on-the-cummins-presser-cricbuzz-2026.webp`,
+    image_alt: `It really did hurt me': Khawaja on the Cummins presser - Cricbuzz`,
+    image_courtesy: `Image: Cricbuzz (External Source Attribution)`,
+    image_photographer: `Cricbuzz`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `Usman Khawaja has admitted that Pat Cummins' press conference earlier this month left him deeply hurt. He insisted, though, that he bears Cummins no ill will and never wanted him removed as Australia's Test captain. Khawaja was speaking on `,
+    content: `Usman Khawaja has admitted that Pat Cummins' press conference earlier this month left him deeply hurt. He insisted, though, that he bears Cummins no ill will and never wanted him removed as Australia's Test captain. Khawaja was speaking on The Grade Cricketer podcast, in his most detailed comments since his book 'Sabr' released nearly three weeks ago.
+
+He also revealed that he sent Cricket Australia chief executive Todd Greenberg a draft statement for the 2018 squad to put their names to collectively, in the hope of finally closing the affair. The book's claims were that sandpaper was used beyond the Newlands Test and that the whole side knew.
+
+Cummins spent 68 minutes rebutting them in Sydney, calling them "100% wrong" and saying Khawaja had been "casual" with people's lives. Since then, both Chadd Sayers and Cameron Bancroft have publicly sided with Khawaja's version. Khawaja said he had contacted Cummins before that press conference, and the tone of what followed caught him off guard.
+
+"I've always loved Pat Cummins the person and the leader, terrific. I was never expecting him to come out and attack me personally like that," he said. "Attack what I said, yeah, personally, [but] the way he did, for so long, and just kept going and kept going - I've never seen that side of Pat before, and that's what really disappointed me.
+
+"I didn't want to watch it, but I had to watch it because I had to know what he was saying, and I wanted to turn it off so many times, but I had to keep going. I remember Rachel was next to me, my wife, she just kept going, 'Are you okay? Are you okay?' and I couldn't really answer her because I was just so many emotions at that time.
+
+It was really weird." Bancroft's account subsequently brought calls for Cummins to give up the captaincy, but the CA board backed him unanimously last weekend, something Khawaja welcomed. "I was actually really happy with that. I don't want to hurt anyone individually," Khawaja said.
+
+"I will always love Pat. I'm not going to - as much as that hurt me, and it really did hurt me - I'm not going to judge him on 70 minutes of a presser, or probably like 20 minutes of a presser … like, that's not who I'm going to judge Pat on, so there's plenty of love, no matter what.
+
+I'm not a hateful guy. "But it was surprising because I did - I won't say the context of it - I did text Pat before that, a couple of days out, hoping he'd be able to find a middle ground which brings everyone in together in this, rather than putting the walls up and really creating a bigger division.
+
+"Patty was 24 years old at the time. This is, this wasn't a Patrick Cummins issue ... I think CA should have taken the lead rather than Patty. I get why Patty went up there, but I think it could have been a lot different what he said." CA announced an independent forum on the same day Bancroft's article was published, inviting anyone from the 2018 tour to give their account.
+
+Soon after, Khawaja sent Greenberg the outline of a statement he felt the squad could accept, and he read it out on the podcast. "We accept and acknowledge as a team that we knew we were ball tampering by artificially altering the condition of the ball in South Africa 2018," it said.
+
+"Whether it was sandpaper or by any other means is irrelevant. We knew what we were doing and we take full responsibility as a team and squad for our actions - something we should have done eight years ago. Furthermore, we would like to acknowledge that Steven, Cameron, and David paid an enormous price for the sake of the team, for which we are sorry and eternally grateful." Greenberg was sceptical that the statement would get anywhere.
+
+The bowlers have not moved from their 2021 statement denying any prior knowledge of the tampering. Khawaja, however, said work was continuing behind the scenes to bring the episode to an end. CA is expected to set out the forum's details this week, and the main question is how much of what it hears will be made public.
+
+Khawaja had earlier said he had reservations about taking part without full transparency. He now says he will "definitely" give evidence, after speaking to Greenberg about ensuring everything is released.
+
+---
+
+**Original Source:** [Cricbuzz](https://www.cricbuzz.com/cricket-news/141056/it-really-did-hurt-me-khawaja-on-the-cummins-presser)`,
+    title_en: `It really did hurt me': Khawaja on the Cummins presser - Cricbuzz`,
+    summary_en: `Usman Khawaja has admitted that Pat Cummins' press conference earlier this month left him deeply hurt. He insisted, though, that he bears Cummins no ill will and never wanted him removed as Australia's Test captain. Khawaja was speaking on `,
+    content_en: `Usman Khawaja has admitted that Pat Cummins' press conference earlier this month left him deeply hurt. He insisted, though, that he bears Cummins no ill will and never wanted him removed as Australia's Test captain. Khawaja was speaking on The Grade Cricketer podcast, in his most detailed comments since his book 'Sabr' released nearly three weeks ago.
+
+He also revealed that he sent Cricket Australia chief executive Todd Greenberg a draft statement for the 2018 squad to put their names to collectively, in the hope of finally closing the affair. The book's claims were that sandpaper was used beyond the Newlands Test and that the whole side knew.
+
+Cummins spent 68 minutes rebutting them in Sydney, calling them "100% wrong" and saying Khawaja had been "casual" with people's lives. Since then, both Chadd Sayers and Cameron Bancroft have publicly sided with Khawaja's version. Khawaja said he had contacted Cummins before that press conference, and the tone of what followed caught him off guard.
+
+"I've always loved Pat Cummins the person and the leader, terrific. I was never expecting him to come out and attack me personally like that," he said. "Attack what I said, yeah, personally, [but] the way he did, for so long, and just kept going and kept going - I've never seen that side of Pat before, and that's what really disappointed me.
+
+"I didn't want to watch it, but I had to watch it because I had to know what he was saying, and I wanted to turn it off so many times, but I had to keep going. I remember Rachel was next to me, my wife, she just kept going, 'Are you okay? Are you okay?' and I couldn't really answer her because I was just so many emotions at that time.
+
+It was really weird." Bancroft's account subsequently brought calls for Cummins to give up the captaincy, but the CA board backed him unanimously last weekend, something Khawaja welcomed. "I was actually really happy with that. I don't want to hurt anyone individually," Khawaja said.
+
+"I will always love Pat. I'm not going to - as much as that hurt me, and it really did hurt me - I'm not going to judge him on 70 minutes of a presser, or probably like 20 minutes of a presser … like, that's not who I'm going to judge Pat on, so there's plenty of love, no matter what.
+
+I'm not a hateful guy. "But it was surprising because I did - I won't say the context of it - I did text Pat before that, a couple of days out, hoping he'd be able to find a middle ground which brings everyone in together in this, rather than putting the walls up and really creating a bigger division.
+
+"Patty was 24 years old at the time. This is, this wasn't a Patrick Cummins issue ... I think CA should have taken the lead rather than Patty. I get why Patty went up there, but I think it could have been a lot different what he said." CA announced an independent forum on the same day Bancroft's article was published, inviting anyone from the 2018 tour to give their account.
+
+Soon after, Khawaja sent Greenberg the outline of a statement he felt the squad could accept, and he read it out on the podcast. "We accept and acknowledge as a team that we knew we were ball tampering by artificially altering the condition of the ball in South Africa 2018," it said.
+
+"Whether it was sandpaper or by any other means is irrelevant. We knew what we were doing and we take full responsibility as a team and squad for our actions - something we should have done eight years ago. Furthermore, we would like to acknowledge that Steven, Cameron, and David paid an enormous price for the sake of the team, for which we are sorry and eternally grateful." Greenberg was sceptical that the statement would get anywhere.
+
+The bowlers have not moved from their 2021 statement denying any prior knowledge of the tampering. Khawaja, however, said work was continuing behind the scenes to bring the episode to an end. CA is expected to set out the forum's details this week, and the main question is how much of what it hears will be made public.
+
+Khawaja had earlier said he had reservations about taking part without full transparency. He now says he will "definitely" give evidence, after speaking to Greenberg about ensuring everything is released.
+
+---
+
+**Original Source:** [Cricbuzz](https://www.cricbuzz.com/cricket-news/141056/it-really-did-hurt-me-khawaja-on-the-cummins-presser)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Cricbuzz.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for It really did hurt me': Khawaja on the Cummins presser - Cricbuzz.`,
+    primary_source: `Cricbuzz`,
+  },
+  {
+    id: 97952,
+    title: `Molineux's four-for powers Renegades to crucial win over Heat - Cricbuzz`,
+    slug: `molineuxs-four-for-powers-renegades-to-crucial-win-over-heat-cricbuzz-2026`,
+    original_title: `Molineux's four-for powers Renegades to crucial win over Heat - Cricbuzz`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:21:47Z`,
+    updated_at: `2026-11-26T06:21:47Z`,
+    source_name: `Cricbuzz`,
+    source_url: `https://www.cricbuzz.com/cricket-news/141057/womens-big-bash-league-wbbl-2026-sophie-molineuxs-four-for-powers-melbourne-renegades-to-crucial-win-over-brisbane-heat-cricbuzzcom`,
+    source_courtesy: `Source: Cricbuzz`,
+    image_url: `/images/articles/molineuxs-four-for-powers-renegades-to-crucial-win-over-heat-cricbuzz-2026.webp`,
+    image_alt: `Molineux's four-for powers Renegades to crucial win over Heat - Cricbuzz`,
+    image_courtesy: `Image: Cricbuzz (External Source Attribution)`,
+    image_photographer: `Cricbuzz`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `Sophie Molineux's four-wicket haul (4 for 20) helped Melbourne Renegades clinch a three-wicket win over Brisbane Heat at Junction Oval on Wednesday (November 25), taking them above their opponents into fourth place in the Women's Big Bash L`,
+    content: `Sophie Molineux's four-wicket haul (4 for 20) helped Melbourne Renegades clinch a three-wicket win over Brisbane Heat at Junction Oval on Wednesday (November 25), taking them above their opponents into fourth place in the Women's Big Bash League standings and the playoff qualification spots.
+
+Defending a target of 138, the Heat kept the contest alive with regular wickets, but the Renegades held their nerve to get over the line off the final ball. After Heat opted to bat at the toss, it was Molineux who made early inroads for the hosts, dismissing Grace Harris for a golden duck and then cleaning up Charli Knott to leave the Heat at 21 for 2 inside four overs.
+
+Orla Prendergast (23 off 15) provided some impetus with a brisk innings before being run out by Deandra Dottin. Georgia Redmayne (13) followed soon after, leaving the visitors at 59 for 4. Yastika Bhatia and Lucy Hamilton attempted to rebuild, but Molineux struck twice in the 13th over to remove both batters and reduce the Heat to 93 for 6.
+
+Sianna Ginger  and Lucinda Bourke then added 38 runs for the seventh wicket to provide some heft to the total. However, Hayley Matthews (2 for 28) removed both batters as the Heat finished with 137 for 8. In reply, the Renegades made a solid start despite losing lost Matthews early.
+
+Tess Flintoff (30 off 32) anchored the innings, putting together useful partnerships with Molineux (18 off 16) and Georgia Wareham (29 off 26). The latter added 41 runs with Flintoff to take the hosts to 93 for 2 in the 14th over. A sudden collapse ensued Knott dismissed Flintoff.
+
+Georgia Wareham then was cleaned up by Glenn. The chase then took an unusual turn when Deandra Dottin was dismissed without facing a conventional delivery. Having failed to be ready to face the next ball within the stipulated 75 seconds after the previous dismissal, Dottin was subject to a WBBL playing condition that allowed Sarah Glenn an uncontested ball at the stumps.
+
+Glenn hit the target to dismiss Dottin, leaving the Renegades at 97 for 5. Sianna Ginger (2 for 13) also kept the pressure on by removing Chloe Tryon and Nicole Faltum to leave the Renegades at 128 for 7 in the 19th over. Needing 9 off the final seven deliveries, Annie Wikman found an important boundary at the start off the final over bowled by Lucy Hamilton and singles from the other five deliveries helped take the Renegades over the line on the final ball.
+
+<b>Brief scores</b>: Brisbane Heat 138/8 in 20 overs (Orla Prendergast 23; Sophie Molineux 4-20, Hayley Matthews 2-28) lost to Melbourne Renegades 138/7 in 20 overs (Georgia Wareham 29; Sarah Glenn 2-15, Sianna Ginger 2-13) by 3 wickets
+
+---
+
+**Original Source:** [Cricbuzz](https://www.cricbuzz.com/cricket-news/141057/womens-big-bash-league-wbbl-2026-sophie-molineuxs-four-for-powers-melbourne-renegades-to-crucial-win-over-brisbane-heat-cricbuzzcom)`,
+    title_en: `Molineux's four-for powers Renegades to crucial win over Heat - Cricbuzz`,
+    summary_en: `Sophie Molineux's four-wicket haul (4 for 20) helped Melbourne Renegades clinch a three-wicket win over Brisbane Heat at Junction Oval on Wednesday (November 25), taking them above their opponents into fourth place in the Women's Big Bash L`,
+    content_en: `Sophie Molineux's four-wicket haul (4 for 20) helped Melbourne Renegades clinch a three-wicket win over Brisbane Heat at Junction Oval on Wednesday (November 25), taking them above their opponents into fourth place in the Women's Big Bash League standings and the playoff qualification spots.
+
+Defending a target of 138, the Heat kept the contest alive with regular wickets, but the Renegades held their nerve to get over the line off the final ball. After Heat opted to bat at the toss, it was Molineux who made early inroads for the hosts, dismissing Grace Harris for a golden duck and then cleaning up Charli Knott to leave the Heat at 21 for 2 inside four overs.
+
+Orla Prendergast (23 off 15) provided some impetus with a brisk innings before being run out by Deandra Dottin. Georgia Redmayne (13) followed soon after, leaving the visitors at 59 for 4. Yastika Bhatia and Lucy Hamilton attempted to rebuild, but Molineux struck twice in the 13th over to remove both batters and reduce the Heat to 93 for 6.
+
+Sianna Ginger  and Lucinda Bourke then added 38 runs for the seventh wicket to provide some heft to the total. However, Hayley Matthews (2 for 28) removed both batters as the Heat finished with 137 for 8. In reply, the Renegades made a solid start despite losing lost Matthews early.
+
+Tess Flintoff (30 off 32) anchored the innings, putting together useful partnerships with Molineux (18 off 16) and Georgia Wareham (29 off 26). The latter added 41 runs with Flintoff to take the hosts to 93 for 2 in the 14th over. A sudden collapse ensued Knott dismissed Flintoff.
+
+Georgia Wareham then was cleaned up by Glenn. The chase then took an unusual turn when Deandra Dottin was dismissed without facing a conventional delivery. Having failed to be ready to face the next ball within the stipulated 75 seconds after the previous dismissal, Dottin was subject to a WBBL playing condition that allowed Sarah Glenn an uncontested ball at the stumps.
+
+Glenn hit the target to dismiss Dottin, leaving the Renegades at 97 for 5. Sianna Ginger (2 for 13) also kept the pressure on by removing Chloe Tryon and Nicole Faltum to leave the Renegades at 128 for 7 in the 19th over. Needing 9 off the final seven deliveries, Annie Wikman found an important boundary at the start off the final over bowled by Lucy Hamilton and singles from the other five deliveries helped take the Renegades over the line on the final ball.
+
+<b>Brief scores</b>: Brisbane Heat 138/8 in 20 overs (Orla Prendergast 23; Sophie Molineux 4-20, Hayley Matthews 2-28) lost to Melbourne Renegades 138/7 in 20 overs (Georgia Wareham 29; Sarah Glenn 2-15, Sianna Ginger 2-13) by 3 wickets
+
+---
+
+**Original Source:** [Cricbuzz](https://www.cricbuzz.com/cricket-news/141057/womens-big-bash-league-wbbl-2026-sophie-molineuxs-four-for-powers-melbourne-renegades-to-crucial-win-over-brisbane-heat-cricbuzzcom)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Cricbuzz.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Molineux's four-for powers Renegades to crucial win over Heat - Cricbuzz.`,
+    primary_source: `Cricbuzz`,
+  },
+  {
+    id: 97953,
+    title: `iQOO India का Instagram अकाउंट हुआ खाली, क्या कंपनी पर हुआ साइबर अटैक? Reddit पर छिड़ी बहस - AajTak`,
+    slug: `iqoo-india-instagram-reddit-aajtak-2026`,
+    original_title: `iQOO India का Instagram अकाउंट हुआ खाली, क्या कंपनी पर हुआ साइबर अटैक? Reddit पर छिड़ी बहस - AajTak`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:21:51Z`,
+    updated_at: `2026-11-26T06:21:51Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/technology/tech-news/story/iqoo-india-instagram-posts-disappeared-hacked-iqoo-16-launch-ttecr-dskc-2706231-2026-11-26`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b07a200f2ae1-iqoo-india-instagram-page-hack-26053669.jpg`,
+    image_alt: `iQOO India का Instagram अकाउंट हुआ खाली, क्या कंपनी पर हुआ साइबर अटैक? Reddit पर छिड़ी बहस - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `Vivo के सब ब्रांड के रूप में शुरुआत करने वाला iQOO मोबाइल ब्रांड एक बार फिर से चर्चा में आ गया है. इस बार चर्चा में आने की वजह कोई नया स्मार्टफोन नहीं है बल्कि कंपनी का इंस्टाग्राम अकाउंट है. और पढ़ेंसोशल मीडिया प्लेटफॉर्म रेडिट पर एक यूजर्`,
+    content: `Vivo के सब ब्रांड के रूप में शुरुआत करने वाला iQOO मोबाइल ब्रांड एक बार फिर से चर्चा में आ गया है. इस बार चर्चा में आने की वजह कोई नया स्मार्टफोन नहीं है बल्कि कंपनी का इंस्टाग्राम अकाउंट है. और पढ़ेंसोशल मीडिया प्लेटफॉर्म रेडिट पर एक यूजर्स ने iQOO इंडिया के इंस्टाग्राम प्रोफाइल का स्क्रीनशॉट्स शेयर किया है.
+
+कंपनी का पोस्ट सेक्शन खाली नजर आ रहा है, जिसकी वजह से बहुत से लोगों ने सोशल मीडिया पर सवाल खड़े किए हैं कि क्या iQOO इंडिया का इंस्टाग्राम अकाउंट हैक हो गया है.Instagram पर 14 लाख फॉलोअर्स हैं, लेकिन अकाउंट पर कोई भी पोस्ट नहीं है. पेज पर लिखा आ रहा है कि अभी तक कोई पोस्ट नहीं है.
+
+यहां गौर करने वाली बात यह है कि प्रोफाइल पर 56 पोस्ट लिखे नजर आ रहे हैं, लेकिन पोस्ट ग्रिड में कोई कंटेंट नजर नहीं आ रहा है. यहां तक कि प्रोफाइल हाइलाइट भी खाली नजर आ रहे हैं. कुछ यूजर्स ने ये भी सवाल खड़ा किया है कि क्या iQOO इंडिया का इंस्टाग्राम अकाउंट हैक हो गया है. कंपनी के इंस्टाग्राम पेज से अचानक पूरा कंटेंट गायब हो गया है.
+
+Advertisement        अलग-अलग कयास लगाए जा रहे हैंसोशल मीडिया पर शेयर किए जा चुके पोस्ट को लेकर अलग-अलग कयास लगाए जा रहे हैं. एक यूजर्स का कहना है कि ब्रांड कुछ बड़ा करने जा रहा है, जिसके लिए कंपनी ने ये तैयारी शुरू की है. एक यूजर्स ने बताया है कि कई ब्रांड बड़े-बडे़ कैंपेन से पहले अपने सोशल मीडिया पेज के पुराने पोस्ट अर्काइव या रिसेट कर देते हैं.
+
+एक यूजर्स ने बताया है कि क्या ये  iQOO 16 की लॉन्चिंग की तैयारी है. यह भी पढ़ें: 15000 से कम में 5110mAh बैटरी-50MP कैमरा, धांसू स्मार्टफोनiQOO 16 की लॉन्चिंग की तैयारी में कंपनी? iQOO 16 को लेकर कंपनी पहले ही कंफर्म कर चुकी है कि यह फोन भारत में लॉन्च होगा. हालांकि कंपनी ने अभी इसको लेकर कोई ऑफिशियल डेट कंफर्म नहीं की है.
+
+रिपोर्ट्स में दावा किया है कि iQOO 16 दिसंबर और जनवरी महीने के दौरान लॉन्च किया जा सकेगा. यह भी पढ़ें: Anant Singh daughter marriage: अनंत सिंह क्यों नहीं करते स्मार्टफोन का इस्तेमाल? जानें वजह!iQOO ने अभी इंस्टाग्राम पोस्ट हटाने को लेकर कोई ऑफिशियल जानकारी नहीं दी है. iQOO एक चाइनीज ब्रांड है और परफोर्मेंस्ड स्मार्टफोन के लिए जाना जाता है.
+
+iQOO  16 की शुरुआती कीमत  Advertisement        iQOO 16 की शुरुआती कीमत चीन में CNY 5,999 ( करीब 84,000 रुपये) है. कई रिपोर्ट्स में संभावना जताई है कि iQOO 16 की कीमत 1 लाख रुपये तक हो सकती है. इस स्मार्टफोन का मुकाबला प्रीमियम क्लास के स्मार्टफोन से होगा. ---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/technology/tech-news/story/iqoo-india-instagram-posts-disappeared-hacked-iqoo-16-launch-ttecr-dskc-2706231-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `iQOO India का Instagram अकाउंट हुआ खाली, क्या कंपनी पर हुआ साइबर अटैक? Reddit पर छिड़ी बहस - AajTak`,
+    summary_hi: `Vivo के सब ब्रांड के रूप में शुरुआत करने वाला iQOO मोबाइल ब्रांड एक बार फिर से चर्चा में आ गया है. इस बार चर्चा में आने की वजह कोई नया स्मार्टफोन नहीं है बल्कि कंपनी का इंस्टाग्राम अकाउंट है. और पढ़ेंसोशल मीडिया प्लेटफॉर्म रेडिट पर एक यूजर्`,
+    content_hi: `Vivo के सब ब्रांड के रूप में शुरुआत करने वाला iQOO मोबाइल ब्रांड एक बार फिर से चर्चा में आ गया है. इस बार चर्चा में आने की वजह कोई नया स्मार्टफोन नहीं है बल्कि कंपनी का इंस्टाग्राम अकाउंट है. और पढ़ेंसोशल मीडिया प्लेटफॉर्म रेडिट पर एक यूजर्स ने iQOO इंडिया के इंस्टाग्राम प्रोफाइल का स्क्रीनशॉट्स शेयर किया है.
+
+कंपनी का पोस्ट सेक्शन खाली नजर आ रहा है, जिसकी वजह से बहुत से लोगों ने सोशल मीडिया पर सवाल खड़े किए हैं कि क्या iQOO इंडिया का इंस्टाग्राम अकाउंट हैक हो गया है.Instagram पर 14 लाख फॉलोअर्स हैं, लेकिन अकाउंट पर कोई भी पोस्ट नहीं है. पेज पर लिखा आ रहा है कि अभी तक कोई पोस्ट नहीं है.
+
+यहां गौर करने वाली बात यह है कि प्रोफाइल पर 56 पोस्ट लिखे नजर आ रहे हैं, लेकिन पोस्ट ग्रिड में कोई कंटेंट नजर नहीं आ रहा है. यहां तक कि प्रोफाइल हाइलाइट भी खाली नजर आ रहे हैं. कुछ यूजर्स ने ये भी सवाल खड़ा किया है कि क्या iQOO इंडिया का इंस्टाग्राम अकाउंट हैक हो गया है. कंपनी के इंस्टाग्राम पेज से अचानक पूरा कंटेंट गायब हो गया है.
+
+Advertisement        अलग-अलग कयास लगाए जा रहे हैंसोशल मीडिया पर शेयर किए जा चुके पोस्ट को लेकर अलग-अलग कयास लगाए जा रहे हैं. एक यूजर्स का कहना है कि ब्रांड कुछ बड़ा करने जा रहा है, जिसके लिए कंपनी ने ये तैयारी शुरू की है. एक यूजर्स ने बताया है कि कई ब्रांड बड़े-बडे़ कैंपेन से पहले अपने सोशल मीडिया पेज के पुराने पोस्ट अर्काइव या रिसेट कर देते हैं.
+
+एक यूजर्स ने बताया है कि क्या ये  iQOO 16 की लॉन्चिंग की तैयारी है. यह भी पढ़ें: 15000 से कम में 5110mAh बैटरी-50MP कैमरा, धांसू स्मार्टफोनiQOO 16 की लॉन्चिंग की तैयारी में कंपनी? iQOO 16 को लेकर कंपनी पहले ही कंफर्म कर चुकी है कि यह फोन भारत में लॉन्च होगा. हालांकि कंपनी ने अभी इसको लेकर कोई ऑफिशियल डेट कंफर्म नहीं की है.
+
+रिपोर्ट्स में दावा किया है कि iQOO 16 दिसंबर और जनवरी महीने के दौरान लॉन्च किया जा सकेगा. यह भी पढ़ें: Anant Singh daughter marriage: अनंत सिंह क्यों नहीं करते स्मार्टफोन का इस्तेमाल? जानें वजह!iQOO ने अभी इंस्टाग्राम पोस्ट हटाने को लेकर कोई ऑफिशियल जानकारी नहीं दी है. iQOO एक चाइनीज ब्रांड है और परफोर्मेंस्ड स्मार्टफोन के लिए जाना जाता है.
+
+iQOO  16 की शुरुआती कीमत  Advertisement        iQOO 16 की शुरुआती कीमत चीन में CNY 5,999 ( करीब 84,000 रुपये) है. कई रिपोर्ट्स में संभावना जताई है कि iQOO 16 की कीमत 1 लाख रुपये तक हो सकती है. इस स्मार्टफोन का मुकाबला प्रीमियम क्लास के स्मार्टफोन से होगा. ---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/technology/tech-news/story/iqoo-india-instagram-posts-disappeared-hacked-iqoo-16-launch-ttecr-dskc-2706231-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक iQOO India का Instagram अकाउंट हुआ खाली, क्या कंपनी पर हुआ साइबर अटैक? Reddit पर छिड़ी बहस - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 97954,
+    title: `पहले ठोका तिहरा शतक, अब झटके 7 विकेट... मुल्डर ने टेस्ट क्रिकेट में रचा ऐसा इतिहास, जो 149 साल में नहीं हुआ! - AajTak`,
+    slug: `7-149-aajtak-2026`,
+    original_title: `पहले ठोका तिहरा शतक, अब झटके 7 विकेट... मुल्डर ने टेस्ट क्रिकेट में रचा ऐसा इतिहास, जो 149 साल में नहीं हुआ! - AajTak`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:21:54Z`,
+    updated_at: `2026-11-26T06:21:54Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/sports/cricket/story/wiaan-mulder-triple-century-seven-wicket-haul-test-record-south-africa-vs-bangladesh-tspok-dskc-2706090-2026-11-25`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0707db8202b-wiaan-mulder-250754194.jpg`,
+    image_alt: `पहले ठोका तिहरा शतक, अब झटके 7 विकेट... मुल्डर ने टेस्ट क्रिकेट में रचा ऐसा इतिहास, जो 149 साल में नहीं हुआ! - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `पहले ठोका तिहरा शतक, अब झटके 7 विकेट... मुल्डर ने टेस्ट क्रिकेट में रचा ऐसा इतिहास, जो 149 साल में नहीं हुआ! AajTak साउथ अफ्रीका की जीत से बदल गया WTC प्वॉइंट्स टेबल का हाल; टीम इंडिया की बढ़ी टेंशन Jagran साउथ अफ्रीका ने बांग्लादेश को पारी`,
+    content: `### साउथ अफ्रीका के वियान मुल्डर ने टेस्ट क्रिकेट में ऐसा कारनामा कर दिया, जो पहले कभी नहीं हुआ था. वह टेस्ट करियर में तिहरा शतक लगाने और एक पारी में सात विकेट लेने वाले दुनिया के पहले खिलाड़ी बन गए. बांग्लादेश के खिलाफ सेंचुरियन टेस्ट में 7/31 के प्रदर्शन से उन्होंने टीम को पारी और 219 रन से जीत दिलाई.
+
+साउथ अफ्रीका के ऑलराउंडर वियान मुल्डर ने टेस्ट क्रिकेट में इतिहास रच दिया है. 28 साल के मुल्डर टेस्ट करियर में तिहरा शतक लगाने और एक पारी में सात विकेट लेने वाले दुनिया के पहले खिलाड़ी बन गए हैं. उन्होंने बांग्लादेश के खिलाफ सेंचुरियन में खेले गए दूसरे टेस्ट में 31 रन देकर 7 विकेट झटके. उनके इस प्रदर्शन की बदौलत साउथ अफ्रीका ने मुकाबला पारी और 219 रन से जीतकर सीरीज 2-0 से अपने नाम कर ली.
+
+मुल्डर ने इस अनोखे रिकॉर्ड की नींव जुलाई 2025 में ही रख दी थी. जिम्बाब्वे के खिलाफ बुलावायो टेस्ट में कप्तानी डेब्यू करते हुए उन्होंने नाबाद 367 रन की ऐतिहासिक पारी खेली थी. उन्होंने महज 297 गेंदों में तिहरा शतक पूरा किया था. उस मुकाबले में साउथ अफ्रीका ने पारी और 236 रन से जीत दर्ज की थी. अब करीब एक साल बाद मुल्डर ने गेंद से भी ऐसा ही कमाल कर दिखाया.
+
+What A Sublime Performance!! 💯 A century with the bat and a sensational seven-wicket haul with the ball in a single innings! 🤯 Wiaan Mulder delivers a remarkable all-round performance to cap off an unforgettable Test! 🇿🇦 Ladies and gentlemen, your Player of the Match is Wiaan Mulder! 👏 #Unbreakable #TheProteas #SAvBAN
+
+बांग्लादेश के खिलाफ सबसे सफल साउथ अफ्रीकी गेंदबाज मुल्डर के 7/31 के आंकड़े बांग्लादेश के खिलाफ टेस्ट की एक पारी में किसी साउथ अफ्रीकी गेंदबाज का सर्वश्रेष्ठ प्रदर्शन हैं. उन्होंने केशव महाराज का रिकॉर्ड तोड़ा, जिन्होंने 2022 में डरबन में 7/32 विकेट लिए थे. महाराज ने उसी साल गकेबरहा में 7/40 का प्रदर्शन भी किया था.
+
+सेंचुरियन के मैदान पर यह किसी टेस्ट पारी में दूसरा सर्वश्रेष्ठ गेंदबाजी प्रदर्शन भी है. इस मैदान का रिकॉर्ड अब भी काइल एबॉट के नाम है, जिन्होंने 2013 में पाकिस्तान के खिलाफ 7/29 विकेट लिए थे. यह भी पढ़ें: 'वो भारतीय क्रिकेट का भविष्य है...', वैभव सूर्यवंशी पर सौरव गांगुली का बड़ा बयान, बोले- तुलना मत करो
+
+64 गेंदों में सात विकेट, तोड़ा 76 साल पुराना रिकॉर्ड मुल्डर ने एक और बड़ा रिकॉर्ड अपने नाम किया. वह टेस्ट पारी में चौथे बदलाव (Fourth-change) या उसके बाद गेंदबाजी करने वाले गेंदबाजों में सबसे कम गेंदों में सात विकेट लेने वाले खिलाड़ी बन गए. उन्होंने सिर्फ 64 गेंदों में अपने सात विकेट पूरे किए. इससे पहले यह रिकॉर्ड ह्यू टेफील्ड के नाम था, जिन्होंने 1950 में डरबन में ऑस्ट्रेलिया के खिलाफ 68 गेंदों में सात विकेट लिए थे.
+
+दिग्गजों की लिस्ट में मुल्डर की एंट्री एक ही टेस्ट में शतक और सात विकेट लेने वाले खिलाड़ियों की खास सूची में अब मुल्डर भी शामिल हो गए हैं. उनसे पहले ऑस्ट्रेलिया के जैक ग्रेगरी (1920), इंग्लैंड के इयान बॉथम (1978 और 1980), भारत के रविचंद्रन अश्विन (2016) और अफगानिस्तान के नसीर खान मारूफखिल (2026) यह कारनामा कर चुके हैं. यह भी पढ़ें: IND vs NZ: मोहम्मद सिराज को विवाद में क्यों घसीट रहे? टीम इंड‍िया की प्लेइंग XI से बाहर रखने पर BCCI ने तोड़ी चुप्पी
+
+साउथ अफ्रीका के लिए एक ही टेस्ट में शतक और कम से कम पांच विकेट लेने वाले खिलाड़ियों की सूची में भी मुल्डर का नाम जुड़ गया है. उनसे पहले जिमी सिंक्लेयर (1899), ऑब्रे फॉकनर (1910), जैक्स कैलिस (1999 और 2002) और कॉर्बिन बॉश (2025) ऐसा कर चुके हैं.
+
+साउथ अफ्रीका का बांग्लादेश पर दबदबा कायम सेंचुरियन टेस्ट में साउथ अफ्रीका की जीत में मार्क्स एकरमैन ने भी अहम भूमिका निभाई. उन्होंने 150 रन की शानदार पारी खेली. वहीं मार्को जानसेन ने बांग्लादेश की दोनों पारियों में कुल तीन विकेट अपने नाम किए. साउथ अफ्रीका ने पारी और 219 रन से मुकाबला जीतकर सीरीज में क्लीन स्वीप किया.
+
+टेस्ट क्रिकेट में बांग्लादेश के खिलाफ साउथ अफ्रीका का दबदबा भी बरकरार है. दोनों टीमों के बीच अब तक 18 टेस्ट खेले गए हैं, जिनमें साउथ अफ्रीका ने 16 जीते हैं, जबकि दो मुकाबले ड्रॉ रहे हैं. बांग्लादेश अब तक साउथ अफ्रीका के खिलाफ कोई टेस्ट नहीं जीत सका है.
+
+🚨 MATCH RESULT 🚨 That’s the end of what has been an incredible performance by #TheProteas from start to finish! 🇿🇦 The boys close out a dominant 2-0 Dafabet Test series victory, winning the second Test by an innings and 219 runs! 💪 #Unbreakable #SAvBAN https://t.co/F2ZHL4ikeO
+
+घरेलू मैदान पर बांग्लादेश के खिलाफ साउथ अफ्रीका की पारी से सबसे बड़ी जीत 2017 में ब्लोमफोंटेन में आई थी, जब उसने पारी और 254 रन से मुकाबला जीता था. अब 2026 में सेंचुरियन में पारी और 219 रन की जीत इस सूची में दूसरे नंबर पर है. इसके बाद 2002 में पोटचेफस्ट्रूम में पारी और 160 रन, 2008 में ब्लोमफोंटेन में पारी और 129 रन तथा 2002 में कुगुम्पो सिटी में पारी और 107 रन की जीत दर्ज है. 2008 में सेंचुरियन में पारी और 48 रन की जीत भी इस सूची में शामिल है.
+
+टेस्ट में साउथ अफ्रीका बनाम बांग्लादेश मैच: 18, साउथ अफ्रीका जीते: 16, हारे: 0, ड्रॉ: 2
+
+घरेलू मैदान पर SA बनाम BAN की इनिंग्स में जीत
+
+टेस्ट इनिंग्स में SA बनाम BAN के बेस्ट आंकड़े
+
+सेंचुरियन में एक टेस्ट पारी में मुल्डर के 7/31 दूसरे सबसे अच्छे बॉलिंग फिगर हैं, जो 2013 में पाकिस्तान के खिलाफ काइल एबॉट के 7/29 के बाद दूसरे नंबर पर हैं.
+
+एक ही टेस्ट में 100 और 5 व‍िकेट वाले साउथ अफ्रीका के खिलाड़ी
+
+एक ही टेस्ट में शतक और 7 विकेट लेने वाले खिलाड़ी
+
+वियान मुल्डर ने महज 64 गेंदों में 7 विकेट लिए, जो किसी टेस्ट पारी में चौथे या बाद के गेंदबाज द्वारा लिए गए सबसे तेज विकेट थे, और उन्होंने 1950 में डरबन में ऑस्ट्रेलिया के ख़िलाफ़ ह्यूग टेफील्ड के 68 गेंदों के रिकॉर्ड को पीछे छोड़ दिया.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/wiaan-mulder-triple-century-seven-wicket-haul-test-record-south-africa-vs-bangladesh-tspok-dskc-2706090-2026-11-25)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `पहले ठोका तिहरा शतक, अब झटके 7 विकेट... मुल्डर ने टेस्ट क्रिकेट में रचा ऐसा इतिहास, जो 149 साल में नहीं हुआ! - AajTak`,
+    summary_hi: `पहले ठोका तिहरा शतक, अब झटके 7 विकेट... मुल्डर ने टेस्ट क्रिकेट में रचा ऐसा इतिहास, जो 149 साल में नहीं हुआ! AajTak साउथ अफ्रीका की जीत से बदल गया WTC प्वॉइंट्स टेबल का हाल; टीम इंडिया की बढ़ी टेंशन Jagran साउथ अफ्रीका ने बांग्लादेश को पारी`,
+    content_hi: `### साउथ अफ्रीका के वियान मुल्डर ने टेस्ट क्रिकेट में ऐसा कारनामा कर दिया, जो पहले कभी नहीं हुआ था. वह टेस्ट करियर में तिहरा शतक लगाने और एक पारी में सात विकेट लेने वाले दुनिया के पहले खिलाड़ी बन गए. बांग्लादेश के खिलाफ सेंचुरियन टेस्ट में 7/31 के प्रदर्शन से उन्होंने टीम को पारी और 219 रन से जीत दिलाई.
+
+साउथ अफ्रीका के ऑलराउंडर वियान मुल्डर ने टेस्ट क्रिकेट में इतिहास रच दिया है. 28 साल के मुल्डर टेस्ट करियर में तिहरा शतक लगाने और एक पारी में सात विकेट लेने वाले दुनिया के पहले खिलाड़ी बन गए हैं. उन्होंने बांग्लादेश के खिलाफ सेंचुरियन में खेले गए दूसरे टेस्ट में 31 रन देकर 7 विकेट झटके. उनके इस प्रदर्शन की बदौलत साउथ अफ्रीका ने मुकाबला पारी और 219 रन से जीतकर सीरीज 2-0 से अपने नाम कर ली.
+
+मुल्डर ने इस अनोखे रिकॉर्ड की नींव जुलाई 2025 में ही रख दी थी. जिम्बाब्वे के खिलाफ बुलावायो टेस्ट में कप्तानी डेब्यू करते हुए उन्होंने नाबाद 367 रन की ऐतिहासिक पारी खेली थी. उन्होंने महज 297 गेंदों में तिहरा शतक पूरा किया था. उस मुकाबले में साउथ अफ्रीका ने पारी और 236 रन से जीत दर्ज की थी. अब करीब एक साल बाद मुल्डर ने गेंद से भी ऐसा ही कमाल कर दिखाया.
+
+What A Sublime Performance!! 💯 A century with the bat and a sensational seven-wicket haul with the ball in a single innings! 🤯 Wiaan Mulder delivers a remarkable all-round performance to cap off an unforgettable Test! 🇿🇦 Ladies and gentlemen, your Player of the Match is Wiaan Mulder! 👏 #Unbreakable #TheProteas #SAvBAN
+
+बांग्लादेश के खिलाफ सबसे सफल साउथ अफ्रीकी गेंदबाज मुल्डर के 7/31 के आंकड़े बांग्लादेश के खिलाफ टेस्ट की एक पारी में किसी साउथ अफ्रीकी गेंदबाज का सर्वश्रेष्ठ प्रदर्शन हैं. उन्होंने केशव महाराज का रिकॉर्ड तोड़ा, जिन्होंने 2022 में डरबन में 7/32 विकेट लिए थे. महाराज ने उसी साल गकेबरहा में 7/40 का प्रदर्शन भी किया था.
+
+सेंचुरियन के मैदान पर यह किसी टेस्ट पारी में दूसरा सर्वश्रेष्ठ गेंदबाजी प्रदर्शन भी है. इस मैदान का रिकॉर्ड अब भी काइल एबॉट के नाम है, जिन्होंने 2013 में पाकिस्तान के खिलाफ 7/29 विकेट लिए थे. यह भी पढ़ें: 'वो भारतीय क्रिकेट का भविष्य है...', वैभव सूर्यवंशी पर सौरव गांगुली का बड़ा बयान, बोले- तुलना मत करो
+
+64 गेंदों में सात विकेट, तोड़ा 76 साल पुराना रिकॉर्ड मुल्डर ने एक और बड़ा रिकॉर्ड अपने नाम किया. वह टेस्ट पारी में चौथे बदलाव (Fourth-change) या उसके बाद गेंदबाजी करने वाले गेंदबाजों में सबसे कम गेंदों में सात विकेट लेने वाले खिलाड़ी बन गए. उन्होंने सिर्फ 64 गेंदों में अपने सात विकेट पूरे किए. इससे पहले यह रिकॉर्ड ह्यू टेफील्ड के नाम था, जिन्होंने 1950 में डरबन में ऑस्ट्रेलिया के खिलाफ 68 गेंदों में सात विकेट लिए थे.
+
+दिग्गजों की लिस्ट में मुल्डर की एंट्री एक ही टेस्ट में शतक और सात विकेट लेने वाले खिलाड़ियों की खास सूची में अब मुल्डर भी शामिल हो गए हैं. उनसे पहले ऑस्ट्रेलिया के जैक ग्रेगरी (1920), इंग्लैंड के इयान बॉथम (1978 और 1980), भारत के रविचंद्रन अश्विन (2016) और अफगानिस्तान के नसीर खान मारूफखिल (2026) यह कारनामा कर चुके हैं. यह भी पढ़ें: IND vs NZ: मोहम्मद सिराज को विवाद में क्यों घसीट रहे? टीम इंड‍िया की प्लेइंग XI से बाहर रखने पर BCCI ने तोड़ी चुप्पी
+
+साउथ अफ्रीका के लिए एक ही टेस्ट में शतक और कम से कम पांच विकेट लेने वाले खिलाड़ियों की सूची में भी मुल्डर का नाम जुड़ गया है. उनसे पहले जिमी सिंक्लेयर (1899), ऑब्रे फॉकनर (1910), जैक्स कैलिस (1999 और 2002) और कॉर्बिन बॉश (2025) ऐसा कर चुके हैं.
+
+साउथ अफ्रीका का बांग्लादेश पर दबदबा कायम सेंचुरियन टेस्ट में साउथ अफ्रीका की जीत में मार्क्स एकरमैन ने भी अहम भूमिका निभाई. उन्होंने 150 रन की शानदार पारी खेली. वहीं मार्को जानसेन ने बांग्लादेश की दोनों पारियों में कुल तीन विकेट अपने नाम किए. साउथ अफ्रीका ने पारी और 219 रन से मुकाबला जीतकर सीरीज में क्लीन स्वीप किया.
+
+टेस्ट क्रिकेट में बांग्लादेश के खिलाफ साउथ अफ्रीका का दबदबा भी बरकरार है. दोनों टीमों के बीच अब तक 18 टेस्ट खेले गए हैं, जिनमें साउथ अफ्रीका ने 16 जीते हैं, जबकि दो मुकाबले ड्रॉ रहे हैं. बांग्लादेश अब तक साउथ अफ्रीका के खिलाफ कोई टेस्ट नहीं जीत सका है.
+
+🚨 MATCH RESULT 🚨 That’s the end of what has been an incredible performance by #TheProteas from start to finish! 🇿🇦 The boys close out a dominant 2-0 Dafabet Test series victory, winning the second Test by an innings and 219 runs! 💪 #Unbreakable #SAvBAN https://t.co/F2ZHL4ikeO
+
+घरेलू मैदान पर बांग्लादेश के खिलाफ साउथ अफ्रीका की पारी से सबसे बड़ी जीत 2017 में ब्लोमफोंटेन में आई थी, जब उसने पारी और 254 रन से मुकाबला जीता था. अब 2026 में सेंचुरियन में पारी और 219 रन की जीत इस सूची में दूसरे नंबर पर है. इसके बाद 2002 में पोटचेफस्ट्रूम में पारी और 160 रन, 2008 में ब्लोमफोंटेन में पारी और 129 रन तथा 2002 में कुगुम्पो सिटी में पारी और 107 रन की जीत दर्ज है. 2008 में सेंचुरियन में पारी और 48 रन की जीत भी इस सूची में शामिल है.
+
+टेस्ट में साउथ अफ्रीका बनाम बांग्लादेश मैच: 18, साउथ अफ्रीका जीते: 16, हारे: 0, ड्रॉ: 2
+
+घरेलू मैदान पर SA बनाम BAN की इनिंग्स में जीत
+
+टेस्ट इनिंग्स में SA बनाम BAN के बेस्ट आंकड़े
+
+सेंचुरियन में एक टेस्ट पारी में मुल्डर के 7/31 दूसरे सबसे अच्छे बॉलिंग फिगर हैं, जो 2013 में पाकिस्तान के खिलाफ काइल एबॉट के 7/29 के बाद दूसरे नंबर पर हैं.
+
+एक ही टेस्ट में 100 और 5 व‍िकेट वाले साउथ अफ्रीका के खिलाड़ी
+
+एक ही टेस्ट में शतक और 7 विकेट लेने वाले खिलाड़ी
+
+वियान मुल्डर ने महज 64 गेंदों में 7 विकेट लिए, जो किसी टेस्ट पारी में चौथे या बाद के गेंदबाज द्वारा लिए गए सबसे तेज विकेट थे, और उन्होंने 1950 में डरबन में ऑस्ट्रेलिया के ख़िलाफ़ ह्यूग टेफील्ड के 68 गेंदों के रिकॉर्ड को पीछे छोड़ दिया.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/wiaan-mulder-triple-century-seven-wicket-haul-test-record-south-africa-vs-bangladesh-tspok-dskc-2706090-2026-11-25)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक पहले ठोका तिहरा शतक, अब झटके 7 विकेट... मुल्डर ने टेस्ट क्रिकेट में रचा ऐसा इतिहास, जो 149 साल में नहीं हुआ! - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 97955,
+    title: `Akshay Kumar on eight-hour shifts amid Deepika Padukone's 'Spirit' exit debate: 'They say I work for only`,
+    slug: `akshay-kumar-on-eight-hour-shifts-amid-deepika-padukones-spirit-exit-d-2026`,
+    original_title: `Akshay Kumar on eight-hour shifts amid Deepika Padukone's 'Spirit' exit debate: 'They say I work for only`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:21:57Z`,
+    updated_at: `2026-11-26T06:21:57Z`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-on-eight-hour-shifts-amid-deepika-padukones-spirit-exit-debate-they-say-i-work-for-only-eight-hours-but-they-forget-that-i-dont-even-go-to-my-vanity-van/articleshow/136167008.cms`,
+    source_courtesy: `Source: The Times of India`,
+    image_url: `/images/articles/akshay-kumar-on-eight-hour-shifts-amid-deepika-padukones-spirit-exit-d-2026.jpg`,
+    image_alt: `Akshay Kumar on eight-hour shifts amid Deepika Padukone's 'Spirit' exit debate: 'They say I work for only`,
+    image_courtesy: `Image: The Times of India (External Source Attribution)`,
+    image_photographer: `The Times of India`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Akshay Kumar has revealed that his habit of working only eight hours a day has made some top producers think twice before signing him. The actor spoke about it on the seventh episode of 'Koffee With Karan 9', where co-guest Ravi Kishan stro`,
+    content: `Akshay Kumar has revealed that his habit of working only eight hours a day has made some top producers think twice before signing him. The actor spoke about it on the seventh episode of 'Koffee With Karan 9', where co-guest Ravi Kishan strongly backed his work ethic.Akshay Kumar on his eight-hour shiftsThe subject has been in the news since Deepika Padukone reportedly asked for an eight-hour shift after becoming a mother to daughter Dua.
+
+She then walked away from Sandeep Reddy Vanga's 'Spirit', starring Prabhas, over the disagreement last year. Akshay now says he follows a similar routine, but with a difference.When host Karan Johar lauded him for supporting first-time directors and respecting both filmmakers and producers, Akshay replied, "There's also the fact that a lot of big people don't want to cast me."He continued, "They say I work for only eight hours.
+
+But they forget that I don't even go to my vanity van for those eight hours."The actor explained that stars must look fresh and energetic, as audiences want to see them at their best and not worn out. So he works for eight hours, sleeps for eight hours and spends the remaining time with family, on meals and on fitness.Ravi Kishan backs Akshay KumarRavi Kishan, who has shared screen space with Akshay in four films, said the superstar gives his complete focus during working hours and moves at a rapid pace.
+
+"He even saves the producer's money. That's how you become Akshay Kumar. Because of that, many get a job, as the units usually comprise 300-400 people. Producers are also happy because they don't lose money. He finishes his films in like 55 days," he added.Akshay Kumar's comparison with Nolan and Tom CruiseJoining in, Akshay drew parallels with Hollywood.
+
+"Some ask how I complete films in 60-65 days. I recently read an interview with Christopher Nolan, and apparently he doesn't take more than 90 days to complete a film. Tom Cruise completed Mission: Impossible in 55 days."He also hit back at those who object to the number of films he signs, saying there is nothing wrong in doing two or three projects together.
+
+"I don't know why people ask me, 'Why do you do so many films?' Kaam nahi karunga to kya karunga (What else should I do if not work)?' I have never understood why people ask me this question."Akshay Kumar's 'Koffee With Karan' historyThis was Ravi's first appearance on the chat show, while Akshay was on the couch for the fifth time.
+
+He first came as a solo guest in Season 4 in 2014, then with his wife, Twinkle Khanna, in Season 5, and with Ranveer Singh in Season 6. Samantha Ruth Prabhu joined him in Season 7. He skipped Season 8.Work frontAkshay was last seen in Priyadarshan's 'Haiwaan' opposite Saif Ali Khan.
+
+The film received mixed reviews and flopped, collecting only Rs 15.08 crore worldwide, as per Sacnilk.Ravi, a BJP MP from Gorakhpur, is best known for Bhojpuri cinema and Bollywood. He was last seen in Gurmmeet Singh's 'Mirzapur: The Movie', which earned Rs 339.91 crore globally.Get the latest Bollywood & Entertainment News, and more.
+
+Download the TOI app.Give your child the gift of confidence! Claim your exclusive TOI Masterclass spot today!
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-on-eight-hour-shifts-amid-deepika-padukones-spirit-exit-debate-they-say-i-work-for-only-eight-hours-but-they-forget-that-i-dont-even-go-to-my-vanity-van/articleshow/136167008.cms)`,
+    title_en: `Akshay Kumar on eight-hour shifts amid Deepika Padukone's 'Spirit' exit debate: 'They say I work for only`,
+    summary_en: `Akshay Kumar has revealed that his habit of working only eight hours a day has made some top producers think twice before signing him. The actor spoke about it on the seventh episode of 'Koffee With Karan 9', where co-guest Ravi Kishan stro`,
+    content_en: `Akshay Kumar has revealed that his habit of working only eight hours a day has made some top producers think twice before signing him. The actor spoke about it on the seventh episode of 'Koffee With Karan 9', where co-guest Ravi Kishan strongly backed his work ethic.Akshay Kumar on his eight-hour shiftsThe subject has been in the news since Deepika Padukone reportedly asked for an eight-hour shift after becoming a mother to daughter Dua.
+
+She then walked away from Sandeep Reddy Vanga's 'Spirit', starring Prabhas, over the disagreement last year. Akshay now says he follows a similar routine, but with a difference.When host Karan Johar lauded him for supporting first-time directors and respecting both filmmakers and producers, Akshay replied, "There's also the fact that a lot of big people don't want to cast me."He continued, "They say I work for only eight hours.
+
+But they forget that I don't even go to my vanity van for those eight hours."The actor explained that stars must look fresh and energetic, as audiences want to see them at their best and not worn out. So he works for eight hours, sleeps for eight hours and spends the remaining time with family, on meals and on fitness.Ravi Kishan backs Akshay KumarRavi Kishan, who has shared screen space with Akshay in four films, said the superstar gives his complete focus during working hours and moves at a rapid pace.
+
+"He even saves the producer's money. That's how you become Akshay Kumar. Because of that, many get a job, as the units usually comprise 300-400 people. Producers are also happy because they don't lose money. He finishes his films in like 55 days," he added.Akshay Kumar's comparison with Nolan and Tom CruiseJoining in, Akshay drew parallels with Hollywood.
+
+"Some ask how I complete films in 60-65 days. I recently read an interview with Christopher Nolan, and apparently he doesn't take more than 90 days to complete a film. Tom Cruise completed Mission: Impossible in 55 days."He also hit back at those who object to the number of films he signs, saying there is nothing wrong in doing two or three projects together.
+
+"I don't know why people ask me, 'Why do you do so many films?' Kaam nahi karunga to kya karunga (What else should I do if not work)?' I have never understood why people ask me this question."Akshay Kumar's 'Koffee With Karan' historyThis was Ravi's first appearance on the chat show, while Akshay was on the couch for the fifth time.
+
+He first came as a solo guest in Season 4 in 2014, then with his wife, Twinkle Khanna, in Season 5, and with Ranveer Singh in Season 6. Samantha Ruth Prabhu joined him in Season 7. He skipped Season 8.Work frontAkshay was last seen in Priyadarshan's 'Haiwaan' opposite Saif Ali Khan.
+
+The film received mixed reviews and flopped, collecting only Rs 15.08 crore worldwide, as per Sacnilk.Ravi, a BJP MP from Gorakhpur, is best known for Bhojpuri cinema and Bollywood. He was last seen in Gurmmeet Singh's 'Mirzapur: The Movie', which earned Rs 339.91 crore globally.Get the latest Bollywood & Entertainment News, and more.
+
+Download the TOI app.Give your child the gift of confidence! Claim your exclusive TOI Masterclass spot today!
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-on-eight-hour-shifts-amid-deepika-padukones-spirit-exit-debate-they-say-i-work-for-only-eight-hours-but-they-forget-that-i-dont-even-go-to-my-vanity-van/articleshow/136167008.cms)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Times of India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Akshay Kumar on eight-hour shifts amid Deepika Padukone's 'Spirit' exit debate: 'They say I work for only.`,
+    primary_source: `The Times of India`,
+  },
+  {
+    id: 97956,
+    title: `O.M Operation Mole Box Office Collection Day 6 - Sacnilk`,
+    slug: `om-operation-mole-box-office-collection-day-6-sacnilk-2026`,
+    original_title: `O.M Operation Mole Box Office Collection Day 6 - Sacnilk`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:21:59Z`,
+    updated_at: `2026-11-26T06:21:59Z`,
+    source_name: `Sacnilk`,
+    source_url: `https://www.sacnilk.com/quicknews/OM_Chapter_1_Udhiram_2026_Box_Office_Collection_Day_6`,
+    source_courtesy: `Source: Sacnilk`,
+    image_url: `/images/articles/om-operation-mole-box-office-collection-day-6-sacnilk-2026.jpg`,
+    image_alt: `O.M Operation Mole Box Office Collection Day 6 - Sacnilk`,
+    image_courtesy: `Image: Sacnilk (External Source Attribution)`,
+    image_photographer: `Sacnilk`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `On Day 6,
+                            O.M Operation Mole collected a net of ₹4.10 Cr across 6,115                                shows — Tamil (Day 6) ₹2.60 Cr from 3,364 shows, Telugu (Day 6) ₹1.25 Cr from 1,625 shows and Hindi (Day 6) ₹25`,
+    content: `On Day 6,
+                            O.M Operation Mole collected a net of ₹4.10 Cr across 6,115                                shows — Tamil (Day 6) ₹2.60 Cr from 3,364 shows, Telugu (Day 6) ₹1.25 Cr from 1,625 shows and Hindi (Day 6) ₹25 L from 1,126 shows.
+                                                        This brings total India gross collections to ₹76.00 Cr and total India net
+                            collections to ₹65.55 Cr so far.
+
+Overseas, the film collected ₹75 L on Day 6, taking its total overseas gross to ₹30.25 Cr so far. This pushes the worldwide gross collection to ₹106.25 Cr .
+
+An estimated 379,124 tickets were sold for O.M Operation Mole on Day 6, 5,254,319 across the run.
+
+Day 6 all-language collection of ₹4.10 Cr is a 24.1% drop from Day 5's ₹5.40 Cr .
+
+Day 6's ₹4.10 Cr for O.M Operation Mole is below the run's best single day, Day 1 at ₹18.10 Cr .
+
+PVR · INOX · Cinepolis split: free with a Sacnilk login
+
+### O.M Operation Mole · Box Office Summary
+
+O.M Operation Mole played in 3 languages on Day 6; Tamil brought ₹2.60 Cr and Telugu ₹1.25 Cr of the ₹4.10 Cr total.
+
+### Dhanush's OM Box Office Recovers Just 53% of Reported Tamil Nadu Rights Value as Overseas Business Slows Down
+
+By Christa Lincy · 26 Nov 2026, 10:29 AM IST
+
+Chennai, November 26, 2026: When the theatrical business of Dhanush's OM Chapter 1: Udhiram was being negotiated, much of the confidence surrounding the film came from Rajkumar Periasamy's phenomenal success with Amaran. Despite Dhanush's relatively modest returns in Tamil Nadu with some of his recent releases, the director's track record, a strong ensemble cast and the film's scale encouraged distributors to invest considerably. While OM has gone on to deliver the biggest worldwide opening weekend of Dhanush's career, its performance over the weekdays presents a different picture from a business perspective.
+
+The action thriller, also starring Mammootty and Sai Pallavi, has collected ₹76 crore gross in India after six days. With overseas collections standing at an estimated ₹30.25 crore, its worldwide gross stands at an estimated ₹106.25 crore , subject to revision. However, the commercial expectations attached to its theatrical rights suggest that entering the ₹100 crore club may not be enough to ensure a profitable venture for its distributors.
+
+### 🎭 O.M Operation Mole - Tamil (2D) -
+                            Day 6 Overall Occupancy
+
+### 🎭 O.M Operation Mole - Tamil (2D) -
+                            Day 6 Occupancy in Major Regions
+
+Tamil (2D) shows of O.M Operation Mole ran at 18.5% overall on Day 6; Kochi led at 33.5%, with Chennai at 27.5% and Pondicherry at 27.5%.
+
+Swipe right to see Shows & occupancy columns — Region stays fixed.
+
+### 🎭 O.M Operation Mole - Telugu (2D) -
+                            Day 6 Overall Occupancy
+
+### 🎭 O.M Operation Mole - Telugu (2D) -
+                            Day 6 Occupancy in Major Regions
+
+Telugu (2D) occupancy on Day 6 ranged from 10.1% in the morning shows to 19.5% in the night, 15.3% overall.
+
+### 🎭 O.M Operation Mole - Hindi (2D) -
+                            Day 6 Overall Occupancy
+
+### 🎭 O.M Operation Mole - Hindi (2D) -
+                            Day 6 Occupancy in Major Regions
+
+Hindi (2D) shows of O.M Operation Mole ran at 8.3% overall on Day 6; Jaipur led at 12.8%, with Pune at 11.3% and Lucknow at 9.5%.
+
+### OM Box Office Day 5 Advance Booking and Prediction: Dhanush Eyes His Fastest ₹100 Crore Worldwide Grosser
+
+By Christa Lincy · 24 Nov 2026, 10:04 AM IST
+
+Chennai, November 24, 2026: After delivering the biggest opening weekend of Dhanush's career, OM Chapter 1: Udhiram is approaching a milestone that could be equally significant for his co-star Mammootty. The Rajkumar Periasamy directorial is within touching distance of ₹100 crore worldwide, and its first Tuesday advance booking trends suggest that the film could enter the club in just five days. Interestingly, another important benchmark is also within reach for its Tamil version.
+
+### 🎭 O.M Operation Mole - State Wise Gross Collection Report
+
+Tamil Nadu was O.M Operation Mole's biggest state on Day 6 with ₹1.60 Cr gross, 33.7% of the ₹4.75 Cr tracked; AP/Telangana added ₹1.35 Cr .
+
+Full state-wise table for every day → O.M Operation Mole day-wise & worldwide collection
+
+### OM Chapter 1 Udhiram Opening Weekend Box Office Becomes Dhanush’s Career Best With ₹85 Crore Worldwide
+
+By Christa Lincy · 23 Nov 2026, 11:47 AM IST
+
+---
+
+**Original Source:** [Sacnilk](https://www.sacnilk.com/quicknews/OM_Chapter_1_Udhiram_2026_Box_Office_Collection_Day_6)`,
+    title_en: `O.M Operation Mole Box Office Collection Day 6 - Sacnilk`,
+    summary_en: `On Day 6,
+                            O.M Operation Mole collected a net of ₹4.10 Cr across 6,115                                shows — Tamil (Day 6) ₹2.60 Cr from 3,364 shows, Telugu (Day 6) ₹1.25 Cr from 1,625 shows and Hindi (Day 6) ₹25`,
+    content_en: `On Day 6,
+                            O.M Operation Mole collected a net of ₹4.10 Cr across 6,115                                shows — Tamil (Day 6) ₹2.60 Cr from 3,364 shows, Telugu (Day 6) ₹1.25 Cr from 1,625 shows and Hindi (Day 6) ₹25 L from 1,126 shows.
+                                                        This brings total India gross collections to ₹76.00 Cr and total India net
+                            collections to ₹65.55 Cr so far.
+
+Overseas, the film collected ₹75 L on Day 6, taking its total overseas gross to ₹30.25 Cr so far. This pushes the worldwide gross collection to ₹106.25 Cr .
+
+An estimated 379,124 tickets were sold for O.M Operation Mole on Day 6, 5,254,319 across the run.
+
+Day 6 all-language collection of ₹4.10 Cr is a 24.1% drop from Day 5's ₹5.40 Cr .
+
+Day 6's ₹4.10 Cr for O.M Operation Mole is below the run's best single day, Day 1 at ₹18.10 Cr .
+
+PVR · INOX · Cinepolis split: free with a Sacnilk login
+
+### O.M Operation Mole · Box Office Summary
+
+O.M Operation Mole played in 3 languages on Day 6; Tamil brought ₹2.60 Cr and Telugu ₹1.25 Cr of the ₹4.10 Cr total.
+
+### Dhanush's OM Box Office Recovers Just 53% of Reported Tamil Nadu Rights Value as Overseas Business Slows Down
+
+By Christa Lincy · 26 Nov 2026, 10:29 AM IST
+
+Chennai, November 26, 2026: When the theatrical business of Dhanush's OM Chapter 1: Udhiram was being negotiated, much of the confidence surrounding the film came from Rajkumar Periasamy's phenomenal success with Amaran. Despite Dhanush's relatively modest returns in Tamil Nadu with some of his recent releases, the director's track record, a strong ensemble cast and the film's scale encouraged distributors to invest considerably. While OM has gone on to deliver the biggest worldwide opening weekend of Dhanush's career, its performance over the weekdays presents a different picture from a business perspective.
+
+The action thriller, also starring Mammootty and Sai Pallavi, has collected ₹76 crore gross in India after six days. With overseas collections standing at an estimated ₹30.25 crore, its worldwide gross stands at an estimated ₹106.25 crore , subject to revision. However, the commercial expectations attached to its theatrical rights suggest that entering the ₹100 crore club may not be enough to ensure a profitable venture for its distributors.
+
+### 🎭 O.M Operation Mole - Tamil (2D) -
+                            Day 6 Overall Occupancy
+
+### 🎭 O.M Operation Mole - Tamil (2D) -
+                            Day 6 Occupancy in Major Regions
+
+Tamil (2D) shows of O.M Operation Mole ran at 18.5% overall on Day 6; Kochi led at 33.5%, with Chennai at 27.5% and Pondicherry at 27.5%.
+
+Swipe right to see Shows & occupancy columns — Region stays fixed.
+
+### 🎭 O.M Operation Mole - Telugu (2D) -
+                            Day 6 Overall Occupancy
+
+### 🎭 O.M Operation Mole - Telugu (2D) -
+                            Day 6 Occupancy in Major Regions
+
+Telugu (2D) occupancy on Day 6 ranged from 10.1% in the morning shows to 19.5% in the night, 15.3% overall.
+
+### 🎭 O.M Operation Mole - Hindi (2D) -
+                            Day 6 Overall Occupancy
+
+### 🎭 O.M Operation Mole - Hindi (2D) -
+                            Day 6 Occupancy in Major Regions
+
+Hindi (2D) shows of O.M Operation Mole ran at 8.3% overall on Day 6; Jaipur led at 12.8%, with Pune at 11.3% and Lucknow at 9.5%.
+
+### OM Box Office Day 5 Advance Booking and Prediction: Dhanush Eyes His Fastest ₹100 Crore Worldwide Grosser
+
+By Christa Lincy · 24 Nov 2026, 10:04 AM IST
+
+Chennai, November 24, 2026: After delivering the biggest opening weekend of Dhanush's career, OM Chapter 1: Udhiram is approaching a milestone that could be equally significant for his co-star Mammootty. The Rajkumar Periasamy directorial is within touching distance of ₹100 crore worldwide, and its first Tuesday advance booking trends suggest that the film could enter the club in just five days. Interestingly, another important benchmark is also within reach for its Tamil version.
+
+### 🎭 O.M Operation Mole - State Wise Gross Collection Report
+
+Tamil Nadu was O.M Operation Mole's biggest state on Day 6 with ₹1.60 Cr gross, 33.7% of the ₹4.75 Cr tracked; AP/Telangana added ₹1.35 Cr .
+
+Full state-wise table for every day → O.M Operation Mole day-wise & worldwide collection
+
+### OM Chapter 1 Udhiram Opening Weekend Box Office Becomes Dhanush’s Career Best With ₹85 Crore Worldwide
+
+By Christa Lincy · 23 Nov 2026, 11:47 AM IST
+
+---
+
+**Original Source:** [Sacnilk](https://www.sacnilk.com/quicknews/OM_Chapter_1_Udhiram_2026_Box_Office_Collection_Day_6)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Sacnilk.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for O.M Operation Mole Box Office Collection Day 6 - Sacnilk.`,
+    primary_source: `Sacnilk`,
+  },
+  {
+    id: 97957,
+    title: `CM Vijay Royal Look: सांसद की बेटी के रिसेप्शन में पहुंचे CM विजय, बंदगला जैकेट और ट्रिम्ड दाढ़ी में दिखा क्लासी अंदाज; PHOTOS - AajTak`,
+    slug: `cm-vijay-royal-look-cm-photos-aajtak-2026`,
+    original_title: `CM Vijay Royal Look: सांसद की बेटी के रिसेप्शन में पहुंचे CM विजय, बंदगला जैकेट और ट्रिम्ड दाढ़ी में दिखा क्लासी अंदाज; PHOTOS - AajTak`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:22:03Z`,
+    updated_at: `2026-11-26T06:22:03Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/lifestyle/fashion/story/cm-vijay-royal-blue-bandhgala-look-neelankarai-wedding-reception-rajya-sabha-mp-lk-sudhish-daughter-tamil-nadu-photos-tvist-dskc-2706223-2026-11-26`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b07a1d23a595-cm-vijay-royal-look-photo-itg-260448981.jpeg`,
+    image_alt: `CM Vijay Royal Look: सांसद की बेटी के रिसेप्शन में पहुंचे CM विजय, बंदगला जैकेट और ट्रिम्ड दाढ़ी में दिखा क्लासी अंदाज; PHOTOS - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `CM Vijay Royal Look: शादी-ब्याह के फंक्शन में जहां मेहमान अक्सर अपने फैशन और स्टाइल से महफिल लूटने की कोशिश करते हैं, वहीं कुछ लोग ऐसे भी होते हैं जो बिना किसी तामझाम के अपने लुक से सबका ध्यान खींच लेते हैं. तमिलनाडु के मुख्यमंत्री और अभिने`,
+    content: `CM Vijay Royal Look: शादी-ब्याह के फंक्शन में जहां मेहमान अक्सर अपने फैशन और स्टाइल से महफिल लूटने की कोशिश करते हैं, वहीं कुछ लोग ऐसे भी होते हैं जो बिना किसी तामझाम के अपने लुक से सबका ध्यान खींच लेते हैं. तमिलनाडु के मुख्यमंत्री और अभिनेता विजय भी कुछ ऐसे ही अंदाज में नजर आए. चेन्नई के नीलांकरई में आयोजित डीएमडीके के कोषाध्यक्ष और राज्यसभा सांसद एल.के.
+
+सुधीश की बेटी के ग्रैंड वेडिंग रिसेप्शन में पहुंचे CM विजय का अंदाज बेहद खास रहा. उन्होंने न तो कोई चमक-दमक वाला आउटफिट चुना और न ही जरूरत से ज्यादा एक्सेसरीज कैरी कीं. इसके बजाय रॉयल ब्लू बंदगले, ब्लैक ट्राउजर और क्लासिक फुटवियर के साथ ऐसा लुक अपनाया, जो एलिगेंट होने के साथ काफी रॉयल भी लगा.
+
+उनकी तस्वीरें सामने आते ही उनके स्टाइल की चर्चा होने लगी. चलिए जानते हैं CM विजय क्या पहनकर पहुंचे.रॉयल ब्लू बंदगले में दिखा CM विजय का क्लासी अंदाजCM विजय ने रिसेप्शन के लिए रॉयल ब्लू कलर का बंदगला चुना. नेहरू कॉलर वाला यह आउटफिट उनके पूरे लुक को काफी शार्प और रॉयल टच दे रहा था.
+
+जैकेट की फिटिंग से लेकर इसकी बटन डिटेलिंग तक हर चीज काफी शानदार और सलीकेदार नजर आई. उन्होंने बंदगले को पूरी तरह बंद रखा, जिससे उनके लुक में क्लासिक इंडियन फॉर्मल वियर वाली झलक देखने को मिली. और पढ़ेंइस आउटफिट की सबसे खास बात इसका गहरा नीला रंग था. यह न तो बहुत ज्यादा चमकीला था और न ही बिल्कुल सिंपल.
+
+रॉयल ब्लू शेड ने उनके लुक को शाही बना दिया. जैकेट की बाईं तरफ चेस्ट पॉकेट पर छोटी-सी डिटेलिंग भी नजर आई, जो आउटफिट को एक फिनिश्ड लुक दे रही थी.ब्लैक ट्राउजर और फॉर्मल शूज से पूरा किया लुकबंदगला जैकेट के साथ CM विजय ने ब्लैक कलर की स्ट्रेट-फिट ट्राउजर पहनी. नीले और काले रंग का यह कॉम्बिनेशन काफी क्लासी लग रहा था.
+
+उन्होंने इसके साथ ब्लैक लेदर फॉर्मल शूज कैरी किए, जो उनके पूरे आउटफिट के साथ अच्छी तरह मैच कर रहे थे.उन्होंने अपने लुक में किसी तरह की एक्स्ट्रा लेयरिंग या भारी एक्सेसरीज शामिल नहीं की. यही वजह रही कि उनका आउटफिट ज्यादा भड़कीला होने के बजाय बेहद सलीकेदार और एलिगेंट नजर आया. वेडिंग रिसेप्शन जैसे खास मौके के लिए उनका यह इंडो-वेस्टर्न फॉर्मल लुक एक अच्छा स्टाइल इंस्पिरेशन भी देता है.ट्रिम्ड दाढ़ी ने बढ़ाया चार्मCM विजय ने अपने लुक को हेयरस्टाइल और ग्रूमिंग के साथ भी काफी नेचुरल रखा.
+
+उनके बालों में वॉल्यूम नजर आया. उन्होंने बालों को किसी बहुत ज्यादा सेट या स्लीक स्टाइल में रखने के बजाय नेचुरल अंदाज में कैरी किया. वहीं उनकी ट्रिम्ड दाढ़ी और मूंछों में दिखती ग्रे शेडिंग उनके लुक को मैच्योर और अट्रेक्टिव बना रही थी. हाथ में हल्का ब्रेसलेट या धागा भी नजर आया. चेहरे पर बड़ी स्माइल और मेहमानों का हाथ हिलाकर अभिवादन करने का उनका अंदाज उनके पूरे लुक को और खास बना रहा था.
+
+Advertisement            View this post on Instagram           A post shared by Chief Minister of Tamil Nadu (@cmotamilnadu)किसके रिसेप्शन में पहुंचे थे CM विजय?दरअसल, CM विजय चेन्नई के नीलांकरई में आयोजित डॉ. जानू श्री सुधीश और अखिल रविकुमार के वेडिंग रिसेप्शन में शामिल हुए थे. डॉ.
+
+जानू श्री सुधीश, डीएमडीके के कोषाध्यक्ष और राज्यसभा सांसद एल.के. सुधीश की बेटी हैं. इस खास मौके पर CM विजय ने कपल को शादी की शुभकामनाएं दीं.रिसेप्शन में दुल्हन सिल्वर और गोल्डन शेड के हैवी लहंगे में नजर आईं. उन्होंने भारी नेकलेस और झुमकों के साथ अपना ब्राइडल लुक पूरा किया. वहीं दूल्हे अखिल ब्लैक सूट में दिखाई दिए.
+
+---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/lifestyle/fashion/story/cm-vijay-royal-blue-bandhgala-look-neelankarai-wedding-reception-rajya-sabha-mp-lk-sudhish-daughter-tamil-nadu-photos-tvist-dskc-2706223-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `CM Vijay Royal Look: सांसद की बेटी के रिसेप्शन में पहुंचे CM विजय, बंदगला जैकेट और ट्रिम्ड दाढ़ी में दिखा क्लासी अंदाज; PHOTOS - AajTak`,
+    summary_hi: `CM Vijay Royal Look: शादी-ब्याह के फंक्शन में जहां मेहमान अक्सर अपने फैशन और स्टाइल से महफिल लूटने की कोशिश करते हैं, वहीं कुछ लोग ऐसे भी होते हैं जो बिना किसी तामझाम के अपने लुक से सबका ध्यान खींच लेते हैं. तमिलनाडु के मुख्यमंत्री और अभिने`,
+    content_hi: `CM Vijay Royal Look: शादी-ब्याह के फंक्शन में जहां मेहमान अक्सर अपने फैशन और स्टाइल से महफिल लूटने की कोशिश करते हैं, वहीं कुछ लोग ऐसे भी होते हैं जो बिना किसी तामझाम के अपने लुक से सबका ध्यान खींच लेते हैं. तमिलनाडु के मुख्यमंत्री और अभिनेता विजय भी कुछ ऐसे ही अंदाज में नजर आए. चेन्नई के नीलांकरई में आयोजित डीएमडीके के कोषाध्यक्ष और राज्यसभा सांसद एल.के.
+
+सुधीश की बेटी के ग्रैंड वेडिंग रिसेप्शन में पहुंचे CM विजय का अंदाज बेहद खास रहा. उन्होंने न तो कोई चमक-दमक वाला आउटफिट चुना और न ही जरूरत से ज्यादा एक्सेसरीज कैरी कीं. इसके बजाय रॉयल ब्लू बंदगले, ब्लैक ट्राउजर और क्लासिक फुटवियर के साथ ऐसा लुक अपनाया, जो एलिगेंट होने के साथ काफी रॉयल भी लगा.
+
+उनकी तस्वीरें सामने आते ही उनके स्टाइल की चर्चा होने लगी. चलिए जानते हैं CM विजय क्या पहनकर पहुंचे.रॉयल ब्लू बंदगले में दिखा CM विजय का क्लासी अंदाजCM विजय ने रिसेप्शन के लिए रॉयल ब्लू कलर का बंदगला चुना. नेहरू कॉलर वाला यह आउटफिट उनके पूरे लुक को काफी शार्प और रॉयल टच दे रहा था.
+
+जैकेट की फिटिंग से लेकर इसकी बटन डिटेलिंग तक हर चीज काफी शानदार और सलीकेदार नजर आई. उन्होंने बंदगले को पूरी तरह बंद रखा, जिससे उनके लुक में क्लासिक इंडियन फॉर्मल वियर वाली झलक देखने को मिली. और पढ़ेंइस आउटफिट की सबसे खास बात इसका गहरा नीला रंग था. यह न तो बहुत ज्यादा चमकीला था और न ही बिल्कुल सिंपल.
+
+रॉयल ब्लू शेड ने उनके लुक को शाही बना दिया. जैकेट की बाईं तरफ चेस्ट पॉकेट पर छोटी-सी डिटेलिंग भी नजर आई, जो आउटफिट को एक फिनिश्ड लुक दे रही थी.ब्लैक ट्राउजर और फॉर्मल शूज से पूरा किया लुकबंदगला जैकेट के साथ CM विजय ने ब्लैक कलर की स्ट्रेट-फिट ट्राउजर पहनी. नीले और काले रंग का यह कॉम्बिनेशन काफी क्लासी लग रहा था.
+
+उन्होंने इसके साथ ब्लैक लेदर फॉर्मल शूज कैरी किए, जो उनके पूरे आउटफिट के साथ अच्छी तरह मैच कर रहे थे.उन्होंने अपने लुक में किसी तरह की एक्स्ट्रा लेयरिंग या भारी एक्सेसरीज शामिल नहीं की. यही वजह रही कि उनका आउटफिट ज्यादा भड़कीला होने के बजाय बेहद सलीकेदार और एलिगेंट नजर आया. वेडिंग रिसेप्शन जैसे खास मौके के लिए उनका यह इंडो-वेस्टर्न फॉर्मल लुक एक अच्छा स्टाइल इंस्पिरेशन भी देता है.ट्रिम्ड दाढ़ी ने बढ़ाया चार्मCM विजय ने अपने लुक को हेयरस्टाइल और ग्रूमिंग के साथ भी काफी नेचुरल रखा.
+
+उनके बालों में वॉल्यूम नजर आया. उन्होंने बालों को किसी बहुत ज्यादा सेट या स्लीक स्टाइल में रखने के बजाय नेचुरल अंदाज में कैरी किया. वहीं उनकी ट्रिम्ड दाढ़ी और मूंछों में दिखती ग्रे शेडिंग उनके लुक को मैच्योर और अट्रेक्टिव बना रही थी. हाथ में हल्का ब्रेसलेट या धागा भी नजर आया. चेहरे पर बड़ी स्माइल और मेहमानों का हाथ हिलाकर अभिवादन करने का उनका अंदाज उनके पूरे लुक को और खास बना रहा था.
+
+Advertisement            View this post on Instagram           A post shared by Chief Minister of Tamil Nadu (@cmotamilnadu)किसके रिसेप्शन में पहुंचे थे CM विजय?दरअसल, CM विजय चेन्नई के नीलांकरई में आयोजित डॉ. जानू श्री सुधीश और अखिल रविकुमार के वेडिंग रिसेप्शन में शामिल हुए थे. डॉ.
+
+जानू श्री सुधीश, डीएमडीके के कोषाध्यक्ष और राज्यसभा सांसद एल.के. सुधीश की बेटी हैं. इस खास मौके पर CM विजय ने कपल को शादी की शुभकामनाएं दीं.रिसेप्शन में दुल्हन सिल्वर और गोल्डन शेड के हैवी लहंगे में नजर आईं. उन्होंने भारी नेकलेस और झुमकों के साथ अपना ब्राइडल लुक पूरा किया. वहीं दूल्हे अखिल ब्लैक सूट में दिखाई दिए.
+
+---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/lifestyle/fashion/story/cm-vijay-royal-blue-bandhgala-look-neelankarai-wedding-reception-rajya-sabha-mp-lk-sudhish-daughter-tamil-nadu-photos-tvist-dskc-2706223-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक CM Vijay Royal Look: सांसद की बेटी के रिसेप्शन में पहुंचे CM विजय, बंदगला जैकेट और ट्रिम्ड दाढ़ी में दिखा क्लासी अंदाज; PHOTOS - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 97958,
+    title: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    slug: `entertainment-breaking-report-95520-97958-2026`,
+    original_title: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:22:04Z`,
+    updated_at: `2026-11-26T06:22:04Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cm93r9d9ypx0o`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/entertainment-breaking-report-95520-97958-2026.png`,
+    image_alt: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.`,
+    content: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.
+
+लेकिन भारत में इस सीरीज़ की रिलीज़ पर बैन लगाने की मांग उठ रही है.
+
+यह सीरीज़ 4 दिसंबर, 2026 को रिलीज़ होगी और दुनिया भर के 191 देशों में उपलब्ध होगी. इसे कई भाषाओं में डब किया गया है.
+
+एमडी फ़िल्म्स के बैनर तले बनी इस सीरीज़ की कहानी मशहूर उपन्यासकार फ़रहत इश्तियाक़ ने लिखी है, जबकि इसका निर्माण और निर्देशन मोमिना दुरैद ने किया है.
+
+इस सीरीज़ के पहले हिस्से में कुल पाँच एपिसोड हैं, जबकि इसमें कुल 13 एपिसोड होने की संभावना है. इसकी कहानी तीन पीढ़ियों और छह प्रेम कहानियों के इर्द-गिर्द घूमती है.
+
+पाकिस्तानी लेखिका फ़रहत इश्तियाक़ ने 2013 में 'जो बचे हैं संग समेट लो' नाम से एक उपन्यास लिखा था.
+
+इसकी कहानी मुख्य रूप से सिकंदर (अहद रज़ा मीर) और लीसा (इक़रा अज़ीज़) के इर्द-गिर्द घूमती है. सिकंदर हार्वर्ड में क़ानून का छात्र है. वह अपने अतीत से परेशान होकर इटली के रोम शहर चला जाता है, जहां उसकी मुलाक़ात लीसा से होती है.
+
+लीसा एक चित्रकार है और उसका जीवन भी कई उलझनों से घिरा हुआ है.
+
+इटली में उनकी मुलाक़ात उनके जीवन को एक अप्रत्याशित मोड़ देती है. ट्रेलर से पता चलता है कि इस ड्रामा की शूटिंग रोम के अलावा कराची, स्कार्दू और लंदन में भी हुई है.
+
+प्यार, रिश्ते और इंसानी जुड़ाव इसकी कहानी के मुख्य विषय हैं, जिन्हें अलग-अलग क़िरदारों और पीढ़ियों के जीवन के ज़रिए दिखाया गया है.
+
+इस सीरीज़ का नाम और इसका मूल विचार फ़ैज़ अहमद फ़ैज़ की एक ग़ज़ल से प्रेरित है. इस लिहाज़ से, कहानी सिर्फ़ प्रेम संबंधों तक सीमित नहीं है, बल्कि इसमें जीवन भर संजोई गई यादों, रिश्तों और अनुभवों को भी शामिल किया गया है
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+इस सीरीज़ की एक ख़ास बात इसमें शामिल पाकिस्तान के कुछ बड़े कलाकारों की टोली है. इसमें अहद रज़ा मीर और इकरा अज़ीज़ के साथ फ़वाद ख़ान, माहिरा ख़ान, हानिया आमिर, हमज़ा अली अब्बासी, सनम सईद, माया अली, आमना शेख़, ख़ुशाल ख़ान, अहमद अली अकबर और बिलाल अशरफ़ भी हैं.
+
+निर्देशक मोमिना दुरैद के बेटे शाह ज़ैन दुरैद इस सीरीज़ से अभिनय की शुरुआत कर रहे हैं. पाकिस्तानी दर्शकों के लिए इस सीरीज़ की एक ख़ास बात फ़वाद ख़ान और माहिरा ख़ान की जोड़ी है.
+
+बीबीसी न्यूज़ उर्दू से बात करते हुए अमीना शेख़ ने बताया कि एक अभिनेत्री के तौर पर वह अपने आने वाले प्रोजेक्ट्स में व्यस्त थीं, लेकिन निर्माता और बाकी टीम इस सीरीज़ को पूरा करने में जुटी हुई थी. हाल ही में डबिंग के दौरान उन्हें एहसास हुआ कि इस दौरान कितना काम हो चुका है.
+
+वह कहती हैं, "मैं इस प्रोजेक्ट का हिस्सा बनकर बहुत ख़ुश और उत्साहित हूं. मुझे ख़ुशी है कि इस सीरीज़ में नज़र आने वाले सभी कलाकारों ने इसके लिए अपना समय दिया. मुझे लगता है कि इस टीम का हर कलाकार इसके लायक़ है."
+
+उनके मुताबिक़, "एक ही प्रोजेक्ट में इतने सारे कलाकारों का एक साथ आना पाकिस्तानी मनोरंजन उद्योग के लिए भी स्वागत योग्य है."
+
+### आठ साल की तैयारी, 200 दिन की शूटिंग
+
+इस सीरीज़ को बनाने का सफ़र भी काफ़ी लंबा रहा है. मोमिना दुरैद के मुताबिक़, इस प्रोजेक्ट पर काम करने में लगभग आठ साल लगे, जबकि इसकी शूटिंग 200 दिनों तक चली.
+
+वह कहती हैं, "जब इस परियोजना के ज़रिए नेटफ़्लिक्स के दरवाज़े पाकिस्तान के लिए खुलेंगे, तब मुझे गर्व होगा."
+
+उपन्यासकार फ़रहत इश्तियाक़ भी इस मौक़े को अपने काम के वैश्विक प्रदर्शन से कहीं बढ़कर मानती हैं.
+
+वह कहती हैं, "इस समय बहुत ख़ुशी है और साथ ही बहुत डर भी. यह एक बहुत बड़ी और भावनात्मक स्थिति है. मुझे अपने लिए उतनी ख़ुशी नहीं है जितनी अपने देश के लिए है कि अब पाकिस्तानी नाटकों को वैश्विक दर्शक देखेंगे. मैं चाहती हूं कि पाकिस्तान की वह छवि जो दुनिया को जाननी चाहिए, इस नाटक के माध्यम से दुनिया तक पहुंचे."
+
+इस सीरीज़ का संगीत और बैकग्राउंड स्कोर जाने-माने संगीतकार रोहैल हयात ने तैयार किया है. वह 80 और 90 के दशक में 'वाइटल साइंस' बैंड के सदस्य थे. बाद में कोक स्टूडियो के शुरुआती और लोकप्रिय दौर में भी उन्हें काफ़ी शोहरत मिली.
+
+रोहैल हयात का इस परियोजना से जुड़ना इसलिए भी अहम है क्योंकि उनका काम पाकिस्तानी संगीत में पारंपरिक और आधुनिक शैलियों के मेल के लिए जाना जाता है.
+
+सीरीज़ का ट्रेलर और संगीत जारी होने के बाद इसके कलाकारों ने भी इसे सोशल मीडिया पर साझा किया, जहां इस परियोजना को लेकर लोगों ने दिलचस्पी दिखाई.
+
+अभिनेत्री माहिरा ख़ान ने अपने क़िरदार राहत के बारे में एक पोस्ट साझा करते हुए कहा, "इस क़िरदार का एक हिस्सा उसके जीवन भर उसके साथ रहेगा."
+
+पाकिस्तानी ड्रामे विदेशों में रहने वाले दक्षिण एशियाई दर्शकों के बीच कई साल से लोकप्रिय रहे हैं.
+
+यूट्यूब और सोशल मीडिया ने इनकी पहुंच और बढ़ा दी है. भारत समेत दूसरे देशों में भी पाकिस्तानी ड्रामा के संवादों और किरदारों पर बने वीडियो इस लोकप्रियता की मिसाल हैं.
+
+लेकिन यह लोकप्रियता ज़्यादातर उन लोगों तक ही सीमित रही है जो पाकिस्तानी संस्कृति, भाषा या कलाकारों से पहले से परिचित हैं.
+
+नेटफ़्लिक्स जैसे मंच पर मौजूदगी से उन लोगों तक भी पहुंचना मुमकिन हो सकता है जिन्होंने पहले कभी कोई पाकिस्तानी ड्रामा नहीं देखा है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cm93r9d9ypx0o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    summary_hi: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.`,
+    content_hi: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.
+
+लेकिन भारत में इस सीरीज़ की रिलीज़ पर बैन लगाने की मांग उठ रही है.
+
+यह सीरीज़ 4 दिसंबर, 2026 को रिलीज़ होगी और दुनिया भर के 191 देशों में उपलब्ध होगी. इसे कई भाषाओं में डब किया गया है.
+
+एमडी फ़िल्म्स के बैनर तले बनी इस सीरीज़ की कहानी मशहूर उपन्यासकार फ़रहत इश्तियाक़ ने लिखी है, जबकि इसका निर्माण और निर्देशन मोमिना दुरैद ने किया है.
+
+इस सीरीज़ के पहले हिस्से में कुल पाँच एपिसोड हैं, जबकि इसमें कुल 13 एपिसोड होने की संभावना है. इसकी कहानी तीन पीढ़ियों और छह प्रेम कहानियों के इर्द-गिर्द घूमती है.
+
+पाकिस्तानी लेखिका फ़रहत इश्तियाक़ ने 2013 में 'जो बचे हैं संग समेट लो' नाम से एक उपन्यास लिखा था.
+
+इसकी कहानी मुख्य रूप से सिकंदर (अहद रज़ा मीर) और लीसा (इक़रा अज़ीज़) के इर्द-गिर्द घूमती है. सिकंदर हार्वर्ड में क़ानून का छात्र है. वह अपने अतीत से परेशान होकर इटली के रोम शहर चला जाता है, जहां उसकी मुलाक़ात लीसा से होती है.
+
+लीसा एक चित्रकार है और उसका जीवन भी कई उलझनों से घिरा हुआ है.
+
+इटली में उनकी मुलाक़ात उनके जीवन को एक अप्रत्याशित मोड़ देती है. ट्रेलर से पता चलता है कि इस ड्रामा की शूटिंग रोम के अलावा कराची, स्कार्दू और लंदन में भी हुई है.
+
+प्यार, रिश्ते और इंसानी जुड़ाव इसकी कहानी के मुख्य विषय हैं, जिन्हें अलग-अलग क़िरदारों और पीढ़ियों के जीवन के ज़रिए दिखाया गया है.
+
+इस सीरीज़ का नाम और इसका मूल विचार फ़ैज़ अहमद फ़ैज़ की एक ग़ज़ल से प्रेरित है. इस लिहाज़ से, कहानी सिर्फ़ प्रेम संबंधों तक सीमित नहीं है, बल्कि इसमें जीवन भर संजोई गई यादों, रिश्तों और अनुभवों को भी शामिल किया गया है
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+इस सीरीज़ की एक ख़ास बात इसमें शामिल पाकिस्तान के कुछ बड़े कलाकारों की टोली है. इसमें अहद रज़ा मीर और इकरा अज़ीज़ के साथ फ़वाद ख़ान, माहिरा ख़ान, हानिया आमिर, हमज़ा अली अब्बासी, सनम सईद, माया अली, आमना शेख़, ख़ुशाल ख़ान, अहमद अली अकबर और बिलाल अशरफ़ भी हैं.
+
+निर्देशक मोमिना दुरैद के बेटे शाह ज़ैन दुरैद इस सीरीज़ से अभिनय की शुरुआत कर रहे हैं. पाकिस्तानी दर्शकों के लिए इस सीरीज़ की एक ख़ास बात फ़वाद ख़ान और माहिरा ख़ान की जोड़ी है.
+
+बीबीसी न्यूज़ उर्दू से बात करते हुए अमीना शेख़ ने बताया कि एक अभिनेत्री के तौर पर वह अपने आने वाले प्रोजेक्ट्स में व्यस्त थीं, लेकिन निर्माता और बाकी टीम इस सीरीज़ को पूरा करने में जुटी हुई थी. हाल ही में डबिंग के दौरान उन्हें एहसास हुआ कि इस दौरान कितना काम हो चुका है.
+
+वह कहती हैं, "मैं इस प्रोजेक्ट का हिस्सा बनकर बहुत ख़ुश और उत्साहित हूं. मुझे ख़ुशी है कि इस सीरीज़ में नज़र आने वाले सभी कलाकारों ने इसके लिए अपना समय दिया. मुझे लगता है कि इस टीम का हर कलाकार इसके लायक़ है."
+
+उनके मुताबिक़, "एक ही प्रोजेक्ट में इतने सारे कलाकारों का एक साथ आना पाकिस्तानी मनोरंजन उद्योग के लिए भी स्वागत योग्य है."
+
+### आठ साल की तैयारी, 200 दिन की शूटिंग
+
+इस सीरीज़ को बनाने का सफ़र भी काफ़ी लंबा रहा है. मोमिना दुरैद के मुताबिक़, इस प्रोजेक्ट पर काम करने में लगभग आठ साल लगे, जबकि इसकी शूटिंग 200 दिनों तक चली.
+
+वह कहती हैं, "जब इस परियोजना के ज़रिए नेटफ़्लिक्स के दरवाज़े पाकिस्तान के लिए खुलेंगे, तब मुझे गर्व होगा."
+
+उपन्यासकार फ़रहत इश्तियाक़ भी इस मौक़े को अपने काम के वैश्विक प्रदर्शन से कहीं बढ़कर मानती हैं.
+
+वह कहती हैं, "इस समय बहुत ख़ुशी है और साथ ही बहुत डर भी. यह एक बहुत बड़ी और भावनात्मक स्थिति है. मुझे अपने लिए उतनी ख़ुशी नहीं है जितनी अपने देश के लिए है कि अब पाकिस्तानी नाटकों को वैश्विक दर्शक देखेंगे. मैं चाहती हूं कि पाकिस्तान की वह छवि जो दुनिया को जाननी चाहिए, इस नाटक के माध्यम से दुनिया तक पहुंचे."
+
+इस सीरीज़ का संगीत और बैकग्राउंड स्कोर जाने-माने संगीतकार रोहैल हयात ने तैयार किया है. वह 80 और 90 के दशक में 'वाइटल साइंस' बैंड के सदस्य थे. बाद में कोक स्टूडियो के शुरुआती और लोकप्रिय दौर में भी उन्हें काफ़ी शोहरत मिली.
+
+रोहैल हयात का इस परियोजना से जुड़ना इसलिए भी अहम है क्योंकि उनका काम पाकिस्तानी संगीत में पारंपरिक और आधुनिक शैलियों के मेल के लिए जाना जाता है.
+
+सीरीज़ का ट्रेलर और संगीत जारी होने के बाद इसके कलाकारों ने भी इसे सोशल मीडिया पर साझा किया, जहां इस परियोजना को लेकर लोगों ने दिलचस्पी दिखाई.
+
+अभिनेत्री माहिरा ख़ान ने अपने क़िरदार राहत के बारे में एक पोस्ट साझा करते हुए कहा, "इस क़िरदार का एक हिस्सा उसके जीवन भर उसके साथ रहेगा."
+
+पाकिस्तानी ड्रामे विदेशों में रहने वाले दक्षिण एशियाई दर्शकों के बीच कई साल से लोकप्रिय रहे हैं.
+
+यूट्यूब और सोशल मीडिया ने इनकी पहुंच और बढ़ा दी है. भारत समेत दूसरे देशों में भी पाकिस्तानी ड्रामा के संवादों और किरदारों पर बने वीडियो इस लोकप्रियता की मिसाल हैं.
+
+लेकिन यह लोकप्रियता ज़्यादातर उन लोगों तक ही सीमित रही है जो पाकिस्तानी संस्कृति, भाषा या कलाकारों से पहले से परिचित हैं.
+
+नेटफ़्लिक्स जैसे मंच पर मौजूदगी से उन लोगों तक भी पहुंचना मुमकिन हो सकता है जिन्होंने पहले कभी कोई पाकिस्तानी ड्रामा नहीं देखा है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cm93r9d9ypx0o)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 97959,
+    title: `Hanuman Ansh director calls Ranbir Kapoor's Ramayana a 'cultural renaissance' - India Today`,
+    slug: `hanuman-ansh-director-calls-ranbir-kapoors-ramayana-a-cultural-renaiss-2026`,
+    original_title: `Hanuman Ansh director calls Ranbir Kapoor's Ramayana a 'cultural renaissance' - India Today`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:22:08Z`,
+    updated_at: `2026-11-26T06:22:08Z`,
+    source_name: `India Today`,
+    source_url: `https://www.indiatoday.in/movies/celebrities/story/hanuman-ansh-director-vishal-chaturvedi-calls-ranbir-kapoors-ramayana-a-cultural-renaissance-3042513-2026-11-20`,
+    source_courtesy: `Source: India Today`,
+    image_url: `/images/articles/hanuman-ansh-director-calls-ranbir-kapoors-ramayana-a-cultural-renaiss-2026.webp`,
+    image_alt: `Hanuman Ansh director calls Ranbir Kapoor's Ramayana a 'cultural renaissance' - India Today`,
+    image_courtesy: `Image: India Today (External Source Attribution)`,
+    image_photographer: `India Today`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `Director Vishal Chaturvedi is optimistic about more devotional films on Lord Rama and Goswami Tulsidas being made. In an exclusive interview with India Today, the Hanuman Ansh director linked director Nitesh Tiwari&#039;s Ramayana: Rise of `,
+    content: `Director Vishal Chaturvedi is optimistic about more devotional films on Lord Rama and Goswami Tulsidas being made. In an exclusive interview with India Today, the Hanuman Ansh director linked director Nitesh Tiwari&#039;s Ramayana: Rise of a Legend to a &quot;cultural renaissance.&quot; While the Ranbir Kapoor-Sai Pallavi film has sparked an ongoing debate over its massive scale and Rs 1,500-crore box-office haul so far, Chaturvedi highlighted that visual spectacle is just as essential as good writing.Hanuman Ansh has been praised for depicting the life story of saint Neem Karori Baba and his devotion to Lord Hanuman.
+
+When asked about his views on the recently released epic drama Ramayana: Rise of a Legend, which not only depicts the legend of Lord Rama but is also associated with a massive budget and earnings, Chaturvedi expressed excitement about the film.He said, &quot;I am going to watch the film at the very first opportunity.
+
+I am trying to find the time so that I can definitely watch this film. I am very excited and looking forward to watching the film. Since, I have not seen it yet, so I won&#039;t be able to comment on it. But they have also made a film about Lord Rama. I came to know about all the cheers during the Hanuman Ji scene.
+
+I wish that films like that work.&quot;Expressing happiness about such films being made, he added, &quot;I hope such films work for good and the cultural renaissance of such films is very important.&quot;Chaturvedi, who made Hanuman Ansh without any big stars, was asked about the ongoing debate over whether budgets or content matter more in making a film successful.
+
+He said, &quot;I think, firstly, there is writing in the content. There is nothing beyond writing. What you have written in the paper is what matters. If what you have written is not good, then other things don&#039;t work. But if it is good, then other things can lead to exponential growth.
+
+So, first, the story should be written well in the paper. You should pay attention to that. You should pay attention to the content.&quot;While emphasising making Hanuman Ansh with a moderate budget, he also reflected on the relevance of &quot;visual spectacle&quot; and its scale.&quot;You should pay attention to the words and expressions of the dialogue.
+
+All of that should be the primary thing. The rest of the things, the scale, the visual spectacle of the film, should also be there if you can afford it. If you can&#039;t afford it, then make the film as it is. Make the film with simplicity. People will like it. And our film, I guess, proved to be effective.
+
+It was a small-budget film, but the result was of a big budget,&quot; the director added.There was a recent announcement about both Chaturvedi and Dr Chandra Prakash Dwivedi (separetly) making a film on the life of bhakti-poet Goswami Tulsidas, the writer of the epic poem, Ramcharitmanas based on Ramayana.
+
+As Chaturvedi and Dwivedi introduced the film&#039;s poster on the very same day, with the same title – RamBola, the former feels that there is &quot;so much on Tulsidas ji&quot; that even making &quot;10 films on him&quot; would be less.Chaturvedi said, &quot;I believe that it is a story of the public domain, about which anyone can make a film.
+
+We are working on the subject. There can be so much on Tulsidas ji that even if we make 10 films on him, there will be less. So we are making our own film, and he will make his own film and I wish him well. It would be good if you could see Tulsidas ji from two perspectives. You will know more about him.&quot;When asked about the recent statement by Chaturvedi and producer Namrata G Singh over the rights and publicity arrangements of Hanuman Ansh, the director feels it was necessary to prevent people from making false speculations about the film&#039;s OTT and satellite release.While reflecting on the importance of timely clarification on such issues to the audience, Chaturvedi said, &quot;We did it very late.
+
+But we did it when we felt there was worldwide chatter. In such a situation, people start to talk on our behalf in the market. They started talking about OTT. Everyone says that we know this or that. But there is an authorised channel whose signatures we talk to. We need to clarify that.&quot;&quot;We didn&#039;t say anything at the conflict level.
+
+But later, people are talking on our behalf. That is why we put this statement so that everyone knows that we are dealing with OTT and satellite. In such a situation, we wanted to clarify so that there is no confusion,&quot; he added.Films on religious figures often face intense social media scrutiny and backlash over public sentiments and faith.
+
+When asked whether he worried about such controversies while making Hanuman Ansh, Chaturvedi emphasised that sticking strictly to primary sources and factual reference points was his biggest safeguard, noting that any spiritual subject or biopic demands sensitivity rather than relying on negative publicity.&quot;Any religious or spiritual subject should be dealt with a lot of sensitivity and sensibility.
+
+Otherwise, if you want to run a film with controversy, then you are stuck. Gone are those days when you could make a film successful by using controversy. Negativity cannot bring any positivity. So, if you genuinely want to talk heart-to-heart, you focus on the narrative and try to make the facts a reference point.
+
+All the scenes of our film have a reference point,&quot; he said.Hanuman Ansh turned cinema halls into a deeply devotional experience during its theatrical run. When asked about his expectations ahead of the film&#039;s OTT release, Chaturvedi noted that the project drew several first-time theatregoers, while many others — especially those dealing with health conditions or living in smaller towns without cinema halls—missed out on watching it on the big screen.&quot;There are many families who live in small places and they don&#039;t have a theatre.
+
+Or they couldn&#039;t see the film due to some circumstances. So, our idea is to reach as many people as possible,&quot; he said, adding, &quot;You must have heard that many people have watched the film again and again. So, people who want to watch the film again and again will watch it.
+
+There is a large population who want to watch the film. We are very happy about this. We want everyone to watch the film together with their families from November 27 onwards.&quot;Hanuman Ansh is set to premiere on SonyLiv on November 27, 2026.- EndsMust Watch
+
+---
+
+**Original Source:** [India Today](https://www.indiatoday.in/movies/celebrities/story/hanuman-ansh-director-vishal-chaturvedi-calls-ranbir-kapoors-ramayana-a-cultural-renaissance-3042513-2026-11-20)`,
+    title_en: `Hanuman Ansh director calls Ranbir Kapoor's Ramayana a 'cultural renaissance' - India Today`,
+    summary_en: `Director Vishal Chaturvedi is optimistic about more devotional films on Lord Rama and Goswami Tulsidas being made. In an exclusive interview with India Today, the Hanuman Ansh director linked director Nitesh Tiwari&#039;s Ramayana: Rise of `,
+    content_en: `Director Vishal Chaturvedi is optimistic about more devotional films on Lord Rama and Goswami Tulsidas being made. In an exclusive interview with India Today, the Hanuman Ansh director linked director Nitesh Tiwari&#039;s Ramayana: Rise of a Legend to a &quot;cultural renaissance.&quot; While the Ranbir Kapoor-Sai Pallavi film has sparked an ongoing debate over its massive scale and Rs 1,500-crore box-office haul so far, Chaturvedi highlighted that visual spectacle is just as essential as good writing.Hanuman Ansh has been praised for depicting the life story of saint Neem Karori Baba and his devotion to Lord Hanuman.
+
+When asked about his views on the recently released epic drama Ramayana: Rise of a Legend, which not only depicts the legend of Lord Rama but is also associated with a massive budget and earnings, Chaturvedi expressed excitement about the film.He said, &quot;I am going to watch the film at the very first opportunity.
+
+I am trying to find the time so that I can definitely watch this film. I am very excited and looking forward to watching the film. Since, I have not seen it yet, so I won&#039;t be able to comment on it. But they have also made a film about Lord Rama. I came to know about all the cheers during the Hanuman Ji scene.
+
+I wish that films like that work.&quot;Expressing happiness about such films being made, he added, &quot;I hope such films work for good and the cultural renaissance of such films is very important.&quot;Chaturvedi, who made Hanuman Ansh without any big stars, was asked about the ongoing debate over whether budgets or content matter more in making a film successful.
+
+He said, &quot;I think, firstly, there is writing in the content. There is nothing beyond writing. What you have written in the paper is what matters. If what you have written is not good, then other things don&#039;t work. But if it is good, then other things can lead to exponential growth.
+
+So, first, the story should be written well in the paper. You should pay attention to that. You should pay attention to the content.&quot;While emphasising making Hanuman Ansh with a moderate budget, he also reflected on the relevance of &quot;visual spectacle&quot; and its scale.&quot;You should pay attention to the words and expressions of the dialogue.
+
+All of that should be the primary thing. The rest of the things, the scale, the visual spectacle of the film, should also be there if you can afford it. If you can&#039;t afford it, then make the film as it is. Make the film with simplicity. People will like it. And our film, I guess, proved to be effective.
+
+It was a small-budget film, but the result was of a big budget,&quot; the director added.There was a recent announcement about both Chaturvedi and Dr Chandra Prakash Dwivedi (separetly) making a film on the life of bhakti-poet Goswami Tulsidas, the writer of the epic poem, Ramcharitmanas based on Ramayana.
+
+As Chaturvedi and Dwivedi introduced the film&#039;s poster on the very same day, with the same title – RamBola, the former feels that there is &quot;so much on Tulsidas ji&quot; that even making &quot;10 films on him&quot; would be less.Chaturvedi said, &quot;I believe that it is a story of the public domain, about which anyone can make a film.
+
+We are working on the subject. There can be so much on Tulsidas ji that even if we make 10 films on him, there will be less. So we are making our own film, and he will make his own film and I wish him well. It would be good if you could see Tulsidas ji from two perspectives. You will know more about him.&quot;When asked about the recent statement by Chaturvedi and producer Namrata G Singh over the rights and publicity arrangements of Hanuman Ansh, the director feels it was necessary to prevent people from making false speculations about the film&#039;s OTT and satellite release.While reflecting on the importance of timely clarification on such issues to the audience, Chaturvedi said, &quot;We did it very late.
+
+But we did it when we felt there was worldwide chatter. In such a situation, people start to talk on our behalf in the market. They started talking about OTT. Everyone says that we know this or that. But there is an authorised channel whose signatures we talk to. We need to clarify that.&quot;&quot;We didn&#039;t say anything at the conflict level.
+
+But later, people are talking on our behalf. That is why we put this statement so that everyone knows that we are dealing with OTT and satellite. In such a situation, we wanted to clarify so that there is no confusion,&quot; he added.Films on religious figures often face intense social media scrutiny and backlash over public sentiments and faith.
+
+When asked whether he worried about such controversies while making Hanuman Ansh, Chaturvedi emphasised that sticking strictly to primary sources and factual reference points was his biggest safeguard, noting that any spiritual subject or biopic demands sensitivity rather than relying on negative publicity.&quot;Any religious or spiritual subject should be dealt with a lot of sensitivity and sensibility.
+
+Otherwise, if you want to run a film with controversy, then you are stuck. Gone are those days when you could make a film successful by using controversy. Negativity cannot bring any positivity. So, if you genuinely want to talk heart-to-heart, you focus on the narrative and try to make the facts a reference point.
+
+All the scenes of our film have a reference point,&quot; he said.Hanuman Ansh turned cinema halls into a deeply devotional experience during its theatrical run. When asked about his expectations ahead of the film&#039;s OTT release, Chaturvedi noted that the project drew several first-time theatregoers, while many others — especially those dealing with health conditions or living in smaller towns without cinema halls—missed out on watching it on the big screen.&quot;There are many families who live in small places and they don&#039;t have a theatre.
+
+Or they couldn&#039;t see the film due to some circumstances. So, our idea is to reach as many people as possible,&quot; he said, adding, &quot;You must have heard that many people have watched the film again and again. So, people who want to watch the film again and again will watch it.
+
+There is a large population who want to watch the film. We are very happy about this. We want everyone to watch the film together with their families from November 27 onwards.&quot;Hanuman Ansh is set to premiere on SonyLiv on November 27, 2026.- EndsMust Watch
+
+---
+
+**Original Source:** [India Today](https://www.indiatoday.in/movies/celebrities/story/hanuman-ansh-director-vishal-chaturvedi-calls-ranbir-kapoors-ramayana-a-cultural-renaissance-3042513-2026-11-20)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to India Today.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Hanuman Ansh director calls Ranbir Kapoor's Ramayana a 'cultural renaissance' - India Today.`,
+    primary_source: `India Today`,
+  },
+  {
+    id: 97960,
+    title: `India, Nepal Prime Ministers Flag-Off Ayodhya-Janakpur Train; Boost to Ramayana Circuit - PGurus`,
+    slug: `india-nepal-prime-ministers-flag-off-ayodhya-janakpur-train-boost-to-r-2026`,
+    original_title: `India, Nepal Prime Ministers Flag-Off Ayodhya-Janakpur Train; Boost to Ramayana Circuit - PGurus`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:22:12Z`,
+    updated_at: `2026-11-26T06:22:12Z`,
+    source_name: `PGurus`,
+    source_url: `https://www.pgurus.com/india-nepal-prime-ministers-flag-off-ayodhya-janakpur-train-boost-to-ramayana-circuit/`,
+    source_courtesy: `Source: PGurus`,
+    image_url: `/images/articles/india-nepal-prime-ministers-flag-off-ayodhya-janakpur-train-boost-to-r-2026.jpg`,
+    image_alt: `India, Nepal Prime Ministers Flag-Off Ayodhya-Janakpur Train; Boost to Ramayana Circuit - PGurus`,
+    image_courtesy: `Image: PGurus (External Source Attribution)`,
+    image_photographer: `PGurus`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `Ram meets Janaki: Modi, Balendra Shah launch Ayodhya–Janakpur Express  Prime Minister Narendra Modi and his Nepalese counterpart, Balendra Shah, virtually flagged off the Saryu-Kamala Express on Monday, linking Ayodhya in Uttar Pradesh and `,
+    content: `Ram meets Janaki: Modi, Balendra Shah launch Ayodhya–Janakpur Express  Prime Minister Narendra Modi and his Nepalese counterpart, Balendra Shah, virtually flagged off the Saryu-Kamala Express on Monday, linking Ayodhya in Uttar Pradesh and Janakpur Dham in Nepal, two holy places associated with Lord Ram and Mata Sita, expected to give a fillip to religious and cultural tourism on the Ramayana Circuit.
+
+"Nepal and India have been bound by historical, cultural and civilisational ties since the sacred era of Lord Ram and Mata Janaki. Today we have inaugurated rail connectivity to make this bond even more vibrant," Shah, who is on his first state visit, said in Delhi. Hindu devotees consider the temple town of Ayodhya to be the birthplace of Lord Ram -- 'Ramjanmabhoomi -- and it is also the site of a grand new Ram Mandir built over the past few years, which attracts devotees every day from across the country and abroad.
+
+The birthplace of Mata Sita, or Mata Janaki, is believed to be Janakpur Dham in today's Nepal, while another tradition holds that she was born in Sitamarhi, a place in today's north Bihar near the India-Nepal border. Modi and Shah, who arrived in India on Sunday, held wide-ranging talks at the Hyderabad House in Delhi that produced several key outcomes to further solidify the bilateral ties.
+
+India-Nepal relationship is not merely that of neighbours, but it is reflective of unbreakable trust and friendship, Modi said in his remarks. Shah said that the ties between India and Nepal "stand as firm as the Himalayas and as vast as the oceans". The two leaders virtually laid the foundation of several India-assisted projects in Nepal and flagged off the cross-border passenger rail link between Ayodhya and Janakpur Dham.
+
+The weekly express train will take about 19 hours to cover the 604-km distance between Ayodhya Cantt and Janakpur Dham stations. Passengers will not need to change trains during the journey, the Uttar Pradesh government had said in a statement earlier this month. Uttar Pradesh Chief Minister Yogi Adityanath said the train service represents the "sacred confluence of two cultures" and would further strengthen the centuries-old relationship between India and Nepal.
+
+"The launch of this rail service will enable devotees from Nepal to directly visit Ram Lalla, while devotees from India will be able to visit Janakpur Dham and seek the blessings of Mata Janaki," he said. The service will operate once a week, departing from Ayodhya Cantt every Monday at 5.50 pm and reaching Janakpur Dham at 12.40 pm (Nepalese time) on Tuesdays.
+
+It will pass through Mankapur, Basti, Gorakhpur, Narkatiaganj, Raxaul, Sitamarhi, Shisho, Madhubani, and Jaynagar. On its return leg, it will leave Janakpur Dham at 1.10 pm (Nepalese time) every Saturday and reach Ayodhya Cantt at 8.10 am on Sundays, it said. Samajwadi Party MP from Faizabad Awadhesh Prasad welcomed the initiative and congratulated the prime ministers of India and Nepal on the launch of the train service.
+
+He, however, expressed unhappiness over not being invited to the train launch in Ayodhya despite being the local MP. Prasad said he was neither informed over the phone nor sent an invitation card for the event, despite the significance of the project connecting Ayodhya Dham with Janakpur.
+
+Walls at the Janakpur Dham station bear decorative murals -- Mithila paintings, a celebrated art of the region. Priyanka Gupta, a passenger, said she felt privileged to be part of the journey. "We know so much about Lord Ram... It will now allow us to go to Mata Sita's place associated with her childhood and learn about her," she told PTI Videos.
+
+Gupta and many other passengers, some of whom came to Ayodhya after travelling long distances from Kolkata, Bengaluru and other places, hailed the decision of the governments of India and Nepal to run this "special train". "I am sure people of Nepal will be equally excited to travel to India, and the way we are delighted to go to Nepal, they too, I am sure, will be happy to board the train on its return journey," she added.
+
+Other passengers waiting at Ayodhya Cantt station said the train will allow people from both sides to explore new areas. Dixit, another passenger of the inaugural run, said, "I have come from Bengaluru, and I will do the Ayodhya-to-Nepal journey. "This is a direct train, so it is a good initiative, and we will undertake a train journey from Sita Mata's 'sasural' (in-laws' place) to her 'maika' (parents' place).
+
+I am very excited."    Sita, after spending her childhood in Jankapur, had come to Ayodhya as a bride of Lord Ram, and folk songs in both India and Nepal celebrate the story of their union. On the Pran Pratishtha -- the consecration ceremony of the then under-construction Ram temple-- held in Ayodhya in January 2024, and days ahead of it, a large number of people from Nepal had flocked to the temple town bearing gifts ('bhaar') for the occasion, signifying the historic tie between the two neighbouring countries.
+
+For all the latest updates, download PGurus App.
+
+---
+
+**Original Source:** [PGurus](https://www.pgurus.com/india-nepal-prime-ministers-flag-off-ayodhya-janakpur-train-boost-to-ramayana-circuit/)`,
+    title_en: `India, Nepal Prime Ministers Flag-Off Ayodhya-Janakpur Train; Boost to Ramayana Circuit - PGurus`,
+    summary_en: `Ram meets Janaki: Modi, Balendra Shah launch Ayodhya–Janakpur Express  Prime Minister Narendra Modi and his Nepalese counterpart, Balendra Shah, virtually flagged off the Saryu-Kamala Express on Monday, linking Ayodhya in Uttar Pradesh and `,
+    content_en: `Ram meets Janaki: Modi, Balendra Shah launch Ayodhya–Janakpur Express  Prime Minister Narendra Modi and his Nepalese counterpart, Balendra Shah, virtually flagged off the Saryu-Kamala Express on Monday, linking Ayodhya in Uttar Pradesh and Janakpur Dham in Nepal, two holy places associated with Lord Ram and Mata Sita, expected to give a fillip to religious and cultural tourism on the Ramayana Circuit.
+
+"Nepal and India have been bound by historical, cultural and civilisational ties since the sacred era of Lord Ram and Mata Janaki. Today we have inaugurated rail connectivity to make this bond even more vibrant," Shah, who is on his first state visit, said in Delhi. Hindu devotees consider the temple town of Ayodhya to be the birthplace of Lord Ram -- 'Ramjanmabhoomi -- and it is also the site of a grand new Ram Mandir built over the past few years, which attracts devotees every day from across the country and abroad.
+
+The birthplace of Mata Sita, or Mata Janaki, is believed to be Janakpur Dham in today's Nepal, while another tradition holds that she was born in Sitamarhi, a place in today's north Bihar near the India-Nepal border. Modi and Shah, who arrived in India on Sunday, held wide-ranging talks at the Hyderabad House in Delhi that produced several key outcomes to further solidify the bilateral ties.
+
+India-Nepal relationship is not merely that of neighbours, but it is reflective of unbreakable trust and friendship, Modi said in his remarks. Shah said that the ties between India and Nepal "stand as firm as the Himalayas and as vast as the oceans". The two leaders virtually laid the foundation of several India-assisted projects in Nepal and flagged off the cross-border passenger rail link between Ayodhya and Janakpur Dham.
+
+The weekly express train will take about 19 hours to cover the 604-km distance between Ayodhya Cantt and Janakpur Dham stations. Passengers will not need to change trains during the journey, the Uttar Pradesh government had said in a statement earlier this month. Uttar Pradesh Chief Minister Yogi Adityanath said the train service represents the "sacred confluence of two cultures" and would further strengthen the centuries-old relationship between India and Nepal.
+
+"The launch of this rail service will enable devotees from Nepal to directly visit Ram Lalla, while devotees from India will be able to visit Janakpur Dham and seek the blessings of Mata Janaki," he said. The service will operate once a week, departing from Ayodhya Cantt every Monday at 5.50 pm and reaching Janakpur Dham at 12.40 pm (Nepalese time) on Tuesdays.
+
+It will pass through Mankapur, Basti, Gorakhpur, Narkatiaganj, Raxaul, Sitamarhi, Shisho, Madhubani, and Jaynagar. On its return leg, it will leave Janakpur Dham at 1.10 pm (Nepalese time) every Saturday and reach Ayodhya Cantt at 8.10 am on Sundays, it said. Samajwadi Party MP from Faizabad Awadhesh Prasad welcomed the initiative and congratulated the prime ministers of India and Nepal on the launch of the train service.
+
+He, however, expressed unhappiness over not being invited to the train launch in Ayodhya despite being the local MP. Prasad said he was neither informed over the phone nor sent an invitation card for the event, despite the significance of the project connecting Ayodhya Dham with Janakpur.
+
+Walls at the Janakpur Dham station bear decorative murals -- Mithila paintings, a celebrated art of the region. Priyanka Gupta, a passenger, said she felt privileged to be part of the journey. "We know so much about Lord Ram... It will now allow us to go to Mata Sita's place associated with her childhood and learn about her," she told PTI Videos.
+
+Gupta and many other passengers, some of whom came to Ayodhya after travelling long distances from Kolkata, Bengaluru and other places, hailed the decision of the governments of India and Nepal to run this "special train". "I am sure people of Nepal will be equally excited to travel to India, and the way we are delighted to go to Nepal, they too, I am sure, will be happy to board the train on its return journey," she added.
+
+Other passengers waiting at Ayodhya Cantt station said the train will allow people from both sides to explore new areas. Dixit, another passenger of the inaugural run, said, "I have come from Bengaluru, and I will do the Ayodhya-to-Nepal journey. "This is a direct train, so it is a good initiative, and we will undertake a train journey from Sita Mata's 'sasural' (in-laws' place) to her 'maika' (parents' place).
+
+I am very excited."    Sita, after spending her childhood in Jankapur, had come to Ayodhya as a bride of Lord Ram, and folk songs in both India and Nepal celebrate the story of their union. On the Pran Pratishtha -- the consecration ceremony of the then under-construction Ram temple-- held in Ayodhya in January 2024, and days ahead of it, a large number of people from Nepal had flocked to the temple town bearing gifts ('bhaar') for the occasion, signifying the historic tie between the two neighbouring countries.
+
+For all the latest updates, download PGurus App.
+
+---
+
+**Original Source:** [PGurus](https://www.pgurus.com/india-nepal-prime-ministers-flag-off-ayodhya-janakpur-train-boost-to-ramayana-circuit/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to PGurus.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for India, Nepal Prime Ministers Flag-Off Ayodhya-Janakpur Train; Boost to Ramayana Circuit - PGurus.`,
+    primary_source: `PGurus`,
+  },
+  {
+    id: 97961,
+    title: `अमित शाह से मिले 'रामायण' के रणबीर कपूर और साई पल्लवी, टीम ने शेयर की खास तस्वीर - IANS LIVE`,
+    slug: `ians-live-2026`,
+    original_title: `अमित शाह से मिले 'रामायण' के रणबीर कपूर और साई पल्लवी, टीम ने शेयर की खास तस्वीर - IANS LIVE`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:22:16Z`,
+    updated_at: `2026-11-26T06:22:16Z`,
+    source_name: `IANS LIVE`,
+    source_url: `https://hindi.ianslive.in/amit-shah-se-mile-ramayan-ke-ranbir-kapoor-aur-sai-pallavi-team-ne-share-ki-khas-tasveer--20261126113805`,
+    source_courtesy: `Source: IANS LIVE`,
+    image_url: `/images/articles/ians-live-2026.jpg`,
+    image_alt: `अमित शाह से मिले 'रामायण' के रणबीर कपूर और साई पल्लवी, टीम ने शेयर की खास तस्वीर - IANS LIVE`,
+    image_courtesy: `Image: IANS LIVE (External Source Attribution)`,
+    image_photographer: `IANS LIVE`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `मुंबई, 26 नवंबर (आईएएनएस)। नितेश तिवारी की फिल्म 'रामायण' रिलीज के बाद से ही लगातार चर्चा में है। इस बीच फिल्म की टीम ने केंद्रीय गृह मंत्री अमित शाह से मुलाकात की। मेकर्स के आधिकारिक एक्स पेज 'द वर्ल्ड ऑफ रामायण' पर मुलाकात की कई तस्वीरें `,
+    content: `मुंबई, 26 नवंबर (आईएएनएस)। नितेश तिवारी की फिल्म 'रामायण' रिलीज के बाद से ही लगातार चर्चा में है। इस बीच फिल्म की टीम ने केंद्रीय गृह मंत्री अमित शाह से मुलाकात की। मेकर्स के आधिकारिक एक्स पेज 'द वर्ल्ड ऑफ रामायण' पर मुलाकात की कई तस्वीरें साझा की। इनमें रणबीर कपूर, साई पल्लवी, निर्देशक नितेश तिवारी और फिल्म से जुड़े अन्य लोग अमित शाह के साथ बैठकर बात करते नजर आ रहे हैं।
+
+फिल्म की टीम ने पोस्ट के कैप्शन में लिखा, ''रामायण की टीम को गृह मंत्री अमित शाह से मिलकर बहुत अच्छा लगा क्योंकि फिल्म को पूरे देश और दुनियाभर के सिनेमाघरों में बहुत प्यार मिल रहा है।'' इस पोस्ट के सामने आने के बाद फिल्म को लेकर एक बार फिर चर्चा तेज हो गई है।
+
+'रामायण' को लेकर दर्शकों के साथ-साथ फिल्मी दुनिया की कई बड़ी हस्तियां अपनी प्रतिक्रियाएं दे रही हैं। इनमें निर्देशक एसएस राजामौली का नाम भी शामिल है। उन्होंने अपने पोस्ट में लिखा था- ''रामायण… फिल्म का विशाल पैमाना और बड़े पर्दे पर इसके दृश्य देखने में अद्भुत हैं। राम के रूप में रणबीर, खासकर वनवास के बाद से शांत लेकिन शानदार लगे हैं। रावण के किरदार में यश का अंदाज काफी खूंखार है, वहीं सीता के रूप में साई पल्लवी बहुत ग्रेसफुल लगी हैं। प्री-क्लाइमैक्स और क्लाइमैक्स… मुझे इसका हर हिस्सा बहुत पसंद आया। नमित मल्होत्रा, नितेश तिवारी और पूरी टीम को बधाई कि उन्होंने इतने बड़े विजन को इतनी खूबसूरती से पर्दे पर उतारा है।''
+
+अभिनेता अनुपम खेर ने वीडियो पोस्ट करते हुए लिखा- ''जय श्री राम, आज दुनिया भर में रामायण प्रदर्शित हो रही है। इस भव्य फिल्म से जुड़े सभी कलाकारों, निर्माताओं, तकनीशियनों और पूरी टीम को हार्दिक बधाई और शुभकामनाएं। आप सबकी और मेरी भी मेहनत को दुनिया भर के दर्शकों का प्यार और आशीर्वाद मिले। जय श्री राम।''
+
+अभिनेता विजय देवरकोंडा ने फिल्म 'रामायण' की पूरी टीम को शुभकामनाएं देते हुए कहा, ''फिल्म भारतीय कहानियों, संस्कृति और कल्पनाओं को दुनियाभर के दर्शकों तक पहुंचाएगी। रणबीर कपूर, साई पल्लवी और यश ने पर्दे पर जादू बिखेरा है। नमित मल्होत्रा, नितेश तिवारी, एआर रहमान और हंस जिमर का सम्मान।''
+
+साउथ सुपरस्टार अल्लू अर्जुन ने लिखा, ''यह सिर्फ एक फिल्म नहीं बल्कि भारतीय सिनेमा का स्तर ऊंचा उठाने का प्रयास है। हमारी कहानियों, संस्कृति और गौरव को दुनिया तक पहुंचाने वाली इस कोशिश का सभी को एकजुट होकर समर्थन करना चाहिए। ''
+
+---
+
+**मूल स्रोत (Original Source):** [IANS LIVE](https://hindi.ianslive.in/amit-shah-se-mile-ramayan-ke-ranbir-kapoor-aur-sai-pallavi-team-ne-share-ki-khas-tasveer--20261126113805)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अमित शाह से मिले 'रामायण' के रणबीर कपूर और साई पल्लवी, टीम ने शेयर की खास तस्वीर - IANS LIVE`,
+    summary_hi: `मुंबई, 26 नवंबर (आईएएनएस)। नितेश तिवारी की फिल्म 'रामायण' रिलीज के बाद से ही लगातार चर्चा में है। इस बीच फिल्म की टीम ने केंद्रीय गृह मंत्री अमित शाह से मुलाकात की। मेकर्स के आधिकारिक एक्स पेज 'द वर्ल्ड ऑफ रामायण' पर मुलाकात की कई तस्वीरें `,
+    content_hi: `मुंबई, 26 नवंबर (आईएएनएस)। नितेश तिवारी की फिल्म 'रामायण' रिलीज के बाद से ही लगातार चर्चा में है। इस बीच फिल्म की टीम ने केंद्रीय गृह मंत्री अमित शाह से मुलाकात की। मेकर्स के आधिकारिक एक्स पेज 'द वर्ल्ड ऑफ रामायण' पर मुलाकात की कई तस्वीरें साझा की। इनमें रणबीर कपूर, साई पल्लवी, निर्देशक नितेश तिवारी और फिल्म से जुड़े अन्य लोग अमित शाह के साथ बैठकर बात करते नजर आ रहे हैं।
+
+फिल्म की टीम ने पोस्ट के कैप्शन में लिखा, ''रामायण की टीम को गृह मंत्री अमित शाह से मिलकर बहुत अच्छा लगा क्योंकि फिल्म को पूरे देश और दुनियाभर के सिनेमाघरों में बहुत प्यार मिल रहा है।'' इस पोस्ट के सामने आने के बाद फिल्म को लेकर एक बार फिर चर्चा तेज हो गई है।
+
+'रामायण' को लेकर दर्शकों के साथ-साथ फिल्मी दुनिया की कई बड़ी हस्तियां अपनी प्रतिक्रियाएं दे रही हैं। इनमें निर्देशक एसएस राजामौली का नाम भी शामिल है। उन्होंने अपने पोस्ट में लिखा था- ''रामायण… फिल्म का विशाल पैमाना और बड़े पर्दे पर इसके दृश्य देखने में अद्भुत हैं। राम के रूप में रणबीर, खासकर वनवास के बाद से शांत लेकिन शानदार लगे हैं। रावण के किरदार में यश का अंदाज काफी खूंखार है, वहीं सीता के रूप में साई पल्लवी बहुत ग्रेसफुल लगी हैं। प्री-क्लाइमैक्स और क्लाइमैक्स… मुझे इसका हर हिस्सा बहुत पसंद आया। नमित मल्होत्रा, नितेश तिवारी और पूरी टीम को बधाई कि उन्होंने इतने बड़े विजन को इतनी खूबसूरती से पर्दे पर उतारा है।''
+
+अभिनेता अनुपम खेर ने वीडियो पोस्ट करते हुए लिखा- ''जय श्री राम, आज दुनिया भर में रामायण प्रदर्शित हो रही है। इस भव्य फिल्म से जुड़े सभी कलाकारों, निर्माताओं, तकनीशियनों और पूरी टीम को हार्दिक बधाई और शुभकामनाएं। आप सबकी और मेरी भी मेहनत को दुनिया भर के दर्शकों का प्यार और आशीर्वाद मिले। जय श्री राम।''
+
+अभिनेता विजय देवरकोंडा ने फिल्म 'रामायण' की पूरी टीम को शुभकामनाएं देते हुए कहा, ''फिल्म भारतीय कहानियों, संस्कृति और कल्पनाओं को दुनियाभर के दर्शकों तक पहुंचाएगी। रणबीर कपूर, साई पल्लवी और यश ने पर्दे पर जादू बिखेरा है। नमित मल्होत्रा, नितेश तिवारी, एआर रहमान और हंस जिमर का सम्मान।''
+
+साउथ सुपरस्टार अल्लू अर्जुन ने लिखा, ''यह सिर्फ एक फिल्म नहीं बल्कि भारतीय सिनेमा का स्तर ऊंचा उठाने का प्रयास है। हमारी कहानियों, संस्कृति और गौरव को दुनिया तक पहुंचाने वाली इस कोशिश का सभी को एकजुट होकर समर्थन करना चाहिए। ''
+
+---
+
+**मूल स्रोत (Original Source):** [IANS LIVE](https://hindi.ianslive.in/amit-shah-se-mile-ramayan-ke-ranbir-kapoor-aur-sai-pallavi-team-ne-share-ki-khas-tasveer--20261126113805)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट IANS LIVE के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक अमित शाह से मिले 'रामायण' के रणबीर कपूर और साई पल्लवी, टीम ने शेयर की खास तस्वीर - IANS LIVE से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `IANS LIVE`,
+  },
+  {
+    id: 97962,
+    title: `Oscars 2027 Ramayana: रणबीर कपूर की 'रामायण' ने ऑस्कर 2027 में मारी बाजी, VFX कैटेगरी में टॉप 20 में बनाई जगह - Navbharat Live`,
+    slug: `oscars-2027-ramayana-2027-vfx-20-navbharat-live-2026`,
+    original_title: `Oscars 2027 Ramayana: रणबीर कपूर की 'रामायण' ने ऑस्कर 2027 में मारी बाजी, VFX कैटेगरी में टॉप 20 में बनाई जगह - Navbharat Live`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:22:18Z`,
+    updated_at: `2026-11-26T06:22:18Z`,
+    source_name: `Navbharat Live`,
+    source_url: `https://navbharatlive.com/entertainment/oscars-2027-ramayana-vfx-shortlist-top-20-ranbir-kapoor-suj05`,
+    source_courtesy: `Source: Navbharat Live`,
+    image_url: `/images/articles/oscars-2027-ramayana-2027-vfx-20-navbharat-live-2026.jpg`,
+    image_alt: `Oscars 2027 Ramayana: रणबीर कपूर की 'रामायण' ने ऑस्कर 2027 में मारी बाजी, VFX कैटेगरी में टॉप 20 में बनाई जगह - Navbharat Live`,
+    image_courtesy: `Image: Navbharat Live (External Source Attribution)`,
+    image_photographer: `Navbharat Live`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `Highlights'रामायण' ने ऑस्कर 2027 की VFX कैटेगरी की शॉर्टलिस्ट में जगह बनाई है।फिल्म को टॉप 20 फिल्मों में शामिल किया गया है।इस लिस्ट में क्रिस्टोफर नोलन की 'द ओडिसी' और 'एवेंजर्स: डूम्सडे' जैसी फिल्में भी शामिल हैं।.Ranbir Kapoor Ramayana O`,
+    content: `Highlights'रामायण' ने ऑस्कर 2027 की VFX कैटेगरी की शॉर्टलिस्ट में जगह बनाई है।फिल्म को टॉप 20 फिल्मों में शामिल किया गया है।इस लिस्ट में क्रिस्टोफर नोलन की 'द ओडिसी' और 'एवेंजर्स: डूम्सडे' जैसी फिल्में भी शामिल हैं।.Ranbir Kapoor Ramayana Oscars 2027 Shortlist: रणबीर कपूर की फिल्म 'रामायण' लगातार सुर्खियों में बनी हुई है।
+
+बॉक्स ऑफिस पर शानदार प्रदर्शन करने के बाद अब फिल्म ने अंतरराष्ट्रीय स्तर पर भी बड़ी उपलब्धि हासिल की है। नितेश तिवारी के निर्देशन में बनी 'रामायण: पार्ट 1' ने ऑस्कर 2027 की विजुअल इफेक्ट्स कैटेगरी की शॉर्टलिस्ट में जगह बना ली है। फिल्म रामायण को इस श्रेणी की टॉप 20 फिल्मों में शामिल किया गया है।
+
+इस खबर के सामने आने के बाद फिल्म के प्रशंसकों के बीच खुशी का माहौल है। खास बात यह है कि इस लिस्ट में क्रिस्टोफर नोलन की फिल्म 'द ओडिसी' समेत कई बड़ी हॉलीवुड फिल्में भी शामिल हैं। Variety की रिपोर्ट के मुताबिक, ऑस्कर 2027 की विजुअल इफेक्ट्स कैटेगरी के लिए 20 फिल्मों को शॉर्टलिस्ट किया गया है।.द ओडिसी और एवेंजर्स: डूम्सडे से होगा मुकाबलाऑस्कर 2027 में भारत की 'रामायण: पार्ट 1' भी शामिल है।
+
+इसके अलावा क्रिस्टोफर नोलन की 'द ओडिसी', 'एवेंजर्स: डूम्सडे', 'ड्यून: पार्ट 3', 'गॉडजिला माइनस जीरो', 'मोआना', 'प्रोजेक्ट हेल मेरी', 'सुपरगर्ल', 'व्हेलफॉल' और 'द शीप डिटेक्टिव्स' जैसी फिल्में भी इस सूची का हिस्सा हैं। अब इन फिल्मों के बीच आगे की दौड़ होगी। हालांकि, शॉर्टलिस्ट में जगह मिलने का मतलब अंतिम ऑस्कर नॉमिनेशन मिलना नहीं है।
+
+इसके लिए अभी आगे की प्रक्रिया बाकी है।.Sridevi Love Story: श्रीदेवी को लेकर मिथुन की दीवानगी के थे चर्चे, सेट पर हर 15 मिनट में आता था एक फोन.बॉक्स ऑफिस पर भी रामायण का शानदार प्रदर्शननमित मल्होत्रा के प्रोडक्शन में बनी 'रामायण' ने रिलीज के साथ ही बॉक्स ऑफिस पर शानदार शुरुआत की थी।
+
+फिल्म ने पहले दिन 64.85 करोड़ रुपये का कलेक्शन किया। पहले हफ्ते में इसका नेट कलेक्शन 564.60 करोड़ रुपये और ग्रॉस कलेक्शन 675.05 करोड़ रुपये रहा। दूसरे हफ्ते में फिल्म ने 299.15 करोड़ रुपये नेट और 357.10 करोड़ रुपये ग्रॉस कमाए। तीसरे हफ्ते में इसका नेट कलेक्शन 109.20 करोड़ रुपये रहा।
+
+.Bigg Boss 20 Twist: 'तू नकली है', यंग की बात सुनकर भड़के स्काउट, लड़ाई में अरिशफा ने किया बीच-बचाव.रणबीर कपूर बने राम, यश निभा रहे रावण का किरदारफिल्म की स्टारकास्ट भी काफी शानदार है। इसमें रणबीर कपूर भगवान राम की भूमिका में हैं, जबकि साई पल्लवी माता सीता का किरदार निभा रही हैं।
+
+रवि दुबे लक्ष्मण और यश रावण के रोल में नजर आ रहे हैं। इसके अलावा लारा दत्ता, रकुल प्रीत सिंह, अरुण गोविल और विवेक ओबेरॉय भी फिल्म का हिस्सा हैं।.Panchayat Season 5 Trailer Launch: सीहोर के महोडिया में भव्य ट्रेलर लॉन्च, सचिव जी समेत पहुंची पूरी स्टारकास्ट.2028 में रिलीज होगा रामायण का दूसरा पार्ट'रामायण' को दो हिस्सों में रिलीज करने की योजना है।
+
+फिल्म का पहला पार्ट सिनेमाघरों में रिलीज हो चुका है, जबकि दूसरा पार्ट साल 2028 में आएगा। इसके दूसरे भाग में सनी देओल भगवान हनुमान की भूमिका निभाते नजर आएंगे। हालांकि, अभी तक उनका लुक सामने नहीं आया है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/entertainment/oscars-2027-ramayana-vfx-shortlist-top-20-ranbir-kapoor-suj05)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Oscars 2027 Ramayana: रणबीर कपूर की 'रामायण' ने ऑस्कर 2027 में मारी बाजी, VFX कैटेगरी में टॉप 20 में बनाई जगह - Navbharat Live`,
+    summary_hi: `Highlights'रामायण' ने ऑस्कर 2027 की VFX कैटेगरी की शॉर्टलिस्ट में जगह बनाई है।फिल्म को टॉप 20 फिल्मों में शामिल किया गया है।इस लिस्ट में क्रिस्टोफर नोलन की 'द ओडिसी' और 'एवेंजर्स: डूम्सडे' जैसी फिल्में भी शामिल हैं।.Ranbir Kapoor Ramayana O`,
+    content_hi: `Highlights'रामायण' ने ऑस्कर 2027 की VFX कैटेगरी की शॉर्टलिस्ट में जगह बनाई है।फिल्म को टॉप 20 फिल्मों में शामिल किया गया है।इस लिस्ट में क्रिस्टोफर नोलन की 'द ओडिसी' और 'एवेंजर्स: डूम्सडे' जैसी फिल्में भी शामिल हैं।.Ranbir Kapoor Ramayana Oscars 2027 Shortlist: रणबीर कपूर की फिल्म 'रामायण' लगातार सुर्खियों में बनी हुई है।
+
+बॉक्स ऑफिस पर शानदार प्रदर्शन करने के बाद अब फिल्म ने अंतरराष्ट्रीय स्तर पर भी बड़ी उपलब्धि हासिल की है। नितेश तिवारी के निर्देशन में बनी 'रामायण: पार्ट 1' ने ऑस्कर 2027 की विजुअल इफेक्ट्स कैटेगरी की शॉर्टलिस्ट में जगह बना ली है। फिल्म रामायण को इस श्रेणी की टॉप 20 फिल्मों में शामिल किया गया है।
+
+इस खबर के सामने आने के बाद फिल्म के प्रशंसकों के बीच खुशी का माहौल है। खास बात यह है कि इस लिस्ट में क्रिस्टोफर नोलन की फिल्म 'द ओडिसी' समेत कई बड़ी हॉलीवुड फिल्में भी शामिल हैं। Variety की रिपोर्ट के मुताबिक, ऑस्कर 2027 की विजुअल इफेक्ट्स कैटेगरी के लिए 20 फिल्मों को शॉर्टलिस्ट किया गया है।.द ओडिसी और एवेंजर्स: डूम्सडे से होगा मुकाबलाऑस्कर 2027 में भारत की 'रामायण: पार्ट 1' भी शामिल है।
+
+इसके अलावा क्रिस्टोफर नोलन की 'द ओडिसी', 'एवेंजर्स: डूम्सडे', 'ड्यून: पार्ट 3', 'गॉडजिला माइनस जीरो', 'मोआना', 'प्रोजेक्ट हेल मेरी', 'सुपरगर्ल', 'व्हेलफॉल' और 'द शीप डिटेक्टिव्स' जैसी फिल्में भी इस सूची का हिस्सा हैं। अब इन फिल्मों के बीच आगे की दौड़ होगी। हालांकि, शॉर्टलिस्ट में जगह मिलने का मतलब अंतिम ऑस्कर नॉमिनेशन मिलना नहीं है।
+
+इसके लिए अभी आगे की प्रक्रिया बाकी है।.Sridevi Love Story: श्रीदेवी को लेकर मिथुन की दीवानगी के थे चर्चे, सेट पर हर 15 मिनट में आता था एक फोन.बॉक्स ऑफिस पर भी रामायण का शानदार प्रदर्शननमित मल्होत्रा के प्रोडक्शन में बनी 'रामायण' ने रिलीज के साथ ही बॉक्स ऑफिस पर शानदार शुरुआत की थी।
+
+फिल्म ने पहले दिन 64.85 करोड़ रुपये का कलेक्शन किया। पहले हफ्ते में इसका नेट कलेक्शन 564.60 करोड़ रुपये और ग्रॉस कलेक्शन 675.05 करोड़ रुपये रहा। दूसरे हफ्ते में फिल्म ने 299.15 करोड़ रुपये नेट और 357.10 करोड़ रुपये ग्रॉस कमाए। तीसरे हफ्ते में इसका नेट कलेक्शन 109.20 करोड़ रुपये रहा।
+
+.Bigg Boss 20 Twist: 'तू नकली है', यंग की बात सुनकर भड़के स्काउट, लड़ाई में अरिशफा ने किया बीच-बचाव.रणबीर कपूर बने राम, यश निभा रहे रावण का किरदारफिल्म की स्टारकास्ट भी काफी शानदार है। इसमें रणबीर कपूर भगवान राम की भूमिका में हैं, जबकि साई पल्लवी माता सीता का किरदार निभा रही हैं।
+
+रवि दुबे लक्ष्मण और यश रावण के रोल में नजर आ रहे हैं। इसके अलावा लारा दत्ता, रकुल प्रीत सिंह, अरुण गोविल और विवेक ओबेरॉय भी फिल्म का हिस्सा हैं।.Panchayat Season 5 Trailer Launch: सीहोर के महोडिया में भव्य ट्रेलर लॉन्च, सचिव जी समेत पहुंची पूरी स्टारकास्ट.2028 में रिलीज होगा रामायण का दूसरा पार्ट'रामायण' को दो हिस्सों में रिलीज करने की योजना है।
+
+फिल्म का पहला पार्ट सिनेमाघरों में रिलीज हो चुका है, जबकि दूसरा पार्ट साल 2028 में आएगा। इसके दूसरे भाग में सनी देओल भगवान हनुमान की भूमिका निभाते नजर आएंगे। हालांकि, अभी तक उनका लुक सामने नहीं आया है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/entertainment/oscars-2027-ramayana-vfx-shortlist-top-20-ranbir-kapoor-suj05)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट Navbharat Live के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Oscars 2027 Ramayana: रणबीर कपूर की 'रामायण' ने ऑस्कर 2027 में मारी बाजी, VFX कैटेगरी में टॉप 20 में बनाई जगह - Navbharat Live से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Navbharat Live`,
+  },
 {
     id: 97907,
     title: `ICMR Survey Reveals Decline in Anaemia Prevalence Across India - India News Network`,
