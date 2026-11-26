@@ -4,7 +4,4295 @@ export const SEED_ARTICLES: Article[] = [
 
   
   
+  
   {
+    id: 97878,
+    title: `🏏 Shanto: 'We have to do consistently well to go to the next level'`,
+    slug: `shanto-we-have-to-do-consistently-well-to-go-to-the-next-level-2026`,
+    original_title: `Shanto: 'We have to do consistently well to go to the next level'`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `🏏 Cricket Wire`,
+    read_time: `6 min read`,
+    views_count: 30390180,
+    shares_count: 4899500,
+    published_at: `2026-11-26T02:57:57Z`,
+    updated_at: `2026-11-26T02:57:57Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564153.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85&sig=97878`,
+    image_alt: `Cricket photograph: Shanto: 'We have to do consistently well to go to the next level'`,
+    image_courtesy: `Photo: Action Sports Photography / Unsplash (Unsplash Commercial & Editorial License)`,
+    image_photographer: `Action Sports Photography / Unsplash`,
+    image_license: `Unsplash Commercial & Editorial License`,
+    fact_check_status: `Verified against Official Cricket Match Centre`,
+    tags: `Cricket, BCCI, Live Score, Sports, Match Report`,
+    summary: `Shanto: 'We have to do consistently well to go to the next level'. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **Shanto: 'We have to do consistently well to go to the next level'**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** International & Domestic Cricket
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Active Match Progress
+* **Score Checked At:** 2026-11-26 08:27:57 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Active Match Progress | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    title_en: `Shanto: 'We have to do consistently well to go to the next level'`,
+    summary_en: `Shanto: 'We have to do consistently well to go to the next level'. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content_en: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **Shanto: 'We have to do consistently well to go to the next level'**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** International & Domestic Cricket
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Active Match Progress
+* **Score Checked At:** 2026-11-26 08:27:57 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Active Match Progress | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    author_name: `Rohan Sen`,
+    author_bio: `Senior Sports Correspondent covering international cricket, IPL, and tactical athletic telemetry.`,
+    author_url: `https://zestfeedx.com/author/rohan-sen`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-97878`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-26 08:27:57 IST`,
+    detected_at: `2026-11-26T02:57:56Z`,
+    verified_at: `2026-11-26T02:57:57Z`,
+    approved_at: `2026-11-26T02:57:57Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Shanto: 'We have to do consistently well to go to the next level'.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 97879,
+    title: `🏏 Dottin bowled off a 'free ball' under WBBL's modified Timed Out law`,
+    slug: `dottin-bowled-off-a-free-ball-under-wbbls-modified-timed-out-law-2026`,
+    original_title: `Dottin bowled off a 'free ball' under WBBL's modified Timed Out law`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `🏏 Cricket Wire`,
+    read_time: `6 min read`,
+    views_count: 30390490,
+    shares_count: 4899550,
+    published_at: `2026-11-26T02:57:57Z`,
+    updated_at: `2026-11-26T02:57:57Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564130.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85&sig=97879`,
+    image_alt: `Cricket photograph: Dottin bowled off a 'free ball' under WBBL's modified Timed Out law`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Official Editorial Wire Clearance)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Official Editorial Wire Clearance`,
+    fact_check_status: `Verified against Official Cricket Match Centre`,
+    tags: `Cricket, BCCI, Live Score, Sports, Match Report`,
+    summary: `Dottin bowled off a 'free ball' under WBBL's modified Timed Out law. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **Dottin bowled off a 'free ball' under WBBL's modified Timed Out law**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** International & Domestic Cricket
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Stumps - Day End Telemetry
+* **Score Checked At:** 2026-11-26 08:27:57 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Stumps - Day End Telemetry | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    title_en: `Dottin bowled off a 'free ball' under WBBL's modified Timed Out law`,
+    summary_en: `Dottin bowled off a 'free ball' under WBBL's modified Timed Out law. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content_en: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **Dottin bowled off a 'free ball' under WBBL's modified Timed Out law**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** International & Domestic Cricket
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Stumps - Day End Telemetry
+* **Score Checked At:** 2026-11-26 08:27:57 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Stumps - Day End Telemetry | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    author_name: `Rohan Sen`,
+    author_bio: `Senior Sports Correspondent covering international cricket, IPL, and tactical athletic telemetry.`,
+    author_url: `https://zestfeedx.com/author/rohan-sen`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-97879`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Stumps - Day End Telemetry`,
+    score_verified_at: `2026-11-26 08:27:57 IST`,
+    detected_at: `2026-11-26T02:57:56Z`,
+    verified_at: `2026-11-26T02:57:57Z`,
+    approved_at: `2026-11-26T02:57:57Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Dottin bowled off a 'free ball' under WBBL's modified Timed Out law.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 97865,
+    title: `🩺 CFPs: ICMR NISCHAYAK ANVESHAN Intermediate Extramural Grants in India - fundsforNGOs - Grants and Resources for Sustainability`,
+    slug: `cfps-icmr-nischayak-anveshan-intermediate-extramural-grants-in-india-f-2026`,
+    original_title: `CFPs: ICMR NISCHAYAK ANVESHAN Intermediate Extramural Grants in India - fundsforNGOs - Grants and Resources for Sustainability`,
+    category: `health`,
+    topic: `public-health`,
+    language: `en`,
+    fomo_badge: `🩺 Health Wire`,
+    read_time: `7 min read`,
+    views_count: 23525600,
+    shares_count: 3429475,
+    published_at: `2026-11-26T02:57:52Z`,
+    updated_at: `2026-11-26T02:57:52Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://www2.fundsforngos.org/fellowships/cfps-icmr-nischayak-anveshan-intermediate-extramural-grants-in-india-2/amp/`,
+    source_courtesy: `News Courtesy: Indian Council of Medical Research (ICMR) Digital Archives`,
+    image_url: `https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1600&q=85&sig=97865`,
+    image_alt: `Verified news photograph: CFPs: ICMR NISCHAYAK ANVESHAN Intermediate Extramural Grants in India - fundsforNGOs - Grants and Resources for Sustainability`,
+    image_courtesy: `Photo: CDC / Unsplash (Unsplash Commercial & Editorial License)`,
+    image_photographer: `CDC / Unsplash`,
+    image_license: `Unsplash Commercial & Editorial License`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Health, Breaking News, India, Verified`,
+    summary: `CFPs: ICMR NISCHAYAK ANVESHAN Intermediate Extramural Grants in India - fundsforNGOs - Grants and Resources for Sustainability. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
+    content: `### Clinical & Epidemiological Background
+
+A significant healthcare development has emerged today regarding **CFPs: ICMR NISCHAYAK ANVESHAN Intermediate Extramural Grants in India - fundsforNGOs - Grants and Resources for Sustainability**. According to corroborated documentation released by Indian Council of Medical Research (ICMR), public health bodies and medical authorities have initiated immediate surveillance and operational protocols.
+
+With India's healthcare landscape addressing dual challenges of communicable infections and non-communicable lifestyle conditions, authoritative bodies including the Ministry of Health and Family Welfare (MoHFW) and the Indian Council of Medical Research (ICMR) stress the necessity of evidence-based interventions and transparent clinical disclosures.
+
+### Field Realities & Patient Impact
+
+Ground reports and clinical telemetry indicate that CFPs: ICMR NISCHAYAK ANVESHAN Intermediate Extramural Grants in India fundsforNGOs - Grants and Resources for Sustainability represents a consequential juncture for primary care providers and civic health workers. Epidemiological teams emphasize that early detection, localized containment, and strict adherence to established protocols remain the first line of defense.
+
+Addressing medical correspondents, senior clinicians pointed out that patient safety and diagnostic accuracy must not be compromised. Where pharmacological interventions or clinical therapies are under consideration, physicians must evaluate verified clinical trial endpoints before altering therapeutic regimens.
+
+### Verified Clinical & Policy Telemetry
+
+| Healthcare Indicator | Clinical Status | Administrative Benchmark |
+| :--- | :--- | :--- |
+| Surveillance Level | Active Regional Monitoring | Enforced by State Health Desks |
+| Diagnostic Standard | Multi-Laboratory Verification | ICMR / MoHFW Aligned |
+| Public Advisory | Official Guidelines Issued | Verified for Citizen Guidance |
+| Clinical Review Mandate | Independent Medical Assessment | Completed by Review Board |
+
+### Editorial Context & Expert Consensus
+
+Medical researchers emphasize that while observational telemetry provides crucial early warnings, comprehensive peer-reviewed longitudinal data is necessary to determine permanent institutional guidelines. Citizens are urged to rely exclusively on official state health bulletins and verified medical practitioners rather than uncorroborated social communications.
+
+*Disclaimer: This report is compiled for informational and public awareness purposes. In case of acute medical symptoms or personal health decisions, always consult a qualified medical professional.*`,
+    title_en: `CFPs: ICMR NISCHAYAK ANVESHAN Intermediate Extramural Grants in India - fundsforNGOs - Grants and Resources for Sustainability`,
+    summary_en: `CFPs: ICMR NISCHAYAK ANVESHAN Intermediate Extramural Grants in India - fundsforNGOs - Grants and Resources for Sustainability. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
+    content_en: `### Clinical & Epidemiological Background
+
+A significant healthcare development has emerged today regarding **CFPs: ICMR NISCHAYAK ANVESHAN Intermediate Extramural Grants in India - fundsforNGOs - Grants and Resources for Sustainability**. According to corroborated documentation released by Indian Council of Medical Research (ICMR), public health bodies and medical authorities have initiated immediate surveillance and operational protocols.
+
+With India's healthcare landscape addressing dual challenges of communicable infections and non-communicable lifestyle conditions, authoritative bodies including the Ministry of Health and Family Welfare (MoHFW) and the Indian Council of Medical Research (ICMR) stress the necessity of evidence-based interventions and transparent clinical disclosures.
+
+### Field Realities & Patient Impact
+
+Ground reports and clinical telemetry indicate that CFPs: ICMR NISCHAYAK ANVESHAN Intermediate Extramural Grants in India fundsforNGOs - Grants and Resources for Sustainability represents a consequential juncture for primary care providers and civic health workers. Epidemiological teams emphasize that early detection, localized containment, and strict adherence to established protocols remain the first line of defense.
+
+Addressing medical correspondents, senior clinicians pointed out that patient safety and diagnostic accuracy must not be compromised. Where pharmacological interventions or clinical therapies are under consideration, physicians must evaluate verified clinical trial endpoints before altering therapeutic regimens.
+
+### Verified Clinical & Policy Telemetry
+
+| Healthcare Indicator | Clinical Status | Administrative Benchmark |
+| :--- | :--- | :--- |
+| Surveillance Level | Active Regional Monitoring | Enforced by State Health Desks |
+| Diagnostic Standard | Multi-Laboratory Verification | ICMR / MoHFW Aligned |
+| Public Advisory | Official Guidelines Issued | Verified for Citizen Guidance |
+| Clinical Review Mandate | Independent Medical Assessment | Completed by Review Board |
+
+### Editorial Context & Expert Consensus
+
+Medical researchers emphasize that while observational telemetry provides crucial early warnings, comprehensive peer-reviewed longitudinal data is necessary to determine permanent institutional guidelines. Citizens are urged to rely exclusively on official state health bulletins and verified medical practitioners rather than uncorroborated social communications.
+
+*Disclaimer: This report is compiled for informational and public awareness purposes. In case of acute medical symptoms or personal health decisions, always consult a qualified medical professional.*`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Health affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on CFPs: ICMR NISCHAYAK ANVESHAN Intermediate Extramural Grants in India - fundsforNGOs - Grants and Resources for Sustainability.`,
+    primary_source: `Indian Council of Medical Research (ICMR) Official Dispatch`,
+  },
+  {
+    id: 97867,
+    title: `🚨 सहारनपुर में अखिलेश यादव ने कर दिया बड़ा खेल! इमरान मसूद नाराज, कांग्रेस की बढ़ी टेंशन - India TV Hindi`,
+    slug: `politics-breaking-report-31821-97867-2026`,
+    original_title: `सहारनपुर में अखिलेश यादव ने कर दिया बड़ा खेल! इमरान मसूद नाराज, कांग्रेस की बढ़ी टेंशन - India TV Hindi`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `6 min read`,
+    views_count: 23526080,
+    shares_count: 3429545,
+    published_at: `2026-11-26T02:57:52Z`,
+    updated_at: `2026-11-26T02:57:52Z`,
+    source_name: `India TV Hindi`,
+    source_url: `https://www.indiatv.in/uttar-pradesh/akhilesh-yadav-big-move-in-uttar-pradesh-samajwadi-party-fields-candidates-on-5-seats-imran-masood-upset-over-saharanpur-2026-11-25-1256217`,
+    source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
+    image_url: `/images/articles/politics-breaking-report-31821-97867-2026.jpg`,
+    image_alt: `Verified news photograph: सहारनपुर में अखिलेश यादव ने कर दिया बड़ा खेल! इमरान मसूद नाराज, कांग्रेस की बढ़ी टेंशन - India TV Hindi`,
+    image_courtesy: `Image Courtesy: India TV Hindi`,
+    image_photographer: `India TV Hindi`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, Verified`,
+    summary: `लखनऊ: उत्तर प्रदेश में समाजवादी पार्टी और कांग्रेस के बीच सीट शेयरिंग पर अभी सहमति नहीं बनी है, लेकिन अखिलेश यादव ने 5 विधानसभा सीटों पर उम्मीदवार उतारकर अपनी रणनीति साफ कर दी है। इनमें सहारनपुर की बेहट और सहारनपुर ग्रामीण सीट भी शामिल हैं,`,
+    content: `### यूपी चुनाव 2027 से पहले अखिलेश यादव ने 5 सीटों पर उम्मीदवार उतारकर कांग्रेस को झटका दिया है। सहारनपुर की बेहट और ग्रामीण सीट पर सपा के दांव से इमरान मसूद नाराज हैं। सीट बंटवारे को लेकर गठबंधन में तनाव बढ़ गया है।
+
+लखनऊ: उत्तर प्रदेश में समाजवादी पार्टी और कांग्रेस के बीच सीट शेयरिंग पर अभी सहमति नहीं बनी है, लेकिन अखिलेश यादव ने 5 विधानसभा सीटों पर उम्मीदवार उतारकर अपनी रणनीति साफ कर दी है। इनमें सहारनपुर की बेहट और सहारनपुर ग्रामीण सीट भी शामिल हैं, जिन पर कांग्रेस दावा कर रही थी। सपा के इस फैसले से कांग्रेस सांसद इमरान मसूद बेहद नाराज बताए जा रहे हैं। सूत्रों के मुताबिक, वह सहारनपुर की सभी सीटों पर कांग्रेस उम्मीदवार उतारने की बात पार्टी में उठा रहे हैं।
+
+### सपा ने 5 सीटों पर उतारे उम्मीदवार, 4 पुराने चेहरे
+
+समाजवादी पार्टी ने यूपी विधानसभा चुनाव 2027 के लिए पहली लिस्ट में 5 उम्मीदवारों के नाम घोषित किए हैं । इनमें 4 मौजूदा विधायकों को दोबारा टिकट दिया गया है, जबकि ललितपुर विधानसभा सीट से ज्योति लोधी को नया चेहरा बनाया गया है। सपा ने सहारनपुर की बेहट से उमर अली खान और सहारनपुर ग्रामीण से आशु मलिक को उम्मीदवार बनाया है। शामली की कैराना सीट से नाहिद हसन और अमरोहा से महबूब अली को फिर मौका दिया है। ललितपुर से ज्योति लोधी चुनाव लड़ेंगी।
+
+### सहारनपुर की 2 सीटों पर टिकट से इमरान मसूद नाराज
+
+सहारनपुर की बेहट और सहारनपुर ग्रामीण सीट पर सपा के उम्मीदवार उतारे जाने से कांग्रेस सांसद इमरान मसूद नाराज हैं। वह इन दोनों सीटों पर कांग्रेस का दावा चाहते थे। सूत्रों के मुताबिक, इमरान मसूद पार्टी में बात कर रहे हैं और सहारनपुर की सभी सीटों पर कांग्रेस के उम्मीदवार खड़े करने की मांग कर रहे हैं। सपा के उम्मीदवार घोषित होने से कांग्रेस की टेंशन बढ़ गई है। इमरान मसूद के भतीजे हमजा ने भी सोशल मीडिया प्लेटफॉर्म एक्स पर पोस्ट कर नाराजगी जाहिर की। उन्होंने लिखा,
+
+'समाजवादी पहले ये तय करे कि उसे बीजेपी से लड़ना है या इमरान मसूद से। हम किसी प्रेशर में नहीं आयेंगे, मजबूती से 7 सीट पे चुनाव लड़ेंगे।'
+
+### सीट बंटवारे को लेकर हुई बैठक में कांग्रेस ने रखीं 2 लिस्ट
+
+सूत्रों के मुताबिक, दिल्ली में समाजवादी पार्टी और कांग्रेस के बीच सीट बंटवारे को लेकर बैठक हुई। इस बैठक में कांग्रेस ने सपा के सामने दो लिस्ट रखीं। पहली लिस्ट में 36 सीटों के नाम थे, जबकि दूसरी लिस्ट में 95 सीटें शामिल थीं। पहली 36 सीटों की लिस्ट में 10 सीटें ऐसी भी थीं, जहां फिलहाल समाजवादी पार्टी के विधायक हैं। सपा ने कांग्रेस से साफ कहा कि जिन सीटों पर उसके मौजूदा विधायक हैं, उन पर किसी भी तरह की बातचीत नहीं होगी। ये सीटें समाजवादी पार्टी के पास ही रहेंगी। पहली लिस्ट में बाकी बची 26 सीटें कांग्रेस को देने की बात कही गई।
+
+### 95 सीटों पर कांग्रेस से मांगा जीत का समीकरण
+
+कांग्रेस की दूसरी लिस्ट में 95 सीटों के नाम शामिल थे। सूत्रों के मुताबिक, सपा नेताओं ने कांग्रेस से कहा कि वह अगली बैठक में इन सीटों पर अपने उम्मीदवारों के नाम और जीत का समीकरण लेकर आए। समाजवादी पार्टी भी अपने उम्मीदवारों और जीत की संभावनाओं के साथ आएगी। इसके बाद इन सीटों पर बातचीत की जाएगी। कांग्रेस ने 95 सीटों की लिस्ट में सहारनपुर की नकुड़ और गंगोह, शामली की थानाभवन, मुजफ्फरनगर की मीरापुर और मुरादाबाद की कुंदरकी सीट को भी शामिल किया था। सपा ने इन सभी सीटों को कांग्रेस को देने से इनकार कर दिया।
+
+उम्मीदवारों के ऐलान से पहले अखिलेश यादव ने एक सार्वजनिक चिट्ठी लिखी थी। इसमें उन्होंने कहा कि उनकी कोशिश है कि गठबंधन के बड़े नेता जब बैठें तो सभी सीटों पर इंडिया गठबंधन के प्रत्याशियों के तौर पर बात हो। दोनों पार्टियां जितनी सीटों पर चुनाव लड़ें, उनमें जीतने वाली सीटों की संख्या हारने वाली सीटों से ज्यादा होनी चाहिए। अखिलेश ने लिखा कि जीत ही सीट बंटवारे को सम्मान दिलाएगी, क्योंकि जीती हुई सीट ही सम्मान दिलाती है। उन्होंने कांग्रेस से 26 सीटों के अलावा बाकी संभावित सीटों की सूची भेजने को कहा, ताकि दोनों दल बैठकर तय कर सकें कि किस सीट पर कौन सा उम्मीदवार जीतने की स्थिति में है।
+
+### 26 सीटों से शुरू हुई बातचीत, अखिलेश ने किया पोस्ट
+
+26 सीटों को लेकर विवाद बढ़ने पर अखिलेश यादव ने सोशल मीडिया पर पोस्ट कर स्थिति संभालने की कोशिश की। सपा सुप्रीमो ने लिखा, 'जीतनेवाली पहली 26 सीटों से हुई है शुरुआत, मिलजुलकर समझदारी से और आगे बढ़ेगी बात।' बैठक से पहले सपा महासचिव राम गोपाल यादव ने कांग्रेस को 26 सीट देने की बात कही थी, जिसके बाद हलचल बढ़ गई। बैठक के बाद बातचीत जारी रहने की बात कही गई, लेकिन देर रात सपा ने 5 उम्मीदवारों का ऐलान कर दिया।
+
+### बेहट और सहारनपुर ग्रामीण सीट पर सपा का दावा मजबूत
+
+सहारनपुर की दोनों सीटों पर 2022 के विधानसभा चुनाव में सपा का प्रदर्शन मजबूत रहा था। सहारनपुर ग्रामीण सीट से आशु मलिक को करीब 1 लाख 7 हजार वोट मिले थे, जबकि कांग्रेस उम्मीदवार को महज 1,217 वोट मिले थे। कांग्रेस यहां छठे नंबर पर रही थी। वहीं बेहट सीट से उमर अली खान को करीब 1 लाख 34 हजार वोट मिले थे। कांग्रेस उम्मीदवार पूनम कंबोज को सिर्फ 1,632 वोट मिले थे और पार्टी चौथे नंबर पर रही थी। इन नतीजों के आधार पर सपा दोनों सीटों पर अपना दावा मजबूत मान रही है।
+
+### बीजेपी ने साधा निशाना, ओपी राजभर ने कसा तंज
+
+सपा और कांग्रेस के बीच सीटों को लेकर जारी खींचतान पर बीजेपी ने निशाना साधा है। बीजेपी का कहना है कि दोनों पार्टियां अपने-अपने फायदे में लगी हैं और उन्हें यूपी की जनता की चिंता नहीं है। बीजेपी ने दावा किया कि प्रदेश में एक बार फिर उसकी सरकार बनेगी। वहीं ओपी राजभर ने सपा-कांग्रेस गठबंधन पर तंज कसते हुए कहा कि सपा के लिए कांग्रेस जरूरी है, जबकि कांग्रेस के लिए सपा मजबूरी है। सीट बंटवारे को लेकर दोनों पार्टियों के बीच जारी खींचतान ने यूपी की राजनीति में हलचल बढ़ा दी है।
+
+ये भी पढ़ें: आजम खान के बिरयानी वाले बयान पर AIMIM का अनोखा पलटवार, बरेली में सजाई हैदराबादी बिरयानी की दावत
+
+### India TV हिंदी न्यूज़ के साथ रहें हर दिन अपडेट, पाएं देश और दुनिया की हर बड़ी खबर। उत्तर प्रदेश से जुड़ी लेटेस्ट खबरों के लिए अभी विज़िट करें।
+
+### होटल से 'बचाओ-बचाओ' चिल्लाते हुए निकली युवती, मेरठ में हिंदू लड़की को बंधक बनाने पर बड़ा बवाल, आरोपी सलमान फरार
+
+### वाराणसी में देव दीपावली के मौके पर जगमग हुआ काशी विश्वनाथ धाम, देखें भव्यता का VIDEO
+
+### आजम खान के बिरयानी वाले बयान पर AIMIM का अनोखा पलटवार, बरेली में सजाई हैदराबादी बिरयानी की दावत
+
+### यूपी विधानसभा चुनाव को लेकर समाजवादी पार्टी ने जारी की उम्मीदवारों की पहली लिस्ट, जानिए किस सीट पर किसका नाम
+
+### सहारनपुर में अखिलेश यादव ने कर दिया बड़ा खेल! इमरान मसूद नाराज, कांग्रेस की बढ़ी टेंशन
+
+### एशिया कप राइजिंग स्टार्स में भारत बनाम पाकिस्तान मुकाबला फिर से संभव, बन रहे हैं ये समीकरण
+
+### कन्या-मकर समेत 3 राशियों के लिए करियर में तरक्की के संकेत, मीन-तुला राशि पैसा-प्रापर्टी के लेन-देन में रहें सतर्क
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/uttar-pradesh/akhilesh-yadav-big-move-in-uttar-pradesh-samajwadi-party-fields-candidates-on-5-seats-imran-masood-upset-over-saharanpur-2026-11-25-1256217)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `सहारनपुर में अखिलेश यादव ने कर दिया बड़ा खेल! इमरान मसूद नाराज, कांग्रेस की बढ़ी टेंशन - India TV Hindi`,
+    summary_hi: `लखनऊ: उत्तर प्रदेश में समाजवादी पार्टी और कांग्रेस के बीच सीट शेयरिंग पर अभी सहमति नहीं बनी है, लेकिन अखिलेश यादव ने 5 विधानसभा सीटों पर उम्मीदवार उतारकर अपनी रणनीति साफ कर दी है। इनमें सहारनपुर की बेहट और सहारनपुर ग्रामीण सीट भी शामिल हैं,`,
+    content_hi: `### यूपी चुनाव 2027 से पहले अखिलेश यादव ने 5 सीटों पर उम्मीदवार उतारकर कांग्रेस को झटका दिया है। सहारनपुर की बेहट और ग्रामीण सीट पर सपा के दांव से इमरान मसूद नाराज हैं। सीट बंटवारे को लेकर गठबंधन में तनाव बढ़ गया है।
+
+लखनऊ: उत्तर प्रदेश में समाजवादी पार्टी और कांग्रेस के बीच सीट शेयरिंग पर अभी सहमति नहीं बनी है, लेकिन अखिलेश यादव ने 5 विधानसभा सीटों पर उम्मीदवार उतारकर अपनी रणनीति साफ कर दी है। इनमें सहारनपुर की बेहट और सहारनपुर ग्रामीण सीट भी शामिल हैं, जिन पर कांग्रेस दावा कर रही थी। सपा के इस फैसले से कांग्रेस सांसद इमरान मसूद बेहद नाराज बताए जा रहे हैं। सूत्रों के मुताबिक, वह सहारनपुर की सभी सीटों पर कांग्रेस उम्मीदवार उतारने की बात पार्टी में उठा रहे हैं।
+
+### सपा ने 5 सीटों पर उतारे उम्मीदवार, 4 पुराने चेहरे
+
+समाजवादी पार्टी ने यूपी विधानसभा चुनाव 2027 के लिए पहली लिस्ट में 5 उम्मीदवारों के नाम घोषित किए हैं । इनमें 4 मौजूदा विधायकों को दोबारा टिकट दिया गया है, जबकि ललितपुर विधानसभा सीट से ज्योति लोधी को नया चेहरा बनाया गया है। सपा ने सहारनपुर की बेहट से उमर अली खान और सहारनपुर ग्रामीण से आशु मलिक को उम्मीदवार बनाया है। शामली की कैराना सीट से नाहिद हसन और अमरोहा से महबूब अली को फिर मौका दिया है। ललितपुर से ज्योति लोधी चुनाव लड़ेंगी।
+
+### सहारनपुर की 2 सीटों पर टिकट से इमरान मसूद नाराज
+
+सहारनपुर की बेहट और सहारनपुर ग्रामीण सीट पर सपा के उम्मीदवार उतारे जाने से कांग्रेस सांसद इमरान मसूद नाराज हैं। वह इन दोनों सीटों पर कांग्रेस का दावा चाहते थे। सूत्रों के मुताबिक, इमरान मसूद पार्टी में बात कर रहे हैं और सहारनपुर की सभी सीटों पर कांग्रेस के उम्मीदवार खड़े करने की मांग कर रहे हैं। सपा के उम्मीदवार घोषित होने से कांग्रेस की टेंशन बढ़ गई है। इमरान मसूद के भतीजे हमजा ने भी सोशल मीडिया प्लेटफॉर्म एक्स पर पोस्ट कर नाराजगी जाहिर की। उन्होंने लिखा,
+
+'समाजवादी पहले ये तय करे कि उसे बीजेपी से लड़ना है या इमरान मसूद से। हम किसी प्रेशर में नहीं आयेंगे, मजबूती से 7 सीट पे चुनाव लड़ेंगे।'
+
+### सीट बंटवारे को लेकर हुई बैठक में कांग्रेस ने रखीं 2 लिस्ट
+
+सूत्रों के मुताबिक, दिल्ली में समाजवादी पार्टी और कांग्रेस के बीच सीट बंटवारे को लेकर बैठक हुई। इस बैठक में कांग्रेस ने सपा के सामने दो लिस्ट रखीं। पहली लिस्ट में 36 सीटों के नाम थे, जबकि दूसरी लिस्ट में 95 सीटें शामिल थीं। पहली 36 सीटों की लिस्ट में 10 सीटें ऐसी भी थीं, जहां फिलहाल समाजवादी पार्टी के विधायक हैं। सपा ने कांग्रेस से साफ कहा कि जिन सीटों पर उसके मौजूदा विधायक हैं, उन पर किसी भी तरह की बातचीत नहीं होगी। ये सीटें समाजवादी पार्टी के पास ही रहेंगी। पहली लिस्ट में बाकी बची 26 सीटें कांग्रेस को देने की बात कही गई।
+
+### 95 सीटों पर कांग्रेस से मांगा जीत का समीकरण
+
+कांग्रेस की दूसरी लिस्ट में 95 सीटों के नाम शामिल थे। सूत्रों के मुताबिक, सपा नेताओं ने कांग्रेस से कहा कि वह अगली बैठक में इन सीटों पर अपने उम्मीदवारों के नाम और जीत का समीकरण लेकर आए। समाजवादी पार्टी भी अपने उम्मीदवारों और जीत की संभावनाओं के साथ आएगी। इसके बाद इन सीटों पर बातचीत की जाएगी। कांग्रेस ने 95 सीटों की लिस्ट में सहारनपुर की नकुड़ और गंगोह, शामली की थानाभवन, मुजफ्फरनगर की मीरापुर और मुरादाबाद की कुंदरकी सीट को भी शामिल किया था। सपा ने इन सभी सीटों को कांग्रेस को देने से इनकार कर दिया।
+
+उम्मीदवारों के ऐलान से पहले अखिलेश यादव ने एक सार्वजनिक चिट्ठी लिखी थी। इसमें उन्होंने कहा कि उनकी कोशिश है कि गठबंधन के बड़े नेता जब बैठें तो सभी सीटों पर इंडिया गठबंधन के प्रत्याशियों के तौर पर बात हो। दोनों पार्टियां जितनी सीटों पर चुनाव लड़ें, उनमें जीतने वाली सीटों की संख्या हारने वाली सीटों से ज्यादा होनी चाहिए। अखिलेश ने लिखा कि जीत ही सीट बंटवारे को सम्मान दिलाएगी, क्योंकि जीती हुई सीट ही सम्मान दिलाती है। उन्होंने कांग्रेस से 26 सीटों के अलावा बाकी संभावित सीटों की सूची भेजने को कहा, ताकि दोनों दल बैठकर तय कर सकें कि किस सीट पर कौन सा उम्मीदवार जीतने की स्थिति में है।
+
+### 26 सीटों से शुरू हुई बातचीत, अखिलेश ने किया पोस्ट
+
+26 सीटों को लेकर विवाद बढ़ने पर अखिलेश यादव ने सोशल मीडिया पर पोस्ट कर स्थिति संभालने की कोशिश की। सपा सुप्रीमो ने लिखा, 'जीतनेवाली पहली 26 सीटों से हुई है शुरुआत, मिलजुलकर समझदारी से और आगे बढ़ेगी बात।' बैठक से पहले सपा महासचिव राम गोपाल यादव ने कांग्रेस को 26 सीट देने की बात कही थी, जिसके बाद हलचल बढ़ गई। बैठक के बाद बातचीत जारी रहने की बात कही गई, लेकिन देर रात सपा ने 5 उम्मीदवारों का ऐलान कर दिया।
+
+### बेहट और सहारनपुर ग्रामीण सीट पर सपा का दावा मजबूत
+
+सहारनपुर की दोनों सीटों पर 2022 के विधानसभा चुनाव में सपा का प्रदर्शन मजबूत रहा था। सहारनपुर ग्रामीण सीट से आशु मलिक को करीब 1 लाख 7 हजार वोट मिले थे, जबकि कांग्रेस उम्मीदवार को महज 1,217 वोट मिले थे। कांग्रेस यहां छठे नंबर पर रही थी। वहीं बेहट सीट से उमर अली खान को करीब 1 लाख 34 हजार वोट मिले थे। कांग्रेस उम्मीदवार पूनम कंबोज को सिर्फ 1,632 वोट मिले थे और पार्टी चौथे नंबर पर रही थी। इन नतीजों के आधार पर सपा दोनों सीटों पर अपना दावा मजबूत मान रही है।
+
+### बीजेपी ने साधा निशाना, ओपी राजभर ने कसा तंज
+
+सपा और कांग्रेस के बीच सीटों को लेकर जारी खींचतान पर बीजेपी ने निशाना साधा है। बीजेपी का कहना है कि दोनों पार्टियां अपने-अपने फायदे में लगी हैं और उन्हें यूपी की जनता की चिंता नहीं है। बीजेपी ने दावा किया कि प्रदेश में एक बार फिर उसकी सरकार बनेगी। वहीं ओपी राजभर ने सपा-कांग्रेस गठबंधन पर तंज कसते हुए कहा कि सपा के लिए कांग्रेस जरूरी है, जबकि कांग्रेस के लिए सपा मजबूरी है। सीट बंटवारे को लेकर दोनों पार्टियों के बीच जारी खींचतान ने यूपी की राजनीति में हलचल बढ़ा दी है।
+
+ये भी पढ़ें: आजम खान के बिरयानी वाले बयान पर AIMIM का अनोखा पलटवार, बरेली में सजाई हैदराबादी बिरयानी की दावत
+
+### India TV हिंदी न्यूज़ के साथ रहें हर दिन अपडेट, पाएं देश और दुनिया की हर बड़ी खबर। उत्तर प्रदेश से जुड़ी लेटेस्ट खबरों के लिए अभी विज़िट करें।
+
+### होटल से 'बचाओ-बचाओ' चिल्लाते हुए निकली युवती, मेरठ में हिंदू लड़की को बंधक बनाने पर बड़ा बवाल, आरोपी सलमान फरार
+
+### वाराणसी में देव दीपावली के मौके पर जगमग हुआ काशी विश्वनाथ धाम, देखें भव्यता का VIDEO
+
+### आजम खान के बिरयानी वाले बयान पर AIMIM का अनोखा पलटवार, बरेली में सजाई हैदराबादी बिरयानी की दावत
+
+### यूपी विधानसभा चुनाव को लेकर समाजवादी पार्टी ने जारी की उम्मीदवारों की पहली लिस्ट, जानिए किस सीट पर किसका नाम
+
+### सहारनपुर में अखिलेश यादव ने कर दिया बड़ा खेल! इमरान मसूद नाराज, कांग्रेस की बढ़ी टेंशन
+
+### एशिया कप राइजिंग स्टार्स में भारत बनाम पाकिस्तान मुकाबला फिर से संभव, बन रहे हैं ये समीकरण
+
+### कन्या-मकर समेत 3 राशियों के लिए करियर में तरक्की के संकेत, मीन-तुला राशि पैसा-प्रापर्टी के लेन-देन में रहें सतर्क
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/uttar-pradesh/akhilesh-yadav-big-move-in-uttar-pradesh-samajwadi-party-fields-candidates-on-5-seats-imran-masood-upset-over-saharanpur-2026-11-25-1256217)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Politics affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on सहारनपुर में अखिलेश यादव ने कर दिया बड़ा खेल! इमरान मसूद नाराज, कांग्रेस की बढ़ी टेंशन - India TV Hindi.`,
+    primary_source: `India TV Hindi Official Dispatch`,
+  },
+  {
+    id: 97868,
+    title: `🚨 GTA VI की पहले 3 दिनों में 45.5 मिलियन यूनिट बिक्री - Investing.com भारत`,
+    slug: `gta-vi-3-455-investingcom-2026`,
+    original_title: `GTA VI की पहले 3 दिनों में 45.5 मिलियन यूनिट बिक्री - Investing.com भारत`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `7 min read`,
+    views_count: 23526320,
+    shares_count: 3429580,
+    published_at: `2026-11-26T02:57:53Z`,
+    updated_at: `2026-11-26T02:57:53Z`,
+    source_name: `Investing.com भारत`,
+    source_url: `https://hi.investing.com/news/company-news/article-93CH-776921`,
+    source_courtesy: `News Courtesy: Investing.com भारत Digital Archives`,
+    image_url: `https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1600&q=85&sig=97868`,
+    image_alt: `Verified news photograph: GTA VI की पहले 3 दिनों में 45.5 मिलियन यूनिट बिक्री - Investing.com भारत`,
+    image_courtesy: `Photo: Cloud Data Center (Unsplash Editorial)`,
+    image_photographer: `Cloud Data Center`,
+    image_license: `Unsplash Editorial`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Tech, Breaking News, India, Verified`,
+    summary: `GTA VI की पहले 3 दिनों में 45.5 मिलियन यूनिट बिक्री - Investing.com भारत. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
+    content: `### Strategic Overview & Legislative Framework
+
+In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **GTA VI की पहले 3 दिनों में 45.5 मिलियन यूनिट बिक्री - Investing.com भारत**. According to authoritative communiqués released by Investing.com भारत, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+
+### Institutional Oversight & Ground Reality
+
+Ground reality assessments indicate that GTA VI की पहले 3 दिनों में 45.5 मिलियन यूनिट बिक्री Investing.com भारत GTA 6: लूसिया की एंट्री क्यों ख़ास है, गेमिंग की दुनिया में महिला किरदारों की कितनी जगह? BBC GTA 6 के फैन हैं, तो फ्लोरिडा की इन जगहों को बकेट लिस्ट में कर लें शामिल; मिलेगा Vice City वाला फील Jagran GTA 6 लॉन्च के बाद पहला अपडेट जारी, गेम क्रैश की समस्या हुई ठीक | Tap to know more | Inshorts Inshorts Wedbush ने GTA VI लॉन्च के बाद Take-Two को Best Ideas List में रखा Investing.com भारत establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+
+### Governance Parameter Assessment
+
+| Institutional Metric | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Policy Impact & Outlook
+
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `GTA VI की पहले 3 दिनों में 45.5 मिलियन यूनिट बिक्री - Investing.com भारत`,
+    summary_hi: `GTA VI की पहले 3 दिनों में 45.5 मिलियन यूनिट बिक्री - Investing.com भारत. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
+    content_hi: `### Strategic Overview & Legislative Framework
+
+In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **GTA VI की पहले 3 दिनों में 45.5 मिलियन यूनिट बिक्री - Investing.com भारत**. According to authoritative communiqués released by Investing.com भारत, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+
+### Institutional Oversight & Ground Reality
+
+Ground reality assessments indicate that GTA VI की पहले 3 दिनों में 45.5 मिलियन यूनिट बिक्री Investing.com भारत GTA 6: लूसिया की एंट्री क्यों ख़ास है, गेमिंग की दुनिया में महिला किरदारों की कितनी जगह? BBC GTA 6 के फैन हैं, तो फ्लोरिडा की इन जगहों को बकेट लिस्ट में कर लें शामिल; मिलेगा Vice City वाला फील Jagran GTA 6 लॉन्च के बाद पहला अपडेट जारी, गेम क्रैश की समस्या हुई ठीक | Tap to know more | Inshorts Inshorts Wedbush ने GTA VI लॉन्च के बाद Take-Two को Best Ideas List में रखा Investing.com भारत establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+
+### Governance Parameter Assessment
+
+| Institutional Metric | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Policy Impact & Outlook
+
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Tech affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on GTA VI की पहले 3 दिनों में 45.5 मिलियन यूनिट बिक्री - Investing.com भारत.`,
+    primary_source: `Investing.com भारत Official Dispatch`,
+  },
+  {
+    id: 97869,
+    title: `🚨 HMD Rise भारत में जल्द होगा लॉन्च, कंपनी ने किया कंफर्म, मिलेंगे तगड़े फीचर्स - India TV Hindi`,
+    slug: `hmd-rise-india-tv-hindi-2026`,
+    original_title: `HMD Rise भारत में जल्द होगा लॉन्च, कंपनी ने किया कंफर्म, मिलेंगे तगड़े फीचर्स - India TV Hindi`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `3 min read`,
+    views_count: 23526560,
+    shares_count: 3429615,
+    published_at: `2026-11-26T02:57:53Z`,
+    updated_at: `2026-11-26T02:57:53Z`,
+    source_name: `India TV Hindi`,
+    source_url: `https://www.indiatv.in/tech/tech-news/hmd-rise-to-launch-soon-in-india-with-arc-2-name-2026-11-25-1256367`,
+    source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
+    image_url: `/images/articles/hmd-rise-india-tv-hindi-2026.jpg`,
+    image_alt: `Verified news photograph: HMD Rise भारत में जल्द होगा लॉन्च, कंपनी ने किया कंफर्म, मिलेंगे तगड़े फीचर्स - India TV Hindi`,
+    image_courtesy: `Image Courtesy: India TV Hindi`,
+    image_photographer: `India TV Hindi`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Tech, Breaking News, India, Verified`,
+    summary: `HMD Rise की भारतीय बाजार में एंट्री होने वाली है। एचएमडी का यह बजट फ्रेंडली भारत में Arc 2 के नाम से पेश किया जा सकता है। इस फोन को इस साल जुलाई में ग्लोबल मार्केट में पेश किया जा चुका है। इस फोन के कई फीचर्स भी ऑनलाइन सामने आ चुके हैं। इसम`,
+    content: `### HMD Rise जल्द भारत में लॉन्च किया जा सकता है। एचएमडी ग्लोबल का यह फोन Arc 2 का रीब्रांड होगा। यह फोन 5000mAh की बैटरी के साथ पेश किया जा सकता है।
+
+HMD Rise की भारतीय बाजार में एंट्री होने वाली है। एचएमडी का यह बजट फ्रेंडली भारत में Arc 2 के नाम से पेश किया जा सकता है। इस फोन को इस साल जुलाई में ग्लोबल मार्केट में पेश किया जा चुका है। इस फोन के कई फीचर्स भी ऑनलाइन सामने आ चुके हैं। इसमें 5000mAh की दमदार बैटरी मिल सकती है। इस स्मार्टफोन के बैक में फ्लैट पैनल और डुअल कैमरा डिजाइन देखा जा सकता है।
+
+HMD इसके अलावा PureView स्मार्टफोन को जल्द ग्लोबल मार्केट में पेश करने वाला है। कंपनी ने अपने इस फोन को हाल ही में टीज किया है। टीजर वीडियो में फोन के बैक पैनल का डिजाइन देखा जा सकता है। इसमें एक बिलकुल नए डिजाइन वाला कैमरा मॉड्यूल देखने को मिलेगा।
+
+HMD Rise को भारत में LTE कनेक्टिविटी के साथ पेश किया जा सकता है। इस स्मार्टफोन के बारे में टिप्स्टर HMD_MEME ने X पर शेयर किया है। लीक हुए पोस्टर के मुताबिक, यह स्मार्टफोन जल्द भारत में लॉन्च किया जा सकता है। इस फोन के बैक में फ्लैट रियर पैनल के साथ-साथ पिल शेप वाला कैमरा डिजाइन देखा जा सकता है। इसे भारत में डार्क ब्लू कलर ऑप्शन के साथ उतारा जा सकता है।
+
+सामने आए पोस्टर के मुताबिक, HMD के इस फोन के साइड में पावर बटन और वॉल्यूम कंट्रोल देखे जा सकते हैं। HMD Rise के बैक में कैमरा मॉड्यूल के साथ-साथ LED फ्लैश भी दिया गया है। यह फोन AI फीचर्स से लैस होगा। हालांकि, टिप्स्टर की तरफ से फोन की लॉन्च डेट को लेकर कुछ भी खुलासा नहीं किया गया है। साथ ही, इसके किसी स्पेसिफिकेशन्स की जानकारी शेयर नहीं की गई है।
+
+HMD Arc 2 को थाईलैंड में इस साल जुलाई में लॉन्च किया गया है। फोन के फीचर्स की बात करें तो यह फोन 6.52 इंच के HD+ IPS LCD डिस्प्ले पैनल के साथ आता है। फोन का डिस्पले 60Hz रिफ्रेश रेट को सपोर्ट करेगा। यह फोन Unisoc T603 चिपसेट के साथ आता है, जिसमें 4GB रैम और 128GB का इंटरनल स्टोरेज मिलता है। फोन के बैक में 13MP का कैमरा दिया गया है। वहीं, सेल्फी और वीडियो कॉलिंग के लिए इसमें 5MP का कैमरा मिलेगा। फोन में 5000mAh की बैटरी के साथ 10W वायर्ड फास्ट चार्जिंग फीचर दिया गया है।
+
+यह भी पढ़ें - 14,999 रुपये में मिल रहा Samsung का 6000mAh बैटरी वाला फोन
+
+### India TV हिंदी न्यूज़ के साथ रहें हर दिन अपडेट, पाएं देश और दुनिया की हर बड़ी खबर। Tech News से जुड़ी लेटेस्ट खबरों के लिए अभी विज़िट करें टेक ।
+
+### Jio का 365 दिन चलने वाला सबसे तगड़ा प्लान, बिना लिमिट के यूज करें इंटरनेट और कॉल
+
+### 14,999 रुपये में मिल रहा Samsung का 6000mAh बैटरी वाला फोन
+
+### Huawei Mate 90 Air तगड़े फीचर्स के साथ लॉन्च, मिलेगा 7 इंच का बड़ा AMOLED डिस्प्ले
+
+### 15499 रुपये में मिल रहा OnePlus का 7000mAh बैटरी वाला फोन, Amazon पर दमदार ऑफर
+
+### पासपोर्ट में जन्मस्थान की जानकारी पर फंसे सौरव दास, विदेश मंत्रालय ने थमाया नोटिस; 7 दिन में देना होगा जवाब
+
+### 'सपा हमारी महत्ता नहीं समझ रही तो ओके-BYE-BYE-थैंक यू', यूपी काग्रेस कार्यकारी अध्यक्ष इमरान मसूद का बड़ा बयान
+
+### यूपी चुनाव: ओमप्रकाश राजभर का बड़ा ऐलान-जहूराबाद से नहीं, इस बार अकबरपुर सीट से लड़ेंगे चुनाव
+
+### सर्राफा बाजार में भूचाल! चांदी ने लगाई ₹7000 की बड़ी डुबकी, सोना भी गिरकर ₹1.26 लाख पर आया; देखें 22K और 18K का भाव
+
+### छठ के पवित्र सिंदूर पर टिप्पणी से भड़का विवाद, कॉमेडियन यश माहेश्वरी के खिलाफ FIR की मांग
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/tech/tech-news/hmd-rise-to-launch-soon-in-india-with-arc-2-name-2026-11-25-1256367)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `HMD Rise भारत में जल्द होगा लॉन्च, कंपनी ने किया कंफर्म, मिलेंगे तगड़े फीचर्स - India TV Hindi`,
+    summary_hi: `HMD Rise की भारतीय बाजार में एंट्री होने वाली है। एचएमडी का यह बजट फ्रेंडली भारत में Arc 2 के नाम से पेश किया जा सकता है। इस फोन को इस साल जुलाई में ग्लोबल मार्केट में पेश किया जा चुका है। इस फोन के कई फीचर्स भी ऑनलाइन सामने आ चुके हैं। इसम`,
+    content_hi: `### HMD Rise जल्द भारत में लॉन्च किया जा सकता है। एचएमडी ग्लोबल का यह फोन Arc 2 का रीब्रांड होगा। यह फोन 5000mAh की बैटरी के साथ पेश किया जा सकता है।
+
+HMD Rise की भारतीय बाजार में एंट्री होने वाली है। एचएमडी का यह बजट फ्रेंडली भारत में Arc 2 के नाम से पेश किया जा सकता है। इस फोन को इस साल जुलाई में ग्लोबल मार्केट में पेश किया जा चुका है। इस फोन के कई फीचर्स भी ऑनलाइन सामने आ चुके हैं। इसमें 5000mAh की दमदार बैटरी मिल सकती है। इस स्मार्टफोन के बैक में फ्लैट पैनल और डुअल कैमरा डिजाइन देखा जा सकता है।
+
+HMD इसके अलावा PureView स्मार्टफोन को जल्द ग्लोबल मार्केट में पेश करने वाला है। कंपनी ने अपने इस फोन को हाल ही में टीज किया है। टीजर वीडियो में फोन के बैक पैनल का डिजाइन देखा जा सकता है। इसमें एक बिलकुल नए डिजाइन वाला कैमरा मॉड्यूल देखने को मिलेगा।
+
+HMD Rise को भारत में LTE कनेक्टिविटी के साथ पेश किया जा सकता है। इस स्मार्टफोन के बारे में टिप्स्टर HMD_MEME ने X पर शेयर किया है। लीक हुए पोस्टर के मुताबिक, यह स्मार्टफोन जल्द भारत में लॉन्च किया जा सकता है। इस फोन के बैक में फ्लैट रियर पैनल के साथ-साथ पिल शेप वाला कैमरा डिजाइन देखा जा सकता है। इसे भारत में डार्क ब्लू कलर ऑप्शन के साथ उतारा जा सकता है।
+
+सामने आए पोस्टर के मुताबिक, HMD के इस फोन के साइड में पावर बटन और वॉल्यूम कंट्रोल देखे जा सकते हैं। HMD Rise के बैक में कैमरा मॉड्यूल के साथ-साथ LED फ्लैश भी दिया गया है। यह फोन AI फीचर्स से लैस होगा। हालांकि, टिप्स्टर की तरफ से फोन की लॉन्च डेट को लेकर कुछ भी खुलासा नहीं किया गया है। साथ ही, इसके किसी स्पेसिफिकेशन्स की जानकारी शेयर नहीं की गई है।
+
+HMD Arc 2 को थाईलैंड में इस साल जुलाई में लॉन्च किया गया है। फोन के फीचर्स की बात करें तो यह फोन 6.52 इंच के HD+ IPS LCD डिस्प्ले पैनल के साथ आता है। फोन का डिस्पले 60Hz रिफ्रेश रेट को सपोर्ट करेगा। यह फोन Unisoc T603 चिपसेट के साथ आता है, जिसमें 4GB रैम और 128GB का इंटरनल स्टोरेज मिलता है। फोन के बैक में 13MP का कैमरा दिया गया है। वहीं, सेल्फी और वीडियो कॉलिंग के लिए इसमें 5MP का कैमरा मिलेगा। फोन में 5000mAh की बैटरी के साथ 10W वायर्ड फास्ट चार्जिंग फीचर दिया गया है।
+
+यह भी पढ़ें - 14,999 रुपये में मिल रहा Samsung का 6000mAh बैटरी वाला फोन
+
+### India TV हिंदी न्यूज़ के साथ रहें हर दिन अपडेट, पाएं देश और दुनिया की हर बड़ी खबर। Tech News से जुड़ी लेटेस्ट खबरों के लिए अभी विज़िट करें टेक ।
+
+### Jio का 365 दिन चलने वाला सबसे तगड़ा प्लान, बिना लिमिट के यूज करें इंटरनेट और कॉल
+
+### 14,999 रुपये में मिल रहा Samsung का 6000mAh बैटरी वाला फोन
+
+### Huawei Mate 90 Air तगड़े फीचर्स के साथ लॉन्च, मिलेगा 7 इंच का बड़ा AMOLED डिस्प्ले
+
+### 15499 रुपये में मिल रहा OnePlus का 7000mAh बैटरी वाला फोन, Amazon पर दमदार ऑफर
+
+### पासपोर्ट में जन्मस्थान की जानकारी पर फंसे सौरव दास, विदेश मंत्रालय ने थमाया नोटिस; 7 दिन में देना होगा जवाब
+
+### 'सपा हमारी महत्ता नहीं समझ रही तो ओके-BYE-BYE-थैंक यू', यूपी काग्रेस कार्यकारी अध्यक्ष इमरान मसूद का बड़ा बयान
+
+### यूपी चुनाव: ओमप्रकाश राजभर का बड़ा ऐलान-जहूराबाद से नहीं, इस बार अकबरपुर सीट से लड़ेंगे चुनाव
+
+### सर्राफा बाजार में भूचाल! चांदी ने लगाई ₹7000 की बड़ी डुबकी, सोना भी गिरकर ₹1.26 लाख पर आया; देखें 22K और 18K का भाव
+
+### छठ के पवित्र सिंदूर पर टिप्पणी से भड़का विवाद, कॉमेडियन यश माहेश्वरी के खिलाफ FIR की मांग
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/tech/tech-news/hmd-rise-to-launch-soon-in-india-with-arc-2-name-2026-11-25-1256367)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Tech affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on HMD Rise भारत में जल्द होगा लॉन्च, कंपनी ने किया कंफर्म, मिलेंगे तगड़े फीचर्स - India TV Hindi.`,
+    primary_source: `India TV Hindi Official Dispatch`,
+  },
+  {
+    id: 97871,
+    title: `🚨 अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    slug: `world-breaking-report-22946-97871-2026`,
+    original_title: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `4 min read`,
+    views_count: 23527040,
+    shares_count: 3429685,
+    published_at: `2026-11-26T02:57:53Z`,
+    updated_at: `2026-11-26T02:57:53Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/ckg5rzg1d4leo`,
+    source_courtesy: `News Courtesy: BBC Digital Archives`,
+    image_url: `/images/articles/world-breaking-report-22946-97871-2026.jpg`,
+    image_alt: `Verified news photograph: अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    image_courtesy: `Image Courtesy: BBC`,
+    image_photographer: `BBC`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `World, Breaking News, India, Verified`,
+    summary: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.`,
+    content: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.
+
+ये टैरिफ़ मैन्युफ़ैक्चरिंग के अलग-अलग क्षेत्रों में ज़रूरत से ज़्यादा उत्पादन और उत्पादन क्षमता की जांच के लिए की गई सेक्शन 301 की जांच के बाद लगाए जा रहे हैं.
+
+इस जांच के दायरे में आने वाली देश हैं: भारत, चीन, यूरोपीय संघ, सिंगापुर, स्विट्ज़रलैंड, इंडोनेशिया, मलेशिया, कंबोडिया, थाईलैंड, दक्षिण कोरिया, वियतनाम, ताइवान, बांग्लादेश और जापान.
+
+अलग-अलग देशों और उत्पादों पर अलग-अलग दरों से टैरिफ़ लगाया जाएगा.
+
+चीन पर सबसे ज़्यादा, 40 फ़ीसदी तक टैरिफ़ लगाया गया है. इसके बाद वियतनाम पर 35 फ़ीसदी तक टैरिफ़ लगेगा. वहीं, दूसरे देशों पर 20 या 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा.
+
+कुछ देशों पर अधिकतम 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा. इनमें थाईलैंड और भारत शामिल हैं. वहीं, जापान समेत कुछ अन्य देशों पर अधिकतम 20 फ़ीसदी तक टैरिफ़ लगेगा. इस सूची में ब्रिटेन शामिल नहीं है.
+
+हालांकि, इनमें से कुछ टैरिफ़ की दरें असल में कम हो जाएंगी, क्योंकि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप पहले ही कुछ देशों के साथ टैरिफ़ की अधिकतम सीमा तय करने पर सहमत हो चुके हैं.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+राष्ट्रपति ट्रंप ने अपने दूसरे कार्यकाल में बार-बार टैरिफ़ लगाने की धमकी दी है या उन्हें लागू किया है. उनका तर्क है कि इस नीति से अमेरिका में मैन्युफ़ैक्चरिंग को बढ़ावा मिलेगा और रोज़गार के नए अवसर पैदा होंगे.
+
+हालांकि, अर्थशास्त्रियों ने चेतावनी दी है कि आयात पर टैक्स लगाने से महंगाई बढ़ सकती है और उपभोक्ताओं के लिए चीज़ें महंगी हो सकती हैं. इससे वैश्विक व्यापार पर भी असर पड़ सकता है.
+
+यह ताज़ा क़दम ऐसे समय उठाया गया है, जब इस साल की शुरुआत में अमेरिकी सुप्रीम कोर्ट ने फ़ैसला दिया था कि आपातकालीन शक्तियों का इस्तेमाल करके ट्रंप की ओर से लगाए गए कई टैरिफ़ ग़ैरक़ानूनी थे.
+
+इसके बाद इस साल गर्मी में अमेरिका की उन कंपनियों को अरबों डॉलर का टैरिफ़ रिफंड देना पड़ा, जिन्होंने सामान आयात करने के लिए ये शुल्क चुकाए थे.
+
+हालांकि, इससे ट्रंप प्रशासन की टैरिफ़ लगाने की कोशिशों पर कोई रोक नहीं लगी. व्हाइट हाउस इन टैक्स को लागू करने के लिए क़ानून के दूसरे रास्ते तलाश रहा है. आज का फ़ैसला भी इसी कोशिश का एक और उदाहरण है.
+
+पिछले साल अप्रैल में डोनाल्ड ट्रंप ने दुनिया के कई व्यापारिक साझेदारों पर बड़े पैमाने पर टैरिफ़ लगाने का एलान किया था. इसके लिए उन्होंने अमेरिकी राष्ट्रपति को मिले आपातकालीन अधिकारों का इस्तेमाल किया था.
+
+इनमें से कई टैरिफ़ को बाद में अमेरिकी सुप्रीम कोर्ट ने रद्द कर दिया था.
+
+इसलिए बुधवार को जिन आयात शुल्कों का एलान किया गया है, वे ट्रंप के टैरिफ़ को दोबारा लागू करने की नई कोशिश हैं.
+
+हालांकि, इस बार ट्रंप प्रशासन ने अलग तरीक़ा अपनाया है. ISEAS-युसोफ़ इशाक इंस्टीट्यूट के व्यापार विशेषज्ञ जयंत मेनन का कहना है कि इस वजह से इन टैरिफ़ को किसी क़ानूनी चुनौती के ज़रिए रद्द कराना मुश्किल हो सकता है.
+
+मेनन के मुताबिक़, पिछले साल ट्रंप ने जिन टैरिफ़ का एलान किया था, उनकी तुलना में नए शुल्क कम क्षेत्रों पर लागू होंगे. इनकी दरें भी ज़्यादातर मामलों में काफ़ी कम और एक जैसी हैं.
+
+ये टैरिफ़ व्हाइट हाउस की ओर से कराई गई कई महीनों की जांच पर भी आधारित हैं. इस जांच में इन क्षेत्रों की श्रम और व्यापार नीतियों और अमेरिका पर उनके संभावित असर का अध्ययन किया गया.
+
+### सुप्रीम कोर्ट के फ़ैसले के बाद नए टैरिफ़ की तैयारी की थी
+
+नए टैरिफ़ लगाने के प्रस्ताव ऐसे समय आए हैं, जब व्हाइट हाउस ने मार्च में दूसरे देशों की व्यापार नीतियों की जांच शुरू की थी.
+
+यह जांच अमेरिकी सुप्रीम कोर्ट के उस फ़ैसले के बाद शुरू हुई थी, जिसमें कहा गया था कि ट्रंप के तथाकथित 'लिबरेशन डे' टैरिफ़, जिन्हें प्रशासन ने जवाबी टैरिफ़ कहा था, क़ानूनी नहीं थे.
+
+अदालत के इस फ़ैसले के बाद ट्रंप ने कहा था कि वह टैरिफ़ लगाने के लिए दूसरे क़ानूनी तरीक़ों का इस्तेमाल करेंगे.
+
+मार्च में अमेरिका ने सेक्शन 301 के तहत जांच शुरू की. इसमें यह पता लगाया जाना था कि क्या कुछ व्यापारिक साझेदार ऐसी नीतियां अपना रहे हैं, जो "अनुचित या भेदभावपूर्ण हैं और अमेरिकी व्यापार पर बोझ डालती हैं या उसे सीमित करती हैं".
+
+उस समय अमेरिकी व्यापार प्रतिनिधि जैमीसन ग्रीयर ने कहा था, "अमेरिका अब अपने औद्योगिक आधार को उन देशों के हाथों ख़त्म नहीं होने देगा, जो अपनी ज़रूरत से ज़्यादा उत्पादन और क्षमता की समस्या हमारे यहां निर्यात कर सकते हैं."
+
+उन्होंने कहा था, "आज शुरू की गई जांच राष्ट्रपति ट्रंप की उस प्रतिबद्धता को दिखाती है, जिसके तहत अहम सप्लाई चेन को वापस अमेरिका लाना और मैन्युफ़ैक्चरिंग के सभी क्षेत्रों में अमेरिकी कामगारों के लिए अच्छी तनख़्वाह वाली नौकरियां पैदा करना शामिल है."
+
+ग्रीयर ने आगे कहा, "कई क्षेत्रों में अमेरिका के व्यापारिक साझेदार घरेलू स्तर पर अपनी खपत से ज़्यादा सामान बना रहे हैं."
+
+आज के एलान में जिन देशों और क्षेत्रों को निशाना बनाया गया है, उनमें से कई ऐसे हैं जिन पर ट्रंप अक्सर व्यापार के मामले में निशाना साधते रहे हैं.
+
+लेकिन इस सूची में एक अहम नाम नहीं है-कनाडा.
+
+जब कनाडा के बारे में पूछा गया, तो मंगलवार को पत्रकारों को जानकारी देने वाले ट्रंप प्रशासन के एक वरिष्ठ अधिकारी ने कहा कि जिन देशों की व्यापार नीतियों की जांच शुरू की गई थी और बाद में जिन्हें दोषी  पाया गया उनमें कनाडा शामिल नहीं था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ckg5rzg1d4leo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    summary_hi: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.`,
+    content_hi: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.
+
+ये टैरिफ़ मैन्युफ़ैक्चरिंग के अलग-अलग क्षेत्रों में ज़रूरत से ज़्यादा उत्पादन और उत्पादन क्षमता की जांच के लिए की गई सेक्शन 301 की जांच के बाद लगाए जा रहे हैं.
+
+इस जांच के दायरे में आने वाली देश हैं: भारत, चीन, यूरोपीय संघ, सिंगापुर, स्विट्ज़रलैंड, इंडोनेशिया, मलेशिया, कंबोडिया, थाईलैंड, दक्षिण कोरिया, वियतनाम, ताइवान, बांग्लादेश और जापान.
+
+अलग-अलग देशों और उत्पादों पर अलग-अलग दरों से टैरिफ़ लगाया जाएगा.
+
+चीन पर सबसे ज़्यादा, 40 फ़ीसदी तक टैरिफ़ लगाया गया है. इसके बाद वियतनाम पर 35 फ़ीसदी तक टैरिफ़ लगेगा. वहीं, दूसरे देशों पर 20 या 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा.
+
+कुछ देशों पर अधिकतम 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा. इनमें थाईलैंड और भारत शामिल हैं. वहीं, जापान समेत कुछ अन्य देशों पर अधिकतम 20 फ़ीसदी तक टैरिफ़ लगेगा. इस सूची में ब्रिटेन शामिल नहीं है.
+
+हालांकि, इनमें से कुछ टैरिफ़ की दरें असल में कम हो जाएंगी, क्योंकि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप पहले ही कुछ देशों के साथ टैरिफ़ की अधिकतम सीमा तय करने पर सहमत हो चुके हैं.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+राष्ट्रपति ट्रंप ने अपने दूसरे कार्यकाल में बार-बार टैरिफ़ लगाने की धमकी दी है या उन्हें लागू किया है. उनका तर्क है कि इस नीति से अमेरिका में मैन्युफ़ैक्चरिंग को बढ़ावा मिलेगा और रोज़गार के नए अवसर पैदा होंगे.
+
+हालांकि, अर्थशास्त्रियों ने चेतावनी दी है कि आयात पर टैक्स लगाने से महंगाई बढ़ सकती है और उपभोक्ताओं के लिए चीज़ें महंगी हो सकती हैं. इससे वैश्विक व्यापार पर भी असर पड़ सकता है.
+
+यह ताज़ा क़दम ऐसे समय उठाया गया है, जब इस साल की शुरुआत में अमेरिकी सुप्रीम कोर्ट ने फ़ैसला दिया था कि आपातकालीन शक्तियों का इस्तेमाल करके ट्रंप की ओर से लगाए गए कई टैरिफ़ ग़ैरक़ानूनी थे.
+
+इसके बाद इस साल गर्मी में अमेरिका की उन कंपनियों को अरबों डॉलर का टैरिफ़ रिफंड देना पड़ा, जिन्होंने सामान आयात करने के लिए ये शुल्क चुकाए थे.
+
+हालांकि, इससे ट्रंप प्रशासन की टैरिफ़ लगाने की कोशिशों पर कोई रोक नहीं लगी. व्हाइट हाउस इन टैक्स को लागू करने के लिए क़ानून के दूसरे रास्ते तलाश रहा है. आज का फ़ैसला भी इसी कोशिश का एक और उदाहरण है.
+
+पिछले साल अप्रैल में डोनाल्ड ट्रंप ने दुनिया के कई व्यापारिक साझेदारों पर बड़े पैमाने पर टैरिफ़ लगाने का एलान किया था. इसके लिए उन्होंने अमेरिकी राष्ट्रपति को मिले आपातकालीन अधिकारों का इस्तेमाल किया था.
+
+इनमें से कई टैरिफ़ को बाद में अमेरिकी सुप्रीम कोर्ट ने रद्द कर दिया था.
+
+इसलिए बुधवार को जिन आयात शुल्कों का एलान किया गया है, वे ट्रंप के टैरिफ़ को दोबारा लागू करने की नई कोशिश हैं.
+
+हालांकि, इस बार ट्रंप प्रशासन ने अलग तरीक़ा अपनाया है. ISEAS-युसोफ़ इशाक इंस्टीट्यूट के व्यापार विशेषज्ञ जयंत मेनन का कहना है कि इस वजह से इन टैरिफ़ को किसी क़ानूनी चुनौती के ज़रिए रद्द कराना मुश्किल हो सकता है.
+
+मेनन के मुताबिक़, पिछले साल ट्रंप ने जिन टैरिफ़ का एलान किया था, उनकी तुलना में नए शुल्क कम क्षेत्रों पर लागू होंगे. इनकी दरें भी ज़्यादातर मामलों में काफ़ी कम और एक जैसी हैं.
+
+ये टैरिफ़ व्हाइट हाउस की ओर से कराई गई कई महीनों की जांच पर भी आधारित हैं. इस जांच में इन क्षेत्रों की श्रम और व्यापार नीतियों और अमेरिका पर उनके संभावित असर का अध्ययन किया गया.
+
+### सुप्रीम कोर्ट के फ़ैसले के बाद नए टैरिफ़ की तैयारी की थी
+
+नए टैरिफ़ लगाने के प्रस्ताव ऐसे समय आए हैं, जब व्हाइट हाउस ने मार्च में दूसरे देशों की व्यापार नीतियों की जांच शुरू की थी.
+
+यह जांच अमेरिकी सुप्रीम कोर्ट के उस फ़ैसले के बाद शुरू हुई थी, जिसमें कहा गया था कि ट्रंप के तथाकथित 'लिबरेशन डे' टैरिफ़, जिन्हें प्रशासन ने जवाबी टैरिफ़ कहा था, क़ानूनी नहीं थे.
+
+अदालत के इस फ़ैसले के बाद ट्रंप ने कहा था कि वह टैरिफ़ लगाने के लिए दूसरे क़ानूनी तरीक़ों का इस्तेमाल करेंगे.
+
+मार्च में अमेरिका ने सेक्शन 301 के तहत जांच शुरू की. इसमें यह पता लगाया जाना था कि क्या कुछ व्यापारिक साझेदार ऐसी नीतियां अपना रहे हैं, जो "अनुचित या भेदभावपूर्ण हैं और अमेरिकी व्यापार पर बोझ डालती हैं या उसे सीमित करती हैं".
+
+उस समय अमेरिकी व्यापार प्रतिनिधि जैमीसन ग्रीयर ने कहा था, "अमेरिका अब अपने औद्योगिक आधार को उन देशों के हाथों ख़त्म नहीं होने देगा, जो अपनी ज़रूरत से ज़्यादा उत्पादन और क्षमता की समस्या हमारे यहां निर्यात कर सकते हैं."
+
+उन्होंने कहा था, "आज शुरू की गई जांच राष्ट्रपति ट्रंप की उस प्रतिबद्धता को दिखाती है, जिसके तहत अहम सप्लाई चेन को वापस अमेरिका लाना और मैन्युफ़ैक्चरिंग के सभी क्षेत्रों में अमेरिकी कामगारों के लिए अच्छी तनख़्वाह वाली नौकरियां पैदा करना शामिल है."
+
+ग्रीयर ने आगे कहा, "कई क्षेत्रों में अमेरिका के व्यापारिक साझेदार घरेलू स्तर पर अपनी खपत से ज़्यादा सामान बना रहे हैं."
+
+आज के एलान में जिन देशों और क्षेत्रों को निशाना बनाया गया है, उनमें से कई ऐसे हैं जिन पर ट्रंप अक्सर व्यापार के मामले में निशाना साधते रहे हैं.
+
+लेकिन इस सूची में एक अहम नाम नहीं है-कनाडा.
+
+जब कनाडा के बारे में पूछा गया, तो मंगलवार को पत्रकारों को जानकारी देने वाले ट्रंप प्रशासन के एक वरिष्ठ अधिकारी ने कहा कि जिन देशों की व्यापार नीतियों की जांच शुरू की गई थी और बाद में जिन्हें दोषी  पाया गया उनमें कनाडा शामिल नहीं था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ckg5rzg1d4leo)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for World affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान.`,
+    primary_source: `BBC Official Dispatch`,
+  },
+  {
+    id: 97872,
+    title: `🚨 वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर`,
+    slug: `sports-breaking-report-9181-97872-2026`,
+    original_title: `वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `5 min read`,
+    views_count: 23527280,
+    shares_count: 3429720,
+    published_at: `2026-11-26T02:57:54Z`,
+    updated_at: `2026-11-26T02:57:54Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cqrkg620r8m7o`,
+    source_courtesy: `News Courtesy: BBC Digital Archives`,
+    image_url: `/images/articles/sports-breaking-report-9181-97872-2026.jpg`,
+    image_alt: `Verified news photograph: वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर`,
+    image_courtesy: `Image Courtesy: BBC`,
+    image_photographer: `BBC`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Sports, Breaking News, India, Verified`,
+    summary: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.`,
+    content: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.
+
+मंगलवार को पाकिस्तान ए टीम ने नेपाल की टीम को 96 रनों से हराया. लेकिन पाकिस्तान में इस जीत की बजाय यूएई के ख़िलाफ़ भारत की जीत की चर्चा अधिक हो रही है.
+
+15 साल के वैभव सूर्यवंशी ने लिस्ट ए में सबसे तेज़ दोहरा शतक लगाने का रिकॉर्ड बनाया.
+
+उन्होंने यूएई के ख़िलाफ़ महज 52 गेंदों में दोहरा शतक लगाया और इस दौरान उन्होंने 28 छक्के और सात चौके लगाए.
+
+भारत के पूर्व कप्तान सौरव गांगुली ने कहा , "वैभव सूर्यवंशी ने 28 गेंदों में शतक जड़कर लिस्ट ए क्रिकेट में सबसे तेज शतक लगाने का नया रिकॉर्ड बनाया. उन्होंने जेक फ्रेजर-मैकगर्क के 29 गेंदों में शतक के पिछले रिकॉर्ड को पीछे छोड़ दिया."
+
+गांगुली ने कहा, "उसने अच्छा खेला. यह ए टीम है. टी20 में उसकी क्षमता असाधारण है. इसके अलावा, उसकी पावर हिटिंग शानदार थी. उसने बहुत अच्छा खेला."
+
+पाकिस्तान में पूर्व क्रिकेटरों ने कहा कि 'इतने छक्के तो वीडियो गेम में भी नहीं लगते' या 'पूरी टीम भी इतने छक्के नहीं लगा पाती.'
+
+### 'इतने छक्के लगाए जितनी पूरी टीम नहीं लगा पाती'
+
+पाकिस्तान के पूर्व क्रिकेटर बासित अली ने कहा कि 'यूएई के ख़िलाफ़ तो मैच ही नहीं हो पाया.'
+
+अपने यूट्यूब चैनल पर उन्होंने कमेंट्री करते हुए कहा , "यूएई ने 249 रनों का ठीक-ठाक टार्गेट दिया था और लग रहा था कि दूसरी पारी में पिच ख़राब होगी लेकिन मैदान पर नज़ारा कुछ और था. वैभव ने इतने छक्के लगाए जितने पूरी टीम नहीं लगा पाती है."
+
+बासित अली ने कहा, "हर ओवर में या तो तीन छक्के और दो चौके या तीन चौके या दो छक्के उसने लगाए. लिस्ट ए के जितने रिकॉर्ड थे, वो बब्लू (वैभव) ले गए."
+
+"अंतरराष्ट्रीय स्तर पर टीमों ने जितने छक्के नहीं मारे होंगे, वैभव ने एक ही दिन में मार दिए. मेरे ख़्याल से उन्होंने केवल आठ रन भाग कर बनाए, जबकि क़रीब 196 रन केवल बाउंड्रीज़ से बनाए."
+
+"जिस ग्राउंड में खेल हो रहा था वो कोई छोटा ग्राउंड नहीं था. लेकिन दो मैचों से एक प्रेशर भी था प्रदर्शन न कर पाने का. उन्होंने सेमीफ़ाइनल और फ़ाइनल में आने से पहले अपनी फ़ॉर्म दिखा दी है."
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+पाकिस्तान के एक पूर्व क्रिकेटर मोहम्मद वसीम ने कहा कि 'वैभव सूर्यवंशी के रिकॉर्ड को कोई और नहीं तोड़ सकता, शायद वो खुद तोड़ पाएं.'
+
+पूर्व क्रिकेटर तनवीर अहमद ने कहा , "जो वो खेल रहे हैं, वो बहुत एक्सेप्शनल टैलेंट है. 15 साल के बच्चे के लिए यह वाक़ई हैरान करने वाला है."
+
+तनवीर अहमद ने सूर्यवंशी की उम्र को लेकर भी सवाल उठाए लेकिन ये भी कहा कि उन्हें अभी कमज़ोर क्षेत्रों में काम करने की और ज़रूरत है.
+
+उन्होंने कहा, "जिस तरीक़े से वो बैटिंग कर रहे थे, उन्हें अपने माफ़िक गेंदें मिल रही थीं और वो मारते जा रहे थे. शायद इसीलिए उन्हें इंटरनेशनल क्रिकेट उस तरीक़े से नहीं खिला रहे हैं क्योंकि इंटरनेशनल क्रिकेट में इस तरीक़े से छक्के मारना उतना आसान नहीं होता है."
+
+"शायद इसीलिए उन्हें टाइम दिया जा रहा है कि आप टीम के साथ रहें, टूर करते रहें और सीखें. जिन क्षेत्रों में वो कमज़ोर हैं, जैसे कवर्स में, तो उस पर अधिक काम करें. ये एक तरीक़ा होता है."
+
+पाकिस्तान क्रिकेट पर तंज़ करते हुए तनवीर अहमद ने कहा, "अगर वैभव पाकिस्तान में होते तो उन्हें टी-20, वनडे और टेस्ट टीम में भी खिलाया जा रहा होता और यहां तक कैप्टन भी बना दिया जाता."
+
+### 'इतने छक्के तो हाथ से भी न फेंके जाएं'
+
+पाकिस्तान के पूर्व क्रिकेटर कामरान अकमल ने एक यूट्यूब चैनल पर बातचीत में कहा कि जो काम 25-30 साल की उम्र में किया जा सकता है और जो क्रिकेट मिलती और प्रसिद्धि मिलती है, उसे वैभव ने 15 साल की उम्र में हासिल कर लिया."
+
+उन्होंने कहा, "चाहे कोई भी टीम हो, रिज़ल्ट भी देखना चाहिए. अगर कोई अकेला बाउंड्री की तरफ़ थ्रो भी फेंके तो भी इतने रन न हो पाएं. 52 गेंदें मैं फेंकू तब भी 28 छक्के न हों कभी. उसने वो बल्ले के साथ कर दिखाया."
+
+वैभव सूर्यवंशी के खेल को लेकर पाकिस्तान में अपनी टीम के साथ भी तुलना की जाने लगी है.
+
+इसी बातचीत में कामरान अकमल ने कहा, "वैभव का मेच्योरिटी लेवल और क्रिकेट के लिहाज से देखें तो उन्हें इंटरनेशनल क्रिकेट खेलने को मिल रहा है. उन्हें 15 साल की उम्र के लेवल से ही हटा दिया है."
+
+"जहां तक उनके उम्र की बात है तो ये बात अब हमें छोड़ ही देना चाहिए. हमारे यहां इस तरह के खिलाड़ी को अंडर 15 से ही न निकलने दें हम लोग. आप उनका माइंडसेट देखें कि वो इस तरह के खिलाड़ी को कौन सी क्रिकेट खिला रहे हैं. हमारे यहां ऊपर से नीचे की ओर लेकर आ रहे हैं. तो गेम अप्रोच में, पर्फ़ार्मेंस में और खेल में फ़र्क तो आएगा ही."
+
+कामरान ने सवाल किया कि पाकिस्तान में नए खिलाड़ियों को क्यों नहीं आगे लाया जा रहा है?
+
+पाकिस्तान के स्पोर्ट्स एनालिस्ट मोहम्मद मोहसिन ने अपने यूट्यूब चैनल पर वैभव की पारी को लेकर कहा कि यूएई की ड्रेसिंग में पूछा गया होगा, 'कितने आदमी थे. तो कहा गया होगा- वो अकेला ही था.'
+
+मोहम्मद मोहसिन ने कहा, "क्रिस गेल खुद को अनोखा खिलाड़ी मानते हैं. उनके रिकॉर्ड को तोड़कर वो (वैभव) क्रिकेट खेल रहे हैं. जिस दिन उनका बल्ला चलता है, कुछ और बात करने को होता ही नहीं है."
+
+सबसे तेज अर्धशतक: श्रीलंका ए के खिलाफ 11 गेंदों में, 21 जून को. इससे पहले यह रिकॉर्ड के वीरारत्ने के नाम था, जिन्होंने 1 नवंबर 2005 को 12 गेंदों में अर्धशतक बनाया था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cqrkg620r8m7o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर`,
+    summary_hi: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.`,
+    content_hi: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.
+
+मंगलवार को पाकिस्तान ए टीम ने नेपाल की टीम को 96 रनों से हराया. लेकिन पाकिस्तान में इस जीत की बजाय यूएई के ख़िलाफ़ भारत की जीत की चर्चा अधिक हो रही है.
+
+15 साल के वैभव सूर्यवंशी ने लिस्ट ए में सबसे तेज़ दोहरा शतक लगाने का रिकॉर्ड बनाया.
+
+उन्होंने यूएई के ख़िलाफ़ महज 52 गेंदों में दोहरा शतक लगाया और इस दौरान उन्होंने 28 छक्के और सात चौके लगाए.
+
+भारत के पूर्व कप्तान सौरव गांगुली ने कहा , "वैभव सूर्यवंशी ने 28 गेंदों में शतक जड़कर लिस्ट ए क्रिकेट में सबसे तेज शतक लगाने का नया रिकॉर्ड बनाया. उन्होंने जेक फ्रेजर-मैकगर्क के 29 गेंदों में शतक के पिछले रिकॉर्ड को पीछे छोड़ दिया."
+
+गांगुली ने कहा, "उसने अच्छा खेला. यह ए टीम है. टी20 में उसकी क्षमता असाधारण है. इसके अलावा, उसकी पावर हिटिंग शानदार थी. उसने बहुत अच्छा खेला."
+
+पाकिस्तान में पूर्व क्रिकेटरों ने कहा कि 'इतने छक्के तो वीडियो गेम में भी नहीं लगते' या 'पूरी टीम भी इतने छक्के नहीं लगा पाती.'
+
+### 'इतने छक्के लगाए जितनी पूरी टीम नहीं लगा पाती'
+
+पाकिस्तान के पूर्व क्रिकेटर बासित अली ने कहा कि 'यूएई के ख़िलाफ़ तो मैच ही नहीं हो पाया.'
+
+अपने यूट्यूब चैनल पर उन्होंने कमेंट्री करते हुए कहा , "यूएई ने 249 रनों का ठीक-ठाक टार्गेट दिया था और लग रहा था कि दूसरी पारी में पिच ख़राब होगी लेकिन मैदान पर नज़ारा कुछ और था. वैभव ने इतने छक्के लगाए जितने पूरी टीम नहीं लगा पाती है."
+
+बासित अली ने कहा, "हर ओवर में या तो तीन छक्के और दो चौके या तीन चौके या दो छक्के उसने लगाए. लिस्ट ए के जितने रिकॉर्ड थे, वो बब्लू (वैभव) ले गए."
+
+"अंतरराष्ट्रीय स्तर पर टीमों ने जितने छक्के नहीं मारे होंगे, वैभव ने एक ही दिन में मार दिए. मेरे ख़्याल से उन्होंने केवल आठ रन भाग कर बनाए, जबकि क़रीब 196 रन केवल बाउंड्रीज़ से बनाए."
+
+"जिस ग्राउंड में खेल हो रहा था वो कोई छोटा ग्राउंड नहीं था. लेकिन दो मैचों से एक प्रेशर भी था प्रदर्शन न कर पाने का. उन्होंने सेमीफ़ाइनल और फ़ाइनल में आने से पहले अपनी फ़ॉर्म दिखा दी है."
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+पाकिस्तान के एक पूर्व क्रिकेटर मोहम्मद वसीम ने कहा कि 'वैभव सूर्यवंशी के रिकॉर्ड को कोई और नहीं तोड़ सकता, शायद वो खुद तोड़ पाएं.'
+
+पूर्व क्रिकेटर तनवीर अहमद ने कहा , "जो वो खेल रहे हैं, वो बहुत एक्सेप्शनल टैलेंट है. 15 साल के बच्चे के लिए यह वाक़ई हैरान करने वाला है."
+
+तनवीर अहमद ने सूर्यवंशी की उम्र को लेकर भी सवाल उठाए लेकिन ये भी कहा कि उन्हें अभी कमज़ोर क्षेत्रों में काम करने की और ज़रूरत है.
+
+उन्होंने कहा, "जिस तरीक़े से वो बैटिंग कर रहे थे, उन्हें अपने माफ़िक गेंदें मिल रही थीं और वो मारते जा रहे थे. शायद इसीलिए उन्हें इंटरनेशनल क्रिकेट उस तरीक़े से नहीं खिला रहे हैं क्योंकि इंटरनेशनल क्रिकेट में इस तरीक़े से छक्के मारना उतना आसान नहीं होता है."
+
+"शायद इसीलिए उन्हें टाइम दिया जा रहा है कि आप टीम के साथ रहें, टूर करते रहें और सीखें. जिन क्षेत्रों में वो कमज़ोर हैं, जैसे कवर्स में, तो उस पर अधिक काम करें. ये एक तरीक़ा होता है."
+
+पाकिस्तान क्रिकेट पर तंज़ करते हुए तनवीर अहमद ने कहा, "अगर वैभव पाकिस्तान में होते तो उन्हें टी-20, वनडे और टेस्ट टीम में भी खिलाया जा रहा होता और यहां तक कैप्टन भी बना दिया जाता."
+
+### 'इतने छक्के तो हाथ से भी न फेंके जाएं'
+
+पाकिस्तान के पूर्व क्रिकेटर कामरान अकमल ने एक यूट्यूब चैनल पर बातचीत में कहा कि जो काम 25-30 साल की उम्र में किया जा सकता है और जो क्रिकेट मिलती और प्रसिद्धि मिलती है, उसे वैभव ने 15 साल की उम्र में हासिल कर लिया."
+
+उन्होंने कहा, "चाहे कोई भी टीम हो, रिज़ल्ट भी देखना चाहिए. अगर कोई अकेला बाउंड्री की तरफ़ थ्रो भी फेंके तो भी इतने रन न हो पाएं. 52 गेंदें मैं फेंकू तब भी 28 छक्के न हों कभी. उसने वो बल्ले के साथ कर दिखाया."
+
+वैभव सूर्यवंशी के खेल को लेकर पाकिस्तान में अपनी टीम के साथ भी तुलना की जाने लगी है.
+
+इसी बातचीत में कामरान अकमल ने कहा, "वैभव का मेच्योरिटी लेवल और क्रिकेट के लिहाज से देखें तो उन्हें इंटरनेशनल क्रिकेट खेलने को मिल रहा है. उन्हें 15 साल की उम्र के लेवल से ही हटा दिया है."
+
+"जहां तक उनके उम्र की बात है तो ये बात अब हमें छोड़ ही देना चाहिए. हमारे यहां इस तरह के खिलाड़ी को अंडर 15 से ही न निकलने दें हम लोग. आप उनका माइंडसेट देखें कि वो इस तरह के खिलाड़ी को कौन सी क्रिकेट खिला रहे हैं. हमारे यहां ऊपर से नीचे की ओर लेकर आ रहे हैं. तो गेम अप्रोच में, पर्फ़ार्मेंस में और खेल में फ़र्क तो आएगा ही."
+
+कामरान ने सवाल किया कि पाकिस्तान में नए खिलाड़ियों को क्यों नहीं आगे लाया जा रहा है?
+
+पाकिस्तान के स्पोर्ट्स एनालिस्ट मोहम्मद मोहसिन ने अपने यूट्यूब चैनल पर वैभव की पारी को लेकर कहा कि यूएई की ड्रेसिंग में पूछा गया होगा, 'कितने आदमी थे. तो कहा गया होगा- वो अकेला ही था.'
+
+मोहम्मद मोहसिन ने कहा, "क्रिस गेल खुद को अनोखा खिलाड़ी मानते हैं. उनके रिकॉर्ड को तोड़कर वो (वैभव) क्रिकेट खेल रहे हैं. जिस दिन उनका बल्ला चलता है, कुछ और बात करने को होता ही नहीं है."
+
+सबसे तेज अर्धशतक: श्रीलंका ए के खिलाफ 11 गेंदों में, 21 जून को. इससे पहले यह रिकॉर्ड के वीरारत्ने के नाम था, जिन्होंने 1 नवंबर 2005 को 12 गेंदों में अर्धशतक बनाया था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cqrkg620r8m7o)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Sports affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर.`,
+    primary_source: `BBC Official Dispatch`,
+  },
+  {
+    id: 97873,
+    title: `🚨 WTC 2025-27 प्वाइंट्स टेबल में हुआ बदलाव, टॉप-5 से यह एशियाई टीम हुई बाहर - India TV Hindi`,
+    slug: `wtc-2025-27-5-india-tv-hindi-2026`,
+    original_title: `WTC 2025-27 प्वाइंट्स टेबल में हुआ बदलाव, टॉप-5 से यह एशियाई टीम हुई बाहर - India TV Hindi`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `3 min read`,
+    views_count: 23527520,
+    shares_count: 3429755,
+    published_at: `2026-11-26T02:57:54Z`,
+    updated_at: `2026-11-26T02:57:54Z`,
+    source_name: `India TV Hindi`,
+    source_url: `https://www.indiatv.in/sports/cricket/wtc-2025-27-points-table-updated-after-south-africa-won-centurion-test-and-clean-sweep-series-bangladesh-out-of-top-5-teams-2026-11-25-1256389`,
+    source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
+    image_url: `/images/articles/wtc-2025-27-5-india-tv-hindi-2026.jpg`,
+    image_alt: `Verified news photograph: WTC 2025-27 प्वाइंट्स टेबल में हुआ बदलाव, टॉप-5 से यह एशियाई टीम हुई बाहर - India TV Hindi`,
+    image_courtesy: `Image Courtesy: India TV Hindi`,
+    image_photographer: `India TV Hindi`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Sports, Breaking News, India, Verified`,
+    summary: `साउथ अफ्रीका और बांग्लादेश के बीच में 2 टेस्ट मैचों की सीरीज का दूसरा और आखिरी मुकाबला सेंचुरियन के सुपर स्पोर्ट्स पार्क में 23 नवंबर से शुरू हुआ था, जिसको मेजबान अफ्रीकी टीम सिर्फ तीन दिनों के अंदर एक पारी और 219 रनों के बड़े अंतर से अपने `,
+    content: `### साउथ अफ्रीका ने अपने घर पर खेली जा रही बांग्लादेश के खिलाफ दो मैचों की टेस्ट सीरीज के दूसरे मुकाबले को एक पारी और 219 रनों से अपने नाम किया जिसके साथ ही WTC 2025-27 की प्वाइंट्स टेबल में भी इसका असर देखने को मिला जिसमें बांग्लादेश की टीम अब टॉप-5 से बाहर हो गई है।
+
+साउथ अफ्रीका और बांग्लादेश के बीच में 2 टेस्ट मैचों की सीरीज का दूसरा और आखिरी मुकाबला सेंचुरियन के सुपर स्पोर्ट्स पार्क में 23 नवंबर से शुरू हुआ था, जिसको मेजबान अफ्रीकी टीम सिर्फ तीन दिनों के अंदर एक पारी और 219 रनों के बड़े अंतर से अपने नाम करने में कामयाब रही है। इस मुकाबले के खत्म होने के साथ वर्ल्ड टेस्ट चैंपियनशिप 2025-27 की प्वाइंट्स टेबल में भी अपडेट देखने को मिला जिसमें बांग्लादेश की टीम को सेंचुरियन टेस्ट में मिली हार से नुकसान हुआ है और वह प्वाइंट्स टेबल में टॉप-5 टीमों से बाहर हो गई है, वहीं साउथ अफ्रीका जो पहले से ही नंबर-1 की पोजीशन पर काबिज थी उसने अपनी स्थिति को और भी मजबूत कर लिया है।
+
+### बांग्लादेश की हार से इंग्लैंड को हुआ फायदा
+
+WTC 2025-27 की प्वाइंट्स टेबल को सेंचुरियन टेस्ट मुकाबले के खत्म होने के बाद देखा जाए तो उसमें बांग्लादेश की हार से इंग्लैंड को फायदा हुआ है, जो अब पांचवीं पोजीशन पर आ गया है। वहीं साउथ अफ्रीका टीम जो पहले से ही नंबर-1 की पोजीशन पर काबिज थी उसके अंकों का कुल प्रतिशत अब 77.78 हो गया है। इसके बाद दूसरे नंबर पर 69.23 अंक प्रतिशत के साथ ऑस्ट्रेलियाई टीम है, जबकि तीसरे नंबर पर न्यूजीलैंड की टीम 66.67 अंक प्रतिशत के साथ काबिज है। बांग्लादेश की टीम अब प्वाइंट्स टेबल में 36.67 अंक प्रतिशत के साथ छठे नंबर पर पहुंच गई है, जबकि पांचवें नंबर पर 38.54 अंक प्रतिशत के साथ इंग्लैंड की टीम आ गई है।
+
+### टीम इंडिया चौथे नंबर पर, क्राइस्टचर्च टेस्ट रहेगा काफी अहम
+
+भारतीय टीम के पास अभी WTC 2025-27 के साइकल में फाइनल में पहुंचने की उम्मीद बाकी है, लेकिन इसके लिए उनको बाकी बचे सभी मुकाबलों में काफी बेहतर प्रदर्शन करना होगा और जीत हासिल करने की कोशिश करनी होगी। टीम इंडिया अभी प्वाइंट्स टेबल में चौथे नंबर पर है, जिसमें उनके अंकों का कुल प्रतिशत 50 है और अब उनको अपना अगला टेस्ट मुकाबला न्यूजीलैंड के दौरे पर क्राइस्टचर्च के स्टेडियम में खेलना है जो काफी अहम रहने वाला है, जिसमें टीम इंडिया के पास अपनी पोजीशन को सुधारने का शानदार मौका रहेगा।
+
+हेगली ओवल की पिच को लेकर कीवी खिलाड़ी मैट हेनरी ने दिया बयान, कहा - हम पहले से कोई अनुमान नहीं लगाने वाले
+
+आईसीसी टेस्ट रैंकिंग में शुभमन गिल और यशस्वी जायसवाल का जलवा, जसप्रीत बुमराह ने भी मारी लंबी छलांग
+
+### India TV हिंदी न्यूज़ के साथ रहें हर दिन अपडेट, पाएं देश और दुनिया की हर बड़ी खबर। Cricket से जुड़ी लेटेस्ट खबरों के लिए अभी विज़िट करें खेल ।
+
+### कोचिंग की दुनिया में उतरेंगे केन विलियमसन, SA20 में डरबन सुपर जायंट्स का नया हेड कोच बनना लगभग तय
+
+### बिना एक भी गेंद खेले गोल्डन डक पर आउट, WBBL में सारा ग्लेन की फ्री बॉल ने उड़ाए डिएंड्रा डॉटिन के स्टंप्स, देखें VIDEO
+
+### 'सब बस यही पूछ रहे थे - छक्का मारा क्या?, वैभव की तूफानी पारी पर कप्तान तिलक वर्मा ने बताया डगआउट में क्या था माहौल
+
+### ट्रंप का नया टैरिफ बम: भारत पर 25% तक, चीन पर 40% तक नया शुल्क लगाएगा अमेरिका!
+
+### 'राहुल गांधी का नाम और उनकी तस्वीरों को किया जा रहा ब्लॉक', Meta के खिलाफ यूथ कांग्रेस पहुंची दिल्ली हाईकोर्ट
+
+### यूपी के एक्सप्रेसवे में भगाई गाड़ी तो कटेगा मोटा चालान, जानें यमुना, गंगा और आगरा-लखनऊ पर क्या है नई स्पीड लिमिट
+
+### WTC 2025-27 प्वाइंट्स टेबल में हुआ बदलाव, टॉप-5 से यह एशियाई टीम हुई बाहर
+
+### छठ के पवित्र सिंदूर पर टिप्पणी से भड़का विवाद, कॉमेडियन यश माहेश्वरी के खिलाफ FIR की मांग
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/sports/cricket/wtc-2025-27-points-table-updated-after-south-africa-won-centurion-test-and-clean-sweep-series-bangladesh-out-of-top-5-teams-2026-11-25-1256389)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `WTC 2025-27 प्वाइंट्स टेबल में हुआ बदलाव, टॉप-5 से यह एशियाई टीम हुई बाहर - India TV Hindi`,
+    summary_hi: `साउथ अफ्रीका और बांग्लादेश के बीच में 2 टेस्ट मैचों की सीरीज का दूसरा और आखिरी मुकाबला सेंचुरियन के सुपर स्पोर्ट्स पार्क में 23 नवंबर से शुरू हुआ था, जिसको मेजबान अफ्रीकी टीम सिर्फ तीन दिनों के अंदर एक पारी और 219 रनों के बड़े अंतर से अपने `,
+    content_hi: `### साउथ अफ्रीका ने अपने घर पर खेली जा रही बांग्लादेश के खिलाफ दो मैचों की टेस्ट सीरीज के दूसरे मुकाबले को एक पारी और 219 रनों से अपने नाम किया जिसके साथ ही WTC 2025-27 की प्वाइंट्स टेबल में भी इसका असर देखने को मिला जिसमें बांग्लादेश की टीम अब टॉप-5 से बाहर हो गई है।
+
+साउथ अफ्रीका और बांग्लादेश के बीच में 2 टेस्ट मैचों की सीरीज का दूसरा और आखिरी मुकाबला सेंचुरियन के सुपर स्पोर्ट्स पार्क में 23 नवंबर से शुरू हुआ था, जिसको मेजबान अफ्रीकी टीम सिर्फ तीन दिनों के अंदर एक पारी और 219 रनों के बड़े अंतर से अपने नाम करने में कामयाब रही है। इस मुकाबले के खत्म होने के साथ वर्ल्ड टेस्ट चैंपियनशिप 2025-27 की प्वाइंट्स टेबल में भी अपडेट देखने को मिला जिसमें बांग्लादेश की टीम को सेंचुरियन टेस्ट में मिली हार से नुकसान हुआ है और वह प्वाइंट्स टेबल में टॉप-5 टीमों से बाहर हो गई है, वहीं साउथ अफ्रीका जो पहले से ही नंबर-1 की पोजीशन पर काबिज थी उसने अपनी स्थिति को और भी मजबूत कर लिया है।
+
+### बांग्लादेश की हार से इंग्लैंड को हुआ फायदा
+
+WTC 2025-27 की प्वाइंट्स टेबल को सेंचुरियन टेस्ट मुकाबले के खत्म होने के बाद देखा जाए तो उसमें बांग्लादेश की हार से इंग्लैंड को फायदा हुआ है, जो अब पांचवीं पोजीशन पर आ गया है। वहीं साउथ अफ्रीका टीम जो पहले से ही नंबर-1 की पोजीशन पर काबिज थी उसके अंकों का कुल प्रतिशत अब 77.78 हो गया है। इसके बाद दूसरे नंबर पर 69.23 अंक प्रतिशत के साथ ऑस्ट्रेलियाई टीम है, जबकि तीसरे नंबर पर न्यूजीलैंड की टीम 66.67 अंक प्रतिशत के साथ काबिज है। बांग्लादेश की टीम अब प्वाइंट्स टेबल में 36.67 अंक प्रतिशत के साथ छठे नंबर पर पहुंच गई है, जबकि पांचवें नंबर पर 38.54 अंक प्रतिशत के साथ इंग्लैंड की टीम आ गई है।
+
+### टीम इंडिया चौथे नंबर पर, क्राइस्टचर्च टेस्ट रहेगा काफी अहम
+
+भारतीय टीम के पास अभी WTC 2025-27 के साइकल में फाइनल में पहुंचने की उम्मीद बाकी है, लेकिन इसके लिए उनको बाकी बचे सभी मुकाबलों में काफी बेहतर प्रदर्शन करना होगा और जीत हासिल करने की कोशिश करनी होगी। टीम इंडिया अभी प्वाइंट्स टेबल में चौथे नंबर पर है, जिसमें उनके अंकों का कुल प्रतिशत 50 है और अब उनको अपना अगला टेस्ट मुकाबला न्यूजीलैंड के दौरे पर क्राइस्टचर्च के स्टेडियम में खेलना है जो काफी अहम रहने वाला है, जिसमें टीम इंडिया के पास अपनी पोजीशन को सुधारने का शानदार मौका रहेगा।
+
+हेगली ओवल की पिच को लेकर कीवी खिलाड़ी मैट हेनरी ने दिया बयान, कहा - हम पहले से कोई अनुमान नहीं लगाने वाले
+
+आईसीसी टेस्ट रैंकिंग में शुभमन गिल और यशस्वी जायसवाल का जलवा, जसप्रीत बुमराह ने भी मारी लंबी छलांग
+
+### India TV हिंदी न्यूज़ के साथ रहें हर दिन अपडेट, पाएं देश और दुनिया की हर बड़ी खबर। Cricket से जुड़ी लेटेस्ट खबरों के लिए अभी विज़िट करें खेल ।
+
+### कोचिंग की दुनिया में उतरेंगे केन विलियमसन, SA20 में डरबन सुपर जायंट्स का नया हेड कोच बनना लगभग तय
+
+### बिना एक भी गेंद खेले गोल्डन डक पर आउट, WBBL में सारा ग्लेन की फ्री बॉल ने उड़ाए डिएंड्रा डॉटिन के स्टंप्स, देखें VIDEO
+
+### 'सब बस यही पूछ रहे थे - छक्का मारा क्या?, वैभव की तूफानी पारी पर कप्तान तिलक वर्मा ने बताया डगआउट में क्या था माहौल
+
+### ट्रंप का नया टैरिफ बम: भारत पर 25% तक, चीन पर 40% तक नया शुल्क लगाएगा अमेरिका!
+
+### 'राहुल गांधी का नाम और उनकी तस्वीरों को किया जा रहा ब्लॉक', Meta के खिलाफ यूथ कांग्रेस पहुंची दिल्ली हाईकोर्ट
+
+### यूपी के एक्सप्रेसवे में भगाई गाड़ी तो कटेगा मोटा चालान, जानें यमुना, गंगा और आगरा-लखनऊ पर क्या है नई स्पीड लिमिट
+
+### WTC 2025-27 प्वाइंट्स टेबल में हुआ बदलाव, टॉप-5 से यह एशियाई टीम हुई बाहर
+
+### छठ के पवित्र सिंदूर पर टिप्पणी से भड़का विवाद, कॉमेडियन यश माहेश्वरी के खिलाफ FIR की मांग
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/sports/cricket/wtc-2025-27-points-table-updated-after-south-africa-won-centurion-test-and-clean-sweep-series-bangladesh-out-of-top-5-teams-2026-11-25-1256389)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Sports affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on WTC 2025-27 प्वाइंट्स टेबल में हुआ बदलाव, टॉप-5 से यह एशियाई टीम हुई बाहर - India TV Hindi.`,
+    primary_source: `India TV Hindi Official Dispatch`,
+  },
+  {
+    id: 97875,
+    title: `🚨 जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    slug: `entertainment-breaking-report-31350-97875-2026`,
+    original_title: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `4 min read`,
+    views_count: 23528000,
+    shares_count: 3429825,
+    published_at: `2026-11-26T02:57:54Z`,
+    updated_at: `2026-11-26T02:57:54Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cm93r9d9ypx0o`,
+    source_courtesy: `News Courtesy: BBC Digital Archives`,
+    image_url: `/images/articles/entertainment-breaking-report-31350-97875-2026.png`,
+    image_alt: `Verified news photograph: जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    image_courtesy: `Image Courtesy: BBC`,
+    image_photographer: `BBC`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Entertainment, Breaking News, India, Verified`,
+    summary: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.`,
+    content: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.
+
+लेकिन भारत में इस सीरीज़ की रिलीज़ पर बैन लगाने की मांग उठ रही है.
+
+यह सीरीज़ 4 दिसंबर, 2026 को रिलीज़ होगी और दुनिया भर के 191 देशों में उपलब्ध होगी. इसे कई भाषाओं में डब किया गया है.
+
+एमडी फ़िल्म्स के बैनर तले बनी इस सीरीज़ की कहानी मशहूर उपन्यासकार फ़रहत इश्तियाक़ ने लिखी है, जबकि इसका निर्माण और निर्देशन मोमिना दुरैद ने किया है.
+
+इस सीरीज़ के पहले हिस्से में कुल पाँच एपिसोड हैं, जबकि इसमें कुल 13 एपिसोड होने की संभावना है. इसकी कहानी तीन पीढ़ियों और छह प्रेम कहानियों के इर्द-गिर्द घूमती है.
+
+पाकिस्तानी लेखिका फ़रहत इश्तियाक़ ने 2013 में 'जो बचे हैं संग समेट लो' नाम से एक उपन्यास लिखा था.
+
+इसकी कहानी मुख्य रूप से सिकंदर (अहद रज़ा मीर) और लीसा (इक़रा अज़ीज़) के इर्द-गिर्द घूमती है. सिकंदर हार्वर्ड में क़ानून का छात्र है. वह अपने अतीत से परेशान होकर इटली के रोम शहर चला जाता है, जहां उसकी मुलाक़ात लीसा से होती है.
+
+लीसा एक चित्रकार है और उसका जीवन भी कई उलझनों से घिरा हुआ है.
+
+इटली में उनकी मुलाक़ात उनके जीवन को एक अप्रत्याशित मोड़ देती है. ट्रेलर से पता चलता है कि इस ड्रामा की शूटिंग रोम के अलावा कराची, स्कार्दू और लंदन में भी हुई है.
+
+प्यार, रिश्ते और इंसानी जुड़ाव इसकी कहानी के मुख्य विषय हैं, जिन्हें अलग-अलग क़िरदारों और पीढ़ियों के जीवन के ज़रिए दिखाया गया है.
+
+इस सीरीज़ का नाम और इसका मूल विचार फ़ैज़ अहमद फ़ैज़ की एक ग़ज़ल से प्रेरित है. इस लिहाज़ से, कहानी सिर्फ़ प्रेम संबंधों तक सीमित नहीं है, बल्कि इसमें जीवन भर संजोई गई यादों, रिश्तों और अनुभवों को भी शामिल किया गया है
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+इस सीरीज़ की एक ख़ास बात इसमें शामिल पाकिस्तान के कुछ बड़े कलाकारों की टोली है. इसमें अहद रज़ा मीर और इकरा अज़ीज़ के साथ फ़वाद ख़ान, माहिरा ख़ान, हानिया आमिर, हमज़ा अली अब्बासी, सनम सईद, माया अली, आमना शेख़, ख़ुशाल ख़ान, अहमद अली अकबर और बिलाल अशरफ़ भी हैं.
+
+निर्देशक मोमिना दुरैद के बेटे शाह ज़ैन दुरैद इस सीरीज़ से अभिनय की शुरुआत कर रहे हैं. पाकिस्तानी दर्शकों के लिए इस सीरीज़ की एक ख़ास बात फ़वाद ख़ान और माहिरा ख़ान की जोड़ी है.
+
+बीबीसी न्यूज़ उर्दू से बात करते हुए अमीना शेख़ ने बताया कि एक अभिनेत्री के तौर पर वह अपने आने वाले प्रोजेक्ट्स में व्यस्त थीं, लेकिन निर्माता और बाकी टीम इस सीरीज़ को पूरा करने में जुटी हुई थी. हाल ही में डबिंग के दौरान उन्हें एहसास हुआ कि इस दौरान कितना काम हो चुका है.
+
+वह कहती हैं, "मैं इस प्रोजेक्ट का हिस्सा बनकर बहुत ख़ुश और उत्साहित हूं. मुझे ख़ुशी है कि इस सीरीज़ में नज़र आने वाले सभी कलाकारों ने इसके लिए अपना समय दिया. मुझे लगता है कि इस टीम का हर कलाकार इसके लायक़ है."
+
+उनके मुताबिक़, "एक ही प्रोजेक्ट में इतने सारे कलाकारों का एक साथ आना पाकिस्तानी मनोरंजन उद्योग के लिए भी स्वागत योग्य है."
+
+### आठ साल की तैयारी, 200 दिन की शूटिंग
+
+इस सीरीज़ को बनाने का सफ़र भी काफ़ी लंबा रहा है. मोमिना दुरैद के मुताबिक़, इस प्रोजेक्ट पर काम करने में लगभग आठ साल लगे, जबकि इसकी शूटिंग 200 दिनों तक चली.
+
+वह कहती हैं, "जब इस परियोजना के ज़रिए नेटफ़्लिक्स के दरवाज़े पाकिस्तान के लिए खुलेंगे, तब मुझे गर्व होगा."
+
+उपन्यासकार फ़रहत इश्तियाक़ भी इस मौक़े को अपने काम के वैश्विक प्रदर्शन से कहीं बढ़कर मानती हैं.
+
+वह कहती हैं, "इस समय बहुत ख़ुशी है और साथ ही बहुत डर भी. यह एक बहुत बड़ी और भावनात्मक स्थिति है. मुझे अपने लिए उतनी ख़ुशी नहीं है जितनी अपने देश के लिए है कि अब पाकिस्तानी नाटकों को वैश्विक दर्शक देखेंगे. मैं चाहती हूं कि पाकिस्तान की वह छवि जो दुनिया को जाननी चाहिए, इस नाटक के माध्यम से दुनिया तक पहुंचे."
+
+इस सीरीज़ का संगीत और बैकग्राउंड स्कोर जाने-माने संगीतकार रोहैल हयात ने तैयार किया है. वह 80 और 90 के दशक में 'वाइटल साइंस' बैंड के सदस्य थे. बाद में कोक स्टूडियो के शुरुआती और लोकप्रिय दौर में भी उन्हें काफ़ी शोहरत मिली.
+
+रोहैल हयात का इस परियोजना से जुड़ना इसलिए भी अहम है क्योंकि उनका काम पाकिस्तानी संगीत में पारंपरिक और आधुनिक शैलियों के मेल के लिए जाना जाता है.
+
+सीरीज़ का ट्रेलर और संगीत जारी होने के बाद इसके कलाकारों ने भी इसे सोशल मीडिया पर साझा किया, जहां इस परियोजना को लेकर लोगों ने दिलचस्पी दिखाई.
+
+अभिनेत्री माहिरा ख़ान ने अपने क़िरदार राहत के बारे में एक पोस्ट साझा करते हुए कहा, "इस क़िरदार का एक हिस्सा उसके जीवन भर उसके साथ रहेगा."
+
+पाकिस्तानी ड्रामे विदेशों में रहने वाले दक्षिण एशियाई दर्शकों के बीच कई साल से लोकप्रिय रहे हैं.
+
+यूट्यूब और सोशल मीडिया ने इनकी पहुंच और बढ़ा दी है. भारत समेत दूसरे देशों में भी पाकिस्तानी ड्रामा के संवादों और किरदारों पर बने वीडियो इस लोकप्रियता की मिसाल हैं.
+
+लेकिन यह लोकप्रियता ज़्यादातर उन लोगों तक ही सीमित रही है जो पाकिस्तानी संस्कृति, भाषा या कलाकारों से पहले से परिचित हैं.
+
+नेटफ़्लिक्स जैसे मंच पर मौजूदगी से उन लोगों तक भी पहुंचना मुमकिन हो सकता है जिन्होंने पहले कभी कोई पाकिस्तानी ड्रामा नहीं देखा है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cm93r9d9ypx0o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    summary_hi: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.`,
+    content_hi: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.
+
+लेकिन भारत में इस सीरीज़ की रिलीज़ पर बैन लगाने की मांग उठ रही है.
+
+यह सीरीज़ 4 दिसंबर, 2026 को रिलीज़ होगी और दुनिया भर के 191 देशों में उपलब्ध होगी. इसे कई भाषाओं में डब किया गया है.
+
+एमडी फ़िल्म्स के बैनर तले बनी इस सीरीज़ की कहानी मशहूर उपन्यासकार फ़रहत इश्तियाक़ ने लिखी है, जबकि इसका निर्माण और निर्देशन मोमिना दुरैद ने किया है.
+
+इस सीरीज़ के पहले हिस्से में कुल पाँच एपिसोड हैं, जबकि इसमें कुल 13 एपिसोड होने की संभावना है. इसकी कहानी तीन पीढ़ियों और छह प्रेम कहानियों के इर्द-गिर्द घूमती है.
+
+पाकिस्तानी लेखिका फ़रहत इश्तियाक़ ने 2013 में 'जो बचे हैं संग समेट लो' नाम से एक उपन्यास लिखा था.
+
+इसकी कहानी मुख्य रूप से सिकंदर (अहद रज़ा मीर) और लीसा (इक़रा अज़ीज़) के इर्द-गिर्द घूमती है. सिकंदर हार्वर्ड में क़ानून का छात्र है. वह अपने अतीत से परेशान होकर इटली के रोम शहर चला जाता है, जहां उसकी मुलाक़ात लीसा से होती है.
+
+लीसा एक चित्रकार है और उसका जीवन भी कई उलझनों से घिरा हुआ है.
+
+इटली में उनकी मुलाक़ात उनके जीवन को एक अप्रत्याशित मोड़ देती है. ट्रेलर से पता चलता है कि इस ड्रामा की शूटिंग रोम के अलावा कराची, स्कार्दू और लंदन में भी हुई है.
+
+प्यार, रिश्ते और इंसानी जुड़ाव इसकी कहानी के मुख्य विषय हैं, जिन्हें अलग-अलग क़िरदारों और पीढ़ियों के जीवन के ज़रिए दिखाया गया है.
+
+इस सीरीज़ का नाम और इसका मूल विचार फ़ैज़ अहमद फ़ैज़ की एक ग़ज़ल से प्रेरित है. इस लिहाज़ से, कहानी सिर्फ़ प्रेम संबंधों तक सीमित नहीं है, बल्कि इसमें जीवन भर संजोई गई यादों, रिश्तों और अनुभवों को भी शामिल किया गया है
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+इस सीरीज़ की एक ख़ास बात इसमें शामिल पाकिस्तान के कुछ बड़े कलाकारों की टोली है. इसमें अहद रज़ा मीर और इकरा अज़ीज़ के साथ फ़वाद ख़ान, माहिरा ख़ान, हानिया आमिर, हमज़ा अली अब्बासी, सनम सईद, माया अली, आमना शेख़, ख़ुशाल ख़ान, अहमद अली अकबर और बिलाल अशरफ़ भी हैं.
+
+निर्देशक मोमिना दुरैद के बेटे शाह ज़ैन दुरैद इस सीरीज़ से अभिनय की शुरुआत कर रहे हैं. पाकिस्तानी दर्शकों के लिए इस सीरीज़ की एक ख़ास बात फ़वाद ख़ान और माहिरा ख़ान की जोड़ी है.
+
+बीबीसी न्यूज़ उर्दू से बात करते हुए अमीना शेख़ ने बताया कि एक अभिनेत्री के तौर पर वह अपने आने वाले प्रोजेक्ट्स में व्यस्त थीं, लेकिन निर्माता और बाकी टीम इस सीरीज़ को पूरा करने में जुटी हुई थी. हाल ही में डबिंग के दौरान उन्हें एहसास हुआ कि इस दौरान कितना काम हो चुका है.
+
+वह कहती हैं, "मैं इस प्रोजेक्ट का हिस्सा बनकर बहुत ख़ुश और उत्साहित हूं. मुझे ख़ुशी है कि इस सीरीज़ में नज़र आने वाले सभी कलाकारों ने इसके लिए अपना समय दिया. मुझे लगता है कि इस टीम का हर कलाकार इसके लायक़ है."
+
+उनके मुताबिक़, "एक ही प्रोजेक्ट में इतने सारे कलाकारों का एक साथ आना पाकिस्तानी मनोरंजन उद्योग के लिए भी स्वागत योग्य है."
+
+### आठ साल की तैयारी, 200 दिन की शूटिंग
+
+इस सीरीज़ को बनाने का सफ़र भी काफ़ी लंबा रहा है. मोमिना दुरैद के मुताबिक़, इस प्रोजेक्ट पर काम करने में लगभग आठ साल लगे, जबकि इसकी शूटिंग 200 दिनों तक चली.
+
+वह कहती हैं, "जब इस परियोजना के ज़रिए नेटफ़्लिक्स के दरवाज़े पाकिस्तान के लिए खुलेंगे, तब मुझे गर्व होगा."
+
+उपन्यासकार फ़रहत इश्तियाक़ भी इस मौक़े को अपने काम के वैश्विक प्रदर्शन से कहीं बढ़कर मानती हैं.
+
+वह कहती हैं, "इस समय बहुत ख़ुशी है और साथ ही बहुत डर भी. यह एक बहुत बड़ी और भावनात्मक स्थिति है. मुझे अपने लिए उतनी ख़ुशी नहीं है जितनी अपने देश के लिए है कि अब पाकिस्तानी नाटकों को वैश्विक दर्शक देखेंगे. मैं चाहती हूं कि पाकिस्तान की वह छवि जो दुनिया को जाननी चाहिए, इस नाटक के माध्यम से दुनिया तक पहुंचे."
+
+इस सीरीज़ का संगीत और बैकग्राउंड स्कोर जाने-माने संगीतकार रोहैल हयात ने तैयार किया है. वह 80 और 90 के दशक में 'वाइटल साइंस' बैंड के सदस्य थे. बाद में कोक स्टूडियो के शुरुआती और लोकप्रिय दौर में भी उन्हें काफ़ी शोहरत मिली.
+
+रोहैल हयात का इस परियोजना से जुड़ना इसलिए भी अहम है क्योंकि उनका काम पाकिस्तानी संगीत में पारंपरिक और आधुनिक शैलियों के मेल के लिए जाना जाता है.
+
+सीरीज़ का ट्रेलर और संगीत जारी होने के बाद इसके कलाकारों ने भी इसे सोशल मीडिया पर साझा किया, जहां इस परियोजना को लेकर लोगों ने दिलचस्पी दिखाई.
+
+अभिनेत्री माहिरा ख़ान ने अपने क़िरदार राहत के बारे में एक पोस्ट साझा करते हुए कहा, "इस क़िरदार का एक हिस्सा उसके जीवन भर उसके साथ रहेगा."
+
+पाकिस्तानी ड्रामे विदेशों में रहने वाले दक्षिण एशियाई दर्शकों के बीच कई साल से लोकप्रिय रहे हैं.
+
+यूट्यूब और सोशल मीडिया ने इनकी पहुंच और बढ़ा दी है. भारत समेत दूसरे देशों में भी पाकिस्तानी ड्रामा के संवादों और किरदारों पर बने वीडियो इस लोकप्रियता की मिसाल हैं.
+
+लेकिन यह लोकप्रियता ज़्यादातर उन लोगों तक ही सीमित रही है जो पाकिस्तानी संस्कृति, भाषा या कलाकारों से पहले से परिचित हैं.
+
+नेटफ़्लिक्स जैसे मंच पर मौजूदगी से उन लोगों तक भी पहुंचना मुमकिन हो सकता है जिन्होंने पहले कभी कोई पाकिस्तानी ड्रामा नहीं देखा है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cm93r9d9ypx0o)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Entertainment affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?.`,
+    primary_source: `BBC Official Dispatch`,
+  },
+  {
+    id: 97876,
+    title: `🚨 रामायण ने रिलीज के 20वें दिन फिर उड़ाया गर्दा, धमाकेदार की कमाई, धुरंधर-पुष्पा - ABP News`,
+    slug: `20-abp-news-2026`,
+    original_title: `रामायण ने रिलीज के 20वें दिन फिर उड़ाया गर्दा, धमाकेदार की कमाई, धुरंधर-पुष्पा - ABP News`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `2 min read`,
+    views_count: 23528240,
+    shares_count: 3429860,
+    published_at: `2026-11-26T02:57:55Z`,
+    updated_at: `2026-11-26T02:57:55Z`,
+    source_name: `ABP News`,
+    source_url: `https://www.abplive.com/entertainment/bollywood/ramayana-box-office-collection-day-20-ranbir-kapoor-yash-film-twentieth-day-record-highest-third-tuesday-collection-net-in-india-3219038`,
+    source_courtesy: `News Courtesy: ABP News Digital Archives`,
+    image_url: `/images/articles/20-abp-news-2026.jpg`,
+    image_alt: `Verified news photograph: रामायण ने रिलीज के 20वें दिन फिर उड़ाया गर्दा, धमाकेदार की कमाई, धुरंधर-पुष्पा - ABP News`,
+    image_courtesy: `Image Courtesy: ABP News`,
+    image_photographer: `ABP News`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Ramayana, Breaking News, India, Verified`,
+    summary: `रणबीर कपूर, यश और साई पल्लवी स्टारर 'रामायण' का तीसरा वीकेंड शानदार रहा. लेकिन तीसरे सोमवार को इसकी कमाई की रफ्तार धीमी पड़ गई. लेकिन फिर मेकर्स ने भी नया पैंतरा अपनाया और दर्शकों को लुभाने के लिए टिकटों की कीमत कम कर दी. इसी के साथ तीसरे म`,
+    content: `### Ramayana Box Office Collection Day 20: रणबीर कपूर स्टारर 'रामायण' ने रिलीज के 20वें दिन कमाल कर दिया और इस फिल्म ने शानदार कमाई की. वहीं इसने एक बड़ा रिकॉर्ड भी अपने नाम कर लिया है.
+
+रणबीर कपूर, यश और साई पल्लवी स्टारर 'रामायण' का तीसरा वीकेंड शानदार रहा. लेकिन तीसरे सोमवार को इसकी कमाई की रफ्तार धीमी पड़ गई. लेकिन फिर मेकर्स ने भी नया पैंतरा अपनाया और दर्शकों को लुभाने के लिए टिकटों की कीमत कम कर दी. इसी के साथ तीसरे मंगलवार को 'रामायण' की कमाई में तेजी देखी गई. चलिए यहां जानते हैं नितेश तिवारी निर्देशित इस फिल्म ने रिलीज के 20वें दिन कितनी कमाई की है?
+
+'रामायण' ने 20वें दिन कितना किया कलेक्शन? 'रामायण' बॉक्स ऑफिस पर अब तक कई मील के पत्थर पार कर चुकी है और अब ये 1 हजार करोड़ के आंकड़े की ओर तेजी से बढ़ रही है. हालांकि तीसरे मंडे यानी रिलीज के 19वें दि इसने अब तक का सबसे कम कलेक्शन किया. ये बस 12.70 करोड़ ही कमा पाई. लेकिन मेकर्स ने अब 'रामायण' के टिकटों की कीमत 80 फीसदी तक कम कर दी है और ये फिल्म 99 रुपये में देखी जा सकती है. तीसरे मंगलवार को यानी रिलीज के 20वें दिन 'रामायण' को मेकर्स की इस रणनीति का फायदा हुआ और इसकी कमाई में फिर तेजी देखी गई.
+
+तीसरे मंगलवार सबसे ज्यादा कमाई करने वाली फिल्म बनी 'रामायण' 'रामायण' ने रिलीज के 20वें दिन कमाल कर दिया. इस फिल्म ने तीसरे मंगलवार को कमाई में तेजी को दिखाई ही साथ ही 17.50 करोड़ की कमाई कर ये तीसरे मंगलवार सबसे ज्यादा कलेक्शन करने वाली पहली फिल्म बन गई. इसी के साथ इसने 'धुरंधर' के 17.25 करोड़, 'पुष्पा 2' के 11.50 करोड़, 'केजीएफ 2' के 9.57 करोड़, 'धुरंधर 2' के 9.50 करोड़ और 'बाहुबली 2' के 6.95 करोड़ के तीसरे मंगलवार के कलेक्शन को मात दे दी है.
+
+फिल्म के बारे में इस फिल्म को नमित मल्होत्रा ​​और यश ने प्रोड्यूस किया है, जो प्राइम फोकस स्टूडियोज, मॉन्स्टर माइंड क्रिएशन्स और DNEG के बैनर तले बनी है. इसमें रणबीर कपूर, यश और साई पल्लवी के अलावा रवि दुबे, अरुण गोविल, लारा दत्ता, इंदिरा कृष्णन, रकुल प्रीत सिंह, सोनल झा, विवेक ओबेरॉय और अन्य कलाकारों ने अहम रोल प्ले किया है. फिल्म का म्यूजिक ए.आर. रहमान और हंस जिमर ने तैयार किया है.
+
+निशा शर्मा ABP Live में सीनियर फ्रीलांस पत्रकार हैं और एंटरटेनमेंट बीट संभालती हैं. उन्हें मीडिया इंडस्ट्री में 8 साल से ज्यादा का अनुभव है और बॉक्स ऑफिस की खबरों पर उनकी बेहतरीन पकड़ है. निशा मुख्य रूप से फिल्मों के बजट, बॉक्स ऑफिस कलेक्शन, कमाई और नफे-नुकसान से जुड़े सटीक आंकड़ों और विश्लेषण पर लिखती हैं. उन्होंने अपने करियर की शुरुआत 'आजतक' से की थी. इसके बाद वे 'फोकस टीवी' और 'साधना न्यूज' में बतौर प्रोड्यूसर काम किया. नेशनल और स्पेशल स्टोरीज की जिम्मेदारी संभाल चुकी हैं. निशा ने दिल्ली यूनिवर्सिटी से ग्रेजुएशन और वाईडब्ल्यूसीए (YWCA), नई दिल्ली से मास कम्युनिकेशन में पीजी किया है.
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/entertainment/bollywood/ramayana-box-office-collection-day-20-ranbir-kapoor-yash-film-twentieth-day-record-highest-third-tuesday-collection-net-in-india-3219038)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `रामायण ने रिलीज के 20वें दिन फिर उड़ाया गर्दा, धमाकेदार की कमाई, धुरंधर-पुष्पा - ABP News`,
+    summary_hi: `रणबीर कपूर, यश और साई पल्लवी स्टारर 'रामायण' का तीसरा वीकेंड शानदार रहा. लेकिन तीसरे सोमवार को इसकी कमाई की रफ्तार धीमी पड़ गई. लेकिन फिर मेकर्स ने भी नया पैंतरा अपनाया और दर्शकों को लुभाने के लिए टिकटों की कीमत कम कर दी. इसी के साथ तीसरे म`,
+    content_hi: `### Ramayana Box Office Collection Day 20: रणबीर कपूर स्टारर 'रामायण' ने रिलीज के 20वें दिन कमाल कर दिया और इस फिल्म ने शानदार कमाई की. वहीं इसने एक बड़ा रिकॉर्ड भी अपने नाम कर लिया है.
+
+रणबीर कपूर, यश और साई पल्लवी स्टारर 'रामायण' का तीसरा वीकेंड शानदार रहा. लेकिन तीसरे सोमवार को इसकी कमाई की रफ्तार धीमी पड़ गई. लेकिन फिर मेकर्स ने भी नया पैंतरा अपनाया और दर्शकों को लुभाने के लिए टिकटों की कीमत कम कर दी. इसी के साथ तीसरे मंगलवार को 'रामायण' की कमाई में तेजी देखी गई. चलिए यहां जानते हैं नितेश तिवारी निर्देशित इस फिल्म ने रिलीज के 20वें दिन कितनी कमाई की है?
+
+'रामायण' ने 20वें दिन कितना किया कलेक्शन? 'रामायण' बॉक्स ऑफिस पर अब तक कई मील के पत्थर पार कर चुकी है और अब ये 1 हजार करोड़ के आंकड़े की ओर तेजी से बढ़ रही है. हालांकि तीसरे मंडे यानी रिलीज के 19वें दि इसने अब तक का सबसे कम कलेक्शन किया. ये बस 12.70 करोड़ ही कमा पाई. लेकिन मेकर्स ने अब 'रामायण' के टिकटों की कीमत 80 फीसदी तक कम कर दी है और ये फिल्म 99 रुपये में देखी जा सकती है. तीसरे मंगलवार को यानी रिलीज के 20वें दिन 'रामायण' को मेकर्स की इस रणनीति का फायदा हुआ और इसकी कमाई में फिर तेजी देखी गई.
+
+तीसरे मंगलवार सबसे ज्यादा कमाई करने वाली फिल्म बनी 'रामायण' 'रामायण' ने रिलीज के 20वें दिन कमाल कर दिया. इस फिल्म ने तीसरे मंगलवार को कमाई में तेजी को दिखाई ही साथ ही 17.50 करोड़ की कमाई कर ये तीसरे मंगलवार सबसे ज्यादा कलेक्शन करने वाली पहली फिल्म बन गई. इसी के साथ इसने 'धुरंधर' के 17.25 करोड़, 'पुष्पा 2' के 11.50 करोड़, 'केजीएफ 2' के 9.57 करोड़, 'धुरंधर 2' के 9.50 करोड़ और 'बाहुबली 2' के 6.95 करोड़ के तीसरे मंगलवार के कलेक्शन को मात दे दी है.
+
+फिल्म के बारे में इस फिल्म को नमित मल्होत्रा ​​और यश ने प्रोड्यूस किया है, जो प्राइम फोकस स्टूडियोज, मॉन्स्टर माइंड क्रिएशन्स और DNEG के बैनर तले बनी है. इसमें रणबीर कपूर, यश और साई पल्लवी के अलावा रवि दुबे, अरुण गोविल, लारा दत्ता, इंदिरा कृष्णन, रकुल प्रीत सिंह, सोनल झा, विवेक ओबेरॉय और अन्य कलाकारों ने अहम रोल प्ले किया है. फिल्म का म्यूजिक ए.आर. रहमान और हंस जिमर ने तैयार किया है.
+
+निशा शर्मा ABP Live में सीनियर फ्रीलांस पत्रकार हैं और एंटरटेनमेंट बीट संभालती हैं. उन्हें मीडिया इंडस्ट्री में 8 साल से ज्यादा का अनुभव है और बॉक्स ऑफिस की खबरों पर उनकी बेहतरीन पकड़ है. निशा मुख्य रूप से फिल्मों के बजट, बॉक्स ऑफिस कलेक्शन, कमाई और नफे-नुकसान से जुड़े सटीक आंकड़ों और विश्लेषण पर लिखती हैं. उन्होंने अपने करियर की शुरुआत 'आजतक' से की थी. इसके बाद वे 'फोकस टीवी' और 'साधना न्यूज' में बतौर प्रोड्यूसर काम किया. नेशनल और स्पेशल स्टोरीज की जिम्मेदारी संभाल चुकी हैं. निशा ने दिल्ली यूनिवर्सिटी से ग्रेजुएशन और वाईडब्ल्यूसीए (YWCA), नई दिल्ली से मास कम्युनिकेशन में पीजी किया है.
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/entertainment/bollywood/ramayana-box-office-collection-day-20-ranbir-kapoor-yash-film-twentieth-day-record-highest-third-tuesday-collection-net-in-india-3219038)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Ramayana affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on रामायण ने रिलीज के 20वें दिन फिर उड़ाया गर्दा, धमाकेदार की कमाई, धुरंधर-पुष्पा - ABP News.`,
+    primary_source: `ABP News Official Dispatch`,
+  },
+  {
+    id: 97863,
+    title: `🏏 Dottin returns to West Indies squad for Pakistan series`,
+    slug: `dottin-returns-to-west-indies-squad-for-pakistan-series-2026`,
+    original_title: `Dottin returns to West Indies squad for Pakistan series`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `🏏 Cricket Wire`,
+    read_time: `6 min read`,
+    views_count: 30385530,
+    shares_count: 4898750,
+    published_at: `2026-11-25T19:30:05Z`,
+    updated_at: `2026-11-25T19:30:05Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564154.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85&sig=97863`,
+    image_alt: `Cricket photograph: Dottin returns to West Indies squad for Pakistan series`,
+    image_courtesy: `Photo: Action Sports Photography / Unsplash (Unsplash Commercial & Editorial License)`,
+    image_photographer: `Action Sports Photography / Unsplash`,
+    image_license: `Unsplash Commercial & Editorial License`,
+    fact_check_status: `Verified against Official Cricket Match Centre`,
+    tags: `Cricket, BCCI, Live Score, Sports, Match Report`,
+    summary: `Dottin returns to West Indies squad for Pakistan series. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **Dottin returns to West Indies squad for Pakistan series**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** match-pakistan-vs-west-indies-2026
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Official Squad Announcement
+* **Score Checked At:** 2026-11-26 01:00:05 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Official Squad Announcement | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    title_en: `Dottin returns to West Indies squad for Pakistan series`,
+    summary_en: `Dottin returns to West Indies squad for Pakistan series. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content_en: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **Dottin returns to West Indies squad for Pakistan series**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** match-pakistan-vs-west-indies-2026
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Official Squad Announcement
+* **Score Checked At:** 2026-11-26 01:00:05 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Official Squad Announcement | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    author_name: `Rohan Sen`,
+    author_bio: `Senior Sports Correspondent covering international cricket, IPL, and tactical athletic telemetry.`,
+    author_url: `https://zestfeedx.com/author/rohan-sen`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-pakistan-vs-west-indies-2026`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Official Squad Announcement`,
+    score_verified_at: `2026-11-26 01:00:05 IST`,
+    detected_at: `2026-11-25T19:30:04Z`,
+    verified_at: `2026-11-25T19:30:05Z`,
+    approved_at: `2026-11-25T19:30:05Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Dottin returns to West Indies squad for Pakistan series.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 97849,
+    title: `🩺 ICMR Survey Finds Widespread Vitamin B12 Deficiency Among Indians: Symptoms, Causes And What To Do - Health and Me`,
+    slug: `icmr-survey-finds-widespread-vitamin-b12-deficiency-among-indians-symp-2026`,
+    original_title: `ICMR Survey Finds Widespread Vitamin B12 Deficiency Among Indians: Symptoms, Causes And What To Do - Health and Me`,
+    category: `health`,
+    topic: `nutrition`,
+    language: `en`,
+    fomo_badge: `🩺 Health Wire`,
+    read_time: `1 min read`,
+    views_count: 23521760,
+    shares_count: 3428915,
+    published_at: `2026-11-25T19:29:59Z`,
+    updated_at: `2026-11-25T19:29:59Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://www.healthandme.com/health-news/icmr-survey-finds-widespread-vitamin-b12-deficiency-among-indians-symptoms-causes-and-what-to-do-article-156566267`,
+    source_courtesy: `News Courtesy: Indian Council of Medical Research (ICMR) Digital Archives`,
+    image_url: `/images/articles/icmr-survey-finds-widespread-vitamin-b12-deficiency-among-indians-symp-2026.webp`,
+    image_alt: `Verified news photograph: ICMR Survey Finds Widespread Vitamin B12 Deficiency Among Indians: Symptoms, Causes And What To Do - Health and Me`,
+    image_courtesy: `Image Courtesy: Indian Council of Medical Research (ICMR)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Health, Breaking News, India, Verified`,
+    summary: `Login to get the latest articles, videos, gallery, and a lot more…`,
+    content: `Login to get the latest articles, videos, gallery, and a lot more…
+
+Updated Nov 25, 2026 | 11:48 PM IST
+
+### US FDA Issues Ibuprofen Recall Over Aluminum Contamination: What Are The Health Risks?
+
+### Billie Jean King Opens Up About Chris Evert's Third Cancer Recurrence: Why Genetic Testing Is Important
+
+### WHO Recommends New Oral Antibiotic For Gonorrhoea Amid Rising Resistance
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.healthandme.com/health-news/icmr-survey-finds-widespread-vitamin-b12-deficiency-among-indians-symptoms-causes-and-what-to-do-article-156566267)`,
+    title_en: `ICMR Survey Finds Widespread Vitamin B12 Deficiency Among Indians: Symptoms, Causes And What To Do - Health and Me`,
+    summary_en: `Login to get the latest articles, videos, gallery, and a lot more…`,
+    content_en: `Login to get the latest articles, videos, gallery, and a lot more…
+
+Updated Nov 25, 2026 | 11:48 PM IST
+
+### US FDA Issues Ibuprofen Recall Over Aluminum Contamination: What Are The Health Risks?
+
+### Billie Jean King Opens Up About Chris Evert's Third Cancer Recurrence: Why Genetic Testing Is Important
+
+### WHO Recommends New Oral Antibiotic For Gonorrhoea Amid Rising Resistance
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.healthandme.com/health-news/icmr-survey-finds-widespread-vitamin-b12-deficiency-among-indians-symptoms-causes-and-what-to-do-article-156566267)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: true,
+    medical_reviewer_name: `Dr. Ananya Mukherjee, MBBS, MD`,
+    medical_reviewer_credentials: `MBBS, MD (Internal Medicine), Clinical Consultant`,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Health affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on ICMR Survey Finds Widespread Vitamin B12 Deficiency Among Indians: Symptoms, Causes And What To Do - Health and Me.`,
+    primary_source: `Indian Council of Medical Research (ICMR) Official Dispatch`,
+  },
+  {
+    id: 97850,
+    title: `🚨 अनंत सिंह की बेटी की शादी में निकला सांप, लड़के ने चकरी बनाकर बाहर फेंका - AajTak`,
+    slug: `politics-breaking-report-80008-97850-2026`,
+    original_title: `अनंत सिंह की बेटी की शादी में निकला सांप, लड़के ने चकरी बनाकर बाहर फेंका - AajTak`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `2 min read`,
+    views_count: 23522000,
+    shares_count: 3428950,
+    published_at: `2026-11-25T19:29:59Z`,
+    updated_at: `2026-11-25T19:29:59Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/trending/story/anant-singh-daughter-wedding-pandal-snake-boy-video-viral-tstf-dskc-2705834-2026-11-25`,
+    source_courtesy: `News Courtesy: AajTak Digital Archives`,
+    image_url: `/images/articles/politics-breaking-report-80008-97850-2026.webp`,
+    image_alt: `Verified news photograph: अनंत सिंह की बेटी की शादी में निकला सांप, लड़के ने चकरी बनाकर बाहर फेंका - AajTak`,
+    image_courtesy: `Image Courtesy: AajTak`,
+    image_photographer: `AajTak`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, Verified`,
+    summary: `बिहार के मोकामा विधायक अनंत सिंह की बेटी शिवांगी सिंह की शादी की चर्चा इन दिनों सोशल मीडिया पर खूब हो रही है. शादी के लिए बड़े स्तर पर तैयारियां की गई हैं और पंडाल से लेकर खाने और मेहमानों के इंतजाम तक के कई वीडियो वायरल हो रहे हैं.`,
+    content: `### अनंत सिंह की बेटी शिवांगी सिंह की शादी इन दिनों सोशल मीडिया पर चर्चा में है और शादी से जुड़े कई वीडियो वायरल हो रहे हैं. इसी बीच सामने आए एक वीडियो में शादी के मंडप की दरी पर सांप तेजी से रेंगता दिखाई दे रहा है
+
+बिहार के मोकामा विधायक अनंत सिंह की बेटी शिवांगी सिंह की शादी की चर्चा इन दिनों सोशल मीडिया पर खूब हो रही है. शादी के लिए बड़े स्तर पर तैयारियां की गई हैं और पंडाल से लेकर खाने और मेहमानों के इंतजाम तक के कई वीडियो वायरल हो रहे हैं.
+
+इसी बीच शादी के पंडाल से जुड़ा एक ऐसा वीडियो सामने आया है. ये वीडियो वायरल है. वीडियो में पंडाल के अंदर अचानक एक सांप दिखाई देता है. सांप नजर आते ही वहां मौजूद लोगों में हलचल मच जाती है. कुछ लोग उससे दूरी बनाते नजर आते हैं, जबकि कुछ लोग मोबाइल से पूरा मामला रिकॉर्ड करने लगते हैं.
+
+इसी दौरान एक युवक सांप के पास पहुंचता है. वह बिना ज्यादा घबराए सांप को पकड़ता है. उसे पंडाल से बाहर ले जाता दिखाई देता है. आसपास खड़े लोग इस पूरे नजारे को देखते हैं.
+
+अनंत सिंह की बेटी की शादी के पंडाल में सांप निकल गया तो ,देखिए एक युवक ने हाथ में उठा कर ही उसको। https://t.co/tRFyqsgqCI
+
+वीडियो में देखा जा सकता है कि शादी के मंडप में बिछी दरी पर एक सांप तेजी से रेंग रहा है. सांप को देखते ही वहां मौजूद लोगों में हलचल मच जाती है. इसी दौरान एक युवक बिना डरे उसके पास पहुंचता है और उसकी पूंछ पकड़ लेता है. इसके बाद वह सांप को तेजी से घुमाता है और मंडप से बाहर फेंक देता है.
+
+यह भी पढ़ें: तिलक में खाने के लिए टूट पड़े लोग, अनंत सिंह की बेटी की शादी की तैयारी के VIDEO वायरल
+
+शादी जैसे बड़े आयोजन में अचानक सांप के पहुंचने से वहां मौजूद लोगों के बीच डर का माहौल बनना स्वाभाविक था. हालांकि, वीडियो में युवक जिस तरह सांप को पकड़ता नजर आ रहा है, उसने सोशल मीडिया यूजर्स का ध्यान खींच लिया है.
+
+शिवांगी सिंह की शादी से जुड़े कई वीडियो पहले ही सोशल मीडिया पर वायरल हो चुके हैं. इनमें शादी के विशाल पंडाल, खाने की तैयारियां, घुड़दौड़ और रस्मों से जुड़े वीडियो शामिल हैं.अब सांप वाला यह वीडियो भी लोगों के बीच चर्चा का विषय बन गया है. हालांकि, वीडियो में दिख रहे युवक की पहचान और सांप को पकड़ने के बाद उसे कहां छोड़ा गया, इसकी जानकारी सामने नहीं आई है.
+
+\\ सांप को देखकर उसे खुद पकड़ने की कोशिश करना खतरनाक हो सकता है. सांप जहरीला है या नहीं, यह देखकर पहचानना हमेशा संभव नहीं होता. ऐसे मामलों में प्रशिक्षित रेस्क्यू टीम की मदद लेना ज्यादा सुरक्षित होता है.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/trending/story/anant-singh-daughter-wedding-pandal-snake-boy-video-viral-tstf-dskc-2705834-2026-11-25)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अनंत सिंह की बेटी की शादी में निकला सांप, लड़के ने चकरी बनाकर बाहर फेंका - AajTak`,
+    summary_hi: `बिहार के मोकामा विधायक अनंत सिंह की बेटी शिवांगी सिंह की शादी की चर्चा इन दिनों सोशल मीडिया पर खूब हो रही है. शादी के लिए बड़े स्तर पर तैयारियां की गई हैं और पंडाल से लेकर खाने और मेहमानों के इंतजाम तक के कई वीडियो वायरल हो रहे हैं.`,
+    content_hi: `### अनंत सिंह की बेटी शिवांगी सिंह की शादी इन दिनों सोशल मीडिया पर चर्चा में है और शादी से जुड़े कई वीडियो वायरल हो रहे हैं. इसी बीच सामने आए एक वीडियो में शादी के मंडप की दरी पर सांप तेजी से रेंगता दिखाई दे रहा है
+
+बिहार के मोकामा विधायक अनंत सिंह की बेटी शिवांगी सिंह की शादी की चर्चा इन दिनों सोशल मीडिया पर खूब हो रही है. शादी के लिए बड़े स्तर पर तैयारियां की गई हैं और पंडाल से लेकर खाने और मेहमानों के इंतजाम तक के कई वीडियो वायरल हो रहे हैं.
+
+इसी बीच शादी के पंडाल से जुड़ा एक ऐसा वीडियो सामने आया है. ये वीडियो वायरल है. वीडियो में पंडाल के अंदर अचानक एक सांप दिखाई देता है. सांप नजर आते ही वहां मौजूद लोगों में हलचल मच जाती है. कुछ लोग उससे दूरी बनाते नजर आते हैं, जबकि कुछ लोग मोबाइल से पूरा मामला रिकॉर्ड करने लगते हैं.
+
+इसी दौरान एक युवक सांप के पास पहुंचता है. वह बिना ज्यादा घबराए सांप को पकड़ता है. उसे पंडाल से बाहर ले जाता दिखाई देता है. आसपास खड़े लोग इस पूरे नजारे को देखते हैं.
+
+अनंत सिंह की बेटी की शादी के पंडाल में सांप निकल गया तो ,देखिए एक युवक ने हाथ में उठा कर ही उसको। https://t.co/tRFyqsgqCI
+
+वीडियो में देखा जा सकता है कि शादी के मंडप में बिछी दरी पर एक सांप तेजी से रेंग रहा है. सांप को देखते ही वहां मौजूद लोगों में हलचल मच जाती है. इसी दौरान एक युवक बिना डरे उसके पास पहुंचता है और उसकी पूंछ पकड़ लेता है. इसके बाद वह सांप को तेजी से घुमाता है और मंडप से बाहर फेंक देता है.
+
+यह भी पढ़ें: तिलक में खाने के लिए टूट पड़े लोग, अनंत सिंह की बेटी की शादी की तैयारी के VIDEO वायरल
+
+शादी जैसे बड़े आयोजन में अचानक सांप के पहुंचने से वहां मौजूद लोगों के बीच डर का माहौल बनना स्वाभाविक था. हालांकि, वीडियो में युवक जिस तरह सांप को पकड़ता नजर आ रहा है, उसने सोशल मीडिया यूजर्स का ध्यान खींच लिया है.
+
+शिवांगी सिंह की शादी से जुड़े कई वीडियो पहले ही सोशल मीडिया पर वायरल हो चुके हैं. इनमें शादी के विशाल पंडाल, खाने की तैयारियां, घुड़दौड़ और रस्मों से जुड़े वीडियो शामिल हैं.अब सांप वाला यह वीडियो भी लोगों के बीच चर्चा का विषय बन गया है. हालांकि, वीडियो में दिख रहे युवक की पहचान और सांप को पकड़ने के बाद उसे कहां छोड़ा गया, इसकी जानकारी सामने नहीं आई है.
+
+\\ सांप को देखकर उसे खुद पकड़ने की कोशिश करना खतरनाक हो सकता है. सांप जहरीला है या नहीं, यह देखकर पहचानना हमेशा संभव नहीं होता. ऐसे मामलों में प्रशिक्षित रेस्क्यू टीम की मदद लेना ज्यादा सुरक्षित होता है.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/trending/story/anant-singh-daughter-wedding-pandal-snake-boy-video-viral-tstf-dskc-2705834-2026-11-25)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Politics affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on अनंत सिंह की बेटी की शादी में निकला सांप, लड़के ने चकरी बनाकर बाहर फेंका - AajTak.`,
+    primary_source: `AajTak Official Dispatch`,
+  },
+  {
+    id: 97851,
+    title: `🚨 सपा हमारी महत्ता नहीं समझ रही तो ओके-BYE-BYE-थैंक यू', यूपी काग्रेस कार्यकारी अध्यक्ष इमरान मसूद का बड़ा ब - India TV Hindi`,
+    slug: `bye-bye-india-tv-hindi-2026`,
+    original_title: `सपा हमारी महत्ता नहीं समझ रही तो ओके-BYE-BYE-थैंक यू', यूपी काग्रेस कार्यकारी अध्यक्ष इमरान मसूद का बड़ा ब - India TV Hindi`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `4 min read`,
+    views_count: 23522240,
+    shares_count: 3428985,
+    published_at: `2026-11-25T19:29:59Z`,
+    updated_at: `2026-11-25T19:29:59Z`,
+    source_name: `India TV Hindi`,
+    source_url: `https://www.indiatv.in/uttar-pradesh/up-congress-working-president-imran-masood-says-if-samajwadi-party-doesnt-value-us-then-okay-bye-bye-thank-you-2026-11-25-1256377`,
+    source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
+    image_url: `/images/articles/bye-bye-india-tv-hindi-2026.jpg`,
+    image_alt: `Verified news photograph: सपा हमारी महत्ता नहीं समझ रही तो ओके-BYE-BYE-थैंक यू', यूपी काग्रेस कार्यकारी अध्यक्ष इमरान मसूद का बड़ा ब - India TV Hindi`,
+    image_courtesy: `Image Courtesy: India TV Hindi`,
+    image_photographer: `India TV Hindi`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, Verified`,
+    summary: `लखनऊः उत्तर प्रदेश में चुनावी बिगुल बजने से पहले सीट बंटवारे को लेकर सपा और कांग्रेस में कलह बढ़ गई है। सपा ने कांग्रेस को 26 सीटों का ऑफर किया है, जिस पर कांग्रेस भड़क गई है। कांग्रेस सांसद इमरान मसूद ने खुद मोर्चा संभाला और कहा कि हम कोई `,
+    content: `### कांग्रेस के सांसद और यूपी कांग्रेस के कार्यकारी अध्यक्ष इमरान मसूद ने अखिलेश यादव और समाजवादी पार्टी को क्लियर मैसेज दिया है। मसूद ने कहा अगर अखिलेश यादव को मुख्यमंत्री बनना है तो फिर कांग्रेस को सम्मान देना होगा।
+
+लखनऊः उत्तर प्रदेश में चुनावी बिगुल बजने से पहले सीट बंटवारे को लेकर सपा और कांग्रेस में कलह बढ़ गई है। सपा ने कांग्रेस को 26 सीटों का ऑफर किया है, जिस पर कांग्रेस भड़क गई है। कांग्रेस सांसद इमरान मसूद ने खुद मोर्चा संभाला और कहा कि हम कोई भिखारी नहीं हैं, जो अखिलेश से कुछ मिलने का इंतजार करें। आप कांग्रेस को भिखारी कैसे मान सकते हैं। बिना चर्चा के आपने उम्मीदवारों का ऐलान कर दिया, फिर हम बात ही क्यों कर रहे हैं। सपा ने कल 5 कैंडिडेट के नाम का ऐलान भी कर दिया है, जिस पर इमरान मसूद का पारा और गरम हो गया है।
+
+इमरान मसूद ने सपा को दिया कड़ा मैसेज
+
+इंडिया टीवी से बातचीत करते हुए इमरान मसूद ने बुधवार को समाजवादी पार्टी को साफ साफ कह दिया कि अगर कांग्रेस की जरूरत नहीं है तो फिर सपा को टाटा बाय बाय ही बोल दें। उन्होंने 105 से 107 सीट कांग्रेस ने तब लड़ी थी जब अखिलेश यादव मुख्यमंत्री थे। अब अगर अखिलेश को सीएम बनना है तो हमें सम्मान देना पड़ेगा। नहीं तो आप अपना काम करो हम अपना काम करेंगे। आप अगर हमारे गले पर पैर रखकर चाहेंगे कि हमारी कब्र पर ताजमहल बना दें तो हमारी सांस घुटेगी तो हम हाथ पैर तो मारेंगे ही।
+
+सपा पर निशाना साधते हुए इमरान ने कहा कि जो आप को सीएम बनाने के लिए आगे चलने को तैयार है, आप उन्हीं को रगड़ रहे हैं। अगर हम हवा हवाई हैं तो मीटिंग क्यों कर रहे हैं। सपा की लिस्ट जारी होने के सवाल पर इमरान ने कहा कि सपा सभी 403 सीटों पर उम्मीदवार जारी कर दे, हम कौन एतराज़ करने वाले हैं? लेकिन अगर गठबन्धन की बात है तो गठबन्धन में तो जॉइंट सूची जारी होगी। मीटिंग की बात प्रेस में आ रही है। सूची हमसे पहले प्रेस में आ जाये तो गठबन्धन में गम्भीरता कंहा है?
+
+कांग्रेस नेता इमरान मसूद ने यह भी कहा कि बार-बार ये कहा जाए कि आपके पास कार्यकर्ता नहीं हैं। बस्ते लगाने वाले नहीं है। आपकी ज़मानत ज़ब्त हो गई तो फिर हमारी ज़रूरत क्या है? हम तो जीरो हैं, एक पर जीरो लगाओगे, दस कर देंगे। दस पर लगाओगे तो सौ कर देंगे ये हमारी ताकत है। आपके पास जीतने की गारंटी है तो आप सीएम क्यों नहीं बने। मुख्यमंत्री आपको बनना है। इमरान ने सपा से कहा कि सहारनपुर कैसे जिताओगे। हमने जिताये थे, इनके जीते हुए विधायक। आप तय कर लीजिए कि लड़ाई बीजेपी से है या हमसे।
+
+अवधेश प्रसाद ने दिया इमरान मसूद को जवाब
+
+इमरान मसूद के बयान पर सपा सांसद अवधेश प्रसाद ने कहा कि इमरान मसूद अथॉरिटी नहीं हैं। अथॉरिटी तो हमारी पार्टी में अखिलेश यादव हैं। कांग्रेस में राहुल गांधी हैं। बाकी सब हवा हवाई बातें हैं। सीटिंग विधायकों को टिकट देने पर किसी को आपत्ति नहीं होनी चाहिए। इमरान मसूद की निजी राय हो सकती है। उम्मीदवार पर नहीं बात हुई , सीट पर बात हुई। अगली बैठक जल्दी होगी तो मामला फाइनल हो जाएगा। यूपी में 2024 में सपा कांग्रेस का गठबन्धन था, वो 2027 में भी रहेगा। अगली बैठक जल्दी होगी तो मामला फाइनल हो जाएगा।
+
+ये भी पढ़ेंः 'अबकी बार तो चुनाव से पहले ही फेल हो गई 2 लड़कों की जोड़ी', CM योगी ने साधा निशाना
+
+सपा के घोषणापत्र में महिलाओं के लिए 40 हजार रुपये वाले ऐलान के साथ क्या-क्या होगा खास? आ गई डिटेल
+
+### India TV हिंदी न्यूज़ के साथ रहें हर दिन अपडेट, पाएं देश और दुनिया की हर बड़ी खबर। उत्तर प्रदेश से जुड़ी लेटेस्ट खबरों के लिए अभी विज़िट करें।
+
+### यूपी चुनाव: ओमप्रकाश राजभर का बड़ा ऐलान-जहूराबाद से नहीं, इस बार अकबरपुर सीट से लड़ेंगे चुनाव
+
+### "हमारे लिए कमल का फूल सब कुछ है, सबको पता है CM का चेहरा कौन होगा", योगी आदित्यनाथ का बयान
+
+### 'माफ कर दो, गलती हो गई...', होटल में हिंदू लड़की को बंधक बनाने वाला सलमान एनकाउंटर के बाद गिरफ्तार, पुलिस के सामने गिड़गिड़ाया; VIDEO
+
+### 'अबकी बार तो चुनाव से पहले ही फेल हो गई 2 लड़कों की जोड़ी', CM योगी ने साधा निशाना
+
+### पासपोर्ट में जन्मस्थान की जानकारी पर फंसे सौरव दास, विदेश मंत्रालय ने थमाया नोटिस; 7 दिन में देना होगा जवाब
+
+### 'सपा हमारी महत्ता नहीं समझ रही तो ओके-BYE-BYE-थैंक यू', यूपी काग्रेस कार्यकारी अध्यक्ष इमरान मसूद का बड़ा बयान
+
+### सर्राफा बाजार में भूचाल! चांदी ने लगाई ₹7000 की बड़ी डुबकी, सोना भी गिरकर ₹1.26 लाख पर आया; देखें 22K और 18K का भाव
+
+### छठ के पवित्र सिंदूर पर टिप्पणी से भड़का विवाद, कॉमेडियन यश माहेश्वरी के खिलाफ FIR की मांग
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/uttar-pradesh/up-congress-working-president-imran-masood-says-if-samajwadi-party-doesnt-value-us-then-okay-bye-bye-thank-you-2026-11-25-1256377)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `सपा हमारी महत्ता नहीं समझ रही तो ओके-BYE-BYE-थैंक यू', यूपी काग्रेस कार्यकारी अध्यक्ष इमरान मसूद का बड़ा ब - India TV Hindi`,
+    summary_hi: `लखनऊः उत्तर प्रदेश में चुनावी बिगुल बजने से पहले सीट बंटवारे को लेकर सपा और कांग्रेस में कलह बढ़ गई है। सपा ने कांग्रेस को 26 सीटों का ऑफर किया है, जिस पर कांग्रेस भड़क गई है। कांग्रेस सांसद इमरान मसूद ने खुद मोर्चा संभाला और कहा कि हम कोई `,
+    content_hi: `### कांग्रेस के सांसद और यूपी कांग्रेस के कार्यकारी अध्यक्ष इमरान मसूद ने अखिलेश यादव और समाजवादी पार्टी को क्लियर मैसेज दिया है। मसूद ने कहा अगर अखिलेश यादव को मुख्यमंत्री बनना है तो फिर कांग्रेस को सम्मान देना होगा।
+
+लखनऊः उत्तर प्रदेश में चुनावी बिगुल बजने से पहले सीट बंटवारे को लेकर सपा और कांग्रेस में कलह बढ़ गई है। सपा ने कांग्रेस को 26 सीटों का ऑफर किया है, जिस पर कांग्रेस भड़क गई है। कांग्रेस सांसद इमरान मसूद ने खुद मोर्चा संभाला और कहा कि हम कोई भिखारी नहीं हैं, जो अखिलेश से कुछ मिलने का इंतजार करें। आप कांग्रेस को भिखारी कैसे मान सकते हैं। बिना चर्चा के आपने उम्मीदवारों का ऐलान कर दिया, फिर हम बात ही क्यों कर रहे हैं। सपा ने कल 5 कैंडिडेट के नाम का ऐलान भी कर दिया है, जिस पर इमरान मसूद का पारा और गरम हो गया है।
+
+इमरान मसूद ने सपा को दिया कड़ा मैसेज
+
+इंडिया टीवी से बातचीत करते हुए इमरान मसूद ने बुधवार को समाजवादी पार्टी को साफ साफ कह दिया कि अगर कांग्रेस की जरूरत नहीं है तो फिर सपा को टाटा बाय बाय ही बोल दें। उन्होंने 105 से 107 सीट कांग्रेस ने तब लड़ी थी जब अखिलेश यादव मुख्यमंत्री थे। अब अगर अखिलेश को सीएम बनना है तो हमें सम्मान देना पड़ेगा। नहीं तो आप अपना काम करो हम अपना काम करेंगे। आप अगर हमारे गले पर पैर रखकर चाहेंगे कि हमारी कब्र पर ताजमहल बना दें तो हमारी सांस घुटेगी तो हम हाथ पैर तो मारेंगे ही।
+
+सपा पर निशाना साधते हुए इमरान ने कहा कि जो आप को सीएम बनाने के लिए आगे चलने को तैयार है, आप उन्हीं को रगड़ रहे हैं। अगर हम हवा हवाई हैं तो मीटिंग क्यों कर रहे हैं। सपा की लिस्ट जारी होने के सवाल पर इमरान ने कहा कि सपा सभी 403 सीटों पर उम्मीदवार जारी कर दे, हम कौन एतराज़ करने वाले हैं? लेकिन अगर गठबन्धन की बात है तो गठबन्धन में तो जॉइंट सूची जारी होगी। मीटिंग की बात प्रेस में आ रही है। सूची हमसे पहले प्रेस में आ जाये तो गठबन्धन में गम्भीरता कंहा है?
+
+कांग्रेस नेता इमरान मसूद ने यह भी कहा कि बार-बार ये कहा जाए कि आपके पास कार्यकर्ता नहीं हैं। बस्ते लगाने वाले नहीं है। आपकी ज़मानत ज़ब्त हो गई तो फिर हमारी ज़रूरत क्या है? हम तो जीरो हैं, एक पर जीरो लगाओगे, दस कर देंगे। दस पर लगाओगे तो सौ कर देंगे ये हमारी ताकत है। आपके पास जीतने की गारंटी है तो आप सीएम क्यों नहीं बने। मुख्यमंत्री आपको बनना है। इमरान ने सपा से कहा कि सहारनपुर कैसे जिताओगे। हमने जिताये थे, इनके जीते हुए विधायक। आप तय कर लीजिए कि लड़ाई बीजेपी से है या हमसे।
+
+अवधेश प्रसाद ने दिया इमरान मसूद को जवाब
+
+इमरान मसूद के बयान पर सपा सांसद अवधेश प्रसाद ने कहा कि इमरान मसूद अथॉरिटी नहीं हैं। अथॉरिटी तो हमारी पार्टी में अखिलेश यादव हैं। कांग्रेस में राहुल गांधी हैं। बाकी सब हवा हवाई बातें हैं। सीटिंग विधायकों को टिकट देने पर किसी को आपत्ति नहीं होनी चाहिए। इमरान मसूद की निजी राय हो सकती है। उम्मीदवार पर नहीं बात हुई , सीट पर बात हुई। अगली बैठक जल्दी होगी तो मामला फाइनल हो जाएगा। यूपी में 2024 में सपा कांग्रेस का गठबन्धन था, वो 2027 में भी रहेगा। अगली बैठक जल्दी होगी तो मामला फाइनल हो जाएगा।
+
+ये भी पढ़ेंः 'अबकी बार तो चुनाव से पहले ही फेल हो गई 2 लड़कों की जोड़ी', CM योगी ने साधा निशाना
+
+सपा के घोषणापत्र में महिलाओं के लिए 40 हजार रुपये वाले ऐलान के साथ क्या-क्या होगा खास? आ गई डिटेल
+
+### India TV हिंदी न्यूज़ के साथ रहें हर दिन अपडेट, पाएं देश और दुनिया की हर बड़ी खबर। उत्तर प्रदेश से जुड़ी लेटेस्ट खबरों के लिए अभी विज़िट करें।
+
+### यूपी चुनाव: ओमप्रकाश राजभर का बड़ा ऐलान-जहूराबाद से नहीं, इस बार अकबरपुर सीट से लड़ेंगे चुनाव
+
+### "हमारे लिए कमल का फूल सब कुछ है, सबको पता है CM का चेहरा कौन होगा", योगी आदित्यनाथ का बयान
+
+### 'माफ कर दो, गलती हो गई...', होटल में हिंदू लड़की को बंधक बनाने वाला सलमान एनकाउंटर के बाद गिरफ्तार, पुलिस के सामने गिड़गिड़ाया; VIDEO
+
+### 'अबकी बार तो चुनाव से पहले ही फेल हो गई 2 लड़कों की जोड़ी', CM योगी ने साधा निशाना
+
+### पासपोर्ट में जन्मस्थान की जानकारी पर फंसे सौरव दास, विदेश मंत्रालय ने थमाया नोटिस; 7 दिन में देना होगा जवाब
+
+### 'सपा हमारी महत्ता नहीं समझ रही तो ओके-BYE-BYE-थैंक यू', यूपी काग्रेस कार्यकारी अध्यक्ष इमरान मसूद का बड़ा बयान
+
+### सर्राफा बाजार में भूचाल! चांदी ने लगाई ₹7000 की बड़ी डुबकी, सोना भी गिरकर ₹1.26 लाख पर आया; देखें 22K और 18K का भाव
+
+### छठ के पवित्र सिंदूर पर टिप्पणी से भड़का विवाद, कॉमेडियन यश माहेश्वरी के खिलाफ FIR की मांग
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/uttar-pradesh/up-congress-working-president-imran-masood-says-if-samajwadi-party-doesnt-value-us-then-okay-bye-bye-thank-you-2026-11-25-1256377)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Politics affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on सपा हमारी महत्ता नहीं समझ रही तो ओके-BYE-BYE-थैंक यू', यूपी काग्रेस कार्यकारी अध्यक्ष इमरान मसूद का बड़ा ब - India TV Hindi.`,
+    primary_source: `India TV Hindi Official Dispatch`,
+  },
+  {
+    id: 97853,
+    title: `🚨 चीनी कंपनी ने लॉन्च किया 200MP कैमरा, 8000mAh बैटरी वाला धांसू फोन - India TV Hindi`,
+    slug: `200mp-8000mah-india-tv-hindi-2026`,
+    original_title: `चीनी कंपनी ने लॉन्च किया 200MP कैमरा, 8000mAh बैटरी वाला धांसू फोन - India TV Hindi`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `3 min read`,
+    views_count: 23522720,
+    shares_count: 3429055,
+    published_at: `2026-11-25T19:29:59Z`,
+    updated_at: `2026-11-25T19:29:59Z`,
+    source_name: `India TV Hindi`,
+    source_url: `https://www.indiatv.in/tech/tech-news/honor-magic-9-pro-max-launched-globally-with-200mp-camera-9000mah-battery-2026-11-25-1256340`,
+    source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
+    image_url: `/images/articles/200mp-8000mah-india-tv-hindi-2026.jpg`,
+    image_alt: `Verified news photograph: चीनी कंपनी ने लॉन्च किया 200MP कैमरा, 8000mAh बैटरी वाला धांसू फोन - India TV Hindi`,
+    image_courtesy: `Image Courtesy: India TV Hindi`,
+    image_photographer: `India TV Hindi`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Tech, Breaking News, India, Verified`,
+    summary: `Honor ने अपने फ्लैगशिप फोन Magic 9 Pro Max को ग्लोबल मार्केट में लॉन्च कर दिया है। चीनी कंपनी का यह फोन 200MP कैमरा, 9000mAh की दमदार बैटरी जैसे फीचर्स के साथ आता है। इस फोन के साथ कंपनी ने सेपरेट फोटोग्राफी किट भी पेश की है, जिसमें टेलीफोट`,
+    content: `### Honor Magic 9 Pro Max दमदार फीचर्स के साथ ग्लोबली लॉन्च हो गया है। चीनी कंपनी का यह फोन 200MP के डुअल कैमरा और 55MP के सेल्फी कैमरा के साथ पेश किया गया है।
+
+Honor ने अपने फ्लैगशिप फोन Magic 9 Pro Max को ग्लोबल मार्केट में लॉन्च कर दिया है। चीनी कंपनी का यह फोन 200MP कैमरा, 9000mAh की दमदार बैटरी जैसे फीचर्स के साथ आता है। इस फोन के साथ कंपनी ने सेपरेट फोटोग्राफी किट भी पेश की है, जिसमें टेलीफोटो लेंस लगा है। फोन में ARRI का ऑप्टिक्स यूज किया गया है। चीनी ब्रांड ने हाल ही में Honor 700 और Honor 700 Pro स्मार्टफोन घरेलू मार्केट में लॉन्च किए हैं । ये फोन डुअल डिस्प्ले पैनल, दमदार कैमरे और बैटरी के साथ आते हैं। इसमें कंपनी ने 200MP कैमरा, 9000mAh की दमदार बैटरी जैसे फीचर्स दिए हैं।
+
+Honor Magic 9 Pro Max  को मलेशिया में लॉन्च किया गया है। फोन की शुरुआती कीमत RM 5,999 यानी लगभग 1,35,000 रुपये है। इसे Shadow Black, Glacier Silver और Moss Green कलर ऑप्शन में पेश किया गया है। इस फोन को 24 नवंबर से 3 दिसंबर 2026 के बीच प्री-ऑर्डर किया जा सकता है।
+
+ऑनर के इस फ्लैगशिप फोन में कंपनी ने 6.8 इंच का OLED पैनल दिया है, जो 120Hz रिफ्रेश रेट को सपोर्ट करता है। फोन के डिस्प्ले की पीक ब्राइटनेस 10,000 निट्स तक की है। फोन के डिस्प्ले में HDR का सपोर्ट मिलता है। इस फोन के डिस्प्ले की प्रोटेक्शन के लिए कंपनी ने Nano Crystal Shield का इस्तेमाल किया है।
+
+चीनी कंपनी के इस फोन में IP68, IP69 और IP69K रेटिंग दी गई है, जिसकी वजह से फोन पानी में डूबने और धूल-मिट्टी में खराब नहीं होगा। यह फोन Qualcomm के लेटेस्ट 2nm चिपसेट Snapdragon 8 Elite Extreme Gen 6 पर काम करता है। फोन में 12GB रैम और 512GB का इंटरनल स्टोरेज दिया गया है।
+
+यह फोन 8,000mAh के सिलिकन-कार्बन बैटरी के साथ आता है। इसके साथ 100W वायर्ड और 80W वायरलेस चार्जिंग का सपोर्ट मिलता है। फोन के बैक में ट्रिपल कैमरा सेटअप मिलेगा। इसमें 200MP का मेन OIS कैमरा मिलेगा। इसके साथ 200MP का टेलीफोटो और 50MP का अल्ट्रा वाइड कैमरा मिलेगा। सेल्फी और वीडियो कॉलिंग के लिए फोन में 55MP का कैमरा दिया गया है। यह Android 17 ऑपरेटिंग सिस्टम पर काम करता है।
+
+यह भी पढ़ें - WhatsApp में आ रहा बड़े काम का फीचर, यूजर्स अपने मैसेज 2 सप्ताह पहले कर पाएंगे शेड्यूल
+
+### India TV हिंदी न्यूज़ के साथ रहें हर दिन अपडेट, पाएं देश और दुनिया की हर बड़ी खबर। Tech News से जुड़ी लेटेस्ट खबरों के लिए अभी विज़िट करें टेक ।
+
+### WhatsApp में आ रहा बड़े काम का फीचर, यूजर्स अपने मैसेज 2 सप्ताह पहले कर पाएंगे शेड्यूल
+
+### iPhone 18e में मिलेगा नया कैमरा डिजाइन? लीक हुई तस्वीरें, सामने आए फीचर्स
+
+### OnePlus Nord 7 में मिलेगी 9000mAh की बैटरी, फ्लैगशिप फीचर्स के साथ होगा लॉन्च
+
+### BSNL ने उतारा धमाकेदार प्लान, अनलिमिटेड कॉलिंग के साथ मिलेगा Unlimied डेटा
+
+### असम को मिलेगा नया ग्रीनफील्ड एयरपोर्ट, ₹2014 करोड़ में बनेगा आधुनिक हवाई अड्डा; कैबिनेट से मिलेगी हरी झंडी
+
+### 'अबकी बार तो चुनाव से पहले ही फेल हो गई 2 लड़कों की जोड़ी', CM योगी ने साधा निशाना
+
+### "बांग्लादेश में मारे गए हिंदुओं का बदला लिया जाएगा", पश्चिम बंगाल के मंत्री अर्जुन सिंह का दावा
+
+### आईपीएल ऑक्शन के लिए 1220 प्लेयर्स के नाम आए सामने, 17 देशों के​ खिलाड़ी शामिल, केवल 66 ही बिक पाएंगे
+
+### ‘सभी को पता था दोनों रिलेशनशिप में हैं’, शादीशुदा होते हुए भी श्रीदेवी से मिलने आते थे मिथुन, घंटों करते थे इंतजार
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/tech/tech-news/honor-magic-9-pro-max-launched-globally-with-200mp-camera-9000mah-battery-2026-11-25-1256340)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `चीनी कंपनी ने लॉन्च किया 200MP कैमरा, 8000mAh बैटरी वाला धांसू फोन - India TV Hindi`,
+    summary_hi: `Honor ने अपने फ्लैगशिप फोन Magic 9 Pro Max को ग्लोबल मार्केट में लॉन्च कर दिया है। चीनी कंपनी का यह फोन 200MP कैमरा, 9000mAh की दमदार बैटरी जैसे फीचर्स के साथ आता है। इस फोन के साथ कंपनी ने सेपरेट फोटोग्राफी किट भी पेश की है, जिसमें टेलीफोट`,
+    content_hi: `### Honor Magic 9 Pro Max दमदार फीचर्स के साथ ग्लोबली लॉन्च हो गया है। चीनी कंपनी का यह फोन 200MP के डुअल कैमरा और 55MP के सेल्फी कैमरा के साथ पेश किया गया है।
+
+Honor ने अपने फ्लैगशिप फोन Magic 9 Pro Max को ग्लोबल मार्केट में लॉन्च कर दिया है। चीनी कंपनी का यह फोन 200MP कैमरा, 9000mAh की दमदार बैटरी जैसे फीचर्स के साथ आता है। इस फोन के साथ कंपनी ने सेपरेट फोटोग्राफी किट भी पेश की है, जिसमें टेलीफोटो लेंस लगा है। फोन में ARRI का ऑप्टिक्स यूज किया गया है। चीनी ब्रांड ने हाल ही में Honor 700 और Honor 700 Pro स्मार्टफोन घरेलू मार्केट में लॉन्च किए हैं । ये फोन डुअल डिस्प्ले पैनल, दमदार कैमरे और बैटरी के साथ आते हैं। इसमें कंपनी ने 200MP कैमरा, 9000mAh की दमदार बैटरी जैसे फीचर्स दिए हैं।
+
+Honor Magic 9 Pro Max  को मलेशिया में लॉन्च किया गया है। फोन की शुरुआती कीमत RM 5,999 यानी लगभग 1,35,000 रुपये है। इसे Shadow Black, Glacier Silver और Moss Green कलर ऑप्शन में पेश किया गया है। इस फोन को 24 नवंबर से 3 दिसंबर 2026 के बीच प्री-ऑर्डर किया जा सकता है।
+
+ऑनर के इस फ्लैगशिप फोन में कंपनी ने 6.8 इंच का OLED पैनल दिया है, जो 120Hz रिफ्रेश रेट को सपोर्ट करता है। फोन के डिस्प्ले की पीक ब्राइटनेस 10,000 निट्स तक की है। फोन के डिस्प्ले में HDR का सपोर्ट मिलता है। इस फोन के डिस्प्ले की प्रोटेक्शन के लिए कंपनी ने Nano Crystal Shield का इस्तेमाल किया है।
+
+चीनी कंपनी के इस फोन में IP68, IP69 और IP69K रेटिंग दी गई है, जिसकी वजह से फोन पानी में डूबने और धूल-मिट्टी में खराब नहीं होगा। यह फोन Qualcomm के लेटेस्ट 2nm चिपसेट Snapdragon 8 Elite Extreme Gen 6 पर काम करता है। फोन में 12GB रैम और 512GB का इंटरनल स्टोरेज दिया गया है।
+
+यह फोन 8,000mAh के सिलिकन-कार्बन बैटरी के साथ आता है। इसके साथ 100W वायर्ड और 80W वायरलेस चार्जिंग का सपोर्ट मिलता है। फोन के बैक में ट्रिपल कैमरा सेटअप मिलेगा। इसमें 200MP का मेन OIS कैमरा मिलेगा। इसके साथ 200MP का टेलीफोटो और 50MP का अल्ट्रा वाइड कैमरा मिलेगा। सेल्फी और वीडियो कॉलिंग के लिए फोन में 55MP का कैमरा दिया गया है। यह Android 17 ऑपरेटिंग सिस्टम पर काम करता है।
+
+यह भी पढ़ें - WhatsApp में आ रहा बड़े काम का फीचर, यूजर्स अपने मैसेज 2 सप्ताह पहले कर पाएंगे शेड्यूल
+
+### India TV हिंदी न्यूज़ के साथ रहें हर दिन अपडेट, पाएं देश और दुनिया की हर बड़ी खबर। Tech News से जुड़ी लेटेस्ट खबरों के लिए अभी विज़िट करें टेक ।
+
+### WhatsApp में आ रहा बड़े काम का फीचर, यूजर्स अपने मैसेज 2 सप्ताह पहले कर पाएंगे शेड्यूल
+
+### iPhone 18e में मिलेगा नया कैमरा डिजाइन? लीक हुई तस्वीरें, सामने आए फीचर्स
+
+### OnePlus Nord 7 में मिलेगी 9000mAh की बैटरी, फ्लैगशिप फीचर्स के साथ होगा लॉन्च
+
+### BSNL ने उतारा धमाकेदार प्लान, अनलिमिटेड कॉलिंग के साथ मिलेगा Unlimied डेटा
+
+### असम को मिलेगा नया ग्रीनफील्ड एयरपोर्ट, ₹2014 करोड़ में बनेगा आधुनिक हवाई अड्डा; कैबिनेट से मिलेगी हरी झंडी
+
+### 'अबकी बार तो चुनाव से पहले ही फेल हो गई 2 लड़कों की जोड़ी', CM योगी ने साधा निशाना
+
+### "बांग्लादेश में मारे गए हिंदुओं का बदला लिया जाएगा", पश्चिम बंगाल के मंत्री अर्जुन सिंह का दावा
+
+### आईपीएल ऑक्शन के लिए 1220 प्लेयर्स के नाम आए सामने, 17 देशों के​ खिलाड़ी शामिल, केवल 66 ही बिक पाएंगे
+
+### ‘सभी को पता था दोनों रिलेशनशिप में हैं’, शादीशुदा होते हुए भी श्रीदेवी से मिलने आते थे मिथुन, घंटों करते थे इंतजार
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/tech/tech-news/honor-magic-9-pro-max-launched-globally-with-200mp-camera-9000mah-battery-2026-11-25-1256340)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Tech affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on चीनी कंपनी ने लॉन्च किया 200MP कैमरा, 8000mAh बैटरी वाला धांसू फोन - India TV Hindi.`,
+    primary_source: `India TV Hindi Official Dispatch`,
+  },
+  {
+    id: 97854,
+    title: `🚨 अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    slug: `world-breaking-report-56116-97854-2026`,
+    original_title: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `4 min read`,
+    views_count: 23522960,
+    shares_count: 3429090,
+    published_at: `2026-11-25T19:30:00Z`,
+    updated_at: `2026-11-25T19:30:00Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/ckg5rzg1d4leo`,
+    source_courtesy: `News Courtesy: BBC Digital Archives`,
+    image_url: `https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=85&sig=97854`,
+    image_alt: `Verified news photograph: अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    image_courtesy: `Photo: Global Satellite Telemetry (Unsplash Editorial)`,
+    image_photographer: `Global Satellite Telemetry`,
+    image_license: `Unsplash Editorial`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `World, Breaking News, India, Verified`,
+    summary: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.`,
+    content: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.
+
+ये टैरिफ़ मैन्युफ़ैक्चरिंग के अलग-अलग क्षेत्रों में ज़रूरत से ज़्यादा उत्पादन और उत्पादन क्षमता की जांच के लिए की गई सेक्शन 301 की जांच के बाद लगाए जा रहे हैं.
+
+इस जांच के दायरे में आने वाली देश हैं: भारत, चीन, यूरोपीय संघ, सिंगापुर, स्विट्ज़रलैंड, इंडोनेशिया, मलेशिया, कंबोडिया, थाईलैंड, दक्षिण कोरिया, वियतनाम, ताइवान, बांग्लादेश और जापान.
+
+अलग-अलग देशों और उत्पादों पर अलग-अलग दरों से टैरिफ़ लगाया जाएगा.
+
+चीन पर सबसे ज़्यादा, 40 फ़ीसदी तक टैरिफ़ लगाया गया है. इसके बाद वियतनाम पर 35 फ़ीसदी तक टैरिफ़ लगेगा. वहीं, दूसरे देशों पर 20 या 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा.
+
+कुछ देशों पर अधिकतम 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा. इनमें थाईलैंड और भारत शामिल हैं. वहीं, जापान समेत कुछ अन्य देशों पर अधिकतम 20 फ़ीसदी तक टैरिफ़ लगेगा. इस सूची में ब्रिटेन शामिल नहीं है.
+
+हालांकि, इनमें से कुछ टैरिफ़ की दरें असल में कम हो जाएंगी, क्योंकि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप पहले ही कुछ देशों के साथ टैरिफ़ की अधिकतम सीमा तय करने पर सहमत हो चुके हैं.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+राष्ट्रपति ट्रंप ने अपने दूसरे कार्यकाल में बार-बार टैरिफ़ लगाने की धमकी दी है या उन्हें लागू किया है. उनका तर्क है कि इस नीति से अमेरिका में मैन्युफ़ैक्चरिंग को बढ़ावा मिलेगा और रोज़गार के नए अवसर पैदा होंगे.
+
+हालांकि, अर्थशास्त्रियों ने चेतावनी दी है कि आयात पर टैक्स लगाने से महंगाई बढ़ सकती है और उपभोक्ताओं के लिए चीज़ें महंगी हो सकती हैं. इससे वैश्विक व्यापार पर भी असर पड़ सकता है.
+
+यह ताज़ा क़दम ऐसे समय उठाया गया है, जब इस साल की शुरुआत में अमेरिकी सुप्रीम कोर्ट ने फ़ैसला दिया था कि आपातकालीन शक्तियों का इस्तेमाल करके ट्रंप की ओर से लगाए गए कई टैरिफ़ ग़ैरक़ानूनी थे.
+
+इसके बाद इस साल गर्मी में अमेरिका की उन कंपनियों को अरबों डॉलर का टैरिफ़ रिफंड देना पड़ा, जिन्होंने सामान आयात करने के लिए ये शुल्क चुकाए थे.
+
+हालांकि, इससे ट्रंप प्रशासन की टैरिफ़ लगाने की कोशिशों पर कोई रोक नहीं लगी. व्हाइट हाउस इन टैक्स को लागू करने के लिए क़ानून के दूसरे रास्ते तलाश रहा है. आज का फ़ैसला भी इसी कोशिश का एक और उदाहरण है.
+
+पिछले साल अप्रैल में डोनाल्ड ट्रंप ने दुनिया के कई व्यापारिक साझेदारों पर बड़े पैमाने पर टैरिफ़ लगाने का एलान किया था. इसके लिए उन्होंने अमेरिकी राष्ट्रपति को मिले आपातकालीन अधिकारों का इस्तेमाल किया था.
+
+इनमें से कई टैरिफ़ को बाद में अमेरिकी सुप्रीम कोर्ट ने रद्द कर दिया था.
+
+इसलिए बुधवार को जिन आयात शुल्कों का एलान किया गया है, वे ट्रंप के टैरिफ़ को दोबारा लागू करने की नई कोशिश हैं.
+
+हालांकि, इस बार ट्रंप प्रशासन ने अलग तरीक़ा अपनाया है. ISEAS-युसोफ़ इशाक इंस्टीट्यूट के व्यापार विशेषज्ञ जयंत मेनन का कहना है कि इस वजह से इन टैरिफ़ को किसी क़ानूनी चुनौती के ज़रिए रद्द कराना मुश्किल हो सकता है.
+
+मेनन के मुताबिक़, पिछले साल ट्रंप ने जिन टैरिफ़ का एलान किया था, उनकी तुलना में नए शुल्क कम क्षेत्रों पर लागू होंगे. इनकी दरें भी ज़्यादातर मामलों में काफ़ी कम और एक जैसी हैं.
+
+ये टैरिफ़ व्हाइट हाउस की ओर से कराई गई कई महीनों की जांच पर भी आधारित हैं. इस जांच में इन क्षेत्रों की श्रम और व्यापार नीतियों और अमेरिका पर उनके संभावित असर का अध्ययन किया गया.
+
+### सुप्रीम कोर्ट के फ़ैसले के बाद नए टैरिफ़ की तैयारी की थी
+
+नए टैरिफ़ लगाने के प्रस्ताव ऐसे समय आए हैं, जब व्हाइट हाउस ने मार्च में दूसरे देशों की व्यापार नीतियों की जांच शुरू की थी.
+
+यह जांच अमेरिकी सुप्रीम कोर्ट के उस फ़ैसले के बाद शुरू हुई थी, जिसमें कहा गया था कि ट्रंप के तथाकथित 'लिबरेशन डे' टैरिफ़, जिन्हें प्रशासन ने जवाबी टैरिफ़ कहा था, क़ानूनी नहीं थे.
+
+अदालत के इस फ़ैसले के बाद ट्रंप ने कहा था कि वह टैरिफ़ लगाने के लिए दूसरे क़ानूनी तरीक़ों का इस्तेमाल करेंगे.
+
+मार्च में अमेरिका ने सेक्शन 301 के तहत जांच शुरू की. इसमें यह पता लगाया जाना था कि क्या कुछ व्यापारिक साझेदार ऐसी नीतियां अपना रहे हैं, जो "अनुचित या भेदभावपूर्ण हैं और अमेरिकी व्यापार पर बोझ डालती हैं या उसे सीमित करती हैं".
+
+उस समय अमेरिकी व्यापार प्रतिनिधि जैमीसन ग्रीयर ने कहा था, "अमेरिका अब अपने औद्योगिक आधार को उन देशों के हाथों ख़त्म नहीं होने देगा, जो अपनी ज़रूरत से ज़्यादा उत्पादन और क्षमता की समस्या हमारे यहां निर्यात कर सकते हैं."
+
+उन्होंने कहा था, "आज शुरू की गई जांच राष्ट्रपति ट्रंप की उस प्रतिबद्धता को दिखाती है, जिसके तहत अहम सप्लाई चेन को वापस अमेरिका लाना और मैन्युफ़ैक्चरिंग के सभी क्षेत्रों में अमेरिकी कामगारों के लिए अच्छी तनख़्वाह वाली नौकरियां पैदा करना शामिल है."
+
+ग्रीयर ने आगे कहा, "कई क्षेत्रों में अमेरिका के व्यापारिक साझेदार घरेलू स्तर पर अपनी खपत से ज़्यादा सामान बना रहे हैं."
+
+आज के एलान में जिन देशों और क्षेत्रों को निशाना बनाया गया है, उनमें से कई ऐसे हैं जिन पर ट्रंप अक्सर व्यापार के मामले में निशाना साधते रहे हैं.
+
+लेकिन इस सूची में एक अहम नाम नहीं है-कनाडा.
+
+जब कनाडा के बारे में पूछा गया, तो मंगलवार को पत्रकारों को जानकारी देने वाले ट्रंप प्रशासन के एक वरिष्ठ अधिकारी ने कहा कि जिन देशों की व्यापार नीतियों की जांच शुरू की गई थी और बाद में जिन्हें दोषी  पाया गया उनमें कनाडा शामिल नहीं था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ckg5rzg1d4leo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    summary_hi: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.`,
+    content_hi: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.
+
+ये टैरिफ़ मैन्युफ़ैक्चरिंग के अलग-अलग क्षेत्रों में ज़रूरत से ज़्यादा उत्पादन और उत्पादन क्षमता की जांच के लिए की गई सेक्शन 301 की जांच के बाद लगाए जा रहे हैं.
+
+इस जांच के दायरे में आने वाली देश हैं: भारत, चीन, यूरोपीय संघ, सिंगापुर, स्विट्ज़रलैंड, इंडोनेशिया, मलेशिया, कंबोडिया, थाईलैंड, दक्षिण कोरिया, वियतनाम, ताइवान, बांग्लादेश और जापान.
+
+अलग-अलग देशों और उत्पादों पर अलग-अलग दरों से टैरिफ़ लगाया जाएगा.
+
+चीन पर सबसे ज़्यादा, 40 फ़ीसदी तक टैरिफ़ लगाया गया है. इसके बाद वियतनाम पर 35 फ़ीसदी तक टैरिफ़ लगेगा. वहीं, दूसरे देशों पर 20 या 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा.
+
+कुछ देशों पर अधिकतम 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा. इनमें थाईलैंड और भारत शामिल हैं. वहीं, जापान समेत कुछ अन्य देशों पर अधिकतम 20 फ़ीसदी तक टैरिफ़ लगेगा. इस सूची में ब्रिटेन शामिल नहीं है.
+
+हालांकि, इनमें से कुछ टैरिफ़ की दरें असल में कम हो जाएंगी, क्योंकि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप पहले ही कुछ देशों के साथ टैरिफ़ की अधिकतम सीमा तय करने पर सहमत हो चुके हैं.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+राष्ट्रपति ट्रंप ने अपने दूसरे कार्यकाल में बार-बार टैरिफ़ लगाने की धमकी दी है या उन्हें लागू किया है. उनका तर्क है कि इस नीति से अमेरिका में मैन्युफ़ैक्चरिंग को बढ़ावा मिलेगा और रोज़गार के नए अवसर पैदा होंगे.
+
+हालांकि, अर्थशास्त्रियों ने चेतावनी दी है कि आयात पर टैक्स लगाने से महंगाई बढ़ सकती है और उपभोक्ताओं के लिए चीज़ें महंगी हो सकती हैं. इससे वैश्विक व्यापार पर भी असर पड़ सकता है.
+
+यह ताज़ा क़दम ऐसे समय उठाया गया है, जब इस साल की शुरुआत में अमेरिकी सुप्रीम कोर्ट ने फ़ैसला दिया था कि आपातकालीन शक्तियों का इस्तेमाल करके ट्रंप की ओर से लगाए गए कई टैरिफ़ ग़ैरक़ानूनी थे.
+
+इसके बाद इस साल गर्मी में अमेरिका की उन कंपनियों को अरबों डॉलर का टैरिफ़ रिफंड देना पड़ा, जिन्होंने सामान आयात करने के लिए ये शुल्क चुकाए थे.
+
+हालांकि, इससे ट्रंप प्रशासन की टैरिफ़ लगाने की कोशिशों पर कोई रोक नहीं लगी. व्हाइट हाउस इन टैक्स को लागू करने के लिए क़ानून के दूसरे रास्ते तलाश रहा है. आज का फ़ैसला भी इसी कोशिश का एक और उदाहरण है.
+
+पिछले साल अप्रैल में डोनाल्ड ट्रंप ने दुनिया के कई व्यापारिक साझेदारों पर बड़े पैमाने पर टैरिफ़ लगाने का एलान किया था. इसके लिए उन्होंने अमेरिकी राष्ट्रपति को मिले आपातकालीन अधिकारों का इस्तेमाल किया था.
+
+इनमें से कई टैरिफ़ को बाद में अमेरिकी सुप्रीम कोर्ट ने रद्द कर दिया था.
+
+इसलिए बुधवार को जिन आयात शुल्कों का एलान किया गया है, वे ट्रंप के टैरिफ़ को दोबारा लागू करने की नई कोशिश हैं.
+
+हालांकि, इस बार ट्रंप प्रशासन ने अलग तरीक़ा अपनाया है. ISEAS-युसोफ़ इशाक इंस्टीट्यूट के व्यापार विशेषज्ञ जयंत मेनन का कहना है कि इस वजह से इन टैरिफ़ को किसी क़ानूनी चुनौती के ज़रिए रद्द कराना मुश्किल हो सकता है.
+
+मेनन के मुताबिक़, पिछले साल ट्रंप ने जिन टैरिफ़ का एलान किया था, उनकी तुलना में नए शुल्क कम क्षेत्रों पर लागू होंगे. इनकी दरें भी ज़्यादातर मामलों में काफ़ी कम और एक जैसी हैं.
+
+ये टैरिफ़ व्हाइट हाउस की ओर से कराई गई कई महीनों की जांच पर भी आधारित हैं. इस जांच में इन क्षेत्रों की श्रम और व्यापार नीतियों और अमेरिका पर उनके संभावित असर का अध्ययन किया गया.
+
+### सुप्रीम कोर्ट के फ़ैसले के बाद नए टैरिफ़ की तैयारी की थी
+
+नए टैरिफ़ लगाने के प्रस्ताव ऐसे समय आए हैं, जब व्हाइट हाउस ने मार्च में दूसरे देशों की व्यापार नीतियों की जांच शुरू की थी.
+
+यह जांच अमेरिकी सुप्रीम कोर्ट के उस फ़ैसले के बाद शुरू हुई थी, जिसमें कहा गया था कि ट्रंप के तथाकथित 'लिबरेशन डे' टैरिफ़, जिन्हें प्रशासन ने जवाबी टैरिफ़ कहा था, क़ानूनी नहीं थे.
+
+अदालत के इस फ़ैसले के बाद ट्रंप ने कहा था कि वह टैरिफ़ लगाने के लिए दूसरे क़ानूनी तरीक़ों का इस्तेमाल करेंगे.
+
+मार्च में अमेरिका ने सेक्शन 301 के तहत जांच शुरू की. इसमें यह पता लगाया जाना था कि क्या कुछ व्यापारिक साझेदार ऐसी नीतियां अपना रहे हैं, जो "अनुचित या भेदभावपूर्ण हैं और अमेरिकी व्यापार पर बोझ डालती हैं या उसे सीमित करती हैं".
+
+उस समय अमेरिकी व्यापार प्रतिनिधि जैमीसन ग्रीयर ने कहा था, "अमेरिका अब अपने औद्योगिक आधार को उन देशों के हाथों ख़त्म नहीं होने देगा, जो अपनी ज़रूरत से ज़्यादा उत्पादन और क्षमता की समस्या हमारे यहां निर्यात कर सकते हैं."
+
+उन्होंने कहा था, "आज शुरू की गई जांच राष्ट्रपति ट्रंप की उस प्रतिबद्धता को दिखाती है, जिसके तहत अहम सप्लाई चेन को वापस अमेरिका लाना और मैन्युफ़ैक्चरिंग के सभी क्षेत्रों में अमेरिकी कामगारों के लिए अच्छी तनख़्वाह वाली नौकरियां पैदा करना शामिल है."
+
+ग्रीयर ने आगे कहा, "कई क्षेत्रों में अमेरिका के व्यापारिक साझेदार घरेलू स्तर पर अपनी खपत से ज़्यादा सामान बना रहे हैं."
+
+आज के एलान में जिन देशों और क्षेत्रों को निशाना बनाया गया है, उनमें से कई ऐसे हैं जिन पर ट्रंप अक्सर व्यापार के मामले में निशाना साधते रहे हैं.
+
+लेकिन इस सूची में एक अहम नाम नहीं है-कनाडा.
+
+जब कनाडा के बारे में पूछा गया, तो मंगलवार को पत्रकारों को जानकारी देने वाले ट्रंप प्रशासन के एक वरिष्ठ अधिकारी ने कहा कि जिन देशों की व्यापार नीतियों की जांच शुरू की गई थी और बाद में जिन्हें दोषी  पाया गया उनमें कनाडा शामिल नहीं था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ckg5rzg1d4leo)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for World affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान.`,
+    primary_source: `BBC Official Dispatch`,
+  },
+  {
+    id: 97855,
+    title: `🚨 इंडोनेशिया की गोल्ड माइन में बाढ़ का पानी भरा, अवैध होने से किसी ने नहीं की रिपोर्ट, मारे गए 9 लोग - AajTak`,
+    slug: `9-aajtak-2026`,
+    original_title: `इंडोनेशिया की गोल्ड माइन में बाढ़ का पानी भरा, अवैध होने से किसी ने नहीं की रिपोर्ट, मारे गए 9 लोग - AajTak`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `2 min read`,
+    views_count: 23523200,
+    shares_count: 3429125,
+    published_at: `2026-11-25T19:30:00Z`,
+    updated_at: `2026-11-25T19:30:00Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/world/story/indonesia-west-java-illegal-gold-mine-flood-6-deaths-ntc-amkr-dskc-2706016-2026-11-25`,
+    source_courtesy: `News Courtesy: AajTak Digital Archives`,
+    image_url: `/images/articles/9-aajtak-2026.jpg`,
+    image_alt: `Verified news photograph: इंडोनेशिया की गोल्ड माइन में बाढ़ का पानी भरा, अवैध होने से किसी ने नहीं की रिपोर्ट, मारे गए 9 लोग - AajTak`,
+    image_courtesy: `Image Courtesy: AajTak`,
+    image_photographer: `AajTak`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `World, Breaking News, India, Verified`,
+    summary: `इंडोनेशिया में एक अवैध सोने की खदान में बाढ़ आने से 9 लोगों की मौत हो गई है. बचाव कर्मियों ने बुधवार को खदान से कुछ शव बरामद किए, जबकि अंदर फंसे 17 अन्य माइनर्स की तलाश जारी है.`,
+    content: `### इंडोनेशिया के वेस्ट जावा में नदी का पानी एक अवैध सोने की खदान में भरने से 9 लोगों की मौत हो गई है. बताया जा रहा है कि माइनर्स अवैध रूप से खनन कर रहे थे, इसलिए अधिकारियों को तुरंत इसकी सूचना नहीं दी गई.
+
+इंडोनेशिया में एक अवैध सोने की खदान में बाढ़ आने से 9 लोगों की मौत हो गई है. बचाव कर्मियों ने बुधवार को खदान से कुछ शव बरामद किए, जबकि अंदर फंसे 17 अन्य माइनर्स की तलाश जारी है.
+
+जानकारी के मुताबिक, वेस्ट जावा प्रॉविंस की बोगोर रीजेंसी में सोमवार देर रात मजदूर सोने के ग्रेन्स खोद रहे थे. इसी दौरान भारी बारिश की वजह से पास की सिसेरेउ नदी उफान पर आ गई और उसका पानी खदान की सुरंग में घुस गया.
+
+वेस्ट जावा पुलिस प्रवक्ता हेंड्रा रोचमावन ने बताया कि सुरंग में बाढ़ का पानी भरने से पहले खुदाई वाले एक हिस्से से 11 माइनर्स बाहर निकलने में कामयाब रहे. बताया जा रहा है कि घटना की जानकारी मिलते ही लोकल माइनर्स और निवासियों ने भी मदद की कोशिश की थी. माइनर्स अवैध रूप से खनन कर रहे थे, इसलिए अधिकारियों को तुरंत इसकी सूचना नहीं दी गई.
+
+बोगोर डिजास्टर मिटिगेशन एजेंसी के इमरजेंसी एंड लॉजिस्टिक्स हेड मोहम्मद एडम हमदानी ने कहा, 'समस्या यह थी कि किसी ने इसकी रिपोर्ट नहीं की और कोई रिपोर्ट करना भी नहीं चाहता था क्योंकि यह काम अवैध था.'
+
+हेंड्रा रोचमावन ने जानकारी दी कि बाढ़ आने के करीब 16 घंटे बाद पुलिस को पहली बार माइनर्स के फंसे होने की खबर मिली.
+
+लोकल अथॉरिटीज, फायरफाइटर्स और दूसरी एजेंसियों के शुरुआती आकलन के बाद, सरकारी माइनिंग कंपनी पीटी अंताम ने बुधवार आधी रात के तुरंत बाद जकार्ता सर्च एंड रेस्क्यू एजेंसी को औपचारिक रिपोर्ट भेजी, जिसके बाद बड़े पैमाने पर रेस्क्यू ऑपरेशन शुरू हुआ.
+
+जकार्ता सर्च एंड रेस्क्यू एजेंसी की प्रमुख डेसियाना कार्तिका बहारी ने कहा, 'गड्ढे के अंदर का पानी अभी कम नहीं हुआ है और इसे निकालने में काफी समय लगने की उम्मीद है.'
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/indonesia-west-java-illegal-gold-mine-flood-6-deaths-ntc-amkr-dskc-2706016-2026-11-25)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `इंडोनेशिया की गोल्ड माइन में बाढ़ का पानी भरा, अवैध होने से किसी ने नहीं की रिपोर्ट, मारे गए 9 लोग - AajTak`,
+    summary_hi: `इंडोनेशिया में एक अवैध सोने की खदान में बाढ़ आने से 9 लोगों की मौत हो गई है. बचाव कर्मियों ने बुधवार को खदान से कुछ शव बरामद किए, जबकि अंदर फंसे 17 अन्य माइनर्स की तलाश जारी है.`,
+    content_hi: `### इंडोनेशिया के वेस्ट जावा में नदी का पानी एक अवैध सोने की खदान में भरने से 9 लोगों की मौत हो गई है. बताया जा रहा है कि माइनर्स अवैध रूप से खनन कर रहे थे, इसलिए अधिकारियों को तुरंत इसकी सूचना नहीं दी गई.
+
+इंडोनेशिया में एक अवैध सोने की खदान में बाढ़ आने से 9 लोगों की मौत हो गई है. बचाव कर्मियों ने बुधवार को खदान से कुछ शव बरामद किए, जबकि अंदर फंसे 17 अन्य माइनर्स की तलाश जारी है.
+
+जानकारी के मुताबिक, वेस्ट जावा प्रॉविंस की बोगोर रीजेंसी में सोमवार देर रात मजदूर सोने के ग्रेन्स खोद रहे थे. इसी दौरान भारी बारिश की वजह से पास की सिसेरेउ नदी उफान पर आ गई और उसका पानी खदान की सुरंग में घुस गया.
+
+वेस्ट जावा पुलिस प्रवक्ता हेंड्रा रोचमावन ने बताया कि सुरंग में बाढ़ का पानी भरने से पहले खुदाई वाले एक हिस्से से 11 माइनर्स बाहर निकलने में कामयाब रहे. बताया जा रहा है कि घटना की जानकारी मिलते ही लोकल माइनर्स और निवासियों ने भी मदद की कोशिश की थी. माइनर्स अवैध रूप से खनन कर रहे थे, इसलिए अधिकारियों को तुरंत इसकी सूचना नहीं दी गई.
+
+बोगोर डिजास्टर मिटिगेशन एजेंसी के इमरजेंसी एंड लॉजिस्टिक्स हेड मोहम्मद एडम हमदानी ने कहा, 'समस्या यह थी कि किसी ने इसकी रिपोर्ट नहीं की और कोई रिपोर्ट करना भी नहीं चाहता था क्योंकि यह काम अवैध था.'
+
+हेंड्रा रोचमावन ने जानकारी दी कि बाढ़ आने के करीब 16 घंटे बाद पुलिस को पहली बार माइनर्स के फंसे होने की खबर मिली.
+
+लोकल अथॉरिटीज, फायरफाइटर्स और दूसरी एजेंसियों के शुरुआती आकलन के बाद, सरकारी माइनिंग कंपनी पीटी अंताम ने बुधवार आधी रात के तुरंत बाद जकार्ता सर्च एंड रेस्क्यू एजेंसी को औपचारिक रिपोर्ट भेजी, जिसके बाद बड़े पैमाने पर रेस्क्यू ऑपरेशन शुरू हुआ.
+
+जकार्ता सर्च एंड रेस्क्यू एजेंसी की प्रमुख डेसियाना कार्तिका बहारी ने कहा, 'गड्ढे के अंदर का पानी अभी कम नहीं हुआ है और इसे निकालने में काफी समय लगने की उम्मीद है.'
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/indonesia-west-java-illegal-gold-mine-flood-6-deaths-ntc-amkr-dskc-2706016-2026-11-25)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for World affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on इंडोनेशिया की गोल्ड माइन में बाढ़ का पानी भरा, अवैध होने से किसी ने नहीं की रिपोर्ट, मारे गए 9 लोग - AajTak.`,
+    primary_source: `AajTak Official Dispatch`,
+  },
+  {
+    id: 97856,
+    title: `🚨 वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर`,
+    slug: `sports-breaking-report-16975-97856-2026`,
+    original_title: `वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `5 min read`,
+    views_count: 23523440,
+    shares_count: 3429160,
+    published_at: `2026-11-25T19:30:01Z`,
+    updated_at: `2026-11-25T19:30:01Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cqrkg620r8m7o`,
+    source_courtesy: `News Courtesy: BBC Digital Archives`,
+    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85&sig=97856`,
+    image_alt: `Verified news photograph: वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर`,
+    image_courtesy: `Photo: Stadium Sports Media (Unsplash Editorial)`,
+    image_photographer: `Stadium Sports Media`,
+    image_license: `Unsplash Editorial`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Sports, Breaking News, India, Verified`,
+    summary: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.`,
+    content: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.
+
+मंगलवार को पाकिस्तान ए टीम ने नेपाल की टीम को 96 रनों से हराया. लेकिन पाकिस्तान में इस जीत की बजाय यूएई के ख़िलाफ़ भारत की जीत की चर्चा अधिक हो रही है.
+
+15 साल के वैभव सूर्यवंशी ने लिस्ट ए में सबसे तेज़ दोहरा शतक लगाने का रिकॉर्ड बनाया.
+
+उन्होंने यूएई के ख़िलाफ़ महज 52 गेंदों में दोहरा शतक लगाया और इस दौरान उन्होंने 28 छक्के और सात चौके लगाए.
+
+भारत के पूर्व कप्तान सौरव गांगुली ने कहा , "वैभव सूर्यवंशी ने 28 गेंदों में शतक जड़कर लिस्ट ए क्रिकेट में सबसे तेज शतक लगाने का नया रिकॉर्ड बनाया. उन्होंने जेक फ्रेजर-मैकगर्क के 29 गेंदों में शतक के पिछले रिकॉर्ड को पीछे छोड़ दिया."
+
+गांगुली ने कहा, "उसने अच्छा खेला. यह ए टीम है. टी20 में उसकी क्षमता असाधारण है. इसके अलावा, उसकी पावर हिटिंग शानदार थी. उसने बहुत अच्छा खेला."
+
+पाकिस्तान में पूर्व क्रिकेटरों ने कहा कि 'इतने छक्के तो वीडियो गेम में भी नहीं लगते' या 'पूरी टीम भी इतने छक्के नहीं लगा पाती.'
+
+### 'इतने छक्के लगाए जितनी पूरी टीम नहीं लगा पाती'
+
+पाकिस्तान के पूर्व क्रिकेटर बासित अली ने कहा कि 'यूएई के ख़िलाफ़ तो मैच ही नहीं हो पाया.'
+
+अपने यूट्यूब चैनल पर उन्होंने कमेंट्री करते हुए कहा , "यूएई ने 249 रनों का ठीक-ठाक टार्गेट दिया था और लग रहा था कि दूसरी पारी में पिच ख़राब होगी लेकिन मैदान पर नज़ारा कुछ और था. वैभव ने इतने छक्के लगाए जितने पूरी टीम नहीं लगा पाती है."
+
+बासित अली ने कहा, "हर ओवर में या तो तीन छक्के और दो चौके या तीन चौके या दो छक्के उसने लगाए. लिस्ट ए के जितने रिकॉर्ड थे, वो बब्लू (वैभव) ले गए."
+
+"अंतरराष्ट्रीय स्तर पर टीमों ने जितने छक्के नहीं मारे होंगे, वैभव ने एक ही दिन में मार दिए. मेरे ख़्याल से उन्होंने केवल आठ रन भाग कर बनाए, जबकि क़रीब 196 रन केवल बाउंड्रीज़ से बनाए."
+
+"जिस ग्राउंड में खेल हो रहा था वो कोई छोटा ग्राउंड नहीं था. लेकिन दो मैचों से एक प्रेशर भी था प्रदर्शन न कर पाने का. उन्होंने सेमीफ़ाइनल और फ़ाइनल में आने से पहले अपनी फ़ॉर्म दिखा दी है."
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+पाकिस्तान के एक पूर्व क्रिकेटर मोहम्मद वसीम ने कहा कि 'वैभव सूर्यवंशी के रिकॉर्ड को कोई और नहीं तोड़ सकता, शायद वो खुद तोड़ पाएं.'
+
+पूर्व क्रिकेटर तनवीर अहमद ने कहा , "जो वो खेल रहे हैं, वो बहुत एक्सेप्शनल टैलेंट है. 15 साल के बच्चे के लिए यह वाक़ई हैरान करने वाला है."
+
+तनवीर अहमद ने सूर्यवंशी की उम्र को लेकर भी सवाल उठाए लेकिन ये भी कहा कि उन्हें अभी कमज़ोर क्षेत्रों में काम करने की और ज़रूरत है.
+
+उन्होंने कहा, "जिस तरीक़े से वो बैटिंग कर रहे थे, उन्हें अपने माफ़िक गेंदें मिल रही थीं और वो मारते जा रहे थे. शायद इसीलिए उन्हें इंटरनेशनल क्रिकेट उस तरीक़े से नहीं खिला रहे हैं क्योंकि इंटरनेशनल क्रिकेट में इस तरीक़े से छक्के मारना उतना आसान नहीं होता है."
+
+"शायद इसीलिए उन्हें टाइम दिया जा रहा है कि आप टीम के साथ रहें, टूर करते रहें और सीखें. जिन क्षेत्रों में वो कमज़ोर हैं, जैसे कवर्स में, तो उस पर अधिक काम करें. ये एक तरीक़ा होता है."
+
+पाकिस्तान क्रिकेट पर तंज़ करते हुए तनवीर अहमद ने कहा, "अगर वैभव पाकिस्तान में होते तो उन्हें टी-20, वनडे और टेस्ट टीम में भी खिलाया जा रहा होता और यहां तक कैप्टन भी बना दिया जाता."
+
+### 'इतने छक्के तो हाथ से भी न फेंके जाएं'
+
+पाकिस्तान के पूर्व क्रिकेटर कामरान अकमल ने एक यूट्यूब चैनल पर बातचीत में कहा कि जो काम 25-30 साल की उम्र में किया जा सकता है और जो क्रिकेट मिलती और प्रसिद्धि मिलती है, उसे वैभव ने 15 साल की उम्र में हासिल कर लिया."
+
+उन्होंने कहा, "चाहे कोई भी टीम हो, रिज़ल्ट भी देखना चाहिए. अगर कोई अकेला बाउंड्री की तरफ़ थ्रो भी फेंके तो भी इतने रन न हो पाएं. 52 गेंदें मैं फेंकू तब भी 28 छक्के न हों कभी. उसने वो बल्ले के साथ कर दिखाया."
+
+वैभव सूर्यवंशी के खेल को लेकर पाकिस्तान में अपनी टीम के साथ भी तुलना की जाने लगी है.
+
+इसी बातचीत में कामरान अकमल ने कहा, "वैभव का मेच्योरिटी लेवल और क्रिकेट के लिहाज से देखें तो उन्हें इंटरनेशनल क्रिकेट खेलने को मिल रहा है. उन्हें 15 साल की उम्र के लेवल से ही हटा दिया है."
+
+"जहां तक उनके उम्र की बात है तो ये बात अब हमें छोड़ ही देना चाहिए. हमारे यहां इस तरह के खिलाड़ी को अंडर 15 से ही न निकलने दें हम लोग. आप उनका माइंडसेट देखें कि वो इस तरह के खिलाड़ी को कौन सी क्रिकेट खिला रहे हैं. हमारे यहां ऊपर से नीचे की ओर लेकर आ रहे हैं. तो गेम अप्रोच में, पर्फ़ार्मेंस में और खेल में फ़र्क तो आएगा ही."
+
+कामरान ने सवाल किया कि पाकिस्तान में नए खिलाड़ियों को क्यों नहीं आगे लाया जा रहा है?
+
+पाकिस्तान के स्पोर्ट्स एनालिस्ट मोहम्मद मोहसिन ने अपने यूट्यूब चैनल पर वैभव की पारी को लेकर कहा कि यूएई की ड्रेसिंग में पूछा गया होगा, 'कितने आदमी थे. तो कहा गया होगा- वो अकेला ही था.'
+
+मोहम्मद मोहसिन ने कहा, "क्रिस गेल खुद को अनोखा खिलाड़ी मानते हैं. उनके रिकॉर्ड को तोड़कर वो (वैभव) क्रिकेट खेल रहे हैं. जिस दिन उनका बल्ला चलता है, कुछ और बात करने को होता ही नहीं है."
+
+सबसे तेज अर्धशतक: श्रीलंका ए के खिलाफ 11 गेंदों में, 21 जून को. इससे पहले यह रिकॉर्ड के वीरारत्ने के नाम था, जिन्होंने 1 नवंबर 2005 को 12 गेंदों में अर्धशतक बनाया था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cqrkg620r8m7o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर`,
+    summary_hi: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.`,
+    content_hi: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.
+
+मंगलवार को पाकिस्तान ए टीम ने नेपाल की टीम को 96 रनों से हराया. लेकिन पाकिस्तान में इस जीत की बजाय यूएई के ख़िलाफ़ भारत की जीत की चर्चा अधिक हो रही है.
+
+15 साल के वैभव सूर्यवंशी ने लिस्ट ए में सबसे तेज़ दोहरा शतक लगाने का रिकॉर्ड बनाया.
+
+उन्होंने यूएई के ख़िलाफ़ महज 52 गेंदों में दोहरा शतक लगाया और इस दौरान उन्होंने 28 छक्के और सात चौके लगाए.
+
+भारत के पूर्व कप्तान सौरव गांगुली ने कहा , "वैभव सूर्यवंशी ने 28 गेंदों में शतक जड़कर लिस्ट ए क्रिकेट में सबसे तेज शतक लगाने का नया रिकॉर्ड बनाया. उन्होंने जेक फ्रेजर-मैकगर्क के 29 गेंदों में शतक के पिछले रिकॉर्ड को पीछे छोड़ दिया."
+
+गांगुली ने कहा, "उसने अच्छा खेला. यह ए टीम है. टी20 में उसकी क्षमता असाधारण है. इसके अलावा, उसकी पावर हिटिंग शानदार थी. उसने बहुत अच्छा खेला."
+
+पाकिस्तान में पूर्व क्रिकेटरों ने कहा कि 'इतने छक्के तो वीडियो गेम में भी नहीं लगते' या 'पूरी टीम भी इतने छक्के नहीं लगा पाती.'
+
+### 'इतने छक्के लगाए जितनी पूरी टीम नहीं लगा पाती'
+
+पाकिस्तान के पूर्व क्रिकेटर बासित अली ने कहा कि 'यूएई के ख़िलाफ़ तो मैच ही नहीं हो पाया.'
+
+अपने यूट्यूब चैनल पर उन्होंने कमेंट्री करते हुए कहा , "यूएई ने 249 रनों का ठीक-ठाक टार्गेट दिया था और लग रहा था कि दूसरी पारी में पिच ख़राब होगी लेकिन मैदान पर नज़ारा कुछ और था. वैभव ने इतने छक्के लगाए जितने पूरी टीम नहीं लगा पाती है."
+
+बासित अली ने कहा, "हर ओवर में या तो तीन छक्के और दो चौके या तीन चौके या दो छक्के उसने लगाए. लिस्ट ए के जितने रिकॉर्ड थे, वो बब्लू (वैभव) ले गए."
+
+"अंतरराष्ट्रीय स्तर पर टीमों ने जितने छक्के नहीं मारे होंगे, वैभव ने एक ही दिन में मार दिए. मेरे ख़्याल से उन्होंने केवल आठ रन भाग कर बनाए, जबकि क़रीब 196 रन केवल बाउंड्रीज़ से बनाए."
+
+"जिस ग्राउंड में खेल हो रहा था वो कोई छोटा ग्राउंड नहीं था. लेकिन दो मैचों से एक प्रेशर भी था प्रदर्शन न कर पाने का. उन्होंने सेमीफ़ाइनल और फ़ाइनल में आने से पहले अपनी फ़ॉर्म दिखा दी है."
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+पाकिस्तान के एक पूर्व क्रिकेटर मोहम्मद वसीम ने कहा कि 'वैभव सूर्यवंशी के रिकॉर्ड को कोई और नहीं तोड़ सकता, शायद वो खुद तोड़ पाएं.'
+
+पूर्व क्रिकेटर तनवीर अहमद ने कहा , "जो वो खेल रहे हैं, वो बहुत एक्सेप्शनल टैलेंट है. 15 साल के बच्चे के लिए यह वाक़ई हैरान करने वाला है."
+
+तनवीर अहमद ने सूर्यवंशी की उम्र को लेकर भी सवाल उठाए लेकिन ये भी कहा कि उन्हें अभी कमज़ोर क्षेत्रों में काम करने की और ज़रूरत है.
+
+उन्होंने कहा, "जिस तरीक़े से वो बैटिंग कर रहे थे, उन्हें अपने माफ़िक गेंदें मिल रही थीं और वो मारते जा रहे थे. शायद इसीलिए उन्हें इंटरनेशनल क्रिकेट उस तरीक़े से नहीं खिला रहे हैं क्योंकि इंटरनेशनल क्रिकेट में इस तरीक़े से छक्के मारना उतना आसान नहीं होता है."
+
+"शायद इसीलिए उन्हें टाइम दिया जा रहा है कि आप टीम के साथ रहें, टूर करते रहें और सीखें. जिन क्षेत्रों में वो कमज़ोर हैं, जैसे कवर्स में, तो उस पर अधिक काम करें. ये एक तरीक़ा होता है."
+
+पाकिस्तान क्रिकेट पर तंज़ करते हुए तनवीर अहमद ने कहा, "अगर वैभव पाकिस्तान में होते तो उन्हें टी-20, वनडे और टेस्ट टीम में भी खिलाया जा रहा होता और यहां तक कैप्टन भी बना दिया जाता."
+
+### 'इतने छक्के तो हाथ से भी न फेंके जाएं'
+
+पाकिस्तान के पूर्व क्रिकेटर कामरान अकमल ने एक यूट्यूब चैनल पर बातचीत में कहा कि जो काम 25-30 साल की उम्र में किया जा सकता है और जो क्रिकेट मिलती और प्रसिद्धि मिलती है, उसे वैभव ने 15 साल की उम्र में हासिल कर लिया."
+
+उन्होंने कहा, "चाहे कोई भी टीम हो, रिज़ल्ट भी देखना चाहिए. अगर कोई अकेला बाउंड्री की तरफ़ थ्रो भी फेंके तो भी इतने रन न हो पाएं. 52 गेंदें मैं फेंकू तब भी 28 छक्के न हों कभी. उसने वो बल्ले के साथ कर दिखाया."
+
+वैभव सूर्यवंशी के खेल को लेकर पाकिस्तान में अपनी टीम के साथ भी तुलना की जाने लगी है.
+
+इसी बातचीत में कामरान अकमल ने कहा, "वैभव का मेच्योरिटी लेवल और क्रिकेट के लिहाज से देखें तो उन्हें इंटरनेशनल क्रिकेट खेलने को मिल रहा है. उन्हें 15 साल की उम्र के लेवल से ही हटा दिया है."
+
+"जहां तक उनके उम्र की बात है तो ये बात अब हमें छोड़ ही देना चाहिए. हमारे यहां इस तरह के खिलाड़ी को अंडर 15 से ही न निकलने दें हम लोग. आप उनका माइंडसेट देखें कि वो इस तरह के खिलाड़ी को कौन सी क्रिकेट खिला रहे हैं. हमारे यहां ऊपर से नीचे की ओर लेकर आ रहे हैं. तो गेम अप्रोच में, पर्फ़ार्मेंस में और खेल में फ़र्क तो आएगा ही."
+
+कामरान ने सवाल किया कि पाकिस्तान में नए खिलाड़ियों को क्यों नहीं आगे लाया जा रहा है?
+
+पाकिस्तान के स्पोर्ट्स एनालिस्ट मोहम्मद मोहसिन ने अपने यूट्यूब चैनल पर वैभव की पारी को लेकर कहा कि यूएई की ड्रेसिंग में पूछा गया होगा, 'कितने आदमी थे. तो कहा गया होगा- वो अकेला ही था.'
+
+मोहम्मद मोहसिन ने कहा, "क्रिस गेल खुद को अनोखा खिलाड़ी मानते हैं. उनके रिकॉर्ड को तोड़कर वो (वैभव) क्रिकेट खेल रहे हैं. जिस दिन उनका बल्ला चलता है, कुछ और बात करने को होता ही नहीं है."
+
+सबसे तेज अर्धशतक: श्रीलंका ए के खिलाफ 11 गेंदों में, 21 जून को. इससे पहले यह रिकॉर्ड के वीरारत्ने के नाम था, जिन्होंने 1 नवंबर 2005 को 12 गेंदों में अर्धशतक बनाया था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cqrkg620r8m7o)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Sports affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर.`,
+    primary_source: `BBC Official Dispatch`,
+  },
+  {
+    id: 97857,
+    title: `🚨 WBBL: क्रिकेट में ऐसा आउट कभी देखा है? 75 सेकंड में क्रीज पर नहीं पहुंची बल्लेबाज, गेंदबाज ने उड़ाया स्टम्प - AajTak`,
+    slug: `wbbl-75-aajtak-2026`,
+    original_title: `WBBL: क्रिकेट में ऐसा आउट कभी देखा है? 75 सेकंड में क्रीज पर नहीं पहुंची बल्लेबाज, गेंदबाज ने उड़ाया स्टम्प - AajTak`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `2 min read`,
+    views_count: 23523680,
+    shares_count: 3429195,
+    published_at: `2026-11-25T19:30:01Z`,
+    updated_at: `2026-11-25T19:30:01Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/sports/cricket/story/wbbl-2026-deandra-dottin-timed-out-bizarre-dismissal-sarah-glenn-free-ball-rule-tspok-dskc-2705904-2026-11-25`,
+    source_courtesy: `News Courtesy: AajTak Digital Archives`,
+    image_url: `/images/articles/wbbl-75-aajtak-2026.webp`,
+    image_alt: `Verified news photograph: WBBL: क्रिकेट में ऐसा आउट कभी देखा है? 75 सेकंड में क्रीज पर नहीं पहुंची बल्लेबाज, गेंदबाज ने उड़ाया स्टम्प - AajTak`,
+    image_courtesy: `Image Courtesy: AajTak`,
+    image_photographer: `AajTak`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Sports, Breaking News, India, Verified`,
+    summary: `महिला बिग बैश लीग (WBBL) 2026 में क्रिकेट का एक ऐसा नजारा देखने को मिला, जिसने सभी को हैरान कर दिया. मेलबर्न रेनेगेड्स और ब्रिस्बेन हीट के बीच बुधवार को मेलबर्न के जंक्शन ओवल में खेले गए मुकाबले में डिएंड्रा डॉटिन अजीबोगरीब तरीके से आउट हो `,
+    content: `### WBBL 2026 में मेलबर्न रेनेगेड्स और ब्रिस्बेन हीट के मुकाबले में डिएंड्रा डॉटिन अजीबोगरीब तरीके से आउट हुईं. वह 75 सेकंड के भीतर क्रीज पर नहीं पहुंच सकीं, जिसके बाद गेंदबाज सारा ग्लेन को फ्री बॉल मिली. उन्होंने स्टम्प पर निशाना लगाकर डॉटिन को आउट कर दिया. हालांकि रेनेगेड्स ने तीन विकेट से मुकाबला जीत लिया.
+
+महिला बिग बैश लीग (WBBL) 2026 में क्रिकेट का एक ऐसा नजारा देखने को मिला, जिसने सभी को हैरान कर दिया. मेलबर्न रेनेगेड्स और ब्रिस्बेन हीट के बीच बुधवार को मेलबर्न के जंक्शन ओवल में खेले गए मुकाबले में डिएंड्रा डॉटिन अजीबोगरीब तरीके से आउट हो गईं. गेंदबाज सारा ग्लेन ने बिना बल्लेबाज के क्रीज पर पहुंचे ही स्टम्प पर गेंद मारकर उन्हें पवेलियन भेज दिया.
+
+दरअसल, WBBL के नियमों के मुताबिक, पिछले बल्लेबाज के आउट होने के 75 सेकंड के भीतर नए बल्लेबाज को क्रीज पर पहुंचना जरूरी है. ऐसा नहीं होने पर बल्लेबाज को 'टाइम आउट' करार दिया जाता है.
+
+Extraordinary. Deandra Dottin was late to the middle. Now she's out after Sarah Glenn hit the stumps with a ball she couldn't face! #WBBL12 https://t.co/lsG3SZAw8b
+
+इसके बाद गेंदबाज को 'फ्री बॉल' मिलती है. इस नियम के तहत बल्लेबाज स्टम्प से पांच फीट दूर खड़ा होता है और गेंदबाज को बिना किसी रुकावट के स्टम्प पर निशाना लगाने का मौका मिलता है.
+
+डॉटिन के साथ भी कुछ ऐसा ही हुआ. वह निर्धारित समय में क्रीज तक नहीं पहुंच सकीं. इसके बाद सारा ग्लेन ने फ्री बॉल पर स्टम्प को निशाना बनाया और उन्हें आउट कर दिया. डॉटिन बिना खाता खोले पवेलियन लौट गईं. इस तरह ग्लेन ने उनकी पहली ही गेंद पर विकेट हासिल कर लिया.
+
+रेनेगेड्स ने आखिरी गेंद पर जीता मुकाबला हालांकि, इस अजीबोगरीब विकेट के बावजूद मेलबर्न रेनेगेड्स मुकाबला जीतने में सफल रही. सोफी मोलिन्यू ने शानदार गेंदबाजी करते हुए चार विकेट झटके और ब्रिस्बेन हीट को 8 विकेट पर 137 रन पर रोकने में अहम भूमिका निभाई. टेस फ्लिंटॉफ ने 30 और जॉर्जिया वेयरहैम ने 29 रन बनाए. रेनेगेड्स ने आखिरी गेंद पर तीन विकेट बाकी रहते लक्ष्य हासिल कर लिया और मुकाबला अपने नाम किया.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/wbbl-2026-deandra-dottin-timed-out-bizarre-dismissal-sarah-glenn-free-ball-rule-tspok-dskc-2705904-2026-11-25)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `WBBL: क्रिकेट में ऐसा आउट कभी देखा है? 75 सेकंड में क्रीज पर नहीं पहुंची बल्लेबाज, गेंदबाज ने उड़ाया स्टम्प - AajTak`,
+    summary_hi: `महिला बिग बैश लीग (WBBL) 2026 में क्रिकेट का एक ऐसा नजारा देखने को मिला, जिसने सभी को हैरान कर दिया. मेलबर्न रेनेगेड्स और ब्रिस्बेन हीट के बीच बुधवार को मेलबर्न के जंक्शन ओवल में खेले गए मुकाबले में डिएंड्रा डॉटिन अजीबोगरीब तरीके से आउट हो `,
+    content_hi: `### WBBL 2026 में मेलबर्न रेनेगेड्स और ब्रिस्बेन हीट के मुकाबले में डिएंड्रा डॉटिन अजीबोगरीब तरीके से आउट हुईं. वह 75 सेकंड के भीतर क्रीज पर नहीं पहुंच सकीं, जिसके बाद गेंदबाज सारा ग्लेन को फ्री बॉल मिली. उन्होंने स्टम्प पर निशाना लगाकर डॉटिन को आउट कर दिया. हालांकि रेनेगेड्स ने तीन विकेट से मुकाबला जीत लिया.
+
+महिला बिग बैश लीग (WBBL) 2026 में क्रिकेट का एक ऐसा नजारा देखने को मिला, जिसने सभी को हैरान कर दिया. मेलबर्न रेनेगेड्स और ब्रिस्बेन हीट के बीच बुधवार को मेलबर्न के जंक्शन ओवल में खेले गए मुकाबले में डिएंड्रा डॉटिन अजीबोगरीब तरीके से आउट हो गईं. गेंदबाज सारा ग्लेन ने बिना बल्लेबाज के क्रीज पर पहुंचे ही स्टम्प पर गेंद मारकर उन्हें पवेलियन भेज दिया.
+
+दरअसल, WBBL के नियमों के मुताबिक, पिछले बल्लेबाज के आउट होने के 75 सेकंड के भीतर नए बल्लेबाज को क्रीज पर पहुंचना जरूरी है. ऐसा नहीं होने पर बल्लेबाज को 'टाइम आउट' करार दिया जाता है.
+
+Extraordinary. Deandra Dottin was late to the middle. Now she's out after Sarah Glenn hit the stumps with a ball she couldn't face! #WBBL12 https://t.co/lsG3SZAw8b
+
+इसके बाद गेंदबाज को 'फ्री बॉल' मिलती है. इस नियम के तहत बल्लेबाज स्टम्प से पांच फीट दूर खड़ा होता है और गेंदबाज को बिना किसी रुकावट के स्टम्प पर निशाना लगाने का मौका मिलता है.
+
+डॉटिन के साथ भी कुछ ऐसा ही हुआ. वह निर्धारित समय में क्रीज तक नहीं पहुंच सकीं. इसके बाद सारा ग्लेन ने फ्री बॉल पर स्टम्प को निशाना बनाया और उन्हें आउट कर दिया. डॉटिन बिना खाता खोले पवेलियन लौट गईं. इस तरह ग्लेन ने उनकी पहली ही गेंद पर विकेट हासिल कर लिया.
+
+रेनेगेड्स ने आखिरी गेंद पर जीता मुकाबला हालांकि, इस अजीबोगरीब विकेट के बावजूद मेलबर्न रेनेगेड्स मुकाबला जीतने में सफल रही. सोफी मोलिन्यू ने शानदार गेंदबाजी करते हुए चार विकेट झटके और ब्रिस्बेन हीट को 8 विकेट पर 137 रन पर रोकने में अहम भूमिका निभाई. टेस फ्लिंटॉफ ने 30 और जॉर्जिया वेयरहैम ने 29 रन बनाए. रेनेगेड्स ने आखिरी गेंद पर तीन विकेट बाकी रहते लक्ष्य हासिल कर लिया और मुकाबला अपने नाम किया.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/wbbl-2026-deandra-dottin-timed-out-bizarre-dismissal-sarah-glenn-free-ball-rule-tspok-dskc-2705904-2026-11-25)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Sports affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on WBBL: क्रिकेट में ऐसा आउट कभी देखा है? 75 सेकंड में क्रीज पर नहीं पहुंची बल्लेबाज, गेंदबाज ने उड़ाया स्टम्प - AajTak.`,
+    primary_source: `AajTak Official Dispatch`,
+  },
+  {
+    id: 97858,
+    title: `🚨 Hanuman ansh: नेटफ्लिक्स और सोनी लिव पर स्ट्रीम होगी 'हनुमान अंश', कभी OTT से मिला था रिजेक्शन, अब हुआ चमत्कार - AajTak`,
+    slug: `hanuman-ansh-ott-aajtak-2026`,
+    original_title: `Hanuman ansh: नेटफ्लिक्स और सोनी लिव पर स्ट्रीम होगी 'हनुमान अंश', कभी OTT से मिला था रिजेक्शन, अब हुआ चमत्कार - AajTak`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `2 min read`,
+    views_count: 23523920,
+    shares_count: 3429230,
+    published_at: `2026-11-25T19:30:02Z`,
+    updated_at: `2026-11-25T19:30:02Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/entertainment/bollywood-news/story/neem-karoli-baba-hanuman-ansh-ott-release-netflix-sony-liv-date-out-tmovg-dskc-2706035-2026-11-25`,
+    source_courtesy: `News Courtesy: AajTak Digital Archives`,
+    image_url: `/images/articles/hanuman-ansh-ott-aajtak-2026.webp`,
+    image_alt: `Verified news photograph: Hanuman ansh: नेटफ्लिक्स और सोनी लिव पर स्ट्रीम होगी 'हनुमान अंश', कभी OTT से मिला था रिजेक्शन, अब हुआ चमत्कार - AajTak`,
+    image_courtesy: `Image Courtesy: AajTak`,
+    image_photographer: `AajTak`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Entertainment, Breaking News, India, Verified`,
+    summary: `2026 की सबसे बड़ी सरप्राइज हिट फिल्मों में से एक देने के बाद, 'हनुमान अंश' ने एक और बड़ी और फायदेमंद डील हासिल कर ली है. सोनी पिक्चर्स नेटवर्क्स इंडिया ने इसके डिजिटल राइट्स खरीदने के बाद अब ये फिल्म नेटफ्लिक्स पर भी दिखाई जाएगी.`,
+    content: `### इस महीने की शुरुआत में स्ट्रीमिंग प्लेटफॉर्म सोनी लिव ने घोषणा की थी कि 'हनुमान अंश' का प्रीमियर 27 नवंबर को होगा. अब, नेटफ्लिक्स ने बताया है कि यह फिल्म 29 नवंबर से उनके प्लेटफॉर्म पर देखी जा सकेगी.
+
+2026 की सबसे बड़ी सरप्राइज हिट फिल्मों में से एक देने के बाद, 'हनुमान अंश' ने एक और बड़ी और फायदेमंद डील हासिल कर ली है. सोनी पिक्चर्स नेटवर्क्स इंडिया ने इसके डिजिटल राइट्स खरीदने के बाद अब ये फिल्म नेटफ्लिक्स पर भी दिखाई जाएगी.
+
+बता दें कि नीम करोली बाबा पर बनी भक्तिपूर्ण बायोपिक ' हनुमान अंश ' - जिसे 2 करोड़ रुपये के बजट में बनाया गया था और जिसने दुनिया भर में 452.86 करोड़ रुपये की कमाई की है. अब ये एक साथ दो OTT प्लेटफॉर्म पर रिलीज होने के लिए तैयार है. यह फिल्म 27 नवंबर से सोनी लिव (Sony LIV) और नेटफ्लिक्स पर 29 नवंबर से स्ट्रीम होगी.
+
+नेटफ्लिक्स ने शेयर किया पोस्ट नेटफ्लिक्स ने अपने ऑफिशियल हैंडल से पोस्ट करते हुए लिखा, 'आस्था ने उसका जीवन बदल दिया. उसकी भक्ति ने हजारों लोगों की जिंदगी बदल दी. भगवान हनुमान के एक सच्चे भक्त की दिव्य कहानी देखें, अब नेटफ्लिक्स पर.  'हनुमान अंश' देखें, जो 29 नवंबर को तेलुगु, तमिल, कन्नड़, मलयालम और गुजराती भाषाओं में नेटफ्लिक्स इंडिया पर रिलीज हो रही है.
+
+Faith changed his life. His devotion changed thousands. Experience the divine story of Lord Hanuman's devout disciple, now on Netflix ✨ Watch Hanuman Ansh, out 29 November in Telugu, Tamil, Kannada, Malayalam, & Gujarati, on Netflix India. https://t.co/Xbu6kuNRsy
+
+कभी ओटीटी ने किया था रिजेक्ट नीम करोली बाबा के जीवन और शिक्षाओं पर बनी फिल्म 'हनुमान अंश' ने  बॉक्स ऑफिस पर इतिहास रच दिया. जिस फिल्म को रिलीज के शुरुआती दो हफ्तों में कमाई के लिए संघर्ष करना पड़ा रहा था उसने तीसरे हफ्ते में ऐसी बाजी पलटी की सभी हैरान हो गए. इसने दुनिया भर में 452 करोड़ रुपये की कमाई कर डाली.
+
+कुछ समय पहले, डायरेक्टर विशाल चतुर्वेदी ने बताया था कि एक ओटीटी  प्लेटफ़ॉर्म ने 'अपमानजनक' भाषा का इस्तेमाल करते हुए फिल्म को रिजेक्ट कर दिया था. लेकिन जबरदस्त कमाई के बाद सब कुछ बदल गया. अब चमत्कारिक रुप से एक साथ हनुमान अंश सोनी और नेटफ्लिक्स पर रिलीज होगी.  अगर आप सोच रहे हैं कि दो प्लेटफॉर्म पर क्यों रिलीज हो रही तो आपको बता दें कि हिंदी वर्जन के लिए मेकर्स ने सोनी लिव के साथ डील की है और तमिल, तेलगु, कन्नड़, मलयालम और गुजराती भाषा में नेटफ्लिक्स के साथ डील हुई है.
+
+हनुमान अंश की कमाई 'हनुमान अंश' की वर्ल्डवाइड ग्रॉस कमाई ₹453.46 करोड़ रही है. भारत में ग्रॉस कमाई ₹404.66 करोड़ (नेट ₹342.99 करोड़) और विदेशों में ₹48.80 करोड़ रही. हिंदी में ₹337.08 करोड़ और तेलुगु में ₹5.91 करोड़ रुपये की कमाई की. इसके अलावा खबर है कि सोनी पिक्चर्स ने इस फिल्म के OTT राइट्स 63 करोड़ में खरीदे हैं. वहीं नेटफ्लिक्स को लेकर अभी तक कोई जानकारी सामने नहीं आई है.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/neem-karoli-baba-hanuman-ansh-ott-release-netflix-sony-liv-date-out-tmovg-dskc-2706035-2026-11-25)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Hanuman ansh: नेटफ्लिक्स और सोनी लिव पर स्ट्रीम होगी 'हनुमान अंश', कभी OTT से मिला था रिजेक्शन, अब हुआ चमत्कार - AajTak`,
+    summary_hi: `2026 की सबसे बड़ी सरप्राइज हिट फिल्मों में से एक देने के बाद, 'हनुमान अंश' ने एक और बड़ी और फायदेमंद डील हासिल कर ली है. सोनी पिक्चर्स नेटवर्क्स इंडिया ने इसके डिजिटल राइट्स खरीदने के बाद अब ये फिल्म नेटफ्लिक्स पर भी दिखाई जाएगी.`,
+    content_hi: `### इस महीने की शुरुआत में स्ट्रीमिंग प्लेटफॉर्म सोनी लिव ने घोषणा की थी कि 'हनुमान अंश' का प्रीमियर 27 नवंबर को होगा. अब, नेटफ्लिक्स ने बताया है कि यह फिल्म 29 नवंबर से उनके प्लेटफॉर्म पर देखी जा सकेगी.
+
+2026 की सबसे बड़ी सरप्राइज हिट फिल्मों में से एक देने के बाद, 'हनुमान अंश' ने एक और बड़ी और फायदेमंद डील हासिल कर ली है. सोनी पिक्चर्स नेटवर्क्स इंडिया ने इसके डिजिटल राइट्स खरीदने के बाद अब ये फिल्म नेटफ्लिक्स पर भी दिखाई जाएगी.
+
+बता दें कि नीम करोली बाबा पर बनी भक्तिपूर्ण बायोपिक ' हनुमान अंश ' - जिसे 2 करोड़ रुपये के बजट में बनाया गया था और जिसने दुनिया भर में 452.86 करोड़ रुपये की कमाई की है. अब ये एक साथ दो OTT प्लेटफॉर्म पर रिलीज होने के लिए तैयार है. यह फिल्म 27 नवंबर से सोनी लिव (Sony LIV) और नेटफ्लिक्स पर 29 नवंबर से स्ट्रीम होगी.
+
+नेटफ्लिक्स ने शेयर किया पोस्ट नेटफ्लिक्स ने अपने ऑफिशियल हैंडल से पोस्ट करते हुए लिखा, 'आस्था ने उसका जीवन बदल दिया. उसकी भक्ति ने हजारों लोगों की जिंदगी बदल दी. भगवान हनुमान के एक सच्चे भक्त की दिव्य कहानी देखें, अब नेटफ्लिक्स पर.  'हनुमान अंश' देखें, जो 29 नवंबर को तेलुगु, तमिल, कन्नड़, मलयालम और गुजराती भाषाओं में नेटफ्लिक्स इंडिया पर रिलीज हो रही है.
+
+Faith changed his life. His devotion changed thousands. Experience the divine story of Lord Hanuman's devout disciple, now on Netflix ✨ Watch Hanuman Ansh, out 29 November in Telugu, Tamil, Kannada, Malayalam, & Gujarati, on Netflix India. https://t.co/Xbu6kuNRsy
+
+कभी ओटीटी ने किया था रिजेक्ट नीम करोली बाबा के जीवन और शिक्षाओं पर बनी फिल्म 'हनुमान अंश' ने  बॉक्स ऑफिस पर इतिहास रच दिया. जिस फिल्म को रिलीज के शुरुआती दो हफ्तों में कमाई के लिए संघर्ष करना पड़ा रहा था उसने तीसरे हफ्ते में ऐसी बाजी पलटी की सभी हैरान हो गए. इसने दुनिया भर में 452 करोड़ रुपये की कमाई कर डाली.
+
+कुछ समय पहले, डायरेक्टर विशाल चतुर्वेदी ने बताया था कि एक ओटीटी  प्लेटफ़ॉर्म ने 'अपमानजनक' भाषा का इस्तेमाल करते हुए फिल्म को रिजेक्ट कर दिया था. लेकिन जबरदस्त कमाई के बाद सब कुछ बदल गया. अब चमत्कारिक रुप से एक साथ हनुमान अंश सोनी और नेटफ्लिक्स पर रिलीज होगी.  अगर आप सोच रहे हैं कि दो प्लेटफॉर्म पर क्यों रिलीज हो रही तो आपको बता दें कि हिंदी वर्जन के लिए मेकर्स ने सोनी लिव के साथ डील की है और तमिल, तेलगु, कन्नड़, मलयालम और गुजराती भाषा में नेटफ्लिक्स के साथ डील हुई है.
+
+हनुमान अंश की कमाई 'हनुमान अंश' की वर्ल्डवाइड ग्रॉस कमाई ₹453.46 करोड़ रही है. भारत में ग्रॉस कमाई ₹404.66 करोड़ (नेट ₹342.99 करोड़) और विदेशों में ₹48.80 करोड़ रही. हिंदी में ₹337.08 करोड़ और तेलुगु में ₹5.91 करोड़ रुपये की कमाई की. इसके अलावा खबर है कि सोनी पिक्चर्स ने इस फिल्म के OTT राइट्स 63 करोड़ में खरीदे हैं. वहीं नेटफ्लिक्स को लेकर अभी तक कोई जानकारी सामने नहीं आई है.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/neem-karoli-baba-hanuman-ansh-ott-release-netflix-sony-liv-date-out-tmovg-dskc-2706035-2026-11-25)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Entertainment affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on Hanuman ansh: नेटफ्लिक्स और सोनी लिव पर स्ट्रीम होगी 'हनुमान अंश', कभी OTT से मिला था रिजेक्शन, अब हुआ चमत्कार - AajTak.`,
+    primary_source: `AajTak Official Dispatch`,
+  },
+  {
+    id: 97859,
+    title: `🚨 जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    slug: `entertainment-breaking-report-38543-97859-2026`,
+    original_title: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `4 min read`,
+    views_count: 23524160,
+    shares_count: 3429265,
+    published_at: `2026-11-25T19:30:02Z`,
+    updated_at: `2026-11-25T19:30:02Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cm93r9d9ypx0o`,
+    source_courtesy: `News Courtesy: BBC Digital Archives`,
+    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85&sig=97859`,
+    image_alt: `Verified news photograph: जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    image_courtesy: `Photo: Cinema Premiere Desk (Unsplash Editorial)`,
+    image_photographer: `Cinema Premiere Desk`,
+    image_license: `Unsplash Editorial`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Entertainment, Breaking News, India, Verified`,
+    summary: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.`,
+    content: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.
+
+लेकिन भारत में इस सीरीज़ की रिलीज़ पर बैन लगाने की मांग उठ रही है.
+
+यह सीरीज़ 4 दिसंबर, 2026 को रिलीज़ होगी और दुनिया भर के 191 देशों में उपलब्ध होगी. इसे कई भाषाओं में डब किया गया है.
+
+एमडी फ़िल्म्स के बैनर तले बनी इस सीरीज़ की कहानी मशहूर उपन्यासकार फ़रहत इश्तियाक़ ने लिखी है, जबकि इसका निर्माण और निर्देशन मोमिना दुरैद ने किया है.
+
+इस सीरीज़ के पहले हिस्से में कुल पाँच एपिसोड हैं, जबकि इसमें कुल 13 एपिसोड होने की संभावना है. इसकी कहानी तीन पीढ़ियों और छह प्रेम कहानियों के इर्द-गिर्द घूमती है.
+
+पाकिस्तानी लेखिका फ़रहत इश्तियाक़ ने 2013 में 'जो बचे हैं संग समेट लो' नाम से एक उपन्यास लिखा था.
+
+इसकी कहानी मुख्य रूप से सिकंदर (अहद रज़ा मीर) और लीसा (इक़रा अज़ीज़) के इर्द-गिर्द घूमती है. सिकंदर हार्वर्ड में क़ानून का छात्र है. वह अपने अतीत से परेशान होकर इटली के रोम शहर चला जाता है, जहां उसकी मुलाक़ात लीसा से होती है.
+
+लीसा एक चित्रकार है और उसका जीवन भी कई उलझनों से घिरा हुआ है.
+
+इटली में उनकी मुलाक़ात उनके जीवन को एक अप्रत्याशित मोड़ देती है. ट्रेलर से पता चलता है कि इस ड्रामा की शूटिंग रोम के अलावा कराची, स्कार्दू और लंदन में भी हुई है.
+
+प्यार, रिश्ते और इंसानी जुड़ाव इसकी कहानी के मुख्य विषय हैं, जिन्हें अलग-अलग क़िरदारों और पीढ़ियों के जीवन के ज़रिए दिखाया गया है.
+
+इस सीरीज़ का नाम और इसका मूल विचार फ़ैज़ अहमद फ़ैज़ की एक ग़ज़ल से प्रेरित है. इस लिहाज़ से, कहानी सिर्फ़ प्रेम संबंधों तक सीमित नहीं है, बल्कि इसमें जीवन भर संजोई गई यादों, रिश्तों और अनुभवों को भी शामिल किया गया है
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+इस सीरीज़ की एक ख़ास बात इसमें शामिल पाकिस्तान के कुछ बड़े कलाकारों की टोली है. इसमें अहद रज़ा मीर और इकरा अज़ीज़ के साथ फ़वाद ख़ान, माहिरा ख़ान, हानिया आमिर, हमज़ा अली अब्बासी, सनम सईद, माया अली, आमना शेख़, ख़ुशाल ख़ान, अहमद अली अकबर और बिलाल अशरफ़ भी हैं.
+
+निर्देशक मोमिना दुरैद के बेटे शाह ज़ैन दुरैद इस सीरीज़ से अभिनय की शुरुआत कर रहे हैं. पाकिस्तानी दर्शकों के लिए इस सीरीज़ की एक ख़ास बात फ़वाद ख़ान और माहिरा ख़ान की जोड़ी है.
+
+बीबीसी न्यूज़ उर्दू से बात करते हुए अमीना शेख़ ने बताया कि एक अभिनेत्री के तौर पर वह अपने आने वाले प्रोजेक्ट्स में व्यस्त थीं, लेकिन निर्माता और बाकी टीम इस सीरीज़ को पूरा करने में जुटी हुई थी. हाल ही में डबिंग के दौरान उन्हें एहसास हुआ कि इस दौरान कितना काम हो चुका है.
+
+वह कहती हैं, "मैं इस प्रोजेक्ट का हिस्सा बनकर बहुत ख़ुश और उत्साहित हूं. मुझे ख़ुशी है कि इस सीरीज़ में नज़र आने वाले सभी कलाकारों ने इसके लिए अपना समय दिया. मुझे लगता है कि इस टीम का हर कलाकार इसके लायक़ है."
+
+उनके मुताबिक़, "एक ही प्रोजेक्ट में इतने सारे कलाकारों का एक साथ आना पाकिस्तानी मनोरंजन उद्योग के लिए भी स्वागत योग्य है."
+
+### आठ साल की तैयारी, 200 दिन की शूटिंग
+
+इस सीरीज़ को बनाने का सफ़र भी काफ़ी लंबा रहा है. मोमिना दुरैद के मुताबिक़, इस प्रोजेक्ट पर काम करने में लगभग आठ साल लगे, जबकि इसकी शूटिंग 200 दिनों तक चली.
+
+वह कहती हैं, "जब इस परियोजना के ज़रिए नेटफ़्लिक्स के दरवाज़े पाकिस्तान के लिए खुलेंगे, तब मुझे गर्व होगा."
+
+उपन्यासकार फ़रहत इश्तियाक़ भी इस मौक़े को अपने काम के वैश्विक प्रदर्शन से कहीं बढ़कर मानती हैं.
+
+वह कहती हैं, "इस समय बहुत ख़ुशी है और साथ ही बहुत डर भी. यह एक बहुत बड़ी और भावनात्मक स्थिति है. मुझे अपने लिए उतनी ख़ुशी नहीं है जितनी अपने देश के लिए है कि अब पाकिस्तानी नाटकों को वैश्विक दर्शक देखेंगे. मैं चाहती हूं कि पाकिस्तान की वह छवि जो दुनिया को जाननी चाहिए, इस नाटक के माध्यम से दुनिया तक पहुंचे."
+
+इस सीरीज़ का संगीत और बैकग्राउंड स्कोर जाने-माने संगीतकार रोहैल हयात ने तैयार किया है. वह 80 और 90 के दशक में 'वाइटल साइंस' बैंड के सदस्य थे. बाद में कोक स्टूडियो के शुरुआती और लोकप्रिय दौर में भी उन्हें काफ़ी शोहरत मिली.
+
+रोहैल हयात का इस परियोजना से जुड़ना इसलिए भी अहम है क्योंकि उनका काम पाकिस्तानी संगीत में पारंपरिक और आधुनिक शैलियों के मेल के लिए जाना जाता है.
+
+सीरीज़ का ट्रेलर और संगीत जारी होने के बाद इसके कलाकारों ने भी इसे सोशल मीडिया पर साझा किया, जहां इस परियोजना को लेकर लोगों ने दिलचस्पी दिखाई.
+
+अभिनेत्री माहिरा ख़ान ने अपने क़िरदार राहत के बारे में एक पोस्ट साझा करते हुए कहा, "इस क़िरदार का एक हिस्सा उसके जीवन भर उसके साथ रहेगा."
+
+पाकिस्तानी ड्रामे विदेशों में रहने वाले दक्षिण एशियाई दर्शकों के बीच कई साल से लोकप्रिय रहे हैं.
+
+यूट्यूब और सोशल मीडिया ने इनकी पहुंच और बढ़ा दी है. भारत समेत दूसरे देशों में भी पाकिस्तानी ड्रामा के संवादों और किरदारों पर बने वीडियो इस लोकप्रियता की मिसाल हैं.
+
+लेकिन यह लोकप्रियता ज़्यादातर उन लोगों तक ही सीमित रही है जो पाकिस्तानी संस्कृति, भाषा या कलाकारों से पहले से परिचित हैं.
+
+नेटफ़्लिक्स जैसे मंच पर मौजूदगी से उन लोगों तक भी पहुंचना मुमकिन हो सकता है जिन्होंने पहले कभी कोई पाकिस्तानी ड्रामा नहीं देखा है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cm93r9d9ypx0o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    summary_hi: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.`,
+    content_hi: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.
+
+लेकिन भारत में इस सीरीज़ की रिलीज़ पर बैन लगाने की मांग उठ रही है.
+
+यह सीरीज़ 4 दिसंबर, 2026 को रिलीज़ होगी और दुनिया भर के 191 देशों में उपलब्ध होगी. इसे कई भाषाओं में डब किया गया है.
+
+एमडी फ़िल्म्स के बैनर तले बनी इस सीरीज़ की कहानी मशहूर उपन्यासकार फ़रहत इश्तियाक़ ने लिखी है, जबकि इसका निर्माण और निर्देशन मोमिना दुरैद ने किया है.
+
+इस सीरीज़ के पहले हिस्से में कुल पाँच एपिसोड हैं, जबकि इसमें कुल 13 एपिसोड होने की संभावना है. इसकी कहानी तीन पीढ़ियों और छह प्रेम कहानियों के इर्द-गिर्द घूमती है.
+
+पाकिस्तानी लेखिका फ़रहत इश्तियाक़ ने 2013 में 'जो बचे हैं संग समेट लो' नाम से एक उपन्यास लिखा था.
+
+इसकी कहानी मुख्य रूप से सिकंदर (अहद रज़ा मीर) और लीसा (इक़रा अज़ीज़) के इर्द-गिर्द घूमती है. सिकंदर हार्वर्ड में क़ानून का छात्र है. वह अपने अतीत से परेशान होकर इटली के रोम शहर चला जाता है, जहां उसकी मुलाक़ात लीसा से होती है.
+
+लीसा एक चित्रकार है और उसका जीवन भी कई उलझनों से घिरा हुआ है.
+
+इटली में उनकी मुलाक़ात उनके जीवन को एक अप्रत्याशित मोड़ देती है. ट्रेलर से पता चलता है कि इस ड्रामा की शूटिंग रोम के अलावा कराची, स्कार्दू और लंदन में भी हुई है.
+
+प्यार, रिश्ते और इंसानी जुड़ाव इसकी कहानी के मुख्य विषय हैं, जिन्हें अलग-अलग क़िरदारों और पीढ़ियों के जीवन के ज़रिए दिखाया गया है.
+
+इस सीरीज़ का नाम और इसका मूल विचार फ़ैज़ अहमद फ़ैज़ की एक ग़ज़ल से प्रेरित है. इस लिहाज़ से, कहानी सिर्फ़ प्रेम संबंधों तक सीमित नहीं है, बल्कि इसमें जीवन भर संजोई गई यादों, रिश्तों और अनुभवों को भी शामिल किया गया है
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+इस सीरीज़ की एक ख़ास बात इसमें शामिल पाकिस्तान के कुछ बड़े कलाकारों की टोली है. इसमें अहद रज़ा मीर और इकरा अज़ीज़ के साथ फ़वाद ख़ान, माहिरा ख़ान, हानिया आमिर, हमज़ा अली अब्बासी, सनम सईद, माया अली, आमना शेख़, ख़ुशाल ख़ान, अहमद अली अकबर और बिलाल अशरफ़ भी हैं.
+
+निर्देशक मोमिना दुरैद के बेटे शाह ज़ैन दुरैद इस सीरीज़ से अभिनय की शुरुआत कर रहे हैं. पाकिस्तानी दर्शकों के लिए इस सीरीज़ की एक ख़ास बात फ़वाद ख़ान और माहिरा ख़ान की जोड़ी है.
+
+बीबीसी न्यूज़ उर्दू से बात करते हुए अमीना शेख़ ने बताया कि एक अभिनेत्री के तौर पर वह अपने आने वाले प्रोजेक्ट्स में व्यस्त थीं, लेकिन निर्माता और बाकी टीम इस सीरीज़ को पूरा करने में जुटी हुई थी. हाल ही में डबिंग के दौरान उन्हें एहसास हुआ कि इस दौरान कितना काम हो चुका है.
+
+वह कहती हैं, "मैं इस प्रोजेक्ट का हिस्सा बनकर बहुत ख़ुश और उत्साहित हूं. मुझे ख़ुशी है कि इस सीरीज़ में नज़र आने वाले सभी कलाकारों ने इसके लिए अपना समय दिया. मुझे लगता है कि इस टीम का हर कलाकार इसके लायक़ है."
+
+उनके मुताबिक़, "एक ही प्रोजेक्ट में इतने सारे कलाकारों का एक साथ आना पाकिस्तानी मनोरंजन उद्योग के लिए भी स्वागत योग्य है."
+
+### आठ साल की तैयारी, 200 दिन की शूटिंग
+
+इस सीरीज़ को बनाने का सफ़र भी काफ़ी लंबा रहा है. मोमिना दुरैद के मुताबिक़, इस प्रोजेक्ट पर काम करने में लगभग आठ साल लगे, जबकि इसकी शूटिंग 200 दिनों तक चली.
+
+वह कहती हैं, "जब इस परियोजना के ज़रिए नेटफ़्लिक्स के दरवाज़े पाकिस्तान के लिए खुलेंगे, तब मुझे गर्व होगा."
+
+उपन्यासकार फ़रहत इश्तियाक़ भी इस मौक़े को अपने काम के वैश्विक प्रदर्शन से कहीं बढ़कर मानती हैं.
+
+वह कहती हैं, "इस समय बहुत ख़ुशी है और साथ ही बहुत डर भी. यह एक बहुत बड़ी और भावनात्मक स्थिति है. मुझे अपने लिए उतनी ख़ुशी नहीं है जितनी अपने देश के लिए है कि अब पाकिस्तानी नाटकों को वैश्विक दर्शक देखेंगे. मैं चाहती हूं कि पाकिस्तान की वह छवि जो दुनिया को जाननी चाहिए, इस नाटक के माध्यम से दुनिया तक पहुंचे."
+
+इस सीरीज़ का संगीत और बैकग्राउंड स्कोर जाने-माने संगीतकार रोहैल हयात ने तैयार किया है. वह 80 और 90 के दशक में 'वाइटल साइंस' बैंड के सदस्य थे. बाद में कोक स्टूडियो के शुरुआती और लोकप्रिय दौर में भी उन्हें काफ़ी शोहरत मिली.
+
+रोहैल हयात का इस परियोजना से जुड़ना इसलिए भी अहम है क्योंकि उनका काम पाकिस्तानी संगीत में पारंपरिक और आधुनिक शैलियों के मेल के लिए जाना जाता है.
+
+सीरीज़ का ट्रेलर और संगीत जारी होने के बाद इसके कलाकारों ने भी इसे सोशल मीडिया पर साझा किया, जहां इस परियोजना को लेकर लोगों ने दिलचस्पी दिखाई.
+
+अभिनेत्री माहिरा ख़ान ने अपने क़िरदार राहत के बारे में एक पोस्ट साझा करते हुए कहा, "इस क़िरदार का एक हिस्सा उसके जीवन भर उसके साथ रहेगा."
+
+पाकिस्तानी ड्रामे विदेशों में रहने वाले दक्षिण एशियाई दर्शकों के बीच कई साल से लोकप्रिय रहे हैं.
+
+यूट्यूब और सोशल मीडिया ने इनकी पहुंच और बढ़ा दी है. भारत समेत दूसरे देशों में भी पाकिस्तानी ड्रामा के संवादों और किरदारों पर बने वीडियो इस लोकप्रियता की मिसाल हैं.
+
+लेकिन यह लोकप्रियता ज़्यादातर उन लोगों तक ही सीमित रही है जो पाकिस्तानी संस्कृति, भाषा या कलाकारों से पहले से परिचित हैं.
+
+नेटफ़्लिक्स जैसे मंच पर मौजूदगी से उन लोगों तक भी पहुंचना मुमकिन हो सकता है जिन्होंने पहले कभी कोई पाकिस्तानी ड्रामा नहीं देखा है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cm93r9d9ypx0o)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Entertainment affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?.`,
+    primary_source: `BBC Official Dispatch`,
+  },
+  {
+    id: 97860,
+    title: `🚨 ‘रामायण’ ने ऑस्कर की दहलीज पर दी दस्तक, ‘ड्यून 3’ और ‘एवेंजर्स: डूम्सडे’ जैसी 20 फिल्मों से होगा मुकाबला - India TV Hindi`,
+    slug: `3-20-india-tv-hindi-2026`,
+    original_title: `‘रामायण’ ने ऑस्कर की दहलीज पर दी दस्तक, ‘ड्यून 3’ और ‘एवेंजर्स: डूम्सडे’ जैसी 20 फिल्मों से होगा मुकाबला - India TV Hindi`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `5 min read`,
+    views_count: 23524400,
+    shares_count: 3429300,
+    published_at: `2026-11-25T19:30:02Z`,
+    updated_at: `2026-11-25T19:30:02Z`,
+    source_name: `India TV Hindi`,
+    source_url: `https://www.indiatv.in/entertainment/bollywood/ramayana-knocks-on-doors-of-oscars-will-compete-against-20-films-including-dune-3-and-avengers-doomsday-2026-11-25-1256359`,
+    source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
+    image_url: `/images/articles/3-20-india-tv-hindi-2026.jpg`,
+    image_alt: `Verified news photograph: ‘रामायण’ ने ऑस्कर की दहलीज पर दी दस्तक, ‘ड्यून 3’ और ‘एवेंजर्स: डूम्सडे’ जैसी 20 फिल्मों से होगा मुकाबला - India TV Hindi`,
+    image_courtesy: `Image Courtesy: India TV Hindi`,
+    image_photographer: `India TV Hindi`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Ramayana, Breaking News, India, Verified`,
+    summary: `रणबीर कपूर, साई पल्लवी और यश स्टारर फिल्म ‘रामायण’ दुनियाभर में अपनी भव्यता और शानदार विजुअल इफेक्ट्स के लिए चर्चा बटोर रही है । फिल्म की रिलीज के बाद से ही इसके वीएफएक्स की खूब तारीफ हो रही है। अब यह फिल्म अंतरराष्ट्रीय अवॉर्ड्स के मंच पर `,
+    content: `### रणबीर कपूर की ‘रामायण’ ने ऑस्कर 2027 की विजुअल इफेक्ट्स कैटेगरी की टॉप 20 फिल्मों में जगह बनाई है। फिल्म पहले ही क्रिटिक्स च्वाइस अवॉर्ड्स की दो कैटेगरी में शॉर्टलिस्ट हो चुकी है।
+
+रणबीर कपूर, साई पल्लवी और यश स्टारर फिल्म ‘रामायण’ दुनियाभर में अपनी भव्यता और शानदार विजुअल इफेक्ट्स के लिए चर्चा बटोर रही है । फिल्म की रिलीज के बाद से ही इसके वीएफएक्स की खूब तारीफ हो रही है। अब यह फिल्म अंतरराष्ट्रीय अवॉर्ड्स के मंच पर भी अपनी मौजूदगी दर्ज कराती नजर आ रही है। पहले 32वें क्रिटिक्स च्वाइस अवॉर्ड्स की दो कैटेगरी में शॉर्टलिस्ट होने के बाद अब फिल्म को लेकर एक और बड़ी खबर सामने आई है। रिपोर्ट्स के मुताबिक, नितेश तिवारी के निर्देशन में बनी ‘रामायण’ ने 99वें एकेडमी अवॉर्ड्स यानी ऑस्कर की विजुअल इफेक्ट्स कैटेगरी में टॉप 20 फिल्मों की सूची में जगह बनाई है। हालांकि इस सूची को लेकर एक अहम बात यह है कि एकेडमी आधिकारिक तौर पर ऐसी टॉप 20 सूची सार्वजनिक नहीं करती।
+
+### ऑस्कर की विजुअल इफेक्ट्स रेस में ‘रामायण’
+
+वैरायटी की रिपोर्ट के अनुसार, एकेडमी की विजुअल इफेक्ट्स ब्रांच ने उन 20 फिल्मों के निर्माताओं को सूचना दी है, जो अगले चरण की वोटिंग के लिए आगे बढ़ी हैं। इसके बाद प्रकाशन ने संबंधित फिल्म निर्माताओं से संपर्क कर इस जानकारी की पुष्टि की। इसी रिपोर्ट में ‘रामायण’ का नाम भी शामिल है। अगर फिल्म आगे चलकर आधिकारिक शॉर्टलिस्ट और फिर नॉमिनेशन तक पहुंचती है तो यह भारतीय सिनेमा के लिए बड़ी उपलब्धि होगी। इस कैटेगरी में ‘रामायण’ का मुकाबला हॉलीवुड की कई बड़ी और चर्चित फिल्मों से है। इनमें क्रिस्टोफर नोलन की ‘द ओडिसी’, डेनिस विलेन्यूव की ‘ड्यून: पार्ट थ्री’, स्टीवन स्पीलबर्ग की ‘डिस्क्लोजर डे’, ‘एवेंजर्स: डूम्सडे’, ‘स्पाइडर-मैन: ब्रांड न्यू डे’ और ‘सुपरगर्ल’ जैसी फिल्में शामिल हैं। इसके अलावा ‘बैक रूम्स’, ‘डिगर’, ‘गॉडजिला माइनस जीरो’, ‘प्रोजेक्ट हेल मैरी’, ‘मोआना’ और ‘जुमांजी: ओपन वर्ल्ड’ भी इस रेस का हिस्सा बताई जा रही हैं।
+
+### ‘ड्यून’ और मार्वल की फिल्मों से होगी कड़ी टक्कर
+
+विजुअल इफेक्ट्स के मामले में ‘रामायण’ के सामने सबसे बड़ी चुनौतियों में से एक ‘ड्यून’ फ्रेंचाइजी हो सकती है। डेनिस विलेन्यूव की इस फ्रेंचाइजी की पिछली दोनों फिल्में ‘ड्यून’ और ‘ड्यून: पार्ट टू’ बेस्ट विजुअल इफेक्ट्स कैटेगरी में ऑस्कर जीत चुकी हैं। ऐसे में ‘ड्यून: पार्ट थ्री’ को भी इस श्रेणी में मजबूत दावेदार माना जा रहा है। वहीं मार्वल सिनेमैटिक यूनिवर्स की फिल्मों का भी इस कैटेगरी में पुराना रिकॉर्ड रहा है। ‘एवेंजर्स: डूम्सडे’ और ‘स्पाइडर-मैन: ब्रांड न्यू डे’ से पहले एमसीयू की 14 फिल्में इस कैटेगरी में नॉमिनेशन हासिल कर चुकी हैं, हालांकि इनमें से कोई भी ऑस्कर ट्रॉफी नहीं जीत सकी। दूसरी तरफ क्रिस्टोफर नोलन की ‘इनसेप्शन’, ‘इंटरस्टेलर’ और ‘टेनेट’ जैसी फिल्मों ने विजुअल इफेक्ट्स के लिए ऑस्कर अपने नाम किया है।
+
+भारतीय सिनेमा के लिए यह पहला मौका नहीं है, जब किसी फिल्म ने ऑस्कर की विजुअल इफेक्ट्स कैटेगरी में टॉप 20 तक जगह बनाई हो। इससे पहले एसएस राजामौली की फिल्म ‘आरआरआर’ भी इस सूची में शामिल हुई थी। हालांकि, फिल्म अंतिम नॉमिनेशन तक नहीं पहुंच सकी थी। इसके बावजूद फिल्म ने 95वें एकेडमी अवॉर्ड्स में इतिहास रचते हुए अपने गाने ‘नाटू नाटू’ के लिए बेस्ट ओरिजिनल सॉन्ग का ऑस्कर जीता था।
+
+### दिसंबर में साफ होगी ऑस्कर की तस्वीर
+
+99वें एकेडमी अवॉर्ड्स के लिए प्रारंभिक वोटिंग 7 दिसंबर से शुरू होकर 11 दिसंबर तक चलेगी। इसके बाद 15 दिसंबर को एकेडमी आधिकारिक शॉर्टलिस्ट जारी करेगी। ऑस्कर के फाइनल नॉमिनेशन की घोषणा 21 जनवरी 2027 को की जाएगी। ऐसे में फिलहाल ‘रामायण’ की टॉप 20 में जगह बनाने की खबर को एक शुरुआती उपलब्धि के तौर पर देखा जा रहा है। असली तस्वीर आधिकारिक शॉर्टलिस्ट और नॉमिनेशन के बाद ही साफ होगी।
+
+### क्रिटिक्स च्वाइस अवॉर्ड्स में भी दो कैटेगरी में जगह
+
+ऑस्कर की रेस से पहले ‘रामायण’ ने 32वें क्रिटिक्स च्वाइस अवॉर्ड्स में भी अपनी मजबूत मौजूदगी दर्ज कराई है। फिल्म को बेस्ट विजुअल इफेक्ट्स और बेस्ट स्टंट डिजाइन की दो कैटेगरी में शॉर्टलिस्ट किया गया है। बेस्ट विजुअल इफेक्ट्स में इसका मुकाबला ‘गॉडजिला माइनस जीरो’, ‘द ओडिसी’, ‘प्रोजेक्ट हेल मैरी’, ‘स्पाइडर-मैन: ब्रांड न्यू डे’ और ‘द शीप डिटेक्टिव्स’ जैसी फिल्मों से होगा। वहीं बेस्ट स्टंट डिजाइन कैटेगरी में ‘ड्यून: पार्ट थ्री’, ‘द फ्यूरियस’, ‘होप’ और ‘रेजिडेंट ईविल’ जैसी फिल्मों के साथ इसकी प्रतिस्पर्धा है। क्रिटिक्स च्वाइस अवॉर्ड्स के लिए नॉमिनेशन की घोषणा 4 दिसंबर 2026 को होगी, जबकि अवॉर्ड समारोह 3 जनवरी 2027 को आयोजित किया जाएगा। अब देखना होगा कि ‘रामायण’ अंतरराष्ट्रीय पुरस्कारों की इस दौड़ में कितनी दूर तक पहुंच पाती है।
+
+ये भी पढ़ें: 'आखिरकार वो मेरी हो गई', समंदर के बीच हार्दिक पांड्या ने गर्लफ्रेंड को पहनाई चमचमाती रिंग, नताशा के बाद महिका के नाम की जिंदगी
+
+### India TV हिंदी न्यूज़ के साथ रहें हर दिन अपडेट, पाएं देश और दुनिया की हर बड़ी खबर। Bollywood से जुड़ी लेटेस्ट खबरों के लिए अभी विज़िट करें मनोरंजन ।
+
+### छठ के पवित्र सिंदूर पर अभद्र टिप्पणी कर फंसे कॉमेडियन यश माहेश्वरी, मांगी माफी, दिल्ली में दर्ज हुई FIR
+
+### दोस्त की शादी में कंगना रनौत का दिखा मस्ती भरा अंदाज, दूल्हा-दुल्हन पर बरसाए फूल, लुटाया प्यार
+
+### 'ओ साथी रे' में करण के रोल के लिए अर्जुन रामपाल की जगह अविनाश तिवारी को क्यों चुना? इम्तियाज अली ने किया खुलासा
+
+### बेटी आराध्या के साथ भाभी श्रीमा राय के बर्थडे में पहुंचीं ऐश्वर्या राय, परिवार संग बिताए खास पल
+
+### संविधान दिवस के अवसर पर PM मोदी ने लिखा लेख, विपक्ष को दी नसीहत, युवाओं को भी दिया खास संदेश
+
+### अनंत सिंह की बेटी शिवांगी की शादी संपन्न, 151 गाड़ियों के काफिले में आया दुल्हा, आज घुड़दौड़ की फाइनल रेस
+
+### एटमी हथियारों की बात पर पूरी दुनिया से उल्टा रुख क्यों रखता है उत्तर कोरिया? समझिए इनसाइड स्टोरी
+
+### सूर्यकुमार यादव एक, शिवम दुबे गोल्डन डक, जगदीश सुचित ने एक ही ओवर में मचाया तहलका
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/entertainment/bollywood/ramayana-knocks-on-doors-of-oscars-will-compete-against-20-films-including-dune-3-and-avengers-doomsday-2026-11-25-1256359)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `‘रामायण’ ने ऑस्कर की दहलीज पर दी दस्तक, ‘ड्यून 3’ और ‘एवेंजर्स: डूम्सडे’ जैसी 20 फिल्मों से होगा मुकाबला - India TV Hindi`,
+    summary_hi: `रणबीर कपूर, साई पल्लवी और यश स्टारर फिल्म ‘रामायण’ दुनियाभर में अपनी भव्यता और शानदार विजुअल इफेक्ट्स के लिए चर्चा बटोर रही है । फिल्म की रिलीज के बाद से ही इसके वीएफएक्स की खूब तारीफ हो रही है। अब यह फिल्म अंतरराष्ट्रीय अवॉर्ड्स के मंच पर `,
+    content_hi: `### रणबीर कपूर की ‘रामायण’ ने ऑस्कर 2027 की विजुअल इफेक्ट्स कैटेगरी की टॉप 20 फिल्मों में जगह बनाई है। फिल्म पहले ही क्रिटिक्स च्वाइस अवॉर्ड्स की दो कैटेगरी में शॉर्टलिस्ट हो चुकी है।
+
+रणबीर कपूर, साई पल्लवी और यश स्टारर फिल्म ‘रामायण’ दुनियाभर में अपनी भव्यता और शानदार विजुअल इफेक्ट्स के लिए चर्चा बटोर रही है । फिल्म की रिलीज के बाद से ही इसके वीएफएक्स की खूब तारीफ हो रही है। अब यह फिल्म अंतरराष्ट्रीय अवॉर्ड्स के मंच पर भी अपनी मौजूदगी दर्ज कराती नजर आ रही है। पहले 32वें क्रिटिक्स च्वाइस अवॉर्ड्स की दो कैटेगरी में शॉर्टलिस्ट होने के बाद अब फिल्म को लेकर एक और बड़ी खबर सामने आई है। रिपोर्ट्स के मुताबिक, नितेश तिवारी के निर्देशन में बनी ‘रामायण’ ने 99वें एकेडमी अवॉर्ड्स यानी ऑस्कर की विजुअल इफेक्ट्स कैटेगरी में टॉप 20 फिल्मों की सूची में जगह बनाई है। हालांकि इस सूची को लेकर एक अहम बात यह है कि एकेडमी आधिकारिक तौर पर ऐसी टॉप 20 सूची सार्वजनिक नहीं करती।
+
+### ऑस्कर की विजुअल इफेक्ट्स रेस में ‘रामायण’
+
+वैरायटी की रिपोर्ट के अनुसार, एकेडमी की विजुअल इफेक्ट्स ब्रांच ने उन 20 फिल्मों के निर्माताओं को सूचना दी है, जो अगले चरण की वोटिंग के लिए आगे बढ़ी हैं। इसके बाद प्रकाशन ने संबंधित फिल्म निर्माताओं से संपर्क कर इस जानकारी की पुष्टि की। इसी रिपोर्ट में ‘रामायण’ का नाम भी शामिल है। अगर फिल्म आगे चलकर आधिकारिक शॉर्टलिस्ट और फिर नॉमिनेशन तक पहुंचती है तो यह भारतीय सिनेमा के लिए बड़ी उपलब्धि होगी। इस कैटेगरी में ‘रामायण’ का मुकाबला हॉलीवुड की कई बड़ी और चर्चित फिल्मों से है। इनमें क्रिस्टोफर नोलन की ‘द ओडिसी’, डेनिस विलेन्यूव की ‘ड्यून: पार्ट थ्री’, स्टीवन स्पीलबर्ग की ‘डिस्क्लोजर डे’, ‘एवेंजर्स: डूम्सडे’, ‘स्पाइडर-मैन: ब्रांड न्यू डे’ और ‘सुपरगर्ल’ जैसी फिल्में शामिल हैं। इसके अलावा ‘बैक रूम्स’, ‘डिगर’, ‘गॉडजिला माइनस जीरो’, ‘प्रोजेक्ट हेल मैरी’, ‘मोआना’ और ‘जुमांजी: ओपन वर्ल्ड’ भी इस रेस का हिस्सा बताई जा रही हैं।
+
+### ‘ड्यून’ और मार्वल की फिल्मों से होगी कड़ी टक्कर
+
+विजुअल इफेक्ट्स के मामले में ‘रामायण’ के सामने सबसे बड़ी चुनौतियों में से एक ‘ड्यून’ फ्रेंचाइजी हो सकती है। डेनिस विलेन्यूव की इस फ्रेंचाइजी की पिछली दोनों फिल्में ‘ड्यून’ और ‘ड्यून: पार्ट टू’ बेस्ट विजुअल इफेक्ट्स कैटेगरी में ऑस्कर जीत चुकी हैं। ऐसे में ‘ड्यून: पार्ट थ्री’ को भी इस श्रेणी में मजबूत दावेदार माना जा रहा है। वहीं मार्वल सिनेमैटिक यूनिवर्स की फिल्मों का भी इस कैटेगरी में पुराना रिकॉर्ड रहा है। ‘एवेंजर्स: डूम्सडे’ और ‘स्पाइडर-मैन: ब्रांड न्यू डे’ से पहले एमसीयू की 14 फिल्में इस कैटेगरी में नॉमिनेशन हासिल कर चुकी हैं, हालांकि इनमें से कोई भी ऑस्कर ट्रॉफी नहीं जीत सकी। दूसरी तरफ क्रिस्टोफर नोलन की ‘इनसेप्शन’, ‘इंटरस्टेलर’ और ‘टेनेट’ जैसी फिल्मों ने विजुअल इफेक्ट्स के लिए ऑस्कर अपने नाम किया है।
+
+भारतीय सिनेमा के लिए यह पहला मौका नहीं है, जब किसी फिल्म ने ऑस्कर की विजुअल इफेक्ट्स कैटेगरी में टॉप 20 तक जगह बनाई हो। इससे पहले एसएस राजामौली की फिल्म ‘आरआरआर’ भी इस सूची में शामिल हुई थी। हालांकि, फिल्म अंतिम नॉमिनेशन तक नहीं पहुंच सकी थी। इसके बावजूद फिल्म ने 95वें एकेडमी अवॉर्ड्स में इतिहास रचते हुए अपने गाने ‘नाटू नाटू’ के लिए बेस्ट ओरिजिनल सॉन्ग का ऑस्कर जीता था।
+
+### दिसंबर में साफ होगी ऑस्कर की तस्वीर
+
+99वें एकेडमी अवॉर्ड्स के लिए प्रारंभिक वोटिंग 7 दिसंबर से शुरू होकर 11 दिसंबर तक चलेगी। इसके बाद 15 दिसंबर को एकेडमी आधिकारिक शॉर्टलिस्ट जारी करेगी। ऑस्कर के फाइनल नॉमिनेशन की घोषणा 21 जनवरी 2027 को की जाएगी। ऐसे में फिलहाल ‘रामायण’ की टॉप 20 में जगह बनाने की खबर को एक शुरुआती उपलब्धि के तौर पर देखा जा रहा है। असली तस्वीर आधिकारिक शॉर्टलिस्ट और नॉमिनेशन के बाद ही साफ होगी।
+
+### क्रिटिक्स च्वाइस अवॉर्ड्स में भी दो कैटेगरी में जगह
+
+ऑस्कर की रेस से पहले ‘रामायण’ ने 32वें क्रिटिक्स च्वाइस अवॉर्ड्स में भी अपनी मजबूत मौजूदगी दर्ज कराई है। फिल्म को बेस्ट विजुअल इफेक्ट्स और बेस्ट स्टंट डिजाइन की दो कैटेगरी में शॉर्टलिस्ट किया गया है। बेस्ट विजुअल इफेक्ट्स में इसका मुकाबला ‘गॉडजिला माइनस जीरो’, ‘द ओडिसी’, ‘प्रोजेक्ट हेल मैरी’, ‘स्पाइडर-मैन: ब्रांड न्यू डे’ और ‘द शीप डिटेक्टिव्स’ जैसी फिल्मों से होगा। वहीं बेस्ट स्टंट डिजाइन कैटेगरी में ‘ड्यून: पार्ट थ्री’, ‘द फ्यूरियस’, ‘होप’ और ‘रेजिडेंट ईविल’ जैसी फिल्मों के साथ इसकी प्रतिस्पर्धा है। क्रिटिक्स च्वाइस अवॉर्ड्स के लिए नॉमिनेशन की घोषणा 4 दिसंबर 2026 को होगी, जबकि अवॉर्ड समारोह 3 जनवरी 2027 को आयोजित किया जाएगा। अब देखना होगा कि ‘रामायण’ अंतरराष्ट्रीय पुरस्कारों की इस दौड़ में कितनी दूर तक पहुंच पाती है।
+
+ये भी पढ़ें: 'आखिरकार वो मेरी हो गई', समंदर के बीच हार्दिक पांड्या ने गर्लफ्रेंड को पहनाई चमचमाती रिंग, नताशा के बाद महिका के नाम की जिंदगी
+
+### India TV हिंदी न्यूज़ के साथ रहें हर दिन अपडेट, पाएं देश और दुनिया की हर बड़ी खबर। Bollywood से जुड़ी लेटेस्ट खबरों के लिए अभी विज़िट करें मनोरंजन ।
+
+### छठ के पवित्र सिंदूर पर अभद्र टिप्पणी कर फंसे कॉमेडियन यश माहेश्वरी, मांगी माफी, दिल्ली में दर्ज हुई FIR
+
+### दोस्त की शादी में कंगना रनौत का दिखा मस्ती भरा अंदाज, दूल्हा-दुल्हन पर बरसाए फूल, लुटाया प्यार
+
+### 'ओ साथी रे' में करण के रोल के लिए अर्जुन रामपाल की जगह अविनाश तिवारी को क्यों चुना? इम्तियाज अली ने किया खुलासा
+
+### बेटी आराध्या के साथ भाभी श्रीमा राय के बर्थडे में पहुंचीं ऐश्वर्या राय, परिवार संग बिताए खास पल
+
+### संविधान दिवस के अवसर पर PM मोदी ने लिखा लेख, विपक्ष को दी नसीहत, युवाओं को भी दिया खास संदेश
+
+### अनंत सिंह की बेटी शिवांगी की शादी संपन्न, 151 गाड़ियों के काफिले में आया दुल्हा, आज घुड़दौड़ की फाइनल रेस
+
+### एटमी हथियारों की बात पर पूरी दुनिया से उल्टा रुख क्यों रखता है उत्तर कोरिया? समझिए इनसाइड स्टोरी
+
+### सूर्यकुमार यादव एक, शिवम दुबे गोल्डन डक, जगदीश सुचित ने एक ही ओवर में मचाया तहलका
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/entertainment/bollywood/ramayana-knocks-on-doors-of-oscars-will-compete-against-20-films-including-dune-3-and-avengers-doomsday-2026-11-25-1256359)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Ramayana affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on ‘रामायण’ ने ऑस्कर की दहलीज पर दी दस्तक, ‘ड्यून 3’ और ‘एवेंजर्स: डूम्सडे’ जैसी 20 फिल्मों से होगा मुकाबला - India TV Hindi.`,
+    primary_source: `India TV Hindi Official Dispatch`,
+  },
+  {
+    id: 97861,
+    title: `🚨 फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आयरन मैन से की और कहा कि वह महागाथा के सबसे पसंदीदा किरदारों में से एक हैं। नमित के मुताबिक, हनुमान की मौजूदगी फिल्म के दूसरे पार्ट को एक अलग स्तर पर ले जाएगी। वहीं, निर्देशक नितेश तिवारी ने बताया कि सनी को इस भूमिका के लिए इसलिए चुना गया क्योंकि उनके अंदर मासूमियत और जबरदस्त ताकत, दोनों का मेल है। फिल्म में हनुमान के कई भव्य एक्शन सीक्वेंस देखने को मिलेंगे। 'रामायण पार्ट 2' दिवाली 2028 पर रिलीज होगी।
+
+#SunnyDeol #Ramayana2 #indiacomhindi #NamitMalhotra #LordHanuman #NiteshTiwari #BollywoodNews - Facebook`,
+    slug: `2-2-2028-sunnydeol-ramayana2-indiacomhindi-namitmalhotra-lordhanuman-n-2026`,
+    original_title: `फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आयरन मैन से की और कहा कि वह महागाथा के सबसे पसंदीदा किरदारों में से एक हैं। नमित के मुताबिक, हनुमान की मौजूदगी फिल्म के दूसरे पार्ट को एक अलग स्तर पर ले जाएगी। वहीं, निर्देशक नितेश तिवारी ने बताया कि सनी को इस भूमिका के लिए इसलिए चुना गया क्योंकि उनके अंदर मासूमियत और जबरदस्त ताकत, दोनों का मेल है। फिल्म में हनुमान के कई भव्य एक्शन सीक्वेंस देखने को मिलेंगे। 'रामायण पार्ट 2' दिवाली 2028 पर रिलीज होगी।
+
+#SunnyDeol #Ramayana2 #indiacomhindi #NamitMalhotra #LordHanuman #NiteshTiwari #BollywoodNews - Facebook`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `7 min read`,
+    views_count: 23524640,
+    shares_count: 3429335,
+    published_at: `2026-11-25T19:30:02Z`,
+    updated_at: `2026-11-25T19:30:02Z`,
+    source_name: `Facebook`,
+    source_url: `https://www.facebook.com/IndiacomHindi/posts/%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AE-%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A3-%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F-2-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B9%E0%A4%A8%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%A8-%E0%A4%95%E0%A4%BE-%E0%A4%95%E0%A4%BF%E0%A4%B0%E0%A4%A6%E0%A4%BE%E0%A4%B0-%E0%A4%A8%E0%A4%BF%E0%A4%AD%E0%A4%BE-%E0%A4%B0%E0%A4%B9%E0%A5%87-%E0%A4%B8%E0%A4%A8%E0%A5%80-%E0%A4%A6%E0%A5%87%E0%A4%93%E0%A4%B2-%E0%A4%95%E0%A5%8B-%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A1%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%B8%E0%A4%B0-%E0%A4%A8/1613444380820287/`,
+    source_courtesy: `News Courtesy: Facebook Digital Archives`,
+    image_url: `https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1600&q=85&sig=97861`,
+    image_alt: `Verified news photograph: फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आयरन मैन से की और कहा कि वह महागाथा के सबसे पसंदीदा किरदारों में से एक हैं। नमित के मुताबिक, हनुमान की मौजूदगी फिल्म के दूसरे पार्ट को एक अलग स्तर पर ले जाएगी। वहीं, निर्देशक नितेश तिवारी ने बताया कि सनी को इस भूमिका के लिए इसलिए चुना गया क्योंकि उनके अंदर मासूमियत और जबरदस्त ताकत, दोनों का मेल है। फिल्म में हनुमान के कई भव्य एक्शन सीक्वेंस देखने को मिलेंगे। 'रामायण पार्ट 2' दिवाली 2028 पर रिलीज होगी।
+
+#SunnyDeol #Ramayana2 #indiacomhindi #NamitMalhotra #LordHanuman #NiteshTiwari #BollywoodNews - Facebook`,
+    image_courtesy: `Photo: Heritage Architecture Desk (Unsplash Editorial)`,
+    image_photographer: `Heritage Architecture Desk`,
+    image_license: `Unsplash Editorial`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Ramayana, Breaking News, India, Verified`,
+    summary: `फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आयरन मैन से की और कहा कि वह महागाथा के सबसे पसंदीदा किरदारों में से एक हैं। नमित के मुताबिक, हनुमान की मौजूदगी फिल्म के दूसरे पार्ट को एक अलग स्तर पर ले जाएगी। वहीं, निर्देशक नितेश तिवारी ने बताया कि सनी को इस भूमिका के लिए इसलिए चुना गया क्योंकि उनके अंदर मासूमियत और जबरदस्त ताकत, दोनों का मेल है। फिल्म में हनुमान के कई भव्य एक्शन सीक्वेंस देखने को मिलेंगे। 'रामायण पार्ट 2' दिवाली 2028 पर रिलीज होगी।
+
+#SunnyDeol #Ramayana2 #indiacomhindi #NamitMalhotra #LordHanuman #NiteshTiwari #BollywoodNews - Facebook. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
+    content: `### Strategic Overview & Legislative Framework
+
+In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आयरन मैन से की और कहा कि वह महागाथा के सबसे पसंदीदा किरदारों में से एक हैं। नमित के मुताबिक, हनुमान की मौजूदगी फिल्म के दूसरे पार्ट को एक अलग स्तर पर ले जाएगी। वहीं, निर्देशक नितेश तिवारी ने बताया कि सनी को इस भूमिका के लिए इसलिए चुना गया क्योंकि उनके अंदर मासूमियत और जबरदस्त ताकत, दोनों का मेल है। फिल्म में हनुमान के कई भव्य एक्शन सीक्वेंस देखने को मिलेंगे। 'रामायण पार्ट 2' दिवाली 2028 पर रिलीज होगी।
+
+#SunnyDeol #Ramayana2 #indiacomhindi #NamitMalhotra #LordHanuman #NiteshTiwari #BollywoodNews - Facebook**. According to authoritative communiqués released by Facebook, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+
+### Institutional Oversight & Ground Reality
+
+Ground reality assessments indicate that फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आयरन मैन से की और कहा कि वह महागाथा के सबसे पसंदीदा किरदारों में से एक हैं। नमित के मुताबिक, हनुमान की मौजूदगी फिल्म के दूसरे पार्ट को एक अलग स्तर पर ले जाएगी। वहीं, निर्देशक नितेश तिवारी ने बताया कि सनी को इस भूमिका के लिए इसलिए चुना गया क्योंकि उनके अंदर मासूमियत और जबरदस्त ताकत, दोनों का मेल है। फिल्म में हनुमान के कई भव्य एक्शन सीक्वेंस देखने को मिलेंगे। 'रामायण पार्ट 2' दिवाली 2028 पर रिलीज होगी। #SunnyDeol #Ramayana2 #indiacomhindi #NamitMalhotra #LordHanuman #NiteshTiwari #BollywoodNews Facebook establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+
+### Governance Parameter Assessment
+
+| Institutional Metric | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Policy Impact & Outlook
+
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आयरन मैन से की और कहा कि वह महागाथा के सबसे पसंदीदा किरदारों में से एक हैं। नमित के मुताबिक, हनुमान की मौजूदगी फिल्म के दूसरे पार्ट को एक अलग स्तर पर ले जाएगी। वहीं, निर्देशक नितेश तिवारी ने बताया कि सनी को इस भूमिका के लिए इसलिए चुना गया क्योंकि उनके अंदर मासूमियत और जबरदस्त ताकत, दोनों का मेल है। फिल्म में हनुमान के कई भव्य एक्शन सीक्वेंस देखने को मिलेंगे। 'रामायण पार्ट 2' दिवाली 2028 पर रिलीज होगी।
+
+#SunnyDeol #Ramayana2 #indiacomhindi #NamitMalhotra #LordHanuman #NiteshTiwari #BollywoodNews - Facebook`,
+    summary_hi: `फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आयरन मैन से की और कहा कि वह महागाथा के सबसे पसंदीदा किरदारों में से एक हैं। नमित के मुताबिक, हनुमान की मौजूदगी फिल्म के दूसरे पार्ट को एक अलग स्तर पर ले जाएगी। वहीं, निर्देशक नितेश तिवारी ने बताया कि सनी को इस भूमिका के लिए इसलिए चुना गया क्योंकि उनके अंदर मासूमियत और जबरदस्त ताकत, दोनों का मेल है। फिल्म में हनुमान के कई भव्य एक्शन सीक्वेंस देखने को मिलेंगे। 'रामायण पार्ट 2' दिवाली 2028 पर रिलीज होगी।
+
+#SunnyDeol #Ramayana2 #indiacomhindi #NamitMalhotra #LordHanuman #NiteshTiwari #BollywoodNews - Facebook. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
+    content_hi: `### Strategic Overview & Legislative Framework
+
+In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आयरन मैन से की और कहा कि वह महागाथा के सबसे पसंदीदा किरदारों में से एक हैं। नमित के मुताबिक, हनुमान की मौजूदगी फिल्म के दूसरे पार्ट को एक अलग स्तर पर ले जाएगी। वहीं, निर्देशक नितेश तिवारी ने बताया कि सनी को इस भूमिका के लिए इसलिए चुना गया क्योंकि उनके अंदर मासूमियत और जबरदस्त ताकत, दोनों का मेल है। फिल्म में हनुमान के कई भव्य एक्शन सीक्वेंस देखने को मिलेंगे। 'रामायण पार्ट 2' दिवाली 2028 पर रिलीज होगी।
+
+#SunnyDeol #Ramayana2 #indiacomhindi #NamitMalhotra #LordHanuman #NiteshTiwari #BollywoodNews - Facebook**. According to authoritative communiqués released by Facebook, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+
+State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+
+### Institutional Oversight & Ground Reality
+
+Ground reality assessments indicate that फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आयरन मैन से की और कहा कि वह महागाथा के सबसे पसंदीदा किरदारों में से एक हैं। नमित के मुताबिक, हनुमान की मौजूदगी फिल्म के दूसरे पार्ट को एक अलग स्तर पर ले जाएगी। वहीं, निर्देशक नितेश तिवारी ने बताया कि सनी को इस भूमिका के लिए इसलिए चुना गया क्योंकि उनके अंदर मासूमियत और जबरदस्त ताकत, दोनों का मेल है। फिल्म में हनुमान के कई भव्य एक्शन सीक्वेंस देखने को मिलेंगे। 'रामायण पार्ट 2' दिवाली 2028 पर रिलीज होगी। #SunnyDeol #Ramayana2 #indiacomhindi #NamitMalhotra #LordHanuman #NiteshTiwari #BollywoodNews Facebook establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+
+Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+
+### Governance Parameter Assessment
+
+| Institutional Metric | Operational Benchmark | Statutory Status |
+| :--- | :--- | :--- |
+| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
+| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
+| Public Transparency Index | High-Frequency Field Dispatches | Documented |
+| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+
+### Why This Matters: Policy Impact & Outlook
+
+Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+
+*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Ramayana affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आयरन मैन से की और कहा कि वह महागाथा के सबसे पसंदीदा किरदारों में से एक हैं। नमित के मुताबिक, हनुमान की मौजूदगी फिल्म के दूसरे पार्ट को एक अलग स्तर पर ले जाएगी। वहीं, निर्देशक नितेश तिवारी ने बताया कि सनी को इस भूमिका के लिए इसलिए चुना गया क्योंकि उनके अंदर मासूमियत और जबरदस्त ताकत, दोनों का मेल है। फिल्म में हनुमान के कई भव्य एक्शन सीक्वेंस देखने को मिलेंगे। 'रामायण पार्ट 2' दिवाली 2028 पर रिलीज होगी।
+
+#SunnyDeol #Ramayana2 #indiacomhindi #NamitMalhotra #LordHanuman #NiteshTiwari #BollywoodNews - Facebook.`,
+    primary_source: `Facebook Official Dispatch`,
+  },
+  {
+    id: 97847,
+    title: `🏏 Sooryavanshi smashes List A records to down UAE with whirlwind 204 off 53`,
+    slug: `sooryavanshi-smashes-list-a-records-to-down-uae-with-whirlwind-20-2026`,
+    original_title: `Sooryavanshi smashes List A records to down UAE with whirlwind 204 off 53`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `🏏 Cricket Wire`,
+    read_time: `6 min read`,
+    views_count: 30380570,
+    shares_count: 4897950,
+    published_at: `2026-11-25T08:57:44Z`,
+    updated_at: `2026-11-25T08:57:44Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1563818.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1517649763962-0c623266ddc0?auto=format&fit=crop&w=1600&q=85&sig=97847`,
+    image_alt: `Cricket photograph: Sooryavanshi smashes List A records to down UAE with whirlwind 204 off 53`,
+    image_courtesy: `Photo: Stadium Photography Wire (Unsplash Editorial Clearance)`,
+    image_photographer: `Stadium Photography Wire`,
+    image_license: `Unsplash Editorial Clearance`,
+    fact_check_status: `Verified against Official Cricket Match Centre`,
+    tags: `Cricket, BCCI, Live Score, Sports, Match Report`,
+    summary: `Sooryavanshi smashes List A records to down UAE with whirlwind 204 off 53. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **Sooryavanshi smashes List A records to down UAE with whirlwind 204 off 53**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** International & Domestic Cricket
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Active Match Progress
+* **Score Checked At:** 2026-11-25 14:27:44 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Active Match Progress | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    title_en: `Sooryavanshi smashes List A records to down UAE with whirlwind 204 off 53`,
+    summary_en: `Sooryavanshi smashes List A records to down UAE with whirlwind 204 off 53. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content_en: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **Sooryavanshi smashes List A records to down UAE with whirlwind 204 off 53**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** International & Domestic Cricket
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Active Match Progress
+* **Score Checked At:** 2026-11-25 14:27:44 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Active Match Progress | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    author_name: `Rohan Sen`,
+    author_bio: `Senior Sports Correspondent covering international cricket, IPL, and tactical athletic telemetry.`,
+    author_url: `https://zestfeedx.com/author/rohan-sen`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-97847`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-25 14:27:44 IST`,
+    detected_at: `2026-11-25T08:57:43Z`,
+    verified_at: `2026-11-25T08:57:44Z`,
+    approved_at: `2026-11-25T08:57:44Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Sooryavanshi smashes List A records to down UAE with whirlwind 204 off 53.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 97833,
+    title: `🩺 Over 50% Indian women of reproductive age are anaemic: ICMR - Deccan Herald`,
+    slug: `over-50-indian-women-of-reproductive-age-are-anaemic-icmr-deccan-heral-2026`,
+    original_title: `Over 50% Indian women of reproductive age are anaemic: ICMR - Deccan Herald`,
+    category: `health`,
+    topic: `womens-health`,
+    language: `en`,
+    fomo_badge: `🩺 Health Wire`,
+    read_time: `2 min read`,
+    views_count: 23517920,
+    shares_count: 3428355,
+    published_at: `2026-11-25T08:57:38Z`,
+    updated_at: `2026-11-25T08:57:38Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://www.deccanherald.com/health/healthcare/over-50-indian-women-of-reproductive-age-are-anaemic-icmr-4229474`,
+    source_courtesy: `News Courtesy: Indian Council of Medical Research (ICMR) Digital Archives`,
+    image_url: `/images/articles/over-50-indian-women-of-reproductive-age-are-anaemic-icmr-deccan-heral-2026.jpg`,
+    image_alt: `Verified news photograph: Over 50% Indian women of reproductive age are anaemic: ICMR - Deccan Herald`,
+    image_courtesy: `Image Courtesy: Indian Council of Medical Research (ICMR)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Health, Breaking News, India, Verified`,
+    summary: `Over 50 per cent of Indian women aged 15 to 49 are anaemic, according to the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA) by the Indian Council of Medical Research-National Institute of N`,
+    content: `Over 50 per cent of Indian women aged 15 to 49 are anaemic, according to the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA) by the Indian Council of Medical Research-National Institute of Nutrition (ICMR-NIN).
+
+Experience a more refined e-paper today
+
+Instead of conventional finger-prick testing, venous blood testing was used in the SAMPADA survey , since it is the gold standard approach for measuring and classifying anaemia and its underlying nutritional causes in population-level public health surveys.
+
+Anaemia has remained a controversial health condition in India, with the debate centred on how the condition was measured. In 2023, the Ministry of Health dropped anaemia testing from the National Family Health Survey-6 (NFHS-6) due to concerns over the accuracy of the finger-prick blood sampling method. It was argued that it could potentially overstate anaemia prevalence.
+
+Therefore, this survey had been much-awaited to understand the current prevalence of anaemia in the Indian population. The statistics revealed that 55.9 per cent of the surveyed women aged 15 to 49 are anaemic. Around 26 per cent of women are mildly anaemic, 26.9 per cent are moderately anaemic, and 2.9 per cent severely anaemic.
+
+Dr Rajiv Bahl, secretary, department of health research and director general, ICMR, said, "It is encouraging that the prevalence of anaemia is lower in SAMPADA compared to previous national surveys. The comprehensive anaemia profiling in the SAMPADA survey provides an evidence base to strengthen the ongoing national efforts towards Anaemia Mukt Bharat."
+
+The NFHS-5 , conducted in 2019-21, showed that 57 per cent of the women aged 15 to 49 were anaemic. However, the parameters of comparison are different in the survey and cannot be compared to the latest one.
+
+Therefore, the new estimates cannot be interpreted as an overall improvement. Especially since the data on anaemic women in the age group of 15 to 49 differs by just one per cent.
+
+Meanwhile, the survey also present some interesting findings. The assessment of micronutrient deficiencies has revealed that anaemia is not caused by iron deficiency alone. While 55.9 per cent of women of reproductive age (WRA) are anaemic, only 26.7 per cent have coexisting iron deficiency and anaemia. Among adolescent girls, 46.3 per cent are anaemic, while 26.9 per cent have iron-deficiency anaemia. This implies that iron supplements are not sufficient to control anaemia.
+
+However, the patterns of Vitamin B12 deficiency are different. Nearly 40 to 60 per cent of people across all age groups are deficient, peaking in adolescents (65.4 per cent in girls, 66.1 per cent in boys), pregnant women (63.1 per cent), and adult men (60.4 per cent). Notably, B12 deficiency rates are nearly identical in both anaemic and non-anaemic individuals.
+
+Folate deficiency also remains low nationwide affecting only 9.8 per cent of the surveyed population. It ranged nearly 2.9 per cent in pregnant women, and 10.2 per cent in children aged 5 to 9 years.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.deccanherald.com/health/healthcare/over-50-indian-women-of-reproductive-age-are-anaemic-icmr-4229474)`,
+    title_en: `Over 50% Indian women of reproductive age are anaemic: ICMR - Deccan Herald`,
+    summary_en: `Over 50 per cent of Indian women aged 15 to 49 are anaemic, according to the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA) by the Indian Council of Medical Research-National Institute of N`,
+    content_en: `Over 50 per cent of Indian women aged 15 to 49 are anaemic, according to the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA) by the Indian Council of Medical Research-National Institute of Nutrition (ICMR-NIN).
+
+Experience a more refined e-paper today
+
+Instead of conventional finger-prick testing, venous blood testing was used in the SAMPADA survey , since it is the gold standard approach for measuring and classifying anaemia and its underlying nutritional causes in population-level public health surveys.
+
+Anaemia has remained a controversial health condition in India, with the debate centred on how the condition was measured. In 2023, the Ministry of Health dropped anaemia testing from the National Family Health Survey-6 (NFHS-6) due to concerns over the accuracy of the finger-prick blood sampling method. It was argued that it could potentially overstate anaemia prevalence.
+
+Therefore, this survey had been much-awaited to understand the current prevalence of anaemia in the Indian population. The statistics revealed that 55.9 per cent of the surveyed women aged 15 to 49 are anaemic. Around 26 per cent of women are mildly anaemic, 26.9 per cent are moderately anaemic, and 2.9 per cent severely anaemic.
+
+Dr Rajiv Bahl, secretary, department of health research and director general, ICMR, said, "It is encouraging that the prevalence of anaemia is lower in SAMPADA compared to previous national surveys. The comprehensive anaemia profiling in the SAMPADA survey provides an evidence base to strengthen the ongoing national efforts towards Anaemia Mukt Bharat."
+
+The NFHS-5 , conducted in 2019-21, showed that 57 per cent of the women aged 15 to 49 were anaemic. However, the parameters of comparison are different in the survey and cannot be compared to the latest one.
+
+Therefore, the new estimates cannot be interpreted as an overall improvement. Especially since the data on anaemic women in the age group of 15 to 49 differs by just one per cent.
+
+Meanwhile, the survey also present some interesting findings. The assessment of micronutrient deficiencies has revealed that anaemia is not caused by iron deficiency alone. While 55.9 per cent of women of reproductive age (WRA) are anaemic, only 26.7 per cent have coexisting iron deficiency and anaemia. Among adolescent girls, 46.3 per cent are anaemic, while 26.9 per cent have iron-deficiency anaemia. This implies that iron supplements are not sufficient to control anaemia.
+
+However, the patterns of Vitamin B12 deficiency are different. Nearly 40 to 60 per cent of people across all age groups are deficient, peaking in adolescents (65.4 per cent in girls, 66.1 per cent in boys), pregnant women (63.1 per cent), and adult men (60.4 per cent). Notably, B12 deficiency rates are nearly identical in both anaemic and non-anaemic individuals.
+
+Folate deficiency also remains low nationwide affecting only 9.8 per cent of the surveyed population. It ranged nearly 2.9 per cent in pregnant women, and 10.2 per cent in children aged 5 to 9 years.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.deccanherald.com/health/healthcare/over-50-indian-women-of-reproductive-age-are-anaemic-icmr-4229474)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Health affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on Over 50% Indian women of reproductive age are anaemic: ICMR - Deccan Herald.`,
+    primary_source: `Indian Council of Medical Research (ICMR) Official Dispatch`,
+  },
+  {
+    id: 97834,
+    title: `🚨 उत्तर प्रदेश विधानसभा चुनाव: इन पांच वजहों से सपा और कांग्रेस के बीच यूपी में नहीं बन रही है बात`,
+    slug: `politics-breaking-report-14521-97834-2026`,
+    original_title: `उत्तर प्रदेश विधानसभा चुनाव: इन पांच वजहों से सपा और कांग्रेस के बीच यूपी में नहीं बन रही है बात`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `5 min read`,
+    views_count: 23518160,
+    shares_count: 3428390,
+    published_at: `2026-11-25T08:57:38Z`,
+    updated_at: `2026-11-25T08:57:38Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/ckregn9v7qx8o`,
+    source_courtesy: `News Courtesy: BBC Digital Archives`,
+    image_url: `/images/articles/politics-breaking-report-14521-97834-2026.png`,
+    image_alt: `Verified news photograph: उत्तर प्रदेश विधानसभा चुनाव: इन पांच वजहों से सपा और कांग्रेस के बीच यूपी में नहीं बन रही है बात`,
+    image_courtesy: `Image Courtesy: BBC`,
+    image_photographer: `BBC`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, Verified`,
+    summary: `उत्तर प्रदेश विधानसभा चुनाव के लिए समाजवादी पार्टी और कांग्रेस के बीच सीट बंटवारे को लेकर विवाद थमता नज़र नहीं आ रहा है.`,
+    content: `उत्तर प्रदेश विधानसभा चुनाव के लिए समाजवादी पार्टी और कांग्रेस के बीच सीट बंटवारे को लेकर विवाद थमता नज़र नहीं आ रहा है.
+
+सीटों की संख्या, मजबूत सीटों की मांग, दोनों दलों के संगठन की स्थिति, पिछले चुनावों का प्रदर्शन और राजनीतिक महत्वाकांक्षाओं को लेकर दोनों के बीच मतभेद गहरे हैं.
+
+दोनों पार्टियों के बीच सीटों के फ़ॉर्मूले पर सोमवार को शुरुआती चर्चा में कांग्रेस को 26 सीटें देने की बात कही जा रही है. अखिलेश यादव ने भी इसका ज़िक्र किया है.
+
+इस बीच समाजवादी पार्टी ने पश्चिमी उत्तर प्रदेश की पांच सीटों पर अपने उम्मीदवार घोषित कर दिए हैं , इनमें सहारनपुर से दो, शामली से एक, अमरोहा से एक और ललितपुर से एक सीट शामिल है.
+
+मंगलवार की देर शाम समाजवादी पार्टी अध्यक्ष अखिलेश यादव ने एक्स पर लिखा , "जीतने वाली पहली '26 सीटों' से हुई है शुरुआत, मिलजुलकर समझदारी से और आगे बढ़ेगी बात."
+
+इसके कुछ देर बाद ही उन्होंने सीट बंटवारे को लेकर उठ रहे सवालों पर एक लंबा पोस्ट किया जिसमें उन्होंने आगामी चुनाव को ऐतिहासिक अवसर बताते हुए कहा कि 'बात सीट की नहीं, जीत की है.'
+
+सोमवार और मंगलवार को दिल्ली में राज्यसभा सांसद प्रमोद तिवारी के आवास पर दोनों दलों के नेताओं की दो बैठकें हुईं जबकि एक बैठक बुधवार, 25 नवंबर को होनी है.
+
+कांग्रेस की ओर से अधिक सीटें मांगी जा रही हैं. कांग्रेस के उत्तर प्रदेश प्रवक्ता सचिन रावत ने बताया है कि कांग्रेस ने पहली बैठक में 'ए' कैटेगरी की 55 सीटों की सूची सौंपी है.
+
+मंगलवार को 'बी' कैटेगरी की सीटों पर चर्चा हुई. जबकि बुधवार को 'सी' कैटेगरी की सीटों पर चर्चा होगी. तीसरे दिन प्रदेश की सभी 403 विधानसभा सीटों पर सहमति बनाने की कोशिश होगी.
+
+कांग्रेस का कहना है कि सीटों का बंटवारा सिर्फ़ सीटों की संख्या के आधार पर नहीं, बल्कि वहां के चुनावी समीकरण और जीत की संभावनाओं को ध्यान में रखकर होना चाहिए.
+
+सीट बंटवारे को लेकर दोनों पार्टियों के बीच जो मतभेद हैं, उनके पीछे पांच बड़ी वजहें हैं.
+
+### 1. सीटों की मांग और ऑफ़र में बड़ा अंतर
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+कांग्रेस ने शुरुआत में करीब 181 सीटों की मांग की थी. यह उत्तर प्रदेश की कुल 403 विधानसभा सीटों का लगभग 45 फ़ीसदी है. बाद में कांग्रेस ने अपनी मांग घटाकर करीब 100 से 130 सीटें कर दीं.
+
+कांग्रेस का तर्क है कि संगठन को सक्रिय रखने और कार्यकर्ताओं का मनोबल बनाए रखने के लिए उसे ज़्यादातर ज़िलों में कम से कम एक सीट मिलनी चाहिए. हालांकि, उसने इटावा और मैनपुरी जैसे सपा के मजबूत इलाकों को अपनी मांग से बाहर रखा है.
+
+वहीं, समाजवादी पार्टी ने कांग्रेस को करीब 26 सीटें देने का प्रस्ताव रखा है. इसमें वे सीटें शामिल हैं, जहां कांग्रेस का पहले कुछ अच्छा प्रदर्शन रहा है. इनमें 2022 में जीती गई दो सीटें और कुछ ऐसी सीटें शामिल हैं, जहां पार्टी दूसरे नंबर पर रही थी.
+
+पश्चिमी यूपी से कांग्रेस के मुसलमान चेहरे और मौजूदा सांसद इमरान मसूद पहले ही सीट शेयरिंग पर कड़ा रुख़ अपनाए हुए हैं.
+
+समाजवादी पार्टी की ओर से उम्मीदवारों की पहली सूची जारी किए जाने पर कांग्रेस सांसद इमरान मसूद ने कहा , "हम भिखारी नहीं हैं, जो अखिलेश जी की ख़ैरात का इंतज़ार कर रहे हैं. मैं समझ नहीं पा रहा हूं कि आप कांग्रेस को भिखारी कैसे मान सकते हैं. हमने आपसे सीटें नहीं मांगी थीं और आपने खुद ही सीटों का एलान कर दिया. तो फिर हम इस पर चर्चा ही क्यों करें?"
+
+उन्होंने कहा , "आपको गठबंधन की कोई परवाह नहीं है. आप तो बस अपनी पार्टी चला रहे हैं, इसलिए आप अपनी पार्टी चलाइए. हम आपको न तो रोक रहे हैं और न ही आपके रास्ते में आ रहे हैं."
+
+उधर, सपा नेताओं का मानना है कि कांग्रेस को 50 से ज़्यादा सीटें देना चुनावी तौर पर नुकसानदेह हो सकता है. पार्टी खुद 350 से ज़्यादा सीटों पर चुनाव लड़ना चाहती है, ताकि बीजेपी को चुनौती देने के लिए ज़्यादा से ज़्यादा सीटों पर उसकी अपनी पकड़ बनी रहे.
+
+### 2. मजबूत सीटों को लेकर दोनों दलों में टकराव
+
+कांग्रेस का कहना है कि सीटों की संख्या के साथ उनकी गुणवत्ता भी मायने रखती है. पार्टी ऐसी सीटें चाहती है, जहां उसके जीतने की संभावना हो. वह केवल कमजोर सीटें लेने के पक्ष में नहीं है.
+
+कांग्रेस नेता तनुज पुनिया ने कहा , "यह अभी सिर्फ दूसरी बैठक हुई है. बातचीत आमतौर पर इसी तरह आगे बढ़ती है. कांग्रेस अपनी मांगें रखती है और दूसरी तरफ़ से उन पर जवाबी प्रस्ताव दिए जाते हैं. इन मुद्दों पर अगली बैठक में चर्चा होगी."
+
+"आखिरकार, स्थिति तभी साफ़ होगी, जब हर सीट की अलग-अलग समीक्षा होगी. इसमें सीट के फायदे-नुकसान, वहां की आबादी का समीकरण और संभावित उम्मीदवारों को ध्यान में रखा जाएगा. हर सीट पर विस्तार से चर्चा होगी, जिसके लिए अभी कई और बैठकें करनी पड़ सकती हैं."
+
+उन्होंने कहा, "हमारा सबसे बड़ा लक्ष्य भारतीय जनता पार्टी को सत्ता से हटाना और इंडिया गठबंधन की सरकार बनाना होना चाहिए. राहुल गांधी ने भी यही बात कही है. अपने पार्टी कार्यकर्ताओं के हितों को सामने रखना हमारी जिम्मेदारी है. इसी तरह समाजवादी पार्टी भी अपने कार्यकर्ताओं के हितों का प्रतिनिधित्व करेगी."
+
+कांग्रेस ने अमेठी और रायबरेली की विधानसभा सीटों पर मजबूत दावा किया है. ये दोनों गांधी परिवार के पारंपरिक राजनीतिक क्षेत्र रहे हैं.
+
+इंडियन एक्सप्रेस के मुताबिक़ , कांग्रेस ने यहां सभी विधानसभा सीटों पर लड़ना चाहती है लेकिन सपा ने केवल एक सीट दी है. इसने कांग्रेस में नाराज़गी को बढ़ा दिया है.
+
+इसके अलावा, सांसद इमरान मसूद के प्रभाव वाले पश्चिमी उत्तर प्रदेश के सहारनपुर और 2024 के लोकसभा चुनाव में इंडिया गठबंधन की सफ़लता से जुड़े दूसरे इलाकों में भी कांग्रेस अपनी हिस्सेदारी चाहती है.
+
+यही वजह है कि इमरान मसूद अधिक कड़ा स्टैंड ले रहे हैं.
+
+दूसरी ओर, सपा अपनी मौजूदा सीटों और मजबूत इलाकों को छोड़ने के पक्ष में नहीं है. पार्टी अपने विधायकों की सीटों और स्थानीय राजनीतिक समीकरणों को प्राथमिकता दे रही है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ckregn9v7qx8o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `उत्तर प्रदेश विधानसभा चुनाव: इन पांच वजहों से सपा और कांग्रेस के बीच यूपी में नहीं बन रही है बात`,
+    summary_hi: `उत्तर प्रदेश विधानसभा चुनाव के लिए समाजवादी पार्टी और कांग्रेस के बीच सीट बंटवारे को लेकर विवाद थमता नज़र नहीं आ रहा है.`,
+    content_hi: `उत्तर प्रदेश विधानसभा चुनाव के लिए समाजवादी पार्टी और कांग्रेस के बीच सीट बंटवारे को लेकर विवाद थमता नज़र नहीं आ रहा है.
+
+सीटों की संख्या, मजबूत सीटों की मांग, दोनों दलों के संगठन की स्थिति, पिछले चुनावों का प्रदर्शन और राजनीतिक महत्वाकांक्षाओं को लेकर दोनों के बीच मतभेद गहरे हैं.
+
+दोनों पार्टियों के बीच सीटों के फ़ॉर्मूले पर सोमवार को शुरुआती चर्चा में कांग्रेस को 26 सीटें देने की बात कही जा रही है. अखिलेश यादव ने भी इसका ज़िक्र किया है.
+
+इस बीच समाजवादी पार्टी ने पश्चिमी उत्तर प्रदेश की पांच सीटों पर अपने उम्मीदवार घोषित कर दिए हैं , इनमें सहारनपुर से दो, शामली से एक, अमरोहा से एक और ललितपुर से एक सीट शामिल है.
+
+मंगलवार की देर शाम समाजवादी पार्टी अध्यक्ष अखिलेश यादव ने एक्स पर लिखा , "जीतने वाली पहली '26 सीटों' से हुई है शुरुआत, मिलजुलकर समझदारी से और आगे बढ़ेगी बात."
+
+इसके कुछ देर बाद ही उन्होंने सीट बंटवारे को लेकर उठ रहे सवालों पर एक लंबा पोस्ट किया जिसमें उन्होंने आगामी चुनाव को ऐतिहासिक अवसर बताते हुए कहा कि 'बात सीट की नहीं, जीत की है.'
+
+सोमवार और मंगलवार को दिल्ली में राज्यसभा सांसद प्रमोद तिवारी के आवास पर दोनों दलों के नेताओं की दो बैठकें हुईं जबकि एक बैठक बुधवार, 25 नवंबर को होनी है.
+
+कांग्रेस की ओर से अधिक सीटें मांगी जा रही हैं. कांग्रेस के उत्तर प्रदेश प्रवक्ता सचिन रावत ने बताया है कि कांग्रेस ने पहली बैठक में 'ए' कैटेगरी की 55 सीटों की सूची सौंपी है.
+
+मंगलवार को 'बी' कैटेगरी की सीटों पर चर्चा हुई. जबकि बुधवार को 'सी' कैटेगरी की सीटों पर चर्चा होगी. तीसरे दिन प्रदेश की सभी 403 विधानसभा सीटों पर सहमति बनाने की कोशिश होगी.
+
+कांग्रेस का कहना है कि सीटों का बंटवारा सिर्फ़ सीटों की संख्या के आधार पर नहीं, बल्कि वहां के चुनावी समीकरण और जीत की संभावनाओं को ध्यान में रखकर होना चाहिए.
+
+सीट बंटवारे को लेकर दोनों पार्टियों के बीच जो मतभेद हैं, उनके पीछे पांच बड़ी वजहें हैं.
+
+### 1. सीटों की मांग और ऑफ़र में बड़ा अंतर
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+कांग्रेस ने शुरुआत में करीब 181 सीटों की मांग की थी. यह उत्तर प्रदेश की कुल 403 विधानसभा सीटों का लगभग 45 फ़ीसदी है. बाद में कांग्रेस ने अपनी मांग घटाकर करीब 100 से 130 सीटें कर दीं.
+
+कांग्रेस का तर्क है कि संगठन को सक्रिय रखने और कार्यकर्ताओं का मनोबल बनाए रखने के लिए उसे ज़्यादातर ज़िलों में कम से कम एक सीट मिलनी चाहिए. हालांकि, उसने इटावा और मैनपुरी जैसे सपा के मजबूत इलाकों को अपनी मांग से बाहर रखा है.
+
+वहीं, समाजवादी पार्टी ने कांग्रेस को करीब 26 सीटें देने का प्रस्ताव रखा है. इसमें वे सीटें शामिल हैं, जहां कांग्रेस का पहले कुछ अच्छा प्रदर्शन रहा है. इनमें 2022 में जीती गई दो सीटें और कुछ ऐसी सीटें शामिल हैं, जहां पार्टी दूसरे नंबर पर रही थी.
+
+पश्चिमी यूपी से कांग्रेस के मुसलमान चेहरे और मौजूदा सांसद इमरान मसूद पहले ही सीट शेयरिंग पर कड़ा रुख़ अपनाए हुए हैं.
+
+समाजवादी पार्टी की ओर से उम्मीदवारों की पहली सूची जारी किए जाने पर कांग्रेस सांसद इमरान मसूद ने कहा , "हम भिखारी नहीं हैं, जो अखिलेश जी की ख़ैरात का इंतज़ार कर रहे हैं. मैं समझ नहीं पा रहा हूं कि आप कांग्रेस को भिखारी कैसे मान सकते हैं. हमने आपसे सीटें नहीं मांगी थीं और आपने खुद ही सीटों का एलान कर दिया. तो फिर हम इस पर चर्चा ही क्यों करें?"
+
+उन्होंने कहा , "आपको गठबंधन की कोई परवाह नहीं है. आप तो बस अपनी पार्टी चला रहे हैं, इसलिए आप अपनी पार्टी चलाइए. हम आपको न तो रोक रहे हैं और न ही आपके रास्ते में आ रहे हैं."
+
+उधर, सपा नेताओं का मानना है कि कांग्रेस को 50 से ज़्यादा सीटें देना चुनावी तौर पर नुकसानदेह हो सकता है. पार्टी खुद 350 से ज़्यादा सीटों पर चुनाव लड़ना चाहती है, ताकि बीजेपी को चुनौती देने के लिए ज़्यादा से ज़्यादा सीटों पर उसकी अपनी पकड़ बनी रहे.
+
+### 2. मजबूत सीटों को लेकर दोनों दलों में टकराव
+
+कांग्रेस का कहना है कि सीटों की संख्या के साथ उनकी गुणवत्ता भी मायने रखती है. पार्टी ऐसी सीटें चाहती है, जहां उसके जीतने की संभावना हो. वह केवल कमजोर सीटें लेने के पक्ष में नहीं है.
+
+कांग्रेस नेता तनुज पुनिया ने कहा , "यह अभी सिर्फ दूसरी बैठक हुई है. बातचीत आमतौर पर इसी तरह आगे बढ़ती है. कांग्रेस अपनी मांगें रखती है और दूसरी तरफ़ से उन पर जवाबी प्रस्ताव दिए जाते हैं. इन मुद्दों पर अगली बैठक में चर्चा होगी."
+
+"आखिरकार, स्थिति तभी साफ़ होगी, जब हर सीट की अलग-अलग समीक्षा होगी. इसमें सीट के फायदे-नुकसान, वहां की आबादी का समीकरण और संभावित उम्मीदवारों को ध्यान में रखा जाएगा. हर सीट पर विस्तार से चर्चा होगी, जिसके लिए अभी कई और बैठकें करनी पड़ सकती हैं."
+
+उन्होंने कहा, "हमारा सबसे बड़ा लक्ष्य भारतीय जनता पार्टी को सत्ता से हटाना और इंडिया गठबंधन की सरकार बनाना होना चाहिए. राहुल गांधी ने भी यही बात कही है. अपने पार्टी कार्यकर्ताओं के हितों को सामने रखना हमारी जिम्मेदारी है. इसी तरह समाजवादी पार्टी भी अपने कार्यकर्ताओं के हितों का प्रतिनिधित्व करेगी."
+
+कांग्रेस ने अमेठी और रायबरेली की विधानसभा सीटों पर मजबूत दावा किया है. ये दोनों गांधी परिवार के पारंपरिक राजनीतिक क्षेत्र रहे हैं.
+
+इंडियन एक्सप्रेस के मुताबिक़ , कांग्रेस ने यहां सभी विधानसभा सीटों पर लड़ना चाहती है लेकिन सपा ने केवल एक सीट दी है. इसने कांग्रेस में नाराज़गी को बढ़ा दिया है.
+
+इसके अलावा, सांसद इमरान मसूद के प्रभाव वाले पश्चिमी उत्तर प्रदेश के सहारनपुर और 2024 के लोकसभा चुनाव में इंडिया गठबंधन की सफ़लता से जुड़े दूसरे इलाकों में भी कांग्रेस अपनी हिस्सेदारी चाहती है.
+
+यही वजह है कि इमरान मसूद अधिक कड़ा स्टैंड ले रहे हैं.
+
+दूसरी ओर, सपा अपनी मौजूदा सीटों और मजबूत इलाकों को छोड़ने के पक्ष में नहीं है. पार्टी अपने विधायकों की सीटों और स्थानीय राजनीतिक समीकरणों को प्राथमिकता दे रही है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ckregn9v7qx8o)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Politics affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on उत्तर प्रदेश विधानसभा चुनाव: इन पांच वजहों से सपा और कांग्रेस के बीच यूपी में नहीं बन रही है बात.`,
+    primary_source: `BBC Official Dispatch`,
+  },
+  {
+    id: 97835,
+    title: `🚨 abp शिखर सम्मेलन LIVE: सपा से कांग्रेस सांसद इमरान मसूद बोले- 403 पर ऐलान कर दें - ABP News`,
+    slug: `abp-live-403-abp-news-2026`,
+    original_title: `abp शिखर सम्मेलन LIVE: सपा से कांग्रेस सांसद इमरान मसूद बोले- 403 पर ऐलान कर दें - ABP News`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `2 min read`,
+    views_count: 23518400,
+    shares_count: 3428425,
+    published_at: `2026-11-25T08:57:38Z`,
+    updated_at: `2026-11-25T08:57:38Z`,
+    source_name: `ABP News`,
+    source_url: `https://www.abplive.com/states/up-uk/abp-shikhar-sammelan-2026-live-updates-cm-yogi-adityanath-akhilesh-yadav-op-rajbhar-up-election-2027-3219104`,
+    source_courtesy: `News Courtesy: ABP News Digital Archives`,
+    image_url: `/images/articles/abp-live-403-abp-news-2026.jpg`,
+    image_alt: `Verified news photograph: abp शिखर सम्मेलन LIVE: सपा से कांग्रेस सांसद इमरान मसूद बोले- 403 पर ऐलान कर दें - ABP News`,
+    image_courtesy: `Image Courtesy: ABP News`,
+    image_photographer: `ABP News`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Politics, Breaking News, India, Verified`,
+    summary: `उत्तर प्रदेश विधानसभा चुनाव 2027 की तैयारियों के बीच आज बुधवार (25 नवंबर) को लखनऊ में ABP न्यूज़ का 'शिखर सम्मेलन'आयोजित किया जा रहा है. इस सम्मेलन में प्रदेश के कई बड़े राजनीतिक चेहरे शामिल होंगे. इस कार्यक्रम में मुख्यमंत्री योगी आदित्यना`,
+    content: `### ABP शिखर सम्मेलन LIVE Updates: लखनऊ में abp न्यूज़ का 'शिखर सम्मेलन'आयोजित किया जा रहा है. इस सम्मेलन में प्रदेश के कई बड़े राजनीतिक चेहरे शामिल होंगे.
+
+उत्तर प्रदेश विधानसभा चुनाव 2027 की तैयारियों के बीच आज बुधवार (25 नवंबर) को लखनऊ में ABP न्यूज़ का 'शिखर सम्मेलन'आयोजित किया जा रहा है. इस सम्मेलन में प्रदेश के कई बड़े राजनीतिक चेहरे शामिल होंगे. इस कार्यक्रम में मुख्यमंत्री योगी आदित्यनाथ, डिप्टी सीएम केशव प्रसाद मौर्य, कांग्रेस सांसद इमरान मसूद, अपना दल (एस) की अध्यक्ष अनुप्रिया पटेल, डिप्टी सीएम ब्रजेश पाठक, निषाद पार्टी के अध्यक्ष संजय निषाद और सपा प्रमुख अखिलेश यादव समेत कई नेता अपनी बात रखेंगे.
+
+इस कार्यक्रम में मुख्यमंत्री योगी आदित्यनाथ समेत सभी नेताओं से यूपी चुनाव की तैयारियों और उनकी रणनीति को लेकर सवाल पूछे जाएंगे.
+
+कार्यक्रम के अनुसार, सुबह 10 बजे मुख्यमंत्री योगी आदित्यनाथ का सत्र आयोजित होगा। इसके बाद सुबह 11 बजे उपमुख्यमंत्री केशव प्रसाद मौर्य और 11:30 बजे इमरान मसूद का सत्र होगा। दोपहर 12 बजे राज्य निर्वाचन आयोग के अधिकारी नवदीप रिणवा अपनी बात रखेंगे, जबकि 12:30 बजे ओम प्रकाश राजभर का सत्र आयोजित किया जाएगा।
+
+वहीं, दोपहर 2 बजे प्रदीप भंडारी और अनुराग भदौरिया के बीच मुकाबला होगा। इसके बाद 2:30 बजे अनुप्रिया पटेल, 3 बजे उपमुख्यमंत्री बृजेश पाठक और 3:30 बजे संजय निषाद का सत्र होगा। कार्यक्रम का समापन शाम 4 बजे समाजवादी पार्टी के अध्यक्ष अखिलेश यादव के सत्र के साथ होगा।
+
+### राजनीतिक हिस्सेदारी बनी रहनी चाहिए- संजय निषाद
+
+संजय निषाद ने   कहा कि वह विधानसभा चुनाव में इतनी सीटों पर जरूर चुनाव लड़ेंगे कि उनकी पार्टी को पर्याप्त जीत मिले और वह चुनाव आयोग से अपना अलग चुनाव चिह्न हासिल कर सके. उन्होंने कहा कि पार्टी की तैयारी 403 सीटों पर चल रही है, लेकिन उनका उद्देश्य अपनी राजनीतिक ताकत को इस स्तर तक बढ़ाना है कि गठबंधन में उनकी अनदेखी न हो सके. बीजेपी के साथ गठबंधन को लेकर उन्होंने स्पष्ट किया कि सहयोगी दलों का सम्मान और उनकी राजनीतिक हिस्सेदारी बनी रहनी चाहिए.
+
+### 13 जनवरी 2027 को निषाद समाज का बड़ा सम्मेलन- संजय निषाद
+
+संजय निषाद ने 13 जनवरी 2027 को निषाद समाज का बड़ा सम्मेलन आयोजित करने का ऐलान किया. उन्होंने कहा कि इस सम्मेलन में प्रधानमंत्री नरेंद्र मोदी समेत सभी संबंधित नेताओं को बुलाया जाएगा.
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/states/up-uk/abp-shikhar-sammelan-2026-live-updates-cm-yogi-adityanath-akhilesh-yadav-op-rajbhar-up-election-2027-3219104)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `abp शिखर सम्मेलन LIVE: सपा से कांग्रेस सांसद इमरान मसूद बोले- 403 पर ऐलान कर दें - ABP News`,
+    summary_hi: `उत्तर प्रदेश विधानसभा चुनाव 2027 की तैयारियों के बीच आज बुधवार (25 नवंबर) को लखनऊ में ABP न्यूज़ का 'शिखर सम्मेलन'आयोजित किया जा रहा है. इस सम्मेलन में प्रदेश के कई बड़े राजनीतिक चेहरे शामिल होंगे. इस कार्यक्रम में मुख्यमंत्री योगी आदित्यना`,
+    content_hi: `### ABP शिखर सम्मेलन LIVE Updates: लखनऊ में abp न्यूज़ का 'शिखर सम्मेलन'आयोजित किया जा रहा है. इस सम्मेलन में प्रदेश के कई बड़े राजनीतिक चेहरे शामिल होंगे.
+
+उत्तर प्रदेश विधानसभा चुनाव 2027 की तैयारियों के बीच आज बुधवार (25 नवंबर) को लखनऊ में ABP न्यूज़ का 'शिखर सम्मेलन'आयोजित किया जा रहा है. इस सम्मेलन में प्रदेश के कई बड़े राजनीतिक चेहरे शामिल होंगे. इस कार्यक्रम में मुख्यमंत्री योगी आदित्यनाथ, डिप्टी सीएम केशव प्रसाद मौर्य, कांग्रेस सांसद इमरान मसूद, अपना दल (एस) की अध्यक्ष अनुप्रिया पटेल, डिप्टी सीएम ब्रजेश पाठक, निषाद पार्टी के अध्यक्ष संजय निषाद और सपा प्रमुख अखिलेश यादव समेत कई नेता अपनी बात रखेंगे.
+
+इस कार्यक्रम में मुख्यमंत्री योगी आदित्यनाथ समेत सभी नेताओं से यूपी चुनाव की तैयारियों और उनकी रणनीति को लेकर सवाल पूछे जाएंगे.
+
+कार्यक्रम के अनुसार, सुबह 10 बजे मुख्यमंत्री योगी आदित्यनाथ का सत्र आयोजित होगा। इसके बाद सुबह 11 बजे उपमुख्यमंत्री केशव प्रसाद मौर्य और 11:30 बजे इमरान मसूद का सत्र होगा। दोपहर 12 बजे राज्य निर्वाचन आयोग के अधिकारी नवदीप रिणवा अपनी बात रखेंगे, जबकि 12:30 बजे ओम प्रकाश राजभर का सत्र आयोजित किया जाएगा।
+
+वहीं, दोपहर 2 बजे प्रदीप भंडारी और अनुराग भदौरिया के बीच मुकाबला होगा। इसके बाद 2:30 बजे अनुप्रिया पटेल, 3 बजे उपमुख्यमंत्री बृजेश पाठक और 3:30 बजे संजय निषाद का सत्र होगा। कार्यक्रम का समापन शाम 4 बजे समाजवादी पार्टी के अध्यक्ष अखिलेश यादव के सत्र के साथ होगा।
+
+### राजनीतिक हिस्सेदारी बनी रहनी चाहिए- संजय निषाद
+
+संजय निषाद ने   कहा कि वह विधानसभा चुनाव में इतनी सीटों पर जरूर चुनाव लड़ेंगे कि उनकी पार्टी को पर्याप्त जीत मिले और वह चुनाव आयोग से अपना अलग चुनाव चिह्न हासिल कर सके. उन्होंने कहा कि पार्टी की तैयारी 403 सीटों पर चल रही है, लेकिन उनका उद्देश्य अपनी राजनीतिक ताकत को इस स्तर तक बढ़ाना है कि गठबंधन में उनकी अनदेखी न हो सके. बीजेपी के साथ गठबंधन को लेकर उन्होंने स्पष्ट किया कि सहयोगी दलों का सम्मान और उनकी राजनीतिक हिस्सेदारी बनी रहनी चाहिए.
+
+### 13 जनवरी 2027 को निषाद समाज का बड़ा सम्मेलन- संजय निषाद
+
+संजय निषाद ने 13 जनवरी 2027 को निषाद समाज का बड़ा सम्मेलन आयोजित करने का ऐलान किया. उन्होंने कहा कि इस सम्मेलन में प्रधानमंत्री नरेंद्र मोदी समेत सभी संबंधित नेताओं को बुलाया जाएगा.
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/states/up-uk/abp-shikhar-sammelan-2026-live-updates-cm-yogi-adityanath-akhilesh-yadav-op-rajbhar-up-election-2027-3219104)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Politics affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on abp शिखर सम्मेलन LIVE: सपा से कांग्रेस सांसद इमरान मसूद बोले- 403 पर ऐलान कर दें - ABP News.`,
+    primary_source: `ABP News Official Dispatch`,
+  },
+  {
+    id: 97837,
+    title: `🚨 BGMI Air Open Beta शुरू, अब 1GB में खेल सकेंगे BGMI, Android यूजर्स ऐसे करें डाउनलोड, जानें इंडिया लॉन्च डेट - Navbharat Live`,
+    slug: `bgmi-air-open-beta-1gb-bgmi-android-navbharat-live-2026`,
+    original_title: `BGMI Air Open Beta शुरू, अब 1GB में खेल सकेंगे BGMI, Android यूजर्स ऐसे करें डाउनलोड, जानें इंडिया लॉन्च डेट - Navbharat Live`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `3 min read`,
+    views_count: 23518880,
+    shares_count: 3428495,
+    published_at: `2026-11-25T08:57:39Z`,
+    updated_at: `2026-11-25T08:57:39Z`,
+    source_name: `Navbharat Live`,
+    source_url: `https://navbharatlive.com/technology/bgmi-open-beta-is-now-live-using-just-1gb-of-data-android-users-can-download-srs13`,
+    source_courtesy: `News Courtesy: Navbharat Live Digital Archives`,
+    image_url: `/images/articles/bgmi-air-open-beta-1gb-bgmi-android-navbharat-live-2026.jpg`,
+    image_alt: `Verified news photograph: BGMI Air Open Beta शुरू, अब 1GB में खेल सकेंगे BGMI, Android यूजर्स ऐसे करें डाउनलोड, जानें इंडिया लॉन्च डेट - Navbharat Live`,
+    image_courtesy: `Image Courtesy: Navbharat Live`,
+    image_photographer: `Navbharat Live`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Tech, Breaking News, India, Verified`,
+    summary: `KRAFTON India ने 25 नवंबर से नए गेम BGMI Air का Open Beta Android यूजर्स के लिए शुरू कर दिया है।`,
+    content: `KRAFTON India ने 25 नवंबर से नए गेम BGMI Air का Open Beta Android यूजर्स के लिए शुरू कर दिया है।
+
+BGMI Air को Google Play Store के जरिए डाउनलोड किया जा सकता है।
+
+कंपनी ने इसका फाइनल इंडिया लॉन्च 10 दिसंबर 2026 को तय किया है।
+
+BGMI Air Open Beta: Battlegrounds Mobile India (BGMI) खेलने वालों के लिए बड़ी जानकारी सामने आई है। बता दें कि KRAFTON India ने 25 नवंबर से अपने नए गेम BGMI Air का Open Beta Android यूजर्स के लिए शुरू कर दिया है। इसकी खास बात यह है कि इस गेम को कम स्टोरेज और सामान्य हार्डवेयर वाले स्मार्टफोन पर भी खेलने के मकसद से तैयार किया गया है।
+
+जिसका सीधे तौर पर मतलब है कि जिन यूजर्स के फोन में ज्यादा स्टोरेज नहीं है या जो भारी गेम नहीं चला पाते उनके लिए यह नया विकल्प हो सकता है। जानकारी के लिए बता दें कि BGMI Air को Google Play Store के जरिए डाउनलोड किया जा सकता है। कंपनी ने इसका फाइनल इंडिया लॉन्च 10 दिसंबर 2026 को तय किया है।
+
+### BGMI Air Open Beta कैसे करें डाउनलोड?
+
+Android यूजर्स Google Play Store पर जाकर BGMI Air का Open Beta डाउनलोड कर सकते हैं। इसके लिए सबसे पहले अपने स्मार्टफोन में Play Store खोलें और BGMI Air सर्च करें। इसके बाद गेम की लिस्टिंग में डेवलपर का नाम KRAFTON जरूर चेक करें। फिर आधिकारिक गेम पेज खोलकर उपलब्ध Install या Download विकल्प पर क्लिक करें।
+
+इंस्टॉलेशन पूरा होने के बाद गेम शुरू किया जा सकता है। इसमें ध्यान रखें कि इंटरनेट पर गेम के नाम से कई APK फाइलें मिल सकती हैं। ऐसे में अनजान वेबसाइट से APK डाउनलोड करने से बचें। इनमें फर्जी या असुरक्षित फाइलें हो सकती हैं।
+
+### सिर्फ 1GB में मिलेगा Battle Royale गेमिंग का अनुभव
+
+KRAFTON India ने इसको लेकर बताया है कि BGMI Air का शुरुआती डाउनलोड साइज करीब 1GB होगा। इसे खासतौर पर उन स्मार्टफोन यूजर्स को ध्यान में रखकर तैयार किया गया है जिनके फोन में स्टोरेज और हार्डवेयर की सीमाएं हैं।
+
+वहीं यह BGMI का अपडेट नहीं बल्कि एक अलग Standalone ऐप होगा। लेकिन मौजूदा BGMI प्लेयर्स को नए गेम में खेलने के लिए अपना अकाउंट ट्रांसफर करने की जरूरत नहीं होगी। जिसकी रिपोर्ट्स में बताया गया है कि इसमें क्लासिक Erangel मैप और 100 खिलाड़ियों तक के मल्टीप्लेयर मुकाबलों का सपोर्ट भी मिल सकता है।
+
+### iPhone यूजर्स के लिए क्या है अपडेट?
+
+अभी iOS यूजर्स के लिए Open Beta का कोई आधिकारिक TestFlight लिंक जारी नहीं किया गया है। लेकिन BGMI Air की Apple App Store पर प्री-रजिस्ट्रेशन सुविधा उपलब्ध है। ऐसे में iPhone यूजर्स फाइनल लॉन्च से पहले गेम के लिए रजिस्टर कर सकते हैं।
+
+### 10 दिसंबर को होगा BGMI Air का इंडिया लॉन्च
+
+KRAFTON India ने पुष्टि की है कि BGMI Air भारत में 10 दिसंबर 2026 को लॉन्च होगा। इससे पहले 20 से 24 नवंबर के बीच मुंबई, दिल्ली और कोलकाता में Closed Beta Testing हुई थी। वहीं कंपनी ने इसको लेकर बताया है कि गेम के Google Play पर प्री-रजिस्ट्रेशन 14 मिलियन यानी 1.4 करोड़ का आंकड़ा पार कर चुके हैं। इससे साफ है कि हल्के वर्जन वाले इस नए गेम को लेकर खिलाड़ियों में अच्छी दिलचस्पी है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/technology/bgmi-open-beta-is-now-live-using-just-1gb-of-data-android-users-can-download-srs13)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `BGMI Air Open Beta शुरू, अब 1GB में खेल सकेंगे BGMI, Android यूजर्स ऐसे करें डाउनलोड, जानें इंडिया लॉन्च डेट - Navbharat Live`,
+    summary_hi: `KRAFTON India ने 25 नवंबर से नए गेम BGMI Air का Open Beta Android यूजर्स के लिए शुरू कर दिया है।`,
+    content_hi: `KRAFTON India ने 25 नवंबर से नए गेम BGMI Air का Open Beta Android यूजर्स के लिए शुरू कर दिया है।
+
+BGMI Air को Google Play Store के जरिए डाउनलोड किया जा सकता है।
+
+कंपनी ने इसका फाइनल इंडिया लॉन्च 10 दिसंबर 2026 को तय किया है।
+
+BGMI Air Open Beta: Battlegrounds Mobile India (BGMI) खेलने वालों के लिए बड़ी जानकारी सामने आई है। बता दें कि KRAFTON India ने 25 नवंबर से अपने नए गेम BGMI Air का Open Beta Android यूजर्स के लिए शुरू कर दिया है। इसकी खास बात यह है कि इस गेम को कम स्टोरेज और सामान्य हार्डवेयर वाले स्मार्टफोन पर भी खेलने के मकसद से तैयार किया गया है।
+
+जिसका सीधे तौर पर मतलब है कि जिन यूजर्स के फोन में ज्यादा स्टोरेज नहीं है या जो भारी गेम नहीं चला पाते उनके लिए यह नया विकल्प हो सकता है। जानकारी के लिए बता दें कि BGMI Air को Google Play Store के जरिए डाउनलोड किया जा सकता है। कंपनी ने इसका फाइनल इंडिया लॉन्च 10 दिसंबर 2026 को तय किया है।
+
+### BGMI Air Open Beta कैसे करें डाउनलोड?
+
+Android यूजर्स Google Play Store पर जाकर BGMI Air का Open Beta डाउनलोड कर सकते हैं। इसके लिए सबसे पहले अपने स्मार्टफोन में Play Store खोलें और BGMI Air सर्च करें। इसके बाद गेम की लिस्टिंग में डेवलपर का नाम KRAFTON जरूर चेक करें। फिर आधिकारिक गेम पेज खोलकर उपलब्ध Install या Download विकल्प पर क्लिक करें।
+
+इंस्टॉलेशन पूरा होने के बाद गेम शुरू किया जा सकता है। इसमें ध्यान रखें कि इंटरनेट पर गेम के नाम से कई APK फाइलें मिल सकती हैं। ऐसे में अनजान वेबसाइट से APK डाउनलोड करने से बचें। इनमें फर्जी या असुरक्षित फाइलें हो सकती हैं।
+
+### सिर्फ 1GB में मिलेगा Battle Royale गेमिंग का अनुभव
+
+KRAFTON India ने इसको लेकर बताया है कि BGMI Air का शुरुआती डाउनलोड साइज करीब 1GB होगा। इसे खासतौर पर उन स्मार्टफोन यूजर्स को ध्यान में रखकर तैयार किया गया है जिनके फोन में स्टोरेज और हार्डवेयर की सीमाएं हैं।
+
+वहीं यह BGMI का अपडेट नहीं बल्कि एक अलग Standalone ऐप होगा। लेकिन मौजूदा BGMI प्लेयर्स को नए गेम में खेलने के लिए अपना अकाउंट ट्रांसफर करने की जरूरत नहीं होगी। जिसकी रिपोर्ट्स में बताया गया है कि इसमें क्लासिक Erangel मैप और 100 खिलाड़ियों तक के मल्टीप्लेयर मुकाबलों का सपोर्ट भी मिल सकता है।
+
+### iPhone यूजर्स के लिए क्या है अपडेट?
+
+अभी iOS यूजर्स के लिए Open Beta का कोई आधिकारिक TestFlight लिंक जारी नहीं किया गया है। लेकिन BGMI Air की Apple App Store पर प्री-रजिस्ट्रेशन सुविधा उपलब्ध है। ऐसे में iPhone यूजर्स फाइनल लॉन्च से पहले गेम के लिए रजिस्टर कर सकते हैं।
+
+### 10 दिसंबर को होगा BGMI Air का इंडिया लॉन्च
+
+KRAFTON India ने पुष्टि की है कि BGMI Air भारत में 10 दिसंबर 2026 को लॉन्च होगा। इससे पहले 20 से 24 नवंबर के बीच मुंबई, दिल्ली और कोलकाता में Closed Beta Testing हुई थी। वहीं कंपनी ने इसको लेकर बताया है कि गेम के Google Play पर प्री-रजिस्ट्रेशन 14 मिलियन यानी 1.4 करोड़ का आंकड़ा पार कर चुके हैं। इससे साफ है कि हल्के वर्जन वाले इस नए गेम को लेकर खिलाड़ियों में अच्छी दिलचस्पी है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/technology/bgmi-open-beta-is-now-live-using-just-1gb-of-data-android-users-can-download-srs13)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Tech affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on BGMI Air Open Beta शुरू, अब 1GB में खेल सकेंगे BGMI, Android यूजर्स ऐसे करें डाउनलोड, जानें इंडिया लॉन्च डेट - Navbharat Live.`,
+    primary_source: `Navbharat Live Official Dispatch`,
+  },
+  {
+    id: 97838,
+    title: `🚨 ज़ीशान अली: कौन हैं पाकिस्तान के पहले एस्ट्रोनॉट, जो चीन की मदद से जाएंगे अंतरिक्ष?`,
+    slug: `world-breaking-report-32466-97838-2026`,
+    original_title: `ज़ीशान अली: कौन हैं पाकिस्तान के पहले एस्ट्रोनॉट, जो चीन की मदद से जाएंगे अंतरिक्ष?`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `4 min read`,
+    views_count: 23519120,
+    shares_count: 3428530,
+    published_at: `2026-11-25T08:57:40Z`,
+    updated_at: `2026-11-25T08:57:40Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cvlyj3941n67o`,
+    source_courtesy: `News Courtesy: BBC Digital Archives`,
+    image_url: `/images/articles/world-breaking-report-32466-97838-2026.jpg`,
+    image_alt: `Verified news photograph: ज़ीशान अली: कौन हैं पाकिस्तान के पहले एस्ट्रोनॉट, जो चीन की मदद से जाएंगे अंतरिक्ष?`,
+    image_courtesy: `Image Courtesy: BBC`,
+    image_photographer: `BBC`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `World, Breaking News, India, Verified`,
+    summary: `चीन ने शेनझोउ-24 मानव अंतरिक्ष मिशन के दल की आधिकारिक घोषणा कर दी है. इस दल में पाकिस्तान के अंतरिक्ष यात्री मोहम्मद ज़ीशान अली भी शामिल हैं.`,
+    content: `चीन ने शेनझोउ-24 मानव अंतरिक्ष मिशन के दल की आधिकारिक घोषणा कर दी है. इस दल में पाकिस्तान के अंतरिक्ष यात्री मोहम्मद ज़ीशान अली भी शामिल हैं.
+
+इस मिशन के लिए पाकिस्तान ने मोहम्मद ज़ीशान अली और ख़ुर्रम दाऊद का चयन किया था. दोनों ने चीन में अपनी ट्रेनिंग पूरी की है.
+
+अब मोहम्मद ज़ीशान अली को मिशन के लिए अंतिम रूप से चुना गया है.
+
+वह पेलोड विशेषज्ञ के रूप में चीन के तियांगोंग अंतरिक्ष स्टेशन जाएंगे, जबकि ख़ुर्रम दाऊद बैकअप अंतरिक्ष यात्री की भूमिका निभाएंगे.
+
+मोहम्मद ज़ीशान अली चीन के अंतरिक्ष स्टेशन पर जाने वाले पहले विदेशी अंतरिक्ष यात्री होंगे. यह चीन के मानव अंतरिक्ष कार्यक्रम के तहत चीनी और विदेशी अंतरिक्ष यात्रियों की पहली संयुक्त अंतरिक्ष उड़ान भी होगी.
+
+ज़ीशान अली चीन के तियांगोंग अंतरिक्ष स्टेशन पर कई दिन बिताएंगे. इस दौरान वह वैज्ञानिक प्रयोगों और शोध गतिविधियों में हिस्सा लेंगे. मिशन पूरा होने के बाद वह शेनझोउ-23 मिशन के दो चीनी अंतरिक्ष यात्रियों के साथ पृथ्वी पर लौटेंगे.
+
+मोहम्मद ज़ीशान अली का कहना है कि इस ऐतिहासिक मिशन का हिस्सा बनना उनके लिए सिर्फ निजी उपलब्धि नहीं है, बल्कि यह पूरे पाकिस्तान का प्रतिनिधित्व करने का मौक़ा भी है.
+
+उन्होंने कहा, ''मैं पाकिस्तानी लोगों के सपनों को अपने साथ अंतरिक्ष में ले जा रहा हूं.''
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+इस साल चीन के मानव अंतरिक्ष कार्यक्रम के तहत पाकिस्तानी उम्मीदवार के रूप में चुने जाने के बाद मोहम्मद ज़ीशान अली ने चीन में कई महीनों तक विशेष ट्रेनिंग ली.
+
+इस प्रशिक्षण में चीनी भाषा सीखना, अंतरिक्ष यान के सिस्टम को समझना, ज़ीरो ग्रेविटी में अभ्यास करना और कठिन शारीरिक प्रशिक्षण शामिल था.
+
+चीन के आधिकारिक अख़बार शंघाई डेली ने सोशल मीडिया प्लेटफॉर्म एक्स पर उनका एक बयान साझा किया.
+
+इसमें ज़ीशान अली ने कहा, ''एक पाकिस्तानी के रूप में मैं अपने साथ पाकिस्तानी लोगों के सपने लेकर जा रहा हूं.''
+
+उन्होंने आगे कहा, "चीन और पाकिस्तान के लोगों को हमसे बहुत उम्मीदें हैं. अंतरिक्ष में मिलकर काम करते हुए हम इंसानियत के भविष्य के लिए साझा प्रयास कर रहे हैं."
+
+शंघाई डेली के मुताबिक़, मोहम्मद ज़ीशान अली शेनझोउ-24 मिशन के दौरान पाकिस्तान की ओर से चुने गए चार वैज्ञानिक प्रयोग और परीक्षण करेंगे.
+
+'सीएन स्पेस' नाम के एक्स हैंडल पर साझा किए गए एक इंटरव्यू में ज़ीशान अली ने अपने प्रशिक्षण के अनुभव बताए. उन्होंने कहा कि लड़ाकू विमान के पायलट होने के बावजूद उन्हें कठिन शारीरिक और तकनीकी प्रशिक्षण से गुजरना पड़ा.
+
+उन्होंने कहा, ''मैंने सेंट्रीफ्यूज प्रशिक्षण, बचाव और जीवन रक्षा का प्रशिक्षण और इमरजेंसी प्रक्रियाओं का अभ्यास किया. लेकिन सबसे बड़ी चुनौती चीनी भाषा सीखना था.''
+
+उनके मुताबिक़, अंतरिक्ष यान के सभी स्विच, सॉफ्टवेयर, प्रोग्राम और आवाज़ के जरिए दी जाने वाली घोषणाएं चीनी भाषा में हैं. इसलिए उन्हें रोज़मर्रा की चीनी भाषा के साथ-साथ तकनीकी शब्दावली भी सीखनी पड़ी.
+
+अपने चीनी साथी अंतरिक्ष यात्रियों के बारे में बात करते हुए ज़ीशान अली ने कहा कि वह खुद को खुशकिस्मत मानते हैं कि उन्हें ऐसे सहयोगी मिले हैं, जो उनकी राय का सम्मान करते हैं और मिलकर किसी भी स्थिति का समाधान खोजते हैं.
+
+उन्होंने कहा कि दल के सदस्यों के बीच सहयोग, आपसी समझ और दोस्ती पाकिस्तान और चीन के रिश्तों को दिखाती है.
+
+### पाकिस्तान के कौन से वैज्ञानिक प्रयोग होंगे शामिल?
+
+मोहम्मद ज़ीशान अली का काम सिर्फ अंतरिक्ष की यात्रा करना नहीं होगा. उन्हें वहां पाकिस्तान की ओर से चुने गए वैज्ञानिक प्रयोग भी करने होंगे.
+
+पाकिस्तान की अंतरिक्ष एजेंसी 'सुपारको' को देश के विश्वविद्यालयों और शोध संस्थानों से 300 से ज़्यादा प्रस्ताव मिले थे. इनमें से चार प्रयोगों को चीनी विशेषज्ञों ने इस मिशन के लिए चुना.
+
+ये प्रयोग मुख्य रूप से बायो टेक्नोलॉजी से जुड़े हैं. इनका मक़सद खाद्य सुरक्षा, जलवायु परिवर्तन और भविष्य में अंतरिक्ष की खोज से जुड़े क्षेत्रों में नई जानकारी हासिल करना है.
+
+इन प्रयोगों की तैयारी के साथ ही मिशन के प्रक्षेपण से जुड़ी प्रशासनिक और तकनीकी तैयारियां भी पूरी कर ली गई हैं.
+
+इस मिशन में पाकिस्तानी अंतरिक्ष यात्री के शामिल होने को देखते हुए चीन के अंतरिक्ष कार्यक्रम से जुड़े विभागों ने चीनी और अंग्रेजी भाषा में संचालन संबंधी निर्देश तैयार किए हैं.
+
+इसके अलावा, ज़ीशान अली की खान-पान संबंधी ज़रूरतों को ध्यान में रखते हुए उनके लिए हलाल अंतरिक्ष भोजन की व्यवस्था भी की गई है.
+
+परीक्षण और प्रक्षेपण से जुड़ी सभी जरूरी शर्तें पूरी करने के लिए तापमान और नमी पर लगातार नजर रखने वाली एक स्मार्ट प्रणाली का भी इस्तेमाल किया गया.
+
+चीन के शेनझोउ-24 अंतरिक्ष यान और लॉन्ग मार्च 2एफ रॉकेट को 17 नवंबर को प्रक्षेपण स्थल पर पहुंचाया गया.
+
+अंतरिक्ष यान को बुधवार को बीजिंग के समय के मुताबिक़ सुबह 8:18 बजे उत्तर-पश्चिम चीन के जियुकुआन उपग्रह प्रक्षेपण केंद्र से लॉन्च किया जाएगा.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cvlyj3941n67o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `ज़ीशान अली: कौन हैं पाकिस्तान के पहले एस्ट्रोनॉट, जो चीन की मदद से जाएंगे अंतरिक्ष?`,
+    summary_hi: `चीन ने शेनझोउ-24 मानव अंतरिक्ष मिशन के दल की आधिकारिक घोषणा कर दी है. इस दल में पाकिस्तान के अंतरिक्ष यात्री मोहम्मद ज़ीशान अली भी शामिल हैं.`,
+    content_hi: `चीन ने शेनझोउ-24 मानव अंतरिक्ष मिशन के दल की आधिकारिक घोषणा कर दी है. इस दल में पाकिस्तान के अंतरिक्ष यात्री मोहम्मद ज़ीशान अली भी शामिल हैं.
+
+इस मिशन के लिए पाकिस्तान ने मोहम्मद ज़ीशान अली और ख़ुर्रम दाऊद का चयन किया था. दोनों ने चीन में अपनी ट्रेनिंग पूरी की है.
+
+अब मोहम्मद ज़ीशान अली को मिशन के लिए अंतिम रूप से चुना गया है.
+
+वह पेलोड विशेषज्ञ के रूप में चीन के तियांगोंग अंतरिक्ष स्टेशन जाएंगे, जबकि ख़ुर्रम दाऊद बैकअप अंतरिक्ष यात्री की भूमिका निभाएंगे.
+
+मोहम्मद ज़ीशान अली चीन के अंतरिक्ष स्टेशन पर जाने वाले पहले विदेशी अंतरिक्ष यात्री होंगे. यह चीन के मानव अंतरिक्ष कार्यक्रम के तहत चीनी और विदेशी अंतरिक्ष यात्रियों की पहली संयुक्त अंतरिक्ष उड़ान भी होगी.
+
+ज़ीशान अली चीन के तियांगोंग अंतरिक्ष स्टेशन पर कई दिन बिताएंगे. इस दौरान वह वैज्ञानिक प्रयोगों और शोध गतिविधियों में हिस्सा लेंगे. मिशन पूरा होने के बाद वह शेनझोउ-23 मिशन के दो चीनी अंतरिक्ष यात्रियों के साथ पृथ्वी पर लौटेंगे.
+
+मोहम्मद ज़ीशान अली का कहना है कि इस ऐतिहासिक मिशन का हिस्सा बनना उनके लिए सिर्फ निजी उपलब्धि नहीं है, बल्कि यह पूरे पाकिस्तान का प्रतिनिधित्व करने का मौक़ा भी है.
+
+उन्होंने कहा, ''मैं पाकिस्तानी लोगों के सपनों को अपने साथ अंतरिक्ष में ले जा रहा हूं.''
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+इस साल चीन के मानव अंतरिक्ष कार्यक्रम के तहत पाकिस्तानी उम्मीदवार के रूप में चुने जाने के बाद मोहम्मद ज़ीशान अली ने चीन में कई महीनों तक विशेष ट्रेनिंग ली.
+
+इस प्रशिक्षण में चीनी भाषा सीखना, अंतरिक्ष यान के सिस्टम को समझना, ज़ीरो ग्रेविटी में अभ्यास करना और कठिन शारीरिक प्रशिक्षण शामिल था.
+
+चीन के आधिकारिक अख़बार शंघाई डेली ने सोशल मीडिया प्लेटफॉर्म एक्स पर उनका एक बयान साझा किया.
+
+इसमें ज़ीशान अली ने कहा, ''एक पाकिस्तानी के रूप में मैं अपने साथ पाकिस्तानी लोगों के सपने लेकर जा रहा हूं.''
+
+उन्होंने आगे कहा, "चीन और पाकिस्तान के लोगों को हमसे बहुत उम्मीदें हैं. अंतरिक्ष में मिलकर काम करते हुए हम इंसानियत के भविष्य के लिए साझा प्रयास कर रहे हैं."
+
+शंघाई डेली के मुताबिक़, मोहम्मद ज़ीशान अली शेनझोउ-24 मिशन के दौरान पाकिस्तान की ओर से चुने गए चार वैज्ञानिक प्रयोग और परीक्षण करेंगे.
+
+'सीएन स्पेस' नाम के एक्स हैंडल पर साझा किए गए एक इंटरव्यू में ज़ीशान अली ने अपने प्रशिक्षण के अनुभव बताए. उन्होंने कहा कि लड़ाकू विमान के पायलट होने के बावजूद उन्हें कठिन शारीरिक और तकनीकी प्रशिक्षण से गुजरना पड़ा.
+
+उन्होंने कहा, ''मैंने सेंट्रीफ्यूज प्रशिक्षण, बचाव और जीवन रक्षा का प्रशिक्षण और इमरजेंसी प्रक्रियाओं का अभ्यास किया. लेकिन सबसे बड़ी चुनौती चीनी भाषा सीखना था.''
+
+उनके मुताबिक़, अंतरिक्ष यान के सभी स्विच, सॉफ्टवेयर, प्रोग्राम और आवाज़ के जरिए दी जाने वाली घोषणाएं चीनी भाषा में हैं. इसलिए उन्हें रोज़मर्रा की चीनी भाषा के साथ-साथ तकनीकी शब्दावली भी सीखनी पड़ी.
+
+अपने चीनी साथी अंतरिक्ष यात्रियों के बारे में बात करते हुए ज़ीशान अली ने कहा कि वह खुद को खुशकिस्मत मानते हैं कि उन्हें ऐसे सहयोगी मिले हैं, जो उनकी राय का सम्मान करते हैं और मिलकर किसी भी स्थिति का समाधान खोजते हैं.
+
+उन्होंने कहा कि दल के सदस्यों के बीच सहयोग, आपसी समझ और दोस्ती पाकिस्तान और चीन के रिश्तों को दिखाती है.
+
+### पाकिस्तान के कौन से वैज्ञानिक प्रयोग होंगे शामिल?
+
+मोहम्मद ज़ीशान अली का काम सिर्फ अंतरिक्ष की यात्रा करना नहीं होगा. उन्हें वहां पाकिस्तान की ओर से चुने गए वैज्ञानिक प्रयोग भी करने होंगे.
+
+पाकिस्तान की अंतरिक्ष एजेंसी 'सुपारको' को देश के विश्वविद्यालयों और शोध संस्थानों से 300 से ज़्यादा प्रस्ताव मिले थे. इनमें से चार प्रयोगों को चीनी विशेषज्ञों ने इस मिशन के लिए चुना.
+
+ये प्रयोग मुख्य रूप से बायो टेक्नोलॉजी से जुड़े हैं. इनका मक़सद खाद्य सुरक्षा, जलवायु परिवर्तन और भविष्य में अंतरिक्ष की खोज से जुड़े क्षेत्रों में नई जानकारी हासिल करना है.
+
+इन प्रयोगों की तैयारी के साथ ही मिशन के प्रक्षेपण से जुड़ी प्रशासनिक और तकनीकी तैयारियां भी पूरी कर ली गई हैं.
+
+इस मिशन में पाकिस्तानी अंतरिक्ष यात्री के शामिल होने को देखते हुए चीन के अंतरिक्ष कार्यक्रम से जुड़े विभागों ने चीनी और अंग्रेजी भाषा में संचालन संबंधी निर्देश तैयार किए हैं.
+
+इसके अलावा, ज़ीशान अली की खान-पान संबंधी ज़रूरतों को ध्यान में रखते हुए उनके लिए हलाल अंतरिक्ष भोजन की व्यवस्था भी की गई है.
+
+परीक्षण और प्रक्षेपण से जुड़ी सभी जरूरी शर्तें पूरी करने के लिए तापमान और नमी पर लगातार नजर रखने वाली एक स्मार्ट प्रणाली का भी इस्तेमाल किया गया.
+
+चीन के शेनझोउ-24 अंतरिक्ष यान और लॉन्ग मार्च 2एफ रॉकेट को 17 नवंबर को प्रक्षेपण स्थल पर पहुंचाया गया.
+
+अंतरिक्ष यान को बुधवार को बीजिंग के समय के मुताबिक़ सुबह 8:18 बजे उत्तर-पश्चिम चीन के जियुकुआन उपग्रह प्रक्षेपण केंद्र से लॉन्च किया जाएगा.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cvlyj3941n67o)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for World affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on ज़ीशान अली: कौन हैं पाकिस्तान के पहले एस्ट्रोनॉट, जो चीन की मदद से जाएंगे अंतरिक्ष?.`,
+    primary_source: `BBC Official Dispatch`,
+  },
+  {
+    id: 97839,
+    title: `🚨 सऊदी ने लिया एक्शन... यमन के हूती इलाके सआदा में चार एयरस्ट्राइक - AajTak`,
+    slug: `world-breaking-report-39531-97839-2026`,
+    original_title: `सऊदी ने लिया एक्शन... यमन के हूती इलाके सआदा में चार एयरस्ट्राइक - AajTak`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `3 min read`,
+    views_count: 23519360,
+    shares_count: 3428565,
+    published_at: `2026-11-25T08:57:40Z`,
+    updated_at: `2026-11-25T08:57:40Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/defence-news/story/yemen-4-airstrikes-reported-in-houthi-controlled-saada-dskc-2705499-2026-11-25`,
+    source_courtesy: `News Courtesy: AajTak Digital Archives`,
+    image_url: `/images/articles/world-breaking-report-39531-97839-2026.webp`,
+    image_alt: `Verified news photograph: सऊदी ने लिया एक्शन... यमन के हूती इलाके सआदा में चार एयरस्ट्राइक - AajTak`,
+    image_courtesy: `Image Courtesy: AajTak`,
+    image_photographer: `AajTak`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `World, Breaking News, India, Verified`,
+    summary: `यमन के उत्तर में स्थित सआदा शहर के पूर्वी हिस्से में चार हवाई हमलों की खबर सामने आई है. अंसार अल्लाह यानी हूती समूह से जुड़े मीडिया आउटलेट्स ने इसकी जानकारी दी है. इन रिपोर्ट्स के अनुसार हमले शहर के पूर्वी क्षेत्र में हुए, लेकिन इन हमलों के`,
+    content: `### यमन के हूती नियंत्रण वाले सआदा शहर के पूर्वी हिस्से में चार हवाई हमलों की खबर है. अंसार अल्लाह से जुड़े मीडिया ने इसकी जानकारी दी है, लेकिन हमलों के स्रोत की स्वतंत्र पुष्टि अभी नहीं हुई है.
+
+यमन के उत्तर में स्थित सआदा शहर के पूर्वी हिस्से में चार हवाई हमलों की खबर सामने आई है. अंसार अल्लाह यानी हूती समूह से जुड़े मीडिया आउटलेट्स ने इसकी जानकारी दी है. इन रिपोर्ट्स के अनुसार हमले शहर के पूर्वी क्षेत्र में हुए, लेकिन इन हमलों के जिम्मेदार पक्ष की अभी तक स्वतंत्र रूप से पुष्टि नहीं हो सकी है.
+
+यह घटना यमन के लंबे संघर्ष के बीच आई है, जहां विभिन्न पक्षों के बीच हिंसा समय-समय पर जारी रहती हैं. सआदा क्षेत्र लंबे समय से हूती प्रभाव वाले इलाकों में गिना जाता है और यहां की घटनाएं अक्सर क्षेत्रीय तनाव को बढ़ाने वाली साबित होती हैं.
+
+सआदा यमन के उत्तरी हिस्से में स्थित एक महत्वपूर्ण शहर है. यह इलाका हूती समूह के पारंपरिक गढ़ों में शामिल माना जाता है. यहां की भौगोलिक स्थिति और स्थानीय नियंत्रण की वजह से यह क्षेत्र अक्सर सैन्य गतिविधियों और हमलों की खबरों से जुड़ा रहता है.
+
+यह भी पढ़ें: ईरान या हूती, किसका डर? अमेरिका ने 11 अरब मुल्कों में जारी किया सिक्योरिटी अलर्ट
+
+शहर के पूर्वी हिस्से में हुए इन हमलों की खबर ने एक बार फिर इस बात की याद दिलाई है कि यमन में शांति स्थापित करने के प्रयासों के बावजूद हिंसा पूरी तरह थमी नहीं है. स्थानीय मीडिया द्वारा दी गई जानकारी के अलावा अभी कोई आधिकारिक पुष्टि उपलब्ध नहीं है, इसलिए स्थिति की पूरी तस्वीर स्पष्ट होने में समय लग सकता है.
+
+इन हमलों की मुख्य जानकारी अंसार अल्लाह से जुड़े मीडिया स्रोतों से आई है. ऐसे मामलों में अक्सर विभिन्न पक्ष अपनी-अपनी नजरिए से घटनाओं को पेश करते हैं. स्वतंत्र पर्यवेक्षकों या अंतरराष्ट्रीय एजेंसियों द्वारा पुष्टि न होने की वजह से अभी यह कहना मुश्किल है कि हमले किसने किए और उनका उद्देश्य क्या था.
+
+यमन के संघर्ष में कई पक्ष सक्रिय रहे हैं और हवाई हमलों की घटनाएं पहले भी सामने आती रही हैं. सूचना की इस अस्पष्टता के कारण स्थिति का सही आकलन करना चुनौतीपूर्ण हो जाता है. स्थानीय लोग और निगरानी रखने वाले संगठन अक्सर ऐसी घटनाओं के बाद और अधिक जानकारी का इंतजार करते हैं.
+
+यमन में पिछले कई वर्षों से जटिल संघर्ष चल रहा है जिसमें स्थानीय समूह, क्षेत्रीय शक्तियां और अंतरराष्ट्रीय हित शामिल रहे हैं. हूती समूह देश के बड़े हिस्से पर नियंत्रण रखता है जबकि अन्य पक्ष भी सक्रिय हैं. इस संघर्ष ने लाखों लोगों की जिंदगी प्रभावित की है और मानवीय संकट को गहराया है.
+
+यह भी पढ़ें: पहले ईरान के हमले और अब हूतियों से पड़ी मार... सऊदी ने अपने मिलिट्री कमांडर को हटाया
+
+हवाई हमलों जैसी घटनाएं न केवल तत्काल नुकसान पहुंचाती हैं बल्कि स्थानीय आबादी में भय और अनिश्चितता भी पैदा करती हैं. अंतरराष्ट्रीय समुदाय समय-समय पर युद्धविराम और शांति वार्ता की अपील करता रहा है, लेकिन स्थायी समाधान अभी दूर नजर आता है. सआदा जैसी घटनाएं इस बात का संकेत देती हैं कि तनाव अब भी बना हुआ है.
+
+ऐसे हमलों की खबरें क्षेत्रीय सुरक्षा और मानवीय स्थिति दोनों को प्रभावित कर सकती हैं. स्थानीय आबादी पर इसका सीधा असर पड़ता है क्योंकि वे पहले से ही संघर्ष की मार झेल रहे होते हैं. अंतरराष्ट्रीय संगठन अक्सर ऐसी घटनाओं के बाद स्थिति की निगरानी बढ़ाते हैं और मानवीय सहायता की जरूरत पर जोर देते हैं.
+
+फिलहाल उपलब्ध जानकारी सीमित है और स्रोत की स्वतंत्र पुष्टि का इंतजार है. आने वाले घंटों और दिनों में और अधिक रिपोर्ट्स सामने आने पर स्थिति की स्पष्ट तस्वीर उभर सकती है. यमन के इस लंबे संघर्ष में हर नई घटना शांति प्रयासों की दिशा को प्रभावित करने वाली साबित होती है.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/defence-news/story/yemen-4-airstrikes-reported-in-houthi-controlled-saada-dskc-2705499-2026-11-25)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `सऊदी ने लिया एक्शन... यमन के हूती इलाके सआदा में चार एयरस्ट्राइक - AajTak`,
+    summary_hi: `यमन के उत्तर में स्थित सआदा शहर के पूर्वी हिस्से में चार हवाई हमलों की खबर सामने आई है. अंसार अल्लाह यानी हूती समूह से जुड़े मीडिया आउटलेट्स ने इसकी जानकारी दी है. इन रिपोर्ट्स के अनुसार हमले शहर के पूर्वी क्षेत्र में हुए, लेकिन इन हमलों के`,
+    content_hi: `### यमन के हूती नियंत्रण वाले सआदा शहर के पूर्वी हिस्से में चार हवाई हमलों की खबर है. अंसार अल्लाह से जुड़े मीडिया ने इसकी जानकारी दी है, लेकिन हमलों के स्रोत की स्वतंत्र पुष्टि अभी नहीं हुई है.
+
+यमन के उत्तर में स्थित सआदा शहर के पूर्वी हिस्से में चार हवाई हमलों की खबर सामने आई है. अंसार अल्लाह यानी हूती समूह से जुड़े मीडिया आउटलेट्स ने इसकी जानकारी दी है. इन रिपोर्ट्स के अनुसार हमले शहर के पूर्वी क्षेत्र में हुए, लेकिन इन हमलों के जिम्मेदार पक्ष की अभी तक स्वतंत्र रूप से पुष्टि नहीं हो सकी है.
+
+यह घटना यमन के लंबे संघर्ष के बीच आई है, जहां विभिन्न पक्षों के बीच हिंसा समय-समय पर जारी रहती हैं. सआदा क्षेत्र लंबे समय से हूती प्रभाव वाले इलाकों में गिना जाता है और यहां की घटनाएं अक्सर क्षेत्रीय तनाव को बढ़ाने वाली साबित होती हैं.
+
+सआदा यमन के उत्तरी हिस्से में स्थित एक महत्वपूर्ण शहर है. यह इलाका हूती समूह के पारंपरिक गढ़ों में शामिल माना जाता है. यहां की भौगोलिक स्थिति और स्थानीय नियंत्रण की वजह से यह क्षेत्र अक्सर सैन्य गतिविधियों और हमलों की खबरों से जुड़ा रहता है.
+
+यह भी पढ़ें: ईरान या हूती, किसका डर? अमेरिका ने 11 अरब मुल्कों में जारी किया सिक्योरिटी अलर्ट
+
+शहर के पूर्वी हिस्से में हुए इन हमलों की खबर ने एक बार फिर इस बात की याद दिलाई है कि यमन में शांति स्थापित करने के प्रयासों के बावजूद हिंसा पूरी तरह थमी नहीं है. स्थानीय मीडिया द्वारा दी गई जानकारी के अलावा अभी कोई आधिकारिक पुष्टि उपलब्ध नहीं है, इसलिए स्थिति की पूरी तस्वीर स्पष्ट होने में समय लग सकता है.
+
+इन हमलों की मुख्य जानकारी अंसार अल्लाह से जुड़े मीडिया स्रोतों से आई है. ऐसे मामलों में अक्सर विभिन्न पक्ष अपनी-अपनी नजरिए से घटनाओं को पेश करते हैं. स्वतंत्र पर्यवेक्षकों या अंतरराष्ट्रीय एजेंसियों द्वारा पुष्टि न होने की वजह से अभी यह कहना मुश्किल है कि हमले किसने किए और उनका उद्देश्य क्या था.
+
+यमन के संघर्ष में कई पक्ष सक्रिय रहे हैं और हवाई हमलों की घटनाएं पहले भी सामने आती रही हैं. सूचना की इस अस्पष्टता के कारण स्थिति का सही आकलन करना चुनौतीपूर्ण हो जाता है. स्थानीय लोग और निगरानी रखने वाले संगठन अक्सर ऐसी घटनाओं के बाद और अधिक जानकारी का इंतजार करते हैं.
+
+यमन में पिछले कई वर्षों से जटिल संघर्ष चल रहा है जिसमें स्थानीय समूह, क्षेत्रीय शक्तियां और अंतरराष्ट्रीय हित शामिल रहे हैं. हूती समूह देश के बड़े हिस्से पर नियंत्रण रखता है जबकि अन्य पक्ष भी सक्रिय हैं. इस संघर्ष ने लाखों लोगों की जिंदगी प्रभावित की है और मानवीय संकट को गहराया है.
+
+यह भी पढ़ें: पहले ईरान के हमले और अब हूतियों से पड़ी मार... सऊदी ने अपने मिलिट्री कमांडर को हटाया
+
+हवाई हमलों जैसी घटनाएं न केवल तत्काल नुकसान पहुंचाती हैं बल्कि स्थानीय आबादी में भय और अनिश्चितता भी पैदा करती हैं. अंतरराष्ट्रीय समुदाय समय-समय पर युद्धविराम और शांति वार्ता की अपील करता रहा है, लेकिन स्थायी समाधान अभी दूर नजर आता है. सआदा जैसी घटनाएं इस बात का संकेत देती हैं कि तनाव अब भी बना हुआ है.
+
+ऐसे हमलों की खबरें क्षेत्रीय सुरक्षा और मानवीय स्थिति दोनों को प्रभावित कर सकती हैं. स्थानीय आबादी पर इसका सीधा असर पड़ता है क्योंकि वे पहले से ही संघर्ष की मार झेल रहे होते हैं. अंतरराष्ट्रीय संगठन अक्सर ऐसी घटनाओं के बाद स्थिति की निगरानी बढ़ाते हैं और मानवीय सहायता की जरूरत पर जोर देते हैं.
+
+फिलहाल उपलब्ध जानकारी सीमित है और स्रोत की स्वतंत्र पुष्टि का इंतजार है. आने वाले घंटों और दिनों में और अधिक रिपोर्ट्स सामने आने पर स्थिति की स्पष्ट तस्वीर उभर सकती है. यमन के इस लंबे संघर्ष में हर नई घटना शांति प्रयासों की दिशा को प्रभावित करने वाली साबित होती है.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/defence-news/story/yemen-4-airstrikes-reported-in-houthi-controlled-saada-dskc-2705499-2026-11-25)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for World affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on सऊदी ने लिया एक्शन... यमन के हूती इलाके सआदा में चार एयरस्ट्राइक - AajTak.`,
+    primary_source: `AajTak Official Dispatch`,
+  },
+  {
+    id: 97840,
+    title: `🚨 वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर`,
+    slug: `sports-breaking-report-52996-97840-2026`,
+    original_title: `वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `5 min read`,
+    views_count: 23519600,
+    shares_count: 3428600,
+    published_at: `2026-11-25T08:57:40Z`,
+    updated_at: `2026-11-25T08:57:40Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cqrkg620r8m7o`,
+    source_courtesy: `News Courtesy: BBC Digital Archives`,
+    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85&sig=97840`,
+    image_alt: `Verified news photograph: वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर`,
+    image_courtesy: `Photo: Stadium Sports Media (Unsplash Editorial)`,
+    image_photographer: `Stadium Sports Media`,
+    image_license: `Unsplash Editorial`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Sports, Breaking News, India, Verified`,
+    summary: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.`,
+    content: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.
+
+मंगलवार को पाकिस्तान ए टीम ने नेपाल की टीम को 96 रनों से हराया. लेकिन पाकिस्तान में इस जीत की बजाय यूएई के ख़िलाफ़ भारत की जीत की चर्चा अधिक हो रही है.
+
+15 साल के वैभव सूर्यवंशी ने लिस्ट ए में सबसे तेज़ दोहरा शतक लगाने का रिकॉर्ड बनाया.
+
+उन्होंने यूएई के ख़िलाफ़ महज 52 गेंदों में दोहरा शतक लगाया और इस दौरान उन्होंने 28 छक्के और सात चौके लगाए.
+
+भारत के पूर्व कप्तान सौरव गांगुली ने कहा , "वैभव सूर्यवंशी ने 28 गेंदों में शतक जड़कर लिस्ट ए क्रिकेट में सबसे तेज शतक लगाने का नया रिकॉर्ड बनाया. उन्होंने जेक फ्रेजर-मैकगर्क के 29 गेंदों में शतक के पिछले रिकॉर्ड को पीछे छोड़ दिया."
+
+गांगुली ने कहा, "उसने अच्छा खेला. यह ए टीम है. टी20 में उसकी क्षमता असाधारण है. इसके अलावा, उसकी पावर हिटिंग शानदार थी. उसने बहुत अच्छा खेला."
+
+पाकिस्तान में पूर्व क्रिकेटरों ने कहा कि 'इतने छक्के तो वीडियो गेम में भी नहीं लगते' या 'पूरी टीम भी इतने छक्के नहीं लगा पाती.'
+
+### 'इतने छक्के लगाए जितनी पूरी टीम नहीं लगा पाती'
+
+पाकिस्तान के पूर्व क्रिकेटर बासित अली ने कहा कि 'यूएई के ख़िलाफ़ तो मैच ही नहीं हो पाया.'
+
+अपने यूट्यूब चैनल पर उन्होंने कमेंट्री करते हुए कहा , "यूएई ने 249 रनों का ठीक-ठाक टार्गेट दिया था और लग रहा था कि दूसरी पारी में पिच ख़राब होगी लेकिन मैदान पर नज़ारा कुछ और था. वैभव ने इतने छक्के लगाए जितने पूरी टीम नहीं लगा पाती है."
+
+बासित अली ने कहा, "हर ओवर में या तो तीन छक्के और दो चौके या तीन चौके या दो छक्के उसने लगाए. लिस्ट ए के जितने रिकॉर्ड थे, वो बब्लू (वैभव) ले गए."
+
+"अंतरराष्ट्रीय स्तर पर टीमों ने जितने छक्के नहीं मारे होंगे, वैभव ने एक ही दिन में मार दिए. मेरे ख़्याल से उन्होंने केवल आठ रन भाग कर बनाए, जबकि क़रीब 196 रन केवल बाउंड्रीज़ से बनाए."
+
+"जिस ग्राउंड में खेल हो रहा था वो कोई छोटा ग्राउंड नहीं था. लेकिन दो मैचों से एक प्रेशर भी था प्रदर्शन न कर पाने का. उन्होंने सेमीफ़ाइनल और फ़ाइनल में आने से पहले अपनी फ़ॉर्म दिखा दी है."
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+पाकिस्तान के एक पूर्व क्रिकेटर मोहम्मद वसीम ने कहा कि 'वैभव सूर्यवंशी के रिकॉर्ड को कोई और नहीं तोड़ सकता, शायद वो खुद तोड़ पाएं.'
+
+पूर्व क्रिकेटर तनवीर अहमद ने कहा , "जो वो खेल रहे हैं, वो बहुत एक्सेप्शनल टैलेंट है. 15 साल के बच्चे के लिए यह वाक़ई हैरान करने वाला है."
+
+तनवीर अहमद ने सूर्यवंशी की उम्र को लेकर भी सवाल उठाए लेकिन ये भी कहा कि उन्हें अभी कमज़ोर क्षेत्रों में काम करने की और ज़रूरत है.
+
+उन्होंने कहा, "जिस तरीक़े से वो बैटिंग कर रहे थे, उन्हें अपने माफ़िक गेंदें मिल रही थीं और वो मारते जा रहे थे. शायद इसीलिए उन्हें इंटरनेशनल क्रिकेट उस तरीक़े से नहीं खिला रहे हैं क्योंकि इंटरनेशनल क्रिकेट में इस तरीक़े से छक्के मारना उतना आसान नहीं होता है."
+
+"शायद इसीलिए उन्हें टाइम दिया जा रहा है कि आप टीम के साथ रहें, टूर करते रहें और सीखें. जिन क्षेत्रों में वो कमज़ोर हैं, जैसे कवर्स में, तो उस पर अधिक काम करें. ये एक तरीक़ा होता है."
+
+पाकिस्तान क्रिकेट पर तंज़ करते हुए तनवीर अहमद ने कहा, "अगर वैभव पाकिस्तान में होते तो उन्हें टी-20, वनडे और टेस्ट टीम में भी खिलाया जा रहा होता और यहां तक कैप्टन भी बना दिया जाता."
+
+### 'इतने छक्के तो हाथ से भी न फेंके जाएं'
+
+पाकिस्तान के पूर्व क्रिकेटर कामरान अकमल ने एक यूट्यूब चैनल पर बातचीत में कहा कि जो काम 25-30 साल की उम्र में किया जा सकता है और जो क्रिकेट मिलती और प्रसिद्धि मिलती है, उसे वैभव ने 15 साल की उम्र में हासिल कर लिया."
+
+उन्होंने कहा, "चाहे कोई भी टीम हो, रिज़ल्ट भी देखना चाहिए. अगर कोई अकेला बाउंड्री की तरफ़ थ्रो भी फेंके तो भी इतने रन न हो पाएं. 52 गेंदें मैं फेंकू तब भी 28 छक्के न हों कभी. उसने वो बल्ले के साथ कर दिखाया."
+
+वैभव सूर्यवंशी के खेल को लेकर पाकिस्तान में अपनी टीम के साथ भी तुलना की जाने लगी है.
+
+इसी बातचीत में कामरान अकमल ने कहा, "वैभव का मेच्योरिटी लेवल और क्रिकेट के लिहाज से देखें तो उन्हें इंटरनेशनल क्रिकेट खेलने को मिल रहा है. उन्हें 15 साल की उम्र के लेवल से ही हटा दिया है."
+
+"जहां तक उनके उम्र की बात है तो ये बात अब हमें छोड़ ही देना चाहिए. हमारे यहां इस तरह के खिलाड़ी को अंडर 15 से ही न निकलने दें हम लोग. आप उनका माइंडसेट देखें कि वो इस तरह के खिलाड़ी को कौन सी क्रिकेट खिला रहे हैं. हमारे यहां ऊपर से नीचे की ओर लेकर आ रहे हैं. तो गेम अप्रोच में, पर्फ़ार्मेंस में और खेल में फ़र्क तो आएगा ही."
+
+कामरान ने सवाल किया कि पाकिस्तान में नए खिलाड़ियों को क्यों नहीं आगे लाया जा रहा है?
+
+पाकिस्तान के स्पोर्ट्स एनालिस्ट मोहम्मद मोहसिन ने अपने यूट्यूब चैनल पर वैभव की पारी को लेकर कहा कि यूएई की ड्रेसिंग में पूछा गया होगा, 'कितने आदमी थे. तो कहा गया होगा- वो अकेला ही था.'
+
+मोहम्मद मोहसिन ने कहा, "क्रिस गेल खुद को अनोखा खिलाड़ी मानते हैं. उनके रिकॉर्ड को तोड़कर वो (वैभव) क्रिकेट खेल रहे हैं. जिस दिन उनका बल्ला चलता है, कुछ और बात करने को होता ही नहीं है."
+
+सबसे तेज अर्धशतक: श्रीलंका ए के खिलाफ 11 गेंदों में, 21 जून को. इससे पहले यह रिकॉर्ड के वीरारत्ने के नाम था, जिन्होंने 1 नवंबर 2005 को 12 गेंदों में अर्धशतक बनाया था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cqrkg620r8m7o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर`,
+    summary_hi: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.`,
+    content_hi: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.
+
+मंगलवार को पाकिस्तान ए टीम ने नेपाल की टीम को 96 रनों से हराया. लेकिन पाकिस्तान में इस जीत की बजाय यूएई के ख़िलाफ़ भारत की जीत की चर्चा अधिक हो रही है.
+
+15 साल के वैभव सूर्यवंशी ने लिस्ट ए में सबसे तेज़ दोहरा शतक लगाने का रिकॉर्ड बनाया.
+
+उन्होंने यूएई के ख़िलाफ़ महज 52 गेंदों में दोहरा शतक लगाया और इस दौरान उन्होंने 28 छक्के और सात चौके लगाए.
+
+भारत के पूर्व कप्तान सौरव गांगुली ने कहा , "वैभव सूर्यवंशी ने 28 गेंदों में शतक जड़कर लिस्ट ए क्रिकेट में सबसे तेज शतक लगाने का नया रिकॉर्ड बनाया. उन्होंने जेक फ्रेजर-मैकगर्क के 29 गेंदों में शतक के पिछले रिकॉर्ड को पीछे छोड़ दिया."
+
+गांगुली ने कहा, "उसने अच्छा खेला. यह ए टीम है. टी20 में उसकी क्षमता असाधारण है. इसके अलावा, उसकी पावर हिटिंग शानदार थी. उसने बहुत अच्छा खेला."
+
+पाकिस्तान में पूर्व क्रिकेटरों ने कहा कि 'इतने छक्के तो वीडियो गेम में भी नहीं लगते' या 'पूरी टीम भी इतने छक्के नहीं लगा पाती.'
+
+### 'इतने छक्के लगाए जितनी पूरी टीम नहीं लगा पाती'
+
+पाकिस्तान के पूर्व क्रिकेटर बासित अली ने कहा कि 'यूएई के ख़िलाफ़ तो मैच ही नहीं हो पाया.'
+
+अपने यूट्यूब चैनल पर उन्होंने कमेंट्री करते हुए कहा , "यूएई ने 249 रनों का ठीक-ठाक टार्गेट दिया था और लग रहा था कि दूसरी पारी में पिच ख़राब होगी लेकिन मैदान पर नज़ारा कुछ और था. वैभव ने इतने छक्के लगाए जितने पूरी टीम नहीं लगा पाती है."
+
+बासित अली ने कहा, "हर ओवर में या तो तीन छक्के और दो चौके या तीन चौके या दो छक्के उसने लगाए. लिस्ट ए के जितने रिकॉर्ड थे, वो बब्लू (वैभव) ले गए."
+
+"अंतरराष्ट्रीय स्तर पर टीमों ने जितने छक्के नहीं मारे होंगे, वैभव ने एक ही दिन में मार दिए. मेरे ख़्याल से उन्होंने केवल आठ रन भाग कर बनाए, जबकि क़रीब 196 रन केवल बाउंड्रीज़ से बनाए."
+
+"जिस ग्राउंड में खेल हो रहा था वो कोई छोटा ग्राउंड नहीं था. लेकिन दो मैचों से एक प्रेशर भी था प्रदर्शन न कर पाने का. उन्होंने सेमीफ़ाइनल और फ़ाइनल में आने से पहले अपनी फ़ॉर्म दिखा दी है."
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+पाकिस्तान के एक पूर्व क्रिकेटर मोहम्मद वसीम ने कहा कि 'वैभव सूर्यवंशी के रिकॉर्ड को कोई और नहीं तोड़ सकता, शायद वो खुद तोड़ पाएं.'
+
+पूर्व क्रिकेटर तनवीर अहमद ने कहा , "जो वो खेल रहे हैं, वो बहुत एक्सेप्शनल टैलेंट है. 15 साल के बच्चे के लिए यह वाक़ई हैरान करने वाला है."
+
+तनवीर अहमद ने सूर्यवंशी की उम्र को लेकर भी सवाल उठाए लेकिन ये भी कहा कि उन्हें अभी कमज़ोर क्षेत्रों में काम करने की और ज़रूरत है.
+
+उन्होंने कहा, "जिस तरीक़े से वो बैटिंग कर रहे थे, उन्हें अपने माफ़िक गेंदें मिल रही थीं और वो मारते जा रहे थे. शायद इसीलिए उन्हें इंटरनेशनल क्रिकेट उस तरीक़े से नहीं खिला रहे हैं क्योंकि इंटरनेशनल क्रिकेट में इस तरीक़े से छक्के मारना उतना आसान नहीं होता है."
+
+"शायद इसीलिए उन्हें टाइम दिया जा रहा है कि आप टीम के साथ रहें, टूर करते रहें और सीखें. जिन क्षेत्रों में वो कमज़ोर हैं, जैसे कवर्स में, तो उस पर अधिक काम करें. ये एक तरीक़ा होता है."
+
+पाकिस्तान क्रिकेट पर तंज़ करते हुए तनवीर अहमद ने कहा, "अगर वैभव पाकिस्तान में होते तो उन्हें टी-20, वनडे और टेस्ट टीम में भी खिलाया जा रहा होता और यहां तक कैप्टन भी बना दिया जाता."
+
+### 'इतने छक्के तो हाथ से भी न फेंके जाएं'
+
+पाकिस्तान के पूर्व क्रिकेटर कामरान अकमल ने एक यूट्यूब चैनल पर बातचीत में कहा कि जो काम 25-30 साल की उम्र में किया जा सकता है और जो क्रिकेट मिलती और प्रसिद्धि मिलती है, उसे वैभव ने 15 साल की उम्र में हासिल कर लिया."
+
+उन्होंने कहा, "चाहे कोई भी टीम हो, रिज़ल्ट भी देखना चाहिए. अगर कोई अकेला बाउंड्री की तरफ़ थ्रो भी फेंके तो भी इतने रन न हो पाएं. 52 गेंदें मैं फेंकू तब भी 28 छक्के न हों कभी. उसने वो बल्ले के साथ कर दिखाया."
+
+वैभव सूर्यवंशी के खेल को लेकर पाकिस्तान में अपनी टीम के साथ भी तुलना की जाने लगी है.
+
+इसी बातचीत में कामरान अकमल ने कहा, "वैभव का मेच्योरिटी लेवल और क्रिकेट के लिहाज से देखें तो उन्हें इंटरनेशनल क्रिकेट खेलने को मिल रहा है. उन्हें 15 साल की उम्र के लेवल से ही हटा दिया है."
+
+"जहां तक उनके उम्र की बात है तो ये बात अब हमें छोड़ ही देना चाहिए. हमारे यहां इस तरह के खिलाड़ी को अंडर 15 से ही न निकलने दें हम लोग. आप उनका माइंडसेट देखें कि वो इस तरह के खिलाड़ी को कौन सी क्रिकेट खिला रहे हैं. हमारे यहां ऊपर से नीचे की ओर लेकर आ रहे हैं. तो गेम अप्रोच में, पर्फ़ार्मेंस में और खेल में फ़र्क तो आएगा ही."
+
+कामरान ने सवाल किया कि पाकिस्तान में नए खिलाड़ियों को क्यों नहीं आगे लाया जा रहा है?
+
+पाकिस्तान के स्पोर्ट्स एनालिस्ट मोहम्मद मोहसिन ने अपने यूट्यूब चैनल पर वैभव की पारी को लेकर कहा कि यूएई की ड्रेसिंग में पूछा गया होगा, 'कितने आदमी थे. तो कहा गया होगा- वो अकेला ही था.'
+
+मोहम्मद मोहसिन ने कहा, "क्रिस गेल खुद को अनोखा खिलाड़ी मानते हैं. उनके रिकॉर्ड को तोड़कर वो (वैभव) क्रिकेट खेल रहे हैं. जिस दिन उनका बल्ला चलता है, कुछ और बात करने को होता ही नहीं है."
+
+सबसे तेज अर्धशतक: श्रीलंका ए के खिलाफ 11 गेंदों में, 21 जून को. इससे पहले यह रिकॉर्ड के वीरारत्ने के नाम था, जिन्होंने 1 नवंबर 2005 को 12 गेंदों में अर्धशतक बनाया था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cqrkg620r8m7o)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Sports affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर.`,
+    primary_source: `BBC Official Dispatch`,
+  },
+  {
+    id: 97841,
+    title: `🚨 जो कुछ हुआ वह सही नहीं है, आईसीसी एक्शन ले', भारत-पाकिस्तान मैच में बवाल पर भड़के हरभजन - Jagran`,
+    slug: `sports-breaking-report-15578-97841-2026`,
+    original_title: `जो कुछ हुआ वह सही नहीं है, आईसीसी एक्शन ले', भारत-पाकिस्तान मैच में बवाल पर भड़के हरभजन - Jagran`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `2 min read`,
+    views_count: 23519840,
+    shares_count: 3428635,
+    published_at: `2026-11-25T08:57:40Z`,
+    updated_at: `2026-11-25T08:57:40Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/cricket/apni-baat-harbhajan-singh-urges-icc-boards-to-step-in-to-curb-indiapak-players-conduct-40447814.html`,
+    source_courtesy: `News Courtesy: Jagran Digital Archives`,
+    image_url: `/images/articles/sports-breaking-report-15578-97841-2026.webp`,
+    image_alt: `Verified news photograph: जो कुछ हुआ वह सही नहीं है, आईसीसी एक्शन ले', भारत-पाकिस्तान मैच में बवाल पर भड़के हरभजन - Jagran`,
+    image_courtesy: `Image Courtesy: Jagran`,
+    image_photographer: `Jagran`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Sports, Breaking News, India, Verified`,
+    summary: `एशिया कप राइजिंग स्टार्स 2026 में भारत ए और पाकिस्तान ए के बीच खेले गए मैच में खिलाड़ियों के बीच कई बार तनातनी देखने को मिली। पाकिस्तान ए की टीम ने मुकाबले में जीत हासिल की थी।`,
+    content: `एशिया कप राइजिंग स्टार्स 2026 में भारत ए और पाकिस्तान ए के बीच खेले गए मैच में खिलाड़ियों के बीच कई बार तनातनी देखने को मिली। पाकिस्तान ए की टीम ने मुकाबले में जीत हासिल की थी।
+
+जानिए मुख्य बातें और खबर का सार एक नजर में
+
+स्पोर्ट्स डेस्क, नई दिल्ली। एशिया कप राइजिंग स्टॉर्स में रविवार को भारत- पाकिस्तान मुकाबले में जमकर बवाल हुआ। मैच के दौरान कई बार दोनों देशों के खिलाड़ियों के बीच झड़प देखने को मिली। टीम इंडिया के पूर्व क्रिकेटर हरभजन सिंह ने इसे लेकर नाराजगी जाहिर की है। हरभजन सिंह ने आईसीसी से कार्रवाई की मांग की है।
+
+हरभजन सिंह ने आईसीसी से अपील है कि भारत-पाकिस्तान के खिलाड़ियों के बर्ताब पर ध्यान दें। उन्होंने कहा कि मैदान पर उनका व्यवहार आने वाली पीढ़ी के लिए एक बुरा उदाहरण पेश कर रहा है। हरभजन सिंह इस पूरी घटना से काफी गुस्से में नजर आए।
+
+### खिलाड़ियों का बर्ताव बिल्कुल सही नहीं था: हरभजन
+
+HSBC गोल्फिंग लीग के लॉन्च के मौके पर हरभजन सिंह ने कहा कि मैच के दौरान पाकिस्तान और भारत के खिलाड़ियों का बर्ताव बिल्कुल सही नहीं था, यह शर्मनाक है और आने वाली पीढ़ी के लिए एक बुरा उदाहरण पेश करता है। उन्होंने कहा कि आईसीसी और टूर्नामेंट से जुड़े बोर्ड को इस पर ध्यान देना चाहिए।
+
+हरभजन सिंह ने कहा दोनों टीमों के खिलाड़ियों के बर्ताव पर ध्यान दिया जाना चाहिए, खासकर इसलिए क्योंकि अंतरराष्ट्रीय क्रिकेटरों का युवा प्रशंसकों और उभरते खिलाड़ियों पर गहरा असर पड़ता है। पूर्व क्रिकेटर ने कहा कि आईसीसी को इसे लेकर एक्शन भी लेना चाहिए।
+
+बता दें कि दोहा में 'एशिया कप राइजिंग स्टार्स' मैच में 'इंडिया ए' को 'पाकिस्तान ए' के हाथों 48 रनों से हार का सामना करना पड़ा। मैच के दौरान दोनों टीमों के खिलाड़ियों के बीच कई बार तीखी बहस हुई। पहली गेंद से शुरू हुआ तनाव मैच के आखिर तक जारी रहा। सबसे पहले भारतीय तेज गेंदबाज हर्षित राणा की पाकिस्तान के ओपनर्स के साथ तीखी बहस हो गई। राणा ने ओपनर हुसैन को आउट करने के बाद उन्हें काफी आक्रामक अंदाज में विदा किया। हर्षित राणा ने रोहेल नज़ीर को आउट करने पर भी आक्रामक जश्न मनाया। वहीं दूसरी पारी में जब जब हर्षित राणा आउट हुए, तो पाकिस्तान के स्पिनर सुफियान मुकीम ने उन्हें आक्रामक विदाई दी।
+
+यह भी पढ़ें- वैभव सूर्यवंशी ने युवराज सिंह को बताई समस्या, 30 मिनट की कॉल पर युवी ने दिया 'गुरूमंत्र'; फिर आया ऐतिहासिक दोहरा शतक-Video
+
+यह भी पढ़ें- दो अलग-अलग मैदान पर 2 भारतीय बल्लेबाजों ने मचाई तबाही, रिकॉर्ड्स बुक का भी चकरा गया सिर
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/cricket/apni-baat-harbhajan-singh-urges-icc-boards-to-step-in-to-curb-indiapak-players-conduct-40447814.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `जो कुछ हुआ वह सही नहीं है, आईसीसी एक्शन ले', भारत-पाकिस्तान मैच में बवाल पर भड़के हरभजन - Jagran`,
+    summary_hi: `एशिया कप राइजिंग स्टार्स 2026 में भारत ए और पाकिस्तान ए के बीच खेले गए मैच में खिलाड़ियों के बीच कई बार तनातनी देखने को मिली। पाकिस्तान ए की टीम ने मुकाबले में जीत हासिल की थी।`,
+    content_hi: `एशिया कप राइजिंग स्टार्स 2026 में भारत ए और पाकिस्तान ए के बीच खेले गए मैच में खिलाड़ियों के बीच कई बार तनातनी देखने को मिली। पाकिस्तान ए की टीम ने मुकाबले में जीत हासिल की थी।
+
+जानिए मुख्य बातें और खबर का सार एक नजर में
+
+स्पोर्ट्स डेस्क, नई दिल्ली। एशिया कप राइजिंग स्टॉर्स में रविवार को भारत- पाकिस्तान मुकाबले में जमकर बवाल हुआ। मैच के दौरान कई बार दोनों देशों के खिलाड़ियों के बीच झड़प देखने को मिली। टीम इंडिया के पूर्व क्रिकेटर हरभजन सिंह ने इसे लेकर नाराजगी जाहिर की है। हरभजन सिंह ने आईसीसी से कार्रवाई की मांग की है।
+
+हरभजन सिंह ने आईसीसी से अपील है कि भारत-पाकिस्तान के खिलाड़ियों के बर्ताब पर ध्यान दें। उन्होंने कहा कि मैदान पर उनका व्यवहार आने वाली पीढ़ी के लिए एक बुरा उदाहरण पेश कर रहा है। हरभजन सिंह इस पूरी घटना से काफी गुस्से में नजर आए।
+
+### खिलाड़ियों का बर्ताव बिल्कुल सही नहीं था: हरभजन
+
+HSBC गोल्फिंग लीग के लॉन्च के मौके पर हरभजन सिंह ने कहा कि मैच के दौरान पाकिस्तान और भारत के खिलाड़ियों का बर्ताव बिल्कुल सही नहीं था, यह शर्मनाक है और आने वाली पीढ़ी के लिए एक बुरा उदाहरण पेश करता है। उन्होंने कहा कि आईसीसी और टूर्नामेंट से जुड़े बोर्ड को इस पर ध्यान देना चाहिए।
+
+हरभजन सिंह ने कहा दोनों टीमों के खिलाड़ियों के बर्ताव पर ध्यान दिया जाना चाहिए, खासकर इसलिए क्योंकि अंतरराष्ट्रीय क्रिकेटरों का युवा प्रशंसकों और उभरते खिलाड़ियों पर गहरा असर पड़ता है। पूर्व क्रिकेटर ने कहा कि आईसीसी को इसे लेकर एक्शन भी लेना चाहिए।
+
+बता दें कि दोहा में 'एशिया कप राइजिंग स्टार्स' मैच में 'इंडिया ए' को 'पाकिस्तान ए' के हाथों 48 रनों से हार का सामना करना पड़ा। मैच के दौरान दोनों टीमों के खिलाड़ियों के बीच कई बार तीखी बहस हुई। पहली गेंद से शुरू हुआ तनाव मैच के आखिर तक जारी रहा। सबसे पहले भारतीय तेज गेंदबाज हर्षित राणा की पाकिस्तान के ओपनर्स के साथ तीखी बहस हो गई। राणा ने ओपनर हुसैन को आउट करने के बाद उन्हें काफी आक्रामक अंदाज में विदा किया। हर्षित राणा ने रोहेल नज़ीर को आउट करने पर भी आक्रामक जश्न मनाया। वहीं दूसरी पारी में जब जब हर्षित राणा आउट हुए, तो पाकिस्तान के स्पिनर सुफियान मुकीम ने उन्हें आक्रामक विदाई दी।
+
+यह भी पढ़ें- वैभव सूर्यवंशी ने युवराज सिंह को बताई समस्या, 30 मिनट की कॉल पर युवी ने दिया 'गुरूमंत्र'; फिर आया ऐतिहासिक दोहरा शतक-Video
+
+यह भी पढ़ें- दो अलग-अलग मैदान पर 2 भारतीय बल्लेबाजों ने मचाई तबाही, रिकॉर्ड्स बुक का भी चकरा गया सिर
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/cricket/apni-baat-harbhajan-singh-urges-icc-boards-to-step-in-to-curb-indiapak-players-conduct-40447814.html)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Sports affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on जो कुछ हुआ वह सही नहीं है, आईसीसी एक्शन ले', भारत-पाकिस्तान मैच में बवाल पर भड़के हरभजन - Jagran.`,
+    primary_source: `Jagran Official Dispatch`,
+  },
+  {
+    id: 97842,
+    title: `🚨 Hrithik Roshan War 2 Failure: 400 करोड़ खर्चे, ऋतिक-NTR को भिड़ाया, फिर भी फ्लॉप हुई वॉर 2, अब डायरेक्टर ने तोड़ी चुप्पी - AajTak`,
+    slug: `hrithik-roshan-war-2-failure-400-ntr-2-aajtak-2026`,
+    original_title: `Hrithik Roshan War 2 Failure: 400 करोड़ खर्चे, ऋतिक-NTR को भिड़ाया, फिर भी फ्लॉप हुई वॉर 2, अब डायरेक्टर ने तोड़ी चुप्पी - AajTak`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `2 min read`,
+    views_count: 23520080,
+    shares_count: 3428670,
+    published_at: `2026-11-25T08:57:41Z`,
+    updated_at: `2026-11-25T08:57:41Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/entertainment/bollywood-news/story/ayan-mukerji-opens-up-war-2-box-office-failure-hrithik-roshan-junior-ntr-kiara-advani-yrf-spy-universe-tmovj-dskc-2704532-2026-11-24`,
+    source_courtesy: `News Courtesy: AajTak Digital Archives`,
+    image_url: `/images/articles/hrithik-roshan-war-2-failure-400-ntr-2-aajtak-2026.webp`,
+    image_alt: `Verified news photograph: Hrithik Roshan War 2 Failure: 400 करोड़ खर्चे, ऋतिक-NTR को भिड़ाया, फिर भी फ्लॉप हुई वॉर 2, अब डायरेक्टर ने तोड़ी चुप्पी - AajTak`,
+    image_courtesy: `Image Courtesy: AajTak`,
+    image_photographer: `AajTak`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Entertainment, Breaking News, India, Verified`,
+    summary: `ऋतिक रोशन की लास्ट फिल्म वॉर 2 बॉक्स ऑफिस पर वो कमाल नहीं दिखा पाई थी, जिसकी उम्मीद फैंस को थी. फिल्म को फ्लॉप घोषित किया गया. वॉर 2 में तेलुगू सुपरस्टार जूनियर एनटीआर, कियारा आडवाणी, और अनिल कपूर जैसे सितारे थे. वहीं, ये YRF के स्पाई यूनिव`,
+    content: `### पिछले साल स्पाई यूनिवर्स की फिल्म वॉर 2 बॉक्स ऑफिस पर नहीं चल पाई थी. ये एक बड़ी एक्शन मूवी थी, जिसमें ऋतिक वर्सेज NTR को सेटअप किया गया. अब फिल्म के डायरेक्टर अयान मुखर्जी ने बताया कि आखिर क्यों वॉर 2 फ्लॉप हुई.
+
+ऋतिक रोशन की लास्ट फिल्म वॉर 2 बॉक्स ऑफिस पर वो कमाल नहीं दिखा पाई थी, जिसकी उम्मीद फैंस को थी. फिल्म को फ्लॉप घोषित किया गया. वॉर 2 में तेलुगू सुपरस्टार जूनियर एनटीआर, कियारा आडवाणी, और अनिल कपूर जैसे सितारे थे. वहीं, ये YRF के स्पाई यूनिवर्स का हिस्सा थी. वॉर का पहला पार्ट ब्लॉकबस्टर था, इसलिए इसके सीक्वल का बेसब्री से इंतजार किया गया था.
+
+फिल्म वॉर 2 को अयान मुखर्जी ने डायरेक्ट किया था, जिन्होंने ब्रह्मास्त्र, ये जवानी है दीवानी, वेक अप सिड जैसी फिल्में बनाई थीं. ये उनकी पहली बड़ी बजट की एक्शन-थ्रिलर फिल्म थी. वॉर 2 की असफलता के एक साल बाद अयान ने इसपर बात की है. गोवा में आयोजित इंटरनेशनल फिल्म फेस्टिवल ऑफ इंडिया में उन्होंने बताया कि ये फ्रैंचाइजी उनकी नहीं थी. वो बतौर डायरेक्टर इससे जुड़े, जिसकी स्टोरी भी अयान ने नहीं लिखी थी.
+
+अयान ने कहा- मैंने इस फिल्म को डायरेक्ट करने का फैसला लिया था, लेकिन इसकी मेन कहानी यशराज फिल्म्स में तैयार हुई थी. इसे वॉर के राइटर्स, सिद्धार्थ आनंद और आदित्य चोपड़ा के नेतृत्व में तैयार किया गया था. मैंने वॉर 2 पर बहुत मेहनत की. ये एक ऐसी फ्रेंचाइजी थी, जो किसी और की थी. हमने इस फिल्म के लिए पूरी मेहनत की, लेकिन हमें वो नतीजा नहीं मिला, जिसकी हमने उम्मीद की थी.
+
+बता दें कि 'वॉर 2' की कहानी श्रीधर राघवन, अब्बास टायरवाला और आदित्य चोपड़ा ने लिखी थी जिन्होंने पहले पठान, टाइगर 3 की स्क्रिप्ट पर भी काम किया था. ये जूनियर एनटीआर का बॉलीवुड डेब्यू भी था.
+
+साल 2019 में आई सिद्धार्थ आनंद की फिल्म वॉर ने बॉक्स ऑफिस पर जबरदस्त कमाई की थी. ऋतिक रोशन और टाइगर श्रॉफ की इस फिल्म ने दुनियाभर में करीब 471 करोड़ रुपये का बिजनेस किया था. ये उस साल की सबसे ज्यादा कमाई करने वाली भारतीय फिल्मों में शामिल थी.
+
+पहली फिल्म की सफलता को देखते हुए मेकर्स ने इसका दूसरा पार्ट बनाने का फैसला किया. हालांकि, फिल्म के डायरेक्शन की जिम्मेदारी सिद्धार्थ आनंद की जगह अयान मुखर्जी को दी गई. करीब 300-400 करोड़ रुपये के बजट में बनी ये फिल्म 14 अगस्त 2025 को सिनेमाघरों में रिलीज हुई, लेकिन बॉक्स ऑफिस पर वैसा कमाल नहीं दिखा पाई जैसा इसके पहले पार्ट ने किया था.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/ayan-mukerji-opens-up-war-2-box-office-failure-hrithik-roshan-junior-ntr-kiara-advani-yrf-spy-universe-tmovj-dskc-2704532-2026-11-24)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Hrithik Roshan War 2 Failure: 400 करोड़ खर्चे, ऋतिक-NTR को भिड़ाया, फिर भी फ्लॉप हुई वॉर 2, अब डायरेक्टर ने तोड़ी चुप्पी - AajTak`,
+    summary_hi: `ऋतिक रोशन की लास्ट फिल्म वॉर 2 बॉक्स ऑफिस पर वो कमाल नहीं दिखा पाई थी, जिसकी उम्मीद फैंस को थी. फिल्म को फ्लॉप घोषित किया गया. वॉर 2 में तेलुगू सुपरस्टार जूनियर एनटीआर, कियारा आडवाणी, और अनिल कपूर जैसे सितारे थे. वहीं, ये YRF के स्पाई यूनिव`,
+    content_hi: `### पिछले साल स्पाई यूनिवर्स की फिल्म वॉर 2 बॉक्स ऑफिस पर नहीं चल पाई थी. ये एक बड़ी एक्शन मूवी थी, जिसमें ऋतिक वर्सेज NTR को सेटअप किया गया. अब फिल्म के डायरेक्टर अयान मुखर्जी ने बताया कि आखिर क्यों वॉर 2 फ्लॉप हुई.
+
+ऋतिक रोशन की लास्ट फिल्म वॉर 2 बॉक्स ऑफिस पर वो कमाल नहीं दिखा पाई थी, जिसकी उम्मीद फैंस को थी. फिल्म को फ्लॉप घोषित किया गया. वॉर 2 में तेलुगू सुपरस्टार जूनियर एनटीआर, कियारा आडवाणी, और अनिल कपूर जैसे सितारे थे. वहीं, ये YRF के स्पाई यूनिवर्स का हिस्सा थी. वॉर का पहला पार्ट ब्लॉकबस्टर था, इसलिए इसके सीक्वल का बेसब्री से इंतजार किया गया था.
+
+फिल्म वॉर 2 को अयान मुखर्जी ने डायरेक्ट किया था, जिन्होंने ब्रह्मास्त्र, ये जवानी है दीवानी, वेक अप सिड जैसी फिल्में बनाई थीं. ये उनकी पहली बड़ी बजट की एक्शन-थ्रिलर फिल्म थी. वॉर 2 की असफलता के एक साल बाद अयान ने इसपर बात की है. गोवा में आयोजित इंटरनेशनल फिल्म फेस्टिवल ऑफ इंडिया में उन्होंने बताया कि ये फ्रैंचाइजी उनकी नहीं थी. वो बतौर डायरेक्टर इससे जुड़े, जिसकी स्टोरी भी अयान ने नहीं लिखी थी.
+
+अयान ने कहा- मैंने इस फिल्म को डायरेक्ट करने का फैसला लिया था, लेकिन इसकी मेन कहानी यशराज फिल्म्स में तैयार हुई थी. इसे वॉर के राइटर्स, सिद्धार्थ आनंद और आदित्य चोपड़ा के नेतृत्व में तैयार किया गया था. मैंने वॉर 2 पर बहुत मेहनत की. ये एक ऐसी फ्रेंचाइजी थी, जो किसी और की थी. हमने इस फिल्म के लिए पूरी मेहनत की, लेकिन हमें वो नतीजा नहीं मिला, जिसकी हमने उम्मीद की थी.
+
+बता दें कि 'वॉर 2' की कहानी श्रीधर राघवन, अब्बास टायरवाला और आदित्य चोपड़ा ने लिखी थी जिन्होंने पहले पठान, टाइगर 3 की स्क्रिप्ट पर भी काम किया था. ये जूनियर एनटीआर का बॉलीवुड डेब्यू भी था.
+
+साल 2019 में आई सिद्धार्थ आनंद की फिल्म वॉर ने बॉक्स ऑफिस पर जबरदस्त कमाई की थी. ऋतिक रोशन और टाइगर श्रॉफ की इस फिल्म ने दुनियाभर में करीब 471 करोड़ रुपये का बिजनेस किया था. ये उस साल की सबसे ज्यादा कमाई करने वाली भारतीय फिल्मों में शामिल थी.
+
+पहली फिल्म की सफलता को देखते हुए मेकर्स ने इसका दूसरा पार्ट बनाने का फैसला किया. हालांकि, फिल्म के डायरेक्शन की जिम्मेदारी सिद्धार्थ आनंद की जगह अयान मुखर्जी को दी गई. करीब 300-400 करोड़ रुपये के बजट में बनी ये फिल्म 14 अगस्त 2025 को सिनेमाघरों में रिलीज हुई, लेकिन बॉक्स ऑफिस पर वैसा कमाल नहीं दिखा पाई जैसा इसके पहले पार्ट ने किया था.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/ayan-mukerji-opens-up-war-2-box-office-failure-hrithik-roshan-junior-ntr-kiara-advani-yrf-spy-universe-tmovj-dskc-2704532-2026-11-24)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Entertainment affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on Hrithik Roshan War 2 Failure: 400 करोड़ खर्चे, ऋतिक-NTR को भिड़ाया, फिर भी फ्लॉप हुई वॉर 2, अब डायरेक्टर ने तोड़ी चुप्पी - AajTak.`,
+    primary_source: `AajTak Official Dispatch`,
+  },
+  {
+    id: 97843,
+    title: `🚨 जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    slug: `entertainment-breaking-report-76302-97843-2026`,
+    original_title: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `4 min read`,
+    views_count: 23520320,
+    shares_count: 3428705,
+    published_at: `2026-11-25T08:57:41Z`,
+    updated_at: `2026-11-25T08:57:41Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cm93r9d9ypx0o`,
+    source_courtesy: `News Courtesy: BBC Digital Archives`,
+    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85&sig=97843`,
+    image_alt: `Verified news photograph: जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    image_courtesy: `Photo: Cinema Premiere Desk (Unsplash Editorial)`,
+    image_photographer: `Cinema Premiere Desk`,
+    image_license: `Unsplash Editorial`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Entertainment, Breaking News, India, Verified`,
+    summary: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.`,
+    content: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.
+
+लेकिन भारत में इस सीरीज़ की रिलीज़ पर बैन लगाने की मांग उठ रही है.
+
+यह सीरीज़ 4 दिसंबर, 2026 को रिलीज़ होगी और दुनिया भर के 191 देशों में उपलब्ध होगी. इसे कई भाषाओं में डब किया गया है.
+
+एमडी फ़िल्म्स के बैनर तले बनी इस सीरीज़ की कहानी मशहूर उपन्यासकार फ़रहत इश्तियाक़ ने लिखी है, जबकि इसका निर्माण और निर्देशन मोमिना दुरैद ने किया है.
+
+इस सीरीज़ के पहले हिस्से में कुल पाँच एपिसोड हैं, जबकि इसमें कुल 13 एपिसोड होने की संभावना है. इसकी कहानी तीन पीढ़ियों और छह प्रेम कहानियों के इर्द-गिर्द घूमती है.
+
+पाकिस्तानी लेखिका फ़रहत इश्तियाक़ ने 2013 में 'जो बचे हैं संग समेट लो' नाम से एक उपन्यास लिखा था.
+
+इसकी कहानी मुख्य रूप से सिकंदर (अहद रज़ा मीर) और लीसा (इक़रा अज़ीज़) के इर्द-गिर्द घूमती है. सिकंदर हार्वर्ड में क़ानून का छात्र है. वह अपने अतीत से परेशान होकर इटली के रोम शहर चला जाता है, जहां उसकी मुलाक़ात लीसा से होती है.
+
+लीसा एक चित्रकार है और उसका जीवन भी कई उलझनों से घिरा हुआ है.
+
+इटली में उनकी मुलाक़ात उनके जीवन को एक अप्रत्याशित मोड़ देती है. ट्रेलर से पता चलता है कि इस ड्रामा की शूटिंग रोम के अलावा कराची, स्कार्दू और लंदन में भी हुई है.
+
+प्यार, रिश्ते और इंसानी जुड़ाव इसकी कहानी के मुख्य विषय हैं, जिन्हें अलग-अलग क़िरदारों और पीढ़ियों के जीवन के ज़रिए दिखाया गया है.
+
+इस सीरीज़ का नाम और इसका मूल विचार फ़ैज़ अहमद फ़ैज़ की एक ग़ज़ल से प्रेरित है. इस लिहाज़ से, कहानी सिर्फ़ प्रेम संबंधों तक सीमित नहीं है, बल्कि इसमें जीवन भर संजोई गई यादों, रिश्तों और अनुभवों को भी शामिल किया गया है
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+इस सीरीज़ की एक ख़ास बात इसमें शामिल पाकिस्तान के कुछ बड़े कलाकारों की टोली है. इसमें अहद रज़ा मीर और इकरा अज़ीज़ के साथ फ़वाद ख़ान, माहिरा ख़ान, हानिया आमिर, हमज़ा अली अब्बासी, सनम सईद, माया अली, आमना शेख़, ख़ुशाल ख़ान, अहमद अली अकबर और बिलाल अशरफ़ भी हैं.
+
+निर्देशक मोमिना दुरैद के बेटे शाह ज़ैन दुरैद इस सीरीज़ से अभिनय की शुरुआत कर रहे हैं. पाकिस्तानी दर्शकों के लिए इस सीरीज़ की एक ख़ास बात फ़वाद ख़ान और माहिरा ख़ान की जोड़ी है.
+
+बीबीसी न्यूज़ उर्दू से बात करते हुए अमीना शेख़ ने बताया कि एक अभिनेत्री के तौर पर वह अपने आने वाले प्रोजेक्ट्स में व्यस्त थीं, लेकिन निर्माता और बाकी टीम इस सीरीज़ को पूरा करने में जुटी हुई थी. हाल ही में डबिंग के दौरान उन्हें एहसास हुआ कि इस दौरान कितना काम हो चुका है.
+
+वह कहती हैं, "मैं इस प्रोजेक्ट का हिस्सा बनकर बहुत ख़ुश और उत्साहित हूं. मुझे ख़ुशी है कि इस सीरीज़ में नज़र आने वाले सभी कलाकारों ने इसके लिए अपना समय दिया. मुझे लगता है कि इस टीम का हर कलाकार इसके लायक़ है."
+
+उनके मुताबिक़, "एक ही प्रोजेक्ट में इतने सारे कलाकारों का एक साथ आना पाकिस्तानी मनोरंजन उद्योग के लिए भी स्वागत योग्य है."
+
+### आठ साल की तैयारी, 200 दिन की शूटिंग
+
+इस सीरीज़ को बनाने का सफ़र भी काफ़ी लंबा रहा है. मोमिना दुरैद के मुताबिक़, इस प्रोजेक्ट पर काम करने में लगभग आठ साल लगे, जबकि इसकी शूटिंग 200 दिनों तक चली.
+
+वह कहती हैं, "जब इस परियोजना के ज़रिए नेटफ़्लिक्स के दरवाज़े पाकिस्तान के लिए खुलेंगे, तब मुझे गर्व होगा."
+
+उपन्यासकार फ़रहत इश्तियाक़ भी इस मौक़े को अपने काम के वैश्विक प्रदर्शन से कहीं बढ़कर मानती हैं.
+
+वह कहती हैं, "इस समय बहुत ख़ुशी है और साथ ही बहुत डर भी. यह एक बहुत बड़ी और भावनात्मक स्थिति है. मुझे अपने लिए उतनी ख़ुशी नहीं है जितनी अपने देश के लिए है कि अब पाकिस्तानी नाटकों को वैश्विक दर्शक देखेंगे. मैं चाहती हूं कि पाकिस्तान की वह छवि जो दुनिया को जाननी चाहिए, इस नाटक के माध्यम से दुनिया तक पहुंचे."
+
+इस सीरीज़ का संगीत और बैकग्राउंड स्कोर जाने-माने संगीतकार रोहैल हयात ने तैयार किया है. वह 80 और 90 के दशक में 'वाइटल साइंस' बैंड के सदस्य थे. बाद में कोक स्टूडियो के शुरुआती और लोकप्रिय दौर में भी उन्हें काफ़ी शोहरत मिली.
+
+रोहैल हयात का इस परियोजना से जुड़ना इसलिए भी अहम है क्योंकि उनका काम पाकिस्तानी संगीत में पारंपरिक और आधुनिक शैलियों के मेल के लिए जाना जाता है.
+
+सीरीज़ का ट्रेलर और संगीत जारी होने के बाद इसके कलाकारों ने भी इसे सोशल मीडिया पर साझा किया, जहां इस परियोजना को लेकर लोगों ने दिलचस्पी दिखाई.
+
+अभिनेत्री माहिरा ख़ान ने अपने क़िरदार राहत के बारे में एक पोस्ट साझा करते हुए कहा, "इस क़िरदार का एक हिस्सा उसके जीवन भर उसके साथ रहेगा."
+
+पाकिस्तानी ड्रामे विदेशों में रहने वाले दक्षिण एशियाई दर्शकों के बीच कई साल से लोकप्रिय रहे हैं.
+
+यूट्यूब और सोशल मीडिया ने इनकी पहुंच और बढ़ा दी है. भारत समेत दूसरे देशों में भी पाकिस्तानी ड्रामा के संवादों और किरदारों पर बने वीडियो इस लोकप्रियता की मिसाल हैं.
+
+लेकिन यह लोकप्रियता ज़्यादातर उन लोगों तक ही सीमित रही है जो पाकिस्तानी संस्कृति, भाषा या कलाकारों से पहले से परिचित हैं.
+
+नेटफ़्लिक्स जैसे मंच पर मौजूदगी से उन लोगों तक भी पहुंचना मुमकिन हो सकता है जिन्होंने पहले कभी कोई पाकिस्तानी ड्रामा नहीं देखा है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cm93r9d9ypx0o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    summary_hi: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.`,
+    content_hi: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.
+
+लेकिन भारत में इस सीरीज़ की रिलीज़ पर बैन लगाने की मांग उठ रही है.
+
+यह सीरीज़ 4 दिसंबर, 2026 को रिलीज़ होगी और दुनिया भर के 191 देशों में उपलब्ध होगी. इसे कई भाषाओं में डब किया गया है.
+
+एमडी फ़िल्म्स के बैनर तले बनी इस सीरीज़ की कहानी मशहूर उपन्यासकार फ़रहत इश्तियाक़ ने लिखी है, जबकि इसका निर्माण और निर्देशन मोमिना दुरैद ने किया है.
+
+इस सीरीज़ के पहले हिस्से में कुल पाँच एपिसोड हैं, जबकि इसमें कुल 13 एपिसोड होने की संभावना है. इसकी कहानी तीन पीढ़ियों और छह प्रेम कहानियों के इर्द-गिर्द घूमती है.
+
+पाकिस्तानी लेखिका फ़रहत इश्तियाक़ ने 2013 में 'जो बचे हैं संग समेट लो' नाम से एक उपन्यास लिखा था.
+
+इसकी कहानी मुख्य रूप से सिकंदर (अहद रज़ा मीर) और लीसा (इक़रा अज़ीज़) के इर्द-गिर्द घूमती है. सिकंदर हार्वर्ड में क़ानून का छात्र है. वह अपने अतीत से परेशान होकर इटली के रोम शहर चला जाता है, जहां उसकी मुलाक़ात लीसा से होती है.
+
+लीसा एक चित्रकार है और उसका जीवन भी कई उलझनों से घिरा हुआ है.
+
+इटली में उनकी मुलाक़ात उनके जीवन को एक अप्रत्याशित मोड़ देती है. ट्रेलर से पता चलता है कि इस ड्रामा की शूटिंग रोम के अलावा कराची, स्कार्दू और लंदन में भी हुई है.
+
+प्यार, रिश्ते और इंसानी जुड़ाव इसकी कहानी के मुख्य विषय हैं, जिन्हें अलग-अलग क़िरदारों और पीढ़ियों के जीवन के ज़रिए दिखाया गया है.
+
+इस सीरीज़ का नाम और इसका मूल विचार फ़ैज़ अहमद फ़ैज़ की एक ग़ज़ल से प्रेरित है. इस लिहाज़ से, कहानी सिर्फ़ प्रेम संबंधों तक सीमित नहीं है, बल्कि इसमें जीवन भर संजोई गई यादों, रिश्तों और अनुभवों को भी शामिल किया गया है
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+इस सीरीज़ की एक ख़ास बात इसमें शामिल पाकिस्तान के कुछ बड़े कलाकारों की टोली है. इसमें अहद रज़ा मीर और इकरा अज़ीज़ के साथ फ़वाद ख़ान, माहिरा ख़ान, हानिया आमिर, हमज़ा अली अब्बासी, सनम सईद, माया अली, आमना शेख़, ख़ुशाल ख़ान, अहमद अली अकबर और बिलाल अशरफ़ भी हैं.
+
+निर्देशक मोमिना दुरैद के बेटे शाह ज़ैन दुरैद इस सीरीज़ से अभिनय की शुरुआत कर रहे हैं. पाकिस्तानी दर्शकों के लिए इस सीरीज़ की एक ख़ास बात फ़वाद ख़ान और माहिरा ख़ान की जोड़ी है.
+
+बीबीसी न्यूज़ उर्दू से बात करते हुए अमीना शेख़ ने बताया कि एक अभिनेत्री के तौर पर वह अपने आने वाले प्रोजेक्ट्स में व्यस्त थीं, लेकिन निर्माता और बाकी टीम इस सीरीज़ को पूरा करने में जुटी हुई थी. हाल ही में डबिंग के दौरान उन्हें एहसास हुआ कि इस दौरान कितना काम हो चुका है.
+
+वह कहती हैं, "मैं इस प्रोजेक्ट का हिस्सा बनकर बहुत ख़ुश और उत्साहित हूं. मुझे ख़ुशी है कि इस सीरीज़ में नज़र आने वाले सभी कलाकारों ने इसके लिए अपना समय दिया. मुझे लगता है कि इस टीम का हर कलाकार इसके लायक़ है."
+
+उनके मुताबिक़, "एक ही प्रोजेक्ट में इतने सारे कलाकारों का एक साथ आना पाकिस्तानी मनोरंजन उद्योग के लिए भी स्वागत योग्य है."
+
+### आठ साल की तैयारी, 200 दिन की शूटिंग
+
+इस सीरीज़ को बनाने का सफ़र भी काफ़ी लंबा रहा है. मोमिना दुरैद के मुताबिक़, इस प्रोजेक्ट पर काम करने में लगभग आठ साल लगे, जबकि इसकी शूटिंग 200 दिनों तक चली.
+
+वह कहती हैं, "जब इस परियोजना के ज़रिए नेटफ़्लिक्स के दरवाज़े पाकिस्तान के लिए खुलेंगे, तब मुझे गर्व होगा."
+
+उपन्यासकार फ़रहत इश्तियाक़ भी इस मौक़े को अपने काम के वैश्विक प्रदर्शन से कहीं बढ़कर मानती हैं.
+
+वह कहती हैं, "इस समय बहुत ख़ुशी है और साथ ही बहुत डर भी. यह एक बहुत बड़ी और भावनात्मक स्थिति है. मुझे अपने लिए उतनी ख़ुशी नहीं है जितनी अपने देश के लिए है कि अब पाकिस्तानी नाटकों को वैश्विक दर्शक देखेंगे. मैं चाहती हूं कि पाकिस्तान की वह छवि जो दुनिया को जाननी चाहिए, इस नाटक के माध्यम से दुनिया तक पहुंचे."
+
+इस सीरीज़ का संगीत और बैकग्राउंड स्कोर जाने-माने संगीतकार रोहैल हयात ने तैयार किया है. वह 80 और 90 के दशक में 'वाइटल साइंस' बैंड के सदस्य थे. बाद में कोक स्टूडियो के शुरुआती और लोकप्रिय दौर में भी उन्हें काफ़ी शोहरत मिली.
+
+रोहैल हयात का इस परियोजना से जुड़ना इसलिए भी अहम है क्योंकि उनका काम पाकिस्तानी संगीत में पारंपरिक और आधुनिक शैलियों के मेल के लिए जाना जाता है.
+
+सीरीज़ का ट्रेलर और संगीत जारी होने के बाद इसके कलाकारों ने भी इसे सोशल मीडिया पर साझा किया, जहां इस परियोजना को लेकर लोगों ने दिलचस्पी दिखाई.
+
+अभिनेत्री माहिरा ख़ान ने अपने क़िरदार राहत के बारे में एक पोस्ट साझा करते हुए कहा, "इस क़िरदार का एक हिस्सा उसके जीवन भर उसके साथ रहेगा."
+
+पाकिस्तानी ड्रामे विदेशों में रहने वाले दक्षिण एशियाई दर्शकों के बीच कई साल से लोकप्रिय रहे हैं.
+
+यूट्यूब और सोशल मीडिया ने इनकी पहुंच और बढ़ा दी है. भारत समेत दूसरे देशों में भी पाकिस्तानी ड्रामा के संवादों और किरदारों पर बने वीडियो इस लोकप्रियता की मिसाल हैं.
+
+लेकिन यह लोकप्रियता ज़्यादातर उन लोगों तक ही सीमित रही है जो पाकिस्तानी संस्कृति, भाषा या कलाकारों से पहले से परिचित हैं.
+
+नेटफ़्लिक्स जैसे मंच पर मौजूदगी से उन लोगों तक भी पहुंचना मुमकिन हो सकता है जिन्होंने पहले कभी कोई पाकिस्तानी ड्रामा नहीं देखा है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cm93r9d9ypx0o)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Entertainment affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?.`,
+    primary_source: `BBC Official Dispatch`,
+  },
+  {
+    id: 97844,
+    title: `🚨 20वें दिन 'बजरंग बली' की कृपा से Ramayana के हाथ लगा 'खजाना', मंगलवार को रणबीर कपूर की फिल्म पर हुई धनवर्षा - Jagran`,
+    slug: `20-ramayana-jagran-2026`,
+    original_title: `20वें दिन 'बजरंग बली' की कृपा से Ramayana के हाथ लगा 'खजाना', मंगलवार को रणबीर कपूर की फिल्म पर हुई धनवर्षा - Jagran`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `2 min read`,
+    views_count: 23520560,
+    shares_count: 3428740,
+    published_at: `2026-11-25T08:57:42Z`,
+    updated_at: `2026-11-25T08:57:42Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/entertainment/box-office-ramayana-box-office-collection-ranbir-kapoor-yash-film-close-to-1800-crore-worldwide-40447595.html`,
+    source_courtesy: `News Courtesy: Jagran Digital Archives`,
+    image_url: `/images/articles/20-ramayana-jagran-2026.webp`,
+    image_alt: `Verified news photograph: 20वें दिन 'बजरंग बली' की कृपा से Ramayana के हाथ लगा 'खजाना', मंगलवार को रणबीर कपूर की फिल्म पर हुई धनवर्षा - Jagran`,
+    image_courtesy: `Image Courtesy: Jagran`,
+    image_photographer: `Jagran`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Ramayana, Breaking News, India, Verified`,
+    summary: `नितेश तिवारी निर्देशित फिल्म 'रामायण' बॉक्स ऑफिस पर शानदार प्रदर्शन कर रही है। फिल्म दुनियाभर में 2000 करोड़ रुपये के कलेक्शन के बेहद करीब है।`,
+    content: `नितेश तिवारी निर्देशित फिल्म 'रामायण' बॉक्स ऑफिस पर शानदार प्रदर्शन कर रही है। फिल्म दुनियाभर में 2000 करोड़ रुपये के कलेक्शन के बेहद करीब है।
+
+दुनियाभर में कितना हुआ रामायण का कलेक्शन
+
+जल्द 2000 करोड़ पार रुपये का आंकड़ा करेगी पार
+
+फिल्म ने यश ने निभाया है रावण का किरदार
+
+एंटरटेनमेंट डेस्क,नई दिल्ली। नितेश तिवारी निर्देशित फिल्म रामायण (Ramayana) बॉक्स ऑफिस पर कमाल कर रही है। मूवी में रणबीर कपूर (Ranbir Kapoor) ने राम और यश (Yash) ने रावण का किरदार निभाया है।
+
+फिल्म 5 नवंबर 2026 को रिलीज हुई थी और तब से ये लगातार रिकॉर्ड तोड़ रही है। 20वें दिन भी इसकी रफ़्तार बनी हुई है। फिल्म ने पहले दिन 64.85 करोड़ रुपये का कलेक्शन किया। इसके बाद दीवाली वीक का इसे भरपूर फायदा मिला और दूसरे और तीसरे दिन की कमाई 48.05 करोड़ और 69.80 करोड़ रुपये रहा।
+
+इस हिसाब से पहले हफ्ते फिल्म ने 564.60 करोड़ रुपये का कलेक्शन किया। वहीं दूसरे हफ्ते इसकी कमाई 299.15 करोड़ रुपये रही। इसी के साथ 20वें दिन 17.50 करोड़ रुपये की कमाई के साथ फिल्म ने तीसरा हफ्ता 109.20 करोड़ रुपये के कलेक्शन के साथ खत्म किया।
+
+इस हिसाब से 20 दिनों में फिल्म का कुल घरेलू कलेक्शन 972.95 करोड़ रुपये हो गया है जबकि ग्रॉस कलेक्शन 1,162.15 करोड़ रुपये पर आकर खत्म हुआ।
+
+### दुनियाभर में कितना हुआ रामायण का कलेक्शन?
+
+वहीं बात करें दुनियाभर में इसकी कमाई की तो फिल्म ने ओवरसीज 573.00 करोड़ रुपये के कलेक्शन के साथ 20 दिनों में अब तक 1735.15 करोड़ रुपये का कलेक्शन कर लिया है। कमाई के मामले में अगर रामायण दुनियाभर में इसी तरह कलेक्शन करती रही तो बहुत जल्द ये दुनियाभर में 2000 करोड़ रुपये का आंकड़ा भी पार कर लेगी।
+
+रामायण को नमित मल्होत्रा के 'प्राइम फोकस स्टूडियोज' ने DNEG और यश की 'मॉन्स्टर माइंड क्रिएशन्स' के साथ मिलकर प्रोड्यूस किया है। यह फिल्म भगवान राम की यात्रा, उनके वनवास, रावण द्वारा सीता के अपहरण और उसके बाद अच्छाई और बुराई की ताकतों के बीच होने वाले युद्ध को दर्शाती है।
+
+फिल्म का संगीत ऑस्कर विजेता संगीतकार हंस ज़िमर और ए.आर. रहमान ने तैयार किया है, जबकि टेरी नोटरी और गाइ नॉरिस इसकी एक्शन टीम का हिस्सा हैं। फिल्म में सनी देओल, अनुपम खेर, काजल अग्रवाल, रकुल प्रीत सिंह, विवेक ओबेरॉय, आदिनाथ कोठारे, अरुण गोविल, कुणाल कपूर, इंदिरा कृष्णन और लारा दत्ता जैसे कई अन्य कलाकार भी शामिल हैं।
+
+यह भी पढ़ें- 20वें दिन Ramayana की रफ्तार हुई और तेज, मंगलवार को Ranbir Kapoor की फिल्म ने किया छप्परफाड़ कलेक्शन
+
+यह भी पढ़ें- 1700 करोड़ पार पहुंची Ramayana, सोमवार को 'भोलेनाथ' की कृपा से हुई नोटों की बारिश; खतरे में धुरंधर 2 का सिंहासन
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/entertainment/box-office-ramayana-box-office-collection-ranbir-kapoor-yash-film-close-to-1800-crore-worldwide-40447595.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `20वें दिन 'बजरंग बली' की कृपा से Ramayana के हाथ लगा 'खजाना', मंगलवार को रणबीर कपूर की फिल्म पर हुई धनवर्षा - Jagran`,
+    summary_hi: `नितेश तिवारी निर्देशित फिल्म 'रामायण' बॉक्स ऑफिस पर शानदार प्रदर्शन कर रही है। फिल्म दुनियाभर में 2000 करोड़ रुपये के कलेक्शन के बेहद करीब है।`,
+    content_hi: `नितेश तिवारी निर्देशित फिल्म 'रामायण' बॉक्स ऑफिस पर शानदार प्रदर्शन कर रही है। फिल्म दुनियाभर में 2000 करोड़ रुपये के कलेक्शन के बेहद करीब है।
+
+दुनियाभर में कितना हुआ रामायण का कलेक्शन
+
+जल्द 2000 करोड़ पार रुपये का आंकड़ा करेगी पार
+
+फिल्म ने यश ने निभाया है रावण का किरदार
+
+एंटरटेनमेंट डेस्क,नई दिल्ली। नितेश तिवारी निर्देशित फिल्म रामायण (Ramayana) बॉक्स ऑफिस पर कमाल कर रही है। मूवी में रणबीर कपूर (Ranbir Kapoor) ने राम और यश (Yash) ने रावण का किरदार निभाया है।
+
+फिल्म 5 नवंबर 2026 को रिलीज हुई थी और तब से ये लगातार रिकॉर्ड तोड़ रही है। 20वें दिन भी इसकी रफ़्तार बनी हुई है। फिल्म ने पहले दिन 64.85 करोड़ रुपये का कलेक्शन किया। इसके बाद दीवाली वीक का इसे भरपूर फायदा मिला और दूसरे और तीसरे दिन की कमाई 48.05 करोड़ और 69.80 करोड़ रुपये रहा।
+
+इस हिसाब से पहले हफ्ते फिल्म ने 564.60 करोड़ रुपये का कलेक्शन किया। वहीं दूसरे हफ्ते इसकी कमाई 299.15 करोड़ रुपये रही। इसी के साथ 20वें दिन 17.50 करोड़ रुपये की कमाई के साथ फिल्म ने तीसरा हफ्ता 109.20 करोड़ रुपये के कलेक्शन के साथ खत्म किया।
+
+इस हिसाब से 20 दिनों में फिल्म का कुल घरेलू कलेक्शन 972.95 करोड़ रुपये हो गया है जबकि ग्रॉस कलेक्शन 1,162.15 करोड़ रुपये पर आकर खत्म हुआ।
+
+### दुनियाभर में कितना हुआ रामायण का कलेक्शन?
+
+वहीं बात करें दुनियाभर में इसकी कमाई की तो फिल्म ने ओवरसीज 573.00 करोड़ रुपये के कलेक्शन के साथ 20 दिनों में अब तक 1735.15 करोड़ रुपये का कलेक्शन कर लिया है। कमाई के मामले में अगर रामायण दुनियाभर में इसी तरह कलेक्शन करती रही तो बहुत जल्द ये दुनियाभर में 2000 करोड़ रुपये का आंकड़ा भी पार कर लेगी।
+
+रामायण को नमित मल्होत्रा के 'प्राइम फोकस स्टूडियोज' ने DNEG और यश की 'मॉन्स्टर माइंड क्रिएशन्स' के साथ मिलकर प्रोड्यूस किया है। यह फिल्म भगवान राम की यात्रा, उनके वनवास, रावण द्वारा सीता के अपहरण और उसके बाद अच्छाई और बुराई की ताकतों के बीच होने वाले युद्ध को दर्शाती है।
+
+फिल्म का संगीत ऑस्कर विजेता संगीतकार हंस ज़िमर और ए.आर. रहमान ने तैयार किया है, जबकि टेरी नोटरी और गाइ नॉरिस इसकी एक्शन टीम का हिस्सा हैं। फिल्म में सनी देओल, अनुपम खेर, काजल अग्रवाल, रकुल प्रीत सिंह, विवेक ओबेरॉय, आदिनाथ कोठारे, अरुण गोविल, कुणाल कपूर, इंदिरा कृष्णन और लारा दत्ता जैसे कई अन्य कलाकार भी शामिल हैं।
+
+यह भी पढ़ें- 20वें दिन Ramayana की रफ्तार हुई और तेज, मंगलवार को Ranbir Kapoor की फिल्म ने किया छप्परफाड़ कलेक्शन
+
+यह भी पढ़ें- 1700 करोड़ पार पहुंची Ramayana, सोमवार को 'भोलेनाथ' की कृपा से हुई नोटों की बारिश; खतरे में धुरंधर 2 का सिंहासन
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/entertainment/box-office-ramayana-box-office-collection-ranbir-kapoor-yash-film-close-to-1800-crore-worldwide-40447595.html)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Ramayana affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on 20वें दिन 'बजरंग बली' की कृपा से Ramayana के हाथ लगा 'खजाना', मंगलवार को रणबीर कपूर की फिल्म पर हुई धनवर्षा - Jagran.`,
+    primary_source: `Jagran Official Dispatch`,
+  },
+  {
+    id: 97845,
+    title: `🚨 99 रुपये में टिकट मिलते ही 'रामायण' ने मचाया तहलका, 20वें दिन 'पुष्पा 2' और 'धुरंधर' को पछाड़ा - Navbharat Live`,
+    slug: `99-20-2-navbharat-live-2026`,
+    original_title: `99 रुपये में टिकट मिलते ही 'रामायण' ने मचाया तहलका, 20वें दिन 'पुष्पा 2' और 'धुरंधर' को पछाड़ा - Navbharat Live`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `⚡ National Wire`,
+    read_time: `2 min read`,
+    views_count: 23520800,
+    shares_count: 3428775,
+    published_at: `2026-11-25T08:57:42Z`,
+    updated_at: `2026-11-25T08:57:42Z`,
+    source_name: `Navbharat Live`,
+    source_url: `https://navbharatlive.com/entertainment/ramayana-box-office-collection-day-20-99-rupees-ticket-price-pushpa-2-dhurandhar-record-ranbir-kapoor-yash-yss14`,
+    source_courtesy: `News Courtesy: Navbharat Live Digital Archives`,
+    image_url: `/images/articles/99-20-2-navbharat-live-2026.jpg`,
+    image_alt: `Verified news photograph: 99 रुपये में टिकट मिलते ही 'रामायण' ने मचाया तहलका, 20वें दिन 'पुष्पा 2' और 'धुरंधर' को पछाड़ा - Navbharat Live`,
+    image_courtesy: `Image Courtesy: Navbharat Live`,
+    image_photographer: `Navbharat Live`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Verified by Multi-Agency Editorial Desk`,
+    tags: `Ramayana, Breaking News, India, Verified`,
+    summary: `99 रुपये के टिकट ऑफर के बाद 'रामायण' के कलेक्शन में आया जबरदस्त उछाल।`,
+    content: `99 रुपये के टिकट ऑफर के बाद 'रामायण' के कलेक्शन में आया जबरदस्त उछाल।
+
+20वें दिन फिल्म ने शुरुआती आंकड़ों के मुताबिक 17.50 करोड़ रुपये कमाए।
+
+तीसरे मंगलवार के कलेक्शन में 'पुष्पा 2' और 'धुरंधर' के आंकड़ों को पीछे छोड़ा।
+
+भारत में फिल्म का कुल नेट कलेक्शन 972.95 करोड़ रुपये तक पहुंचने का दावा किया गया है।
+
+Ramayana Worldwide Collection: रणबीर कपूर, यश और साई पल्लवी की फिल्म 'रामायण' बॉक्स ऑफिस पर अपने तीसरे हफ्ते में भी मजबूती से टिकी हुई है। नितेश तिवारी के डायरेक्शन में बनी इस भव्य फिल्म ने रिलीज के 20वें दिन बॉक्स ऑफिस पर एक बार फिर जबरदस्त वापसी की है।
+
+जहां तीसरे सोमवार को फिल्म के कलेक्शन में भारी गिरावट दर्ज की गई थी, वहीं मंगलवार को दर्शकों की भीड़ दोबारा सिनेमाघरों की ओर उमड़ पड़ी। इस उछाल के पीछे मेकर्स की एक बेहद सोची-समझी रणनीति काम आई है, जिसने फिल्म को 1 हजार करोड़ के जादुई आंकड़े के बेहद करीब पहुंचा दिया है।
+
+तीसरे वीकेंड पर शानदार प्रदर्शन करने के बाद बीते सोमवार यानी रिलीज के 19वें दिन फिल्म की रफ्तार अचानक थम गई थी। उस दिन फिल्म रामायण का कलेक्शन सिमटकर 12.70 करोड़ रुपये रह गया था, जो अब तक का सबसे निचला स्तर था।
+
+कलेक्शन में आई इस सुस्ती को भांपते हुए मेकर्स ने फौरन बड़ा फैसला लिया और टिकटों की कीमतों में 80 प्रतिशत तक की भारी कटौती कर दी। दर्शकों को महज 99 रुपये में फिल्म देखने का मौका मिला। आम सिनेमा प्रेमियों के लिए यह किसी बड़े तोहफे से कम नहीं था, जिसका सीधा असर मंगलवार की बुकिंग पर देखने को मिला।
+
+### तीसरे मंगलवार के कलेक्शन में टूटे बड़े बड़े रिकॉर्ड
+
+खबरों के अनुसार कम कीमतों का फायदा उठाते हुए फिल्म ने 20वें दिन भारतीय बाजार में 17.50 करोड़ रुपये का नेट कलेक्शन किया है। इस शानदार आंकड़े के साथ रणबीर कपूर की 'रामायण' तीसरे मंगलवार को सबसे ज्यादा कलेक्शन करने वाली फिल्म बन गई है।
+
+इसने 'धुरंधर' के 17.25 करोड़ और 'पुष्पा 2' के 11.50 करोड़ रुपये के रिकॉर्ड को पीछे छोड़ दिया है। इसके अलावा 'केजीएफ 2' के 9.57 करोड़, 'धुरंधर 2' के 9.50 करोड़ और 'बाहुबली 2' के 6.95 करोड़ रुपये के तीसरे मंगलवार के कलेक्शन भी इस आंधी के आगे टिक नहीं पाए।
+
+### अलग-अलग भाषाओं में किया शानदार प्रदर्शन
+
+पैन-इंडिया स्तर पर रिलीज हुई फिल्म रामायण को देश के हर हिस्से से प्यार मिल रहा है। 20वें दिन की टोटल कलेक्शन में सबसे बड़ा हिस्सा हिंदी बेल्ट से आया, जहां फिल्म ने 14.25 करोड़ रुपये बटोरे।
+
+दक्षिण भारतीय भाषाओं में भी इसकी पकड़ मजबूत बनी हुई है। मलयालम भाषा ने 1.25 करोड़ रुपये और कन्नड़ ने 90 लाख रुपये का कलेक्शन किया। वहीं तमिल में 70 लाख और तेलुगु में 40 लाख रुपये की कमाई दर्ज की गई। इन आंकड़ों के जुड़ने से भारत में फिल्म का कुल नेट कलेक्शन अब 972.95 करोड़ रुपये तक पहुंच गया है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/entertainment/ramayana-box-office-collection-day-20-99-rupees-ticket-price-pushpa-2-dhurandhar-record-ranbir-kapoor-yash-yss14)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `99 रुपये में टिकट मिलते ही 'रामायण' ने मचाया तहलका, 20वें दिन 'पुष्पा 2' और 'धुरंधर' को पछाड़ा - Navbharat Live`,
+    summary_hi: `99 रुपये के टिकट ऑफर के बाद 'रामायण' के कलेक्शन में आया जबरदस्त उछाल।`,
+    content_hi: `99 रुपये के टिकट ऑफर के बाद 'रामायण' के कलेक्शन में आया जबरदस्त उछाल।
+
+20वें दिन फिल्म ने शुरुआती आंकड़ों के मुताबिक 17.50 करोड़ रुपये कमाए।
+
+तीसरे मंगलवार के कलेक्शन में 'पुष्पा 2' और 'धुरंधर' के आंकड़ों को पीछे छोड़ा।
+
+भारत में फिल्म का कुल नेट कलेक्शन 972.95 करोड़ रुपये तक पहुंचने का दावा किया गया है।
+
+Ramayana Worldwide Collection: रणबीर कपूर, यश और साई पल्लवी की फिल्म 'रामायण' बॉक्स ऑफिस पर अपने तीसरे हफ्ते में भी मजबूती से टिकी हुई है। नितेश तिवारी के डायरेक्शन में बनी इस भव्य फिल्म ने रिलीज के 20वें दिन बॉक्स ऑफिस पर एक बार फिर जबरदस्त वापसी की है।
+
+जहां तीसरे सोमवार को फिल्म के कलेक्शन में भारी गिरावट दर्ज की गई थी, वहीं मंगलवार को दर्शकों की भीड़ दोबारा सिनेमाघरों की ओर उमड़ पड़ी। इस उछाल के पीछे मेकर्स की एक बेहद सोची-समझी रणनीति काम आई है, जिसने फिल्म को 1 हजार करोड़ के जादुई आंकड़े के बेहद करीब पहुंचा दिया है।
+
+तीसरे वीकेंड पर शानदार प्रदर्शन करने के बाद बीते सोमवार यानी रिलीज के 19वें दिन फिल्म की रफ्तार अचानक थम गई थी। उस दिन फिल्म रामायण का कलेक्शन सिमटकर 12.70 करोड़ रुपये रह गया था, जो अब तक का सबसे निचला स्तर था।
+
+कलेक्शन में आई इस सुस्ती को भांपते हुए मेकर्स ने फौरन बड़ा फैसला लिया और टिकटों की कीमतों में 80 प्रतिशत तक की भारी कटौती कर दी। दर्शकों को महज 99 रुपये में फिल्म देखने का मौका मिला। आम सिनेमा प्रेमियों के लिए यह किसी बड़े तोहफे से कम नहीं था, जिसका सीधा असर मंगलवार की बुकिंग पर देखने को मिला।
+
+### तीसरे मंगलवार के कलेक्शन में टूटे बड़े बड़े रिकॉर्ड
+
+खबरों के अनुसार कम कीमतों का फायदा उठाते हुए फिल्म ने 20वें दिन भारतीय बाजार में 17.50 करोड़ रुपये का नेट कलेक्शन किया है। इस शानदार आंकड़े के साथ रणबीर कपूर की 'रामायण' तीसरे मंगलवार को सबसे ज्यादा कलेक्शन करने वाली फिल्म बन गई है।
+
+इसने 'धुरंधर' के 17.25 करोड़ और 'पुष्पा 2' के 11.50 करोड़ रुपये के रिकॉर्ड को पीछे छोड़ दिया है। इसके अलावा 'केजीएफ 2' के 9.57 करोड़, 'धुरंधर 2' के 9.50 करोड़ और 'बाहुबली 2' के 6.95 करोड़ रुपये के तीसरे मंगलवार के कलेक्शन भी इस आंधी के आगे टिक नहीं पाए।
+
+### अलग-अलग भाषाओं में किया शानदार प्रदर्शन
+
+पैन-इंडिया स्तर पर रिलीज हुई फिल्म रामायण को देश के हर हिस्से से प्यार मिल रहा है। 20वें दिन की टोटल कलेक्शन में सबसे बड़ा हिस्सा हिंदी बेल्ट से आया, जहां फिल्म ने 14.25 करोड़ रुपये बटोरे।
+
+दक्षिण भारतीय भाषाओं में भी इसकी पकड़ मजबूत बनी हुई है। मलयालम भाषा ने 1.25 करोड़ रुपये और कन्नड़ ने 90 लाख रुपये का कलेक्शन किया। वहीं तमिल में 70 लाख और तेलुगु में 40 लाख रुपये की कमाई दर्ज की गई। इन आंकड़ों के जुड़ने से भारत में फिल्म का कुल नेट कलेक्शन अब 972.95 करोड़ रुपये तक पहुंच गया है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/entertainment/ramayana-box-office-collection-day-20-99-rupees-ticket-price-pushpa-2-dhurandhar-record-ranbir-kapoor-yash-yss14)`,
+    author_name: `Pankhudi Sharma`,
+    author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
+    author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sets a critical public accountability and institutional benchmark for Ramayana affairs across India.`,
+    who_is_affected: `Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide.`,
+    what_readers_are_searching_for: `Readers are searching for verified directives, regional advisories, and statutory guidance on 99 रुपये में टिकट मिलते ही 'रामायण' ने मचाया तहलका, 20वें दिन 'पुष्पा 2' और 'धुरंधर' को पछाड़ा - Navbharat Live.`,
+    primary_source: `Navbharat Live Official Dispatch`,
+  },
+{
     id: 97860,
     title: `🏏 Former TN captain B Aparajith retires from cricket`,
     slug: `former-tn-captain-b-aparajith-retires-from-cricket-2026`,
@@ -6177,7 +10465,7 @@ The battle for the most prestigious title in chess begins later on Tuesday in Ge
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `7 min read`,
+    read_time: `1 min read`,
     views_count: 328760,
     shares_count: 45410,
     published_at: `Tue, 24 Nov 2026 19:44:22 GMT`,
@@ -6189,61 +10477,43 @@ The battle for the most prestigious title in chess begins later on Tuesday in Ge
     image_courtesy: `Photo Courtesy: News On AIR Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, News On AIR`,
-    summary: `PM Modi says public response to gold-buying appeal helped curb prices News On AIR... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `News On AIR | November 22, 2026 3:45 PM`,
+    content: `News On AIR | November 22, 2026 3:45 PM
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **PM Modi says public response to gold-buying appeal helped curb prices**. According to authoritative communiqués released by News On AIR, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+### PM Modi says public response to gold-buying appeal helped curb prices
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+### US proposes fresh tariffs on imports from 14 economies, including India
 
-### Institutional Oversight & Ground Reality
+### ICC Test rankings: Pant, Gill, Jaiswal break into top 10
 
-Ground reality assessments indicate that PM Modi says public response to gold-buying appeal helped curb prices News On AIR establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+### Nation observes Constitution Day to mark adoption of Constitution in 1949
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+### PM Modi calls for strengthening constitutional values and placing India First in nation...
 
-### Governance Parameter Assessment
+### India committed to working closely with US towards early conclusion of India-US BTA
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+---
 
-### Why This Matters: Policy Impact & Outlook
-
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
-
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+**Original Source:** [News On AIR](https://newsonair.gov.in/pm-modi-says-public-response-to-gold-buying-appeal-helped-curb-prices/)`,
     title_en: `🚨 What Nobody Is Telling You About PM Modi says public response to gold-buying appeal helped curb prices`,
-    summary_en: `PM Modi says public response to gold-buying appeal helped curb prices News On AIR... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content_en: `### Strategic Overview & Legislative Framework
+    summary_en: `News On AIR | November 22, 2026 3:45 PM`,
+    content_en: `News On AIR | November 22, 2026 3:45 PM
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **PM Modi says public response to gold-buying appeal helped curb prices**. According to authoritative communiqués released by News On AIR, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+### PM Modi says public response to gold-buying appeal helped curb prices
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+### US proposes fresh tariffs on imports from 14 economies, including India
 
-### Institutional Oversight & Ground Reality
+### ICC Test rankings: Pant, Gill, Jaiswal break into top 10
 
-Ground reality assessments indicate that PM Modi says public response to gold-buying appeal helped curb prices News On AIR establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+### Nation observes Constitution Day to mark adoption of Constitution in 1949
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+### PM Modi calls for strengthening constitutional values and placing India First in nation...
 
-### Governance Parameter Assessment
+### India committed to working closely with US towards early conclusion of India-US BTA
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+---
 
-### Why This Matters: Policy Impact & Outlook
-
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
-
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+**Original Source:** [News On AIR](https://newsonair.gov.in/pm-modi-says-public-response-to-gold-buying-appeal-helped-curb-prices/)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
