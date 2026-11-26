@@ -1,6 +1,9 @@
 name: Automated News Pipeline & Hostinger Deploy
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # 10:00 AM IST (04:30 UTC) - Site Owner's Configured Daily Slot
     - cron: '30 4 * * *'
