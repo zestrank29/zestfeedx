@@ -306,8 +306,8 @@ def extract_source_content_and_image(url):
     paragraphs = []
     try:
         req = urllib.request.Request(url, headers=ARTICLE_HEADERS)
-        with urllib.request.urlopen(req, timeout=10) as resp:
-            html = resp.read(1500000).decode("utf-8", errors="ignore")
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            html = resp.read(4000000).decode("utf-8", errors="ignore")
             if BeautifulSoup is not None:
                 soup = BeautifulSoup(html, "html.parser")
                 og = (
@@ -527,6 +527,8 @@ def build_complete_article(art_id, item, seen_images):
         desc_text = clean_title
 
     body_text = "\n\n".join(extracted_paras) if extracted_paras else desc_text
+    if len(extracted_paras) < 3 or len(body_text) < 400:
+        return None
     word_count = max(1, len(body_text.split()))
     read_mins = max(1, round(word_count / 200))
 
@@ -679,6 +681,9 @@ def main():
                             continue
 
                         art = build_complete_article(current_id, item, seen_images)
+                        if art is None:
+                            print(f"  - Skipped incomplete source: {title[:55]}...")
+                            continue
                         collected_this_run.append(art)
                         existing_slugs.add(art["slug"])
                         existing_titles.add(title)

@@ -2,28 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://zestfeedx.com/article/rocchiccioli-140-wasley-88-turn-tables-on-tasmania-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>ZestFeedX</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T06:12:25.000Z</news:publication_date>
-      <news:title>Rocchiccioli 140, Wasley 88 turn tables on Tasmania</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://zestfeedx.com/article/bumrah-rises-to-joint-second-in-test-bowling-rankings-rabada-up-t-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>ZestFeedX</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T06:12:25.000Z</news:publication_date>
-      <news:title>Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://zestfeedx.com/article/thursday-box-office-live-updates-983-10-abp-news-2026/</loc>
     <news:news>
       <news:publication>
@@ -343,17 +321,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://zestfeedx.com/article/seven-star-mulder-leads-south-africa-to-2-0-whitewash-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>ZestFeedX</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T05:58:43.000Z</news:publication_date>
-      <news:title>Seven-star Mulder leads South Africa to 2-0 whitewash</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://zestfeedx.com/article/21-ramayana-2-jagran-2026/</loc>
     <news:news>
       <news:publication>
@@ -549,6 +516,39 @@
       </news:publication>
       <news:publication_date>2026-11-26T05:58:02.000Z</news:publication_date>
       <news:title>GTA 6 Draws 39 Million PS5 Players in Four Days, Sony</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://zestfeedx.com/article/2611-was-not-just-an-attack-on-india-defencexp-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>ZestFeedX</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T05:58:01.000Z</news:publication_date>
+      <news:title>26/11 Was Not Just an Attack on India - DefenceXP</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://zestfeedx.com/article/why-is-november-26-celebrated-as-constitution-day-in-india-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>ZestFeedX</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T05:57:59.000Z</news:publication_date>
+      <news:title>Why is November 26 celebrated as Constitution Day in India</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://zestfeedx.com/article/health-breaking-report-2342-97884-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>ZestFeedX</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T05:57:57.000Z</news:publication_date>
+      <news:title>बीएचयू में काले गेहूं-पनीर के पानी से बनी इडली, प्रोटीन और आयरन के साथ डायबिटीज और एनीमिया में फायदेमंद - Jagran</news:title>
     </news:news>
   </url>
 </urlset>

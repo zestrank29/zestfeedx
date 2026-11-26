@@ -10,110 +10,6 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
-  {
-    id: 97935,
-    title: `Rocchiccioli 140, Wasley 88 turn tables on Tasmania`,
-    slug: `rocchiccioli-140-wasley-88-turn-tables-on-tasmania-2026`,
-    original_title: `Rocchiccioli 140, Wasley 88 turn tables on Tasmania`,
-    category: `cricket`,
-    topic: `cricket`,
-    language: `en`,
-    fomo_badge: `Cricket Wire`,
-    read_time: `1 min read`,
-    views_count: 0,
-    shares_count: 0,
-    published_at: `2026-11-26T06:12:25Z`,
-    updated_at: `2026-11-26T06:12:25Z`,
-    source_name: `ESPNcricinfo Wire`,
-    source_url: `https://www.cricinfo.com/ci/content/story/1563883.html?ex_cid=OTC-RSS`,
-    source_courtesy: `Source: ESPNcricinfo Wire`,
-    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85`,
-    image_alt: `Rocchiccioli 140, Wasley 88 turn tables on Tasmania`,
-    image_courtesy: `Photo: Action Sports Photography / Unsplash (Unsplash License)`,
-    image_photographer: `Action Sports Photography / Unsplash`,
-    image_license: `Unsplash License`,
-    fact_check_status: `Wire Report — Attributed to Primary Source`,
-    tags: `Cricket, Sports, Match Report`,
-    summary: `The spectacular 170-run seventh-wicket partnership between Rocchiccioli and Wasley has given Western Australia a sniff of victory`,
-    content: `The spectacular 170-run seventh-wicket partnership between Rocchiccioli and Wasley has given Western Australia a sniff of victory
-
----
-
-**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563883.html?ex_cid=OTC-RSS)`,
-    title_en: `Rocchiccioli 140, Wasley 88 turn tables on Tasmania`,
-    summary_en: `The spectacular 170-run seventh-wicket partnership between Rocchiccioli and Wasley has given Western Australia a sniff of victory`,
-    content_en: `The spectacular 170-run seventh-wicket partnership between Rocchiccioli and Wasley has given Western Australia a sniff of victory
-
----
-
-**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563883.html?ex_cid=OTC-RSS)`,
-    author_name: `ZestFeedX Cricket Desk`,
-    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
-    author_url: `https://zestfeedx.com/about/`,
-    medical_reviewed: false,
-    is_live_cricket: true,
-    match_id: `match-dispatch-97935`,
-    live_score: `Score Under Official Verification`,
-    match_status: `Active Match Progress`,
-    score_verified_at: `2026-11-26 11:42:25 IST`,
-    detected_at: `2026-11-26T06:12:25Z`,
-    verified_at: `2026-11-26T06:12:25Z`,
-    approved_at: `2026-11-26T06:12:25Z`,
-    why_it_matters_today: `Tournament and championship standings impact regarding Rocchiccioli 140, Wasley 88 turn tables on Tasmania.`,
-    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
-  },
-  {
-    id: 97936,
-    title: `Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth`,
-    slug: `bumrah-rises-to-joint-second-in-test-bowling-rankings-rabada-up-t-2026`,
-    original_title: `Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth`,
-    category: `cricket`,
-    topic: `cricket`,
-    language: `en`,
-    fomo_badge: `Cricket Wire`,
-    read_time: `1 min read`,
-    views_count: 0,
-    shares_count: 0,
-    published_at: `2026-11-26T06:12:25Z`,
-    updated_at: `2026-11-26T06:12:25Z`,
-    source_name: `ESPNcricinfo Wire`,
-    source_url: `https://www.cricinfo.com/ci/content/story/1563908.html?ex_cid=OTC-RSS`,
-    source_courtesy: `Source: ESPNcricinfo Wire`,
-    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85`,
-    image_alt: `Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth`,
-    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
-    image_photographer: `Athletics & Cricket Media Desk`,
-    image_license: `Unsplash License`,
-    fact_check_status: `Wire Report — Attributed to Primary Source`,
-    tags: `Cricket, Sports, Match Report`,
-    summary: `Rishabh Pant, Shubman Gill and Yashasvi Jaiswal have consolidated their places in the top ten among Test batters`,
-    content: `Rishabh Pant, Shubman Gill and Yashasvi Jaiswal have consolidated their places in the top ten among Test batters
-
----
-
-**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563908.html?ex_cid=OTC-RSS)`,
-    title_en: `Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth`,
-    summary_en: `Rishabh Pant, Shubman Gill and Yashasvi Jaiswal have consolidated their places in the top ten among Test batters`,
-    content_en: `Rishabh Pant, Shubman Gill and Yashasvi Jaiswal have consolidated their places in the top ten among Test batters
-
----
-
-**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563908.html?ex_cid=OTC-RSS)`,
-    author_name: `ZestFeedX Cricket Desk`,
-    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
-    author_url: `https://zestfeedx.com/about/`,
-    medical_reviewed: false,
-    is_live_cricket: true,
-    match_id: `match-dispatch-97936`,
-    live_score: `Score Under Official Verification`,
-    match_status: `Active Match Progress`,
-    score_verified_at: `2026-11-26 11:42:25 IST`,
-    detected_at: `2026-11-26T06:12:25Z`,
-    verified_at: `2026-11-26T06:12:25Z`,
-    approved_at: `2026-11-26T06:12:25Z`,
-    why_it_matters_today: `Tournament and championship standings impact regarding Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth.`,
-    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
-  },
 {
     id: 97907,
     title: `ICMR Survey Reveals Decline in Anaemia Prevalence Across India - India News Network`,
@@ -206,7 +102,7 @@ The results are anticipated to bolster efforts under the Anaemia Mukt Bharat ini
     topic: `public-health`,
     language: `en`,
     fomo_badge: `Health Wire`,
-    read_time: `1 min read`,
+    read_time: `6 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T06:11:46Z`,
@@ -214,22 +110,110 @@ The results are anticipated to bolster efforts under the Anaemia Mukt Bharat ini
     source_name: `Indian Council of Medical Research (ICMR)`,
     source_url: `https://indianexpress.com/article/explained/explained-health/icmr-antibiotic-resistance-report-2025-common-infections-india-10967863/`,
     source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
-    image_url: `https://images.unsplash.com/photo-1530497610245-94d3c16cda28?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/why-common-infections-are-becoming-harder-to-treat-in-india-icmr-scien-2026.jpg`,
     image_alt: `Why common infections are becoming harder to treat in India: ICMR scientist explains - The Indian Express`,
     image_courtesy: `Image: Ani Kolleshi / Unsplash (Unsplash License)`,
     image_photographer: `Ani Kolleshi / Unsplash`,
     image_license: `Unsplash License`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `Health, News, India`,
-    summary: `Why common infections are becoming harder to treat in India: ICMR scientist explains The Indian Express`,
-    content: `Why common infections are becoming harder to treat in India: ICMR scientist explains The Indian Express
+    summary: `It has long been known that India faces a challenge from antimicrobial resistance (AMR), a condition where microbes evolve to resist drugs, often owing to the overuse of antibiotics. But a new report from the Indian Council of Medical Resea`,
+    content: `It has long been known that India faces a challenge from antimicrobial resistance (AMR), a condition where microbes evolve to resist drugs, often owing to the overuse of antibiotics. But a new report from the Indian Council of Medical Research (ICMR) underlines how big that challenge really is, showing that several common bacteria responsible for both routine and serious infections are now no longer responding to antibiotics that doctors have regularly used for years.
+
+The ICMR's Antimicrobial Resistance Surveillance and Research Network (AMRSN) Annual Report 2025 found particularly low effectiveness of several antibiotics against E. coli and Klebsiella pneumoniae, both responsible for pneumonia, urinary tract and bloodstream infections. It also highlighted worrying resistance to powerful antibiotics such as carbapenems, particularly among bacteria associated with hospital-acquired infections.
+
+For the first time, the report included data from 34 secondary-care hospitals, showing that resistance to commonly used antibiotics is also a concern beyond large, specialised hospitals. The findings are particularly worrying for critically ill patients and newborns, while underscoring the need for better diagnosis, responsible antibiotic use and stronger infection prevention measures.
+
+Dr Kamini Walia, Scientist G &amp; Head, Descriptive Research Division, ICMR, discusses the implications of the findings, why routine infections are becoming harder to treat and what India needs to do to contain the growing threat. The report shows high resistance to commonly used antibiotics among bacteria such as E.
+
+coli and Klebsiella pneumoniae. What does this mean for patients who develop these infections? Infections caused by E. coli and Klebsiella are very common in India, both among patients admitted to hospitals and those who are not hospitalised. The growing resistance of these two bacteria to important antibiotics is a matter of serious concern for the general public.
+
+This makes quicker diagnostics and preventive healthcare imperative. Does this mean routine infections are already becoming significantly harder to treat? We have already reached that point. It is high time antimicrobial resistance becomes a priority in healthcare discussions. Infections caused by drug-resistant bacteria are difficult to treat because commonly used antibiotics may no longer work.
+
+The alternative medicines, often referred to as last-resort antibiotics, are expensive, carry a higher risk of side effects and may not be as effective. What are the main reasons behind the declining effectiveness of third-generation drugs like cephalosporins and fluoroquinolones?
+
+The main driver of antimicrobial resistance is the misuse of antibiotics, particularly prescribing or taking them for illnesses that do not require these medicines. For instance, antibiotics do not work against viral infections such as most cases of viral fever. Many diarrhoeal illnesses also do not require antibiotic treatment.
+
+Other important factors include poor infection prevention practices, such as inadequate handwashing and respiratory hygiene, as well as the use of antibiotics in animal farming. The 2025 report includes data from 34 secondary-care hospitals for the first time. What do these findings tell us about antimicrobial resistance beyond major hospitals?
+
+The new data show that resistance to third-generation cephalosporins is very high even in secondary-care hospitals. Carbapenem resistance, however, largely remains a problem in larger, specialised hospitals. Were any findings particularly surprising? What should district hospitals and smaller healthcare facilities do in response?
+
+We expected to find better effectiveness of third-generation cephalosporins, but clearly that is not the case. It is high time district hospitals and smaller healthcare facilities set up hospital infection control committees and antimicrobial stewardship committees. They need to introduce measures to identify infections early and take the necessary steps to control antimicrobial resistance.
+
+Why are hospital-acquired infections proving so difficult to treat? The first-line and second-line antibiotics commonly used to treat infections often do not work against hospital-acquired infections caused by resistant bacteria. Doctors are then forced to use third-line antibiotics, which are often the last available treatment option.
+
+These medicines are expensive, may be less effective and are associated with a higher risk of side effects. The report identifies Klebsiella pneumoniae as the leading bacterium found in newborns with bloodstream infections, with worrying resistance patterns. How serious is the threat to newborns?
+
+Klebsiella pneumoniae is a common cause of infections in both adult and newborn intensive-care units. It is known to develop resistance to several drugs and can lead to high mortality. We are still analysing nationwide data from neonatal intensive-care units (NICUs) to get a clearer picture of antibiotic resistance patterns in newborns.
+
+Current treatment protocols may need to be adjusted according to what these findings reveal. How can doctors make better antibiotic choices when resistance patterns vary across regions and hospitals? Doctors need to be aware of local antibiotic resistance patterns, known as antibiograms.
+
+These show which antibiotics are working against common bacteria in that particular hospital. Resistance patterns can differ between a district hospital, a large referral hospital and an intensive-care unit. Knowing these local patterns can help doctors make better initial treatment choices.
+
+Hospitals should also invest in diagnostic tests that can provide results quickly, helping doctors choose the right antibiotic. Doctors must distinguish between initial treatment and treatment based on confirmed laboratory results. When a patient is seriously ill, doctors may have to start antibiotics before knowing exactly which bacteria are responsible.
+
+This is called initial or empirical treatment. Once laboratory results become available, the treatment should be reviewed and changed if necessary, so that the patient receives the most appropriate antibiotic rather than a broader or stronger medicine without reason. Beyond surveillance and awareness campaigns, what policy and healthcare interventions should be prioritised?
+
+Antimicrobial stewardship programmes should be made compulsory in all hospitals. There should also be a compulsory certificate course for all doctors who prescribe medicines. Adult vaccination against influenza (flu), typhoid and pneumococcal infections should be encouraged. High-quality infection prevention and control practices are equally important.
+
+Drugs reserved for serious infections should be prescribed judiciously, based on laboratory results wherever possible, rather than simply because a resistant infection is suspected. Doctors should not assume that the same antibiotic will work equally well in every hospital or region.
+
+Treatment decisions must take into account the type and seriousness of the infection, the bacteria likely to be responsible, local resistance patterns, the patient's medical history and previous antibiotic use. Finally, the choice of antibiotic must depend on where the infection is located.
+
+A medicine that works for a simple urinary tract infection may not be suitable for a kidney infection, a bloodstream infection or an infection involving the brain. Doctors must consider the site and seriousness of the infection rather than relying on a single antibiotic for different conditions.
+
+Laboratory testing can also help identify the reasons behind antibiotic resistance. Some tests look for specific changes in bacteria that make certain medicines ineffective. These findings, along with routine laboratory tests that check whether an antibiotic can stop the bacteria from growing, help doctors make better treatment decisions.
 
 ---
 
 **Original Source:** [Indian Council of Medical Research (ICMR)](https://indianexpress.com/article/explained/explained-health/icmr-antibiotic-resistance-report-2025-common-infections-india-10967863/)`,
     title_en: `Why common infections are becoming harder to treat in India: ICMR scientist explains - The Indian Express`,
-    summary_en: `Why common infections are becoming harder to treat in India: ICMR scientist explains The Indian Express`,
-    content_en: `Why common infections are becoming harder to treat in India: ICMR scientist explains The Indian Express
+    summary_en: `It has long been known that India faces a challenge from antimicrobial resistance (AMR), a condition where microbes evolve to resist drugs, often owing to the overuse of antibiotics. But a new report from the Indian Council of Medical Resea`,
+    content_en: `It has long been known that India faces a challenge from antimicrobial resistance (AMR), a condition where microbes evolve to resist drugs, often owing to the overuse of antibiotics. But a new report from the Indian Council of Medical Research (ICMR) underlines how big that challenge really is, showing that several common bacteria responsible for both routine and serious infections are now no longer responding to antibiotics that doctors have regularly used for years.
+
+The ICMR's Antimicrobial Resistance Surveillance and Research Network (AMRSN) Annual Report 2025 found particularly low effectiveness of several antibiotics against E. coli and Klebsiella pneumoniae, both responsible for pneumonia, urinary tract and bloodstream infections. It also highlighted worrying resistance to powerful antibiotics such as carbapenems, particularly among bacteria associated with hospital-acquired infections.
+
+For the first time, the report included data from 34 secondary-care hospitals, showing that resistance to commonly used antibiotics is also a concern beyond large, specialised hospitals. The findings are particularly worrying for critically ill patients and newborns, while underscoring the need for better diagnosis, responsible antibiotic use and stronger infection prevention measures.
+
+Dr Kamini Walia, Scientist G &amp; Head, Descriptive Research Division, ICMR, discusses the implications of the findings, why routine infections are becoming harder to treat and what India needs to do to contain the growing threat. The report shows high resistance to commonly used antibiotics among bacteria such as E.
+
+coli and Klebsiella pneumoniae. What does this mean for patients who develop these infections? Infections caused by E. coli and Klebsiella are very common in India, both among patients admitted to hospitals and those who are not hospitalised. The growing resistance of these two bacteria to important antibiotics is a matter of serious concern for the general public.
+
+This makes quicker diagnostics and preventive healthcare imperative. Does this mean routine infections are already becoming significantly harder to treat? We have already reached that point. It is high time antimicrobial resistance becomes a priority in healthcare discussions. Infections caused by drug-resistant bacteria are difficult to treat because commonly used antibiotics may no longer work.
+
+The alternative medicines, often referred to as last-resort antibiotics, are expensive, carry a higher risk of side effects and may not be as effective. What are the main reasons behind the declining effectiveness of third-generation drugs like cephalosporins and fluoroquinolones?
+
+The main driver of antimicrobial resistance is the misuse of antibiotics, particularly prescribing or taking them for illnesses that do not require these medicines. For instance, antibiotics do not work against viral infections such as most cases of viral fever. Many diarrhoeal illnesses also do not require antibiotic treatment.
+
+Other important factors include poor infection prevention practices, such as inadequate handwashing and respiratory hygiene, as well as the use of antibiotics in animal farming. The 2025 report includes data from 34 secondary-care hospitals for the first time. What do these findings tell us about antimicrobial resistance beyond major hospitals?
+
+The new data show that resistance to third-generation cephalosporins is very high even in secondary-care hospitals. Carbapenem resistance, however, largely remains a problem in larger, specialised hospitals. Were any findings particularly surprising? What should district hospitals and smaller healthcare facilities do in response?
+
+We expected to find better effectiveness of third-generation cephalosporins, but clearly that is not the case. It is high time district hospitals and smaller healthcare facilities set up hospital infection control committees and antimicrobial stewardship committees. They need to introduce measures to identify infections early and take the necessary steps to control antimicrobial resistance.
+
+Why are hospital-acquired infections proving so difficult to treat? The first-line and second-line antibiotics commonly used to treat infections often do not work against hospital-acquired infections caused by resistant bacteria. Doctors are then forced to use third-line antibiotics, which are often the last available treatment option.
+
+These medicines are expensive, may be less effective and are associated with a higher risk of side effects. The report identifies Klebsiella pneumoniae as the leading bacterium found in newborns with bloodstream infections, with worrying resistance patterns. How serious is the threat to newborns?
+
+Klebsiella pneumoniae is a common cause of infections in both adult and newborn intensive-care units. It is known to develop resistance to several drugs and can lead to high mortality. We are still analysing nationwide data from neonatal intensive-care units (NICUs) to get a clearer picture of antibiotic resistance patterns in newborns.
+
+Current treatment protocols may need to be adjusted according to what these findings reveal. How can doctors make better antibiotic choices when resistance patterns vary across regions and hospitals? Doctors need to be aware of local antibiotic resistance patterns, known as antibiograms.
+
+These show which antibiotics are working against common bacteria in that particular hospital. Resistance patterns can differ between a district hospital, a large referral hospital and an intensive-care unit. Knowing these local patterns can help doctors make better initial treatment choices.
+
+Hospitals should also invest in diagnostic tests that can provide results quickly, helping doctors choose the right antibiotic. Doctors must distinguish between initial treatment and treatment based on confirmed laboratory results. When a patient is seriously ill, doctors may have to start antibiotics before knowing exactly which bacteria are responsible.
+
+This is called initial or empirical treatment. Once laboratory results become available, the treatment should be reviewed and changed if necessary, so that the patient receives the most appropriate antibiotic rather than a broader or stronger medicine without reason. Beyond surveillance and awareness campaigns, what policy and healthcare interventions should be prioritised?
+
+Antimicrobial stewardship programmes should be made compulsory in all hospitals. There should also be a compulsory certificate course for all doctors who prescribe medicines. Adult vaccination against influenza (flu), typhoid and pneumococcal infections should be encouraged. High-quality infection prevention and control practices are equally important.
+
+Drugs reserved for serious infections should be prescribed judiciously, based on laboratory results wherever possible, rather than simply because a resistant infection is suspected. Doctors should not assume that the same antibiotic will work equally well in every hospital or region.
+
+Treatment decisions must take into account the type and seriousness of the infection, the bacteria likely to be responsible, local resistance patterns, the patient's medical history and previous antibiotic use. Finally, the choice of antibiotic must depend on where the infection is located.
+
+A medicine that works for a simple urinary tract infection may not be suitable for a kidney infection, a bloodstream infection or an infection involving the brain. Doctors must consider the site and seriousness of the infection rather than relying on a single antibiotic for different conditions.
+
+Laboratory testing can also help identify the reasons behind antibiotic resistance. Some tests look for specific changes in bacteria that make certain medicines ineffective. These findings, along with routine laboratory tests that check whether an antibiotic can stop the bacteria from growing, help doctors make better treatment decisions.
 
 ---
 
@@ -3044,58 +3028,6 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     why_it_matters_today: `Tournament and championship standings impact regarding New Zealand and India hope Test cricket is in a giving mood at Hagley Oval.`,
     who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
   },
-  {
-    id: 97906,
-    title: `Seven-star Mulder leads South Africa to 2-0 whitewash`,
-    slug: `seven-star-mulder-leads-south-africa-to-2-0-whitewash-2026`,
-    original_title: `Seven-star Mulder leads South Africa to 2-0 whitewash`,
-    category: `cricket`,
-    topic: `cricket`,
-    language: `en`,
-    fomo_badge: `Cricket Wire`,
-    read_time: `1 min read`,
-    views_count: 0,
-    shares_count: 0,
-    published_at: `2026-11-26T05:58:43Z`,
-    updated_at: `2026-11-26T05:58:43Z`,
-    source_name: `ESPNcricinfo Wire`,
-    source_url: `https://www.cricinfo.com/ci/content/story/1563890.html?ex_cid=OTC-RSS`,
-    source_courtesy: `Source: ESPNcricinfo Wire`,
-    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85`,
-    image_alt: `Seven-star Mulder leads South Africa to 2-0 whitewash`,
-    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
-    image_photographer: `Athletics & Cricket Media Desk`,
-    image_license: `Unsplash License`,
-    fact_check_status: `Wire Report — Attributed to Primary Source`,
-    tags: `Cricket, Sports, Match Report`,
-    summary: `The allrounder's century and seven-wicket haul helped South Africa inflict an innings defeat on Bangladesh`,
-    content: `The allrounder's century and seven-wicket haul helped South Africa inflict an innings defeat on Bangladesh
-
----
-
-**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563890.html?ex_cid=OTC-RSS)`,
-    title_en: `Seven-star Mulder leads South Africa to 2-0 whitewash`,
-    summary_en: `The allrounder's century and seven-wicket haul helped South Africa inflict an innings defeat on Bangladesh`,
-    content_en: `The allrounder's century and seven-wicket haul helped South Africa inflict an innings defeat on Bangladesh
-
----
-
-**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563890.html?ex_cid=OTC-RSS)`,
-    author_name: `ZestFeedX Cricket Desk`,
-    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
-    author_url: `https://zestfeedx.com/about/`,
-    medical_reviewed: false,
-    is_live_cricket: true,
-    match_id: `match-south-africa-vs-bangladesh-2026`,
-    live_score: `Score Under Official Verification`,
-    match_status: `Active Match Progress`,
-    score_verified_at: `2026-11-26 11:28:43 IST`,
-    detected_at: `2026-11-26T05:58:42Z`,
-    verified_at: `2026-11-26T05:58:43Z`,
-    approved_at: `2026-11-26T05:58:43Z`,
-    why_it_matters_today: `Tournament and championship standings impact regarding Seven-star Mulder leads South Africa to 2-0 whitewash.`,
-    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
-  },
 {
     id: 97881,
     title: `ICMR survey records lower anaemia prevalence across India - Express Healthcare`,
@@ -3171,15 +3103,31 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     image_license: `External Source Attribution`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `Health, News, India`,
-    summary: `The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor. :: India News Calling ::`,
-    content: `The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor. :: India News Calling ::
+    summary: `CHANDIGARH-25-11-2026-The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor.`,
+    content: `### The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor.
+
+CHANDIGARH-25-11-2026-The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor.
+
+The project, titled “Social Marketing Intervention for Adverse Child-Family Relationships, Alcohol Usage and Sexual-Health Issues Attributable to Social-Media Usage among Adolescents: A Multi-City Cluster Randomized Controlled Trial in North India,” aims to address the adverse effects of social media usage on adolescent well-being. As part of the project, the first-month intervention has been developed and delivered to students through educational posters. The intervention focuses on promoting healthy social media habits, strengthening parent-child and family relationships, preventing alcohol use, and encouraging awareness regarding sexual health. These educational initiatives aim to encourage informed and responsible choices among adolescents and promote their overall well-being.
+
+For further display of news in English with photographs in JPG file on "indianewscalling.com"
+
+CONTACT: M.M.Khanna, Web-Master cum Director
 
 ---
 
 **Original Source:** [Indian Council of Medical Research (ICMR)](https://www.indianewscalling.com/news/193246-the-department-of-community-medicine-and-school-of-public-health-pgimer-chandigarh-is-undertaking.aspx)`,
     title_en: `The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor. - :: India News Calling ::`,
-    summary_en: `The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor. :: India News Calling ::`,
-    content_en: `The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor. :: India News Calling ::
+    summary_en: `CHANDIGARH-25-11-2026-The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor.`,
+    content_en: `### The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor.
+
+CHANDIGARH-25-11-2026-The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor.
+
+The project, titled “Social Marketing Intervention for Adverse Child-Family Relationships, Alcohol Usage and Sexual-Health Issues Attributable to Social-Media Usage among Adolescents: A Multi-City Cluster Randomized Controlled Trial in North India,” aims to address the adverse effects of social media usage on adolescent well-being. As part of the project, the first-month intervention has been developed and delivered to students through educational posters. The intervention focuses on promoting healthy social media habits, strengthening parent-child and family relationships, preventing alcohol use, and encouraging awareness regarding sexual health. These educational initiatives aim to encourage informed and responsible choices among adolescents and promote their overall well-being.
+
+For further display of news in English with photographs in JPG file on "indianewscalling.com"
+
+CONTACT: M.M.Khanna, Web-Master cum Director
 
 ---
 
@@ -3207,7 +3155,7 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     topic: `public-health`,
     language: `hi`,
     fomo_badge: `स्वास्थ्य वायर`,
-    read_time: `1 min read`,
+    read_time: `4 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T05:57:56Z`,
@@ -3222,8 +3170,52 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     image_license: `External Source Attribution`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `Health, News, India`,
-    summary: `फलों और सब्जियों के 4 सामान्य समूह जो कैंसर को रोकने में मदद कर सकते हैं। Vietnam.vn`,
-    content: `फलों और सब्जियों के 4 सामान्य समूह जो कैंसर को रोकने में मदद कर सकते हैं। Vietnam.vn
+    summary: `आहार स्वास्थ्य बनाए रखने में महत्वपूर्ण भूमिका निभाता है और कैंसर होने के जोखिम को भी प्रभावित कर सकता है। लाभकारी खाद्य पदार्थों का चुनाव करने का तरीका जानने से लोगों को अपने स्वास्थ्य की रक्षा करने में मदद मिलेगी।`,
+    content: `आहार स्वास्थ्य बनाए रखने में महत्वपूर्ण भूमिका निभाता है और कैंसर होने के जोखिम को भी प्रभावित कर सकता है। लाभकारी खाद्य पदार्थों का चुनाव करने का तरीका जानने से लोगों को अपने स्वास्थ्य की रक्षा करने में मदद मिलेगी।
+
+Bà Jill McNutt, thạc sĩ khoa học - chuyên gia dinh dưỡng tại Mỹ, cho biết không có loại thực phẩm đơn lẻ nào có thể ngăn ngừa ung thư. Tuy nhiên, chế độ ăn giàu thực phẩm có nguồn gốc thực vật như ngũ cốc nguyên hạt, rau củ, trái cây, các loại đậu, quả hạch và hạt có thể góp phần giảm nguy cơ mắc bệnh.
+
+Dưới đây là 4 nhóm thực phẩm giàu dưỡng chất các chuyên gia khuyên nên bổ sung vào chế độ ăn, theo Eating Well .
+
+Nam việt quất, rau lá xanh đậm, rau họ cải và trái cây họ cam quýt giàu dưỡng chất, góp phần giảm nguy cơ mắc ung thư
+
+Cam, bưởi, chanh vàng, chanh xanh và quýt là những loại trái cây họ cam quýt có thể được bổ sung vào món salad, ngũ cốc hoặc các món bánh trong những tháng mùa đông. Thạc sĩ giáo dục - chuyên gia dinh dưỡng Hillary Wright (Mỹ), cho biết đây là những loại trái cây cung cấp chất xơ, vitamin C cùng các hợp chất chống oxy hóa, chống viêm có nguồn gốc thực vật gọi là flavonoid. Một số nghiên cứu cho thấy flavonoid có tiềm năng mang lại tác dụng bảo vệ tế bào.
+
+Một phân tích tổng hợp gồm 24 nghiên cứu quan sát với hơn 1 triệu người tham gia ghi nhận việc ăn nhiều trái cây họ cam quýt có liên quan đến nguy cơ ung thư đại trực tràng thấp hơn.
+
+Tuy nhiên, kết quả này chưa chứng minh cam quýt trực tiếp ngăn ngừa ung thư. Các yếu tố khác như chế độ ăn và lối sống cũng có thể ảnh hưởng đến nguy cơ mắc bệnh.
+
+Các loại rau lá xanh đậm như rau bina, cải xoăn, cải rổ, cải cầu vồng và xà lách romaine cung cấp carotenoid, folate cùng các vitamin A, C và K.
+
+Bác sĩ Lucy M. De La Cruz, Trưởng khoa Phẫu thuật Vú và Giám đốc Trung tâm Sức khỏe Vú Betty Lou Ourisman, Bệnh viện Đại học MedStar Georgetown (Mỹ), cho biết những loại rau này có liên quan đến tỷ lệ mắc một số bệnh ung thư thấp hơn và tuổi thọ cao hơn nói chung, phần lớn nhờ lợi ích đối với sức khỏe tim mạch.
+
+Rau lá xanh cũng chứa nhiều hợp chất thực vật có đặc tính chống oxy hóa, góp phần tạo nên lợi ích của chế độ ăn giàu thực phẩm có nguồn gốc thực vật.
+
+Các chuyên gia lưu ý nên kết hợp rau củ, trái cây trong một chế độ ăn uống và lối sống lành mạnh để góp phần giảm nguy cơ mắc ung thư
+
+Nam việt quất giàu polyphenol - nhóm hợp chất thực vật có đặc tính chống oxy hóa và hỗ trợ giảm viêm.
+
+Theo chuyên gia dinh McNutt, những hợp chất này đang được nghiên cứu về tiềm năng bảo vệ tế bào khỏi tổn thương và hỗ trợ duy trì hệ vi sinh đường ruột khỏe mạnh.
+
+Có thể dùng nam việt quất để làm nước sốt, thêm vào salad, ép lấy nước hoặc kết hợp với các loại trái cây khác để làm sinh tố. Tuy nhiên, nên chú ý lượng đường bổ sung trong các sản phẩm nước ép, nước sốt hoặc chế phẩm từ loại quả này.
+
+Bông cải xanh, cải xoăn, bắp cải và cải Brussels là những loại rau họ cải giàu chất xơ, vitamin, carotenoid và các hợp chất thực vật chứa lưu huỳnh gọi là glucosinolate.
+
+Trong quá trình chế biến, nhai và tiêu hóa, glucosinolate có thể được phân giải thành các hợp chất hoạt tính sinh học, trong đó có sulforaphane. Hợp chất này được nghiên cứu về tiềm năng bảo vệ tế bào và tác dụng chống ung thư.
+
+Một số nghiên cứu quan sát ghi nhận việc ăn nhiều rau họ cải có liên quan đến nguy cơ ung thư đại tràng thấp hơn. Tuy nhiên, kết quả giữa các nghiên cứu chưa hoàn toàn thống nhất và chưa đủ để khẳng định nhóm rau này có tác dụng trực tiếp phòng ngừa ung thư.
+
+### कोविड-19 के नए वेरिएंट की प्रमुख विशेषताएं क्या हैं?
+
+### दस साल से अधिक समय तक घुटने के दर्द से पीड़ित रहने के बाद, एक तुर्कमेनिस्तानी व्यक्ति सर्जरी के लिए वियतनाम गया।
+
+### कृत्रिम बुद्धिमत्ता का उपयोग करते हुए, पर्वतीय क्षेत्रों में लगभग 3,000 लोगों को मुफ्त चिकित्सा जांच प्रदान की गई।
+
+### डीकेएन ब्यूटी ने नॉन-इनवेसिव कॉस्मेटिक प्रक्रियाओं के बढ़ते चलन को देखते हुए ओंडा प्रो को अपडेट किया है।
+
+### 3,000 से अधिक सामुदायिक फार्मासिस्टों को एंटीबायोटिक प्रतिरोध पर प्रशिक्षित किया गया है।
+
+### पेय पदार्थों के उत्पादन से लेकर उपभोग तक उनकी गुणवत्ता पर नियंत्रण।
 
 ---
 
@@ -3232,8 +3224,52 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     summary_en: ``,
     content_en: ``,
     title_hi: `फलों और सब्जियों के 4 सामान्य समूह जो कैंसर को रोकने में मदद कर सकते हैं। - Vietnam.vn`,
-    summary_hi: `फलों और सब्जियों के 4 सामान्य समूह जो कैंसर को रोकने में मदद कर सकते हैं। Vietnam.vn`,
-    content_hi: `फलों और सब्जियों के 4 सामान्य समूह जो कैंसर को रोकने में मदद कर सकते हैं। Vietnam.vn
+    summary_hi: `आहार स्वास्थ्य बनाए रखने में महत्वपूर्ण भूमिका निभाता है और कैंसर होने के जोखिम को भी प्रभावित कर सकता है। लाभकारी खाद्य पदार्थों का चुनाव करने का तरीका जानने से लोगों को अपने स्वास्थ्य की रक्षा करने में मदद मिलेगी।`,
+    content_hi: `आहार स्वास्थ्य बनाए रखने में महत्वपूर्ण भूमिका निभाता है और कैंसर होने के जोखिम को भी प्रभावित कर सकता है। लाभकारी खाद्य पदार्थों का चुनाव करने का तरीका जानने से लोगों को अपने स्वास्थ्य की रक्षा करने में मदद मिलेगी।
+
+Bà Jill McNutt, thạc sĩ khoa học - chuyên gia dinh dưỡng tại Mỹ, cho biết không có loại thực phẩm đơn lẻ nào có thể ngăn ngừa ung thư. Tuy nhiên, chế độ ăn giàu thực phẩm có nguồn gốc thực vật như ngũ cốc nguyên hạt, rau củ, trái cây, các loại đậu, quả hạch và hạt có thể góp phần giảm nguy cơ mắc bệnh.
+
+Dưới đây là 4 nhóm thực phẩm giàu dưỡng chất các chuyên gia khuyên nên bổ sung vào chế độ ăn, theo Eating Well .
+
+Nam việt quất, rau lá xanh đậm, rau họ cải và trái cây họ cam quýt giàu dưỡng chất, góp phần giảm nguy cơ mắc ung thư
+
+Cam, bưởi, chanh vàng, chanh xanh và quýt là những loại trái cây họ cam quýt có thể được bổ sung vào món salad, ngũ cốc hoặc các món bánh trong những tháng mùa đông. Thạc sĩ giáo dục - chuyên gia dinh dưỡng Hillary Wright (Mỹ), cho biết đây là những loại trái cây cung cấp chất xơ, vitamin C cùng các hợp chất chống oxy hóa, chống viêm có nguồn gốc thực vật gọi là flavonoid. Một số nghiên cứu cho thấy flavonoid có tiềm năng mang lại tác dụng bảo vệ tế bào.
+
+Một phân tích tổng hợp gồm 24 nghiên cứu quan sát với hơn 1 triệu người tham gia ghi nhận việc ăn nhiều trái cây họ cam quýt có liên quan đến nguy cơ ung thư đại trực tràng thấp hơn.
+
+Tuy nhiên, kết quả này chưa chứng minh cam quýt trực tiếp ngăn ngừa ung thư. Các yếu tố khác như chế độ ăn và lối sống cũng có thể ảnh hưởng đến nguy cơ mắc bệnh.
+
+Các loại rau lá xanh đậm như rau bina, cải xoăn, cải rổ, cải cầu vồng và xà lách romaine cung cấp carotenoid, folate cùng các vitamin A, C và K.
+
+Bác sĩ Lucy M. De La Cruz, Trưởng khoa Phẫu thuật Vú và Giám đốc Trung tâm Sức khỏe Vú Betty Lou Ourisman, Bệnh viện Đại học MedStar Georgetown (Mỹ), cho biết những loại rau này có liên quan đến tỷ lệ mắc một số bệnh ung thư thấp hơn và tuổi thọ cao hơn nói chung, phần lớn nhờ lợi ích đối với sức khỏe tim mạch.
+
+Rau lá xanh cũng chứa nhiều hợp chất thực vật có đặc tính chống oxy hóa, góp phần tạo nên lợi ích của chế độ ăn giàu thực phẩm có nguồn gốc thực vật.
+
+Các chuyên gia lưu ý nên kết hợp rau củ, trái cây trong một chế độ ăn uống và lối sống lành mạnh để góp phần giảm nguy cơ mắc ung thư
+
+Nam việt quất giàu polyphenol - nhóm hợp chất thực vật có đặc tính chống oxy hóa và hỗ trợ giảm viêm.
+
+Theo chuyên gia dinh McNutt, những hợp chất này đang được nghiên cứu về tiềm năng bảo vệ tế bào khỏi tổn thương và hỗ trợ duy trì hệ vi sinh đường ruột khỏe mạnh.
+
+Có thể dùng nam việt quất để làm nước sốt, thêm vào salad, ép lấy nước hoặc kết hợp với các loại trái cây khác để làm sinh tố. Tuy nhiên, nên chú ý lượng đường bổ sung trong các sản phẩm nước ép, nước sốt hoặc chế phẩm từ loại quả này.
+
+Bông cải xanh, cải xoăn, bắp cải và cải Brussels là những loại rau họ cải giàu chất xơ, vitamin, carotenoid và các hợp chất thực vật chứa lưu huỳnh gọi là glucosinolate.
+
+Trong quá trình chế biến, nhai và tiêu hóa, glucosinolate có thể được phân giải thành các hợp chất hoạt tính sinh học, trong đó có sulforaphane. Hợp chất này được nghiên cứu về tiềm năng bảo vệ tế bào và tác dụng chống ung thư.
+
+Một số nghiên cứu quan sát ghi nhận việc ăn nhiều rau họ cải có liên quan đến nguy cơ ung thư đại tràng thấp hơn. Tuy nhiên, kết quả giữa các nghiên cứu chưa hoàn toàn thống nhất và chưa đủ để khẳng định nhóm rau này có tác dụng trực tiếp phòng ngừa ung thư.
+
+### कोविड-19 के नए वेरिएंट की प्रमुख विशेषताएं क्या हैं?
+
+### दस साल से अधिक समय तक घुटने के दर्द से पीड़ित रहने के बाद, एक तुर्कमेनिस्तानी व्यक्ति सर्जरी के लिए वियतनाम गया।
+
+### कृत्रिम बुद्धिमत्ता का उपयोग करते हुए, पर्वतीय क्षेत्रों में लगभग 3,000 लोगों को मुफ्त चिकित्सा जांच प्रदान की गई।
+
+### डीकेएन ब्यूटी ने नॉन-इनवेसिव कॉस्मेटिक प्रक्रियाओं के बढ़ते चलन को देखते हुए ओंडा प्रो को अपडेट किया है।
+
+### 3,000 से अधिक सामुदायिक फार्मासिस्टों को एंटीबायोटिक प्रतिरोध पर प्रशिक्षित किया गया है।
+
+### पेय पदार्थों के उत्पादन से लेकर उपभोग तक उनकी गुणवत्ता पर नियंत्रण।
 
 ---
 
@@ -3258,7 +3294,7 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     topic: `public-health`,
     language: `hi`,
     fomo_badge: `स्वास्थ्य वायर`,
-    read_time: `1 min read`,
+    read_time: `3 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T05:57:57Z`,
@@ -3273,8 +3309,36 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     image_license: `External Source Attribution`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `Health, News, India`,
-    summary: `बीएचयू में काले गेहूं-पनीर के पानी से बनी इडली, प्रोटीन और आयरन के साथ डायबिटीज और एनीमिया में फायदेमंद Jagran`,
-    content: `बीएचयू में काले गेहूं-पनीर के पानी से बनी इडली, प्रोटीन और आयरन के साथ डायबिटीज और एनीमिया में फायदेमंद Jagran
+    summary: `काशी हिंदू विश्वविद्यालय ने काले गेहूं और पनीर के व्हे से एक पौष्टिक इंस्टेंट इडली मिश्रण विकसित किया है। यह इडली प्रोटीन और आयरन से भरपूर है।`,
+    content: `काशी हिंदू विश्वविद्यालय ने काले गेहूं और पनीर के व्हे से एक पौष्टिक इंस्टेंट इडली मिश्रण विकसित किया है। यह इडली प्रोटीन और आयरन से भरपूर है।
+
+प्रतीकात्मक प्रस्तुतीकरण के लिए तस्वीर को एआई टूल गूगल जेमिनी की मदद से बनाया गया है।
+
+काले गेहूं और पनीर व्हे से बनी पौष्टिक इंस्टेंट इडली।
+
+प्रोटीन 24.76% और आयरन 6 गुना अधिक पाया गया।
+
+चूहों में रक्त शर्करा 24% कम, हीमोग्लोबिन बढ़ा।
+
+शैलेश अस्थाना, वाराणसी। काले गेहूं और दूध से पनीर बनाने के दौरान निकलने वाले पोषक तत्वों से भरपूर व्हे (छेने का पानी) का इस्तेमाल अब पौष्टिक इंस्टेंट इडली बनाने में हो सकेगा। काशी हिंदू विश्वविद्यालय के कृषि विज्ञान संस्थान स्थित दुग्ध विज्ञान एवं खाद्य प्रौद्योगिकी विभाग ने काले गेहूं से रवा इडली का ऐसा मिश्रण बनाया है, जिसे पानी मिलाकर तुरंत तैयार किया जा सकता है।
+
+इसकी विशेषता यह कि व्हे प्रोटीन के इस्तेमाल से मिश्रण में प्रोटीन की मात्रा 24.76 प्रतिशत तक पहुंच गई, जबकि बिना व्हे वाले मिश्रण में यह 18.71 प्रतिशत थी। गुणवत्ता बनाए रखने के लिए फर्मेंटेशन (किण्वन) की अनुकूल परिस्थितियों का निर्धारण कृत्रिम तंत्रिका जाल और अनुक्रिया पृष्ठ पद्धति से किया गया। नाइट्रोजन भरकर पैक किए गए मिश्रण की गुणवत्ता 120 दिनों तक बनी रही।
+
+### चार अंतरराष्ट्रीय शोध पत्रिकाओं में प्रकाशित हुआ रिसर्च
+
+चूहों पर हुए प्रयोग में काले गेहूं की इडली खाने वाले समूह में सामान्य आहार वाले समूह की तुलना में रक्त शर्करा लगभग 24 प्रतिशत कम दर्ज हुई। व्हे युक्त आहार वाले समूहों में हीमोग्लोबिन का स्तर अधिक और यकृत एंजाइमों का स्तर कम पाया गया। शोध के निष्कर्ष चार अंतरराष्ट्रीय शोध पत्रिकाओं में प्रकाशित हुए हैं।
+
+डॉ. अंकुर अग्रवाल ने विभाग के सहायक प्राध्यापक डॉ. तरुण वर्मा के निर्देशन में यह शोध किया। इसमें राष्ट्रीय कृषि-खाद्य जैव प्रौद्योगिकी संस्थान (नाबी), मोहाली की काले गेहूं की किस्म ''नाबी एमजी-11'' का प्रयोग किया गया। गेहूं का गहरा रंग इसमें मौजूद एंटीआक्सीडेंट गुणों वाले एंथोसायनिन नामक प्राकृतिक रंगद्रव्य के कारण होता है।
+
+सामान्य तौर पर इडली मिश्रण तैयार करने में पानी का इस्तेमाल होता है, लेकिन इस शोध में पनीर व्हे, चीज व्हे और व्हे प्रोटीन सांद्र के घोल से काले गेहूं की सूजी तैयार की गई। इसके बाद किण्वन और सुखाने की प्रक्रिया से इंस्टेंट मिश्रण विकसित किया गया।
+
+परीक्षण में चीज व्हे वाले मिश्रण में आयरन की मात्रा 6.79 मिलीग्राम प्रति 100 ग्राम मिली, जबकि सामान्य सूजी मिश्रण में यह 1.07 मिलीग्राम थी। यानी इसमें लगभग छह गुना अधिक आयरन पाया गया। नमूनों में सीसा, आर्सेनिक और कैडमियम जैसी भारी धातुओं की मात्रा भी एफएसएसएआइ की निर्धारित सीमाओं के भीतर रही।
+
+शोध में 70 दिन तक चूहों पर परीक्षण किया गया। काले गेहूं की इडली खाने वाले समूह में सामान्य आहार वाले समूह की तुलना में रक्त शर्करा लगभग 24 प्रतिशत कम हुई। व्हे युक्त आहार वाले समूहों में हीमोग्लोबिन का स्तर अधिक और यकृत एंजाइमों का स्तर कम पाया गया। अभी इसका प्रयोग मनुष्यों पर किया जाना शेष है।
+
+डॉ. तरुण ने बताया कि बीएचयू की इंस्टीट्यूशन आफ एमिनेंस योजना से अनुदानित इस शोध से जुड़े चार शोधपत्र एलडब्ल्यूटी-फूड साइंस एंड टेक्नोलाजी, जर्नल आफ स्टोर्ड प्रोडक्ट्स रिसर्च, एप्लाइड फूड रिसर्च और साइंटिफिक रिपोर्ट्स में प्रकाशित हुए हैं। बड़े पैमाने पर उत्पादन, उपभोक्ता स्वीकार्यता, लागत और खाद्य सुरक्षा के परीक्षण के बाद इसे बाजार में उतारने की दिशा में आगे बढ़ा जा सकेगा।
+
+यह भी पढ़ें- बलरामपुर में गाय पालने पर 32 किसानों को मिला पुरस्कार, देसी नस्ल की गायें बना रहीं अमीर
 
 ---
 
@@ -3283,8 +3347,36 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     summary_en: ``,
     content_en: ``,
     title_hi: `बीएचयू में काले गेहूं-पनीर के पानी से बनी इडली, प्रोटीन और आयरन के साथ डायबिटीज और एनीमिया में फायदेमंद - Jagran`,
-    summary_hi: `बीएचयू में काले गेहूं-पनीर के पानी से बनी इडली, प्रोटीन और आयरन के साथ डायबिटीज और एनीमिया में फायदेमंद Jagran`,
-    content_hi: `बीएचयू में काले गेहूं-पनीर के पानी से बनी इडली, प्रोटीन और आयरन के साथ डायबिटीज और एनीमिया में फायदेमंद Jagran
+    summary_hi: `काशी हिंदू विश्वविद्यालय ने काले गेहूं और पनीर के व्हे से एक पौष्टिक इंस्टेंट इडली मिश्रण विकसित किया है। यह इडली प्रोटीन और आयरन से भरपूर है।`,
+    content_hi: `काशी हिंदू विश्वविद्यालय ने काले गेहूं और पनीर के व्हे से एक पौष्टिक इंस्टेंट इडली मिश्रण विकसित किया है। यह इडली प्रोटीन और आयरन से भरपूर है।
+
+प्रतीकात्मक प्रस्तुतीकरण के लिए तस्वीर को एआई टूल गूगल जेमिनी की मदद से बनाया गया है।
+
+काले गेहूं और पनीर व्हे से बनी पौष्टिक इंस्टेंट इडली।
+
+प्रोटीन 24.76% और आयरन 6 गुना अधिक पाया गया।
+
+चूहों में रक्त शर्करा 24% कम, हीमोग्लोबिन बढ़ा।
+
+शैलेश अस्थाना, वाराणसी। काले गेहूं और दूध से पनीर बनाने के दौरान निकलने वाले पोषक तत्वों से भरपूर व्हे (छेने का पानी) का इस्तेमाल अब पौष्टिक इंस्टेंट इडली बनाने में हो सकेगा। काशी हिंदू विश्वविद्यालय के कृषि विज्ञान संस्थान स्थित दुग्ध विज्ञान एवं खाद्य प्रौद्योगिकी विभाग ने काले गेहूं से रवा इडली का ऐसा मिश्रण बनाया है, जिसे पानी मिलाकर तुरंत तैयार किया जा सकता है।
+
+इसकी विशेषता यह कि व्हे प्रोटीन के इस्तेमाल से मिश्रण में प्रोटीन की मात्रा 24.76 प्रतिशत तक पहुंच गई, जबकि बिना व्हे वाले मिश्रण में यह 18.71 प्रतिशत थी। गुणवत्ता बनाए रखने के लिए फर्मेंटेशन (किण्वन) की अनुकूल परिस्थितियों का निर्धारण कृत्रिम तंत्रिका जाल और अनुक्रिया पृष्ठ पद्धति से किया गया। नाइट्रोजन भरकर पैक किए गए मिश्रण की गुणवत्ता 120 दिनों तक बनी रही।
+
+### चार अंतरराष्ट्रीय शोध पत्रिकाओं में प्रकाशित हुआ रिसर्च
+
+चूहों पर हुए प्रयोग में काले गेहूं की इडली खाने वाले समूह में सामान्य आहार वाले समूह की तुलना में रक्त शर्करा लगभग 24 प्रतिशत कम दर्ज हुई। व्हे युक्त आहार वाले समूहों में हीमोग्लोबिन का स्तर अधिक और यकृत एंजाइमों का स्तर कम पाया गया। शोध के निष्कर्ष चार अंतरराष्ट्रीय शोध पत्रिकाओं में प्रकाशित हुए हैं।
+
+डॉ. अंकुर अग्रवाल ने विभाग के सहायक प्राध्यापक डॉ. तरुण वर्मा के निर्देशन में यह शोध किया। इसमें राष्ट्रीय कृषि-खाद्य जैव प्रौद्योगिकी संस्थान (नाबी), मोहाली की काले गेहूं की किस्म ''नाबी एमजी-11'' का प्रयोग किया गया। गेहूं का गहरा रंग इसमें मौजूद एंटीआक्सीडेंट गुणों वाले एंथोसायनिन नामक प्राकृतिक रंगद्रव्य के कारण होता है।
+
+सामान्य तौर पर इडली मिश्रण तैयार करने में पानी का इस्तेमाल होता है, लेकिन इस शोध में पनीर व्हे, चीज व्हे और व्हे प्रोटीन सांद्र के घोल से काले गेहूं की सूजी तैयार की गई। इसके बाद किण्वन और सुखाने की प्रक्रिया से इंस्टेंट मिश्रण विकसित किया गया।
+
+परीक्षण में चीज व्हे वाले मिश्रण में आयरन की मात्रा 6.79 मिलीग्राम प्रति 100 ग्राम मिली, जबकि सामान्य सूजी मिश्रण में यह 1.07 मिलीग्राम थी। यानी इसमें लगभग छह गुना अधिक आयरन पाया गया। नमूनों में सीसा, आर्सेनिक और कैडमियम जैसी भारी धातुओं की मात्रा भी एफएसएसएआइ की निर्धारित सीमाओं के भीतर रही।
+
+शोध में 70 दिन तक चूहों पर परीक्षण किया गया। काले गेहूं की इडली खाने वाले समूह में सामान्य आहार वाले समूह की तुलना में रक्त शर्करा लगभग 24 प्रतिशत कम हुई। व्हे युक्त आहार वाले समूहों में हीमोग्लोबिन का स्तर अधिक और यकृत एंजाइमों का स्तर कम पाया गया। अभी इसका प्रयोग मनुष्यों पर किया जाना शेष है।
+
+डॉ. तरुण ने बताया कि बीएचयू की इंस्टीट्यूशन आफ एमिनेंस योजना से अनुदानित इस शोध से जुड़े चार शोधपत्र एलडब्ल्यूटी-फूड साइंस एंड टेक्नोलाजी, जर्नल आफ स्टोर्ड प्रोडक्ट्स रिसर्च, एप्लाइड फूड रिसर्च और साइंटिफिक रिपोर्ट्स में प्रकाशित हुए हैं। बड़े पैमाने पर उत्पादन, उपभोक्ता स्वीकार्यता, लागत और खाद्य सुरक्षा के परीक्षण के बाद इसे बाजार में उतारने की दिशा में आगे बढ़ा जा सकेगा।
+
+यह भी पढ़ें- बलरामपुर में गाय पालने पर 32 किसानों को मिला पुरस्कार, देसी नस्ल की गायें बना रहीं अमीर
 
 ---
 
@@ -3309,7 +3401,7 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     topic: ``,
     language: `en`,
     fomo_badge: `News Wire`,
-    read_time: `1 min read`,
+    read_time: `4 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T05:57:59Z`,
@@ -3324,15 +3416,63 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     image_license: `External Source Attribution`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `Politics, News, India`,
-    summary: `Why is November 26 celebrated as Constitution Day in India The Hindu Opposition Wants To Cut OBC Quota, Give To Muslims: PM Modi On Constitution Day NDTV PM Modi hails deepening Constitution connect, urges public engagement with its ideals `,
-    content: `Why is November 26 celebrated as Constitution Day in India The Hindu Opposition Wants To Cut OBC Quota, Give To Muslims: PM Modi On Constitution Day NDTV PM Modi hails deepening Constitution connect, urges public engagement with its ideals Telegraph India Daily Editorial Analysis 26 November 2026 Vajiram & Ravi Who Should Uphold the Constitution? TheWire.in
+    summary: `Constitution Day, also known as Samvidhan Diwas, is observed every year on November 26 to commemorate the adoption of the Constitution of India in 1949 by the Constituent Assembly. The Constitution came into force on January 26, 1950, two m`,
+    content: `Constitution Day, also known as Samvidhan Diwas, is observed every year on November 26 to commemorate the adoption of the Constitution of India in 1949 by the Constituent Assembly. The Constitution came into force on January 26, 1950, two months later, making India a republic. However, November 26 is celebrated as the Constitution Day to commemorate the moment the Constitution of India was formally adopted for “We, the People of India”.
+
+Also read| Constitution Day: Changing nature of observance through The Hindu’s eyes https://www.thehindu.com/news/national/constitution-day-changing-nature-of-observance-through-the-hindus-eyes-1979-2024/article68914914.ece But the event ‘Constitution Day’ was started only a little over a decade ago when Prime Minister Narendra Modi announced it in October 2015 while laying the foundation stone for the Dr.
+
+B.R. Ambedkar Memorial in Mumbai. Prior to this, it was called ‘National Law Day’,  first initiated by former Supreme Court Bar Association (SCBA) president Laxmi Mall Singhvi in 1979. Reimagining the Constitution Reimagining the Constitution Explore the colonial legacy of India’s Constitution and its impact on citizenship, equality, and personal liberties through diverse philosophical insights Reimagining the Constitution storyline 1 Drafting of the Constitution Members of the Constituent Assembly debated the governing charter of Independent India for over three years with an initial draft prepared in February 1948 by Constitutional Advisor B.N.
+
+Rau (following an earlier draft preamble presented in October 1947). Also read| The Constitution Debate: Power, Rights and Democracy in India https://www.thehindu.com/news/national/the-constitution-debate-power-rights-and-democracy-in-india/article70325322.ece Dr. Ambedkar’s drafting committee revised the draft in 1948 and the Assembly spent a year discussing it.
+
+They considered more than 2000 amendments and accepted several before adopting the final draft. Handwritten in both English and Hindi, with artwork by Nandalal Bose of Santiniketan, the Constitution was signed by Constituent Assembly members on January 24, 1950, when Dr. Rajendra Prasad was elected unopposed as India’s first President.
+
+Shaping the Preamble “WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship: EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity of the Nation, IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day on November 1949., do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.” Dr.
+
+Ambedkar drafted a normative Preamble in 1948, drawing on the December 1946 Objectives Resolution and the July 1946 Declaration of the Expert’s Committee. It added Dr. Ambedkar’s own emphasis on fraternity and human dignity to establish India as a sovereign democratic republic securing Justice (social, economic, political), Liberty, Equality and Fraternity.
+
+Indian Constitution and the Revolution Without a Revolution Indian Constitution and the Revolution Without a Revolution Explore the paradox of India’s post-colonial transition: a constitution designed for revolution without embracing the chaos of one Indian Constitution and the Revolution Without a Revolution storyline 1 The original Preamble, adopted on November 26, 1949, did not contain the words ‘socialist’ and ‘secular’.
+
+These were inserted in 1976 through the 42nd Constitution Amendment. In November 2024, the Supreme Court upheld the inclusion after a batch of petitions challenged the validity of the inclusion of the words ‘socialist, secular’ in the Preamble. The SC stated that ‘secular’ denotes a Republic that upholds equal respect for all religions and ‘socialist’ represents a Republic dedicated to eliminating all forms of exploitation (whether social, political, or economic).
+
+Supreme Court upholds ‘secular, socialist’ in Preamble of the Constitution storyline 1 The Hindu article, dated November 26, 2025, notes that Dr. Ambedkar “envisioned and crafted the Constitution as a site of struggle where seminal issues could be settled through constitutional means”.
+
+He shaped the Preamble as an instrument of social revolution grounded in the 19th and early 20th century anti-caste movement, it further argues. https://www.thehindu.com/news/national/dr-br-ambedkars-transformation-of-the-constitution-into-a-unique-site-of-struggle/article70325313.ece A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity Exploring the intricate relationship between religious identity and legal frameworks, this analysis reveals how colonial legacies continue to shape contemporary interpretations of citizenship, minority rights, and social justice within India’s constitutional landscape A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity storyline 1 Core values, Rights and Duties As the supreme law of India, the Constitution guarantees citizens of India fundamental rights such as freedom of speech and expression, freedom of conscience and religion, protection against arbitrary arrest and detention, freedom of movement and cultural and educational guarantees, while also outlining fundamental duties in Part IVA.
+
+It emphasizes the principles of Justice (social, economic and political), Liberty, Equality and Fraternity alongside abolition of untouchability and Article 15’s bar on state discrimination on grounds including religion, race, caste, sex, and place of birth. Balancing faith, dignity and constitutional rights Balancing faith, dignity and constitutional rights The Sabarimala review’s final arguments will also centre on the broader architecture of India’s religious freedom jurisprudence Balancing faith, dignity and constitutional rights opinion 1 The Hindu article from November 26, 2022, contends that these provisions underpin our daily activities, travel, career choices, reading or watching the news, and even questioning why the police stop us, and underscores the importance of  treating the Constitution Day as more than a form of symbolism.
+
+It particularly emphasizes teaching constitutional values and fraternity at home and in schools, and resolving socio-economic conflicts through constitutional methods, among others. https://www.thehindu.com/opinion/op-ed/the-constitution-of-india-deserves-better/article66184599.ece
 
 ---
 
 **Original Source:** [The Hindu](https://www.thehindu.com/news/national/why-is-november-26-celebrated-as-constitution-day-in-india/article71733839.ece)`,
     title_en: `Why is November 26 celebrated as Constitution Day in India`,
-    summary_en: `Why is November 26 celebrated as Constitution Day in India The Hindu Opposition Wants To Cut OBC Quota, Give To Muslims: PM Modi On Constitution Day NDTV PM Modi hails deepening Constitution connect, urges public engagement with its ideals `,
-    content_en: `Why is November 26 celebrated as Constitution Day in India The Hindu Opposition Wants To Cut OBC Quota, Give To Muslims: PM Modi On Constitution Day NDTV PM Modi hails deepening Constitution connect, urges public engagement with its ideals Telegraph India Daily Editorial Analysis 26 November 2026 Vajiram & Ravi Who Should Uphold the Constitution? TheWire.in
+    summary_en: `Constitution Day, also known as Samvidhan Diwas, is observed every year on November 26 to commemorate the adoption of the Constitution of India in 1949 by the Constituent Assembly. The Constitution came into force on January 26, 1950, two m`,
+    content_en: `Constitution Day, also known as Samvidhan Diwas, is observed every year on November 26 to commemorate the adoption of the Constitution of India in 1949 by the Constituent Assembly. The Constitution came into force on January 26, 1950, two months later, making India a republic. However, November 26 is celebrated as the Constitution Day to commemorate the moment the Constitution of India was formally adopted for “We, the People of India”.
+
+Also read| Constitution Day: Changing nature of observance through The Hindu’s eyes https://www.thehindu.com/news/national/constitution-day-changing-nature-of-observance-through-the-hindus-eyes-1979-2024/article68914914.ece But the event ‘Constitution Day’ was started only a little over a decade ago when Prime Minister Narendra Modi announced it in October 2015 while laying the foundation stone for the Dr.
+
+B.R. Ambedkar Memorial in Mumbai. Prior to this, it was called ‘National Law Day’,  first initiated by former Supreme Court Bar Association (SCBA) president Laxmi Mall Singhvi in 1979. Reimagining the Constitution Reimagining the Constitution Explore the colonial legacy of India’s Constitution and its impact on citizenship, equality, and personal liberties through diverse philosophical insights Reimagining the Constitution storyline 1 Drafting of the Constitution Members of the Constituent Assembly debated the governing charter of Independent India for over three years with an initial draft prepared in February 1948 by Constitutional Advisor B.N.
+
+Rau (following an earlier draft preamble presented in October 1947). Also read| The Constitution Debate: Power, Rights and Democracy in India https://www.thehindu.com/news/national/the-constitution-debate-power-rights-and-democracy-in-india/article70325322.ece Dr. Ambedkar’s drafting committee revised the draft in 1948 and the Assembly spent a year discussing it.
+
+They considered more than 2000 amendments and accepted several before adopting the final draft. Handwritten in both English and Hindi, with artwork by Nandalal Bose of Santiniketan, the Constitution was signed by Constituent Assembly members on January 24, 1950, when Dr. Rajendra Prasad was elected unopposed as India’s first President.
+
+Shaping the Preamble “WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship: EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity of the Nation, IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day on November 1949., do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.” Dr.
+
+Ambedkar drafted a normative Preamble in 1948, drawing on the December 1946 Objectives Resolution and the July 1946 Declaration of the Expert’s Committee. It added Dr. Ambedkar’s own emphasis on fraternity and human dignity to establish India as a sovereign democratic republic securing Justice (social, economic, political), Liberty, Equality and Fraternity.
+
+Indian Constitution and the Revolution Without a Revolution Indian Constitution and the Revolution Without a Revolution Explore the paradox of India’s post-colonial transition: a constitution designed for revolution without embracing the chaos of one Indian Constitution and the Revolution Without a Revolution storyline 1 The original Preamble, adopted on November 26, 1949, did not contain the words ‘socialist’ and ‘secular’.
+
+These were inserted in 1976 through the 42nd Constitution Amendment. In November 2024, the Supreme Court upheld the inclusion after a batch of petitions challenged the validity of the inclusion of the words ‘socialist, secular’ in the Preamble. The SC stated that ‘secular’ denotes a Republic that upholds equal respect for all religions and ‘socialist’ represents a Republic dedicated to eliminating all forms of exploitation (whether social, political, or economic).
+
+Supreme Court upholds ‘secular, socialist’ in Preamble of the Constitution storyline 1 The Hindu article, dated November 26, 2025, notes that Dr. Ambedkar “envisioned and crafted the Constitution as a site of struggle where seminal issues could be settled through constitutional means”.
+
+He shaped the Preamble as an instrument of social revolution grounded in the 19th and early 20th century anti-caste movement, it further argues. https://www.thehindu.com/news/national/dr-br-ambedkars-transformation-of-the-constitution-into-a-unique-site-of-struggle/article70325313.ece A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity Exploring the intricate relationship between religious identity and legal frameworks, this analysis reveals how colonial legacies continue to shape contemporary interpretations of citizenship, minority rights, and social justice within India’s constitutional landscape A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity storyline 1 Core values, Rights and Duties As the supreme law of India, the Constitution guarantees citizens of India fundamental rights such as freedom of speech and expression, freedom of conscience and religion, protection against arbitrary arrest and detention, freedom of movement and cultural and educational guarantees, while also outlining fundamental duties in Part IVA.
+
+It emphasizes the principles of Justice (social, economic and political), Liberty, Equality and Fraternity alongside abolition of untouchability and Article 15’s bar on state discrimination on grounds including religion, race, caste, sex, and place of birth. Balancing faith, dignity and constitutional rights Balancing faith, dignity and constitutional rights The Sabarimala review’s final arguments will also centre on the broader architecture of India’s religious freedom jurisprudence Balancing faith, dignity and constitutional rights opinion 1 The Hindu article from November 26, 2022, contends that these provisions underpin our daily activities, travel, career choices, reading or watching the news, and even questioning why the police stop us, and underscores the importance of  treating the Constitution Day as more than a form of symbolism.
+
+It particularly emphasizes teaching constitutional values and fraternity at home and in schools, and resolving socio-economic conflicts through constitutional methods, among others. https://www.thehindu.com/opinion/op-ed/the-constitution-of-india-deserves-better/article66184599.ece
 
 ---
 
@@ -3360,7 +3500,7 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     topic: ``,
     language: `en`,
     fomo_badge: `News Wire`,
-    read_time: `1 min read`,
+    read_time: `8 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T05:58:01Z`,
@@ -3375,15 +3515,203 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     image_license: `External Source Attribution`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `Politics, News, India`,
-    summary: `26/11 Was Not Just an Attack on India DefenceXP 18 years after 26/11 terror attack, how has India secured its coastal frontier The Times of India 2008 Mumbai terror attacks: Tributes paid to martyrs on 18th anniversary The Hindu Terrorism c`,
-    content: `26/11 Was Not Just an Attack on India DefenceXP 18 years after 26/11 terror attack, how has India secured its coastal frontier The Times of India 2008 Mumbai terror attacks: Tributes paid to martyrs on 18th anniversary The Hindu Terrorism can’t break spirit of nation united in courage: President remembers 2008 Mumbai attacks ThePrint School students hold placards as they pay tribute to the martyrs of the 26/11 Mumbai terror attack, in Jammu and Kashmir, on Wednesday. (PTI) The Shillong Times
+    summary: `Eighteen years ago on the night of November 26, 2008, ten heavily armed terrorist stepped off inflatable dinghies onto the docks of south Mumbai. Over the next sixty hours, they turned India’s financial capital into a war zone spraying gunf`,
+    content: `Eighteen years ago on the night of November 26, 2008, ten heavily armed terrorist stepped off inflatable dinghies onto the docks of south Mumbai. Over the next sixty hours, they turned India’s financial capital into a war zone spraying gunfire across Chhatrapati Shivaji Terminus, setting fire to the Taj Mahal Palace Hotel, laying siege to the Oberoi Trident, and storming Nariman House.
+
+By the time Indian commandos cleared the last room, more than 166 innocent people were dead and over 300 wounded. In the years since, much of the international commentary around 26/11 has quietly filed it away as another dark chapter in the India - Pakistan rivalry. That framing is not just inaccurate - it is dangerous.
+
+Mumbai was never merely a local flare-up over Kashmir. It was a deliberately internationalized operation funded, staffed, and wired across continents, yet anchored firmly in Pakistan that exposed how deeply transnational terrorism had merged with state-sheltered terrorism. When states shelter, tolerate, or selectively prosecute terrorist infrastructure, the consequences eventually travel beyond the immediate target.
+
+A Global Siege, Directed Live from Karachi
+
+
+
+To understand why 26/11 shook counterterrorism agencies far beyond New Delhi, look at who the attackers chose to kill. Alongside Indian commuters, hotel staff, and police officers, the gunmen systematically hunted foreign nationals, killing around 26 to 30 foreigners including six Americans and six Israelis and Jewish visitors at the Chabad House while demanding British and American passports inside Mumbai's luxury hotels.
+
+It was the first time Lashkar-e-Taiba (LeT) explicitly struck a Jewish target, a decision aimed squarely at maximizing global shockwaves and aligning the group with the wider ideological current of global jihad. What made the assault unprecedented, however, was the transnational machinery keeping those ten terrorists alive and lethal.
+
+Because Mumbai police managed to capture one terrorist alive, Ajmal Kasab, investigators did not have to guess where the trail began. During interrogation, Kasab confirmed that all ten attackers were Pakistani nationals trained in LeT camps who had sailed from Karachi aboard a hijacked Indian trawler, the Kuber, before killing its crew.
+
+Even more revealing was the digital footprint. From a suburban Karachi "control room" equipped with four laptops and live television feeds, ISI officials, LeT commanders Zaki-ur-Rehman Lakhvi and Sajid Mir, along with tech specialist Zarrar Shah and Abu Jundal, micromanaged the slaughter in real time.
+
+To disguise their location, Shah and his associates exploited the plumbing of the global telecom economy. Under the fake Indian alias "Kharak Singh," they opened a Voice over Internet Protocol (VoIP) account with Callphonex, a company based in New Jersey. The initial $250 activation fee was wired via MoneyGram through an agent in Lahore, backed by hawala funds linked to contacts traced by Italian police.
+
+The handlers routed 284 calls nearly 1,000 minutes of tactical coaching through a virtual American phone number leased from the Belgian telecom firm Voxbone and Austrian dialing numbers while the Nokia handsets pulled off the dead terrorist had been manufactured in China and exported straight to Pakistan five months earlier.
+
+A terror cell sitting in Karachi had seamlessly stitched together American servers, Belgian numbers, European financial transfers, and Asian hardware to paralyze a megacity. Borders meant nothing to them, jurisdiction only slowed down the governments chasing them. From Muridke to Chicago and Copenhagen
+
+
+
+
+
+
+
+If the communications network showed LeT’s technical reach, its human network proved the West was already inside the blast radius.
+
+Long before the boats left Karachi, the targets in Mumbai had been videotaped and mapped out by David Coleman Headley, a Pakistani-American who moved effortlessly between Chicago, Pakistan, and India. Giving him business cover was Tahawwur Hussain Rana, a Pakistani-origin Canadian citizen operating out of Chicago.
+
+Headley eventually pleaded guilty in a U.S. court and received a 35-year prison sentence. Rana, after exhausting years of legal appeals in America, was finally extradited to India in April 2025 to stand trial- a sobering reminder that legal closure on a transnational conspiracy can take nearly seventeen years.
+
+Crucially, Headley’s work did not end with Mumbai. Before his arrest, he was already conducting surveillance in Europe for a follow-up strike against the Danish newspaper Jyllands-Posten over its cartoons of the Prophet Muhammad, coordinating directly with LeT handlers and al-Qaeda-linked commander Ilyas Kashmiri.
+
+Viewed in hindsight, 26/11 was not a sudden pivot by LeT toward the outside world it was the culmination of a decade-long global expansion. Founded in Pakistan in the late 1980s as the armed wing of Markaz-ad-Dawa-wal-Irshad, LeT’s foundational pamphlet Why Are We Waging Jihad explicitly names not just India, but also the United States and Israel as existential enemies.
+
+Its camps in Pakistan became a finishing school for international extremists. Also Read, Terrorists Safe Havens: The Reality of Pakistan
+
+
+
+All Roads Lead Back to Pakistan
+
+
+
+What separates Pakistan-based outfits like Lashkar-e-Taiba from stateless insurgencies elsewhere is sanctuary and the unmistakable shadow of official patronage.
+
+Headquartered in Muridke near Lahore and led by Hafiz Muhammad Saeed, LeT grew into South Asia's most tactically sophisticated terror force with financing, instruction, and protection from Pakistan’s Inter-Services Intelligence (ISI). As counterterrorism scholar Stephen Tankel testified before the U.S.
+
+House Homeland Security Committee, Pakistani military personnel some on secondment, others taking early retirement, trained LeT’s own instructors, passing on commando, maritime, surveillance, and counter-intelligence skills that made a complex amphibious assault like Mumbai possible.
+
+Even after Pakistan nominally banned LeT in 2002 under post-9/11 American pressure, the group never actually dismantled. It simply changed its signboard to Jamaat-ud-Dawa (JuD), ran open fundraising rallies, maintained recruitment centers and camps in Mansehra and Pakistan-administered Kashmir, and later cycled through proxy fronts to preserve plausible deniability.
+
+During the 26/11 siege itself, the line between "non-state actors" and state elements blurred beyond recognition. Western intelligence officials in Islamabad reportedly confronted the ISI’s head of analysis with real-time intercepts of serving operatives directing the terrorists in Mumbai.
+
+While Islamabad publicly pledged cooperation, Indian and American investigations repeatedly ran into a wall of evasion: key figures indicted by U.S. prosecutors, including Sajid Mir and an ISI officer, were never meaningfully brought to justice by Pakistan, and the trial of seven arrested suspects including Lakhvi stalled for years.
+
+Even former Pakistani Prime Minister Nawaz Sharif later broke ranks to admit that Pakistan’s failure to deliver justice for the Mumbai attacks had badly damaged its credibility before the world. Whether through direct operational complicity, ideological nurturing, or deliberate refusal to dismantle terror infrastructure on its soil, almost every major strand of South Asian transnational terrorism traces back to the same permissive ecosystem inside Pakistan.
+
+Also Read, How Terrorist Organizations Exploit Zakat for Terror Financing
+
+
+
+The Architecture of Global Double Standards
+
+
+
+If the evidence linking Pakistan-based terror networks to global instability has been sitting in court records and intelligence files for nearly two decades, why does the machinery survive?
+
+The uncomfortable answer lies in the world’s persistent double standards on terrorism. For decades, major powers have quietly sorted terrorists into two categories: those who threaten their own capitals and therefore warrant relentless global coalitions and those who strike elsewhere, who are treated as regrettable byproducts of "regional disputes." Nowhere has this hypocrisy been more blatant than inside the United Nations Security Council.
+
+Take the case of Sajid Mir, the LeT project manager whose voice was recorded instructing attackers in Mumbai and who carries a $5 million U.S. bounty on his head. In 2022 and again in June 2023, China used its diplomatic weight at the UN to hold up and block joint India–U.S. proposals to designate Mir as a global terrorist, preventing an asset freeze, travel ban, and arms embargo.
+
+It was part of a broader pattern in which Beijing repeatedly shielded Pakistan-based terrorists at the UN, from blocking scrutiny over Zaki-ur-Rehman Lakhvi’s release in 2015 to stalling listings of other LeT and Jaish-e-Mohammed operatives. When counterterrorism designations become bargaining chips in great-power politics, international law loses its teeth.
+
+Also Read, Jaish-e-Mohammed Launches Ramadan Fundraising Drive to Support Terror Operations in India
+
+
+
+Western capitals, too, have struggled with consistency. Whenever Washington or European governments have needed Islamabad’s logistical cooperation in Afghanistan or regional leverage, pressure on Pakistan’s terror infrastructure has softened into polite diplomatic statements.
+
+Hafiz Saeed was detained and released in a revolving-door spectacle for years. Meaningful domestic crackdowns in Pakistan such as terror-financing convictions in anti-terrorism courts materialized mainly when the Financial Action Task Force (FATF) kept Pakistan on its grey list between 2018 and 2021, threatening its access to international finance.
+
+The moment economic and diplomatic scrutiny eases, the incentive to dismantle terror proxies evaporates. As Indian leaders, including Prime Minister Shri Narendra Modi at the BRICS summit and External Affairs Minister Dr. S. Jaishankar, have repeatedly pointed out on global stages, there can be no selective morality in fighting terror or choking its financing.
+
+Empathy cannot depend on the nationality of the victims. Eighteen Years On: The Cost of Looking Away
+
+
+
+Tahawwur Rana’s extradition from the United States to India in 2025 proved one vital truth: when nations share intelligence and match rhetoric with legal resolve, transnational conspirators can be stripped of their safe havens.
+
+Yet one extradition, seventeen years late, does not erase an entire architecture of impunity. Eighteen years after Mumbai burned, the core lesson of 26/11 remains urgently unresolved. Terror networks nurtured in one country do not stay politely within their patron’s strategic lines they borrow Western passports, rent global servers, train foreign recruits, and export their methods to every open society within reach.
 
 ---
 
 **Original Source:** [DefenceXP](https://www.defencexp.com/26-11-was-not-just-an-attack-on-india/)`,
     title_en: `26/11 Was Not Just an Attack on India - DefenceXP`,
-    summary_en: `26/11 Was Not Just an Attack on India DefenceXP 18 years after 26/11 terror attack, how has India secured its coastal frontier The Times of India 2008 Mumbai terror attacks: Tributes paid to martyrs on 18th anniversary The Hindu Terrorism c`,
-    content_en: `26/11 Was Not Just an Attack on India DefenceXP 18 years after 26/11 terror attack, how has India secured its coastal frontier The Times of India 2008 Mumbai terror attacks: Tributes paid to martyrs on 18th anniversary The Hindu Terrorism can’t break spirit of nation united in courage: President remembers 2008 Mumbai attacks ThePrint School students hold placards as they pay tribute to the martyrs of the 26/11 Mumbai terror attack, in Jammu and Kashmir, on Wednesday. (PTI) The Shillong Times
+    summary_en: `Eighteen years ago on the night of November 26, 2008, ten heavily armed terrorist stepped off inflatable dinghies onto the docks of south Mumbai. Over the next sixty hours, they turned India’s financial capital into a war zone spraying gunf`,
+    content_en: `Eighteen years ago on the night of November 26, 2008, ten heavily armed terrorist stepped off inflatable dinghies onto the docks of south Mumbai. Over the next sixty hours, they turned India’s financial capital into a war zone spraying gunfire across Chhatrapati Shivaji Terminus, setting fire to the Taj Mahal Palace Hotel, laying siege to the Oberoi Trident, and storming Nariman House.
+
+By the time Indian commandos cleared the last room, more than 166 innocent people were dead and over 300 wounded. In the years since, much of the international commentary around 26/11 has quietly filed it away as another dark chapter in the India - Pakistan rivalry. That framing is not just inaccurate - it is dangerous.
+
+Mumbai was never merely a local flare-up over Kashmir. It was a deliberately internationalized operation funded, staffed, and wired across continents, yet anchored firmly in Pakistan that exposed how deeply transnational terrorism had merged with state-sheltered terrorism. When states shelter, tolerate, or selectively prosecute terrorist infrastructure, the consequences eventually travel beyond the immediate target.
+
+A Global Siege, Directed Live from Karachi
+
+
+
+To understand why 26/11 shook counterterrorism agencies far beyond New Delhi, look at who the attackers chose to kill. Alongside Indian commuters, hotel staff, and police officers, the gunmen systematically hunted foreign nationals, killing around 26 to 30 foreigners including six Americans and six Israelis and Jewish visitors at the Chabad House while demanding British and American passports inside Mumbai's luxury hotels.
+
+It was the first time Lashkar-e-Taiba (LeT) explicitly struck a Jewish target, a decision aimed squarely at maximizing global shockwaves and aligning the group with the wider ideological current of global jihad. What made the assault unprecedented, however, was the transnational machinery keeping those ten terrorists alive and lethal.
+
+Because Mumbai police managed to capture one terrorist alive, Ajmal Kasab, investigators did not have to guess where the trail began. During interrogation, Kasab confirmed that all ten attackers were Pakistani nationals trained in LeT camps who had sailed from Karachi aboard a hijacked Indian trawler, the Kuber, before killing its crew.
+
+Even more revealing was the digital footprint. From a suburban Karachi "control room" equipped with four laptops and live television feeds, ISI officials, LeT commanders Zaki-ur-Rehman Lakhvi and Sajid Mir, along with tech specialist Zarrar Shah and Abu Jundal, micromanaged the slaughter in real time.
+
+To disguise their location, Shah and his associates exploited the plumbing of the global telecom economy. Under the fake Indian alias "Kharak Singh," they opened a Voice over Internet Protocol (VoIP) account with Callphonex, a company based in New Jersey. The initial $250 activation fee was wired via MoneyGram through an agent in Lahore, backed by hawala funds linked to contacts traced by Italian police.
+
+The handlers routed 284 calls nearly 1,000 minutes of tactical coaching through a virtual American phone number leased from the Belgian telecom firm Voxbone and Austrian dialing numbers while the Nokia handsets pulled off the dead terrorist had been manufactured in China and exported straight to Pakistan five months earlier.
+
+A terror cell sitting in Karachi had seamlessly stitched together American servers, Belgian numbers, European financial transfers, and Asian hardware to paralyze a megacity. Borders meant nothing to them, jurisdiction only slowed down the governments chasing them. From Muridke to Chicago and Copenhagen
+
+
+
+
+
+
+
+If the communications network showed LeT’s technical reach, its human network proved the West was already inside the blast radius.
+
+Long before the boats left Karachi, the targets in Mumbai had been videotaped and mapped out by David Coleman Headley, a Pakistani-American who moved effortlessly between Chicago, Pakistan, and India. Giving him business cover was Tahawwur Hussain Rana, a Pakistani-origin Canadian citizen operating out of Chicago.
+
+Headley eventually pleaded guilty in a U.S. court and received a 35-year prison sentence. Rana, after exhausting years of legal appeals in America, was finally extradited to India in April 2025 to stand trial- a sobering reminder that legal closure on a transnational conspiracy can take nearly seventeen years.
+
+Crucially, Headley’s work did not end with Mumbai. Before his arrest, he was already conducting surveillance in Europe for a follow-up strike against the Danish newspaper Jyllands-Posten over its cartoons of the Prophet Muhammad, coordinating directly with LeT handlers and al-Qaeda-linked commander Ilyas Kashmiri.
+
+Viewed in hindsight, 26/11 was not a sudden pivot by LeT toward the outside world it was the culmination of a decade-long global expansion. Founded in Pakistan in the late 1980s as the armed wing of Markaz-ad-Dawa-wal-Irshad, LeT’s foundational pamphlet Why Are We Waging Jihad explicitly names not just India, but also the United States and Israel as existential enemies.
+
+Its camps in Pakistan became a finishing school for international extremists. Also Read, Terrorists Safe Havens: The Reality of Pakistan
+
+
+
+All Roads Lead Back to Pakistan
+
+
+
+What separates Pakistan-based outfits like Lashkar-e-Taiba from stateless insurgencies elsewhere is sanctuary and the unmistakable shadow of official patronage.
+
+Headquartered in Muridke near Lahore and led by Hafiz Muhammad Saeed, LeT grew into South Asia's most tactically sophisticated terror force with financing, instruction, and protection from Pakistan’s Inter-Services Intelligence (ISI). As counterterrorism scholar Stephen Tankel testified before the U.S.
+
+House Homeland Security Committee, Pakistani military personnel some on secondment, others taking early retirement, trained LeT’s own instructors, passing on commando, maritime, surveillance, and counter-intelligence skills that made a complex amphibious assault like Mumbai possible.
+
+Even after Pakistan nominally banned LeT in 2002 under post-9/11 American pressure, the group never actually dismantled. It simply changed its signboard to Jamaat-ud-Dawa (JuD), ran open fundraising rallies, maintained recruitment centers and camps in Mansehra and Pakistan-administered Kashmir, and later cycled through proxy fronts to preserve plausible deniability.
+
+During the 26/11 siege itself, the line between "non-state actors" and state elements blurred beyond recognition. Western intelligence officials in Islamabad reportedly confronted the ISI’s head of analysis with real-time intercepts of serving operatives directing the terrorists in Mumbai.
+
+While Islamabad publicly pledged cooperation, Indian and American investigations repeatedly ran into a wall of evasion: key figures indicted by U.S. prosecutors, including Sajid Mir and an ISI officer, were never meaningfully brought to justice by Pakistan, and the trial of seven arrested suspects including Lakhvi stalled for years.
+
+Even former Pakistani Prime Minister Nawaz Sharif later broke ranks to admit that Pakistan’s failure to deliver justice for the Mumbai attacks had badly damaged its credibility before the world. Whether through direct operational complicity, ideological nurturing, or deliberate refusal to dismantle terror infrastructure on its soil, almost every major strand of South Asian transnational terrorism traces back to the same permissive ecosystem inside Pakistan.
+
+Also Read, How Terrorist Organizations Exploit Zakat for Terror Financing
+
+
+
+The Architecture of Global Double Standards
+
+
+
+If the evidence linking Pakistan-based terror networks to global instability has been sitting in court records and intelligence files for nearly two decades, why does the machinery survive?
+
+The uncomfortable answer lies in the world’s persistent double standards on terrorism. For decades, major powers have quietly sorted terrorists into two categories: those who threaten their own capitals and therefore warrant relentless global coalitions and those who strike elsewhere, who are treated as regrettable byproducts of "regional disputes." Nowhere has this hypocrisy been more blatant than inside the United Nations Security Council.
+
+Take the case of Sajid Mir, the LeT project manager whose voice was recorded instructing attackers in Mumbai and who carries a $5 million U.S. bounty on his head. In 2022 and again in June 2023, China used its diplomatic weight at the UN to hold up and block joint India–U.S. proposals to designate Mir as a global terrorist, preventing an asset freeze, travel ban, and arms embargo.
+
+It was part of a broader pattern in which Beijing repeatedly shielded Pakistan-based terrorists at the UN, from blocking scrutiny over Zaki-ur-Rehman Lakhvi’s release in 2015 to stalling listings of other LeT and Jaish-e-Mohammed operatives. When counterterrorism designations become bargaining chips in great-power politics, international law loses its teeth.
+
+Also Read, Jaish-e-Mohammed Launches Ramadan Fundraising Drive to Support Terror Operations in India
+
+
+
+Western capitals, too, have struggled with consistency. Whenever Washington or European governments have needed Islamabad’s logistical cooperation in Afghanistan or regional leverage, pressure on Pakistan’s terror infrastructure has softened into polite diplomatic statements.
+
+Hafiz Saeed was detained and released in a revolving-door spectacle for years. Meaningful domestic crackdowns in Pakistan such as terror-financing convictions in anti-terrorism courts materialized mainly when the Financial Action Task Force (FATF) kept Pakistan on its grey list between 2018 and 2021, threatening its access to international finance.
+
+The moment economic and diplomatic scrutiny eases, the incentive to dismantle terror proxies evaporates. As Indian leaders, including Prime Minister Shri Narendra Modi at the BRICS summit and External Affairs Minister Dr. S. Jaishankar, have repeatedly pointed out on global stages, there can be no selective morality in fighting terror or choking its financing.
+
+Empathy cannot depend on the nationality of the victims. Eighteen Years On: The Cost of Looking Away
+
+
+
+Tahawwur Rana’s extradition from the United States to India in 2025 proved one vital truth: when nations share intelligence and match rhetoric with legal resolve, transnational conspirators can be stripped of their safe havens.
+
+Yet one extradition, seventeen years late, does not erase an entire architecture of impunity. Eighteen years after Mumbai burned, the core lesson of 26/11 remains urgently unresolved. Terror networks nurtured in one country do not stay politely within their patron’s strategic lines they borrow Western passports, rent global servers, train foreign recruits, and export their methods to every open society within reach.
 
 ---
 
@@ -3411,34 +3739,90 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     topic: ``,
     language: `en`,
     fomo_badge: `News Wire`,
-    read_time: `1 min read`,
+    read_time: `4 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T05:58:02Z`,
     updated_at: `2026-11-26T05:58:02Z`,
     source_name: `BigGo Finance`,
-    source_url: `https://news.google.com/rss/articles/CBMidkFVX3lxTE5KUnFiM3BCaXplSklfZ2JIOGtYX2JINWJXTFI5NGJFXzk0X2tLM0ZEdjBGUjNsYmNqUUxYbkt2aEtqa240bG5CVjNGa2U2Um45RmktNzlheWxPSWFtS1FLWVQ2MlBlcDhndEtnV09ObDZVSWdxWmc?oc=5`,
+    source_url: `https://finance.biggo.com/news/58cfa5f7-0a93-4d02-bbf6-c23ecbc21377`,
     source_courtesy: `Source: BigGo Finance`,
-    image_url: `https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/gta-6-draws-39-million-ps5-players-in-four-days-sonys-biggest-launch-i-2026.jpg`,
     image_alt: `GTA 6 Draws 39 Million PS5 Players in Four Days, Sony's Biggest Launch in 30 Years - BigGo Finance`,
     image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
     image_photographer: `Unsplash Stock Illustration`,
     image_license: `Unsplash License`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `Tech, News, India`,
-    summary: `GTA 6 Draws 39 Million PS5 Players in Four Days, Sony's Biggest Launch in 30 Years BigGo Finance Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history PlayStation.Blog BHPians share their review of the new GTA V`,
-    content: `GTA 6 Draws 39 Million PS5 Players in Four Days, Sony's Biggest Launch in 30 Years BigGo Finance Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history PlayStation.Blog BHPians share their review of the new GTA VI: Gameplay, story and more Team-BHP GTA 6 becomes biggest game launch in PlayStation history with 39 million players Indian Television Dot Com GTA VI’s jaw-dropping success: in figures The Guardian
+    summary: `Sony Interactive Entertainment said more than 39 million unique players booted up Grand Theft Auto VI on the PlayStation 5 in the four days after its November 19 release, making it the biggest launch in the platform's roughly three-decade h`,
+    content: `Sony Interactive Entertainment said more than 39 million unique players booted up Grand Theft Auto VI on the PlayStation 5 in the four days after its November 19 release, making it the biggest launch in the platform's roughly three-decade history.
+
+The company said internal data covering November 19 through November 22 showed cumulative PS5 playtime for the game reached 683 million hours, an average of 17.4 hours per player. GTA VI also set a PlayStation record for peak concurrent players, spanning multiplayer, free-to-play and single-player titles, though Sony did not disclose the peak figure.
+
+The launch gave the console a measurable lift. GTA VI was the first game played on about 70% of newly connected PS5 units, and Sony recorded its highest number of new console connections in a single day since the PS5 went on sale in 2020, excluding year-end holiday periods. SIE's Tim Turi announced the figures in a letter thanking players.
+
+"The excitement and passion of the community have made this a truly special moment for all of us," the company wrote in the letter.
+
+Rockstar Games, the developer, and its parent Take-Two Interactive have not disclosed unit sales for the launch window. Take-Two said the game sold 32.5 million units before release, a record across all platforms, and estimated day-one retail sales across all platforms at $3.79 billion, which it called the biggest entertainment launch in history. Take-Two also said the game scored 99 on Metacritic, calling it the highest-rated game of all time. The game shipped on PS5 and Xbox Series X|S.
+
+Note: Player counts reflect unique accounts, not consoles or copies sold; multiple accounts can share one console. Shipment figures measure units sold to retailers.
+
+The 39 million players represent roughly 40% of all PS5 consoles shipped to date. Sony's gaming division has been under pressure on hardware: shipments fell to 2.6 million units in the July-September quarter from 4 million a year earlier, and first-half shipments for the fiscal year dropped to 4.2 million from 6.5 million. Software and network services more than offset that decline, lifting segment operating income 83% to ¥220.1 billion (approximately $1.4 billion) in the quarter.
+
+The release lands a week before Black Friday on November 27, in what has been the PS5's strongest quarter in each of the past four fiscal years. Sony shipped 9.5 million consoles in that quarter in 2024 and 7.9 million in 2025, and will report this year's figure with its next quarterly results.
+
+Third-party estimates suggest the game is moving fast at retail. Analytics firm Sensor Tower put sales at about 19.05 million copies across platforms by the morning of launch, with roughly 75% on PlayStation, though that figure is below the 32.5 million units Take-Two said had sold before release. The standard edition costs $80, with an Ultimate edition at $100. Sony also released two limited-edition DualSense controllers themed on the game's Vice City setting.
+
+Beyond the console, the launch registered as a cultural event. Market researcher Circana found that 61% of U.S. players who used a PS5 on launch day played GTA VI, averaging 8 hours 33 minutes on the game that day. Streaming tracker Streams Charts put peak concurrent viewership at about 7.9 million within the first 24 hours, split roughly 42% Twitch, 35% YouTube and 22% Kick. Whether that attention added to the game market or merely shifted it remains open: the same research firm said U.S. game spending in October, the month before launch, fell 12% from a year earlier to $4.2 billion.
+
+Japan, Sony's home market, gets a different retail treatment. The PS5 packaged edition sold there contains no disc, only a download code, and the code included with the Japanese version expires 170 days after release — a condition Japanese outlets have linked to the country's rules on prepaid payment instruments. The standard edition is priced at ¥9,800 and the Ultimate edition at ¥12,280.
+
+GTA VI arrived 13 years after Grand Theft Auto V and followed years of delays. The contrast with its predecessor is stark:
+
+Its scale was such that other publishers moved major titles out of the late-2026 window, including the Star Citizen spinoff Squadron 42, the Fable reboot, Crimson Desert and an expanded remake of Danganronpa 2. A PC version, likely in early 2027, is expected to extend the sales run.
+
+For investors, the numbers sharpen the question of how much of the launch bump is durable. Hardware demand has been weak all year, and a single title, however large, may not reverse that trend once the initial wave passes. The more reliable read may come from software attach rates and recurring online spending in Take-Two's next results, and from whether Sony's holiday quarter shipments beat last year's 7.9 million. Take-Two shares rose 6% the day before release on strong early reviews.
+
+Once added, BigGo Finance appears first in Google Search Top Stories, so you get the broadest, most up-to-the-minute, and most comprehensive global financial news first.
 
 ---
 
-**Original Source:** [BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE5KUnFiM3BCaXplSklfZ2JIOGtYX2JINWJXTFI5NGJFXzk0X2tLM0ZEdjBGUjNsYmNqUUxYbkt2aEtqa240bG5CVjNGa2U2Um45RmktNzlheWxPSWFtS1FLWVQ2MlBlcDhndEtnV09ObDZVSWdxWmc?oc=5)`,
+**Original Source:** [BigGo Finance](https://finance.biggo.com/news/58cfa5f7-0a93-4d02-bbf6-c23ecbc21377)`,
     title_en: `GTA 6 Draws 39 Million PS5 Players in Four Days, Sony's Biggest Launch in 30 Years - BigGo Finance`,
-    summary_en: `GTA 6 Draws 39 Million PS5 Players in Four Days, Sony's Biggest Launch in 30 Years BigGo Finance Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history PlayStation.Blog BHPians share their review of the new GTA V`,
-    content_en: `GTA 6 Draws 39 Million PS5 Players in Four Days, Sony's Biggest Launch in 30 Years BigGo Finance Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history PlayStation.Blog BHPians share their review of the new GTA VI: Gameplay, story and more Team-BHP GTA 6 becomes biggest game launch in PlayStation history with 39 million players Indian Television Dot Com GTA VI’s jaw-dropping success: in figures The Guardian
+    summary_en: `Sony Interactive Entertainment said more than 39 million unique players booted up Grand Theft Auto VI on the PlayStation 5 in the four days after its November 19 release, making it the biggest launch in the platform's roughly three-decade h`,
+    content_en: `Sony Interactive Entertainment said more than 39 million unique players booted up Grand Theft Auto VI on the PlayStation 5 in the four days after its November 19 release, making it the biggest launch in the platform's roughly three-decade history.
+
+The company said internal data covering November 19 through November 22 showed cumulative PS5 playtime for the game reached 683 million hours, an average of 17.4 hours per player. GTA VI also set a PlayStation record for peak concurrent players, spanning multiplayer, free-to-play and single-player titles, though Sony did not disclose the peak figure.
+
+The launch gave the console a measurable lift. GTA VI was the first game played on about 70% of newly connected PS5 units, and Sony recorded its highest number of new console connections in a single day since the PS5 went on sale in 2020, excluding year-end holiday periods. SIE's Tim Turi announced the figures in a letter thanking players.
+
+"The excitement and passion of the community have made this a truly special moment for all of us," the company wrote in the letter.
+
+Rockstar Games, the developer, and its parent Take-Two Interactive have not disclosed unit sales for the launch window. Take-Two said the game sold 32.5 million units before release, a record across all platforms, and estimated day-one retail sales across all platforms at $3.79 billion, which it called the biggest entertainment launch in history. Take-Two also said the game scored 99 on Metacritic, calling it the highest-rated game of all time. The game shipped on PS5 and Xbox Series X|S.
+
+Note: Player counts reflect unique accounts, not consoles or copies sold; multiple accounts can share one console. Shipment figures measure units sold to retailers.
+
+The 39 million players represent roughly 40% of all PS5 consoles shipped to date. Sony's gaming division has been under pressure on hardware: shipments fell to 2.6 million units in the July-September quarter from 4 million a year earlier, and first-half shipments for the fiscal year dropped to 4.2 million from 6.5 million. Software and network services more than offset that decline, lifting segment operating income 83% to ¥220.1 billion (approximately $1.4 billion) in the quarter.
+
+The release lands a week before Black Friday on November 27, in what has been the PS5's strongest quarter in each of the past four fiscal years. Sony shipped 9.5 million consoles in that quarter in 2024 and 7.9 million in 2025, and will report this year's figure with its next quarterly results.
+
+Third-party estimates suggest the game is moving fast at retail. Analytics firm Sensor Tower put sales at about 19.05 million copies across platforms by the morning of launch, with roughly 75% on PlayStation, though that figure is below the 32.5 million units Take-Two said had sold before release. The standard edition costs $80, with an Ultimate edition at $100. Sony also released two limited-edition DualSense controllers themed on the game's Vice City setting.
+
+Beyond the console, the launch registered as a cultural event. Market researcher Circana found that 61% of U.S. players who used a PS5 on launch day played GTA VI, averaging 8 hours 33 minutes on the game that day. Streaming tracker Streams Charts put peak concurrent viewership at about 7.9 million within the first 24 hours, split roughly 42% Twitch, 35% YouTube and 22% Kick. Whether that attention added to the game market or merely shifted it remains open: the same research firm said U.S. game spending in October, the month before launch, fell 12% from a year earlier to $4.2 billion.
+
+Japan, Sony's home market, gets a different retail treatment. The PS5 packaged edition sold there contains no disc, only a download code, and the code included with the Japanese version expires 170 days after release — a condition Japanese outlets have linked to the country's rules on prepaid payment instruments. The standard edition is priced at ¥9,800 and the Ultimate edition at ¥12,280.
+
+GTA VI arrived 13 years after Grand Theft Auto V and followed years of delays. The contrast with its predecessor is stark:
+
+Its scale was such that other publishers moved major titles out of the late-2026 window, including the Star Citizen spinoff Squadron 42, the Fable reboot, Crimson Desert and an expanded remake of Danganronpa 2. A PC version, likely in early 2027, is expected to extend the sales run.
+
+For investors, the numbers sharpen the question of how much of the launch bump is durable. Hardware demand has been weak all year, and a single title, however large, may not reverse that trend once the initial wave passes. The more reliable read may come from software attach rates and recurring online spending in Take-Two's next results, and from whether Sony's holiday quarter shipments beat last year's 7.9 million. Take-Two shares rose 6% the day before release on strong early reviews.
+
+Once added, BigGo Finance appears first in Google Search Top Stories, so you get the broadest, most up-to-the-minute, and most comprehensive global financial news first.
 
 ---
 
-**Original Source:** [BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE5KUnFiM3BCaXplSklfZ2JIOGtYX2JINWJXTFI5NGJFXzk0X2tLM0ZEdjBGUjNsYmNqUUxYbkt2aEtqa240bG5CVjNGa2U2Um45RmktNzlheWxPSWFtS1FLWVQ2MlBlcDhndEtnV09ObDZVSWdxWmc?oc=5)`,
+**Original Source:** [BigGo Finance](https://finance.biggo.com/news/58cfa5f7-0a93-4d02-bbf6-c23ecbc21377)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
@@ -3462,7 +3846,7 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     topic: ``,
     language: `en`,
     fomo_badge: `News Wire`,
-    read_time: `1 min read`,
+    read_time: `3 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T05:58:04Z`,
@@ -3477,15 +3861,51 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     image_license: `External Source Attribution`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `Tech, News, India`,
-    summary: `Samsung gives Galaxy Watch 8 new features including Heart Health Score and Sleep Apnea monitoring India Today Samsung Expands Advanced Health Features to Galaxy Watch8 Series with One UI 9 Watch samsung.com Samsung One UI 9 Watch update bri`,
-    content: `Samsung gives Galaxy Watch 8 new features including Heart Health Score and Sleep Apnea monitoring India Today Samsung Expands Advanced Health Features to Galaxy Watch8 Series with One UI 9 Watch samsung.com Samsung One UI 9 Watch update brings advanced heart health tracking features to Galaxy Watch8 series Deccan Herald Galaxy Watch8 series gets new health and fitness features with One UI 9 Watch 91Mobiles A free update just made your Samsung Galaxy Watch 8 even better Tech Advisor
+    summary: `Your Galaxy Watch 8 is getting better at helping you track your health and fitness. Samsung is rolling out a new software update that brings several health features to the Galaxy Watch 8 and Galaxy Watch 8 Classic. These include a Heart Hea`,
+    content: `Your Galaxy Watch 8 is getting better at helping you track your health and fitness. Samsung is rolling out a new software update that brings several health features to the Galaxy Watch 8 and Galaxy Watch 8 Classic. These include a Heart Health Score, improved sleep tracking, Sleep Apnea monitoring and new fitness insights.
+
+So, if you use one of these watches, there is quite a bit to look forward to.The new features were first introduced with the Galaxy Watch 9 series and Galaxy Watch Ultra 2. With the latest update, Samsung is now bringing them to its previous-generation smartwatches. The features arrive through One UI 9 Watch and are available via the Samsung Health and Samsung Health Monitor apps, although some require separate app updates.What are the new features?1.
+
+Heart Health Score: One of the key additions is Heart Health Score, which brings together everyday health indicators, including sleep and activity data, into a single score. This gives users a better idea of how their daily habits relate to their heart health and allows them to track changes over time.2.
+
+Vitals: Then there is Vitals, which tracks five health indicators while you sleep: heart rate, heart rate variability, respiratory rate, skin temperature and blood oxygen levels. The watch uses this information to establish your personal baseline and can alert you when it detects significant changes.
+
+However, you will need at least seven nights of sleep data before you can use the feature.3. Daily Cardio Load and Fitness Index: Samsung is also adding two features for fitness enthusiasts. Daily Cardio Load measures the strain that your workouts and everyday activities put on your heart.
+
+It then suggests an appropriate activity range, helping you understand when to push yourself and when to take it easy.Fitness Index, meanwhile, combines different fitness-related measurements to give you an overview of your physical fitness. It also recommends fitness activities based on your goals.4.
+
+Upgraded Sleep Coaching: Samsung&#039;s upgraded Sleep Coaching now offers more personalised suggestions based on your sleep patterns and goals. You don&#039;t have to wait weeks to get started, either. The feature can begin offering guidance with just three days of sleep data collected over a 14-day period.
+
+It also provides daily habit checklists and easy-to-follow tips to help you build a better sleep routine.5. Upgraded Sleep Apnea monitoring: Another big upgrade coming for you watch is the upgraded Sleep Apnea feature. It uses an AI algorithm to analyse breathing disruptions during sleep and sorts the results into three categories: minimal, occasional and frequent.
+
+Users need two valid nights of sleep data within a 10-day period to get their results.Samsung says the feature received US FDA clearance in July 2026 and approval from South Korea&#039;s Ministry of Food and Drug Safety (MFDS) in October 2026. It is designed to detect signs of moderate to severe sleep apnea, but it does not replace a medical diagnosis.Samsung Galaxy Watch 8 update: AvailabilityAs for availability, Samsung says the One UI 9 Watch update for the Galaxy Watch 8 and Galaxy Watch 8 Classic began rolling out in mid-November.
+
+However, the rollout may vary depending on the country, watch model and carrier. Some features also require separate updates to the Samsung Health or Samsung Health Monitor apps.The update also brings a few changes beyond health tracking. These include a Portrait Watch Face that arranges the clock around people in photos, an upgraded Compass that lets users save important locations as waypoints, and a Track Back feature that helps them retrace recorded routes to their starting point.- EndsAlso Read |  Anthropic launches Claude Duet in India, it works for you even when you are not in officeAlso Read |  Ex-OpenAI researcher says Anthropic insiders fear AI could kill us all, but feel forced to build itAlso Read |  Meet Levent Alpoge, the Anthropic researcher used Claude to solve a 167-year-old math mystery
 
 ---
 
 **Original Source:** [India Today](https://www.indiatoday.in/technology/news/story/samsung-gives-galaxy-watch-8-new-features-including-heart-health-score-and-sleep-apnea-monitoring-3046854-2026-11-25)`,
     title_en: `Samsung gives Galaxy Watch 8 new features including Heart Health Score and Sleep Apnea monitoring - India Today`,
-    summary_en: `Samsung gives Galaxy Watch 8 new features including Heart Health Score and Sleep Apnea monitoring India Today Samsung Expands Advanced Health Features to Galaxy Watch8 Series with One UI 9 Watch samsung.com Samsung One UI 9 Watch update bri`,
-    content_en: `Samsung gives Galaxy Watch 8 new features including Heart Health Score and Sleep Apnea monitoring India Today Samsung Expands Advanced Health Features to Galaxy Watch8 Series with One UI 9 Watch samsung.com Samsung One UI 9 Watch update brings advanced heart health tracking features to Galaxy Watch8 series Deccan Herald Galaxy Watch8 series gets new health and fitness features with One UI 9 Watch 91Mobiles A free update just made your Samsung Galaxy Watch 8 even better Tech Advisor
+    summary_en: `Your Galaxy Watch 8 is getting better at helping you track your health and fitness. Samsung is rolling out a new software update that brings several health features to the Galaxy Watch 8 and Galaxy Watch 8 Classic. These include a Heart Hea`,
+    content_en: `Your Galaxy Watch 8 is getting better at helping you track your health and fitness. Samsung is rolling out a new software update that brings several health features to the Galaxy Watch 8 and Galaxy Watch 8 Classic. These include a Heart Health Score, improved sleep tracking, Sleep Apnea monitoring and new fitness insights.
+
+So, if you use one of these watches, there is quite a bit to look forward to.The new features were first introduced with the Galaxy Watch 9 series and Galaxy Watch Ultra 2. With the latest update, Samsung is now bringing them to its previous-generation smartwatches. The features arrive through One UI 9 Watch and are available via the Samsung Health and Samsung Health Monitor apps, although some require separate app updates.What are the new features?1.
+
+Heart Health Score: One of the key additions is Heart Health Score, which brings together everyday health indicators, including sleep and activity data, into a single score. This gives users a better idea of how their daily habits relate to their heart health and allows them to track changes over time.2.
+
+Vitals: Then there is Vitals, which tracks five health indicators while you sleep: heart rate, heart rate variability, respiratory rate, skin temperature and blood oxygen levels. The watch uses this information to establish your personal baseline and can alert you when it detects significant changes.
+
+However, you will need at least seven nights of sleep data before you can use the feature.3. Daily Cardio Load and Fitness Index: Samsung is also adding two features for fitness enthusiasts. Daily Cardio Load measures the strain that your workouts and everyday activities put on your heart.
+
+It then suggests an appropriate activity range, helping you understand when to push yourself and when to take it easy.Fitness Index, meanwhile, combines different fitness-related measurements to give you an overview of your physical fitness. It also recommends fitness activities based on your goals.4.
+
+Upgraded Sleep Coaching: Samsung&#039;s upgraded Sleep Coaching now offers more personalised suggestions based on your sleep patterns and goals. You don&#039;t have to wait weeks to get started, either. The feature can begin offering guidance with just three days of sleep data collected over a 14-day period.
+
+It also provides daily habit checklists and easy-to-follow tips to help you build a better sleep routine.5. Upgraded Sleep Apnea monitoring: Another big upgrade coming for you watch is the upgraded Sleep Apnea feature. It uses an AI algorithm to analyse breathing disruptions during sleep and sorts the results into three categories: minimal, occasional and frequent.
+
+Users need two valid nights of sleep data within a 10-day period to get their results.Samsung says the feature received US FDA clearance in July 2026 and approval from South Korea&#039;s Ministry of Food and Drug Safety (MFDS) in October 2026. It is designed to detect signs of moderate to severe sleep apnea, but it does not replace a medical diagnosis.Samsung Galaxy Watch 8 update: AvailabilityAs for availability, Samsung says the One UI 9 Watch update for the Galaxy Watch 8 and Galaxy Watch 8 Classic began rolling out in mid-November.
+
+However, the rollout may vary depending on the country, watch model and carrier. Some features also require separate updates to the Samsung Health or Samsung Health Monitor apps.The update also brings a few changes beyond health tracking. These include a Portrait Watch Face that arranges the clock around people in photos, an upgraded Compass that lets users save important locations as waypoints, and a Track Back feature that helps them retrace recorded routes to their starting point.- EndsAlso Read |  Anthropic launches Claude Duet in India, it works for you even when you are not in officeAlso Read |  Ex-OpenAI researcher says Anthropic insiders fear AI could kill us all, but feel forced to build itAlso Read |  Meet Levent Alpoge, the Anthropic researcher used Claude to solve a 167-year-old math mystery
 
 ---
 
@@ -3564,7 +3984,7 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     topic: ``,
     language: `en`,
     fomo_badge: `News Wire`,
-    read_time: `1 min read`,
+    read_time: `4 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T05:58:07Z`,
@@ -3579,15 +3999,55 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     image_license: `External Source Attribution`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `World, News, India`,
-    summary: `US Army blows up tons of bomb-making chemicals in Iowa, plumes of smoke seen in sky India Today The government says Iowa detonation results exceeded expectations. Now what? CNN U.S. Army declares success in detonation of lead-based explosiv`,
-    content: `US Army blows up tons of bomb-making chemicals in Iowa, plumes of smoke seen in sky India Today The government says Iowa detonation results exceeded expectations. Now what? CNN U.S. Army declares success in detonation of lead-based explosives stockpile in Iowa The Hindu US Army to detonate degraded bomb-making material in Iowa after getting court approval AP News US Army says controlled blast of explosives in Iowa was 'huge success' BBC
+    summary: `The US Army detonated nearly five tonnes of ageing military explosives at an ammunition plant in southeast Iowa on Wednesday, following the evacuation of residents amid fears of toxic contamination. A plume of grey and white smoke several h`,
+    content: `The US Army detonated nearly five tonnes of ageing military explosives at an ammunition plant in southeast Iowa on Wednesday, following the evacuation of residents amid fears of toxic contamination. A plume of grey and white smoke several hundred feet high was seen drifting south after the explosion.Video footage captured from several kilometers away showed two white plumes rising over the detonation site before quickly dissipating.
+
+Journalists in the area also reported hearing a loud boom as the explosives were detonated. Despite warnings to remain indoors, some residents pulled over along nearby roads to watch the blast from locations upwind of the ammunition plant.The controlled explosion took place at the Iowa Army Ammunition Plant in Middletown, where 68 barrels of highly volatile lead azide had been stored in two earth-covered bunkers for more than two decades.
+
+The decision to destroy the chemicals in place, rather than attempt to remove them, prompted evacuations and widespread anxiety among residents over the potential environmental and health risks.Although military officials said they were aiming for &quot;zero release&quot; of toxic compounds, concerns remained over the possibility of lead dust escaping the containment measures and travelling beyond the blast site.According to local media, it could take some time to determine how much of the hazardous material was successfully contained during the explosion.
+
+The Army is expected to provide further updates as monitoring continues. NASA is also tracking the smoke plume through satellite imagery, while government agencies and independent researchers are assessing the extent of potential pollution and its environmental impact.Just minutes after the US Army detonated bunkers containing lead azide, President Donald Trump welcomed the initial reports on the operation.&quot;Early reports from Iowa are that the Army&#039;s mitigation efforts have far exceeded expectations,&quot; Trump wrote on Truth Social.The potential dispersal area extended southwest from Middletown towards Missouri, with Army maps warning that a failed detonation could spread poisonous lead particles across as much as 150 square miles (388 square km) of farmland.
+
+In a worst-case scenario, the particles could travel up to 100 miles (161 km).RESIDENTS TOLD TO EVACUATE OR SHELTER IN PLACEAuthorities had urged people living within the expected dispersal path, extending up to five miles southwest of the ammunition plant, to evacuate ahead of Wednesday&#039;s explosion.
+
+Government workers went door to door on Tuesday, distributing information sheets and advising residents to leave their homes. Others who remained were instructed to shut windows and doors, seal gaps and switch their heating systems to recirculation mode to prevent potentially contaminated outdoor air from entering their houses.The uncertainty surrounding the operation intensified shortly before the scheduled detonation.
+
+Less than an hour before the blast, an emergency alert sent to mobile phones in the area instructed residents to take shelter immediately.&quot;EVACUATION IS NO LONGER SAFE OR ADVISED,&quot; the alert read, directing those who had not already left to remain indoors.For many families, the day before Thanksgiving turned into an anxious wait.
+
+Some stayed indoors with their children home from school, baked pies and played video games while keeping their furnaces switched off to avoid drawing in outside air. Others had already left the area.WHY US ARMY DECIDED TO DESTROY THE CHEMICALSThe explosives involved in the operation contained lead azide, which is a highly volatile compound used to initiate explosions in military ammunition.
+
+The chemicals had remained inside ageing storage bunkers for more than 20 years. However, an inspection revealed that the barrels had deteriorated to such an extent that Army officials considered opening them dangerous.Rather than risk moving the unstable material, the military decided that destroying it through a controlled detonation was the safer option.
+
+Officials had also warned that leaving the chemicals in storage carried the risk of a spontaneous explosion. The Army prepared an extensive containment operation to minimise the possibility of toxic material escaping into the surrounding environment.Despite the extensive precautions, questions remained over how effectively the containment measures would prevent toxic particles from escaping.Officials&#039; worst-case assessment was based on an assumption that no more than roughly a quarter of the dangerous material would escape the mitigation efforts.
+
+This raised concerns that the potential risks could be underestimated. Lead exposure is particularly dangerous because there is no established safe level of exposure. Children and pregnant women are especially vulnerable to its harmful effects.- EndsMust Watch
 
 ---
 
 **Original Source:** [India Today](https://www.indiatoday.in/world/us-news/story/us-army-blows-up-4400-kg-of-ageing-chemicals-in-iowa-after-evacuating-residents-3046891-2026-11-25)`,
     title_en: `US Army blows up tons of bomb-making chemicals in Iowa, plumes of smoke seen in sky - India Today`,
-    summary_en: `US Army blows up tons of bomb-making chemicals in Iowa, plumes of smoke seen in sky India Today The government says Iowa detonation results exceeded expectations. Now what? CNN U.S. Army declares success in detonation of lead-based explosiv`,
-    content_en: `US Army blows up tons of bomb-making chemicals in Iowa, plumes of smoke seen in sky India Today The government says Iowa detonation results exceeded expectations. Now what? CNN U.S. Army declares success in detonation of lead-based explosives stockpile in Iowa The Hindu US Army to detonate degraded bomb-making material in Iowa after getting court approval AP News US Army says controlled blast of explosives in Iowa was 'huge success' BBC
+    summary_en: `The US Army detonated nearly five tonnes of ageing military explosives at an ammunition plant in southeast Iowa on Wednesday, following the evacuation of residents amid fears of toxic contamination. A plume of grey and white smoke several h`,
+    content_en: `The US Army detonated nearly five tonnes of ageing military explosives at an ammunition plant in southeast Iowa on Wednesday, following the evacuation of residents amid fears of toxic contamination. A plume of grey and white smoke several hundred feet high was seen drifting south after the explosion.Video footage captured from several kilometers away showed two white plumes rising over the detonation site before quickly dissipating.
+
+Journalists in the area also reported hearing a loud boom as the explosives were detonated. Despite warnings to remain indoors, some residents pulled over along nearby roads to watch the blast from locations upwind of the ammunition plant.The controlled explosion took place at the Iowa Army Ammunition Plant in Middletown, where 68 barrels of highly volatile lead azide had been stored in two earth-covered bunkers for more than two decades.
+
+The decision to destroy the chemicals in place, rather than attempt to remove them, prompted evacuations and widespread anxiety among residents over the potential environmental and health risks.Although military officials said they were aiming for &quot;zero release&quot; of toxic compounds, concerns remained over the possibility of lead dust escaping the containment measures and travelling beyond the blast site.According to local media, it could take some time to determine how much of the hazardous material was successfully contained during the explosion.
+
+The Army is expected to provide further updates as monitoring continues. NASA is also tracking the smoke plume through satellite imagery, while government agencies and independent researchers are assessing the extent of potential pollution and its environmental impact.Just minutes after the US Army detonated bunkers containing lead azide, President Donald Trump welcomed the initial reports on the operation.&quot;Early reports from Iowa are that the Army&#039;s mitigation efforts have far exceeded expectations,&quot; Trump wrote on Truth Social.The potential dispersal area extended southwest from Middletown towards Missouri, with Army maps warning that a failed detonation could spread poisonous lead particles across as much as 150 square miles (388 square km) of farmland.
+
+In a worst-case scenario, the particles could travel up to 100 miles (161 km).RESIDENTS TOLD TO EVACUATE OR SHELTER IN PLACEAuthorities had urged people living within the expected dispersal path, extending up to five miles southwest of the ammunition plant, to evacuate ahead of Wednesday&#039;s explosion.
+
+Government workers went door to door on Tuesday, distributing information sheets and advising residents to leave their homes. Others who remained were instructed to shut windows and doors, seal gaps and switch their heating systems to recirculation mode to prevent potentially contaminated outdoor air from entering their houses.The uncertainty surrounding the operation intensified shortly before the scheduled detonation.
+
+Less than an hour before the blast, an emergency alert sent to mobile phones in the area instructed residents to take shelter immediately.&quot;EVACUATION IS NO LONGER SAFE OR ADVISED,&quot; the alert read, directing those who had not already left to remain indoors.For many families, the day before Thanksgiving turned into an anxious wait.
+
+Some stayed indoors with their children home from school, baked pies and played video games while keeping their furnaces switched off to avoid drawing in outside air. Others had already left the area.WHY US ARMY DECIDED TO DESTROY THE CHEMICALSThe explosives involved in the operation contained lead azide, which is a highly volatile compound used to initiate explosions in military ammunition.
+
+The chemicals had remained inside ageing storage bunkers for more than 20 years. However, an inspection revealed that the barrels had deteriorated to such an extent that Army officials considered opening them dangerous.Rather than risk moving the unstable material, the military decided that destroying it through a controlled detonation was the safer option.
+
+Officials had also warned that leaving the chemicals in storage carried the risk of a spontaneous explosion. The Army prepared an extensive containment operation to minimise the possibility of toxic material escaping into the surrounding environment.Despite the extensive precautions, questions remained over how effectively the containment measures would prevent toxic particles from escaping.Officials&#039; worst-case assessment was based on an assumption that no more than roughly a quarter of the dangerous material would escape the mitigation efforts.
+
+This raised concerns that the potential risks could be underestimated. Lead exposure is particularly dangerous because there is no established safe level of exposure. Children and pregnant women are especially vulnerable to its harmful effects.- EndsMust Watch
 
 ---
 
@@ -3615,7 +4075,7 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     topic: ``,
     language: `hi`,
     fomo_badge: `न्यूज़ वायर`,
-    read_time: `1 min read`,
+    read_time: `4 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T05:58:09Z`,
@@ -3630,8 +4090,66 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     image_license: `External Source Attribution`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `World, News, India`,
-    summary: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान BBC Donald Trump Double Game: ट्रंप का 'डबल गेम'... 17% या 25% टैरिफ, भारत को ट्रेड डील पर राजी कर पाएंगे? समझें नफा-नुकसान AajTak चीन, यूरोपीय संघ और 14 अन्य देशों पर जल्द ही टै`,
-    content: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान BBC Donald Trump Double Game: ट्रंप का 'डबल गेम'... 17% या 25% टैरिफ, भारत को ट्रेड डील पर राजी कर पाएंगे? समझें नफा-नुकसान AajTak चीन, यूरोपीय संघ और 14 अन्य देशों पर जल्द ही टैरिफ बढ़ा सकता है अमेरिका, सामने आई ये बड़ी वजह India TV Hindi 'नोटिस की जांच जारी', भारत पर 25 फीसदी टैरिफ लगाने के अमेरिकी प्रस्ताव पर बोली सरकार Jagran अमेरिका ने भारत पर लगाया 25% का टैरिफ, ट्रंप राहत देने के लिए तैयार; सामने रखी ये शर्त Navbharat Live
+    summary: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.`,
+    content: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.
+
+ये टैरिफ़ मैन्युफ़ैक्चरिंग के अलग-अलग क्षेत्रों में ज़रूरत से ज़्यादा उत्पादन और उत्पादन क्षमता की जांच के लिए की गई सेक्शन 301 की जांच के बाद लगाए जा रहे हैं.
+
+इस जांच के दायरे में आने वाली देश हैं: भारत, चीन, यूरोपीय संघ, सिंगापुर, स्विट्ज़रलैंड, इंडोनेशिया, मलेशिया, कंबोडिया, थाईलैंड, दक्षिण कोरिया, वियतनाम, ताइवान, बांग्लादेश और जापान.
+
+अलग-अलग देशों और उत्पादों पर अलग-अलग दरों से टैरिफ़ लगाया जाएगा.
+
+चीन पर सबसे ज़्यादा, 40 फ़ीसदी तक टैरिफ़ लगाया गया है. इसके बाद वियतनाम पर 35 फ़ीसदी तक टैरिफ़ लगेगा. वहीं, दूसरे देशों पर 20 या 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा.
+
+कुछ देशों पर अधिकतम 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा. इनमें थाईलैंड और भारत शामिल हैं. वहीं, जापान समेत कुछ अन्य देशों पर अधिकतम 20 फ़ीसदी तक टैरिफ़ लगेगा. इस सूची में ब्रिटेन शामिल नहीं है.
+
+हालांकि, इनमें से कुछ टैरिफ़ की दरें असल में कम हो जाएंगी, क्योंकि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप पहले ही कुछ देशों के साथ टैरिफ़ की अधिकतम सीमा तय करने पर सहमत हो चुके हैं.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+राष्ट्रपति ट्रंप ने अपने दूसरे कार्यकाल में बार-बार टैरिफ़ लगाने की धमकी दी है या उन्हें लागू किया है. उनका तर्क है कि इस नीति से अमेरिका में मैन्युफ़ैक्चरिंग को बढ़ावा मिलेगा और रोज़गार के नए अवसर पैदा होंगे.
+
+हालांकि, अर्थशास्त्रियों ने चेतावनी दी है कि आयात पर टैक्स लगाने से महंगाई बढ़ सकती है और उपभोक्ताओं के लिए चीज़ें महंगी हो सकती हैं. इससे वैश्विक व्यापार पर भी असर पड़ सकता है.
+
+यह ताज़ा क़दम ऐसे समय उठाया गया है, जब इस साल की शुरुआत में अमेरिकी सुप्रीम कोर्ट ने फ़ैसला दिया था कि आपातकालीन शक्तियों का इस्तेमाल करके ट्रंप की ओर से लगाए गए कई टैरिफ़ ग़ैरक़ानूनी थे.
+
+इसके बाद इस साल गर्मी में अमेरिका की उन कंपनियों को अरबों डॉलर का टैरिफ़ रिफंड देना पड़ा, जिन्होंने सामान आयात करने के लिए ये शुल्क चुकाए थे.
+
+हालांकि, इससे ट्रंप प्रशासन की टैरिफ़ लगाने की कोशिशों पर कोई रोक नहीं लगी. व्हाइट हाउस इन टैक्स को लागू करने के लिए क़ानून के दूसरे रास्ते तलाश रहा है. आज का फ़ैसला भी इसी कोशिश का एक और उदाहरण है.
+
+पिछले साल अप्रैल में डोनाल्ड ट्रंप ने दुनिया के कई व्यापारिक साझेदारों पर बड़े पैमाने पर टैरिफ़ लगाने का एलान किया था. इसके लिए उन्होंने अमेरिकी राष्ट्रपति को मिले आपातकालीन अधिकारों का इस्तेमाल किया था.
+
+इनमें से कई टैरिफ़ को बाद में अमेरिकी सुप्रीम कोर्ट ने रद्द कर दिया था.
+
+इसलिए बुधवार को जिन आयात शुल्कों का एलान किया गया है, वे ट्रंप के टैरिफ़ को दोबारा लागू करने की नई कोशिश हैं.
+
+हालांकि, इस बार ट्रंप प्रशासन ने अलग तरीक़ा अपनाया है. ISEAS-युसोफ़ इशाक इंस्टीट्यूट के व्यापार विशेषज्ञ जयंत मेनन का कहना है कि इस वजह से इन टैरिफ़ को किसी क़ानूनी चुनौती के ज़रिए रद्द कराना मुश्किल हो सकता है.
+
+मेनन के मुताबिक़, पिछले साल ट्रंप ने जिन टैरिफ़ का एलान किया था, उनकी तुलना में नए शुल्क कम क्षेत्रों पर लागू होंगे. इनकी दरें भी ज़्यादातर मामलों में काफ़ी कम और एक जैसी हैं.
+
+ये टैरिफ़ व्हाइट हाउस की ओर से कराई गई कई महीनों की जांच पर भी आधारित हैं. इस जांच में इन क्षेत्रों की श्रम और व्यापार नीतियों और अमेरिका पर उनके संभावित असर का अध्ययन किया गया.
+
+### सुप्रीम कोर्ट के फ़ैसले के बाद नए टैरिफ़ की तैयारी की थी
+
+नए टैरिफ़ लगाने के प्रस्ताव ऐसे समय आए हैं, जब व्हाइट हाउस ने मार्च में दूसरे देशों की व्यापार नीतियों की जांच शुरू की थी.
+
+यह जांच अमेरिकी सुप्रीम कोर्ट के उस फ़ैसले के बाद शुरू हुई थी, जिसमें कहा गया था कि ट्रंप के तथाकथित 'लिबरेशन डे' टैरिफ़, जिन्हें प्रशासन ने जवाबी टैरिफ़ कहा था, क़ानूनी नहीं थे.
+
+अदालत के इस फ़ैसले के बाद ट्रंप ने कहा था कि वह टैरिफ़ लगाने के लिए दूसरे क़ानूनी तरीक़ों का इस्तेमाल करेंगे.
+
+मार्च में अमेरिका ने सेक्शन 301 के तहत जांच शुरू की. इसमें यह पता लगाया जाना था कि क्या कुछ व्यापारिक साझेदार ऐसी नीतियां अपना रहे हैं, जो "अनुचित या भेदभावपूर्ण हैं और अमेरिकी व्यापार पर बोझ डालती हैं या उसे सीमित करती हैं".
+
+उस समय अमेरिकी व्यापार प्रतिनिधि जैमीसन ग्रीयर ने कहा था, "अमेरिका अब अपने औद्योगिक आधार को उन देशों के हाथों ख़त्म नहीं होने देगा, जो अपनी ज़रूरत से ज़्यादा उत्पादन और क्षमता की समस्या हमारे यहां निर्यात कर सकते हैं."
+
+उन्होंने कहा था, "आज शुरू की गई जांच राष्ट्रपति ट्रंप की उस प्रतिबद्धता को दिखाती है, जिसके तहत अहम सप्लाई चेन को वापस अमेरिका लाना और मैन्युफ़ैक्चरिंग के सभी क्षेत्रों में अमेरिकी कामगारों के लिए अच्छी तनख़्वाह वाली नौकरियां पैदा करना शामिल है."
+
+ग्रीयर ने आगे कहा, "कई क्षेत्रों में अमेरिका के व्यापारिक साझेदार घरेलू स्तर पर अपनी खपत से ज़्यादा सामान बना रहे हैं."
+
+आज के एलान में जिन देशों और क्षेत्रों को निशाना बनाया गया है, उनमें से कई ऐसे हैं जिन पर ट्रंप अक्सर व्यापार के मामले में निशाना साधते रहे हैं.
+
+लेकिन इस सूची में एक अहम नाम नहीं है-कनाडा.
+
+जब कनाडा के बारे में पूछा गया, तो मंगलवार को पत्रकारों को जानकारी देने वाले ट्रंप प्रशासन के एक वरिष्ठ अधिकारी ने कहा कि जिन देशों की व्यापार नीतियों की जांच शुरू की गई थी और बाद में जिन्हें दोषी  पाया गया उनमें कनाडा शामिल नहीं था.
 
 ---
 
@@ -3640,8 +4158,66 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     summary_en: ``,
     content_en: ``,
     title_hi: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
-    summary_hi: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान BBC Donald Trump Double Game: ट्रंप का 'डबल गेम'... 17% या 25% टैरिफ, भारत को ट्रेड डील पर राजी कर पाएंगे? समझें नफा-नुकसान AajTak चीन, यूरोपीय संघ और 14 अन्य देशों पर जल्द ही टै`,
-    content_hi: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान BBC Donald Trump Double Game: ट्रंप का 'डबल गेम'... 17% या 25% टैरिफ, भारत को ट्रेड डील पर राजी कर पाएंगे? समझें नफा-नुकसान AajTak चीन, यूरोपीय संघ और 14 अन्य देशों पर जल्द ही टैरिफ बढ़ा सकता है अमेरिका, सामने आई ये बड़ी वजह India TV Hindi 'नोटिस की जांच जारी', भारत पर 25 फीसदी टैरिफ लगाने के अमेरिकी प्रस्ताव पर बोली सरकार Jagran अमेरिका ने भारत पर लगाया 25% का टैरिफ, ट्रंप राहत देने के लिए तैयार; सामने रखी ये शर्त Navbharat Live
+    summary_hi: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.`,
+    content_hi: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.
+
+ये टैरिफ़ मैन्युफ़ैक्चरिंग के अलग-अलग क्षेत्रों में ज़रूरत से ज़्यादा उत्पादन और उत्पादन क्षमता की जांच के लिए की गई सेक्शन 301 की जांच के बाद लगाए जा रहे हैं.
+
+इस जांच के दायरे में आने वाली देश हैं: भारत, चीन, यूरोपीय संघ, सिंगापुर, स्विट्ज़रलैंड, इंडोनेशिया, मलेशिया, कंबोडिया, थाईलैंड, दक्षिण कोरिया, वियतनाम, ताइवान, बांग्लादेश और जापान.
+
+अलग-अलग देशों और उत्पादों पर अलग-अलग दरों से टैरिफ़ लगाया जाएगा.
+
+चीन पर सबसे ज़्यादा, 40 फ़ीसदी तक टैरिफ़ लगाया गया है. इसके बाद वियतनाम पर 35 फ़ीसदी तक टैरिफ़ लगेगा. वहीं, दूसरे देशों पर 20 या 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा.
+
+कुछ देशों पर अधिकतम 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा. इनमें थाईलैंड और भारत शामिल हैं. वहीं, जापान समेत कुछ अन्य देशों पर अधिकतम 20 फ़ीसदी तक टैरिफ़ लगेगा. इस सूची में ब्रिटेन शामिल नहीं है.
+
+हालांकि, इनमें से कुछ टैरिफ़ की दरें असल में कम हो जाएंगी, क्योंकि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप पहले ही कुछ देशों के साथ टैरिफ़ की अधिकतम सीमा तय करने पर सहमत हो चुके हैं.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+राष्ट्रपति ट्रंप ने अपने दूसरे कार्यकाल में बार-बार टैरिफ़ लगाने की धमकी दी है या उन्हें लागू किया है. उनका तर्क है कि इस नीति से अमेरिका में मैन्युफ़ैक्चरिंग को बढ़ावा मिलेगा और रोज़गार के नए अवसर पैदा होंगे.
+
+हालांकि, अर्थशास्त्रियों ने चेतावनी दी है कि आयात पर टैक्स लगाने से महंगाई बढ़ सकती है और उपभोक्ताओं के लिए चीज़ें महंगी हो सकती हैं. इससे वैश्विक व्यापार पर भी असर पड़ सकता है.
+
+यह ताज़ा क़दम ऐसे समय उठाया गया है, जब इस साल की शुरुआत में अमेरिकी सुप्रीम कोर्ट ने फ़ैसला दिया था कि आपातकालीन शक्तियों का इस्तेमाल करके ट्रंप की ओर से लगाए गए कई टैरिफ़ ग़ैरक़ानूनी थे.
+
+इसके बाद इस साल गर्मी में अमेरिका की उन कंपनियों को अरबों डॉलर का टैरिफ़ रिफंड देना पड़ा, जिन्होंने सामान आयात करने के लिए ये शुल्क चुकाए थे.
+
+हालांकि, इससे ट्रंप प्रशासन की टैरिफ़ लगाने की कोशिशों पर कोई रोक नहीं लगी. व्हाइट हाउस इन टैक्स को लागू करने के लिए क़ानून के दूसरे रास्ते तलाश रहा है. आज का फ़ैसला भी इसी कोशिश का एक और उदाहरण है.
+
+पिछले साल अप्रैल में डोनाल्ड ट्रंप ने दुनिया के कई व्यापारिक साझेदारों पर बड़े पैमाने पर टैरिफ़ लगाने का एलान किया था. इसके लिए उन्होंने अमेरिकी राष्ट्रपति को मिले आपातकालीन अधिकारों का इस्तेमाल किया था.
+
+इनमें से कई टैरिफ़ को बाद में अमेरिकी सुप्रीम कोर्ट ने रद्द कर दिया था.
+
+इसलिए बुधवार को जिन आयात शुल्कों का एलान किया गया है, वे ट्रंप के टैरिफ़ को दोबारा लागू करने की नई कोशिश हैं.
+
+हालांकि, इस बार ट्रंप प्रशासन ने अलग तरीक़ा अपनाया है. ISEAS-युसोफ़ इशाक इंस्टीट्यूट के व्यापार विशेषज्ञ जयंत मेनन का कहना है कि इस वजह से इन टैरिफ़ को किसी क़ानूनी चुनौती के ज़रिए रद्द कराना मुश्किल हो सकता है.
+
+मेनन के मुताबिक़, पिछले साल ट्रंप ने जिन टैरिफ़ का एलान किया था, उनकी तुलना में नए शुल्क कम क्षेत्रों पर लागू होंगे. इनकी दरें भी ज़्यादातर मामलों में काफ़ी कम और एक जैसी हैं.
+
+ये टैरिफ़ व्हाइट हाउस की ओर से कराई गई कई महीनों की जांच पर भी आधारित हैं. इस जांच में इन क्षेत्रों की श्रम और व्यापार नीतियों और अमेरिका पर उनके संभावित असर का अध्ययन किया गया.
+
+### सुप्रीम कोर्ट के फ़ैसले के बाद नए टैरिफ़ की तैयारी की थी
+
+नए टैरिफ़ लगाने के प्रस्ताव ऐसे समय आए हैं, जब व्हाइट हाउस ने मार्च में दूसरे देशों की व्यापार नीतियों की जांच शुरू की थी.
+
+यह जांच अमेरिकी सुप्रीम कोर्ट के उस फ़ैसले के बाद शुरू हुई थी, जिसमें कहा गया था कि ट्रंप के तथाकथित 'लिबरेशन डे' टैरिफ़, जिन्हें प्रशासन ने जवाबी टैरिफ़ कहा था, क़ानूनी नहीं थे.
+
+अदालत के इस फ़ैसले के बाद ट्रंप ने कहा था कि वह टैरिफ़ लगाने के लिए दूसरे क़ानूनी तरीक़ों का इस्तेमाल करेंगे.
+
+मार्च में अमेरिका ने सेक्शन 301 के तहत जांच शुरू की. इसमें यह पता लगाया जाना था कि क्या कुछ व्यापारिक साझेदार ऐसी नीतियां अपना रहे हैं, जो "अनुचित या भेदभावपूर्ण हैं और अमेरिकी व्यापार पर बोझ डालती हैं या उसे सीमित करती हैं".
+
+उस समय अमेरिकी व्यापार प्रतिनिधि जैमीसन ग्रीयर ने कहा था, "अमेरिका अब अपने औद्योगिक आधार को उन देशों के हाथों ख़त्म नहीं होने देगा, जो अपनी ज़रूरत से ज़्यादा उत्पादन और क्षमता की समस्या हमारे यहां निर्यात कर सकते हैं."
+
+उन्होंने कहा था, "आज शुरू की गई जांच राष्ट्रपति ट्रंप की उस प्रतिबद्धता को दिखाती है, जिसके तहत अहम सप्लाई चेन को वापस अमेरिका लाना और मैन्युफ़ैक्चरिंग के सभी क्षेत्रों में अमेरिकी कामगारों के लिए अच्छी तनख़्वाह वाली नौकरियां पैदा करना शामिल है."
+
+ग्रीयर ने आगे कहा, "कई क्षेत्रों में अमेरिका के व्यापारिक साझेदार घरेलू स्तर पर अपनी खपत से ज़्यादा सामान बना रहे हैं."
+
+आज के एलान में जिन देशों और क्षेत्रों को निशाना बनाया गया है, उनमें से कई ऐसे हैं जिन पर ट्रंप अक्सर व्यापार के मामले में निशाना साधते रहे हैं.
+
+लेकिन इस सूची में एक अहम नाम नहीं है-कनाडा.
+
+जब कनाडा के बारे में पूछा गया, तो मंगलवार को पत्रकारों को जानकारी देने वाले ट्रंप प्रशासन के एक वरिष्ठ अधिकारी ने कहा कि जिन देशों की व्यापार नीतियों की जांच शुरू की गई थी और बाद में जिन्हें दोषी  पाया गया उनमें कनाडा शामिल नहीं था.
 
 ---
 
@@ -3666,7 +4242,7 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     topic: ``,
     language: `hi`,
     fomo_badge: `न्यूज़ वायर`,
-    read_time: `1 min read`,
+    read_time: `2 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T05:58:12Z`,
@@ -3674,15 +4250,25 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     source_name: `AajTak`,
     source_url: `https://www.aajtak.in/science/story/china-prepares-halal-menu-pakistani-astronaut-in-space-korma-nihari-ntc-drmt-rptc-2706256-2026-11-26`,
     source_courtesy: `Source: AajTak`,
-    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b07b3685c8f0-china-prepares-halal-menu-pakistani-astronaut-in-space-261951251.png`,
+    image_url: `/images/articles/pak-aajtak-2026.jpg`,
     image_alt: `स्पेस में बटर चिकन, निहारी-कोरमा खाएगा PAK एस्ट्रोनॉट... चीन ने तैयार किया हलाल मेन्यू - AajTak`,
     image_courtesy: `Image: AajTak (External Source Attribution)`,
     image_photographer: `AajTak`,
     image_license: `External Source Attribution`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `World, News, India`,
-    summary: `स्पेस में बटर चिकन, निहारी-कोरमा खाएगा PAK एस्ट्रोनॉट... चीन ने तैयार किया हलाल मेन्यू AajTak पाकिस्तान के एस्ट्रोनॉट ज़ीशान अली ने अंतरिक्ष में पहुंचकर इक़बाल का कौन-सा शेर पढ़ा? BBC कौन हैं मुहम्मद जीशान अली? फाइटर जेट उड़ाने वाले पाकिस्त`,
-    content: `स्पेस में बटर चिकन, निहारी-कोरमा खाएगा PAK एस्ट्रोनॉट... चीन ने तैयार किया हलाल मेन्यू AajTak पाकिस्तान के एस्ट्रोनॉट ज़ीशान अली ने अंतरिक्ष में पहुंचकर इक़बाल का कौन-सा शेर पढ़ा? BBC कौन हैं मुहम्मद जीशान अली? फाइटर जेट उड़ाने वाले पाकिस्तानी पायलट पहुंचे अंतरिक्ष, हलाल भोजन का इंतजाम Navbharat Live पाक-चीन साझेदारी: अंतरिक्ष से रक्षा तक दोस्ती Prabhat Khabar चीनी और पाकिस्तानी अंतरिक्ष यात्रियों के मिशन में पूर्ण सफलता की कामना: चीनी विदेश मंत्रालय CRI hindi
+    summary: `चीन के स्पेस स्टेशन पर पहुंचे पाकिस्तानी अंतरिक्ष यात्री के लिए खास शाही दावत का इंतजाम किया गया है. इस स्पेशल मेन्यू में 100 से ज्यादा हलाल पकवान शामिल किए गए हैं. इनमें बीफ निहारी, मटन कोरमा और बटर चिकन जैसे पॉपुलर नॉनवेज पकवान मौजूद हैं.`,
+    content: `चीन के स्पेस स्टेशन पर पहुंचे पाकिस्तानी अंतरिक्ष यात्री के लिए खास शाही दावत का इंतजाम किया गया है. इस स्पेशल मेन्यू में 100 से ज्यादा हलाल पकवान शामिल किए गए हैं. इनमें बीफ निहारी, मटन कोरमा और बटर चिकन जैसे पॉपुलर नॉनवेज पकवान मौजूद हैं. और पढ़ेंशेनझोउ-23 और शेनझोउ-24 मिशन के चालक दल अंतरिक्ष में एक साथ जुटे हैं.
+
+ऑर्बिट में ये सभी छह अंतरिक्ष यात्री पहली बार एक साथ बैठकर खाना खाने वाले हैं. इसी खास मौके को यादगार बनाने और पाकिस्तानी अंतरिक्ष यात्री की सुविधा के लिए चीन ने ये स्पेशल मेन्यू तैयार किया है.चीन ने इस मेन्यू को तैयार करते समय पाकिस्तानी अंतरिक्ष यात्री की खान-पान की आदतों, हलाल नियमों और शारीरिक पोषण की जरूरतों को ध्यान में रखा है.
+
+इसके लिए रिसर्चर्स ने पहले पाकिस्तानी फूड कल्चर, आहार से जुड़े रीति-रिवाजों और पोषण से जुड़ी जरुरतों का गहराई से अध्ययन किया. (Photo- ITGD)मेन्यू में बीफ निहारी और मटन कोरमा भी शामिलइस स्टडी के आधार पर टीम ने सात खास पाकिस्तानी स्टाइल के स्पेस फूड आइटम भी विकसित किए हैं, जिनमें बीफ निहारी और मटन कोरमा हैं.
+
+इसके अलावा, अंतरिक्ष यात्री की पसंद को देखते हुए व्यंजनों में हल्दी और करी जैसे मसालों के स्वाद का भी पूरा ध्यान रखा गया है. Advertisement        हल्का और पचने में आसान बनाया गया है भोजनचाइना एस्ट्रोनॉट ट्रेनिंग सेंटर के चेन जुनली ने इस बारे में जानकारी देते हुए बताया कि खाने को इस तरह तैयार किया गया है कि ये जरूरी ऊर्जा और पोषण दे सके.
+
+साथ ही, अंतरिक्ष की कक्षा में शुरुआती दिनों के दौरान ये खाना हल्का रहे और आसानी से पच सके.यह भी पढ़ें: स्पेस स्टेशन पर पहली बार जाएगा पाकिस्तानी एस्ट्रोनॉट, चीन ने की पुष्टिचेन ने बताया कि खाना तैयार करने की पूरी प्रक्रिया में हलाल नियमों का सख्ती से पालन किया गया है. अंतरिक्ष में भेजने से पहले इन सभी व्यंजनों का कई बार स्वाद परीक्षण किया गया.
+
+पाकिस्तानी अंतरिक्ष यात्रियों से मिले फीडबैक के आधार पर इनके स्वाद और क्वालिटी में लगातार सुधार भी किया गया, ताकि अंतरिक्ष में उन्हें घर जैसा स्वाद मिल सके.---- समाप्त ----
 
 ---
 
@@ -3691,8 +4277,18 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     summary_en: ``,
     content_en: ``,
     title_hi: `स्पेस में बटर चिकन, निहारी-कोरमा खाएगा PAK एस्ट्रोनॉट... चीन ने तैयार किया हलाल मेन्यू - AajTak`,
-    summary_hi: `स्पेस में बटर चिकन, निहारी-कोरमा खाएगा PAK एस्ट्रोनॉट... चीन ने तैयार किया हलाल मेन्यू AajTak पाकिस्तान के एस्ट्रोनॉट ज़ीशान अली ने अंतरिक्ष में पहुंचकर इक़बाल का कौन-सा शेर पढ़ा? BBC कौन हैं मुहम्मद जीशान अली? फाइटर जेट उड़ाने वाले पाकिस्त`,
-    content_hi: `स्पेस में बटर चिकन, निहारी-कोरमा खाएगा PAK एस्ट्रोनॉट... चीन ने तैयार किया हलाल मेन्यू AajTak पाकिस्तान के एस्ट्रोनॉट ज़ीशान अली ने अंतरिक्ष में पहुंचकर इक़बाल का कौन-सा शेर पढ़ा? BBC कौन हैं मुहम्मद जीशान अली? फाइटर जेट उड़ाने वाले पाकिस्तानी पायलट पहुंचे अंतरिक्ष, हलाल भोजन का इंतजाम Navbharat Live पाक-चीन साझेदारी: अंतरिक्ष से रक्षा तक दोस्ती Prabhat Khabar चीनी और पाकिस्तानी अंतरिक्ष यात्रियों के मिशन में पूर्ण सफलता की कामना: चीनी विदेश मंत्रालय CRI hindi
+    summary_hi: `चीन के स्पेस स्टेशन पर पहुंचे पाकिस्तानी अंतरिक्ष यात्री के लिए खास शाही दावत का इंतजाम किया गया है. इस स्पेशल मेन्यू में 100 से ज्यादा हलाल पकवान शामिल किए गए हैं. इनमें बीफ निहारी, मटन कोरमा और बटर चिकन जैसे पॉपुलर नॉनवेज पकवान मौजूद हैं.`,
+    content_hi: `चीन के स्पेस स्टेशन पर पहुंचे पाकिस्तानी अंतरिक्ष यात्री के लिए खास शाही दावत का इंतजाम किया गया है. इस स्पेशल मेन्यू में 100 से ज्यादा हलाल पकवान शामिल किए गए हैं. इनमें बीफ निहारी, मटन कोरमा और बटर चिकन जैसे पॉपुलर नॉनवेज पकवान मौजूद हैं. और पढ़ेंशेनझोउ-23 और शेनझोउ-24 मिशन के चालक दल अंतरिक्ष में एक साथ जुटे हैं.
+
+ऑर्बिट में ये सभी छह अंतरिक्ष यात्री पहली बार एक साथ बैठकर खाना खाने वाले हैं. इसी खास मौके को यादगार बनाने और पाकिस्तानी अंतरिक्ष यात्री की सुविधा के लिए चीन ने ये स्पेशल मेन्यू तैयार किया है.चीन ने इस मेन्यू को तैयार करते समय पाकिस्तानी अंतरिक्ष यात्री की खान-पान की आदतों, हलाल नियमों और शारीरिक पोषण की जरूरतों को ध्यान में रखा है.
+
+इसके लिए रिसर्चर्स ने पहले पाकिस्तानी फूड कल्चर, आहार से जुड़े रीति-रिवाजों और पोषण से जुड़ी जरुरतों का गहराई से अध्ययन किया. (Photo- ITGD)मेन्यू में बीफ निहारी और मटन कोरमा भी शामिलइस स्टडी के आधार पर टीम ने सात खास पाकिस्तानी स्टाइल के स्पेस फूड आइटम भी विकसित किए हैं, जिनमें बीफ निहारी और मटन कोरमा हैं.
+
+इसके अलावा, अंतरिक्ष यात्री की पसंद को देखते हुए व्यंजनों में हल्दी और करी जैसे मसालों के स्वाद का भी पूरा ध्यान रखा गया है. Advertisement        हल्का और पचने में आसान बनाया गया है भोजनचाइना एस्ट्रोनॉट ट्रेनिंग सेंटर के चेन जुनली ने इस बारे में जानकारी देते हुए बताया कि खाने को इस तरह तैयार किया गया है कि ये जरूरी ऊर्जा और पोषण दे सके.
+
+साथ ही, अंतरिक्ष की कक्षा में शुरुआती दिनों के दौरान ये खाना हल्का रहे और आसानी से पच सके.यह भी पढ़ें: स्पेस स्टेशन पर पहली बार जाएगा पाकिस्तानी एस्ट्रोनॉट, चीन ने की पुष्टिचेन ने बताया कि खाना तैयार करने की पूरी प्रक्रिया में हलाल नियमों का सख्ती से पालन किया गया है. अंतरिक्ष में भेजने से पहले इन सभी व्यंजनों का कई बार स्वाद परीक्षण किया गया.
+
+पाकिस्तानी अंतरिक्ष यात्रियों से मिले फीडबैक के आधार पर इनके स्वाद और क्वालिटी में लगातार सुधार भी किया गया, ताकि अंतरिक्ष में उन्हें घर जैसा स्वाद मिल सके.---- समाप्त ----
 
 ---
 
@@ -3768,7 +4364,7 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     topic: ``,
     language: `en`,
     fomo_badge: `News Wire`,
-    read_time: `1 min read`,
+    read_time: `2 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T05:58:14Z`,
@@ -3783,15 +4379,71 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     image_license: `External Source Attribution`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `Sports, News, India`,
-    summary: `Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list Al Jazeera Why Stokes can enter the IPL 2027 auction but Brook can't Cricbuzz 1,220 players feature on Auction Register for TATA IPL 2027 Player Auction IPL Ben Stoke`,
-    content: `Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list Al Jazeera Why Stokes can enter the IPL 2027 auction but Brook can't Cricbuzz 1,220 players feature on Auction Register for TATA IPL 2027 Player Auction IPL Ben Stokes’ IPL 2027 entry sparks captaincy bid buzz for KKR and Lucknow Super Giants Telegraph India 2027 IPL auction | Ben Stokes returns; Australia, South Africa lead overseas registrations The Hindu
+    summary: `Eleven Bangladeshi players have entered their names for the December 16 IPL auction, a year after Mustafizur Rahman’s expulsion from the league.`,
+    content: `Eleven Bangladeshi players have entered their names for the December 16 IPL auction, a year after Mustafizur Rahman’s expulsion from the league.
+
+Former captain Shakib Al-Hasan and fast bowler Mustafizur Rahman are notable absentees on the list of 11 Bangladeshi cricketers who have registered for the Indian Premier League’s (IPL) upcoming player auction, as tensions continue to simmer between the South Asian neighbours.
+
+Top-order batter Towhid Hridoy leads the players, named on a list released on Wednesday, who are seeking a place in the world’s most lucrative cricket franchise league, a year after Mustafiz’s controversial removal from the IPL.
+
+The 11 Bangladeshis feature on an initial list of 1,220 players for the December 16 mini auction in Goa, although the pool will be trimmed before franchises make their selections, the Board of Control for Cricket in India (BCCI) said.
+
+“With 184 players already retained or picked by the franchises ahead of the auction, a maximum of 66 slots, including 25 overseas slots, are available to be filled,” the BCCI said in a statement.
+
+Apart from Hridoy, who is enjoying great run-scoring form, Hasan Mahmud, Parvez Hossain Emon, Ripon Mondol, Rishad Hossain, Saif Hassan, Shak Mahedi Hasan, Shamim Hossain, Shoriful Islam, Tanzim Hasan Sakib, and Taskin Ahmed are on the list, according to cricket news outlet Cricinfo.
+
+The presence of Bangladeshi names on the draft auction comes as a surprise, months after the country’s expulsion from the ICC Men’s T20 World Cup , cohosted by India.
+
+The Bangladesh Cricket Board (BCB) refused to send its team to India over security concerns, which followed a fallout over star pacer Mustafizur’s removal from the Kolkata Knight Riders’ roster upon the BCCI’s instructions.
+
+Though the BCCI gave no clear reason for his expulsion, the board said it was due to “developments all around” – an apparent reference to the tensions between India and Bangladesh that soared following the ouster of former Bangladesh Prime Minister Sheikh Hasina in 2024, who then received exile in New Delhi.
+
+The relationship between India and Bangladesh remains tense over Dhaka’s extradition request for Hasina, which New Delhi has yet to comply with.
+
+Among the more than 1,000 players listed for auction, England all-rounder Ben Stokes is among the high-profile names, with a base price of $216,900.
+
+Indian players dominate the initial list, accounting for 939 registrations.
+
+Australia leads the overseas contingent with 53 players, followed by South Africa (40), West Indies (36), New Zealand (25) and Afghanistan (23).
+
+The list also includes players from emerging cricket nations, with 13 registrations from the United States, and 10 each from the United Arab Emirates and Nepal.
+
+Franchises will finalise their squads after the auction, which will determine the player pool for next year’s edition of the competition.
 
 ---
 
 **Original Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/25/shakib-mustafizur-not-among-bangladeshi-players-on-2027-ipl-auction-list)`,
     title_en: `Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list - Al Jazeera`,
-    summary_en: `Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list Al Jazeera Why Stokes can enter the IPL 2027 auction but Brook can't Cricbuzz 1,220 players feature on Auction Register for TATA IPL 2027 Player Auction IPL Ben Stoke`,
-    content_en: `Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list Al Jazeera Why Stokes can enter the IPL 2027 auction but Brook can't Cricbuzz 1,220 players feature on Auction Register for TATA IPL 2027 Player Auction IPL Ben Stokes’ IPL 2027 entry sparks captaincy bid buzz for KKR and Lucknow Super Giants Telegraph India 2027 IPL auction | Ben Stokes returns; Australia, South Africa lead overseas registrations The Hindu
+    summary_en: `Eleven Bangladeshi players have entered their names for the December 16 IPL auction, a year after Mustafizur Rahman’s expulsion from the league.`,
+    content_en: `Eleven Bangladeshi players have entered their names for the December 16 IPL auction, a year after Mustafizur Rahman’s expulsion from the league.
+
+Former captain Shakib Al-Hasan and fast bowler Mustafizur Rahman are notable absentees on the list of 11 Bangladeshi cricketers who have registered for the Indian Premier League’s (IPL) upcoming player auction, as tensions continue to simmer between the South Asian neighbours.
+
+Top-order batter Towhid Hridoy leads the players, named on a list released on Wednesday, who are seeking a place in the world’s most lucrative cricket franchise league, a year after Mustafiz’s controversial removal from the IPL.
+
+The 11 Bangladeshis feature on an initial list of 1,220 players for the December 16 mini auction in Goa, although the pool will be trimmed before franchises make their selections, the Board of Control for Cricket in India (BCCI) said.
+
+“With 184 players already retained or picked by the franchises ahead of the auction, a maximum of 66 slots, including 25 overseas slots, are available to be filled,” the BCCI said in a statement.
+
+Apart from Hridoy, who is enjoying great run-scoring form, Hasan Mahmud, Parvez Hossain Emon, Ripon Mondol, Rishad Hossain, Saif Hassan, Shak Mahedi Hasan, Shamim Hossain, Shoriful Islam, Tanzim Hasan Sakib, and Taskin Ahmed are on the list, according to cricket news outlet Cricinfo.
+
+The presence of Bangladeshi names on the draft auction comes as a surprise, months after the country’s expulsion from the ICC Men’s T20 World Cup , cohosted by India.
+
+The Bangladesh Cricket Board (BCB) refused to send its team to India over security concerns, which followed a fallout over star pacer Mustafizur’s removal from the Kolkata Knight Riders’ roster upon the BCCI’s instructions.
+
+Though the BCCI gave no clear reason for his expulsion, the board said it was due to “developments all around” – an apparent reference to the tensions between India and Bangladesh that soared following the ouster of former Bangladesh Prime Minister Sheikh Hasina in 2024, who then received exile in New Delhi.
+
+The relationship between India and Bangladesh remains tense over Dhaka’s extradition request for Hasina, which New Delhi has yet to comply with.
+
+Among the more than 1,000 players listed for auction, England all-rounder Ben Stokes is among the high-profile names, with a base price of $216,900.
+
+Indian players dominate the initial list, accounting for 939 registrations.
+
+Australia leads the overseas contingent with 53 players, followed by South Africa (40), West Indies (36), New Zealand (25) and Afghanistan (23).
+
+The list also includes players from emerging cricket nations, with 13 registrations from the United States, and 10 each from the United Arab Emirates and Nepal.
+
+Franchises will finalise their squads after the auction, which will determine the player pool for next year’s edition of the competition.
 
 ---
 
@@ -3819,7 +4471,7 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     topic: ``,
     language: `hi`,
     fomo_badge: `न्यूज़ वायर`,
-    read_time: `1 min read`,
+    read_time: `2 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T05:58:15Z`,
@@ -3827,15 +4479,29 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     source_name: `India TV Hindi`,
     source_url: `https://www.indiatv.in/sports/cricket/ben-stokes-has-registered-for-ipl-2027-auction-11-bangladesh-players-also-listed-2026-11-24-1256176`,
     source_courtesy: `Source: India TV Hindi`,
-    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/ipl-11-india-tv-hindi-2026.jpg`,
     image_alt: `IPL ऑक्शन के लिए बेन स्टोक्स ने कराया रजिस्ट्रेशन, 11 बांग्लादेशी खिलाड़ियों ने भी दिखाई दिलचस्पी - India TV Hindi`,
     image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
     image_photographer: `Unsplash Stock Illustration`,
     image_license: `Unsplash License`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `Sports, News, India`,
-    summary: `IPL ऑक्शन के लिए बेन स्टोक्स ने कराया रजिस्ट्रेशन, 11 बांग्लादेशी खिलाड़ियों ने भी दिखाई दिलचस्पी India TV Hindi IPL 2026 Auction Update: आर्यवीर सहवाग और मोहित उल्वा की IPL नीलामी में एंट्री, 30 लाख का है बेस प्राइज Navbharat Live IPL में `,
-    content: `IPL ऑक्शन के लिए बेन स्टोक्स ने कराया रजिस्ट्रेशन, 11 बांग्लादेशी खिलाड़ियों ने भी दिखाई दिलचस्पी India TV Hindi IPL 2026 Auction Update: आर्यवीर सहवाग और मोहित उल्वा की IPL नीलामी में एंट्री, 30 लाख का है बेस प्राइज Navbharat Live IPL में वीरेंद्र सहवाग का रहा जलवा, अब बेटे आर्यवीर की नीलामी में एंट्री AajTak भारत-नेपाल दोस्ती का नया रंग, IPL 2027 नीलामी में 10 खिलाड़ियों ने कराया रजिस्ट्रेशन Jagran वो 3 फ्रेंचाइजी, जिनके बीच स्टोक्स को खरीदने के लिए ऑक्शन में होगी मारामारी News18 Hindi
+    summary: `IPL 2027 के मिनी ऑक्शन में इस बार कई बड़ा नाम उतरने जा रहे है। इंग्लैंड के दिग्गज ऑलराउंडर बेन स्टोक्स ने ऑक्शन के लिए अपना नाम रजिस्टर कराया है। उन्होंने अपना बेस प्राइस 2 करोड़ रुपये रखा है। 16 दिसंबर को गोवा में होने वाले इस ऑक्शन में स्`,
+    content: `IPL 2027 के मिनी ऑक्शन में इस बार कई बड़ा नाम उतरने जा रहे है। इंग्लैंड के दिग्गज ऑलराउंडर बेन स्टोक्स ने ऑक्शन के लिए अपना नाम रजिस्टर कराया है। उन्होंने अपना बेस प्राइस 2 करोड़ रुपये रखा है। 16 दिसंबर को गोवा में होने वाले इस ऑक्शन में स्टोक्स की एंट्री से फ्रेंचाइजियों की दिलचस्पी बढ़ सकती है।
+
+क्रिकबज के मुताबिक, बांग्लादेश के भी 11 खिलाड़ियों ने ऑक्शन के लिए रजिस्ट्रेशन कराया है, लेकिन अनुभवी तेज गेंदबाज मुस्तफिजुर रहमान और पूर्व कप्तान शाकिब अल हसन का नाम शुरुआती सूची में शामिल नहीं है। 24 नवंबर की शाम फ्रेंचाइजियों के साथ साझा की गई शुरुआती ऑक्शन सूची में कुल 1220 खिलाड़ियों के नाम हैं।
+
+स्टोक्स का नाम इस सूची में सबसे चर्चित नामों में से एक है। हालांकि, उनके रजिस्ट्रेशन को लेकर पहले संशय था, क्योंकि उन्होंने 2025 के मेगा ऑक्शन में हिस्सा नहीं लिया था। मेगा ऑक्शन छोड़ने के बावजूद कैसे मिला स्टोक्स को मौका? BCCI के नियमों के मुताबिक, किसी विदेशी खिलाड़ी के लिए मेगा ऑक्शन में रजिस्ट्रेशन कराना जरूरी होता है।
+
+अगर कोई विदेशी खिलाड़ी मेगा ऑक्शन में अपना नाम नहीं देता है, तो वह अगले साल होने वाली खिलाड़ी ऑक्शन में भी शामिल होने के योग्य नहीं होता। ऐसे में स्टोक्स का नाम शुरुआती सूची में आना चर्चा का विषय बन गया है। माना जा रहा है कि उन्हें इस बार ऑक्शन में शामिल होने के लिए संबंधित अधिकारियों से अनुमति मिली है।
+
+35 साल के स्टोक्स ने इस साल इंटरनेशनल क्रिकेट से संन्यास ले लिया था। वह IPL में अब तक तीन फ्रेंचाइजियों का हिस्सा रह चुके हैं। उन्होंने 2017 में राइजिंग पुणे सुपरजायंट्स, 2018 से 2021 तक राजस्थान रॉयल्स और 2023 में चेन्नई सुपर किंग्स का प्रतिनिधित्व किया। स्टोक्स ने IPL के पांच सीजन में कुल 45 मुकाबले खेले हैं, जिनमें उनके नाम 935 रन और 28 विकेट दर्ज हैं।
+
+बांग्लादेश के 11 खिलाड़ियों ने कराया रजिस्ट्रेशन इस बार बांग्लादेश के कुल 11 खिलाड़ियों ने ऑक्शन के लिए अपना नाम दिया है। इनमें हसन महमूद, परवेज हुसैन इमोन, रिपोन मंडल, रिशाद हुसैन, सैफ हसन, शाक महेदी हसन, शमीम हुसैन, शोरिफुल इस्लाम, तंजीम हसन साकिब, तौहीद हृदोय और मोहम्मद रुबेल शामिल हैं।
+
+हालांकि, बांग्लादेश के दो बड़े खिलाड़ियों मुस्तफिजुर रहमान और शाकिब अल हसन को शुरुआती रजिस्ट्रेशन सूची में जगह नहीं मिली है। ऐसे में इस बार IPL ऑक्शन में बांग्लादेश की ओर से कौन-कौन से खिलाड़ी उतरेंगे, इस पर भी नजर रहेगी। BCCI की ओर से जारी शुरुआती सूची में 939 भारतीय और 281 विदेशी खिलाड़ी शामिल हैं।
+
+हालांकि, सभी फ्रेंचाइजियों के पास कुल 66 खाली स्लॉट ही उपलब्ध हैं, जिनमें अधिकतम 25 विदेशी खिलाड़ियों के लिए हैं। यह भी पढ़ें: आईपीएल 2027 से पहले एक और बड़ा ऐलान, पंजाब किंग्स ने कराई एक और एंट्री IND vs NZ दूसरे टेस्ट से पहले टीम में बदलाव, अब इस खिलाड़ी हो गई अचानक एंट्री
 
 ---
 
@@ -3844,8 +4510,22 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     summary_en: ``,
     content_en: ``,
     title_hi: `IPL ऑक्शन के लिए बेन स्टोक्स ने कराया रजिस्ट्रेशन, 11 बांग्लादेशी खिलाड़ियों ने भी दिखाई दिलचस्पी - India TV Hindi`,
-    summary_hi: `IPL ऑक्शन के लिए बेन स्टोक्स ने कराया रजिस्ट्रेशन, 11 बांग्लादेशी खिलाड़ियों ने भी दिखाई दिलचस्पी India TV Hindi IPL 2026 Auction Update: आर्यवीर सहवाग और मोहित उल्वा की IPL नीलामी में एंट्री, 30 लाख का है बेस प्राइज Navbharat Live IPL में `,
-    content_hi: `IPL ऑक्शन के लिए बेन स्टोक्स ने कराया रजिस्ट्रेशन, 11 बांग्लादेशी खिलाड़ियों ने भी दिखाई दिलचस्पी India TV Hindi IPL 2026 Auction Update: आर्यवीर सहवाग और मोहित उल्वा की IPL नीलामी में एंट्री, 30 लाख का है बेस प्राइज Navbharat Live IPL में वीरेंद्र सहवाग का रहा जलवा, अब बेटे आर्यवीर की नीलामी में एंट्री AajTak भारत-नेपाल दोस्ती का नया रंग, IPL 2027 नीलामी में 10 खिलाड़ियों ने कराया रजिस्ट्रेशन Jagran वो 3 फ्रेंचाइजी, जिनके बीच स्टोक्स को खरीदने के लिए ऑक्शन में होगी मारामारी News18 Hindi
+    summary_hi: `IPL 2027 के मिनी ऑक्शन में इस बार कई बड़ा नाम उतरने जा रहे है। इंग्लैंड के दिग्गज ऑलराउंडर बेन स्टोक्स ने ऑक्शन के लिए अपना नाम रजिस्टर कराया है। उन्होंने अपना बेस प्राइस 2 करोड़ रुपये रखा है। 16 दिसंबर को गोवा में होने वाले इस ऑक्शन में स्`,
+    content_hi: `IPL 2027 के मिनी ऑक्शन में इस बार कई बड़ा नाम उतरने जा रहे है। इंग्लैंड के दिग्गज ऑलराउंडर बेन स्टोक्स ने ऑक्शन के लिए अपना नाम रजिस्टर कराया है। उन्होंने अपना बेस प्राइस 2 करोड़ रुपये रखा है। 16 दिसंबर को गोवा में होने वाले इस ऑक्शन में स्टोक्स की एंट्री से फ्रेंचाइजियों की दिलचस्पी बढ़ सकती है।
+
+क्रिकबज के मुताबिक, बांग्लादेश के भी 11 खिलाड़ियों ने ऑक्शन के लिए रजिस्ट्रेशन कराया है, लेकिन अनुभवी तेज गेंदबाज मुस्तफिजुर रहमान और पूर्व कप्तान शाकिब अल हसन का नाम शुरुआती सूची में शामिल नहीं है। 24 नवंबर की शाम फ्रेंचाइजियों के साथ साझा की गई शुरुआती ऑक्शन सूची में कुल 1220 खिलाड़ियों के नाम हैं।
+
+स्टोक्स का नाम इस सूची में सबसे चर्चित नामों में से एक है। हालांकि, उनके रजिस्ट्रेशन को लेकर पहले संशय था, क्योंकि उन्होंने 2025 के मेगा ऑक्शन में हिस्सा नहीं लिया था। मेगा ऑक्शन छोड़ने के बावजूद कैसे मिला स्टोक्स को मौका? BCCI के नियमों के मुताबिक, किसी विदेशी खिलाड़ी के लिए मेगा ऑक्शन में रजिस्ट्रेशन कराना जरूरी होता है।
+
+अगर कोई विदेशी खिलाड़ी मेगा ऑक्शन में अपना नाम नहीं देता है, तो वह अगले साल होने वाली खिलाड़ी ऑक्शन में भी शामिल होने के योग्य नहीं होता। ऐसे में स्टोक्स का नाम शुरुआती सूची में आना चर्चा का विषय बन गया है। माना जा रहा है कि उन्हें इस बार ऑक्शन में शामिल होने के लिए संबंधित अधिकारियों से अनुमति मिली है।
+
+35 साल के स्टोक्स ने इस साल इंटरनेशनल क्रिकेट से संन्यास ले लिया था। वह IPL में अब तक तीन फ्रेंचाइजियों का हिस्सा रह चुके हैं। उन्होंने 2017 में राइजिंग पुणे सुपरजायंट्स, 2018 से 2021 तक राजस्थान रॉयल्स और 2023 में चेन्नई सुपर किंग्स का प्रतिनिधित्व किया। स्टोक्स ने IPL के पांच सीजन में कुल 45 मुकाबले खेले हैं, जिनमें उनके नाम 935 रन और 28 विकेट दर्ज हैं।
+
+बांग्लादेश के 11 खिलाड़ियों ने कराया रजिस्ट्रेशन इस बार बांग्लादेश के कुल 11 खिलाड़ियों ने ऑक्शन के लिए अपना नाम दिया है। इनमें हसन महमूद, परवेज हुसैन इमोन, रिपोन मंडल, रिशाद हुसैन, सैफ हसन, शाक महेदी हसन, शमीम हुसैन, शोरिफुल इस्लाम, तंजीम हसन साकिब, तौहीद हृदोय और मोहम्मद रुबेल शामिल हैं।
+
+हालांकि, बांग्लादेश के दो बड़े खिलाड़ियों मुस्तफिजुर रहमान और शाकिब अल हसन को शुरुआती रजिस्ट्रेशन सूची में जगह नहीं मिली है। ऐसे में इस बार IPL ऑक्शन में बांग्लादेश की ओर से कौन-कौन से खिलाड़ी उतरेंगे, इस पर भी नजर रहेगी। BCCI की ओर से जारी शुरुआती सूची में 939 भारतीय और 281 विदेशी खिलाड़ी शामिल हैं।
+
+हालांकि, सभी फ्रेंचाइजियों के पास कुल 66 खाली स्लॉट ही उपलब्ध हैं, जिनमें अधिकतम 25 विदेशी खिलाड़ियों के लिए हैं। यह भी पढ़ें: आईपीएल 2027 से पहले एक और बड़ा ऐलान, पंजाब किंग्स ने कराई एक और एंट्री IND vs NZ दूसरे टेस्ट से पहले टीम में बदलाव, अब इस खिलाड़ी हो गई अचानक एंट्री
 
 ---
 
@@ -4023,7 +4703,7 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     topic: ``,
     language: `hi`,
     fomo_badge: `न्यूज़ वायर`,
-    read_time: `1 min read`,
+    read_time: `3 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T05:58:32Z`,
@@ -4031,15 +4711,31 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     source_name: `AajTak`,
     source_url: `https://www.aajtak.in/entertainment/bollywood-news/story/sanjay-dutt-received-threat-underworld-monica-bedi-casting-hussain-zaidi-reveals-mumbai-26-11-pakistan-attack-tmovg-dskc-2706201-2026-11-26`,
     source_courtesy: `Source: AajTak`,
-    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b075eb23b425-sanjay-dutt-received-threat-underworld-251824600.jpg`,
+    image_url: `/images/articles/2611-aajtak-2026.jpg`,
     image_alt: `वो तुम्हारी भाभी है, छूना मत', जब संजय दत्त को मिली अंडरवर्ल्ड से धमकी, 26/11 हमले पर भी हुसैन जैदी ने खोले राज - AajTak`,
     image_courtesy: `Image: AajTak (External Source Attribution)`,
     image_photographer: `AajTak`,
     image_license: `External Source Attribution`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `Entertainment, News, India`,
-    summary: `'वो तुम्हारी भाभी है, छूना मत', जब संजय दत्त को मिली अंडरवर्ल्ड से धमकी, 26/11 हमले पर भी हुसैन जैदी ने खोले राज AajTak`,
-    content: `'वो तुम्हारी भाभी है, छूना मत', जब संजय दत्त को मिली अंडरवर्ल्ड से धमकी, 26/11 हमले पर भी हुसैन जैदी ने खोले राज AajTak
+    summary: `एक टाइम था जब बॉलीवुड काफी हद तक अंडरवर्ल्ड के दबाव में था. उस दौर में इनका इतना खौफ था कि फिल्म के बजट, स्टारकास्ट से लेकर डिस्ट्रीब्यूशन तक… हर जगह उनका दखल होता था. क्या आप जानते हैं कि संजय दत्त को बकायदा धमकी दी गई कि वो अपनी एक्ट्रेस `,
+    content: `### दिग्गज पत्रकार और लेखक एस. हुसैन जैदी ने बॉलीवुड में अंडरवर्ल्ड के दबदबे और 26/11 मुंबई आतंकी हमले के पीछे की साजिश पर बड़े खुलासे किए हैं. इसके अलावा उन्होंने संजय दत्त को आए धमकी भरे कॉल का जिक्र भी किया.
+
+एक टाइम था जब बॉलीवुड काफी हद तक अंडरवर्ल्ड के दबाव में था. उस दौर में इनका इतना खौफ था कि फिल्म के बजट, स्टारकास्ट से लेकर डिस्ट्रीब्यूशन तक… हर जगह उनका दखल होता था. क्या आप जानते हैं कि संजय दत्त को बकायदा धमकी दी गई कि वो अपनी एक्ट्रेस संग आंख उठाकर  भी ना देखें?
+
+लेखक हुसैन जैदी ने हाल ही में गलट्टा इंडिया को दिए एक इंटरव्यू में 26/11 मुंबई हमले और बॉलीवुड में अंडरवर्ल्ड के दखल को लेकर खुलकर बात की है. उन्होंने बताया कि किस तरह एक दौर में अंडरवर्ल्ड का असर डायरेक्टर और हीरो की कास्टिंग तक पहुंच गया था, और साथ ही 26/11 हमले के पीछे पाकिस्तान की मंशा और रणनीति पर भी अपनी राय रखी.
+
+राजीव राय और मोनिका बेदी से जुड़ा किस्सा हुसैन जैदी ने अंडरवर्ल्ड के असर का सबसे मशहूर उदाहरण डायरेक्टर राजीव राय और उनकी फिल्म 'प्यार इश्क मोहब्बत' का दिया. उनके मुताबिक, राजीव राय फिल्म में मोनिका बेदी को नहीं लेना चाहते थे, लेकिन अबू सलेम की तरफ से उन्हें इतनी धमकियां मिलीं कि मजबूरी में मोनिका का किरदार डालना पड़ा और फिल्म में उनका रोल भी बढ़ाना पड़ा. जैदी के अनुसार, इसके बाद राजीव राय का फिल्म बनाने से मन उठ गया, उन्होंने जब इनकार किया तो उन पर फायरिंग की कोशिश भी हुई, जिसके बाद वह देश छोड़कर चले गए और अब जाकर वापस लौटे हैं.
+
+इस घटना पर सवाल उठाते हुए हुसैन जैदी ने कहा कि जिसने 'गुप्त' और 'मोहरा' जैसी शानदार फिल्में बनाई हों, वह एक लव स्टोरी बनाकर इतनी धमकियां क्यों सहे. जब फिल्म में मोनिका बेदी जैसा कोई किरदार था ही नहीं, तो आखिर डायरेक्टर अबू सलेम की धमकी क्यों बर्दाश्त करें?'
+
+संजय दत्त और कास्टिंग में अंडरवर्ल्ड का दखल जैदी ने संजय दत्त, मोनिका बेदी, गोविंदा और ट्विंकल खन्ना वाली फिल्म का जिक्र करते हुए बताया कि संजय दत्त को बाकायदा धमकी दी गई थी कि मोनिका बेदी उनकी भाभी हैं, इसलिए उनकी तरफ आंख उठाकर न देखें, न छुएं और डांस ठीक से करें. उनके मुताबिक, संजय दत्त को यह बात खटकती थी कि गोविंदा को ट्विंकल खन्ना जैसी बड़ी हीरोइन मिल रही है और उन्हें मोनिका बेदी, जबकि उस दौर में भी संजय गोविंदा से बड़े थे. जैदी ने कहा कि संजय को इस बात की शिकायत हमेशा रही, लेकिन इससे यह साफ दिखता है कि अंडरवर्ल्ड का दखल कास्टिंग तक पहुंच गया था, हालांकि फिल्म में संजय दत्त ने भाभी नहीं, बहन मानकर ही काम किया.
+
+26/11 हमले के पीछे पाकिस्तान की रणनीति 26/11 हमले की सबसे बड़ी जिम्मेदारी पर बात करते हुए हुसैन जैदी ने इसे पाकिस्तान का एक बड़ा हथियार बताया. उन्होंने सवाल उठाया कि यह हमला आमतौर पर होने वाले आतंकी हमलों की तरह किसी भीड़भाड़ वाले इलाके, ट्रेन या बस के बजाय ताज होटल-हिल्टन (ओबेरॉय ट्राइडेंट) जैसे इंटरनेशनल होटलों पर क्यों किया गया?
+
+हुसैन जैदी के मुताबिक, डेविड हेडली के आने और जो कुछ उसने किया, उसके पीछे पूरी वजह यही थी कि भारत आने वाले विदेशी और पर्यटक इन जगहों को असुरक्षित मानें. गेटवे ऑफ इंडिया, ताज, हिल्टन और साउथ मुंबई जैसी जगहें हमारी पहचान हैं, जहां सैलानी आते हैं और ठहरते हैं. उन्होंने कहा कि इन जगहों पर हमला करके पाकिस्तान भारत को असुरक्षित दिखाना चाहता था, इसलिए 26/11 किया गया.
+
+पाकिस्तान की मानसिकता समझने की बात अपनी बात खत्म करते हुए हुसैन जैदी ने कहा कि पाकिस्तान ने जो हरकतें की हैं, उसके लिए वही जिम्मेदार है. उनके अनुसार, जिस तरह यह पूरा घटनाक्रम सामने आया है, उससे भारत के लिए पाकिस्तान की साइकोलॉजी समझना आसान हो गया है.
 
 ---
 
@@ -4048,8 +4744,24 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     summary_en: ``,
     content_en: ``,
     title_hi: `वो तुम्हारी भाभी है, छूना मत', जब संजय दत्त को मिली अंडरवर्ल्ड से धमकी, 26/11 हमले पर भी हुसैन जैदी ने खोले राज - AajTak`,
-    summary_hi: `'वो तुम्हारी भाभी है, छूना मत', जब संजय दत्त को मिली अंडरवर्ल्ड से धमकी, 26/11 हमले पर भी हुसैन जैदी ने खोले राज AajTak`,
-    content_hi: `'वो तुम्हारी भाभी है, छूना मत', जब संजय दत्त को मिली अंडरवर्ल्ड से धमकी, 26/11 हमले पर भी हुसैन जैदी ने खोले राज AajTak
+    summary_hi: `एक टाइम था जब बॉलीवुड काफी हद तक अंडरवर्ल्ड के दबाव में था. उस दौर में इनका इतना खौफ था कि फिल्म के बजट, स्टारकास्ट से लेकर डिस्ट्रीब्यूशन तक… हर जगह उनका दखल होता था. क्या आप जानते हैं कि संजय दत्त को बकायदा धमकी दी गई कि वो अपनी एक्ट्रेस `,
+    content_hi: `### दिग्गज पत्रकार और लेखक एस. हुसैन जैदी ने बॉलीवुड में अंडरवर्ल्ड के दबदबे और 26/11 मुंबई आतंकी हमले के पीछे की साजिश पर बड़े खुलासे किए हैं. इसके अलावा उन्होंने संजय दत्त को आए धमकी भरे कॉल का जिक्र भी किया.
+
+एक टाइम था जब बॉलीवुड काफी हद तक अंडरवर्ल्ड के दबाव में था. उस दौर में इनका इतना खौफ था कि फिल्म के बजट, स्टारकास्ट से लेकर डिस्ट्रीब्यूशन तक… हर जगह उनका दखल होता था. क्या आप जानते हैं कि संजय दत्त को बकायदा धमकी दी गई कि वो अपनी एक्ट्रेस संग आंख उठाकर  भी ना देखें?
+
+लेखक हुसैन जैदी ने हाल ही में गलट्टा इंडिया को दिए एक इंटरव्यू में 26/11 मुंबई हमले और बॉलीवुड में अंडरवर्ल्ड के दखल को लेकर खुलकर बात की है. उन्होंने बताया कि किस तरह एक दौर में अंडरवर्ल्ड का असर डायरेक्टर और हीरो की कास्टिंग तक पहुंच गया था, और साथ ही 26/11 हमले के पीछे पाकिस्तान की मंशा और रणनीति पर भी अपनी राय रखी.
+
+राजीव राय और मोनिका बेदी से जुड़ा किस्सा हुसैन जैदी ने अंडरवर्ल्ड के असर का सबसे मशहूर उदाहरण डायरेक्टर राजीव राय और उनकी फिल्म 'प्यार इश्क मोहब्बत' का दिया. उनके मुताबिक, राजीव राय फिल्म में मोनिका बेदी को नहीं लेना चाहते थे, लेकिन अबू सलेम की तरफ से उन्हें इतनी धमकियां मिलीं कि मजबूरी में मोनिका का किरदार डालना पड़ा और फिल्म में उनका रोल भी बढ़ाना पड़ा. जैदी के अनुसार, इसके बाद राजीव राय का फिल्म बनाने से मन उठ गया, उन्होंने जब इनकार किया तो उन पर फायरिंग की कोशिश भी हुई, जिसके बाद वह देश छोड़कर चले गए और अब जाकर वापस लौटे हैं.
+
+इस घटना पर सवाल उठाते हुए हुसैन जैदी ने कहा कि जिसने 'गुप्त' और 'मोहरा' जैसी शानदार फिल्में बनाई हों, वह एक लव स्टोरी बनाकर इतनी धमकियां क्यों सहे. जब फिल्म में मोनिका बेदी जैसा कोई किरदार था ही नहीं, तो आखिर डायरेक्टर अबू सलेम की धमकी क्यों बर्दाश्त करें?'
+
+संजय दत्त और कास्टिंग में अंडरवर्ल्ड का दखल जैदी ने संजय दत्त, मोनिका बेदी, गोविंदा और ट्विंकल खन्ना वाली फिल्म का जिक्र करते हुए बताया कि संजय दत्त को बाकायदा धमकी दी गई थी कि मोनिका बेदी उनकी भाभी हैं, इसलिए उनकी तरफ आंख उठाकर न देखें, न छुएं और डांस ठीक से करें. उनके मुताबिक, संजय दत्त को यह बात खटकती थी कि गोविंदा को ट्विंकल खन्ना जैसी बड़ी हीरोइन मिल रही है और उन्हें मोनिका बेदी, जबकि उस दौर में भी संजय गोविंदा से बड़े थे. जैदी ने कहा कि संजय को इस बात की शिकायत हमेशा रही, लेकिन इससे यह साफ दिखता है कि अंडरवर्ल्ड का दखल कास्टिंग तक पहुंच गया था, हालांकि फिल्म में संजय दत्त ने भाभी नहीं, बहन मानकर ही काम किया.
+
+26/11 हमले के पीछे पाकिस्तान की रणनीति 26/11 हमले की सबसे बड़ी जिम्मेदारी पर बात करते हुए हुसैन जैदी ने इसे पाकिस्तान का एक बड़ा हथियार बताया. उन्होंने सवाल उठाया कि यह हमला आमतौर पर होने वाले आतंकी हमलों की तरह किसी भीड़भाड़ वाले इलाके, ट्रेन या बस के बजाय ताज होटल-हिल्टन (ओबेरॉय ट्राइडेंट) जैसे इंटरनेशनल होटलों पर क्यों किया गया?
+
+हुसैन जैदी के मुताबिक, डेविड हेडली के आने और जो कुछ उसने किया, उसके पीछे पूरी वजह यही थी कि भारत आने वाले विदेशी और पर्यटक इन जगहों को असुरक्षित मानें. गेटवे ऑफ इंडिया, ताज, हिल्टन और साउथ मुंबई जैसी जगहें हमारी पहचान हैं, जहां सैलानी आते हैं और ठहरते हैं. उन्होंने कहा कि इन जगहों पर हमला करके पाकिस्तान भारत को असुरक्षित दिखाना चाहता था, इसलिए 26/11 किया गया.
+
+पाकिस्तान की मानसिकता समझने की बात अपनी बात खत्म करते हुए हुसैन जैदी ने कहा कि पाकिस्तान ने जो हरकतें की हैं, उसके लिए वही जिम्मेदार है. उनके अनुसार, जिस तरह यह पूरा घटनाक्रम सामने आया है, उससे भारत के लिए पाकिस्तान की साइकोलॉजी समझना आसान हो गया है.
 
 ---
 
@@ -4125,7 +4837,7 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     topic: ``,
     language: `en`,
     fomo_badge: `News Wire`,
-    read_time: `1 min read`,
+    read_time: `8 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T05:58:37Z`,
@@ -4140,15 +4852,131 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     image_license: `External Source Attribution`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `Ramayana, News, India`,
-    summary: `The Making of the Ramayana The New Indian Express`,
-    content: `The Making of the Ramayana The New Indian Express
+    summary: `Flying chariots, celestial weapons, fantastical kingdoms, and epic battles: the great epic Ramayana offers extraordinary cinematic possibilities. Bringing this universe to life, however, demands more than an extravagant budget and star cast`,
+    content: `Flying chariots, celestial weapons, fantastical kingdoms, and epic battles: the great epic Ramayana offers extraordinary cinematic possibilities. Bringing this universe to life, however, demands more than an extravagant budget and star cast. It calls for a complex blend of filmmaking, visual effects, motion capture, Artificial Intelligence, and digital technology.
+
+Nearly a decade in the making, Nitesh Tiwari’s adaptation is among India’s most ambitious film projects. What began around 2017 as producer Namit Malhotra’s vision of an Indian saga, with international production values, evolved into a two-part spectacle. Malhotra brought Tiwari on board, while his visual effects company, DNEG, known for films such as Dune, Oppenheimer, and Inception, became the technological backbone of the project.The challenge lay in condensing an epic spanning generations into two films without losing its emotional and spiritual depth.
+
+Actor Ajinkya Deo, who plays Vishwamitra, says Tiwari spent years researching the characters. “He has studied every single character in depth. I arrived on set as a ‘blank slate’ and performed the role just as the director guided me,” he says. For Ranbir Kapoor, who plays Ram, the responsibility was daunting.
+
+“When I was offered the role, I knew it was not just a role, it was a responsibility. Instinctively, I was scared. People worship Lord Ram, and my fear turned into gratitude,” he says. For Kapoor, however, the epic’s appeal is deeply personal. Becoming a father coincided with taking on the role, and he recalls narrating the Ramayana to his three-year-old daughter, Raha, after returning from shoots.
+
+Her eager questions about whether he had filmed scenes with Hanuman or Sita, he believes, reflect the epic’s enduring place in India’s cultural imagination. He hopes the film will carry that connection to audiences worldwide.Technology is equally central to the film’s global ambitions.
+
+DNEG has reportedly developed an AI-assisted dubbing system that adapts characters’ lip movements to translated dialogue, allowing different language versions to appear seamless. Malhotra hopes to release the film in Mandarin and Spanish. Building a UniverseThe pandemic, which brought physical production to a standstill, gave the creative teams an opportunity to develop the film’s visual language through storyboards, animation, digital environments, and pre-visualisation.
+
+Unlike conventional filmmaking, where visual effects are largely added in post-production, Ramayana integrated technology from the screenplay stage. Scenes were digitally mapped before filming, helping teams plan camera movements, lighting, sets, and CGI environments. Cinematographer Pankaj Kumar joined in November 2023 and spent nearly a year on pre-visualisation before filming began in mid-2024.The production uses a 42-camera infrared motion-capture system to record actors’ movements and an 86-camera photogrammetry rig to create detailed digital doubles.
+
+Motion-control cameras, virtual lighting, green screens, and CGI combine physical performances with elaborate digital environments. AI-assisted lip-sync technology, including Prime Focus’ Brahma AI, was also reportedly used to adapt facial movements for international language versions.The aim is to preserve the nuances of live performances while expanding their possibilities.
+
+Actors and stunt professionals perform the action, which animators and VFX artists translate into digital characters and environments. Actors often perform against green or blue screens, guided by digital pre-visualisations that indicate the scale and movement of the surroundings.
+
+Virtual lighting ensures that shadows, reflections and illumination remain consistent when live-action footage is combined with CGI.The scale is particularly evident in the film’s spectacular sequences. The Pushpak Vimana, Ravana’s mythical flying chariot, underwent two years of design development and 40-50 iterations.
+
+Only 10 per cent was physically constructed, with the rest created through CGI. The aerial battle between Ravana and Jatayu was even more demanding. While Jatayu was digitally created, a full-sized model helped Yash understand the creature’s proportions and interact convincingly with it.
+
+The sequence took six-and-a-half years to conceptualise, plan, and execute.Such sequences require close collaboration between cinematographers, action choreographers, animators, engineers, and VFX specialists. Every movement, expression and camera angle must be coordinated to make digital characters believable and emotionally engaging.
+
+The challenge is particularly significant when creating mythical creatures and supernatural beings, which must feel physically convincing without losing their fantastical character. The film’s digital environments also extend beyond individual action sequences. Expansive kingdoms, forests, palaces and battlefields are built through a combination of physical sets and computer-generated extensions.
+
+This allows the production to create an immense visual canvas while maintaining continuity in scale, lighting and perspective. For the actors, even a relatively modest physical set can become part of an enormous digital landscape on screen..Drawing comparisons with James Cameron’s Avatar, the production combines physical sets, performance capture, and sophisticated CGI to create an immersive cinematic world.
+
+Yet, for a story as deeply embedded in India’s cultural imagination as the Ramayana, technical spectacle alone is not enough. The real challenge is to make the extraordinary feel tangible while preserving the human emotions, spiritual depth and dramatic intensity at its heart. The ambition is to create an epic that is visually spectacular yet emotionally familiar to audiences across generations.Tiwari says, “It was one of the best epics of our country.
+
+We wrote the script keeping all the sensibilities in mind.” The filmmaker has rarely spoken of his personal life in terms of religious devotion or ritualistic practice. However, he has often recalled growing up watching Ram Leelas, developing an early familiarity with the Ramayana and being an avid follower of the epic.
+
+His understanding of spirituality is less rooted in religious dogma and more in its human dimensions—emotions, family bonds, ethical choices, and the values that shape everyday life.Two Kingdoms, Two Visual WorldsOne of the film’s most demanding assignments was to establish two visually distinct worlds: Ayodhya and Lanka.
+
+Ram’s kingdom is envisioned as luminous, serene, and harmonious, while Lanka has a darker, more dramatic architectural identity. The production design draws upon Indian architectural traditions and cultural influences from across Southeast Asia, creating a fantastical landscape that remains rooted in the epic’s cultural imagination.
+
+International and Indian creative talent worked together to develop this visual vocabulary. Production designer Ramsey Avery, whose credits include Dune: Part Two and Aladdin, contributed to the film’s visual conception, alongside Indian production designers Subrata Chakraborty and Amit Ray.
+
+Cinematographer Mahesh Limaye, along with Kumar, helped translate these elaborate environments into a cohesive visual experience.Large physical sets were constructed to provide actors and technicians with tangible working spaces, while green screens and digital extensions expanded them beyond their physical dimensions.
+
+Monumental structures, elaborate battlefields and supernatural creatures required close coordination between production design, cinematography, action choreography and visual effects. The action department also brought together considerable international expertise. Terry Notary, known for his work on the Planet of the Apes films and Avengers, and Guy Norris, associated with Mad Max: Fury Road and Furiosa, contributed to the action design.The production’s international ambitions extend to its music.
+
+In an unusual East-meets-West collaboration, AR Rahman and Oscar-winning composer Hans Zimmer joined forces to create the film’s soundscape. The intention was to retain the unmistakable Indianness of the epic while giving it the sonic scale of international cinema. Recalling his first conversation with Zimmer, Malhotra shares an interesting anecdote.
+
+“Hans Zimmer is a true artist and deeply respects our culture. When I went on to narrate Ramayana to him, he refused to hear it and said, ‘This is one of the beloved stories of India for over 5,000 years. You don’t explain and spoil it for me. I have to understand it without you explaining it.’ Our story required both the Indianness and the Western soundscape, but the Indianness should eventually dominate,” he says.For Yash, who plays Ravana, the collaboration represents an opportunity for Indian cinema to combine its cultural identity with global technical expertise.
+
+“If you want to show the world that you are creating a massive, big-budget film like Ramayana, you must state with absolute pride: ‘Yes, this is our strength, and this is a film from our country’,” he says..Finding the Faces of an EpicFor all its technological sophistication, Ramayana ultimately depends on the actors bringing its familiar characters to life.
+
+Casting was, therefore, closely watched. Mahesh Babu and Hrithik Roshan were reportedly considered for Ram before Ranbir Kapoor was finalised. Alia Bhatt, initially linked to Sita, reportedly opted out due to scheduling commitments, while Deepika Padukone’s name also surfaced.Malhotra reveals that Kapoor was always his first choice.
+
+“For both of us (him and director Tiwari), from the get-go, it was to see Lord Ram being essayed by Ranbir. It was a natural choice... before we could go to who is option two or option three, it was like option one—‘It is him’,” he says. Sai Pallavi, making her Bollywood debut as Sita, approached the role with reverence.
+
+Recalling how her dialect coach once touched her feet after a scene, she says, “They believe that I am being Sita ma through Sai Pallavi. I didn’t want to use my brain for the role... I would pray and say, try to help me with the role.” Yash’s Ravana reportedly explores the demon king’s origins and rise to power.
+
+Sharad Kelkar, who dubs for him in the Hindi version, says, “Yash is a brilliant actor and he’s performed Ravana’s role exceptionally well. I enjoyed the process of dubbing for him.”The supporting cast includes Ravi Dubey as Lakshman, Sunny Deol as Hanuman, Arun Govil as Dasharatha, Lara Dutta as Kaikeyi, Indira Krishnan as Kaushalya and Ajinkya Deo as Vishwamitra.
+
+Dubey recalls visiting a Lakshman temple in Lucknow while shooting for a project titled Lakhan. A year later, he was cast as Lakshman. “I believe it happened through divine ordinance and grace,” he says.Krishnan’s casting followed a conversation with Kapoor during Animal, when she expressed a desire to play his mother.
+
+He remembered her wish and recommended her for Kaushalya. She describes the role as “very soft and endearing” and praises Kapoor’s transformation: “The two characters (Animal and Ramayana) are poles apart. He doesn’t just use body language; he truly inhabits his character through his eyes.” The production has also tapped talent beyond mainstream cinema.
 
 ---
 
 **Original Source:** [The New Indian Express](https://www.newindianexpress.com/magazine/2026/Nov/22/the-making-of-the-ramayana)`,
     title_en: `The Making of the Ramayana - The New Indian Express`,
-    summary_en: `The Making of the Ramayana The New Indian Express`,
-    content_en: `The Making of the Ramayana The New Indian Express
+    summary_en: `Flying chariots, celestial weapons, fantastical kingdoms, and epic battles: the great epic Ramayana offers extraordinary cinematic possibilities. Bringing this universe to life, however, demands more than an extravagant budget and star cast`,
+    content_en: `Flying chariots, celestial weapons, fantastical kingdoms, and epic battles: the great epic Ramayana offers extraordinary cinematic possibilities. Bringing this universe to life, however, demands more than an extravagant budget and star cast. It calls for a complex blend of filmmaking, visual effects, motion capture, Artificial Intelligence, and digital technology.
+
+Nearly a decade in the making, Nitesh Tiwari’s adaptation is among India’s most ambitious film projects. What began around 2017 as producer Namit Malhotra’s vision of an Indian saga, with international production values, evolved into a two-part spectacle. Malhotra brought Tiwari on board, while his visual effects company, DNEG, known for films such as Dune, Oppenheimer, and Inception, became the technological backbone of the project.The challenge lay in condensing an epic spanning generations into two films without losing its emotional and spiritual depth.
+
+Actor Ajinkya Deo, who plays Vishwamitra, says Tiwari spent years researching the characters. “He has studied every single character in depth. I arrived on set as a ‘blank slate’ and performed the role just as the director guided me,” he says. For Ranbir Kapoor, who plays Ram, the responsibility was daunting.
+
+“When I was offered the role, I knew it was not just a role, it was a responsibility. Instinctively, I was scared. People worship Lord Ram, and my fear turned into gratitude,” he says. For Kapoor, however, the epic’s appeal is deeply personal. Becoming a father coincided with taking on the role, and he recalls narrating the Ramayana to his three-year-old daughter, Raha, after returning from shoots.
+
+Her eager questions about whether he had filmed scenes with Hanuman or Sita, he believes, reflect the epic’s enduring place in India’s cultural imagination. He hopes the film will carry that connection to audiences worldwide.Technology is equally central to the film’s global ambitions.
+
+DNEG has reportedly developed an AI-assisted dubbing system that adapts characters’ lip movements to translated dialogue, allowing different language versions to appear seamless. Malhotra hopes to release the film in Mandarin and Spanish. Building a UniverseThe pandemic, which brought physical production to a standstill, gave the creative teams an opportunity to develop the film’s visual language through storyboards, animation, digital environments, and pre-visualisation.
+
+Unlike conventional filmmaking, where visual effects are largely added in post-production, Ramayana integrated technology from the screenplay stage. Scenes were digitally mapped before filming, helping teams plan camera movements, lighting, sets, and CGI environments. Cinematographer Pankaj Kumar joined in November 2023 and spent nearly a year on pre-visualisation before filming began in mid-2024.The production uses a 42-camera infrared motion-capture system to record actors’ movements and an 86-camera photogrammetry rig to create detailed digital doubles.
+
+Motion-control cameras, virtual lighting, green screens, and CGI combine physical performances with elaborate digital environments. AI-assisted lip-sync technology, including Prime Focus’ Brahma AI, was also reportedly used to adapt facial movements for international language versions.The aim is to preserve the nuances of live performances while expanding their possibilities.
+
+Actors and stunt professionals perform the action, which animators and VFX artists translate into digital characters and environments. Actors often perform against green or blue screens, guided by digital pre-visualisations that indicate the scale and movement of the surroundings.
+
+Virtual lighting ensures that shadows, reflections and illumination remain consistent when live-action footage is combined with CGI.The scale is particularly evident in the film’s spectacular sequences. The Pushpak Vimana, Ravana’s mythical flying chariot, underwent two years of design development and 40-50 iterations.
+
+Only 10 per cent was physically constructed, with the rest created through CGI. The aerial battle between Ravana and Jatayu was even more demanding. While Jatayu was digitally created, a full-sized model helped Yash understand the creature’s proportions and interact convincingly with it.
+
+The sequence took six-and-a-half years to conceptualise, plan, and execute.Such sequences require close collaboration between cinematographers, action choreographers, animators, engineers, and VFX specialists. Every movement, expression and camera angle must be coordinated to make digital characters believable and emotionally engaging.
+
+The challenge is particularly significant when creating mythical creatures and supernatural beings, which must feel physically convincing without losing their fantastical character. The film’s digital environments also extend beyond individual action sequences. Expansive kingdoms, forests, palaces and battlefields are built through a combination of physical sets and computer-generated extensions.
+
+This allows the production to create an immense visual canvas while maintaining continuity in scale, lighting and perspective. For the actors, even a relatively modest physical set can become part of an enormous digital landscape on screen..Drawing comparisons with James Cameron’s Avatar, the production combines physical sets, performance capture, and sophisticated CGI to create an immersive cinematic world.
+
+Yet, for a story as deeply embedded in India’s cultural imagination as the Ramayana, technical spectacle alone is not enough. The real challenge is to make the extraordinary feel tangible while preserving the human emotions, spiritual depth and dramatic intensity at its heart. The ambition is to create an epic that is visually spectacular yet emotionally familiar to audiences across generations.Tiwari says, “It was one of the best epics of our country.
+
+We wrote the script keeping all the sensibilities in mind.” The filmmaker has rarely spoken of his personal life in terms of religious devotion or ritualistic practice. However, he has often recalled growing up watching Ram Leelas, developing an early familiarity with the Ramayana and being an avid follower of the epic.
+
+His understanding of spirituality is less rooted in religious dogma and more in its human dimensions—emotions, family bonds, ethical choices, and the values that shape everyday life.Two Kingdoms, Two Visual WorldsOne of the film’s most demanding assignments was to establish two visually distinct worlds: Ayodhya and Lanka.
+
+Ram’s kingdom is envisioned as luminous, serene, and harmonious, while Lanka has a darker, more dramatic architectural identity. The production design draws upon Indian architectural traditions and cultural influences from across Southeast Asia, creating a fantastical landscape that remains rooted in the epic’s cultural imagination.
+
+International and Indian creative talent worked together to develop this visual vocabulary. Production designer Ramsey Avery, whose credits include Dune: Part Two and Aladdin, contributed to the film’s visual conception, alongside Indian production designers Subrata Chakraborty and Amit Ray.
+
+Cinematographer Mahesh Limaye, along with Kumar, helped translate these elaborate environments into a cohesive visual experience.Large physical sets were constructed to provide actors and technicians with tangible working spaces, while green screens and digital extensions expanded them beyond their physical dimensions.
+
+Monumental structures, elaborate battlefields and supernatural creatures required close coordination between production design, cinematography, action choreography and visual effects. The action department also brought together considerable international expertise. Terry Notary, known for his work on the Planet of the Apes films and Avengers, and Guy Norris, associated with Mad Max: Fury Road and Furiosa, contributed to the action design.The production’s international ambitions extend to its music.
+
+In an unusual East-meets-West collaboration, AR Rahman and Oscar-winning composer Hans Zimmer joined forces to create the film’s soundscape. The intention was to retain the unmistakable Indianness of the epic while giving it the sonic scale of international cinema. Recalling his first conversation with Zimmer, Malhotra shares an interesting anecdote.
+
+“Hans Zimmer is a true artist and deeply respects our culture. When I went on to narrate Ramayana to him, he refused to hear it and said, ‘This is one of the beloved stories of India for over 5,000 years. You don’t explain and spoil it for me. I have to understand it without you explaining it.’ Our story required both the Indianness and the Western soundscape, but the Indianness should eventually dominate,” he says.For Yash, who plays Ravana, the collaboration represents an opportunity for Indian cinema to combine its cultural identity with global technical expertise.
+
+“If you want to show the world that you are creating a massive, big-budget film like Ramayana, you must state with absolute pride: ‘Yes, this is our strength, and this is a film from our country’,” he says..Finding the Faces of an EpicFor all its technological sophistication, Ramayana ultimately depends on the actors bringing its familiar characters to life.
+
+Casting was, therefore, closely watched. Mahesh Babu and Hrithik Roshan were reportedly considered for Ram before Ranbir Kapoor was finalised. Alia Bhatt, initially linked to Sita, reportedly opted out due to scheduling commitments, while Deepika Padukone’s name also surfaced.Malhotra reveals that Kapoor was always his first choice.
+
+“For both of us (him and director Tiwari), from the get-go, it was to see Lord Ram being essayed by Ranbir. It was a natural choice... before we could go to who is option two or option three, it was like option one—‘It is him’,” he says. Sai Pallavi, making her Bollywood debut as Sita, approached the role with reverence.
+
+Recalling how her dialect coach once touched her feet after a scene, she says, “They believe that I am being Sita ma through Sai Pallavi. I didn’t want to use my brain for the role... I would pray and say, try to help me with the role.” Yash’s Ravana reportedly explores the demon king’s origins and rise to power.
+
+Sharad Kelkar, who dubs for him in the Hindi version, says, “Yash is a brilliant actor and he’s performed Ravana’s role exceptionally well. I enjoyed the process of dubbing for him.”The supporting cast includes Ravi Dubey as Lakshman, Sunny Deol as Hanuman, Arun Govil as Dasharatha, Lara Dutta as Kaikeyi, Indira Krishnan as Kaushalya and Ajinkya Deo as Vishwamitra.
+
+Dubey recalls visiting a Lakshman temple in Lucknow while shooting for a project titled Lakhan. A year later, he was cast as Lakshman. “I believe it happened through divine ordinance and grace,” he says.Krishnan’s casting followed a conversation with Kapoor during Animal, when she expressed a desire to play his mother.
+
+He remembered her wish and recommended her for Kaushalya. She describes the role as “very soft and endearing” and praises Kapoor’s transformation: “The two characters (Animal and Ramayana) are poles apart. He doesn’t just use body language; he truly inhabits his character through his eyes.” The production has also tapped talent beyond mainstream cinema.
 
 ---
 
@@ -4176,7 +5004,7 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     topic: ``,
     language: `en`,
     fomo_badge: `News Wire`,
-    read_time: `1 min read`,
+    read_time: `5 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T05:58:38Z`,
@@ -4191,15 +5019,131 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     image_license: `External Source Attribution`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `Ramayana, News, India`,
-    summary: `Discovery India to launch ‘Itihasa: Ramayana Beyond Borders with Shashi Tharoor’ on December 7 MediaNews4U`,
-    content: `Discovery India to launch ‘Itihasa: Ramayana Beyond Borders with Shashi Tharoor’ on December 7 MediaNews4U
+    summary: `Mumbai: Discovery India has announced the launch of Itihasa: Ramayana Beyond Borders with Shashi Tharoor, a four-part docuseries exploring the journey of the Ramayana across India and Southeast Asia. The series will premiere on December 7, `,
+    content: `### The four-part docuseries will trace the Ramayana’s journey across India, Sri Lanka and Southeast Asia, marking Shashi Tharoor’s debut as a docuseries host
+
+Mumbai: Discovery India has announced the launch of Itihasa: Ramayana Beyond Borders with Shashi Tharoor, a four-part docuseries exploring the journey of the Ramayana across India and Southeast Asia. The series will premiere on December 7, 2026, marking Dr. Shashi Tharoor’s debut as a host of a docuseries on the epic.
+
+The series will examine how the Ramayana travelled across different parts of Asia over centuries, acquiring distinct meanings and interpretations in the cultures that embraced it. A historian, bestselling author and parliamentarian, Tharoor will guide viewers through the epic’s cultural and historical transformations and its influence across civilizations.
+
+Speaking about the series, Dr. Shashi Tharoor said, “ In addition to its obvious religious significance, the Ramayana has always held my literary interest, as a story that has travelled across centuries and cultures. I have spent years encountering and reading about its many tellings, each of which reveals something about the society that shaped it. So, when Discovery approached me to host a series racing the epic’s journey across Asia, it was an easy choice, since I have long believed that its richness and cultural reach deserve wider recognition. Discovery has a distinctive ability to bring history and culture to a large audience, and I am delighted to be associated with a series that takes this exploration across borders.”
+
+Across four episodes, the series will explore the journeys of the epic’s central characters, including Rama, Sita, Hanuman and Ravana. Each episode will examine a different dimension of the Ramayana, covering Rama’s ideals of kingship, the varied depictions of Hanuman, Ravana’s multiple personas and evolving portrayals of Sita’s fearlessness.
+
+Anchored in India as its narrative source, the docuseries will trace the epic’s journey through Cambodia, Sri Lanka, Thailand, the Philippines, Indonesia and Malaysia. It will feature landscapes, ancient art and living traditions to showcase how different cultures have interpreted the same epic over generations.
+
+Sai Abishek, Head of Factual Entertainment, Lifestyle & Kids, South Asia, Skydance , said, “ The Ramayana is one of India’s greatest epics, and its journey across Asia reveals the many ways it has been embraced and imbibed across cultures. With Itihasa: Ramayana Beyond Borders with Shashi Tharoor, we begin with an epic familiar to many, then explore the histories and interpretations that have shaped it across the region, with the detail and scale it deserves. Dr. Shashi Tharoor adds exceptional depth to the subject, along with his gift for storytelling. It has been a privilege to work with him to bring these distinct regional perspectives to audiences. This also marks the launch of our Itihasa franchise which is in line with our vision to bring larger-than-life stories to the screen whilst continuing to explore fresh creative possibilities within the genre.”
+
+The series will also feature insights from historians, religious scholars, Sanskrit experts, cultural heritage researchers and traditional art practitioners from different countries, offering regional perspectives on the histories, beliefs and artistic traditions that shaped the epic.
+
+Itihasa: Ramayana Beyond Borders with Shashi Tharoor is co-directed by Sujata Kulshreshtha and Abhimanyu Tewari of Wide Angle Films. Avaada, Flipkart, Havells and Britannia Good Day are the sponsors of the series.
+
+The docuseries will air one episode every week and will be available in Hindi, English, Tamil, Telugu, Bengali, Malayalam and Kannada. It will premiere on December 7, 2026, at 9:00 PM on Discovery and Discovery+.
+
+### Dhoni will always be a part of our identity. This will always be his home: N Srinivasan, Chennai Super Kings
+
+Mumbai: Chennai Super Kings owner N Srinivasan has reiterated the franchise’s long-standing association with MS Dhoni, describing the former captain...
+
+### TRAI extends deadline for comments on draft DRM-based digital TV audit manual to November 19
+
+New Delhi The Telecom Regulatory Authority of India (TRAI) has extended the deadline for stakeholders to submit feedback on its...
+
+### JioStar launches campaign featuring Rohit Sharma, Virat Kohli and Shubman Gill ahead of Sri Lanka ODI series
+
+Mumbai: JioStar has unveiled a new campaign film featuring Rohit Sharma, Virat Kohli and Shubman Gill ahead of Sri Lanka's...
+
+### Rishi Kapoor launches KAPNAM Ventures to build content-led businesses across B2B media and digital entertainment
+
+Mumbai: Rishi Kapoor has launched KAPNAM Ventures, marking his new entrepreneurial venture focused on building content-led businesses and intellectual property...
+
+### Prasad Corp restores three K. Balachander classics for Nantes film festival
+
+Chennai: Prasad Corp has completed the digital restoration of three acclaimed films by filmmaker K. Balachander under the National Film...
+
+### DNEG partners with Meta to deliver 3D movie titles for Meta VR Glasses
+
+Mumbai: DNEG, the Academy Award-winning visual effects and animation company part of the Prime Focus group, has announced a technology...
+
+### From Checking-in to Checking-out: How Hospitality Brands Are Rewriting Their Marketing Narrative
+
+### Snapchat expands creator advertising solutions with new tools for brands and agencies
+
+### Airtel tops Kantar BrandZ 2026 as India’s Most Valuable Brand at $43.2 Billion: Report
+
+Mumbai: Airtel has been ranked as India’s most valuable brand by Kantar, the first time a telecom provider has claimed...
+
+### Visage Lines appoints Vinod Nambiar as Senior Operating Partner
+
+Mumbai: Visage Lines, the parent company of Bombay Shaving Company, Bombae, rE, The Mom’s Co and 100 Days, has appointed...
+
+### Walplast promotes Lokesh Jain to Business Head – Tile Adhesive, Putty and Paint Division
+
+Mumbai: Walplast Products Pvt. Ltd., a manufacturer of building and construction materials, has elevated Lokesh Jain to Business Head –...
 
 ---
 
 **Original Source:** [MediaNews4U](https://www.medianews4u.com/discovery-india-to-launch-itihasa-ramayana-beyond-borders-with-shashi-tharoor-on-december-7/)`,
     title_en: `Discovery India to launch ‘Itihasa: Ramayana Beyond Borders with Shashi Tharoor’ on December 7 - MediaNews4U`,
-    summary_en: `Discovery India to launch ‘Itihasa: Ramayana Beyond Borders with Shashi Tharoor’ on December 7 MediaNews4U`,
-    content_en: `Discovery India to launch ‘Itihasa: Ramayana Beyond Borders with Shashi Tharoor’ on December 7 MediaNews4U
+    summary_en: `Mumbai: Discovery India has announced the launch of Itihasa: Ramayana Beyond Borders with Shashi Tharoor, a four-part docuseries exploring the journey of the Ramayana across India and Southeast Asia. The series will premiere on December 7, `,
+    content_en: `### The four-part docuseries will trace the Ramayana’s journey across India, Sri Lanka and Southeast Asia, marking Shashi Tharoor’s debut as a docuseries host
+
+Mumbai: Discovery India has announced the launch of Itihasa: Ramayana Beyond Borders with Shashi Tharoor, a four-part docuseries exploring the journey of the Ramayana across India and Southeast Asia. The series will premiere on December 7, 2026, marking Dr. Shashi Tharoor’s debut as a host of a docuseries on the epic.
+
+The series will examine how the Ramayana travelled across different parts of Asia over centuries, acquiring distinct meanings and interpretations in the cultures that embraced it. A historian, bestselling author and parliamentarian, Tharoor will guide viewers through the epic’s cultural and historical transformations and its influence across civilizations.
+
+Speaking about the series, Dr. Shashi Tharoor said, “ In addition to its obvious religious significance, the Ramayana has always held my literary interest, as a story that has travelled across centuries and cultures. I have spent years encountering and reading about its many tellings, each of which reveals something about the society that shaped it. So, when Discovery approached me to host a series racing the epic’s journey across Asia, it was an easy choice, since I have long believed that its richness and cultural reach deserve wider recognition. Discovery has a distinctive ability to bring history and culture to a large audience, and I am delighted to be associated with a series that takes this exploration across borders.”
+
+Across four episodes, the series will explore the journeys of the epic’s central characters, including Rama, Sita, Hanuman and Ravana. Each episode will examine a different dimension of the Ramayana, covering Rama’s ideals of kingship, the varied depictions of Hanuman, Ravana’s multiple personas and evolving portrayals of Sita’s fearlessness.
+
+Anchored in India as its narrative source, the docuseries will trace the epic’s journey through Cambodia, Sri Lanka, Thailand, the Philippines, Indonesia and Malaysia. It will feature landscapes, ancient art and living traditions to showcase how different cultures have interpreted the same epic over generations.
+
+Sai Abishek, Head of Factual Entertainment, Lifestyle & Kids, South Asia, Skydance , said, “ The Ramayana is one of India’s greatest epics, and its journey across Asia reveals the many ways it has been embraced and imbibed across cultures. With Itihasa: Ramayana Beyond Borders with Shashi Tharoor, we begin with an epic familiar to many, then explore the histories and interpretations that have shaped it across the region, with the detail and scale it deserves. Dr. Shashi Tharoor adds exceptional depth to the subject, along with his gift for storytelling. It has been a privilege to work with him to bring these distinct regional perspectives to audiences. This also marks the launch of our Itihasa franchise which is in line with our vision to bring larger-than-life stories to the screen whilst continuing to explore fresh creative possibilities within the genre.”
+
+The series will also feature insights from historians, religious scholars, Sanskrit experts, cultural heritage researchers and traditional art practitioners from different countries, offering regional perspectives on the histories, beliefs and artistic traditions that shaped the epic.
+
+Itihasa: Ramayana Beyond Borders with Shashi Tharoor is co-directed by Sujata Kulshreshtha and Abhimanyu Tewari of Wide Angle Films. Avaada, Flipkart, Havells and Britannia Good Day are the sponsors of the series.
+
+The docuseries will air one episode every week and will be available in Hindi, English, Tamil, Telugu, Bengali, Malayalam and Kannada. It will premiere on December 7, 2026, at 9:00 PM on Discovery and Discovery+.
+
+### Dhoni will always be a part of our identity. This will always be his home: N Srinivasan, Chennai Super Kings
+
+Mumbai: Chennai Super Kings owner N Srinivasan has reiterated the franchise’s long-standing association with MS Dhoni, describing the former captain...
+
+### TRAI extends deadline for comments on draft DRM-based digital TV audit manual to November 19
+
+New Delhi The Telecom Regulatory Authority of India (TRAI) has extended the deadline for stakeholders to submit feedback on its...
+
+### JioStar launches campaign featuring Rohit Sharma, Virat Kohli and Shubman Gill ahead of Sri Lanka ODI series
+
+Mumbai: JioStar has unveiled a new campaign film featuring Rohit Sharma, Virat Kohli and Shubman Gill ahead of Sri Lanka's...
+
+### Rishi Kapoor launches KAPNAM Ventures to build content-led businesses across B2B media and digital entertainment
+
+Mumbai: Rishi Kapoor has launched KAPNAM Ventures, marking his new entrepreneurial venture focused on building content-led businesses and intellectual property...
+
+### Prasad Corp restores three K. Balachander classics for Nantes film festival
+
+Chennai: Prasad Corp has completed the digital restoration of three acclaimed films by filmmaker K. Balachander under the National Film...
+
+### DNEG partners with Meta to deliver 3D movie titles for Meta VR Glasses
+
+Mumbai: DNEG, the Academy Award-winning visual effects and animation company part of the Prime Focus group, has announced a technology...
+
+### From Checking-in to Checking-out: How Hospitality Brands Are Rewriting Their Marketing Narrative
+
+### Snapchat expands creator advertising solutions with new tools for brands and agencies
+
+### Airtel tops Kantar BrandZ 2026 as India’s Most Valuable Brand at $43.2 Billion: Report
+
+Mumbai: Airtel has been ranked as India’s most valuable brand by Kantar, the first time a telecom provider has claimed...
+
+### Visage Lines appoints Vinod Nambiar as Senior Operating Partner
+
+Mumbai: Visage Lines, the parent company of Bombay Shaving Company, Bombae, rE, The Mom’s Co and 100 Days, has appointed...
+
+### Walplast promotes Lokesh Jain to Business Head – Tile Adhesive, Putty and Paint Division
+
+Mumbai: Walplast Products Pvt. Ltd., a manufacturer of building and construction materials, has elevated Lokesh Jain to Business Head –...
 
 ---
 
@@ -4227,7 +5171,7 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     topic: ``,
     language: `hi`,
     fomo_badge: `न्यूज़ वायर`,
-    read_time: `1 min read`,
+    read_time: `2 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T05:58:40Z`,
@@ -4242,8 +5186,38 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     image_license: `External Source Attribution`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `Ramayana, News, India`,
-    summary: `21वें दिन Ramayana ने किया 'पुष्पा 2' का 'बंटाधार', विदेशों में गूंजा 'श्री राम' का नारा, हुई सॉलिड कमाई Jagran`,
-    content: `21वें दिन Ramayana ने किया 'पुष्पा 2' का 'बंटाधार', विदेशों में गूंजा 'श्री राम' का नारा, हुई सॉलिड कमाई Jagran
+    summary: `रणबीर कपूर और यश की फिल्म 'रामायण' ने बॉक्स ऑफिस पर 21 दिनों में शानदार प्रदर्शन किया है।`,
+    content: `रणबीर कपूर और यश की फिल्म 'रामायण' ने बॉक्स ऑफिस पर 21 दिनों में शानदार प्रदर्शन किया है।
+
+रामायण ने दुनियाभर में किया शानदार प्रदर्शन
+
+रामायण ने 21 दिनों में शानदार बॉक्स ऑफिस प्रदर्शन किया
+
+5 नवंबर को सिनेमाघरों में रिलीज हुई थी फिल्म
+
+'पुष्पा 2' को पछाड़कर चौथी सबसे ज्यादा कमाई वाली बनी
+
+एंटरटेनमेंट डेस्क,नई दिल्ली। रणबीर कपूर (Ranbir Kapoor) और यश (Yash) की फिल्म 'रामायण: राइज ऑफ ए लीजेंड' (Ramayana) बॉक्स ऑफिस पर आए दिन नए मुकाम हासिल कर रही है।
+
+सिनेमाघरों में 21 दिन पूरे करने के बाद, इस फैंटेसी महाकाव्य की भारत में नेट कमाई 1,000 करोड़ रुपये के आंकड़े के करीब पहुंच गई है।
+
+### घरेलू बॉक्स ऑफिस पर कैसा रहा प्रदर्शन
+
+अपने तीसरे बुधवार को फिल्म ने सभी भाषाओं को मिलाकर 9.60 करोड़ रुपये की नेट कमाई की। अब तक देश में इसकी कुल नेट कमाई 982.55 करोड़ रुपये हो गई है, जबकि भारत में ग्रॉस कमाई 1,173.60 करोड़ रुपये है।
+
+वहीं दुनियाभर में इसने अपनी कमाई का परचम लहराते हुए बड़ी-बड़ी फिल्मों को धूल चटाई है। फिल्म ने बॉक्स ऑफिस पर 582.00 करोड़ रुपये के कलेक्शन के साथ 1755.60 करोड़ रुपये का कलेक्शन कर लिया है।
+
+इस हिसाब से रामायण के लिए तीसरा हफ्ता बेहद शानदार रहा। इसने अल्लू अर्जुन की ब्लॉकबस्टर फिल्म 'पुष्पा- द रूल' के लाइफटाइम कलेक्सन को पीछे छोड़ दी है। इसी के साथ रामायण दुनिया भर में सबसे ज्यादा कमाने वाली चौथी भारतीय फिल्म बन गई है। बता दें पुष्पा-2 ने वर्ल्डवाइड बॉक्स ऑफिस पर 1742.10 करोड़ रुपये कमाए थे।
+
+### फिल्म में किसने निभाया क्या किरदार?
+
+नितेश तिवारी द्वारा निर्देशित 'रामायण' में रणबीर कपूर भगवान राम के रूप में, साई पल्लवी सीता के रूप में, यश रावण के रूप में, रवि दुबे लक्ष्मण के रूप में और सनी देओल भगवान हनुमान के रूप में नजर आए। इसके अलावा अरुण गोविल ने फिल्म में राजा दशरथ, लारा दत्ता ने कैकेयी,काजल अग्रवाल ने मंदोदरी और रकुल प्रीत सिंह ने शूर्पणखा का रोल निभाया था।
+
+नमित मल्होत्रा द्वारा निर्मित दो पार्ट्स में रिलीज होगी। इसका संगीत ऑस्कर विजेता संगीतकार हंस ज़िमर और ए.आर. रहमान ने तैयार किया। फिल्म का दूसरा भाग राम और रावण के बीच हुए युद्ध पर केंद्रित होगा। इसे 2028 में दिवाली के दौरान दुनिया भर में रिलीज किया जाएगा।
+
+यह भी पढ़ें- बॉक्स ऑफिस बना Ramayana का रामराज्य, 21वें दिन पौराणिक फिल्म पर जमकर हुई धनवर्षा
+
+यह भी पढ़ें- ऑस्कर जीतने की तैयारी में Ramayana! इस कैटेगरी में टॉप-20 फिल्मों की रेस में रणबीर कपूर की फिल्म
 
 ---
 
@@ -4252,8 +5226,38 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     summary_en: ``,
     content_en: ``,
     title_hi: `21वें दिन Ramayana ने किया 'पुष्पा 2' का 'बंटाधार', विदेशों में गूंजा 'श्री राम' का नारा, हुई सॉलिड कमाई - Jagran`,
-    summary_hi: `21वें दिन Ramayana ने किया 'पुष्पा 2' का 'बंटाधार', विदेशों में गूंजा 'श्री राम' का नारा, हुई सॉलिड कमाई Jagran`,
-    content_hi: `21वें दिन Ramayana ने किया 'पुष्पा 2' का 'बंटाधार', विदेशों में गूंजा 'श्री राम' का नारा, हुई सॉलिड कमाई Jagran
+    summary_hi: `रणबीर कपूर और यश की फिल्म 'रामायण' ने बॉक्स ऑफिस पर 21 दिनों में शानदार प्रदर्शन किया है।`,
+    content_hi: `रणबीर कपूर और यश की फिल्म 'रामायण' ने बॉक्स ऑफिस पर 21 दिनों में शानदार प्रदर्शन किया है।
+
+रामायण ने दुनियाभर में किया शानदार प्रदर्शन
+
+रामायण ने 21 दिनों में शानदार बॉक्स ऑफिस प्रदर्शन किया
+
+5 नवंबर को सिनेमाघरों में रिलीज हुई थी फिल्म
+
+'पुष्पा 2' को पछाड़कर चौथी सबसे ज्यादा कमाई वाली बनी
+
+एंटरटेनमेंट डेस्क,नई दिल्ली। रणबीर कपूर (Ranbir Kapoor) और यश (Yash) की फिल्म 'रामायण: राइज ऑफ ए लीजेंड' (Ramayana) बॉक्स ऑफिस पर आए दिन नए मुकाम हासिल कर रही है।
+
+सिनेमाघरों में 21 दिन पूरे करने के बाद, इस फैंटेसी महाकाव्य की भारत में नेट कमाई 1,000 करोड़ रुपये के आंकड़े के करीब पहुंच गई है।
+
+### घरेलू बॉक्स ऑफिस पर कैसा रहा प्रदर्शन
+
+अपने तीसरे बुधवार को फिल्म ने सभी भाषाओं को मिलाकर 9.60 करोड़ रुपये की नेट कमाई की। अब तक देश में इसकी कुल नेट कमाई 982.55 करोड़ रुपये हो गई है, जबकि भारत में ग्रॉस कमाई 1,173.60 करोड़ रुपये है।
+
+वहीं दुनियाभर में इसने अपनी कमाई का परचम लहराते हुए बड़ी-बड़ी फिल्मों को धूल चटाई है। फिल्म ने बॉक्स ऑफिस पर 582.00 करोड़ रुपये के कलेक्शन के साथ 1755.60 करोड़ रुपये का कलेक्शन कर लिया है।
+
+इस हिसाब से रामायण के लिए तीसरा हफ्ता बेहद शानदार रहा। इसने अल्लू अर्जुन की ब्लॉकबस्टर फिल्म 'पुष्पा- द रूल' के लाइफटाइम कलेक्सन को पीछे छोड़ दी है। इसी के साथ रामायण दुनिया भर में सबसे ज्यादा कमाने वाली चौथी भारतीय फिल्म बन गई है। बता दें पुष्पा-2 ने वर्ल्डवाइड बॉक्स ऑफिस पर 1742.10 करोड़ रुपये कमाए थे।
+
+### फिल्म में किसने निभाया क्या किरदार?
+
+नितेश तिवारी द्वारा निर्देशित 'रामायण' में रणबीर कपूर भगवान राम के रूप में, साई पल्लवी सीता के रूप में, यश रावण के रूप में, रवि दुबे लक्ष्मण के रूप में और सनी देओल भगवान हनुमान के रूप में नजर आए। इसके अलावा अरुण गोविल ने फिल्म में राजा दशरथ, लारा दत्ता ने कैकेयी,काजल अग्रवाल ने मंदोदरी और रकुल प्रीत सिंह ने शूर्पणखा का रोल निभाया था।
+
+नमित मल्होत्रा द्वारा निर्मित दो पार्ट्स में रिलीज होगी। इसका संगीत ऑस्कर विजेता संगीतकार हंस ज़िमर और ए.आर. रहमान ने तैयार किया। फिल्म का दूसरा भाग राम और रावण के बीच हुए युद्ध पर केंद्रित होगा। इसे 2028 में दिवाली के दौरान दुनिया भर में रिलीज किया जाएगा।
+
+यह भी पढ़ें- बॉक्स ऑफिस बना Ramayana का रामराज्य, 21वें दिन पौराणिक फिल्म पर जमकर हुई धनवर्षा
+
+यह भी पढ़ें- ऑस्कर जीतने की तैयारी में Ramayana! इस कैटेगरी में टॉप-20 फिल्मों की रेस में रणबीर कपूर की फिल्म
 
 ---
 
@@ -4278,7 +5282,7 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     topic: ``,
     language: `hi`,
     fomo_badge: `न्यूज़ वायर`,
-    read_time: `1 min read`,
+    read_time: `2 min read`,
     views_count: 0,
     shares_count: 0,
     published_at: `2026-11-26T05:58:40Z`,
@@ -4286,15 +5290,27 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     source_name: `India TV Hindi`,
     source_url: `https://www.indiatv.in/india/national/artiste-playing-hanuman-dies-after-collapsing-on-stage-in-odisha-2026-11-25-1256416`,
     source_courtesy: `Source: India TV Hindi`,
-    image_url: `https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/ramayana-breaking-report-18116-97904-2026.jpg`,
     image_alt: `मंच पर हनुमान बने कलाकार की अचानक मौत, रामायण का सीन करते-करते गिर पड़े मिथुन प्रधान; अधूरी रह गई प्रस्तुति - India TV Hindi`,
     image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
     image_photographer: `Unsplash Stock Illustration`,
     image_license: `Unsplash License`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `Ramayana, News, India`,
-    summary: `मंच पर हनुमान बने कलाकार की अचानक मौत, रामायण का सीन करते-करते गिर पड़े मिथुन प्रधान; अधूरी रह गई प्रस्तुति India TV Hindi`,
-    content: `मंच पर हनुमान बने कलाकार की अचानक मौत, रामायण का सीन करते-करते गिर पड़े मिथुन प्रधान; अधूरी रह गई प्रस्तुति India TV Hindi
+    summary: `ओडिशा के गंजाम जिले में रामायण नाटक के दौरान एक दर्दनाक घटना सामने आई है। मंच पर हनुमान का किरदार निभा रहे 35 वर्षीय कलाकार मिथुन प्रधान की अचानक गिरने से मौत हो गई। वह कार्तिक पूर्णिमा के अवसर पर आयोजित रामायण नाटक में प्रस्तुति दे रहे थे।`,
+    content: `ओडिशा के गंजाम जिले में रामायण नाटक के दौरान एक दर्दनाक घटना सामने आई है। मंच पर हनुमान का किरदार निभा रहे 35 वर्षीय कलाकार मिथुन प्रधान की अचानक गिरने से मौत हो गई। वह कार्तिक पूर्णिमा के अवसर पर आयोजित रामायण नाटक में प्रस्तुति दे रहे थे। अचानक मंच पर गिरने के बाद उन्हें अस्पताल ले जाया गया, लेकिन डॉक्टरों ने उन्हें मृत घोषित कर दिया।
+
+इस घटना से उत्सव का माहौल मातम में बदल गया और नाटक की प्रस्तुति बीच में ही रोकनी पड़ी। हनुमान का किरदार निभाते-निभाते दुनिया छोड़ गए मिथुन यह घटना मंगलवार रात पाटापुर थाना क्षेत्र के कौड़िया गांव की है। गांव में कार्तिक पूर्णिमा के मौके पर ग्रामीणों ने रामायण नाटक का आयोजन किया था।
+
+मिथुन प्रधान इसी नाटक में हनुमान की भूमिका निभा रहे थे। इससे पहले वह रामायण के एक अन्य महत्वपूर्ण पात्र बाली का किरदार भी निभा चुके थे। मंच पर अचानक गिरे, अस्पताल पहुंचने पर हुई मौत नाटक की प्रस्तुति के दौरान मिथुन प्रधान अचानक मंच पर गिर पड़े। उन्हें इस हालत में देखकर वहां मौजूद लोगों में अफरा-तफरी मच गई।
+
+आनन-फानन में उन्हें अदापाड़ा के नजदीकी अस्पताल पहुंचाया गया, जहां डॉक्टरों ने उन्हें मृत घोषित कर दिया। ग्रामीणों को आशंका है कि उनकी मौत दिल का दौरा पड़ने से हुई होगी। हालांकि, मौत की वास्तविक वजह की आधिकारिक पुष्टि नहीं हुई है। पाटापुर थाने के प्रभारी दीप्ति रंजन बेहरा ने बताया कि पुलिस को इस घटना के संबंध में कोई औपचारिक शिकायत नहीं मिली है और न ही कोई मामला दर्ज किया गया है।
+
+हनुमान और बाली के किरदार से बनाई थी पहचान मिथुन प्रधान गांव के लोकप्रिय रंगमंच कलाकार होने के साथ-साथ अपने थिएटर ग्रुप के प्रबंधक भी थे। वह रामायण के नाटकों में अपने अभिनय और अनोखे करतबों के लिए जाने जाते थे। ग्रामीणों के मुताबिक, वह बैलगाड़ी का पहिया उठाने और दांतों से मोटरसाइकिल उठाने जैसे हैरतअंगेज करतब दिखाते थे।
+
+उनका थिएटर ग्रुप गंजाम और आसपास के जिलों में काफी लोकप्रिय था। 35 साल के कलाकार की मौत से गांव में मातम अभिनय के अलावा मिथुन प्रधान पेशे से छोटे कारोबारी भी थे और गांव में नाश्ते की दुकान चलाते थे। उनकी अचानक मौत से परिवार, ग्रामीणों और साथी कलाकारों को गहरा सदमा पहुंचा है। जिस मंच पर कुछ देर पहले तक जय श्रीराम के जयकारे और तालियां गूंज रही थीं, वहां अब मातम पसरा हुआ है।
+
+इससे पहले हाल ही में यूपी के ग्रेटर नोएडा में महिला सब इंस्पेक्टर का बाथरूम में शव मिला था। मौत का कारण हार्ट अटैक माना जा रहा है। (इनपुट- PTI) यह भी पढ़ें- गुरुग्राम के होटल में UK से लौटे इंजीनियर की संदिग्ध मौत, बाथटब में मिला शव; हादसा, हार्ट अटैक या कुछ और?
 
 ---
 
@@ -4303,8 +5319,20 @@ DNEG ने 8 ऑस्कर जीते, 'रामायण' में भ�
     summary_en: ``,
     content_en: ``,
     title_hi: `मंच पर हनुमान बने कलाकार की अचानक मौत, रामायण का सीन करते-करते गिर पड़े मिथुन प्रधान; अधूरी रह गई प्रस्तुति - India TV Hindi`,
-    summary_hi: `मंच पर हनुमान बने कलाकार की अचानक मौत, रामायण का सीन करते-करते गिर पड़े मिथुन प्रधान; अधूरी रह गई प्रस्तुति India TV Hindi`,
-    content_hi: `मंच पर हनुमान बने कलाकार की अचानक मौत, रामायण का सीन करते-करते गिर पड़े मिथुन प्रधान; अधूरी रह गई प्रस्तुति India TV Hindi
+    summary_hi: `ओडिशा के गंजाम जिले में रामायण नाटक के दौरान एक दर्दनाक घटना सामने आई है। मंच पर हनुमान का किरदार निभा रहे 35 वर्षीय कलाकार मिथुन प्रधान की अचानक गिरने से मौत हो गई। वह कार्तिक पूर्णिमा के अवसर पर आयोजित रामायण नाटक में प्रस्तुति दे रहे थे।`,
+    content_hi: `ओडिशा के गंजाम जिले में रामायण नाटक के दौरान एक दर्दनाक घटना सामने आई है। मंच पर हनुमान का किरदार निभा रहे 35 वर्षीय कलाकार मिथुन प्रधान की अचानक गिरने से मौत हो गई। वह कार्तिक पूर्णिमा के अवसर पर आयोजित रामायण नाटक में प्रस्तुति दे रहे थे। अचानक मंच पर गिरने के बाद उन्हें अस्पताल ले जाया गया, लेकिन डॉक्टरों ने उन्हें मृत घोषित कर दिया।
+
+इस घटना से उत्सव का माहौल मातम में बदल गया और नाटक की प्रस्तुति बीच में ही रोकनी पड़ी। हनुमान का किरदार निभाते-निभाते दुनिया छोड़ गए मिथुन यह घटना मंगलवार रात पाटापुर थाना क्षेत्र के कौड़िया गांव की है। गांव में कार्तिक पूर्णिमा के मौके पर ग्रामीणों ने रामायण नाटक का आयोजन किया था।
+
+मिथुन प्रधान इसी नाटक में हनुमान की भूमिका निभा रहे थे। इससे पहले वह रामायण के एक अन्य महत्वपूर्ण पात्र बाली का किरदार भी निभा चुके थे। मंच पर अचानक गिरे, अस्पताल पहुंचने पर हुई मौत नाटक की प्रस्तुति के दौरान मिथुन प्रधान अचानक मंच पर गिर पड़े। उन्हें इस हालत में देखकर वहां मौजूद लोगों में अफरा-तफरी मच गई।
+
+आनन-फानन में उन्हें अदापाड़ा के नजदीकी अस्पताल पहुंचाया गया, जहां डॉक्टरों ने उन्हें मृत घोषित कर दिया। ग्रामीणों को आशंका है कि उनकी मौत दिल का दौरा पड़ने से हुई होगी। हालांकि, मौत की वास्तविक वजह की आधिकारिक पुष्टि नहीं हुई है। पाटापुर थाने के प्रभारी दीप्ति रंजन बेहरा ने बताया कि पुलिस को इस घटना के संबंध में कोई औपचारिक शिकायत नहीं मिली है और न ही कोई मामला दर्ज किया गया है।
+
+हनुमान और बाली के किरदार से बनाई थी पहचान मिथुन प्रधान गांव के लोकप्रिय रंगमंच कलाकार होने के साथ-साथ अपने थिएटर ग्रुप के प्रबंधक भी थे। वह रामायण के नाटकों में अपने अभिनय और अनोखे करतबों के लिए जाने जाते थे। ग्रामीणों के मुताबिक, वह बैलगाड़ी का पहिया उठाने और दांतों से मोटरसाइकिल उठाने जैसे हैरतअंगेज करतब दिखाते थे।
+
+उनका थिएटर ग्रुप गंजाम और आसपास के जिलों में काफी लोकप्रिय था। 35 साल के कलाकार की मौत से गांव में मातम अभिनय के अलावा मिथुन प्रधान पेशे से छोटे कारोबारी भी थे और गांव में नाश्ते की दुकान चलाते थे। उनकी अचानक मौत से परिवार, ग्रामीणों और साथी कलाकारों को गहरा सदमा पहुंचा है। जिस मंच पर कुछ देर पहले तक जय श्रीराम के जयकारे और तालियां गूंज रही थीं, वहां अब मातम पसरा हुआ है।
+
+इससे पहले हाल ही में यूपी के ग्रेटर नोएडा में महिला सब इंस्पेक्टर का बाथरूम में शव मिला था। मौत का कारण हार्ट अटैक माना जा रहा है। (इनपुट- PTI) यह भी पढ़ें- गुरुग्राम के होटल में UK से लौटे इंजीनियर की संदिग्ध मौत, बाथटब में मिला शव; हादसा, हार्ट अटैक या कुछ और?
 
 ---
 
