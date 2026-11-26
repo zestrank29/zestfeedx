@@ -14,7 +14,2501 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+  
+  
   {
+    id: 98001,
+    title: `'Carefree' Shami content to focus on white-ball cricket after Test retirement`,
+    slug: `carefree-shami-content-to-focus-on-white-ball-cricket-after-test-2026`,
+    original_title: `'Carefree' Shami content to focus on white-ball cricket after Test retirement`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:08:24Z`,
+    updated_at: `2026-11-26T14:08:24Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564312.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `'Carefree' Shami content to focus on white-ball cricket after Test retirement`,
+    image_courtesy: `Photo: Action Sports Photography / Unsplash (Unsplash License)`,
+    image_photographer: `Action Sports Photography / Unsplash`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `Bengal quick, who played only four matches in the Syed Mushtaq Ali Trophy, said he can "pick and choose" games now`,
+    content: `Bengal quick, who played only four matches in the Syed Mushtaq Ali Trophy, said he can "pick and choose" games now
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564312.html?ex_cid=OTC-RSS)`,
+    title_en: `'Carefree' Shami content to focus on white-ball cricket after Test retirement`,
+    summary_en: `Bengal quick, who played only four matches in the Syed Mushtaq Ali Trophy, said he can "pick and choose" games now`,
+    content_en: `Bengal quick, who played only four matches in the Syed Mushtaq Ali Trophy, said he can "pick and choose" games now
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564312.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-98001`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-26 19:38:24 IST`,
+    detected_at: `2026-11-26T14:08:23Z`,
+    verified_at: `2026-11-26T14:08:24Z`,
+    approved_at: `2026-11-26T14:08:24Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding 'Carefree' Shami content to focus on white-ball cricket after Test retirement.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 98002,
+    title: `Injured Coetzee, Maphaka out of SA's white-ball series against Bangladesh`,
+    slug: `injured-coetzee-maphaka-out-of-sas-white-ball-series-against-bang-2026`,
+    original_title: `Injured Coetzee, Maphaka out of SA's white-ball series against Bangladesh`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:08:24Z`,
+    updated_at: `2026-11-26T14:08:24Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564291.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Injured Coetzee, Maphaka out of SA's white-ball series against Bangladesh`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `The uncapped van Vuuren has been called up to the ODI squad, while Eathan Bosch and uncapped Basson have come into the T20I squad`,
+    content: `The uncapped van Vuuren has been called up to the ODI squad, while Eathan Bosch and uncapped Basson have come into the T20I squad
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564291.html?ex_cid=OTC-RSS)`,
+    title_en: `Injured Coetzee, Maphaka out of SA's white-ball series against Bangladesh`,
+    summary_en: `The uncapped van Vuuren has been called up to the ODI squad, while Eathan Bosch and uncapped Basson have come into the T20I squad`,
+    content_en: `The uncapped van Vuuren has been called up to the ODI squad, while Eathan Bosch and uncapped Basson have come into the T20I squad
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564291.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-98002`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Official Squad Announcement`,
+    score_verified_at: `2026-11-26 19:38:24 IST`,
+    detected_at: `2026-11-26T14:08:23Z`,
+    verified_at: `2026-11-26T14:08:24Z`,
+    approved_at: `2026-11-26T14:08:24Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Injured Coetzee, Maphaka out of SA's white-ball series against Bangladesh.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 97977,
+    title: `Two-thirds of adolescents in India are deficient in vitamin B12: ICMR survey`,
+    slug: `two-thirds-of-adolescents-in-india-are-deficient-in-vitamin-b12-icmr-s-2026`,
+    original_title: `Two-thirds of adolescents in India are deficient in vitamin B12: ICMR survey`,
+    category: `health`,
+    topic: `nutrition`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:07:26Z`,
+    updated_at: `2026-11-26T14:07:26Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://www.thehindu.com/sci-tech/health/two-thirds-of-adolescents-in-india-are-deficient-in-vitamin-b12-icmr-survey/article71746253.ece`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/two-thirds-of-adolescents-in-india-are-deficient-in-vitamin-b12-icmr-s-2026.jpg`,
+    image_alt: `Two-thirds of adolescents in India are deficient in vitamin B12: ICMR survey`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `NEW DELHI Nearly two-thirds of Indian adolescents are deficient in vitamin B12, a micronutrient essential for brain development, healthy nerve function, and the formation of red blood cells, according to a new national survey by the Indian `,
+    content: `NEW DELHI Nearly two-thirds of Indian adolescents are deficient in vitamin B12, a micronutrient essential for brain development, healthy nerve function, and the formation of red blood cells, according to a new national survey by the Indian Council of Medical Research (ICMR). The findings raise concerns about the long-term consequences of nutritional deficiencies across generations, particularly among children, adolescents, and pregnant women.
+
+Vitamin B12 deficiency is a common health problem that can have serious consequences – but doctors often overlook Vitamin B12 deficiency is a common health problem that can have serious consequences – but doctors often overlook  B12 is an essential nutrient involved in proper functioning of blood cells, nerves and many other critical processes in the body.
+
+Vitamin B12 deficiency is a common health problem that can have serious consequences – but doctors often overlook  storyline 1 The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA), conducted by ICMR’s National Institute of Nutrition during 2023–25, found vitamin B12 deficiency in 66.1% of adolescent boys and 65.4% of adolescent girls.
+
+The prevalence was 63.1% among pregnant women, 60.4% among adult men aged 20–59, and 57.4% among women aged 15–49. Even among children aged five to nine, 46.5% were deficient. The survey, which analysed over 1.7 lakh blood samples from a population of more than two lakh people across 183 districts and 35 States and Union Territories, defined deficiency as serum vitamin B12 levels below 203 pg/mL.
+
+Vitamin B12 plays a critical role in DNA synthesis, red blood cell formation, and maintenance of the protective covering around nerves. Prolonged deficiency can cause peripheral neuropathy, impaired balance, memory problems, and, in severe cases, irreversible neurological damage.
+
+In infants, severe deficiency can result in developmental delays and neurological impairment. Vitamin B12 deficiency is more than just a nutrition problem: experts Vitamin B12 deficiency is more than just a nutrition problem: experts While Vitamin B12 deficiency is commonly attributed to dietary gaps, experts caution that the issue is more complex, with impaired absorption also playing a role; early diagnosis is crucial to ensure no long-lasting health effects Vitamin B12 deficiency is more than just a nutrition problem: experts storyline 1 “Research conducted in Pune over the past three decades has shown that vitamin B12 deficiency is common among adolescents and women of reproductive age, with important implications for the health of future generations.
+
+Low maternal B12 status, particularly when accompanied by high folate levels, has been associated with increased fat accumulation and insulin resistance in children, potentially predisposing them to diabetes and other non-communicable diseases later in life. These effects are believed to be linked to epigenetic programming arising from nutritional imbalances before conception and during pregnancy,’’ said Chittaranjan Yajnik, director, Diabetes Unit, KEM Hospital, Pune.
+
+He added that India must move beyond an exclusive focus on iron and folic acid and consider including physiological doses of B12 in supplementation programmes for women, alongside carefully planned food fortification, improved nutrition literacy among adolescents, particularly girls, and the generation of robust, India-specific evidence to establish appropriate nutritional requirements and interventions.
+
+The findings are particularly significant for maternal and child health, with nearly two-thirds of pregnant women showing a deficiency. Low maternal B12 levels have been associated with adverse pregnancy outcomes, including neural tube defects and low birth weight, as well as poorer offspring developmental outcomes.
+
+Vitamin B12 is found naturally in foods such as meat, fish, eggs, and dairy products. Inadequate dietary intake, particularly among people consuming predominantly plant-based diets, and impaired absorption can contribute to deficiency. The findings also raise questions about whether India’s nutrition programmes are adequately addressing deficiencies beyond iron and folic acid.
+
+The Anemia Mukt Bharat strategy focuses substantially on iron and folic acid supplementation, testing and treatment of anaemia, deworming, and food fortification. Although fortified rice includes vitamin B12, routine B12 screening and supplementation are not central components of the programme.
+
+Anura Kurpad, professor of Physiology and Nutrition, St. John’s Medical College, Bengaluru, noted that the high prevalence of vitamin B12 deficiency reported in SAMPADA needs to be interpreted with caution. “The cut-offs currently used are not based on clinical health outcomes and may not accurately reflect B12 status in Indian populations, which habitually consume less of the vitamin.
+
+Importantly, SAMPADA found no higher prevalence of B12 deficiency among anaemic individuals, raising questions about its clinical significance. Before rushing into widespread supplementation or food fortification, India needs research to establish population-specific B12 cut-offs and evidence of actual health benefits.
+
+Otherwise, we risk creating a nutritional crisis based on laboratory numbers rather than disease,” he said.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.thehindu.com/sci-tech/health/two-thirds-of-adolescents-in-india-are-deficient-in-vitamin-b12-icmr-survey/article71746253.ece)`,
+    title_en: `Two-thirds of adolescents in India are deficient in vitamin B12: ICMR survey`,
+    summary_en: `NEW DELHI Nearly two-thirds of Indian adolescents are deficient in vitamin B12, a micronutrient essential for brain development, healthy nerve function, and the formation of red blood cells, according to a new national survey by the Indian `,
+    content_en: `NEW DELHI Nearly two-thirds of Indian adolescents are deficient in vitamin B12, a micronutrient essential for brain development, healthy nerve function, and the formation of red blood cells, according to a new national survey by the Indian Council of Medical Research (ICMR). The findings raise concerns about the long-term consequences of nutritional deficiencies across generations, particularly among children, adolescents, and pregnant women.
+
+Vitamin B12 deficiency is a common health problem that can have serious consequences – but doctors often overlook Vitamin B12 deficiency is a common health problem that can have serious consequences – but doctors often overlook  B12 is an essential nutrient involved in proper functioning of blood cells, nerves and many other critical processes in the body.
+
+Vitamin B12 deficiency is a common health problem that can have serious consequences – but doctors often overlook  storyline 1 The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA), conducted by ICMR’s National Institute of Nutrition during 2023–25, found vitamin B12 deficiency in 66.1% of adolescent boys and 65.4% of adolescent girls.
+
+The prevalence was 63.1% among pregnant women, 60.4% among adult men aged 20–59, and 57.4% among women aged 15–49. Even among children aged five to nine, 46.5% were deficient. The survey, which analysed over 1.7 lakh blood samples from a population of more than two lakh people across 183 districts and 35 States and Union Territories, defined deficiency as serum vitamin B12 levels below 203 pg/mL.
+
+Vitamin B12 plays a critical role in DNA synthesis, red blood cell formation, and maintenance of the protective covering around nerves. Prolonged deficiency can cause peripheral neuropathy, impaired balance, memory problems, and, in severe cases, irreversible neurological damage.
+
+In infants, severe deficiency can result in developmental delays and neurological impairment. Vitamin B12 deficiency is more than just a nutrition problem: experts Vitamin B12 deficiency is more than just a nutrition problem: experts While Vitamin B12 deficiency is commonly attributed to dietary gaps, experts caution that the issue is more complex, with impaired absorption also playing a role; early diagnosis is crucial to ensure no long-lasting health effects Vitamin B12 deficiency is more than just a nutrition problem: experts storyline 1 “Research conducted in Pune over the past three decades has shown that vitamin B12 deficiency is common among adolescents and women of reproductive age, with important implications for the health of future generations.
+
+Low maternal B12 status, particularly when accompanied by high folate levels, has been associated with increased fat accumulation and insulin resistance in children, potentially predisposing them to diabetes and other non-communicable diseases later in life. These effects are believed to be linked to epigenetic programming arising from nutritional imbalances before conception and during pregnancy,’’ said Chittaranjan Yajnik, director, Diabetes Unit, KEM Hospital, Pune.
+
+He added that India must move beyond an exclusive focus on iron and folic acid and consider including physiological doses of B12 in supplementation programmes for women, alongside carefully planned food fortification, improved nutrition literacy among adolescents, particularly girls, and the generation of robust, India-specific evidence to establish appropriate nutritional requirements and interventions.
+
+The findings are particularly significant for maternal and child health, with nearly two-thirds of pregnant women showing a deficiency. Low maternal B12 levels have been associated with adverse pregnancy outcomes, including neural tube defects and low birth weight, as well as poorer offspring developmental outcomes.
+
+Vitamin B12 is found naturally in foods such as meat, fish, eggs, and dairy products. Inadequate dietary intake, particularly among people consuming predominantly plant-based diets, and impaired absorption can contribute to deficiency. The findings also raise questions about whether India’s nutrition programmes are adequately addressing deficiencies beyond iron and folic acid.
+
+The Anemia Mukt Bharat strategy focuses substantially on iron and folic acid supplementation, testing and treatment of anaemia, deworming, and food fortification. Although fortified rice includes vitamin B12, routine B12 screening and supplementation are not central components of the programme.
+
+Anura Kurpad, professor of Physiology and Nutrition, St. John’s Medical College, Bengaluru, noted that the high prevalence of vitamin B12 deficiency reported in SAMPADA needs to be interpreted with caution. “The cut-offs currently used are not based on clinical health outcomes and may not accurately reflect B12 status in Indian populations, which habitually consume less of the vitamin.
+
+Importantly, SAMPADA found no higher prevalence of B12 deficiency among anaemic individuals, raising questions about its clinical significance. Before rushing into widespread supplementation or food fortification, India needs research to establish population-specific B12 cut-offs and evidence of actual health benefits.
+
+Otherwise, we risk creating a nutritional crisis based on laboratory numbers rather than disease,” he said.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.thehindu.com/sci-tech/health/two-thirds-of-adolescents-in-india-are-deficient-in-vitamin-b12-icmr-survey/article71746253.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Two-thirds of adolescents in India are deficient in vitamin B12: ICMR survey.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 97978,
+    title: `ICMR Survey Finds Lower Anaemia Prevalence Across India - Voice of Healthcare`,
+    slug: `icmr-survey-finds-lower-anaemia-prevalence-across-india-voice-of-healt-2026`,
+    original_title: `ICMR Survey Finds Lower Anaemia Prevalence Across India - Voice of Healthcare`,
+    category: `health`,
+    topic: `public-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:07:29Z`,
+    updated_at: `2026-11-26T14:07:29Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://vohnetwork.com/news/policy/icmr-sampada-survey-lower-anaemia-estimates-2026`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/icmr-survey-finds-lower-anaemia-prevalence-across-india-voice-of-healt-2026.webp`,
+    image_alt: `ICMR Survey Finds Lower Anaemia Prevalence Across India - Voice of Healthcare`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `India’s SAMPADA survey reports lower anaemia prevalence than earlier national estimates, highlighting the need for targeted screening and treatment across different population groups.`,
+    content: `India’s SAMPADA survey reports lower anaemia prevalence than earlier national estimates, highlighting the need for targeted screening and treatment across different population groups.
+
+Editorial Note: This content has been prepared using information from official announcements, regulatory communications, scientific publications, conference presentations, or other verified sources. AI-assisted editorial tools may be used during content preparation. Every article is reviewed, edited, and verified by the VOH editorial team prior to publication. Unless explicitly identified as Sponsored Content or Brand Solutions, publication does not imply endorsement by VOH Network.
+
+Host or sponsor events that place your brand at the forefront of healthcare impact.
+
+Engage a wider audience with thought leadership shared across VOH's podcast channels.
+
+Take center stage at healthcare forums to spark conversations and share bold perspectives.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://vohnetwork.com/news/policy/icmr-sampada-survey-lower-anaemia-estimates-2026)`,
+    title_en: `ICMR Survey Finds Lower Anaemia Prevalence Across India - Voice of Healthcare`,
+    summary_en: `India’s SAMPADA survey reports lower anaemia prevalence than earlier national estimates, highlighting the need for targeted screening and treatment across different population groups.`,
+    content_en: `India’s SAMPADA survey reports lower anaemia prevalence than earlier national estimates, highlighting the need for targeted screening and treatment across different population groups.
+
+Editorial Note: This content has been prepared using information from official announcements, regulatory communications, scientific publications, conference presentations, or other verified sources. AI-assisted editorial tools may be used during content preparation. Every article is reviewed, edited, and verified by the VOH editorial team prior to publication. Unless explicitly identified as Sponsored Content or Brand Solutions, publication does not imply endorsement by VOH Network.
+
+Host or sponsor events that place your brand at the forefront of healthcare impact.
+
+Engage a wider audience with thought leadership shared across VOH's podcast channels.
+
+Take center stage at healthcare forums to spark conversations and share bold perspectives.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://vohnetwork.com/news/policy/icmr-sampada-survey-lower-anaemia-estimates-2026)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for ICMR Survey Finds Lower Anaemia Prevalence Across India - Voice of Healthcare.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 97979,
+    title: `प्रयागराज में 28 नवंबर से डॉक्टरों का सम्मेलन: दो दिन हृदय रोग, डायबिटीज, मोटापा, कैंसर और आधुनिक सर्जरी पर... - Dainik Bhaskar`,
+    slug: `28-dainik-bhaskar-2026`,
+    original_title: `प्रयागराज में 28 नवंबर से डॉक्टरों का सम्मेलन: दो दिन हृदय रोग, डायबिटीज, मोटापा, कैंसर और आधुनिक सर्जरी पर... - Dainik Bhaskar`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:07:31Z`,
+    updated_at: `2026-11-26T14:07:31Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/local/uttar-pradesh/prayagraj/news/ima-medical-conference-prayagraj-doctors-health-summit-2026-139805621.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/28-dainik-bhaskar-2026.jpg`,
+    image_alt: `प्रयागराज में 28 नवंबर से डॉक्टरों का सम्मेलन: दो दिन हृदय रोग, डायबिटीज, मोटापा, कैंसर और आधुनिक सर्जरी पर... - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `प्रयागराज इंडियन मेडिकल एसोसिएशन (IMA) उत्तर प्रदेश की 91वीं वार्षिक राज्य स्तरीय चिकित्सा कांफ्रेंस IMAUPCON-2026 का आयोजन 28 और 29 नवंबर को प्रयागराज में किया जाएगा। इलाहाबाद मेडिकल एसोसिएशन (AMA) की ओर से स्टेनली रोड स्थित एएमए कन्वेंशन `,
+    content: `प्रयागराज इंडियन मेडिकल एसोसिएशन (IMA) उत्तर प्रदेश की 91वीं वार्षिक राज्य स्तरीय चिकित्सा कांफ्रेंस IMAUPCON-2026 का आयोजन 28 और 29 नवंबर को प्रयागराज में किया जाएगा। इलाहाबाद मेडिकल एसोसिएशन (AMA) की ओर से स्टेनली रोड स्थित एएमए कन्वेंशन सेंटर में
+
+एएमए अध्यक्ष डॉ. ज्योति भूषण की अध्यक्षता में आयोजित इस कांफ्रेंस के आयोजन चेयरमैन डॉ. अशोक कुमार मिश्र, आयोजक सचिव डॉ. अभिनव अग्रवाल और डॉ. उत्सव सिंह हैं। वैज्ञानिक कमेटी की चेयरमैन डॉ. अनुभा श्रीवास्तव और संयुक्त सचिव डॉ. राजेश मौर्य हैं।
+
+पहले दिन पांच प्रमुख वैज्ञानिक सत्र 28 नवंबर को पहले दिन हृदय और सांस संबंधी बीमारियों, एंटीबायोटिक के सही इस्तेमाल, थायरॉइड, मेडिकल एथिक्स, गैस्ट्रोएंटरोलॉजी, कैंसर स्क्रीनिंग और सुरक्षित रक्तदान पर चर्चा होगी। डॉ. ऋषिका पटेल ईसीजी की व्याख्या और डॉ. आशुतोष गुप्ता सीओपीडी के नए इलाज की जानकारी देंगे। प्रो. मनोज माथुर एंटीबायोटिक के सही इस्तेमाल और प्रो. अनुभा श्रीवास्तव थायरॉइड रोगों पर व्याख्यान देंगी। इसके अलावा सर्वाइकल कैंसर की जांच में नई तकनीक, डायबिटिक आंखों की बीमारी और सुरक्षित रक्तदान के लिए NAT स्क्रीनिंग पर भी विशेषज्ञ अपनी बात रखेंगे।
+
+दूसरे दिन मोटापा और आधुनिक सर्जरी पर जोर 29 नवंबर को मोटापा, डायबिटीज, मेटाबॉलिक रोग, स्त्री रोग, क्रिटिकल केयर, सर्जरी और हृदय रोगों पर वैज्ञानिक सत्र होंगे। विशेषज्ञ मोटापे को लंबे समय तक रहने वाली बीमारी बताते हुए इसके आधुनिक इलाज और सेमाग्लूटाइड जैसी नई दवाओं की भूमिका समझाएंगे। इसके साथ ही लैप्रोस्कोपिक सर्जरी, मिनिमली इनवेसिव सर्जरी और गंभीर मरीजों के इलाज से जुड़े विषयों पर भी चर्चा होगी।
+
+सम्मेलन में डॉ. ए.के. सिंह प्रतिष्ठित डॉ. ए.के. घोष ओरेशन प्रस्तुत करेंगे। इसका विषय ARDS होगा। इसके अलावा कोलेस्ट्रॉल के प्रबंधन और आंखों से जुड़ी बीमारियों के आधुनिक उपचार पर भी जानकारी दी जाएगी।
+
+इस अवसर पर IMA यूपी स्टेट के प्रेसिडेंट इलेक्ट और वरिष्ठ नेत्र रोग विशेषज्ञ डॉ. आरकेएस चौहान को सम्मानित किया जाएगा।
+
+### अधूरा नहीं! पढ़िए पूरा! पढ़ें पूरी खबर दैनिक भास्कर ऐप पर
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/local/uttar-pradesh/prayagraj/news/ima-medical-conference-prayagraj-doctors-health-summit-2026-139805621.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `प्रयागराज में 28 नवंबर से डॉक्टरों का सम्मेलन: दो दिन हृदय रोग, डायबिटीज, मोटापा, कैंसर और आधुनिक सर्जरी पर... - Dainik Bhaskar`,
+    summary_hi: `प्रयागराज इंडियन मेडिकल एसोसिएशन (IMA) उत्तर प्रदेश की 91वीं वार्षिक राज्य स्तरीय चिकित्सा कांफ्रेंस IMAUPCON-2026 का आयोजन 28 और 29 नवंबर को प्रयागराज में किया जाएगा। इलाहाबाद मेडिकल एसोसिएशन (AMA) की ओर से स्टेनली रोड स्थित एएमए कन्वेंशन `,
+    content_hi: `प्रयागराज इंडियन मेडिकल एसोसिएशन (IMA) उत्तर प्रदेश की 91वीं वार्षिक राज्य स्तरीय चिकित्सा कांफ्रेंस IMAUPCON-2026 का आयोजन 28 और 29 नवंबर को प्रयागराज में किया जाएगा। इलाहाबाद मेडिकल एसोसिएशन (AMA) की ओर से स्टेनली रोड स्थित एएमए कन्वेंशन सेंटर में
+
+एएमए अध्यक्ष डॉ. ज्योति भूषण की अध्यक्षता में आयोजित इस कांफ्रेंस के आयोजन चेयरमैन डॉ. अशोक कुमार मिश्र, आयोजक सचिव डॉ. अभिनव अग्रवाल और डॉ. उत्सव सिंह हैं। वैज्ञानिक कमेटी की चेयरमैन डॉ. अनुभा श्रीवास्तव और संयुक्त सचिव डॉ. राजेश मौर्य हैं।
+
+पहले दिन पांच प्रमुख वैज्ञानिक सत्र 28 नवंबर को पहले दिन हृदय और सांस संबंधी बीमारियों, एंटीबायोटिक के सही इस्तेमाल, थायरॉइड, मेडिकल एथिक्स, गैस्ट्रोएंटरोलॉजी, कैंसर स्क्रीनिंग और सुरक्षित रक्तदान पर चर्चा होगी। डॉ. ऋषिका पटेल ईसीजी की व्याख्या और डॉ. आशुतोष गुप्ता सीओपीडी के नए इलाज की जानकारी देंगे। प्रो. मनोज माथुर एंटीबायोटिक के सही इस्तेमाल और प्रो. अनुभा श्रीवास्तव थायरॉइड रोगों पर व्याख्यान देंगी। इसके अलावा सर्वाइकल कैंसर की जांच में नई तकनीक, डायबिटिक आंखों की बीमारी और सुरक्षित रक्तदान के लिए NAT स्क्रीनिंग पर भी विशेषज्ञ अपनी बात रखेंगे।
+
+दूसरे दिन मोटापा और आधुनिक सर्जरी पर जोर 29 नवंबर को मोटापा, डायबिटीज, मेटाबॉलिक रोग, स्त्री रोग, क्रिटिकल केयर, सर्जरी और हृदय रोगों पर वैज्ञानिक सत्र होंगे। विशेषज्ञ मोटापे को लंबे समय तक रहने वाली बीमारी बताते हुए इसके आधुनिक इलाज और सेमाग्लूटाइड जैसी नई दवाओं की भूमिका समझाएंगे। इसके साथ ही लैप्रोस्कोपिक सर्जरी, मिनिमली इनवेसिव सर्जरी और गंभीर मरीजों के इलाज से जुड़े विषयों पर भी चर्चा होगी।
+
+सम्मेलन में डॉ. ए.के. सिंह प्रतिष्ठित डॉ. ए.के. घोष ओरेशन प्रस्तुत करेंगे। इसका विषय ARDS होगा। इसके अलावा कोलेस्ट्रॉल के प्रबंधन और आंखों से जुड़ी बीमारियों के आधुनिक उपचार पर भी जानकारी दी जाएगी।
+
+इस अवसर पर IMA यूपी स्टेट के प्रेसिडेंट इलेक्ट और वरिष्ठ नेत्र रोग विशेषज्ञ डॉ. आरकेएस चौहान को सम्मानित किया जाएगा।
+
+### अधूरा नहीं! पढ़िए पूरा! पढ़ें पूरी खबर दैनिक भास्कर ऐप पर
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/local/uttar-pradesh/prayagraj/news/ima-medical-conference-prayagraj-doctors-health-summit-2026-139805621.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक प्रयागराज में 28 नवंबर से डॉक्टरों का सम्मेलन: दो दिन हृदय रोग, डायबिटीज, मोटापा, कैंसर और आधुनिक सर्जरी पर... - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+  {
+    id: 97980,
+    title: `स्वाद ही नहीं सेहत भी सुधारते हैं संतरा-अमरूद, सर्दियों में खाने से म‍िलते हैं ये 7 फायदे - Onlymyhealth`,
+    slug: `7-onlymyhealth-2026`,
+    original_title: `स्वाद ही नहीं सेहत भी सुधारते हैं संतरा-अमरूद, सर्दियों में खाने से म‍िलते हैं ये 7 फायदे - Onlymyhealth`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:07:33Z`,
+    updated_at: `2026-11-26T14:07:33Z`,
+    source_name: `Onlymyhealth`,
+    source_url: `https://www.onlymyhealth.com/hindi/surprising-health-benefits-of-eating-oranges-and-guavas-during-the-winter-season-for-immunity-12977852127`,
+    source_courtesy: `Source: Onlymyhealth`,
+    image_url: `/images/articles/7-onlymyhealth-2026.webp`,
+    image_alt: `स्वाद ही नहीं सेहत भी सुधारते हैं संतरा-अमरूद, सर्दियों में खाने से म‍िलते हैं ये 7 फायदे - Onlymyhealth`,
+    image_courtesy: `Image: Onlymyhealth (External Source Attribution)`,
+    image_photographer: `Onlymyhealth`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `डाइट में संतरा और अमरूद शामिल करना फायदेमंद हो सकता है। इन दोनों फलों में विटामिन C भरपूर मात्रा में पाया जाता है। अमरूद डाइटरी फाइबर का अच्छा स्रोत है, जो पाचन को दुरुस्त रखने और कब्ज की समस्या से राहत पाने में मदद कर सकता है। वहीं, संतरे `,
+    content: `डाइट में संतरा और अमरूद शामिल करना फायदेमंद हो सकता है। इन दोनों फलों में विटामिन C भरपूर मात्रा में पाया जाता है। अमरूद डाइटरी फाइबर का अच्छा स्रोत है, जो पाचन को दुरुस्त रखने और कब्ज की समस्या से राहत पाने में मदद कर सकता है। वहीं, संतरे में मौजूद फ्लेवोनॉइड्स और पोटैशियम होता है जो हार्ट हेल्‍थ के ल‍िए फायदेमंद है। इन दोनों फलों में पानी भी होता है, जो सर्दियों में शरीर को हाइड्रेट रखने में मदद करता है। आइए जानते हैं क‍ि ये दोनों फल खाने से सेहत को क्‍या-क्‍या लाभ म‍िलते हैं? बेहतर जानकारी के ल‍िए हमने Smita Singh , Chief Dietitian At Midland Hospital & Director At Wellness Diet Clinic, Lucknow से बात की।
+
+### 1. बीपी कंट्रोल करने में मदद कर सकता है संतरा
+
+संतरे में मौजूद हेस्पेरिडिन, पोटैशियम और फ्लेवोनॉइड्स, बीपी कंट्रोल करने में मदद कर सकते हैं। पोटैशियम शरीर में सोडियम के प्रभाव को संतुलित करने और ब्‍लड वेसल्‍स को स्‍वस्‍थ रखने में मदद करता है। साल 2021 में European Journal Of Nutrition में प्रकाश‍ित एक स्‍टडी के मुताब‍िक, संतरे का जूस पीने वाले प्रतिभागियों में सिस्टोलिक और डायस्टोलिक बीपी में सुधार देखा गया। इससे संकेत मिलता है कि संतरे में मौजूद हेस्पेरिडिन कुछ हद तक बीपी कंट्रोल कर सकता है।
+
+यह भी पढ़ें- रोज 1 संतरा खाने से शरीर में क्या होता है? जानें सेहत के लिए इसके 7 बड़े फायदे
+
+### 2. कोलेस्‍ट्रॉल कंट्रोल में मदद कर सकता है अमरूद
+
+अमरूद में मौजूद डाइटरी फाइबर शरीर में कोलेस्ट्रॉल के स्तर को संतुलित रखने में मदद कर सकता है। इसके अलावा, इसमें मौजूद पॉलीफेनॉल्स और दूसरे बायोएक्टिव कंपाउंड भी मेटाबॉलिक हेल्थ के लिए असरदार साब‍ित हो सकते हैं। साल 2016 में Journal Of Clinical And Diagnostic Research में प्रकाश‍ित एक स्‍टडी के परिणाम में बिना छिलके वाला अमरूद खाने वाले समूह में टोटल कोलेस्ट्रॉल, ट्राइग्लिसराइड्स और LDL कोलेस्ट्रॉल में कमी देखी गई।
+
+### 3. पाचन को स्‍वस्‍थ रखने में अमरूद की भूमिका
+
+अमरूद में डाइटरी फाइबर अच्छी मात्रा में होता है। फाइबर मल को भारी और मुलायम बनाने में मदद करता है। इसलिए संतुलित मात्रा में अमरूद खाने से मल त्याग की प्रक्रिया आसान हो सकती है। साल 2001 में Journal Of Agricultural And Food Chemistry में प्रकाश‍ित एक स्‍टडी के मुताबि‍क, शोधकर्ताओं ने अमरूद के गूदे और छिलके में डाइटरी फाइबर और पॉलीफेनॉल्स की मात्रा का अध्ययन किया। दोनों हिस्सों में अच्छी मात्रा में फाइबर पाया गया। इस रिसर्च से अमरूद को फाइबर के अच्छे स्रोत के रूप में देखा गया।
+
+यह भी पढ़ें- आयुर्वेद के अनुसार अमरूद कब खाना चाहिए और क्यों? डॉक्टर से जानें
+
+### 4. ब्लड शुगर को कंट्रोल कर सकता है संतरा
+
+संतरे में फाइबर और फ्लेवोनॉइड्स होते हैं। साबुत संतरा खाने से फाइबर मिलता है, जो भोजन के बाद ब्लड शुगर के बढ़ने की गति को प्रभावित कर सकता है। साल 2021 में Phytotherapy Research में प्रकाश‍ित एक स्‍टडी में पाया गया क‍ि संतरे का जूस पीने से टोटल कोलेस्ट्रॉल और इंसुलिन रेजिस्टेंस के एक इंडिकेटर HOMA-IR में कमी आई।
+
+### 5. विटामिन C और एंटीऑक्सीडेंट्स का शरीर पर प्रभाव
+
+संतरा और अमरूद दोनों विटामिन-C के अच्छे स्रोत हैं। विटामिन-C एक जरूरी पोषक तत्व है, जो शरीर में कई जरूरी काम करता है। यह एंटीऑक्सीडेंट की तरह काम करके कोशिकाओं को फ्री रेडिकल्स से होने वाले नुकसान से बचाने में मदद करता है।
+
+### 6. सर्दी जुकाम से लड़ने में कैसे मदद करता है संतरा?
+
+सर्दियों में सर्दी-जुकाम की समस्या आम हो जाती है। ऐसे में संतरा खाना फायदेमंद हो सकता है। संतरे में मौजूद विटामिन C इम्यून सिस्टम को सामान्य रूप से काम करने में मदद करता है। यह शरीर की इम्‍यून‍िटी को बनाए रखने और इंफेक्‍शन के दौरान होने वाले ऑक्सीडेटिव स्ट्रेस से निपटने में अहम भूमिका निभाता है।
+
+### 7. सर्दियों में त्वचा और बालों के लिए संतरा-अमरूद के फायदे
+
+संतरा और अमरूद में मौजूद विटामिन C पौधों से मिलने वाले आयरन के एब्‍जॉर्ब होने की प्रक्र‍िया को बेहतर बनाता है। आयरन की कमी से बाल झड़ने की समस्या भी जुड़ी हो सकती है। इसलिए आयरन युक्त भोजन के साथ विटामिन C वाले फल खाना फायदेमंद हो सकता है।
+
+### संतरा और अमरूद खाने का सही समय और तरीका
+
+### एक दिन में कितना संतरा और अमरूद खाना चाहिए?
+
+एक स्वस्थ वयस्क व्यक्ति अपनी भूख और कुल डाइट के अनुसार रोजाना एक मध्यम आकार का संतरा और एक छोटा या मध्यम आकार का अमरूद खा सकता है।
+
+संतरा और अमरूद में मौजूद विटामिन C से आयरन की कमी दूर हो सकती है और हेयर फॉल से बचाव हो सकता है, त्‍वचा में कोलेजन बनाने के ल‍िए भी व‍िटाम‍िन C जरूरी है। सर्दी-जुकाम से बचाव, काेलेस्‍ट्रॉल कंट्रोल, ब्‍लड शुगर कंट्रोल, बेहतर पाचन के ल‍िए और बीपी कंट्रोल के ल‍िए ये दोनों फल खाना फायदेमंद होता है। रोजाना मध्‍यम आकार का एक संतरा और एक छोटा अमरूद खा सकते हैं। संतरा और अमरूद को सुबह, नाश्‍ते या शाम को भूख लगने पर खाया जा सकता है। जूस पीने के बजाय साबुत फल ही खाना चाह‍िए।
+
+### सर्दि‍यों में कौन से फल खा सकते हैं?
+
+इस जानकारी की सटीकता, समयबद्धता और वास्तविकता सुनिश्चित करने का हर सम्भव प्रयास किया गया है हालांकि इसकी नैतिक जि़म्मेदारी ओन्लीमायहेल्थ डॉट कॉम की नहीं है। हमारा आपसे विनम्र निवेदन है कि किसी भी उपाय को आजमाने से पहले अपने चिकित्सक से अवश्य संपर्क करें। हमारा उद्देश्य आपको जानकारी मुहैया कराना मात्र है।
+
+### How we keep this article up to date:
+
+We work with experts and keep a close eye on the latest in health and wellness. Whenever there is a new research or helpful information, we update our articles with accurate and useful advice.
+
+---
+
+**मूल स्रोत (Original Source):** [Onlymyhealth](https://www.onlymyhealth.com/hindi/surprising-health-benefits-of-eating-oranges-and-guavas-during-the-winter-season-for-immunity-12977852127)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `स्वाद ही नहीं सेहत भी सुधारते हैं संतरा-अमरूद, सर्दियों में खाने से म‍िलते हैं ये 7 फायदे - Onlymyhealth`,
+    summary_hi: `डाइट में संतरा और अमरूद शामिल करना फायदेमंद हो सकता है। इन दोनों फलों में विटामिन C भरपूर मात्रा में पाया जाता है। अमरूद डाइटरी फाइबर का अच्छा स्रोत है, जो पाचन को दुरुस्त रखने और कब्ज की समस्या से राहत पाने में मदद कर सकता है। वहीं, संतरे `,
+    content_hi: `डाइट में संतरा और अमरूद शामिल करना फायदेमंद हो सकता है। इन दोनों फलों में विटामिन C भरपूर मात्रा में पाया जाता है। अमरूद डाइटरी फाइबर का अच्छा स्रोत है, जो पाचन को दुरुस्त रखने और कब्ज की समस्या से राहत पाने में मदद कर सकता है। वहीं, संतरे में मौजूद फ्लेवोनॉइड्स और पोटैशियम होता है जो हार्ट हेल्‍थ के ल‍िए फायदेमंद है। इन दोनों फलों में पानी भी होता है, जो सर्दियों में शरीर को हाइड्रेट रखने में मदद करता है। आइए जानते हैं क‍ि ये दोनों फल खाने से सेहत को क्‍या-क्‍या लाभ म‍िलते हैं? बेहतर जानकारी के ल‍िए हमने Smita Singh , Chief Dietitian At Midland Hospital & Director At Wellness Diet Clinic, Lucknow से बात की।
+
+### 1. बीपी कंट्रोल करने में मदद कर सकता है संतरा
+
+संतरे में मौजूद हेस्पेरिडिन, पोटैशियम और फ्लेवोनॉइड्स, बीपी कंट्रोल करने में मदद कर सकते हैं। पोटैशियम शरीर में सोडियम के प्रभाव को संतुलित करने और ब्‍लड वेसल्‍स को स्‍वस्‍थ रखने में मदद करता है। साल 2021 में European Journal Of Nutrition में प्रकाश‍ित एक स्‍टडी के मुताब‍िक, संतरे का जूस पीने वाले प्रतिभागियों में सिस्टोलिक और डायस्टोलिक बीपी में सुधार देखा गया। इससे संकेत मिलता है कि संतरे में मौजूद हेस्पेरिडिन कुछ हद तक बीपी कंट्रोल कर सकता है।
+
+यह भी पढ़ें- रोज 1 संतरा खाने से शरीर में क्या होता है? जानें सेहत के लिए इसके 7 बड़े फायदे
+
+### 2. कोलेस्‍ट्रॉल कंट्रोल में मदद कर सकता है अमरूद
+
+अमरूद में मौजूद डाइटरी फाइबर शरीर में कोलेस्ट्रॉल के स्तर को संतुलित रखने में मदद कर सकता है। इसके अलावा, इसमें मौजूद पॉलीफेनॉल्स और दूसरे बायोएक्टिव कंपाउंड भी मेटाबॉलिक हेल्थ के लिए असरदार साब‍ित हो सकते हैं। साल 2016 में Journal Of Clinical And Diagnostic Research में प्रकाश‍ित एक स्‍टडी के परिणाम में बिना छिलके वाला अमरूद खाने वाले समूह में टोटल कोलेस्ट्रॉल, ट्राइग्लिसराइड्स और LDL कोलेस्ट्रॉल में कमी देखी गई।
+
+### 3. पाचन को स्‍वस्‍थ रखने में अमरूद की भूमिका
+
+अमरूद में डाइटरी फाइबर अच्छी मात्रा में होता है। फाइबर मल को भारी और मुलायम बनाने में मदद करता है। इसलिए संतुलित मात्रा में अमरूद खाने से मल त्याग की प्रक्रिया आसान हो सकती है। साल 2001 में Journal Of Agricultural And Food Chemistry में प्रकाश‍ित एक स्‍टडी के मुताबि‍क, शोधकर्ताओं ने अमरूद के गूदे और छिलके में डाइटरी फाइबर और पॉलीफेनॉल्स की मात्रा का अध्ययन किया। दोनों हिस्सों में अच्छी मात्रा में फाइबर पाया गया। इस रिसर्च से अमरूद को फाइबर के अच्छे स्रोत के रूप में देखा गया।
+
+यह भी पढ़ें- आयुर्वेद के अनुसार अमरूद कब खाना चाहिए और क्यों? डॉक्टर से जानें
+
+### 4. ब्लड शुगर को कंट्रोल कर सकता है संतरा
+
+संतरे में फाइबर और फ्लेवोनॉइड्स होते हैं। साबुत संतरा खाने से फाइबर मिलता है, जो भोजन के बाद ब्लड शुगर के बढ़ने की गति को प्रभावित कर सकता है। साल 2021 में Phytotherapy Research में प्रकाश‍ित एक स्‍टडी में पाया गया क‍ि संतरे का जूस पीने से टोटल कोलेस्ट्रॉल और इंसुलिन रेजिस्टेंस के एक इंडिकेटर HOMA-IR में कमी आई।
+
+### 5. विटामिन C और एंटीऑक्सीडेंट्स का शरीर पर प्रभाव
+
+संतरा और अमरूद दोनों विटामिन-C के अच्छे स्रोत हैं। विटामिन-C एक जरूरी पोषक तत्व है, जो शरीर में कई जरूरी काम करता है। यह एंटीऑक्सीडेंट की तरह काम करके कोशिकाओं को फ्री रेडिकल्स से होने वाले नुकसान से बचाने में मदद करता है।
+
+### 6. सर्दी जुकाम से लड़ने में कैसे मदद करता है संतरा?
+
+सर्दियों में सर्दी-जुकाम की समस्या आम हो जाती है। ऐसे में संतरा खाना फायदेमंद हो सकता है। संतरे में मौजूद विटामिन C इम्यून सिस्टम को सामान्य रूप से काम करने में मदद करता है। यह शरीर की इम्‍यून‍िटी को बनाए रखने और इंफेक्‍शन के दौरान होने वाले ऑक्सीडेटिव स्ट्रेस से निपटने में अहम भूमिका निभाता है।
+
+### 7. सर्दियों में त्वचा और बालों के लिए संतरा-अमरूद के फायदे
+
+संतरा और अमरूद में मौजूद विटामिन C पौधों से मिलने वाले आयरन के एब्‍जॉर्ब होने की प्रक्र‍िया को बेहतर बनाता है। आयरन की कमी से बाल झड़ने की समस्या भी जुड़ी हो सकती है। इसलिए आयरन युक्त भोजन के साथ विटामिन C वाले फल खाना फायदेमंद हो सकता है।
+
+### संतरा और अमरूद खाने का सही समय और तरीका
+
+### एक दिन में कितना संतरा और अमरूद खाना चाहिए?
+
+एक स्वस्थ वयस्क व्यक्ति अपनी भूख और कुल डाइट के अनुसार रोजाना एक मध्यम आकार का संतरा और एक छोटा या मध्यम आकार का अमरूद खा सकता है।
+
+संतरा और अमरूद में मौजूद विटामिन C से आयरन की कमी दूर हो सकती है और हेयर फॉल से बचाव हो सकता है, त्‍वचा में कोलेजन बनाने के ल‍िए भी व‍िटाम‍िन C जरूरी है। सर्दी-जुकाम से बचाव, काेलेस्‍ट्रॉल कंट्रोल, ब्‍लड शुगर कंट्रोल, बेहतर पाचन के ल‍िए और बीपी कंट्रोल के ल‍िए ये दोनों फल खाना फायदेमंद होता है। रोजाना मध्‍यम आकार का एक संतरा और एक छोटा अमरूद खा सकते हैं। संतरा और अमरूद को सुबह, नाश्‍ते या शाम को भूख लगने पर खाया जा सकता है। जूस पीने के बजाय साबुत फल ही खाना चाह‍िए।
+
+### सर्दि‍यों में कौन से फल खा सकते हैं?
+
+इस जानकारी की सटीकता, समयबद्धता और वास्तविकता सुनिश्चित करने का हर सम्भव प्रयास किया गया है हालांकि इसकी नैतिक जि़म्मेदारी ओन्लीमायहेल्थ डॉट कॉम की नहीं है। हमारा आपसे विनम्र निवेदन है कि किसी भी उपाय को आजमाने से पहले अपने चिकित्सक से अवश्य संपर्क करें। हमारा उद्देश्य आपको जानकारी मुहैया कराना मात्र है।
+
+### How we keep this article up to date:
+
+We work with experts and keep a close eye on the latest in health and wellness. Whenever there is a new research or helpful information, we update our articles with accurate and useful advice.
+
+---
+
+**मूल स्रोत (Original Source):** [Onlymyhealth](https://www.onlymyhealth.com/hindi/surprising-health-benefits-of-eating-oranges-and-guavas-during-the-winter-season-for-immunity-12977852127)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट Onlymyhealth के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक स्वाद ही नहीं सेहत भी सुधारते हैं संतरा-अमरूद, सर्दियों में खाने से म‍िलते हैं ये 7 फायदे - Onlymyhealth से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Onlymyhealth`,
+  },
+  {
+    id: 97981,
+    title: `Packaged Foods Need Separate Pictorial Warnings On High-Fat, High-Sugar Or High-Salt: Supreme Court... - Live Law`,
+    slug: `packaged-foods-need-separate-pictorial-warnings-on-high-fat-high-sugar-2026`,
+    original_title: `Packaged Foods Need Separate Pictorial Warnings On High-Fat, High-Sugar Or High-Salt: Supreme Court... - Live Law`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:07:35Z`,
+    updated_at: `2026-11-26T14:07:35Z`,
+    source_name: `Live Law`,
+    source_url: `https://www.livelaw.in/top-stories/breaking-packaged-foods-need-separate-red-hexagon-labels-on-high-fat-high-sugar-or-high-salt-supreme-court-issues-directions-on-front-of-pack-labels-560059`,
+    source_courtesy: `Source: Live Law`,
+    image_url: `/images/articles/packaged-foods-need-separate-pictorial-warnings-on-high-fat-high-sugar-2026.jpg`,
+    image_alt: `Packaged Foods Need Separate Pictorial Warnings On High-Fat, High-Sugar Or High-Salt: Supreme Court... - Live Law`,
+    image_courtesy: `Image: Live Law (External Source Attribution)`,
+    image_photographer: `Live Law`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `The Supreme Court has issued directions to the Union Government and the Food Safety Standards Authority of India (FSSAI) to ensure the effective implementation of Front-of-Package Nutrition Labelling (FOPNL) on food products, including the `,
+    content: `The Supreme Court has issued directions to the Union Government and the Food Safety Standards Authority of India (FSSAI) to ensure the effective implementation of Front-of-Package Nutrition Labelling (FOPNL) on food products, including the use of separate warning symbols for products containing high levels of fat, sugar and salt.A bench comprising Justice JB Pardiwala and Justice K Vinod Chandran directed that each hexagonal warning label must carry a standard pictorial representation of the nutrient of concern, accompanied by the corresponding words "HIGH FAT", "HIGH SUGAR" or "HIGH SALT".The Court directed the FSSAI to ensure that total sugars and saturated fat, rather than added sugar and added fat, are considered for determining the threshold value for the nutrients of concern.
+
+FSSAI has to reformulate the threshold levels for each nutrient of concern based on evidence and ensure that they are neither too low nor too high.The Court highlighted that thresholds set too low would result in almost all packaged food products carrying a warning label and desensitize consumers and induce label fatigue, while threshold levels set too high would allow most products to escape the label, leaving consumers unknowingly exposed to harmful levels of saturated fat, sugar and salt.
+
+.desktop-ad   { display: block; }  .mobile-ad  { display: none;  }      @media (max-width: 767px) {      .desktop-ad { display: none;  }      .mobile-ad  { display: block; }  }          .ad_unit_wrapper {      text-align: center;      margin-top: 10px;  }    .insidecontent-ad-img {      width: 728px;      height: 220px;      max-width: 100%;      object-fit: cover;      display: block;      margin: 0 auto;  }    @media only screen and (max-width: 768px) {      .insidecontent-ad-img {          width: 100%;          height: auto;      }  }  It further clarified that there must be a separate hexagonal warning label for each nutrient of concern (fat, sugar or salt), with the corresponding pictogram and warning words, rather than a single combined hexagon representing multiple nutrients.The Court directed that the size of hexagon in proportion to the principal display panel of the package should be such that each hexagon represents 4% to 5% of that panel as evidenced by international practices.It further directed FSSAI to prescribe the font size of the text within each hexagon such that it is prominent when viewed together with the pictorial representation of each nutrient of concern under normal conditions of purchase and use.The Court also directed the Union Government to ensure that the existing regulations, including the Food Safety and Standards (Labelling and Display) Regulations, 2020, are implemented strictly in letter and spirit.On nutritional literacy among children, the Court directed the Union Government to ensure that, apart from necessary changes and additions to the school curriculum, the pedagogy provides children with opportunities to develop practical nutritional literacy.Such opportunities may include interactive workshops, co-curricular activities and other initiatives to educate children about nutrition and healthy food choices.The Court listed the matter after ten weeks for FSSAI to share the progress on the draft for new regulations and place an affidavit in that regard before this Court.The Court issued the directions in a PIL filed by the organisation '3S and Our Health Society', in which judgment was reserved on September 28.
+
+Advocate Rajiv Shankar Dvivedi represented the petitioner.BackgroundThe Court has earlier questioned the Food Safety and Standards Authority of India (FSSAI) over its approach to warning labels for foods high in fat, sugar and salt. The Court disapproved of the Union's stand that it can't follow international standards when it comes to issuing interpretative warnings of high sugar, sodium or fat content on packaged food items.
+
+The Court questioned whether India should remain underdeveloped, ignoring that obesity remains a significant public health concern.Following the Court's intervention, FSSAI initially proposed a two-phase regime under which warnings in the first phase would apply to products high in two or more specified nutrients, before extending the regime to products high in any one nutrient.
+
+The petitioner opposed the “two-or-more” threshold as scientifically unjustified.On September 10, the Supreme Court raised questions over FSSAI's approach, particularly whether ultra-processed foods should be subjected to the same nutrient thresholds as other packaged foods. The Court referred to the 2024 Dietary Guidelines' classification of foods into Group A (minimally processed), Group B (moderately processed) and Group C (excessively processed, with additives), and questioned whether the distinction between Groups B and C should be reflected in the FoPL framework.The Court also sought clarification on FSSAI's decision to use added sugar and ...
+
+---
+
+**Original Source:** [Live Law](https://www.livelaw.in/top-stories/breaking-packaged-foods-need-separate-red-hexagon-labels-on-high-fat-high-sugar-or-high-salt-supreme-court-issues-directions-on-front-of-pack-labels-560059)`,
+    title_en: `Packaged Foods Need Separate Pictorial Warnings On High-Fat, High-Sugar Or High-Salt: Supreme Court... - Live Law`,
+    summary_en: `The Supreme Court has issued directions to the Union Government and the Food Safety Standards Authority of India (FSSAI) to ensure the effective implementation of Front-of-Package Nutrition Labelling (FOPNL) on food products, including the `,
+    content_en: `The Supreme Court has issued directions to the Union Government and the Food Safety Standards Authority of India (FSSAI) to ensure the effective implementation of Front-of-Package Nutrition Labelling (FOPNL) on food products, including the use of separate warning symbols for products containing high levels of fat, sugar and salt.A bench comprising Justice JB Pardiwala and Justice K Vinod Chandran directed that each hexagonal warning label must carry a standard pictorial representation of the nutrient of concern, accompanied by the corresponding words "HIGH FAT", "HIGH SUGAR" or "HIGH SALT".The Court directed the FSSAI to ensure that total sugars and saturated fat, rather than added sugar and added fat, are considered for determining the threshold value for the nutrients of concern.
+
+FSSAI has to reformulate the threshold levels for each nutrient of concern based on evidence and ensure that they are neither too low nor too high.The Court highlighted that thresholds set too low would result in almost all packaged food products carrying a warning label and desensitize consumers and induce label fatigue, while threshold levels set too high would allow most products to escape the label, leaving consumers unknowingly exposed to harmful levels of saturated fat, sugar and salt.
+
+.desktop-ad   { display: block; }  .mobile-ad  { display: none;  }      @media (max-width: 767px) {      .desktop-ad { display: none;  }      .mobile-ad  { display: block; }  }          .ad_unit_wrapper {      text-align: center;      margin-top: 10px;  }    .insidecontent-ad-img {      width: 728px;      height: 220px;      max-width: 100%;      object-fit: cover;      display: block;      margin: 0 auto;  }    @media only screen and (max-width: 768px) {      .insidecontent-ad-img {          width: 100%;          height: auto;      }  }  It further clarified that there must be a separate hexagonal warning label for each nutrient of concern (fat, sugar or salt), with the corresponding pictogram and warning words, rather than a single combined hexagon representing multiple nutrients.The Court directed that the size of hexagon in proportion to the principal display panel of the package should be such that each hexagon represents 4% to 5% of that panel as evidenced by international practices.It further directed FSSAI to prescribe the font size of the text within each hexagon such that it is prominent when viewed together with the pictorial representation of each nutrient of concern under normal conditions of purchase and use.The Court also directed the Union Government to ensure that the existing regulations, including the Food Safety and Standards (Labelling and Display) Regulations, 2020, are implemented strictly in letter and spirit.On nutritional literacy among children, the Court directed the Union Government to ensure that, apart from necessary changes and additions to the school curriculum, the pedagogy provides children with opportunities to develop practical nutritional literacy.Such opportunities may include interactive workshops, co-curricular activities and other initiatives to educate children about nutrition and healthy food choices.The Court listed the matter after ten weeks for FSSAI to share the progress on the draft for new regulations and place an affidavit in that regard before this Court.The Court issued the directions in a PIL filed by the organisation '3S and Our Health Society', in which judgment was reserved on September 28.
+
+Advocate Rajiv Shankar Dvivedi represented the petitioner.BackgroundThe Court has earlier questioned the Food Safety and Standards Authority of India (FSSAI) over its approach to warning labels for foods high in fat, sugar and salt. The Court disapproved of the Union's stand that it can't follow international standards when it comes to issuing interpretative warnings of high sugar, sodium or fat content on packaged food items.
+
+The Court questioned whether India should remain underdeveloped, ignoring that obesity remains a significant public health concern.Following the Court's intervention, FSSAI initially proposed a two-phase regime under which warnings in the first phase would apply to products high in two or more specified nutrients, before extending the regime to products high in any one nutrient.
+
+The petitioner opposed the “two-or-more” threshold as scientifically unjustified.On September 10, the Supreme Court raised questions over FSSAI's approach, particularly whether ultra-processed foods should be subjected to the same nutrient thresholds as other packaged foods. The Court referred to the 2024 Dietary Guidelines' classification of foods into Group A (minimally processed), Group B (moderately processed) and Group C (excessively processed, with additives), and questioned whether the distinction between Groups B and C should be reflected in the FoPL framework.The Court also sought clarification on FSSAI's decision to use added sugar and ...
+
+---
+
+**Original Source:** [Live Law](https://www.livelaw.in/top-stories/breaking-packaged-foods-need-separate-red-hexagon-labels-on-high-fat-high-sugar-or-high-salt-supreme-court-issues-directions-on-front-of-pack-labels-560059)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Live Law.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Packaged Foods Need Separate Pictorial Warnings On High-Fat, High-Sugar Or High-Salt: Supreme Court... - Live Law.`,
+    primary_source: `Live Law`,
+  },
+  {
+    id: 97982,
+    title: `CJP’s Saurav Das to file criminal complaints against social media handles over passport leak`,
+    slug: `cjps-saurav-das-to-file-criminal-complaints-against-social-media-handl-2026`,
+    original_title: `CJP’s Saurav Das to file criminal complaints against social media handles over passport leak`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:07:36Z`,
+    updated_at: `2026-11-26T14:07:36Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/news/cities/Delhi/cjps-saurav-das-to-file-criminal-complaints-against-social-media-handles-over-passport-leak/article71745202.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/cjps-saurav-das-to-file-criminal-complaints-against-social-media-handl-2026.jpg`,
+    image_alt: `CJP’s Saurav Das to file criminal complaints against social media handles over passport leak`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `NEW DELHI Cockroach Janata Party (CJP) co-convenor Saurav Das has said he will lodge criminal complaints against every social media handle involved in circulating his passport online, alleging a sustained campaign of targeted harassment, af`,
+    content: `NEW DELHI Cockroach Janata Party (CJP) co-convenor Saurav Das has said he will lodge criminal complaints against every social media handle involved in circulating his passport online, alleging a sustained campaign of targeted harassment, after images of the travel document were leaked on social media platforms following his being stopped from boarding a London-bound flight.
+
+CJP’s Saurav Das claims he was stopped at Delhi airport from travelling to U.K. storyline 1 In a post on X, Mr. Das accused several BJP-aligned social media handles of circulating his passport. He questioned how a citizen’s personal travel document could be accessed and shared publicly.
+
+He also sought clarification from the Ministry of External Affairs (MEA), asking whether the leaking of citizens’ passport details had become routine and whether doxxing had been legalised in the country. Abhijeet Dipke: ‘Why is this government so afraid of Saurav Das?’ Abhijeet Dipke: ‘Why is this government so afraid of Saurav Das?’ Addressing the media after Saurav Das was stopped at Delhi airport ahead of his UK flight, Cockroach Janata Party founder Abhijeet Dipke questioned the timing of the travel restriction and asked, “Why is this government so afraid of Saurav Das?” Dipke pointed out that the government found no flaws in Das’s documents during two previous international trips on the same passport issued in 2019, asking why he is suddenly being barred from travelling.
+
+Abhijeet Dipke: ‘Why is this government so afraid of Saurav Das?’ shorts 1 “I shall be filing a criminal complaint with the relevant authorities against every social media handle involved in circulating my passport,” he said, adding that he was documenting every instance of harassment and the handles involved.
+
+Mr. Das alleged that the circulation of his passport was the latest in a series of incidents in which his personal information had been made public. He claimed that a social media account had earlier leaked his Delhi residential address, after which YouTubers allegedly entered his house while he was away from the city.
+
+He also accused social media users of circulating fabricated accounts of his family life and a morphed photograph of him. 🚨IMPORTANT🚨  Certain BJP-aligned social media handles have now leaked my passport. This is a matter of serious concern. Will the Ministry of External Affairs clarify whether such leaks of citizens’ passports are a routine affair?
+
+Has doxxing been legalised in #NewIndia? First, a BJP-aligned lowlife leaked my Delhi residential address. Then sent propagandist YouTubers who barged into my house while I was out of town. This was followed by fabricated stories about my family life and even a morphed picture of me.
+
+Now, my passport is being circulated to peddle yet another stupid, ridiculous narrative. It is precisely because of this pattern of targeted harassment that I specifically asked the SEM Court to ensure that my rent agreement is not leaked. I shall be filing a criminal complaint with the relevant authorities against EVERY social media handle involved in circulating my passport.
+
+And to those who mistake the prevailing climate of impunity for permanent immunity: I am documenting every instance and every handle involved. Governments come and go. When the time comes, they will face the full wrath of law. Fleeing the country will be the only option left for them.
+
+🙂&mdash; Saurav Das (@SauravDassss) November 25, 2026  Citing the pattern of alleged harassment, he said he had specifically requested the SEM Court to ensure that his rent agreement was not leaked. The latest controversy comes two days after Mr. Das was stopped from boarding a London-bound flight at the Indira Gandhi International Airport (IGI) in Delhi on the intervening night of November 23 and 24.
+
+He was scheduled to attend engagements at the Oxford Union and other institutions in the United Kingdom, including the University of Cambridge, the London School of Economics and the University of Edinburgh. Chennai Regional Passport Office asked Saurav Das to clarify place of birth, advised not to use passport: MEA Chennai Regional Passport Office asked Saurav Das to clarify place of birth, advised not to use passport: MEA The co-convenor of the Cockroach Janata Party  was stopped from boarding a flight to London at the Indira Gandhi International Airport here on Monday night after failing to respond to a show-cause notice Chennai Regional Passport Office asked Saurav Das to clarify place of birth, advised not to use passport: MEA storyline 1 Mr.
+
+Das was stopped at the immigration counter after the Regional Passport Office (RPO), Chennai, issued him a show-cause notice over discrepancies in the place of birth mentioned in his passport application and other identity documents. Chennai Regional Passport Office notice led to CJP’s Saurav Das being stopped at Delhi airport storyline 1 The notice, issued on November 23 and emailed to him at around 7.30 p.m., stated that the RPO had received inputs that the particulars relating to his place of birth in his passport application, submitted on August 8, 2019, were incorrect.
+
+It also alleged that the passport, issued on August 21, 2019, had been obtained through material suppression of facts. The RPO gave him seven days to submit an explanation along with supporting documents and warned that failure to provide a satisfactory response could result in the impounding of his passport under Section 10(3)(b) of the Passports Act, 1967.
+
+He was also advised not to use the passport until he submitted his response. The MEA on Wednesday confirmed that the notice had been issued by the Chennai RPO following inputs from law enforcement authorities. MEA spokesperson Randhir Jaiswal said the notice sought clarification regarding Mr.
+
+Das’s place of birth and that he had been advised not to use the passport until he submitted his response. Meanwhile, Mr. Das has approached the Delhi High Court challenging the action that prevented him from travelling abroad. His counsel submitted that no formal order or lookout circular restricting his travel had been shown to him at the airport.
+
+The court listed the matter for hearing on November 26. CJP’s Saurav Das moves Delhi HC over being stopped from flying to the U.K. storyline 1 🚨IMPORTANT🚨  Certain BJP-aligned social media handles have now leaked my passport. This is a matter of serious concern. Will the Ministry of External Affairs clarify whether such leaks of citizens’ passports are a routine affair?
+
+Has doxxing been legalised in #NewIndia? First, a BJP-aligned lowlife leaked my Delhi residential address. Then sent propagandist YouTubers who barged into my house while I was out of town. This was followed by fabricated stories about my family life and even a morphed picture of me.
+
+Now, my passport is being circulated to peddle yet another stupid, ridiculous narrative. It is precisely because of this pattern of targeted harassment that I specifically asked the SEM Court to ensure that my rent agreement is not leaked. I shall be filing a criminal complaint with the relevant authorities against EVERY social media handle involved in circulating my passport.
+
+And to those who mistake the prevailing climate of impunity for permanent immunity: I am documenting every instance and every handle involved. Governments come and go. When the time comes, they will face the full wrath of law. Fleeing the country will be the only option left for them.
+
+🙂&mdash; Saurav Das (@SauravDassss) November 25, 2026
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/cities/Delhi/cjps-saurav-das-to-file-criminal-complaints-against-social-media-handles-over-passport-leak/article71745202.ece)`,
+    title_en: `CJP’s Saurav Das to file criminal complaints against social media handles over passport leak`,
+    summary_en: `NEW DELHI Cockroach Janata Party (CJP) co-convenor Saurav Das has said he will lodge criminal complaints against every social media handle involved in circulating his passport online, alleging a sustained campaign of targeted harassment, af`,
+    content_en: `NEW DELHI Cockroach Janata Party (CJP) co-convenor Saurav Das has said he will lodge criminal complaints against every social media handle involved in circulating his passport online, alleging a sustained campaign of targeted harassment, after images of the travel document were leaked on social media platforms following his being stopped from boarding a London-bound flight.
+
+CJP’s Saurav Das claims he was stopped at Delhi airport from travelling to U.K. storyline 1 In a post on X, Mr. Das accused several BJP-aligned social media handles of circulating his passport. He questioned how a citizen’s personal travel document could be accessed and shared publicly.
+
+He also sought clarification from the Ministry of External Affairs (MEA), asking whether the leaking of citizens’ passport details had become routine and whether doxxing had been legalised in the country. Abhijeet Dipke: ‘Why is this government so afraid of Saurav Das?’ Abhijeet Dipke: ‘Why is this government so afraid of Saurav Das?’ Addressing the media after Saurav Das was stopped at Delhi airport ahead of his UK flight, Cockroach Janata Party founder Abhijeet Dipke questioned the timing of the travel restriction and asked, “Why is this government so afraid of Saurav Das?” Dipke pointed out that the government found no flaws in Das’s documents during two previous international trips on the same passport issued in 2019, asking why he is suddenly being barred from travelling.
+
+Abhijeet Dipke: ‘Why is this government so afraid of Saurav Das?’ shorts 1 “I shall be filing a criminal complaint with the relevant authorities against every social media handle involved in circulating my passport,” he said, adding that he was documenting every instance of harassment and the handles involved.
+
+Mr. Das alleged that the circulation of his passport was the latest in a series of incidents in which his personal information had been made public. He claimed that a social media account had earlier leaked his Delhi residential address, after which YouTubers allegedly entered his house while he was away from the city.
+
+He also accused social media users of circulating fabricated accounts of his family life and a morphed photograph of him. 🚨IMPORTANT🚨  Certain BJP-aligned social media handles have now leaked my passport. This is a matter of serious concern. Will the Ministry of External Affairs clarify whether such leaks of citizens’ passports are a routine affair?
+
+Has doxxing been legalised in #NewIndia? First, a BJP-aligned lowlife leaked my Delhi residential address. Then sent propagandist YouTubers who barged into my house while I was out of town. This was followed by fabricated stories about my family life and even a morphed picture of me.
+
+Now, my passport is being circulated to peddle yet another stupid, ridiculous narrative. It is precisely because of this pattern of targeted harassment that I specifically asked the SEM Court to ensure that my rent agreement is not leaked. I shall be filing a criminal complaint with the relevant authorities against EVERY social media handle involved in circulating my passport.
+
+And to those who mistake the prevailing climate of impunity for permanent immunity: I am documenting every instance and every handle involved. Governments come and go. When the time comes, they will face the full wrath of law. Fleeing the country will be the only option left for them.
+
+🙂&mdash; Saurav Das (@SauravDassss) November 25, 2026  Citing the pattern of alleged harassment, he said he had specifically requested the SEM Court to ensure that his rent agreement was not leaked. The latest controversy comes two days after Mr. Das was stopped from boarding a London-bound flight at the Indira Gandhi International Airport (IGI) in Delhi on the intervening night of November 23 and 24.
+
+He was scheduled to attend engagements at the Oxford Union and other institutions in the United Kingdom, including the University of Cambridge, the London School of Economics and the University of Edinburgh. Chennai Regional Passport Office asked Saurav Das to clarify place of birth, advised not to use passport: MEA Chennai Regional Passport Office asked Saurav Das to clarify place of birth, advised not to use passport: MEA The co-convenor of the Cockroach Janata Party  was stopped from boarding a flight to London at the Indira Gandhi International Airport here on Monday night after failing to respond to a show-cause notice Chennai Regional Passport Office asked Saurav Das to clarify place of birth, advised not to use passport: MEA storyline 1 Mr.
+
+Das was stopped at the immigration counter after the Regional Passport Office (RPO), Chennai, issued him a show-cause notice over discrepancies in the place of birth mentioned in his passport application and other identity documents. Chennai Regional Passport Office notice led to CJP’s Saurav Das being stopped at Delhi airport storyline 1 The notice, issued on November 23 and emailed to him at around 7.30 p.m., stated that the RPO had received inputs that the particulars relating to his place of birth in his passport application, submitted on August 8, 2019, were incorrect.
+
+It also alleged that the passport, issued on August 21, 2019, had been obtained through material suppression of facts. The RPO gave him seven days to submit an explanation along with supporting documents and warned that failure to provide a satisfactory response could result in the impounding of his passport under Section 10(3)(b) of the Passports Act, 1967.
+
+He was also advised not to use the passport until he submitted his response. The MEA on Wednesday confirmed that the notice had been issued by the Chennai RPO following inputs from law enforcement authorities. MEA spokesperson Randhir Jaiswal said the notice sought clarification regarding Mr.
+
+Das’s place of birth and that he had been advised not to use the passport until he submitted his response. Meanwhile, Mr. Das has approached the Delhi High Court challenging the action that prevented him from travelling abroad. His counsel submitted that no formal order or lookout circular restricting his travel had been shown to him at the airport.
+
+The court listed the matter for hearing on November 26. CJP’s Saurav Das moves Delhi HC over being stopped from flying to the U.K. storyline 1 🚨IMPORTANT🚨  Certain BJP-aligned social media handles have now leaked my passport. This is a matter of serious concern. Will the Ministry of External Affairs clarify whether such leaks of citizens’ passports are a routine affair?
+
+Has doxxing been legalised in #NewIndia? First, a BJP-aligned lowlife leaked my Delhi residential address. Then sent propagandist YouTubers who barged into my house while I was out of town. This was followed by fabricated stories about my family life and even a morphed picture of me.
+
+Now, my passport is being circulated to peddle yet another stupid, ridiculous narrative. It is precisely because of this pattern of targeted harassment that I specifically asked the SEM Court to ensure that my rent agreement is not leaked. I shall be filing a criminal complaint with the relevant authorities against EVERY social media handle involved in circulating my passport.
+
+And to those who mistake the prevailing climate of impunity for permanent immunity: I am documenting every instance and every handle involved. Governments come and go. When the time comes, they will face the full wrath of law. Fleeing the country will be the only option left for them.
+
+🙂&mdash; Saurav Das (@SauravDassss) November 25, 2026
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/cities/Delhi/cjps-saurav-das-to-file-criminal-complaints-against-social-media-handles-over-passport-leak/article71745202.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for CJP’s Saurav Das to file criminal complaints against social media handles over passport leak.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 97983,
+    title: `उत्तर प्रदेश: इक़रा हसन और इमरान मसूद के बीच बयानबाज़ी, सपा-कांग्रेस में गठबंधन पर बात कहां तक पहुंची?`,
+    slug: `politics-breaking-report-10381-97983-2026`,
+    original_title: `उत्तर प्रदेश: इक़रा हसन और इमरान मसूद के बीच बयानबाज़ी, सपा-कांग्रेस में गठबंधन पर बात कहां तक पहुंची?`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `7 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:07:38Z`,
+    updated_at: `2026-11-26T14:07:38Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cw0k6z47j76jo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/politics-breaking-report-10381-97983-2026.jpg`,
+    image_alt: `उत्तर प्रदेश: इक़रा हसन और इमरान मसूद के बीच बयानबाज़ी, सपा-कांग्रेस में गठबंधन पर बात कहां तक पहुंची?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `उत्तर प्रदेश विधानसभा चुनाव के कुछ ही महीने बाक़ी हैं. समाजवादी पार्टी और कांग्रेस के बीच सीट साझेदारी को लेकर खींचतान तीखी बयानबाज़ी में तब्दील हो गई है.`,
+    content: `उत्तर प्रदेश विधानसभा चुनाव के कुछ ही महीने बाक़ी हैं. समाजवादी पार्टी और कांग्रेस के बीच सीट साझेदारी को लेकर खींचतान तीखी बयानबाज़ी में तब्दील हो गई है.
+
+पश्चिम यूपी में इक़रा हसन समाजवादी पार्टी से और इमरान मसूद कांग्रेस से सांसद हैं. गठबंधन में सीट शेयरिंग को लेकर वार्ता में दोनों ही अपनी अपनी पार्टी के प्रतिनिधिमंडल में शामिल हैं.
+
+दोनों दलों के बीच तीन दिनों तक चली वार्ता के बाद भी सीट शेयरिंग को लेकर स्थिति साफ़ नहीं है. लेकिन इस बीच इमरान मसूद और इक़रा हसन के बीच ज़ुबानी जंग बढ़ गई है.
+
+बयानबाज़ी तब शुरू हुई जब पहले दिन की वार्ता के बाद मंगलवार शाम को समाजवादी पार्टी ने कांग्रेस के लिए 26 सीटें देने की बात की. इसके बाद पार्टी ने अपने पांच उम्मीदवारों की सीटें भी घोषित कर दीं, जिनमें दो सीटें सहारनपुर संसदीय क्षेत्र से थीं जहां से इमरान मसूद सांसद हैं.
+
+सपा की ओर सीटें घोषित किए जाने के बाद इमरान मसूद ने तीखी प्रतिक्रिया दी.
+
+उन्होंने कहा "हम भिखारी नहीं हैं, जो अखिलेश जी की ख़ैरात का इंतज़ार कर रहे हैं. मैं समझ नहीं पा रहा हूँ कि आप कांग्रेस को भिखारी कैसे मान सकते हैं. हमने आपसे सीटें नहीं मांगी थीं और आपने खुद ही सीटों का एलान कर दिया."
+
+इक़रा हसन ने इस शब्दावली के इस्तेमाल पर 'आपत्ति' जताई और साथ ही ये भी कहा कि ज़मीनी हक़ीक़त के आधार पर गठबंधन तय होता है.
+
+इस बीच इमरान मसूद ने बहुजन समाज पार्टी (बसपा) अध्यक्ष मायावती के साथ गठबंधन के संकेत दिया जिससे मामला और तूल पकड़ गया. हालांकि बाद में उन्होंने कहा कि 'ऐसी कोई बात नहीं है.'
+
+इमरान मसूद ने कहा , "हमने सभी को साथ में आने को कहा है जो धर्मनिरपेक्ष लोग हैं. मगर बहनजी (मायावती) निकलें तो...वे निकलती नहीं हैं."
+
+उन्होंने आगे सपा-कांग्रेस गठबंधन में खींचतान और उम्मीदवारों की घोषणा पर कहा, "गठबंधन होगा तो सम्मान के साथ होगा... हम किसी दबाव में न थे, न हैं और न ही होंगे. जहां राहुल गांधी खड़े होंगे भाजपा को हराने की लड़ाई वहां से शुरू होगी.  हम पूरे देश में बीजेपी से लड़ रहे हैं."
+
+### सीट शेयरिंग वार्ता और इमरान मसूद के बयान
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+सीट बंटवारे पर बातचीत के लिए समाजवादी पार्टी ने रामगोपाल यादव, श्यामलाल पाल, राजीव राय और इक़रा हसन की कमेटी बनाई है, जबकि कांग्रेस की कमेटी में राजेंद्र पाल गौतम, यूपी प्रदेश अध्यक्ष आराधना मिश्रा, इमरान मसूद और केसी वेणुगोपाल शामिल हैं.
+
+तय हुआ था कि इन कमेटियों के बीच बातचीत के बाद एक विस्तृत रिपोर्ट तैयार होगी, जिसे दोनों दल अपने-अपने नेतृत्व को सौंपेंगे.
+
+यह वार्ता सोमवार, मंगलवार और बुधवार को हुई. लेकिन एक दौर की वार्ता के बाद ही टकराव सामने आ गए जब इमरान मसूद ने कहा , "जो गठबंधन होगा वो सम्मान के साथ होगा, बात होगी तो सम्मान के साथ होगी. चर्चा कमरे में होगी और प्रेस वाले हमें सूची देंगे तो ये कोई बात नहीं होती है. जहां राहुल गांधी खड़े होंगे, बीजेपी को हराने की लड़ाई वहां से शुरू होगी. उनके बिना उस लड़ाई का कोई वजूद नहीं है."
+
+कांग्रेस के 60 सीटों पर मान जाने की ख़बरों पर गुरुवार को इमरान मसूद ने कहा, "फिर हमारे चुनाव लड़ने का क्या मतलब है? क्या हम इस चुनाव का मज़ाक बना रहे हैं? हमें अपनी पार्टी का अस्तित्व स्थापित करना है. हमें अपनी पार्टी को मज़बूत करना है और इसके लिए मैं जो कुछ कर सकता हूं, वह करूंगा..."
+
+समाजवादी पार्टी के घोषणापत्र जारी करने के कार्यक्रम में बुलाए जाने के सवाल पर उन्होंने कहा , "मुझे इसकी जानकारी नहीं है. उम्मीदवारों की सूची समाजवादी पार्टी की है और घोषणापत्र भी समाजवादी पार्टी का है, तो आप मुझसे क्यों पूछ रहे हैं? गठबंधन का मतलब ही यह है कि आम तौर पर साझा प्रेस कॉन्फ्रेंस होती है. गठबंधन का यही मतलब है. मुझे नहीं पता कि यहां कुछ और हो रहा है या नहीं."
+
+उन्होंने कहा कि जब अखिलेश जी मुख्यमंत्री थे हमने 107 सीटों पर चुनाव लड़ा था, अभी तो बनना (मुख्यमंत्री) है.
+
+वार्ता में कांग्रेस की ओर से इमरान मसूद का रुख़ अधिक हमलावर रहा है.
+
+सीट बंटवारे को लेकर उन्होंने एक दिन पहले ही कहा था, "हम आपके प्रस्ताव को क्यों लेंगे. हमने आपसे 26 सीटों के लिए कहा था? हमें नहीं चाहिए आपकी 26 सीटों का प्रस्ताव. हम भिखारी तो नहीं हैं. अगर हम दिल्ली में गठबंधन पर बातचीत के लिए बैठे हैं, और फिर आप लखनऊ से घोषणा कर रहे हैं तो फिर उस चर्चा के मायने क्या हैं? हमें पत्रकारों से पता चले कि आपने 26 सीटें घोषित कर दीं, तो फिर चर्चा क्यों हो रही है."
+
+हालांकि, समाजवादी पार्टी के शीर्ष नेतृत्व की ओर से कोई बड़ा बयान नहीं आया है, लेकिन पार्टी की सांसद इक़रा हसन ने इमरान मसूद के बयानों पर प्रतिक्रिया दी है.
+
+इमरान मसूद के दावों का काउंटर करने के लिए इक़रा हसन अधिक मुखर हैं.
+
+उन्होंने एक वीडियो साझा करते हुए बुधवार को एक्स पर लिखा , "जो लोग सीट बंटवारे को लेकर सवाल उठा रहे हैं, उन्हें ये आंकड़े भी देख लेने चाहिए. गठबंधन केवल दावों से नहीं, ज़मीनी हक़ीक़त और आंकड़ों से तय होता है."
+
+दरअसल, वीडियो में दावा किया गया है कि जिन पांच सीटों की सूची सपा ने मंगलवार को जारी की थी, उनमें चार उनकी मौजूदा जीती हुई सीट हैं. इसमें ये भी कहा गया है कि इन पांचों सीटों पर सपा को कुल मिलाकर क़रीब 5 लाख 70 हजार वोट मिले और काँग्रेस को 10 हज़ार भी वोट नहीं मिले.
+
+इमरान मसूद के दावों पर इक़रा हसन ने कहा , "मैं सांसद इमरान मसूद की बात समझ नहीं पा रही हूं. अगर मेरे लोकसभा क्षेत्र की कोई सीट गठबंधन के खाते में जाती है, तो ज़ाहिर है कि मेरे राजनीतिक समीकरण बिगड़ेंगे और मुझे दुख होगा. लेकिन क्या मेरा दुख गठबंधन से बड़ा है? क्या मेरी राजनीतिक महत्वाकांक्षा और मेरा अहंकार गठबंधन से बड़ा हो सकता है?"
+
+"इसलिए आपको अपना अहंकार और दुख किनारे रखना होगा. उत्तर प्रदेश के जिन लोगों को बीजेपी की नफ़रत भरी राजनीति ने परेशान किया है, जिन्हें प्रताड़ित किया है और जिनकी ज़िंदगी मुश्किल बनाई है, उन्हें इससे निजात दिलाने और बीजेपी को हराने के लिए आपको अपनी ज़िद और दबाव बनाने की कोशिश छोड़नी होगी. अगर आपका दावा तर्कसंगत है, तो बात अलग है. खासकर तब, जब उन सीटों पर उनके मौजूदा विधायक हों."
+
+इक़रा ने कांग्रेस पर भी निशाना साधा और कहा , "केंद्र में कांग्रेस की तमाम लड़ाइयों में समाजवादी पार्टी ने सबसे ज़्यादा कंधे से कंधा मिलाकर उसका साथ दिया है. चाहे लोकसभा में नेता प्रतिपक्ष का पद हासिल करने की बात हो. अगर हमने उनका समर्थन नहीं किया होता, तो शायद आज वह पद भी उन्हें नहीं मिल पाता. उत्तर प्रदेश के चुनाव में भी हम उनसे इसी तरह की प्रतिबद्धता और सीटों के बंटवारे में सहयोग की उम्मीद करते हैं."
+
+गठबंधन को लेकर उन्होंने कहा , "इस पर फ़ैसला कांग्रेस को करना है. इस तरह की बयानबाज़ी और बिना किसी औपचारिक नेतृत्व की सहमति के ऐसे बयान देना मुझे उचित नहीं लगता. अगर वे गठबंधन नहीं करना चाहते, तो कांग्रेस नेतृत्व को हमें यह बात बता देनी चाहिए. हमें इससे कोई दिक़्क़त नहीं है."
+
+"हमारे लिए उत्तर प्रदेश का चुनाव बहुत अहम है. हो सकता है कि कांग्रेस के लिए 2029 का चुनाव या दूसरे राज्यों के चुनाव ज़्यादा अहम हों. लेकिन समाजवादी पार्टी और पीडीए के लोगों के लिए यह चुनाव बेहद महत्वपूर्ण है. हम पूरी गंभीरता और प्रतिबद्धता के साथ, अपने सहयोगियों का सम्मान करते हुए ऐसे चुनावी समीकरण के साथ मैदान में उतरना चाहते हैं, जिससे हमारी जीत सुनिश्चित हो सके."
+
+इमरान मसूद के 'भिखारी' वाले बयान पर इक़रा हसन ने कहा , "जिस तरह की बयानबाज़ी कांग्रेस शुरू से करती रही है, हमने आजतक उन्हीं के शब्दों में कभी जवाब नहीं दिया. क्योंकि हम समझते हैं कि राजनीति में सम्मान बहुत बड़ी चीज़ होती है. हमने कभी भी सम्मान की वो रेखा नहीं लांघी है और हम आगे भी नहीं चाहते हैं लेकिन चुनाव ज़मीनी हकीक़त पर लड़े जाते हैं, न कोई भीख दी गई है न मांगी गई है. इस तरह की शब्दावली का हम विरोध करते हैं. उनसे हम यही कहेंगे कि इस तरह की बातचीत वो न करें जिससे गठबंधन पर फर्क पड़े."
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cw0k6z47j76jo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `उत्तर प्रदेश: इक़रा हसन और इमरान मसूद के बीच बयानबाज़ी, सपा-कांग्रेस में गठबंधन पर बात कहां तक पहुंची?`,
+    summary_hi: `उत्तर प्रदेश विधानसभा चुनाव के कुछ ही महीने बाक़ी हैं. समाजवादी पार्टी और कांग्रेस के बीच सीट साझेदारी को लेकर खींचतान तीखी बयानबाज़ी में तब्दील हो गई है.`,
+    content_hi: `उत्तर प्रदेश विधानसभा चुनाव के कुछ ही महीने बाक़ी हैं. समाजवादी पार्टी और कांग्रेस के बीच सीट साझेदारी को लेकर खींचतान तीखी बयानबाज़ी में तब्दील हो गई है.
+
+पश्चिम यूपी में इक़रा हसन समाजवादी पार्टी से और इमरान मसूद कांग्रेस से सांसद हैं. गठबंधन में सीट शेयरिंग को लेकर वार्ता में दोनों ही अपनी अपनी पार्टी के प्रतिनिधिमंडल में शामिल हैं.
+
+दोनों दलों के बीच तीन दिनों तक चली वार्ता के बाद भी सीट शेयरिंग को लेकर स्थिति साफ़ नहीं है. लेकिन इस बीच इमरान मसूद और इक़रा हसन के बीच ज़ुबानी जंग बढ़ गई है.
+
+बयानबाज़ी तब शुरू हुई जब पहले दिन की वार्ता के बाद मंगलवार शाम को समाजवादी पार्टी ने कांग्रेस के लिए 26 सीटें देने की बात की. इसके बाद पार्टी ने अपने पांच उम्मीदवारों की सीटें भी घोषित कर दीं, जिनमें दो सीटें सहारनपुर संसदीय क्षेत्र से थीं जहां से इमरान मसूद सांसद हैं.
+
+सपा की ओर सीटें घोषित किए जाने के बाद इमरान मसूद ने तीखी प्रतिक्रिया दी.
+
+उन्होंने कहा "हम भिखारी नहीं हैं, जो अखिलेश जी की ख़ैरात का इंतज़ार कर रहे हैं. मैं समझ नहीं पा रहा हूँ कि आप कांग्रेस को भिखारी कैसे मान सकते हैं. हमने आपसे सीटें नहीं मांगी थीं और आपने खुद ही सीटों का एलान कर दिया."
+
+इक़रा हसन ने इस शब्दावली के इस्तेमाल पर 'आपत्ति' जताई और साथ ही ये भी कहा कि ज़मीनी हक़ीक़त के आधार पर गठबंधन तय होता है.
+
+इस बीच इमरान मसूद ने बहुजन समाज पार्टी (बसपा) अध्यक्ष मायावती के साथ गठबंधन के संकेत दिया जिससे मामला और तूल पकड़ गया. हालांकि बाद में उन्होंने कहा कि 'ऐसी कोई बात नहीं है.'
+
+इमरान मसूद ने कहा , "हमने सभी को साथ में आने को कहा है जो धर्मनिरपेक्ष लोग हैं. मगर बहनजी (मायावती) निकलें तो...वे निकलती नहीं हैं."
+
+उन्होंने आगे सपा-कांग्रेस गठबंधन में खींचतान और उम्मीदवारों की घोषणा पर कहा, "गठबंधन होगा तो सम्मान के साथ होगा... हम किसी दबाव में न थे, न हैं और न ही होंगे. जहां राहुल गांधी खड़े होंगे भाजपा को हराने की लड़ाई वहां से शुरू होगी.  हम पूरे देश में बीजेपी से लड़ रहे हैं."
+
+### सीट शेयरिंग वार्ता और इमरान मसूद के बयान
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+सीट बंटवारे पर बातचीत के लिए समाजवादी पार्टी ने रामगोपाल यादव, श्यामलाल पाल, राजीव राय और इक़रा हसन की कमेटी बनाई है, जबकि कांग्रेस की कमेटी में राजेंद्र पाल गौतम, यूपी प्रदेश अध्यक्ष आराधना मिश्रा, इमरान मसूद और केसी वेणुगोपाल शामिल हैं.
+
+तय हुआ था कि इन कमेटियों के बीच बातचीत के बाद एक विस्तृत रिपोर्ट तैयार होगी, जिसे दोनों दल अपने-अपने नेतृत्व को सौंपेंगे.
+
+यह वार्ता सोमवार, मंगलवार और बुधवार को हुई. लेकिन एक दौर की वार्ता के बाद ही टकराव सामने आ गए जब इमरान मसूद ने कहा , "जो गठबंधन होगा वो सम्मान के साथ होगा, बात होगी तो सम्मान के साथ होगी. चर्चा कमरे में होगी और प्रेस वाले हमें सूची देंगे तो ये कोई बात नहीं होती है. जहां राहुल गांधी खड़े होंगे, बीजेपी को हराने की लड़ाई वहां से शुरू होगी. उनके बिना उस लड़ाई का कोई वजूद नहीं है."
+
+कांग्रेस के 60 सीटों पर मान जाने की ख़बरों पर गुरुवार को इमरान मसूद ने कहा, "फिर हमारे चुनाव लड़ने का क्या मतलब है? क्या हम इस चुनाव का मज़ाक बना रहे हैं? हमें अपनी पार्टी का अस्तित्व स्थापित करना है. हमें अपनी पार्टी को मज़बूत करना है और इसके लिए मैं जो कुछ कर सकता हूं, वह करूंगा..."
+
+समाजवादी पार्टी के घोषणापत्र जारी करने के कार्यक्रम में बुलाए जाने के सवाल पर उन्होंने कहा , "मुझे इसकी जानकारी नहीं है. उम्मीदवारों की सूची समाजवादी पार्टी की है और घोषणापत्र भी समाजवादी पार्टी का है, तो आप मुझसे क्यों पूछ रहे हैं? गठबंधन का मतलब ही यह है कि आम तौर पर साझा प्रेस कॉन्फ्रेंस होती है. गठबंधन का यही मतलब है. मुझे नहीं पता कि यहां कुछ और हो रहा है या नहीं."
+
+उन्होंने कहा कि जब अखिलेश जी मुख्यमंत्री थे हमने 107 सीटों पर चुनाव लड़ा था, अभी तो बनना (मुख्यमंत्री) है.
+
+वार्ता में कांग्रेस की ओर से इमरान मसूद का रुख़ अधिक हमलावर रहा है.
+
+सीट बंटवारे को लेकर उन्होंने एक दिन पहले ही कहा था, "हम आपके प्रस्ताव को क्यों लेंगे. हमने आपसे 26 सीटों के लिए कहा था? हमें नहीं चाहिए आपकी 26 सीटों का प्रस्ताव. हम भिखारी तो नहीं हैं. अगर हम दिल्ली में गठबंधन पर बातचीत के लिए बैठे हैं, और फिर आप लखनऊ से घोषणा कर रहे हैं तो फिर उस चर्चा के मायने क्या हैं? हमें पत्रकारों से पता चले कि आपने 26 सीटें घोषित कर दीं, तो फिर चर्चा क्यों हो रही है."
+
+हालांकि, समाजवादी पार्टी के शीर्ष नेतृत्व की ओर से कोई बड़ा बयान नहीं आया है, लेकिन पार्टी की सांसद इक़रा हसन ने इमरान मसूद के बयानों पर प्रतिक्रिया दी है.
+
+इमरान मसूद के दावों का काउंटर करने के लिए इक़रा हसन अधिक मुखर हैं.
+
+उन्होंने एक वीडियो साझा करते हुए बुधवार को एक्स पर लिखा , "जो लोग सीट बंटवारे को लेकर सवाल उठा रहे हैं, उन्हें ये आंकड़े भी देख लेने चाहिए. गठबंधन केवल दावों से नहीं, ज़मीनी हक़ीक़त और आंकड़ों से तय होता है."
+
+दरअसल, वीडियो में दावा किया गया है कि जिन पांच सीटों की सूची सपा ने मंगलवार को जारी की थी, उनमें चार उनकी मौजूदा जीती हुई सीट हैं. इसमें ये भी कहा गया है कि इन पांचों सीटों पर सपा को कुल मिलाकर क़रीब 5 लाख 70 हजार वोट मिले और काँग्रेस को 10 हज़ार भी वोट नहीं मिले.
+
+इमरान मसूद के दावों पर इक़रा हसन ने कहा , "मैं सांसद इमरान मसूद की बात समझ नहीं पा रही हूं. अगर मेरे लोकसभा क्षेत्र की कोई सीट गठबंधन के खाते में जाती है, तो ज़ाहिर है कि मेरे राजनीतिक समीकरण बिगड़ेंगे और मुझे दुख होगा. लेकिन क्या मेरा दुख गठबंधन से बड़ा है? क्या मेरी राजनीतिक महत्वाकांक्षा और मेरा अहंकार गठबंधन से बड़ा हो सकता है?"
+
+"इसलिए आपको अपना अहंकार और दुख किनारे रखना होगा. उत्तर प्रदेश के जिन लोगों को बीजेपी की नफ़रत भरी राजनीति ने परेशान किया है, जिन्हें प्रताड़ित किया है और जिनकी ज़िंदगी मुश्किल बनाई है, उन्हें इससे निजात दिलाने और बीजेपी को हराने के लिए आपको अपनी ज़िद और दबाव बनाने की कोशिश छोड़नी होगी. अगर आपका दावा तर्कसंगत है, तो बात अलग है. खासकर तब, जब उन सीटों पर उनके मौजूदा विधायक हों."
+
+इक़रा ने कांग्रेस पर भी निशाना साधा और कहा , "केंद्र में कांग्रेस की तमाम लड़ाइयों में समाजवादी पार्टी ने सबसे ज़्यादा कंधे से कंधा मिलाकर उसका साथ दिया है. चाहे लोकसभा में नेता प्रतिपक्ष का पद हासिल करने की बात हो. अगर हमने उनका समर्थन नहीं किया होता, तो शायद आज वह पद भी उन्हें नहीं मिल पाता. उत्तर प्रदेश के चुनाव में भी हम उनसे इसी तरह की प्रतिबद्धता और सीटों के बंटवारे में सहयोग की उम्मीद करते हैं."
+
+गठबंधन को लेकर उन्होंने कहा , "इस पर फ़ैसला कांग्रेस को करना है. इस तरह की बयानबाज़ी और बिना किसी औपचारिक नेतृत्व की सहमति के ऐसे बयान देना मुझे उचित नहीं लगता. अगर वे गठबंधन नहीं करना चाहते, तो कांग्रेस नेतृत्व को हमें यह बात बता देनी चाहिए. हमें इससे कोई दिक़्क़त नहीं है."
+
+"हमारे लिए उत्तर प्रदेश का चुनाव बहुत अहम है. हो सकता है कि कांग्रेस के लिए 2029 का चुनाव या दूसरे राज्यों के चुनाव ज़्यादा अहम हों. लेकिन समाजवादी पार्टी और पीडीए के लोगों के लिए यह चुनाव बेहद महत्वपूर्ण है. हम पूरी गंभीरता और प्रतिबद्धता के साथ, अपने सहयोगियों का सम्मान करते हुए ऐसे चुनावी समीकरण के साथ मैदान में उतरना चाहते हैं, जिससे हमारी जीत सुनिश्चित हो सके."
+
+इमरान मसूद के 'भिखारी' वाले बयान पर इक़रा हसन ने कहा , "जिस तरह की बयानबाज़ी कांग्रेस शुरू से करती रही है, हमने आजतक उन्हीं के शब्दों में कभी जवाब नहीं दिया. क्योंकि हम समझते हैं कि राजनीति में सम्मान बहुत बड़ी चीज़ होती है. हमने कभी भी सम्मान की वो रेखा नहीं लांघी है और हम आगे भी नहीं चाहते हैं लेकिन चुनाव ज़मीनी हकीक़त पर लड़े जाते हैं, न कोई भीख दी गई है न मांगी गई है. इस तरह की शब्दावली का हम विरोध करते हैं. उनसे हम यही कहेंगे कि इस तरह की बातचीत वो न करें जिससे गठबंधन पर फर्क पड़े."
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cw0k6z47j76jo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक उत्तर प्रदेश: इक़रा हसन और इमरान मसूद के बीच बयानबाज़ी, सपा-कांग्रेस में गठबंधन पर बात कहां तक पहुंची? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 97984,
+    title: `कॉकरोच जनता पार्टी के नेता सौरव दास के खिलाफ मुंबई पुलिस ने जारी किया लुकआउट सर्कुलर, केंद्र ने दिल्ली हाईकोर्ट को बताया - AajTak`,
+    slug: `politics-breaking-report-27458-97984-2026`,
+    original_title: `कॉकरोच जनता पार्टी के नेता सौरव दास के खिलाफ मुंबई पुलिस ने जारी किया लुकआउट सर्कुलर, केंद्र ने दिल्ली हाईकोर्ट को बताया - AajTak`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:07:42Z`,
+    updated_at: `2026-11-26T14:07:42Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/india/news/story/mumbai-police-lookout-circular-cockroach-janta-party-sourav-das-delhi-high-court-london-oxford-university-travel-ntc-agkp-rpti-2706913-2026-11-26`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0818de1105e-cjp-mumbai-263245328.png`,
+    image_alt: `कॉकरोच जनता पार्टी के नेता सौरव दास के खिलाफ मुंबई पुलिस ने जारी किया लुकआउट सर्कुलर, केंद्र ने दिल्ली हाईकोर्ट को बताया - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `सीजेपी ने 2 अक्टूबर को मुंबई के शिवाजी पार्क में प्रदर्शन किया था. मुंबई पुलिस ने इसकी इजाजत नहीं दी थी, फिर भी पार्टी ने प्रदर्शन किया. प्रदर्शनकारी मुख्य चुनाव आयुक्त ज्ञानेश कुमार के इस्तीफे की मांग कर रहे थे. और पढ़ेंइसके बाद शिवाजी पार`,
+    content: `सीजेपी ने 2 अक्टूबर को मुंबई के शिवाजी पार्क में प्रदर्शन किया था. मुंबई पुलिस ने इसकी इजाजत नहीं दी थी, फिर भी पार्टी ने प्रदर्शन किया. प्रदर्शनकारी मुख्य चुनाव आयुक्त ज्ञानेश कुमार के इस्तीफे की मांग कर रहे थे. और पढ़ेंइसके बाद शिवाजी पार्क पुलिस स्टेशन में एफआईआर दर्ज हुई. इसमें आयोजकों के नाम हैं और 400 से 500 अज्ञात लोगों को भी शामिल किया गया है.
+
+पुलिस ने भारतीय न्याय संहिता की धारा 189 और 223 लगाई है. धारा 189 गैरकानूनी जमावड़े से जुड़ी है और धारा 223 सरकारी अधिकारी के आदेश की अवहेलना से. महाराष्ट्र पुलिस अधिनियम की धाराएं भी लगाई गई हैं. इसी मामले में अब अभिजीत दिपके और आशुतोष रांका के खिलाफ लुकआउट नोटिस जारी किए गए हैं.इससे पहले सौरव दास के खिलाफ लुकआउट सर्कुलर जारी हुआ था.
+
+दास ब्रिटेन जाने के लिए दिल्ली एयरपोर्ट पहुंचे, लेकिन इमिग्रेशन अधिकारियों ने उन्हें विमान में चढ़ने से रोक दिया. दास के मुताबिक ऑक्सफोर्ड यूनिवर्सिटी स्टूडेंट्स यूनियन ने उन्हें एक पैनल चर्चा के लिए बुलाया था. उन्हें इमिग्रेशन पर पहुंचकर ही पता चला कि उनका पासपोर्ट फ्लैग किया गया है.
+
+इसके बाद उन्होंने दिल्ली हाई कोर्ट का दरवाजा खटखटाया. Advertisement        यह भी पढ़ें: CJP प्रवक्ता सौरभ दास के घर में घुसे यूट्यूबर्स, भड़का विपक्ष, राहुल बोले-छात्रों के घर भेजे जा रहे गुंडेगुरुवार को सुनवाई के दौरान केंद्र ने बताया कि यह सर्कुलर मुंबई पुलिस के अनुरोध पर जारी हुआ था.
+
+अतिरिक्त सॉलिसिटर जनरल चेतन शर्मा ने जस्टिस अमित महाजन को बताया कि गड़बड़ियां दास की स्कूली पढ़ाई, पते और माता पिता की जानकारी से जुड़ी हैं. उनके मुताबिक इनसे दास की भारतीय नागरिकता पर भी सवाल उठ सकते हैं.दास की ओर से वरिष्ठ वकील अखिल सिब्बल ने कहा कि दास को कारण बताओ नोटिस एयरपोर्ट पहुंचने के बाद ही मिला.
+
+उन्होंने सवाल उठाया कि सर्कुलर की जानकारी दिए बिना और रोक का कोई आदेश दिखाए बिना किसी को देश छोड़ने से कैसे रोका जा सकता है. सिब्बल ने कहा, &amp;quot;मुझे कुछ भी नहीं दिया गया है. किसी को तो बताना होगा कि एलओसी है. नागरिकों के साथ ऐसा बर्ताव कैसे हो सकता है.&amp;quot;सिब्बल ने सर्कुलर की कॉपी मांगी और पूछा कि यह कब जारी हुआ और किस अपराध के सिलसिले में.
+
+शर्मा ने कहा कि केंद्र कॉपी नहीं दे सकता और दास चाहें तो अलग कार्यवाही में सर्कुलर को चुनौती दे सकते हैं.---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/india/news/story/mumbai-police-lookout-circular-cockroach-janta-party-sourav-das-delhi-high-court-london-oxford-university-travel-ntc-agkp-rpti-2706913-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `कॉकरोच जनता पार्टी के नेता सौरव दास के खिलाफ मुंबई पुलिस ने जारी किया लुकआउट सर्कुलर, केंद्र ने दिल्ली हाईकोर्ट को बताया - AajTak`,
+    summary_hi: `सीजेपी ने 2 अक्टूबर को मुंबई के शिवाजी पार्क में प्रदर्शन किया था. मुंबई पुलिस ने इसकी इजाजत नहीं दी थी, फिर भी पार्टी ने प्रदर्शन किया. प्रदर्शनकारी मुख्य चुनाव आयुक्त ज्ञानेश कुमार के इस्तीफे की मांग कर रहे थे. और पढ़ेंइसके बाद शिवाजी पार`,
+    content_hi: `सीजेपी ने 2 अक्टूबर को मुंबई के शिवाजी पार्क में प्रदर्शन किया था. मुंबई पुलिस ने इसकी इजाजत नहीं दी थी, फिर भी पार्टी ने प्रदर्शन किया. प्रदर्शनकारी मुख्य चुनाव आयुक्त ज्ञानेश कुमार के इस्तीफे की मांग कर रहे थे. और पढ़ेंइसके बाद शिवाजी पार्क पुलिस स्टेशन में एफआईआर दर्ज हुई. इसमें आयोजकों के नाम हैं और 400 से 500 अज्ञात लोगों को भी शामिल किया गया है.
+
+पुलिस ने भारतीय न्याय संहिता की धारा 189 और 223 लगाई है. धारा 189 गैरकानूनी जमावड़े से जुड़ी है और धारा 223 सरकारी अधिकारी के आदेश की अवहेलना से. महाराष्ट्र पुलिस अधिनियम की धाराएं भी लगाई गई हैं. इसी मामले में अब अभिजीत दिपके और आशुतोष रांका के खिलाफ लुकआउट नोटिस जारी किए गए हैं.इससे पहले सौरव दास के खिलाफ लुकआउट सर्कुलर जारी हुआ था.
+
+दास ब्रिटेन जाने के लिए दिल्ली एयरपोर्ट पहुंचे, लेकिन इमिग्रेशन अधिकारियों ने उन्हें विमान में चढ़ने से रोक दिया. दास के मुताबिक ऑक्सफोर्ड यूनिवर्सिटी स्टूडेंट्स यूनियन ने उन्हें एक पैनल चर्चा के लिए बुलाया था. उन्हें इमिग्रेशन पर पहुंचकर ही पता चला कि उनका पासपोर्ट फ्लैग किया गया है.
+
+इसके बाद उन्होंने दिल्ली हाई कोर्ट का दरवाजा खटखटाया. Advertisement        यह भी पढ़ें: CJP प्रवक्ता सौरभ दास के घर में घुसे यूट्यूबर्स, भड़का विपक्ष, राहुल बोले-छात्रों के घर भेजे जा रहे गुंडेगुरुवार को सुनवाई के दौरान केंद्र ने बताया कि यह सर्कुलर मुंबई पुलिस के अनुरोध पर जारी हुआ था.
+
+अतिरिक्त सॉलिसिटर जनरल चेतन शर्मा ने जस्टिस अमित महाजन को बताया कि गड़बड़ियां दास की स्कूली पढ़ाई, पते और माता पिता की जानकारी से जुड़ी हैं. उनके मुताबिक इनसे दास की भारतीय नागरिकता पर भी सवाल उठ सकते हैं.दास की ओर से वरिष्ठ वकील अखिल सिब्बल ने कहा कि दास को कारण बताओ नोटिस एयरपोर्ट पहुंचने के बाद ही मिला.
+
+उन्होंने सवाल उठाया कि सर्कुलर की जानकारी दिए बिना और रोक का कोई आदेश दिखाए बिना किसी को देश छोड़ने से कैसे रोका जा सकता है. सिब्बल ने कहा, &amp;quot;मुझे कुछ भी नहीं दिया गया है. किसी को तो बताना होगा कि एलओसी है. नागरिकों के साथ ऐसा बर्ताव कैसे हो सकता है.&amp;quot;सिब्बल ने सर्कुलर की कॉपी मांगी और पूछा कि यह कब जारी हुआ और किस अपराध के सिलसिले में.
+
+शर्मा ने कहा कि केंद्र कॉपी नहीं दे सकता और दास चाहें तो अलग कार्यवाही में सर्कुलर को चुनौती दे सकते हैं.---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/india/news/story/mumbai-police-lookout-circular-cockroach-janta-party-sourav-das-delhi-high-court-london-oxford-university-travel-ntc-agkp-rpti-2706913-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक कॉकरोच जनता पार्टी के नेता सौरव दास के खिलाफ मुंबई पुलिस ने जारी किया लुकआउट सर्कुलर, केंद्र ने दिल्ली हाईकोर्ट को बताया - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 97985,
+    title: `Samsung Galaxy Watch8 Receives One UI 9 Update with Health Features - India News Network`,
+    slug: `samsung-galaxy-watch8-receives-one-ui-9-update-with-health-features-in-2026`,
+    original_title: `Samsung Galaxy Watch8 Receives One UI 9 Update with Health Features - India News Network`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:07:45Z`,
+    updated_at: `2026-11-26T14:07:45Z`,
+    source_name: `India News Network`,
+    source_url: `https://www.indianewsnetwork.com/en/samsung-galaxy-watch8-receives-one-ui-9-update-health-features-20261126`,
+    source_courtesy: `Source: India News Network`,
+    image_url: `/images/articles/samsung-galaxy-watch8-receives-one-ui-9-update-with-health-features-in-2026.webp`,
+    image_alt: `Samsung Galaxy Watch8 Receives One UI 9 Update with Health Features - India News Network`,
+    image_courtesy: `Image: India News Network (External Source Attribution)`,
+    image_photographer: `India News Network`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Samsung has commenced the rollout of its One UI 9 Watch update for the Galaxy Watch8 series, which includes the Galaxy Watch8 and Galaxy Watch8 Classic. This latest software upgrade enriches the devices with advanced features aimed at impro`,
+    content: `Samsung has commenced the rollout of its One UI 9 Watch update for the Galaxy Watch8 series, which includes the Galaxy Watch8 and Galaxy Watch8 Classic. This latest software upgrade enriches the devices with advanced features aimed at improving health tracking and user fitness. The One UI 9 update introduces several noteworthy enhancements, particularly in heart health monitoring.
+
+Among these new features are Vitals, Heart Health Score, Daily Cardio Load, and an upgraded Sleep Coaching system. These tools allow users to gain comprehensive insights into their health, fitness, and sleep habits. The Vitals feature tracks five critical biometric indicators: heart rate, heart rate variability, respiratory rate, skin temperature, and blood oxygen saturation.
+
+This information helps establish a personal health baseline, alerting users when any critical deviations occur. Another key feature, the Heart Health Score, provides users with an overall assessment of their heart condition, allowing them to understand how their lifestyle choices affect heart health.
+
+The Daily Cardio Load feature assists users in balancing workout intensity and recovery by assessing the strain from daily activities and suggesting optimal load levels for health maintenance. In conjunction with these fitness features, the update enhances sleep tracking functionalities, offering users tailored Sleep Coaching based on their sleep patterns.
+
+This guidance starts with data from just three nights' sleep within two weeks, adapting weekly based on ongoing patterns. The update further includes the ability to detect Sleep Apnea for users in selected regions. Sleep Apnea is a disorder characterized by interrupted breathing during sleep, which can present serious health risks if untreated.
+
+Aside from health-centric improvements, the One UI 9 Watch update also introduces a Portrait Watch Face, allowing users to showcase favourite moments directly on their wrist. Additionally, the update provides an upgraded compass feature, enabling users to save important locations, such as parking spots or campsites, and to navigate back using recorded routes.
+
+The announcement reflects Samsung's commitment to enhancing user experience with its wearables, positioning the Galaxy Watch8 series as competitive against leading fitness trackers in the market. With these enhancements, users can expect a more holistic view of their health and efficiently manage their day-to-day activities.
+
+The One UI 9 update is now available for download on eligible Galaxy Watch8 devices, offering users a chance to enhance their smartwatch experience today. Samsung continues to roll out improvements for its wearable technology, reinforcing its position in the health and fitness technology sector.
+
+---
+
+**Original Source:** [India News Network](https://www.indianewsnetwork.com/en/samsung-galaxy-watch8-receives-one-ui-9-update-health-features-20261126)`,
+    title_en: `Samsung Galaxy Watch8 Receives One UI 9 Update with Health Features - India News Network`,
+    summary_en: `Samsung has commenced the rollout of its One UI 9 Watch update for the Galaxy Watch8 series, which includes the Galaxy Watch8 and Galaxy Watch8 Classic. This latest software upgrade enriches the devices with advanced features aimed at impro`,
+    content_en: `Samsung has commenced the rollout of its One UI 9 Watch update for the Galaxy Watch8 series, which includes the Galaxy Watch8 and Galaxy Watch8 Classic. This latest software upgrade enriches the devices with advanced features aimed at improving health tracking and user fitness. The One UI 9 update introduces several noteworthy enhancements, particularly in heart health monitoring.
+
+Among these new features are Vitals, Heart Health Score, Daily Cardio Load, and an upgraded Sleep Coaching system. These tools allow users to gain comprehensive insights into their health, fitness, and sleep habits. The Vitals feature tracks five critical biometric indicators: heart rate, heart rate variability, respiratory rate, skin temperature, and blood oxygen saturation.
+
+This information helps establish a personal health baseline, alerting users when any critical deviations occur. Another key feature, the Heart Health Score, provides users with an overall assessment of their heart condition, allowing them to understand how their lifestyle choices affect heart health.
+
+The Daily Cardio Load feature assists users in balancing workout intensity and recovery by assessing the strain from daily activities and suggesting optimal load levels for health maintenance. In conjunction with these fitness features, the update enhances sleep tracking functionalities, offering users tailored Sleep Coaching based on their sleep patterns.
+
+This guidance starts with data from just three nights' sleep within two weeks, adapting weekly based on ongoing patterns. The update further includes the ability to detect Sleep Apnea for users in selected regions. Sleep Apnea is a disorder characterized by interrupted breathing during sleep, which can present serious health risks if untreated.
+
+Aside from health-centric improvements, the One UI 9 Watch update also introduces a Portrait Watch Face, allowing users to showcase favourite moments directly on their wrist. Additionally, the update provides an upgraded compass feature, enabling users to save important locations, such as parking spots or campsites, and to navigate back using recorded routes.
+
+The announcement reflects Samsung's commitment to enhancing user experience with its wearables, positioning the Galaxy Watch8 series as competitive against leading fitness trackers in the market. With these enhancements, users can expect a more holistic view of their health and efficiently manage their day-to-day activities.
+
+The One UI 9 update is now available for download on eligible Galaxy Watch8 devices, offering users a chance to enhance their smartwatch experience today. Samsung continues to roll out improvements for its wearable technology, reinforcing its position in the health and fitness technology sector.
+
+---
+
+**Original Source:** [India News Network](https://www.indianewsnetwork.com/en/samsung-galaxy-watch8-receives-one-ui-9-update-health-features-20261126)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to India News Network.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Samsung Galaxy Watch8 Receives One UI 9 Update with Health Features - India News Network.`,
+    primary_source: `India News Network`,
+  },
+  {
+    id: 97986,
+    title: `Vivo launches X500 Pro Max, X500 and X500 along with Watch GT2`,
+    slug: `vivo-launches-x500-pro-max-x500-and-x500-along-with-watch-gt2-2026`,
+    original_title: `Vivo launches X500 Pro Max, X500 and X500 along with Watch GT2`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:07:47Z`,
+    updated_at: `2026-11-26T14:07:47Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/sci-tech/technology/gadgets/vivo-launches-x500-pro-max-x500-and-x500-along-with-watch-gt2/article71745760.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/vivo-launches-x500-pro-max-x500-and-x500-along-with-watch-gt2-2026.jpg`,
+    image_alt: `Vivo launches X500 Pro Max, X500 and X500 along with Watch GT2`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Vivo on Thursday (November 26, 2026) launched new smartphones under its super-premium X series, featuring Vivo X500 Pro Max, X500 Pro and X500. The camera-centric phones succeed the X300 series, and bring ZEISS-tuned lenses and OriginOS 7 o`,
+    content: `Vivo on Thursday (November 26, 2026) launched new smartphones under its super-premium X series, featuring Vivo X500 Pro Max, X500 Pro and X500. The camera-centric phones succeed the X300 series, and bring ZEISS-tuned lenses and OriginOS 7 out of the box. Vivo X Fold 6 Review | A serious alternative to Samsung and Google’s foldables storyline 1 The Chinese smartphone maker also launched its first smartwatch, Vivo Watch GT2, in India having a 2.07 inch display, with up to 25-day claimed battery life.
+
+The Vivo Watch GT2 costs ₹14,999. Vivo X500 Pro Max Vivo X500 Pro Max has a 6.85 inch flat LTPO AMOLED display, with up to 144Hz refresh rate and 5,000 nits peak brightness. Vivo X500 Pro Max ships with a 7,800 mAh battery supported by a 90W wired charger and a 40W wireless charging support.
+
+It is IP68 and IP69 rated for dust and water resistance. Vivo X500 Pro Max runs on MediaTek Dimensity 9600 Pro chipset with up to 12 GB RAM and 512 GB storage. It operates on OriginOS 7 based on Android 17 out of the box. The phone will get 7 years of OS and security patches. The Vivo X500 Pro Max sports a 50 MP main camera, a 200 MP telephoto camera and a 50 MP ultrawide lens.
+
+It has a 50 MP front camera. Vivo X500 Pro Max comes in Apex Orange and Eternal Black. It starts at ₹1,64,999 (12GB/256GB) and ₹1,79,999 (12GB/512GB). The sale begins December 3. Vivo X500 Pro Vivo X500 Pro get a 6.36 inch flat LTPO AMOLED display, with up to 144Hz refresh rate and 5,000 nits peak brightness.
+
+Vivo X500 Pro uses a 6,510 mAh battery with a 90W wired and 40W wireless charging support. Vivo X500 Pro also features MediaTek Dimensity 9600 Pro with up to 12 GB RAM and 256 GB storage. It too operates on OriginOS 7. Vivo X500 Pro sports a 50 MP main camera, a 64 MP telephoto lens and a 50 MP ultrawide camera.
+
+It also features a 50 MP selfie camera. Vivo X500 Pro starts at ₹1,49,999 (12GB/256GB). It goes on sale starting December 3. Vivo X500 The base model has a 6.59 inch display with similar refresh rate and peak brightness. It runs on a 7,500 mAh battery with a 90W wired and 40W wireless charging.
+
+Vivo X500 uses MediaTek Dimensity 9600M chipset with up to 12 GB RAM and 256 GB storage. Vivo X500 sports a 50 MP main camera, a 64 MP telephoto camera and a 50 MP ultrawide lens. It gets a 50 MP front camera. Vivo X500 costs ₹1,19,999. The sale starts December 3.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/sci-tech/technology/gadgets/vivo-launches-x500-pro-max-x500-and-x500-along-with-watch-gt2/article71745760.ece)`,
+    title_en: `Vivo launches X500 Pro Max, X500 and X500 along with Watch GT2`,
+    summary_en: `Vivo on Thursday (November 26, 2026) launched new smartphones under its super-premium X series, featuring Vivo X500 Pro Max, X500 Pro and X500. The camera-centric phones succeed the X300 series, and bring ZEISS-tuned lenses and OriginOS 7 o`,
+    content_en: `Vivo on Thursday (November 26, 2026) launched new smartphones under its super-premium X series, featuring Vivo X500 Pro Max, X500 Pro and X500. The camera-centric phones succeed the X300 series, and bring ZEISS-tuned lenses and OriginOS 7 out of the box. Vivo X Fold 6 Review | A serious alternative to Samsung and Google’s foldables storyline 1 The Chinese smartphone maker also launched its first smartwatch, Vivo Watch GT2, in India having a 2.07 inch display, with up to 25-day claimed battery life.
+
+The Vivo Watch GT2 costs ₹14,999. Vivo X500 Pro Max Vivo X500 Pro Max has a 6.85 inch flat LTPO AMOLED display, with up to 144Hz refresh rate and 5,000 nits peak brightness. Vivo X500 Pro Max ships with a 7,800 mAh battery supported by a 90W wired charger and a 40W wireless charging support.
+
+It is IP68 and IP69 rated for dust and water resistance. Vivo X500 Pro Max runs on MediaTek Dimensity 9600 Pro chipset with up to 12 GB RAM and 512 GB storage. It operates on OriginOS 7 based on Android 17 out of the box. The phone will get 7 years of OS and security patches. The Vivo X500 Pro Max sports a 50 MP main camera, a 200 MP telephoto camera and a 50 MP ultrawide lens.
+
+It has a 50 MP front camera. Vivo X500 Pro Max comes in Apex Orange and Eternal Black. It starts at ₹1,64,999 (12GB/256GB) and ₹1,79,999 (12GB/512GB). The sale begins December 3. Vivo X500 Pro Vivo X500 Pro get a 6.36 inch flat LTPO AMOLED display, with up to 144Hz refresh rate and 5,000 nits peak brightness.
+
+Vivo X500 Pro uses a 6,510 mAh battery with a 90W wired and 40W wireless charging support. Vivo X500 Pro also features MediaTek Dimensity 9600 Pro with up to 12 GB RAM and 256 GB storage. It too operates on OriginOS 7. Vivo X500 Pro sports a 50 MP main camera, a 64 MP telephoto lens and a 50 MP ultrawide camera.
+
+It also features a 50 MP selfie camera. Vivo X500 Pro starts at ₹1,49,999 (12GB/256GB). It goes on sale starting December 3. Vivo X500 The base model has a 6.59 inch display with similar refresh rate and peak brightness. It runs on a 7,500 mAh battery with a 90W wired and 40W wireless charging.
+
+Vivo X500 uses MediaTek Dimensity 9600M chipset with up to 12 GB RAM and 256 GB storage. Vivo X500 sports a 50 MP main camera, a 64 MP telephoto camera and a 50 MP ultrawide lens. It gets a 50 MP front camera. Vivo X500 costs ₹1,19,999. The sale starts December 3.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/sci-tech/technology/gadgets/vivo-launches-x500-pro-max-x500-and-x500-along-with-watch-gt2/article71745760.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Vivo launches X500 Pro Max, X500 and X500 along with Watch GT2.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 97987,
+    title: `Momentum 5 Wireless Review: Sony और Bose को टक्कर देने आए Sennheiser के हेडफोन्स में कितन दम? - AajTak`,
+    slug: `momentum-5-wireless-review-sony-bose-sennheiser-aajtak-2026`,
+    original_title: `Momentum 5 Wireless Review: Sony और Bose को टक्कर देने आए Sennheiser के हेडफोन्स में कितन दम? - AajTak`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:07:51Z`,
+    updated_at: `2026-11-26T14:07:51Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/technology/reviews/story/sennheiser-momentum-5-wireless-full-review-features-and-specs-ttecm-dskc-2674995-2026-11-26`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b080e84c0a11-sennheiser-momentum-5-wireless-headphones-264835421.png`,
+    image_alt: `Momentum 5 Wireless Review: Sony और Bose को टक्कर देने आए Sennheiser के हेडफोन्स में कितन दम? - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `अच्छे हेडफोन में मेरे लिए सबसे जरूरी चीज है साउंड. न सिर्फ तेज आवाज या भारी बेस, बल्कि म्यूजिक में छोटी-छोटी डिटेल्स सुनाई देना भी जरूरी है. Sennheiser Momentum 5 Wireless इसी उम्मीद के साथ आते हैं. भारत में इसे कंपनी ने हाल ही में लॉन्च कि`,
+    content: `अच्छे हेडफोन में मेरे लिए सबसे जरूरी चीज है साउंड. न सिर्फ तेज आवाज या भारी बेस, बल्कि म्यूजिक में छोटी-छोटी डिटेल्स सुनाई देना भी जरूरी है. Sennheiser Momentum 5 Wireless इसी उम्मीद के साथ आते हैं. भारत में इसे कंपनी ने हाल ही में लॉन्च किया है. ये कंपनी बेहतरीन ऑडियो क्वॉलिटी प्रोडकट्स के लिए जानी जाती है.
+
+हमने इस वायरलेस हेडफोन्स को दो हफ्तों तक यूज किया है. ये कंपनी के प्रीमियम वायरलेस हेडफोन हैं, जिनमें बेहतर साउंड के साथ नॉइज कैंसलेशन, स्पेशियल ऑडियो और लंबी बैटरी लाइफ जैसे फीचर्स मिलते हैं. और पढ़ेंकुछ समय इस्तेमाल करने के बाद मेरी राय है कि इन हेडफोन की सबसे बड़ी ताकत इनकी साउंड क्वालिटी और बैटरी है.
+
+हालांकि, इनकी कीमत को देखते हुए कुछ ऐसी बातें भी हैं जिन पर खरीदने से पहले ध्यान देना चाहिए.Momentum 5 Wireless: साउंड क्वॉलिटीMomentum 5 Wireless में 42mm डायनामिक ड्राइवर दिए गए हैं. इनका साउंड गर्मजोशी वाला है, यानी बेस अच्छा महसूस होता है, लेकिन आवाज सिर्फ बेस तक सीमित नहीं रहती.
+
+गाने सुनते समय वोकल्स और इंस्ट्रूमेंट्स की डिटेल्स भी अच्छी तरह सामने आती हैं. पॉप, रॉक और फिल्मों के म्यूजिक में इनका साउंड काफी मजेदार लगता है.हालांकि, अगर आप बिल्कुल न्यूट्रल साउंड पसंद करते हैं या क्लासिकल म्यूजिक सुनते हैं, तो आपको बास थोड़ा ज्यादा लग सकता है. अच्छी बात यह है कि Sennheiser के Smart Control Plus ऐप में 8-बैंड इक्वलाइजर मिलता है.
+
+इसकी मदद से आप अपनी पसंद के हिसाब से साउंड बदल सकते हैं. Advertisement        ये हेडफोन aptX Adaptive और aptX Lossless के साथ AAC और SBC जैसे ऑडियो कोडेक भी सपोर्ट करते हैं. लेकिन बेहतर वायरलेस ऑडियो का फायदा उठाने के लिए आपके फोन में भी संबंधित कोडेक का सपोर्ट होना जरूरी है.नॉइज कैंसिलेशन कितना अच्छा है?इनमें आठ माइक्रोफोन के साथ हाइब्रिड अडैप्टिव एक्टिव नॉइज कैंसिलेशन मिलता है.
+
+कंपनी का दावा है कि Momentum 4 के मुकाबले मिड-रेंज आवाजों को कैंसिल करने की कैपेसिटी तीन गुना तक बेहतर हुई है.बाहर की आवाजों से ध्यान हटाकर म्यूजिक सुनने में ANC मदद करता है. ट्रांसपेरेंसी मोड भी है, जिससे जरूरत पड़ने पर आसपास की आवाजें सुनी जा सकती हैं. लेकिन एक बात साफ है: नॉइज कैंसिलेशन अच्छा होना और दुनिया की हर आवाज पूरी तरह बंद हो जाना अलग बातें हैं.
+
+इस कीमत पर Sony और Bose जैसे ब्रांड भी मजबूत विकल्प देते हैं, इसलिए अगर आपकी पहली प्रायॉरिटी ANC है तो तुलना जरूर करें.57 घंटे की बैटरी, बार-बार चार्जिंग की टेंशन कमMomentum 5 Wireless की एक और बड़ी खूबी इसकी बैटरी है. कंपनी ANC चालू रहने पर 57 घंटे तक म्यूजिक प्लेबैक का दावा करती है.
+
+सिर्फ 10 मिनट चार्ज करने पर सात घंटे तक इस्तेमाल का दावा भी है. USB-C से चार्जिंग होती है और पूरा चार्ज होने में करीब दो घंटे लगते हैं. रियल यूज में कंपनी अपने दावे पर लगभग खरी उतरती है, क्योंकि एक बार फुल चार्ज करके मैने एवरेज यूज में इसे हफ्ते भर चलाया है. Advertisement        मेरे हिसाब से इतने महंगे वायरलेस हेडफोन में लंबी बैटरी काफी मायने रखती है.
+
+बार-बार चार्जर खोजने की जरूरत कम होती है, खासकर अगर आप इन्हें काम, सफर और घर पर लगातार इस्तेमाल करते हैं. असल बैटरी बैकअप आवाज की वॉल्यूम और इस्तेमाल के तरीके पर निर्भर करेगा.एक दिलचस्प फीचर इसकी बदली जा सकने वाली बैटरी है. लंबे समय बाद बैटरी कमजोर पड़ने पर पूरे हेडफोन बदलने के बजाय बैटरी बदलना मुमकिन है.
+
+यह ऐसी सुविधा है जो प्रीमियम इलेक्ट्रॉनिक्स में ज्यादा देखने को मिलनी चाहिए. क्योंकि कई बार बैटरी इश्यू होने की वजह से रिपेयर का खर्चा डबल हो जाता है. डिजाइन और कंफर्टMomentum 5 Wireless का डिजाइन क्लीन और प्रीमियम है. ये ओवर-ईयर हेडफोन हैं और इनका वजन करीब 290 ग्राम है. ईयर कप कानों को ढकते हैं और हेडबैंड को लंबे समय तक पहनने के हिसाब से बनाया गया है.
+
+हालांकि, आराम हर व्यक्ति के सिर और कानों के साइज पर निर्भर करता है. लंबे समय तक लगाए रख सकते हैं और आपको ये बोझ भी नहीं लगेगा.इनका एक छोटा नुकसान यह है कि ये पूरी तरह कॉम्पैक्ट होकर फोल्ड नहीं होते. सफर में बैग में रखने के लिए थोड़ी ज्यादा जगह चाहिए. साथ ही, इन्हें पानी और पसीने से सुरक्षा की कोई आधिकारिक IP रेटिंग नहीं मिली है.
+
+इसलिए वर्कआउट के लिए इस्तेमाल करते समय सावधानी रखनी होगी. Advertisement        कॉल, कनेक्टिविटी और बाकी फीचर्सइनमें Bluetooth 5.4, मल्टीपॉइंट कनेक्टिविटी और बीमफॉर्मिंग माइक्रोफोन मिलते हैं. मल्टीपॉइंट से हेडफोन को दो डिवाइस के साथ जोड़ा जा सकता है, जिससे लैपटॉप पर काम करते हुए फोन पर कॉल आने पर डिवाइस बदलना आसान होता है.इनमें Dolby Atmos के साथ स्पेशियल ऑडियो और हेड-ट्रैकिंग भी है.
+
+इसका मकसद म्यूजिक को ज्यादा इमर्सिव बनाना है, हालांकि इसका अनुभव कंटेंट और डिवाइस के हिसाब से बदल सकता है. USB-C और 3.5mm कनेक्शन से वायर्ड ऑडियो का ऑप्शन भी मिलता है.क्या ₹49,990 में खरीदना चाहिए?Sennheiser Momentum 5 Wireless की आधिकारिक भारतीय वेबसाइट पर कीमत ₹49,990 दर्ज है, हालांकि बिक्री के दौरान कीमत बदल सकती है.
+
+इस बजट में ये उन लोगों के लिए अच्छे विकल्प हैं जो साउंड क्वालिटी, लंबी बैटरी, अच्छे ऐप कंट्रोल और बदली जा सकने वाली बैटरी को महत्व देते हैं.लेकिन अगर आपको बाजार में सबसे बेहतरीन नॉइज कैंसिलेशन चाहिए, ज्यादा कॉम्पैक्ट डिजाइन चाहिए या सिर्फ कीमत के हिसाब से सबसे ज्यादा फीचर्स चाहिए, तो दूसरे विकल्प भी देखने चाहिए.मेरे लिए Momentum 5 Wireless की सबसे बड़ी खूबी यह है कि ये म्यूजिक सुनने के अनुभव और रोजमर्रा की उपयोगिता के बीच अच्छा संतुलन बनाने की कोशिश करते हैं.
+
+ये हर मामले में सबसे आगे नहीं हैं, लेकिन अगर आपकी प्राथमिकता अच्छी साउंड क्वालिटी और लंबी बैटरी है, तो इन्हें अपनी लिस्ट में जरूर रख सकते हैं. Advertisement        आजतक रेटिंग: 8/10---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/technology/reviews/story/sennheiser-momentum-5-wireless-full-review-features-and-specs-ttecm-dskc-2674995-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Momentum 5 Wireless Review: Sony और Bose को टक्कर देने आए Sennheiser के हेडफोन्स में कितन दम? - AajTak`,
+    summary_hi: `अच्छे हेडफोन में मेरे लिए सबसे जरूरी चीज है साउंड. न सिर्फ तेज आवाज या भारी बेस, बल्कि म्यूजिक में छोटी-छोटी डिटेल्स सुनाई देना भी जरूरी है. Sennheiser Momentum 5 Wireless इसी उम्मीद के साथ आते हैं. भारत में इसे कंपनी ने हाल ही में लॉन्च कि`,
+    content_hi: `अच्छे हेडफोन में मेरे लिए सबसे जरूरी चीज है साउंड. न सिर्फ तेज आवाज या भारी बेस, बल्कि म्यूजिक में छोटी-छोटी डिटेल्स सुनाई देना भी जरूरी है. Sennheiser Momentum 5 Wireless इसी उम्मीद के साथ आते हैं. भारत में इसे कंपनी ने हाल ही में लॉन्च किया है. ये कंपनी बेहतरीन ऑडियो क्वॉलिटी प्रोडकट्स के लिए जानी जाती है.
+
+हमने इस वायरलेस हेडफोन्स को दो हफ्तों तक यूज किया है. ये कंपनी के प्रीमियम वायरलेस हेडफोन हैं, जिनमें बेहतर साउंड के साथ नॉइज कैंसलेशन, स्पेशियल ऑडियो और लंबी बैटरी लाइफ जैसे फीचर्स मिलते हैं. और पढ़ेंकुछ समय इस्तेमाल करने के बाद मेरी राय है कि इन हेडफोन की सबसे बड़ी ताकत इनकी साउंड क्वालिटी और बैटरी है.
+
+हालांकि, इनकी कीमत को देखते हुए कुछ ऐसी बातें भी हैं जिन पर खरीदने से पहले ध्यान देना चाहिए.Momentum 5 Wireless: साउंड क्वॉलिटीMomentum 5 Wireless में 42mm डायनामिक ड्राइवर दिए गए हैं. इनका साउंड गर्मजोशी वाला है, यानी बेस अच्छा महसूस होता है, लेकिन आवाज सिर्फ बेस तक सीमित नहीं रहती.
+
+गाने सुनते समय वोकल्स और इंस्ट्रूमेंट्स की डिटेल्स भी अच्छी तरह सामने आती हैं. पॉप, रॉक और फिल्मों के म्यूजिक में इनका साउंड काफी मजेदार लगता है.हालांकि, अगर आप बिल्कुल न्यूट्रल साउंड पसंद करते हैं या क्लासिकल म्यूजिक सुनते हैं, तो आपको बास थोड़ा ज्यादा लग सकता है. अच्छी बात यह है कि Sennheiser के Smart Control Plus ऐप में 8-बैंड इक्वलाइजर मिलता है.
+
+इसकी मदद से आप अपनी पसंद के हिसाब से साउंड बदल सकते हैं. Advertisement        ये हेडफोन aptX Adaptive और aptX Lossless के साथ AAC और SBC जैसे ऑडियो कोडेक भी सपोर्ट करते हैं. लेकिन बेहतर वायरलेस ऑडियो का फायदा उठाने के लिए आपके फोन में भी संबंधित कोडेक का सपोर्ट होना जरूरी है.नॉइज कैंसिलेशन कितना अच्छा है?इनमें आठ माइक्रोफोन के साथ हाइब्रिड अडैप्टिव एक्टिव नॉइज कैंसिलेशन मिलता है.
+
+कंपनी का दावा है कि Momentum 4 के मुकाबले मिड-रेंज आवाजों को कैंसिल करने की कैपेसिटी तीन गुना तक बेहतर हुई है.बाहर की आवाजों से ध्यान हटाकर म्यूजिक सुनने में ANC मदद करता है. ट्रांसपेरेंसी मोड भी है, जिससे जरूरत पड़ने पर आसपास की आवाजें सुनी जा सकती हैं. लेकिन एक बात साफ है: नॉइज कैंसिलेशन अच्छा होना और दुनिया की हर आवाज पूरी तरह बंद हो जाना अलग बातें हैं.
+
+इस कीमत पर Sony और Bose जैसे ब्रांड भी मजबूत विकल्प देते हैं, इसलिए अगर आपकी पहली प्रायॉरिटी ANC है तो तुलना जरूर करें.57 घंटे की बैटरी, बार-बार चार्जिंग की टेंशन कमMomentum 5 Wireless की एक और बड़ी खूबी इसकी बैटरी है. कंपनी ANC चालू रहने पर 57 घंटे तक म्यूजिक प्लेबैक का दावा करती है.
+
+सिर्फ 10 मिनट चार्ज करने पर सात घंटे तक इस्तेमाल का दावा भी है. USB-C से चार्जिंग होती है और पूरा चार्ज होने में करीब दो घंटे लगते हैं. रियल यूज में कंपनी अपने दावे पर लगभग खरी उतरती है, क्योंकि एक बार फुल चार्ज करके मैने एवरेज यूज में इसे हफ्ते भर चलाया है. Advertisement        मेरे हिसाब से इतने महंगे वायरलेस हेडफोन में लंबी बैटरी काफी मायने रखती है.
+
+बार-बार चार्जर खोजने की जरूरत कम होती है, खासकर अगर आप इन्हें काम, सफर और घर पर लगातार इस्तेमाल करते हैं. असल बैटरी बैकअप आवाज की वॉल्यूम और इस्तेमाल के तरीके पर निर्भर करेगा.एक दिलचस्प फीचर इसकी बदली जा सकने वाली बैटरी है. लंबे समय बाद बैटरी कमजोर पड़ने पर पूरे हेडफोन बदलने के बजाय बैटरी बदलना मुमकिन है.
+
+यह ऐसी सुविधा है जो प्रीमियम इलेक्ट्रॉनिक्स में ज्यादा देखने को मिलनी चाहिए. क्योंकि कई बार बैटरी इश्यू होने की वजह से रिपेयर का खर्चा डबल हो जाता है. डिजाइन और कंफर्टMomentum 5 Wireless का डिजाइन क्लीन और प्रीमियम है. ये ओवर-ईयर हेडफोन हैं और इनका वजन करीब 290 ग्राम है. ईयर कप कानों को ढकते हैं और हेडबैंड को लंबे समय तक पहनने के हिसाब से बनाया गया है.
+
+हालांकि, आराम हर व्यक्ति के सिर और कानों के साइज पर निर्भर करता है. लंबे समय तक लगाए रख सकते हैं और आपको ये बोझ भी नहीं लगेगा.इनका एक छोटा नुकसान यह है कि ये पूरी तरह कॉम्पैक्ट होकर फोल्ड नहीं होते. सफर में बैग में रखने के लिए थोड़ी ज्यादा जगह चाहिए. साथ ही, इन्हें पानी और पसीने से सुरक्षा की कोई आधिकारिक IP रेटिंग नहीं मिली है.
+
+इसलिए वर्कआउट के लिए इस्तेमाल करते समय सावधानी रखनी होगी. Advertisement        कॉल, कनेक्टिविटी और बाकी फीचर्सइनमें Bluetooth 5.4, मल्टीपॉइंट कनेक्टिविटी और बीमफॉर्मिंग माइक्रोफोन मिलते हैं. मल्टीपॉइंट से हेडफोन को दो डिवाइस के साथ जोड़ा जा सकता है, जिससे लैपटॉप पर काम करते हुए फोन पर कॉल आने पर डिवाइस बदलना आसान होता है.इनमें Dolby Atmos के साथ स्पेशियल ऑडियो और हेड-ट्रैकिंग भी है.
+
+इसका मकसद म्यूजिक को ज्यादा इमर्सिव बनाना है, हालांकि इसका अनुभव कंटेंट और डिवाइस के हिसाब से बदल सकता है. USB-C और 3.5mm कनेक्शन से वायर्ड ऑडियो का ऑप्शन भी मिलता है.क्या ₹49,990 में खरीदना चाहिए?Sennheiser Momentum 5 Wireless की आधिकारिक भारतीय वेबसाइट पर कीमत ₹49,990 दर्ज है, हालांकि बिक्री के दौरान कीमत बदल सकती है.
+
+इस बजट में ये उन लोगों के लिए अच्छे विकल्प हैं जो साउंड क्वालिटी, लंबी बैटरी, अच्छे ऐप कंट्रोल और बदली जा सकने वाली बैटरी को महत्व देते हैं.लेकिन अगर आपको बाजार में सबसे बेहतरीन नॉइज कैंसिलेशन चाहिए, ज्यादा कॉम्पैक्ट डिजाइन चाहिए या सिर्फ कीमत के हिसाब से सबसे ज्यादा फीचर्स चाहिए, तो दूसरे विकल्प भी देखने चाहिए.मेरे लिए Momentum 5 Wireless की सबसे बड़ी खूबी यह है कि ये म्यूजिक सुनने के अनुभव और रोजमर्रा की उपयोगिता के बीच अच्छा संतुलन बनाने की कोशिश करते हैं.
+
+ये हर मामले में सबसे आगे नहीं हैं, लेकिन अगर आपकी प्राथमिकता अच्छी साउंड क्वालिटी और लंबी बैटरी है, तो इन्हें अपनी लिस्ट में जरूर रख सकते हैं. Advertisement        आजतक रेटिंग: 8/10---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/technology/reviews/story/sennheiser-momentum-5-wireless-full-review-features-and-specs-ttecm-dskc-2674995-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Momentum 5 Wireless Review: Sony और Bose को टक्कर देने आए Sennheiser के हेडफोन्स में कितन दम? - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 97988,
+    title: `vivo X500 Series लॉन्च, 200MP ZEISS कैमरा और 4K स्लो-मोशन से दूर की तस्वीरें होंगी और भी खास - Navbharat Live`,
+    slug: `vivo-x500-series-200mp-zeiss-4k-navbharat-live-2026`,
+    original_title: `vivo X500 Series लॉन्च, 200MP ZEISS कैमरा और 4K स्लो-मोशन से दूर की तस्वीरें होंगी और भी खास - Navbharat Live`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:07:53Z`,
+    updated_at: `2026-11-26T14:07:53Z`,
+    source_name: `Navbharat Live`,
+    source_url: `https://navbharatlive.com/technology/vivo-x500-series-launched-200mp-zeiss-camera-and-4k-slow-motion-srs13`,
+    source_courtesy: `Source: Navbharat Live`,
+    image_url: `/images/articles/vivo-x500-series-200mp-zeiss-4k-navbharat-live-2026.jpg`,
+    image_alt: `vivo X500 Series लॉन्च, 200MP ZEISS कैमरा और 4K स्लो-मोशन से दूर की तस्वीरें होंगी और भी खास - Navbharat Live`,
+    image_courtesy: `Image: Navbharat Live (External Source Attribution)`,
+    image_photographer: `Navbharat Live`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Highlight:vivo ने भारत में अपनी नई X500 Series लॉन्च कर दी है।इस सीरीज में X500, X500 Pro और X500 Pro Max शामिल हैं।सीरीज के टॉप मॉडल में 200MP ZEISS APO Telephoto Camera और 4K 240fps Cinematic Slow-Mo जैसे फीचर्स दिए गए हैं।.vivo X500 Seri`,
+    content: `Highlight:vivo ने भारत में अपनी नई X500 Series लॉन्च कर दी है।इस सीरीज में X500, X500 Pro और X500 Pro Max शामिल हैं।सीरीज के टॉप मॉडल में 200MP ZEISS APO Telephoto Camera और 4K 240fps Cinematic Slow-Mo जैसे फीचर्स दिए गए हैं।.vivo X500 Series Price In India: स्मार्टफोन से अब सिर्फ अच्छी तस्वीरें खींचने की उम्मीद नहीं की जाती बल्कि यूजर्स चाहते हैं कि वे दूर बैठे किसी पक्षी की हरकत हो या तेजी से गुजरता कोई पल उसे भी साफ-सुथरे अंदाज में कैद कर सकें।
+
+इसी जरूरत को ध्यान में रखते हुए vivo ने भारत में अपनी नई X500 Series लॉन्च कर दी है। इस सीरीज में X500, X500 Pro और X500 Pro Max शामिल हैं। कंपनी ने खासतौर पर कैमरा और वीडियो रिकॉर्डिंग क्षमताओं पर फोकस किया है। सीरीज के टॉप मॉडल में 200MP ZEISS APO Telephoto Camera और 4K 240fps Cinematic Slow-Mo जैसे फीचर्स दिए गए हैं।.तेजी से मूव करने वाले सब्जेक्ट पर भी रहेगा फोकसvivo X500 Series के बारे में बताए तो इसमें Telephoto AF Tracking फीचर दिया गया है जो चलते हुए सब्जेक्ट पर कैमरे का फोकस बनाए रखने में मदद करता है।
+
+कंपनी ने इसको लेकर बताया है कि X-Track Engine सपोर्टेड मोड में एक सेकंड में 60 बार तक फोकस एडजस्टमेंट कर सकता है।वहीं X500 Pro में यह सुविधा टेलीफोटो वीडियो रिकॉर्डिंग के दौरान काम करती है जबकि X500 Pro Max में Snapshot और Video दोनों मोड में इसका सपोर्ट मिलता है। इसका फायदा वाइल्डलाइफ, स्पोर्ट्स और एक्शन फोटोग्राफी करने वालों को मिल सकता है।.Pro Max में 200MP का ZEISS टेलीफोटो कैमराकैमरा हार्डवेयर के मामले में दोनों Pro मॉडल में अंतर है।
+
+X500 Pro में 64MP ZEISS APO Telephoto Camera मिलता है जबकि Pro Max में 200MP का टेलीफोटो कैमरा दिया गया है। इसके साथ अलग से मिलने वाले ZEISS Telephoto Extender की मदद से दूर की चीजों को और करीब से कैप्चर किया जा सकता है। वहीं कंपनी ने बताया है कि X500 Pro में 200mm और Pro Max में 400mm तक की इक्विवेलेंट रीच मिलती है।
+
+Pro Max में 30x Long-Range Motion Snapshot का फीचर भी है।.Apple ने दुनिया भर में बैन किया चीनी AI ऐप Talkie, बच्चों से आपत्तिजनक बातचीत के आरोप के बाद लिया बड़ा एक्शन.4K 240fps स्लो-मोशन वीडियो की सुविधाX500 Pro और Pro Max में Native 4K 240fps Cinematic Slow-Mo Video रिकॉर्डिंग का सपोर्ट दिया गया है।
+
+इसको आसान भाषा में समझें तो कैमरा एक सेकंड में 240 फ्रेम रिकॉर्ड कर सकता है जिससे तेज गति से होने वाली गतिविधियों को स्लो-मोशन में देखा जा सकता है।इसके अलावा ZEISS TrueDynamic Main Camera को तेज रोशनी और गहरी छाया वाले दृश्यों में डिटेल बचाए रखने के लिए डिजाइन किया गया है। Auto Framing Video और Vortex Shot जैसे टूल्स भी वीडियो बनाने में मदद करते हैं।.कामकाज में AI अपनाने में भारत सबसे आगे, 96% कर्मचारियों के हर हफ्ते बच रहे 15 घंटे BCG की रिपोर्ट.कीमत और उपलब्धता भी जान लेंभारत में vivo X500 Pro Max की शुरुआती कीमत 1,64,999 रुपये, X500 Pro की कीमत 1,49,999 रुपये और X500 की कीमत 1,19,999 रुपये रखी गई है।
+
+सीरीज की बिक्री 3 दिसंबर से शुरू होगी। वहीं कंपनी ने इसके साथ vivo Watch GT 2 स्मार्टवॉच भी पेश की है।सीधे तौर पर देखे तो X500 Series में vivo का जोर खासतौर पर टेलीफोटो फोटोग्राफी और वीडियो क्रिएशन पर है। लेकिन इन फीचर्स का वास्तविक प्रदर्शन रोजमर्रा की फोटोग्राफी और अलग-अलग रोशनी की परिस्थितियों में इस्तेमाल के बाद ही बेहतर तरीके से समझ आएगा।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/technology/vivo-x500-series-launched-200mp-zeiss-camera-and-4k-slow-motion-srs13)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `vivo X500 Series लॉन्च, 200MP ZEISS कैमरा और 4K स्लो-मोशन से दूर की तस्वीरें होंगी और भी खास - Navbharat Live`,
+    summary_hi: `Highlight:vivo ने भारत में अपनी नई X500 Series लॉन्च कर दी है।इस सीरीज में X500, X500 Pro और X500 Pro Max शामिल हैं।सीरीज के टॉप मॉडल में 200MP ZEISS APO Telephoto Camera और 4K 240fps Cinematic Slow-Mo जैसे फीचर्स दिए गए हैं।.vivo X500 Seri`,
+    content_hi: `Highlight:vivo ने भारत में अपनी नई X500 Series लॉन्च कर दी है।इस सीरीज में X500, X500 Pro और X500 Pro Max शामिल हैं।सीरीज के टॉप मॉडल में 200MP ZEISS APO Telephoto Camera और 4K 240fps Cinematic Slow-Mo जैसे फीचर्स दिए गए हैं।.vivo X500 Series Price In India: स्मार्टफोन से अब सिर्फ अच्छी तस्वीरें खींचने की उम्मीद नहीं की जाती बल्कि यूजर्स चाहते हैं कि वे दूर बैठे किसी पक्षी की हरकत हो या तेजी से गुजरता कोई पल उसे भी साफ-सुथरे अंदाज में कैद कर सकें।
+
+इसी जरूरत को ध्यान में रखते हुए vivo ने भारत में अपनी नई X500 Series लॉन्च कर दी है। इस सीरीज में X500, X500 Pro और X500 Pro Max शामिल हैं। कंपनी ने खासतौर पर कैमरा और वीडियो रिकॉर्डिंग क्षमताओं पर फोकस किया है। सीरीज के टॉप मॉडल में 200MP ZEISS APO Telephoto Camera और 4K 240fps Cinematic Slow-Mo जैसे फीचर्स दिए गए हैं।.तेजी से मूव करने वाले सब्जेक्ट पर भी रहेगा फोकसvivo X500 Series के बारे में बताए तो इसमें Telephoto AF Tracking फीचर दिया गया है जो चलते हुए सब्जेक्ट पर कैमरे का फोकस बनाए रखने में मदद करता है।
+
+कंपनी ने इसको लेकर बताया है कि X-Track Engine सपोर्टेड मोड में एक सेकंड में 60 बार तक फोकस एडजस्टमेंट कर सकता है।वहीं X500 Pro में यह सुविधा टेलीफोटो वीडियो रिकॉर्डिंग के दौरान काम करती है जबकि X500 Pro Max में Snapshot और Video दोनों मोड में इसका सपोर्ट मिलता है। इसका फायदा वाइल्डलाइफ, स्पोर्ट्स और एक्शन फोटोग्राफी करने वालों को मिल सकता है।.Pro Max में 200MP का ZEISS टेलीफोटो कैमराकैमरा हार्डवेयर के मामले में दोनों Pro मॉडल में अंतर है।
+
+X500 Pro में 64MP ZEISS APO Telephoto Camera मिलता है जबकि Pro Max में 200MP का टेलीफोटो कैमरा दिया गया है। इसके साथ अलग से मिलने वाले ZEISS Telephoto Extender की मदद से दूर की चीजों को और करीब से कैप्चर किया जा सकता है। वहीं कंपनी ने बताया है कि X500 Pro में 200mm और Pro Max में 400mm तक की इक्विवेलेंट रीच मिलती है।
+
+Pro Max में 30x Long-Range Motion Snapshot का फीचर भी है।.Apple ने दुनिया भर में बैन किया चीनी AI ऐप Talkie, बच्चों से आपत्तिजनक बातचीत के आरोप के बाद लिया बड़ा एक्शन.4K 240fps स्लो-मोशन वीडियो की सुविधाX500 Pro और Pro Max में Native 4K 240fps Cinematic Slow-Mo Video रिकॉर्डिंग का सपोर्ट दिया गया है।
+
+इसको आसान भाषा में समझें तो कैमरा एक सेकंड में 240 फ्रेम रिकॉर्ड कर सकता है जिससे तेज गति से होने वाली गतिविधियों को स्लो-मोशन में देखा जा सकता है।इसके अलावा ZEISS TrueDynamic Main Camera को तेज रोशनी और गहरी छाया वाले दृश्यों में डिटेल बचाए रखने के लिए डिजाइन किया गया है। Auto Framing Video और Vortex Shot जैसे टूल्स भी वीडियो बनाने में मदद करते हैं।.कामकाज में AI अपनाने में भारत सबसे आगे, 96% कर्मचारियों के हर हफ्ते बच रहे 15 घंटे BCG की रिपोर्ट.कीमत और उपलब्धता भी जान लेंभारत में vivo X500 Pro Max की शुरुआती कीमत 1,64,999 रुपये, X500 Pro की कीमत 1,49,999 रुपये और X500 की कीमत 1,19,999 रुपये रखी गई है।
+
+सीरीज की बिक्री 3 दिसंबर से शुरू होगी। वहीं कंपनी ने इसके साथ vivo Watch GT 2 स्मार्टवॉच भी पेश की है।सीधे तौर पर देखे तो X500 Series में vivo का जोर खासतौर पर टेलीफोटो फोटोग्राफी और वीडियो क्रिएशन पर है। लेकिन इन फीचर्स का वास्तविक प्रदर्शन रोजमर्रा की फोटोग्राफी और अलग-अलग रोशनी की परिस्थितियों में इस्तेमाल के बाद ही बेहतर तरीके से समझ आएगा।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/technology/vivo-x500-series-launched-200mp-zeiss-camera-and-4k-slow-motion-srs13)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट Navbharat Live के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक vivo X500 Series लॉन्च, 200MP ZEISS कैमरा और 4K स्लो-मोशन से दूर की तस्वीरें होंगी और भी खास - Navbharat Live से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Navbharat Live`,
+  },
+  {
+    id: 97989,
+    title: `India calls for US tariff concerns to be ironed out through 'early conclusion' of trade talks - DW.com`,
+    slug: `india-calls-for-us-tariff-concerns-to-be-ironed-out-through-early-conc-2026`,
+    original_title: `India calls for US tariff concerns to be ironed out through 'early conclusion' of trade talks - DW.com`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:07:56Z`,
+    updated_at: `2026-11-26T14:07:56Z`,
+    source_name: `DW.com`,
+    source_url: `https://www.dw.com/en/india-news-resolve-tariff-concerns-in-trade-talks-india-tells-us/live-80056202`,
+    source_courtesy: `Source: DW.com`,
+    image_url: `/images/articles/india-calls-for-us-tariff-concerns-to-be-ironed-out-through-early-conc-2026.jpg`,
+    image_alt: `India calls for US tariff concerns to be ironed out through 'early conclusion' of trade talks - DW.com`,
+    image_courtesy: `Image: DW.com (External Source Attribution)`,
+    image_photographer: `DW.com`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `India has denied US claims that New Delhi's policies promote excess manufacturing capacity. Further headlines from India include Constitution Day celebrations. DW has more.`,
+    content: `India has denied US claims that New Delhi's policies promote excess manufacturing capacity. Further headlines from India include Constitution Day celebrations. DW has more.
+
+Here are the latest developments from India on Thursday, November 26:
+
+### Chess: Game 3 beckons after Gukesh's shock early draw offer
+
+The first flurry of games in the classical chess world championship concludes in Geneva today.
+
+Game 3 will start at around 1400 GMT, and could last deep into India's evening or night if it goes the distance.
+
+Wednesday's game, however, finished at a surprisingly sociable hour even for those watching on the subcontinent.
+
+That's because Gukesh Dommaraju, playing with the white pieces for the first time in the match, offered a draw an an unexpectedly early juncture in the game.
+
+Both players still had almost all their pieces and had played just 20 moves each when they fell into a repeating series of moves and alerted the arbiter, who declared the early draw.
+
+Challenger Javokhir Sindarov, facing a somewhat unorthodox London opening from Gukesh, had appeared to neutralize any early advantage for white and it wasn't clear how the defending champion could try to launch an attack.
+
+The match score stands at 1-1 after two drawn games, and after Thursday's game the players will have a day off, before returning on Saturday, Sunday and Monday for games 4, 5 and 6.
+
+### Supreme Court tightens food labeling plans, urges multinationals to end 'double standards'
+
+India's top court on Thursday tightened government proposals for labeling food packaging to warn about high contents of salt, sugar and fat.
+
+It said that rather than having to issue a single warning for high content as the government had proposed, products with high salt, sugar and fat contents should carry individual warnings about all three.
+
+The court also urged multinational companies to adopt globalized standards, rather than adapting their products to meet regional or national regulations, noting concerns about product composition being different in India than other parts of the world.
+
+"If true, such double standards are deeply troubling," the court said in its judgment. "A consumer in India is entitled to no less protection, and no less information, than a consumer in the United States or the United Kingdom."
+
+India's government recently watered down its own food labeling plans after campaigns from companies like Coca-Cola and groups backing Nestle and PepsiCo, which argued that warning labels were ineffective.
+
+However, several companies have implemented similar measures voluntarily in Europe. And varying health and safety standards by region can famously lead to discrepancies in the contents of products with the same name in different markets.
+
+Most sugary soft drinks, for example, have to be sold in Europe with considerable lower sugar contents and fewer additives than is necessary to meet regulatory approval in the US, among other markets.
+
+As the world's most populous country and with rapidly rising living standards, India is already a massive market that is likely to increase yet further in importance in the coming years for global food and drinks giants.
+
+The Supreme Court said that in future , warning labels should carry a "standardized pictorial representation" of the nutrient-of-concern, together with with written warnings saying "High Fat," "High Sugar," "High Salt," or as many of the trio as are required.
+
+### Could a soft-drink tax cut sugar consumption in Germany?
+
+To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+
+### India asks Netflix not to stream Pakistani show — reports
+
+The move comes after a union of film workers wrote to Prime Minister Narendra Modi earlier this week, calling for an India ban on an upcoming Pakistani Netflix series.
+
+"Jo Bachay Hain Sang Samait Lo" (All the Love Our Hearts Carry) is ⁠Netflix's ⁠first Urdu-language series.
+
+It features prominent Pakistan actors like Fawad Khan, Mahira Khan, Sanam Saeed.
+
+The first part of the series is set for a global release on December 4.
+
+Pakistani dramas have long-enjoyed a huge fan base in India but the cultural exchange was hit after a military confrontation between the archrivals in May 2025 .
+
+India's Ministry of Information and Broadcasting asked Netflix to adhere to its advisory issued on May 8, 2025, to ensure that streaming content originating in Pakistan is not available in India, news agency PTI reported on Thursday, citing unnamed sources.
+
+Pakistani content is not screened ⁠on platforms in India but some series are available on YouTube.
+
+---
+
+**Original Source:** [DW.com](https://www.dw.com/en/india-news-resolve-tariff-concerns-in-trade-talks-india-tells-us/live-80056202)`,
+    title_en: `India calls for US tariff concerns to be ironed out through 'early conclusion' of trade talks - DW.com`,
+    summary_en: `India has denied US claims that New Delhi's policies promote excess manufacturing capacity. Further headlines from India include Constitution Day celebrations. DW has more.`,
+    content_en: `India has denied US claims that New Delhi's policies promote excess manufacturing capacity. Further headlines from India include Constitution Day celebrations. DW has more.
+
+Here are the latest developments from India on Thursday, November 26:
+
+### Chess: Game 3 beckons after Gukesh's shock early draw offer
+
+The first flurry of games in the classical chess world championship concludes in Geneva today.
+
+Game 3 will start at around 1400 GMT, and could last deep into India's evening or night if it goes the distance.
+
+Wednesday's game, however, finished at a surprisingly sociable hour even for those watching on the subcontinent.
+
+That's because Gukesh Dommaraju, playing with the white pieces for the first time in the match, offered a draw an an unexpectedly early juncture in the game.
+
+Both players still had almost all their pieces and had played just 20 moves each when they fell into a repeating series of moves and alerted the arbiter, who declared the early draw.
+
+Challenger Javokhir Sindarov, facing a somewhat unorthodox London opening from Gukesh, had appeared to neutralize any early advantage for white and it wasn't clear how the defending champion could try to launch an attack.
+
+The match score stands at 1-1 after two drawn games, and after Thursday's game the players will have a day off, before returning on Saturday, Sunday and Monday for games 4, 5 and 6.
+
+### Supreme Court tightens food labeling plans, urges multinationals to end 'double standards'
+
+India's top court on Thursday tightened government proposals for labeling food packaging to warn about high contents of salt, sugar and fat.
+
+It said that rather than having to issue a single warning for high content as the government had proposed, products with high salt, sugar and fat contents should carry individual warnings about all three.
+
+The court also urged multinational companies to adopt globalized standards, rather than adapting their products to meet regional or national regulations, noting concerns about product composition being different in India than other parts of the world.
+
+"If true, such double standards are deeply troubling," the court said in its judgment. "A consumer in India is entitled to no less protection, and no less information, than a consumer in the United States or the United Kingdom."
+
+India's government recently watered down its own food labeling plans after campaigns from companies like Coca-Cola and groups backing Nestle and PepsiCo, which argued that warning labels were ineffective.
+
+However, several companies have implemented similar measures voluntarily in Europe. And varying health and safety standards by region can famously lead to discrepancies in the contents of products with the same name in different markets.
+
+Most sugary soft drinks, for example, have to be sold in Europe with considerable lower sugar contents and fewer additives than is necessary to meet regulatory approval in the US, among other markets.
+
+As the world's most populous country and with rapidly rising living standards, India is already a massive market that is likely to increase yet further in importance in the coming years for global food and drinks giants.
+
+The Supreme Court said that in future , warning labels should carry a "standardized pictorial representation" of the nutrient-of-concern, together with with written warnings saying "High Fat," "High Sugar," "High Salt," or as many of the trio as are required.
+
+### Could a soft-drink tax cut sugar consumption in Germany?
+
+To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+
+### India asks Netflix not to stream Pakistani show — reports
+
+The move comes after a union of film workers wrote to Prime Minister Narendra Modi earlier this week, calling for an India ban on an upcoming Pakistani Netflix series.
+
+"Jo Bachay Hain Sang Samait Lo" (All the Love Our Hearts Carry) is ⁠Netflix's ⁠first Urdu-language series.
+
+It features prominent Pakistan actors like Fawad Khan, Mahira Khan, Sanam Saeed.
+
+The first part of the series is set for a global release on December 4.
+
+Pakistani dramas have long-enjoyed a huge fan base in India but the cultural exchange was hit after a military confrontation between the archrivals in May 2025 .
+
+India's Ministry of Information and Broadcasting asked Netflix to adhere to its advisory issued on May 8, 2025, to ensure that streaming content originating in Pakistan is not available in India, news agency PTI reported on Thursday, citing unnamed sources.
+
+Pakistani content is not screened ⁠on platforms in India but some series are available on YouTube.
+
+---
+
+**Original Source:** [DW.com](https://www.dw.com/en/india-news-resolve-tariff-concerns-in-trade-talks-india-tells-us/live-80056202)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to DW.com.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for India calls for US tariff concerns to be ironed out through 'early conclusion' of trade talks - DW.com.`,
+    primary_source: `DW.com`,
+  },
+  {
+    id: 97990,
+    title: `Seven injured in explosion at oil facility in Thailand’s Bangkok - Al Jazeera`,
+    slug: `seven-injured-in-explosion-at-oil-facility-in-thailands-bangkok-al-jaz-2026`,
+    original_title: `Seven injured in explosion at oil facility in Thailand’s Bangkok - Al Jazeera`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:07:57Z`,
+    updated_at: `2026-11-26T14:07:57Z`,
+    source_name: `Al Jazeera`,
+    source_url: `https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok`,
+    source_courtesy: `Source: Al Jazeera`,
+    image_url: `/images/articles/seven-injured-in-explosion-at-oil-facility-in-thailands-bangkok-al-jaz-2026.webp`,
+    image_alt: `Seven injured in explosion at oil facility in Thailand’s Bangkok - Al Jazeera`,
+    image_courtesy: `Image: Al Jazeera (External Source Attribution)`,
+    image_photographer: `Al Jazeera`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `Bangchak Corporation says preliminary investigation finds the incident occurred at the refinery’s hydrocracking unit.`,
+    content: `Bangchak Corporation says preliminary investigation finds the incident occurred at the refinery’s hydrocracking unit.
+
+An explosion and a fire at an oil facility in Bangkok has injured at least nine people, authorities said, as residents in the surrounding area were urged to evacuate their homes.
+
+Thailand’s Bangchak Corp said on Thursday it has shut down all production units at its Phra Khanong oil refinery following a fire.
+
+At least nine people were injured in the fire, four of those seriously, according to Bangkok’s Erawan Emergency Medical Centre.
+
+The sprawling site in eastern Bangkok is run by Thai energy conglomerate Bangchak Corporation. Based on a preliminary investigation, the incident occurred at the refinery’s hydrocracking unit, the company said.
+
+The company said the Pollution Control Department conducted air quality measurements within a 3-4 km radius of the refinery and confirmed that the air quality was within normal ranges.
+
+Thailand’s Energy minister Akanat Promphan, visiting the scene, told reporters it appeared the fire broke out at a distillation tower, “which was at least 100 metres (330 feet) away from the oil depot”, limiting the damage.
+
+Videos posted on social media showed flames rising high above the site in eastern Bangkok, and thick black smoke sweeping across the Thai capital’s skyline.
+
+“For their own safety, members of the public in the vicinity are urged to evacuate the area immediately,” the Bangna District Office said in a statement on its Facebook page.
+
+Al Jazeera’s Tony Cheng, reporting from Chiang Mai, said the explosion was heard at about 3pm local time (08:00 GMT). The oil facility is “fairly close to the city centre, but still in a remote area that has a lot of industrial offices, warehouses, and near to Bangkok’s main port”, he said.
+
+“The authorities say the fire was brought under control,” Cheng said, adding that “the highway and most of the major traffic routes in that area are still operational.”
+
+Cheng said the large plume of black smoke would have pushed the authorities to share the evacuation warning. “We have seen industrial accidents in that area in the past couple of years,” he added.
+
+“It serves not just Bangkok, but a large part of central Thailand. Most of the oil imports coming into this part of Thailand go here,” he added. “We don’t know at this stage the full extent of the damage, but one would imagine that it is quite considerable.”
+
+Bangchak Corporation’s website describes the site as a “modern complex refinery with a maximum capacity of 120,000 barrels per day”.
+
+An explosion occurred at the refinery in July 2012 — owned by then Bangchak Petroleum, which became the Bangchak Corporation — triggering a massive fire but no reported injuries.
+
+At the time, there were questions asked about why such a large facility was located in what is now a residential area of Bangkok.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok)`,
+    title_en: `Seven injured in explosion at oil facility in Thailand’s Bangkok - Al Jazeera`,
+    summary_en: `Bangchak Corporation says preliminary investigation finds the incident occurred at the refinery’s hydrocracking unit.`,
+    content_en: `Bangchak Corporation says preliminary investigation finds the incident occurred at the refinery’s hydrocracking unit.
+
+An explosion and a fire at an oil facility in Bangkok has injured at least nine people, authorities said, as residents in the surrounding area were urged to evacuate their homes.
+
+Thailand’s Bangchak Corp said on Thursday it has shut down all production units at its Phra Khanong oil refinery following a fire.
+
+At least nine people were injured in the fire, four of those seriously, according to Bangkok’s Erawan Emergency Medical Centre.
+
+The sprawling site in eastern Bangkok is run by Thai energy conglomerate Bangchak Corporation. Based on a preliminary investigation, the incident occurred at the refinery’s hydrocracking unit, the company said.
+
+The company said the Pollution Control Department conducted air quality measurements within a 3-4 km radius of the refinery and confirmed that the air quality was within normal ranges.
+
+Thailand’s Energy minister Akanat Promphan, visiting the scene, told reporters it appeared the fire broke out at a distillation tower, “which was at least 100 metres (330 feet) away from the oil depot”, limiting the damage.
+
+Videos posted on social media showed flames rising high above the site in eastern Bangkok, and thick black smoke sweeping across the Thai capital’s skyline.
+
+“For their own safety, members of the public in the vicinity are urged to evacuate the area immediately,” the Bangna District Office said in a statement on its Facebook page.
+
+Al Jazeera’s Tony Cheng, reporting from Chiang Mai, said the explosion was heard at about 3pm local time (08:00 GMT). The oil facility is “fairly close to the city centre, but still in a remote area that has a lot of industrial offices, warehouses, and near to Bangkok’s main port”, he said.
+
+“The authorities say the fire was brought under control,” Cheng said, adding that “the highway and most of the major traffic routes in that area are still operational.”
+
+Cheng said the large plume of black smoke would have pushed the authorities to share the evacuation warning. “We have seen industrial accidents in that area in the past couple of years,” he added.
+
+“It serves not just Bangkok, but a large part of central Thailand. Most of the oil imports coming into this part of Thailand go here,” he added. “We don’t know at this stage the full extent of the damage, but one would imagine that it is quite considerable.”
+
+Bangchak Corporation’s website describes the site as a “modern complex refinery with a maximum capacity of 120,000 barrels per day”.
+
+An explosion occurred at the refinery in July 2012 — owned by then Bangchak Petroleum, which became the Bangchak Corporation — triggering a massive fire but no reported injuries.
+
+At the time, there were questions asked about why such a large facility was located in what is now a residential area of Bangkok.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Al Jazeera.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Seven injured in explosion at oil facility in Thailand’s Bangkok - Al Jazeera.`,
+    primary_source: `Al Jazeera`,
+  },
+  {
+    id: 97991,
+    title: `सिंगापुर-मलेशिया समेत 4 देशों को Nvidia चिप की सप्लाई बंद, दोबारा CEO बनते ही जेनसन हुआंग का बड़ा फैसला - AajTak`,
+    slug: `4-nvidia-ceo-aajtak-2026`,
+    original_title: `सिंगापुर-मलेशिया समेत 4 देशों को Nvidia चिप की सप्लाई बंद, दोबारा CEO बनते ही जेनसन हुआंग का बड़ा फैसला - AajTak`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:08:01Z`,
+    updated_at: `2026-11-26T14:08:01Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/world/story/nvidia-chip-supply-malaysia-singapore-thailand-indonesia-jensen-huang-ntc-mnrd-dskc-2706587-2026-11-26`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b07eafbe05fc-nvidia-ceo-jensen-huang-261658870.jpg`,
+    image_alt: `सिंगापुर-मलेशिया समेत 4 देशों को Nvidia चिप की सप्लाई बंद, दोबारा CEO बनते ही जेनसन हुआंग का बड़ा फैसला - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `अमेरिकी चिप निर्माता Nvidia ने दक्षिण-पूर्व एशिया के चार देशों में सर्वर की सप्लाई रोक दी है. इनमें मलेशिया, सिंगापुर, थाईलैंड और इंडोनेशिया शामिल हैं. कंपनी ने अपने मैन्युफैक्चरिंग पार्टनर्स Dell और Supermicro को इन देशों में सर्वर भेजने स`,
+    content: `अमेरिकी चिप निर्माता Nvidia ने दक्षिण-पूर्व एशिया के चार देशों में सर्वर की सप्लाई रोक दी है. इनमें मलेशिया, सिंगापुर, थाईलैंड और इंडोनेशिया शामिल हैं. कंपनी ने अपने मैन्युफैक्चरिंग पार्टनर्स Dell और Supermicro को इन देशों में सर्वर भेजने से रोकने का निर्देश दिया है. रिपोर्ट में इस फैसले से जुड़े तीन सूत्रों का हवाला दिया गया है.
+
+और पढ़ेंफाइनेंशियल टाइम्स की रिपोर्ट के मुताबिक, यह साफ नहीं है कि सप्लाई पर लगी यह रोक अस्थायी है या स्थायी. Nvidia आर्टिफिशियल इंटेलिजेंस (AI) की दुनिया में इस्तेमाल होने वाली चिप बनाने वाली प्रमुख कंपनियों में शामिल है. ऐसे में उसके इस फैसले को अहम माना जा रहा है.यह भी पढ़ें: जेनसन हुआंग संग अफेयर के दौरान चीनी खुफिया एजेंसी के संपर्क में थीं गर्लफ्रेंड एलिस!
+
+MSS रख रही थी नजरचीन तक AI तकनीक पहुंचने से रोकने की कोशिशअमेरिका ने चीन की AI कंप्यूटिंग क्षमता तक पहुंच को रोकने के लिए निर्यात नियंत्रण के नियम सख्त किए हैं. Nvidia की तरफ से चार दक्षिण-पूर्व एशियाई देशों में सर्वर की सप्लाई रोकने का फैसला ऐसे समय आया है, जब वॉशिंगटन चीन को उन्नत AI तकनीक मिलने से रोकने की कोशिश कर रहा है.
+
+Advertisement        अमेरिकी टैरिफ पर चीन ने क्या कहा?अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की तरफ से नए टैरिफ लगाने के प्रस्ताव पर चीन ने संतुलित प्रतिक्रिया दी है. चीन के विदेश मंत्रालय के प्रवक्ता गुओ जियाकुन ने कहा कि चीन और अमेरिका को समानता, आपसी सम्मान और पारस्परिक लाभ के आधार पर बातचीत के जरिए व्यापार से जुड़े मुद्दों को सुलझाना चाहिए.
+
+उन्होंने कहा कि चीन में जरूरत से ज्यादा उत्पादन की बात गलत आधार पर टिकी है. इसका इस्तेमाल राजनीतिक हेरफेर के बहाने के तौर पर नहीं किया जाना चाहिए.अमेरिकी व्यापार प्रतिनिधि कार्यालय के मुताबिक, ट्रंप प्रशासन चीन और यूरोपीय संघ समेत 14 व्यापारिक साझेदारों पर अगले साल की शुरुआत से नए टैरिफ लगाने का प्रस्ताव दे रहा है.
+
+चीन से आने वाले सामान पर 20 फीसदी अतिरिक्त टैक्स लगाने की योजना है. इससे चीन के आयात पर कुल टैक्स करीब 40 फीसदी हो जाएगा.---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/nvidia-chip-supply-malaysia-singapore-thailand-indonesia-jensen-huang-ntc-mnrd-dskc-2706587-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `सिंगापुर-मलेशिया समेत 4 देशों को Nvidia चिप की सप्लाई बंद, दोबारा CEO बनते ही जेनसन हुआंग का बड़ा फैसला - AajTak`,
+    summary_hi: `अमेरिकी चिप निर्माता Nvidia ने दक्षिण-पूर्व एशिया के चार देशों में सर्वर की सप्लाई रोक दी है. इनमें मलेशिया, सिंगापुर, थाईलैंड और इंडोनेशिया शामिल हैं. कंपनी ने अपने मैन्युफैक्चरिंग पार्टनर्स Dell और Supermicro को इन देशों में सर्वर भेजने स`,
+    content_hi: `अमेरिकी चिप निर्माता Nvidia ने दक्षिण-पूर्व एशिया के चार देशों में सर्वर की सप्लाई रोक दी है. इनमें मलेशिया, सिंगापुर, थाईलैंड और इंडोनेशिया शामिल हैं. कंपनी ने अपने मैन्युफैक्चरिंग पार्टनर्स Dell और Supermicro को इन देशों में सर्वर भेजने से रोकने का निर्देश दिया है. रिपोर्ट में इस फैसले से जुड़े तीन सूत्रों का हवाला दिया गया है.
+
+और पढ़ेंफाइनेंशियल टाइम्स की रिपोर्ट के मुताबिक, यह साफ नहीं है कि सप्लाई पर लगी यह रोक अस्थायी है या स्थायी. Nvidia आर्टिफिशियल इंटेलिजेंस (AI) की दुनिया में इस्तेमाल होने वाली चिप बनाने वाली प्रमुख कंपनियों में शामिल है. ऐसे में उसके इस फैसले को अहम माना जा रहा है.यह भी पढ़ें: जेनसन हुआंग संग अफेयर के दौरान चीनी खुफिया एजेंसी के संपर्क में थीं गर्लफ्रेंड एलिस!
+
+MSS रख रही थी नजरचीन तक AI तकनीक पहुंचने से रोकने की कोशिशअमेरिका ने चीन की AI कंप्यूटिंग क्षमता तक पहुंच को रोकने के लिए निर्यात नियंत्रण के नियम सख्त किए हैं. Nvidia की तरफ से चार दक्षिण-पूर्व एशियाई देशों में सर्वर की सप्लाई रोकने का फैसला ऐसे समय आया है, जब वॉशिंगटन चीन को उन्नत AI तकनीक मिलने से रोकने की कोशिश कर रहा है.
+
+Advertisement        अमेरिकी टैरिफ पर चीन ने क्या कहा?अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की तरफ से नए टैरिफ लगाने के प्रस्ताव पर चीन ने संतुलित प्रतिक्रिया दी है. चीन के विदेश मंत्रालय के प्रवक्ता गुओ जियाकुन ने कहा कि चीन और अमेरिका को समानता, आपसी सम्मान और पारस्परिक लाभ के आधार पर बातचीत के जरिए व्यापार से जुड़े मुद्दों को सुलझाना चाहिए.
+
+उन्होंने कहा कि चीन में जरूरत से ज्यादा उत्पादन की बात गलत आधार पर टिकी है. इसका इस्तेमाल राजनीतिक हेरफेर के बहाने के तौर पर नहीं किया जाना चाहिए.अमेरिकी व्यापार प्रतिनिधि कार्यालय के मुताबिक, ट्रंप प्रशासन चीन और यूरोपीय संघ समेत 14 व्यापारिक साझेदारों पर अगले साल की शुरुआत से नए टैरिफ लगाने का प्रस्ताव दे रहा है.
+
+चीन से आने वाले सामान पर 20 फीसदी अतिरिक्त टैक्स लगाने की योजना है. इससे चीन के आयात पर कुल टैक्स करीब 40 फीसदी हो जाएगा.---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/nvidia-chip-supply-malaysia-singapore-thailand-indonesia-jensen-huang-ntc-mnrd-dskc-2706587-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक सिंगापुर-मलेशिया समेत 4 देशों को Nvidia चिप की सप्लाई बंद, दोबारा CEO बनते ही जेनसन हुआंग का बड़ा फैसला - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 97992,
+    title: `पाकिस्तान के एस्ट्रोनॉट ज़ीशान अली ने स्पेस में पहले दिन क्या कुछ किया?`,
+    slug: `world-breaking-report-85781-97992-2026`,
+    original_title: `पाकिस्तान के एस्ट्रोनॉट ज़ीशान अली ने स्पेस में पहले दिन क्या कुछ किया?`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:08:02Z`,
+    updated_at: `2026-11-26T14:08:02Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/ck62pgp7ee76o`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/world-breaking-report-85781-97992-2026.jpg`,
+    image_alt: `पाकिस्तान के एस्ट्रोनॉट ज़ीशान अली ने स्पेस में पहले दिन क्या कुछ किया?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `'सितारों के आगे जहां और भी हैं, इश्क़ के इम्तिहां और भी हैं...'`,
+    content: `'सितारों के आगे जहां और भी हैं, इश्क़ के इम्तिहां और भी हैं...'
+
+अंतरिक्ष में जाने वाले पाकिस्तान के पहले एस्ट्रोनॉट मोहम्मद ज़ीशान अली ने चीनी मिशन शेनझोउ-24 के साथ तियांगोंग अंतरिक्ष स्टेशन पहुंचने पर सबसे पहले यही कहा.
+
+बुधवार को जियुक्वान सैटेलाइट लॉन्च सेंटर से रवाना हुआ शेनझोउ-24 अंतरिक्ष मिशन चीनी अंतरिक्ष स्टेशन से डॉक हुआ. इसके बाद शेनझोउ-24 के चालक दल ने अंतरिक्ष स्टेशन में प्रवेश किया.
+
+पाकिस्तान के अंतरिक्ष अनुसंधान संगठन 'सुपार्को' के मुताबिक़, चीनी अंतरिक्ष स्टेशन पर पहले से मौजूद शेनझोउ-23 के चालक दल ने शेनझोउ-24 के सदस्यों का स्वागत किया. इस मौके पर अंतरिक्ष यात्रियों की तस्वीरें भी जारी की गईं.
+
+शेनझोउ-24 मिशन के तहत तीन अंतरिक्ष यात्रियों को तियांगोंग अंतरिक्ष स्टेशन भेजा गया है. इनमें तांग होंगबो मिशन के कमांडर, वू यी फ़्लाइट इंजीनियर और पाकिस्तान के पायलट मुहम्मद ज़ीशान अली पेलोड विशेषज्ञ के तौर पर शामिल हैं.
+
+शेनझोउ-24 ने पृथ्वी से रवाना होने के करीब साढ़े तीन घंटे बाद अपनी यात्रा पूरी की और सुबह लगभग 8.56 बजे तियांगोंग अंतरिक्ष स्टेशन से जुड़ गया.
+
+इस मिशन में एक पाकिस्तान के एस्ट्रोनॉट भी शामिल हैं. इसे ध्यान में रखते हुए चीनी अंतरिक्ष कार्यक्रम के संबंधित विभाग ने चीनी और अंग्रेज़ी, दोनों भाषाओं में कामकाज से जुड़े निर्देश तैयार किए हैं. इसके अलावा, ज़ीशान की खान-पान संबंधी पसंद को ध्यान में रखते हुए हलाल अंतरिक्ष भोजन का इंतज़ाम भी किया गया है.
+
+ज़ीशान अली तियांगोंग अंतरिक्ष स्टेशन पर करीब एक सप्ताह बिताएंगे. इस दौरान वह वैज्ञानिक प्रयोगों और शोध गतिविधियों में हिस्सा लेंगे.
+
+ज़ीशान अली शोध परियोजनाओं में पेलोड विशेषज्ञ के तौर पर काम करेंगे. इनमें सूक्ष्म शैवाल की वृद्धि और क्विनोआ के बीजों पर अंतरिक्ष के वातावरण के प्रभावों का अध्ययन शामिल है.
+
+ज़ीशान अली की इस मिशन से वापसी करीब एक सप्ताह बाद निर्धारित है. चीनी मीडिया की कुछ रिपोर्टों के मुताबिक, वापसी के दौरान वह अंतरिक्ष स्टेशन पर पहले से मौजूद शेनझोउ-23 के चालक दल के साथ लौटेंगे.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+जब शेनझोउ-24 मिशन के चालक दल ने चीनी अंतरिक्ष स्टेशन में प्रवेश किया, तो शेनझोउ-23 के अंतरिक्ष यात्रियों ने उनका स्वागत किया.
+
+उन्होंने ख़ास तौर पर ज़ीशान अली को संबोधित करते हुए कहा कि वह किसी चीनी अंतरिक्ष मिशन में शामिल होने वाले पहले विदेशी एस्ट्रोनॉट बन गए हैं.
+
+चीनी मीडिया के मुताबिक़, दोनों टीमें कई दिनों से इसकी तैयारी कर रही थीं और एक-दूसरे के संपर्क में थीं.
+
+बुधवार को अंतरिक्ष में हुए इस छोटे से समारोह में शेनझोउ-24 मिशन पर गए तीनों अंतरिक्ष यात्रियों ने बारी-बारी से अपनी बात रखी.
+
+ज़ीशान अली ने कहा कि अंतरिक्ष में जाने और चीनी अंतरिक्ष स्टेशन में दाख़िल होने वाले पाकिस्तान के पहले एस्ट्रोनॉट बनकर उन्हें बेहद ख़ुशी हुई है.
+
+उन्होंने पाकिस्तान के राष्ट्रीय कवि अल्लामा इक़बाल की एक कविता भी सुनाई, "सितारों के आगे जहां और भी हैं, और अब इश्क़ के इम्तिहां और भी हैं."
+
+इसके बाद उन्होंने अपने साथियों को इसका चीनी अनुवाद भी सुनाया, जिसकी काफ़ी तारीफ़ हुई.
+
+शेनझोउ-23 मिशन के अंतरिक्ष यात्रियों ने कहा कि आने वाले दिनों में वे अपना काम नई टीम को सौंपेंगे और उन्हें अंतरिक्ष के माहौल में ढलने में मदद करेंगे.
+
+एक महिला एस्ट्रोनॉट ने बताया कि उन्होंने शेनझोउ-24 की टीम के सदस्यों के लिए 'स्पेस केक' बनाए हैं. सभी ने बारी-बारी से केक को सूंघा और उसकी तारीफ़ की. ज़ीशान अली ने कहा कि केक देखने में बहुत अच्छे लग रहे हैं.
+
+इसके बाद सभी छह अंतरिक्ष यात्रियों ने एक साथ तस्वीर खिंचवाई. चीनी मीडिया ने इस कार्यक्रम की कवरेज के दौरान बताया कि ज़ीशान अली ने बहुत कम समय में चीनी भाषा सीख ली है और उनके लिए रोज़मर्रा की ज़िंदगी मुश्किल नहीं होगी.
+
+कवरेज के दौरान बताया गया कि एस्ट्रोनॉट अब एक साथ खाना खा रहे हैं और ज़ीशान अली के लिए ख़ास भोजन तैयार किया गया है. यह भी बताया गया कि उनके लिए पाकिस्तान के व्यंजन के विकल्प उपलब्ध हैं, ताकि वह 'अंतरिक्ष में घर जैसे खाने का स्वाद ले सकें'.
+
+इस रिपोर्ट में हमने यह जानने की कोशिश की है कि ज़ीशान अली और दूसरे एस्ट्रोनॉट अंतरिक्ष में अपने दिन और रात कैसे बिताएंगे.
+
+यानी वे क्या खाएंगे, शौचालय का इस्तेमाल कैसे करेंगे, कसरत कैसे करेंगे, सोएंगे कैसे और उनकी रोज़मर्रा की ज़िंदगी कैसी होगी?
+
+शिन्हुआ, चाइना डेली, सीजीटीएन और चाइना मैन्ड स्पेस एजेंसी समेत चीनी सरकारी मीडिया तियांगोंग अंतरिक्ष स्टेशन को अंतरिक्ष में एक ऐसे घर के तौर पर पेश करता है, जहां एस्ट्रोनॉट कई दिनों तक रहते हैं, काम करते हैं, कसरत करते हैं और सोते हैं.
+
+अंतरराष्ट्रीय अंतरिक्ष स्टेशन पर प्लेट या कटोरियां नहीं होतीं, क्योंकि अंतरिक्ष में हर चीज़ तैरती रहती है. वहां खाया जाने वाला भोजन आम तौर पर प्रोसेस किया हुआ होता है और उसका वज़न कम करने के लिए उसमें से पानी निकाल दिया जाता है.
+
+एस्ट्रोनॉट स्टेशन पर गर्म और ठंडे पानी के डिस्पेंसर की मदद से खाने में दोबारा पानी मिलाते हैं.
+
+खाना आम तौर पर पैकेट में दिया जाता है. इन्हीं पैकेटों को प्लेट की तरह इस्तेमाल किया जाता है और ख़ास चम्मच से खाना खाया जाता है.
+
+चीनी सरकारी मीडिया के मुताबिक, तियांगोंग अंतरिक्ष स्टेशन पर अंतरिक्ष यात्रियों के लिए करीब 200 तरह के खाद्य पदार्थ उपलब्ध हैं. इनमें कुंग पाओ चिकन, मापो टोफ़ू, फ़्राइड राइस, पकौड़ियां, मून केक और कई तरह के मांसाहारी व्यंजन शामिल हैं.
+
+अंतरिक्ष स्टेशन पर एक रसोई भी है, जिसमें खाना गर्म करने की व्यवस्था, गर्म पानी के डिस्पेंसर और अंतरिक्ष में इस्तेमाल के लिए तैयार किया गया बेकिंग ओवन शामिल हैं. इनकी मदद से एस्ट्रोनॉट गर्म खाना खा सकते हैं.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ck62pgp7ee76o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `पाकिस्तान के एस्ट्रोनॉट ज़ीशान अली ने स्पेस में पहले दिन क्या कुछ किया?`,
+    summary_hi: `'सितारों के आगे जहां और भी हैं, इश्क़ के इम्तिहां और भी हैं...'`,
+    content_hi: `'सितारों के आगे जहां और भी हैं, इश्क़ के इम्तिहां और भी हैं...'
+
+अंतरिक्ष में जाने वाले पाकिस्तान के पहले एस्ट्रोनॉट मोहम्मद ज़ीशान अली ने चीनी मिशन शेनझोउ-24 के साथ तियांगोंग अंतरिक्ष स्टेशन पहुंचने पर सबसे पहले यही कहा.
+
+बुधवार को जियुक्वान सैटेलाइट लॉन्च सेंटर से रवाना हुआ शेनझोउ-24 अंतरिक्ष मिशन चीनी अंतरिक्ष स्टेशन से डॉक हुआ. इसके बाद शेनझोउ-24 के चालक दल ने अंतरिक्ष स्टेशन में प्रवेश किया.
+
+पाकिस्तान के अंतरिक्ष अनुसंधान संगठन 'सुपार्को' के मुताबिक़, चीनी अंतरिक्ष स्टेशन पर पहले से मौजूद शेनझोउ-23 के चालक दल ने शेनझोउ-24 के सदस्यों का स्वागत किया. इस मौके पर अंतरिक्ष यात्रियों की तस्वीरें भी जारी की गईं.
+
+शेनझोउ-24 मिशन के तहत तीन अंतरिक्ष यात्रियों को तियांगोंग अंतरिक्ष स्टेशन भेजा गया है. इनमें तांग होंगबो मिशन के कमांडर, वू यी फ़्लाइट इंजीनियर और पाकिस्तान के पायलट मुहम्मद ज़ीशान अली पेलोड विशेषज्ञ के तौर पर शामिल हैं.
+
+शेनझोउ-24 ने पृथ्वी से रवाना होने के करीब साढ़े तीन घंटे बाद अपनी यात्रा पूरी की और सुबह लगभग 8.56 बजे तियांगोंग अंतरिक्ष स्टेशन से जुड़ गया.
+
+इस मिशन में एक पाकिस्तान के एस्ट्रोनॉट भी शामिल हैं. इसे ध्यान में रखते हुए चीनी अंतरिक्ष कार्यक्रम के संबंधित विभाग ने चीनी और अंग्रेज़ी, दोनों भाषाओं में कामकाज से जुड़े निर्देश तैयार किए हैं. इसके अलावा, ज़ीशान की खान-पान संबंधी पसंद को ध्यान में रखते हुए हलाल अंतरिक्ष भोजन का इंतज़ाम भी किया गया है.
+
+ज़ीशान अली तियांगोंग अंतरिक्ष स्टेशन पर करीब एक सप्ताह बिताएंगे. इस दौरान वह वैज्ञानिक प्रयोगों और शोध गतिविधियों में हिस्सा लेंगे.
+
+ज़ीशान अली शोध परियोजनाओं में पेलोड विशेषज्ञ के तौर पर काम करेंगे. इनमें सूक्ष्म शैवाल की वृद्धि और क्विनोआ के बीजों पर अंतरिक्ष के वातावरण के प्रभावों का अध्ययन शामिल है.
+
+ज़ीशान अली की इस मिशन से वापसी करीब एक सप्ताह बाद निर्धारित है. चीनी मीडिया की कुछ रिपोर्टों के मुताबिक, वापसी के दौरान वह अंतरिक्ष स्टेशन पर पहले से मौजूद शेनझोउ-23 के चालक दल के साथ लौटेंगे.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+जब शेनझोउ-24 मिशन के चालक दल ने चीनी अंतरिक्ष स्टेशन में प्रवेश किया, तो शेनझोउ-23 के अंतरिक्ष यात्रियों ने उनका स्वागत किया.
+
+उन्होंने ख़ास तौर पर ज़ीशान अली को संबोधित करते हुए कहा कि वह किसी चीनी अंतरिक्ष मिशन में शामिल होने वाले पहले विदेशी एस्ट्रोनॉट बन गए हैं.
+
+चीनी मीडिया के मुताबिक़, दोनों टीमें कई दिनों से इसकी तैयारी कर रही थीं और एक-दूसरे के संपर्क में थीं.
+
+बुधवार को अंतरिक्ष में हुए इस छोटे से समारोह में शेनझोउ-24 मिशन पर गए तीनों अंतरिक्ष यात्रियों ने बारी-बारी से अपनी बात रखी.
+
+ज़ीशान अली ने कहा कि अंतरिक्ष में जाने और चीनी अंतरिक्ष स्टेशन में दाख़िल होने वाले पाकिस्तान के पहले एस्ट्रोनॉट बनकर उन्हें बेहद ख़ुशी हुई है.
+
+उन्होंने पाकिस्तान के राष्ट्रीय कवि अल्लामा इक़बाल की एक कविता भी सुनाई, "सितारों के आगे जहां और भी हैं, और अब इश्क़ के इम्तिहां और भी हैं."
+
+इसके बाद उन्होंने अपने साथियों को इसका चीनी अनुवाद भी सुनाया, जिसकी काफ़ी तारीफ़ हुई.
+
+शेनझोउ-23 मिशन के अंतरिक्ष यात्रियों ने कहा कि आने वाले दिनों में वे अपना काम नई टीम को सौंपेंगे और उन्हें अंतरिक्ष के माहौल में ढलने में मदद करेंगे.
+
+एक महिला एस्ट्रोनॉट ने बताया कि उन्होंने शेनझोउ-24 की टीम के सदस्यों के लिए 'स्पेस केक' बनाए हैं. सभी ने बारी-बारी से केक को सूंघा और उसकी तारीफ़ की. ज़ीशान अली ने कहा कि केक देखने में बहुत अच्छे लग रहे हैं.
+
+इसके बाद सभी छह अंतरिक्ष यात्रियों ने एक साथ तस्वीर खिंचवाई. चीनी मीडिया ने इस कार्यक्रम की कवरेज के दौरान बताया कि ज़ीशान अली ने बहुत कम समय में चीनी भाषा सीख ली है और उनके लिए रोज़मर्रा की ज़िंदगी मुश्किल नहीं होगी.
+
+कवरेज के दौरान बताया गया कि एस्ट्रोनॉट अब एक साथ खाना खा रहे हैं और ज़ीशान अली के लिए ख़ास भोजन तैयार किया गया है. यह भी बताया गया कि उनके लिए पाकिस्तान के व्यंजन के विकल्प उपलब्ध हैं, ताकि वह 'अंतरिक्ष में घर जैसे खाने का स्वाद ले सकें'.
+
+इस रिपोर्ट में हमने यह जानने की कोशिश की है कि ज़ीशान अली और दूसरे एस्ट्रोनॉट अंतरिक्ष में अपने दिन और रात कैसे बिताएंगे.
+
+यानी वे क्या खाएंगे, शौचालय का इस्तेमाल कैसे करेंगे, कसरत कैसे करेंगे, सोएंगे कैसे और उनकी रोज़मर्रा की ज़िंदगी कैसी होगी?
+
+शिन्हुआ, चाइना डेली, सीजीटीएन और चाइना मैन्ड स्पेस एजेंसी समेत चीनी सरकारी मीडिया तियांगोंग अंतरिक्ष स्टेशन को अंतरिक्ष में एक ऐसे घर के तौर पर पेश करता है, जहां एस्ट्रोनॉट कई दिनों तक रहते हैं, काम करते हैं, कसरत करते हैं और सोते हैं.
+
+अंतरराष्ट्रीय अंतरिक्ष स्टेशन पर प्लेट या कटोरियां नहीं होतीं, क्योंकि अंतरिक्ष में हर चीज़ तैरती रहती है. वहां खाया जाने वाला भोजन आम तौर पर प्रोसेस किया हुआ होता है और उसका वज़न कम करने के लिए उसमें से पानी निकाल दिया जाता है.
+
+एस्ट्रोनॉट स्टेशन पर गर्म और ठंडे पानी के डिस्पेंसर की मदद से खाने में दोबारा पानी मिलाते हैं.
+
+खाना आम तौर पर पैकेट में दिया जाता है. इन्हीं पैकेटों को प्लेट की तरह इस्तेमाल किया जाता है और ख़ास चम्मच से खाना खाया जाता है.
+
+चीनी सरकारी मीडिया के मुताबिक, तियांगोंग अंतरिक्ष स्टेशन पर अंतरिक्ष यात्रियों के लिए करीब 200 तरह के खाद्य पदार्थ उपलब्ध हैं. इनमें कुंग पाओ चिकन, मापो टोफ़ू, फ़्राइड राइस, पकौड़ियां, मून केक और कई तरह के मांसाहारी व्यंजन शामिल हैं.
+
+अंतरिक्ष स्टेशन पर एक रसोई भी है, जिसमें खाना गर्म करने की व्यवस्था, गर्म पानी के डिस्पेंसर और अंतरिक्ष में इस्तेमाल के लिए तैयार किया गया बेकिंग ओवन शामिल हैं. इनकी मदद से एस्ट्रोनॉट गर्म खाना खा सकते हैं.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ck62pgp7ee76o)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक पाकिस्तान के एस्ट्रोनॉट ज़ीशान अली ने स्पेस में पहले दिन क्या कुछ किया? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 97993,
+    title: `How To Watch FIDE World Championship 2026 Game 3 - Chess.com`,
+    slug: `how-to-watch-fide-world-championship-2026-game-3-chesscom-2026`,
+    original_title: `How To Watch FIDE World Championship 2026 Game 3 - Chess.com`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:08:04Z`,
+    updated_at: `2026-11-26T14:08:04Z`,
+    source_name: `Chess.com`,
+    source_url: `https://www.chess.com/news/view/2026-fide-world-chess-championship-game-3`,
+    source_courtesy: `Source: Chess.com`,
+    image_url: `/images/articles/how-to-watch-fide-world-championship-2026-game-3-chesscom-2026.png`,
+    image_alt: `How To Watch FIDE World Championship 2026 Game 3 - Chess.com`,
+    image_courtesy: `Image: Chess.com (External Source Attribution)`,
+    image_photographer: `Chess.com`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov continues with game three on Thursday, November 26, at 9 a.m. ET / 15:00 CET /  7:30 p.m. IST .`,
+    content: `The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov continues with game three on Thursday, November 26, at 9 a.m. ET / 15:00 CET /  7:30 p.m. IST .
+
+After two draws, SIndarov will have the white pieces in the last game before the players have their first rest day. Don't miss all the action!
+
+The Salesforce FIDE World Championship 2026 in Geneva, Switzerland decides the next world champion. Uzbek Challenger Javokhir Sindarov plays Indian Defending Champion Gukesh Dommaraju in a 14-game match, with the winner the first to 7.5 points. The players have two hours for 40 moves, then 30 minutes to the end of the game, with 30 seconds added each move from move 41 onward. The prize fund is $2,500,000, with $200,000 for a win and the remaining money split equally. If tied 7-7, a playoff will take place, starting with four games of 15+10 rapid chess.
+
+### Watch The Salesforce FIDE World Chess Championship On Twitch To Earn Exclusive Flairs
+
+### New Classic Games App In Beta, Play And Learn 10 Incredible Games!
+
+---
+
+**Original Source:** [Chess.com](https://www.chess.com/news/view/2026-fide-world-chess-championship-game-3)`,
+    title_en: `How To Watch FIDE World Championship 2026 Game 3 - Chess.com`,
+    summary_en: `The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov continues with game three on Thursday, November 26, at 9 a.m. ET / 15:00 CET /  7:30 p.m. IST .`,
+    content_en: `The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov continues with game three on Thursday, November 26, at 9 a.m. ET / 15:00 CET /  7:30 p.m. IST .
+
+After two draws, SIndarov will have the white pieces in the last game before the players have their first rest day. Don't miss all the action!
+
+The Salesforce FIDE World Championship 2026 in Geneva, Switzerland decides the next world champion. Uzbek Challenger Javokhir Sindarov plays Indian Defending Champion Gukesh Dommaraju in a 14-game match, with the winner the first to 7.5 points. The players have two hours for 40 moves, then 30 minutes to the end of the game, with 30 seconds added each move from move 41 onward. The prize fund is $2,500,000, with $200,000 for a win and the remaining money split equally. If tied 7-7, a playoff will take place, starting with four games of 15+10 rapid chess.
+
+### Watch The Salesforce FIDE World Chess Championship On Twitch To Earn Exclusive Flairs
+
+### New Classic Games App In Beta, Play And Learn 10 Incredible Games!
+
+---
+
+**Original Source:** [Chess.com](https://www.chess.com/news/view/2026-fide-world-chess-championship-game-3)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Chess.com.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for How To Watch FIDE World Championship 2026 Game 3 - Chess.com.`,
+    primary_source: `Chess.com`,
+  },
+  {
+    id: 97994,
+    title: `How Rajasthan Royals missed a once-in-a-lifetime opportunity to acquire Hardik Pandya`,
+    slug: `how-rajasthan-royals-missed-a-once-in-a-lifetime-opportunity-to-acquir-2026`,
+    original_title: `How Rajasthan Royals missed a once-in-a-lifetime opportunity to acquire Hardik Pandya`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:08:07Z`,
+    updated_at: `2026-11-26T14:08:07Z`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/how-rajasthan-royals-missed-a-once-in-a-lifetime-opportunity-to-acquire-hardik-pandya/articleshow/136179002.cms`,
+    source_courtesy: `Source: The Times of India`,
+    image_url: `/images/articles/how-rajasthan-royals-missed-a-once-in-a-lifetime-opportunity-to-acquir-2026.jpg`,
+    image_alt: `How Rajasthan Royals missed a once-in-a-lifetime opportunity to acquire Hardik Pandya`,
+    image_courtesy: `Image: The Times of India (External Source Attribution)`,
+    image_photographer: `The Times of India`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `NEW DELHI: Ever since Mumbai Indians (MI) played their last league match of IPL 2026, speculation was rife over Hardik Pandya's future. Multiple teams were in the race to sign the flamboyant all-rounder, whose second stint with MI, having r`,
+    content: `NEW DELHI: Ever since Mumbai Indians (MI) played their last league match of IPL 2026, speculation was rife over Hardik Pandya's future. Multiple teams were in the race to sign the flamboyant all-rounder, whose second stint with MI, having returned to the franchise in the 2024 season as captain, replacing long-serving skipper Rohit Sharma, didn't go as planned.
+
+The five-time IPL champions failed to qualify for the playoffs twice in the three seasons since Pandya took over the captaincy.Rajasthan Royals (RR), the inaugural champions of the IPL, were in the driver's seat to acquire Hardik. The Royals' owners and their Director of Cricket, Kumar Sangakkara, flew all the way to Bengaluru to sign the deal.However, it's understood that the trade fell through when MI asked to include England pacer Jofra Archer along with opener Yashasvi Jaiswal in the deal.
+
+MI were clear that they would trade Hardik to Rajasthan only if they agreed to include Archer in the deal. But Rajasthan Royals opted against it.Would that have been a setback for the Royals? Not necessarily. They would have acquired the services of India's No. 1 all-rounder and a captain.
+
+Now, after this failed trade, RR will have to continue with the options they have. Riyan Parag is now set to lead the Rajasthan Royals in the IPL 2027 season.Under Riyan, the Royals qualified for the playoffs in IPL 2026 but his own form was underwhelming as he struggled with the bat.
+
+The Royals now have no choice but to continue with him, who, as a player, is yet to establish himself in the Indian cricket team.In Hardik, the Royals could have signed a proven championship-winning captain, something they have lacked for years. Hardik had led Gujarat Titans (GT) to the title in their debut season in 2022.
+
+GT also reached the final in 2023. Around Hardik and with the pot of gold they have unearthed in Vaibhav Sooryavanshi, Royals missed a chance to build a championship-winning side.Despite the fitness concerns, Hardik remains a force to reckon with as a player, and the numbers don't lie.
+
+Across 162 IPL matches, he has scored 2,955 runs at a strike rate of 146.28 and claimed 82 wickets, underlining his value as a proven match-winner.Rajasthan Royals' loss proved to be Punjab Kings' gain, who didn't even hesitate to trade their premier pacer Arshdeep Singh to sign Hardik Pandya in one of the biggest and most high-profile player exchanges in IPL history.Hardik Pandya moved to Punjab Kings from Mumbai Indians at an increased fee of Rs 18 crore (Pandya’s existing fee was Rs 16.35 crore).
+
+Arshdeep, on the other hand, moved to Mumbai at an unchanged price tag of Rs 18 crore.Hardik’s trade brought the curtain down on his second stint with MI, a franchise with which he won four IPL titles. Having first joined MI in 2015, the 33-year-old had starring roles with both bat and ball during the team’s title-winning campaigns in 2015, 2017, 2019 and 2020.
+
+Alas, it didn't end on a high.Get the latest Sports News and Live updates. Download the TOI app.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/how-rajasthan-royals-missed-a-once-in-a-lifetime-opportunity-to-acquire-hardik-pandya/articleshow/136179002.cms)`,
+    title_en: `How Rajasthan Royals missed a once-in-a-lifetime opportunity to acquire Hardik Pandya`,
+    summary_en: `NEW DELHI: Ever since Mumbai Indians (MI) played their last league match of IPL 2026, speculation was rife over Hardik Pandya's future. Multiple teams were in the race to sign the flamboyant all-rounder, whose second stint with MI, having r`,
+    content_en: `NEW DELHI: Ever since Mumbai Indians (MI) played their last league match of IPL 2026, speculation was rife over Hardik Pandya's future. Multiple teams were in the race to sign the flamboyant all-rounder, whose second stint with MI, having returned to the franchise in the 2024 season as captain, replacing long-serving skipper Rohit Sharma, didn't go as planned.
+
+The five-time IPL champions failed to qualify for the playoffs twice in the three seasons since Pandya took over the captaincy.Rajasthan Royals (RR), the inaugural champions of the IPL, were in the driver's seat to acquire Hardik. The Royals' owners and their Director of Cricket, Kumar Sangakkara, flew all the way to Bengaluru to sign the deal.However, it's understood that the trade fell through when MI asked to include England pacer Jofra Archer along with opener Yashasvi Jaiswal in the deal.
+
+MI were clear that they would trade Hardik to Rajasthan only if they agreed to include Archer in the deal. But Rajasthan Royals opted against it.Would that have been a setback for the Royals? Not necessarily. They would have acquired the services of India's No. 1 all-rounder and a captain.
+
+Now, after this failed trade, RR will have to continue with the options they have. Riyan Parag is now set to lead the Rajasthan Royals in the IPL 2027 season.Under Riyan, the Royals qualified for the playoffs in IPL 2026 but his own form was underwhelming as he struggled with the bat.
+
+The Royals now have no choice but to continue with him, who, as a player, is yet to establish himself in the Indian cricket team.In Hardik, the Royals could have signed a proven championship-winning captain, something they have lacked for years. Hardik had led Gujarat Titans (GT) to the title in their debut season in 2022.
+
+GT also reached the final in 2023. Around Hardik and with the pot of gold they have unearthed in Vaibhav Sooryavanshi, Royals missed a chance to build a championship-winning side.Despite the fitness concerns, Hardik remains a force to reckon with as a player, and the numbers don't lie.
+
+Across 162 IPL matches, he has scored 2,955 runs at a strike rate of 146.28 and claimed 82 wickets, underlining his value as a proven match-winner.Rajasthan Royals' loss proved to be Punjab Kings' gain, who didn't even hesitate to trade their premier pacer Arshdeep Singh to sign Hardik Pandya in one of the biggest and most high-profile player exchanges in IPL history.Hardik Pandya moved to Punjab Kings from Mumbai Indians at an increased fee of Rs 18 crore (Pandya’s existing fee was Rs 16.35 crore).
+
+Arshdeep, on the other hand, moved to Mumbai at an unchanged price tag of Rs 18 crore.Hardik’s trade brought the curtain down on his second stint with MI, a franchise with which he won four IPL titles. Having first joined MI in 2015, the 33-year-old had starring roles with both bat and ball during the team’s title-winning campaigns in 2015, 2017, 2019 and 2020.
+
+Alas, it didn't end on a high.Get the latest Sports News and Live updates. Download the TOI app.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/how-rajasthan-royals-missed-a-once-in-a-lifetime-opportunity-to-acquire-hardik-pandya/articleshow/136179002.cms)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Times of India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for How Rajasthan Royals missed a once-in-a-lifetime opportunity to acquire Hardik Pandya.`,
+    primary_source: `The Times of India`,
+  },
+  {
+    id: 97995,
+    title: `I & B ministry asks Netflix to not stream Fawad Khan, Mahira Khan, Sanam Saeed starrer 'Jo Bachay Hain Sa`,
+    slug: `i-b-ministry-asks-netflix-to-not-stream-fawad-khan-mahira-khan-sanam-s-2026`,
+    original_title: `I & B ministry asks Netflix to not stream Fawad Khan, Mahira Khan, Sanam Saeed starrer 'Jo Bachay Hain Sa`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:08:09Z`,
+    updated_at: `2026-11-26T14:08:09Z`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-b-ministry-asks-netflix-to-not-stream-fawad-khan-mahira-khan-sanam-saeed-starrer-jo-bachay-hain-sang-samait-lo-and-honour-its-commitment-to-keep-pakistani-content-off-in-india/articleshow/136185286.cms`,
+    source_courtesy: `Source: The Times of India`,
+    image_url: `/images/articles/i-b-ministry-asks-netflix-to-not-stream-fawad-khan-mahira-khan-sanam-s-2026.jpg`,
+    image_alt: `I & B ministry asks Netflix to not stream Fawad Khan, Mahira Khan, Sanam Saeed starrer 'Jo Bachay Hain Sa`,
+    image_courtesy: `Image: The Times of India (External Source Attribution)`,
+    image_photographer: `The Times of India`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `The Ministry of Information and Broadcasting has asked Netflix to ensure that no content originating in Pakistan is streamed in India, in accordance with its order dated May 8, 2025.According to sources quoted by news agency ANI, the minist`,
+    content: `The Ministry of Information and Broadcasting has asked Netflix to ensure that no content originating in Pakistan is streamed in India, in accordance with its order dated May 8, 2025.According to sources quoted by news agency ANI, the ministry has reminded the streaming platform of the assurance it gave in June last year, stating that no Pakistani-origin films or series were being made available to Indian subscribers.The Ministry of Information and Broadcasting has asked Netflix to ensure that no content originating in Pakistan is streamed in India, in accordance with its advisory dated May 8, 2025.
+
+According to sources quoted by news agency ANI, the ministry has reminded the streaming platform of the assurance it gave in June last year, when it informed the government that no Pakistani-origin films or series were being made available to subscribers in India. Netflix has also been asked to maintain the same position it had communicated at the time.The latest directive follows several complaints and representations received by the ministry regarding the possible release of the Pakistan-based web series 'Jo Bachay Hain Sang Samait Lo' in India.On Wednesday, film industry organisations also approached the government, urging it to stop the series from being released in the country.
+
+The All Indian Cine Workers Association (AICWA) and the Federation of Western India Cine Employees (FWICE) wrote to Prime Minister Narendra Modi, seeking his intervention in the matter.On Wednesday, the All Indian Cine Workers Association (AICWA) and the Federation of Western India Cine Employees (FWICE) approached the government, urging it to prevent the web series from being released in India.
+
+Both organisations maintained that its release would go against the ministry's advisory issued following the Pahalgam terror attack last year, which called on OTT platforms and streaming services to discontinue Pakistani-origin content.In a letter addressed to Prime Minister Narendra Modi, Information and Broadcasting Minister Ashwini Vaishnaw and Netflix India, the AICWA described Pakistan as a "terrorist country" that will never wish well for India."After the Pulwama attack, AICWA banned Pakistani artists from working in the Indian film industry.
+
+After the Pahalgam attack, the Government of India also imposed restrictions on Pakistani artists and content," stated the letter signed by AICWA president Suresh Shyamlal Gupta.The association further argued that allowing the series to stream in India would contradict the intent of the government's advisory and hurt public sentiment.
+
+AICWA, which describes itself on its website as an organisation affiliated with the Maharashtra government and working for the rights of people associated with the film industry, has reiterated its opposition to the show's proposed release.Get the latest Bollywood & Entertainment News, and more.
+
+Download the TOI app.Give your child the gift of confidence! Claim your exclusive TOI Masterclass spot today!
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-b-ministry-asks-netflix-to-not-stream-fawad-khan-mahira-khan-sanam-saeed-starrer-jo-bachay-hain-sang-samait-lo-and-honour-its-commitment-to-keep-pakistani-content-off-in-india/articleshow/136185286.cms)`,
+    title_en: `I & B ministry asks Netflix to not stream Fawad Khan, Mahira Khan, Sanam Saeed starrer 'Jo Bachay Hain Sa`,
+    summary_en: `The Ministry of Information and Broadcasting has asked Netflix to ensure that no content originating in Pakistan is streamed in India, in accordance with its order dated May 8, 2025.According to sources quoted by news agency ANI, the minist`,
+    content_en: `The Ministry of Information and Broadcasting has asked Netflix to ensure that no content originating in Pakistan is streamed in India, in accordance with its order dated May 8, 2025.According to sources quoted by news agency ANI, the ministry has reminded the streaming platform of the assurance it gave in June last year, stating that no Pakistani-origin films or series were being made available to Indian subscribers.The Ministry of Information and Broadcasting has asked Netflix to ensure that no content originating in Pakistan is streamed in India, in accordance with its advisory dated May 8, 2025.
+
+According to sources quoted by news agency ANI, the ministry has reminded the streaming platform of the assurance it gave in June last year, when it informed the government that no Pakistani-origin films or series were being made available to subscribers in India. Netflix has also been asked to maintain the same position it had communicated at the time.The latest directive follows several complaints and representations received by the ministry regarding the possible release of the Pakistan-based web series 'Jo Bachay Hain Sang Samait Lo' in India.On Wednesday, film industry organisations also approached the government, urging it to stop the series from being released in the country.
+
+The All Indian Cine Workers Association (AICWA) and the Federation of Western India Cine Employees (FWICE) wrote to Prime Minister Narendra Modi, seeking his intervention in the matter.On Wednesday, the All Indian Cine Workers Association (AICWA) and the Federation of Western India Cine Employees (FWICE) approached the government, urging it to prevent the web series from being released in India.
+
+Both organisations maintained that its release would go against the ministry's advisory issued following the Pahalgam terror attack last year, which called on OTT platforms and streaming services to discontinue Pakistani-origin content.In a letter addressed to Prime Minister Narendra Modi, Information and Broadcasting Minister Ashwini Vaishnaw and Netflix India, the AICWA described Pakistan as a "terrorist country" that will never wish well for India."After the Pulwama attack, AICWA banned Pakistani artists from working in the Indian film industry.
+
+After the Pahalgam attack, the Government of India also imposed restrictions on Pakistani artists and content," stated the letter signed by AICWA president Suresh Shyamlal Gupta.The association further argued that allowing the series to stream in India would contradict the intent of the government's advisory and hurt public sentiment.
+
+AICWA, which describes itself on its website as an organisation affiliated with the Maharashtra government and working for the rights of people associated with the film industry, has reiterated its opposition to the show's proposed release.Get the latest Bollywood & Entertainment News, and more.
+
+Download the TOI app.Give your child the gift of confidence! Claim your exclusive TOI Masterclass spot today!
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-b-ministry-asks-netflix-to-not-stream-fawad-khan-mahira-khan-sanam-saeed-starrer-jo-bachay-hain-sang-samait-lo-and-honour-its-commitment-to-keep-pakistani-content-off-in-india/articleshow/136185286.cms)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Times of India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for I & B ministry asks Netflix to not stream Fawad Khan, Mahira Khan, Sanam Saeed starrer 'Jo Bachay Hain Sa.`,
+    primary_source: `The Times of India`,
+  },
+  {
+    id: 97996,
+    title: `Dr Hassan trailer: Nawazuddin Siddiqui tackles medical mysteries in Indian adaptation of Hugh Laurie's House | Web Series - Hindustan Times`,
+    slug: `dr-hassan-trailer-nawazuddin-siddiqui-tackles-medical-mysteries-in-ind-2026`,
+    original_title: `Dr Hassan trailer: Nawazuddin Siddiqui tackles medical mysteries in Indian adaptation of Hugh Laurie's House | Web Series - Hindustan Times`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:08:11Z`,
+    updated_at: `2026-11-26T14:08:11Z`,
+    source_name: `Hindustan Times`,
+    source_url: `https://www.hindustantimes.com/entertainment/web-series/dr-hassan-trailer-nawazuddin-siddiqui-tackles-medical-mysteries-in-indian-adaptation-of-hugh-lauries-house-101795685537949.html`,
+    source_courtesy: `Source: Hindustan Times`,
+    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Dr Hassan trailer: Nawazuddin Siddiqui tackles medical mysteries in Indian adaptation of Hugh Laurie's House | Web Series - Hindustan Times`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Bollywood actor Nawazuddin Siddiqui has stepped into the world of medical mysteries, taking on Hugh Laurie's role in the Indian adaptation of the popular American show House. The makers have now released the trailer, giving a glimpse into D`,
+    content: `Bollywood actor Nawazuddin Siddiqui has stepped into the world of medical mysteries, taking on Hugh Laurie's role in the Indian adaptation of the popular American show House. The makers have now released the trailer, giving a glimpse into Dr Hassan's world, where he solves impossible cases while navigating tricky equations with his juniors and patients.Dr Hassan trailer out!The trailer opens at Janki Das Ruia Hospital, where some medical mysteries have no obvious answers.
+
+The only person who might be able to crack these cases is the 'medical genius' Dr Hassan, played by Nawazuddin Siddiqui. He has the ability to identify what others often overlook. But while his mind is wired to solve the most complex medical cases, navigating everyday relationships is hardly his strongest suit.
+
+The trailer shows that Nawaz's Dr Hassan has no filter when dealing with his patients or colleagues, making him a challenging person to work with, even as his brilliance makes him indispensable to the hospital. Heading the hospital is Dr Palak Jain, played by Dia Mirza, its Chief Medical Officer and Hassan's former medical college classmate, who understands his abilities better than most.
+
+Alongside Hassan is Dr Vivek, his closest friend and trusted confidant, and a team of specialised doctors played by Smaran Sahu, Rehmat Rattan and Jayson Thaam, who find themselves navigating the demands of working with a mind that rarely follows the rules. Together, they form a team that takes on complex and baffling medical cases.Nawazuddin brings wit and humour to the character and even takes a swipe at nepo kids in a hilarious moment.
+
+When one of his colleagues helps solve part of a mystery, he praises him but adds a pinch of sarcasm. He says, "Very good Rishi, take the charge. They think nepo kids have no brains."About Dr HassanDirected by Rohan Sippy, Dr Hassan has been adapted and scripted by Vinay Chhawal and Ketan Pedgaonkar, with dialogues by Virat Basoya.
+
+It is produced by Deepak Dhar, Rishi Negi, Rajesh Chadha, Mrinalini Jain and Shyam Rathi, with Vibhas Singh Gautam serving as Executive Producer, under the banner of Banijay Asia. Dr Hassan is based on the hit series House, created by David Shore and produced by Heel and Toe Films, Shore Z Productions, Bad Hat Harry Productions and Universal Television, a division of Universal Studio Group.Starring Hugh Laurie, the original series aired for eight seasons on FOX from 2004 to 2012.
+
+The critically acclaimed series won five Primetime Emmy Awards, two Golden Globe Awards, a Peabody Award and nine People's Choice Awards, among other accolades. The Indian adaptation stars Dia Mirza, Nawazuddin Siddiqui, Smaran Sahu, Rehmat Rattan and Jayson Thaam, among others, in key roles and is scheduled to release on JioHotstar on December 11.Sharing his thoughts on the series, Nawazuddin Siddiqui said, "What makes Dr.
+
+Hassan interesting is that he is not trying to be likeable. He is completely consumed by the cases he takes on, and everything else almost seems secondary to him. As an actor, I find such contradictions very interesting to explore. You have to understand what makes a person think and behave the way he does, rather than simply play his eccentricities.
+
+I also enjoyed the little moments of humour that emerge from his interactions with people, often without him even intending to be funny. Hassan is quite a character, and discovering his many layers was a wonderful experience."Dia Mirza said she found the relationships in Dr Hassan as compelling as its medical cases.
+
+Talking about her character Palak's equation with Hassan, she said, "Palak is someone who knows Hassan well, understands his brilliance and is also acutely aware of how challenging he can be. There is a certain familiarity and history in their equation that makes their interactions very interesting." She added that she loved how the show explored not just medicine, but also "the people, personalities and emotions that come with it".Director Rohan Sippy said adapting an internationally loved show like House for Indian audiences came with both excitement and responsibility.
+
+He added that the team wanted to retain the original's intrigue and distinctive character dynamics while bringing its own sensibility to the storytelling. Calling Nawazuddin an inspired choice for Dr Hassan, he praised the depth and unpredictability he brings to the role and said Dia's character adds "a wonderful counterpoint of poise and dignity".
+
+---
+
+**Original Source:** [Hindustan Times](https://www.hindustantimes.com/entertainment/web-series/dr-hassan-trailer-nawazuddin-siddiqui-tackles-medical-mysteries-in-indian-adaptation-of-hugh-lauries-house-101795685537949.html)`,
+    title_en: `Dr Hassan trailer: Nawazuddin Siddiqui tackles medical mysteries in Indian adaptation of Hugh Laurie's House | Web Series - Hindustan Times`,
+    summary_en: `Bollywood actor Nawazuddin Siddiqui has stepped into the world of medical mysteries, taking on Hugh Laurie's role in the Indian adaptation of the popular American show House. The makers have now released the trailer, giving a glimpse into D`,
+    content_en: `Bollywood actor Nawazuddin Siddiqui has stepped into the world of medical mysteries, taking on Hugh Laurie's role in the Indian adaptation of the popular American show House. The makers have now released the trailer, giving a glimpse into Dr Hassan's world, where he solves impossible cases while navigating tricky equations with his juniors and patients.Dr Hassan trailer out!The trailer opens at Janki Das Ruia Hospital, where some medical mysteries have no obvious answers.
+
+The only person who might be able to crack these cases is the 'medical genius' Dr Hassan, played by Nawazuddin Siddiqui. He has the ability to identify what others often overlook. But while his mind is wired to solve the most complex medical cases, navigating everyday relationships is hardly his strongest suit.
+
+The trailer shows that Nawaz's Dr Hassan has no filter when dealing with his patients or colleagues, making him a challenging person to work with, even as his brilliance makes him indispensable to the hospital. Heading the hospital is Dr Palak Jain, played by Dia Mirza, its Chief Medical Officer and Hassan's former medical college classmate, who understands his abilities better than most.
+
+Alongside Hassan is Dr Vivek, his closest friend and trusted confidant, and a team of specialised doctors played by Smaran Sahu, Rehmat Rattan and Jayson Thaam, who find themselves navigating the demands of working with a mind that rarely follows the rules. Together, they form a team that takes on complex and baffling medical cases.Nawazuddin brings wit and humour to the character and even takes a swipe at nepo kids in a hilarious moment.
+
+When one of his colleagues helps solve part of a mystery, he praises him but adds a pinch of sarcasm. He says, "Very good Rishi, take the charge. They think nepo kids have no brains."About Dr HassanDirected by Rohan Sippy, Dr Hassan has been adapted and scripted by Vinay Chhawal and Ketan Pedgaonkar, with dialogues by Virat Basoya.
+
+It is produced by Deepak Dhar, Rishi Negi, Rajesh Chadha, Mrinalini Jain and Shyam Rathi, with Vibhas Singh Gautam serving as Executive Producer, under the banner of Banijay Asia. Dr Hassan is based on the hit series House, created by David Shore and produced by Heel and Toe Films, Shore Z Productions, Bad Hat Harry Productions and Universal Television, a division of Universal Studio Group.Starring Hugh Laurie, the original series aired for eight seasons on FOX from 2004 to 2012.
+
+The critically acclaimed series won five Primetime Emmy Awards, two Golden Globe Awards, a Peabody Award and nine People's Choice Awards, among other accolades. The Indian adaptation stars Dia Mirza, Nawazuddin Siddiqui, Smaran Sahu, Rehmat Rattan and Jayson Thaam, among others, in key roles and is scheduled to release on JioHotstar on December 11.Sharing his thoughts on the series, Nawazuddin Siddiqui said, "What makes Dr.
+
+Hassan interesting is that he is not trying to be likeable. He is completely consumed by the cases he takes on, and everything else almost seems secondary to him. As an actor, I find such contradictions very interesting to explore. You have to understand what makes a person think and behave the way he does, rather than simply play his eccentricities.
+
+I also enjoyed the little moments of humour that emerge from his interactions with people, often without him even intending to be funny. Hassan is quite a character, and discovering his many layers was a wonderful experience."Dia Mirza said she found the relationships in Dr Hassan as compelling as its medical cases.
+
+Talking about her character Palak's equation with Hassan, she said, "Palak is someone who knows Hassan well, understands his brilliance and is also acutely aware of how challenging he can be. There is a certain familiarity and history in their equation that makes their interactions very interesting." She added that she loved how the show explored not just medicine, but also "the people, personalities and emotions that come with it".Director Rohan Sippy said adapting an internationally loved show like House for Indian audiences came with both excitement and responsibility.
+
+He added that the team wanted to retain the original's intrigue and distinctive character dynamics while bringing its own sensibility to the storytelling. Calling Nawazuddin an inspired choice for Dr Hassan, he praised the depth and unpredictability he brings to the role and said Dia's character adds "a wonderful counterpoint of poise and dignity".
+
+---
+
+**Original Source:** [Hindustan Times](https://www.hindustantimes.com/entertainment/web-series/dr-hassan-trailer-nawazuddin-siddiqui-tackles-medical-mysteries-in-indian-adaptation-of-hugh-lauries-house-101795685537949.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Hindustan Times.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Dr Hassan trailer: Nawazuddin Siddiqui tackles medical mysteries in Indian adaptation of Hugh Laurie's House | Web Series - Hindustan Times.`,
+    primary_source: `Hindustan Times`,
+  },
+  {
+    id: 97997,
+    title: `From ‘Ramayana’ to ‘Suzume’: How Indian cinephiles are embracing Japanese cinema`,
+    slug: `from-ramayana-to-suzume-how-indian-cinephiles-are-embracing-japanese-c-2026`,
+    original_title: `From ‘Ramayana’ to ‘Suzume’: How Indian cinephiles are embracing Japanese cinema`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `10 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:08:13Z`,
+    updated_at: `2026-11-26T14:08:13Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/entertainment/movies/ramayana-suzume-japanese-film-festival-japan-foundation-chennai-jff-2026/article71734816.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/from-ramayana-to-suzume-how-indian-cinephiles-are-embracing-japanese-c-2026.jpg`,
+    image_alt: `From ‘Ramayana’ to ‘Suzume’: How Indian cinephiles are embracing Japanese cinema`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `“I wish more people watched anime in India; I hate that many liken the genre to cartoons meant for children” — this sentiment, expressed by a friend back in 2018, came back to me this weekend as I witnessed first-hand the enthusiasm with wh`,
+    content: `“I wish more people watched anime in India; I hate that many liken the genre to cartoons meant for children” — this sentiment, expressed by a friend back in 2018, came back to me this weekend as I witnessed first-hand the enthusiasm with which a Chennai audience embraced Japanese cinema.
+
+The Chennai edition of The Japan Foundation’s Japanese Film Festival was yet another reminder that Indian audiences are increasingly looking beyond their familiar cinematic borders. https://www.thehindu.com/news/cities/chennai/ story Here’s where you can watch Japanese movies on a big screen in Chennai  The JFF — held on November 21 and 22 at the PVR INOX theatre in Express Avenue mMall — is evidence that this East Asian wave isn’t stopping anytime soon.
+
+Over the years, appetite for Japanese anime has risen in India, with streaming platforms like Netflix and Crunchyroll bringing the world of anime a little closer. Kurumi Otake, director, of Arts and Culture (Arts and Cultural Exchange) at The Japan Foundation, New Delhi, believes the shift in consumer behaviour during the COVID-19 lockdown played a major role.
+
+“People started watching movies on streaming platforms and eventually discovered anime series. They discovered the sheer variety of content out there — not just older, established anime, but also newer series made for the next generation. And when these films began arriving in theatres, audiences started turning up for them as well,” she says.
+
+The 28-year-old Chennai-based dentist Ananya Rai, 28, believes this has been true of Asian cinema as a whole. “I picked up anime much earlier in my childhood due to the shows on Cartoon Network. But ever since Korean dramas became popular, Asian cinema started picking up speed,” she says.
+
+Chennai-based cosplayer Lux has found a home in anime. “I love the story-building, and I feel animation lends more scope to filmmakers to portray what they think. I feel more connected with the characters,” she says. ‘Godzilla Minus Zero’ movie review: A stupendous Second Coming for the greatest to ever do it ‘Godzilla Minus Zero’ movie review: A stupendous Second Coming for the greatest to ever do it Takashi Yamazaki’s earth-shattering sequel doubles the nuclear reckoning and gives it straight back to Oppenheimer, wrapped in godlike spectacle and searing anti-imperial commentary ‘Godzilla Minus Zero’ movie review: A stupendous Second Coming for the greatest to ever do it storyline 1 Today, anime is one of the most popular international genres on streaming platforms and in theatres.
+
+Just last year, Demon Slayer: Kimetsu no Yaiba – Infinity Castle became the highest-grossing anime film in India, reportedly collecting ₹75 crore. Several pop-culture events have also sprung up over the last two years, with successive Comic Con editions reflecting the growing fanfare for anime.
+
+“The number of pop-culture-related events has doubled or tripled over the past few years, and a lot of this growth has been community-driven,” says Kurumi. Stars like Rajinikanth enjoy tremendous fan following in Japan. So, is there something more to this mutual admiration? Kurumi believes both Indian and Japanese audiences are driven by fandoms.
+
+“I wouldn’t say the connection is quite as strong as it is in India, but Japan, too, has this sense of community built around cinema.” She also wonders if Indian audiences might find an unlikely familiarity in the heightened emotionality of some Japanese films. “Japanese films sometimes take a considerable amount of time to express a single emotion.
+
+Your Name, by Makoto Shinkai, is a good example. I remember an Indian audience member telling me that the film felt like an Indian film, particularly in the way the story unfolded. It takes its time, but there’s something grand about how it builds towards and expresses a single emotion.
+
+Perhaps it’s not something an Indian audience consciously recognises, but there’s a similarity that resonates somewhere deep inside,” she says. Love and time: Here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watch list storyline 1 Otakus, assemble: How anime is witnessing a cultural revolution in India Otakus, assemble: How anime is witnessing a cultural revolution in India  With a plethora of streaming platforms offering a smorgasbord of anime, as well as a growing grassroots movement bringing major anime titles to the big screen, the barrier to entry has never been lower for aspiring otakus in India Otakus, assemble: How anime is witnessing a cultural revolution in India  storyline 1 The story is quite different with Japanese live-action films.
+
+Kurumi says a distribution channel for Japanese live-action cinema hasn’t been established yet. “Japanese are very cautious about bringing their cinema abroad because, firstly, they are mostly made for Japanese audiences, and secondly, they are concerned about piracy.” Japanese studios are aware of Indian audiences having access to films that weren’t officially distributed in the country, she adds.
+
+“Piracy may not originate from India, but then it spreads quite easily. So they are afraid.” While several Western countries have licences to distribute Japanese films, India is yet to open up fully to foreign cinema, says Kurumi. “Indians people aren’t used to watching international films.
+
+Even Hollywood films are less popular because the Indian film industry is too huge.”” Rashmika Mandanna interview: On the Crunchyroll Anime Awards 2026, growing up with Naruto and learning emotion through anime Rashmika Mandanna interview: On the Crunchyroll Anime Awards 2026, growing up with Naruto and learning emotion through anime Returning to the Crunchyroll Anime Awards 2026 in Tokyo, the actor traces her anime journey from learning life lessons through ‘Naruto: Shippuden’, to trying to convert Vijay Deverakonda into a weeb Rashmika Mandanna interview: On the Crunchyroll Anime Awards 2026, growing up with Naruto and learning emotion through anime storyline 1 ‘Ramayana’ and Makoto Shinkai’s films shine at JFF Chennai The festival’s biggest crowd-puller was Ramayana: The Legend of Prince Rama, the 1993 Indo-Japanese adaptation of the Ramayana.
+
+The anime film, directed by Yugo Sako (who co-directed with Koichi Sasaki and Ram Mohan), has attracted a cult following over the years — so much so that comparisons were made when producer Namit Malhotra’s recent ₹4,000-crore magnum opus was released in theatres. A fan sitting alongside me seemed eager to introduce his childhood favourite to his young son.
+
+“It’s his first film in a theatre,” I overheard him saying. The loud cheers that greeted lord Ram and Hanuman were reminiscent of the reception reserved for modern-day live-action superstars.” And I could see the appeal; the beauty of those hand-drawn outlines is bound to outlast everyone in the audience.
+
+It struck me how, for those two hours, lord Ram looked lighter, almost ethereal, shedding the weight of what he is increasingly made to represent in today’s heavily politicised Hindutva discourse. A monologue by Lord Ram about the value of human life and why one must respect even one’s enemies could tear through the clouds of politicised hatred that have smudged his memory in modern times.
+
+‘Ramayana: Part 1’ movie review: Ranbir Kapoor and Yash excel as Ravana outshines Rama on screen storyline 1 ‘Ramayana’ crosses Rs 1000 crore at domestic box office, earns over Rs 1600 crore globally ‘Ramayana’ crosses Rs 1000 crore at domestic box office, earns over Rs 1600 crore globally The film is directed by Nitesh Tiwari and is produced by Namit Malhotra's Prime Focus Studios in collaboration with DNEG and Yash's Monster Mind Creations.
+
+‘Ramayana’ crosses Rs 1000 crore at domestic box office, earns over Rs 1600 crore globally storyline 1 Other big draws of the weekend were two fan-favourite anime films directed by Japanese filmmaker Makoto Shinkai — The Place Promised in Our Early Days and Suzume. The reception for 2022’s Suzume wasn’t a surprise — tickets for the screening sold out in a mad rush — but Shinkai’s 2004 debut film proved to be an unexpected draw.
+
+Many, like Ananya, walked in blindly and were visibly rewarded. “I thought it was a romance film, based on the poster, but I didn’t expect the sci-fi element,” says Ananya, adding that the themes of parallel universes and shared trauma touched her. In this Shinkai dreamscape, a reality-altering tower becomes a monolithic symbol of how what one seeks to escape from can also become a part of who they are.
+
+The film takes the viewer into a world shaped by an alternate historical event — what if the Soviet Union had managed to occupy the island of Hokkaido during the Soviet–Japanese War in 1945? And what if a tower built by the Union threatened to replace matter around it with matter from other universes?
+
+We follow two childhood friends — Hiroki Fujisawa and Takuya Shirakawa — who must reunite to save their mutual friend, Sayuri Sawatari, who might hold the key to saving their universe from eternal doom. As Ananya puts it, “They haven’t been able to rescue her (Sayuri) because they were running away from the thing that brought them together in the first place; that hit me.” The Makoto Shinkai interview: On ‘Suzume’ and the universal language of his films storyline 1 ‘Suzume’ movie review: Makoto Shinkai explores love and loss in breathless road trip anime video 1 Watch | In conversation with director Makoto Shinkai Watch | In conversation with director Makoto Shinkai The legendary Japanese director, behind blockbuster anime features like ‘Your Name’ and ‘Weathering with You,’ talks about his latest film that is inspired by the 2011 Tōhoku earthquake and tsunami The Makoto Shinkai interview: On ‘Suzume’ and the universal language of his films storyline 1 Suzume, as expected, left many weeping with its spectacularly human core.
+
+In the film, 17-year-old Suzume’s high school life takes an unexpected detour when she crosses paths with Souta, a mysterious young man tasked with shutting supernatural doors scattered across Japan. It’s a breathtakingly beautiful journey through abandoned landscapes, repressed emotions, and the ghosts of her own past.
+
+“Suzume connected to my childhood. I teared up at the ending, where she gets to hug her childhood self,” says Lux (who cosplayed as the titular character, armed with a prop of the iconic three-legged chair from the film), adding that she liked how the film portrayed the people of Japan coping with natural calamities and grieving the lives lost.
+
+Love and time: Here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watch list Love and time: Here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watch list What temporal dislocation and inherited grief tell us about manifesting intimacy — here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watchlist Ctrl+Alt+Cinema Love and time: Here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watch list storyline 1 While all these films were bound to attract crowds, the real surprise of the weekend was the 2025 live-action adaptation of the horror-comedy anime series, Mieruko-chan (The Girl Who Sees).
+
+The film is a hoot. It stars Suzume voice actor Nanoka Hara as a high school student who gains the supernatural ability to see spirits. The riotous horror film is funny and emotional. Ananya hopes more J-Horror films make their way to Indian theatres. “The Japanese make the best horror movies, that’s all I’ll say.
+
+I am not sure the Indian censor board will allow many of those horror films to be released in theatres, but if there is an opportunity to exhibit them, I feel people will really love them,” says Ananya. The two-day festival also saw several city-based cinephile clubs — like Chennai Anime Club, Chennai Film Club, Asia Culture Club and AniSync — helping the Japan Foundation connect with anime and film enthusiasts and assisting with on-field activities.
+
+The festival, which kicked off this year in New Delhi, will travel to Bengaluru next week, with audiences in Mumbai, Ahmedabad and Chandigarh set to experience it in successive weeks in December. My biggest takeaway from the weekend was that Japanese cinema no longer needs to be introduced to Chennai audiences as a niche interest.
+
+There is, clearly, an audience here willing to embrace stories from halfway across the world, provided they get to experience them on the big screen. Fans of Japanese cinema can watch films on JFF Theater, a global online streaming platform launched by The Japan Foundation to make Japanese cinema accessible to audiences around the world.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/entertainment/movies/ramayana-suzume-japanese-film-festival-japan-foundation-chennai-jff-2026/article71734816.ece)`,
+    title_en: `From ‘Ramayana’ to ‘Suzume’: How Indian cinephiles are embracing Japanese cinema`,
+    summary_en: `“I wish more people watched anime in India; I hate that many liken the genre to cartoons meant for children” — this sentiment, expressed by a friend back in 2018, came back to me this weekend as I witnessed first-hand the enthusiasm with wh`,
+    content_en: `“I wish more people watched anime in India; I hate that many liken the genre to cartoons meant for children” — this sentiment, expressed by a friend back in 2018, came back to me this weekend as I witnessed first-hand the enthusiasm with which a Chennai audience embraced Japanese cinema.
+
+The Chennai edition of The Japan Foundation’s Japanese Film Festival was yet another reminder that Indian audiences are increasingly looking beyond their familiar cinematic borders. https://www.thehindu.com/news/cities/chennai/ story Here’s where you can watch Japanese movies on a big screen in Chennai  The JFF — held on November 21 and 22 at the PVR INOX theatre in Express Avenue mMall — is evidence that this East Asian wave isn’t stopping anytime soon.
+
+Over the years, appetite for Japanese anime has risen in India, with streaming platforms like Netflix and Crunchyroll bringing the world of anime a little closer. Kurumi Otake, director, of Arts and Culture (Arts and Cultural Exchange) at The Japan Foundation, New Delhi, believes the shift in consumer behaviour during the COVID-19 lockdown played a major role.
+
+“People started watching movies on streaming platforms and eventually discovered anime series. They discovered the sheer variety of content out there — not just older, established anime, but also newer series made for the next generation. And when these films began arriving in theatres, audiences started turning up for them as well,” she says.
+
+The 28-year-old Chennai-based dentist Ananya Rai, 28, believes this has been true of Asian cinema as a whole. “I picked up anime much earlier in my childhood due to the shows on Cartoon Network. But ever since Korean dramas became popular, Asian cinema started picking up speed,” she says.
+
+Chennai-based cosplayer Lux has found a home in anime. “I love the story-building, and I feel animation lends more scope to filmmakers to portray what they think. I feel more connected with the characters,” she says. ‘Godzilla Minus Zero’ movie review: A stupendous Second Coming for the greatest to ever do it ‘Godzilla Minus Zero’ movie review: A stupendous Second Coming for the greatest to ever do it Takashi Yamazaki’s earth-shattering sequel doubles the nuclear reckoning and gives it straight back to Oppenheimer, wrapped in godlike spectacle and searing anti-imperial commentary ‘Godzilla Minus Zero’ movie review: A stupendous Second Coming for the greatest to ever do it storyline 1 Today, anime is one of the most popular international genres on streaming platforms and in theatres.
+
+Just last year, Demon Slayer: Kimetsu no Yaiba – Infinity Castle became the highest-grossing anime film in India, reportedly collecting ₹75 crore. Several pop-culture events have also sprung up over the last two years, with successive Comic Con editions reflecting the growing fanfare for anime.
+
+“The number of pop-culture-related events has doubled or tripled over the past few years, and a lot of this growth has been community-driven,” says Kurumi. Stars like Rajinikanth enjoy tremendous fan following in Japan. So, is there something more to this mutual admiration? Kurumi believes both Indian and Japanese audiences are driven by fandoms.
+
+“I wouldn’t say the connection is quite as strong as it is in India, but Japan, too, has this sense of community built around cinema.” She also wonders if Indian audiences might find an unlikely familiarity in the heightened emotionality of some Japanese films. “Japanese films sometimes take a considerable amount of time to express a single emotion.
+
+Your Name, by Makoto Shinkai, is a good example. I remember an Indian audience member telling me that the film felt like an Indian film, particularly in the way the story unfolded. It takes its time, but there’s something grand about how it builds towards and expresses a single emotion.
+
+Perhaps it’s not something an Indian audience consciously recognises, but there’s a similarity that resonates somewhere deep inside,” she says. Love and time: Here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watch list storyline 1 Otakus, assemble: How anime is witnessing a cultural revolution in India Otakus, assemble: How anime is witnessing a cultural revolution in India  With a plethora of streaming platforms offering a smorgasbord of anime, as well as a growing grassroots movement bringing major anime titles to the big screen, the barrier to entry has never been lower for aspiring otakus in India Otakus, assemble: How anime is witnessing a cultural revolution in India  storyline 1 The story is quite different with Japanese live-action films.
+
+Kurumi says a distribution channel for Japanese live-action cinema hasn’t been established yet. “Japanese are very cautious about bringing their cinema abroad because, firstly, they are mostly made for Japanese audiences, and secondly, they are concerned about piracy.” Japanese studios are aware of Indian audiences having access to films that weren’t officially distributed in the country, she adds.
+
+“Piracy may not originate from India, but then it spreads quite easily. So they are afraid.” While several Western countries have licences to distribute Japanese films, India is yet to open up fully to foreign cinema, says Kurumi. “Indians people aren’t used to watching international films.
+
+Even Hollywood films are less popular because the Indian film industry is too huge.”” Rashmika Mandanna interview: On the Crunchyroll Anime Awards 2026, growing up with Naruto and learning emotion through anime Rashmika Mandanna interview: On the Crunchyroll Anime Awards 2026, growing up with Naruto and learning emotion through anime Returning to the Crunchyroll Anime Awards 2026 in Tokyo, the actor traces her anime journey from learning life lessons through ‘Naruto: Shippuden’, to trying to convert Vijay Deverakonda into a weeb Rashmika Mandanna interview: On the Crunchyroll Anime Awards 2026, growing up with Naruto and learning emotion through anime storyline 1 ‘Ramayana’ and Makoto Shinkai’s films shine at JFF Chennai The festival’s biggest crowd-puller was Ramayana: The Legend of Prince Rama, the 1993 Indo-Japanese adaptation of the Ramayana.
+
+The anime film, directed by Yugo Sako (who co-directed with Koichi Sasaki and Ram Mohan), has attracted a cult following over the years — so much so that comparisons were made when producer Namit Malhotra’s recent ₹4,000-crore magnum opus was released in theatres. A fan sitting alongside me seemed eager to introduce his childhood favourite to his young son.
+
+“It’s his first film in a theatre,” I overheard him saying. The loud cheers that greeted lord Ram and Hanuman were reminiscent of the reception reserved for modern-day live-action superstars.” And I could see the appeal; the beauty of those hand-drawn outlines is bound to outlast everyone in the audience.
+
+It struck me how, for those two hours, lord Ram looked lighter, almost ethereal, shedding the weight of what he is increasingly made to represent in today’s heavily politicised Hindutva discourse. A monologue by Lord Ram about the value of human life and why one must respect even one’s enemies could tear through the clouds of politicised hatred that have smudged his memory in modern times.
+
+‘Ramayana: Part 1’ movie review: Ranbir Kapoor and Yash excel as Ravana outshines Rama on screen storyline 1 ‘Ramayana’ crosses Rs 1000 crore at domestic box office, earns over Rs 1600 crore globally ‘Ramayana’ crosses Rs 1000 crore at domestic box office, earns over Rs 1600 crore globally The film is directed by Nitesh Tiwari and is produced by Namit Malhotra's Prime Focus Studios in collaboration with DNEG and Yash's Monster Mind Creations.
+
+‘Ramayana’ crosses Rs 1000 crore at domestic box office, earns over Rs 1600 crore globally storyline 1 Other big draws of the weekend were two fan-favourite anime films directed by Japanese filmmaker Makoto Shinkai — The Place Promised in Our Early Days and Suzume. The reception for 2022’s Suzume wasn’t a surprise — tickets for the screening sold out in a mad rush — but Shinkai’s 2004 debut film proved to be an unexpected draw.
+
+Many, like Ananya, walked in blindly and were visibly rewarded. “I thought it was a romance film, based on the poster, but I didn’t expect the sci-fi element,” says Ananya, adding that the themes of parallel universes and shared trauma touched her. In this Shinkai dreamscape, a reality-altering tower becomes a monolithic symbol of how what one seeks to escape from can also become a part of who they are.
+
+The film takes the viewer into a world shaped by an alternate historical event — what if the Soviet Union had managed to occupy the island of Hokkaido during the Soviet–Japanese War in 1945? And what if a tower built by the Union threatened to replace matter around it with matter from other universes?
+
+We follow two childhood friends — Hiroki Fujisawa and Takuya Shirakawa — who must reunite to save their mutual friend, Sayuri Sawatari, who might hold the key to saving their universe from eternal doom. As Ananya puts it, “They haven’t been able to rescue her (Sayuri) because they were running away from the thing that brought them together in the first place; that hit me.” The Makoto Shinkai interview: On ‘Suzume’ and the universal language of his films storyline 1 ‘Suzume’ movie review: Makoto Shinkai explores love and loss in breathless road trip anime video 1 Watch | In conversation with director Makoto Shinkai Watch | In conversation with director Makoto Shinkai The legendary Japanese director, behind blockbuster anime features like ‘Your Name’ and ‘Weathering with You,’ talks about his latest film that is inspired by the 2011 Tōhoku earthquake and tsunami The Makoto Shinkai interview: On ‘Suzume’ and the universal language of his films storyline 1 Suzume, as expected, left many weeping with its spectacularly human core.
+
+In the film, 17-year-old Suzume’s high school life takes an unexpected detour when she crosses paths with Souta, a mysterious young man tasked with shutting supernatural doors scattered across Japan. It’s a breathtakingly beautiful journey through abandoned landscapes, repressed emotions, and the ghosts of her own past.
+
+“Suzume connected to my childhood. I teared up at the ending, where she gets to hug her childhood self,” says Lux (who cosplayed as the titular character, armed with a prop of the iconic three-legged chair from the film), adding that she liked how the film portrayed the people of Japan coping with natural calamities and grieving the lives lost.
+
+Love and time: Here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watch list Love and time: Here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watch list What temporal dislocation and inherited grief tell us about manifesting intimacy — here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watchlist Ctrl+Alt+Cinema Love and time: Here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watch list storyline 1 While all these films were bound to attract crowds, the real surprise of the weekend was the 2025 live-action adaptation of the horror-comedy anime series, Mieruko-chan (The Girl Who Sees).
+
+The film is a hoot. It stars Suzume voice actor Nanoka Hara as a high school student who gains the supernatural ability to see spirits. The riotous horror film is funny and emotional. Ananya hopes more J-Horror films make their way to Indian theatres. “The Japanese make the best horror movies, that’s all I’ll say.
+
+I am not sure the Indian censor board will allow many of those horror films to be released in theatres, but if there is an opportunity to exhibit them, I feel people will really love them,” says Ananya. The two-day festival also saw several city-based cinephile clubs — like Chennai Anime Club, Chennai Film Club, Asia Culture Club and AniSync — helping the Japan Foundation connect with anime and film enthusiasts and assisting with on-field activities.
+
+The festival, which kicked off this year in New Delhi, will travel to Bengaluru next week, with audiences in Mumbai, Ahmedabad and Chandigarh set to experience it in successive weeks in December. My biggest takeaway from the weekend was that Japanese cinema no longer needs to be introduced to Chennai audiences as a niche interest.
+
+There is, clearly, an audience here willing to embrace stories from halfway across the world, provided they get to experience them on the big screen. Fans of Japanese cinema can watch films on JFF Theater, a global online streaming platform launched by The Japan Foundation to make Japanese cinema accessible to audiences around the world.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/entertainment/movies/ramayana-suzume-japanese-film-festival-japan-foundation-chennai-jff-2026/article71734816.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for From ‘Ramayana’ to ‘Suzume’: How Indian cinephiles are embracing Japanese cinema.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 97998,
+    title: `From Ganga Jal to Kalamkari Ramayana: India's spiritual, artistic gifts to Nepal PM celebrate shared heritage`,
+    slug: `from-ganga-jal-to-kalamkari-ramayana-indias-spiritual-artistic-gifts-t-2026`,
+    original_title: `From Ganga Jal to Kalamkari Ramayana: India's spiritual, artistic gifts to Nepal PM celebrate shared heritage`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:08:16Z`,
+    updated_at: `2026-11-26T14:08:16Z`,
+    source_name: `ANI News`,
+    source_url: `https://www.aninews.in/news/world/asia/from-ganga-jal-to-kalamkari-ramayana-indias-spiritual-artistic-gifts-to-nepal-pm-celebrate-shared-heritage20261123200543`,
+    source_courtesy: `Source: ANI News`,
+    image_url: `/images/articles/from-ganga-jal-to-kalamkari-ramayana-indias-spiritual-artistic-gifts-t-2026.jpg`,
+    image_alt: `From Ganga Jal to Kalamkari Ramayana: India's spiritual, artistic gifts to Nepal PM celebrate shared heritage`,
+    image_courtesy: `Image: ANI News (External Source Attribution)`,
+    image_photographer: `ANI News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `ANI | Updated: Nov 23, 2026 20:05 IST`,
+    content: `ANI | Updated: Nov 23, 2026 20:05 IST
+
+New Delhi [India], November 23 (ANI): From the sacred waters of the Ganga in Kashi to an elaborate Kalamkari depiction of the Ramayana and a handwoven Banarasi silk stole, India's gifts to Nepal Prime Minister Balendra Shah during his two-day state visit offered a glimpse into the centuries-old religious, cultural and civilisational bonds between the two neighbouring countries. The carefully curated gifts, representing the spiritual traditions and artisanal heritage of different Indian regions, carried a message of friendship, shared faith and cultural unity as the rapper-turned-Prime Minister visited India for the first time since assuming office in March 2026. Among the offerings was sacred Ganga Jal from Kashi, presented in an intricately crafted brass urn. Originating from the holy Ganga near the revered Kashi Vishwanath Temple, the offering holds particular spiritual significance, symbolising the connection between Baba Vishwanath of Kashi and Lord Pashupatinath of Kathmandu, both revered manifestations of Lord Shiva. The gift reflects the deep-rooted religious ties between India and Nepal, with the sacred water symbolising purity, devotion and divine blessings. It also conveys wishes for peace, prosperity and spiritual unity while celebrating the enduring friendship between the two nations. Another gift showcased India's celebrated textile and woodworking traditions through a Banarasi brocade silk stole presented in an exquisite Sadeli box from Gujarat. The stole, originating from Varanasi, features intricate motifs and shimmering zari work crafted by skilled master weavers. Its presentation box, meanwhile, reflects Gujarat's traditional woodworking heritage, featuring intricate geometric inlay and craftsmanship. Together, the two creations bring the artisanal traditions of Varanasi and Gujarat into a single offering, celebrating generational craftsmanship and India's longstanding tradition of handmade excellence. A particularly significant gift was a monumental Kalamkari Sampoorna Ramayana painting from Andhra Pradesh, depicting major episodes from the life of Lord Rama, beginning with his birth and exile, followed by his victory over Ravana and eventual return to Ayodhya. Hand-painted on cotton in the traditional Srikalahasthi style, the artwork has been created using a bamboo pen, known as a kalam, and natural dyes. The painting reflects India's rich heritage of devotional storytelling and traditional craftsmanship. Beyond its artistic significance, the Ramayana artwork carries a special message for Nepal, connecting Ayodhya, the land associated with Lord Rama, with Janakpur, revered as the birthplace of Goddess Sita. The two destinations occupy an important place in the shared religious and cultural imagination of India and Nepal.
+
+The gifts assumed particular significance during Shah's visit, which saw both countries take steps to strengthen their bilateral relationship through diplomatic engagements, development cooperation and improved cross-border connectivity. During his two-day state visit, Shah held delegation-level talks with Prime Minister Narendra Modi at Hyderabad House, where the two sides exchanged eight Memorandums of Understanding (MoUs) covering space technology, security and forensic cooperation, civil service capacity building, healthcare, traditional medicine, sustainable urban development, and livestock and fisheries development. The two leaders also jointly flagged off the Saryu-Kamala Express, a new weekly train service connecting Ayodhya Cantt in Uttar Pradesh with Janakpur Dham in Nepal, further strengthening the cultural and religious links represented by the Ramayana painting. Highlighting the shared civilisational heritage, PM Modi said, "Friends, the relations between India and Nepal are woven with threads of shared history, faith, culture, and deep people-to-people ties. Lord Ram and Mother Sita are the symbols of our shared civilisation and faith. In 2018, on the sacred land of Janakpur, I had said: without Nepal, our dhams are incomplete; without Nepal, our Ram is also incomplete." The new railway service is expected to facilitate travel between the two important religious destinations, with stoppages at Gorakhpur, Basti, Raxaul, Sitamarhi, Madhubani and Jaynagar, improving connectivity for pilgrims, tourists, families and business travellers. Shah, in his remarks following the bilateral talks, also invoked the shared spiritual traditions of the two countries and expressed gratitude for the hospitality extended to him. "Carrying the blessings of Lord Pashupatinath , Mata Janaki, and compassionate Matsyendranath, along with the affection, warmth, and goodwill of the people of Nepal for India and its people, I extend my heartfelt gratitude to Prime Minister Shri Narendra Modi for this gracious invitation and warm hospitality," Shah said. Referring to the newly inaugurated railway connectivity, the Nepalese Prime Minister said, "Nepal and India have been bound by historical, cultural, and civilizational ties since the sacred era of Lord Ram and Mata Janaki. Today, we have inaugurated rail connectivity to make this bond even more vibrant." In another significant announcement during the visit, PM Modi unveiled a Development Cooperation Package of 24,000 crore Nepali rupees to support Nepal's post-flood reconstruction and long-term development, following the severe floods that struck the country in August. Shah also invited PM Modi to visit Nepal and encouraged Indian citizens to explore its religious and cultural destinations, including Muktinath, Pashupatinath , Janakpur, Kumari and Lumbini. As Shah concluded his two-day state visit and departed for Kathmandu on Monday, the gifts presented during the visit stood as cultural expressions of a relationship that extends beyond diplomatic engagements, reflecting the shared faith, artistic traditions and civilisational connections that continue to link India and Nepal. (ANI)
+
+---
+
+**Original Source:** [ANI News](https://www.aninews.in/news/world/asia/from-ganga-jal-to-kalamkari-ramayana-indias-spiritual-artistic-gifts-to-nepal-pm-celebrate-shared-heritage20261123200543)`,
+    title_en: `From Ganga Jal to Kalamkari Ramayana: India's spiritual, artistic gifts to Nepal PM celebrate shared heritage`,
+    summary_en: `ANI | Updated: Nov 23, 2026 20:05 IST`,
+    content_en: `ANI | Updated: Nov 23, 2026 20:05 IST
+
+New Delhi [India], November 23 (ANI): From the sacred waters of the Ganga in Kashi to an elaborate Kalamkari depiction of the Ramayana and a handwoven Banarasi silk stole, India's gifts to Nepal Prime Minister Balendra Shah during his two-day state visit offered a glimpse into the centuries-old religious, cultural and civilisational bonds between the two neighbouring countries. The carefully curated gifts, representing the spiritual traditions and artisanal heritage of different Indian regions, carried a message of friendship, shared faith and cultural unity as the rapper-turned-Prime Minister visited India for the first time since assuming office in March 2026. Among the offerings was sacred Ganga Jal from Kashi, presented in an intricately crafted brass urn. Originating from the holy Ganga near the revered Kashi Vishwanath Temple, the offering holds particular spiritual significance, symbolising the connection between Baba Vishwanath of Kashi and Lord Pashupatinath of Kathmandu, both revered manifestations of Lord Shiva. The gift reflects the deep-rooted religious ties between India and Nepal, with the sacred water symbolising purity, devotion and divine blessings. It also conveys wishes for peace, prosperity and spiritual unity while celebrating the enduring friendship between the two nations. Another gift showcased India's celebrated textile and woodworking traditions through a Banarasi brocade silk stole presented in an exquisite Sadeli box from Gujarat. The stole, originating from Varanasi, features intricate motifs and shimmering zari work crafted by skilled master weavers. Its presentation box, meanwhile, reflects Gujarat's traditional woodworking heritage, featuring intricate geometric inlay and craftsmanship. Together, the two creations bring the artisanal traditions of Varanasi and Gujarat into a single offering, celebrating generational craftsmanship and India's longstanding tradition of handmade excellence. A particularly significant gift was a monumental Kalamkari Sampoorna Ramayana painting from Andhra Pradesh, depicting major episodes from the life of Lord Rama, beginning with his birth and exile, followed by his victory over Ravana and eventual return to Ayodhya. Hand-painted on cotton in the traditional Srikalahasthi style, the artwork has been created using a bamboo pen, known as a kalam, and natural dyes. The painting reflects India's rich heritage of devotional storytelling and traditional craftsmanship. Beyond its artistic significance, the Ramayana artwork carries a special message for Nepal, connecting Ayodhya, the land associated with Lord Rama, with Janakpur, revered as the birthplace of Goddess Sita. The two destinations occupy an important place in the shared religious and cultural imagination of India and Nepal.
+
+The gifts assumed particular significance during Shah's visit, which saw both countries take steps to strengthen their bilateral relationship through diplomatic engagements, development cooperation and improved cross-border connectivity. During his two-day state visit, Shah held delegation-level talks with Prime Minister Narendra Modi at Hyderabad House, where the two sides exchanged eight Memorandums of Understanding (MoUs) covering space technology, security and forensic cooperation, civil service capacity building, healthcare, traditional medicine, sustainable urban development, and livestock and fisheries development. The two leaders also jointly flagged off the Saryu-Kamala Express, a new weekly train service connecting Ayodhya Cantt in Uttar Pradesh with Janakpur Dham in Nepal, further strengthening the cultural and religious links represented by the Ramayana painting. Highlighting the shared civilisational heritage, PM Modi said, "Friends, the relations between India and Nepal are woven with threads of shared history, faith, culture, and deep people-to-people ties. Lord Ram and Mother Sita are the symbols of our shared civilisation and faith. In 2018, on the sacred land of Janakpur, I had said: without Nepal, our dhams are incomplete; without Nepal, our Ram is also incomplete." The new railway service is expected to facilitate travel between the two important religious destinations, with stoppages at Gorakhpur, Basti, Raxaul, Sitamarhi, Madhubani and Jaynagar, improving connectivity for pilgrims, tourists, families and business travellers. Shah, in his remarks following the bilateral talks, also invoked the shared spiritual traditions of the two countries and expressed gratitude for the hospitality extended to him. "Carrying the blessings of Lord Pashupatinath , Mata Janaki, and compassionate Matsyendranath, along with the affection, warmth, and goodwill of the people of Nepal for India and its people, I extend my heartfelt gratitude to Prime Minister Shri Narendra Modi for this gracious invitation and warm hospitality," Shah said. Referring to the newly inaugurated railway connectivity, the Nepalese Prime Minister said, "Nepal and India have been bound by historical, cultural, and civilizational ties since the sacred era of Lord Ram and Mata Janaki. Today, we have inaugurated rail connectivity to make this bond even more vibrant." In another significant announcement during the visit, PM Modi unveiled a Development Cooperation Package of 24,000 crore Nepali rupees to support Nepal's post-flood reconstruction and long-term development, following the severe floods that struck the country in August. Shah also invited PM Modi to visit Nepal and encouraged Indian citizens to explore its religious and cultural destinations, including Muktinath, Pashupatinath , Janakpur, Kumari and Lumbini. As Shah concluded his two-day state visit and departed for Kathmandu on Monday, the gifts presented during the visit stood as cultural expressions of a relationship that extends beyond diplomatic engagements, reflecting the shared faith, artistic traditions and civilisational connections that continue to link India and Nepal. (ANI)
+
+---
+
+**Original Source:** [ANI News](https://www.aninews.in/news/world/asia/from-ganga-jal-to-kalamkari-ramayana-indias-spiritual-artistic-gifts-to-nepal-pm-celebrate-shared-heritage20261123200543)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to ANI News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for From Ganga Jal to Kalamkari Ramayana: India's spiritual, artistic gifts to Nepal PM celebrate shared heritage.`,
+    primary_source: `ANI News`,
+  },
+  {
+    id: 97999,
+    title: `Ramayana Box Office Day 21: रामायण ने 'पुष्पा 2' को पछाड़ा, बनी सबसे ज्यादा कमाई करने वाली चौथी फिल्म, बाहुबली-धुरंधर 2 पर नजर - AajTak`,
+    slug: `ramayana-box-office-day-21-2-2-aajtak-2026`,
+    original_title: `Ramayana Box Office Day 21: रामायण ने 'पुष्पा 2' को पछाड़ा, बनी सबसे ज्यादा कमाई करने वाली चौथी फिल्म, बाहुबली-धुरंधर 2 पर नजर - AajTak`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:08:19Z`,
+    updated_at: `2026-11-26T14:08:19Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/entertainment/bollywood-news/story/ramayana-box-office-day-21-beats-pushpa-2-enters-ranked-fourth-spot-at-highest-grossing-indian-films-tmovh-dskc-2703947-2026-11-26`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b07d7dfa0410-ramayan-265635616.jpg`,
+    image_alt: `Ramayana Box Office Day 21: रामायण ने 'पुष्पा 2' को पछाड़ा, बनी सबसे ज्यादा कमाई करने वाली चौथी फिल्म, बाहुबली-धुरंधर 2 पर नजर - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `फिल्म &#039;रामायण&#039; का दुनियाभर मे डंका बज रहा है. बॉक्स ऑफिस पर रणबीर कपूर की ये फिल्म लगातार नए रिकॉर्ड बना रही है. इसने कई बड़ी फिल्मों की कमाई को पछाड़ दिया है. अब रामायण की 21वें दिन की कमाई से इतिहास रच दिया है. नितेश तिवारी के ड`,
+    content: `फिल्म &#039;रामायण&#039; का दुनियाभर मे डंका बज रहा है. बॉक्स ऑफिस पर रणबीर कपूर की ये फिल्म लगातार नए रिकॉर्ड बना रही है. इसने कई बड़ी फिल्मों की कमाई को पछाड़ दिया है. अब रामायण की 21वें दिन की कमाई से इतिहास रच दिया है. नितेश तिवारी के डायरेक्शन में बनी फिल्म ने अल्लू अर्जुन की ब्लॉकबस्टर मूवी &#039;पुष्पा 2&#039; को पछाड़ा है.
+
+&#039;रामायण&#039; वर्ल्डवाइड सबसे ज्यादा कमाई करने वाली इंडियन फिल्मों की लिस्ट में टॉप-4 पर काबिज है. और पढ़ेंपुष्पा 2 को रामायण ने दी पटखनीSacnilk के आंकड़ों के मुताबिक, नितेश तिवारी की फिल्म ने 21वें दिन भारत में 9.60 करोड़ रुपये का नेट कलेक्शन किया है. वहीं, ओवरसीज मार्केट में मूवी ने सेम दिन 6 करोड़ रुपये का ग्रॉस कलेक्शन किया है.
+
+इंडिया में रामायण की नेट कमाई 982.55 करोड़ हो गई है. वहीं इसका ग्रॉस कलेक्शन 1,173.60 करोड़ हो चुका है. फिल्म का वर्ल्डवाइड कलेक्शन 1,755.60 करोड़ है. इस जादुई कलेक्शन के साथ रामायण ने पुष्पा 2 के वर्ल्डवाइड कलेक्शन को टक्कर दी है. पुष्पा 2 ने 1,742 करोड़ रुपये कमाए थे. वर्ल्डवाइड हाईएस्ट ग्रॉसर इंडियन फिल्म कौन सी हैं?वर्ल्डवाइड सबसे ज्यादा कमाई करने वाली टॉप-5 इंडियन फिल्मों में सबसे आगे दंगल 2,070 करोड़ के कलेक्शन के साथ है.
+
+इसके बाद लिस्ट में दूसरे नंबर पर धुरंधर 2 (1,813 करोड़), तीसरे स्पॉट पर बाहुबली 2 (1,788 करोड़), चौथी रैंक पर रामायण (1,755 करोड़) और पाचवें स्पॉट पर पुष्पा 2 (1742 करोड़) है. Advertisement        अब रामायण के लिए बाहुबली 2, धुरंधर 2 और दंगल का रिकॉर्ड बड़ी चुनौती है. रणबीर-साई पल्लवी की फिल्म तीसरे हफ्ते में पहुंच चुकी है.
+
+&#039;रामायण&#039; के सामने इस वीक इमरान हाशमी की &#039;गनमास्टर G9&#039; और आयुष्मान खुराना की &#039;ये प्रेम मोल लिया&#039; होंगी. देखना होगा कि ये दोनों फिल्में रामायण की कमाई में किस हद तक सेंध लगाती हैं. रामायण का सेकंड पार्ट 2028 में दिवाली के मौके पर रिलीज होगा. ट्रेड एनालिस्ट्स का दावा है कि रामायण 2 पहले के मुकाबले और बेहतरीन होगी.
+
+पार्ट 2 में सनी देओल की एंट्री होगी. राम-रावण के बीच युद्ध होगा. हनुमान का लंकापति रावण को चुनौती देना, रावण की सोने की लंका में आग लगाना, राम-सीता का 14 साल के वनवास के बाद अयोध्या लौटना... जैसे कई अहम सीन को दिखाया जाएगा.आपको कैसी लगी रामायण?---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/ramayana-box-office-day-21-beats-pushpa-2-enters-ranked-fourth-spot-at-highest-grossing-indian-films-tmovh-dskc-2703947-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Ramayana Box Office Day 21: रामायण ने 'पुष्पा 2' को पछाड़ा, बनी सबसे ज्यादा कमाई करने वाली चौथी फिल्म, बाहुबली-धुरंधर 2 पर नजर - AajTak`,
+    summary_hi: `फिल्म &#039;रामायण&#039; का दुनियाभर मे डंका बज रहा है. बॉक्स ऑफिस पर रणबीर कपूर की ये फिल्म लगातार नए रिकॉर्ड बना रही है. इसने कई बड़ी फिल्मों की कमाई को पछाड़ दिया है. अब रामायण की 21वें दिन की कमाई से इतिहास रच दिया है. नितेश तिवारी के ड`,
+    content_hi: `फिल्म &#039;रामायण&#039; का दुनियाभर मे डंका बज रहा है. बॉक्स ऑफिस पर रणबीर कपूर की ये फिल्म लगातार नए रिकॉर्ड बना रही है. इसने कई बड़ी फिल्मों की कमाई को पछाड़ दिया है. अब रामायण की 21वें दिन की कमाई से इतिहास रच दिया है. नितेश तिवारी के डायरेक्शन में बनी फिल्म ने अल्लू अर्जुन की ब्लॉकबस्टर मूवी &#039;पुष्पा 2&#039; को पछाड़ा है.
+
+&#039;रामायण&#039; वर्ल्डवाइड सबसे ज्यादा कमाई करने वाली इंडियन फिल्मों की लिस्ट में टॉप-4 पर काबिज है. और पढ़ेंपुष्पा 2 को रामायण ने दी पटखनीSacnilk के आंकड़ों के मुताबिक, नितेश तिवारी की फिल्म ने 21वें दिन भारत में 9.60 करोड़ रुपये का नेट कलेक्शन किया है. वहीं, ओवरसीज मार्केट में मूवी ने सेम दिन 6 करोड़ रुपये का ग्रॉस कलेक्शन किया है.
+
+इंडिया में रामायण की नेट कमाई 982.55 करोड़ हो गई है. वहीं इसका ग्रॉस कलेक्शन 1,173.60 करोड़ हो चुका है. फिल्म का वर्ल्डवाइड कलेक्शन 1,755.60 करोड़ है. इस जादुई कलेक्शन के साथ रामायण ने पुष्पा 2 के वर्ल्डवाइड कलेक्शन को टक्कर दी है. पुष्पा 2 ने 1,742 करोड़ रुपये कमाए थे. वर्ल्डवाइड हाईएस्ट ग्रॉसर इंडियन फिल्म कौन सी हैं?वर्ल्डवाइड सबसे ज्यादा कमाई करने वाली टॉप-5 इंडियन फिल्मों में सबसे आगे दंगल 2,070 करोड़ के कलेक्शन के साथ है.
+
+इसके बाद लिस्ट में दूसरे नंबर पर धुरंधर 2 (1,813 करोड़), तीसरे स्पॉट पर बाहुबली 2 (1,788 करोड़), चौथी रैंक पर रामायण (1,755 करोड़) और पाचवें स्पॉट पर पुष्पा 2 (1742 करोड़) है. Advertisement        अब रामायण के लिए बाहुबली 2, धुरंधर 2 और दंगल का रिकॉर्ड बड़ी चुनौती है. रणबीर-साई पल्लवी की फिल्म तीसरे हफ्ते में पहुंच चुकी है.
+
+&#039;रामायण&#039; के सामने इस वीक इमरान हाशमी की &#039;गनमास्टर G9&#039; और आयुष्मान खुराना की &#039;ये प्रेम मोल लिया&#039; होंगी. देखना होगा कि ये दोनों फिल्में रामायण की कमाई में किस हद तक सेंध लगाती हैं. रामायण का सेकंड पार्ट 2028 में दिवाली के मौके पर रिलीज होगा. ट्रेड एनालिस्ट्स का दावा है कि रामायण 2 पहले के मुकाबले और बेहतरीन होगी.
+
+पार्ट 2 में सनी देओल की एंट्री होगी. राम-रावण के बीच युद्ध होगा. हनुमान का लंकापति रावण को चुनौती देना, रावण की सोने की लंका में आग लगाना, राम-सीता का 14 साल के वनवास के बाद अयोध्या लौटना... जैसे कई अहम सीन को दिखाया जाएगा.आपको कैसी लगी रामायण?---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/ramayana-box-office-day-21-beats-pushpa-2-enters-ranked-fourth-spot-at-highest-grossing-indian-films-tmovh-dskc-2703947-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Ramayana Box Office Day 21: रामायण ने 'पुष्पा 2' को पछाड़ा, बनी सबसे ज्यादा कमाई करने वाली चौथी फिल्म, बाहुबली-धुरंधर 2 पर नजर - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98000,
+    title: `मेघनाद' का बेटा बना रामायण का सूत्रधार, आ रहा है Doordarshan के कल्ट शो की धरोहर का सफरनामा - Jagran`,
+    slug: `doordarshan-jagran-2026`,
+    original_title: `मेघनाद' का बेटा बना रामायण का सूत्रधार, आ रहा है Doordarshan के कल्ट शो की धरोहर का सफरनामा - Jagran`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T14:08:20Z`,
+    updated_at: `2026-11-26T14:08:20Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/entertainment/tv-doordarshan-ramayan-meghnath-actor-vijay-arora-son-farhad-arora-collab-with-sagar-word-for-ramayan-bts-documentary-40448948.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/doordarshan-jagran-2026.webp`,
+    image_alt: `मेघनाद' का बेटा बना रामायण का सूत्रधार, आ रहा है Doordarshan के कल्ट शो की धरोहर का सफरनामा - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `रामानंद सागर की रामायण में मेघनाद का किरदार निभाने वाले अभिनेता विजय अरोड़ा के बेटे ने सागर फिल्म्स संग हाथ मिलाया है।`,
+    content: `रामानंद सागर की रामायण में मेघनाद का किरदार निभाने वाले अभिनेता विजय अरोड़ा के बेटे ने सागर फिल्म्स संग हाथ मिलाया है।
+
+मेघनाद बना था ये एक्टर (फोटो क्रेडिट- आईएमडीबी)
+
+मेघनाद के बेटे ने सागर फिल्म्स संग मिलाया हाथ
+
+एंटरटेनमेंट डेस्क, नई दिल्ली। 39 साल पहले दूरदर्शन टीवी चैनल पर फिल्ममेकर रामानंद सागर द्वारा सदी का सबसे यादगार माइथोलॉजिकल शो रामायण पेश किया गया था। इस पौराणिक धारावाहिक की रिलीज को करीब 4 दशक का समय बीत गया है, लेकिन अभी भी इसकी लोकप्रियता और कास्ट की चर्चा खूब होती है।
+
+दूरदर्शन की रामायण (Ramayan) में मेघनाद का किरदार निभाने वाले दिवंगत अभिनेता विजय अरोड़ा के बेटे ने अब रामायण के पर्दे के पीछे की कहानी को दिखाने का जिम्मेदारी उठाई है और शो के मेकर्स सागर फिल्म्स के साथ हाथ मिलाया है। आइए जानते हैं कि किस तरह से रामायण शो की धरोहर को नए अंदाज में पेश करने की तैयारी की जा रही है।
+
+दरअसल हाल ही में रामानंद सागर (Ramanand Sagar) के प्रोडक्शन हाउस सागर वर्ल्ड की तरफ से इंस्टाग्राम हैंडल पर एक स्पेशल वीडियो शेयर किया गया है। इस वीडियो में दूरदर्शन की रामायण में इंद्रजीत यानी मेघनाद का किरदार निभाने वाले दिवंगत अभिनेता विजय अरोड़ा के बेटे फरहाद अरोड़ा नजर आ रहे हैं। फरहाद इस वीडियो में रामायण शो से जुड़ी अपनी पुरानी यादों को ताजा करते हुए नजर आ रहे हैं।
+
+इस दौरान फरहाद अरोड़ा ने ये एलान किया है कि अब वह सागर वर्ल्ड के माध्यम से रामायण टीवी शो के मेकिंग को लेकर एक स्पेशल डॉक्युमेंट्री सीरीज लेकर आ रहे हैं, जिसे अगले महीने दिसंबर के अंत तक रिलीज किया जा सकता है। इस डॉक्यू सीरीज में धारावाहिक की धरोहर को दर्शाया जाएगा और किस तरह से दूरदर्शन (Doordarshan) का ये कल्ट क्लासिक शो बनकर तैयार हुआ, उसकी पूरी जानकारी मुहैया कराई जाएगी।
+
+A post shared by SAGAR WORLD (@sagar.world)
+
+इस अनाउंसमेंट के बाद फैंस की एक्साइटमेंट काफी हो गई है और वे रामायण शो के बिहाइंड द सीन्स संबंधित इस डॉक्यूमेंट्री सीरीज का बेसब्री से इंतजार करने लगे हैं।
+
+रामानंद सागर की रामायण को करीब 4 दशकों को समय बीत चुका है। इसके बावजूद इसे आज भी छोटे पर्दे के सबसे लोकप्रिय और यादगार माइथोलॉजिकल शो के तौर पर जाना जाता है। इन 39 सालों के दौरान दर्शकों की डिमांड पर दूरदर्शन पर रामायण को कई बार री-टेलीकास्ट भी किया जा चुका है। कोविड 19 के दौर में भी रामायण शो दूरदर्शन पर प्रसारित किया गया था।
+
+यह भी पढ़ें- 38 साल पहले मिथुन चक्रवर्ती बने थे भगवान राम, Kishore Kumar ने गाया था 'राम-लीला' के मंचन वाला गीत
+
+यह भी पढ़ें- 21वें दिन Ramayana ने किया 'पुष्पा 2' का 'बंटाधार', विदेशों में गूंजा 'श्री राम' का नारा, हुई सॉलिड कमाई
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/entertainment/tv-doordarshan-ramayan-meghnath-actor-vijay-arora-son-farhad-arora-collab-with-sagar-word-for-ramayan-bts-documentary-40448948.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `मेघनाद' का बेटा बना रामायण का सूत्रधार, आ रहा है Doordarshan के कल्ट शो की धरोहर का सफरनामा - Jagran`,
+    summary_hi: `रामानंद सागर की रामायण में मेघनाद का किरदार निभाने वाले अभिनेता विजय अरोड़ा के बेटे ने सागर फिल्म्स संग हाथ मिलाया है।`,
+    content_hi: `रामानंद सागर की रामायण में मेघनाद का किरदार निभाने वाले अभिनेता विजय अरोड़ा के बेटे ने सागर फिल्म्स संग हाथ मिलाया है।
+
+मेघनाद बना था ये एक्टर (फोटो क्रेडिट- आईएमडीबी)
+
+मेघनाद के बेटे ने सागर फिल्म्स संग मिलाया हाथ
+
+एंटरटेनमेंट डेस्क, नई दिल्ली। 39 साल पहले दूरदर्शन टीवी चैनल पर फिल्ममेकर रामानंद सागर द्वारा सदी का सबसे यादगार माइथोलॉजिकल शो रामायण पेश किया गया था। इस पौराणिक धारावाहिक की रिलीज को करीब 4 दशक का समय बीत गया है, लेकिन अभी भी इसकी लोकप्रियता और कास्ट की चर्चा खूब होती है।
+
+दूरदर्शन की रामायण (Ramayan) में मेघनाद का किरदार निभाने वाले दिवंगत अभिनेता विजय अरोड़ा के बेटे ने अब रामायण के पर्दे के पीछे की कहानी को दिखाने का जिम्मेदारी उठाई है और शो के मेकर्स सागर फिल्म्स के साथ हाथ मिलाया है। आइए जानते हैं कि किस तरह से रामायण शो की धरोहर को नए अंदाज में पेश करने की तैयारी की जा रही है।
+
+दरअसल हाल ही में रामानंद सागर (Ramanand Sagar) के प्रोडक्शन हाउस सागर वर्ल्ड की तरफ से इंस्टाग्राम हैंडल पर एक स्पेशल वीडियो शेयर किया गया है। इस वीडियो में दूरदर्शन की रामायण में इंद्रजीत यानी मेघनाद का किरदार निभाने वाले दिवंगत अभिनेता विजय अरोड़ा के बेटे फरहाद अरोड़ा नजर आ रहे हैं। फरहाद इस वीडियो में रामायण शो से जुड़ी अपनी पुरानी यादों को ताजा करते हुए नजर आ रहे हैं।
+
+इस दौरान फरहाद अरोड़ा ने ये एलान किया है कि अब वह सागर वर्ल्ड के माध्यम से रामायण टीवी शो के मेकिंग को लेकर एक स्पेशल डॉक्युमेंट्री सीरीज लेकर आ रहे हैं, जिसे अगले महीने दिसंबर के अंत तक रिलीज किया जा सकता है। इस डॉक्यू सीरीज में धारावाहिक की धरोहर को दर्शाया जाएगा और किस तरह से दूरदर्शन (Doordarshan) का ये कल्ट क्लासिक शो बनकर तैयार हुआ, उसकी पूरी जानकारी मुहैया कराई जाएगी।
+
+A post shared by SAGAR WORLD (@sagar.world)
+
+इस अनाउंसमेंट के बाद फैंस की एक्साइटमेंट काफी हो गई है और वे रामायण शो के बिहाइंड द सीन्स संबंधित इस डॉक्यूमेंट्री सीरीज का बेसब्री से इंतजार करने लगे हैं।
+
+रामानंद सागर की रामायण को करीब 4 दशकों को समय बीत चुका है। इसके बावजूद इसे आज भी छोटे पर्दे के सबसे लोकप्रिय और यादगार माइथोलॉजिकल शो के तौर पर जाना जाता है। इन 39 सालों के दौरान दर्शकों की डिमांड पर दूरदर्शन पर रामायण को कई बार री-टेलीकास्ट भी किया जा चुका है। कोविड 19 के दौर में भी रामायण शो दूरदर्शन पर प्रसारित किया गया था।
+
+यह भी पढ़ें- 38 साल पहले मिथुन चक्रवर्ती बने थे भगवान राम, Kishore Kumar ने गाया था 'राम-लीला' के मंचन वाला गीत
+
+यह भी पढ़ें- 21वें दिन Ramayana ने किया 'पुष्पा 2' का 'बंटाधार', विदेशों में गूंजा 'श्री राम' का नारा, हुई सॉलिड कमाई
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/entertainment/tv-doordarshan-ramayan-meghnath-actor-vijay-arora-son-farhad-arora-collab-with-sagar-word-for-ramayan-bts-documentary-40448948.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक मेघनाद' का बेटा बना रामायण का सूत्रधार, आ रहा है Doordarshan के कल्ट शो की धरोहर का सफरनामा - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+{
     id: 97975,
     title: `Bancroft leads WA's late charge in thrilling Tasmania draw`,
     slug: `bancroft-leads-was-late-charge-in-thrilling-tasmania-draw-2026`,
