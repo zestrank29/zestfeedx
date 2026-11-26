@@ -17,10 +17,10 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
   Header set Content-Type "text/plain; charset=utf-8"
 </Files>
 
-# Fast caching with revalidation for HTML
+# Ensure HTML is always revalidated after deployments (no stale browser/CDN HTML cache)
 <IfModule mod_headers.c>
   <FilesMatch "\.(html|htm)$">
-    Header set Cache-Control "public, max-age=3600, s-maxage=86400, stale-while-revalidate=86400"
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
   </FilesMatch>
   <FilesMatch "\.(css|js|jpg|jpeg|png|gif|webp|svg|ico|woff|woff2|ttf|eot)$">
     Header set Cache-Control "max-age=31536000, public, immutable"
