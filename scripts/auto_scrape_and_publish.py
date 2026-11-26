@@ -322,8 +322,34 @@ def extract_source_content_and_image(url):
                     if cand.startswith("http") and not any(b in cand.lower() for b in bad_patterns):
                         img_url = to_hd_image(cand)
 
-                for tag in soup(["script", "style", "nav", "footer", "aside"]):
-                    tag.decompose()
+                # 1. Check JSON-LD NewsArticle articleBody first (works on JS-rendered sites like healthandme, TOI, etc.)
+                import json as _json
+                for sc in soup.find_all("script", type="application/ld+json"):
+                    try:
+                        raw_j = _json.loads(sc.string or "")
+                        nodes = raw_j if isinstance(raw_j, list) else raw_j.get("@graph", [raw_j]) if isinstance(raw_j, dict) else []
+                        for nd in nodes:
+                            if isinstance(nd, dict) and isinstance(nd.get("articleBody"), str) and len(nd["articleBody"].strip()) >= 400:
+                                body_str = nd["articleBody"].strip().replace("\u2028", " ").replace("\u2029", " ")
+                                # Split into readable paragraphs
+                                sents = re.split(r'(?<=[.!?।])\s+', body_str)
+                                chunk_p = []
+                                for s in sents:
+                                    chunk_p.append(s)
+                                    if len(" ".join(chunk_p)) >= 280:
+                                        paragraphs.append(" ".join(chunk_p))
+                                        chunk_p = []
+                                if chunk_p:
+                                    paragraphs.append(" ".join(chunk_p))
+                                break
+                    except Exception:
+                        pass
+                    if len(paragraphs) >= 3:
+                        break
+
+                if len(paragraphs) < 3:
+                    for tag in soup(["script", "style", "nav", "footer", "aside"]):
+                        tag.decompose()
 
                 def extract_from(node):
                     out = []
@@ -341,11 +367,13 @@ def extract_source_content_and_image(url):
                         out.append(f"### {txt}" if p.name in ("h2", "h3") else txt)
                     return out
 
-                for cand_node in (soup.find("article"), soup.find("main"), soup):
-                    if cand_node is not None:
-                        paras = extract_from(cand_node)
-                        if len(paras) >= 3:
-                            break
+                if len(paragraphs) < 3:
+                    for cand_node in (soup.find("article"), soup.find("main"), soup):
+                        if cand_node is not None:
+                            paras = extract_from(cand_node)
+                            if len(paras) >= 3:
+                                paragraphs = paras
+                                break
             else:
                 for pat in [
                     r'<meta[^>]+property=[\'"]og:image[\'"][^>]+content=[\'"]([^\'"]+)[\'"]',

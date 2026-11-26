@@ -72,8 +72,32 @@ def fetch_source_data(url: str):
                 if cand.startswith("http") and not any(b in cand.lower() for b in BAD_IMG):
                     img_url = cand
 
-            for tag in soup(["script", "style", "nav", "footer", "aside"]):
-                tag.decompose()
+            import json as _json
+            for sc in soup.find_all("script", type="application/ld+json"):
+                try:
+                    raw_j = _json.loads(sc.string or "")
+                    nodes = raw_j if isinstance(raw_j, list) else raw_j.get("@graph", [raw_j]) if isinstance(raw_j, dict) else []
+                    for nd in nodes:
+                        if isinstance(nd, dict) and isinstance(nd.get("articleBody"), str) and len(nd["articleBody"].strip()) >= 400:
+                            body_str = nd["articleBody"].strip().replace("\u2028", " ").replace("\u2029", " ")
+                            sents = re.split(r'(?<=[.!?।])\s+', body_str)
+                            chunk_p = []
+                            for s in sents:
+                                chunk_p.append(s)
+                                if len(" ".join(chunk_p)) >= 280:
+                                    paras.append(" ".join(chunk_p))
+                                    chunk_p = []
+                            if chunk_p:
+                                paras.append(" ".join(chunk_p))
+                            break
+                except Exception:
+                    pass
+                if len(paras) >= 3:
+                    break
+
+            if len(paras) < 3:
+                for tag in soup(["script", "style", "nav", "footer", "aside"]):
+                    tag.decompose()
 
             def extract_from(node):
                 out = []
@@ -91,11 +115,13 @@ def fetch_source_data(url: str):
                     out.append(f"### {txt}" if p.name in ("h2", "h3") else txt)
                 return out
 
-            for cand_node in (soup.find("article"), soup.find("main"), soup):
-                if cand_node is not None:
-                    paras = extract_from(cand_node)
-                    if len(paras) >= 3:
-                        break
+            if len(paras) < 3:
+                for cand_node in (soup.find("article"), soup.find("main"), soup):
+                    if cand_node is not None:
+                        cand_paras = extract_from(cand_node)
+                        if len(cand_paras) >= 3:
+                            paras = cand_paras
+                            break
     except Exception:
         pass
     return img_url, paras[:30]
@@ -225,8 +251,9 @@ def main():
             is_boilerplate = any(k in cur_content for k in (
                 "Wire Dispatch Summary", "मुख्य समाचार सारांश",
                 "Strategic Overview & Legislative Framework",
-                "Clinical & Epidemiological Background"
-            )) or len(cur_content) < 700
+                "Clinical & Epidemiological Background",
+                "Login to get the latest articles"
+            )) or len(cur_content) < 800
 
             if paras and len(paras) >= 3 and is_boilerplate:
                 full_body = "\n\n".join(paras)

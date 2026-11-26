@@ -1485,7 +1485,7 @@ WTC 2025-27 की प्वाइंट्स टेबल को सेंच�
     source_name: `ESPNcricinfo Wire`,
     source_url: `https://www.cricinfo.com/ci/content/story/1564154.html?ex_cid=OTC-RSS`,
     source_courtesy: `Source: ESPNcricinfo Wire`,
-    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85&sig=97863`,
+    image_url: `https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `Cricket photograph: Dottin returns to West Indies squad for Pakistan series`,
     image_courtesy: `Photo: Action Sports Photography / Unsplash (Unsplash Commercial & Editorial License)`,
     image_photographer: `Action Sports Photography / Unsplash`,
@@ -1567,7 +1567,7 @@ Field observers noted that execution under pressure characterized pivotal overs.
     topic: `nutrition`,
     language: `en`,
     fomo_badge: `🩺 Health Wire`,
-    read_time: `1 min read`,
+    read_time: `3 min read`,
     views_count: 23521760,
     shares_count: 3428915,
     published_at: `2026-11-25T19:29:59Z`,
@@ -1582,31 +1582,39 @@ Field observers noted that execution under pressure characterized pivotal overs.
     image_license: `Original Source Media`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Health, Breaking News, India, Verified`,
-    summary: `Login to get the latest articles, videos, gallery, and a lot more…`,
-    content: `Login to get the latest articles, videos, gallery, and a lot more…
+    summary: `Vitamin B12 deficiency is widespread across age groups in India, according to a nationwide survey by the Indian Council of Medical Research (ICMR). The nutrient is essential for brain and nerve health, red blood cell formation and DNA synth`,
+    content: `Vitamin B12 deficiency is widespread across age groups in India, according to a nationwide survey by the Indian Council of Medical Research (ICMR). The nutrient is essential for brain and nerve health, red blood cell formation and DNA synthesis.The findings from the Survey for Assessment of Markers of Population Health, Activity, Diet & Anthropometry (SAMPADA), conducted in 2023–25, showed particularly high deficiency rates among adolescent boys and girls, pregnant women and adult men.The survey defined vitamin B12 deficiency as serum vitamin B12 levels below 203 pg/mL.
 
-Updated Nov 25, 2026 | 11:48 PM IST
+More than 60% of each of these three population groups had levels below this threshold.Also read: 1 In 2 Indian Women And Nearly 1 In 2 Girls Have Anemia: New ICMR Survey Reveals Burden In Young Children TooVitamin B12 Deficiency: Who Is Most Affected?The survey found varying rates of vitamin B12 deficiency across age groups:ChildrenChildren aged 5–9 years: 46.5% had low vitamin B12 levels.Children aged 12–59 months: 37.3% were deficient.AdolescentsBoys: 66.1% were deficient.Girls: 65.4% were deficient.Adult womenPregnant women: 63.1% had low vitamin B12 levels.Women of reproductive age (15–49 years): 57.4% were deficient.Women aged 20–59 years: 55.2% had low levels.Lactating women: 51.8% were deficient.Adult men and older peopleMen aged 20–59 years: 60.4% were deficient.Men aged 60 and above: 46.8% were deficient.Women aged 60 and above: 41.2% were deficient.The survey also found differences in vitamin B12 deficiency rates between urban and rural populations.Adult men: 69% in urban areas versus 57.1% in rural areas.Pregnant women: 65.8% in urban areas versus 61.7% in rural areas.Adolescent girls: 66.5% in rural areas versus 61.7% in urban areas.Adolescent boys: 68.6% in urban areas versus 65.3% in rural areas.What Is Vitamin B12?Read More: ICMR Flags Widespread Antibiotic Resistance Across India: From E.
 
-### US FDA Issues Ibuprofen Recall Over Aluminum Contamination: What Are The Health Risks?
+coli To Typhoid, Which Drugs Are Failing?Vitamin B12 is an essential nutrient that supports red blood cell formation, DNA synthesis and the normal functioning of the nervous system. It also helps maintain the myelin sheath, the protective covering around nerves that enables them to transmit signals properly.The vitamin is naturally found in animal-derived foods such as meat, fish, eggs and dairy products.
 
-### Billie Jean King Opens Up About Chris Evert's Third Cancer Recurrence: Why Genetic Testing Is Important
+People who consume little or no animal-based food may be at greater risk of inadequate intake. However, deficiency can also result from poor absorption and certain medical conditions.Symptoms Of Vitamin B12 DeficiencyVitamin B12 deficiency can cause symptoms that develop gradually and may go unnoticed initially.
 
-### WHO Recommends New Oral Antibiotic For Gonorrhoea Amid Rising Resistance
+Common signs include:Numbness or tingling in the hands, legs or feetDifficulty walking and maintaining balanceWeakness and fatigueAnemiaTongue inflammation or swellingMemory problems, confusion and cognitive difficulties   Because these symptoms can occur with several other conditions, vitamin B12 deficiency may go undetected or be misdiagnosed.A blood test can help identify low vitamin B12 levels.
+
+Treatment may involve oral supplements or injections, depending on the severity and underlying cause of the deficiency. Early diagnosis is important because prolonged deficiency can cause nerve damage, which may not always be fully reversible. Why Vegetarians May Be At Greater RiskDr Priyanka Sehrawat, who trained at the All India Institute of Medical Sciences (AIIMS), Delhi, highlighted the risk of vitamin B12 deficiency among vegetarians in an Instagram post.She explained in an Instagram post that plants do not naturally produce vitamin B12.
+
+As a result, people following strictly plant-based diets may not get adequate amounts of the nutrient through food alone.Research has also reported vitamin B12 deficiency among vegetarians across age groups, including children, adolescents, adults and older people.
 
 ---
 
 **Original Source:** [Indian Council of Medical Research (ICMR)](https://www.healthandme.com/health-news/icmr-survey-finds-widespread-vitamin-b12-deficiency-among-indians-symptoms-causes-and-what-to-do-article-156566267)`,
     title_en: `ICMR Survey Finds Widespread Vitamin B12 Deficiency Among Indians: Symptoms, Causes And What To Do - Health and Me`,
-    summary_en: `Login to get the latest articles, videos, gallery, and a lot more…`,
-    content_en: `Login to get the latest articles, videos, gallery, and a lot more…
+    summary_en: `Vitamin B12 deficiency is widespread across age groups in India, according to a nationwide survey by the Indian Council of Medical Research (ICMR). The nutrient is essential for brain and nerve health, red blood cell formation and DNA synth`,
+    content_en: `Vitamin B12 deficiency is widespread across age groups in India, according to a nationwide survey by the Indian Council of Medical Research (ICMR). The nutrient is essential for brain and nerve health, red blood cell formation and DNA synthesis.The findings from the Survey for Assessment of Markers of Population Health, Activity, Diet & Anthropometry (SAMPADA), conducted in 2023–25, showed particularly high deficiency rates among adolescent boys and girls, pregnant women and adult men.The survey defined vitamin B12 deficiency as serum vitamin B12 levels below 203 pg/mL.
 
-Updated Nov 25, 2026 | 11:48 PM IST
+More than 60% of each of these three population groups had levels below this threshold.Also read: 1 In 2 Indian Women And Nearly 1 In 2 Girls Have Anemia: New ICMR Survey Reveals Burden In Young Children TooVitamin B12 Deficiency: Who Is Most Affected?The survey found varying rates of vitamin B12 deficiency across age groups:ChildrenChildren aged 5–9 years: 46.5% had low vitamin B12 levels.Children aged 12–59 months: 37.3% were deficient.AdolescentsBoys: 66.1% were deficient.Girls: 65.4% were deficient.Adult womenPregnant women: 63.1% had low vitamin B12 levels.Women of reproductive age (15–49 years): 57.4% were deficient.Women aged 20–59 years: 55.2% had low levels.Lactating women: 51.8% were deficient.Adult men and older peopleMen aged 20–59 years: 60.4% were deficient.Men aged 60 and above: 46.8% were deficient.Women aged 60 and above: 41.2% were deficient.The survey also found differences in vitamin B12 deficiency rates between urban and rural populations.Adult men: 69% in urban areas versus 57.1% in rural areas.Pregnant women: 65.8% in urban areas versus 61.7% in rural areas.Adolescent girls: 66.5% in rural areas versus 61.7% in urban areas.Adolescent boys: 68.6% in urban areas versus 65.3% in rural areas.What Is Vitamin B12?Read More: ICMR Flags Widespread Antibiotic Resistance Across India: From E.
 
-### US FDA Issues Ibuprofen Recall Over Aluminum Contamination: What Are The Health Risks?
+coli To Typhoid, Which Drugs Are Failing?Vitamin B12 is an essential nutrient that supports red blood cell formation, DNA synthesis and the normal functioning of the nervous system. It also helps maintain the myelin sheath, the protective covering around nerves that enables them to transmit signals properly.The vitamin is naturally found in animal-derived foods such as meat, fish, eggs and dairy products.
 
-### Billie Jean King Opens Up About Chris Evert's Third Cancer Recurrence: Why Genetic Testing Is Important
+People who consume little or no animal-based food may be at greater risk of inadequate intake. However, deficiency can also result from poor absorption and certain medical conditions.Symptoms Of Vitamin B12 DeficiencyVitamin B12 deficiency can cause symptoms that develop gradually and may go unnoticed initially.
 
-### WHO Recommends New Oral Antibiotic For Gonorrhoea Amid Rising Resistance
+Common signs include:Numbness or tingling in the hands, legs or feetDifficulty walking and maintaining balanceWeakness and fatigueAnemiaTongue inflammation or swellingMemory problems, confusion and cognitive difficulties   Because these symptoms can occur with several other conditions, vitamin B12 deficiency may go undetected or be misdiagnosed.A blood test can help identify low vitamin B12 levels.
+
+Treatment may involve oral supplements or injections, depending on the severity and underlying cause of the deficiency. Early diagnosis is important because prolonged deficiency can cause nerve damage, which may not always be fully reversible. Why Vegetarians May Be At Greater RiskDr Priyanka Sehrawat, who trained at the All India Institute of Medical Sciences (AIIMS), Delhi, highlighted the risk of vitamin B12 deficiency among vegetarians in an Instagram post.She explained in an Instagram post that plants do not naturally produce vitamin B12.
+
+As a result, people following strictly plant-based diets may not get adequate amounts of the nutrient through food alone.Research has also reported vitamin B12 deficiency among vegetarians across age groups, including children, adolescents, adults and older people.
 
 ---
 
@@ -1967,11 +1975,11 @@ Honor Magic 9 Pro Max  को मलेशिया में लॉन्च �
     source_name: `BBC`,
     source_url: `https://www.bbc.com/hindi/articles/ckg5rzg1d4leo`,
     source_courtesy: `News Courtesy: BBC Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=85&sig=97854`,
+    image_url: `/images/articles/world-breaking-report-56116-97854-2026.jpg`,
     image_alt: `Verified news photograph: अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
-    image_courtesy: `Photo: Global Satellite Telemetry (Unsplash Editorial)`,
-    image_photographer: `Global Satellite Telemetry`,
-    image_license: `Unsplash Editorial`,
+    image_courtesy: `Image Courtesy: BBC`,
+    image_photographer: `BBC`,
+    image_license: `Original Source Media`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `World, Breaking News, India, Verified`,
     summary: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.`,
@@ -2213,11 +2221,11 @@ Honor Magic 9 Pro Max  को मलेशिया में लॉन्च �
     source_name: `BBC`,
     source_url: `https://www.bbc.com/hindi/articles/cqrkg620r8m7o`,
     source_courtesy: `News Courtesy: BBC Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85&sig=97856`,
+    image_url: `/images/articles/sports-breaking-report-16975-97856-2026.jpg`,
     image_alt: `Verified news photograph: वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर`,
-    image_courtesy: `Photo: Stadium Sports Media (Unsplash Editorial)`,
-    image_photographer: `Stadium Sports Media`,
-    image_license: `Unsplash Editorial`,
+    image_courtesy: `Image Courtesy: BBC`,
+    image_photographer: `BBC`,
+    image_license: `Original Source Media`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Sports, Breaking News, India, Verified`,
     summary: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.`,
@@ -2534,11 +2542,11 @@ Faith changed his life. His devotion changed thousands. Experience the divine st
     source_name: `BBC`,
     source_url: `https://www.bbc.com/hindi/articles/cm93r9d9ypx0o`,
     source_courtesy: `News Courtesy: BBC Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85&sig=97859`,
+    image_url: `/images/articles/entertainment-breaking-report-38543-97859-2026.png`,
     image_alt: `Verified news photograph: जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
-    image_courtesy: `Photo: Cinema Premiere Desk (Unsplash Editorial)`,
-    image_photographer: `Cinema Premiere Desk`,
-    image_license: `Unsplash Editorial`,
+    image_courtesy: `Image Courtesy: BBC`,
+    image_photographer: `BBC`,
+    image_license: `Original Source Media`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Entertainment, Breaking News, India, Verified`,
     summary: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.`,
@@ -3747,7 +3755,7 @@ KRAFTON India ने पुष्टि की है कि BGMI Air भार�
     source_name: `BBC`,
     source_url: `https://www.bbc.com/hindi/articles/cqrkg620r8m7o`,
     source_courtesy: `News Courtesy: BBC Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85&sig=97840`,
+    image_url: `https://images.unsplash.com/photo-1557992260-ec58e38d363c?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `Verified news photograph: वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर`,
     image_courtesy: `Photo: Stadium Sports Media (Unsplash Editorial)`,
     image_photographer: `Stadium Sports Media`,
@@ -4449,8 +4457,8 @@ Ramayana Worldwide Collection: रणबीर कपूर, यश और स�
     source_name: `ESPNcricinfo Wire`,
     source_url: `https://www.cricinfo.com/ci/content/story/1564209.html?ex_cid=OTC-RSS`,
     source_courtesy: `Source: ESPNcricinfo Wire`,
-    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85&sig=97860`,
-    image_alt: `Cricket photograph: Former TN captain B Aparajith retires from cricket`,
+    image_url: `https://images.unsplash.com/photo-1523995462485-3d171b5c8fa9?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `ZestFeedX News Photograph`,
     image_courtesy: `Photo: Action Sports Photography / Unsplash (Unsplash Commercial & Editorial License)`,
     image_photographer: `Action Sports Photography / Unsplash`,
     image_license: `Unsplash Commercial & Editorial License`,
@@ -4629,7 +4637,7 @@ Field observers noted that execution under pressure characterized pivotal overs.
     source_name: `Indian Council of Medical Research (ICMR)`,
     source_url: `https://news.google.com/rss/articles/CBMingFBVV95cUxNMVI2RjNMbWZuWEM4UGNlbndmTDFxZ1I3VjVkS3YxYXpJQ2VlaHR5ajd6NmJ5bmNQakZXRE9vVXFITE9XMnNSRU41TDdNNGExa3NOQXIyZ0RlamZ3OHFKSzNjaEtRd2xMVllLUGZWNHNkVXQxb1lmOU1jVklNVjBZUHFpZk9ZajFoVjNzdU1oZkdBOW41WXNhbzNwUGxyUdIBowFBVV95cUxPZnlIQ1lJaEl0cVVuRGdBZ09yUDc5aVc2bXl2VVlqUFFkSl9BTGcxckYtY0VVc2FWRTVTZVdseHMzQlZuWk0tTGt1TThlN1pBSnVVOUZqVEZQMUI4bDV2MS05NlB0dTQyTGRkajlnSjBUTUxESnZKeUUwaXZVR0R3NTdOZl9FZXE3OGV5V0tQVzd2UmU2XzA4TVgtWWgzbUlqWExz?oc=5`,
     source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
-    image_url: `https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1600&q=85&sig=97832`,
+    image_url: `https://images.unsplash.com/photo-1586339949916-3e9457bef6d3?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `ICMR Follow-on ANVESHAN Extramural Grant Program (India) - fundsforNGOs - Grants and Resources for Sustainability`,
     image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
     image_photographer: `Unsplash Stock Illustration`,
@@ -6849,7 +6857,7 @@ IND vs NZ 2nd Test Playing 11: भारत और न्यूजीलैं�
     source_name: `IMDb`,
     source_url: `https://www.imdb.com/news/ni66127667/?ref_=int_nwr_10`,
     source_courtesy: `Source: IMDb`,
-    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85&sig=97852`,
+    image_url: `https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The Fastest 4-Digit Crown From Dhurandhar 2! - IMDb`,
     image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
     image_photographer: `Unsplash Stock Illustration`,
@@ -6923,35 +6931,35 @@ Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The F
     image_license: `Original Source Media`,
     fact_check_status: `Wire Summary — Attributed to Primary Source`,
     tags: `Entertainment, News, India`,
-    summary: `Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern The Times of India Amid Ramayana's Stellar Success, Ranbir Kapoor, Producer Namit Malhotra, Director Nitesh Tiwari Offer Prayers At Gu`,
-    content: `### Wire Dispatch Summary
+    summary: `Actor Ranbir Kapoor has returned to Mumbai after travelling to Delhi with 'Ramayana' producer Namit Malhotra and director Nitesh Tiwari. The trio visited the Bangla Sahib Gurudwara in the national capital to seek blessings following the box`,
+    content: `Actor Ranbir Kapoor has returned to Mumbai after travelling to Delhi with 'Ramayana' producer Namit Malhotra and director Nitesh Tiwari. The trio visited the Bangla Sahib Gurudwara in the national capital to seek blessings following the box office success of the first instalment of their ambitious epic.The visit comes as the team celebrates the film's impressive reception and looks ahead to its international awards campaign.
 
-**Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern**
+Ranbir, who plays Lord Rama in the two-part saga, was joined by producer Malhotra and director Tiwari during the visit to the Gurudwara. The three were photographed dressed in kurtas as they offered prayers and sought blessings.The Delhi visit also comes just as 'Ramayana', is emerging as a contender in the upcoming international awards season.
 
-Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern The Times of India Amid Ramayana's Stellar Success, Ranbir Kapoor, Producer Namit Malhotra, Director Nitesh Tiwari Offer Prayers At Gurdwara Bangla Sahib NDTV Ranbir Kapoor, Namit Malhotra, Nitesh Tiwari offer prayers at Gurudwara Bangla Sahib after 'Ramayana' success https://www.indiagazette.com/ Ranbir Kapoor visits Delhi's Bangla Sahib with Namit Malhotra and Nitesh Tiwari after Ramayana's... Moneycontrol.com Ranbir Kapoor, Nitesh Tiwari, Namit Malhotra offer prayers at Gurudwara Bangla Sahib as Ramayana nears ₹1000 crore at the box office | Bollywood Hindustan Times
+The film has featured on several early eligibility and prediction lists for major Hollywood awards, including the Golden Globes, Critics Choice Awards and the Oscars, across multiple categories.Apart from its anticipated recognition for visual effects, the film is also pushing a more ambitious route and gunning for major categories such as Best Motion Picture – Drama and Best Motion Picture – Non-English Language at the Golden Globes.'Ramayana', that has already become India's highest grossing film at the US and international box office, has still a lot of catching up to do to recover its USD 200 million production cost.
 
-### Primary Source & Attribution
+However, with the film yet to be released in various other international markets, its collections are expected to grow.The film, which brings together Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita and Yash as Ravana, is released as a two-part cinematic adaptation. Part 2 of the saga has been slated for a Diwali 2027 release, however, the makers are now said to be considering a 2028 release.Get the latest Bollywood & Entertainment News, and more.
 
-* **Reported By:** The Times of India
-* **Original Source:** https://news.google.com/rss/articles/CBMi5gJBVV95cUxOSWhVM29xOGxCNVNlZVNMdTJSNWtrRDlvbk1LYmV2MFcyaVB0UEtDRFFpcC1aVTBSVzhmaXdfVGZZZ0k2ZlZfcXZFbHlrSWtVR0RPMVFCMThSU1NMd1FSSm9kel9yMGc3NV9majVra080R0t0SUJXYWV5R0ZvVWZGRjhTdW5xLW9yVkMzT0MxLUdnc1Y4bzZ5N1hMVjhNWWFIb08zTzItZmU4YTRWMEZZN2s2bl9WSzZ3cUxPMk8tY0puY2J1N2lmOFdueDdXOEpHTTFlWkl3bnRyTV84ZGp2NEdRbUNvZHQtdElCUEhVZzlFMDZMOGtHZEJlR20zaE1TY0ZUZVp3UGtfc3dSRTNrUXIwR05VdzZ4OW91T3cxMEVMX1BTcVhvdkMtMFNTYWRmbnZTTl9zLXBpZk9CbGh3UjIteWRjSk4teXo5SVlOTFB6aGhVTko4UFRCYi1GaXpaWV8tdldn?oc=5
-* **Beat / Category:** Entertainment
+Download the TOI app.Give your child the gift of confidence! Claim your exclusive TOI Masterclass spot today!
 
-*Attribution: Compiled as a factual wire summary from The Times of India. Refer to the primary source link for the full original report.*`,
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-visits-delhis-bangla-sahib-gurudwara-as-ramayana-begins-international-awards-campaign-spotted-with-namit-malhotra-and-nitesh-tiwari-pics/articleshow/136175081.cms)`,
     title_en: `Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern`,
-    summary_en: `Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern The Times of India Amid Ramayana's Stellar Success, Ranbir Kapoor, Producer Namit Malhotra, Director Nitesh Tiwari Offer Prayers At Gu`,
-    content_en: `### Wire Dispatch Summary
+    summary_en: `Actor Ranbir Kapoor has returned to Mumbai after travelling to Delhi with 'Ramayana' producer Namit Malhotra and director Nitesh Tiwari. The trio visited the Bangla Sahib Gurudwara in the national capital to seek blessings following the box`,
+    content_en: `Actor Ranbir Kapoor has returned to Mumbai after travelling to Delhi with 'Ramayana' producer Namit Malhotra and director Nitesh Tiwari. The trio visited the Bangla Sahib Gurudwara in the national capital to seek blessings following the box office success of the first instalment of their ambitious epic.The visit comes as the team celebrates the film's impressive reception and looks ahead to its international awards campaign.
 
-**Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern**
+Ranbir, who plays Lord Rama in the two-part saga, was joined by producer Malhotra and director Tiwari during the visit to the Gurudwara. The three were photographed dressed in kurtas as they offered prayers and sought blessings.The Delhi visit also comes just as 'Ramayana', is emerging as a contender in the upcoming international awards season.
 
-Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern The Times of India Amid Ramayana's Stellar Success, Ranbir Kapoor, Producer Namit Malhotra, Director Nitesh Tiwari Offer Prayers At Gurdwara Bangla Sahib NDTV Ranbir Kapoor, Namit Malhotra, Nitesh Tiwari offer prayers at Gurudwara Bangla Sahib after 'Ramayana' success https://www.indiagazette.com/ Ranbir Kapoor visits Delhi's Bangla Sahib with Namit Malhotra and Nitesh Tiwari after Ramayana's... Moneycontrol.com Ranbir Kapoor, Nitesh Tiwari, Namit Malhotra offer prayers at Gurudwara Bangla Sahib as Ramayana nears ₹1000 crore at the box office | Bollywood Hindustan Times
+The film has featured on several early eligibility and prediction lists for major Hollywood awards, including the Golden Globes, Critics Choice Awards and the Oscars, across multiple categories.Apart from its anticipated recognition for visual effects, the film is also pushing a more ambitious route and gunning for major categories such as Best Motion Picture – Drama and Best Motion Picture – Non-English Language at the Golden Globes.'Ramayana', that has already become India's highest grossing film at the US and international box office, has still a lot of catching up to do to recover its USD 200 million production cost.
 
-### Primary Source & Attribution
+However, with the film yet to be released in various other international markets, its collections are expected to grow.The film, which brings together Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita and Yash as Ravana, is released as a two-part cinematic adaptation. Part 2 of the saga has been slated for a Diwali 2027 release, however, the makers are now said to be considering a 2028 release.Get the latest Bollywood & Entertainment News, and more.
 
-* **Reported By:** The Times of India
-* **Original Source:** https://news.google.com/rss/articles/CBMi5gJBVV95cUxOSWhVM29xOGxCNVNlZVNMdTJSNWtrRDlvbk1LYmV2MFcyaVB0UEtDRFFpcC1aVTBSVzhmaXdfVGZZZ0k2ZlZfcXZFbHlrSWtVR0RPMVFCMThSU1NMd1FSSm9kel9yMGc3NV9majVra080R0t0SUJXYWV5R0ZvVWZGRjhTdW5xLW9yVkMzT0MxLUdnc1Y4bzZ5N1hMVjhNWWFIb08zTzItZmU4YTRWMEZZN2s2bl9WSzZ3cUxPMk8tY0puY2J1N2lmOFdueDdXOEpHTTFlWkl3bnRyTV84ZGp2NEdRbUNvZHQtdElCUEhVZzlFMDZMOGtHZEJlR20zaE1TY0ZUZVp3UGtfc3dSRTNrUXIwR05VdzZ4OW91T3cxMEVMX1BTcVhvdkMtMFNTYWRmbnZTTl9zLXBpZk9CbGh3UjIteWRjSk4teXo5SVlOTFB6aGhVTko4UFRCYi1GaXpaWV8tdldn?oc=5
-* **Beat / Category:** Entertainment
+Download the TOI app.Give your child the gift of confidence! Claim your exclusive TOI Masterclass spot today!
 
-*Attribution: Compiled as a factual wire summary from The Times of India. Refer to the primary source link for the full original report.*`,
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-visits-delhis-bangla-sahib-gurudwara-as-ramayana-begins-international-awards-campaign-spotted-with-namit-malhotra-and-nitesh-tiwari-pics/articleshow/136175081.cms)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
@@ -10628,9 +10636,9 @@ The battle for the most prestigious title in chess begins later on Tuesday in Ge
 
 ### Nation observes Constitution Day to mark adoption of Constitution in 1949
 
-### PM Modi calls for strengthening constitutional values and placing India First in nation...
-
 ### India committed to working closely with US towards early conclusion of India-US BTA
+
+### PM Modi calls for strengthening constitutional values and placing India First in nation...
 
 ---
 
@@ -10647,9 +10655,9 @@ The battle for the most prestigious title in chess begins later on Tuesday in Ge
 
 ### Nation observes Constitution Day to mark adoption of Constitution in 1949
 
-### PM Modi calls for strengthening constitutional values and placing India First in nation...
-
 ### India committed to working closely with US towards early conclusion of India-US BTA
+
+### PM Modi calls for strengthening constitutional values and placing India First in nation...
 
 ---
 
@@ -10669,7 +10677,7 @@ The battle for the most prestigious title in chess begins later on Tuesday in Ge
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `1 min read`,
+    read_time: `2 min read`,
     views_count: 329080,
     shares_count: 45455,
     published_at: `2026-11-25T04:11:29+05:30`,
@@ -10681,23 +10689,35 @@ The battle for the most prestigious title in chess begins later on Tuesday in Ge
     image_courtesy: `Image Courtesy: The Times of India`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, The Times of India`,
-    summary: `Share your thoughts in the comments`,
-    content: `### Gaganyaan in final phase, says Isro chief
+    summary: `NEW DELHI: The first privately built Polar Satellite Launch Vehicle (PSLV-N1) is ready for a maiden launch in the "first quarter of next year", Isro chairman V Narayanan said on Tuesday. He also said govt is fast-tracking satellite launches`,
+    content: `NEW DELHI: The first privately built Polar Satellite Launch Vehicle (PSLV-N1) is ready for a maiden launch in the "first quarter of next year", Isro chairman V Narayanan said on Tuesday. He also said govt is fast-tracking satellite launches in collaboration with startups "in a big way" as Isro currently has only 56 space assets in orbit.Talking about foreign collaboration, the Isro chairman said, "India is collaborating with 64 countries...
 
-Share your thoughts in the comments
+At least 434 satellites for 34 countries have lifted off from Indian soil during the last 12 years."Gaganyaan in final phase, says Isro chiefSpeaking on the sidelines of the 5th India International Space Conference in Delhi, Isro chief V Narayanan said, “Earlier, it was only Isro that built PSLV with the support of industry.
 
-Be respectful · TOI community guidelines
+Now, an L&T and HAL consortium has been given five PSLVs (to build). So, the first rocket PSLV-N1 is getting ready and we are targeting to launch it by the first quarter of next year.” Isro’s arm NSIL signed a contract with the consortium in Sept 2022 for Rs 860 crore for five PSLV rockets.Narayanan said, “We need to build a lot of space assets for communication, navigation and earth observation.
+
+This can’t be done by govt sector (alone). Isro and INSPACe are hand-holding private companies and you will see its benefit five years from now. Today, from one startup, their number has come to 440+.”Pointing out that “Gaganyaan is not late”, he said, “It is a technology-intensive activity.
+
+We are in the final phase. The rocket and other items are ready. We’re working on the orbital module. At the earliest opportunity, it will be launched.” He said, “Isro and Semiconductor Lab in Chandigarh have developed a Vikram processor. Vikram-32 chip has come out, and we are going to induct it.”Get the latest India News and Live updates.
+
+Download the TOI app.
 
 ---
 
 **Original Source:** [The Times of India](https://timesofindia.indiatimes.com/india/1st-privately-built-pslv-set-for-launch-early-next-year-isro-chief/articleshow/136143686.cms)`,
     title_en: `🚨 The Midnight Move: How 1st privately built PSLV set for launch early next year: Isro chief Caught Everyone Completely Off Guard`,
-    summary_en: `Share your thoughts in the comments`,
-    content_en: `### Gaganyaan in final phase, says Isro chief
+    summary_en: `NEW DELHI: The first privately built Polar Satellite Launch Vehicle (PSLV-N1) is ready for a maiden launch in the "first quarter of next year", Isro chairman V Narayanan said on Tuesday. He also said govt is fast-tracking satellite launches`,
+    content_en: `NEW DELHI: The first privately built Polar Satellite Launch Vehicle (PSLV-N1) is ready for a maiden launch in the "first quarter of next year", Isro chairman V Narayanan said on Tuesday. He also said govt is fast-tracking satellite launches in collaboration with startups "in a big way" as Isro currently has only 56 space assets in orbit.Talking about foreign collaboration, the Isro chairman said, "India is collaborating with 64 countries...
 
-Share your thoughts in the comments
+At least 434 satellites for 34 countries have lifted off from Indian soil during the last 12 years."Gaganyaan in final phase, says Isro chiefSpeaking on the sidelines of the 5th India International Space Conference in Delhi, Isro chief V Narayanan said, “Earlier, it was only Isro that built PSLV with the support of industry.
 
-Be respectful · TOI community guidelines
+Now, an L&T and HAL consortium has been given five PSLVs (to build). So, the first rocket PSLV-N1 is getting ready and we are targeting to launch it by the first quarter of next year.” Isro’s arm NSIL signed a contract with the consortium in Sept 2022 for Rs 860 crore for five PSLV rockets.Narayanan said, “We need to build a lot of space assets for communication, navigation and earth observation.
+
+This can’t be done by govt sector (alone). Isro and INSPACe are hand-holding private companies and you will see its benefit five years from now. Today, from one startup, their number has come to 440+.”Pointing out that “Gaganyaan is not late”, he said, “It is a technology-intensive activity.
+
+We are in the final phase. The rocket and other items are ready. We’re working on the orbital module. At the earliest opportunity, it will be launched.” He said, “Isro and Semiconductor Lab in Chandigarh have developed a Vikram processor. Vikram-32 chip has come out, and we are going to induct it.”Get the latest India News and Live updates.
+
+Download the TOI app.
 
 ---
 
@@ -12505,7 +12525,7 @@ The visit will also mark the Griha Pravesh ceremony for more than 26,900 benefic
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `1 min read`,
+    read_time: `11 min read`,
     views_count: 323000,
     shares_count: 44600,
     published_at: `2026-11-24T18:54:50+05:30`,
@@ -12517,23 +12537,131 @@ The visit will also mark the Griha Pravesh ceremony for more than 26,900 benefic
     image_courtesy: `Photo Courtesy: The Times of India Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, The Times of India`,
-    summary: `Share your thoughts in the comments`,
-    content: `### Six years later, a very different Punjab
+    summary: `NEW DELHI: Two of Punjab's oldest political allies are back together, six years after a bitter parting over the contentious farm laws. The Bharatiya Janata Party (BJP) and the Shiromani Akali Dal (SAD) on Tuesday announced the revival of th`,
+    content: `NEW DELHI: Two of Punjab's oldest political allies are back together, six years after a bitter parting over the contentious farm laws. The Bharatiya Janata Party (BJP) and the Shiromani Akali Dal (SAD) on Tuesday announced the revival of their alliance for the 2027 Punjab assembly elections, reviving a partnership that once governed the state for 15 years across three terms.The reunion, announced on the Parkash Purab of Guru Nanak Dev, brings together parties whose relationship was famously described by former Punjab chief minister Parkash Singh Badal as "nau-maas da rishta", the bond between the nail and the flesh.Prime Minister Narendra Modi welcomed the development, saying the alliance would put Punjab and the welfare of Punjabis first."Ours is a natural alliance that will ensure Punjab gets pro-people governance that takes the state to new heights of progress," he said in a post on X, adding that the partnership, nurtured by Atal Bihari Vajpayee, LK Advani and Parkash Singh Badal, had "stood the test of time".Union home minister Amit Shah, who announced the reunion alongside BJP president Nitin Nabin and SAD chief Sukhbir Singh Badal, called the Akali Dal the NDA's "oldest ally" and said PM Modi had described the development by saying the "NDA is now complete".Shah also said SAD would retain its senior-partner status, adding that the "big brother" would get the chief minister's post.
 
-Share your thoughts in the comments
+"Big brother will be Akali Dal. We will contest all 117 seats. Bada bhai hi chief minister hota hai (The elder brother becomes the chief minister)," the Union minister said at the joint press conference.The two parties will contest all 117 assembly seats together, although the seat-sharing arrangement is yet to be finalised.The reunion comes after months of political manoeuvring, including Sukhbir Badal's meeting with PM Modi in August and a shift in SAD's position on the Centre's delimitation proposal.
 
-Be respectful · TOI community guidelines
+It also brings together two parties whose electoral fortunes have declined sharply since their separation.However, Punjab is no longer the state in which the old alliance enjoyed its strongest run. AAP has emerged as the dominant force, Congress remains a significant contender, and the BJP and SAD have both undergone changes in their support bases and political strategies.Why SAD-BJP patched upThe partnership actually predates the BJP.
+
+Its predecessor, the Bharatiya Jana Sangh, shared power with the Akalis in Punjab as far back as 1967 and 1969. The modern alliance, however, was forged in 1996, when SAD's Moga Declaration pivoted from purely Panthic politics to a broader pitch of "Punjab, Punjabi and Punjabiyat."The partnership brought together the Akalis' predominantly rural Sikh support base and the BJP's largely urban Hindu constituency.
+
+It also helped both parties build a political coalition in the aftermath of militancy in Punjab.The alliance won 93 of 117 assembly seats in 1997, with SAD securing 75 and the BJP 18. After losing power to Congress in 2002, the combine returned to office in 2007 and retained power in 2012, winning 67 and 68 seats respectively.ALSO READ: From 'nau-mass da rishta' to bitter rivals and back; how BJP-SAD relations played out over the yearsBut the emergence of AAP, coupled with public anger over incidents of sacrilege and the drug menace, weakened the alliance.
+
+In 2017, SAD was reduced to 15 seats and the BJP to three.The final rupture came in September 2020, when SAD walked out of the NDA over the Centre's three farm laws. Sukhbir Badal's wife Harsimrat Kaur Badal resigned as Union food processing industries minister on September 17, and the Akali Dal formally ended its 24-year-old electoral partnership with the BJP nine days later.The laws were repealed in November 2021, but the political damage endured.The alliance's decline is evident from its electoral record.
+
+In 2007, SAD won 48 seats and the BJP 19, taking their combined tally to 67. They improved to 68 seats in 2012, with SAD winning 56 and the BJP 12. But the numbers fell sharply thereafter. In 2017, SAD was reduced to 15 seats and the BJP to three. By the 2022 assembly elections, the two parties managed just five seats between them, with SAD winning three and the BJP two.In 2022, SAD secured 18.38% of the vote and the BJP 6.60%, while AAP swept the election with 92 seats and a 42.01% vote share.Their separate performance in the 2024 Lok Sabha elections provided another reason to reconsider the alliance.
+
+The BJP failed to win any of Punjab's 13 seats despite securing 18.56% of the vote. SAD won one seat, Bathinda, with 13.42%.ALSO READ: From 9.63% to 18.56% - BJP’s saving grace after drawing a blank in PunjabTogether, their vote shares added up to nearly 32%, compared with 26.30% for Congress and 26.02% for AAP.(function(){function e(){window.addEventListener(\`message\`,function(e){if(e.data[\`datawrapper-height\`]!==void 0){var t=document.querySelectorAll(\`iframe\`);for(var n in e.data[\`datawrapper-height\`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[\`datawrapper-height\`][n]+\`px\`;i.style.height=a}}})}e()})();The numbers make a case for pooling their support bases, although the combined vote share does not automatically translate into transferable votes or assembly seats.For the BJP, the alliance offers access to SAD's traditional rural and Sikh support networks.
+
+For the Akali Dal, it brings back a national ally and an opportunity to rebuild its electoral machinery, which is the BJP's strong suit.Sukhbir Singh Badal described the reunion as more than an electoral arrangement."This is not just a political alliance. There is an emotional bond.
+
+As my late father used to say, Akali Dal-BJP is an inseparable, deeply bonded relationship," he said.Six years later, a very different PunjabThe old partners are back again, but the state the BJP and SAD are returning to is markedly different from the one they left behind in 2020.The 2027 assembly election will be the alliance's first major state-level electoral test without Parkash Singh Badal, the five-time CM who died in April 2023.
+
+A towering figure in the Akali Dal, he was also a key bridge between the SAD and the BJP. Though Sukhbir Badal was already leading the party before his father's death, he now has to rebuild the party's standing without his political stature and influence.Another factor the alliance must keep in mind is that the farm issue has not disappeared.
+
+The repeal of the three farm laws did not automatically undo the distrust they created. Farmers' demands, including a legal guarantee for minimum support price, remain unresolved, keeping the issue politically alive in an agrarian state like Punjab. The BJP-SAD alliance will have to reckon with that trust deficit, particularly in the rural Malwa belt, which is the largest and most populous region covering major farming districts like Bathinda, Mansa, Sangrur, Patiala, Ludhiana and Muktsar.This is why the choice of Gurpurab for the reunion announcement is rich in symbolism.
+
+PM Modi had announced the repeal of the farm laws on the occasion in November 2021. The two parties have now chosen the same religious occasion to announce their political reconciliation. Whether that symbolism can translate into renewed trust among farmers is a different question.Another thing that has changed is that the Akali Dal can no longer assume that it commands the entire Panthic vote.
+
+In the 2024 Lok Sabha election, independent candidates Amritpal Singh and Sarabjeet Singh Khalsa won from Khadoor Sahib and Faridkot, respectively. Between them, they also led in 15 assembly segments.ALSO READ: 'O Captain, My Captain' - Should Congress make room for Amarinder Singh again?This makes the party's return to its traditional Panthic space more difficult.
+
+The SAD has tried to reconnect with its core constituency through issues of Sikh identity and historical memory. The controversy surrounding 'Satluj', a film based on activist Jaswant Singh Khalra's work documenting alleged extrajudicial killings in Punjab, offered one such opportunity.
+
+After the film was taken down from an OTT platform, Sukhbir Badal announced screenings across the state, saying young people should know about the events it depicts.The bigger, bolder BJPSix years on its own have transformed the BJP from a junior partner that contested just 23 of Punjab's 117 assembly seats into a more assertive player.
+
+Under the old arrangement, the SAD contested 94 assembly seats and the BJP 23, largely in urban constituencies. For the Lok Sabha elections, the split was 10 seats for the Akalis and three for the BJP.Its vote share in the 2024 Lok Sabha election rose to 18.56 per cent, up from 9.63 per cent in 2019.
+
+The BJP contested all 13 seats in 2024, compared with just three under the old seat-sharing arrangement in 2019. Though it won no seats, the saffron party's vote share was higher than the SAD's 13.42 per cent. In the 2022 assembly election, the BJP had polled 6.60 per cent and won two seats.(function(){function e(){window.addEventListener(\`message\`,function(e){if(e.data[\`datawrapper-height\`]!==void 0){var t=document.querySelectorAll(\`iframe\`);for(var n in e.data[\`datawrapper-height\`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[\`datawrapper-height\`][n]+\`px\`;i.style.height=a}}})}e()})();The party has also strengthened its ranks through a steady stream of defections.
+
+In April 2026, AAP Rajya Sabha MP Raghav Chadha led six other MPs into the BJP which included Sandeep Pathak, Ashok Mittal, Harbhajan Singh, Vikramjit Singh Sahney, Rajinder Gupta and Swati Maliwal. Six of these seven were Rajya Sabha members from Punjab. The exits dealt a major blow to the AAP's parliamentary strength and brought into the BJP leaders who had been closely associated with the party's Punjab strategy.
+
+Chadha and Pathak, in particular, had played key roles in the AAP's political and electoral planning.The BJP has since moved to put these former AAP leaders to work against their old party. Chadha and Harbhajan Singh have been named to its Punjab manifesto committee, while Pathak, Mittal, Sahney and other former AAP MPs have been assigned roles in the party's chargesheet committee, which will prepare its case against the Bhagwant Mann government.Earlier, in March 2024, AAP's then Jalandhar MP Sushil Kumar Rinku and Jalandhar West MLA Sheetal Angural had also joined the BJP.
+
+In November 2026, three more AAP legislators, Harmeet Singh Pathanmajra, Chetan Singh Jouramajra and Kunwar Vijay Pratap Singh, crossed over. The BJP has also inducted senior Akali leaders, including Surinder Singh Chauhan and Jaswinderpal Sohal, as well as AAP functionaries from Moga led by spokesperson Navdeep Singh Sangha.The BJP's recruitment drive has not been limited to the AAP and SAD.
+
+Its Punjab ranks also include former Congress leaders such as Sunil Jakhar, Manpreet Singh Badal, Ravneet Singh Bittu and Preneet Kaur.That changes the terms of the reunion. The BJP returns with a larger vote share, a wider organisational footprint and experienced leaders. The SAD, meanwhile, needs the alliance to recover lost ground and reconnect with rural voters.
+
+Amit Shah has announced that the BJP is okay with the junior-partner label in the alliance. It is, however, unlikely that the BJP will settle for the old seat-sharing formula.Can the alliance unsettle AAP?The immediate target of the alliance is the AAP government, which swept to power in 2022 with 92 seats and 42.01 per cent of the vote.
+
+Its vote share fell to 26.02 per cent in the 2024 Lok Sabha election, when it won three seats, but it remains a formidable player.The SAD-BJP reunion gives the opposition a potentially stronger combination of urban and rural networks. It could also help consolidate voters who want an alternative to the AAP government.
+
+The drug problem, in particular, is likely to be a central campaign issue.At his press conference, Amit Shah listed three priorities for a future NDA government: eliminating drugs, eliminating corruption and strengthening nationalist forces. He promised that Punjab would be "completely drug-free" by December 31, 2029.
+
+He also targeted Congress, recalling Rahul Gandhi's 2017 promise that drugs would be eliminated within one term and accusing the party of doing nothing when it was in power.The attack gives the alliance a ready-made campaign plank. But it also puts the BJP and SAD on the spot, as both parties have been part of Punjab's political establishment for decades.
+
+The voters, thus, will judge their record as well as their promises.There is another complication. The Congress remains a strong third front and could split the anti-incumbency vote. Rural Sikh voters who continue to view the BJP through the lens of the farm agitation may also be reluctant to back the reunited partners.
+
+The AAP could benefit if opposition votes remain divided.The BJP-SAD reunion also complicates the Congress's position. With an established opposition pole, the contest for voters dissatisfied with the AAP government will now intensify. Amit Shah's attack on the Congress over its record on drugs made it clear that the alliance intends to take on both the ruling party and its principal rival.The Congress can still draw on its independent support base, but it will have to navigate a more crowded opposition space, as well as its own internal factional differences.Six years after a split that left both allies on the margins, the BJP and the Shiromani Akali Dal have chosen pragmatism over past grievances to challenge AAP and Congress.
+
+The 2027 election, however, will not be a simple replay of the coalition's past victories. And tough seat-sharing talks are yet to be held.The OGs may be back together, but winning over a changed Punjab will require more than old chemistry.Get the latest India News and Live updates.
+
+Download the TOI app.
 
 ---
 
 **Original Source:** [The Times of India](https://timesofindia.indiatimes.com/india/the-ogs-reunite-sad-gets-bada-bhai-tag-in-punjab-but-bjp-has-bigger-ambitions/articleshow/136130855.cms)`,
     title_en: `🚨 Why Insiders Are Calling The OGs reunite: SAD gets 'bada bhai' tag in Punjab, but BJP has bigger ambitions a Total Game-Changer`,
-    summary_en: `Share your thoughts in the comments`,
-    content_en: `### Six years later, a very different Punjab
+    summary_en: `NEW DELHI: Two of Punjab's oldest political allies are back together, six years after a bitter parting over the contentious farm laws. The Bharatiya Janata Party (BJP) and the Shiromani Akali Dal (SAD) on Tuesday announced the revival of th`,
+    content_en: `NEW DELHI: Two of Punjab's oldest political allies are back together, six years after a bitter parting over the contentious farm laws. The Bharatiya Janata Party (BJP) and the Shiromani Akali Dal (SAD) on Tuesday announced the revival of their alliance for the 2027 Punjab assembly elections, reviving a partnership that once governed the state for 15 years across three terms.The reunion, announced on the Parkash Purab of Guru Nanak Dev, brings together parties whose relationship was famously described by former Punjab chief minister Parkash Singh Badal as "nau-maas da rishta", the bond between the nail and the flesh.Prime Minister Narendra Modi welcomed the development, saying the alliance would put Punjab and the welfare of Punjabis first."Ours is a natural alliance that will ensure Punjab gets pro-people governance that takes the state to new heights of progress," he said in a post on X, adding that the partnership, nurtured by Atal Bihari Vajpayee, LK Advani and Parkash Singh Badal, had "stood the test of time".Union home minister Amit Shah, who announced the reunion alongside BJP president Nitin Nabin and SAD chief Sukhbir Singh Badal, called the Akali Dal the NDA's "oldest ally" and said PM Modi had described the development by saying the "NDA is now complete".Shah also said SAD would retain its senior-partner status, adding that the "big brother" would get the chief minister's post.
 
-Share your thoughts in the comments
+"Big brother will be Akali Dal. We will contest all 117 seats. Bada bhai hi chief minister hota hai (The elder brother becomes the chief minister)," the Union minister said at the joint press conference.The two parties will contest all 117 assembly seats together, although the seat-sharing arrangement is yet to be finalised.The reunion comes after months of political manoeuvring, including Sukhbir Badal's meeting with PM Modi in August and a shift in SAD's position on the Centre's delimitation proposal.
 
-Be respectful · TOI community guidelines
+It also brings together two parties whose electoral fortunes have declined sharply since their separation.However, Punjab is no longer the state in which the old alliance enjoyed its strongest run. AAP has emerged as the dominant force, Congress remains a significant contender, and the BJP and SAD have both undergone changes in their support bases and political strategies.Why SAD-BJP patched upThe partnership actually predates the BJP.
+
+Its predecessor, the Bharatiya Jana Sangh, shared power with the Akalis in Punjab as far back as 1967 and 1969. The modern alliance, however, was forged in 1996, when SAD's Moga Declaration pivoted from purely Panthic politics to a broader pitch of "Punjab, Punjabi and Punjabiyat."The partnership brought together the Akalis' predominantly rural Sikh support base and the BJP's largely urban Hindu constituency.
+
+It also helped both parties build a political coalition in the aftermath of militancy in Punjab.The alliance won 93 of 117 assembly seats in 1997, with SAD securing 75 and the BJP 18. After losing power to Congress in 2002, the combine returned to office in 2007 and retained power in 2012, winning 67 and 68 seats respectively.ALSO READ: From 'nau-mass da rishta' to bitter rivals and back; how BJP-SAD relations played out over the yearsBut the emergence of AAP, coupled with public anger over incidents of sacrilege and the drug menace, weakened the alliance.
+
+In 2017, SAD was reduced to 15 seats and the BJP to three.The final rupture came in September 2020, when SAD walked out of the NDA over the Centre's three farm laws. Sukhbir Badal's wife Harsimrat Kaur Badal resigned as Union food processing industries minister on September 17, and the Akali Dal formally ended its 24-year-old electoral partnership with the BJP nine days later.The laws were repealed in November 2021, but the political damage endured.The alliance's decline is evident from its electoral record.
+
+In 2007, SAD won 48 seats and the BJP 19, taking their combined tally to 67. They improved to 68 seats in 2012, with SAD winning 56 and the BJP 12. But the numbers fell sharply thereafter. In 2017, SAD was reduced to 15 seats and the BJP to three. By the 2022 assembly elections, the two parties managed just five seats between them, with SAD winning three and the BJP two.In 2022, SAD secured 18.38% of the vote and the BJP 6.60%, while AAP swept the election with 92 seats and a 42.01% vote share.Their separate performance in the 2024 Lok Sabha elections provided another reason to reconsider the alliance.
+
+The BJP failed to win any of Punjab's 13 seats despite securing 18.56% of the vote. SAD won one seat, Bathinda, with 13.42%.ALSO READ: From 9.63% to 18.56% - BJP’s saving grace after drawing a blank in PunjabTogether, their vote shares added up to nearly 32%, compared with 26.30% for Congress and 26.02% for AAP.(function(){function e(){window.addEventListener(\`message\`,function(e){if(e.data[\`datawrapper-height\`]!==void 0){var t=document.querySelectorAll(\`iframe\`);for(var n in e.data[\`datawrapper-height\`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[\`datawrapper-height\`][n]+\`px\`;i.style.height=a}}})}e()})();The numbers make a case for pooling their support bases, although the combined vote share does not automatically translate into transferable votes or assembly seats.For the BJP, the alliance offers access to SAD's traditional rural and Sikh support networks.
+
+For the Akali Dal, it brings back a national ally and an opportunity to rebuild its electoral machinery, which is the BJP's strong suit.Sukhbir Singh Badal described the reunion as more than an electoral arrangement."This is not just a political alliance. There is an emotional bond.
+
+As my late father used to say, Akali Dal-BJP is an inseparable, deeply bonded relationship," he said.Six years later, a very different PunjabThe old partners are back again, but the state the BJP and SAD are returning to is markedly different from the one they left behind in 2020.The 2027 assembly election will be the alliance's first major state-level electoral test without Parkash Singh Badal, the five-time CM who died in April 2023.
+
+A towering figure in the Akali Dal, he was also a key bridge between the SAD and the BJP. Though Sukhbir Badal was already leading the party before his father's death, he now has to rebuild the party's standing without his political stature and influence.Another factor the alliance must keep in mind is that the farm issue has not disappeared.
+
+The repeal of the three farm laws did not automatically undo the distrust they created. Farmers' demands, including a legal guarantee for minimum support price, remain unresolved, keeping the issue politically alive in an agrarian state like Punjab. The BJP-SAD alliance will have to reckon with that trust deficit, particularly in the rural Malwa belt, which is the largest and most populous region covering major farming districts like Bathinda, Mansa, Sangrur, Patiala, Ludhiana and Muktsar.This is why the choice of Gurpurab for the reunion announcement is rich in symbolism.
+
+PM Modi had announced the repeal of the farm laws on the occasion in November 2021. The two parties have now chosen the same religious occasion to announce their political reconciliation. Whether that symbolism can translate into renewed trust among farmers is a different question.Another thing that has changed is that the Akali Dal can no longer assume that it commands the entire Panthic vote.
+
+In the 2024 Lok Sabha election, independent candidates Amritpal Singh and Sarabjeet Singh Khalsa won from Khadoor Sahib and Faridkot, respectively. Between them, they also led in 15 assembly segments.ALSO READ: 'O Captain, My Captain' - Should Congress make room for Amarinder Singh again?This makes the party's return to its traditional Panthic space more difficult.
+
+The SAD has tried to reconnect with its core constituency through issues of Sikh identity and historical memory. The controversy surrounding 'Satluj', a film based on activist Jaswant Singh Khalra's work documenting alleged extrajudicial killings in Punjab, offered one such opportunity.
+
+After the film was taken down from an OTT platform, Sukhbir Badal announced screenings across the state, saying young people should know about the events it depicts.The bigger, bolder BJPSix years on its own have transformed the BJP from a junior partner that contested just 23 of Punjab's 117 assembly seats into a more assertive player.
+
+Under the old arrangement, the SAD contested 94 assembly seats and the BJP 23, largely in urban constituencies. For the Lok Sabha elections, the split was 10 seats for the Akalis and three for the BJP.Its vote share in the 2024 Lok Sabha election rose to 18.56 per cent, up from 9.63 per cent in 2019.
+
+The BJP contested all 13 seats in 2024, compared with just three under the old seat-sharing arrangement in 2019. Though it won no seats, the saffron party's vote share was higher than the SAD's 13.42 per cent. In the 2022 assembly election, the BJP had polled 6.60 per cent and won two seats.(function(){function e(){window.addEventListener(\`message\`,function(e){if(e.data[\`datawrapper-height\`]!==void 0){var t=document.querySelectorAll(\`iframe\`);for(var n in e.data[\`datawrapper-height\`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[\`datawrapper-height\`][n]+\`px\`;i.style.height=a}}})}e()})();The party has also strengthened its ranks through a steady stream of defections.
+
+In April 2026, AAP Rajya Sabha MP Raghav Chadha led six other MPs into the BJP which included Sandeep Pathak, Ashok Mittal, Harbhajan Singh, Vikramjit Singh Sahney, Rajinder Gupta and Swati Maliwal. Six of these seven were Rajya Sabha members from Punjab. The exits dealt a major blow to the AAP's parliamentary strength and brought into the BJP leaders who had been closely associated with the party's Punjab strategy.
+
+Chadha and Pathak, in particular, had played key roles in the AAP's political and electoral planning.The BJP has since moved to put these former AAP leaders to work against their old party. Chadha and Harbhajan Singh have been named to its Punjab manifesto committee, while Pathak, Mittal, Sahney and other former AAP MPs have been assigned roles in the party's chargesheet committee, which will prepare its case against the Bhagwant Mann government.Earlier, in March 2024, AAP's then Jalandhar MP Sushil Kumar Rinku and Jalandhar West MLA Sheetal Angural had also joined the BJP.
+
+In November 2026, three more AAP legislators, Harmeet Singh Pathanmajra, Chetan Singh Jouramajra and Kunwar Vijay Pratap Singh, crossed over. The BJP has also inducted senior Akali leaders, including Surinder Singh Chauhan and Jaswinderpal Sohal, as well as AAP functionaries from Moga led by spokesperson Navdeep Singh Sangha.The BJP's recruitment drive has not been limited to the AAP and SAD.
+
+Its Punjab ranks also include former Congress leaders such as Sunil Jakhar, Manpreet Singh Badal, Ravneet Singh Bittu and Preneet Kaur.That changes the terms of the reunion. The BJP returns with a larger vote share, a wider organisational footprint and experienced leaders. The SAD, meanwhile, needs the alliance to recover lost ground and reconnect with rural voters.
+
+Amit Shah has announced that the BJP is okay with the junior-partner label in the alliance. It is, however, unlikely that the BJP will settle for the old seat-sharing formula.Can the alliance unsettle AAP?The immediate target of the alliance is the AAP government, which swept to power in 2022 with 92 seats and 42.01 per cent of the vote.
+
+Its vote share fell to 26.02 per cent in the 2024 Lok Sabha election, when it won three seats, but it remains a formidable player.The SAD-BJP reunion gives the opposition a potentially stronger combination of urban and rural networks. It could also help consolidate voters who want an alternative to the AAP government.
+
+The drug problem, in particular, is likely to be a central campaign issue.At his press conference, Amit Shah listed three priorities for a future NDA government: eliminating drugs, eliminating corruption and strengthening nationalist forces. He promised that Punjab would be "completely drug-free" by December 31, 2029.
+
+He also targeted Congress, recalling Rahul Gandhi's 2017 promise that drugs would be eliminated within one term and accusing the party of doing nothing when it was in power.The attack gives the alliance a ready-made campaign plank. But it also puts the BJP and SAD on the spot, as both parties have been part of Punjab's political establishment for decades.
+
+The voters, thus, will judge their record as well as their promises.There is another complication. The Congress remains a strong third front and could split the anti-incumbency vote. Rural Sikh voters who continue to view the BJP through the lens of the farm agitation may also be reluctant to back the reunited partners.
+
+The AAP could benefit if opposition votes remain divided.The BJP-SAD reunion also complicates the Congress's position. With an established opposition pole, the contest for voters dissatisfied with the AAP government will now intensify. Amit Shah's attack on the Congress over its record on drugs made it clear that the alliance intends to take on both the ruling party and its principal rival.The Congress can still draw on its independent support base, but it will have to navigate a more crowded opposition space, as well as its own internal factional differences.Six years after a split that left both allies on the margins, the BJP and the Shiromani Akali Dal have chosen pragmatism over past grievances to challenge AAP and Congress.
+
+The 2027 election, however, will not be a simple replay of the coalition's past victories. And tough seat-sharing talks are yet to be held.The OGs may be back together, but winning over a changed Punjab will require more than old chemistry.Get the latest India News and Live updates.
+
+Download the TOI app.
 
 ---
 
@@ -14277,7 +14405,7 @@ Calling for every youth in India to be free from addiction so they can study wel
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `7 min read`,
+    read_time: `2 min read`,
     views_count: 316920,
     shares_count: 43745,
     published_at: `2026-11-24T07:17:31+05:30`,
@@ -14289,61 +14417,39 @@ Calling for every youth in India to be free from addiction so they can study wel
     image_courtesy: `Photo Courtesy: The Times of India Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, The Times of India`,
-    summary: `Comprehensive investigative report and ground reality analysis on 6 samples collected, 5 met applicable standards: Bisleri.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `NEW DELHI: Chemical contaminants detected in a batch of packaged drinking water manufactured by Bisleri at its Goa facility has raised concerns over potential health risks, including kidney damage and cancer.Food Safety and Standards Author`,
+    content: `NEW DELHI: Chemical contaminants detected in a batch of packaged drinking water manufactured by Bisleri at its Goa facility has raised concerns over potential health risks, including kidney damage and cancer.Food Safety and Standards Authority of India (FSSAI) reportedly declared the sample unsafe after tests flagged bromate and polycyclic aromatic hydrocarbons (PAHs).
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **6 samples collected, 5 met applicable standards: Bisleri**. According to authoritative communiqués released by The Times of India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+Bisleri, however, has disputed the findings, maintaining that its water is safe for consumption.Dr Tanmay Pandya, HoD and director, Nephrology and Renal Transplantation, Sarvodaya Hospital, Faridabad, said prolonged exposure to certain chemical contaminants could affect kidney function, depending on their concentration and duration of exposure.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+"Bromate is a chemical of concern because of its potential carcinogenic properties," he said, adding that certain heavy metals and industrial chemicals could also interfere with kidney function.In a statement issued Monday, Bisleri said FSSAI collected six samples from its Goa manufacturing facility on Sept 30, 2025.While five met the applicable standards, the sixth recorded bromate at 12 micrograms per litre against the prescribed limit of 10 micrograms per litre, the company said in a statement.Following an appeal, the sample was sent to a referral laboratory in Nov 2025.
 
-### Institutional Oversight & Ground Reality
+Bisleri said the laboratory found bromate within the prescribed limit but separately flagged PAHs. The company subsequently got the sample tested at an FSSAI-approved independent laboratory, which also found bromate within the prescribed limit.Bisleri said it submitted the independent laboratory results to FSSAI's Western Regional Office on Feb 2, 2026, but received no further communication.
 
-Ground reality assessments indicate that Comprehensive investigative report and ground reality analysis on 6 samples collected, 5 met applicable standards: Bisleri. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+It also claimed it had not received the reported notice by email or in hard copy.The company said it follows a 10-stage purification process, conducts over 90 quality tests and will cooperate with FSSAI.Explaining the contamination concerns, Dr Saurabh Arora, MD of Auriga Research, said packaged drinking water and natural mineral water are regulated under separate standards.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Bromate can form during water treatment, while PAHs may enter through packaging or contamination during bottling.Get the latest India News and Live updates. Download the TOI app.
 
-### Governance Parameter Assessment
+---
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
-
-### Why This Matters: Policy Impact & Outlook
-
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
-
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/india/6-samples-collected-5-met-applicable-standards-bisleri/articleshow/136117211.cms)`,
     title_en: `🚨 The Midnight Move: How 6 samples collected, 5 met applicable standards: Bisleri Caught Everyone Completely Off Guard`,
-    summary_en: `Comprehensive investigative report and ground reality analysis on 6 samples collected, 5 met applicable standards: Bisleri.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content_en: `### Strategic Overview & Legislative Framework
+    summary_en: `NEW DELHI: Chemical contaminants detected in a batch of packaged drinking water manufactured by Bisleri at its Goa facility has raised concerns over potential health risks, including kidney damage and cancer.Food Safety and Standards Author`,
+    content_en: `NEW DELHI: Chemical contaminants detected in a batch of packaged drinking water manufactured by Bisleri at its Goa facility has raised concerns over potential health risks, including kidney damage and cancer.Food Safety and Standards Authority of India (FSSAI) reportedly declared the sample unsafe after tests flagged bromate and polycyclic aromatic hydrocarbons (PAHs).
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **6 samples collected, 5 met applicable standards: Bisleri**. According to authoritative communiqués released by The Times of India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+Bisleri, however, has disputed the findings, maintaining that its water is safe for consumption.Dr Tanmay Pandya, HoD and director, Nephrology and Renal Transplantation, Sarvodaya Hospital, Faridabad, said prolonged exposure to certain chemical contaminants could affect kidney function, depending on their concentration and duration of exposure.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+"Bromate is a chemical of concern because of its potential carcinogenic properties," he said, adding that certain heavy metals and industrial chemicals could also interfere with kidney function.In a statement issued Monday, Bisleri said FSSAI collected six samples from its Goa manufacturing facility on Sept 30, 2025.While five met the applicable standards, the sixth recorded bromate at 12 micrograms per litre against the prescribed limit of 10 micrograms per litre, the company said in a statement.Following an appeal, the sample was sent to a referral laboratory in Nov 2025.
 
-### Institutional Oversight & Ground Reality
+Bisleri said the laboratory found bromate within the prescribed limit but separately flagged PAHs. The company subsequently got the sample tested at an FSSAI-approved independent laboratory, which also found bromate within the prescribed limit.Bisleri said it submitted the independent laboratory results to FSSAI's Western Regional Office on Feb 2, 2026, but received no further communication.
 
-Ground reality assessments indicate that Comprehensive investigative report and ground reality analysis on 6 samples collected, 5 met applicable standards: Bisleri. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+It also claimed it had not received the reported notice by email or in hard copy.The company said it follows a 10-stage purification process, conducts over 90 quality tests and will cooperate with FSSAI.Explaining the contamination concerns, Dr Saurabh Arora, MD of Auriga Research, said packaged drinking water and natural mineral water are regulated under separate standards.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Bromate can form during water treatment, while PAHs may enter through packaging or contamination during bottling.Get the latest India News and Live updates. Download the TOI app.
 
-### Governance Parameter Assessment
+---
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
-
-### Why This Matters: Policy Impact & Outlook
-
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
-
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/india/6-samples-collected-5-met-applicable-standards-bisleri/articleshow/136117211.cms)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
@@ -16053,7 +16159,7 @@ On Samvidhan Divas, PM Modi reflects on the Constitution's role in shaping India
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `7 min read`,
+    read_time: `3 min read`,
     views_count: 310520,
     shares_count: 42845,
     published_at: `2026-11-23T20:20:30+05:30`,
@@ -16065,61 +16171,55 @@ On Samvidhan Divas, PM Modi reflects on the Constitution's role in shaping India
     image_courtesy: `Photo Courtesy: The Times of India Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, The Times of India`,
-    summary: `Comprehensive investigative report and ground reality analysis on UP polls: SP, Cong reach broad consensus on seat-sharing, final numbers in 2-3 days.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `LUCKNOW: Ending weeks of speculation and claims over seat-sharing, the Congress and Samajwadi Party on Monday reached a broad consensus on their alliance for the 2027 UP Assembly elections after the first round of negotiations in Delhi.Both`,
+    content: `LUCKNOW: Ending weeks of speculation and claims over seat-sharing, the Congress and Samajwadi Party on Monday reached a broad consensus on their alliance for the 2027 UP Assembly elections after the first round of negotiations in Delhi.Both parties described the talks that lasted for approximately 15 minutes as positive and said the alliance was likely to be finalised within the next two to three days, though neither disclosed the number of seats under discussion.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **UP polls: SP, Cong reach broad consensus on seat-sharing, final numbers in 2-3 days**. According to authoritative communiqués released by The Times of India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+The two sides will meet again on Tuesday.Ram Gopal Yadav, who led the SP delegation, said the meeting was held in a cordial atmosphere and both sides put forward their views. “We will soon finalise this alliance and inform you. We expect to complete the process within the next two to three days,” he told reporters.UP Congress chief Aradhana Mishra, who led her party’s delegation, termed the discussions “positive” and “satisfactory”.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+“All the issues from our end were discussed in the meeting. There is trust between both sides and we want to take this alliance forward strongly,” she said.Asked about the number of seats, Mishra said: “I cannot talk about numbers at the moment, but there is consensus.”Both parties had deputed four members each for the negotiations.
 
-### Institutional Oversight & Ground Reality
+The Congress delegation comprised Mishra, UP in-charge Rajendra Pal Gautam, working president Imran Masood and MLA Virendra Chaudhary. The SP delegation included its UP unit chief Shyam Lal Pal and MPs Rajeev Rai and Iqra Hasan.“A strong alliance will be formed,” Pal said, while Masood added: “Our objective is to change the government in UP.
 
-Ground reality assessments indicate that Comprehensive investigative report and ground reality analysis on UP polls: SP, Cong reach broad consensus on seat-sharing, final numbers in 2-3 days. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+The decision on seats will be taken keeping the interests of the alliance in mind.”The formal negotiations were held after weeks of public claims and behind-the-scenes differences over seat-sharing between the two parties. While UP Congress leadership had been demanding 200 seats, SP chief Akhilesh Yadav made the figure public by stating that Congress was asking 181 seats.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+His revelation led to some unease in the Congress camp which felt that internal negotiations should not have been disclosed publicly.Congress sources said the party has now identified around 140-150 constituencies for negotiations and hopes to persuade SP to give it a “respectable” share of more than 100 seats.
 
-### Governance Parameter Assessment
+The party has divided the constituencies into three categories, placing around 60 high-priority seats in Category A and ranking the others in Categories B and C.Congress believes a sizeable share would help strengthen the alliance against BJP by widening its social appeal, particularly among non-Yadav OBCs, Dalits, Brahmins and extremely backward castes, party sources said.SP, however, is laying greater emphasis on winnability rather than a fixed numerical formula.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+Party president Akhilesh Yadav has repeatedly maintained that constituencies should go to whichever alliance partner has the stronger chance of winning.Akhilesh had earlier said: “Baat humare liye seat ki nahi hogi, jeetne wali seat ki hogi. Jo jeete, woh seat le le (For us, it is not about the number of seats but about winnable constituencies.
 
-### Why This Matters: Policy Impact & Outlook
+Whoever can win a seat should get it).”Reiterating the stand ahead of Monday’s negotiations, Akhilesh said: “Winnability is the only formula which can defeat the BJP in 2027.”Tuesday’s talks are therefore expected to move beyond headline numbers to the more complex issue of seat-by-seat winnability, with the two sides assessing their organisational strength and constituency-wise caste equations.“The two sides will also brainstorm over their respective organisational strengths and constituency-wise caste equations,” a Congress leader said.An SP veteran underlined that the assessment would have to be based on hard electoral realities rather than claims by either side.
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+“Winnability is not about believing that one can win a seat. The assessment has to be realistic, concrete and based on facts,” he said.Get the latest India News and Live updates. Download the TOI app.
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/india/up-polls-sp-cong-reach-broad-consensus-on-seat-sharing-final-numbers-in-2-3-days/articleshow/136106674.cms)`,
     title_en: `🚨 Behind Closed Doors: What Really Happened When UP polls: SP, Cong reach broad consensus on seat-sharing, final numbers in 2-3 days`,
-    summary_en: `Comprehensive investigative report and ground reality analysis on UP polls: SP, Cong reach broad consensus on seat-sharing, final numbers in 2-3 days.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content_en: `### Strategic Overview & Legislative Framework
+    summary_en: `LUCKNOW: Ending weeks of speculation and claims over seat-sharing, the Congress and Samajwadi Party on Monday reached a broad consensus on their alliance for the 2027 UP Assembly elections after the first round of negotiations in Delhi.Both`,
+    content_en: `LUCKNOW: Ending weeks of speculation and claims over seat-sharing, the Congress and Samajwadi Party on Monday reached a broad consensus on their alliance for the 2027 UP Assembly elections after the first round of negotiations in Delhi.Both parties described the talks that lasted for approximately 15 minutes as positive and said the alliance was likely to be finalised within the next two to three days, though neither disclosed the number of seats under discussion.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **UP polls: SP, Cong reach broad consensus on seat-sharing, final numbers in 2-3 days**. According to authoritative communiqués released by The Times of India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+The two sides will meet again on Tuesday.Ram Gopal Yadav, who led the SP delegation, said the meeting was held in a cordial atmosphere and both sides put forward their views. “We will soon finalise this alliance and inform you. We expect to complete the process within the next two to three days,” he told reporters.UP Congress chief Aradhana Mishra, who led her party’s delegation, termed the discussions “positive” and “satisfactory”.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+“All the issues from our end were discussed in the meeting. There is trust between both sides and we want to take this alliance forward strongly,” she said.Asked about the number of seats, Mishra said: “I cannot talk about numbers at the moment, but there is consensus.”Both parties had deputed four members each for the negotiations.
 
-### Institutional Oversight & Ground Reality
+The Congress delegation comprised Mishra, UP in-charge Rajendra Pal Gautam, working president Imran Masood and MLA Virendra Chaudhary. The SP delegation included its UP unit chief Shyam Lal Pal and MPs Rajeev Rai and Iqra Hasan.“A strong alliance will be formed,” Pal said, while Masood added: “Our objective is to change the government in UP.
 
-Ground reality assessments indicate that Comprehensive investigative report and ground reality analysis on UP polls: SP, Cong reach broad consensus on seat-sharing, final numbers in 2-3 days. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+The decision on seats will be taken keeping the interests of the alliance in mind.”The formal negotiations were held after weeks of public claims and behind-the-scenes differences over seat-sharing between the two parties. While UP Congress leadership had been demanding 200 seats, SP chief Akhilesh Yadav made the figure public by stating that Congress was asking 181 seats.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+His revelation led to some unease in the Congress camp which felt that internal negotiations should not have been disclosed publicly.Congress sources said the party has now identified around 140-150 constituencies for negotiations and hopes to persuade SP to give it a “respectable” share of more than 100 seats.
 
-### Governance Parameter Assessment
+The party has divided the constituencies into three categories, placing around 60 high-priority seats in Category A and ranking the others in Categories B and C.Congress believes a sizeable share would help strengthen the alliance against BJP by widening its social appeal, particularly among non-Yadav OBCs, Dalits, Brahmins and extremely backward castes, party sources said.SP, however, is laying greater emphasis on winnability rather than a fixed numerical formula.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+Party president Akhilesh Yadav has repeatedly maintained that constituencies should go to whichever alliance partner has the stronger chance of winning.Akhilesh had earlier said: “Baat humare liye seat ki nahi hogi, jeetne wali seat ki hogi. Jo jeete, woh seat le le (For us, it is not about the number of seats but about winnable constituencies.
 
-### Why This Matters: Policy Impact & Outlook
+Whoever can win a seat should get it).”Reiterating the stand ahead of Monday’s negotiations, Akhilesh said: “Winnability is the only formula which can defeat the BJP in 2027.”Tuesday’s talks are therefore expected to move beyond headline numbers to the more complex issue of seat-by-seat winnability, with the two sides assessing their organisational strength and constituency-wise caste equations.“The two sides will also brainstorm over their respective organisational strengths and constituency-wise caste equations,” a Congress leader said.An SP veteran underlined that the assessment would have to be based on hard electoral realities rather than claims by either side.
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+“Winnability is not about believing that one can win a seat. The assessment has to be realistic, concrete and based on facts,” he said.Get the latest India News and Live updates. Download the TOI app.
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/india/up-polls-sp-cong-reach-broad-consensus-on-seat-sharing-final-numbers-in-2-3-days/articleshow/136106674.cms)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
