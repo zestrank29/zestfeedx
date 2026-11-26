@@ -8,7 +8,2991 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+  
+  
   {
+    id: 97935,
+    title: `Rocchiccioli 140, Wasley 88 turn tables on Tasmania`,
+    slug: `rocchiccioli-140-wasley-88-turn-tables-on-tasmania-2026`,
+    original_title: `Rocchiccioli 140, Wasley 88 turn tables on Tasmania`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:25Z`,
+    updated_at: `2026-11-26T06:12:25Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1563883.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Rocchiccioli 140, Wasley 88 turn tables on Tasmania`,
+    image_courtesy: `Photo: Action Sports Photography / Unsplash (Unsplash License)`,
+    image_photographer: `Action Sports Photography / Unsplash`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `The spectacular 170-run seventh-wicket partnership between Rocchiccioli and Wasley has given Western Australia a sniff of victory`,
+    content: `The spectacular 170-run seventh-wicket partnership between Rocchiccioli and Wasley has given Western Australia a sniff of victory
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563883.html?ex_cid=OTC-RSS)`,
+    title_en: `Rocchiccioli 140, Wasley 88 turn tables on Tasmania`,
+    summary_en: `The spectacular 170-run seventh-wicket partnership between Rocchiccioli and Wasley has given Western Australia a sniff of victory`,
+    content_en: `The spectacular 170-run seventh-wicket partnership between Rocchiccioli and Wasley has given Western Australia a sniff of victory
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563883.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-97935`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-26 11:42:25 IST`,
+    detected_at: `2026-11-26T06:12:25Z`,
+    verified_at: `2026-11-26T06:12:25Z`,
+    approved_at: `2026-11-26T06:12:25Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Rocchiccioli 140, Wasley 88 turn tables on Tasmania.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 97936,
+    title: `Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth`,
+    slug: `bumrah-rises-to-joint-second-in-test-bowling-rankings-rabada-up-t-2026`,
+    original_title: `Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:25Z`,
+    updated_at: `2026-11-26T06:12:25Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1563908.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `Rishabh Pant, Shubman Gill and Yashasvi Jaiswal have consolidated their places in the top ten among Test batters`,
+    content: `Rishabh Pant, Shubman Gill and Yashasvi Jaiswal have consolidated their places in the top ten among Test batters
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563908.html?ex_cid=OTC-RSS)`,
+    title_en: `Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth`,
+    summary_en: `Rishabh Pant, Shubman Gill and Yashasvi Jaiswal have consolidated their places in the top ten among Test batters`,
+    content_en: `Rishabh Pant, Shubman Gill and Yashasvi Jaiswal have consolidated their places in the top ten among Test batters
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563908.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-97936`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-26 11:42:25 IST`,
+    detected_at: `2026-11-26T06:12:25Z`,
+    verified_at: `2026-11-26T06:12:25Z`,
+    approved_at: `2026-11-26T06:12:25Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 97907,
+    title: `ICMR Survey Reveals Decline in Anaemia Prevalence Across India - India News Network`,
+    slug: `icmr-survey-reveals-decline-in-anaemia-prevalence-across-india-india-n-2026`,
+    original_title: `ICMR Survey Reveals Decline in Anaemia Prevalence Across India - India News Network`,
+    category: `health`,
+    topic: `public-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:11:45Z`,
+    updated_at: `2026-11-26T06:11:45Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://www.indianewsnetwork.com/en/icmr-survey-reveals-decline-anaemia-prevalence-across-india-20261124`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/icmr-survey-reveals-decline-in-anaemia-prevalence-across-india-india-n-2026.webp`,
+    image_alt: `ICMR Survey Reveals Decline in Anaemia Prevalence Across India - India News Network`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `The Indian Council of Medical Research (ICMR) has published findings from its recent nationwide survey, indicating a significant decrease in the prevalence of anaemia across various demographics in India. The Survey for Assessment of Marker`,
+    content: `The Indian Council of Medical Research (ICMR) has published findings from its recent nationwide survey, indicating a significant decrease in the prevalence of anaemia across various demographics in India. The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA) for the years 2023 to 2025 revealed that severe anaemia now affects less than two per cent of the population in most age groups.
+
+This comprehensive nutrition survey is one of the largest of its kind globally, encompassing over two lakh individuals from more than 81,000 households across 183 districts in 35 States and Union Territories. Analysis involved over 1.7 lakh blood samples, utilising venous blood sampling and automated analyzers, ensuring the accuracy of haemoglobin level measurements, which is a gold-standard method.
+
+The data show that the overall prevalence of anaemia is 42 per cent among children aged 12 to 59 months and 46 per cent among adolescent girls aged 10 to 19 years. In contrast, the prevalence among adolescent boys and men aged 20 to 59 years ranges from 22 to 23 per cent, while women of reproductive age exhibit a higher prevalence of 56 per cent.
+
+The survey further highlights anaemia in older adults, a demographic previously underrepresented in national assessments. Notably, the majority of anaemia cases are classified as mild. Approximately half of all anaemic women, including pregnant and lactating women, along with adolescent girls and children, have mild anaemia.
+
+Among adolescent boys and adult men, nearly three-fourths of affected individuals fall into the mild category, which suggests significant room for early detection and intervention strategies. Iron deficiency appears to be the major underlying factor for anaemia, accounting for around half of all cases among vulnerable groups like young children and women of reproductive age.
+
+The survey also noted the presence of vitamin B12 and folate deficiencies across both anaemic and non-anaemic segments, implying their limited role in anaemia prevalence figures in India. Iron deficiency is reportedly concentrated in specific life stages, particularly affecting young children, adolescent girls, and women of reproductive age.
+
+According to Dr Rajiv Bahl, Secretary of the Department of Health Research and Director General of ICMR, these results provide a clear and helpful baseline for targeting interventions in line with national programmes aimed at reducing anaemia incidence. The survey encourages a proactive approach to managing and reducing anaemia, supporting initiatives like Anaemia Mukt Bharat 2.0, which focuses on identifying vulnerable populations and tailoring interventions accordingly.
+
+Dr Bharati Kulkarni, Director of ICMR-National Institute of Nutrition, stated that the findings underscore the importance of targeted strategies for anaemia prevention and management. The comprehensive nature of the data aims to guide further research and enhance health surveillance on this critical public health issue.
+
+The results are anticipated to bolster efforts under the Anaemia Mukt Bharat initiative, which seeks to improve dietary iron intake and overall nutritional health across the nation.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.indianewsnetwork.com/en/icmr-survey-reveals-decline-anaemia-prevalence-across-india-20261124)`,
+    title_en: `ICMR Survey Reveals Decline in Anaemia Prevalence Across India - India News Network`,
+    summary_en: `The Indian Council of Medical Research (ICMR) has published findings from its recent nationwide survey, indicating a significant decrease in the prevalence of anaemia across various demographics in India. The Survey for Assessment of Marker`,
+    content_en: `The Indian Council of Medical Research (ICMR) has published findings from its recent nationwide survey, indicating a significant decrease in the prevalence of anaemia across various demographics in India. The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA) for the years 2023 to 2025 revealed that severe anaemia now affects less than two per cent of the population in most age groups.
+
+This comprehensive nutrition survey is one of the largest of its kind globally, encompassing over two lakh individuals from more than 81,000 households across 183 districts in 35 States and Union Territories. Analysis involved over 1.7 lakh blood samples, utilising venous blood sampling and automated analyzers, ensuring the accuracy of haemoglobin level measurements, which is a gold-standard method.
+
+The data show that the overall prevalence of anaemia is 42 per cent among children aged 12 to 59 months and 46 per cent among adolescent girls aged 10 to 19 years. In contrast, the prevalence among adolescent boys and men aged 20 to 59 years ranges from 22 to 23 per cent, while women of reproductive age exhibit a higher prevalence of 56 per cent.
+
+The survey further highlights anaemia in older adults, a demographic previously underrepresented in national assessments. Notably, the majority of anaemia cases are classified as mild. Approximately half of all anaemic women, including pregnant and lactating women, along with adolescent girls and children, have mild anaemia.
+
+Among adolescent boys and adult men, nearly three-fourths of affected individuals fall into the mild category, which suggests significant room for early detection and intervention strategies. Iron deficiency appears to be the major underlying factor for anaemia, accounting for around half of all cases among vulnerable groups like young children and women of reproductive age.
+
+The survey also noted the presence of vitamin B12 and folate deficiencies across both anaemic and non-anaemic segments, implying their limited role in anaemia prevalence figures in India. Iron deficiency is reportedly concentrated in specific life stages, particularly affecting young children, adolescent girls, and women of reproductive age.
+
+According to Dr Rajiv Bahl, Secretary of the Department of Health Research and Director General of ICMR, these results provide a clear and helpful baseline for targeting interventions in line with national programmes aimed at reducing anaemia incidence. The survey encourages a proactive approach to managing and reducing anaemia, supporting initiatives like Anaemia Mukt Bharat 2.0, which focuses on identifying vulnerable populations and tailoring interventions accordingly.
+
+Dr Bharati Kulkarni, Director of ICMR-National Institute of Nutrition, stated that the findings underscore the importance of targeted strategies for anaemia prevention and management. The comprehensive nature of the data aims to guide further research and enhance health surveillance on this critical public health issue.
+
+The results are anticipated to bolster efforts under the Anaemia Mukt Bharat initiative, which seeks to improve dietary iron intake and overall nutritional health across the nation.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.indianewsnetwork.com/en/icmr-survey-reveals-decline-anaemia-prevalence-across-india-20261124)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for ICMR Survey Reveals Decline in Anaemia Prevalence Across India - India News Network.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 97908,
+    title: `Why common infections are becoming harder to treat in India: ICMR scientist explains - The Indian Express`,
+    slug: `why-common-infections-are-becoming-harder-to-treat-in-india-icmr-scien-2026`,
+    original_title: `Why common infections are becoming harder to treat in India: ICMR scientist explains - The Indian Express`,
+    category: `health`,
+    topic: `public-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:11:46Z`,
+    updated_at: `2026-11-26T06:11:46Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://indianexpress.com/article/explained/explained-health/icmr-antibiotic-resistance-report-2025-common-infections-india-10967863/`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `https://images.unsplash.com/photo-1530497610245-94d3c16cda28?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Why common infections are becoming harder to treat in India: ICMR scientist explains - The Indian Express`,
+    image_courtesy: `Image: Ani Kolleshi / Unsplash (Unsplash License)`,
+    image_photographer: `Ani Kolleshi / Unsplash`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `Why common infections are becoming harder to treat in India: ICMR scientist explains The Indian Express`,
+    content: `Why common infections are becoming harder to treat in India: ICMR scientist explains The Indian Express
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://indianexpress.com/article/explained/explained-health/icmr-antibiotic-resistance-report-2025-common-infections-india-10967863/)`,
+    title_en: `Why common infections are becoming harder to treat in India: ICMR scientist explains - The Indian Express`,
+    summary_en: `Why common infections are becoming harder to treat in India: ICMR scientist explains The Indian Express`,
+    content_en: `Why common infections are becoming harder to treat in India: ICMR scientist explains The Indian Express
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://indianexpress.com/article/explained/explained-health/icmr-antibiotic-resistance-report-2025-common-infections-india-10967863/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Why common infections are becoming harder to treat in India: ICMR scientist explains - The Indian Express.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 97909,
+    title: `पुरुषों में टेस्टोस्टेरोन हार्मोन की कमी से बढ़ जाता है कैंसर से मौत का खतरा, जानिए क्या कहता है अध्ययन? - ETV Bharat`,
+    slug: `etv-bharat-2026`,
+    original_title: `पुरुषों में टेस्टोस्टेरोन हार्मोन की कमी से बढ़ जाता है कैंसर से मौत का खतरा, जानिए क्या कहता है अध्ययन? - ETV Bharat`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:11:48Z`,
+    updated_at: `2026-11-26T06:11:48Z`,
+    source_name: `ETV Bharat`,
+    source_url: `https://www.etvbharat.com/hi/health/low-testosterone-levels-in-men-increase-the-risk-of-death-from-cancer-what-does-the-study-say-hin26112504877`,
+    source_courtesy: `Source: ETV Bharat`,
+    image_url: `/images/articles/etv-bharat-2026.jpg`,
+    image_alt: `पुरुषों में टेस्टोस्टेरोन हार्मोन की कमी से बढ़ जाता है कैंसर से मौत का खतरा, जानिए क्या कहता है अध्ययन? - ETV Bharat`,
+    image_courtesy: `Image: ETV Bharat (External Source Attribution)`,
+    image_photographer: `ETV Bharat`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `टेस्टोस्टेरोन में कमी को अक्सर उम्र बढ़ने की एक सामान्य प्रक्रिया मानकर नजरअंदाज कर दिया जाता है. थकान, कामेच्छा में कमी, मांसपेशियों का नुकसान और मूड में बदलाव को अक्सर काम के तनाव या बढ़ती उम्र का नतीजा मान लिया जाता है. लेकिन नई रिसर्च ब`,
+    content: `टेस्टोस्टेरोन में कमी को अक्सर उम्र बढ़ने की एक सामान्य प्रक्रिया मानकर नजरअंदाज कर दिया जाता है. थकान, कामेच्छा में कमी, मांसपेशियों का नुकसान और मूड में बदलाव को अक्सर काम के तनाव या बढ़ती उम्र का नतीजा मान लिया जाता है. लेकिन नई रिसर्च बताती है कि टेस्टोस्टेरोन का कम लेवल किसी आदमी की लंबे समय की हेल्थ और कैंसर से मरने के उसके रिस्क के बारे में भी संकेत दे सकता है.कई देशों में की गई एक बड़ी स्टडी, जो 2026 में  द लैंसेट हेल्दी लॉन्गेविटी  (The Lancet Healthy Longevity) में प्रकाशित हुई थी, उसमें पाया गया कि जिन पुरुषों में टेस्टोस्टेरोन का स्तर कम था, उनमें सबसे अधिक टेस्टोस्टेरोन स्तर वाले पुरुषों की तुलना में कैंसर से मरने का खतरा 18 फीसदी अधिक था.
+
+मतलब, जिन पुरुषों में टेस्टोस्टेरोन का स्तर सबसे कम होता है, उनमें सबसे अधिक स्तर वाले पुरुषों की तुलना में कैंसर से मरने का सापेक्ष जोखिम 18 फीसदी अधिक होता है. ये नतीजे बताते हैं कि केवल अलग-अलग लक्षणों पर ध्यान देने के बजाय, शरीर के हार्मोनल स्वास्थ्य को समझना भी जरूरी है. यह रिसर्च इंटरनेशनल एंड्रोजन्स इन मेन स्टडी (AIMS) का हिस्सा थी, जिसमें ऑस्ट्रेलिया, यूनाइटेड स्टेट्स और यूरोप में 11 लॉन्ग-टर्म स्टडीज में हिस्सा लेने वाले 26,000 से ज्यादा पुरुषों के हेल्थ डेटा को देखा गया.
+
+रिसर्चर्स ने जीवन के शुरुआती दौर में मापे गए हार्मोन लेवल की तुलना बाद के वर्षों में सामने आए कैंसर के मामलों और मौतों से की.विश्लेषण से पता चला कि जिन पुरुषों में टेस्टोस्टेरोन का स्तर सबसे निचले 20 फीसदी (lowest one-fifth) में था, उनमें सबसे ऊंचे 20 फीसदी (highest one-fifth) वाले पुरुषों की तुलना में कैंसर से मरने की संभावना 18 फीसदी अधिक थी.
+
+यह संबंध तब और भी स्पष्ट हो गया जब टेस्टोस्टेरोन का स्तर 8.6 nmol/L से नीचे गिर गया.सेक्सुअल हेल्थ के अलावा टेस्टोस्टेरोन क्यों महत्वपूर्ण है?मुंबई के एक वरिष्ठ मेडिकल और पीडियाट्रिक हेमेटो-ऑन्कोलॉजिस्ट डॉ. आशीष जोशी का कहना है कि टेस्टोस्टेरोन पुरुषों में मुख्य सेक्स हार्मोन है.
+
+यह मसल्स बनाने, हड्डियों की मजबूती बनाए रखने, रेड ब्लड सेल्स बनाने, सेक्सुअल फंक्शन को सपोर्ट करने और पूरी मेटाबोलिक हेल्थ को बढ़ावा देने के लिए जरूरी है. कभी-कभी, टेस्टोस्टेरोन का लेवल बहुत कम हो सकता है, जो किसी अंदरूनी हेल्थ प्रॉब्लम का संकेत हो सकता है.डॉ. आशीष जोशी का कहना है कि टेस्टोस्टेरोन की कमी को केवल यौन क्षमता या उम्र बढ़ने से जुड़ी समस्या के रूप में नहीं देखना चाहिए.
+
+इसे पुरुष के संपूर्ण स्वास्थ्य के नजरिए से देखा जाना चाहिए.मूड खराब रहना, मांसपेशियों की ताकत कम होना, शरीर में फैट बढ़ना, लगातार थकान महसूस होना, यौन इच्छा में कमी और इरेक्टाइल डिस्फंक्शन (लिंग में तनाव न आना) टेस्टोस्टेरोन की कमी के लक्षण हैं. लेकिन ये लक्षण केवल हार्मोनल समस्याओं तक ही सीमित नहीं हैं.
+
+ये डायबिटीज, थायरॉइड की समस्या, मोटापा, नींद से जुड़ी दिक्कतों और अन्य स्वास्थ्य समस्याओं के कारण भी हो सकते हैं.भारतीय पुरुषों के लिए यह जानकारी क्यों है महत्वपूर्ण?डॉ. आशीष जोशी बताते हैं कि भारत में, जीवनशैली से जुड़ी समस्याएं (जैसे मोटापा, टाइप 2 डायबिटीज, शारीरिक रूप से निष्क्रिय रहना और पर्याप्त नींद न लेना) जनस्वास्थ्य के लिए एक बड़ी चुनौती हैं.
+
+ये फैक्टर्स टेस्टोस्टेरोन के स्तर को भी प्रभावित कर सकते हैं. डायबिटीज या मेटाबॉलिक विकारों वाले पुरुषों को (खासकर वे जिनका पेट का मोटापा ज्यादा है) लगातार दिखने वाले लक्षणों को सिर्फ  उम्र बढ़ने का एक सामान्य हिस्सा  मानकर नजरअंदाज नहीं करना चाहिए.यह ध्यान रखना महत्वपूर्ण है कि यह अध्ययन यह साबित नहीं करता कि टेस्टोस्टेरोन की कमी सीधे तौर पर कैंसर का कारण बनती है.
+
+बल्कि, यह बताता है कि टेस्टोस्टेरोन का कम स्तर अन्य छिपे हुए स्वास्थ्य जोखिमों का संकेत हो सकता है. इससे ऐसे पुरुषों की पहचान करने में मदद मिल सकती है, जिन्हें अधिक विस्तृत मेडिकल जांच की आवश्यकता हो सकती है.क्या इसका मतलब यह है कि पुरुषों को टेस्टोस्टेरोन सप्लीमेंट लेना चाहिए? डॉ.
+
+आशीष जोशी का कहना है कि हमेशा ऐसा नहीं है. शोधकर्ताओं ने स्पष्ट किया है कि इन नतीजों का यह मतलब नहीं निकाला जाना चाहिए कि टेस्टोस्टेरोन रिप्लेसमेंट थेरेपी से कैंसर को रोका जा सकता है. अध्ययन में टेस्टोस्टेरोन के प्राकृतिक स्तर और प्रोस्टेट कैंसर होने के जोखिम के बीच कोई स्पष्ट संबंध नहीं मिला है.जिन पुरुषों को ऐसे लक्षण दिखाई दें, उन्हें डॉक्टर से बात करनी चाहिए और अपनी उचित जांच करानी चाहिए.
+
+टेस्टोस्टेरोन के स्तर की जांच आमतौर पर ब्लड टेस्ट के जरिए की जाती है, और डॉक्टर अक्सर सही निदान (diagnosis) के लिए सुबह के समय एक से अधिक सैंपल लेते हैं. यदि इलाज की आवश्यकता होती है, तो यह समस्या के मूल कारण और व्यक्ति के स्वास्थ्य की पूरी जांच पर आधारित होना चाहिए. डॉ. आशीष जोशी के अनुसार, मुख्य बात यह है कि हार्मोनल स्वास्थ्य को  प्रिवेंटिव केयर  (बीमारी से बचाव के लिए की जाने वाली देखभाल) का हिस्सा होना चाहिए.
+
+खुद से सप्लीमेंट खरीदने या दवा लेने के बजाय, पुरुषों को नियमित हेल्थ चेक-अप कराने, शारीरिक रूप से सक्रिय रहने, स्वस्थ वजन बनाए रखने, पर्याप्त नींद लेने और जरूरत पड़ने पर डॉक्टर की सलाह लेने पर ध्यान देना चाहिए.रिसर्च सोर्स-https://www.sciencedaily.com/releases/2026/11/261104012301.htm(डिस्क्लेमर: यहां दी गई स्वास्थ्य संबंधी जानकारी और सुझाव केवल शैक्षिक उद्देश्यों के लिए हैं.
+
+हम यह जानकारी वैज्ञानिक शोध, अध्ययनों और चिकित्सा एवं स्वास्थ्य विशेषज्ञों की अनुशंसाओं के आधार पर प्रदान कर रहे हैं. इन सुझावों का पालन करने से पहले अपने डॉक्टर से परामर्श करना सर्वोत्तम होगा.)ये भी पढ़ें-दिल की बीमारी के 5 ऐसे संकेत जिन्हें आपको कभी नजरअंदाज नहीं करना चाहिएक्या उम्र बढ़ने के साथ बार-बार पेशाब आना सामान्य है, या प्रोस्टेट कैंसर का चेतावनी संकेत?
+
+जानिए क्या कहते हैं विशेषज्ञइंसानों के साथ जानवरों और पर्यावरण से भी जुड़ा है AMR का खतरा, कैसे हमारी छोटी आदतें बढ़ा सकती हैं समस्या? मितवा  गाने वाले मशहूर सिंगर शफकत अमानत अली ब्लड कैंसर से लड़ रहे जिंदगी और मौत की जंग, जानिए क्या होता है मल्टीपल मायलोमा और इसके लक्षणलगातार रहने वाली पेट की परेशानी को न करें नजरअंदाज, यह गैस्ट्रिक कैंसर का हो सकता है शुरुआती संकेतफेफड़ों की इस गंभीर बीमारी पर न केवल बुजुर्गों को, बल्कि युवाओं और गर्भवती महिलाओं को भी विशेष ध्यान देने की है आवश्यकताक्या सीढ़ियां चढ़ते समय फूलती है सांस?
+
+इसे बढ़ती उम्र या कमजोरी समझकर नजरअंदाज न करें, COPD हो सकता है कारण
+
+---
+
+**मूल स्रोत (Original Source):** [ETV Bharat](https://www.etvbharat.com/hi/health/low-testosterone-levels-in-men-increase-the-risk-of-death-from-cancer-what-does-the-study-say-hin26112504877)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `पुरुषों में टेस्टोस्टेरोन हार्मोन की कमी से बढ़ जाता है कैंसर से मौत का खतरा, जानिए क्या कहता है अध्ययन? - ETV Bharat`,
+    summary_hi: `टेस्टोस्टेरोन में कमी को अक्सर उम्र बढ़ने की एक सामान्य प्रक्रिया मानकर नजरअंदाज कर दिया जाता है. थकान, कामेच्छा में कमी, मांसपेशियों का नुकसान और मूड में बदलाव को अक्सर काम के तनाव या बढ़ती उम्र का नतीजा मान लिया जाता है. लेकिन नई रिसर्च ब`,
+    content_hi: `टेस्टोस्टेरोन में कमी को अक्सर उम्र बढ़ने की एक सामान्य प्रक्रिया मानकर नजरअंदाज कर दिया जाता है. थकान, कामेच्छा में कमी, मांसपेशियों का नुकसान और मूड में बदलाव को अक्सर काम के तनाव या बढ़ती उम्र का नतीजा मान लिया जाता है. लेकिन नई रिसर्च बताती है कि टेस्टोस्टेरोन का कम लेवल किसी आदमी की लंबे समय की हेल्थ और कैंसर से मरने के उसके रिस्क के बारे में भी संकेत दे सकता है.कई देशों में की गई एक बड़ी स्टडी, जो 2026 में  द लैंसेट हेल्दी लॉन्गेविटी  (The Lancet Healthy Longevity) में प्रकाशित हुई थी, उसमें पाया गया कि जिन पुरुषों में टेस्टोस्टेरोन का स्तर कम था, उनमें सबसे अधिक टेस्टोस्टेरोन स्तर वाले पुरुषों की तुलना में कैंसर से मरने का खतरा 18 फीसदी अधिक था.
+
+मतलब, जिन पुरुषों में टेस्टोस्टेरोन का स्तर सबसे कम होता है, उनमें सबसे अधिक स्तर वाले पुरुषों की तुलना में कैंसर से मरने का सापेक्ष जोखिम 18 फीसदी अधिक होता है. ये नतीजे बताते हैं कि केवल अलग-अलग लक्षणों पर ध्यान देने के बजाय, शरीर के हार्मोनल स्वास्थ्य को समझना भी जरूरी है. यह रिसर्च इंटरनेशनल एंड्रोजन्स इन मेन स्टडी (AIMS) का हिस्सा थी, जिसमें ऑस्ट्रेलिया, यूनाइटेड स्टेट्स और यूरोप में 11 लॉन्ग-टर्म स्टडीज में हिस्सा लेने वाले 26,000 से ज्यादा पुरुषों के हेल्थ डेटा को देखा गया.
+
+रिसर्चर्स ने जीवन के शुरुआती दौर में मापे गए हार्मोन लेवल की तुलना बाद के वर्षों में सामने आए कैंसर के मामलों और मौतों से की.विश्लेषण से पता चला कि जिन पुरुषों में टेस्टोस्टेरोन का स्तर सबसे निचले 20 फीसदी (lowest one-fifth) में था, उनमें सबसे ऊंचे 20 फीसदी (highest one-fifth) वाले पुरुषों की तुलना में कैंसर से मरने की संभावना 18 फीसदी अधिक थी.
+
+यह संबंध तब और भी स्पष्ट हो गया जब टेस्टोस्टेरोन का स्तर 8.6 nmol/L से नीचे गिर गया.सेक्सुअल हेल्थ के अलावा टेस्टोस्टेरोन क्यों महत्वपूर्ण है?मुंबई के एक वरिष्ठ मेडिकल और पीडियाट्रिक हेमेटो-ऑन्कोलॉजिस्ट डॉ. आशीष जोशी का कहना है कि टेस्टोस्टेरोन पुरुषों में मुख्य सेक्स हार्मोन है.
+
+यह मसल्स बनाने, हड्डियों की मजबूती बनाए रखने, रेड ब्लड सेल्स बनाने, सेक्सुअल फंक्शन को सपोर्ट करने और पूरी मेटाबोलिक हेल्थ को बढ़ावा देने के लिए जरूरी है. कभी-कभी, टेस्टोस्टेरोन का लेवल बहुत कम हो सकता है, जो किसी अंदरूनी हेल्थ प्रॉब्लम का संकेत हो सकता है.डॉ. आशीष जोशी का कहना है कि टेस्टोस्टेरोन की कमी को केवल यौन क्षमता या उम्र बढ़ने से जुड़ी समस्या के रूप में नहीं देखना चाहिए.
+
+इसे पुरुष के संपूर्ण स्वास्थ्य के नजरिए से देखा जाना चाहिए.मूड खराब रहना, मांसपेशियों की ताकत कम होना, शरीर में फैट बढ़ना, लगातार थकान महसूस होना, यौन इच्छा में कमी और इरेक्टाइल डिस्फंक्शन (लिंग में तनाव न आना) टेस्टोस्टेरोन की कमी के लक्षण हैं. लेकिन ये लक्षण केवल हार्मोनल समस्याओं तक ही सीमित नहीं हैं.
+
+ये डायबिटीज, थायरॉइड की समस्या, मोटापा, नींद से जुड़ी दिक्कतों और अन्य स्वास्थ्य समस्याओं के कारण भी हो सकते हैं.भारतीय पुरुषों के लिए यह जानकारी क्यों है महत्वपूर्ण?डॉ. आशीष जोशी बताते हैं कि भारत में, जीवनशैली से जुड़ी समस्याएं (जैसे मोटापा, टाइप 2 डायबिटीज, शारीरिक रूप से निष्क्रिय रहना और पर्याप्त नींद न लेना) जनस्वास्थ्य के लिए एक बड़ी चुनौती हैं.
+
+ये फैक्टर्स टेस्टोस्टेरोन के स्तर को भी प्रभावित कर सकते हैं. डायबिटीज या मेटाबॉलिक विकारों वाले पुरुषों को (खासकर वे जिनका पेट का मोटापा ज्यादा है) लगातार दिखने वाले लक्षणों को सिर्फ  उम्र बढ़ने का एक सामान्य हिस्सा  मानकर नजरअंदाज नहीं करना चाहिए.यह ध्यान रखना महत्वपूर्ण है कि यह अध्ययन यह साबित नहीं करता कि टेस्टोस्टेरोन की कमी सीधे तौर पर कैंसर का कारण बनती है.
+
+बल्कि, यह बताता है कि टेस्टोस्टेरोन का कम स्तर अन्य छिपे हुए स्वास्थ्य जोखिमों का संकेत हो सकता है. इससे ऐसे पुरुषों की पहचान करने में मदद मिल सकती है, जिन्हें अधिक विस्तृत मेडिकल जांच की आवश्यकता हो सकती है.क्या इसका मतलब यह है कि पुरुषों को टेस्टोस्टेरोन सप्लीमेंट लेना चाहिए? डॉ.
+
+आशीष जोशी का कहना है कि हमेशा ऐसा नहीं है. शोधकर्ताओं ने स्पष्ट किया है कि इन नतीजों का यह मतलब नहीं निकाला जाना चाहिए कि टेस्टोस्टेरोन रिप्लेसमेंट थेरेपी से कैंसर को रोका जा सकता है. अध्ययन में टेस्टोस्टेरोन के प्राकृतिक स्तर और प्रोस्टेट कैंसर होने के जोखिम के बीच कोई स्पष्ट संबंध नहीं मिला है.जिन पुरुषों को ऐसे लक्षण दिखाई दें, उन्हें डॉक्टर से बात करनी चाहिए और अपनी उचित जांच करानी चाहिए.
+
+टेस्टोस्टेरोन के स्तर की जांच आमतौर पर ब्लड टेस्ट के जरिए की जाती है, और डॉक्टर अक्सर सही निदान (diagnosis) के लिए सुबह के समय एक से अधिक सैंपल लेते हैं. यदि इलाज की आवश्यकता होती है, तो यह समस्या के मूल कारण और व्यक्ति के स्वास्थ्य की पूरी जांच पर आधारित होना चाहिए. डॉ. आशीष जोशी के अनुसार, मुख्य बात यह है कि हार्मोनल स्वास्थ्य को  प्रिवेंटिव केयर  (बीमारी से बचाव के लिए की जाने वाली देखभाल) का हिस्सा होना चाहिए.
+
+खुद से सप्लीमेंट खरीदने या दवा लेने के बजाय, पुरुषों को नियमित हेल्थ चेक-अप कराने, शारीरिक रूप से सक्रिय रहने, स्वस्थ वजन बनाए रखने, पर्याप्त नींद लेने और जरूरत पड़ने पर डॉक्टर की सलाह लेने पर ध्यान देना चाहिए.रिसर्च सोर्स-https://www.sciencedaily.com/releases/2026/11/261104012301.htm(डिस्क्लेमर: यहां दी गई स्वास्थ्य संबंधी जानकारी और सुझाव केवल शैक्षिक उद्देश्यों के लिए हैं.
+
+हम यह जानकारी वैज्ञानिक शोध, अध्ययनों और चिकित्सा एवं स्वास्थ्य विशेषज्ञों की अनुशंसाओं के आधार पर प्रदान कर रहे हैं. इन सुझावों का पालन करने से पहले अपने डॉक्टर से परामर्श करना सर्वोत्तम होगा.)ये भी पढ़ें-दिल की बीमारी के 5 ऐसे संकेत जिन्हें आपको कभी नजरअंदाज नहीं करना चाहिएक्या उम्र बढ़ने के साथ बार-बार पेशाब आना सामान्य है, या प्रोस्टेट कैंसर का चेतावनी संकेत?
+
+जानिए क्या कहते हैं विशेषज्ञइंसानों के साथ जानवरों और पर्यावरण से भी जुड़ा है AMR का खतरा, कैसे हमारी छोटी आदतें बढ़ा सकती हैं समस्या? मितवा  गाने वाले मशहूर सिंगर शफकत अमानत अली ब्लड कैंसर से लड़ रहे जिंदगी और मौत की जंग, जानिए क्या होता है मल्टीपल मायलोमा और इसके लक्षणलगातार रहने वाली पेट की परेशानी को न करें नजरअंदाज, यह गैस्ट्रिक कैंसर का हो सकता है शुरुआती संकेतफेफड़ों की इस गंभीर बीमारी पर न केवल बुजुर्गों को, बल्कि युवाओं और गर्भवती महिलाओं को भी विशेष ध्यान देने की है आवश्यकताक्या सीढ़ियां चढ़ते समय फूलती है सांस?
+
+इसे बढ़ती उम्र या कमजोरी समझकर नजरअंदाज न करें, COPD हो सकता है कारण
+
+---
+
+**मूल स्रोत (Original Source):** [ETV Bharat](https://www.etvbharat.com/hi/health/low-testosterone-levels-in-men-increase-the-risk-of-death-from-cancer-what-does-the-study-say-hin26112504877)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट ETV Bharat के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक पुरुषों में टेस्टोस्टेरोन हार्मोन की कमी से बढ़ जाता है कैंसर से मौत का खतरा, जानिए क्या कहता है अध्ययन? - ETV Bharat से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `ETV Bharat`,
+  },
+  {
+    id: 97910,
+    title: `मैजिक शो से एड्स के प्रति जागरूकता फैलाई: प्रयागराज में टीसीआई चौराहे के पास अभियान, लोगों के लिए जांच की स... - Dainik Bhaskar`,
+    slug: `health-breaking-report-34193-97910-2026`,
+    original_title: `मैजिक शो से एड्स के प्रति जागरूकता फैलाई: प्रयागराज में टीसीआई चौराहे के पास अभियान, लोगों के लिए जांच की स... - Dainik Bhaskar`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:11:49Z`,
+    updated_at: `2026-11-26T06:11:49Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/local/uttar-pradesh/prayagraj/mohabbat-ganj-madauka/news/prayagraj-aids-awareness-campaign-tci-chauraha-magic-show-update-139794488.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/health-breaking-report-34193-97910-2026.jpg`,
+    image_alt: `मैजिक शो से एड्स के प्रति जागरूकता फैलाई: प्रयागराज में टीसीआई चौराहे के पास अभियान, लोगों के लिए जांच की स... - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `प्रयागराज के मोहब्बतगंज वार्ड में टीसीआई चौराहे के पास मोरका रोड पर बुधवार को एड्स जागरूकता अभियान चलाया गया। इसमें मैजिक शो के जरिए लोगों को जानकारी दी गई।`,
+    content: `प्रयागराज के मोहब्बतगंज वार्ड में टीसीआई चौराहे के पास मोरका रोड पर बुधवार को एड्स जागरूकता अभियान चलाया गया। इसमें मैजिक शो के जरिए लोगों को जानकारी दी गई।
+
+यह अभियान उत्तर प्रदेश राज्य एड्स नियंत्रण समिति और लखनऊ वेलफेयर फॉर पीपल लिविंग के तहत आयोजित किया गया। वॉलंटियर्स ने लोगों को एड्स से बचाव के बारे में बताया।
+
+उन्होंने असुरक्षित यौन संबंधों और नशे की सीरिंज से बचने की सलाह दी। मौके पर जांच की सुविधा भी थी। कई लोगों ने अपनी जांच कराई।
+
+### अधूरा नहीं! पढ़िए पूरा! पढ़ें पूरी खबर दैनिक भास्कर ऐप पर
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/local/uttar-pradesh/prayagraj/mohabbat-ganj-madauka/news/prayagraj-aids-awareness-campaign-tci-chauraha-magic-show-update-139794488.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `मैजिक शो से एड्स के प्रति जागरूकता फैलाई: प्रयागराज में टीसीआई चौराहे के पास अभियान, लोगों के लिए जांच की स... - Dainik Bhaskar`,
+    summary_hi: `प्रयागराज के मोहब्बतगंज वार्ड में टीसीआई चौराहे के पास मोरका रोड पर बुधवार को एड्स जागरूकता अभियान चलाया गया। इसमें मैजिक शो के जरिए लोगों को जानकारी दी गई।`,
+    content_hi: `प्रयागराज के मोहब्बतगंज वार्ड में टीसीआई चौराहे के पास मोरका रोड पर बुधवार को एड्स जागरूकता अभियान चलाया गया। इसमें मैजिक शो के जरिए लोगों को जानकारी दी गई।
+
+यह अभियान उत्तर प्रदेश राज्य एड्स नियंत्रण समिति और लखनऊ वेलफेयर फॉर पीपल लिविंग के तहत आयोजित किया गया। वॉलंटियर्स ने लोगों को एड्स से बचाव के बारे में बताया।
+
+उन्होंने असुरक्षित यौन संबंधों और नशे की सीरिंज से बचने की सलाह दी। मौके पर जांच की सुविधा भी थी। कई लोगों ने अपनी जांच कराई।
+
+### अधूरा नहीं! पढ़िए पूरा! पढ़ें पूरी खबर दैनिक भास्कर ऐप पर
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/local/uttar-pradesh/prayagraj/mohabbat-ganj-madauka/news/prayagraj-aids-awareness-campaign-tci-chauraha-magic-show-update-139794488.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक मैजिक शो से एड्स के प्रति जागरूकता फैलाई: प्रयागराज में टीसीआई चौराहे के पास अभियान, लोगों के लिए जांच की स... - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+  {
+    id: 97911,
+    title: `Why is November 26 celebrated as Constitution Day in India`,
+    slug: `why-is-november-26-celebrated-as-constitution-day-in-india-2026`,
+    original_title: `Why is November 26 celebrated as Constitution Day in India`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:11:51Z`,
+    updated_at: `2026-11-26T06:11:51Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/news/national/why-is-november-26-celebrated-as-constitution-day-in-india/article71733839.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Why is November 26 celebrated as Constitution Day in India`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `Constitution Day, also known as Samvidhan Diwas, is observed every year on November 26 to commemorate the adoption of the Constitution of India in 1949 by the Constituent Assembly. The Constitution came into force on January 26, 1950, two m`,
+    content: `Constitution Day, also known as Samvidhan Diwas, is observed every year on November 26 to commemorate the adoption of the Constitution of India in 1949 by the Constituent Assembly. The Constitution came into force on January 26, 1950, two months later, making India a republic. However, November 26 is celebrated as the Constitution Day to commemorate the moment the Constitution of India was formally adopted for “We, the People of India”.
+
+Also read| Constitution Day: Changing nature of observance through The Hindu’s eyes https://www.thehindu.com/news/national/constitution-day-changing-nature-of-observance-through-the-hindus-eyes-1979-2024/article68914914.ece But the event ‘Constitution Day’ was started only a little over a decade ago when Prime Minister Narendra Modi announced it in October 2015 while laying the foundation stone for the Dr.
+
+B.R. Ambedkar Memorial in Mumbai. Prior to this, it was called ‘National Law Day’,  first initiated by former Supreme Court Bar Association (SCBA) president Laxmi Mall Singhvi in 1979. Reimagining the Constitution Reimagining the Constitution Explore the colonial legacy of India’s Constitution and its impact on citizenship, equality, and personal liberties through diverse philosophical insights Reimagining the Constitution storyline 1 Drafting of the Constitution Members of the Constituent Assembly debated the governing charter of Independent India for over three years with an initial draft prepared in February 1948 by Constitutional Advisor B.N.
+
+Rau (following an earlier draft preamble presented in October 1947). Also read| The Constitution Debate: Power, Rights and Democracy in India https://www.thehindu.com/news/national/the-constitution-debate-power-rights-and-democracy-in-india/article70325322.ece Dr. Ambedkar’s drafting committee revised the draft in 1948 and the Assembly spent a year discussing it.
+
+They considered more than 2000 amendments and accepted several before adopting the final draft. Handwritten in both English and Hindi, with artwork by Nandalal Bose of Santiniketan, the Constitution was signed by Constituent Assembly members on January 24, 1950, when Dr. Rajendra Prasad was elected unopposed as India’s first President.
+
+Shaping the Preamble “WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship: EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity of the Nation, IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day on November 1949., do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.” Dr.
+
+Ambedkar drafted a normative Preamble in 1948, drawing on the December 1946 Objectives Resolution and the July 1946 Declaration of the Expert’s Committee. It added Dr. Ambedkar’s own emphasis on fraternity and human dignity to establish India as a sovereign democratic republic securing Justice (social, economic, political), Liberty, Equality and Fraternity.
+
+Indian Constitution and the Revolution Without a Revolution Indian Constitution and the Revolution Without a Revolution Explore the paradox of India’s post-colonial transition: a constitution designed for revolution without embracing the chaos of one Indian Constitution and the Revolution Without a Revolution storyline 1 The original Preamble, adopted on November 26, 1949, did not contain the words ‘socialist’ and ‘secular’.
+
+These were inserted in 1976 through the 42nd Constitution Amendment. In November 2024, the Supreme Court upheld the inclusion after a batch of petitions challenged the validity of the inclusion of the words ‘socialist, secular’ in the Preamble. The SC stated that ‘secular’ denotes a Republic that upholds equal respect for all religions and ‘socialist’ represents a Republic dedicated to eliminating all forms of exploitation (whether social, political, or economic).
+
+Supreme Court upholds ‘secular, socialist’ in Preamble of the Constitution storyline 1 The Hindu article, dated November 26, 2025, notes that Dr. Ambedkar “envisioned and crafted the Constitution as a site of struggle where seminal issues could be settled through constitutional means”.
+
+He shaped the Preamble as an instrument of social revolution grounded in the 19th and early 20th century anti-caste movement, it further argues. https://www.thehindu.com/news/national/dr-br-ambedkars-transformation-of-the-constitution-into-a-unique-site-of-struggle/article70325313.ece A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity Exploring the intricate relationship between religious identity and legal frameworks, this analysis reveals how colonial legacies continue to shape contemporary interpretations of citizenship, minority rights, and social justice within India’s constitutional landscape A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity storyline 1 Core values, Rights and Duties As the supreme law of India, the Constitution guarantees citizens of India fundamental rights such as freedom of speech and expression, freedom of conscience and religion, protection against arbitrary arrest and detention, freedom of movement and cultural and educational guarantees, while also outlining fundamental duties in Part IVA.
+
+It emphasizes the principles of Justice (social, economic and political), Liberty, Equality and Fraternity alongside abolition of untouchability and Article 15’s bar on state discrimination on grounds including religion, race, caste, sex, and place of birth. Balancing faith, dignity and constitutional rights Balancing faith, dignity and constitutional rights The Sabarimala review’s final arguments will also centre on the broader architecture of India’s religious freedom jurisprudence Balancing faith, dignity and constitutional rights opinion 1 The Hindu article from November 26, 2022, contends that these provisions underpin our daily activities, travel, career choices, reading or watching the news, and even questioning why the police stop us, and underscores the importance of  treating the Constitution Day as more than a form of symbolism.
+
+It particularly emphasizes teaching constitutional values and fraternity at home and in schools, and resolving socio-economic conflicts through constitutional methods, among others. https://www.thehindu.com/opinion/op-ed/the-constitution-of-india-deserves-better/article66184599.ece
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/why-is-november-26-celebrated-as-constitution-day-in-india/article71733839.ece)`,
+    title_en: `Why is November 26 celebrated as Constitution Day in India`,
+    summary_en: `Constitution Day, also known as Samvidhan Diwas, is observed every year on November 26 to commemorate the adoption of the Constitution of India in 1949 by the Constituent Assembly. The Constitution came into force on January 26, 1950, two m`,
+    content_en: `Constitution Day, also known as Samvidhan Diwas, is observed every year on November 26 to commemorate the adoption of the Constitution of India in 1949 by the Constituent Assembly. The Constitution came into force on January 26, 1950, two months later, making India a republic. However, November 26 is celebrated as the Constitution Day to commemorate the moment the Constitution of India was formally adopted for “We, the People of India”.
+
+Also read| Constitution Day: Changing nature of observance through The Hindu’s eyes https://www.thehindu.com/news/national/constitution-day-changing-nature-of-observance-through-the-hindus-eyes-1979-2024/article68914914.ece But the event ‘Constitution Day’ was started only a little over a decade ago when Prime Minister Narendra Modi announced it in October 2015 while laying the foundation stone for the Dr.
+
+B.R. Ambedkar Memorial in Mumbai. Prior to this, it was called ‘National Law Day’,  first initiated by former Supreme Court Bar Association (SCBA) president Laxmi Mall Singhvi in 1979. Reimagining the Constitution Reimagining the Constitution Explore the colonial legacy of India’s Constitution and its impact on citizenship, equality, and personal liberties through diverse philosophical insights Reimagining the Constitution storyline 1 Drafting of the Constitution Members of the Constituent Assembly debated the governing charter of Independent India for over three years with an initial draft prepared in February 1948 by Constitutional Advisor B.N.
+
+Rau (following an earlier draft preamble presented in October 1947). Also read| The Constitution Debate: Power, Rights and Democracy in India https://www.thehindu.com/news/national/the-constitution-debate-power-rights-and-democracy-in-india/article70325322.ece Dr. Ambedkar’s drafting committee revised the draft in 1948 and the Assembly spent a year discussing it.
+
+They considered more than 2000 amendments and accepted several before adopting the final draft. Handwritten in both English and Hindi, with artwork by Nandalal Bose of Santiniketan, the Constitution was signed by Constituent Assembly members on January 24, 1950, when Dr. Rajendra Prasad was elected unopposed as India’s first President.
+
+Shaping the Preamble “WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship: EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity of the Nation, IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day on November 1949., do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.” Dr.
+
+Ambedkar drafted a normative Preamble in 1948, drawing on the December 1946 Objectives Resolution and the July 1946 Declaration of the Expert’s Committee. It added Dr. Ambedkar’s own emphasis on fraternity and human dignity to establish India as a sovereign democratic republic securing Justice (social, economic, political), Liberty, Equality and Fraternity.
+
+Indian Constitution and the Revolution Without a Revolution Indian Constitution and the Revolution Without a Revolution Explore the paradox of India’s post-colonial transition: a constitution designed for revolution without embracing the chaos of one Indian Constitution and the Revolution Without a Revolution storyline 1 The original Preamble, adopted on November 26, 1949, did not contain the words ‘socialist’ and ‘secular’.
+
+These were inserted in 1976 through the 42nd Constitution Amendment. In November 2024, the Supreme Court upheld the inclusion after a batch of petitions challenged the validity of the inclusion of the words ‘socialist, secular’ in the Preamble. The SC stated that ‘secular’ denotes a Republic that upholds equal respect for all religions and ‘socialist’ represents a Republic dedicated to eliminating all forms of exploitation (whether social, political, or economic).
+
+Supreme Court upholds ‘secular, socialist’ in Preamble of the Constitution storyline 1 The Hindu article, dated November 26, 2025, notes that Dr. Ambedkar “envisioned and crafted the Constitution as a site of struggle where seminal issues could be settled through constitutional means”.
+
+He shaped the Preamble as an instrument of social revolution grounded in the 19th and early 20th century anti-caste movement, it further argues. https://www.thehindu.com/news/national/dr-br-ambedkars-transformation-of-the-constitution-into-a-unique-site-of-struggle/article70325313.ece A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity Exploring the intricate relationship between religious identity and legal frameworks, this analysis reveals how colonial legacies continue to shape contemporary interpretations of citizenship, minority rights, and social justice within India’s constitutional landscape A Communal Constitution: the Imprint of Religion on Indian Constitutional Identity storyline 1 Core values, Rights and Duties As the supreme law of India, the Constitution guarantees citizens of India fundamental rights such as freedom of speech and expression, freedom of conscience and religion, protection against arbitrary arrest and detention, freedom of movement and cultural and educational guarantees, while also outlining fundamental duties in Part IVA.
+
+It emphasizes the principles of Justice (social, economic and political), Liberty, Equality and Fraternity alongside abolition of untouchability and Article 15’s bar on state discrimination on grounds including religion, race, caste, sex, and place of birth. Balancing faith, dignity and constitutional rights Balancing faith, dignity and constitutional rights The Sabarimala review’s final arguments will also centre on the broader architecture of India’s religious freedom jurisprudence Balancing faith, dignity and constitutional rights opinion 1 The Hindu article from November 26, 2022, contends that these provisions underpin our daily activities, travel, career choices, reading or watching the news, and even questioning why the police stop us, and underscores the importance of  treating the Constitution Day as more than a form of symbolism.
+
+It particularly emphasizes teaching constitutional values and fraternity at home and in schools, and resolving socio-economic conflicts through constitutional methods, among others. https://www.thehindu.com/opinion/op-ed/the-constitution-of-india-deserves-better/article66184599.ece
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/why-is-november-26-celebrated-as-constitution-day-in-india/article71733839.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Why is November 26 celebrated as Constitution Day in India.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 97912,
+    title: `Work With Modi If You Want To Move Ahead': Suvendu Adhikari Recalls Pranab Mukherjee's Advice`,
+    slug: `work-with-modi-if-you-want-to-move-ahead-suvendu-adhikari-recalls-pran-2026`,
+    original_title: `Work With Modi If You Want To Move Ahead': Suvendu Adhikari Recalls Pranab Mukherjee's Advice`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:11:52Z`,
+    updated_at: `2026-11-26T06:11:52Z`,
+    source_name: `NDTV`,
+    source_url: `https://www.ndtv.com/india-news/join-bjp-stay-with-narendra-modi-suvendu-adhikari-recalls-pranab-mukherjee-advice-12375158`,
+    source_courtesy: `Source: NDTV`,
+    image_url: `https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Work With Modi If You Want To Move Ahead': Suvendu Adhikari Recalls Pranab Mukherjee's Advice`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `'Work With Modi If You Want To Move Ahead': Suvendu Adhikari Recalls Pranab Mukherjee's Advice NDTV Suvendu Adhikari says Pranab Mukherjee urged him to quit TMC and pursue politics alongside Modi Telegraph India Pranab Mukherjee nudged Suve`,
+    content: `'Work With Modi If You Want To Move Ahead': Suvendu Adhikari Recalls Pranab Mukherjee's Advice NDTV Suvendu Adhikari says Pranab Mukherjee urged him to quit TMC and pursue politics alongside Modi Telegraph India Pranab Mukherjee nudged Suvendu Adhikari to quit Mamata's party and join Modi Deccan Herald Suvendu Adhikari cites Pranab Mukherjee's 'advice' to join BJP, later says won't comment on 'departed soul' Hindustan Times Stay with Modi: Suvendu Adhikari reveals Pranab Mukherjee was behind his BJP switch India Today
+
+---
+
+**Original Source:** [NDTV](https://www.ndtv.com/india-news/join-bjp-stay-with-narendra-modi-suvendu-adhikari-recalls-pranab-mukherjee-advice-12375158)`,
+    title_en: `Work With Modi If You Want To Move Ahead': Suvendu Adhikari Recalls Pranab Mukherjee's Advice`,
+    summary_en: `'Work With Modi If You Want To Move Ahead': Suvendu Adhikari Recalls Pranab Mukherjee's Advice NDTV Suvendu Adhikari says Pranab Mukherjee urged him to quit TMC and pursue politics alongside Modi Telegraph India Pranab Mukherjee nudged Suve`,
+    content_en: `'Work With Modi If You Want To Move Ahead': Suvendu Adhikari Recalls Pranab Mukherjee's Advice NDTV Suvendu Adhikari says Pranab Mukherjee urged him to quit TMC and pursue politics alongside Modi Telegraph India Pranab Mukherjee nudged Suvendu Adhikari to quit Mamata's party and join Modi Deccan Herald Suvendu Adhikari cites Pranab Mukherjee's 'advice' to join BJP, later says won't comment on 'departed soul' Hindustan Times Stay with Modi: Suvendu Adhikari reveals Pranab Mukherjee was behind his BJP switch India Today
+
+---
+
+**Original Source:** [NDTV](https://www.ndtv.com/india-news/join-bjp-stay-with-narendra-modi-suvendu-adhikari-recalls-pranab-mukherjee-advice-12375158)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to NDTV.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Work With Modi If You Want To Move Ahead': Suvendu Adhikari Recalls Pranab Mukherjee's Advice.`,
+    primary_source: `NDTV`,
+  },
+  {
+    id: 97913,
+    title: `सौरव दास ने लगाया ब्रिटेन जाने से रोकने का आरोप, सरकार ने क्या जवाब दिया?`,
+    slug: `politics-breaking-report-69095-97913-2026`,
+    original_title: `सौरव दास ने लगाया ब्रिटेन जाने से रोकने का आरोप, सरकार ने क्या जवाब दिया?`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:11:53Z`,
+    updated_at: `2026-11-26T06:11:53Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cmwy8627g50wo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/politics-breaking-report-69095-97913-2026.jpg`,
+    image_alt: `सौरव दास ने लगाया ब्रिटेन जाने से रोकने का आरोप, सरकार ने क्या जवाब दिया?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `केंद्र सरकार ने कॉकरोच जनता पार्टी के नेता सौरव दास के उस आरोप का जवाब दिया है, जिसमें उन्होंने कहा था कि उन्हें विदेश जाने से रोका गया.`,
+    content: `केंद्र सरकार ने कॉकरोच जनता पार्टी के नेता सौरव दास के उस आरोप का जवाब दिया है, जिसमें उन्होंने कहा था कि उन्हें विदेश जाने से रोका गया.
+
+सौरव दास ने दावा किया था कि उन्हें ऑक्सफ़र्ड यूनिवर्सिटी के एक कार्यक्रम के लिए लंदन जाने से रोक दिया गया.
+
+सौरव दास को जारी किए गए कारण बताओ नोटिस पर विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि पासपोर्ट के लिए आवेदन करते समय आवेदक को सही जानकारी देना अनिवार्य है.
+
+विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा , "अगर किसी भी स्तर पर अधिकारियों को कोई विसंगति मिलती है या इसकी सूचना दी जाती है और मामला तथ्यों को छिपाने से जुड़ा होता है, तो हम आवेदक को कारण बताओ नोटिस जारी करते हैं. इसके ज़रिए उसे अपना पक्ष रखने का मौका दिया जाता है.''
+
+सौरव दास ने सोमवार देर रात दिल्ली एयरपोर्ट से सोशल मीडिया एक्स पर एक वीडियो शेयर किया था.
+
+उन्होंने क हा था , "मैं दिल्ली इंटरनेशनल एयरपोर्ट पर हूं. दिल्ली से लंदन के लिए मेरी फ़्लाइट रात एक बजे की थी. मैं प्रतिष्ठित ऑक्सफ़र्ड यूनिवर्सिटी जा रहा था, वहां के स्टूडेंट्स यूनियन ने मुझे एक लेक्चर देने के लिए इन्वाइट किया था. मुझे एक पैनल डिस्कशन में हिस्सा लेना था."
+
+हालांकि इस मामले पर लंदन में मौजूद पत्रकार नाओमी कांटन ने एक्स पर दावा किया है, " सौरव दास को ऑक्सफ़र्ड यूनिवर्सिटी में लेक्चर देने के लिए आमंत्रित नहीं किया गया था. उन्हें ऑक्सफ़र्ड यूनियन में बोलने के लिए आमंत्रित किया गया था. ऑक्सफ़र्ड यूनियन एक अलग और स्वतंत्र रूप से संचालित डिबेट कराने वाली संस्था है. यह यूनिवर्सिटी का हिस्सा नहीं है."
+
+संबंधित कानून प्रवर्तन एजेंसियों से मिली रिपोर्ट के आधार पर चेन्नई के क्षेत्रीय पासपोर्ट कार्यालय (आरपीओ) ने 23 नवंबर, 2026 को सौरव दास को कारण बताओ नोटिस जारी किया था. इसमें उनसे सात दिनों के भीतर अपने जन्मस्थान के बारे में स्पष्टीकरण देने को कहा गया है. उन्हें यह भी सलाह दी गई है कि जवाब दाखिल करने तक वे अपने पासपोर्ट का इस्तेमाल न करें."
+
+जायसवाल ने इस मामले में सरकार का पक्ष रखते हुए कहा, "जब कोई व्यक्ति पासपोर्ट के लिए आवेदन करता है और फॉर्म भरता है, तो उससे यह अपेक्षा की जाती है कि वह सही जानकारी देगा. अगर अधिकारियों की ओर से हमारे संज्ञान में कोई कमी या विसंगति लाई जाती है, तो तय प्रक्रिया के तहत आवेदक या पासपोर्ट धारक को कारण बताओ नोटिस जारी किया जाता है. इस नोटिस के ज़रिए उससे आवेदन में दी गई जानकारी और सामने आई विसंगतियों के बारे में स्पष्टीकरण मांगा जाता है."
+
+सौरव दास ने आरोप लगाया, "जैसे ही मैं इमिग्रेशन चेक पर गया, तब मुझे पता चला कि मेरा पासपोर्ट फ़्लैग कर दिया गया है."
+
+उन्होंने कहा, "मेरा पासपोर्ट फ़्लैग कर के मुझे देश से बाहर जाने से रोक दिया. सरकार को इतना डर क्यों है कि कोई पढ़ा-लिखा युवा, पढ़े-लिखे लोगों के बीच जाकर कुछ इंटेलेक्चुअल डिस्कशन कर रहा है."
+
+सौरव दास ने दावा किया, "ऑक्सफ़र्ड यूनिवर्सिटी में जो भारतीय स्टूडेंट्स हैं, उन्होंने मुझे बुलाया कि 'हम इस मूवमेंट से जुड़ना चाहते हैं, हम देश के युवाओं का साथ देना चाहते हैं. हम जानना चाहते हैं कि हमारे देश में क्या हो रहा है.' लेकिन इस सरकार को पढ़ाई-लिखाई से कोई मतलब नहीं है."
+
+"आप स्कूलों की हालत देख रहे हैं. ये सरकार हमारे आंदोलन से डरती है. ऐसा करने से हम नहीं दबने वाले. उनको ये समझ में नहीं आ रहा है कि हम युवाओं के पास बहुत समय है. बार-बार लंदन जाएंगे, पेरिस जाएंगे. हमारे पास बहुत कुछ करने का समय है."
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+विदेश जाने का अधिकार संविधान के अनुच्छेद 19(1) के किसी भी प्रावधान के तहत साफ़ रूप से अधिकार नहीं है. पासपोर्ट अधिनियम की धारा 10(3)(सी), पासपोर्ट ज़ब्त करके विदेश जाने के अधिकार पर प्रतिबंध लगाने की अनुमति देती है.
+
+पासपोर्ट एक्ट की धारा 10 के तहत पासपोर्ट अथॉरिटी को किसी व्यक्ति का पासपोर्ट या यात्रा दस्तावेज जब्त करने और उसे वापस करने का अधिकार है.
+
+अधिनियम की धारा 10(1) के प्रावधानों के तहत नोटिस जारी करने के बाद अथॉरिटी, पासपोर्ट धारक को अपना पासपोर्ट और यात्रा दस्तावेज जमा करने के लिए भी कह सकता है.
+
+भारत के पासपोर्ट एक्ट के मुताबिक़ किसी शख़्स को विदेश जाने से रोकने की कई वजहें हो सकती हैं.
+
+इनमें यात्रा के लिए वैध पासपोर्ट, वीज़ा समेत अन्य वैध दस्तावेज़ होना शामिल है.
+
+कोई शख़्स कितने दिनों के लिए अन्य देश में जा रहा है और इसके लिए उसके पास वैध अनुमति है या नहीं है. यह भी विदेश यात्रा को रोकने का आधार बन सकता है.
+
+किसी ग़लत सूचना या जानकारी के आधार पर भी किसी शख़्स का पासपोर्ट ज़ब्त किया जा सकता है. या उसे यात्रा करने से रोका जा सकता है. अदालत के आदेश पर किसी शख़्स का पासपोर्ट ज़ब्त किया जा सकता है या उसे विदेश यात्रा करने से रोका जा सकता है.
+
+इसके अलावा भी सरकार या सरकारी एजेंसियों के पास किसी शख़्स को विदेश यात्रा से रोकने के कई आधार होते हैं. पासपोर्ट फ़्लैग करने का आमतौर पर मतलब है कि इमिग्रेशन या सुरक्षा एजेंसियों के डेटाबेस में किसी पासपोर्ट के साथ एक ख़ास अलर्ट या निशान जोड़ देना.
+
+अगर किसी का पासपोर्ट फ़्लैग किया गया हो तो इमिग्रेशन के वक़्त पासपोर्ट की स्कैनिंग में यह दिख जाता है, जिसका मतलब होता है कि उस शख़्स की अतिरिक्त जांच या उसके संबंध में कोई कार्रवाई करने की ज़रूरत है.
+
+हालांकि जैसा सौरव दास का दावा है कि उनका पासपोर्ट फ़्लैग किया गया है, तो इसके पीछे की आधिकारिक वजह की जानकारी अभी नहीं मिल पाई है.
+
+सोशल मीडिया एक्स पर सौरव दास की पोस्ट को शेयर करते हुए सीजेपी के क़ानूनी मामलों की प्रमुख रत्ना सिंह ने भी अपना वीज़ा रिजेक्ट किए जाने का आरोप लगाया.
+
+रत्ना सिंह ने कहा , "सौरव और मुझे, दोनों को ऑक्सफ़र्ड यूनियन ने आमंत्रित किया था. कुछ दिन पहले मेरा वीज़ा रिज़ेक्ट कर दिया गया था. मैं इसे फिर भी मान सकती थी, क्योंकि इसमें किसी सीधे हस्तक्षेप के साफ़ संकेत नहीं थे."
+
+"लेकिन अब जो हुआ है, वह पूरी तरह अविश्वसनीय है. यह शर्मनाक है कि इस देश के युवाओं को सिर्फ़ इसलिए निशाना बनाया जा रहा है, क्योंकि उनमें सच बोलने और सत्ता में बैठे लोगों की आंखों में आंखें डालकर सवाल पूछने की हिम्मत है."
+
+"आज जिस तरह सौरव को विमान में सवार होने की अनुमति नहीं दी गई, उससे इस देश में अभिव्यक्ति की आज़ादी की स्थिति और युवाओं की आवाज़ को दी जा रही जगह को लेकर बेहद गंभीर सवाल खड़े होते हैं."
+
+कॉकरोच जनता पार्टी के संस्थापक अभिजीत दीपके ने इस मुद्दे पर तीखी प्रतिक्रया दी है.
+
+उन्होंने एक्स पर एक पोस्ट में लिखा है कि सौरव को ऑक्सफ़र्ड यूनिवर्सिटी में एक कॉन्फ्रेंस में बोलने के लिए आमंत्रित किया गया था, लेकिन ऐसा लगता है कि सत्ता में बैठे किसी शख़्स को ख़ुद दुनिया भर में घूमना पसंद है, लेकिन सौरव को ऑक्सफ़र्ड से मिले इस आमंत्रण से जलन हो रही है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cmwy8627g50wo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `सौरव दास ने लगाया ब्रिटेन जाने से रोकने का आरोप, सरकार ने क्या जवाब दिया?`,
+    summary_hi: `केंद्र सरकार ने कॉकरोच जनता पार्टी के नेता सौरव दास के उस आरोप का जवाब दिया है, जिसमें उन्होंने कहा था कि उन्हें विदेश जाने से रोका गया.`,
+    content_hi: `केंद्र सरकार ने कॉकरोच जनता पार्टी के नेता सौरव दास के उस आरोप का जवाब दिया है, जिसमें उन्होंने कहा था कि उन्हें विदेश जाने से रोका गया.
+
+सौरव दास ने दावा किया था कि उन्हें ऑक्सफ़र्ड यूनिवर्सिटी के एक कार्यक्रम के लिए लंदन जाने से रोक दिया गया.
+
+सौरव दास को जारी किए गए कारण बताओ नोटिस पर विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि पासपोर्ट के लिए आवेदन करते समय आवेदक को सही जानकारी देना अनिवार्य है.
+
+विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा , "अगर किसी भी स्तर पर अधिकारियों को कोई विसंगति मिलती है या इसकी सूचना दी जाती है और मामला तथ्यों को छिपाने से जुड़ा होता है, तो हम आवेदक को कारण बताओ नोटिस जारी करते हैं. इसके ज़रिए उसे अपना पक्ष रखने का मौका दिया जाता है.''
+
+सौरव दास ने सोमवार देर रात दिल्ली एयरपोर्ट से सोशल मीडिया एक्स पर एक वीडियो शेयर किया था.
+
+उन्होंने क हा था , "मैं दिल्ली इंटरनेशनल एयरपोर्ट पर हूं. दिल्ली से लंदन के लिए मेरी फ़्लाइट रात एक बजे की थी. मैं प्रतिष्ठित ऑक्सफ़र्ड यूनिवर्सिटी जा रहा था, वहां के स्टूडेंट्स यूनियन ने मुझे एक लेक्चर देने के लिए इन्वाइट किया था. मुझे एक पैनल डिस्कशन में हिस्सा लेना था."
+
+हालांकि इस मामले पर लंदन में मौजूद पत्रकार नाओमी कांटन ने एक्स पर दावा किया है, " सौरव दास को ऑक्सफ़र्ड यूनिवर्सिटी में लेक्चर देने के लिए आमंत्रित नहीं किया गया था. उन्हें ऑक्सफ़र्ड यूनियन में बोलने के लिए आमंत्रित किया गया था. ऑक्सफ़र्ड यूनियन एक अलग और स्वतंत्र रूप से संचालित डिबेट कराने वाली संस्था है. यह यूनिवर्सिटी का हिस्सा नहीं है."
+
+संबंधित कानून प्रवर्तन एजेंसियों से मिली रिपोर्ट के आधार पर चेन्नई के क्षेत्रीय पासपोर्ट कार्यालय (आरपीओ) ने 23 नवंबर, 2026 को सौरव दास को कारण बताओ नोटिस जारी किया था. इसमें उनसे सात दिनों के भीतर अपने जन्मस्थान के बारे में स्पष्टीकरण देने को कहा गया है. उन्हें यह भी सलाह दी गई है कि जवाब दाखिल करने तक वे अपने पासपोर्ट का इस्तेमाल न करें."
+
+जायसवाल ने इस मामले में सरकार का पक्ष रखते हुए कहा, "जब कोई व्यक्ति पासपोर्ट के लिए आवेदन करता है और फॉर्म भरता है, तो उससे यह अपेक्षा की जाती है कि वह सही जानकारी देगा. अगर अधिकारियों की ओर से हमारे संज्ञान में कोई कमी या विसंगति लाई जाती है, तो तय प्रक्रिया के तहत आवेदक या पासपोर्ट धारक को कारण बताओ नोटिस जारी किया जाता है. इस नोटिस के ज़रिए उससे आवेदन में दी गई जानकारी और सामने आई विसंगतियों के बारे में स्पष्टीकरण मांगा जाता है."
+
+सौरव दास ने आरोप लगाया, "जैसे ही मैं इमिग्रेशन चेक पर गया, तब मुझे पता चला कि मेरा पासपोर्ट फ़्लैग कर दिया गया है."
+
+उन्होंने कहा, "मेरा पासपोर्ट फ़्लैग कर के मुझे देश से बाहर जाने से रोक दिया. सरकार को इतना डर क्यों है कि कोई पढ़ा-लिखा युवा, पढ़े-लिखे लोगों के बीच जाकर कुछ इंटेलेक्चुअल डिस्कशन कर रहा है."
+
+सौरव दास ने दावा किया, "ऑक्सफ़र्ड यूनिवर्सिटी में जो भारतीय स्टूडेंट्स हैं, उन्होंने मुझे बुलाया कि 'हम इस मूवमेंट से जुड़ना चाहते हैं, हम देश के युवाओं का साथ देना चाहते हैं. हम जानना चाहते हैं कि हमारे देश में क्या हो रहा है.' लेकिन इस सरकार को पढ़ाई-लिखाई से कोई मतलब नहीं है."
+
+"आप स्कूलों की हालत देख रहे हैं. ये सरकार हमारे आंदोलन से डरती है. ऐसा करने से हम नहीं दबने वाले. उनको ये समझ में नहीं आ रहा है कि हम युवाओं के पास बहुत समय है. बार-बार लंदन जाएंगे, पेरिस जाएंगे. हमारे पास बहुत कुछ करने का समय है."
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+विदेश जाने का अधिकार संविधान के अनुच्छेद 19(1) के किसी भी प्रावधान के तहत साफ़ रूप से अधिकार नहीं है. पासपोर्ट अधिनियम की धारा 10(3)(सी), पासपोर्ट ज़ब्त करके विदेश जाने के अधिकार पर प्रतिबंध लगाने की अनुमति देती है.
+
+पासपोर्ट एक्ट की धारा 10 के तहत पासपोर्ट अथॉरिटी को किसी व्यक्ति का पासपोर्ट या यात्रा दस्तावेज जब्त करने और उसे वापस करने का अधिकार है.
+
+अधिनियम की धारा 10(1) के प्रावधानों के तहत नोटिस जारी करने के बाद अथॉरिटी, पासपोर्ट धारक को अपना पासपोर्ट और यात्रा दस्तावेज जमा करने के लिए भी कह सकता है.
+
+भारत के पासपोर्ट एक्ट के मुताबिक़ किसी शख़्स को विदेश जाने से रोकने की कई वजहें हो सकती हैं.
+
+इनमें यात्रा के लिए वैध पासपोर्ट, वीज़ा समेत अन्य वैध दस्तावेज़ होना शामिल है.
+
+कोई शख़्स कितने दिनों के लिए अन्य देश में जा रहा है और इसके लिए उसके पास वैध अनुमति है या नहीं है. यह भी विदेश यात्रा को रोकने का आधार बन सकता है.
+
+किसी ग़लत सूचना या जानकारी के आधार पर भी किसी शख़्स का पासपोर्ट ज़ब्त किया जा सकता है. या उसे यात्रा करने से रोका जा सकता है. अदालत के आदेश पर किसी शख़्स का पासपोर्ट ज़ब्त किया जा सकता है या उसे विदेश यात्रा करने से रोका जा सकता है.
+
+इसके अलावा भी सरकार या सरकारी एजेंसियों के पास किसी शख़्स को विदेश यात्रा से रोकने के कई आधार होते हैं. पासपोर्ट फ़्लैग करने का आमतौर पर मतलब है कि इमिग्रेशन या सुरक्षा एजेंसियों के डेटाबेस में किसी पासपोर्ट के साथ एक ख़ास अलर्ट या निशान जोड़ देना.
+
+अगर किसी का पासपोर्ट फ़्लैग किया गया हो तो इमिग्रेशन के वक़्त पासपोर्ट की स्कैनिंग में यह दिख जाता है, जिसका मतलब होता है कि उस शख़्स की अतिरिक्त जांच या उसके संबंध में कोई कार्रवाई करने की ज़रूरत है.
+
+हालांकि जैसा सौरव दास का दावा है कि उनका पासपोर्ट फ़्लैग किया गया है, तो इसके पीछे की आधिकारिक वजह की जानकारी अभी नहीं मिल पाई है.
+
+सोशल मीडिया एक्स पर सौरव दास की पोस्ट को शेयर करते हुए सीजेपी के क़ानूनी मामलों की प्रमुख रत्ना सिंह ने भी अपना वीज़ा रिजेक्ट किए जाने का आरोप लगाया.
+
+रत्ना सिंह ने कहा , "सौरव और मुझे, दोनों को ऑक्सफ़र्ड यूनियन ने आमंत्रित किया था. कुछ दिन पहले मेरा वीज़ा रिज़ेक्ट कर दिया गया था. मैं इसे फिर भी मान सकती थी, क्योंकि इसमें किसी सीधे हस्तक्षेप के साफ़ संकेत नहीं थे."
+
+"लेकिन अब जो हुआ है, वह पूरी तरह अविश्वसनीय है. यह शर्मनाक है कि इस देश के युवाओं को सिर्फ़ इसलिए निशाना बनाया जा रहा है, क्योंकि उनमें सच बोलने और सत्ता में बैठे लोगों की आंखों में आंखें डालकर सवाल पूछने की हिम्मत है."
+
+"आज जिस तरह सौरव को विमान में सवार होने की अनुमति नहीं दी गई, उससे इस देश में अभिव्यक्ति की आज़ादी की स्थिति और युवाओं की आवाज़ को दी जा रही जगह को लेकर बेहद गंभीर सवाल खड़े होते हैं."
+
+कॉकरोच जनता पार्टी के संस्थापक अभिजीत दीपके ने इस मुद्दे पर तीखी प्रतिक्रया दी है.
+
+उन्होंने एक्स पर एक पोस्ट में लिखा है कि सौरव को ऑक्सफ़र्ड यूनिवर्सिटी में एक कॉन्फ्रेंस में बोलने के लिए आमंत्रित किया गया था, लेकिन ऐसा लगता है कि सत्ता में बैठे किसी शख़्स को ख़ुद दुनिया भर में घूमना पसंद है, लेकिन सौरव को ऑक्सफ़र्ड से मिले इस आमंत्रण से जलन हो रही है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cmwy8627g50wo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक सौरव दास ने लगाया ब्रिटेन जाने से रोकने का आरोप, सरकार ने क्या जवाब दिया? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 97914,
+    title: `Constitution Day 2026: संविधान दिवस पर 10 लाइन, फैक्ट्स GK Quiz के लिए इम्पॉर्टेंट - Jagran`,
+    slug: `constitution-day-2026-10-gk-quiz-jagran-2026`,
+    original_title: `Constitution Day 2026: संविधान दिवस पर 10 लाइन, फैक्ट्स GK Quiz के लिए इम्पॉर्टेंट - Jagran`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:11:54Z`,
+    updated_at: `2026-11-26T06:11:54Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/news/education-constitution-day-2026-10-lines-on-constitution-day-plus-facts-important-for-gk-quizzes-40447805.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/constitution-day-2026-10-gk-quiz-jagran-2026.webp`,
+    image_alt: `Constitution Day 2026: संविधान दिवस पर 10 लाइन, फैक्ट्स GK Quiz के लिए इम्पॉर्टेंट - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `हमारा देश हर साल 26 नवंबर को संविधान दिवस के रूप में सेलिब्रेट करता है। आप यहां से 10 लाइन में संविधान से जुड़े विभिन्न फैक्ट्स चेक कर सकते हैं जो आपके जीके क्विज, निबंध सहित अन्य प्रतियोगिता के लिए उपयोगी साबित होंगे।`,
+    content: `हमारा देश हर साल 26 नवंबर को संविधान दिवस के रूप में सेलिब्रेट करता है। आप यहां से 10 लाइन में संविधान से जुड़े विभिन्न फैक्ट्स चेक कर सकते हैं जो आपके जीके क्विज, निबंध सहित अन्य प्रतियोगिता के लिए उपयोगी साबित होंगे।
+
+26 नवंबर को मनाया जाता है हर साल संविधान दिवस।
+
+डॉ बीआर जयंती को श्रद्धांजलि देने के लिए 2015 में हुई थी इस दिन को मनाने की शुरुआत।
+
+एजुकेशन डेस्क, नई दिल्ली। हमारा देश भारत दुनिया का सबसे बड़ा लोकतांत्रिक देश है। हमारा संविधान देश की 147 से 148.2 करोड़ (अनुमानित) के बीच जनसंख्या को समान अधिकार प्रदान करता है। लेकिन, क्या आप जानते हैं कि जिस संविधान की वजह से हम सभी को समान अधिकार मिले हैं उस संविधान को 26 नवंबर 1949 को भारतीय संविधान संविधान बनाने वाली सभा (Constitution Assembly) द्वारा स्वीकार किया गया है। इसी के चलते देशभर में प्रतिवर्ष 26 नवंबर के दिन संविधान दिवस यानी कि Constitution Day के रूप में सेलिब्रेट किया जाता है।
+
+संविधान दिवस पर स्कूलों, कॉलेजों और कई सार्वजनिक जगहों पर विभिन्न जीके क्विज, निबंध सहित अन्य प्रतियोगिताएं होती हैं। इसलिए हम यहां पर संविधान के बारे में 10 लाइन में ऐसे फैक्ट बताने जा रहे हैं जो आपके निबंध तैयार करने, GK Quiz की तैयारी के लिए महत्वपूर्ण हैं।
+
+### 10 lines on Constitution Day in Hindi: संविधान दिवस पर 10 लाइन
+
+संविधान को भारत के हर नागरिक को समान अधिकार देने के लिए अंगीकृत किया गया। इसमें सभी व्यक्तियों को कुछ मूल अधिकार भी दिए गए हैं जिनका विवरण निम्नलिखित हैं-
+
+यह भी पढ़ें- यूपी के सभी 75 जिलों और 403 विधानसभा सीटों की लिस्ट; जानें किस जनपद में हैं कितनी MLA सीट्स
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/news/education-constitution-day-2026-10-lines-on-constitution-day-plus-facts-important-for-gk-quizzes-40447805.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Constitution Day 2026: संविधान दिवस पर 10 लाइन, फैक्ट्स GK Quiz के लिए इम्पॉर्टेंट - Jagran`,
+    summary_hi: `हमारा देश हर साल 26 नवंबर को संविधान दिवस के रूप में सेलिब्रेट करता है। आप यहां से 10 लाइन में संविधान से जुड़े विभिन्न फैक्ट्स चेक कर सकते हैं जो आपके जीके क्विज, निबंध सहित अन्य प्रतियोगिता के लिए उपयोगी साबित होंगे।`,
+    content_hi: `हमारा देश हर साल 26 नवंबर को संविधान दिवस के रूप में सेलिब्रेट करता है। आप यहां से 10 लाइन में संविधान से जुड़े विभिन्न फैक्ट्स चेक कर सकते हैं जो आपके जीके क्विज, निबंध सहित अन्य प्रतियोगिता के लिए उपयोगी साबित होंगे।
+
+26 नवंबर को मनाया जाता है हर साल संविधान दिवस।
+
+डॉ बीआर जयंती को श्रद्धांजलि देने के लिए 2015 में हुई थी इस दिन को मनाने की शुरुआत।
+
+एजुकेशन डेस्क, नई दिल्ली। हमारा देश भारत दुनिया का सबसे बड़ा लोकतांत्रिक देश है। हमारा संविधान देश की 147 से 148.2 करोड़ (अनुमानित) के बीच जनसंख्या को समान अधिकार प्रदान करता है। लेकिन, क्या आप जानते हैं कि जिस संविधान की वजह से हम सभी को समान अधिकार मिले हैं उस संविधान को 26 नवंबर 1949 को भारतीय संविधान संविधान बनाने वाली सभा (Constitution Assembly) द्वारा स्वीकार किया गया है। इसी के चलते देशभर में प्रतिवर्ष 26 नवंबर के दिन संविधान दिवस यानी कि Constitution Day के रूप में सेलिब्रेट किया जाता है।
+
+संविधान दिवस पर स्कूलों, कॉलेजों और कई सार्वजनिक जगहों पर विभिन्न जीके क्विज, निबंध सहित अन्य प्रतियोगिताएं होती हैं। इसलिए हम यहां पर संविधान के बारे में 10 लाइन में ऐसे फैक्ट बताने जा रहे हैं जो आपके निबंध तैयार करने, GK Quiz की तैयारी के लिए महत्वपूर्ण हैं।
+
+### 10 lines on Constitution Day in Hindi: संविधान दिवस पर 10 लाइन
+
+संविधान को भारत के हर नागरिक को समान अधिकार देने के लिए अंगीकृत किया गया। इसमें सभी व्यक्तियों को कुछ मूल अधिकार भी दिए गए हैं जिनका विवरण निम्नलिखित हैं-
+
+यह भी पढ़ें- यूपी के सभी 75 जिलों और 403 विधानसभा सीटों की लिस्ट; जानें किस जनपद में हैं कितनी MLA सीट्स
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/news/education-constitution-day-2026-10-lines-on-constitution-day-plus-facts-important-for-gk-quizzes-40447805.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Constitution Day 2026: संविधान दिवस पर 10 लाइन, फैक्ट्स GK Quiz के लिए इम्पॉर्टेंट - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+  {
+    id: 97915,
+    title: `Grand Theft Auto VI' lives up to the hype as a global phenomenon - Yahoo`,
+    slug: `grand-theft-auto-vi-lives-up-to-the-hype-as-a-global-phenomenon-yahoo-2026`,
+    original_title: `Grand Theft Auto VI' lives up to the hype as a global phenomenon - Yahoo`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:11:56Z`,
+    updated_at: `2026-11-26T06:11:56Z`,
+    source_name: `Yahoo`,
+    source_url: `https://www.yahoo.com/entertainment/movies/articles/grand-theft-auto-vi-lives-155923028.html`,
+    source_courtesy: `Source: Yahoo`,
+    image_url: `/images/articles/grand-theft-auto-vi-lives-up-to-the-hype-as-a-global-phenomenon-yahoo-2026.jpg`,
+    image_alt: `Grand Theft Auto VI' lives up to the hype as a global phenomenon - Yahoo`,
+    image_courtesy: `Image: Yahoo (External Source Attribution)`,
+    image_photographer: `Yahoo`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `After already crossing the billion-dollar mark a week before launch, GTA 6 generated a record $3.79 billion in sales in just its first day alone.`,
+    content: `After already crossing the billion-dollar mark a week before launch, GTA 6 generated a record $3.79 billion in sales in just its first day alone.
+
+While the game still has its trademark crime, driving and morally dubious activities, there is a heavy emphasis on living the life of an in-game character
+
+All of that the game has to offer has already led to several award nominations, adding industry recognition to its staggering commercial success.
+
+In just days after release, " Grand Theft Auto VI " has already had a major impact across the world, from critical praise, to record sales and also becoming a pop culture phenomenon.
+
+After already crossing the billion-dollar mark a week before launch, GTA 6 generated a record $3.79 billion in sales in just its first day alone. Rockstar Games says the worldwide figure was based on the company estimates through the end of the day on launch day.
+
+"We are incredibly humbled by the response from players around the world, and we couldn't be more excited to share this moment with you," Sam Houser, Rockstar's president and founder, said in a release.
+
+One reviewer with video gaming and entertainment site IGN calls it one of the most impressive games ever made, saying, "While the well-paced story effectively nudged me around the map, there are still vast sections of it that I'm yet to even visit – despite hitting the credits after almost 120 hours of hijinks," wrote Luke Reilly. "Frankly, I've never played anything that's hit quite like GTA 6 – and right now I have zero plans to stop playing it."
+
+RELATED: Police warn GTA 6 players: Real-life crimes still carry consequences
+
+Another review from the New York Times, set its sights directly on the dynamic between the game's two protagonists, saying the game "will steal your heart."
+
+One of the biggest improvements from previous games is the ability to play as either character, Jason Duval or his girlfriend Lucia Caminos, as the two navigate their way through the criminal underworld.
+
+That's actually a welcome addition to some demographics. According to a Bain survey, women will be an estimated 4 out of 10 GTA 6 players in the U.S. Having Lucia as a lead character is seen as a significant step toward broadening the franchise's appeal. While the game still has its trademark crime, driving and morally dubious activities, there is a heavy emphasis on living the life of an in-game character from visiting nightclubs, home improvements and other rewards from just spending time with your significant other.
+
+In this photo illustration, a person holds a PlayStation 5 game controller in front of a television screen displaying the Grand Theft Auto VI (GTA 6) logo in Ankara, Turkiye, on November 18, 2026. (Photo by Volkan Furuncu/Anadolu via Getty Images)
+
+One other draw that has users raving has been a long staple associated with the game series and that's the extensive soundtrack that comes as part of the game. The game goes beyond providing music that autoplays as you traverse through the game. All music is played through the characters' radios, giving gamers the ability to flip through the massive catalog from classic rockers like Michael McDonald and Keith Richards to current superstars like Cardi B, Dua Lipa and Morgan Wallen.
+
+Rockstar Games released a purchasable soundtrack, "Grand Theft Auto VI: The Album" that only has 34 of the over 700 licensed tracks in the game. With a mix of hip-hop, K-pop, 80s and country, one Associated Press review calls it overstuffed and chaotic, with some gems, likening it to a muscle car: "powerful, impractical and complex, with some unnecessary, flashy stuff and torque that sends you in all kinds of directions."
+
+RELATED: Grand Theft Auto 6 has finally arrived - What you need to know
+
+Even animated in a sense, "Grand Theft Auto VI" features some familiar voices as characters in the game. "Saturday Night Live" alumnus Bobby Moynihan comes in as a non-playable character and buddy of main character Jason. Obviously, he serves as the game's comic relief. There are other "SNL" vets who show up as well, including Jason Sudeikis, Sarah Sherman and Chloe Fineman, who are featured in audio roles.
+
+One famed character actor that has been around Hollywood for years, Stephen Root, comes in as a pivotal character as Jason's boss. His familiar voice and tone brings a sense of southern charm mixed in with serious business as the game evolves.
+
+But the star of the game for many is the setting itself. Primarily Vice City, a fictionalized version of Miami and its surrounding areas in the state of Leonida, also a fictionalized version of Florida, many real-life locations and communities are mirrored in the game.
+
+Visitors can walk the beaches of Miami Beach, navigate the waterways of the Florida Keys, take an airboat through the Everglades or take a walk through Miami's art district. All recognizable places in the sprawling game.
+
+All of that the game has to offer has already led to several award nominations, adding industry recognition to its staggering commercial success. From generating billions in sales to earning critical acclaim and sparking endless discussion across water coolers and social media alike, "Grand Theft Auto VI" has become much more than a video game. Like the biggest movies, television series and cultural events, Rockstar's latest release has grown into a worldwide phenomenon, proving that few brands in entertainment can match its reach or influence.
+
+This story was written with information provided by Rockstar Games, The Associated Press and Reuters. Some reviews were also provided by IGN and the New York Times. This story was reported from Orlando.
+
+---
+
+**Original Source:** [Yahoo](https://www.yahoo.com/entertainment/movies/articles/grand-theft-auto-vi-lives-155923028.html)`,
+    title_en: `Grand Theft Auto VI' lives up to the hype as a global phenomenon - Yahoo`,
+    summary_en: `After already crossing the billion-dollar mark a week before launch, GTA 6 generated a record $3.79 billion in sales in just its first day alone.`,
+    content_en: `After already crossing the billion-dollar mark a week before launch, GTA 6 generated a record $3.79 billion in sales in just its first day alone.
+
+While the game still has its trademark crime, driving and morally dubious activities, there is a heavy emphasis on living the life of an in-game character
+
+All of that the game has to offer has already led to several award nominations, adding industry recognition to its staggering commercial success.
+
+In just days after release, " Grand Theft Auto VI " has already had a major impact across the world, from critical praise, to record sales and also becoming a pop culture phenomenon.
+
+After already crossing the billion-dollar mark a week before launch, GTA 6 generated a record $3.79 billion in sales in just its first day alone. Rockstar Games says the worldwide figure was based on the company estimates through the end of the day on launch day.
+
+"We are incredibly humbled by the response from players around the world, and we couldn't be more excited to share this moment with you," Sam Houser, Rockstar's president and founder, said in a release.
+
+One reviewer with video gaming and entertainment site IGN calls it one of the most impressive games ever made, saying, "While the well-paced story effectively nudged me around the map, there are still vast sections of it that I'm yet to even visit – despite hitting the credits after almost 120 hours of hijinks," wrote Luke Reilly. "Frankly, I've never played anything that's hit quite like GTA 6 – and right now I have zero plans to stop playing it."
+
+RELATED: Police warn GTA 6 players: Real-life crimes still carry consequences
+
+Another review from the New York Times, set its sights directly on the dynamic between the game's two protagonists, saying the game "will steal your heart."
+
+One of the biggest improvements from previous games is the ability to play as either character, Jason Duval or his girlfriend Lucia Caminos, as the two navigate their way through the criminal underworld.
+
+That's actually a welcome addition to some demographics. According to a Bain survey, women will be an estimated 4 out of 10 GTA 6 players in the U.S. Having Lucia as a lead character is seen as a significant step toward broadening the franchise's appeal. While the game still has its trademark crime, driving and morally dubious activities, there is a heavy emphasis on living the life of an in-game character from visiting nightclubs, home improvements and other rewards from just spending time with your significant other.
+
+In this photo illustration, a person holds a PlayStation 5 game controller in front of a television screen displaying the Grand Theft Auto VI (GTA 6) logo in Ankara, Turkiye, on November 18, 2026. (Photo by Volkan Furuncu/Anadolu via Getty Images)
+
+One other draw that has users raving has been a long staple associated with the game series and that's the extensive soundtrack that comes as part of the game. The game goes beyond providing music that autoplays as you traverse through the game. All music is played through the characters' radios, giving gamers the ability to flip through the massive catalog from classic rockers like Michael McDonald and Keith Richards to current superstars like Cardi B, Dua Lipa and Morgan Wallen.
+
+Rockstar Games released a purchasable soundtrack, "Grand Theft Auto VI: The Album" that only has 34 of the over 700 licensed tracks in the game. With a mix of hip-hop, K-pop, 80s and country, one Associated Press review calls it overstuffed and chaotic, with some gems, likening it to a muscle car: "powerful, impractical and complex, with some unnecessary, flashy stuff and torque that sends you in all kinds of directions."
+
+RELATED: Grand Theft Auto 6 has finally arrived - What you need to know
+
+Even animated in a sense, "Grand Theft Auto VI" features some familiar voices as characters in the game. "Saturday Night Live" alumnus Bobby Moynihan comes in as a non-playable character and buddy of main character Jason. Obviously, he serves as the game's comic relief. There are other "SNL" vets who show up as well, including Jason Sudeikis, Sarah Sherman and Chloe Fineman, who are featured in audio roles.
+
+One famed character actor that has been around Hollywood for years, Stephen Root, comes in as a pivotal character as Jason's boss. His familiar voice and tone brings a sense of southern charm mixed in with serious business as the game evolves.
+
+But the star of the game for many is the setting itself. Primarily Vice City, a fictionalized version of Miami and its surrounding areas in the state of Leonida, also a fictionalized version of Florida, many real-life locations and communities are mirrored in the game.
+
+Visitors can walk the beaches of Miami Beach, navigate the waterways of the Florida Keys, take an airboat through the Everglades or take a walk through Miami's art district. All recognizable places in the sprawling game.
+
+All of that the game has to offer has already led to several award nominations, adding industry recognition to its staggering commercial success. From generating billions in sales to earning critical acclaim and sparking endless discussion across water coolers and social media alike, "Grand Theft Auto VI" has become much more than a video game. Like the biggest movies, television series and cultural events, Rockstar's latest release has grown into a worldwide phenomenon, proving that few brands in entertainment can match its reach or influence.
+
+This story was written with information provided by Rockstar Games, The Associated Press and Reuters. Some reviews were also provided by IGN and the New York Times. This story was reported from Orlando.
+
+---
+
+**Original Source:** [Yahoo](https://www.yahoo.com/entertainment/movies/articles/grand-theft-auto-vi-lives-155923028.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Yahoo.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Grand Theft Auto VI' lives up to the hype as a global phenomenon - Yahoo.`,
+    primary_source: `Yahoo`,
+  },
+  {
+    id: 97916,
+    title: `Wordle today: The answer and hints for November 22, 2026 - Mashable`,
+    slug: `wordle-today-the-answer-and-hints-for-november-22-2026-mashable-2026`,
+    original_title: `Wordle today: The answer and hints for November 22, 2026 - Mashable`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:11:57Z`,
+    updated_at: `2026-11-26T06:11:57Z`,
+    source_name: `Mashable`,
+    source_url: `https://mashable.com/entertainment/wordle-today-answer-november-22-2026`,
+    source_courtesy: `Source: Mashable`,
+    image_url: `/images/articles/wordle-today-the-answer-and-hints-for-november-22-2026-mashable-2026.webp`,
+    image_alt: `Wordle today: The answer and hints for November 22, 2026 - Mashable`,
+    image_courtesy: `Image: Mashable (External Source Attribution)`,
+    image_photographer: `Mashable`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Today's Wordle answer should be easy to solve if you're going through a life change.If you just want to be told today's word, you can jump to the bottom of this article for today's Wordle solution revealed. But if you'd rather solve it your`,
+    content: `Today's Wordle answer should be easy to solve if you're going through a life change.If you just want to be told today's word, you can jump to the bottom of this article for today's Wordle solution revealed. But if you'd rather solve it yourself, keep reading for some clues, tips, and strategies to assist you.
+
+SEE ALSO:
+        
+            Mahjong, Sudoku, free crossword, and more: Play games on Mashable
+            
+        
+    
+
+        SEE ALSO:
+        
+            NYT Connections hints today: Clues, answers for November 22, 2026
+            
+        
+    
+Where did Wordle come from?Originally created by engineer Josh Wardle as a gift for his partner, Wordle rapidly spread to become an international phenomenon, with thousands of people around the globe playing every day.
+
+Alternate Wordle versions created by fans also sprang up, including battle royale Squabble, music identification game Heardle, and variations like Dordle and Quordle that make you guess multiple words at once.&nbsp;Wordle eventually became so popular that it was purchased by the New York Times, and TikTok creators even livestream themselves playing.What's the best Wordle starting word?The best Wordle starting word is the one that speaks to you.
+
+But if you prefer to be strategic in your approach, we have a few ideas to help you pick a word that might help you find the solution faster. One tip is to select a word that includes at least two different vowels, plus some common consonants like S, T, R, or N.What happened to the Wordle archive?The entire archive of past Wordle puzzles was originally available for anyone to enjoy whenever they felt like it, but it was later taken down, with the website's creator stating it was done at the request of the New York Times.
+
+However, the New York Times then rolled out its own Wordle Archive, available only to NYT Games subscribers. Is Wordle getting harder?It might feel like Wordle is getting harder, but it actually isn't any more difficult than when it first began. You can turn on Wordle's Hard Mode if you're after more of a challenge, though.Here's a subtle hint for today's Wordle answer:Overturn.Does today's Wordle answer have a double letter?No letter appears twice.Want more tech and digital culture news delivered to your inbox daily or sent straight to your device?
+
+Sign up for Mashable's Top Stories newsletter or get Mashable push alerts today.Today's Wordle is a 5-letter word that starts with...Today's Wordle starts with the letter U.The Wordle answer today is...Get your last guesses in now, because it's your final chance to solve today's Wordle before we reveal the solution.Drumroll please!The solution to today's Wordle is...UPENDDon't feel down if you didn't manage to guess it this time.
+
+There will be a new Wordle for you to stretch your brain with tomorrow, and we'll be back again to guide you with more helpful hints. Are you also playing NYT Strands? See hints and answers for today's Strands.Reporting by Chance Townsend, Caitlin Welsh, Sam Haysom, Amanda Yeo, Shannon Connellan, Cecily Mauran, Mike Pearl, and Adam Rosenberg contributed to this article.Meet The Mashable 101: Our list of the content creators shaping the internet todayIf you're looking for more puzzles, Mashable's got games now!
+
+Check out our games hub for Mahjong, Sudoku, free crossword, and more.
+
+---
+
+**Original Source:** [Mashable](https://mashable.com/entertainment/wordle-today-answer-november-22-2026)`,
+    title_en: `Wordle today: The answer and hints for November 22, 2026 - Mashable`,
+    summary_en: `Today's Wordle answer should be easy to solve if you're going through a life change.If you just want to be told today's word, you can jump to the bottom of this article for today's Wordle solution revealed. But if you'd rather solve it your`,
+    content_en: `Today's Wordle answer should be easy to solve if you're going through a life change.If you just want to be told today's word, you can jump to the bottom of this article for today's Wordle solution revealed. But if you'd rather solve it yourself, keep reading for some clues, tips, and strategies to assist you.
+
+SEE ALSO:
+        
+            Mahjong, Sudoku, free crossword, and more: Play games on Mashable
+            
+        
+    
+
+        SEE ALSO:
+        
+            NYT Connections hints today: Clues, answers for November 22, 2026
+            
+        
+    
+Where did Wordle come from?Originally created by engineer Josh Wardle as a gift for his partner, Wordle rapidly spread to become an international phenomenon, with thousands of people around the globe playing every day.
+
+Alternate Wordle versions created by fans also sprang up, including battle royale Squabble, music identification game Heardle, and variations like Dordle and Quordle that make you guess multiple words at once.&nbsp;Wordle eventually became so popular that it was purchased by the New York Times, and TikTok creators even livestream themselves playing.What's the best Wordle starting word?The best Wordle starting word is the one that speaks to you.
+
+But if you prefer to be strategic in your approach, we have a few ideas to help you pick a word that might help you find the solution faster. One tip is to select a word that includes at least two different vowels, plus some common consonants like S, T, R, or N.What happened to the Wordle archive?The entire archive of past Wordle puzzles was originally available for anyone to enjoy whenever they felt like it, but it was later taken down, with the website's creator stating it was done at the request of the New York Times.
+
+However, the New York Times then rolled out its own Wordle Archive, available only to NYT Games subscribers. Is Wordle getting harder?It might feel like Wordle is getting harder, but it actually isn't any more difficult than when it first began. You can turn on Wordle's Hard Mode if you're after more of a challenge, though.Here's a subtle hint for today's Wordle answer:Overturn.Does today's Wordle answer have a double letter?No letter appears twice.Want more tech and digital culture news delivered to your inbox daily or sent straight to your device?
+
+Sign up for Mashable's Top Stories newsletter or get Mashable push alerts today.Today's Wordle is a 5-letter word that starts with...Today's Wordle starts with the letter U.The Wordle answer today is...Get your last guesses in now, because it's your final chance to solve today's Wordle before we reveal the solution.Drumroll please!The solution to today's Wordle is...UPENDDon't feel down if you didn't manage to guess it this time.
+
+There will be a new Wordle for you to stretch your brain with tomorrow, and we'll be back again to guide you with more helpful hints. Are you also playing NYT Strands? See hints and answers for today's Strands.Reporting by Chance Townsend, Caitlin Welsh, Sam Haysom, Amanda Yeo, Shannon Connellan, Cecily Mauran, Mike Pearl, and Adam Rosenberg contributed to this article.Meet The Mashable 101: Our list of the content creators shaping the internet todayIf you're looking for more puzzles, Mashable's got games now!
+
+Check out our games hub for Mahjong, Sudoku, free crossword, and more.
+
+---
+
+**Original Source:** [Mashable](https://mashable.com/entertainment/wordle-today-answer-november-22-2026)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Mashable.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Wordle today: The answer and hints for November 22, 2026 - Mashable.`,
+    primary_source: `Mashable`,
+  },
+  {
+    id: 97917,
+    title: `आधे दाम में iPhone 17, कैसे हो रही 42 हजार रुपये की सेविंग - AajTak`,
+    slug: `iphone-17-42-aajtak-2026`,
+    original_title: `आधे दाम में iPhone 17, कैसे हो रही 42 हजार रुपये की सेविंग - AajTak`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:11:58Z`,
+    updated_at: `2026-11-26T06:11:58Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/visualstories/technology/how-to-buy-iphone-17-at-lowest-price-ttecr-287805-26-11-2026`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `/images/articles/iphone-17-42-aajtak-2026.jpg`,
+    image_alt: `आधे दाम में iPhone 17, कैसे हो रही 42 हजार रुपये की सेविंग - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Apple iPhone 17 को खरीदने का प्लान बना रहे हैं, तो एक खास डील मिल रही है. यहां कीमत घटकर 57 हजार रुपये तक हो जाएगी.`,
+    content: `Apple iPhone 17 को खरीदने का प्लान बना रहे हैं, तो एक खास डील मिल रही है. यहां कीमत घटकर 57 हजार रुपये तक हो जाएगी.
+
+iPhone 17 को करीब आधे दाम में खरीदा जा सकता है. सभी ऑफर्स को मिलाकर 42 हजार रुपये तक की सेविंग होगी.
+
+ईकॉमर्स प्लेटफॉर्म फ्लिपकार्ट पर iPhone 17  को 89,100 रुपये में लिस्ट किया है. वहीं, ऑफिशियल पोर्टल पर 99,990 रुपये में लिस्ट है.
+
+ब्रांड न्यू iPhone 17 खरीदने के लिए बैंक ऑफर और पुराने स्मार्टफोन का इस्तेमाल कर सकते हैं. ऐसे में कीमत 57,950 रुपये तक हो सकती है.
+
+99,990 रुपये वाला iPhone 17  अगर 57,950 रुपये में खरीदा जाता है. ऐसे में पूरे 42 हजार रुपये तक की सेविंग होगी.
+
+फ्लिपकार्ट पर बैंक कार्ड ऑफर के तहत 4 हजार रुपये का इंस्टैंट डिस्काउंट मिल रहा है. 89,990 रुपये में लिस्ट फोन 85 हजार रुपये का हो जाएगा.
+
+अब एक्सचेंज पर आते हैं, iPhone 17 को खरीदते समय अगर पुराने हैंडसेट को एक्सचेंज करते हैं. ऐसे में कीमत को काफी कम किया जा सकेगा.
+
+iPhone 17 को खरीदने के लिए अगर iPhone 14 को एक्सचेंज करते हैं. ऐसे में 27150 रुपये का एक्सचेंज डिस्काउंट मिलेगा.
+
+iPhone 17 पर मिलने वाले बैंक ऑफर और एक्सचेंज ऑफर को मिला दिया जाता है तो इसको कम से कम 57 हजार रुपये तक में खरीदा जा सकेगा.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/visualstories/technology/how-to-buy-iphone-17-at-lowest-price-ttecr-287805-26-11-2026)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `आधे दाम में iPhone 17, कैसे हो रही 42 हजार रुपये की सेविंग - AajTak`,
+    summary_hi: `Apple iPhone 17 को खरीदने का प्लान बना रहे हैं, तो एक खास डील मिल रही है. यहां कीमत घटकर 57 हजार रुपये तक हो जाएगी.`,
+    content_hi: `Apple iPhone 17 को खरीदने का प्लान बना रहे हैं, तो एक खास डील मिल रही है. यहां कीमत घटकर 57 हजार रुपये तक हो जाएगी.
+
+iPhone 17 को करीब आधे दाम में खरीदा जा सकता है. सभी ऑफर्स को मिलाकर 42 हजार रुपये तक की सेविंग होगी.
+
+ईकॉमर्स प्लेटफॉर्म फ्लिपकार्ट पर iPhone 17  को 89,100 रुपये में लिस्ट किया है. वहीं, ऑफिशियल पोर्टल पर 99,990 रुपये में लिस्ट है.
+
+ब्रांड न्यू iPhone 17 खरीदने के लिए बैंक ऑफर और पुराने स्मार्टफोन का इस्तेमाल कर सकते हैं. ऐसे में कीमत 57,950 रुपये तक हो सकती है.
+
+99,990 रुपये वाला iPhone 17  अगर 57,950 रुपये में खरीदा जाता है. ऐसे में पूरे 42 हजार रुपये तक की सेविंग होगी.
+
+फ्लिपकार्ट पर बैंक कार्ड ऑफर के तहत 4 हजार रुपये का इंस्टैंट डिस्काउंट मिल रहा है. 89,990 रुपये में लिस्ट फोन 85 हजार रुपये का हो जाएगा.
+
+अब एक्सचेंज पर आते हैं, iPhone 17 को खरीदते समय अगर पुराने हैंडसेट को एक्सचेंज करते हैं. ऐसे में कीमत को काफी कम किया जा सकेगा.
+
+iPhone 17 को खरीदने के लिए अगर iPhone 14 को एक्सचेंज करते हैं. ऐसे में 27150 रुपये का एक्सचेंज डिस्काउंट मिलेगा.
+
+iPhone 17 पर मिलने वाले बैंक ऑफर और एक्सचेंज ऑफर को मिला दिया जाता है तो इसको कम से कम 57 हजार रुपये तक में खरीदा जा सकेगा.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/visualstories/technology/how-to-buy-iphone-17-at-lowest-price-ttecr-287805-26-11-2026)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक आधे दाम में iPhone 17, कैसे हो रही 42 हजार रुपये की सेविंग - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 97918,
+    title: `घर और ऑफिस के अंदर कॉल ड्रॉप की समस्या होगी दूर, जानें फोन में Wi-Fi Calling इनेबल करने के स्टेप्स - Jagran`,
+    slug: `wi-fi-calling-jagran-2026`,
+    original_title: `घर और ऑफिस के अंदर कॉल ड्रॉप की समस्या होगी दूर, जानें फोन में Wi-Fi Calling इनेबल करने के स्टेप्स - Jagran`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:11:59Z`,
+    updated_at: `2026-11-26T06:11:59Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/technology/tech-guide-how-to-enable-wi-fi-calling-on-iphone-and-android-in-india-step-by-step-guide-40448468.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/wi-fi-calling-jagran-2026.webp`,
+    image_alt: `घर और ऑफिस के अंदर कॉल ड्रॉप की समस्या होगी दूर, जानें फोन में Wi-Fi Calling इनेबल करने के स्टेप्स - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `घर, ऑफिस या बेसमेंट जैसी जगहों पर जहां मोबाइल टावर के सिग्नल कमजोर होते हैं, वहां कॉल ड्रॉप और खराब आवाज की समस्या से बचने के लिए Wi-Fi Calling एक बेहद काम का फीचर है।`,
+    content: `घर, ऑफिस या बेसमेंट जैसी जगहों पर जहां मोबाइल टावर के सिग्नल कमजोर होते हैं, वहां कॉल ड्रॉप और खराब आवाज की समस्या से बचने के लिए Wi-Fi Calling एक बेहद काम का फीचर है।
+
+जानिए Android और iPhone में Wi-Fi Calling ऑन करने का तरीका। Photo- ChatGPT.
+
+टेक्नोलॉजी डेस्क, नई दिल्ली। जब घर के अंदर, खासकर घरों, ऑफिसों और ऐसी इमारतों में जहां सेलुलर सिग्नल मुश्किल से पहुंच पाते हैं, मोबाइल नेटवर्क कवरेज कमजोर होता है, तब Wi-Fi Calling एक बेहद काम का फीचर साबित होता है। ये फीचर यूजर्स को पूरी तरह से नजदीकी मोबाइल टावर पर निर्भर रहने के बजाय, उपलब्ध Wi-Fi कनेक्शन का इस्तेमाल करके रेगुलर फोन कॉल करने और रिसीव करने की सुविधा देता है। इसे Airtel और Reliance Jio समेत इंडियन टेलीकॉम ऑपरेटर्स और कई स्मार्टफोन्स द्वारा सपोर्ट किया जाता है।
+
+भारत में iPhone या Android फोन पर Wi-Fi Calling इनेबल करने का तरीका नीचे दिया गया है।
+
+Wi-Fi Calling एक ऐसा फीचर है जो यूजर्स को मोबाइल नेटवर्क कनेक्शन पर निर्भर रहने के बजाय Wi-Fi नेटवर्क का इस्तेमाल करके रेगुलर फोन कॉल करने और रिसीव करने देता है। ये फीचर यूजर के मौजूदा मोबाइल नंबर के साथ ही काम करता है। इसके लिए किसी अलग एप्लिकेशन, अकाउंट या लॉगिन की जरूरत नहीं होती है। इनेबल होने पर, फोन टेलीकॉम ऑपरेटर के नेटवर्क के जरिए कॉल रूट करने के लिए उपलब्ध Wi-Fi कनेक्शन का इस्तेमाल कर सकता है।
+
+कॉल करने वाला और कॉल रिसीव करने वाला दोनों अपने रेगुलर फोन नंबर का इस्तेमाल कर सकते हैं, भले ही कॉल रिसीव करने वाले व्यक्ति के फोन में Wi-Fi Calling इनेबल न हो।
+
+इस फीचर के लिए एक कम्पैटिबल स्मार्टफोन, एक एलिजिबल SIM कनेक्शन और एक स्टेबल Wi-Fi नेटवर्क की जरूरत होती है। यूजर्स को अपने फोन का सॉफ्टवेयर भी अपडेट रखना चाहिए।
+
+### मोबाइल नेटवर्क पर होने वाली सामान्य कॉल्स से Wi-Fi Calling कैसे अलग है?
+
+Wi-Fi Calling और ट्रेडिशनल सेलुलर कॉल्स के बीच मेन अंतर उस नेटवर्क का है जिसका इस्तेमाल वॉयस डेटा ले जाने के लिए किया जाता है। रेगुलर कॉल्स नजदीकी मोबाइल टावर और ऑपरेटर के सेलुलर नेटवर्क पर निर्भर करती हैं। दूसरी तरफ, Wi-Fi Calling कॉल को Wi-Fi नेटवर्क द्वारा दिए जाने वाले इंटरनेट कनेक्शन के जरिए रूट करती है।
+
+ये अंतर उन जगहों पर बहुत बड़ा फर्क डालता है जहां मोबाइल रिसेप्शन भरोसेमंद नहीं होता। उदाहरण के लिए, किसी बेसमेंट के अंदर यूजर को कॉल ड्रॉप या खराब वॉयस क्वालिटी का सामना करना पड़ सकता है। Wi-Fi Calling इनेबल होने पर, फोन कॉल करने और रिसीव करने के लिए Wi-Fi नेटवर्क का इस्तेमाल कर सकता है।
+
+### iPhone पर Wi-Fi Calling कैसे इनेबल करें?
+
+Apple यूजर्स को कम्पैटिबल iPhone मॉडल्स पर Settings एप के जरिए Wi-Fi Calling इनेबल करने की सुविधा देता है। इसे अपने iPhone पर चालू करने का तरीका यहां दिया गया है:
+
+### Android पर Wi-Fi Calling कैसे इनेबल करें?
+
+Android यूजर्स अपने फोन के नेटवर्क या SIM सेटिंग्स के जरिए Wi-Fi Calling इनेबल कर सकते हैं। अपने Android फोन पर इसे चालू करने का तरीका यहां दिया गया है, हालांकि डिवाइस बनाने वाली कंपनी के आधार पर सेटिंग्स में थोड़ा अंतर हो सकता है:
+
+यह भी पढ़ें: बच्चों को स्मार्टफोन से रखें दूर: खेल-खेल में नई चीजें सिखाएंगे टेक्नोलॉजी वाले ये 6 खास खिलौने
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/technology/tech-guide-how-to-enable-wi-fi-calling-on-iphone-and-android-in-india-step-by-step-guide-40448468.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `घर और ऑफिस के अंदर कॉल ड्रॉप की समस्या होगी दूर, जानें फोन में Wi-Fi Calling इनेबल करने के स्टेप्स - Jagran`,
+    summary_hi: `घर, ऑफिस या बेसमेंट जैसी जगहों पर जहां मोबाइल टावर के सिग्नल कमजोर होते हैं, वहां कॉल ड्रॉप और खराब आवाज की समस्या से बचने के लिए Wi-Fi Calling एक बेहद काम का फीचर है।`,
+    content_hi: `घर, ऑफिस या बेसमेंट जैसी जगहों पर जहां मोबाइल टावर के सिग्नल कमजोर होते हैं, वहां कॉल ड्रॉप और खराब आवाज की समस्या से बचने के लिए Wi-Fi Calling एक बेहद काम का फीचर है।
+
+जानिए Android और iPhone में Wi-Fi Calling ऑन करने का तरीका। Photo- ChatGPT.
+
+टेक्नोलॉजी डेस्क, नई दिल्ली। जब घर के अंदर, खासकर घरों, ऑफिसों और ऐसी इमारतों में जहां सेलुलर सिग्नल मुश्किल से पहुंच पाते हैं, मोबाइल नेटवर्क कवरेज कमजोर होता है, तब Wi-Fi Calling एक बेहद काम का फीचर साबित होता है। ये फीचर यूजर्स को पूरी तरह से नजदीकी मोबाइल टावर पर निर्भर रहने के बजाय, उपलब्ध Wi-Fi कनेक्शन का इस्तेमाल करके रेगुलर फोन कॉल करने और रिसीव करने की सुविधा देता है। इसे Airtel और Reliance Jio समेत इंडियन टेलीकॉम ऑपरेटर्स और कई स्मार्टफोन्स द्वारा सपोर्ट किया जाता है।
+
+भारत में iPhone या Android फोन पर Wi-Fi Calling इनेबल करने का तरीका नीचे दिया गया है।
+
+Wi-Fi Calling एक ऐसा फीचर है जो यूजर्स को मोबाइल नेटवर्क कनेक्शन पर निर्भर रहने के बजाय Wi-Fi नेटवर्क का इस्तेमाल करके रेगुलर फोन कॉल करने और रिसीव करने देता है। ये फीचर यूजर के मौजूदा मोबाइल नंबर के साथ ही काम करता है। इसके लिए किसी अलग एप्लिकेशन, अकाउंट या लॉगिन की जरूरत नहीं होती है। इनेबल होने पर, फोन टेलीकॉम ऑपरेटर के नेटवर्क के जरिए कॉल रूट करने के लिए उपलब्ध Wi-Fi कनेक्शन का इस्तेमाल कर सकता है।
+
+कॉल करने वाला और कॉल रिसीव करने वाला दोनों अपने रेगुलर फोन नंबर का इस्तेमाल कर सकते हैं, भले ही कॉल रिसीव करने वाले व्यक्ति के फोन में Wi-Fi Calling इनेबल न हो।
+
+इस फीचर के लिए एक कम्पैटिबल स्मार्टफोन, एक एलिजिबल SIM कनेक्शन और एक स्टेबल Wi-Fi नेटवर्क की जरूरत होती है। यूजर्स को अपने फोन का सॉफ्टवेयर भी अपडेट रखना चाहिए।
+
+### मोबाइल नेटवर्क पर होने वाली सामान्य कॉल्स से Wi-Fi Calling कैसे अलग है?
+
+Wi-Fi Calling और ट्रेडिशनल सेलुलर कॉल्स के बीच मेन अंतर उस नेटवर्क का है जिसका इस्तेमाल वॉयस डेटा ले जाने के लिए किया जाता है। रेगुलर कॉल्स नजदीकी मोबाइल टावर और ऑपरेटर के सेलुलर नेटवर्क पर निर्भर करती हैं। दूसरी तरफ, Wi-Fi Calling कॉल को Wi-Fi नेटवर्क द्वारा दिए जाने वाले इंटरनेट कनेक्शन के जरिए रूट करती है।
+
+ये अंतर उन जगहों पर बहुत बड़ा फर्क डालता है जहां मोबाइल रिसेप्शन भरोसेमंद नहीं होता। उदाहरण के लिए, किसी बेसमेंट के अंदर यूजर को कॉल ड्रॉप या खराब वॉयस क्वालिटी का सामना करना पड़ सकता है। Wi-Fi Calling इनेबल होने पर, फोन कॉल करने और रिसीव करने के लिए Wi-Fi नेटवर्क का इस्तेमाल कर सकता है।
+
+### iPhone पर Wi-Fi Calling कैसे इनेबल करें?
+
+Apple यूजर्स को कम्पैटिबल iPhone मॉडल्स पर Settings एप के जरिए Wi-Fi Calling इनेबल करने की सुविधा देता है। इसे अपने iPhone पर चालू करने का तरीका यहां दिया गया है:
+
+### Android पर Wi-Fi Calling कैसे इनेबल करें?
+
+Android यूजर्स अपने फोन के नेटवर्क या SIM सेटिंग्स के जरिए Wi-Fi Calling इनेबल कर सकते हैं। अपने Android फोन पर इसे चालू करने का तरीका यहां दिया गया है, हालांकि डिवाइस बनाने वाली कंपनी के आधार पर सेटिंग्स में थोड़ा अंतर हो सकता है:
+
+यह भी पढ़ें: बच्चों को स्मार्टफोन से रखें दूर: खेल-खेल में नई चीजें सिखाएंगे टेक्नोलॉजी वाले ये 6 खास खिलौने
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/technology/tech-guide-how-to-enable-wi-fi-calling-on-iphone-and-android-in-india-step-by-step-guide-40448468.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक घर और ऑफिस के अंदर कॉल ड्रॉप की समस्या होगी दूर, जानें फोन में Wi-Fi Calling इनेबल करने के स्टेप्स - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+  {
+    id: 97919,
+    title: `‘Irreversible reality’: Kim lays out North Korea's nuclear expansion plans after ignoring Trump's offer t`,
+    slug: `irreversible-reality-kim-lays-out-north-koreas-nuclear-expansion-plans-2026`,
+    original_title: `‘Irreversible reality’: Kim lays out North Korea's nuclear expansion plans after ignoring Trump's offer t`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:00Z`,
+    updated_at: `2026-11-26T06:12:00Z`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/world/rest-of-world/irreversible-reality-kim-lays-out-north-koreas-nuclear-expansion-plans-after-ignoring-trumps-offer-to-meet/articleshow/136175781.cms`,
+    source_courtesy: `Source: The Times of India`,
+    image_url: `/images/articles/irreversible-reality-kim-lays-out-north-koreas-nuclear-expansion-plans-2026.jpg`,
+    image_alt: `‘Irreversible reality’: Kim lays out North Korea's nuclear expansion plans after ignoring Trump's offer t`,
+    image_courtesy: `Image: The Times of India (External Source Attribution)`,
+    image_photographer: `The Times of India`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `North Korean leader Kim Jong Un has called for expanding the country's nuclear weapons programme after inspecting two nuclear materials production facilities, reaffirming Pyongyang's determination to strengthen its atomic arsenal despite US`,
+    content: `North Korean leader Kim Jong Un has called for expanding the country's nuclear weapons programme after inspecting two nuclear materials production facilities, reaffirming Pyongyang's determination to strengthen its atomic arsenal despite US President Donald Trump's latest offer to resume diplomatic engagement.Kim's visit to the facilities, one newly inaugurated and the other undergoing expansion, came after Trump expressed interest in meeting the North Korean leader during his recent Asia visit.
+
+However, Pyongyang did not publicly respond to the US president's overture, and no meeting took place.North Korea's state-run Korean Central News Agency (KCNA) reported on Thursday that Kim inspected the facilities on Wednesday, accompanied by senior military officials. Photographs released by the agency showed Kim walking through halls containing rows of equipment believed to be centrifuges used for uranium enrichment.
+
+Other images appeared to show displays of nuclear warheads, although some photographs were blurred.KCNA also said Kim visited a nuclear-powered equipment production base and a nuclear research institute as part of the inspection.Kim said the visit was aimed at strengthening the country's defence capabilities in response to what he described as “variable nuclear threats approaching the Korean Peninsula moment by moment”.He accused the United States of encouraging its regional allies to acquire nuclear-powered submarines and committing to sharing its nuclear weapons with them.“The validity and substantiality of our possession of nuclear weapons and the trend of bolstering up its nuclear capability in quality and quantity are an irreversible reality,” Kim said, according to KCNA.Kim also called for further development of North Korea's low-yield battlefield nuclear weapons, arguing that deploying such weapons across multiple domains for different military missions was essential given the country's security situation.He referred to South Korea as the “inevitable reality facing the border with the most dangerous enemy state”, underscoring Pyongyang's continued focus on its southern neighbour as a primary security threat.Kim seeks to strengthen nuclear capabilitiesKim's latest remarks reinforce his position that North Korea will not abandon its nuclear weapons programme, which has become central to the country's military strategy and political leadership.In recent years, he has accelerated the expansion of the programme following the collapse of high-level negotiations with Trump in 2019.
+
+The two leaders had held multiple rounds of diplomatic engagement during Trump's first presidential term, but their efforts failed to produce an agreement on denuclearisation and sanctions relief.North Korea has disclosed uranium enrichment facilities on only a few occasions. The country first revealed a facility at its main Yongbyon nuclear complex to visiting American scholars in 2010.Pyongyang has not disclosed the locations of the two facilities inspected by Kim this week.
+
+In June, when North Korea released images of parts of a uranium enrichment facility during another visit by Kim, outside experts assessed that it was likely an additional enrichment site that the country was suspected of developing at Yongbyon.Last week, International Atomic Energy Agency (IAEA) Director General Rafael Grossi said North Korea had been expanding its original uranium enrichment facility at Yongbyon, describing the development as “a cause for serious concern.”Nuclear weapons can be produced using either highly enriched uranium or weapons-grade plutonium.
+
+North Korea has facilities to produce both materials at Yongbyon.Last year, South Korea's Unification Minister Chung Dong-young said North Korea was operating four uranium enrichment facilities and that they were running every day.Trump says meeting with Kim could happen laterTrump reiterated his willingness to resume diplomatic engagement with Kim during his visit to China last week for the Asia-Pacific Economic Cooperation (APEC) summit.
+
+However, the proposed meeting did not materialise, with North Korea making no public response to his offer.In an interview with the New York Post this week, Trump dismissed suggestions that Kim had ignored his outreach.“No, he didn’t ignore it. You know, we had many leaders there … There’ll be a time when we meet … It was just not really the right time.
+
+It was a very busy two-day period.”Trump also said he could revive diplomatic engagement with Kim at any time by restarting the exchange of letters that the two leaders maintained during his first term. However, he acknowledged that they had not corresponded “recently.”Kim has previously indicated that he could consider returning to negotiations if Washington abandons what Pyongyang describes as its “hostile policy” towards North Korea and recognises the country's status as a nuclear state.Experts believe Kim is seeking international recognition of North Korea as a nuclear-armed state, which could strengthen his position in negotiations and allow him to push for the lifting of international sanctions.North Korea strengthens ties with Russia, ChinaAlongside expanding its nuclear programme, Kim has increasingly shifted North Korea's foreign policy towards strengthening ties with its Cold War-era allies, Russia and China.The diplomatic shift followed the breakdown of negotiations with Washington in 2019 and has helped Pyongyang strengthen its regional position while pursuing its ambition of establishing North Korea as a permanent nuclear power.Kim's latest inspection and call for further nuclear weapons development indicate that Pyongyang remains committed to expanding its arsenal, even as Trump continues to express interest in restarting direct diplomacy.You use AI every day.
+
+Now get your AI Quotient. Take the AIQ test.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/world/rest-of-world/irreversible-reality-kim-lays-out-north-koreas-nuclear-expansion-plans-after-ignoring-trumps-offer-to-meet/articleshow/136175781.cms)`,
+    title_en: `‘Irreversible reality’: Kim lays out North Korea's nuclear expansion plans after ignoring Trump's offer t`,
+    summary_en: `North Korean leader Kim Jong Un has called for expanding the country's nuclear weapons programme after inspecting two nuclear materials production facilities, reaffirming Pyongyang's determination to strengthen its atomic arsenal despite US`,
+    content_en: `North Korean leader Kim Jong Un has called for expanding the country's nuclear weapons programme after inspecting two nuclear materials production facilities, reaffirming Pyongyang's determination to strengthen its atomic arsenal despite US President Donald Trump's latest offer to resume diplomatic engagement.Kim's visit to the facilities, one newly inaugurated and the other undergoing expansion, came after Trump expressed interest in meeting the North Korean leader during his recent Asia visit.
+
+However, Pyongyang did not publicly respond to the US president's overture, and no meeting took place.North Korea's state-run Korean Central News Agency (KCNA) reported on Thursday that Kim inspected the facilities on Wednesday, accompanied by senior military officials. Photographs released by the agency showed Kim walking through halls containing rows of equipment believed to be centrifuges used for uranium enrichment.
+
+Other images appeared to show displays of nuclear warheads, although some photographs were blurred.KCNA also said Kim visited a nuclear-powered equipment production base and a nuclear research institute as part of the inspection.Kim said the visit was aimed at strengthening the country's defence capabilities in response to what he described as “variable nuclear threats approaching the Korean Peninsula moment by moment”.He accused the United States of encouraging its regional allies to acquire nuclear-powered submarines and committing to sharing its nuclear weapons with them.“The validity and substantiality of our possession of nuclear weapons and the trend of bolstering up its nuclear capability in quality and quantity are an irreversible reality,” Kim said, according to KCNA.Kim also called for further development of North Korea's low-yield battlefield nuclear weapons, arguing that deploying such weapons across multiple domains for different military missions was essential given the country's security situation.He referred to South Korea as the “inevitable reality facing the border with the most dangerous enemy state”, underscoring Pyongyang's continued focus on its southern neighbour as a primary security threat.Kim seeks to strengthen nuclear capabilitiesKim's latest remarks reinforce his position that North Korea will not abandon its nuclear weapons programme, which has become central to the country's military strategy and political leadership.In recent years, he has accelerated the expansion of the programme following the collapse of high-level negotiations with Trump in 2019.
+
+The two leaders had held multiple rounds of diplomatic engagement during Trump's first presidential term, but their efforts failed to produce an agreement on denuclearisation and sanctions relief.North Korea has disclosed uranium enrichment facilities on only a few occasions. The country first revealed a facility at its main Yongbyon nuclear complex to visiting American scholars in 2010.Pyongyang has not disclosed the locations of the two facilities inspected by Kim this week.
+
+In June, when North Korea released images of parts of a uranium enrichment facility during another visit by Kim, outside experts assessed that it was likely an additional enrichment site that the country was suspected of developing at Yongbyon.Last week, International Atomic Energy Agency (IAEA) Director General Rafael Grossi said North Korea had been expanding its original uranium enrichment facility at Yongbyon, describing the development as “a cause for serious concern.”Nuclear weapons can be produced using either highly enriched uranium or weapons-grade plutonium.
+
+North Korea has facilities to produce both materials at Yongbyon.Last year, South Korea's Unification Minister Chung Dong-young said North Korea was operating four uranium enrichment facilities and that they were running every day.Trump says meeting with Kim could happen laterTrump reiterated his willingness to resume diplomatic engagement with Kim during his visit to China last week for the Asia-Pacific Economic Cooperation (APEC) summit.
+
+However, the proposed meeting did not materialise, with North Korea making no public response to his offer.In an interview with the New York Post this week, Trump dismissed suggestions that Kim had ignored his outreach.“No, he didn’t ignore it. You know, we had many leaders there … There’ll be a time when we meet … It was just not really the right time.
+
+It was a very busy two-day period.”Trump also said he could revive diplomatic engagement with Kim at any time by restarting the exchange of letters that the two leaders maintained during his first term. However, he acknowledged that they had not corresponded “recently.”Kim has previously indicated that he could consider returning to negotiations if Washington abandons what Pyongyang describes as its “hostile policy” towards North Korea and recognises the country's status as a nuclear state.Experts believe Kim is seeking international recognition of North Korea as a nuclear-armed state, which could strengthen his position in negotiations and allow him to push for the lifting of international sanctions.North Korea strengthens ties with Russia, ChinaAlongside expanding its nuclear programme, Kim has increasingly shifted North Korea's foreign policy towards strengthening ties with its Cold War-era allies, Russia and China.The diplomatic shift followed the breakdown of negotiations with Washington in 2019 and has helped Pyongyang strengthen its regional position while pursuing its ambition of establishing North Korea as a permanent nuclear power.Kim's latest inspection and call for further nuclear weapons development indicate that Pyongyang remains committed to expanding its arsenal, even as Trump continues to express interest in restarting direct diplomacy.You use AI every day.
+
+Now get your AI Quotient. Take the AIQ test.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/world/rest-of-world/irreversible-reality-kim-lays-out-north-koreas-nuclear-expansion-plans-after-ignoring-trumps-offer-to-meet/articleshow/136175781.cms)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Times of India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for ‘Irreversible reality’: Kim lays out North Korea's nuclear expansion plans after ignoring Trump's offer t.`,
+    primary_source: `The Times of India`,
+  },
+  {
+    id: 97920,
+    title: `Saudi-led coalition intercepts Houthi attacks after Hodeidah strike - Al Jazeera`,
+    slug: `saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike-al-2026`,
+    original_title: `Saudi-led coalition intercepts Houthi attacks after Hodeidah strike - Al Jazeera`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:01Z`,
+    updated_at: `2026-11-26T06:12:01Z`,
+    source_name: `Al Jazeera`,
+    source_url: `https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike`,
+    source_courtesy: `Source: Al Jazeera`,
+    image_url: `/images/articles/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike-al-2026.webp`,
+    image_alt: `Saudi-led coalition intercepts Houthi attacks after Hodeidah strike - Al Jazeera`,
+    image_courtesy: `Image: Al Jazeera (External Source Attribution)`,
+    image_photographer: `Al Jazeera`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `The escalation comes after the Yemeni rebel group threatened to attack the kingdom’s Red Sea ports if Saudi forces bombed port city.`,
+    content: `The escalation comes after the Yemeni rebel group threatened to attack the kingdom’s Red Sea ports if Saudi forces bombed port city.
+
+Saudi Arabia says its air defences have intercepted several drones launched by Yemen’s Houthi rebels, a day after the Saudi-led coalition supporting the Yemeni government carried out an air strike on the rebel-held port city of Hodeidah.
+
+The coalition’s spokesman Turki Al-Maliki said that Saudi air defence systems destroyed four drones in Ras Tanura in Saudi Arabia’s east on Wednesday morning, adding that fragments fell due to the interception, with no casualties reported in the initial assessment.
+
+Al-Maliki said earlier that three drones were also shot down in the Eastern province.
+
+The interceptions came after the Saudi-led coalition, which backs Yemen’s internationally recognised government, said it had struck Yemen’s Hodeidah .
+
+The Houthi armed group earlier threatened to retaliate against the kingdom’s Red Sea ports, including Jeddah in the event of an attack.
+
+In a statement issued by Houthi spokesperson Yahya Saree, the Iran-aligned rebel group urged employees and workers at the ports, as well as people nearby, to evacuate immediately and called on shipping companies to withdraw their vessels.
+
+The attacks are the latest further escalation in the confrontation between the Houthis and Saudi Arabia, with attacks increasingly targeting strategic infrastructure on both sides.
+
+On Tuesday, a Houthi drone struck the tallest tower in Riyadh, injuring at least 11 people , according to Saudi authorities.
+
+Qatar and Pakistan, which have been mediating efforts to end the wider war in the region between Iran and the United States, both “strongly” condemned the attack on the tower, which houses the Saudi sovereign wealth fund.
+
+The building had already been attacked last Thursday and is one of several high-profile targets hit since fighting with the Iran-backed Yemeni group reignited in July.
+
+The Saudi-led coalition fighting the Houthis promised a firm response to the attack.
+
+The Saudi-led coalition targeted operational capabilities at Hodeidah and destroyed several targets in the Yemeni governorates of Saada and Amran, al-Maliki said.
+
+Hodeidah, on Yemen’s Red Sea coast, is the main port through which food and other essential supplies enter Houthi-controlled northern Yemen.
+
+It has long served as a key entry point for humanitarian aid and commercial imports, making it a lifeline for millions of Yemenis in a country heavily dependent on imported food.
+
+Renewed fighting between the two sides has intensified since the Houthis announced a blockade on Saudi ports in July. In September, the Iran-aligned group launched a lightning offensive, seizing territory from Yemeni government forces near the Bab al-Mandeb strait, a strategic shipping chokepoint at the southern entrance to the Red Sea.
+
+Yemeni government forces launched a counteroffensive last month, reclaiming some territory as fighting continues to rage on several fronts.
+
+The Houthis have also stepped up strikes on Saudi airports, ports and oil facilities, while Saudi Arabia has ramped up air strikes on Houthi targets in Yemen in response.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike)`,
+    title_en: `Saudi-led coalition intercepts Houthi attacks after Hodeidah strike - Al Jazeera`,
+    summary_en: `The escalation comes after the Yemeni rebel group threatened to attack the kingdom’s Red Sea ports if Saudi forces bombed port city.`,
+    content_en: `The escalation comes after the Yemeni rebel group threatened to attack the kingdom’s Red Sea ports if Saudi forces bombed port city.
+
+Saudi Arabia says its air defences have intercepted several drones launched by Yemen’s Houthi rebels, a day after the Saudi-led coalition supporting the Yemeni government carried out an air strike on the rebel-held port city of Hodeidah.
+
+The coalition’s spokesman Turki Al-Maliki said that Saudi air defence systems destroyed four drones in Ras Tanura in Saudi Arabia’s east on Wednesday morning, adding that fragments fell due to the interception, with no casualties reported in the initial assessment.
+
+Al-Maliki said earlier that three drones were also shot down in the Eastern province.
+
+The interceptions came after the Saudi-led coalition, which backs Yemen’s internationally recognised government, said it had struck Yemen’s Hodeidah .
+
+The Houthi armed group earlier threatened to retaliate against the kingdom’s Red Sea ports, including Jeddah in the event of an attack.
+
+In a statement issued by Houthi spokesperson Yahya Saree, the Iran-aligned rebel group urged employees and workers at the ports, as well as people nearby, to evacuate immediately and called on shipping companies to withdraw their vessels.
+
+The attacks are the latest further escalation in the confrontation between the Houthis and Saudi Arabia, with attacks increasingly targeting strategic infrastructure on both sides.
+
+On Tuesday, a Houthi drone struck the tallest tower in Riyadh, injuring at least 11 people , according to Saudi authorities.
+
+Qatar and Pakistan, which have been mediating efforts to end the wider war in the region between Iran and the United States, both “strongly” condemned the attack on the tower, which houses the Saudi sovereign wealth fund.
+
+The building had already been attacked last Thursday and is one of several high-profile targets hit since fighting with the Iran-backed Yemeni group reignited in July.
+
+The Saudi-led coalition fighting the Houthis promised a firm response to the attack.
+
+The Saudi-led coalition targeted operational capabilities at Hodeidah and destroyed several targets in the Yemeni governorates of Saada and Amran, al-Maliki said.
+
+Hodeidah, on Yemen’s Red Sea coast, is the main port through which food and other essential supplies enter Houthi-controlled northern Yemen.
+
+It has long served as a key entry point for humanitarian aid and commercial imports, making it a lifeline for millions of Yemenis in a country heavily dependent on imported food.
+
+Renewed fighting between the two sides has intensified since the Houthis announced a blockade on Saudi ports in July. In September, the Iran-aligned group launched a lightning offensive, seizing territory from Yemeni government forces near the Bab al-Mandeb strait, a strategic shipping chokepoint at the southern entrance to the Red Sea.
+
+Yemeni government forces launched a counteroffensive last month, reclaiming some territory as fighting continues to rage on several fronts.
+
+The Houthis have also stepped up strikes on Saudi airports, ports and oil facilities, while Saudi Arabia has ramped up air strikes on Houthi targets in Yemen in response.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Al Jazeera.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Saudi-led coalition intercepts Houthi attacks after Hodeidah strike - Al Jazeera.`,
+    primary_source: `Al Jazeera`,
+  },
+  {
+    id: 97921,
+    title: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    slug: `world-breaking-report-87856-97921-2026`,
+    original_title: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:03Z`,
+    updated_at: `2026-11-26T06:12:03Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/ckg5rzg1d4leo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/world-breaking-report-87856-97921-2026.jpg`,
+    image_alt: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.`,
+    content: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.
+
+ये टैरिफ़ मैन्युफ़ैक्चरिंग के अलग-अलग क्षेत्रों में ज़रूरत से ज़्यादा उत्पादन और उत्पादन क्षमता की जांच के लिए की गई सेक्शन 301 की जांच के बाद लगाए जा रहे हैं.
+
+इस जांच के दायरे में आने वाली देश हैं: भारत, चीन, यूरोपीय संघ, सिंगापुर, स्विट्ज़रलैंड, इंडोनेशिया, मलेशिया, कंबोडिया, थाईलैंड, दक्षिण कोरिया, वियतनाम, ताइवान, बांग्लादेश और जापान.
+
+अलग-अलग देशों और उत्पादों पर अलग-अलग दरों से टैरिफ़ लगाया जाएगा.
+
+चीन पर सबसे ज़्यादा, 40 फ़ीसदी तक टैरिफ़ लगाया गया है. इसके बाद वियतनाम पर 35 फ़ीसदी तक टैरिफ़ लगेगा. वहीं, दूसरे देशों पर 20 या 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा.
+
+कुछ देशों पर अधिकतम 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा. इनमें थाईलैंड और भारत शामिल हैं. वहीं, जापान समेत कुछ अन्य देशों पर अधिकतम 20 फ़ीसदी तक टैरिफ़ लगेगा. इस सूची में ब्रिटेन शामिल नहीं है.
+
+हालांकि, इनमें से कुछ टैरिफ़ की दरें असल में कम हो जाएंगी, क्योंकि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप पहले ही कुछ देशों के साथ टैरिफ़ की अधिकतम सीमा तय करने पर सहमत हो चुके हैं.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+राष्ट्रपति ट्रंप ने अपने दूसरे कार्यकाल में बार-बार टैरिफ़ लगाने की धमकी दी है या उन्हें लागू किया है. उनका तर्क है कि इस नीति से अमेरिका में मैन्युफ़ैक्चरिंग को बढ़ावा मिलेगा और रोज़गार के नए अवसर पैदा होंगे.
+
+हालांकि, अर्थशास्त्रियों ने चेतावनी दी है कि आयात पर टैक्स लगाने से महंगाई बढ़ सकती है और उपभोक्ताओं के लिए चीज़ें महंगी हो सकती हैं. इससे वैश्विक व्यापार पर भी असर पड़ सकता है.
+
+यह ताज़ा क़दम ऐसे समय उठाया गया है, जब इस साल की शुरुआत में अमेरिकी सुप्रीम कोर्ट ने फ़ैसला दिया था कि आपातकालीन शक्तियों का इस्तेमाल करके ट्रंप की ओर से लगाए गए कई टैरिफ़ ग़ैरक़ानूनी थे.
+
+इसके बाद इस साल गर्मी में अमेरिका की उन कंपनियों को अरबों डॉलर का टैरिफ़ रिफंड देना पड़ा, जिन्होंने सामान आयात करने के लिए ये शुल्क चुकाए थे.
+
+हालांकि, इससे ट्रंप प्रशासन की टैरिफ़ लगाने की कोशिशों पर कोई रोक नहीं लगी. व्हाइट हाउस इन टैक्स को लागू करने के लिए क़ानून के दूसरे रास्ते तलाश रहा है. आज का फ़ैसला भी इसी कोशिश का एक और उदाहरण है.
+
+पिछले साल अप्रैल में डोनाल्ड ट्रंप ने दुनिया के कई व्यापारिक साझेदारों पर बड़े पैमाने पर टैरिफ़ लगाने का एलान किया था. इसके लिए उन्होंने अमेरिकी राष्ट्रपति को मिले आपातकालीन अधिकारों का इस्तेमाल किया था.
+
+इनमें से कई टैरिफ़ को बाद में अमेरिकी सुप्रीम कोर्ट ने रद्द कर दिया था.
+
+इसलिए बुधवार को जिन आयात शुल्कों का एलान किया गया है, वे ट्रंप के टैरिफ़ को दोबारा लागू करने की नई कोशिश हैं.
+
+हालांकि, इस बार ट्रंप प्रशासन ने अलग तरीक़ा अपनाया है. ISEAS-युसोफ़ इशाक इंस्टीट्यूट के व्यापार विशेषज्ञ जयंत मेनन का कहना है कि इस वजह से इन टैरिफ़ को किसी क़ानूनी चुनौती के ज़रिए रद्द कराना मुश्किल हो सकता है.
+
+मेनन के मुताबिक़, पिछले साल ट्रंप ने जिन टैरिफ़ का एलान किया था, उनकी तुलना में नए शुल्क कम क्षेत्रों पर लागू होंगे. इनकी दरें भी ज़्यादातर मामलों में काफ़ी कम और एक जैसी हैं.
+
+ये टैरिफ़ व्हाइट हाउस की ओर से कराई गई कई महीनों की जांच पर भी आधारित हैं. इस जांच में इन क्षेत्रों की श्रम और व्यापार नीतियों और अमेरिका पर उनके संभावित असर का अध्ययन किया गया.
+
+### सुप्रीम कोर्ट के फ़ैसले के बाद नए टैरिफ़ की तैयारी की थी
+
+नए टैरिफ़ लगाने के प्रस्ताव ऐसे समय आए हैं, जब व्हाइट हाउस ने मार्च में दूसरे देशों की व्यापार नीतियों की जांच शुरू की थी.
+
+यह जांच अमेरिकी सुप्रीम कोर्ट के उस फ़ैसले के बाद शुरू हुई थी, जिसमें कहा गया था कि ट्रंप के तथाकथित 'लिबरेशन डे' टैरिफ़, जिन्हें प्रशासन ने जवाबी टैरिफ़ कहा था, क़ानूनी नहीं थे.
+
+अदालत के इस फ़ैसले के बाद ट्रंप ने कहा था कि वह टैरिफ़ लगाने के लिए दूसरे क़ानूनी तरीक़ों का इस्तेमाल करेंगे.
+
+मार्च में अमेरिका ने सेक्शन 301 के तहत जांच शुरू की. इसमें यह पता लगाया जाना था कि क्या कुछ व्यापारिक साझेदार ऐसी नीतियां अपना रहे हैं, जो "अनुचित या भेदभावपूर्ण हैं और अमेरिकी व्यापार पर बोझ डालती हैं या उसे सीमित करती हैं".
+
+उस समय अमेरिकी व्यापार प्रतिनिधि जैमीसन ग्रीयर ने कहा था, "अमेरिका अब अपने औद्योगिक आधार को उन देशों के हाथों ख़त्म नहीं होने देगा, जो अपनी ज़रूरत से ज़्यादा उत्पादन और क्षमता की समस्या हमारे यहां निर्यात कर सकते हैं."
+
+उन्होंने कहा था, "आज शुरू की गई जांच राष्ट्रपति ट्रंप की उस प्रतिबद्धता को दिखाती है, जिसके तहत अहम सप्लाई चेन को वापस अमेरिका लाना और मैन्युफ़ैक्चरिंग के सभी क्षेत्रों में अमेरिकी कामगारों के लिए अच्छी तनख़्वाह वाली नौकरियां पैदा करना शामिल है."
+
+ग्रीयर ने आगे कहा, "कई क्षेत्रों में अमेरिका के व्यापारिक साझेदार घरेलू स्तर पर अपनी खपत से ज़्यादा सामान बना रहे हैं."
+
+आज के एलान में जिन देशों और क्षेत्रों को निशाना बनाया गया है, उनमें से कई ऐसे हैं जिन पर ट्रंप अक्सर व्यापार के मामले में निशाना साधते रहे हैं.
+
+लेकिन इस सूची में एक अहम नाम नहीं है-कनाडा.
+
+जब कनाडा के बारे में पूछा गया, तो मंगलवार को पत्रकारों को जानकारी देने वाले ट्रंप प्रशासन के एक वरिष्ठ अधिकारी ने कहा कि जिन देशों की व्यापार नीतियों की जांच शुरू की गई थी और बाद में जिन्हें दोषी  पाया गया उनमें कनाडा शामिल नहीं था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ckg5rzg1d4leo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    summary_hi: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.`,
+    content_hi: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.
+
+ये टैरिफ़ मैन्युफ़ैक्चरिंग के अलग-अलग क्षेत्रों में ज़रूरत से ज़्यादा उत्पादन और उत्पादन क्षमता की जांच के लिए की गई सेक्शन 301 की जांच के बाद लगाए जा रहे हैं.
+
+इस जांच के दायरे में आने वाली देश हैं: भारत, चीन, यूरोपीय संघ, सिंगापुर, स्विट्ज़रलैंड, इंडोनेशिया, मलेशिया, कंबोडिया, थाईलैंड, दक्षिण कोरिया, वियतनाम, ताइवान, बांग्लादेश और जापान.
+
+अलग-अलग देशों और उत्पादों पर अलग-अलग दरों से टैरिफ़ लगाया जाएगा.
+
+चीन पर सबसे ज़्यादा, 40 फ़ीसदी तक टैरिफ़ लगाया गया है. इसके बाद वियतनाम पर 35 फ़ीसदी तक टैरिफ़ लगेगा. वहीं, दूसरे देशों पर 20 या 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा.
+
+कुछ देशों पर अधिकतम 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा. इनमें थाईलैंड और भारत शामिल हैं. वहीं, जापान समेत कुछ अन्य देशों पर अधिकतम 20 फ़ीसदी तक टैरिफ़ लगेगा. इस सूची में ब्रिटेन शामिल नहीं है.
+
+हालांकि, इनमें से कुछ टैरिफ़ की दरें असल में कम हो जाएंगी, क्योंकि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप पहले ही कुछ देशों के साथ टैरिफ़ की अधिकतम सीमा तय करने पर सहमत हो चुके हैं.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+राष्ट्रपति ट्रंप ने अपने दूसरे कार्यकाल में बार-बार टैरिफ़ लगाने की धमकी दी है या उन्हें लागू किया है. उनका तर्क है कि इस नीति से अमेरिका में मैन्युफ़ैक्चरिंग को बढ़ावा मिलेगा और रोज़गार के नए अवसर पैदा होंगे.
+
+हालांकि, अर्थशास्त्रियों ने चेतावनी दी है कि आयात पर टैक्स लगाने से महंगाई बढ़ सकती है और उपभोक्ताओं के लिए चीज़ें महंगी हो सकती हैं. इससे वैश्विक व्यापार पर भी असर पड़ सकता है.
+
+यह ताज़ा क़दम ऐसे समय उठाया गया है, जब इस साल की शुरुआत में अमेरिकी सुप्रीम कोर्ट ने फ़ैसला दिया था कि आपातकालीन शक्तियों का इस्तेमाल करके ट्रंप की ओर से लगाए गए कई टैरिफ़ ग़ैरक़ानूनी थे.
+
+इसके बाद इस साल गर्मी में अमेरिका की उन कंपनियों को अरबों डॉलर का टैरिफ़ रिफंड देना पड़ा, जिन्होंने सामान आयात करने के लिए ये शुल्क चुकाए थे.
+
+हालांकि, इससे ट्रंप प्रशासन की टैरिफ़ लगाने की कोशिशों पर कोई रोक नहीं लगी. व्हाइट हाउस इन टैक्स को लागू करने के लिए क़ानून के दूसरे रास्ते तलाश रहा है. आज का फ़ैसला भी इसी कोशिश का एक और उदाहरण है.
+
+पिछले साल अप्रैल में डोनाल्ड ट्रंप ने दुनिया के कई व्यापारिक साझेदारों पर बड़े पैमाने पर टैरिफ़ लगाने का एलान किया था. इसके लिए उन्होंने अमेरिकी राष्ट्रपति को मिले आपातकालीन अधिकारों का इस्तेमाल किया था.
+
+इनमें से कई टैरिफ़ को बाद में अमेरिकी सुप्रीम कोर्ट ने रद्द कर दिया था.
+
+इसलिए बुधवार को जिन आयात शुल्कों का एलान किया गया है, वे ट्रंप के टैरिफ़ को दोबारा लागू करने की नई कोशिश हैं.
+
+हालांकि, इस बार ट्रंप प्रशासन ने अलग तरीक़ा अपनाया है. ISEAS-युसोफ़ इशाक इंस्टीट्यूट के व्यापार विशेषज्ञ जयंत मेनन का कहना है कि इस वजह से इन टैरिफ़ को किसी क़ानूनी चुनौती के ज़रिए रद्द कराना मुश्किल हो सकता है.
+
+मेनन के मुताबिक़, पिछले साल ट्रंप ने जिन टैरिफ़ का एलान किया था, उनकी तुलना में नए शुल्क कम क्षेत्रों पर लागू होंगे. इनकी दरें भी ज़्यादातर मामलों में काफ़ी कम और एक जैसी हैं.
+
+ये टैरिफ़ व्हाइट हाउस की ओर से कराई गई कई महीनों की जांच पर भी आधारित हैं. इस जांच में इन क्षेत्रों की श्रम और व्यापार नीतियों और अमेरिका पर उनके संभावित असर का अध्ययन किया गया.
+
+### सुप्रीम कोर्ट के फ़ैसले के बाद नए टैरिफ़ की तैयारी की थी
+
+नए टैरिफ़ लगाने के प्रस्ताव ऐसे समय आए हैं, जब व्हाइट हाउस ने मार्च में दूसरे देशों की व्यापार नीतियों की जांच शुरू की थी.
+
+यह जांच अमेरिकी सुप्रीम कोर्ट के उस फ़ैसले के बाद शुरू हुई थी, जिसमें कहा गया था कि ट्रंप के तथाकथित 'लिबरेशन डे' टैरिफ़, जिन्हें प्रशासन ने जवाबी टैरिफ़ कहा था, क़ानूनी नहीं थे.
+
+अदालत के इस फ़ैसले के बाद ट्रंप ने कहा था कि वह टैरिफ़ लगाने के लिए दूसरे क़ानूनी तरीक़ों का इस्तेमाल करेंगे.
+
+मार्च में अमेरिका ने सेक्शन 301 के तहत जांच शुरू की. इसमें यह पता लगाया जाना था कि क्या कुछ व्यापारिक साझेदार ऐसी नीतियां अपना रहे हैं, जो "अनुचित या भेदभावपूर्ण हैं और अमेरिकी व्यापार पर बोझ डालती हैं या उसे सीमित करती हैं".
+
+उस समय अमेरिकी व्यापार प्रतिनिधि जैमीसन ग्रीयर ने कहा था, "अमेरिका अब अपने औद्योगिक आधार को उन देशों के हाथों ख़त्म नहीं होने देगा, जो अपनी ज़रूरत से ज़्यादा उत्पादन और क्षमता की समस्या हमारे यहां निर्यात कर सकते हैं."
+
+उन्होंने कहा था, "आज शुरू की गई जांच राष्ट्रपति ट्रंप की उस प्रतिबद्धता को दिखाती है, जिसके तहत अहम सप्लाई चेन को वापस अमेरिका लाना और मैन्युफ़ैक्चरिंग के सभी क्षेत्रों में अमेरिकी कामगारों के लिए अच्छी तनख़्वाह वाली नौकरियां पैदा करना शामिल है."
+
+ग्रीयर ने आगे कहा, "कई क्षेत्रों में अमेरिका के व्यापारिक साझेदार घरेलू स्तर पर अपनी खपत से ज़्यादा सामान बना रहे हैं."
+
+आज के एलान में जिन देशों और क्षेत्रों को निशाना बनाया गया है, उनमें से कई ऐसे हैं जिन पर ट्रंप अक्सर व्यापार के मामले में निशाना साधते रहे हैं.
+
+लेकिन इस सूची में एक अहम नाम नहीं है-कनाडा.
+
+जब कनाडा के बारे में पूछा गया, तो मंगलवार को पत्रकारों को जानकारी देने वाले ट्रंप प्रशासन के एक वरिष्ठ अधिकारी ने कहा कि जिन देशों की व्यापार नीतियों की जांच शुरू की गई थी और बाद में जिन्हें दोषी  पाया गया उनमें कनाडा शामिल नहीं था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ckg5rzg1d4leo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 97922,
+    title: `145 की स्पीड पर फटे चारों टायर...फिर भी नहीं डगमगाई गाड़ी! कंपनी के प्रेसिडेंट खुद चला रहे थे कार - AajTak`,
+    slug: `145-aajtak-2026`,
+    original_title: `145 की स्पीड पर फटे चारों टायर...फिर भी नहीं डगमगाई गाड़ी! कंपनी के प्रेसिडेंट खुद चला रहे थे कार - AajTak`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:05Z`,
+    updated_at: `2026-11-26T06:12:05Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/auto/news/story/chinese-car-brand-avatr-06t-four-tire-blowout-test-145-kmph-auaw-dskc-2704655-2026-11-26`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b055ed3879ca-avatr-06t-tire-blowout-test-245426485.jpg`,
+    image_alt: `145 की स्पीड पर फटे चारों टायर...फिर भी नहीं डगमगाई गाड़ी! कंपनी के प्रेसिडेंट खुद चला रहे थे कार - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `सोचिए, आप हाईवे पर 145 की स्पीड से कार चला रहे हों और अचानक एक साथ चारों टायर फट जाएं. आमतौर पर ऐसी स्थिति में किसी भी कार का संतुलन बिगड़ सकता है और बड़ा हादसा हो सकता है. लेकिन चीन में एक इलेक्ट्रिक कार ने कुछ ऐसा कर दिखाया है, जिसने ऑटोम`,
+    content: `सोचिए, आप हाईवे पर 145 की स्पीड से कार चला रहे हों और अचानक एक साथ चारों टायर फट जाएं. आमतौर पर ऐसी स्थिति में किसी भी कार का संतुलन बिगड़ सकता है और बड़ा हादसा हो सकता है. लेकिन चीन में एक इलेक्ट्रिक कार ने कुछ ऐसा कर दिखाया है, जिसने ऑटोमोबाइल इंडस्ट्री में हलचल मचा दी है. और पढ़ेंचांगन (Changan) की प्रीमियम इलेक्ट्रिक कार ब्रांड Avatr ने अपनी नई 06T इलेक्ट्रिक वैगन का ऐसा टेस्ट किया, जिसमें तेज रफ्तार पर चारों टायरों की हवा निकाल दी गई.
+
+हैरानी की बात यह रही कि कार न तो रास्ते से भटकी और न ही उसका संतुलन बिगड़ा. इस खतरनाक टेस्ट के दौरान कंपनी के प्रेसिडेंट योंग जुन खुद ड्राइविंग सीट पर बैठे थे. कंपनी ने इस पूरे टेस्ट का लाइव प्रसारण भी किया. Avatr 06T को हाल ही में चीन के बाजार में लॉन्च किया गया है. Photo: Screengrabयह भी पढें: Splendor से सस्ती बाइक पर टूटे लोग!
+
+1 लाख ने खरीदाAvatr ने अपनी 06T वैगन का यह खास टेस्ट चीन के चोंगकिंग स्थित डियानजियांग प्रोविंग ग्राउंड में किया. लाइव टेस्ट के दौरान कार को पहले 145 किमी/घंटा की रफ्तार तक पहुंचाया गया. इसके बाद कार के चारों टायरों को एक साथ पंचर कर दिया गया, जिससे उनमें तेजी से हवा निकल गई. आमतौर पर ऐसी स्थिति में कार का संतुलन बिगड़ने और ड्राइवर के कंट्रोल खोने का खतरा रहता है.
+
+लेकिन Avatr 06T अपनी तय दिशा में आगे बढ़ती रही और बिना डिस्बैलेंस हुए धीरे-धीरे रुक गई.इस टेक्नोलॉजी ने किया बैलेंस Advertisement        कंपनी के अधिकारियों के मुताबिक, इस शानदार परफॉर्मेंस के पीछे कंपनी की &amp;quot;टाईहैंग इंटेलिजेंट कंट्रोल 2.0&#039; टेक्नोलॉजी का बड़ा हाथ है.
+
+यह सिस्टम कार के चारों पहियों पर ब्रेकिंग फोर्स को जरूरत के हिसाब से बांटता है. इसके अलावा यह कार के बाएं और दाएं पहियों के बीच टॉर्क के अंतर को भी कंट्रोल करता है. Avatr 06T के पिछले एक्सल पर दो इलेक्ट्रिक मोटर दी गई हैं, जो जरूरत पड़ने पर टॉर्क को एडजस्ट करके कार को स्टेबल रखने में मदद करती हैं.यह भी पढें: 41,000 पुराने वाहन सीज...
+
+5 करोड़ जुर्माना! गाड़ियों के लिए बदला नियमAvatr के प्रेसिडेंट योंग जुन ने दावा किया कि अगर कार के टायर 220 किमी/घंटा की रफ्तार पर भी फट जाएं तो ये कार पूरी तरह रोड पर बैलेंस्ड रहेगी. हालांकि, कंपनी ने लाइव टेस्ट के दौरान कार को इस रफ्तार तक नहीं पहुंचाया. इसके बजाय कार के कई दूसरे टेस्ट किए गए.
+
+इसके अलावा कार का क्रैश टेस्ट भी किया गया. कंपनी ने 50 किमी/घंटा की रफ्तार पर कार को 50 फीसदी ऑफसेट के साथ सामने से टकराकर जांचा. इस टेस्ट में कार के सामने के हिस्से को टक्कर मारी गई, ताकि हादसे के दौरान उसकी मजबूती का पता लगाया जा सके. हालांकि, इस क्रैश टेस्ट के समय कंपनी के प्रेसिडेंट कार के अंदर मौजूद नहीं थे.
+
+Advertisement                  Avatr 06T एक बड़ी इलेक्ट्रिक वैगन कार है जिसकी लंबाई 4,940 मिमी है. Photo: avatruae.comकैसी है Avatr 06T इलेक्ट्रिक वैगनAvatr 06T एक बड़ी इलेक्ट्रिक वैगन कार है. इसकी लंबाई 4,940 मिमी, चौड़ाई 1,960 मिमी और ऊंचाई 1,455 मिमी है. वहीं, इसका व्हीलबेस 2,940 मिमी का है.
+
+डिजाइन की बात करें तो इसमें कंपनी की खास स्टाइलिंग देखने को मिलती है. इसका डिजाइन स्पोर्टी होने के साथ प्रीमियम भी नजर आता है. इसके एंट्री लेवल BEV मॉडल में ड्यूल मोटर सेटअप दिया गया है. इसमें रियर व्हील ड्राइव (RWD) सिस्टम मिलता है. यह भी पढें: क्रिकेटर शिवम दुबे ने खरीदी धांसू SUV!
+
+अमिताभ बच्चन भी चलाते हैं ये कारबैटरी के विकल्प के तौर पर 72.9 kWh और 87.3 kWh के पैक दिए गए हैं. इनका पावर आउटपुट क्रमशः वेरिएंट के हिसाब से 450 kW से 502 kW तक है. कंपनी के मुताबिक, यह कार सिंगल चार्ज में तकरीबन 652 से 741 किलोमीटर तक की रेंज दे सकती है. वहीं, WLTP के हिसाब से इसकी रेंज 535 से 608 किलोमीटर के बीच है.
+
+कंपनी का दावा है कि यह कार महज 2.8 सेकंड में 0 से 100 किमी/घंटा की रफ्तार पकड़ सकती है.कीमत की बात करें तो चीन में Avatr 06T को 2,19,900 से 2,79,900 युआन के बीच बेचा जा रहा है. भारतीय मुद्रा में इसकी कीमत करीब 26 लाख रुपये से 33 लाख रुपये के आसपास बैठती है. हालांकि, यह सिर्फ करेंसी कन्वर्जन के आधार पर अनुमानित कीमत है.
+
+भारत में इसकी लॉन्चिंग या कीमत को लेकर फिलहाल कोई आधिकारिक जानकारी साझा नहीं की गई है.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/auto/news/story/chinese-car-brand-avatr-06t-four-tire-blowout-test-145-kmph-auaw-dskc-2704655-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `145 की स्पीड पर फटे चारों टायर...फिर भी नहीं डगमगाई गाड़ी! कंपनी के प्रेसिडेंट खुद चला रहे थे कार - AajTak`,
+    summary_hi: `सोचिए, आप हाईवे पर 145 की स्पीड से कार चला रहे हों और अचानक एक साथ चारों टायर फट जाएं. आमतौर पर ऐसी स्थिति में किसी भी कार का संतुलन बिगड़ सकता है और बड़ा हादसा हो सकता है. लेकिन चीन में एक इलेक्ट्रिक कार ने कुछ ऐसा कर दिखाया है, जिसने ऑटोम`,
+    content_hi: `सोचिए, आप हाईवे पर 145 की स्पीड से कार चला रहे हों और अचानक एक साथ चारों टायर फट जाएं. आमतौर पर ऐसी स्थिति में किसी भी कार का संतुलन बिगड़ सकता है और बड़ा हादसा हो सकता है. लेकिन चीन में एक इलेक्ट्रिक कार ने कुछ ऐसा कर दिखाया है, जिसने ऑटोमोबाइल इंडस्ट्री में हलचल मचा दी है. और पढ़ेंचांगन (Changan) की प्रीमियम इलेक्ट्रिक कार ब्रांड Avatr ने अपनी नई 06T इलेक्ट्रिक वैगन का ऐसा टेस्ट किया, जिसमें तेज रफ्तार पर चारों टायरों की हवा निकाल दी गई.
+
+हैरानी की बात यह रही कि कार न तो रास्ते से भटकी और न ही उसका संतुलन बिगड़ा. इस खतरनाक टेस्ट के दौरान कंपनी के प्रेसिडेंट योंग जुन खुद ड्राइविंग सीट पर बैठे थे. कंपनी ने इस पूरे टेस्ट का लाइव प्रसारण भी किया. Avatr 06T को हाल ही में चीन के बाजार में लॉन्च किया गया है. Photo: Screengrabयह भी पढें: Splendor से सस्ती बाइक पर टूटे लोग!
+
+1 लाख ने खरीदाAvatr ने अपनी 06T वैगन का यह खास टेस्ट चीन के चोंगकिंग स्थित डियानजियांग प्रोविंग ग्राउंड में किया. लाइव टेस्ट के दौरान कार को पहले 145 किमी/घंटा की रफ्तार तक पहुंचाया गया. इसके बाद कार के चारों टायरों को एक साथ पंचर कर दिया गया, जिससे उनमें तेजी से हवा निकल गई. आमतौर पर ऐसी स्थिति में कार का संतुलन बिगड़ने और ड्राइवर के कंट्रोल खोने का खतरा रहता है.
+
+लेकिन Avatr 06T अपनी तय दिशा में आगे बढ़ती रही और बिना डिस्बैलेंस हुए धीरे-धीरे रुक गई.इस टेक्नोलॉजी ने किया बैलेंस Advertisement        कंपनी के अधिकारियों के मुताबिक, इस शानदार परफॉर्मेंस के पीछे कंपनी की &amp;quot;टाईहैंग इंटेलिजेंट कंट्रोल 2.0&#039; टेक्नोलॉजी का बड़ा हाथ है.
+
+यह सिस्टम कार के चारों पहियों पर ब्रेकिंग फोर्स को जरूरत के हिसाब से बांटता है. इसके अलावा यह कार के बाएं और दाएं पहियों के बीच टॉर्क के अंतर को भी कंट्रोल करता है. Avatr 06T के पिछले एक्सल पर दो इलेक्ट्रिक मोटर दी गई हैं, जो जरूरत पड़ने पर टॉर्क को एडजस्ट करके कार को स्टेबल रखने में मदद करती हैं.यह भी पढें: 41,000 पुराने वाहन सीज...
+
+5 करोड़ जुर्माना! गाड़ियों के लिए बदला नियमAvatr के प्रेसिडेंट योंग जुन ने दावा किया कि अगर कार के टायर 220 किमी/घंटा की रफ्तार पर भी फट जाएं तो ये कार पूरी तरह रोड पर बैलेंस्ड रहेगी. हालांकि, कंपनी ने लाइव टेस्ट के दौरान कार को इस रफ्तार तक नहीं पहुंचाया. इसके बजाय कार के कई दूसरे टेस्ट किए गए.
+
+इसके अलावा कार का क्रैश टेस्ट भी किया गया. कंपनी ने 50 किमी/घंटा की रफ्तार पर कार को 50 फीसदी ऑफसेट के साथ सामने से टकराकर जांचा. इस टेस्ट में कार के सामने के हिस्से को टक्कर मारी गई, ताकि हादसे के दौरान उसकी मजबूती का पता लगाया जा सके. हालांकि, इस क्रैश टेस्ट के समय कंपनी के प्रेसिडेंट कार के अंदर मौजूद नहीं थे.
+
+Advertisement                  Avatr 06T एक बड़ी इलेक्ट्रिक वैगन कार है जिसकी लंबाई 4,940 मिमी है. Photo: avatruae.comकैसी है Avatr 06T इलेक्ट्रिक वैगनAvatr 06T एक बड़ी इलेक्ट्रिक वैगन कार है. इसकी लंबाई 4,940 मिमी, चौड़ाई 1,960 मिमी और ऊंचाई 1,455 मिमी है. वहीं, इसका व्हीलबेस 2,940 मिमी का है.
+
+डिजाइन की बात करें तो इसमें कंपनी की खास स्टाइलिंग देखने को मिलती है. इसका डिजाइन स्पोर्टी होने के साथ प्रीमियम भी नजर आता है. इसके एंट्री लेवल BEV मॉडल में ड्यूल मोटर सेटअप दिया गया है. इसमें रियर व्हील ड्राइव (RWD) सिस्टम मिलता है. यह भी पढें: क्रिकेटर शिवम दुबे ने खरीदी धांसू SUV!
+
+अमिताभ बच्चन भी चलाते हैं ये कारबैटरी के विकल्प के तौर पर 72.9 kWh और 87.3 kWh के पैक दिए गए हैं. इनका पावर आउटपुट क्रमशः वेरिएंट के हिसाब से 450 kW से 502 kW तक है. कंपनी के मुताबिक, यह कार सिंगल चार्ज में तकरीबन 652 से 741 किलोमीटर तक की रेंज दे सकती है. वहीं, WLTP के हिसाब से इसकी रेंज 535 से 608 किलोमीटर के बीच है.
+
+कंपनी का दावा है कि यह कार महज 2.8 सेकंड में 0 से 100 किमी/घंटा की रफ्तार पकड़ सकती है.कीमत की बात करें तो चीन में Avatr 06T को 2,19,900 से 2,79,900 युआन के बीच बेचा जा रहा है. भारतीय मुद्रा में इसकी कीमत करीब 26 लाख रुपये से 33 लाख रुपये के आसपास बैठती है. हालांकि, यह सिर्फ करेंसी कन्वर्जन के आधार पर अनुमानित कीमत है.
+
+भारत में इसकी लॉन्चिंग या कीमत को लेकर फिलहाल कोई आधिकारिक जानकारी साझा नहीं की गई है.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/auto/news/story/chinese-car-brand-avatr-06t-four-tire-blowout-test-145-kmph-auaw-dskc-2704655-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक 145 की स्पीड पर फटे चारों टायर...फिर भी नहीं डगमगाई गाड़ी! कंपनी के प्रेसिडेंट खुद चला रहे थे कार - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 97923,
+    title: `NZ vs IND, 2nd Test: Bowling coach Morne Morkel wants India to bowl without 'desperation' in Christchurch decider - Cricbuzz`,
+    slug: `nz-vs-ind-2nd-test-bowling-coach-morne-morkel-wants-india-to-bowl-with-2026`,
+    original_title: `NZ vs IND, 2nd Test: Bowling coach Morne Morkel wants India to bowl without 'desperation' in Christchurch decider - Cricbuzz`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:07Z`,
+    updated_at: `2026-11-26T06:12:07Z`,
+    source_name: `Cricbuzz`,
+    source_url: `https://www.cricbuzz.com/cricket-news/141066/morkel-wants-india-to-bowl-without-desperation-in-christchurch-decider`,
+    source_courtesy: `Source: Cricbuzz`,
+    image_url: `/images/articles/nz-vs-ind-2nd-test-bowling-coach-morne-morkel-wants-india-to-bowl-with-2026.webp`,
+    image_alt: `NZ vs IND, 2nd Test: Bowling coach Morne Morkel wants India to bowl without 'desperation' in Christchurch decider - Cricbuzz`,
+    image_courtesy: `Image: Cricbuzz (External Source Attribution)`,
+    image_photographer: `Cricbuzz`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `India bowling coach Morne Morkel has asked his side to keep "desperation" out of their cricket as they head into the second and final Test against New Zealand in Christchurch. A win would keep India's hopes of a place in the World Test Cham`,
+    content: `India bowling coach Morne Morkel has asked his side to keep "desperation" out of their cricket as they head into the second and final Test against New Zealand in Christchurch. A win would keep India's hopes of a place in the World Test Championship (WTC) final alive, but Morkel urged his side to "block out the outside noise" and take the game session by session.
+
+"First of all, desperation is one thing that we as a team need to understand very well,” Morkel said. “I don't like that word ‘desperation’ because then the guys will go out and try too hard and miss their lengths. So for me, it is important going into this next week that we go back and block out the outside noise.
+
+“I tell you what, all these guys want to play in that [WTC] final, and they will give everything possible to make it. But realistically, if we are honest about it, it is going to be a challenge. So after every bad session, we can't get caught up in things that we need to do. We just need to focus on playing our best cricket, coming up with solutions, and from there take it forward.
+
+That will be one thing we will speak about a lot, breaking it up session by session, focusing on how we can play our best brand of cricket." Morkel said the Hagley Oval surface for the second Test looked "very green", but having been caught out by a similar-looking Basin Reserve pitch only last week, he was not reading too much into it.
+
+"The pitch from what I have seen looks again very green,” Morkel said. “I think it is a longer sort of grass cover they have got there. We will have to see how it plays. Like I said, everybody expected the wicket in the last game to be fast and bouncy, and it wasn't like that. Again, we can't control that.
+
+We just need to, with bat and ball tomorrow in the first session, play the conditions we are going to face as best as possible." India's four-man pace attack lacked bite on a very flat Wellington pitch, and Gurnoor Brar could be the bowler they turn to in Christchurch to add some pace and venom with the ball that seems to be going soft all too quickly.
+
+"There is a lot of excitement about him since he has joined the Indian team, with his pace and bounce,” Morkel said while also confirming that all bowlers are available for selection. “I think he is a guy that will be well suited to the conditions here. We will see how it goes. “Gurnoor has been knocking on the door.
+
+He's doing all the right things. But again, the selection as a player is something that he can't control. He needs to just make sure he's ready when he gets the opportunity. A lot of times, when we're close to that opportunity, as a bowler you can get distracted. When he gets his opportunity, and you never know, my job is to make sure he's 100 percent ready." Morkel also called for patience with Anshul Kamboj, whose Test career has had a pretty tough start on two very flat pitches.
+
+Drafted in as injury cover during the England tour last year, Kamboj made his debut at Old Trafford and returned 1 for 89 from his 18 overs, visibly down on pace and struggling for control. In Wellington, he struck early with the new ball, hit a quick 38 as a nightwatchman, and bowled particularly well on the last day in pretty benign conditions, but he looked down on pace by the end of it and had little to show for his efforts.
+
+"It was not just him; look at the New Zealand side, the speeds on that surface were down,” Morkel said. “You can't judge somebody from his debut Test as well. There are a lot of emotions, a lot of things going into playing your first Test match. So let's rather support the guy that is doing a hard job, pulling hard overs for the team.
+
+Let's give him a proper run, let him play a couple of games first, and then we can have a discussion. I think it is still very early days to form an opinion about a player at this stage." India could not bowl New Zealand out on the final day in Wellington, and Morkel put much of that down to a pitch that "lost a lot of pace quite quickly".
+
+His lesson for Christchurch was to make the new Kookaburra ball count and to be "braver" with the lengths, even if it meant going for a few runs upfront. "The data and the facts, black and white facts, is that [Wellington] wicket lost a lot of pace quite quickly early in the Test match,” Morkel said.
+
+“And from there on, we quickly needed to readjust our plans. But still, for me, we created a couple of opportunities. If Akash [Deep], for instance, got that run out or the short leg, you open up certain things. So when the conditions get tough and it gets slower, it's for us as a team to be ready for that 50-50 chance.
+
+"It does make life a lot harder, especially when the surface also loses a little bit of pace with the softer ball. That is my experience, playing for 16 years with the Kookaburra ball, that you need to make that new ball count. You need to get the ball in the right area, sometimes be a bit braver in terms of your lengths and your lines, even going for a few runs, because when the ball gets soft, you can always put a ring field in and bring the run rate back.
+
+That is stuff for our bowling unit and for the team to understand, and we need to get better at that. We play with the SG ball in India, where we bring spin into the game. But playing with the Kookaburra ball in these conditions, there is a different pattern that you need to be comfortable with, and you need to sometimes be brave." Mohammed Siraj, India's leading wicket-taker in the current WTC cycle, was left out of the XI in Wellington, a call Shubman Gill described at the toss as "quite tough".
+
+Morkel kept faith in the fast bowler but put the onus on him to find his way back. "For me, I think he is bowling well,” Morkel said of Siraj. “In terms of the phase he is going through, he is a world-class bowler for me. Sometimes decisions and selection are tough ones to take, and it is not easy.
+
+The conversation I had with him was to say, ‘listen, let's just strip it back a little bit. Where are we at the moment, what do we need to improve, and where can we get better? Selection we can't really control.’ And it is all about self-responsibility, of taking that on board."
+
+---
+
+**Original Source:** [Cricbuzz](https://www.cricbuzz.com/cricket-news/141066/morkel-wants-india-to-bowl-without-desperation-in-christchurch-decider)`,
+    title_en: `NZ vs IND, 2nd Test: Bowling coach Morne Morkel wants India to bowl without 'desperation' in Christchurch decider - Cricbuzz`,
+    summary_en: `India bowling coach Morne Morkel has asked his side to keep "desperation" out of their cricket as they head into the second and final Test against New Zealand in Christchurch. A win would keep India's hopes of a place in the World Test Cham`,
+    content_en: `India bowling coach Morne Morkel has asked his side to keep "desperation" out of their cricket as they head into the second and final Test against New Zealand in Christchurch. A win would keep India's hopes of a place in the World Test Championship (WTC) final alive, but Morkel urged his side to "block out the outside noise" and take the game session by session.
+
+"First of all, desperation is one thing that we as a team need to understand very well,” Morkel said. “I don't like that word ‘desperation’ because then the guys will go out and try too hard and miss their lengths. So for me, it is important going into this next week that we go back and block out the outside noise.
+
+“I tell you what, all these guys want to play in that [WTC] final, and they will give everything possible to make it. But realistically, if we are honest about it, it is going to be a challenge. So after every bad session, we can't get caught up in things that we need to do. We just need to focus on playing our best cricket, coming up with solutions, and from there take it forward.
+
+That will be one thing we will speak about a lot, breaking it up session by session, focusing on how we can play our best brand of cricket." Morkel said the Hagley Oval surface for the second Test looked "very green", but having been caught out by a similar-looking Basin Reserve pitch only last week, he was not reading too much into it.
+
+"The pitch from what I have seen looks again very green,” Morkel said. “I think it is a longer sort of grass cover they have got there. We will have to see how it plays. Like I said, everybody expected the wicket in the last game to be fast and bouncy, and it wasn't like that. Again, we can't control that.
+
+We just need to, with bat and ball tomorrow in the first session, play the conditions we are going to face as best as possible." India's four-man pace attack lacked bite on a very flat Wellington pitch, and Gurnoor Brar could be the bowler they turn to in Christchurch to add some pace and venom with the ball that seems to be going soft all too quickly.
+
+"There is a lot of excitement about him since he has joined the Indian team, with his pace and bounce,” Morkel said while also confirming that all bowlers are available for selection. “I think he is a guy that will be well suited to the conditions here. We will see how it goes. “Gurnoor has been knocking on the door.
+
+He's doing all the right things. But again, the selection as a player is something that he can't control. He needs to just make sure he's ready when he gets the opportunity. A lot of times, when we're close to that opportunity, as a bowler you can get distracted. When he gets his opportunity, and you never know, my job is to make sure he's 100 percent ready." Morkel also called for patience with Anshul Kamboj, whose Test career has had a pretty tough start on two very flat pitches.
+
+Drafted in as injury cover during the England tour last year, Kamboj made his debut at Old Trafford and returned 1 for 89 from his 18 overs, visibly down on pace and struggling for control. In Wellington, he struck early with the new ball, hit a quick 38 as a nightwatchman, and bowled particularly well on the last day in pretty benign conditions, but he looked down on pace by the end of it and had little to show for his efforts.
+
+"It was not just him; look at the New Zealand side, the speeds on that surface were down,” Morkel said. “You can't judge somebody from his debut Test as well. There are a lot of emotions, a lot of things going into playing your first Test match. So let's rather support the guy that is doing a hard job, pulling hard overs for the team.
+
+Let's give him a proper run, let him play a couple of games first, and then we can have a discussion. I think it is still very early days to form an opinion about a player at this stage." India could not bowl New Zealand out on the final day in Wellington, and Morkel put much of that down to a pitch that "lost a lot of pace quite quickly".
+
+His lesson for Christchurch was to make the new Kookaburra ball count and to be "braver" with the lengths, even if it meant going for a few runs upfront. "The data and the facts, black and white facts, is that [Wellington] wicket lost a lot of pace quite quickly early in the Test match,” Morkel said.
+
+“And from there on, we quickly needed to readjust our plans. But still, for me, we created a couple of opportunities. If Akash [Deep], for instance, got that run out or the short leg, you open up certain things. So when the conditions get tough and it gets slower, it's for us as a team to be ready for that 50-50 chance.
+
+"It does make life a lot harder, especially when the surface also loses a little bit of pace with the softer ball. That is my experience, playing for 16 years with the Kookaburra ball, that you need to make that new ball count. You need to get the ball in the right area, sometimes be a bit braver in terms of your lengths and your lines, even going for a few runs, because when the ball gets soft, you can always put a ring field in and bring the run rate back.
+
+That is stuff for our bowling unit and for the team to understand, and we need to get better at that. We play with the SG ball in India, where we bring spin into the game. But playing with the Kookaburra ball in these conditions, there is a different pattern that you need to be comfortable with, and you need to sometimes be brave." Mohammed Siraj, India's leading wicket-taker in the current WTC cycle, was left out of the XI in Wellington, a call Shubman Gill described at the toss as "quite tough".
+
+Morkel kept faith in the fast bowler but put the onus on him to find his way back. "For me, I think he is bowling well,” Morkel said of Siraj. “In terms of the phase he is going through, he is a world-class bowler for me. Sometimes decisions and selection are tough ones to take, and it is not easy.
+
+The conversation I had with him was to say, ‘listen, let's just strip it back a little bit. Where are we at the moment, what do we need to improve, and where can we get better? Selection we can't really control.’ And it is all about self-responsibility, of taking that on board."
+
+---
+
+**Original Source:** [Cricbuzz](https://www.cricbuzz.com/cricket-news/141066/morkel-wants-india-to-bowl-without-desperation-in-christchurch-decider)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Cricbuzz.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for NZ vs IND, 2nd Test: Bowling coach Morne Morkel wants India to bowl without 'desperation' in Christchurch decider - Cricbuzz.`,
+    primary_source: `Cricbuzz`,
+  },
+  {
+    id: 97924,
+    title: `New Zealand and India hope Test cricket is in a giving mood at Hagley Oval - Cricinfo`,
+    slug: `new-zealand-and-india-hope-test-cricket-is-in-a-giving-mood-at-hagley-2026`,
+    original_title: `New Zealand and India hope Test cricket is in a giving mood at Hagley Oval - Cricinfo`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:08Z`,
+    updated_at: `2026-11-26T06:12:08Z`,
+    source_name: `Cricinfo`,
+    source_url: `https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-test-1539443/match-preview`,
+    source_courtesy: `Source: Cricinfo`,
+    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `New Zealand and India hope Test cricket is in a giving mood at Hagley Oval - Cricinfo`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `New Zealand and India hope Test cricket is in a giving mood at Hagley Oval Cricinfo Matt Henry confident in home bounce at Hagley Oval ahead of second Test against India Telegraph India India tour of New Zealand: New Zealand vs India second`,
+    content: `New Zealand and India hope Test cricket is in a giving mood at Hagley Oval Cricinfo Matt Henry confident in home bounce at Hagley Oval ahead of second Test against India Telegraph India India tour of New Zealand: New Zealand vs India second Test at Christchurch The Hindu New Zealand v India Second Test Tips: Hoover up Henry value on his best ground Betfair IND vs NZ 2nd Test: India's old nemesis Matt Henry awaits them at his home ground in Christchurch The Times of India
+
+---
+
+**Original Source:** [Cricinfo](https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-test-1539443/match-preview)`,
+    title_en: `New Zealand and India hope Test cricket is in a giving mood at Hagley Oval - Cricinfo`,
+    summary_en: `New Zealand and India hope Test cricket is in a giving mood at Hagley Oval Cricinfo Matt Henry confident in home bounce at Hagley Oval ahead of second Test against India Telegraph India India tour of New Zealand: New Zealand vs India second`,
+    content_en: `New Zealand and India hope Test cricket is in a giving mood at Hagley Oval Cricinfo Matt Henry confident in home bounce at Hagley Oval ahead of second Test against India Telegraph India India tour of New Zealand: New Zealand vs India second Test at Christchurch The Hindu New Zealand v India Second Test Tips: Hoover up Henry value on his best ground Betfair IND vs NZ 2nd Test: India's old nemesis Matt Henry awaits them at his home ground in Christchurch The Times of India
+
+---
+
+**Original Source:** [Cricinfo](https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-test-1539443/match-preview)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Cricinfo.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for New Zealand and India hope Test cricket is in a giving mood at Hagley Oval - Cricinfo.`,
+    primary_source: `Cricinfo`,
+  },
+  {
+    id: 97925,
+    title: `IPL Auction से पहले भारतीय क्रिकेटर ने लिया संन्यास, जनवरी में खेला था आखिरी मैच - Jagran`,
+    slug: `ipl-auction-jagran-2026`,
+    original_title: `IPL Auction से पहले भारतीय क्रिकेटर ने लिया संन्यास, जनवरी में खेला था आखिरी मैच - Jagran`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:09Z`,
+    updated_at: `2026-11-26T06:12:09Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/cricket/headlines-baba-aparajith-announced-retirement-from-first-class-cricket-ahead-of-ipl-auction-40448728.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/ipl-auction-jagran-2026.webp`,
+    image_alt: `IPL Auction से पहले भारतीय क्रिकेटर ने लिया संन्यास, जनवरी में खेला था आखिरी मैच - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `32 साल के भारतीय क्रिकेटर आईपीएल में चेन्नई सुपरकिंग्स और राइजिंग पुणे सुपरजायंट्स का हिस्सा रहे हैं। फर्स्ट क्लास क्रिकेट में उनके नाम 12 शतक और 27 अर्धशतक है।`,
+    content: `32 साल के भारतीय क्रिकेटर आईपीएल में चेन्नई सुपरकिंग्स और राइजिंग पुणे सुपरजायंट्स का हिस्सा रहे हैं। फर्स्ट क्लास क्रिकेट में उनके नाम 12 शतक और 27 अर्धशतक है।
+
+जानिए मुख्य बातें और खबर का सार एक नजर में
+
+स्पोर्ट्स डेस्क, नई दिल्ली। आईपीएल 2027 के मिनी ऑक्शन का आयोजन 16 दिसंबर को गोवा है। आईपीएल ऑक्शन से पहले 32 साल के भारतीय क्रिकेटर ने संन्यास की घोषणा की है। तमिलनाडु के क्रिकेटर बाबा अपराजित ने फर्स्ट क्लास क्रिकेट को अलविदा कह दिया है। बुधवार को इंस्टाग्राम पर उन्होंने इसकी घोषणा की।
+
+बाबा अपराजित ने इस साल की शुरुआत में अपना आखिरी फर्स्ट क्लास मैच खेला था। वह आईपीएल में चेन्नई सुपरकिंग्स के अलावा भारत की अंडर-19 और भारत ए टीम का भी हिस्सा रहे हैं।
+
+### इंस्टाग्राम पर शेयर किया इमोशनल पोस्ट
+
+बाबा अपराजित ने इंस्टाग्राम पर संन्यास की घोषणा करते लिखा, मैंने अपना आखिरी फर्स्ट-क्लास क्रिकेट मैच 24 जनवरी 2026 को खेला, और इसके साथ ही आधिकारिक तौर पर मेरे फर्स्ट-क्लास क्रिकेट करियर का समापन हो गया. उन्होंने आगे लिखा, जब पीछे मुड़कर देखता हूं, तो यह एक शानदार सफर रहा है, जो अनुभवों, चुनौतियों, सीख, दोस्ती और ऐसी यादों से भरा है, जिन्हें मैं जीवन भर संजोकर रखूंगा.
+
+उन्होंने लिखा, तमिलनाडु, इंडिया अंडर-19, इंडिया ए, केरल, चेन्नई सुपर किंग्स, राइजिंग पुणे सुपरजायंट, TNPL फ्रेंचाइजी और अपनी क्लब टीमों का प्रतिनिधित्व करना मेरे लिए बड़े सौभाग्य की बात रही है. मैं उन कई टीमों और ड्रेसिंग रूम्स का हिस्सा रहा हूं, जिन्होंने मेरे इस सफर को आकार दिया है, हर अनुभव ने मुझे एक क्रिकेटर और एक इंसान, दोनों ही रूपों में ढालने में अहम भूमिका निभाई है। अपने पूरे करियर के दौरान मिले मौकों और समर्थन के लिए मैं BCCI, TNCA और KCA का तहे दिल से शुक्रिया अदा करता हूं।
+
+मैं अपनी पत्नी, माता-पिता, भाई, पूरे परिवार, और अपने सभी दोस्तों व शुभचिंतकों का विशेष रूप से धन्यवाद करना चाहता हूं, जिन्होंने इस पूरे सफर में मुझे बिना शर्त समर्थन दिया, कई बलिदान दिए और मुझ पर भरोसा बनाए रखा। मैं अपने कोचों, सपोर्ट स्टाफ और साथियों का भी आभारी हूं, जो इस सफर का एक अभिन्न हिस्सा रहे हैं। खेल के साथ मेरा जुड़ाव हमेशा की तरह मजबूत बना रहेगा। मैं इन सालों में हासिल किए गए ज्ञान, अनुभवों और सीख को अपने साथ आगे ले जाना चाहता हूं, मैं लगातार सीखते रहने, योगदान देने और आने वाले सालों में खेल पर एक सार्थक प्रभाव डालने की उम्मीद करता हूं।
+
+बाबा अपराजित ने साल 2011 में तमिलनाडु के लिए घरेलू क्रिकेट में डेब्यू किया था। उन्होंने जनवरी 2026 में केरल के खिलाफ अपना आखिरी फर्स्ट क्लास मैच खेला। उन्होंने 102 फर्स्ट क्लास, 114 लिस्ट ए और 63 टी-20 मैच खेले हैं। 102 फर्स्ट क्लास मैच में उनके नाम 5199 रन है। फर्स्ट क्लास क्रिकेट में उनके नाम 12 शतक और 27 अर्धशतक है। उन्होंने फर्स्ट क्लास क्रिकेट में 75 विकेट भी चटकाए हैं। बाबा अपराजित आईपीएल में राइजिंग पुणे सुपरजायंट्स और चेन्नई सुपरकिंग्स का हिस्सा रहे। हालांकि उन्हें आईपीएल डेब्यू का मौका नहीं मिल सका। वह 2012 में अंडर-19 वर्ल्ड कप जीतने वाली भारतीय टीम के अहम सदस्य थे।
+
+यह भी पढ़ें- युवराज, भज्जी और नेहरा के एक मजाक पर ड्रेसिंग रूम में 'रो' पड़े थे सौरव गांगुली, कप्तानी छोड़ने वाले थे 'दादा'
+
+यह भी पढ़ें- IND vs NZ: 'हरियाली' देखकर फंसना नहीं, भारत के खिलाफ न्यूजीलैंड ने रचा 'चक्रव्यूह'; टीम इंडिया को रहना होगा सावधान
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/cricket/headlines-baba-aparajith-announced-retirement-from-first-class-cricket-ahead-of-ipl-auction-40448728.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `IPL Auction से पहले भारतीय क्रिकेटर ने लिया संन्यास, जनवरी में खेला था आखिरी मैच - Jagran`,
+    summary_hi: `32 साल के भारतीय क्रिकेटर आईपीएल में चेन्नई सुपरकिंग्स और राइजिंग पुणे सुपरजायंट्स का हिस्सा रहे हैं। फर्स्ट क्लास क्रिकेट में उनके नाम 12 शतक और 27 अर्धशतक है।`,
+    content_hi: `32 साल के भारतीय क्रिकेटर आईपीएल में चेन्नई सुपरकिंग्स और राइजिंग पुणे सुपरजायंट्स का हिस्सा रहे हैं। फर्स्ट क्लास क्रिकेट में उनके नाम 12 शतक और 27 अर्धशतक है।
+
+जानिए मुख्य बातें और खबर का सार एक नजर में
+
+स्पोर्ट्स डेस्क, नई दिल्ली। आईपीएल 2027 के मिनी ऑक्शन का आयोजन 16 दिसंबर को गोवा है। आईपीएल ऑक्शन से पहले 32 साल के भारतीय क्रिकेटर ने संन्यास की घोषणा की है। तमिलनाडु के क्रिकेटर बाबा अपराजित ने फर्स्ट क्लास क्रिकेट को अलविदा कह दिया है। बुधवार को इंस्टाग्राम पर उन्होंने इसकी घोषणा की।
+
+बाबा अपराजित ने इस साल की शुरुआत में अपना आखिरी फर्स्ट क्लास मैच खेला था। वह आईपीएल में चेन्नई सुपरकिंग्स के अलावा भारत की अंडर-19 और भारत ए टीम का भी हिस्सा रहे हैं।
+
+### इंस्टाग्राम पर शेयर किया इमोशनल पोस्ट
+
+बाबा अपराजित ने इंस्टाग्राम पर संन्यास की घोषणा करते लिखा, मैंने अपना आखिरी फर्स्ट-क्लास क्रिकेट मैच 24 जनवरी 2026 को खेला, और इसके साथ ही आधिकारिक तौर पर मेरे फर्स्ट-क्लास क्रिकेट करियर का समापन हो गया. उन्होंने आगे लिखा, जब पीछे मुड़कर देखता हूं, तो यह एक शानदार सफर रहा है, जो अनुभवों, चुनौतियों, सीख, दोस्ती और ऐसी यादों से भरा है, जिन्हें मैं जीवन भर संजोकर रखूंगा.
+
+उन्होंने लिखा, तमिलनाडु, इंडिया अंडर-19, इंडिया ए, केरल, चेन्नई सुपर किंग्स, राइजिंग पुणे सुपरजायंट, TNPL फ्रेंचाइजी और अपनी क्लब टीमों का प्रतिनिधित्व करना मेरे लिए बड़े सौभाग्य की बात रही है. मैं उन कई टीमों और ड्रेसिंग रूम्स का हिस्सा रहा हूं, जिन्होंने मेरे इस सफर को आकार दिया है, हर अनुभव ने मुझे एक क्रिकेटर और एक इंसान, दोनों ही रूपों में ढालने में अहम भूमिका निभाई है। अपने पूरे करियर के दौरान मिले मौकों और समर्थन के लिए मैं BCCI, TNCA और KCA का तहे दिल से शुक्रिया अदा करता हूं।
+
+मैं अपनी पत्नी, माता-पिता, भाई, पूरे परिवार, और अपने सभी दोस्तों व शुभचिंतकों का विशेष रूप से धन्यवाद करना चाहता हूं, जिन्होंने इस पूरे सफर में मुझे बिना शर्त समर्थन दिया, कई बलिदान दिए और मुझ पर भरोसा बनाए रखा। मैं अपने कोचों, सपोर्ट स्टाफ और साथियों का भी आभारी हूं, जो इस सफर का एक अभिन्न हिस्सा रहे हैं। खेल के साथ मेरा जुड़ाव हमेशा की तरह मजबूत बना रहेगा। मैं इन सालों में हासिल किए गए ज्ञान, अनुभवों और सीख को अपने साथ आगे ले जाना चाहता हूं, मैं लगातार सीखते रहने, योगदान देने और आने वाले सालों में खेल पर एक सार्थक प्रभाव डालने की उम्मीद करता हूं।
+
+बाबा अपराजित ने साल 2011 में तमिलनाडु के लिए घरेलू क्रिकेट में डेब्यू किया था। उन्होंने जनवरी 2026 में केरल के खिलाफ अपना आखिरी फर्स्ट क्लास मैच खेला। उन्होंने 102 फर्स्ट क्लास, 114 लिस्ट ए और 63 टी-20 मैच खेले हैं। 102 फर्स्ट क्लास मैच में उनके नाम 5199 रन है। फर्स्ट क्लास क्रिकेट में उनके नाम 12 शतक और 27 अर्धशतक है। उन्होंने फर्स्ट क्लास क्रिकेट में 75 विकेट भी चटकाए हैं। बाबा अपराजित आईपीएल में राइजिंग पुणे सुपरजायंट्स और चेन्नई सुपरकिंग्स का हिस्सा रहे। हालांकि उन्हें आईपीएल डेब्यू का मौका नहीं मिल सका। वह 2012 में अंडर-19 वर्ल्ड कप जीतने वाली भारतीय टीम के अहम सदस्य थे।
+
+यह भी पढ़ें- युवराज, भज्जी और नेहरा के एक मजाक पर ड्रेसिंग रूम में 'रो' पड़े थे सौरव गांगुली, कप्तानी छोड़ने वाले थे 'दादा'
+
+यह भी पढ़ें- IND vs NZ: 'हरियाली' देखकर फंसना नहीं, भारत के खिलाफ न्यूजीलैंड ने रचा 'चक्रव्यूह'; टीम इंडिया को रहना होगा सावधान
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/cricket/headlines-baba-aparajith-announced-retirement-from-first-class-cricket-ahead-of-ipl-auction-40448728.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक IPL Auction से पहले भारतीय क्रिकेटर ने लिया संन्यास, जनवरी में खेला था आखिरी मैच - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+  {
+    id: 97926,
+    title: `मुंबई इंडियंस ने कप्तानी की तस्वीर की साफ, IPL 2027 में इस दिग्गज को मिलेगी कमान! - ABP News`,
+    slug: `ipl-2027-abp-news-2026`,
+    original_title: `मुंबई इंडियंस ने कप्तानी की तस्वीर की साफ, IPL 2027 में इस दिग्गज को मिलेगी कमान! - ABP News`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:10Z`,
+    updated_at: `2026-11-26T06:12:10Z`,
+    source_name: `ABP News`,
+    source_url: `https://www.abplive.com/sports/cricket/mumbai-indians-hints-captaincy-for-ipl-2027-fans-guess-rohit-sharma-name-3219437`,
+    source_courtesy: `Source: ABP News`,
+    image_url: `/images/articles/ipl-2027-abp-news-2026.jpg`,
+    image_alt: `मुंबई इंडियंस ने कप्तानी की तस्वीर की साफ, IPL 2027 में इस दिग्गज को मिलेगी कमान! - ABP News`,
+    image_courtesy: `Image: ABP News (External Source Attribution)`,
+    image_photographer: `ABP News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `मुंबई इंडियंस के पास IPL 2027 से पहले कप्तानी को लेकर बड़ी टेंशन है. पिछले सीजन कमान संभालने वाले हार्दिक पांड्या ट्रेड होकर पंजाब किंग्स में पहुंच चुके हैं. उनकी जगह भारतीय तेज गेंदबाज अर्शदीप सिंह मुंबई का हिस्सा बने हैं. हार्दिक के जाने `,
+    content: `मुंबई इंडियंस के पास IPL 2027 से पहले कप्तानी को लेकर बड़ी टेंशन है. पिछले सीजन कमान संभालने वाले हार्दिक पांड्या ट्रेड होकर पंजाब किंग्स में पहुंच चुके हैं. उनकी जगह भारतीय तेज गेंदबाज अर्शदीप सिंह मुंबई का हिस्सा बने हैं. हार्दिक के जाने से कप्तानी को लेकर सवाल खड़े हो रहे हैं?
+
+हार्दिक ने एमआई को 5 बार खिताब जिताने वाले रोहित शर्मा को कप्तान के रूप में रिप्लेस किया था. लेकिन अब 16 दिसंबर को होने वाले ऑक्शन से पहले मुंबई ने कप्तानी को लेकर बड़ा हिंट दिया है.&nbsp;
+फ्रेंचाइजी ने सोशल मीडिया पर एक तस्वीर शेयर की है, जिसमें एक खिलाड़ी के हाथ में कैप दिख रहा है.
+
+फैंस कैप और हाथ के साथ रोहित शर्मा के नाम का अंदाजा लगा रहे हैं. हार्दिक के ट्रेड होने के बाद भी हिटमैन के नाम की चर्चा हो रही थी. रोहित को कप्तानी काफी अनुभव है. हालांकि फ्रेंचाइजी ने अभी सिर्फ हिंट दिया है, कोई आधिकारिक एलान नहीं किया है.&nbsp;
+
+https://t.co/XuBsxopPnb
+&mdash; Mumbai Indians (@mipaltan) November 25, 2026
+
+
+
+तिलक वर्मा भी हो सकते हैं विकल्प&nbsp;
+तिलक वर्मा भी कप्तानी के लिए एक विकल्प हो सकते हैं.
+
+वह युवा हैं. उन्हें टीम इंडिया के लिए खेलने का अनुभव है. घरेलू क्रिकेट में उन्होंने कप्तानी की है. अब देखना दिलचस्प होगा कि मुंबई किस खिलाड़ी पर कप्तानी के लिए मोहर लगाती है.&nbsp;
+मुंबई इंडियंस के रिटेन खिलाड़ियों की लिस्ट&nbsp;
+अर्शदीप सिंह (ट्रेड होकर आए), अश्विनी कुमार, कॉर्बिन बॉश, जसप्रीत बुमराह, मिचेल सैंटनर, नमन धीर, क्विंटन डी कॉक, रघु शर्मा, राज अंगद बावा, रोहित शर्मा, रयान रिकेलटन, शार्दुल ठाकुर, शेरफेन रदरफोर्ड, सूर्यकुमार यादव, तिलक वर्मा और विल जैक्स.&nbsp;
+मुंबई के पास 32.60 करोड़ का पर्स&nbsp;
+एमआई के पास मिनी ऑक्शन के लिए 32.60 करोड़ रुपये का पर्स है.
+
+टीम के पास कुल 9 स्लॉट खाली हैं. इसमें 2 स्लॉट विदेशी खिलाड़ियों के लिए हैं. अब देखना दिलचस्प होगा कि फ्रेंचाइजी नीमाली में किन खिलाड़ियों पर बोली लगाती है. &nbsp;
+यह भी पढ़ें: केन विलियमसन को मिली बड़ी जिम्मेदारी, 2027 सीजन के लिए सुपर जायंट्स के कोच बने
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/sports/cricket/mumbai-indians-hints-captaincy-for-ipl-2027-fans-guess-rohit-sharma-name-3219437)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `मुंबई इंडियंस ने कप्तानी की तस्वीर की साफ, IPL 2027 में इस दिग्गज को मिलेगी कमान! - ABP News`,
+    summary_hi: `मुंबई इंडियंस के पास IPL 2027 से पहले कप्तानी को लेकर बड़ी टेंशन है. पिछले सीजन कमान संभालने वाले हार्दिक पांड्या ट्रेड होकर पंजाब किंग्स में पहुंच चुके हैं. उनकी जगह भारतीय तेज गेंदबाज अर्शदीप सिंह मुंबई का हिस्सा बने हैं. हार्दिक के जाने `,
+    content_hi: `मुंबई इंडियंस के पास IPL 2027 से पहले कप्तानी को लेकर बड़ी टेंशन है. पिछले सीजन कमान संभालने वाले हार्दिक पांड्या ट्रेड होकर पंजाब किंग्स में पहुंच चुके हैं. उनकी जगह भारतीय तेज गेंदबाज अर्शदीप सिंह मुंबई का हिस्सा बने हैं. हार्दिक के जाने से कप्तानी को लेकर सवाल खड़े हो रहे हैं?
+
+हार्दिक ने एमआई को 5 बार खिताब जिताने वाले रोहित शर्मा को कप्तान के रूप में रिप्लेस किया था. लेकिन अब 16 दिसंबर को होने वाले ऑक्शन से पहले मुंबई ने कप्तानी को लेकर बड़ा हिंट दिया है.&nbsp;
+फ्रेंचाइजी ने सोशल मीडिया पर एक तस्वीर शेयर की है, जिसमें एक खिलाड़ी के हाथ में कैप दिख रहा है.
+
+फैंस कैप और हाथ के साथ रोहित शर्मा के नाम का अंदाजा लगा रहे हैं. हार्दिक के ट्रेड होने के बाद भी हिटमैन के नाम की चर्चा हो रही थी. रोहित को कप्तानी काफी अनुभव है. हालांकि फ्रेंचाइजी ने अभी सिर्फ हिंट दिया है, कोई आधिकारिक एलान नहीं किया है.&nbsp;
+
+https://t.co/XuBsxopPnb
+&mdash; Mumbai Indians (@mipaltan) November 25, 2026
+
+
+
+तिलक वर्मा भी हो सकते हैं विकल्प&nbsp;
+तिलक वर्मा भी कप्तानी के लिए एक विकल्प हो सकते हैं.
+
+वह युवा हैं. उन्हें टीम इंडिया के लिए खेलने का अनुभव है. घरेलू क्रिकेट में उन्होंने कप्तानी की है. अब देखना दिलचस्प होगा कि मुंबई किस खिलाड़ी पर कप्तानी के लिए मोहर लगाती है.&nbsp;
+मुंबई इंडियंस के रिटेन खिलाड़ियों की लिस्ट&nbsp;
+अर्शदीप सिंह (ट्रेड होकर आए), अश्विनी कुमार, कॉर्बिन बॉश, जसप्रीत बुमराह, मिचेल सैंटनर, नमन धीर, क्विंटन डी कॉक, रघु शर्मा, राज अंगद बावा, रोहित शर्मा, रयान रिकेलटन, शार्दुल ठाकुर, शेरफेन रदरफोर्ड, सूर्यकुमार यादव, तिलक वर्मा और विल जैक्स.&nbsp;
+मुंबई के पास 32.60 करोड़ का पर्स&nbsp;
+एमआई के पास मिनी ऑक्शन के लिए 32.60 करोड़ रुपये का पर्स है.
+
+टीम के पास कुल 9 स्लॉट खाली हैं. इसमें 2 स्लॉट विदेशी खिलाड़ियों के लिए हैं. अब देखना दिलचस्प होगा कि फ्रेंचाइजी नीमाली में किन खिलाड़ियों पर बोली लगाती है. &nbsp;
+यह भी पढ़ें: केन विलियमसन को मिली बड़ी जिम्मेदारी, 2027 सीजन के लिए सुपर जायंट्स के कोच बने
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/sports/cricket/mumbai-indians-hints-captaincy-for-ipl-2027-fans-guess-rohit-sharma-name-3219437)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट ABP News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक मुंबई इंडियंस ने कप्तानी की तस्वीर की साफ, IPL 2027 में इस दिग्गज को मिलेगी कमान! - ABP News से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `ABP News`,
+  },
+  {
+    id: 97927,
+    title: `Sai Pallavi's Short-Hair, Pregnant-Woman Look In Inji Vellam's Aachi Aachi Wins Hearts`,
+    slug: `sai-pallavis-short-hair-pregnant-woman-look-in-inji-vellams-aachi-aach-2026`,
+    original_title: `Sai Pallavi's Short-Hair, Pregnant-Woman Look In Inji Vellam's Aachi Aachi Wins Hearts`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:11Z`,
+    updated_at: `2026-11-26T06:12:11Z`,
+    source_name: `NDTV`,
+    source_url: `https://www.ndtv.com/entertainment/sai-pallavis-short-hair-pregnant-woman-look-in-inji-vellams-aachi-aachi-wins-hearts-12376000`,
+    source_courtesy: `Source: NDTV`,
+    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Sai Pallavi's Short-Hair, Pregnant-Woman Look In Inji Vellam's Aachi Aachi Wins Hearts`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Sai Pallavi's Short-Hair, Pregnant-Woman Look In Inji Vellam's Aachi Aachi Wins Hearts NDTV AR Rahman’s music wins hearts, fans praise Sai Pallavi’s dance as the first song 'Aachi Aachi' from Mani Ratnam’s ‘Inji Vellam’ out now The Times of`,
+    content: `Sai Pallavi's Short-Hair, Pregnant-Woman Look In Inji Vellam's Aachi Aachi Wins Hearts NDTV AR Rahman’s music wins hearts, fans praise Sai Pallavi’s dance as the first song 'Aachi Aachi' from Mani Ratnam’s ‘Inji Vellam’ out now The Times of India ‘Aachi Aachi’: First song from Mani Ratnam’s ‘Inji Vellam’, composed by AR Rahman, out Telegraph India Sai Pallavi's boyish short-hair look wins internet as AR Rahman's 'Aachi Aachi' from Mani Ratnam's 'Inji V The Economic Times 'Inji Vellam': Mani Ratnam And A.R. Rahman Celebrate Love And Parenthood With "Aachi Aachi" With Sai Pallavi Filme Shilmy
+
+---
+
+**Original Source:** [NDTV](https://www.ndtv.com/entertainment/sai-pallavis-short-hair-pregnant-woman-look-in-inji-vellams-aachi-aachi-wins-hearts-12376000)`,
+    title_en: `Sai Pallavi's Short-Hair, Pregnant-Woman Look In Inji Vellam's Aachi Aachi Wins Hearts`,
+    summary_en: `Sai Pallavi's Short-Hair, Pregnant-Woman Look In Inji Vellam's Aachi Aachi Wins Hearts NDTV AR Rahman’s music wins hearts, fans praise Sai Pallavi’s dance as the first song 'Aachi Aachi' from Mani Ratnam’s ‘Inji Vellam’ out now The Times of`,
+    content_en: `Sai Pallavi's Short-Hair, Pregnant-Woman Look In Inji Vellam's Aachi Aachi Wins Hearts NDTV AR Rahman’s music wins hearts, fans praise Sai Pallavi’s dance as the first song 'Aachi Aachi' from Mani Ratnam’s ‘Inji Vellam’ out now The Times of India ‘Aachi Aachi’: First song from Mani Ratnam’s ‘Inji Vellam’, composed by AR Rahman, out Telegraph India Sai Pallavi's boyish short-hair look wins internet as AR Rahman's 'Aachi Aachi' from Mani Ratnam's 'Inji V The Economic Times 'Inji Vellam': Mani Ratnam And A.R. Rahman Celebrate Love And Parenthood With "Aachi Aachi" With Sai Pallavi Filme Shilmy
+
+---
+
+**Original Source:** [NDTV](https://www.ndtv.com/entertainment/sai-pallavis-short-hair-pregnant-woman-look-in-inji-vellams-aachi-aachi-wins-hearts-12376000)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to NDTV.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Sai Pallavi's Short-Hair, Pregnant-Woman Look In Inji Vellam's Aachi Aachi Wins Hearts.`,
+    primary_source: `NDTV`,
+  },
+  {
+    id: 97928,
+    title: `Kendall Jenner faces backlash in India for wearing Om cloth on a yacht trip with Kylie Jenner: 'Om is not just a design or a fashion statement'`,
+    slug: `kendall-jenner-faces-backlash-in-india-for-wearing-om-cloth-on-a-yacht-2026`,
+    original_title: `Kendall Jenner faces backlash in India for wearing Om cloth on a yacht trip with Kylie Jenner: 'Om is not just a design or a fashion statement'`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:12Z`,
+    updated_at: `2026-11-26T06:12:12Z`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kendall-jenner-faces-backlash-in-india-for-wearing-om-cloth-on-a-yacht-trip-with-kylie-jenner-om-is-not-just-a-design-or-a-fashion-statement/articleshow/136170785.cms`,
+    source_courtesy: `Source: The Times of India`,
+    image_url: `/images/articles/kendall-jenner-faces-backlash-in-india-for-wearing-om-cloth-on-a-yacht-2026.jpg`,
+    image_alt: `Kendall Jenner faces backlash in India for wearing Om cloth on a yacht trip with Kylie Jenner: 'Om is not just a design or a fashion statement'`,
+    image_courtesy: `Image: The Times of India (External Source Attribution)`,
+    image_photographer: `The Times of India`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Kendall Jenner has landed in a social media row in India after she was seen wearing a cloth printed with the sacred Om symbol over her swimwear. Several Indian users called the styling disrespectful to Hindu faith after her sister, Kylie Je`,
+    content: `Kendall Jenner has landed in a social media row in India after she was seen wearing a cloth printed with the sacred Om symbol over her swimwear. Several Indian users called the styling disrespectful to Hindu faith after her sister, Kylie Jenner, shared pictures from their yacht holiday.How the controversy beganKylie Jenner posted two photos from the recent boat trip on Instagram with the caption "cutest girl in the whole world".
+
+One frame shows the sisters in a warm hug, while the other has them posing with the sea behind them.What Kendall Jenner and Kylie Jenner  woreKendall is seen in a black two-piece bikini, with a yellow and red cloth carrying Om prints wrapped around her upper body. Kylie chose a fitted black midi dress with a plunging V neckline, short sleeves and sheer detailing.Indian users reactMany Indian users objected to a religious symbol being used as a casual style piece and called it hurtful to Hindu beliefs and traditions.
+
+One user commented, "I can smell a big controversy …"Another wrote, "Kendal wearing scared signs of sanatani dharma (Hinduism)."A third user said, "Om is not just a design or a fashion statement. It is a sacred symbol of faith, devotion, and Sanatan culture for millions of Hindus.
+
+Please respect our religious beliefs and symbols."An unhappy commenter added, "Sacred religious symbols from Sanatan culture aren't fashion accessories to be worn over swimwear. Celebrities and stylists need to do basic research before turning someone's faith into a vacation aesthetic."About Kendall JennerKendall is an American model, socialite and television personality who rose to fame through 'Keeping Up with the Kardashians'.
+
+She was part of the reality series for 20 seasons over nearly 15 years, from 2007 to 2021. She has also featured in several spin-offs, including 'Kourtney and Khloe Take Miami' (2009), 'Kourtney and Kim Take New York' (2011), 'Khloé and Lamar' (2011), 'Rob and Chyna' (2016) and 'Life of Kylie' (2017).Relationship buzzSeparately, Kendall has been in the news over reports that she is dating actor Jacob Elordi.
+
+Neither of them has publicly confirmed the reported relationship.Get the latest Bollywood & Entertainment News, and more. Download the TOI app.Give your child the gift of confidence! Claim your exclusive TOI Masterclass spot today!
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kendall-jenner-faces-backlash-in-india-for-wearing-om-cloth-on-a-yacht-trip-with-kylie-jenner-om-is-not-just-a-design-or-a-fashion-statement/articleshow/136170785.cms)`,
+    title_en: `Kendall Jenner faces backlash in India for wearing Om cloth on a yacht trip with Kylie Jenner: 'Om is not just a design or a fashion statement'`,
+    summary_en: `Kendall Jenner has landed in a social media row in India after she was seen wearing a cloth printed with the sacred Om symbol over her swimwear. Several Indian users called the styling disrespectful to Hindu faith after her sister, Kylie Je`,
+    content_en: `Kendall Jenner has landed in a social media row in India after she was seen wearing a cloth printed with the sacred Om symbol over her swimwear. Several Indian users called the styling disrespectful to Hindu faith after her sister, Kylie Jenner, shared pictures from their yacht holiday.How the controversy beganKylie Jenner posted two photos from the recent boat trip on Instagram with the caption "cutest girl in the whole world".
+
+One frame shows the sisters in a warm hug, while the other has them posing with the sea behind them.What Kendall Jenner and Kylie Jenner  woreKendall is seen in a black two-piece bikini, with a yellow and red cloth carrying Om prints wrapped around her upper body. Kylie chose a fitted black midi dress with a plunging V neckline, short sleeves and sheer detailing.Indian users reactMany Indian users objected to a religious symbol being used as a casual style piece and called it hurtful to Hindu beliefs and traditions.
+
+One user commented, "I can smell a big controversy …"Another wrote, "Kendal wearing scared signs of sanatani dharma (Hinduism)."A third user said, "Om is not just a design or a fashion statement. It is a sacred symbol of faith, devotion, and Sanatan culture for millions of Hindus.
+
+Please respect our religious beliefs and symbols."An unhappy commenter added, "Sacred religious symbols from Sanatan culture aren't fashion accessories to be worn over swimwear. Celebrities and stylists need to do basic research before turning someone's faith into a vacation aesthetic."About Kendall JennerKendall is an American model, socialite and television personality who rose to fame through 'Keeping Up with the Kardashians'.
+
+She was part of the reality series for 20 seasons over nearly 15 years, from 2007 to 2021. She has also featured in several spin-offs, including 'Kourtney and Khloe Take Miami' (2009), 'Kourtney and Kim Take New York' (2011), 'Khloé and Lamar' (2011), 'Rob and Chyna' (2016) and 'Life of Kylie' (2017).Relationship buzzSeparately, Kendall has been in the news over reports that she is dating actor Jacob Elordi.
+
+Neither of them has publicly confirmed the reported relationship.Get the latest Bollywood & Entertainment News, and more. Download the TOI app.Give your child the gift of confidence! Claim your exclusive TOI Masterclass spot today!
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kendall-jenner-faces-backlash-in-india-for-wearing-om-cloth-on-a-yacht-trip-with-kylie-jenner-om-is-not-just-a-design-or-a-fashion-statement/articleshow/136170785.cms)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Times of India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Kendall Jenner faces backlash in India for wearing Om cloth on a yacht trip with Kylie Jenner: 'Om is not just a design or a fashion statement'.`,
+    primary_source: `The Times of India`,
+  },
+  {
+    id: 97929,
+    title: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    slug: `entertainment-breaking-report-10735-97929-2026`,
+    original_title: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:14Z`,
+    updated_at: `2026-11-26T06:12:14Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cm93r9d9ypx0o`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/entertainment-breaking-report-10735-97929-2026.png`,
+    image_alt: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.`,
+    content: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.
+
+लेकिन भारत में इस सीरीज़ की रिलीज़ पर बैन लगाने की मांग उठ रही है.
+
+यह सीरीज़ 4 दिसंबर, 2026 को रिलीज़ होगी और दुनिया भर के 191 देशों में उपलब्ध होगी. इसे कई भाषाओं में डब किया गया है.
+
+एमडी फ़िल्म्स के बैनर तले बनी इस सीरीज़ की कहानी मशहूर उपन्यासकार फ़रहत इश्तियाक़ ने लिखी है, जबकि इसका निर्माण और निर्देशन मोमिना दुरैद ने किया है.
+
+इस सीरीज़ के पहले हिस्से में कुल पाँच एपिसोड हैं, जबकि इसमें कुल 13 एपिसोड होने की संभावना है. इसकी कहानी तीन पीढ़ियों और छह प्रेम कहानियों के इर्द-गिर्द घूमती है.
+
+पाकिस्तानी लेखिका फ़रहत इश्तियाक़ ने 2013 में 'जो बचे हैं संग समेट लो' नाम से एक उपन्यास लिखा था.
+
+इसकी कहानी मुख्य रूप से सिकंदर (अहद रज़ा मीर) और लीसा (इक़रा अज़ीज़) के इर्द-गिर्द घूमती है. सिकंदर हार्वर्ड में क़ानून का छात्र है. वह अपने अतीत से परेशान होकर इटली के रोम शहर चला जाता है, जहां उसकी मुलाक़ात लीसा से होती है.
+
+लीसा एक चित्रकार है और उसका जीवन भी कई उलझनों से घिरा हुआ है.
+
+इटली में उनकी मुलाक़ात उनके जीवन को एक अप्रत्याशित मोड़ देती है. ट्रेलर से पता चलता है कि इस ड्रामा की शूटिंग रोम के अलावा कराची, स्कार्दू और लंदन में भी हुई है.
+
+प्यार, रिश्ते और इंसानी जुड़ाव इसकी कहानी के मुख्य विषय हैं, जिन्हें अलग-अलग क़िरदारों और पीढ़ियों के जीवन के ज़रिए दिखाया गया है.
+
+इस सीरीज़ का नाम और इसका मूल विचार फ़ैज़ अहमद फ़ैज़ की एक ग़ज़ल से प्रेरित है. इस लिहाज़ से, कहानी सिर्फ़ प्रेम संबंधों तक सीमित नहीं है, बल्कि इसमें जीवन भर संजोई गई यादों, रिश्तों और अनुभवों को भी शामिल किया गया है
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+इस सीरीज़ की एक ख़ास बात इसमें शामिल पाकिस्तान के कुछ बड़े कलाकारों की टोली है. इसमें अहद रज़ा मीर और इकरा अज़ीज़ के साथ फ़वाद ख़ान, माहिरा ख़ान, हानिया आमिर, हमज़ा अली अब्बासी, सनम सईद, माया अली, आमना शेख़, ख़ुशाल ख़ान, अहमद अली अकबर और बिलाल अशरफ़ भी हैं.
+
+निर्देशक मोमिना दुरैद के बेटे शाह ज़ैन दुरैद इस सीरीज़ से अभिनय की शुरुआत कर रहे हैं. पाकिस्तानी दर्शकों के लिए इस सीरीज़ की एक ख़ास बात फ़वाद ख़ान और माहिरा ख़ान की जोड़ी है.
+
+बीबीसी न्यूज़ उर्दू से बात करते हुए अमीना शेख़ ने बताया कि एक अभिनेत्री के तौर पर वह अपने आने वाले प्रोजेक्ट्स में व्यस्त थीं, लेकिन निर्माता और बाकी टीम इस सीरीज़ को पूरा करने में जुटी हुई थी. हाल ही में डबिंग के दौरान उन्हें एहसास हुआ कि इस दौरान कितना काम हो चुका है.
+
+वह कहती हैं, "मैं इस प्रोजेक्ट का हिस्सा बनकर बहुत ख़ुश और उत्साहित हूं. मुझे ख़ुशी है कि इस सीरीज़ में नज़र आने वाले सभी कलाकारों ने इसके लिए अपना समय दिया. मुझे लगता है कि इस टीम का हर कलाकार इसके लायक़ है."
+
+उनके मुताबिक़, "एक ही प्रोजेक्ट में इतने सारे कलाकारों का एक साथ आना पाकिस्तानी मनोरंजन उद्योग के लिए भी स्वागत योग्य है."
+
+### आठ साल की तैयारी, 200 दिन की शूटिंग
+
+इस सीरीज़ को बनाने का सफ़र भी काफ़ी लंबा रहा है. मोमिना दुरैद के मुताबिक़, इस प्रोजेक्ट पर काम करने में लगभग आठ साल लगे, जबकि इसकी शूटिंग 200 दिनों तक चली.
+
+वह कहती हैं, "जब इस परियोजना के ज़रिए नेटफ़्लिक्स के दरवाज़े पाकिस्तान के लिए खुलेंगे, तब मुझे गर्व होगा."
+
+उपन्यासकार फ़रहत इश्तियाक़ भी इस मौक़े को अपने काम के वैश्विक प्रदर्शन से कहीं बढ़कर मानती हैं.
+
+वह कहती हैं, "इस समय बहुत ख़ुशी है और साथ ही बहुत डर भी. यह एक बहुत बड़ी और भावनात्मक स्थिति है. मुझे अपने लिए उतनी ख़ुशी नहीं है जितनी अपने देश के लिए है कि अब पाकिस्तानी नाटकों को वैश्विक दर्शक देखेंगे. मैं चाहती हूं कि पाकिस्तान की वह छवि जो दुनिया को जाननी चाहिए, इस नाटक के माध्यम से दुनिया तक पहुंचे."
+
+इस सीरीज़ का संगीत और बैकग्राउंड स्कोर जाने-माने संगीतकार रोहैल हयात ने तैयार किया है. वह 80 और 90 के दशक में 'वाइटल साइंस' बैंड के सदस्य थे. बाद में कोक स्टूडियो के शुरुआती और लोकप्रिय दौर में भी उन्हें काफ़ी शोहरत मिली.
+
+रोहैल हयात का इस परियोजना से जुड़ना इसलिए भी अहम है क्योंकि उनका काम पाकिस्तानी संगीत में पारंपरिक और आधुनिक शैलियों के मेल के लिए जाना जाता है.
+
+सीरीज़ का ट्रेलर और संगीत जारी होने के बाद इसके कलाकारों ने भी इसे सोशल मीडिया पर साझा किया, जहां इस परियोजना को लेकर लोगों ने दिलचस्पी दिखाई.
+
+अभिनेत्री माहिरा ख़ान ने अपने क़िरदार राहत के बारे में एक पोस्ट साझा करते हुए कहा, "इस क़िरदार का एक हिस्सा उसके जीवन भर उसके साथ रहेगा."
+
+पाकिस्तानी ड्रामे विदेशों में रहने वाले दक्षिण एशियाई दर्शकों के बीच कई साल से लोकप्रिय रहे हैं.
+
+यूट्यूब और सोशल मीडिया ने इनकी पहुंच और बढ़ा दी है. भारत समेत दूसरे देशों में भी पाकिस्तानी ड्रामा के संवादों और किरदारों पर बने वीडियो इस लोकप्रियता की मिसाल हैं.
+
+लेकिन यह लोकप्रियता ज़्यादातर उन लोगों तक ही सीमित रही है जो पाकिस्तानी संस्कृति, भाषा या कलाकारों से पहले से परिचित हैं.
+
+नेटफ़्लिक्स जैसे मंच पर मौजूदगी से उन लोगों तक भी पहुंचना मुमकिन हो सकता है जिन्होंने पहले कभी कोई पाकिस्तानी ड्रामा नहीं देखा है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cm93r9d9ypx0o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    summary_hi: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.`,
+    content_hi: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.
+
+लेकिन भारत में इस सीरीज़ की रिलीज़ पर बैन लगाने की मांग उठ रही है.
+
+यह सीरीज़ 4 दिसंबर, 2026 को रिलीज़ होगी और दुनिया भर के 191 देशों में उपलब्ध होगी. इसे कई भाषाओं में डब किया गया है.
+
+एमडी फ़िल्म्स के बैनर तले बनी इस सीरीज़ की कहानी मशहूर उपन्यासकार फ़रहत इश्तियाक़ ने लिखी है, जबकि इसका निर्माण और निर्देशन मोमिना दुरैद ने किया है.
+
+इस सीरीज़ के पहले हिस्से में कुल पाँच एपिसोड हैं, जबकि इसमें कुल 13 एपिसोड होने की संभावना है. इसकी कहानी तीन पीढ़ियों और छह प्रेम कहानियों के इर्द-गिर्द घूमती है.
+
+पाकिस्तानी लेखिका फ़रहत इश्तियाक़ ने 2013 में 'जो बचे हैं संग समेट लो' नाम से एक उपन्यास लिखा था.
+
+इसकी कहानी मुख्य रूप से सिकंदर (अहद रज़ा मीर) और लीसा (इक़रा अज़ीज़) के इर्द-गिर्द घूमती है. सिकंदर हार्वर्ड में क़ानून का छात्र है. वह अपने अतीत से परेशान होकर इटली के रोम शहर चला जाता है, जहां उसकी मुलाक़ात लीसा से होती है.
+
+लीसा एक चित्रकार है और उसका जीवन भी कई उलझनों से घिरा हुआ है.
+
+इटली में उनकी मुलाक़ात उनके जीवन को एक अप्रत्याशित मोड़ देती है. ट्रेलर से पता चलता है कि इस ड्रामा की शूटिंग रोम के अलावा कराची, स्कार्दू और लंदन में भी हुई है.
+
+प्यार, रिश्ते और इंसानी जुड़ाव इसकी कहानी के मुख्य विषय हैं, जिन्हें अलग-अलग क़िरदारों और पीढ़ियों के जीवन के ज़रिए दिखाया गया है.
+
+इस सीरीज़ का नाम और इसका मूल विचार फ़ैज़ अहमद फ़ैज़ की एक ग़ज़ल से प्रेरित है. इस लिहाज़ से, कहानी सिर्फ़ प्रेम संबंधों तक सीमित नहीं है, बल्कि इसमें जीवन भर संजोई गई यादों, रिश्तों और अनुभवों को भी शामिल किया गया है
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+इस सीरीज़ की एक ख़ास बात इसमें शामिल पाकिस्तान के कुछ बड़े कलाकारों की टोली है. इसमें अहद रज़ा मीर और इकरा अज़ीज़ के साथ फ़वाद ख़ान, माहिरा ख़ान, हानिया आमिर, हमज़ा अली अब्बासी, सनम सईद, माया अली, आमना शेख़, ख़ुशाल ख़ान, अहमद अली अकबर और बिलाल अशरफ़ भी हैं.
+
+निर्देशक मोमिना दुरैद के बेटे शाह ज़ैन दुरैद इस सीरीज़ से अभिनय की शुरुआत कर रहे हैं. पाकिस्तानी दर्शकों के लिए इस सीरीज़ की एक ख़ास बात फ़वाद ख़ान और माहिरा ख़ान की जोड़ी है.
+
+बीबीसी न्यूज़ उर्दू से बात करते हुए अमीना शेख़ ने बताया कि एक अभिनेत्री के तौर पर वह अपने आने वाले प्रोजेक्ट्स में व्यस्त थीं, लेकिन निर्माता और बाकी टीम इस सीरीज़ को पूरा करने में जुटी हुई थी. हाल ही में डबिंग के दौरान उन्हें एहसास हुआ कि इस दौरान कितना काम हो चुका है.
+
+वह कहती हैं, "मैं इस प्रोजेक्ट का हिस्सा बनकर बहुत ख़ुश और उत्साहित हूं. मुझे ख़ुशी है कि इस सीरीज़ में नज़र आने वाले सभी कलाकारों ने इसके लिए अपना समय दिया. मुझे लगता है कि इस टीम का हर कलाकार इसके लायक़ है."
+
+उनके मुताबिक़, "एक ही प्रोजेक्ट में इतने सारे कलाकारों का एक साथ आना पाकिस्तानी मनोरंजन उद्योग के लिए भी स्वागत योग्य है."
+
+### आठ साल की तैयारी, 200 दिन की शूटिंग
+
+इस सीरीज़ को बनाने का सफ़र भी काफ़ी लंबा रहा है. मोमिना दुरैद के मुताबिक़, इस प्रोजेक्ट पर काम करने में लगभग आठ साल लगे, जबकि इसकी शूटिंग 200 दिनों तक चली.
+
+वह कहती हैं, "जब इस परियोजना के ज़रिए नेटफ़्लिक्स के दरवाज़े पाकिस्तान के लिए खुलेंगे, तब मुझे गर्व होगा."
+
+उपन्यासकार फ़रहत इश्तियाक़ भी इस मौक़े को अपने काम के वैश्विक प्रदर्शन से कहीं बढ़कर मानती हैं.
+
+वह कहती हैं, "इस समय बहुत ख़ुशी है और साथ ही बहुत डर भी. यह एक बहुत बड़ी और भावनात्मक स्थिति है. मुझे अपने लिए उतनी ख़ुशी नहीं है जितनी अपने देश के लिए है कि अब पाकिस्तानी नाटकों को वैश्विक दर्शक देखेंगे. मैं चाहती हूं कि पाकिस्तान की वह छवि जो दुनिया को जाननी चाहिए, इस नाटक के माध्यम से दुनिया तक पहुंचे."
+
+इस सीरीज़ का संगीत और बैकग्राउंड स्कोर जाने-माने संगीतकार रोहैल हयात ने तैयार किया है. वह 80 और 90 के दशक में 'वाइटल साइंस' बैंड के सदस्य थे. बाद में कोक स्टूडियो के शुरुआती और लोकप्रिय दौर में भी उन्हें काफ़ी शोहरत मिली.
+
+रोहैल हयात का इस परियोजना से जुड़ना इसलिए भी अहम है क्योंकि उनका काम पाकिस्तानी संगीत में पारंपरिक और आधुनिक शैलियों के मेल के लिए जाना जाता है.
+
+सीरीज़ का ट्रेलर और संगीत जारी होने के बाद इसके कलाकारों ने भी इसे सोशल मीडिया पर साझा किया, जहां इस परियोजना को लेकर लोगों ने दिलचस्पी दिखाई.
+
+अभिनेत्री माहिरा ख़ान ने अपने क़िरदार राहत के बारे में एक पोस्ट साझा करते हुए कहा, "इस क़िरदार का एक हिस्सा उसके जीवन भर उसके साथ रहेगा."
+
+पाकिस्तानी ड्रामे विदेशों में रहने वाले दक्षिण एशियाई दर्शकों के बीच कई साल से लोकप्रिय रहे हैं.
+
+यूट्यूब और सोशल मीडिया ने इनकी पहुंच और बढ़ा दी है. भारत समेत दूसरे देशों में भी पाकिस्तानी ड्रामा के संवादों और किरदारों पर बने वीडियो इस लोकप्रियता की मिसाल हैं.
+
+लेकिन यह लोकप्रियता ज़्यादातर उन लोगों तक ही सीमित रही है जो पाकिस्तानी संस्कृति, भाषा या कलाकारों से पहले से परिचित हैं.
+
+नेटफ़्लिक्स जैसे मंच पर मौजूदगी से उन लोगों तक भी पहुंचना मुमकिन हो सकता है जिन्होंने पहले कभी कोई पाकिस्तानी ड्रामा नहीं देखा है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cm93r9d9ypx0o)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 97930,
+    title: `Koffee With Karan 9: 'बहुत सारे बड़े लोग मुझे कास्ट नहीं करते', एक रूल की वजह से अक्षय कुमार ने खोया काम, छलका दर्द - AajTak`,
+    slug: `koffee-with-karan-9-aajtak-2026`,
+    original_title: `Koffee With Karan 9: 'बहुत सारे बड़े लोग मुझे कास्ट नहीं करते', एक रूल की वजह से अक्षय कुमार ने खोया काम, छलका दर्द - AajTak`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:15Z`,
+    updated_at: `2026-11-26T06:12:15Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/entertainment/bollywood-news/story/akshay-kumar-8-hour-work-shift-rule-lost-film-painful-emotional-confession-ravi-kishan-reacts-karan-johar-koffee-with-karan-9-tmovb-dskc-2706132-2026-11-26`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0723caa9a87-akshay-kumar-120756521.png`,
+    image_alt: `Koffee With Karan 9: 'बहुत सारे बड़े लोग मुझे कास्ट नहीं करते', एक रूल की वजह से अक्षय कुमार ने खोया काम, छलका दर्द - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Koffee With Karan 9: 'बहुत सारे बड़े लोग मुझे कास्ट नहीं करते', एक रूल की वजह से अक्षय कुमार ने खोया काम, छलका दर्द AajTak अक्षय कुमार-करण जौहर ने किया दीपिका पादुकोण का सपोर्ट, 8 घंटे शिफ्ट डिमांड पर बोले- 'ये उनका हक है' India TV Hindi 'म`,
+    content: `### अक्षय कुमार ने खुलासा किया कि वो केवल 8 घंटे काम करते हैं, जिससे कुछ बड़े निर्माता उनके साथ काम करने में हिचकिचाते हैं. अक्षय के इस खुलासे ने उनके चाहने वालों को हैरान कर दिया है.
+
+बेटी दुआ के जन्म के बाद दीपिका पादुकोण ने 8 घंटे की शिफ्ट की मांग की थी. इस वजह से वो निर्देशक संदीप रेड्डी वंगा की फिल्म ‘स्पिरिट’ से बाहर हो गईं. अब सुपरस्टार अक्षय कुमार ने हाल ही में स्वीकार किया कि वो भी 8 घंटे काम करते हैं, जिसके चलते कुछ बड़े निर्माता उनके साथ काम करने में हिचकिचाहट महसूस करते हैं.
+
+‘कॉफी विद करण सीजन 9’ के 7वें एपिसोड में रवि किशन और अक्षय कुमार की जोड़ी ने दर्शकों को खूब हंसाया. शो में अक्षय ने कुछ दर्दभरे खुलासे भी किए. करण जौहर ने अक्षय कुमार की तारीफ में कहा कि वो नए निर्देशकों और निर्माताओं का ध्यान रखते हैं. इस पर अक्षय ने कहा कि इसमें ये भी सच है कि बहुत सारे बड़े लोग मुझे कास्ट नहीं करना चाहते.
+
+8 घंटे काम करते हैं अक्षय शो पर अक्षय कुमार ने कहा- मैं सिर्फ 8 घंटे काम करता हूं, लेकिन वो ये भूल जाते हैं कि मैं इन 8 घंटों में अपनी वैनिटी वैन में भी नहीं जाता. अक्षय ने कहा कि लोग उन्हें सुंदर और जोश से भरा देखना चाहते हैं, थका हुआ नहीं. इसलिए वो सिर्फ 8 घंटे काम करते हैं, आठ घंटे सोते हैं और बाकी समय परिवार के साथ, खाने और अपने शरीर का ध्यान रखने में बिताते हैं.
+
+A post shared by Karan Johar (@karanjohar)
+
+रवि किशन ने कहा कि अक्षय कुमार इन 8 घंटों में पूरी तरह अपना बेस्ट देते हैं. भोजपुरी स्टार ने कहा कि वो अब तक चार फिल्मों में अक्षय के साथ काम कर चुके हैं. रवि ने कहा कि अक्षय इतनी तेजी से काम करते हैं और उस दौरान अपनी पूरी जिंदगी काम को समर्पित कर देते हैं. वो निर्माता का पैसा भी बचाते हैं. इसी तरह आप अक्षय कुमार बनते हैं. इसकी वजह से बहुत सारे लोगों को नौकरी मिलती है, क्योंकि यूनिट में आमतौर पर 300-400 लोग होते हैं. निर्माता भी खुश रहते हैं, क्योंकि उनका पैसा नहीं डूबता. वो अपनी फिल्में लगभग 55 दिनों में पूरी कर लेते हैं.
+
+अक्षय ने कहा- कुछ लोग पूछते हैं कि मैं फिल्में 60-65 दिनों में कैसे पूरी कर लेता हूं. मैंने हाल ही में क्रिस्टोफर नोलन का एक इंटरव्यू पढ़ा और शायद वो एक फिल्म पूरी करने में 90 दिनों से ज्यादा समय नहीं लेते. टॉम क्रूज ने 'मिशन: इम्पॉसिबल' 55 दिनों में पूरी की. मुझे समझ नहीं आता कि लोग मुझसे क्यों पूछते हैं, 'तुम इतनी सारी फिल्में क्यों करते हो?' काम नहीं करूंगा तो क्या करूंगा? मुझे कभी नहीं समझा कि लोग मुझसे यह सवाल क्यों पूछते हैं.
+
+कुल मिलाकर अक्षय कुमार और रवि किशन की जोड़ी ने फैंस को खूब एंटरटेन किया. आपने शो देखा क्या?
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/akshay-kumar-8-hour-work-shift-rule-lost-film-painful-emotional-confession-ravi-kishan-reacts-karan-johar-koffee-with-karan-9-tmovb-dskc-2706132-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Koffee With Karan 9: 'बहुत सारे बड़े लोग मुझे कास्ट नहीं करते', एक रूल की वजह से अक्षय कुमार ने खोया काम, छलका दर्द - AajTak`,
+    summary_hi: `Koffee With Karan 9: 'बहुत सारे बड़े लोग मुझे कास्ट नहीं करते', एक रूल की वजह से अक्षय कुमार ने खोया काम, छलका दर्द AajTak अक्षय कुमार-करण जौहर ने किया दीपिका पादुकोण का सपोर्ट, 8 घंटे शिफ्ट डिमांड पर बोले- 'ये उनका हक है' India TV Hindi 'म`,
+    content_hi: `### अक्षय कुमार ने खुलासा किया कि वो केवल 8 घंटे काम करते हैं, जिससे कुछ बड़े निर्माता उनके साथ काम करने में हिचकिचाते हैं. अक्षय के इस खुलासे ने उनके चाहने वालों को हैरान कर दिया है.
+
+बेटी दुआ के जन्म के बाद दीपिका पादुकोण ने 8 घंटे की शिफ्ट की मांग की थी. इस वजह से वो निर्देशक संदीप रेड्डी वंगा की फिल्म ‘स्पिरिट’ से बाहर हो गईं. अब सुपरस्टार अक्षय कुमार ने हाल ही में स्वीकार किया कि वो भी 8 घंटे काम करते हैं, जिसके चलते कुछ बड़े निर्माता उनके साथ काम करने में हिचकिचाहट महसूस करते हैं.
+
+‘कॉफी विद करण सीजन 9’ के 7वें एपिसोड में रवि किशन और अक्षय कुमार की जोड़ी ने दर्शकों को खूब हंसाया. शो में अक्षय ने कुछ दर्दभरे खुलासे भी किए. करण जौहर ने अक्षय कुमार की तारीफ में कहा कि वो नए निर्देशकों और निर्माताओं का ध्यान रखते हैं. इस पर अक्षय ने कहा कि इसमें ये भी सच है कि बहुत सारे बड़े लोग मुझे कास्ट नहीं करना चाहते.
+
+8 घंटे काम करते हैं अक्षय शो पर अक्षय कुमार ने कहा- मैं सिर्फ 8 घंटे काम करता हूं, लेकिन वो ये भूल जाते हैं कि मैं इन 8 घंटों में अपनी वैनिटी वैन में भी नहीं जाता. अक्षय ने कहा कि लोग उन्हें सुंदर और जोश से भरा देखना चाहते हैं, थका हुआ नहीं. इसलिए वो सिर्फ 8 घंटे काम करते हैं, आठ घंटे सोते हैं और बाकी समय परिवार के साथ, खाने और अपने शरीर का ध्यान रखने में बिताते हैं.
+
+A post shared by Karan Johar (@karanjohar)
+
+रवि किशन ने कहा कि अक्षय कुमार इन 8 घंटों में पूरी तरह अपना बेस्ट देते हैं. भोजपुरी स्टार ने कहा कि वो अब तक चार फिल्मों में अक्षय के साथ काम कर चुके हैं. रवि ने कहा कि अक्षय इतनी तेजी से काम करते हैं और उस दौरान अपनी पूरी जिंदगी काम को समर्पित कर देते हैं. वो निर्माता का पैसा भी बचाते हैं. इसी तरह आप अक्षय कुमार बनते हैं. इसकी वजह से बहुत सारे लोगों को नौकरी मिलती है, क्योंकि यूनिट में आमतौर पर 300-400 लोग होते हैं. निर्माता भी खुश रहते हैं, क्योंकि उनका पैसा नहीं डूबता. वो अपनी फिल्में लगभग 55 दिनों में पूरी कर लेते हैं.
+
+अक्षय ने कहा- कुछ लोग पूछते हैं कि मैं फिल्में 60-65 दिनों में कैसे पूरी कर लेता हूं. मैंने हाल ही में क्रिस्टोफर नोलन का एक इंटरव्यू पढ़ा और शायद वो एक फिल्म पूरी करने में 90 दिनों से ज्यादा समय नहीं लेते. टॉम क्रूज ने 'मिशन: इम्पॉसिबल' 55 दिनों में पूरी की. मुझे समझ नहीं आता कि लोग मुझसे क्यों पूछते हैं, 'तुम इतनी सारी फिल्में क्यों करते हो?' काम नहीं करूंगा तो क्या करूंगा? मुझे कभी नहीं समझा कि लोग मुझसे यह सवाल क्यों पूछते हैं.
+
+कुल मिलाकर अक्षय कुमार और रवि किशन की जोड़ी ने फैंस को खूब एंटरटेन किया. आपने शो देखा क्या?
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/akshay-kumar-8-hour-work-shift-rule-lost-film-painful-emotional-confession-ravi-kishan-reacts-karan-johar-koffee-with-karan-9-tmovb-dskc-2706132-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Koffee With Karan 9: 'बहुत सारे बड़े लोग मुझे कास्ट नहीं करते', एक रूल की वजह से अक्षय कुमार ने खोया काम, छलका दर्द - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 97931,
+    title: `Discovery India announces new series ‘Itihasa: Ramayana Beyond Borders’ with Shashi Tharoor - Adgully`,
+    slug: `discovery-india-announces-new-series-itihasa-ramayana-beyond-borders-w-2026`,
+    original_title: `Discovery India announces new series ‘Itihasa: Ramayana Beyond Borders’ with Shashi Tharoor - Adgully`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:19Z`,
+    updated_at: `2026-11-26T06:12:19Z`,
+    source_name: `Adgully`,
+    source_url: `https://www.adgully.com/post/24105/discovery-india-announces-new-series-itihasa-ramayana-beyond-borders-with-shashi-tharoor`,
+    source_courtesy: `Source: Adgully`,
+    image_url: `/images/articles/discovery-india-announces-new-series-itihasa-ramayana-beyond-borders-w-2026.jpg`,
+    image_alt: `Discovery India announces new series ‘Itihasa: Ramayana Beyond Borders’ with Shashi Tharoor - Adgully`,
+    image_courtesy: `Image: Adgully (External Source Attribution)`,
+    image_photographer: `Adgully`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `Presenting a compelling exploration of one of India’s greatest epics and its timeless resonance across cultures, Discovery is all set to launch Itihasa: Ramayana Beyond Borders with Shashi Tharoor , marking his very first appearance as a ho`,
+    content: `Presenting a compelling exploration of one of India’s greatest epics and its timeless resonance across cultures, Discovery is all set to launch Itihasa: Ramayana Beyond Borders with Shashi Tharoor , marking his very first appearance as a host of a docuseries on the Ramayana. Premiering December 7 in India, the four-part series chronicles how the Ramayana has travelled across parts of Asia over centuries, taking on distinct meanings and interpretations in the cultures that embraced this epic.
+
+The promo offers a first glimpse of the series.
+
+A historian, best-selling author and parliamentarian, Dr. Shashi Tharoor will guide viewers through the epic’s many transformations that connected civilizations across Asia. The series explores how Southeast Asian cultures embraced the Ramayana as their very own through historical connections and local interpretations.
+
+Speaking about the series, Dr. Shashi Tharoor said, “In addition to its obvious religious significance, the Ramayana has always held my literary interest, as a story that has travelled across centuries and cultures. I have spent years encountering and reading about its many tellings, each of which reveals something about the society that shaped it. So, when Discovery approached me to host a series racing the epic's journey across Asia, it was an easy choice, since I have long believed that its richness and cultural reach deserve wider recognition. Discovery has a distinctive ability to bring history and culture to a large audience, and I am delighted to be associated with a series that takes this exploration across borders.”
+
+The four-episode series will follow the central characters of the epic - Rama, Sita, Hanuman, and Ravana - with each episode uncovering a different facet of the Ramayana’s journey. Rama’s ideals of kingship, Hanuman’s diverse depiction, Ravana's personas, and the evolving portrayals of Sita's fearlessness will reveal how the same epic can hold radically different meanings across cultures. Anchored in India as its narrative source, it will trace the epic’s passage from Cambodia, Sri Lanka and Thailand to the Philippines, Indonesia and Malaysia. Visually rich and cinematic, the series will take viewers through breathtaking landscapes, ancient art and living traditions.
+
+Sai Abishek, Head of Factual Entertainment, Lifestyle & Kids, South Asia, Skydance, said , “The Ramayana is one of India’s greatest epics, and its journey across Asia reveals the many ways it has been embraced and imbibed across cultures. With Itihasa: Ramayana Beyond Borders with Shashi Tharoor, we begin with an epic familiar to many, then explore the histories and interpretations that have shaped it across the region, with the detail and scale it deserves. Dr. Shashi Tharoor adds exceptional depth to the subject, along with his gift for storytelling. It has been a privilege to work with him to bring these distinct regional perspectives to audiences. This also marks the launch of our Itihasa franchise which is in line with our vision to bring larger-than-life stories to the screen whilst continuing to explore fresh creative possibilities within the genre.”
+
+Discovery has long been home to stories that take viewers across cultures, bringing the history and traditions behind them to life. Itihasa: Ramayana Beyond Borders with Shashi Tharoor will also feature insights from acclaimed historians, religious scholars, Sanskrit experts, cultural heritage researchers and practitioners of traditional art forms from different countries. Their extensive regional knowledge will bring greater context to the histories, beliefs and artistic traditions that shaped the epic across borders.
+
+The series is co-directed by Sujata Kulshreshtha and Abhimanyu Tewari from Wide Angle Films. It is sponsored by Avaada, Flipkart, Havells and Britannia Good Day. Airing one episode a week, the series will be available in Hindi, English, Tamil, Telugu, Bengali, Malayalam and Kannada.
+
+Itihasa: Ramayana Beyond Borders with Shashi Tharoor premieres on December 7, 2026, at 09:00 PM on Discovery and Discovery +
+
+similar news Dabang Delhi KC unveils strong sponsor line-up for PKL season 12
+
+similar news Google patent filing outlines generative AI TV channels tailored to individual viewers
+
+similar news PhonePe revives IPO plans, targets up to $15 billion valuation for Q4 FY27 listing
+
+similar news Malaysia sues Google for $146 million over YouTube gambling
+
+similar news JioStar brings seven Indian TV channels to Fubo in the US
+
+similar news India tops global YouTube video removals with 34.4 lakh takedowns in Q2 2026
+
+similar news Amazon and Meta in talks to lift blockade on Muse AI shopping agent
+
+similar news WhatsApp introduces scheduled messages with end-to-end encryption
+
+similar news NDTV World expands global reach with launches on BOTIM and TCL Connected TVs
+
+similar news Microdrama platform Canvas to enter US in December with 15 vertical shows
+
+---
+
+**Original Source:** [Adgully](https://www.adgully.com/post/24105/discovery-india-announces-new-series-itihasa-ramayana-beyond-borders-with-shashi-tharoor)`,
+    title_en: `Discovery India announces new series ‘Itihasa: Ramayana Beyond Borders’ with Shashi Tharoor - Adgully`,
+    summary_en: `Presenting a compelling exploration of one of India’s greatest epics and its timeless resonance across cultures, Discovery is all set to launch Itihasa: Ramayana Beyond Borders with Shashi Tharoor , marking his very first appearance as a ho`,
+    content_en: `Presenting a compelling exploration of one of India’s greatest epics and its timeless resonance across cultures, Discovery is all set to launch Itihasa: Ramayana Beyond Borders with Shashi Tharoor , marking his very first appearance as a host of a docuseries on the Ramayana. Premiering December 7 in India, the four-part series chronicles how the Ramayana has travelled across parts of Asia over centuries, taking on distinct meanings and interpretations in the cultures that embraced this epic.
+
+The promo offers a first glimpse of the series.
+
+A historian, best-selling author and parliamentarian, Dr. Shashi Tharoor will guide viewers through the epic’s many transformations that connected civilizations across Asia. The series explores how Southeast Asian cultures embraced the Ramayana as their very own through historical connections and local interpretations.
+
+Speaking about the series, Dr. Shashi Tharoor said, “In addition to its obvious religious significance, the Ramayana has always held my literary interest, as a story that has travelled across centuries and cultures. I have spent years encountering and reading about its many tellings, each of which reveals something about the society that shaped it. So, when Discovery approached me to host a series racing the epic's journey across Asia, it was an easy choice, since I have long believed that its richness and cultural reach deserve wider recognition. Discovery has a distinctive ability to bring history and culture to a large audience, and I am delighted to be associated with a series that takes this exploration across borders.”
+
+The four-episode series will follow the central characters of the epic - Rama, Sita, Hanuman, and Ravana - with each episode uncovering a different facet of the Ramayana’s journey. Rama’s ideals of kingship, Hanuman’s diverse depiction, Ravana's personas, and the evolving portrayals of Sita's fearlessness will reveal how the same epic can hold radically different meanings across cultures. Anchored in India as its narrative source, it will trace the epic’s passage from Cambodia, Sri Lanka and Thailand to the Philippines, Indonesia and Malaysia. Visually rich and cinematic, the series will take viewers through breathtaking landscapes, ancient art and living traditions.
+
+Sai Abishek, Head of Factual Entertainment, Lifestyle & Kids, South Asia, Skydance, said , “The Ramayana is one of India’s greatest epics, and its journey across Asia reveals the many ways it has been embraced and imbibed across cultures. With Itihasa: Ramayana Beyond Borders with Shashi Tharoor, we begin with an epic familiar to many, then explore the histories and interpretations that have shaped it across the region, with the detail and scale it deserves. Dr. Shashi Tharoor adds exceptional depth to the subject, along with his gift for storytelling. It has been a privilege to work with him to bring these distinct regional perspectives to audiences. This also marks the launch of our Itihasa franchise which is in line with our vision to bring larger-than-life stories to the screen whilst continuing to explore fresh creative possibilities within the genre.”
+
+Discovery has long been home to stories that take viewers across cultures, bringing the history and traditions behind them to life. Itihasa: Ramayana Beyond Borders with Shashi Tharoor will also feature insights from acclaimed historians, religious scholars, Sanskrit experts, cultural heritage researchers and practitioners of traditional art forms from different countries. Their extensive regional knowledge will bring greater context to the histories, beliefs and artistic traditions that shaped the epic across borders.
+
+The series is co-directed by Sujata Kulshreshtha and Abhimanyu Tewari from Wide Angle Films. It is sponsored by Avaada, Flipkart, Havells and Britannia Good Day. Airing one episode a week, the series will be available in Hindi, English, Tamil, Telugu, Bengali, Malayalam and Kannada.
+
+Itihasa: Ramayana Beyond Borders with Shashi Tharoor premieres on December 7, 2026, at 09:00 PM on Discovery and Discovery +
+
+similar news Dabang Delhi KC unveils strong sponsor line-up for PKL season 12
+
+similar news Google patent filing outlines generative AI TV channels tailored to individual viewers
+
+similar news PhonePe revives IPO plans, targets up to $15 billion valuation for Q4 FY27 listing
+
+similar news Malaysia sues Google for $146 million over YouTube gambling
+
+similar news JioStar brings seven Indian TV channels to Fubo in the US
+
+similar news India tops global YouTube video removals with 34.4 lakh takedowns in Q2 2026
+
+similar news Amazon and Meta in talks to lift blockade on Muse AI shopping agent
+
+similar news WhatsApp introduces scheduled messages with end-to-end encryption
+
+similar news NDTV World expands global reach with launches on BOTIM and TCL Connected TVs
+
+similar news Microdrama platform Canvas to enter US in December with 15 vertical shows
+
+---
+
+**Original Source:** [Adgully](https://www.adgully.com/post/24105/discovery-india-announces-new-series-itihasa-ramayana-beyond-borders-with-shashi-tharoor)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Adgully.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Discovery India announces new series ‘Itihasa: Ramayana Beyond Borders’ with Shashi Tharoor - Adgully.`,
+    primary_source: `Adgully`,
+  },
+  {
+    id: 97932,
+    title: `India’s ‘Ramayana’ Officially Removed From Nearly 800 Theaters After Box Office Drop - Collider`,
+    slug: `indias-ramayana-officially-removed-from-nearly-800-theaters-after-box-2026`,
+    original_title: `India’s ‘Ramayana’ Officially Removed From Nearly 800 Theaters After Box Office Drop - Collider`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:20Z`,
+    updated_at: `2026-11-26T06:12:20Z`,
+    source_name: `Collider`,
+    source_url: `https://collider.com/ramayana-rise-of-a-legend-removed-from-800-theaters-box-office/`,
+    source_courtesy: `Source: Collider`,
+    image_url: `/images/articles/indias-ramayana-officially-removed-from-nearly-800-theaters-after-box-2026.jpg`,
+    image_alt: `India’s ‘Ramayana’ Officially Removed From Nearly 800 Theaters After Box Office Drop - Collider`,
+    image_courtesy: `Image: Collider (External Source Attribution)`,
+    image_photographer: `Collider`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `He has covered everything from Marvel to the Oscars, and Marvel at the Oscars. He also writes obsessively about the box office, charting the many hits and misses that are released weekly, and how their commercial performance shapes public p`,
+    content: `He has covered everything from Marvel to the Oscars, and Marvel at the Oscars. He also writes obsessively about the box office, charting the many hits and misses that are released weekly, and how their commercial performance shapes public perception. In his time at Collider, he has also helped drive diversity by writing stories about the multiple Indian film industries, with a goal of introducing audiences to a whole new world of cinema.
+
+At this stage in its theatrical run, the most expensive Indian movie ever made will likely struggle to break even theatrically. As a rule of thumb, films of this size need to gross twice their production budgets to break even , and although the new mythological epic's economics cannot be compared with those of a typical Hollywood blockbuster , it still hasn't recovered its reported $200 million budget. The film entered production as the first installment of a planned duology, based on an epic text sacred to Hindus all over the world. Both movies cost more than $400 million combined , according to their primary producer .
+
+The first film was released ahead of the Hindu festival Diwali, which significantly boosted its box-office performance. In fact, the film reached the $100 million mark at the worldwide box office before Godzilla Minus Zero , pulling ahead of the acclaimed sequel. That said, Godzilla Minus Zero has a reported budget of $15 million, continuing the frugal approach that director Takashi Yamazaki took with 2023's breakout hit Godzilla Minus One .
+
+Buoyed by excellent reviews , Godzilla Minus Zero has grossed more than $100 million worldwide so far, and is expected to surpass the $57 million domestic haul of its predecessor in the coming weeks. This would make it one of the highest-grossing live-action foreign-language movies of all time. Meanwhile, this weekend, the Indian epic will likely surpass the $28 million domestic haul of this year's Dhurandhar: The Revenge , becoming the highest-grossing Indian movie at the domestic box office​​​​​​​ .
+
+Four worlds and four completely different ideas of what a good life
+					looks like. This is where you belong, what it would ask of you, and what you would get back in
+					return.
+
+You belong somewhere old enough that the mountains have names and
+							somebody can still tell you who gave them. Middle-earth is for people who think the right
+							thing is worth doing even when it will not be finished in their lifetime.
+
+You want the sea, a crew, and absolutely nobody telling you where
+							you are allowed to go. The Grand Line is the world for people whose main ambition in life is
+							finding out what is over there.
+
+You would rather be feared and useful than liked and useless. The
+							Continent is a world where the monsters are the straightforward part of the job and the
+							people are where it all gets complicated.
+
+You want the myths to be real and loose in the actual world, and
+							you want to find out at about thirteen that you were never anywhere near as ordinary as
+							everybody kept telling you.
+
+### Here's How Much the Indian Epic Has Grossed at the Box Office So Far
+
+The movie we're talking about, of course, is Ramayana: Rise of a Legend . Directed by Nitesh Tiwari , the film stars Ranbir Kapoor as Lord Rama and Yash as the villainous Ravana — the two forces collide when Ravana kidnaps Rama's wife, Sita, and keeps her hostage in his kingdom Lanka. Events in the mythological text serve as the foundation of not only the Hindu festival of Diwali, but also Dussehra.
+
+The movie has so far grossed more than $150 million worldwide, pulling ahead of 2023's word-of-mouth sensation RRR , as well as this year's Supergirl and Mortal Kombat II . Distributed domestically by Sony, the film debuted in more than 1,400 theaters. It lost more than 300 theaters in week two, and its theater count is expected to fall to 681 this Friday in week three—a decline of more than 700 from its opening count.​​​​​​​ You can still watch Ramayana on the big screen and stay tuned to Collider for more updates.
+
+---
+
+**Original Source:** [Collider](https://collider.com/ramayana-rise-of-a-legend-removed-from-800-theaters-box-office/)`,
+    title_en: `India’s ‘Ramayana’ Officially Removed From Nearly 800 Theaters After Box Office Drop - Collider`,
+    summary_en: `He has covered everything from Marvel to the Oscars, and Marvel at the Oscars. He also writes obsessively about the box office, charting the many hits and misses that are released weekly, and how their commercial performance shapes public p`,
+    content_en: `He has covered everything from Marvel to the Oscars, and Marvel at the Oscars. He also writes obsessively about the box office, charting the many hits and misses that are released weekly, and how their commercial performance shapes public perception. In his time at Collider, he has also helped drive diversity by writing stories about the multiple Indian film industries, with a goal of introducing audiences to a whole new world of cinema.
+
+At this stage in its theatrical run, the most expensive Indian movie ever made will likely struggle to break even theatrically. As a rule of thumb, films of this size need to gross twice their production budgets to break even , and although the new mythological epic's economics cannot be compared with those of a typical Hollywood blockbuster , it still hasn't recovered its reported $200 million budget. The film entered production as the first installment of a planned duology, based on an epic text sacred to Hindus all over the world. Both movies cost more than $400 million combined , according to their primary producer .
+
+The first film was released ahead of the Hindu festival Diwali, which significantly boosted its box-office performance. In fact, the film reached the $100 million mark at the worldwide box office before Godzilla Minus Zero , pulling ahead of the acclaimed sequel. That said, Godzilla Minus Zero has a reported budget of $15 million, continuing the frugal approach that director Takashi Yamazaki took with 2023's breakout hit Godzilla Minus One .
+
+Buoyed by excellent reviews , Godzilla Minus Zero has grossed more than $100 million worldwide so far, and is expected to surpass the $57 million domestic haul of its predecessor in the coming weeks. This would make it one of the highest-grossing live-action foreign-language movies of all time. Meanwhile, this weekend, the Indian epic will likely surpass the $28 million domestic haul of this year's Dhurandhar: The Revenge , becoming the highest-grossing Indian movie at the domestic box office​​​​​​​ .
+
+Four worlds and four completely different ideas of what a good life
+					looks like. This is where you belong, what it would ask of you, and what you would get back in
+					return.
+
+You belong somewhere old enough that the mountains have names and
+							somebody can still tell you who gave them. Middle-earth is for people who think the right
+							thing is worth doing even when it will not be finished in their lifetime.
+
+You want the sea, a crew, and absolutely nobody telling you where
+							you are allowed to go. The Grand Line is the world for people whose main ambition in life is
+							finding out what is over there.
+
+You would rather be feared and useful than liked and useless. The
+							Continent is a world where the monsters are the straightforward part of the job and the
+							people are where it all gets complicated.
+
+You want the myths to be real and loose in the actual world, and
+							you want to find out at about thirteen that you were never anywhere near as ordinary as
+							everybody kept telling you.
+
+### Here's How Much the Indian Epic Has Grossed at the Box Office So Far
+
+The movie we're talking about, of course, is Ramayana: Rise of a Legend . Directed by Nitesh Tiwari , the film stars Ranbir Kapoor as Lord Rama and Yash as the villainous Ravana — the two forces collide when Ravana kidnaps Rama's wife, Sita, and keeps her hostage in his kingdom Lanka. Events in the mythological text serve as the foundation of not only the Hindu festival of Diwali, but also Dussehra.
+
+The movie has so far grossed more than $150 million worldwide, pulling ahead of 2023's word-of-mouth sensation RRR , as well as this year's Supergirl and Mortal Kombat II . Distributed domestically by Sony, the film debuted in more than 1,400 theaters. It lost more than 300 theaters in week two, and its theater count is expected to fall to 681 this Friday in week three—a decline of more than 700 from its opening count.​​​​​​​ You can still watch Ramayana on the big screen and stay tuned to Collider for more updates.
+
+---
+
+**Original Source:** [Collider](https://collider.com/ramayana-rise-of-a-legend-removed-from-800-theaters-box-office/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Collider.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for India’s ‘Ramayana’ Officially Removed From Nearly 800 Theaters After Box Office Drop - Collider.`,
+    primary_source: `Collider`,
+  },
+  {
+    id: 97933,
+    title: `Thursday Box Office Live Updates: रामायण 983 करोड़ के पार, जानें- ओम से गॉडजिला माइनस जीरो की 10 बजे तक - ABP News`,
+    slug: `thursday-box-office-live-updates-983-10-abp-news-2026`,
+    original_title: `Thursday Box Office Live Updates: रामायण 983 करोड़ के पार, जानें- ओम से गॉडजिला माइनस जीरो की 10 बजे तक - ABP News`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:23Z`,
+    updated_at: `2026-11-26T06:12:23Z`,
+    source_name: `ABP News`,
+    source_url: `https://www.abplive.com/entertainment/bollywood/thursday-box-office-live-updates-26th-november-ramayana-part-1-om-godzilla-minus-zero-collection-and-occupancy-3219488`,
+    source_courtesy: `Source: ABP News`,
+    image_url: `/images/articles/thursday-box-office-live-updates-983-10-abp-news-2026.webp`,
+    image_alt: `Thursday Box Office Live Updates: रामायण 983 करोड़ के पार, जानें- ओम से गॉडजिला माइनस जीरो की 10 बजे तक - ABP News`,
+    image_courtesy: `Image: ABP News (External Source Attribution)`,
+    image_photographer: `ABP News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `&nbsp;बुधवार को बॉक्स ऑफिस पर सभी फिल्मों ने ठंडा परफॉर्म किया. यहां तक कि 'रामायण' ने भी पहली बार सिंगल डिजिट में कलेक्शन किया. वहीं 'ओम' की रफ्तार भी काफी धीमी नजर आई. जबकि 'गॉडजिला माइनस जीरो' का तो बुरा हाल दिखा.&nbsp; चलिए यहां जानते ह`,
+    content: `&nbsp;बुधवार को बॉक्स ऑफिस पर सभी फिल्मों ने ठंडा परफॉर्म किया. यहां तक कि 'रामायण' ने भी पहली बार सिंगल डिजिट में कलेक्शन किया. वहीं 'ओम' की रफ्तार भी काफी धीमी नजर आई. जबकि 'गॉडजिला माइनस जीरो' का तो बुरा हाल दिखा.&nbsp; चलिए यहां जानते हैं कि ये सभी फिल्में, 26 नवंबर यानी गुरुवार को कितनी कमाई कर रही हैं और इनकी ऑक्यूपेंसी कितनी है.&nbsp;
+'रामायण' बॉक्स ऑफिस कलेक्शन डे 22 (Ramayana Box Offie Collection Day 22 Live Updates)रणबीर कपूर और यश स्टारर 'रामायण' की रफ्तार अब धीमी पड़ गई है.
+
+इस फिल्म ने तीसरे बुधवार यानी रिलीज के 21वे दिन अपनी अब तक की सबसे कम कमाई की. इसका कलेक्शन महज 9.60 करोड़ रुपये रहा. वहीं अब चौथे गुरुवार यानी 22वें दिन की कमाई की बात करें तो
+
+सैकनिल्क की अर्ली ट्रेंड रिपोर्ट के मुताबिक 'रामायण'&nbsp; ने रिलीज के 22वें दिन यानी चौथे गुरुवार को सुबह 11 बजे तक 0.99 करोड़ कमा लिए हैं.
+
+इसी के साथ फिलहाल 'रामायण' की भारत में 22 दिनों की नेट कमाई 983.44&nbsp; करोड़ हो गई है.&nbsp;
+
+
+
+
+ 'रामायण'&nbsp; 
+बॉक्स ऑफिस कलेक्शन
+ऑक्यूपेंसी
+
+
+डे-22
+0.99&nbsp; करोड़ (11 बजे तक का कलेक्शन )
+&nbsp;
+
+
+कुल कलेक्शन
+983.44 करोड़
+&nbsp;
+
+
+
+'ओम' बॉक्स ऑफिस कलेक्शन डे 7 (OM Box Office Collection Day7 Live Updates)धनुष की 'ओम' की कमाई को भी बुधवार को बड़ा झटका लगा और ये बस 4.10 करोड़ का ही कलेक्शन कर पाई.
+
+वहीं अब ये सिनेमाघरों में एक हफ्ता पूरा कर रही है और इसके 7वें दिन यानी गुरुवार की कमाई की बात करें तो&nbsp;
+
+सैकनिल्क की अर्ली ट्रेंड रिपोर्ट के मुताबिक 'ओम' ने रिलीज के 7वें दिन यानी पहले गुरुवार को सुबह 11 बजे तक 0.59 करोड़ की कमाई कर ली है. इसी के साथ फिलहाल 'ओम' की भारत में 6 दिनों की नेट कमाई 66.14 करोड़ रुपये हो गई है.&nbsp;
+
+
+
+
+ 'ओम'
+बॉक्स ऑफिस कलेक्शन
+ऑक्यूपेंसी
+
+
+डे-7
+0.59 करोड़ (सुबह 11 बजे तक का कलेक्शन)
+&nbsp;
+
+
+कुल कलेक्शन&nbsp;
+66.14 करोड़
+&nbsp;
+
+
+
+'गॉडजिला माइनस जीरो' बॉक्स ऑफिस कलेक्शन डे 7 (Godzilla Minus Zero Box Office Collection Day 7 Live Updates)जापानी मॉन्स्टर फिल्म 'गॉडजिला माइनस जीरो' भारतीय बॉक्स ऑफिस पर पहले दिन से ही मुट्ठीभर कमाई के लिए संघर्ष कर रही है.
+
+इस फिल्म ने रिलीज के 6ठे दिन यानी बुधवार को महज 30 लाख कमाए थे. वहीं इसके 7वें दिन यानी गुरुवार की कमाई की बात करें तो
+
+सैकनिल्क की अर्ली ट्रेंड रिपोर्ट के मुताबिक 'गॉडजिला माइनस जीरो' ने रिलीज के 7वें दिन यानी पहले गुरुवार को सुबह 11 बजे तक 3 लाख रुपये की कमाई कर ली है. इसी के साथ फिलहाल इसकी भारत में 7 दिनों की नेट कमाई 4.24 करोड़ रुपये हो गई है.&nbsp;
+
+
+
+
+'गॉडजिला माइनस जीरो' 
+बॉक्स ऑफिस कलेक्शन&nbsp;
+ऑक्यूपेंसी
+
+
+डे-7
+3 लाख रुपये (सुबह 11 बजे तक का कलेक्शन)
+&nbsp;
+
+
+कुल कलेक्शन&nbsp;
+4.24 करोड़ रुपये
+&nbsp;
+
+
+
+नोट: बॉक्स ऑफिस के आंकड़े सैकनिल्क से लिए गए हैं.&nbsp;
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/entertainment/bollywood/thursday-box-office-live-updates-26th-november-ramayana-part-1-om-godzilla-minus-zero-collection-and-occupancy-3219488)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Thursday Box Office Live Updates: रामायण 983 करोड़ के पार, जानें- ओम से गॉडजिला माइनस जीरो की 10 बजे तक - ABP News`,
+    summary_hi: `&nbsp;बुधवार को बॉक्स ऑफिस पर सभी फिल्मों ने ठंडा परफॉर्म किया. यहां तक कि 'रामायण' ने भी पहली बार सिंगल डिजिट में कलेक्शन किया. वहीं 'ओम' की रफ्तार भी काफी धीमी नजर आई. जबकि 'गॉडजिला माइनस जीरो' का तो बुरा हाल दिखा.&nbsp; चलिए यहां जानते ह`,
+    content_hi: `&nbsp;बुधवार को बॉक्स ऑफिस पर सभी फिल्मों ने ठंडा परफॉर्म किया. यहां तक कि 'रामायण' ने भी पहली बार सिंगल डिजिट में कलेक्शन किया. वहीं 'ओम' की रफ्तार भी काफी धीमी नजर आई. जबकि 'गॉडजिला माइनस जीरो' का तो बुरा हाल दिखा.&nbsp; चलिए यहां जानते हैं कि ये सभी फिल्में, 26 नवंबर यानी गुरुवार को कितनी कमाई कर रही हैं और इनकी ऑक्यूपेंसी कितनी है.&nbsp;
+'रामायण' बॉक्स ऑफिस कलेक्शन डे 22 (Ramayana Box Offie Collection Day 22 Live Updates)रणबीर कपूर और यश स्टारर 'रामायण' की रफ्तार अब धीमी पड़ गई है.
+
+इस फिल्म ने तीसरे बुधवार यानी रिलीज के 21वे दिन अपनी अब तक की सबसे कम कमाई की. इसका कलेक्शन महज 9.60 करोड़ रुपये रहा. वहीं अब चौथे गुरुवार यानी 22वें दिन की कमाई की बात करें तो
+
+सैकनिल्क की अर्ली ट्रेंड रिपोर्ट के मुताबिक 'रामायण'&nbsp; ने रिलीज के 22वें दिन यानी चौथे गुरुवार को सुबह 11 बजे तक 0.99 करोड़ कमा लिए हैं.
+
+इसी के साथ फिलहाल 'रामायण' की भारत में 22 दिनों की नेट कमाई 983.44&nbsp; करोड़ हो गई है.&nbsp;
+
+
+
+
+ 'रामायण'&nbsp; 
+बॉक्स ऑफिस कलेक्शन
+ऑक्यूपेंसी
+
+
+डे-22
+0.99&nbsp; करोड़ (11 बजे तक का कलेक्शन )
+&nbsp;
+
+
+कुल कलेक्शन
+983.44 करोड़
+&nbsp;
+
+
+
+'ओम' बॉक्स ऑफिस कलेक्शन डे 7 (OM Box Office Collection Day7 Live Updates)धनुष की 'ओम' की कमाई को भी बुधवार को बड़ा झटका लगा और ये बस 4.10 करोड़ का ही कलेक्शन कर पाई.
+
+वहीं अब ये सिनेमाघरों में एक हफ्ता पूरा कर रही है और इसके 7वें दिन यानी गुरुवार की कमाई की बात करें तो&nbsp;
+
+सैकनिल्क की अर्ली ट्रेंड रिपोर्ट के मुताबिक 'ओम' ने रिलीज के 7वें दिन यानी पहले गुरुवार को सुबह 11 बजे तक 0.59 करोड़ की कमाई कर ली है. इसी के साथ फिलहाल 'ओम' की भारत में 6 दिनों की नेट कमाई 66.14 करोड़ रुपये हो गई है.&nbsp;
+
+
+
+
+ 'ओम'
+बॉक्स ऑफिस कलेक्शन
+ऑक्यूपेंसी
+
+
+डे-7
+0.59 करोड़ (सुबह 11 बजे तक का कलेक्शन)
+&nbsp;
+
+
+कुल कलेक्शन&nbsp;
+66.14 करोड़
+&nbsp;
+
+
+
+'गॉडजिला माइनस जीरो' बॉक्स ऑफिस कलेक्शन डे 7 (Godzilla Minus Zero Box Office Collection Day 7 Live Updates)जापानी मॉन्स्टर फिल्म 'गॉडजिला माइनस जीरो' भारतीय बॉक्स ऑफिस पर पहले दिन से ही मुट्ठीभर कमाई के लिए संघर्ष कर रही है.
+
+इस फिल्म ने रिलीज के 6ठे दिन यानी बुधवार को महज 30 लाख कमाए थे. वहीं इसके 7वें दिन यानी गुरुवार की कमाई की बात करें तो
+
+सैकनिल्क की अर्ली ट्रेंड रिपोर्ट के मुताबिक 'गॉडजिला माइनस जीरो' ने रिलीज के 7वें दिन यानी पहले गुरुवार को सुबह 11 बजे तक 3 लाख रुपये की कमाई कर ली है. इसी के साथ फिलहाल इसकी भारत में 7 दिनों की नेट कमाई 4.24 करोड़ रुपये हो गई है.&nbsp;
+
+
+
+
+'गॉडजिला माइनस जीरो' 
+बॉक्स ऑफिस कलेक्शन&nbsp;
+ऑक्यूपेंसी
+
+
+डे-7
+3 लाख रुपये (सुबह 11 बजे तक का कलेक्शन)
+&nbsp;
+
+
+कुल कलेक्शन&nbsp;
+4.24 करोड़ रुपये
+&nbsp;
+
+
+
+नोट: बॉक्स ऑफिस के आंकड़े सैकनिल्क से लिए गए हैं.&nbsp;
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/entertainment/bollywood/thursday-box-office-live-updates-26th-november-ramayana-part-1-om-godzilla-minus-zero-collection-and-occupancy-3219488)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट ABP News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Thursday Box Office Live Updates: रामायण 983 करोड़ के पार, जानें- ओम से गॉडजिला माइनस जीरो की 10 बजे तक - ABP News से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `ABP News`,
+  },
+  {
+    id: 97934,
+    title: `गैराज से हॉलीवुड तक: 'रामायण' बनाने 8 ऑस्कर जीतने वाली प्राइम फोकस के पीछे इस शख्स का दिमाग; ऐसा रहा ₹19 हजार करोड़ का सफर - prime focus from garage to hollywood the man behind ramayan vfx - Jagran`,
+    slug: `8-19-prime-focus-from-garage-to-hollywood-the-man-behind-ramayan-vfx-j-2026`,
+    original_title: `गैराज से हॉलीवुड तक: 'रामायण' बनाने 8 ऑस्कर जीतने वाली प्राइम फोकस के पीछे इस शख्स का दिमाग; ऐसा रहा ₹19 हजार करोड़ का सफर - prime focus from garage to hollywood the man behind ramayan vfx - Jagran`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T06:12:23Z`,
+    updated_at: `2026-11-26T06:12:23Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/business/personal-finance-prime-focus-from-garage-to-hollywood-the-man-behind-ramayan-vfx-40445611.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/8-19-prime-focus-from-garage-to-hollywood-the-man-behind-ramayan-vfx-j-2026.webp`,
+    image_alt: `गैराज से हॉलीवुड तक: 'रामायण' बनाने 8 ऑस्कर जीतने वाली प्राइम फोकस के पीछे इस शख्स का दिमाग; ऐसा रहा ₹19 हजार करोड़ का सफर - prime focus from garage to hollywood the man behind ramayan vfx - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `नमित मल्होत्रा द्वारा स्थापित प्राइम फोकस, मुंबई के एक गैराज से शुरू होकर वैश्विक VFX कंपनी बनी। यह 'रामायण' जैसी फिल्मों में योगदान दे रही है और इसकी सहायक DNEG ने 8 ऑस्कर जीते हैं।`,
+    content: `नमित मल्होत्रा द्वारा स्थापित प्राइम फोकस, मुंबई के एक गैराज से शुरू होकर वैश्विक VFX कंपनी बनी। यह 'रामायण' जैसी फिल्मों में योगदान दे रही है और इसकी सहायक DNEG ने 8 ऑस्कर जीते हैं।
+
+किसने बनाई रामायण फिल्म, कितने करोड़ की है कंपनी?
+
+प्राइम फोकस की शुरुआत 1997 में मुंबई के गैराज से हुई।
+
+नमित मल्होत्रा ने कंपनी को वैश्विक VFX पावरहाउस बनाया।
+
+DNEG ने 8 ऑस्कर जीते, 'रामायण' में भी योगदान दिया।
+
+बिजनेस डेस्क, नई दिल्ली: रणबीर कपूर की ‘रामायण’ (ramayan) बॉक्स ऑफिस पर नए रिकॉर्ड बना रही है। फिल्म ने 18 दिनों में दुनियाभर में करीब 1,693 करोड़ रुपये का ग्रॉस कलेक्शन कर लिया है। लेकिन क्या आप जानते हैं कि इस फिल्म को बनाने के पीछे जिस कंपनी का बड़ा हाथ है, उसकी शुरुआत कभी मुंबई के एक छोटे से गैराज से हुई थी? हम बात कर रहे हैं प्राइम फोकस (Prime Focus) की। नमित मल्होत्रा की यह कंपनी आज सिर्फ भारत ही नहीं, बल्कि हॉलीवुड में भी अपनी पहचान बना चुकी है। विजुअल इफेक्ट्स (VFX), एनिमेशन, पोस्ट प्रोडक्शन और फिल्म प्रोडक्शन के कारोबार में कंपनी की मजबूत मौजूदगी है। आइए जानते हैं कि आखिर प्राइम फोकस कौन है, इसकी शुरुआत कैसे हुई और इसने अब तक किन बड़ी फिल्मों के साथ काम किया है।
+
+प्राइम फोकस की शुरुआत साल 1997 में हुई थी। इसे नमित मल्होत्रा ने मुंबई में स्थापित किया था। इसकी शुरुआत एक गैराज से हुई थी। नमित मल्होत्रा का मकसद फिल्म निर्माण और पोस्ट प्रोडक्शन के क्षेत्र में नई तकनीक को बढ़ावा देना था। शुरुआत में कंपनी ने फिल्म इंडस्ट्री को पोस्ट प्रोडक्शन, विजुअल इफेक्ट्स और डिजिटल इंटरमीडिएट (DI) जैसी सेवाएं देनी शुरू कीं। धीरे-धीरे इसने अपने काम का विस्तार किया और अंतरराष्ट्रीय बाजार में भी कदम रखा।
+
+साल 2006 में कंपनी ने शेयर बाजार में एंट्री की। इसके शेयर बीएसई और एनएसई पर लिस्ट हुए। इसके बाद 2007 में अमेरिका में अधिग्रहण के जरिए कारोबार का विस्तार किया। साल 2008 में कंपनी ने अपनी टेक्नोलॉजी इकाई Prime Focus Technologies की शुरुआत की।
+
+### कौन हैं कंपनी के मालिक नमित मल्होत्रा?
+
+प्राइम फोकस की कहानी नमित मल्होत्रा के बिना अधूरी है। वह कंपनी के संस्थापक और ग्लोबल मीडिया एवं विजुअल इफेक्ट्स कारोबार के प्रमुख चेहरों में से एक हैं। वह DNEG के CEO भी हैं और Prime Focus Studios के फाउंडर हैं।
+
+नमित फिल्मी परिवार से आते हैं। उनके पिता नरेश मल्होत्रा फिल्म निर्माता हैं और उनके दादा एमएन मल्होत्रा सिनेमैटोग्राफर रहे हैं। हालांकि, नमित ने अपने कारोबार को सिर्फ पारिवारिक फिल्मी विरासत तक सीमित नहीं रखा, बल्कि तकनीक और विजुअल इफेक्ट्स के क्षेत्र में अंतरराष्ट्रीय पहचान दिलाई।
+
+प्राइम फोकस लिमिटेड में मल्होत्रा परिवार की 60.73% हिस्सेदारी है। इसके अलावा नोवेटर कैपिटल की 14.34%, अफिरमा कैपिटल की 4.52% और पब्लिक शेयरहोल्डर्स की 20.41% हिस्सेदारी बताई गई है।
+
+कंपनी का मार्केट कैप करीब 19,746 करोड़ रुपये था। यानी शेयर बाजार में कंपनी की कुल वैल्यू करीब 19,746 करोड़ रुपये आंकी गई थी। कंपनी के मई 2026 के निवेशक प्रेजेंटेशन के मुताबिक, वित्त वर्ष 2025-26 में इसका कंसोलिडेटेड रेवेन्यू 4,676 करोड़ रुपये रहा। इसमें सालाना आधार पर करीब 30% की बढ़ोतरी दर्ज की गई। कंपनी का EBITDA मार्जिन 30% बताया गया है।
+
+प्राइम फोकस के कारोबार में सबसे बड़ा बदलाव साल 2014 में आया। इसी साल कंपनी ने ब्रिटेन की मशहूर विजुअल इफेक्ट्स कंपनी डबल नेगेटिव (Double Negative) यानी DNEG के साथ विलय किया। इस कदम ने प्राइम फोकस को हॉलीवुड के बड़े प्रोजेक्ट्स तक पहुंचने का रास्ता दिया। आज DNEG दुनिया के प्रमुख VFX और एनिमेशन स्टूडियो में गिना जाता है। कंपनी को अब तक 8 ऑस्कर मिल चुके हैं। इनमें Interstellar, Tenet, Dune: Part One और Dune: Part Two जैसी फिल्मों के लिए मिले विजुअल इफेक्ट्स अवॉर्ड शामिल हैं।
+
+साल 2019 में प्राइम फोकस ने ReDefine नाम का नया VFX और एनिमेशन ब्रांड भी लॉन्च किया। इसके जरिए कंपनी ने अपनी क्रिएटिव सेवाओं का विस्तार किया।
+
+### ब्रह्मास्त्र से गारफील्ड तक, प्रोडक्शन में भी बढ़ाया कदम
+
+प्राइम फोकस ने सिर्फ VFX तक खुद को सीमित नहीं रखा। कंपनी ने फिल्म निर्माण और फाइनेंसिंग के कारोबार में भी विस्तार किया। भारत में कंपनी की प्रमुख प्रोडक्शन फिल्मों में ‘ब्रह्मास्त्र: पार्ट वन-शिवा’ शामिल है। इस फिल्म में रणबीर कपूर, आलिया भट्ट और अमिताभ बच्चन नजर आए थे।
+
+इसके अलावा Prime Focus Studios ने Alcon Entertainment के साथ मिलकर ‘The Garfield Movie’ का सह-निर्माण किया था। कंपनी की वार्षिक रिपोर्ट के मुताबिक, इस फिल्म ने दुनियाभर में 255 मिलियन डॉलर से ज्यादा का कारोबार किया था।
+
+यह भी पढ़ें: पर्सनल लोन लेने की है तैयारी? SBI, PNB या IDFC First Bank; कहां मिलेगा सबसे सस्ता लोन, समझें सबकुछ
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/business/personal-finance-prime-focus-from-garage-to-hollywood-the-man-behind-ramayan-vfx-40445611.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `गैराज से हॉलीवुड तक: 'रामायण' बनाने 8 ऑस्कर जीतने वाली प्राइम फोकस के पीछे इस शख्स का दिमाग; ऐसा रहा ₹19 हजार करोड़ का सफर - prime focus from garage to hollywood the man behind ramayan vfx - Jagran`,
+    summary_hi: `नमित मल्होत्रा द्वारा स्थापित प्राइम फोकस, मुंबई के एक गैराज से शुरू होकर वैश्विक VFX कंपनी बनी। यह 'रामायण' जैसी फिल्मों में योगदान दे रही है और इसकी सहायक DNEG ने 8 ऑस्कर जीते हैं।`,
+    content_hi: `नमित मल्होत्रा द्वारा स्थापित प्राइम फोकस, मुंबई के एक गैराज से शुरू होकर वैश्विक VFX कंपनी बनी। यह 'रामायण' जैसी फिल्मों में योगदान दे रही है और इसकी सहायक DNEG ने 8 ऑस्कर जीते हैं।
+
+किसने बनाई रामायण फिल्म, कितने करोड़ की है कंपनी?
+
+प्राइम फोकस की शुरुआत 1997 में मुंबई के गैराज से हुई।
+
+नमित मल्होत्रा ने कंपनी को वैश्विक VFX पावरहाउस बनाया।
+
+DNEG ने 8 ऑस्कर जीते, 'रामायण' में भी योगदान दिया।
+
+बिजनेस डेस्क, नई दिल्ली: रणबीर कपूर की ‘रामायण’ (ramayan) बॉक्स ऑफिस पर नए रिकॉर्ड बना रही है। फिल्म ने 18 दिनों में दुनियाभर में करीब 1,693 करोड़ रुपये का ग्रॉस कलेक्शन कर लिया है। लेकिन क्या आप जानते हैं कि इस फिल्म को बनाने के पीछे जिस कंपनी का बड़ा हाथ है, उसकी शुरुआत कभी मुंबई के एक छोटे से गैराज से हुई थी? हम बात कर रहे हैं प्राइम फोकस (Prime Focus) की। नमित मल्होत्रा की यह कंपनी आज सिर्फ भारत ही नहीं, बल्कि हॉलीवुड में भी अपनी पहचान बना चुकी है। विजुअल इफेक्ट्स (VFX), एनिमेशन, पोस्ट प्रोडक्शन और फिल्म प्रोडक्शन के कारोबार में कंपनी की मजबूत मौजूदगी है। आइए जानते हैं कि आखिर प्राइम फोकस कौन है, इसकी शुरुआत कैसे हुई और इसने अब तक किन बड़ी फिल्मों के साथ काम किया है।
+
+प्राइम फोकस की शुरुआत साल 1997 में हुई थी। इसे नमित मल्होत्रा ने मुंबई में स्थापित किया था। इसकी शुरुआत एक गैराज से हुई थी। नमित मल्होत्रा का मकसद फिल्म निर्माण और पोस्ट प्रोडक्शन के क्षेत्र में नई तकनीक को बढ़ावा देना था। शुरुआत में कंपनी ने फिल्म इंडस्ट्री को पोस्ट प्रोडक्शन, विजुअल इफेक्ट्स और डिजिटल इंटरमीडिएट (DI) जैसी सेवाएं देनी शुरू कीं। धीरे-धीरे इसने अपने काम का विस्तार किया और अंतरराष्ट्रीय बाजार में भी कदम रखा।
+
+साल 2006 में कंपनी ने शेयर बाजार में एंट्री की। इसके शेयर बीएसई और एनएसई पर लिस्ट हुए। इसके बाद 2007 में अमेरिका में अधिग्रहण के जरिए कारोबार का विस्तार किया। साल 2008 में कंपनी ने अपनी टेक्नोलॉजी इकाई Prime Focus Technologies की शुरुआत की।
+
+### कौन हैं कंपनी के मालिक नमित मल्होत्रा?
+
+प्राइम फोकस की कहानी नमित मल्होत्रा के बिना अधूरी है। वह कंपनी के संस्थापक और ग्लोबल मीडिया एवं विजुअल इफेक्ट्स कारोबार के प्रमुख चेहरों में से एक हैं। वह DNEG के CEO भी हैं और Prime Focus Studios के फाउंडर हैं।
+
+नमित फिल्मी परिवार से आते हैं। उनके पिता नरेश मल्होत्रा फिल्म निर्माता हैं और उनके दादा एमएन मल्होत्रा सिनेमैटोग्राफर रहे हैं। हालांकि, नमित ने अपने कारोबार को सिर्फ पारिवारिक फिल्मी विरासत तक सीमित नहीं रखा, बल्कि तकनीक और विजुअल इफेक्ट्स के क्षेत्र में अंतरराष्ट्रीय पहचान दिलाई।
+
+प्राइम फोकस लिमिटेड में मल्होत्रा परिवार की 60.73% हिस्सेदारी है। इसके अलावा नोवेटर कैपिटल की 14.34%, अफिरमा कैपिटल की 4.52% और पब्लिक शेयरहोल्डर्स की 20.41% हिस्सेदारी बताई गई है।
+
+कंपनी का मार्केट कैप करीब 19,746 करोड़ रुपये था। यानी शेयर बाजार में कंपनी की कुल वैल्यू करीब 19,746 करोड़ रुपये आंकी गई थी। कंपनी के मई 2026 के निवेशक प्रेजेंटेशन के मुताबिक, वित्त वर्ष 2025-26 में इसका कंसोलिडेटेड रेवेन्यू 4,676 करोड़ रुपये रहा। इसमें सालाना आधार पर करीब 30% की बढ़ोतरी दर्ज की गई। कंपनी का EBITDA मार्जिन 30% बताया गया है।
+
+प्राइम फोकस के कारोबार में सबसे बड़ा बदलाव साल 2014 में आया। इसी साल कंपनी ने ब्रिटेन की मशहूर विजुअल इफेक्ट्स कंपनी डबल नेगेटिव (Double Negative) यानी DNEG के साथ विलय किया। इस कदम ने प्राइम फोकस को हॉलीवुड के बड़े प्रोजेक्ट्स तक पहुंचने का रास्ता दिया। आज DNEG दुनिया के प्रमुख VFX और एनिमेशन स्टूडियो में गिना जाता है। कंपनी को अब तक 8 ऑस्कर मिल चुके हैं। इनमें Interstellar, Tenet, Dune: Part One और Dune: Part Two जैसी फिल्मों के लिए मिले विजुअल इफेक्ट्स अवॉर्ड शामिल हैं।
+
+साल 2019 में प्राइम फोकस ने ReDefine नाम का नया VFX और एनिमेशन ब्रांड भी लॉन्च किया। इसके जरिए कंपनी ने अपनी क्रिएटिव सेवाओं का विस्तार किया।
+
+### ब्रह्मास्त्र से गारफील्ड तक, प्रोडक्शन में भी बढ़ाया कदम
+
+प्राइम फोकस ने सिर्फ VFX तक खुद को सीमित नहीं रखा। कंपनी ने फिल्म निर्माण और फाइनेंसिंग के कारोबार में भी विस्तार किया। भारत में कंपनी की प्रमुख प्रोडक्शन फिल्मों में ‘ब्रह्मास्त्र: पार्ट वन-शिवा’ शामिल है। इस फिल्म में रणबीर कपूर, आलिया भट्ट और अमिताभ बच्चन नजर आए थे।
+
+इसके अलावा Prime Focus Studios ने Alcon Entertainment के साथ मिलकर ‘The Garfield Movie’ का सह-निर्माण किया था। कंपनी की वार्षिक रिपोर्ट के मुताबिक, इस फिल्म ने दुनियाभर में 255 मिलियन डॉलर से ज्यादा का कारोबार किया था।
+
+यह भी पढ़ें: पर्सनल लोन लेने की है तैयारी? SBI, PNB या IDFC First Bank; कहां मिलेगा सबसे सस्ता लोन, समझें सबकुछ
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/business/personal-finance-prime-focus-from-garage-to-hollywood-the-man-behind-ramayan-vfx-40445611.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक गैराज से हॉलीवुड तक: 'रामायण' बनाने 8 ऑस्कर जीतने वाली प्राइम फोकस के पीछे इस शख्स का दिमाग; ऐसा रहा ₹19 हजार करोड़ का सफर - prime focus from garage to hollywood the man behind ramayan vfx - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+{
     id: 97905,
     title: `New Zealand and India hope Test cricket is in a giving mood at Hagley Oval`,
     slug: `new-zealand-and-india-hope-test-cricket-is-in-a-giving-mood-at-ha-2026`,
