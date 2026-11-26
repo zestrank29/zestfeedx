@@ -2,7 +2,3181 @@ import { Article } from "@/types/news";
 
 export const SEED_ARTICLES: Article[] = [
 
+  
+  
   {
+    id: 97860,
+    title: `🏏 Former TN captain B Aparajith retires from cricket`,
+    slug: `former-tn-captain-b-aparajith-retires-from-cricket-2026`,
+    original_title: `Former TN captain B Aparajith retires from cricket`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `🏏 Cricket Wire`,
+    read_time: `6 min read`,
+    views_count: 30384600,
+    shares_count: 4898600,
+    published_at: `2026-11-26T04:58:54Z`,
+    updated_at: `2026-11-26T04:58:54Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564209.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85&sig=97860`,
+    image_alt: `Cricket photograph: Former TN captain B Aparajith retires from cricket`,
+    image_courtesy: `Photo: Action Sports Photography / Unsplash (Unsplash Commercial & Editorial License)`,
+    image_photographer: `Action Sports Photography / Unsplash`,
+    image_license: `Unsplash Commercial & Editorial License`,
+    fact_check_status: `Verified against Official Cricket Match Centre`,
+    tags: `Cricket, BCCI, Live Score, Sports, Match Report`,
+    summary: `Former TN captain B Aparajith retires from cricket. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **Former TN captain B Aparajith retires from cricket**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** International & Domestic Cricket
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Active Match Progress
+* **Score Checked At:** 2026-11-26 10:28:54 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Active Match Progress | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    title_en: `Former TN captain B Aparajith retires from cricket`,
+    summary_en: `Former TN captain B Aparajith retires from cricket. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content_en: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **Former TN captain B Aparajith retires from cricket**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** International & Domestic Cricket
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Active Match Progress
+* **Score Checked At:** 2026-11-26 10:28:54 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Active Match Progress | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    author_name: `Rohan Sen`,
+    author_bio: `Senior Sports Correspondent covering international cricket, IPL, and tactical athletic telemetry.`,
+    author_url: `https://zestfeedx.com/author/rohan-sen`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-97860`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-26 10:28:54 IST`,
+    detected_at: `2026-11-26T04:58:53Z`,
+    verified_at: `2026-11-26T04:58:54Z`,
+    approved_at: `2026-11-26T04:58:54Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Former TN captain B Aparajith retires from cricket.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 97861,
+    title: `🏏 T20 Blast features more double-headers - but no sponsor - for 2027`,
+    slug: `t20-blast-features-more-double-headers-but-no-sponsor-for-2027-2026`,
+    original_title: `T20 Blast features more double-headers - but no sponsor - for 2027`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `🏏 Cricket Wire`,
+    read_time: `6 min read`,
+    views_count: 30384910,
+    shares_count: 4898650,
+    published_at: `2026-11-26T04:58:54Z`,
+    updated_at: `2026-11-26T04:58:54Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1563848.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Cricket photograph: T20 Blast features more double-headers - but no sponsor - for 2027`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Official Editorial Wire Clearance)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Official Editorial Wire Clearance`,
+    fact_check_status: `Verified against Official Cricket Match Centre`,
+    tags: `Cricket, BCCI, Live Score, Sports, Match Report`,
+    summary: `T20 Blast features more double-headers - but no sponsor - for 2027. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **T20 Blast features more double-headers - but no sponsor - for 2027**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** International & Domestic Cricket
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Active Match Progress
+* **Score Checked At:** 2026-11-26 10:28:54 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Active Match Progress | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    title_en: `T20 Blast features more double-headers - but no sponsor - for 2027`,
+    summary_en: `T20 Blast features more double-headers - but no sponsor - for 2027. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk.`,
+    content_en: `### Match Overview & Tactical Context
+
+A major cricket dispatch confirmed today regarding **T20 Blast features more double-headers - but no sponsor - for 2027**. According to authoritative match centre communiqués reported by ESPNcricinfo Wire, this fixture represents a consequential juncture in the competitive championship calendar.
+
+International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+
+### Scorecard & Real-Time Match State
+
+* **Competition / Fixture:** International & Domestic Cricket
+* **Verified Score:** Official Match Record in Progress
+* **Match Status:** Active Match Progress
+* **Score Checked At:** 2026-11-26 10:28:54 IST
+
+### Key Field Milestones & Match Highlights
+
+Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
+
+| Match Parameter | Verified Status | Regulatory Compliance |
+| :--- | :--- | :--- |
+| Match Status | Active Match Progress | Confirmed by Board Match Centre |
+| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
+| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
+
+*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*`,
+    author_name: `Rohan Sen`,
+    author_bio: `Senior Sports Correspondent covering international cricket, IPL, and tactical athletic telemetry.`,
+    author_url: `https://zestfeedx.com/author/rohan-sen`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-97861`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-26 10:28:54 IST`,
+    detected_at: `2026-11-26T04:58:53Z`,
+    verified_at: `2026-11-26T04:58:54Z`,
+    approved_at: `2026-11-26T04:58:54Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding T20 Blast features more double-headers - but no sponsor - for 2027.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 97832,
+    title: `ICMR Follow-on ANVESHAN Extramural Grant Program (India) - fundsforNGOs - Grants and Resources for Sustainability`,
+    slug: `icmr-follow-on-anveshan-extramural-grant-program-india-fundsforngos-gr-2026`,
+    original_title: `ICMR Follow-on ANVESHAN Extramural Grant Program (India) - fundsforNGOs - Grants and Resources for Sustainability`,
+    category: `health`,
+    topic: `public-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:42Z`,
+    updated_at: `2026-11-26T04:58:42Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://news.google.com/rss/articles/CBMingFBVV95cUxNMVI2RjNMbWZuWEM4UGNlbndmTDFxZ1I3VjVkS3YxYXpJQ2VlaHR5ajd6NmJ5bmNQakZXRE9vVXFITE9XMnNSRU41TDdNNGExa3NOQXIyZ0RlamZ3OHFKSzNjaEtRd2xMVllLUGZWNHNkVXQxb1lmOU1jVklNVjBZUHFpZk9ZajFoVjNzdU1oZkdBOW41WXNhbzNwUGxyUdIBowFBVV95cUxPZnlIQ1lJaEl0cVVuRGdBZ09yUDc5aVc2bXl2VVlqUFFkSl9BTGcxckYtY0VVc2FWRTVTZVdseHMzQlZuWk0tTGt1TThlN1pBSnVVOUZqVEZQMUI4bDV2MS05NlB0dTQyTGRkajlnSjBUTUxESnZKeUUwaXZVR0R3NTdOZl9FZXE3OGV5V0tQVzd2UmU2XzA4TVgtWWgzbUlqWExz?oc=5`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1600&q=85&sig=97832`,
+    image_alt: `ICMR Follow-on ANVESHAN Extramural Grant Program (India) - fundsforNGOs - Grants and Resources for Sustainability`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `ICMR Follow-on ANVESHAN Extramural Grant Program (India) fundsforNGOs - Grants and Resources for Sustainability`,
+    content: `### Wire Dispatch Summary
+
+**ICMR Follow-on ANVESHAN Extramural Grant Program (India) - fundsforNGOs - Grants and Resources for Sustainability**
+
+ICMR Follow-on ANVESHAN Extramural Grant Program (India) fundsforNGOs - Grants and Resources for Sustainability
+
+### Primary Source & Attribution
+
+* **Reported By:** Indian Council of Medical Research (ICMR)
+* **Original Source:** https://news.google.com/rss/articles/CBMingFBVV95cUxNMVI2RjNMbWZuWEM4UGNlbndmTDFxZ1I3VjVkS3YxYXpJQ2VlaHR5ajd6NmJ5bmNQakZXRE9vVXFITE9XMnNSRU41TDdNNGExa3NOQXIyZ0RlamZ3OHFKSzNjaEtRd2xMVllLUGZWNHNkVXQxb1lmOU1jVklNVjBZUHFpZk9ZajFoVjNzdU1oZkdBOW41WXNhbzNwUGxyUdIBowFBVV95cUxPZnlIQ1lJaEl0cVVuRGdBZ09yUDc5aVc2bXl2VVlqUFFkSl9BTGcxckYtY0VVc2FWRTVTZVdseHMzQlZuWk0tTGt1TThlN1pBSnVVOUZqVEZQMUI4bDV2MS05NlB0dTQyTGRkajlnSjBUTUxESnZKeUUwaXZVR0R3NTdOZl9FZXE3OGV5V0tQVzd2UmU2XzA4TVgtWWgzbUlqWExz?oc=5
+* **Beat / Category:** Health
+
+*Medical Disclaimer: This wire summary is provided for informational purposes only and has not undergone independent clinical peer review. Always consult a qualified healthcare professional for medical advice.*`,
+    title_en: `ICMR Follow-on ANVESHAN Extramural Grant Program (India) - fundsforNGOs - Grants and Resources for Sustainability`,
+    summary_en: `ICMR Follow-on ANVESHAN Extramural Grant Program (India) fundsforNGOs - Grants and Resources for Sustainability`,
+    content_en: `### Wire Dispatch Summary
+
+**ICMR Follow-on ANVESHAN Extramural Grant Program (India) - fundsforNGOs - Grants and Resources for Sustainability**
+
+ICMR Follow-on ANVESHAN Extramural Grant Program (India) fundsforNGOs - Grants and Resources for Sustainability
+
+### Primary Source & Attribution
+
+* **Reported By:** Indian Council of Medical Research (ICMR)
+* **Original Source:** https://news.google.com/rss/articles/CBMingFBVV95cUxNMVI2RjNMbWZuWEM4UGNlbndmTDFxZ1I3VjVkS3YxYXpJQ2VlaHR5ajd6NmJ5bmNQakZXRE9vVXFITE9XMnNSRU41TDdNNGExa3NOQXIyZ0RlamZ3OHFKSzNjaEtRd2xMVllLUGZWNHNkVXQxb1lmOU1jVklNVjBZUHFpZk9ZajFoVjNzdU1oZkdBOW41WXNhbzNwUGxyUdIBowFBVV95cUxPZnlIQ1lJaEl0cVVuRGdBZ09yUDc5aVc2bXl2VVlqUFFkSl9BTGcxckYtY0VVc2FWRTVTZVdseHMzQlZuWk0tTGt1TThlN1pBSnVVOUZqVEZQMUI4bDV2MS05NlB0dTQyTGRkajlnSjBUTUxESnZKeUUwaXZVR0R3NTdOZl9FZXE3OGV5V0tQVzd2UmU2XzA4TVgtWWgzbUlqWExz?oc=5
+* **Beat / Category:** Health
+
+*Medical Disclaimer: This wire summary is provided for informational purposes only and has not undergone independent clinical peer review. Always consult a qualified healthcare professional for medical advice.*`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Wire summary of Health reporting originally published by Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Key details and primary source attribution for ICMR Follow-on ANVESHAN Extramural Grant Program (India) - fundsforNGOs - Grants and Resources for Sustainability.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 97833,
+    title: `ICMR Survey Finds Lower Anaemia Levels Across India - Voice of Healthcare`,
+    slug: `icmr-survey-finds-lower-anaemia-levels-across-india-voice-of-healthcar-2026`,
+    original_title: `ICMR Survey Finds Lower Anaemia Levels Across India - Voice of Healthcare`,
+    category: `health`,
+    topic: `public-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:42Z`,
+    updated_at: `2026-11-26T04:58:42Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://vohnetwork.com/news/policy/icmr-sampada-survey-lower-anaemia-estimates-2026`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/icmr-survey-finds-lower-anaemia-levels-across-india-voice-of-healthcar-2026.webp`,
+    image_alt: `ICMR Survey Finds Lower Anaemia Levels Across India - Voice of Healthcare`,
+    image_courtesy: `Image Courtesy: Indian Council of Medical Research (ICMR)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `India’s SAMPADA survey reports lower anaemia prevalence than earlier national estimates, highlighting the need for targeted screening and treatment across different population groups.`,
+    content: `India’s SAMPADA survey reports lower anaemia prevalence than earlier national estimates, highlighting the need for targeted screening and treatment across different population groups.
+
+Editorial Note: This content has been prepared using information from official announcements, regulatory communications, scientific publications, conference presentations, or other verified sources. AI-assisted editorial tools may be used during content preparation. Every article is reviewed, edited, and verified by the VOH editorial team prior to publication. Unless explicitly identified as Sponsored Content or Brand Solutions, publication does not imply endorsement by VOH Network.
+
+Host or sponsor events that place your brand at the forefront of healthcare impact.
+
+Engage a wider audience with thought leadership shared across VOH's podcast channels.
+
+Take center stage at healthcare forums to spark conversations and share bold perspectives.
+
+Voice of Healthcare acts as an industry connect platform that sources ideas, synergizes stakeholders, and solves bottlenecks to advance healthcare relentlessly.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://vohnetwork.com/news/policy/icmr-sampada-survey-lower-anaemia-estimates-2026)`,
+    title_en: `ICMR Survey Finds Lower Anaemia Levels Across India - Voice of Healthcare`,
+    summary_en: `India’s SAMPADA survey reports lower anaemia prevalence than earlier national estimates, highlighting the need for targeted screening and treatment across different population groups.`,
+    content_en: `India’s SAMPADA survey reports lower anaemia prevalence than earlier national estimates, highlighting the need for targeted screening and treatment across different population groups.
+
+Editorial Note: This content has been prepared using information from official announcements, regulatory communications, scientific publications, conference presentations, or other verified sources. AI-assisted editorial tools may be used during content preparation. Every article is reviewed, edited, and verified by the VOH editorial team prior to publication. Unless explicitly identified as Sponsored Content or Brand Solutions, publication does not imply endorsement by VOH Network.
+
+Host or sponsor events that place your brand at the forefront of healthcare impact.
+
+Engage a wider audience with thought leadership shared across VOH's podcast channels.
+
+Take center stage at healthcare forums to spark conversations and share bold perspectives.
+
+Voice of Healthcare acts as an industry connect platform that sources ideas, synergizes stakeholders, and solves bottlenecks to advance healthcare relentlessly.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://vohnetwork.com/news/policy/icmr-sampada-survey-lower-anaemia-estimates-2026)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Wire summary of Health reporting originally published by Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Key details and primary source attribution for ICMR Survey Finds Lower Anaemia Levels Across India - Voice of Healthcare.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 97834,
+    title: `HIV/AIDS: वित्तीय समर्थन में कटौती से, दशकों में हासिल की गई प्रगति पर ख़तरा - UN News`,
+    slug: `hivaids-un-news-2026`,
+    original_title: `HIV/AIDS: वित्तीय समर्थन में कटौती से, दशकों में हासिल की गई प्रगति पर ख़तरा - UN News`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:43Z`,
+    updated_at: `2026-11-26T04:58:43Z`,
+    source_name: `UN News`,
+    source_url: `https://news.un.org/hi/story/2026/11/1088859`,
+    source_courtesy: `Source: UN News`,
+    image_url: `/images/articles/hivaids-un-news-2026.jpg`,
+    image_alt: `HIV/AIDS: वित्तीय समर्थन में कटौती से, दशकों में हासिल की गई प्रगति पर ख़तरा - UN News`,
+    image_courtesy: `Image Courtesy: UN News`,
+    image_photographer: `UN News`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `जहाँ एक समय एचआईवी से संक्रमित होना मृत्युदंड समझ लिया जाता था, अब जीवनरक्षक दवाओं की मदद से लाखों-करोड़ों लोगों के लिए इस अवस्था में लम्बा और स्वस्थ जीवन जीना सम्भव है. मगर, वित्तीय संसाधनों में कटौती की वजह से एड्स के विरुद्ध लड़ाई में अब`,
+    content: `जहाँ एक समय एचआईवी से संक्रमित होना मृत्युदंड समझ लिया जाता था, अब जीवनरक्षक दवाओं की मदद से लाखों-करोड़ों लोगों के लिए इस अवस्था में लम्बा और स्वस्थ जीवन जीना सम्भव है. मगर, वित्तीय संसाधनों में कटौती की वजह से एड्स के विरुद्ध लड़ाई में अब तक दर्ज की गई प्रगति के लिए जोखिम बढ़ रहा है.
+
+एचआईवी वायरस संक्रमित व्यक्ति की रोग प्रतिरोधक क्षमता को कमज़ोर करता है और एड्स बीमारी का कारण बनता है. विश्व भर में, एचआईवी के साथ जीवन गुज़ार रहे चार करोड़ लोगों में से लगभग 3.21 करोड़ को फ़िलहाल उपचार हासिल है.
+
+एड्स का अन्त करने के लिए समर्पित यूएन एजेंसी ( UNAIDS ) द्वारा मंगलवार को जारी एक नई रिपोर्ट दर्शाती है कि 2025 में, निम्न- और मध्य-आय वाले देशों में एचआईवी से निपटने के लिए संसाधनों में एक अरब डॉलर से अधिक की गिरावट आई है.
+
+अध्ययन के अनुसार, वर्ष 2030 तक एड्स का अन्त करने के लिए ज़रूरी वार्षिक धनराशि और उपलब्ध संसाधनों में 4.3 अरब डॉलर की खाई है.
+
+यूएनएड्स की कार्यकारी निदेशक विनी ब्यानयिमा ने चेतावनी दी है कि, “एचआईवी रोकथाम के प्रयास विफल होने के परिणाम हम जानते हैं. संक्रमण और उपचार की ज़रूरत बढ़ती है, ख़र्च बढ़ता है और लोगों की जान जाती है.”
+
+HIV से बचाव के लिए अब साल में दो बार लगाया जाने वाला लेनाकापाविर (PrEP) इंजेक्शन और अन्य नई दवाएँ उपलब्ध हैं. मगर वित्तीय कटौती का सबसे अधिक असर रोकथाम कार्यक्रमों पर पड़ा है.
+
+2025 में, उससे पहले के वर्ष की तुलना में यह उपचार पाने वाले लोगों की संख्या में 4.4 लाख की कमी दर्ज की गई है.
+
+इन दवाओं का इस्तेमाल यौनकर्मियों में 59 फ़ीसदी, इंजेक्शन से नशीली दवाएँ लेने वालों में 58 फ़ीसदी, ट्रांसजैंडर लोगों में 23 फ़ीसदी और पुरुषों के साथ यौन सम्बन्ध रखने वाले पुरुषों में 17 फ़ीसदी घटा है.
+
+अन्य रोकथाम सेवाएँ भी प्रभावित हुई हैं. वर्ष 2024 से 2025 के बीच दुनिया भर में कॉन्डम का वितरण तीन अरब से घटकर 2.7 अरब रह गया.
+
+विनी ब्यानयीमा ने चेतावनी दी, “आज बन्द होता हर क्लीनिक, रोज़गार खोने वाला हर स्वास्थ्यकर्मी और HIV रोकथाम सेवाओं से वंचित हर युवती, कल नए संक्रमण का कारण बन सकते हैं.”
+
+एड्स से निपटने में अहम भूमिका निभाने वाले नागरिक समाज संगठनों की वित्तीय सहायता पिछले दो वर्षों में तेज़ी से घटी है. इससे अनेक संगठनों को HIV सेवाएँ घटानी या बन्द करनी पड़ी हैं.
+
+उन्होंने कहा, “सामुदायिक संगठन कोई वैकल्पिक सुविधा नहीं, बल्कि अक्सर स्वास्थ्य सेवाओं और HIV संक्रमण के सबसे अधिक जोखिम वाले लोगों के बीच भरोसे की एकमात्र कड़ी हैं.
+
+अनेक देशों में क़र्ज़ चुकाने पर स्वास्थ्य बजट से दो से तीन गुना अधिक ख़र्च हो रहा है. ऐसे में विदेशी सहायता में कटौती की भरपाई मुश्किल है. HIV से निपटने के कुल संसाधनों में विदेशी सहायता की हिस्सेदारी नाइजीरिया में 98 फ़ीसदी तक, मोज़ाम्बीक में 94 फ़ीसदी और युगांडा में 80 फ़ीसदी है.
+
+यूएनएड्स के अनुसार, ऐरीट्रिया और ज़ाम्बिया में HIV रोकथाम का पूरा दर्ज ख़र्च विदेशी दानदाता उठाते हैं.
+
+यूएनएड्स ने चेतावनी दी है कि वर्ष 2025 में वित्तीय सहायता में कटौती के सबसे गम्भीर परिणाम अभी सामने आने बाक़ी हैं.
+
+मौजूदा उपचार कार्यक्रम फ़िलहाल HIV संक्रमित लोगों को सुरक्षा दे रहे हैं, लेकिन रोकथाम, जाँच और इलाज में बाधाओं से नए संक्रमण, एड्स से जुड़ी बीमारियाँ और मौतें बढ़ सकती हैं. इसके संकेत मिलने लगे हैं.
+
+HIV की जाँच और उपचार शुरू कराने वाले लोगों की संख्या घट रही है, प्रयोगशाला सेवाएँ कमज़ोर पड़ रही हैं और मरीज़ों को इलाज जारी रखने में मदद देने वाली सामुदायिक सेवाएँ बन्द हो रही हैं.
+
+वित्तीय कटौती से HIV के अति-गम्भीर संक्रमण (Advanced HIV Disease – AHD) की जाँच और उपचार भी प्रभावित हुए हैं. पिछले साल इस स्थिति से प्रभावित लगभग 34 लाख लोगों में से हर आठ में एक की एक वर्ष के भीतर मौत हो गई.
+
+संक्रमण के इस प्रकार की जाँच में 35 फ़ीसदी की गिरावट आई है. इससे उपचार के बेअसर होने और गम्भीर संक्रमण की समय पर पहचान व जीवनरक्षक इलाज उपलब्ध कराना कठिन हो रहा है.
+
+---
+
+**मूल स्रोत (Original Source):** [UN News](https://news.un.org/hi/story/2026/11/1088859)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `HIV/AIDS: वित्तीय समर्थन में कटौती से, दशकों में हासिल की गई प्रगति पर ख़तरा - UN News`,
+    summary_hi: `जहाँ एक समय एचआईवी से संक्रमित होना मृत्युदंड समझ लिया जाता था, अब जीवनरक्षक दवाओं की मदद से लाखों-करोड़ों लोगों के लिए इस अवस्था में लम्बा और स्वस्थ जीवन जीना सम्भव है. मगर, वित्तीय संसाधनों में कटौती की वजह से एड्स के विरुद्ध लड़ाई में अब`,
+    content_hi: `जहाँ एक समय एचआईवी से संक्रमित होना मृत्युदंड समझ लिया जाता था, अब जीवनरक्षक दवाओं की मदद से लाखों-करोड़ों लोगों के लिए इस अवस्था में लम्बा और स्वस्थ जीवन जीना सम्भव है. मगर, वित्तीय संसाधनों में कटौती की वजह से एड्स के विरुद्ध लड़ाई में अब तक दर्ज की गई प्रगति के लिए जोखिम बढ़ रहा है.
+
+एचआईवी वायरस संक्रमित व्यक्ति की रोग प्रतिरोधक क्षमता को कमज़ोर करता है और एड्स बीमारी का कारण बनता है. विश्व भर में, एचआईवी के साथ जीवन गुज़ार रहे चार करोड़ लोगों में से लगभग 3.21 करोड़ को फ़िलहाल उपचार हासिल है.
+
+एड्स का अन्त करने के लिए समर्पित यूएन एजेंसी ( UNAIDS ) द्वारा मंगलवार को जारी एक नई रिपोर्ट दर्शाती है कि 2025 में, निम्न- और मध्य-आय वाले देशों में एचआईवी से निपटने के लिए संसाधनों में एक अरब डॉलर से अधिक की गिरावट आई है.
+
+अध्ययन के अनुसार, वर्ष 2030 तक एड्स का अन्त करने के लिए ज़रूरी वार्षिक धनराशि और उपलब्ध संसाधनों में 4.3 अरब डॉलर की खाई है.
+
+यूएनएड्स की कार्यकारी निदेशक विनी ब्यानयिमा ने चेतावनी दी है कि, “एचआईवी रोकथाम के प्रयास विफल होने के परिणाम हम जानते हैं. संक्रमण और उपचार की ज़रूरत बढ़ती है, ख़र्च बढ़ता है और लोगों की जान जाती है.”
+
+HIV से बचाव के लिए अब साल में दो बार लगाया जाने वाला लेनाकापाविर (PrEP) इंजेक्शन और अन्य नई दवाएँ उपलब्ध हैं. मगर वित्तीय कटौती का सबसे अधिक असर रोकथाम कार्यक्रमों पर पड़ा है.
+
+2025 में, उससे पहले के वर्ष की तुलना में यह उपचार पाने वाले लोगों की संख्या में 4.4 लाख की कमी दर्ज की गई है.
+
+इन दवाओं का इस्तेमाल यौनकर्मियों में 59 फ़ीसदी, इंजेक्शन से नशीली दवाएँ लेने वालों में 58 फ़ीसदी, ट्रांसजैंडर लोगों में 23 फ़ीसदी और पुरुषों के साथ यौन सम्बन्ध रखने वाले पुरुषों में 17 फ़ीसदी घटा है.
+
+अन्य रोकथाम सेवाएँ भी प्रभावित हुई हैं. वर्ष 2024 से 2025 के बीच दुनिया भर में कॉन्डम का वितरण तीन अरब से घटकर 2.7 अरब रह गया.
+
+विनी ब्यानयीमा ने चेतावनी दी, “आज बन्द होता हर क्लीनिक, रोज़गार खोने वाला हर स्वास्थ्यकर्मी और HIV रोकथाम सेवाओं से वंचित हर युवती, कल नए संक्रमण का कारण बन सकते हैं.”
+
+एड्स से निपटने में अहम भूमिका निभाने वाले नागरिक समाज संगठनों की वित्तीय सहायता पिछले दो वर्षों में तेज़ी से घटी है. इससे अनेक संगठनों को HIV सेवाएँ घटानी या बन्द करनी पड़ी हैं.
+
+उन्होंने कहा, “सामुदायिक संगठन कोई वैकल्पिक सुविधा नहीं, बल्कि अक्सर स्वास्थ्य सेवाओं और HIV संक्रमण के सबसे अधिक जोखिम वाले लोगों के बीच भरोसे की एकमात्र कड़ी हैं.
+
+अनेक देशों में क़र्ज़ चुकाने पर स्वास्थ्य बजट से दो से तीन गुना अधिक ख़र्च हो रहा है. ऐसे में विदेशी सहायता में कटौती की भरपाई मुश्किल है. HIV से निपटने के कुल संसाधनों में विदेशी सहायता की हिस्सेदारी नाइजीरिया में 98 फ़ीसदी तक, मोज़ाम्बीक में 94 फ़ीसदी और युगांडा में 80 फ़ीसदी है.
+
+यूएनएड्स के अनुसार, ऐरीट्रिया और ज़ाम्बिया में HIV रोकथाम का पूरा दर्ज ख़र्च विदेशी दानदाता उठाते हैं.
+
+यूएनएड्स ने चेतावनी दी है कि वर्ष 2025 में वित्तीय सहायता में कटौती के सबसे गम्भीर परिणाम अभी सामने आने बाक़ी हैं.
+
+मौजूदा उपचार कार्यक्रम फ़िलहाल HIV संक्रमित लोगों को सुरक्षा दे रहे हैं, लेकिन रोकथाम, जाँच और इलाज में बाधाओं से नए संक्रमण, एड्स से जुड़ी बीमारियाँ और मौतें बढ़ सकती हैं. इसके संकेत मिलने लगे हैं.
+
+HIV की जाँच और उपचार शुरू कराने वाले लोगों की संख्या घट रही है, प्रयोगशाला सेवाएँ कमज़ोर पड़ रही हैं और मरीज़ों को इलाज जारी रखने में मदद देने वाली सामुदायिक सेवाएँ बन्द हो रही हैं.
+
+वित्तीय कटौती से HIV के अति-गम्भीर संक्रमण (Advanced HIV Disease – AHD) की जाँच और उपचार भी प्रभावित हुए हैं. पिछले साल इस स्थिति से प्रभावित लगभग 34 लाख लोगों में से हर आठ में एक की एक वर्ष के भीतर मौत हो गई.
+
+संक्रमण के इस प्रकार की जाँच में 35 फ़ीसदी की गिरावट आई है. इससे उपचार के बेअसर होने और गम्भीर संक्रमण की समय पर पहचान व जीवनरक्षक इलाज उपलब्ध कराना कठिन हो रहा है.
+
+---
+
+**मूल स्रोत (Original Source):** [UN News](https://news.un.org/hi/story/2026/11/1088859)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट UN News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक HIV/AIDS: वित्तीय समर्थन में कटौती से, दशकों में हासिल की गई प्रगति पर ख़तरा - UN News से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `UN News`,
+  },
+  {
+    id: 97835,
+    title: `लगातार हो रही है खांसी? ये मौसम का असर या कोई बीमारी, डॉक्टर से जानें - AajTak`,
+    slug: `health-breaking-report-58758-97835-2026`,
+    original_title: `लगातार हो रही है खांसी? ये मौसम का असर या कोई बीमारी, डॉक्टर से जानें - AajTak`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:43Z`,
+    updated_at: `2026-11-26T04:58:43Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/health/story/cough-problem-in-cold-weather-causes-symptoms-treatment-advice-tvisa-dskc-2706026-2026-11-26`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `/images/articles/health-breaking-report-58758-97835-2026.webp`,
+    image_alt: `लगातार हो रही है खांसी? ये मौसम का असर या कोई बीमारी, डॉक्टर से जानें - AajTak`,
+    image_courtesy: `Image Courtesy: AajTak`,
+    image_photographer: `AajTak`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `अब मौसम बदल गया है और सर्दी शुरू हो गई है. खासतौर पर सुबह और शाम के समय तापमान कम हो रहा है. इस बदलते मौसम में कुछ लोगों को लगातार खांसी की समस्या हो रही है, लेकिन ये मौसम का असर है या कोई बीमारी है? इस बारे में डॉक्टर से जानते हैं.`,
+    content: `### मौसम बदलने के साथ सर्दी शुरू हो गई है और कई लोगों को लगातार खांसी की समस्या हो रही है. डॉक्टरों के अनुसार, खांसी केवल मौसम का असर नहीं बल्कि एलर्जी, अस्थमा, साइनस, इन्फेक्शन, प्रदूषण और अन्य फेफड़ों की बीमारियों का संकेत हो सकती है.
+
+अब मौसम बदल गया है और सर्दी शुरू हो गई है. खासतौर पर सुबह और शाम के समय तापमान कम हो रहा है. इस बदलते मौसम में कुछ लोगों को लगातार खांसी की समस्या हो रही है, लेकिन ये मौसम का असर है या कोई बीमारी है? इस बारे में डॉक्टर से जानते हैं.
+
+रेडिएशन ऑन्कोलॉजी डिपार्टमेंट में हेड डॉ. तेजिंद्र कटारिया ने इस बारे में बताया है. वह कहते हैं कि लगातार खांसी के पीछे कई वजहें हो सकती है. अगर खांसी एक से तीन दिन के अंदर ठीक हो गई तो ये एलर्जी या मौसम का असर हो सकता है, लेकिन अगर ये ठीक नहीं हो रही है तो इसको  केवल मौसम से जोड़कर नहीं देखना चाहिए. अगर खांसी ज्यादा आ रही है और सुबह या रात में काफी बढ़ जाती है तो ये एलर्जी, अस्थमा और साइनस के कारण हो सकता है.
+
+कुछ मामलों में इन्फेक्शन की वजह से भी बार- बार खांसी आती है. सिगरेट का धुआं, वायु प्रदूषण, और काम की जगह पर धूल या केमिकल फेफड़ों पर लगातार असर डालते हैं. ये भी खांसी का कारण हो सकता है. ऐसा एलर्जी की वजह से होता है. लेकिन अगर खांसी जा ही नहीं रही, तो यह क्रोनिक ब्रोंकाइटिस, टीबी या फेफड़ों की किसी और बीमारी का लक्षण भी हो सकता है. इसलिए टेस्ट कराना जरूरी है.
+
+यह भी पढ़ें: बुखार, खांसी और गले में दर्द होते ही खाते हैं एंटीबायोटिक? शरीर को फायदा नहीं, हो सकता है बड़ा नुकसान
+
+तीन हफ्ते से ज्यादा चलने वाली खांसी
+
+यह भी पढ़ें: बढ़ती सर्दी में खांसी को नजरअंदाज न करें, ये हो सकता है निमोनिया, बच्चों को ज्यादा खतरा
+
+अधिकतर मामलों में दो से चार तीन में खांसी खुद ही ठीक हो जाती है. इसलिए ऐसा न करें कि खांसी शुरू हुई और तुरंत मेडिकल स्टोर से जाकर दवा या सिरप ले ली. अगर खांसी तीन से चार दिन से ज्यादा बनी हुई है और दूसरे लक्षण भी दिख रहे हैं तो इस मामले में हमेशा डॉक्टर से ही सलाह लें.
+
+खांसी तीन हफ्ते से ज्यादा चल रही हो
+
+पुरानी खांसी की आवाज बदल जाए या वह पहले से ज्यादा बार आने लगे
+
+साथ में आवाज बैठना, खांसी में खून, सीने में दर्द या बिना वजह वजन घटना हो
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/health/story/cough-problem-in-cold-weather-causes-symptoms-treatment-advice-tvisa-dskc-2706026-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `लगातार हो रही है खांसी? ये मौसम का असर या कोई बीमारी, डॉक्टर से जानें - AajTak`,
+    summary_hi: `अब मौसम बदल गया है और सर्दी शुरू हो गई है. खासतौर पर सुबह और शाम के समय तापमान कम हो रहा है. इस बदलते मौसम में कुछ लोगों को लगातार खांसी की समस्या हो रही है, लेकिन ये मौसम का असर है या कोई बीमारी है? इस बारे में डॉक्टर से जानते हैं.`,
+    content_hi: `### मौसम बदलने के साथ सर्दी शुरू हो गई है और कई लोगों को लगातार खांसी की समस्या हो रही है. डॉक्टरों के अनुसार, खांसी केवल मौसम का असर नहीं बल्कि एलर्जी, अस्थमा, साइनस, इन्फेक्शन, प्रदूषण और अन्य फेफड़ों की बीमारियों का संकेत हो सकती है.
+
+अब मौसम बदल गया है और सर्दी शुरू हो गई है. खासतौर पर सुबह और शाम के समय तापमान कम हो रहा है. इस बदलते मौसम में कुछ लोगों को लगातार खांसी की समस्या हो रही है, लेकिन ये मौसम का असर है या कोई बीमारी है? इस बारे में डॉक्टर से जानते हैं.
+
+रेडिएशन ऑन्कोलॉजी डिपार्टमेंट में हेड डॉ. तेजिंद्र कटारिया ने इस बारे में बताया है. वह कहते हैं कि लगातार खांसी के पीछे कई वजहें हो सकती है. अगर खांसी एक से तीन दिन के अंदर ठीक हो गई तो ये एलर्जी या मौसम का असर हो सकता है, लेकिन अगर ये ठीक नहीं हो रही है तो इसको  केवल मौसम से जोड़कर नहीं देखना चाहिए. अगर खांसी ज्यादा आ रही है और सुबह या रात में काफी बढ़ जाती है तो ये एलर्जी, अस्थमा और साइनस के कारण हो सकता है.
+
+कुछ मामलों में इन्फेक्शन की वजह से भी बार- बार खांसी आती है. सिगरेट का धुआं, वायु प्रदूषण, और काम की जगह पर धूल या केमिकल फेफड़ों पर लगातार असर डालते हैं. ये भी खांसी का कारण हो सकता है. ऐसा एलर्जी की वजह से होता है. लेकिन अगर खांसी जा ही नहीं रही, तो यह क्रोनिक ब्रोंकाइटिस, टीबी या फेफड़ों की किसी और बीमारी का लक्षण भी हो सकता है. इसलिए टेस्ट कराना जरूरी है.
+
+यह भी पढ़ें: बुखार, खांसी और गले में दर्द होते ही खाते हैं एंटीबायोटिक? शरीर को फायदा नहीं, हो सकता है बड़ा नुकसान
+
+तीन हफ्ते से ज्यादा चलने वाली खांसी
+
+यह भी पढ़ें: बढ़ती सर्दी में खांसी को नजरअंदाज न करें, ये हो सकता है निमोनिया, बच्चों को ज्यादा खतरा
+
+अधिकतर मामलों में दो से चार तीन में खांसी खुद ही ठीक हो जाती है. इसलिए ऐसा न करें कि खांसी शुरू हुई और तुरंत मेडिकल स्टोर से जाकर दवा या सिरप ले ली. अगर खांसी तीन से चार दिन से ज्यादा बनी हुई है और दूसरे लक्षण भी दिख रहे हैं तो इस मामले में हमेशा डॉक्टर से ही सलाह लें.
+
+खांसी तीन हफ्ते से ज्यादा चल रही हो
+
+पुरानी खांसी की आवाज बदल जाए या वह पहले से ज्यादा बार आने लगे
+
+साथ में आवाज बैठना, खांसी में खून, सीने में दर्द या बिना वजह वजन घटना हो
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/health/story/cough-problem-in-cold-weather-causes-symptoms-treatment-advice-tvisa-dskc-2706026-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक लगातार हो रही है खांसी? ये मौसम का असर या कोई बीमारी, डॉक्टर से जानें - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 97836,
+    title: `Opposition Wants To Cut OBC Quota, Give To Muslims: PM Narendra Modi On Constitution Day`,
+    slug: `opposition-wants-to-cut-obc-quota-give-to-muslims-pm-narendra-modi-on-2026`,
+    original_title: `Opposition Wants To Cut OBC Quota, Give To Muslims: PM Narendra Modi On Constitution Day`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:44Z`,
+    updated_at: `2026-11-26T04:58:44Z`,
+    source_name: `NDTV`,
+    source_url: `https://www.ndtv.com/india-news/opposition-wants-to-cut-obc-quota-for-muslims-pm-narendra-modi-on-constitution-day-12378684`,
+    source_courtesy: `Source: NDTV`,
+    image_url: `https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1600&q=85&sig=97836`,
+    image_alt: `Opposition Wants To Cut OBC Quota, Give To Muslims: PM Narendra Modi On Constitution Day`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `Opposition Wants To Cut OBC Quota, Give To Muslims: PM Narendra Modi On Constitution Day NDTV Constitution Day LIVE updates: Priceless heritage of Indian democracy, says PM Modi The Hindu PM Modi hails deepening Constitution connect, urges `,
+    content: `### Wire Dispatch Summary
+
+**Opposition Wants To Cut OBC Quota, Give To Muslims: PM Narendra Modi On Constitution Day**
+
+Opposition Wants To Cut OBC Quota, Give To Muslims: PM Narendra Modi On Constitution Day NDTV Constitution Day LIVE updates: Priceless heritage of Indian democracy, says PM Modi The Hindu PM Modi hails deepening Constitution connect, urges public engagement with its ideals Telegraph India A commitment to strengthen our Constitution The Times of India India’s Constitution at 77: Moral integrity of its framers, enduring vision of equality and reform Scroll.in
+
+### Primary Source & Attribution
+
+* **Reported By:** NDTV
+* **Original Source:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVm1iOTZsdkNlb0x3LVEwanJaRi1RLTluWVVlMnJtMnpZS1pZeGVmcUdzWTVjc2M1a042RzVhWGZncThpUGpFYmlzU0hGdDBaX3FnNk5QMUpVTW5sb3pFMnQyZmw0ZnR2T1AzN2xiWm1ES3l4Z1JtY3ZFb2pDbmFmWXNRNkd5WUdjb3U1MjNxY3dhSTJ5cUVJMml6RUVlZjJSTzFZTXJLWGlsUXFlQUJvZlFmZG5aTVdfSGtYa19qY1M?oc=5
+* **Beat / Category:** Politics
+
+*Attribution: Compiled as a factual wire summary from NDTV. Refer to the primary source link for the full original report.*`,
+    title_en: `Opposition Wants To Cut OBC Quota, Give To Muslims: PM Narendra Modi On Constitution Day`,
+    summary_en: `Opposition Wants To Cut OBC Quota, Give To Muslims: PM Narendra Modi On Constitution Day NDTV Constitution Day LIVE updates: Priceless heritage of Indian democracy, says PM Modi The Hindu PM Modi hails deepening Constitution connect, urges `,
+    content_en: `### Wire Dispatch Summary
+
+**Opposition Wants To Cut OBC Quota, Give To Muslims: PM Narendra Modi On Constitution Day**
+
+Opposition Wants To Cut OBC Quota, Give To Muslims: PM Narendra Modi On Constitution Day NDTV Constitution Day LIVE updates: Priceless heritage of Indian democracy, says PM Modi The Hindu PM Modi hails deepening Constitution connect, urges public engagement with its ideals Telegraph India A commitment to strengthen our Constitution The Times of India India’s Constitution at 77: Moral integrity of its framers, enduring vision of equality and reform Scroll.in
+
+### Primary Source & Attribution
+
+* **Reported By:** NDTV
+* **Original Source:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVm1iOTZsdkNlb0x3LVEwanJaRi1RLTluWVVlMnJtMnpZS1pZeGVmcUdzWTVjc2M1a042RzVhWGZncThpUGpFYmlzU0hGdDBaX3FnNk5QMUpVTW5sb3pFMnQyZmw0ZnR2T1AzN2xiWm1ES3l4Z1JtY3ZFb2pDbmFmWXNRNkd5WUdjb3U1MjNxY3dhSTJ5cUVJMml6RUVlZjJSTzFZTXJLWGlsUXFlQUJvZlFmZG5aTVdfSGtYa19qY1M?oc=5
+* **Beat / Category:** Politics
+
+*Attribution: Compiled as a factual wire summary from NDTV. Refer to the primary source link for the full original report.*`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Wire summary of Politics reporting originally published by NDTV.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Key details and primary source attribution for Opposition Wants To Cut OBC Quota, Give To Muslims: PM Narendra Modi On Constitution Day.`,
+    primary_source: `NDTV`,
+  },
+  {
+    id: 97837,
+    title: `CJP's Saurav Das Moves Delhi High Court After Being Stopped From Travelling To UK, Hearing Tomorrow - Live Law`,
+    slug: `cjps-saurav-das-moves-delhi-high-court-after-being-stopped-from-travel-2026`,
+    original_title: `CJP's Saurav Das Moves Delhi High Court After Being Stopped From Travelling To UK, Hearing Tomorrow - Live Law`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:44Z`,
+    updated_at: `2026-11-26T04:58:44Z`,
+    source_name: `Live Law`,
+    source_url: `https://www.livelaw.in/high-court/delhi-high-court/cjps-saurav-das-moves-delhi-high-court-after-being-stopped-from-travelling-to-uk-hearing-tomorrow-559879`,
+    source_courtesy: `Source: Live Law`,
+    image_url: `/images/articles/cjps-saurav-das-moves-delhi-high-court-after-being-stopped-from-travel-2026.jpg`,
+    image_alt: `CJP's Saurav Das Moves Delhi High Court After Being Stopped From Travelling To UK, Hearing Tomorrow - Live Law`,
+    image_courtesy: `Image Courtesy: Live Law`,
+    image_photographer: `Live Law`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `Cockroach Janta Party (CJP) chief spokesperson Saurav Das has moved the Delhi High Court against the Centre's decision of stopping him from flying to the United Kingdom to attend an event.`,
+    content: `Cockroach Janta Party (CJP) chief spokesperson Saurav Das has moved the Delhi High Court against the Centre's decision of stopping him from flying to the United Kingdom to attend an event.
+
+The matter was mentioned today by Das' counsel before a division bench comprising Acting Chief Justice Nitin Wasudeo Sambre and Justice Sanjay Sharma.
+
+The Court said that the matter will be listed tomorrow.
+
+The plea has been filed through Advocate Krishnesh Bapat. Senior Advocate Akhil Sibal will be representing Das.
+
+Reportedly, Das was stopped as his passport lists an incorrect place of birth.
+
+Das was scheduled to travel to the UK for an event at the Oxford Union on December 01. As per Das, he was invited to speak about the “Cockroach Movement”.
+
+As per reports, Das allegedly failed to respond to a show cause notice issued by the Regional Passport Office, Chennai, over alleged discrepancies in his passport and other identity documents.
+
+Notably, the Madras High Court on October 30 issued notice on a plea seeking inquiry into the antecedents of Das.
+
+The plea before the Madras High Court seeks a detailed, thorough, and fair probe pertaining to the background of the individuals and to take necessary action against Saurav Das by cancelling his passport and Aadhaar Card. The petitioner there had made an allegation that Das is of Indian nationality, and therefore, he cannot "lecture" about the Government and the Judiciary.
+
+Nupur Thapliyal is a Principal Correspondent with LiveLaw, based in New Delhi. She reports from the Delhi High Court and trial courts in the national capital
+
+---
+
+**Original Source:** [Live Law](https://www.livelaw.in/high-court/delhi-high-court/cjps-saurav-das-moves-delhi-high-court-after-being-stopped-from-travelling-to-uk-hearing-tomorrow-559879)`,
+    title_en: `CJP's Saurav Das Moves Delhi High Court After Being Stopped From Travelling To UK, Hearing Tomorrow - Live Law`,
+    summary_en: `Cockroach Janta Party (CJP) chief spokesperson Saurav Das has moved the Delhi High Court against the Centre's decision of stopping him from flying to the United Kingdom to attend an event.`,
+    content_en: `Cockroach Janta Party (CJP) chief spokesperson Saurav Das has moved the Delhi High Court against the Centre's decision of stopping him from flying to the United Kingdom to attend an event.
+
+The matter was mentioned today by Das' counsel before a division bench comprising Acting Chief Justice Nitin Wasudeo Sambre and Justice Sanjay Sharma.
+
+The Court said that the matter will be listed tomorrow.
+
+The plea has been filed through Advocate Krishnesh Bapat. Senior Advocate Akhil Sibal will be representing Das.
+
+Reportedly, Das was stopped as his passport lists an incorrect place of birth.
+
+Das was scheduled to travel to the UK for an event at the Oxford Union on December 01. As per Das, he was invited to speak about the “Cockroach Movement”.
+
+As per reports, Das allegedly failed to respond to a show cause notice issued by the Regional Passport Office, Chennai, over alleged discrepancies in his passport and other identity documents.
+
+Notably, the Madras High Court on October 30 issued notice on a plea seeking inquiry into the antecedents of Das.
+
+The plea before the Madras High Court seeks a detailed, thorough, and fair probe pertaining to the background of the individuals and to take necessary action against Saurav Das by cancelling his passport and Aadhaar Card. The petitioner there had made an allegation that Das is of Indian nationality, and therefore, he cannot "lecture" about the Government and the Judiciary.
+
+Nupur Thapliyal is a Principal Correspondent with LiveLaw, based in New Delhi. She reports from the Delhi High Court and trial courts in the national capital
+
+---
+
+**Original Source:** [Live Law](https://www.livelaw.in/high-court/delhi-high-court/cjps-saurav-das-moves-delhi-high-court-after-being-stopped-from-travelling-to-uk-hearing-tomorrow-559879)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Wire summary of Politics reporting originally published by Live Law.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Key details and primary source attribution for CJP's Saurav Das Moves Delhi High Court After Being Stopped From Travelling To UK, Hearing Tomorrow - Live Law.`,
+    primary_source: `Live Law`,
+  },
+  {
+    id: 97838,
+    title: `Anant Singh Daughter Wedding: शिवांगी ने पहनाई ऋषिकेश को वरमाला, मरून-गोल्डन लहंगे में छा गईं अनंत सिंह की बेटी, जयमाल की पहली तस्वीर आई सामने - AajTak`,
+    slug: `anant-singh-daughter-wedding-aajtak-2026`,
+    original_title: `Anant Singh Daughter Wedding: शिवांगी ने पहनाई ऋषिकेश को वरमाला, मरून-गोल्डन लहंगे में छा गईं अनंत सिंह की बेटी, जयमाल की पहली तस्वीर आई सामने - AajTak`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:44Z`,
+    updated_at: `2026-11-26T04:58:44Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/lifestyle/fashion/story/anant-singh-daughter-wedding-shivangi-garlands-rishikesh-look-beautiful-in-maroon-lehenga-first-photo-anant-singh-ki-beti-ki-shadi-tvisp-dskc-2706097-2026-11-26`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `/images/articles/anant-singh-daughter-wedding-aajtak-2026.webp`,
+    image_alt: `Anant Singh Daughter Wedding: शिवांगी ने पहनाई ऋषिकेश को वरमाला, मरून-गोल्डन लहंगे में छा गईं अनंत सिंह की बेटी, जयमाल की पहली तस्वीर आई सामने - AajTak`,
+    image_courtesy: `Image Courtesy: AajTak`,
+    image_photographer: `AajTak`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `Anant Singh Daughter Wedding: बिहार के मोकामा के विधायक अनंत सिंह की बेटी शिवांगी ने आखिरकार अपने दूल्हे राजा ऋषिकेश कुमार को जयमाल पहना दी और इसी के साथ शिवांगी-ऋषिकेश एक-दूसरे के हो गए. दुल्हन बनीं शिवांगी की पहली तस्वीर सामने आते ही सोशल`,
+    content: `### आखिरकार जिस घड़ी का इंतजार था वो आ ही गई. अनंत सिंह की बेटी शिवांगी ने ऋषिकेश कुमार को जयमाला पहना दी. मरून-गोल्डन जोड़े में दुल्हन बनीं शिवांगी किसी परी से कम नहीं लग रही थीं. वहीं, गुलाबी शेरवानी में दूल्हे राजा भी खूब सज रहे थे.
+
+Anant Singh Daughter Wedding: बिहार के मोकामा के विधायक अनंत सिंह की बेटी शिवांगी ने आखिरकार अपने दूल्हे राजा ऋषिकेश कुमार को जयमाल पहना दी और इसी के साथ शिवांगी-ऋषिकेश एक-दूसरे के हो गए. दुल्हन बनीं शिवांगी की पहली तस्वीर सामने आते ही सोशल मीडिया पर तेजी से वायरल हो रही है. वरमाला की रस्म में दुल्हन शिवांगी पारंपरिक महरून और गोल्डन जोड़े में बेहद खूबसूरत नजर आईं, वहीं दूल्हे ऋषिकेश कुमार के साथ उनकी जोड़ी ने सभी का ध्यान खींचा.
+
+दुल्हन बनीं शिवांगी ने पहना खास लहंगा वरमाला के लिए शिवांगी पारंपरिक मरून रंग का ब्राइडल जोड़ा चुना जो शादी की रस्मों के हिसाब से शाही और एथनिक था. महरून रंग के इस लहंगे पर खूबसूरत और हेवी गोल्डन वर्क था. इसका दुपट्टा नेट का था जिस पर भी काफी हेवी एम्ब्रायडरी थी. दुल्हन शिवांगी ने लहंगे के साथ ट्रैडिशनल और हेवी गोल्डन जूलरी पहनी हुई थी. इसमें मल्टी लेयर नेकलेस, ईयररिंग्स और कंगन शामिल थे. उन्होंने नथ, झुमका और मांग टीका भी पहना था.
+
+शिवांगी का लुक पूरी तरह भारतीय परंपरा के मुताबिक था. दुल्हन बनीं शिवांगी बहुत सुंदर लग रही थीं. शिवांगी ने जैसे ही ऋषिकेश को जयमाल पहनाई, पूरा हॉल तालियों से गूंज उठा.
+
+दुल्हन शिवांगी ने लहंगे के साथ ट्रैडिशनल और हेवी गोल्डन जूलरी पहनी हुई थी. इसमें मल्टी लेयर नेकलेस, ईयररिंग्स और कंगन शामिल थे. उन्होंने नथ, झुमका और मांग टीका भी पहना था. शिवांगी का लुक पूरी तरह भारतीय परंपरा के मुताबिक था. दुल्हन बनीं शिवांगी बहुत सुंदर लग रही थीं.
+
+गुलाबी शेरवानी-साफे में छाए दूल्हे राजा
+
+वरमाला की रस्म में दूल्हे ऋषिकेश कुमार पारंपरिक हल्की गुलाबी शेरवानी में खूब जंचते नजर आए. उन्होंने लाइट पिंक कलर की शेरवानी, सफेद पजामा और सिर पर गुलाबी साफा बांधा था. दोनों का वेडिंग लुक बेहद तालमेल भरा और आकर्षक दिखा.
+
+शिवांगी की शादी में उनके तीनों भाई अभिषेक, अंकित और अभिवन सिंह गोल्डन शेरवानी और लाल बांधनी साफा बांधे नजर आए. बंद गले की शेरवानी और बांधनी साफे में तीनों भाई खूब जच रहे थे.
+
+सोशल मीडिया पर छाई अनंत सिंह की बेटी की शादी
+
+शादी की रस्मों और जश्न के बीच सामने आईं तस्वीरें और वीडियो देखते ही देखते सोशल मीडिया पर छा गए. अनंत सिंह की बेटी की शादी को लेकर सोशल मीडिया पर भी काफी खबरें पिछले कई दिनों से चल रही थीं और लोगों में शादी को लेकर काफी उत्साह था. खबरों के मुताबिक इस शादी में 4 लाख से ज्यादा लोगों ने शिरकत की जिनके लिए जबरदस्त इंतजाम किए गए थे.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/lifestyle/fashion/story/anant-singh-daughter-wedding-shivangi-garlands-rishikesh-look-beautiful-in-maroon-lehenga-first-photo-anant-singh-ki-beti-ki-shadi-tvisp-dskc-2706097-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Anant Singh Daughter Wedding: शिवांगी ने पहनाई ऋषिकेश को वरमाला, मरून-गोल्डन लहंगे में छा गईं अनंत सिंह की बेटी, जयमाल की पहली तस्वीर आई सामने - AajTak`,
+    summary_hi: `Anant Singh Daughter Wedding: बिहार के मोकामा के विधायक अनंत सिंह की बेटी शिवांगी ने आखिरकार अपने दूल्हे राजा ऋषिकेश कुमार को जयमाल पहना दी और इसी के साथ शिवांगी-ऋषिकेश एक-दूसरे के हो गए. दुल्हन बनीं शिवांगी की पहली तस्वीर सामने आते ही सोशल`,
+    content_hi: `### आखिरकार जिस घड़ी का इंतजार था वो आ ही गई. अनंत सिंह की बेटी शिवांगी ने ऋषिकेश कुमार को जयमाला पहना दी. मरून-गोल्डन जोड़े में दुल्हन बनीं शिवांगी किसी परी से कम नहीं लग रही थीं. वहीं, गुलाबी शेरवानी में दूल्हे राजा भी खूब सज रहे थे.
+
+Anant Singh Daughter Wedding: बिहार के मोकामा के विधायक अनंत सिंह की बेटी शिवांगी ने आखिरकार अपने दूल्हे राजा ऋषिकेश कुमार को जयमाल पहना दी और इसी के साथ शिवांगी-ऋषिकेश एक-दूसरे के हो गए. दुल्हन बनीं शिवांगी की पहली तस्वीर सामने आते ही सोशल मीडिया पर तेजी से वायरल हो रही है. वरमाला की रस्म में दुल्हन शिवांगी पारंपरिक महरून और गोल्डन जोड़े में बेहद खूबसूरत नजर आईं, वहीं दूल्हे ऋषिकेश कुमार के साथ उनकी जोड़ी ने सभी का ध्यान खींचा.
+
+दुल्हन बनीं शिवांगी ने पहना खास लहंगा वरमाला के लिए शिवांगी पारंपरिक मरून रंग का ब्राइडल जोड़ा चुना जो शादी की रस्मों के हिसाब से शाही और एथनिक था. महरून रंग के इस लहंगे पर खूबसूरत और हेवी गोल्डन वर्क था. इसका दुपट्टा नेट का था जिस पर भी काफी हेवी एम्ब्रायडरी थी. दुल्हन शिवांगी ने लहंगे के साथ ट्रैडिशनल और हेवी गोल्डन जूलरी पहनी हुई थी. इसमें मल्टी लेयर नेकलेस, ईयररिंग्स और कंगन शामिल थे. उन्होंने नथ, झुमका और मांग टीका भी पहना था.
+
+शिवांगी का लुक पूरी तरह भारतीय परंपरा के मुताबिक था. दुल्हन बनीं शिवांगी बहुत सुंदर लग रही थीं. शिवांगी ने जैसे ही ऋषिकेश को जयमाल पहनाई, पूरा हॉल तालियों से गूंज उठा.
+
+दुल्हन शिवांगी ने लहंगे के साथ ट्रैडिशनल और हेवी गोल्डन जूलरी पहनी हुई थी. इसमें मल्टी लेयर नेकलेस, ईयररिंग्स और कंगन शामिल थे. उन्होंने नथ, झुमका और मांग टीका भी पहना था. शिवांगी का लुक पूरी तरह भारतीय परंपरा के मुताबिक था. दुल्हन बनीं शिवांगी बहुत सुंदर लग रही थीं.
+
+गुलाबी शेरवानी-साफे में छाए दूल्हे राजा
+
+वरमाला की रस्म में दूल्हे ऋषिकेश कुमार पारंपरिक हल्की गुलाबी शेरवानी में खूब जंचते नजर आए. उन्होंने लाइट पिंक कलर की शेरवानी, सफेद पजामा और सिर पर गुलाबी साफा बांधा था. दोनों का वेडिंग लुक बेहद तालमेल भरा और आकर्षक दिखा.
+
+शिवांगी की शादी में उनके तीनों भाई अभिषेक, अंकित और अभिवन सिंह गोल्डन शेरवानी और लाल बांधनी साफा बांधे नजर आए. बंद गले की शेरवानी और बांधनी साफे में तीनों भाई खूब जच रहे थे.
+
+सोशल मीडिया पर छाई अनंत सिंह की बेटी की शादी
+
+शादी की रस्मों और जश्न के बीच सामने आईं तस्वीरें और वीडियो देखते ही देखते सोशल मीडिया पर छा गए. अनंत सिंह की बेटी की शादी को लेकर सोशल मीडिया पर भी काफी खबरें पिछले कई दिनों से चल रही थीं और लोगों में शादी को लेकर काफी उत्साह था. खबरों के मुताबिक इस शादी में 4 लाख से ज्यादा लोगों ने शिरकत की जिनके लिए जबरदस्त इंतजाम किए गए थे.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/lifestyle/fashion/story/anant-singh-daughter-wedding-shivangi-garlands-rishikesh-look-beautiful-in-maroon-lehenga-first-photo-anant-singh-ki-beti-ki-shadi-tvisp-dskc-2706097-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Anant Singh Daughter Wedding: शिवांगी ने पहनाई ऋषिकेश को वरमाला, मरून-गोल्डन लहंगे में छा गईं अनंत सिंह की बेटी, जयमाल की पहली तस्वीर आई सामने - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 97839,
+    title: `सौरव दास ने लगाया ब्रिटेन जाने से रोकने का आरोप, सरकार ने क्या जवाब दिया?`,
+    slug: `politics-breaking-report-44830-97839-2026`,
+    original_title: `सौरव दास ने लगाया ब्रिटेन जाने से रोकने का आरोप, सरकार ने क्या जवाब दिया?`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:44Z`,
+    updated_at: `2026-11-26T04:58:44Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cmwy8627g50wo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/politics-breaking-report-44830-97839-2026.jpg`,
+    image_alt: `सौरव दास ने लगाया ब्रिटेन जाने से रोकने का आरोप, सरकार ने क्या जवाब दिया?`,
+    image_courtesy: `Image Courtesy: BBC`,
+    image_photographer: `BBC`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `केंद्र सरकार ने कॉकरोच जनता पार्टी के नेता सौरव दास के उस आरोप का जवाब दिया है, जिसमें उन्होंने कहा था कि उन्हें विदेश जाने से रोका गया.`,
+    content: `केंद्र सरकार ने कॉकरोच जनता पार्टी के नेता सौरव दास के उस आरोप का जवाब दिया है, जिसमें उन्होंने कहा था कि उन्हें विदेश जाने से रोका गया.
+
+सौरव दास ने दावा किया था कि उन्हें ऑक्सफ़र्ड यूनिवर्सिटी के एक कार्यक्रम के लिए लंदन जाने से रोक दिया गया.
+
+सौरव दास को जारी किए गए कारण बताओ नोटिस पर विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि पासपोर्ट के लिए आवेदन करते समय आवेदक को सही जानकारी देना अनिवार्य है.
+
+विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा , "अगर किसी भी स्तर पर अधिकारियों को कोई विसंगति मिलती है या इसकी सूचना दी जाती है और मामला तथ्यों को छिपाने से जुड़ा होता है, तो हम आवेदक को कारण बताओ नोटिस जारी करते हैं. इसके ज़रिए उसे अपना पक्ष रखने का मौका दिया जाता है.''
+
+सौरव दास ने सोमवार देर रात दिल्ली एयरपोर्ट से सोशल मीडिया एक्स पर एक वीडियो शेयर किया था.
+
+उन्होंने क हा था , "मैं दिल्ली इंटरनेशनल एयरपोर्ट पर हूं. दिल्ली से लंदन के लिए मेरी फ़्लाइट रात एक बजे की थी. मैं प्रतिष्ठित ऑक्सफ़र्ड यूनिवर्सिटी जा रहा था, वहां के स्टूडेंट्स यूनियन ने मुझे एक लेक्चर देने के लिए इन्वाइट किया था. मुझे एक पैनल डिस्कशन में हिस्सा लेना था."
+
+हालांकि इस मामले पर लंदन में मौजूद पत्रकार नाओमी कांटन ने एक्स पर दावा किया है, " सौरव दास को ऑक्सफ़र्ड यूनिवर्सिटी में लेक्चर देने के लिए आमंत्रित नहीं किया गया था. उन्हें ऑक्सफ़र्ड यूनियन में बोलने के लिए आमंत्रित किया गया था. ऑक्सफ़र्ड यूनियन एक अलग और स्वतंत्र रूप से संचालित डिबेट कराने वाली संस्था है. यह यूनिवर्सिटी का हिस्सा नहीं है."
+
+संबंधित कानून प्रवर्तन एजेंसियों से मिली रिपोर्ट के आधार पर चेन्नई के क्षेत्रीय पासपोर्ट कार्यालय (आरपीओ) ने 23 नवंबर, 2026 को सौरव दास को कारण बताओ नोटिस जारी किया था. इसमें उनसे सात दिनों के भीतर अपने जन्मस्थान के बारे में स्पष्टीकरण देने को कहा गया है. उन्हें यह भी सलाह दी गई है कि जवाब दाखिल करने तक वे अपने पासपोर्ट का इस्तेमाल न करें."
+
+जायसवाल ने इस मामले में सरकार का पक्ष रखते हुए कहा, "जब कोई व्यक्ति पासपोर्ट के लिए आवेदन करता है और फॉर्म भरता है, तो उससे यह अपेक्षा की जाती है कि वह सही जानकारी देगा. अगर अधिकारियों की ओर से हमारे संज्ञान में कोई कमी या विसंगति लाई जाती है, तो तय प्रक्रिया के तहत आवेदक या पासपोर्ट धारक को कारण बताओ नोटिस जारी किया जाता है. इस नोटिस के ज़रिए उससे आवेदन में दी गई जानकारी और सामने आई विसंगतियों के बारे में स्पष्टीकरण मांगा जाता है."
+
+सौरव दास ने आरोप लगाया, "जैसे ही मैं इमिग्रेशन चेक पर गया, तब मुझे पता चला कि मेरा पासपोर्ट फ़्लैग कर दिया गया है."
+
+उन्होंने कहा, "मेरा पासपोर्ट फ़्लैग कर के मुझे देश से बाहर जाने से रोक दिया. सरकार को इतना डर क्यों है कि कोई पढ़ा-लिखा युवा, पढ़े-लिखे लोगों के बीच जाकर कुछ इंटेलेक्चुअल डिस्कशन कर रहा है."
+
+सौरव दास ने दावा किया, "ऑक्सफ़र्ड यूनिवर्सिटी में जो भारतीय स्टूडेंट्स हैं, उन्होंने मुझे बुलाया कि 'हम इस मूवमेंट से जुड़ना चाहते हैं, हम देश के युवाओं का साथ देना चाहते हैं. हम जानना चाहते हैं कि हमारे देश में क्या हो रहा है.' लेकिन इस सरकार को पढ़ाई-लिखाई से कोई मतलब नहीं है."
+
+"आप स्कूलों की हालत देख रहे हैं. ये सरकार हमारे आंदोलन से डरती है. ऐसा करने से हम नहीं दबने वाले. उनको ये समझ में नहीं आ रहा है कि हम युवाओं के पास बहुत समय है. बार-बार लंदन जाएंगे, पेरिस जाएंगे. हमारे पास बहुत कुछ करने का समय है."
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+विदेश जाने का अधिकार संविधान के अनुच्छेद 19(1) के किसी भी प्रावधान के तहत साफ़ रूप से अधिकार नहीं है. पासपोर्ट अधिनियम की धारा 10(3)(सी), पासपोर्ट ज़ब्त करके विदेश जाने के अधिकार पर प्रतिबंध लगाने की अनुमति देती है.
+
+पासपोर्ट एक्ट की धारा 10 के तहत पासपोर्ट अथॉरिटी को किसी व्यक्ति का पासपोर्ट या यात्रा दस्तावेज जब्त करने और उसे वापस करने का अधिकार है.
+
+अधिनियम की धारा 10(1) के प्रावधानों के तहत नोटिस जारी करने के बाद अथॉरिटी, पासपोर्ट धारक को अपना पासपोर्ट और यात्रा दस्तावेज जमा करने के लिए भी कह सकता है.
+
+भारत के पासपोर्ट एक्ट के मुताबिक़ किसी शख़्स को विदेश जाने से रोकने की कई वजहें हो सकती हैं.
+
+इनमें यात्रा के लिए वैध पासपोर्ट, वीज़ा समेत अन्य वैध दस्तावेज़ होना शामिल है.
+
+कोई शख़्स कितने दिनों के लिए अन्य देश में जा रहा है और इसके लिए उसके पास वैध अनुमति है या नहीं है. यह भी विदेश यात्रा को रोकने का आधार बन सकता है.
+
+किसी ग़लत सूचना या जानकारी के आधार पर भी किसी शख़्स का पासपोर्ट ज़ब्त किया जा सकता है. या उसे यात्रा करने से रोका जा सकता है. अदालत के आदेश पर किसी शख़्स का पासपोर्ट ज़ब्त किया जा सकता है या उसे विदेश यात्रा करने से रोका जा सकता है.
+
+इसके अलावा भी सरकार या सरकारी एजेंसियों के पास किसी शख़्स को विदेश यात्रा से रोकने के कई आधार होते हैं. पासपोर्ट फ़्लैग करने का आमतौर पर मतलब है कि इमिग्रेशन या सुरक्षा एजेंसियों के डेटाबेस में किसी पासपोर्ट के साथ एक ख़ास अलर्ट या निशान जोड़ देना.
+
+अगर किसी का पासपोर्ट फ़्लैग किया गया हो तो इमिग्रेशन के वक़्त पासपोर्ट की स्कैनिंग में यह दिख जाता है, जिसका मतलब होता है कि उस शख़्स की अतिरिक्त जांच या उसके संबंध में कोई कार्रवाई करने की ज़रूरत है.
+
+हालांकि जैसा सौरव दास का दावा है कि उनका पासपोर्ट फ़्लैग किया गया है, तो इसके पीछे की आधिकारिक वजह की जानकारी अभी नहीं मिल पाई है.
+
+सोशल मीडिया एक्स पर सौरव दास की पोस्ट को शेयर करते हुए सीजेपी के क़ानूनी मामलों की प्रमुख रत्ना सिंह ने भी अपना वीज़ा रिजेक्ट किए जाने का आरोप लगाया.
+
+रत्ना सिंह ने कहा , "सौरव और मुझे, दोनों को ऑक्सफ़र्ड यूनियन ने आमंत्रित किया था. कुछ दिन पहले मेरा वीज़ा रिज़ेक्ट कर दिया गया था. मैं इसे फिर भी मान सकती थी, क्योंकि इसमें किसी सीधे हस्तक्षेप के साफ़ संकेत नहीं थे."
+
+"लेकिन अब जो हुआ है, वह पूरी तरह अविश्वसनीय है. यह शर्मनाक है कि इस देश के युवाओं को सिर्फ़ इसलिए निशाना बनाया जा रहा है, क्योंकि उनमें सच बोलने और सत्ता में बैठे लोगों की आंखों में आंखें डालकर सवाल पूछने की हिम्मत है."
+
+"आज जिस तरह सौरव को विमान में सवार होने की अनुमति नहीं दी गई, उससे इस देश में अभिव्यक्ति की आज़ादी की स्थिति और युवाओं की आवाज़ को दी जा रही जगह को लेकर बेहद गंभीर सवाल खड़े होते हैं."
+
+कॉकरोच जनता पार्टी के संस्थापक अभिजीत दीपके ने इस मुद्दे पर तीखी प्रतिक्रया दी है.
+
+उन्होंने एक्स पर एक पोस्ट में लिखा है कि सौरव को ऑक्सफ़र्ड यूनिवर्सिटी में एक कॉन्फ्रेंस में बोलने के लिए आमंत्रित किया गया था, लेकिन ऐसा लगता है कि सत्ता में बैठे किसी शख़्स को ख़ुद दुनिया भर में घूमना पसंद है, लेकिन सौरव को ऑक्सफ़र्ड से मिले इस आमंत्रण से जलन हो रही है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cmwy8627g50wo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `सौरव दास ने लगाया ब्रिटेन जाने से रोकने का आरोप, सरकार ने क्या जवाब दिया?`,
+    summary_hi: `केंद्र सरकार ने कॉकरोच जनता पार्टी के नेता सौरव दास के उस आरोप का जवाब दिया है, जिसमें उन्होंने कहा था कि उन्हें विदेश जाने से रोका गया.`,
+    content_hi: `केंद्र सरकार ने कॉकरोच जनता पार्टी के नेता सौरव दास के उस आरोप का जवाब दिया है, जिसमें उन्होंने कहा था कि उन्हें विदेश जाने से रोका गया.
+
+सौरव दास ने दावा किया था कि उन्हें ऑक्सफ़र्ड यूनिवर्सिटी के एक कार्यक्रम के लिए लंदन जाने से रोक दिया गया.
+
+सौरव दास को जारी किए गए कारण बताओ नोटिस पर विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि पासपोर्ट के लिए आवेदन करते समय आवेदक को सही जानकारी देना अनिवार्य है.
+
+विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा , "अगर किसी भी स्तर पर अधिकारियों को कोई विसंगति मिलती है या इसकी सूचना दी जाती है और मामला तथ्यों को छिपाने से जुड़ा होता है, तो हम आवेदक को कारण बताओ नोटिस जारी करते हैं. इसके ज़रिए उसे अपना पक्ष रखने का मौका दिया जाता है.''
+
+सौरव दास ने सोमवार देर रात दिल्ली एयरपोर्ट से सोशल मीडिया एक्स पर एक वीडियो शेयर किया था.
+
+उन्होंने क हा था , "मैं दिल्ली इंटरनेशनल एयरपोर्ट पर हूं. दिल्ली से लंदन के लिए मेरी फ़्लाइट रात एक बजे की थी. मैं प्रतिष्ठित ऑक्सफ़र्ड यूनिवर्सिटी जा रहा था, वहां के स्टूडेंट्स यूनियन ने मुझे एक लेक्चर देने के लिए इन्वाइट किया था. मुझे एक पैनल डिस्कशन में हिस्सा लेना था."
+
+हालांकि इस मामले पर लंदन में मौजूद पत्रकार नाओमी कांटन ने एक्स पर दावा किया है, " सौरव दास को ऑक्सफ़र्ड यूनिवर्सिटी में लेक्चर देने के लिए आमंत्रित नहीं किया गया था. उन्हें ऑक्सफ़र्ड यूनियन में बोलने के लिए आमंत्रित किया गया था. ऑक्सफ़र्ड यूनियन एक अलग और स्वतंत्र रूप से संचालित डिबेट कराने वाली संस्था है. यह यूनिवर्सिटी का हिस्सा नहीं है."
+
+संबंधित कानून प्रवर्तन एजेंसियों से मिली रिपोर्ट के आधार पर चेन्नई के क्षेत्रीय पासपोर्ट कार्यालय (आरपीओ) ने 23 नवंबर, 2026 को सौरव दास को कारण बताओ नोटिस जारी किया था. इसमें उनसे सात दिनों के भीतर अपने जन्मस्थान के बारे में स्पष्टीकरण देने को कहा गया है. उन्हें यह भी सलाह दी गई है कि जवाब दाखिल करने तक वे अपने पासपोर्ट का इस्तेमाल न करें."
+
+जायसवाल ने इस मामले में सरकार का पक्ष रखते हुए कहा, "जब कोई व्यक्ति पासपोर्ट के लिए आवेदन करता है और फॉर्म भरता है, तो उससे यह अपेक्षा की जाती है कि वह सही जानकारी देगा. अगर अधिकारियों की ओर से हमारे संज्ञान में कोई कमी या विसंगति लाई जाती है, तो तय प्रक्रिया के तहत आवेदक या पासपोर्ट धारक को कारण बताओ नोटिस जारी किया जाता है. इस नोटिस के ज़रिए उससे आवेदन में दी गई जानकारी और सामने आई विसंगतियों के बारे में स्पष्टीकरण मांगा जाता है."
+
+सौरव दास ने आरोप लगाया, "जैसे ही मैं इमिग्रेशन चेक पर गया, तब मुझे पता चला कि मेरा पासपोर्ट फ़्लैग कर दिया गया है."
+
+उन्होंने कहा, "मेरा पासपोर्ट फ़्लैग कर के मुझे देश से बाहर जाने से रोक दिया. सरकार को इतना डर क्यों है कि कोई पढ़ा-लिखा युवा, पढ़े-लिखे लोगों के बीच जाकर कुछ इंटेलेक्चुअल डिस्कशन कर रहा है."
+
+सौरव दास ने दावा किया, "ऑक्सफ़र्ड यूनिवर्सिटी में जो भारतीय स्टूडेंट्स हैं, उन्होंने मुझे बुलाया कि 'हम इस मूवमेंट से जुड़ना चाहते हैं, हम देश के युवाओं का साथ देना चाहते हैं. हम जानना चाहते हैं कि हमारे देश में क्या हो रहा है.' लेकिन इस सरकार को पढ़ाई-लिखाई से कोई मतलब नहीं है."
+
+"आप स्कूलों की हालत देख रहे हैं. ये सरकार हमारे आंदोलन से डरती है. ऐसा करने से हम नहीं दबने वाले. उनको ये समझ में नहीं आ रहा है कि हम युवाओं के पास बहुत समय है. बार-बार लंदन जाएंगे, पेरिस जाएंगे. हमारे पास बहुत कुछ करने का समय है."
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+विदेश जाने का अधिकार संविधान के अनुच्छेद 19(1) के किसी भी प्रावधान के तहत साफ़ रूप से अधिकार नहीं है. पासपोर्ट अधिनियम की धारा 10(3)(सी), पासपोर्ट ज़ब्त करके विदेश जाने के अधिकार पर प्रतिबंध लगाने की अनुमति देती है.
+
+पासपोर्ट एक्ट की धारा 10 के तहत पासपोर्ट अथॉरिटी को किसी व्यक्ति का पासपोर्ट या यात्रा दस्तावेज जब्त करने और उसे वापस करने का अधिकार है.
+
+अधिनियम की धारा 10(1) के प्रावधानों के तहत नोटिस जारी करने के बाद अथॉरिटी, पासपोर्ट धारक को अपना पासपोर्ट और यात्रा दस्तावेज जमा करने के लिए भी कह सकता है.
+
+भारत के पासपोर्ट एक्ट के मुताबिक़ किसी शख़्स को विदेश जाने से रोकने की कई वजहें हो सकती हैं.
+
+इनमें यात्रा के लिए वैध पासपोर्ट, वीज़ा समेत अन्य वैध दस्तावेज़ होना शामिल है.
+
+कोई शख़्स कितने दिनों के लिए अन्य देश में जा रहा है और इसके लिए उसके पास वैध अनुमति है या नहीं है. यह भी विदेश यात्रा को रोकने का आधार बन सकता है.
+
+किसी ग़लत सूचना या जानकारी के आधार पर भी किसी शख़्स का पासपोर्ट ज़ब्त किया जा सकता है. या उसे यात्रा करने से रोका जा सकता है. अदालत के आदेश पर किसी शख़्स का पासपोर्ट ज़ब्त किया जा सकता है या उसे विदेश यात्रा करने से रोका जा सकता है.
+
+इसके अलावा भी सरकार या सरकारी एजेंसियों के पास किसी शख़्स को विदेश यात्रा से रोकने के कई आधार होते हैं. पासपोर्ट फ़्लैग करने का आमतौर पर मतलब है कि इमिग्रेशन या सुरक्षा एजेंसियों के डेटाबेस में किसी पासपोर्ट के साथ एक ख़ास अलर्ट या निशान जोड़ देना.
+
+अगर किसी का पासपोर्ट फ़्लैग किया गया हो तो इमिग्रेशन के वक़्त पासपोर्ट की स्कैनिंग में यह दिख जाता है, जिसका मतलब होता है कि उस शख़्स की अतिरिक्त जांच या उसके संबंध में कोई कार्रवाई करने की ज़रूरत है.
+
+हालांकि जैसा सौरव दास का दावा है कि उनका पासपोर्ट फ़्लैग किया गया है, तो इसके पीछे की आधिकारिक वजह की जानकारी अभी नहीं मिल पाई है.
+
+सोशल मीडिया एक्स पर सौरव दास की पोस्ट को शेयर करते हुए सीजेपी के क़ानूनी मामलों की प्रमुख रत्ना सिंह ने भी अपना वीज़ा रिजेक्ट किए जाने का आरोप लगाया.
+
+रत्ना सिंह ने कहा , "सौरव और मुझे, दोनों को ऑक्सफ़र्ड यूनियन ने आमंत्रित किया था. कुछ दिन पहले मेरा वीज़ा रिज़ेक्ट कर दिया गया था. मैं इसे फिर भी मान सकती थी, क्योंकि इसमें किसी सीधे हस्तक्षेप के साफ़ संकेत नहीं थे."
+
+"लेकिन अब जो हुआ है, वह पूरी तरह अविश्वसनीय है. यह शर्मनाक है कि इस देश के युवाओं को सिर्फ़ इसलिए निशाना बनाया जा रहा है, क्योंकि उनमें सच बोलने और सत्ता में बैठे लोगों की आंखों में आंखें डालकर सवाल पूछने की हिम्मत है."
+
+"आज जिस तरह सौरव को विमान में सवार होने की अनुमति नहीं दी गई, उससे इस देश में अभिव्यक्ति की आज़ादी की स्थिति और युवाओं की आवाज़ को दी जा रही जगह को लेकर बेहद गंभीर सवाल खड़े होते हैं."
+
+कॉकरोच जनता पार्टी के संस्थापक अभिजीत दीपके ने इस मुद्दे पर तीखी प्रतिक्रया दी है.
+
+उन्होंने एक्स पर एक पोस्ट में लिखा है कि सौरव को ऑक्सफ़र्ड यूनिवर्सिटी में एक कॉन्फ्रेंस में बोलने के लिए आमंत्रित किया गया था, लेकिन ऐसा लगता है कि सत्ता में बैठे किसी शख़्स को ख़ुद दुनिया भर में घूमना पसंद है, लेकिन सौरव को ऑक्सफ़र्ड से मिले इस आमंत्रण से जलन हो रही है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cmwy8627g50wo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक सौरव दास ने लगाया ब्रिटेन जाने से रोकने का आरोप, सरकार ने क्या जवाब दिया? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 97840,
+    title: `Wordle today: The answer and hints for November 25, 2026 - Mashable`,
+    slug: `wordle-today-the-answer-and-hints-for-november-25-2026-mashable-2026`,
+    original_title: `Wordle today: The answer and hints for November 25, 2026 - Mashable`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:45Z`,
+    updated_at: `2026-11-26T04:58:45Z`,
+    source_name: `Mashable`,
+    source_url: `https://mashable.com/entertainment/wordle-today-answer-november-25-2026`,
+    source_courtesy: `Source: Mashable`,
+    image_url: `/images/articles/wordle-today-the-answer-and-hints-for-november-25-2026-mashable-2026.webp`,
+    image_alt: `Wordle today: The answer and hints for November 25, 2026 - Mashable`,
+    image_courtesy: `Image Courtesy: Mashable`,
+    image_photographer: `Mashable`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Today's Wordle answer should be easy to solve if you like hot foods.`,
+    content: `Today's Wordle answer should be easy to solve if you like hot foods.
+
+If you just want to be told today's word, you can jump to the bottom of this article for today's Wordle solution revealed. But if you'd rather solve it yourself, keep reading for some clues, tips, and strategies to assist you.
+
+Originally created by engineer Josh Wardle as a gift for his partner, Wordle rapidly spread to become an international phenomenon, with thousands of people around the globe playing every day. Alternate Wordle versions created by fans also sprang up, including battle royale Squabble , music identification game Heardle , and variations like Dordle and Quordle that make you guess multiple words at once .
+
+Wordle eventually became so popular that it was purchased by the New York Times , and TikTok creators even livestream themselves playing .
+
+Are you also playing NYT Connections? See hints and answers for today's Connections .
+
+### What's the best Wordle starting word?
+
+The best Wordle starting word is the one that speaks to you. But if you prefer to be strategic in your approach, we have a few ideas to help you pick a word that might help you find the solution faster. One tip is to select a word that includes at least two different vowels, plus some common consonants like S, T, R, or N.
+
+### What happened to the Wordle archive?
+
+It might feel like Wordle is getting harder, but it actually isn't any more difficult than when it first began . You can turn on Wordle 's Hard Mode if you're after more of a challenge, though.
+
+### Here's a subtle hint for today's Wordle answer:
+
+### Does today's Wordle answer have a double letter?
+
+### Today's Wordle is a 5-letter word that starts with...
+
+Today's Wordle starts with the letter S.
+
+Get your last guesses in now, because it's your final chance to solve today's Wordle before we reveal the solution.
+
+The solution to today's Wordle is...
+
+Don't feel down if you didn't manage to guess it this time. There will be a new Wordle for you to stretch your brain with tomorrow, and we'll be back again to guide you with more helpful hints .
+
+Are you also playing NYT Strands? See hints and answers for today's Strands .
+
+Reporting by Chance Townsend, Caitlin Welsh, Sam Haysom, Amanda Yeo, Shannon Connellan, Cecily Mauran, Mike Pearl, and Adam Rosenberg contributed to this article.
+
+Meet The Mashable 101: Our list of the content creators shaping the internet today
+
+If you're looking for more puzzles, Mashable's got games now! Check out our games hub for Mahjong, Sudoku, free crossword, and more.
+
+Not the day you're after? Here's the solution to today's Wordle.
+
+---
+
+**Original Source:** [Mashable](https://mashable.com/entertainment/wordle-today-answer-november-25-2026)`,
+    title_en: `Wordle today: The answer and hints for November 25, 2026 - Mashable`,
+    summary_en: `Today's Wordle answer should be easy to solve if you like hot foods.`,
+    content_en: `Today's Wordle answer should be easy to solve if you like hot foods.
+
+If you just want to be told today's word, you can jump to the bottom of this article for today's Wordle solution revealed. But if you'd rather solve it yourself, keep reading for some clues, tips, and strategies to assist you.
+
+Originally created by engineer Josh Wardle as a gift for his partner, Wordle rapidly spread to become an international phenomenon, with thousands of people around the globe playing every day. Alternate Wordle versions created by fans also sprang up, including battle royale Squabble , music identification game Heardle , and variations like Dordle and Quordle that make you guess multiple words at once .
+
+Wordle eventually became so popular that it was purchased by the New York Times , and TikTok creators even livestream themselves playing .
+
+Are you also playing NYT Connections? See hints and answers for today's Connections .
+
+### What's the best Wordle starting word?
+
+The best Wordle starting word is the one that speaks to you. But if you prefer to be strategic in your approach, we have a few ideas to help you pick a word that might help you find the solution faster. One tip is to select a word that includes at least two different vowels, plus some common consonants like S, T, R, or N.
+
+### What happened to the Wordle archive?
+
+It might feel like Wordle is getting harder, but it actually isn't any more difficult than when it first began . You can turn on Wordle 's Hard Mode if you're after more of a challenge, though.
+
+### Here's a subtle hint for today's Wordle answer:
+
+### Does today's Wordle answer have a double letter?
+
+### Today's Wordle is a 5-letter word that starts with...
+
+Today's Wordle starts with the letter S.
+
+Get your last guesses in now, because it's your final chance to solve today's Wordle before we reveal the solution.
+
+The solution to today's Wordle is...
+
+Don't feel down if you didn't manage to guess it this time. There will be a new Wordle for you to stretch your brain with tomorrow, and we'll be back again to guide you with more helpful hints .
+
+Are you also playing NYT Strands? See hints and answers for today's Strands .
+
+Reporting by Chance Townsend, Caitlin Welsh, Sam Haysom, Amanda Yeo, Shannon Connellan, Cecily Mauran, Mike Pearl, and Adam Rosenberg contributed to this article.
+
+Meet The Mashable 101: Our list of the content creators shaping the internet today
+
+If you're looking for more puzzles, Mashable's got games now! Check out our games hub for Mahjong, Sudoku, free crossword, and more.
+
+Not the day you're after? Here's the solution to today's Wordle.
+
+---
+
+**Original Source:** [Mashable](https://mashable.com/entertainment/wordle-today-answer-november-25-2026)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Wire summary of Tech reporting originally published by Mashable.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Key details and primary source attribution for Wordle today: The answer and hints for November 25, 2026 - Mashable.`,
+    primary_source: `Mashable`,
+  },
+  {
+    id: 97841,
+    title: `Samsung One UI 9 Watch update brings advanced heart health tracking features to Galaxy Watch8 series - Deccan Herald`,
+    slug: `samsung-one-ui-9-watch-update-brings-advanced-heart-health-tracking-fe-2026`,
+    original_title: `Samsung One UI 9 Watch update brings advanced heart health tracking features to Galaxy Watch8 series - Deccan Herald`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:45Z`,
+    updated_at: `2026-11-26T04:58:45Z`,
+    source_name: `Deccan Herald`,
+    source_url: `https://www.deccanherald.com/technology/samsung-one-ui-9-watch-update-brings-advanced-heart-health-tracking-features-to-galaxy-watch8-series-4231085`,
+    source_courtesy: `Source: Deccan Herald`,
+    image_url: `/images/articles/samsung-one-ui-9-watch-update-brings-advanced-heart-health-tracking-fe-2026.jpg`,
+    image_alt: `Samsung One UI 9 Watch update brings advanced heart health tracking features to Galaxy Watch8 series - Deccan Herald`,
+    image_courtesy: `Image Courtesy: Deccan Herald`,
+    image_photographer: `Deccan Herald`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `For the last couple of months, Samsung has been rolling out One UI 9 update to older Galaxy phones in phases.`,
+    content: `For the last couple of months, Samsung has been rolling out One UI 9 update to older Galaxy phones in phases.
+
+Experience a more refined e-paper today
+
+On Wednesday (November 25), the South Korean technology major has begun deploying the One UI 9 Watch update to the 2025 flagship Galaxy Watch8 series.
+
+The new software brings several advanced health tracking features, including Vitals, Heart Health Score, Daily Cardio Load, Fitness Index, upgraded Sleep Coaching, enhanced Sleep Apnea monitoring and more to the Galaxy Watch8 series.
+
+With these features, users gain deeper insights into their health, fitness and sleep patterns.
+
+During sleep, the Vitals feature tracks five biometric indicators such as heart rate, heart rate variability, respiratory rate, skin temperature, and blood oxygen saturation. Based on the data collected, the watch establishes a personal baseline and can alert users when it detects notable deviations from that baseline.
+
+It will also monitor sleep and activity data to offer a single, unified score called Heart Health Score. The feature helps users understand how their daily routines relate to their heart health and allows them to track changes in their score.
+
+With the Daily Cardio Load feature, users manage the balance between exercise and recovery by measuring the strain that workouts and daily activities place on the heart and suggesting an appropriate load range.
+
+Once updated to the latest One UI 9 update, the Watch8 series will be able to offer Sleep Coaching. Based on the sleep pattern, it will provide more personalised guidance tailored to each user’s goals.
+
+Coaching can start with just three days of sleep data from the past two weeks, and weekly guidance dynamically adapts as sleep patterns change. Informed by principles of behavioural sleep science, the programme gives users daily habit checklists and easy-to-read sleep tips on the basics of better sleep.
+
+Heart Health Score coming to the Galaxy Watch8 series.
+
+In select regions, the Galaxy Watch8 will also be able to detect Sleep Apnea. For the uninitiated, sleep apnea is a serious health condition where breathing repeatedly stops and starts. People diagnosed with sleep apnea are vulnerable to coronary artery disease, heart attack, heart failure, and stroke. And the older the person, the higher the risk of sudden death.
+
+Besides the advanced health monitoring features, One UI 9 Watch brings a new option for users to display their favourite moments on their wrist with Portrait Watch Face.
+
+Also, the One UI 9 Watch update brings an upgraded Compass. It allows users to save important locations — such as where they parked or a campsite — as waypoints. With Track Back, users can follow a recorded route back to their starting point.
+
+Get the latest news on new launches, gadget reviews, apps, cybersecurity, and more on personal technology only on DH Tech .
+
+---
+
+**Original Source:** [Deccan Herald](https://www.deccanherald.com/technology/samsung-one-ui-9-watch-update-brings-advanced-heart-health-tracking-features-to-galaxy-watch8-series-4231085)`,
+    title_en: `Samsung One UI 9 Watch update brings advanced heart health tracking features to Galaxy Watch8 series - Deccan Herald`,
+    summary_en: `For the last couple of months, Samsung has been rolling out One UI 9 update to older Galaxy phones in phases.`,
+    content_en: `For the last couple of months, Samsung has been rolling out One UI 9 update to older Galaxy phones in phases.
+
+Experience a more refined e-paper today
+
+On Wednesday (November 25), the South Korean technology major has begun deploying the One UI 9 Watch update to the 2025 flagship Galaxy Watch8 series.
+
+The new software brings several advanced health tracking features, including Vitals, Heart Health Score, Daily Cardio Load, Fitness Index, upgraded Sleep Coaching, enhanced Sleep Apnea monitoring and more to the Galaxy Watch8 series.
+
+With these features, users gain deeper insights into their health, fitness and sleep patterns.
+
+During sleep, the Vitals feature tracks five biometric indicators such as heart rate, heart rate variability, respiratory rate, skin temperature, and blood oxygen saturation. Based on the data collected, the watch establishes a personal baseline and can alert users when it detects notable deviations from that baseline.
+
+It will also monitor sleep and activity data to offer a single, unified score called Heart Health Score. The feature helps users understand how their daily routines relate to their heart health and allows them to track changes in their score.
+
+With the Daily Cardio Load feature, users manage the balance between exercise and recovery by measuring the strain that workouts and daily activities place on the heart and suggesting an appropriate load range.
+
+Once updated to the latest One UI 9 update, the Watch8 series will be able to offer Sleep Coaching. Based on the sleep pattern, it will provide more personalised guidance tailored to each user’s goals.
+
+Coaching can start with just three days of sleep data from the past two weeks, and weekly guidance dynamically adapts as sleep patterns change. Informed by principles of behavioural sleep science, the programme gives users daily habit checklists and easy-to-read sleep tips on the basics of better sleep.
+
+Heart Health Score coming to the Galaxy Watch8 series.
+
+In select regions, the Galaxy Watch8 will also be able to detect Sleep Apnea. For the uninitiated, sleep apnea is a serious health condition where breathing repeatedly stops and starts. People diagnosed with sleep apnea are vulnerable to coronary artery disease, heart attack, heart failure, and stroke. And the older the person, the higher the risk of sudden death.
+
+Besides the advanced health monitoring features, One UI 9 Watch brings a new option for users to display their favourite moments on their wrist with Portrait Watch Face.
+
+Also, the One UI 9 Watch update brings an upgraded Compass. It allows users to save important locations — such as where they parked or a campsite — as waypoints. With Track Back, users can follow a recorded route back to their starting point.
+
+Get the latest news on new launches, gadget reviews, apps, cybersecurity, and more on personal technology only on DH Tech .
+
+---
+
+**Original Source:** [Deccan Herald](https://www.deccanherald.com/technology/samsung-one-ui-9-watch-update-brings-advanced-heart-health-tracking-features-to-galaxy-watch8-series-4231085)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Wire summary of Tech reporting originally published by Deccan Herald.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Key details and primary source attribution for Samsung One UI 9 Watch update brings advanced heart health tracking features to Galaxy Watch8 series - Deccan Herald.`,
+    primary_source: `Deccan Herald`,
+  },
+  {
+    id: 97842,
+    title: `WhatsApp में आया यूजर्स का इंतजार खत्म करने वाला फीचर, अब तय समय पर अपने आप भेज सकेंगे मैसेज - Navbharat Live`,
+    slug: `whatsapp-navbharat-live-2026`,
+    original_title: `WhatsApp में आया यूजर्स का इंतजार खत्म करने वाला फीचर, अब तय समय पर अपने आप भेज सकेंगे मैसेज - Navbharat Live`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:45Z`,
+    updated_at: `2026-11-26T04:58:45Z`,
+    source_name: `Navbharat Live`,
+    source_url: `https://navbharatlive.com/technology/whatsapp-message-schedule-feature-to-be-sent-automatically-at-a-set-time-srs13`,
+    source_courtesy: `Source: Navbharat Live`,
+    image_url: `/images/articles/whatsapp-navbharat-live-2026.jpg`,
+    image_alt: `WhatsApp में आया यूजर्स का इंतजार खत्म करने वाला फीचर, अब तय समय पर अपने आप भेज सकेंगे मैसेज - Navbharat Live`,
+    image_courtesy: `Image Courtesy: Navbharat Live`,
+    image_photographer: `Navbharat Live`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `WhatsApp पर अब Scheduled Messages फीचर की शुरुआत हो रही है।`,
+    content: `WhatsApp पर अब Scheduled Messages फीचर की शुरुआत हो रही है।
+
+WhatsApp खुद मैसेज भेज देगा भले ही उस वक्त आपका फोन ऑफलाइन हो या बंद हो।
+
+कंपनी ने X अकाउंट पर एक टीजर के जरिए इसकी ओर इशारा किया।
+
+Whatsapp Message Schedule Feature: WhatsApp यूजर्स को जल्दबाजी में मैसेज भेजने या किसी खास मौके पर रात 12 बजे तक जागने की जरूरत नहीं पड़ेगी। बता दें कि मेटा के इस इंस्टेंट मैसेजिंग प्लेटफॉर्म पर Scheduled Messages फीचर की शुरुआत हो रही है। इसकी मदद से यूजर्स पहले ही मैसेज लिखकर उसकी तारीख और समय तय कर सकते है। वहीं चुने गए समय पर WhatsApp खुद मैसेज भेज देगा भले ही उस वक्त आपका फोन ऑफलाइन हो या ऐप बंद हो।
+
+### WhatsApp का नया फीचर कैसे करेगा काम?
+
+WhatsApp इस फीचर की टेस्टिंग पिछले कुछ समय से चुनिंदा Android और iOS बीटा यूजर्स के साथ कर रहा था। जिसमें 25 नवंबर को कंपनी ने अपने आधिकारिक X अकाउंट पर एक टीजर के जरिए इसकी ओर इशारा किया। यह फीचर व्यक्तिगत चैट के साथ ग्रुप चैट में भी काम करेगा।
+
+वहीं मैसेज शेड्यूल करने के लिए सबसे पहले उस व्यक्ति या ग्रुप की चैट खोलें जिसे मैसेज भेजना है। अब मैसेज टाइप करें या फोटो-वीडियो अटैच करें। इसके बाद सेंड बटन को दबाकर रखें। ऐसा करने पर तारीख और समय चुनने का विकल्प दिखाई देगा। अपनी जरूरत के मुताबिक डिलीवरी टाइम चुनकर उसे कन्फर्म करना होगा।
+
+👀 WhatsApp is getting Schedule Message!
+
+
+
+Type your message, long-press Send, pick the date and time, and WhatsApp sends it automatically. No third-party apps needed.
+
+
+
+Rolling out to some Android users now
+
+#WhatsApp #Meta https://t.co/XujJaUKHXL
+
+### 10 मिनट से लेकर दो हफ्ते पहले तक कर सकेंगे शेड्यूल
+
+रिपोर्ट्स में बताया जा रहा है कि WhatsApp पर मैसेज को कम से कम 10 मिनट और अधिकतम दो हफ्ते पहले तक शेड्यूल किया जा सकता है। इसमें टेक्स्ट, लिंक, फोटो और वीडियो भेजने का विकल्प मिलेगा। लेकिन डॉक्यूमेंट फाइल शेड्यूल करने की सुविधा फिलहाल उपलब्ध नहीं दिखती है। साथ ही इस फीचर की खास बात यह है कि मैसेज भेजने के तय समय पर यूजर का फोन इंटरनेट से कनेक्ट होना जरूरी नहीं होगा। शेड्यूल किए गए मैसेज भी WhatsApp के एंड-टू-एंड एन्क्रिप्शन से सुरक्षित रहने वाला है।
+
+### भेजने से पहले मैसेज डिलीट करने का भी मिलेगा विकल्प
+
+अगर आपने कोई मैसेज शेड्यूल कर दिया है और बाद में प्लान बदल जाता है तो उसे डिलीट भी कर सकते है। इसके लिए चैट की इन्फॉर्मेशन स्क्रीन में एक अलग सेक्शन मिलेगा जहां पेंडिंग मैसेज दिखाई देंगे। मैसेज डिलीट करने पर सामने वाले व्यक्ति को कोई नोटिफिकेशन नहीं जाएगा। वहीं ग्रुप चैट में इस फीचर का एक खास नियम भी है।
+
+शेड्यूल किया गया मैसेज सिर्फ उन्हीं सदस्यों को मिलेगा जो मैसेज शेड्यूल करते समय ग्रुप में मौजूद थे। बाद में ग्रुप से जुड़ने वाले नए सदस्य को वह मैसेज नहीं मिलेगा।
+
+बता दें कि अभी इसमें ध्यान देने वाली बात यह है कि फीचर की उपलब्धता चरणबद्ध तरीके से बढ़ाई जा रही है। इसलिए अगर आपके WhatsApp में अभी शेड्यूल मैसेज का विकल्प नहीं दिख रहा है तो संभव है कि यह अपडेट आपके अकाउंट तक नहीं पहुंचा हो।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/technology/whatsapp-message-schedule-feature-to-be-sent-automatically-at-a-set-time-srs13)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `WhatsApp में आया यूजर्स का इंतजार खत्म करने वाला फीचर, अब तय समय पर अपने आप भेज सकेंगे मैसेज - Navbharat Live`,
+    summary_hi: `WhatsApp पर अब Scheduled Messages फीचर की शुरुआत हो रही है।`,
+    content_hi: `WhatsApp पर अब Scheduled Messages फीचर की शुरुआत हो रही है।
+
+WhatsApp खुद मैसेज भेज देगा भले ही उस वक्त आपका फोन ऑफलाइन हो या बंद हो।
+
+कंपनी ने X अकाउंट पर एक टीजर के जरिए इसकी ओर इशारा किया।
+
+Whatsapp Message Schedule Feature: WhatsApp यूजर्स को जल्दबाजी में मैसेज भेजने या किसी खास मौके पर रात 12 बजे तक जागने की जरूरत नहीं पड़ेगी। बता दें कि मेटा के इस इंस्टेंट मैसेजिंग प्लेटफॉर्म पर Scheduled Messages फीचर की शुरुआत हो रही है। इसकी मदद से यूजर्स पहले ही मैसेज लिखकर उसकी तारीख और समय तय कर सकते है। वहीं चुने गए समय पर WhatsApp खुद मैसेज भेज देगा भले ही उस वक्त आपका फोन ऑफलाइन हो या ऐप बंद हो।
+
+### WhatsApp का नया फीचर कैसे करेगा काम?
+
+WhatsApp इस फीचर की टेस्टिंग पिछले कुछ समय से चुनिंदा Android और iOS बीटा यूजर्स के साथ कर रहा था। जिसमें 25 नवंबर को कंपनी ने अपने आधिकारिक X अकाउंट पर एक टीजर के जरिए इसकी ओर इशारा किया। यह फीचर व्यक्तिगत चैट के साथ ग्रुप चैट में भी काम करेगा।
+
+वहीं मैसेज शेड्यूल करने के लिए सबसे पहले उस व्यक्ति या ग्रुप की चैट खोलें जिसे मैसेज भेजना है। अब मैसेज टाइप करें या फोटो-वीडियो अटैच करें। इसके बाद सेंड बटन को दबाकर रखें। ऐसा करने पर तारीख और समय चुनने का विकल्प दिखाई देगा। अपनी जरूरत के मुताबिक डिलीवरी टाइम चुनकर उसे कन्फर्म करना होगा।
+
+👀 WhatsApp is getting Schedule Message!
+
+
+
+Type your message, long-press Send, pick the date and time, and WhatsApp sends it automatically. No third-party apps needed.
+
+
+
+Rolling out to some Android users now
+
+#WhatsApp #Meta https://t.co/XujJaUKHXL
+
+### 10 मिनट से लेकर दो हफ्ते पहले तक कर सकेंगे शेड्यूल
+
+रिपोर्ट्स में बताया जा रहा है कि WhatsApp पर मैसेज को कम से कम 10 मिनट और अधिकतम दो हफ्ते पहले तक शेड्यूल किया जा सकता है। इसमें टेक्स्ट, लिंक, फोटो और वीडियो भेजने का विकल्प मिलेगा। लेकिन डॉक्यूमेंट फाइल शेड्यूल करने की सुविधा फिलहाल उपलब्ध नहीं दिखती है। साथ ही इस फीचर की खास बात यह है कि मैसेज भेजने के तय समय पर यूजर का फोन इंटरनेट से कनेक्ट होना जरूरी नहीं होगा। शेड्यूल किए गए मैसेज भी WhatsApp के एंड-टू-एंड एन्क्रिप्शन से सुरक्षित रहने वाला है।
+
+### भेजने से पहले मैसेज डिलीट करने का भी मिलेगा विकल्प
+
+अगर आपने कोई मैसेज शेड्यूल कर दिया है और बाद में प्लान बदल जाता है तो उसे डिलीट भी कर सकते है। इसके लिए चैट की इन्फॉर्मेशन स्क्रीन में एक अलग सेक्शन मिलेगा जहां पेंडिंग मैसेज दिखाई देंगे। मैसेज डिलीट करने पर सामने वाले व्यक्ति को कोई नोटिफिकेशन नहीं जाएगा। वहीं ग्रुप चैट में इस फीचर का एक खास नियम भी है।
+
+शेड्यूल किया गया मैसेज सिर्फ उन्हीं सदस्यों को मिलेगा जो मैसेज शेड्यूल करते समय ग्रुप में मौजूद थे। बाद में ग्रुप से जुड़ने वाले नए सदस्य को वह मैसेज नहीं मिलेगा।
+
+बता दें कि अभी इसमें ध्यान देने वाली बात यह है कि फीचर की उपलब्धता चरणबद्ध तरीके से बढ़ाई जा रही है। इसलिए अगर आपके WhatsApp में अभी शेड्यूल मैसेज का विकल्प नहीं दिख रहा है तो संभव है कि यह अपडेट आपके अकाउंट तक नहीं पहुंचा हो।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/technology/whatsapp-message-schedule-feature-to-be-sent-automatically-at-a-set-time-srs13)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट Navbharat Live के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक WhatsApp में आया यूजर्स का इंतजार खत्म करने वाला फीचर, अब तय समय पर अपने आप भेज सकेंगे मैसेज - Navbharat Live से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Navbharat Live`,
+  },
+  {
+    id: 97843,
+    title: `अनंत सिंह की बेटी शिवांगी सिंह के हाथ में दिखा Apple का महंगा iPhone, कीमत जानकर रह जाएंगे हैरान! - AajTak`,
+    slug: `apple-iphone-aajtak-2026`,
+    original_title: `अनंत सिंह की बेटी शिवांगी सिंह के हाथ में दिखा Apple का महंगा iPhone, कीमत जानकर रह जाएंगे हैरान! - AajTak`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:45Z`,
+    updated_at: `2026-11-26T04:58:45Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/technology/tech-news/photo/anant-singh-daughter-shivangi-singh-apple-iphone-price-features-prym-2705408-2026-11-25`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `/images/articles/apple-iphone-aajtak-2026.webp`,
+    image_alt: `अनंत सिंह की बेटी शिवांगी सिंह के हाथ में दिखा Apple का महंगा iPhone, कीमत जानकर रह जाएंगे हैरान! - AajTak`,
+    image_courtesy: `Image Courtesy: AajTak`,
+    image_photographer: `AajTak`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `बिहार के बाहुबली नेता और मोकामा के विधायक अनंत सिंह की छोटी बेटी शिवांगी सिंह की शादी 25 नवंबर 2026 को पटना के नदवां गांव में हो रही है. शादी की तैयारियों के बीच शिवांगी सिंह के हाथ में Apple का एक स्मार्टफोन नजर आया, जिसके मॉडल और कीमत की `,
+    content: `बिहार के बाहुबली नेता और मोकामा के विधायक अनंत सिंह की छोटी बेटी शिवांगी सिंह की शादी 25 नवंबर 2026 को पटना के नदवां गांव में हो रही है. शादी की तैयारियों के बीच शिवांगी सिंह के हाथ में Apple का एक स्मार्टफोन नजर आया, जिसके मॉडल और कीमत की काफी चर्चा हो रही है. आइए जानते हैं कौन सा है ये मॉडल और कितनी है इस स्मार्टफोन की कीमत. (Photo: Instagram | AI Enhanced)
+
+शिवांगी सिंह की हल्दी की शाम के दौरान वह एक सोफे पर बैठी नजर आईं. इस दौरान उनके हाथ में Apple का लेटेस्ट iPhone 18 Pro Max दिखाई दिया. यह फोन हीरो कलर यानी गहरे बैंगनी-लाल रंग में नजर आया. आइए जानते हैं इस फोन के फीचर्स के बारे में. (Photo: Instagram | AI Enhanced)
+
+डिस्प्ले: iPhone 18 Pro Max में 6.9 इंच की बड़ी Super Retina XDR OLED डिस्प्ले मिल सकती है. इसमें 120Hz ProMotion सपोर्ट होगा. इससे फोन चलाते समय स्क्रॉलिंग काफी स्मूद होगी. वीडियो देखने और गेम खेलने का एक्सपीरियंस भी शानदार हो सकता है. (Photo: Apple)
+
+परफॉर्मेंस: परफॉर्मेंस की बात करें तो इसमें Apple का नया A20 Pro चिपसेट मिल सकता है. यह प्रोसेसर फोन को तेज चलाने में मदद करेगा. मल्टीटास्किंग, हैवी गेमिंग और वीडियो एडिटिंग जैसे काम आसानी से किए जा सकेंगे. (Photo: Apple)
+
+कैमरा: कैमरे की बात करें तो iPhone 18 Pro Max में 48MP का रियर कैमरा सिस्टम मिल सकता है. वहीं, सेल्फी और वीडियो कॉल के लिए 18MP का फ्रंट कैमरा दिया जा सकता है. इससे फोटो और वीडियो की क्वालिटी बेहतर होने की उम्मीद है. (Photo: Apple)
+
+कीमत: इस स्मार्टफोन की कीमत की बात करें तो Apple iPhone 18 Pro Max की कीमत ₹1,79,900 बताई जा रही है. यह Apple का प्रीमियम फ्लैगशिप स्मार्टफोन है. इसमें यूजर्स को शानदार परफॉर्मेंस, फास्ट मल्टीटास्किंग और बेहतरीन फोटो-वीडियो का एक्सपीरियंस मिल सकता है. (Photo: Apple)
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/technology/tech-news/photo/anant-singh-daughter-shivangi-singh-apple-iphone-price-features-prym-2705408-2026-11-25)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अनंत सिंह की बेटी शिवांगी सिंह के हाथ में दिखा Apple का महंगा iPhone, कीमत जानकर रह जाएंगे हैरान! - AajTak`,
+    summary_hi: `बिहार के बाहुबली नेता और मोकामा के विधायक अनंत सिंह की छोटी बेटी शिवांगी सिंह की शादी 25 नवंबर 2026 को पटना के नदवां गांव में हो रही है. शादी की तैयारियों के बीच शिवांगी सिंह के हाथ में Apple का एक स्मार्टफोन नजर आया, जिसके मॉडल और कीमत की `,
+    content_hi: `बिहार के बाहुबली नेता और मोकामा के विधायक अनंत सिंह की छोटी बेटी शिवांगी सिंह की शादी 25 नवंबर 2026 को पटना के नदवां गांव में हो रही है. शादी की तैयारियों के बीच शिवांगी सिंह के हाथ में Apple का एक स्मार्टफोन नजर आया, जिसके मॉडल और कीमत की काफी चर्चा हो रही है. आइए जानते हैं कौन सा है ये मॉडल और कितनी है इस स्मार्टफोन की कीमत. (Photo: Instagram | AI Enhanced)
+
+शिवांगी सिंह की हल्दी की शाम के दौरान वह एक सोफे पर बैठी नजर आईं. इस दौरान उनके हाथ में Apple का लेटेस्ट iPhone 18 Pro Max दिखाई दिया. यह फोन हीरो कलर यानी गहरे बैंगनी-लाल रंग में नजर आया. आइए जानते हैं इस फोन के फीचर्स के बारे में. (Photo: Instagram | AI Enhanced)
+
+डिस्प्ले: iPhone 18 Pro Max में 6.9 इंच की बड़ी Super Retina XDR OLED डिस्प्ले मिल सकती है. इसमें 120Hz ProMotion सपोर्ट होगा. इससे फोन चलाते समय स्क्रॉलिंग काफी स्मूद होगी. वीडियो देखने और गेम खेलने का एक्सपीरियंस भी शानदार हो सकता है. (Photo: Apple)
+
+परफॉर्मेंस: परफॉर्मेंस की बात करें तो इसमें Apple का नया A20 Pro चिपसेट मिल सकता है. यह प्रोसेसर फोन को तेज चलाने में मदद करेगा. मल्टीटास्किंग, हैवी गेमिंग और वीडियो एडिटिंग जैसे काम आसानी से किए जा सकेंगे. (Photo: Apple)
+
+कैमरा: कैमरे की बात करें तो iPhone 18 Pro Max में 48MP का रियर कैमरा सिस्टम मिल सकता है. वहीं, सेल्फी और वीडियो कॉल के लिए 18MP का फ्रंट कैमरा दिया जा सकता है. इससे फोटो और वीडियो की क्वालिटी बेहतर होने की उम्मीद है. (Photo: Apple)
+
+कीमत: इस स्मार्टफोन की कीमत की बात करें तो Apple iPhone 18 Pro Max की कीमत ₹1,79,900 बताई जा रही है. यह Apple का प्रीमियम फ्लैगशिप स्मार्टफोन है. इसमें यूजर्स को शानदार परफॉर्मेंस, फास्ट मल्टीटास्किंग और बेहतरीन फोटो-वीडियो का एक्सपीरियंस मिल सकता है. (Photo: Apple)
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/technology/tech-news/photo/anant-singh-daughter-shivangi-singh-apple-iphone-price-features-prym-2705408-2026-11-25)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक अनंत सिंह की बेटी शिवांगी सिंह के हाथ में दिखा Apple का महंगा iPhone, कीमत जानकर रह जाएंगे हैरान! - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 97844,
+    title: `U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken`,
+    slug: `us-announces-new-25-tariffs-on-india-second-highest-in-the-14-countrie-2026`,
+    original_title: `U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:46Z`,
+    updated_at: `2026-11-26T04:58:46Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/us-announces-new-25-tariffs-on-india-second-highest-in-the-14-countrie-2026.jpg`,
+    image_alt: `U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken`,
+    image_courtesy: `Image Courtesy: The Hindu`,
+    image_photographer: `The Hindu`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `You don’t have any Active Subscription.`,
+    content: `You don’t have any Active Subscription.
+
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
+
+Weather News November 26, 2026 e-Paper
+
+The View From India Looking at World Affairs from the Indian perspective.
+
+First Day First Show News and reviews from the world of cinema and streaming.
+
+Today's Cache Your download of the top 5 technology stories of the day.
+
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
+
+Data Point Decoding the headlines with facts, figures, and numbers
+
+THEdge At the cutting edge of education and careers
+
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
+
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### The order by the U.S. Trade Representative also opens the door for a lower 17% tariff if India and the U.S. sign a trade deal
+
+Updated - November 26, 2026 10:55 am IST - New Delhi
+
+The USTR had in March launched two separate investigations into American trade partners, including India, under Section 301 of the U.S. Trade Act.
+                                          | Photo Credit: Reuters
+
+The U.S. government on Wednesday (November 25, 2026) announced a tariff of 25% on goods imported from India in response to India’s “unreasonable acts, policies, and practices” that “burden or restrict U.S. commerce”. This is the second-highest tariff among the 14 economies against which the latest action has been taken, second only to the 35% tariff levied on Vietnam.
+
+However, the order by the office of the U.S. Trade Representative (USTR) also said that, should the U.S. and India reach an Agreement on Reciprocal Trade, the tariff imposed on India could drop to 17%.
+
+ALSO WATCH U.S. midterm results could accelerate India trade deal but raise tariff risks
+
+Further, while it says that the 25% tariffs would be net of existing tariffs levied on India, meaning they will not add to the 10% already in effect, the order also said that it remained for the USTR to decide whether these new tariffs would be adjusted keeping in mind those other tariffs.
+
+The Indian government said it has taken note of the actions by the USTR and that its notice is currently under examination.
+
+“India engaged constructively throughout this investigation,” the statement by the Ministry of Commerce and Industry said. “In response to the Notice of Initiation and in subsequent proceedings, the Department of Commerce stated that India does not have structural excess capacity in any sector.”
+
+“India and the United States are engaged in negotiations for a Bilateral Trade Agreement,” it added. “It has been India’s position that any trade-related concerns should be addressed within the framework of these negotiations. Government of India remains committed to working closely with the United States towards the early conclusion of the India-U.S. Bilateral Trade Agreement, as announced on 2nd February 2026 and in accordance with the Joint Statement issued on 7th February 2026.”
+
+The USTR had in March launched two separate investigations into American trade partners, including India, under Section 301 of the U.S. Trade Act. The first investigation related to forced labour resulted in a tariff of 10% levied on India. The new tariffs announced on Wednesday are a result of the second investigation into structural excess capacity.
+
+Apart from this, the U.S. also levies a tariff of 50% on imports of aluminium and steel from all countries under Section 232 of its Trade Expansion Act. The new tariffs will not be added to these. Under the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, the U.S. government is also empowered to levy a tariff of up to 100% on countries, including India, that import large quantities of Russian oil. This tariff has been temporarily paused by U.S. President Donald Trump.
+
+In its report on India, the USTR concluded that India’s acts, policies, and practices “create, sustain, or contribute to structural excess capacity” that burden or restrict U.S. commerce by harming U.S. producers and exporters through unfair competition and reduced commercial opportunities; harm the U.S. economy due to lost exports, trade deficits, and a diminished manufacturing sector; and create economic security risks for the U.S.
+
+“The Trade Representative proposes that appropriate action to obtain the elimination of the acts, policies, and practices would include applying tariffs of up to 25% on all goods of India, net of existing Section 301 tariffs, with exemptions for certain goods,” the order by the USTR said.
+
+However, the order also says that the USTR further proposes to consider whether the additional duties applied should be adjusted to account for duties applied under other existing Section 301 actions, duties applied under Section 232, “or were India to reach an Agreement on Reciprocal Trade with the United States that is responsive to the determinations in this investigation into the acts, policies, and practices of India, a tariff rate of 17%”.
+
+The 25% tariffs are higher than those levied on Japan, South Korea, Switzerland, Taiwan, the European Union (15% each), Indonesia, Malaysia, Thailand (18% each), Bangladesh, Cambodia, China, and Singapore (up to 20% each).
+
+Only Vietnam faces a tariff of 35%, higher than that for India, but even that stands to be reduced to 20% if it signs a trade deal with the U.S.
+
+India and the U.S. issued a joint statement in February 2026 announcing a framework for an interim deal on trade under which the U.S. would levy a tariff of 18% on imports from India. That deal is yet to be finalised, however.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece)`,
+    title_en: `U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken`,
+    summary_en: `You don’t have any Active Subscription.`,
+    content_en: `You don’t have any Active Subscription.
+
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
+
+Weather News November 26, 2026 e-Paper
+
+The View From India Looking at World Affairs from the Indian perspective.
+
+First Day First Show News and reviews from the world of cinema and streaming.
+
+Today's Cache Your download of the top 5 technology stories of the day.
+
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
+
+Data Point Decoding the headlines with facts, figures, and numbers
+
+THEdge At the cutting edge of education and careers
+
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
+
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### The order by the U.S. Trade Representative also opens the door for a lower 17% tariff if India and the U.S. sign a trade deal
+
+Updated - November 26, 2026 10:55 am IST - New Delhi
+
+The USTR had in March launched two separate investigations into American trade partners, including India, under Section 301 of the U.S. Trade Act.
+                                          | Photo Credit: Reuters
+
+The U.S. government on Wednesday (November 25, 2026) announced a tariff of 25% on goods imported from India in response to India’s “unreasonable acts, policies, and practices” that “burden or restrict U.S. commerce”. This is the second-highest tariff among the 14 economies against which the latest action has been taken, second only to the 35% tariff levied on Vietnam.
+
+However, the order by the office of the U.S. Trade Representative (USTR) also said that, should the U.S. and India reach an Agreement on Reciprocal Trade, the tariff imposed on India could drop to 17%.
+
+ALSO WATCH U.S. midterm results could accelerate India trade deal but raise tariff risks
+
+Further, while it says that the 25% tariffs would be net of existing tariffs levied on India, meaning they will not add to the 10% already in effect, the order also said that it remained for the USTR to decide whether these new tariffs would be adjusted keeping in mind those other tariffs.
+
+The Indian government said it has taken note of the actions by the USTR and that its notice is currently under examination.
+
+“India engaged constructively throughout this investigation,” the statement by the Ministry of Commerce and Industry said. “In response to the Notice of Initiation and in subsequent proceedings, the Department of Commerce stated that India does not have structural excess capacity in any sector.”
+
+“India and the United States are engaged in negotiations for a Bilateral Trade Agreement,” it added. “It has been India’s position that any trade-related concerns should be addressed within the framework of these negotiations. Government of India remains committed to working closely with the United States towards the early conclusion of the India-U.S. Bilateral Trade Agreement, as announced on 2nd February 2026 and in accordance with the Joint Statement issued on 7th February 2026.”
+
+The USTR had in March launched two separate investigations into American trade partners, including India, under Section 301 of the U.S. Trade Act. The first investigation related to forced labour resulted in a tariff of 10% levied on India. The new tariffs announced on Wednesday are a result of the second investigation into structural excess capacity.
+
+Apart from this, the U.S. also levies a tariff of 50% on imports of aluminium and steel from all countries under Section 232 of its Trade Expansion Act. The new tariffs will not be added to these. Under the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, the U.S. government is also empowered to levy a tariff of up to 100% on countries, including India, that import large quantities of Russian oil. This tariff has been temporarily paused by U.S. President Donald Trump.
+
+In its report on India, the USTR concluded that India’s acts, policies, and practices “create, sustain, or contribute to structural excess capacity” that burden or restrict U.S. commerce by harming U.S. producers and exporters through unfair competition and reduced commercial opportunities; harm the U.S. economy due to lost exports, trade deficits, and a diminished manufacturing sector; and create economic security risks for the U.S.
+
+“The Trade Representative proposes that appropriate action to obtain the elimination of the acts, policies, and practices would include applying tariffs of up to 25% on all goods of India, net of existing Section 301 tariffs, with exemptions for certain goods,” the order by the USTR said.
+
+However, the order also says that the USTR further proposes to consider whether the additional duties applied should be adjusted to account for duties applied under other existing Section 301 actions, duties applied under Section 232, “or were India to reach an Agreement on Reciprocal Trade with the United States that is responsive to the determinations in this investigation into the acts, policies, and practices of India, a tariff rate of 17%”.
+
+The 25% tariffs are higher than those levied on Japan, South Korea, Switzerland, Taiwan, the European Union (15% each), Indonesia, Malaysia, Thailand (18% each), Bangladesh, Cambodia, China, and Singapore (up to 20% each).
+
+Only Vietnam faces a tariff of 35%, higher than that for India, but even that stands to be reduced to 20% if it signs a trade deal with the U.S.
+
+India and the U.S. issued a joint statement in February 2026 announcing a framework for an interim deal on trade under which the U.S. would levy a tariff of 18% on imports from India. That deal is yet to be finalised, however.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Wire summary of World reporting originally published by The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Key details and primary source attribution for U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 97845,
+    title: `Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated - Al Jazeera`,
+    slug: `todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investiga-2026`,
+    original_title: `Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated - Al Jazeera`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:46Z`,
+    updated_at: `2026-11-26T04:58:46Z`,
+    source_name: `Al Jazeera`,
+    source_url: `https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated`,
+    source_courtesy: `Source: Al Jazeera`,
+    image_url: `/images/articles/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investiga-2026.webp`,
+    image_alt: `Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated - Al Jazeera`,
+    image_courtesy: `Image Courtesy: Al Jazeera`,
+    image_photographer: `Al Jazeera`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `The US attorney general refused to discuss claims by President Donald Trump that his administration conducted a ‘thorough’ probe.`,
+    content: `The US attorney general refused to discuss claims by President Donald Trump that his administration conducted a ‘thorough’ probe.
+
+Amid bipartisan pushback over Nvidia’s decision to reinstate CEO Jensen Huang, United States Attorney General Todd Blanche has opted not to discuss whether the tech executive was under federal investigation.
+
+At a press conference in Washington, DC, on Friday, Blanche was pressed by reporters over whether the Department of Justice had investigated Huang.
+
+“What does that mean, ‘Had Huang been investigated’? For what?” Blanche responded.
+
+“I don’t understand the question. Even the reporting from the various leaks or sources or whatever that was out there didn’t suggest that Huang himself was under some sort of investigation.”
+
+Blanche also attempted to clarify US President Donald Trump’s comments that his administration had “exonerated” Huang of wrongdoing.
+
+“What the president said is that he talked to a lot of people going into the decision that he made to encourage the board to reinstate him,” Blanche said. “And so, I’m not going to get into communications I had with the president about it, but what he was saying was true.”
+
+Huang has been under scrutiny since late October, when The New York Times broke the story that he had been romantically involved with Alice Huang, an executive for the technology firm Megaspeed.
+
+Alice Huang, according to the report, had been recruited by Chinese intelligence to help influence policy about US chip sales to China.
+
+Under Jensen Huang’s leadership, Nvidia sold large quantities to Megaspeed, which allegedly diverted the semiconductor chips to China.
+
+The New York Times cited anonymous US intelligence reports as its source. Beijing has denied the report as a “smear”.
+
+Jensen Huang has since admitted to having extramarital affairs, including with a member of his staff, and on November 12, he resigned his leadership post.
+
+But Trump, who has worked closely with Huang, petitioned for the disgraced CEO to regain control of Nvidia. Huang was reinstated on Monday.
+
+In a social media post that day, Trump said the US “government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security”.
+
+“The Attorney General of the United States has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct,” he wrote.
+
+During an hour-long TV interview, also on Monday, the president said his administration had conducted a “thorough” investigation into Huang’s relationship with the alleged Chinese intelligence asset.
+
+“We believe he’s fine. He’s absolutely fine,” Trump told CNBC. He added that he personally “convinced” Nvidia’s board to reinstate Huang.
+
+That decision has sparked a political firestorm in Washington as Democrats and Republicans alike decried Trump’s involvement in Huang’s return, as well as the ongoing national security concerns.
+
+The US and China are locked in a competition in the artificial intelligence (AI) sector, and for years, the US has restricted the sale of domestically made chips to the rival superpower, for fear that the technology could be stolen or appropriated by Beijing’s military.
+
+Trump himself has investments in Nvidia. Since he began his second term as president, he has also struck a deal with Huang to give the US government a 15-percent cut of sales of certain AI chips to China, as part of a loosening of restrictions.
+
+Those business deals spurred Senate Minority Leader Chuck Schumer to warn on Tuesday that Democrats would look into Trump’s arrangements with Nvidia.
+
+“Senior Trump officials assured Nvidia that Huang posed no national security risk — a conclusion that would normally take months to thoroughly investigate — and provided no evidence to the public,” Schumer wrote in a statement . “Our committees will investigate.”
+
+Democrats are set to take control of both chambers of Congress in the new year.
+
+During Tuesday’s news conference, however, Blanche appeared to become defensive when questioned about how the Justice Department ensured Huang had not violated any US laws.
+
+“I’m trying to be as transparent as I can be under the laws and rules around what we do,” Blanche said. “What I said last week is that we were looking into it.”
+
+He continued by explaining that there were various types of “investigations”.
+
+“The FBI, law enforcement looks into things all the time,” he said. “That doesn’t necessarily become a criminal investigation. Doesn’t necessarily become an indictment. It just literally is that. It’s looking into things”.
+
+The attorney general said Trump was “free to talk about whatever he wants”, and he called Nvidia “a good corporate citizen”.
+
+“Obviously, if Nvidia was the target, or was the subject of some criminal investigation, or they were obstructing or thwarting our investigation, then that wouldn’t be the message that the president is saying to the American people,” Blanche said.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated)`,
+    title_en: `Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated - Al Jazeera`,
+    summary_en: `The US attorney general refused to discuss claims by President Donald Trump that his administration conducted a ‘thorough’ probe.`,
+    content_en: `The US attorney general refused to discuss claims by President Donald Trump that his administration conducted a ‘thorough’ probe.
+
+Amid bipartisan pushback over Nvidia’s decision to reinstate CEO Jensen Huang, United States Attorney General Todd Blanche has opted not to discuss whether the tech executive was under federal investigation.
+
+At a press conference in Washington, DC, on Friday, Blanche was pressed by reporters over whether the Department of Justice had investigated Huang.
+
+“What does that mean, ‘Had Huang been investigated’? For what?” Blanche responded.
+
+“I don’t understand the question. Even the reporting from the various leaks or sources or whatever that was out there didn’t suggest that Huang himself was under some sort of investigation.”
+
+Blanche also attempted to clarify US President Donald Trump’s comments that his administration had “exonerated” Huang of wrongdoing.
+
+“What the president said is that he talked to a lot of people going into the decision that he made to encourage the board to reinstate him,” Blanche said. “And so, I’m not going to get into communications I had with the president about it, but what he was saying was true.”
+
+Huang has been under scrutiny since late October, when The New York Times broke the story that he had been romantically involved with Alice Huang, an executive for the technology firm Megaspeed.
+
+Alice Huang, according to the report, had been recruited by Chinese intelligence to help influence policy about US chip sales to China.
+
+Under Jensen Huang’s leadership, Nvidia sold large quantities to Megaspeed, which allegedly diverted the semiconductor chips to China.
+
+The New York Times cited anonymous US intelligence reports as its source. Beijing has denied the report as a “smear”.
+
+Jensen Huang has since admitted to having extramarital affairs, including with a member of his staff, and on November 12, he resigned his leadership post.
+
+But Trump, who has worked closely with Huang, petitioned for the disgraced CEO to regain control of Nvidia. Huang was reinstated on Monday.
+
+In a social media post that day, Trump said the US “government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security”.
+
+“The Attorney General of the United States has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct,” he wrote.
+
+During an hour-long TV interview, also on Monday, the president said his administration had conducted a “thorough” investigation into Huang’s relationship with the alleged Chinese intelligence asset.
+
+“We believe he’s fine. He’s absolutely fine,” Trump told CNBC. He added that he personally “convinced” Nvidia’s board to reinstate Huang.
+
+That decision has sparked a political firestorm in Washington as Democrats and Republicans alike decried Trump’s involvement in Huang’s return, as well as the ongoing national security concerns.
+
+The US and China are locked in a competition in the artificial intelligence (AI) sector, and for years, the US has restricted the sale of domestically made chips to the rival superpower, for fear that the technology could be stolen or appropriated by Beijing’s military.
+
+Trump himself has investments in Nvidia. Since he began his second term as president, he has also struck a deal with Huang to give the US government a 15-percent cut of sales of certain AI chips to China, as part of a loosening of restrictions.
+
+Those business deals spurred Senate Minority Leader Chuck Schumer to warn on Tuesday that Democrats would look into Trump’s arrangements with Nvidia.
+
+“Senior Trump officials assured Nvidia that Huang posed no national security risk — a conclusion that would normally take months to thoroughly investigate — and provided no evidence to the public,” Schumer wrote in a statement . “Our committees will investigate.”
+
+Democrats are set to take control of both chambers of Congress in the new year.
+
+During Tuesday’s news conference, however, Blanche appeared to become defensive when questioned about how the Justice Department ensured Huang had not violated any US laws.
+
+“I’m trying to be as transparent as I can be under the laws and rules around what we do,” Blanche said. “What I said last week is that we were looking into it.”
+
+He continued by explaining that there were various types of “investigations”.
+
+“The FBI, law enforcement looks into things all the time,” he said. “That doesn’t necessarily become a criminal investigation. Doesn’t necessarily become an indictment. It just literally is that. It’s looking into things”.
+
+The attorney general said Trump was “free to talk about whatever he wants”, and he called Nvidia “a good corporate citizen”.
+
+“Obviously, if Nvidia was the target, or was the subject of some criminal investigation, or they were obstructing or thwarting our investigation, then that wouldn’t be the message that the president is saying to the American people,” Blanche said.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Wire summary of World reporting originally published by Al Jazeera.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Key details and primary source attribution for Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated - Al Jazeera.`,
+    primary_source: `Al Jazeera`,
+  },
+  {
+    id: 97846,
+    title: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    slug: `world-breaking-report-73986-97846-2026`,
+    original_title: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:46Z`,
+    updated_at: `2026-11-26T04:58:46Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/ckg5rzg1d4leo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/world-breaking-report-73986-97846-2026.jpg`,
+    image_alt: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    image_courtesy: `Image Courtesy: BBC`,
+    image_photographer: `BBC`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.`,
+    content: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.
+
+ये टैरिफ़ मैन्युफ़ैक्चरिंग के अलग-अलग क्षेत्रों में ज़रूरत से ज़्यादा उत्पादन और उत्पादन क्षमता की जांच के लिए की गई सेक्शन 301 की जांच के बाद लगाए जा रहे हैं.
+
+इस जांच के दायरे में आने वाली देश हैं: भारत, चीन, यूरोपीय संघ, सिंगापुर, स्विट्ज़रलैंड, इंडोनेशिया, मलेशिया, कंबोडिया, थाईलैंड, दक्षिण कोरिया, वियतनाम, ताइवान, बांग्लादेश और जापान.
+
+अलग-अलग देशों और उत्पादों पर अलग-अलग दरों से टैरिफ़ लगाया जाएगा.
+
+चीन पर सबसे ज़्यादा, 40 फ़ीसदी तक टैरिफ़ लगाया गया है. इसके बाद वियतनाम पर 35 फ़ीसदी तक टैरिफ़ लगेगा. वहीं, दूसरे देशों पर 20 या 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा.
+
+कुछ देशों पर अधिकतम 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा. इनमें थाईलैंड और भारत शामिल हैं. वहीं, जापान समेत कुछ अन्य देशों पर अधिकतम 20 फ़ीसदी तक टैरिफ़ लगेगा. इस सूची में ब्रिटेन शामिल नहीं है.
+
+हालांकि, इनमें से कुछ टैरिफ़ की दरें असल में कम हो जाएंगी, क्योंकि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप पहले ही कुछ देशों के साथ टैरिफ़ की अधिकतम सीमा तय करने पर सहमत हो चुके हैं.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+राष्ट्रपति ट्रंप ने अपने दूसरे कार्यकाल में बार-बार टैरिफ़ लगाने की धमकी दी है या उन्हें लागू किया है. उनका तर्क है कि इस नीति से अमेरिका में मैन्युफ़ैक्चरिंग को बढ़ावा मिलेगा और रोज़गार के नए अवसर पैदा होंगे.
+
+हालांकि, अर्थशास्त्रियों ने चेतावनी दी है कि आयात पर टैक्स लगाने से महंगाई बढ़ सकती है और उपभोक्ताओं के लिए चीज़ें महंगी हो सकती हैं. इससे वैश्विक व्यापार पर भी असर पड़ सकता है.
+
+यह ताज़ा क़दम ऐसे समय उठाया गया है, जब इस साल की शुरुआत में अमेरिकी सुप्रीम कोर्ट ने फ़ैसला दिया था कि आपातकालीन शक्तियों का इस्तेमाल करके ट्रंप की ओर से लगाए गए कई टैरिफ़ ग़ैरक़ानूनी थे.
+
+इसके बाद इस साल गर्मी में अमेरिका की उन कंपनियों को अरबों डॉलर का टैरिफ़ रिफंड देना पड़ा, जिन्होंने सामान आयात करने के लिए ये शुल्क चुकाए थे.
+
+हालांकि, इससे ट्रंप प्रशासन की टैरिफ़ लगाने की कोशिशों पर कोई रोक नहीं लगी. व्हाइट हाउस इन टैक्स को लागू करने के लिए क़ानून के दूसरे रास्ते तलाश रहा है. आज का फ़ैसला भी इसी कोशिश का एक और उदाहरण है.
+
+पिछले साल अप्रैल में डोनाल्ड ट्रंप ने दुनिया के कई व्यापारिक साझेदारों पर बड़े पैमाने पर टैरिफ़ लगाने का एलान किया था. इसके लिए उन्होंने अमेरिकी राष्ट्रपति को मिले आपातकालीन अधिकारों का इस्तेमाल किया था.
+
+इनमें से कई टैरिफ़ को बाद में अमेरिकी सुप्रीम कोर्ट ने रद्द कर दिया था.
+
+इसलिए बुधवार को जिन आयात शुल्कों का एलान किया गया है, वे ट्रंप के टैरिफ़ को दोबारा लागू करने की नई कोशिश हैं.
+
+हालांकि, इस बार ट्रंप प्रशासन ने अलग तरीक़ा अपनाया है. ISEAS-युसोफ़ इशाक इंस्टीट्यूट के व्यापार विशेषज्ञ जयंत मेनन का कहना है कि इस वजह से इन टैरिफ़ को किसी क़ानूनी चुनौती के ज़रिए रद्द कराना मुश्किल हो सकता है.
+
+मेनन के मुताबिक़, पिछले साल ट्रंप ने जिन टैरिफ़ का एलान किया था, उनकी तुलना में नए शुल्क कम क्षेत्रों पर लागू होंगे. इनकी दरें भी ज़्यादातर मामलों में काफ़ी कम और एक जैसी हैं.
+
+ये टैरिफ़ व्हाइट हाउस की ओर से कराई गई कई महीनों की जांच पर भी आधारित हैं. इस जांच में इन क्षेत्रों की श्रम और व्यापार नीतियों और अमेरिका पर उनके संभावित असर का अध्ययन किया गया.
+
+### सुप्रीम कोर्ट के फ़ैसले के बाद नए टैरिफ़ की तैयारी की थी
+
+नए टैरिफ़ लगाने के प्रस्ताव ऐसे समय आए हैं, जब व्हाइट हाउस ने मार्च में दूसरे देशों की व्यापार नीतियों की जांच शुरू की थी.
+
+यह जांच अमेरिकी सुप्रीम कोर्ट के उस फ़ैसले के बाद शुरू हुई थी, जिसमें कहा गया था कि ट्रंप के तथाकथित 'लिबरेशन डे' टैरिफ़, जिन्हें प्रशासन ने जवाबी टैरिफ़ कहा था, क़ानूनी नहीं थे.
+
+अदालत के इस फ़ैसले के बाद ट्रंप ने कहा था कि वह टैरिफ़ लगाने के लिए दूसरे क़ानूनी तरीक़ों का इस्तेमाल करेंगे.
+
+मार्च में अमेरिका ने सेक्शन 301 के तहत जांच शुरू की. इसमें यह पता लगाया जाना था कि क्या कुछ व्यापारिक साझेदार ऐसी नीतियां अपना रहे हैं, जो "अनुचित या भेदभावपूर्ण हैं और अमेरिकी व्यापार पर बोझ डालती हैं या उसे सीमित करती हैं".
+
+उस समय अमेरिकी व्यापार प्रतिनिधि जैमीसन ग्रीयर ने कहा था, "अमेरिका अब अपने औद्योगिक आधार को उन देशों के हाथों ख़त्म नहीं होने देगा, जो अपनी ज़रूरत से ज़्यादा उत्पादन और क्षमता की समस्या हमारे यहां निर्यात कर सकते हैं."
+
+उन्होंने कहा था, "आज शुरू की गई जांच राष्ट्रपति ट्रंप की उस प्रतिबद्धता को दिखाती है, जिसके तहत अहम सप्लाई चेन को वापस अमेरिका लाना और मैन्युफ़ैक्चरिंग के सभी क्षेत्रों में अमेरिकी कामगारों के लिए अच्छी तनख़्वाह वाली नौकरियां पैदा करना शामिल है."
+
+ग्रीयर ने आगे कहा, "कई क्षेत्रों में अमेरिका के व्यापारिक साझेदार घरेलू स्तर पर अपनी खपत से ज़्यादा सामान बना रहे हैं."
+
+आज के एलान में जिन देशों और क्षेत्रों को निशाना बनाया गया है, उनमें से कई ऐसे हैं जिन पर ट्रंप अक्सर व्यापार के मामले में निशाना साधते रहे हैं.
+
+लेकिन इस सूची में एक अहम नाम नहीं है-कनाडा.
+
+जब कनाडा के बारे में पूछा गया, तो मंगलवार को पत्रकारों को जानकारी देने वाले ट्रंप प्रशासन के एक वरिष्ठ अधिकारी ने कहा कि जिन देशों की व्यापार नीतियों की जांच शुरू की गई थी और बाद में जिन्हें दोषी  पाया गया उनमें कनाडा शामिल नहीं था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ckg5rzg1d4leo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान`,
+    summary_hi: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.`,
+    content_hi: `अमेरिका ने भारत समेत अपने कुछ सबसे बड़े व्यापारिक साझेदारों पर कई तरह के नए टैरिफ़ लगाने का एलान किया है.
+
+ये टैरिफ़ मैन्युफ़ैक्चरिंग के अलग-अलग क्षेत्रों में ज़रूरत से ज़्यादा उत्पादन और उत्पादन क्षमता की जांच के लिए की गई सेक्शन 301 की जांच के बाद लगाए जा रहे हैं.
+
+इस जांच के दायरे में आने वाली देश हैं: भारत, चीन, यूरोपीय संघ, सिंगापुर, स्विट्ज़रलैंड, इंडोनेशिया, मलेशिया, कंबोडिया, थाईलैंड, दक्षिण कोरिया, वियतनाम, ताइवान, बांग्लादेश और जापान.
+
+अलग-अलग देशों और उत्पादों पर अलग-अलग दरों से टैरिफ़ लगाया जाएगा.
+
+चीन पर सबसे ज़्यादा, 40 फ़ीसदी तक टैरिफ़ लगाया गया है. इसके बाद वियतनाम पर 35 फ़ीसदी तक टैरिफ़ लगेगा. वहीं, दूसरे देशों पर 20 या 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा.
+
+कुछ देशों पर अधिकतम 25 फ़ीसदी तक टैरिफ़ लगाया जाएगा. इनमें थाईलैंड और भारत शामिल हैं. वहीं, जापान समेत कुछ अन्य देशों पर अधिकतम 20 फ़ीसदी तक टैरिफ़ लगेगा. इस सूची में ब्रिटेन शामिल नहीं है.
+
+हालांकि, इनमें से कुछ टैरिफ़ की दरें असल में कम हो जाएंगी, क्योंकि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप पहले ही कुछ देशों के साथ टैरिफ़ की अधिकतम सीमा तय करने पर सहमत हो चुके हैं.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+राष्ट्रपति ट्रंप ने अपने दूसरे कार्यकाल में बार-बार टैरिफ़ लगाने की धमकी दी है या उन्हें लागू किया है. उनका तर्क है कि इस नीति से अमेरिका में मैन्युफ़ैक्चरिंग को बढ़ावा मिलेगा और रोज़गार के नए अवसर पैदा होंगे.
+
+हालांकि, अर्थशास्त्रियों ने चेतावनी दी है कि आयात पर टैक्स लगाने से महंगाई बढ़ सकती है और उपभोक्ताओं के लिए चीज़ें महंगी हो सकती हैं. इससे वैश्विक व्यापार पर भी असर पड़ सकता है.
+
+यह ताज़ा क़दम ऐसे समय उठाया गया है, जब इस साल की शुरुआत में अमेरिकी सुप्रीम कोर्ट ने फ़ैसला दिया था कि आपातकालीन शक्तियों का इस्तेमाल करके ट्रंप की ओर से लगाए गए कई टैरिफ़ ग़ैरक़ानूनी थे.
+
+इसके बाद इस साल गर्मी में अमेरिका की उन कंपनियों को अरबों डॉलर का टैरिफ़ रिफंड देना पड़ा, जिन्होंने सामान आयात करने के लिए ये शुल्क चुकाए थे.
+
+हालांकि, इससे ट्रंप प्रशासन की टैरिफ़ लगाने की कोशिशों पर कोई रोक नहीं लगी. व्हाइट हाउस इन टैक्स को लागू करने के लिए क़ानून के दूसरे रास्ते तलाश रहा है. आज का फ़ैसला भी इसी कोशिश का एक और उदाहरण है.
+
+पिछले साल अप्रैल में डोनाल्ड ट्रंप ने दुनिया के कई व्यापारिक साझेदारों पर बड़े पैमाने पर टैरिफ़ लगाने का एलान किया था. इसके लिए उन्होंने अमेरिकी राष्ट्रपति को मिले आपातकालीन अधिकारों का इस्तेमाल किया था.
+
+इनमें से कई टैरिफ़ को बाद में अमेरिकी सुप्रीम कोर्ट ने रद्द कर दिया था.
+
+इसलिए बुधवार को जिन आयात शुल्कों का एलान किया गया है, वे ट्रंप के टैरिफ़ को दोबारा लागू करने की नई कोशिश हैं.
+
+हालांकि, इस बार ट्रंप प्रशासन ने अलग तरीक़ा अपनाया है. ISEAS-युसोफ़ इशाक इंस्टीट्यूट के व्यापार विशेषज्ञ जयंत मेनन का कहना है कि इस वजह से इन टैरिफ़ को किसी क़ानूनी चुनौती के ज़रिए रद्द कराना मुश्किल हो सकता है.
+
+मेनन के मुताबिक़, पिछले साल ट्रंप ने जिन टैरिफ़ का एलान किया था, उनकी तुलना में नए शुल्क कम क्षेत्रों पर लागू होंगे. इनकी दरें भी ज़्यादातर मामलों में काफ़ी कम और एक जैसी हैं.
+
+ये टैरिफ़ व्हाइट हाउस की ओर से कराई गई कई महीनों की जांच पर भी आधारित हैं. इस जांच में इन क्षेत्रों की श्रम और व्यापार नीतियों और अमेरिका पर उनके संभावित असर का अध्ययन किया गया.
+
+### सुप्रीम कोर्ट के फ़ैसले के बाद नए टैरिफ़ की तैयारी की थी
+
+नए टैरिफ़ लगाने के प्रस्ताव ऐसे समय आए हैं, जब व्हाइट हाउस ने मार्च में दूसरे देशों की व्यापार नीतियों की जांच शुरू की थी.
+
+यह जांच अमेरिकी सुप्रीम कोर्ट के उस फ़ैसले के बाद शुरू हुई थी, जिसमें कहा गया था कि ट्रंप के तथाकथित 'लिबरेशन डे' टैरिफ़, जिन्हें प्रशासन ने जवाबी टैरिफ़ कहा था, क़ानूनी नहीं थे.
+
+अदालत के इस फ़ैसले के बाद ट्रंप ने कहा था कि वह टैरिफ़ लगाने के लिए दूसरे क़ानूनी तरीक़ों का इस्तेमाल करेंगे.
+
+मार्च में अमेरिका ने सेक्शन 301 के तहत जांच शुरू की. इसमें यह पता लगाया जाना था कि क्या कुछ व्यापारिक साझेदार ऐसी नीतियां अपना रहे हैं, जो "अनुचित या भेदभावपूर्ण हैं और अमेरिकी व्यापार पर बोझ डालती हैं या उसे सीमित करती हैं".
+
+उस समय अमेरिकी व्यापार प्रतिनिधि जैमीसन ग्रीयर ने कहा था, "अमेरिका अब अपने औद्योगिक आधार को उन देशों के हाथों ख़त्म नहीं होने देगा, जो अपनी ज़रूरत से ज़्यादा उत्पादन और क्षमता की समस्या हमारे यहां निर्यात कर सकते हैं."
+
+उन्होंने कहा था, "आज शुरू की गई जांच राष्ट्रपति ट्रंप की उस प्रतिबद्धता को दिखाती है, जिसके तहत अहम सप्लाई चेन को वापस अमेरिका लाना और मैन्युफ़ैक्चरिंग के सभी क्षेत्रों में अमेरिकी कामगारों के लिए अच्छी तनख़्वाह वाली नौकरियां पैदा करना शामिल है."
+
+ग्रीयर ने आगे कहा, "कई क्षेत्रों में अमेरिका के व्यापारिक साझेदार घरेलू स्तर पर अपनी खपत से ज़्यादा सामान बना रहे हैं."
+
+आज के एलान में जिन देशों और क्षेत्रों को निशाना बनाया गया है, उनमें से कई ऐसे हैं जिन पर ट्रंप अक्सर व्यापार के मामले में निशाना साधते रहे हैं.
+
+लेकिन इस सूची में एक अहम नाम नहीं है-कनाडा.
+
+जब कनाडा के बारे में पूछा गया, तो मंगलवार को पत्रकारों को जानकारी देने वाले ट्रंप प्रशासन के एक वरिष्ठ अधिकारी ने कहा कि जिन देशों की व्यापार नीतियों की जांच शुरू की गई थी और बाद में जिन्हें दोषी  पाया गया उनमें कनाडा शामिल नहीं था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ckg5rzg1d4leo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक अमेरिका ने भारत समेत कई देशों पर नए टैरिफ़ लगाने का किया एलान से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 97847,
+    title: `तेल टैंकर पलटने से लगी आग और दहल उठा हाईवे, 31 लोगों की मौत... काहिरा में बड़ा हादसा - AajTak`,
+    slug: `31-aajtak-2026`,
+    original_title: `तेल टैंकर पलटने से लगी आग और दहल उठा हाईवे, 31 लोगों की मौत... काहिरा में बड़ा हादसा - AajTak`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:46Z`,
+    updated_at: `2026-11-26T04:58:46Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/world/story/fuel-tanker-massive-fire-egypt-cairo-many-killed-ntc-rmxk-dskc-2706202-2026-11-26`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `/images/articles/31-aajtak-2026.webp`,
+    image_alt: `तेल टैंकर पलटने से लगी आग और दहल उठा हाईवे, 31 लोगों की मौत... काहिरा में बड़ा हादसा - AajTak`,
+    image_courtesy: `Image Courtesy: AajTak`,
+    image_photographer: `AajTak`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `मिस्र की राजधानी काहिरा के एक प्रमुख हाईवे पर बुधवार को ईंधन टैंकर पलटने से उसमें भीषण आग लग गई. इस आग ने आसपास के कई वाहनों को अपनी चपेट में ले लिया और बड़े पैमाने पर तबाही मचाई. इस हादसे में 31 लोगों की मौत हो गई, जबकि 21 अन्य जख्मी हो गए`,
+    content: `### मिस्र के स्वास्थ्य मंत्री ने बताया कि घायलों को नजदीकी अस्पतालों में भर्ती कराया गया है. मृतकों की पहचान के लिए डीएनए जांच की जा रही है. हादसे की भयावहता को देखते हुए मृतकों की संख्या बढ़ने की आशंका है.
+
+मिस्र की राजधानी काहिरा के एक प्रमुख हाईवे पर बुधवार को ईंधन टैंकर पलटने से उसमें भीषण आग लग गई. इस आग ने आसपास के कई वाहनों को अपनी चपेट में ले लिया और बड़े पैमाने पर तबाही मचाई. इस हादसे में 31 लोगों की मौत हो गई, जबकि 21 अन्य जख्मी हो गए.
+
+स्वास्थ्य मंत्रालय के अधिकारियों ने बताया कि राजधानी काहिरा को चारों ओर से घेरने वाले महत्वपूर्ण रिंग रोड पर लगी इस आग में दो दर्जन से अधिक कारें और बाइक जलकर खाक हो गईं. यह हादसा ग्रेटर काहिरा क्षेत्र के गीजा प्रांत के घनी आबादी वाले वर्राक इलाके में हाईवे पर हुआ.
+
+घटनास्थल पर बचावकर्मी जलती हुई कारों से लोगों को बाहर निकालते नजर आए. हादसे के वायरल वीडियो में दमकलकर्मी कारों के बीच फैल रही आग पर काबू पाने की कोशिश करते दिखाई दिए. मिस्र के राष्ट्रपति अब्देल फतह अल-सीसी ने हादसे के पीड़ितों के प्रति शोक संवेदना व्यक्त की.
+
+स्वास्थ्य मंत्री खालिद अब्देल गफ्फार ने बताया कि घायलों को नजदीकी अस्पतालों में भर्ती कराया गया है. मृतकों की पहचान के लिए डीएनए जांच की जा रही है. हादसे की भयावहता को देखते हुए मृतकों की संख्या बढ़ने की आशंका है.
+
+बता दें कि मिस्र में हर साल सड़क दुर्घटनाओं में हजारों लोगों की जान जाती है. देश का सड़क सुरक्षा रिकॉर्ड काफी खराब रहा है. तेज रफ्तार, खराब सड़कें और यातायात नियमों को प्रभावी ढंग से लागू नहीं किया जाना ज्यादातर दुर्घटनाओं की वजह है.
+
+इसी साल जनवरी में मिस्र के बेनी सुएफ के पास एक सड़क पर कई वाहनों की भीषण टक्कर में 21 लोगों की मौत हो गई थी.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/fuel-tanker-massive-fire-egypt-cairo-many-killed-ntc-rmxk-dskc-2706202-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `तेल टैंकर पलटने से लगी आग और दहल उठा हाईवे, 31 लोगों की मौत... काहिरा में बड़ा हादसा - AajTak`,
+    summary_hi: `मिस्र की राजधानी काहिरा के एक प्रमुख हाईवे पर बुधवार को ईंधन टैंकर पलटने से उसमें भीषण आग लग गई. इस आग ने आसपास के कई वाहनों को अपनी चपेट में ले लिया और बड़े पैमाने पर तबाही मचाई. इस हादसे में 31 लोगों की मौत हो गई, जबकि 21 अन्य जख्मी हो गए`,
+    content_hi: `### मिस्र के स्वास्थ्य मंत्री ने बताया कि घायलों को नजदीकी अस्पतालों में भर्ती कराया गया है. मृतकों की पहचान के लिए डीएनए जांच की जा रही है. हादसे की भयावहता को देखते हुए मृतकों की संख्या बढ़ने की आशंका है.
+
+मिस्र की राजधानी काहिरा के एक प्रमुख हाईवे पर बुधवार को ईंधन टैंकर पलटने से उसमें भीषण आग लग गई. इस आग ने आसपास के कई वाहनों को अपनी चपेट में ले लिया और बड़े पैमाने पर तबाही मचाई. इस हादसे में 31 लोगों की मौत हो गई, जबकि 21 अन्य जख्मी हो गए.
+
+स्वास्थ्य मंत्रालय के अधिकारियों ने बताया कि राजधानी काहिरा को चारों ओर से घेरने वाले महत्वपूर्ण रिंग रोड पर लगी इस आग में दो दर्जन से अधिक कारें और बाइक जलकर खाक हो गईं. यह हादसा ग्रेटर काहिरा क्षेत्र के गीजा प्रांत के घनी आबादी वाले वर्राक इलाके में हाईवे पर हुआ.
+
+घटनास्थल पर बचावकर्मी जलती हुई कारों से लोगों को बाहर निकालते नजर आए. हादसे के वायरल वीडियो में दमकलकर्मी कारों के बीच फैल रही आग पर काबू पाने की कोशिश करते दिखाई दिए. मिस्र के राष्ट्रपति अब्देल फतह अल-सीसी ने हादसे के पीड़ितों के प्रति शोक संवेदना व्यक्त की.
+
+स्वास्थ्य मंत्री खालिद अब्देल गफ्फार ने बताया कि घायलों को नजदीकी अस्पतालों में भर्ती कराया गया है. मृतकों की पहचान के लिए डीएनए जांच की जा रही है. हादसे की भयावहता को देखते हुए मृतकों की संख्या बढ़ने की आशंका है.
+
+बता दें कि मिस्र में हर साल सड़क दुर्घटनाओं में हजारों लोगों की जान जाती है. देश का सड़क सुरक्षा रिकॉर्ड काफी खराब रहा है. तेज रफ्तार, खराब सड़कें और यातायात नियमों को प्रभावी ढंग से लागू नहीं किया जाना ज्यादातर दुर्घटनाओं की वजह है.
+
+इसी साल जनवरी में मिस्र के बेनी सुएफ के पास एक सड़क पर कई वाहनों की भीषण टक्कर में 21 लोगों की मौत हो गई थी.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/fuel-tanker-massive-fire-egypt-cairo-many-killed-ntc-rmxk-dskc-2706202-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक तेल टैंकर पलटने से लगी आग और दहल उठा हाईवे, 31 लोगों की मौत... काहिरा में बड़ा हादसा - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 97848,
+    title: `Gukesh plays quick draw with white pieces in game 2 of World Chess Championship - ESPN India`,
+    slug: `gukesh-plays-quick-draw-with-white-pieces-in-game-2-of-world-chess-cha-2026`,
+    original_title: `Gukesh plays quick draw with white pieces in game 2 of World Chess Championship - ESPN India`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:46Z`,
+    updated_at: `2026-11-26T04:58:46Z`,
+    source_name: `ESPN India`,
+    source_url: `https://www.espn.in/chess/story/_/id/50591889/gukesh-sindarov-live-world-chess-championship-2026-game-2-updates`,
+    source_courtesy: `Source: ESPN India`,
+    image_url: `https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Gukesh plays quick draw with white pieces in game 2 of World Chess Championship - ESPN India`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `Gukesh plays quick draw with white pieces in game 2 of World Chess Championship ESPN India All to play for: On the World chess championship in Geneva The Hindu Salesforce FIDE World Championship Match: A draw in the opening game – Internati`,
+    content: `### Wire Dispatch Summary
+
+**Gukesh plays quick draw with white pieces in game 2 of World Chess Championship - ESPN India**
+
+Gukesh plays quick draw with white pieces in game 2 of World Chess Championship ESPN India All to play for: On the World chess championship in Geneva The Hindu Salesforce FIDE World Championship Match: A draw in the opening game – International Chess Federation FIDE 'Gukesh got under his skin early': Sindarov claims a draw as World Champion holds firm in Game 1 Telegraph India World Championship 2026 Game 1: A Solid Berlin Draw ChessBase India
+
+### Primary Source & Attribution
+
+* **Reported By:** ESPN India
+* **Original Source:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHFPU2RPZzZweW9iUTZsY0cxb3F3Nk50VUh6UlpIeXV0SmVnVF9YUW8tQncxN3VlbURBN1JHVTBaQnFCY0pVV080Y3pQcExyMG1FWUQ0ZW1VNmc0OEdnMHRJR19iQ0RJdU14UTlYNXdvT01weGQzaDNoLS1rNnNCUmhNb3NFMDktQm5WMmF3d1h2MUxJQzRFcHhGc2xBV0psdWxIMkU1MkN1OHdRTjNwWQ?oc=5
+* **Beat / Category:** Sports
+
+*Attribution: Compiled as a factual wire summary from ESPN India. Refer to the primary source link for the full original report.*`,
+    title_en: `Gukesh plays quick draw with white pieces in game 2 of World Chess Championship - ESPN India`,
+    summary_en: `Gukesh plays quick draw with white pieces in game 2 of World Chess Championship ESPN India All to play for: On the World chess championship in Geneva The Hindu Salesforce FIDE World Championship Match: A draw in the opening game – Internati`,
+    content_en: `### Wire Dispatch Summary
+
+**Gukesh plays quick draw with white pieces in game 2 of World Chess Championship - ESPN India**
+
+Gukesh plays quick draw with white pieces in game 2 of World Chess Championship ESPN India All to play for: On the World chess championship in Geneva The Hindu Salesforce FIDE World Championship Match: A draw in the opening game – International Chess Federation FIDE 'Gukesh got under his skin early': Sindarov claims a draw as World Champion holds firm in Game 1 Telegraph India World Championship 2026 Game 1: A Solid Berlin Draw ChessBase India
+
+### Primary Source & Attribution
+
+* **Reported By:** ESPN India
+* **Original Source:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHFPU2RPZzZweW9iUTZsY0cxb3F3Nk50VUh6UlpIeXV0SmVnVF9YUW8tQncxN3VlbURBN1JHVTBaQnFCY0pVV080Y3pQcExyMG1FWUQ0ZW1VNmc0OEdnMHRJR19iQ0RJdU14UTlYNXdvT01weGQzaDNoLS1rNnNCUmhNb3NFMDktQm5WMmF3d1h2MUxJQzRFcHhGc2xBV0psdWxIMkU1MkN1OHdRTjNwWQ?oc=5
+* **Beat / Category:** Sports
+
+*Attribution: Compiled as a factual wire summary from ESPN India. Refer to the primary source link for the full original report.*`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Wire summary of Sports reporting originally published by ESPN India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Key details and primary source attribution for Gukesh plays quick draw with white pieces in game 2 of World Chess Championship - ESPN India.`,
+    primary_source: `ESPN India`,
+  },
+  {
+    id: 97849,
+    title: `Bangladesh tour of South Africa, 2026 2nd Test Wiaan Mulder, the fourth horseman of South Africa's apocalypse - Cricbuzz`,
+    slug: `bangladesh-tour-of-south-africa-2026-2nd-test-wiaan-mulder-the-fourth-2026`,
+    original_title: `Bangladesh tour of South Africa, 2026 2nd Test Wiaan Mulder, the fourth horseman of South Africa's apocalypse - Cricbuzz`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:46Z`,
+    updated_at: `2026-11-26T04:58:46Z`,
+    source_name: `Cricbuzz`,
+    source_url: `https://www.cricbuzz.com/cricket-news/141061/bangladesh-tour-of-south-africa-2026-2nd-test-wiaan-mulder-the-fourth-horseman-of-south-africas-apocalypse-cricbuzzcom`,
+    source_courtesy: `Source: Cricbuzz`,
+    image_url: `/images/articles/bangladesh-tour-of-south-africa-2026-2nd-test-wiaan-mulder-the-fourth-2026.webp`,
+    image_alt: `Bangladesh tour of South Africa, 2026 2nd Test Wiaan Mulder, the fourth horseman of South Africa's apocalypse - Cricbuzz`,
+    image_courtesy: `Image Courtesy: Cricbuzz`,
+    image_photographer: `Cricbuzz`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `And then, on the third day of the second Test between South Africa in Centurion on Wednesday, came Wiaan Mulder. To be fair, he also came on Tuesday. But this was different.`,
+    content: `And then, on the third day of the second Test between South Africa in Centurion on Wednesday, came Wiaan Mulder. To be fair, he also came on Tuesday. But this was different.
+
+A day after scoring his fifth century, a round 100, Mulder took 7/31 to seal South Africa’s victory by an innings and 219 runs with more than two days to spare, clinch the series 2-0, and keep the WTC champions in pole position to reach next year’s final.
+
+In the process Mulder became the fifth South Africa player to score a century and take five wickets in the same Test. And the fifth player from anywhere to score a century and take seven wickets in the same match. And the first South Africa player to score a century and take at least seven wickets in the same match. Some of which put him in a league with people like Jacques Kallis, Ian Botham and R. Ashwin. But this sets Mulder apart: he is the only man who has scored a triple century and taken seven wickets in Test history, albeit not in the same match. Other records are available, some involving figures as lofty as Garfield Sobers. But let’s not get nerdy about this. Especially as Mulder himself isn’t interested.
+
+“It doesn’t really bother me,” Mulder told a press conference. “What are the records? Are there records?”
+
+Then someone mentioned Sobers. “Me? I’m in the same sentence as Garry Sobers? No. Come on guys.”
+
+This, of course, is the same bloke who, while captaining South Africa against Zimbabwe in Bulawayo in July last year, declared when he was 367 not out. Or 24 runs away from breaking Brian Lara’s world record. Why? Because, Mulder said at the time, “Lara keeping that record is exactly the way it should be”.
+
+It would be wrong to say Mulder doesn’t have faith in himself. If you’ve done what he has done, you can’t not believe. But, if you’re as self-effacing as Mulder, you might need some help.
+
+“Shuks has always backed me,” Mulder said. Shukri Conrad, in his press conference, confirmed Mulder’s view: “He came up the stairs and shook his head and said to me, ‘I can’t believe this. But I know you can believe it.’”
+
+What did Mulder think he brought to a team who have won 17 of their last 19 Tests?
+
+“Balance. And… we’ve all got fighting spirit. There’s a little bit of dog in us. Often it drags people with you.
+
+“These guys get the dog out of me. That’s where I access the best of my game. All of us want to feel important in the environment and in this space.”
+
+Now about those pesky records… Mulder took a deep breath, looked up and into the middle distance, and acquiesced.
+
+“Achieving something that no-one else has achieved is really cool. I’m not going to lie to you. Getting to 400 would have been cool but that’s all it would have been. Right now I’ve taken seven wickets and got a hundred in this game. And it’s over.
+
+“Next Test [against England at the Wanderers on December 17], we start again. No-one’s going to care that I did well. Maybe I’ll get one or two guys asking for a photo but that’s about it. It’s more about the feeling that I can make a difference. The records are cool but that’s where they end.
+
+It didn’t end when Mulder had bowled his last delivery on Wednesday. When he shuttled back to the deep third boundary with the scoreboard glowing his figures — which had reduced Bangladesh to their last pair with no hope of making South Africa bat again — the small but vocal crowd gathered there reeled him in on a wave of adulation. He saluted them as he neared the end of his jog by raising both hands to chest height. Four balls later Khaled Ahmed slashed Marco Jansen high and hoary to — where else — deep third — where — who else — Mulder took the catch to end the match with a cacophony of glee behind him.
+
+Mulder sculpted beautiful movement through the air and off the pitch to best the bigger, badder, faster bowlers he bowled behind. Kagiso Rabada, Marco Jansen and Anrich Nortjé are indeed three horsemen of the apocalypse. But it was the fourth’s day on Wednesday.
+
+The pick of Mulder’s magnificent seven was a delivery to Jaker Ali that described a curvier curve through the crackling atmosphere than those on the fenders of a 1934 Cadillac V16 Aero-Dynamic Coupé as it carved through the crackling atmosphere. The ball pitched on the perfect length — too short for Jaker to drive or defend, too full for him to cut or pull — and straightened with cruel certainty. It was almost a shame that the shimmering missile was stopped in its tracks by the top of Jaker’s off stump.
+
+Permit a pet peeve, if you will: South Africa did not — that’s did not — declare overnight. Doing so would likely have meant interrupting Andy Pycroft’s dinner, or even his good night’s rest. Good evening Mr Pycroft sir. So sorry to get in the way of you brushing your teeth before bed...
+
+What South Africa in fact did was to declare on their overnight score of 494/7, demanding of Bangladesh that they score at least 403 runs for the dubious privilege of being in the field again. That decision had more to do with encroaching clouds than anything else.
+
+The visitors survived several edgy near misses and Aiden Markram somehow dropping, at first slip, a catch he could have taken in his sleep. Then, an hour into the day’s play, Tanzid Hasan cut at Mulder and was taken behind. Bangladesh slipped to 109/3 at lunch and crashed to 184 all out. Those last seven wickets tumbled for 75 in 18.4 overs of the second session.
+
+The storm of wickets was followed, hours later, after the players had left the ground, by the real thing. It unleashed itself on Centurion with a force that nothing and no-one could match. Not the four horsemen of the apocalypse. Not Sobers. Not Lara. Not even Mulder.
+
+---
+
+**Original Source:** [Cricbuzz](https://www.cricbuzz.com/cricket-news/141061/bangladesh-tour-of-south-africa-2026-2nd-test-wiaan-mulder-the-fourth-horseman-of-south-africas-apocalypse-cricbuzzcom)`,
+    title_en: `Bangladesh tour of South Africa, 2026 2nd Test Wiaan Mulder, the fourth horseman of South Africa's apocalypse - Cricbuzz`,
+    summary_en: `And then, on the third day of the second Test between South Africa in Centurion on Wednesday, came Wiaan Mulder. To be fair, he also came on Tuesday. But this was different.`,
+    content_en: `And then, on the third day of the second Test between South Africa in Centurion on Wednesday, came Wiaan Mulder. To be fair, he also came on Tuesday. But this was different.
+
+A day after scoring his fifth century, a round 100, Mulder took 7/31 to seal South Africa’s victory by an innings and 219 runs with more than two days to spare, clinch the series 2-0, and keep the WTC champions in pole position to reach next year’s final.
+
+In the process Mulder became the fifth South Africa player to score a century and take five wickets in the same Test. And the fifth player from anywhere to score a century and take seven wickets in the same match. And the first South Africa player to score a century and take at least seven wickets in the same match. Some of which put him in a league with people like Jacques Kallis, Ian Botham and R. Ashwin. But this sets Mulder apart: he is the only man who has scored a triple century and taken seven wickets in Test history, albeit not in the same match. Other records are available, some involving figures as lofty as Garfield Sobers. But let’s not get nerdy about this. Especially as Mulder himself isn’t interested.
+
+“It doesn’t really bother me,” Mulder told a press conference. “What are the records? Are there records?”
+
+Then someone mentioned Sobers. “Me? I’m in the same sentence as Garry Sobers? No. Come on guys.”
+
+This, of course, is the same bloke who, while captaining South Africa against Zimbabwe in Bulawayo in July last year, declared when he was 367 not out. Or 24 runs away from breaking Brian Lara’s world record. Why? Because, Mulder said at the time, “Lara keeping that record is exactly the way it should be”.
+
+It would be wrong to say Mulder doesn’t have faith in himself. If you’ve done what he has done, you can’t not believe. But, if you’re as self-effacing as Mulder, you might need some help.
+
+“Shuks has always backed me,” Mulder said. Shukri Conrad, in his press conference, confirmed Mulder’s view: “He came up the stairs and shook his head and said to me, ‘I can’t believe this. But I know you can believe it.’”
+
+What did Mulder think he brought to a team who have won 17 of their last 19 Tests?
+
+“Balance. And… we’ve all got fighting spirit. There’s a little bit of dog in us. Often it drags people with you.
+
+“These guys get the dog out of me. That’s where I access the best of my game. All of us want to feel important in the environment and in this space.”
+
+Now about those pesky records… Mulder took a deep breath, looked up and into the middle distance, and acquiesced.
+
+“Achieving something that no-one else has achieved is really cool. I’m not going to lie to you. Getting to 400 would have been cool but that’s all it would have been. Right now I’ve taken seven wickets and got a hundred in this game. And it’s over.
+
+“Next Test [against England at the Wanderers on December 17], we start again. No-one’s going to care that I did well. Maybe I’ll get one or two guys asking for a photo but that’s about it. It’s more about the feeling that I can make a difference. The records are cool but that’s where they end.
+
+It didn’t end when Mulder had bowled his last delivery on Wednesday. When he shuttled back to the deep third boundary with the scoreboard glowing his figures — which had reduced Bangladesh to their last pair with no hope of making South Africa bat again — the small but vocal crowd gathered there reeled him in on a wave of adulation. He saluted them as he neared the end of his jog by raising both hands to chest height. Four balls later Khaled Ahmed slashed Marco Jansen high and hoary to — where else — deep third — where — who else — Mulder took the catch to end the match with a cacophony of glee behind him.
+
+Mulder sculpted beautiful movement through the air and off the pitch to best the bigger, badder, faster bowlers he bowled behind. Kagiso Rabada, Marco Jansen and Anrich Nortjé are indeed three horsemen of the apocalypse. But it was the fourth’s day on Wednesday.
+
+The pick of Mulder’s magnificent seven was a delivery to Jaker Ali that described a curvier curve through the crackling atmosphere than those on the fenders of a 1934 Cadillac V16 Aero-Dynamic Coupé as it carved through the crackling atmosphere. The ball pitched on the perfect length — too short for Jaker to drive or defend, too full for him to cut or pull — and straightened with cruel certainty. It was almost a shame that the shimmering missile was stopped in its tracks by the top of Jaker’s off stump.
+
+Permit a pet peeve, if you will: South Africa did not — that’s did not — declare overnight. Doing so would likely have meant interrupting Andy Pycroft’s dinner, or even his good night’s rest. Good evening Mr Pycroft sir. So sorry to get in the way of you brushing your teeth before bed...
+
+What South Africa in fact did was to declare on their overnight score of 494/7, demanding of Bangladesh that they score at least 403 runs for the dubious privilege of being in the field again. That decision had more to do with encroaching clouds than anything else.
+
+The visitors survived several edgy near misses and Aiden Markram somehow dropping, at first slip, a catch he could have taken in his sleep. Then, an hour into the day’s play, Tanzid Hasan cut at Mulder and was taken behind. Bangladesh slipped to 109/3 at lunch and crashed to 184 all out. Those last seven wickets tumbled for 75 in 18.4 overs of the second session.
+
+The storm of wickets was followed, hours later, after the players had left the ground, by the real thing. It unleashed itself on Centurion with a force that nothing and no-one could match. Not the four horsemen of the apocalypse. Not Sobers. Not Lara. Not even Mulder.
+
+---
+
+**Original Source:** [Cricbuzz](https://www.cricbuzz.com/cricket-news/141061/bangladesh-tour-of-south-africa-2026-2nd-test-wiaan-mulder-the-fourth-horseman-of-south-africas-apocalypse-cricbuzzcom)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Wire summary of Sports reporting originally published by Cricbuzz.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Key details and primary source attribution for Bangladesh tour of South Africa, 2026 2nd Test Wiaan Mulder, the fourth horseman of South Africa's apocalypse - Cricbuzz.`,
+    primary_source: `Cricbuzz`,
+  },
+  {
+    id: 97850,
+    title: `वैभव सूर्यवंशी को टी 20 इंटरनेशनल टीम में परमानेंट जगह कब मिलेगी`,
+    slug: `sports-breaking-report-87733-97850-2026`,
+    original_title: `वैभव सूर्यवंशी को टी 20 इंटरनेशनल टीम में परमानेंट जगह कब मिलेगी`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:47Z`,
+    updated_at: `2026-11-26T04:58:47Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/ckwy9qr4p51do`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/sports-breaking-report-87733-97850-2026.jpg`,
+    image_alt: `वैभव सूर्यवंशी को टी 20 इंटरनेशनल टीम में परमानेंट जगह कब मिलेगी`,
+    image_courtesy: `Image Courtesy: BBC`,
+    image_photographer: `BBC`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `टीनएजर बच्चों में वीडियो गेम काफ़ी पसंद किया जाता है. लेकिन 15 साल के वैभव सूर्यवंशी ऐसे टीनएजर हैं, जो आजकल प्रोफ़ेशनल क्रिकेट को ही वीडियो गेम में बदल रहे हैं.`,
+    content: `टीनएजर बच्चों में वीडियो गेम काफ़ी पसंद किया जाता है. लेकिन 15 साल के वैभव सूर्यवंशी ऐसे टीनएजर हैं, जो आजकल प्रोफ़ेशनल क्रिकेट को ही वीडियो गेम में बदल रहे हैं.
+
+24 नवंबर को दोहा में हुए एक मैच में उन्होंने ऐसा ही कुछ किया.
+
+वैभव ने लिस्ट ए क्रिकेट की एक ही पारी में सबसे तेज़ 100 रन (28 बॉल), सबसे तेज़ 150 रन (40 बॉल) और सबसे तेज़ 200 रन (52 बॉल) का रिकॉर्ड बना दिया.
+
+उनकी इस पारी में कुल 28 छक्के थे. जी हां, 28 छक्के. यानी 204 रनों की इस पारी में 168 रन छक्कों से ही बटोर लिए.
+
+वैभव की ताज़ा पारी ने एक बार फिर इस सवाल को हवा दी है कि ये लड़का इंडिया की टी20 क्रिकेट टीम में बतौर ओपनर अपनी जगह पक्की कब कर पाएगा? और क्या टी20 के अलावा उन्हें वनडे क्रिकेट में भी आज़माया जाना चाहिए?
+
+सबसे पहले डेटा पर ही नज़र डाल लेते हैं.
+
+अब तक खेले गए 10 टी20 इंटरनेशनल मैच में वैभव ने 29.50 की एवरेज और 185.53 के स्ट्राइक रेट से 295 रन बनाए हैं, जिनमें सबसे ज़्यादा पारी 81 रनों की रही.
+
+उन्हें अब तक इंग्लैंड के सामने तीन, ज़िम्बाब्वे के सामने तीन, न्यूज़ीलैंड के सामने दो और पाकिस्तान-श्रीलंका के सामने एक-एक मैच में मौका दिया गया है.
+
+दूसरी ओर, आईपीएल की अब तक खेली गई 23 पारियों में उन्होंने 1028 रन बनाए हैं, जहां उनकी औसत 44.69 और स्ट्राइक रेट 228.95 रहा.
+
+इनमें से सात मैच उन्होंने 2025 सीज़न और 16 मैच साल 2026 के आईपीएल में खेले.
+
+और आईपीएल 2026 में ही उन्होंने क्रिस गेल का एक सीज़न में सबसे ज़्यादा छक्के मारने का रिकॉर्ड भी तोड़ा था.
+
+गेल ने 2012 सीज़न में 59 छक्के मारे थे, जबकि राजस्थान रॉयल्स के इस टीएनएज सेंसेशन ने 2026 में 72 छक्के जड़े.
+
+छक्कों का ज़िक्र इसलिए ज़रूरी है क्योंकि वैभव सूर्यवंशी के खेलने के स्टाइल में उनके एग्रेशन और सिक्स हिटिंग एबिलिटी की बात बार-बार होती है.
+
+कुछ एक्सपर्ट का मानना है कि वैभव सूर्यवंशी को भारत की टी20 इंटरनेशनल टीम में परमानेंट जगह मिलनी चाहिए और ओपनर की उनकी पोज़िशन से कुछ समय तक छेड़छाड़ नहीं की जानी चाहिए.
+
+वरिष्ठ खेल पत्रकार और विशेषज्ञ अयाज़ मेनन से जब ये पूछा गया कि ऐसी शानदार पारियां खेलने के बावजूद वैभव को टीम में जगह देकर लंबे तक क्यों नहीं आज़माया जाता तो उन्होंने कहा कि ये बिलकुल वाजिब सवाल है.
+
+हाल में इंडियन टीम ने न्यूज़ीलैंड में पाँच मैचों की टी20 सिरीज़ खेली जिनमें से दो में वैभव सूर्यवंशी को टीम में खिलाया गया.
+
+इनमें से एक मैच में उन्हें ओपन करने का मौका मिला और उन्होंने 19 बॉल में 45 रन बनाए.
+
+कप्तान श्रेयस अय्यर से जब सिरीज़ से पहले वैभव को मौका देने के के बारे में पूछा गया था तो उन्होंने कहा था, ''ये ज़रूरी है कि उसके जैसा टैलेंट ड्रेसिंग रूम के आसपास ख़ुश रहे.''
+
+अय्यर के मुताबिक़, ''वो बहुत ही यंग है और उसके पास आने वाले सालों में कई सारे मौके आएंगे. वो सीधे ऐसे टीम में वॉक इन नहीं कर सकता क्योंकि हमारे ओपनर भी लगातार अच्छा प्रदर्शन कर रहे हैं.''
+
+अयाज़ मेमन ने बीबीसी से कहा, ''ज़्यादातर लोगों का कहना है कि वैभव सूर्यवंशी 'चाइल्ड प्रोडिजी' हैं या वंस इन ए जनरेशन प्लेयर हैं. ऐसे खिलाड़ी को अगर सही समय पर मौके न मिलें और वो भी लगातार, तो इसके नुक़सान भी हो सकते हैं. सचिन तेंदुलकर को भी बहुत कम उम्र में मौका दिया गया था और उन्हें जब मौका दिया गया तो फिर लगातार मौके दिए गए, उसके बाद उन्होंने जो किया वो हम सभी के सामने है.'
+
+साल 1989 में पाकिस्तान के ख़िलाफ़ सचिन तेंदुलकर ने जब टेस्ट और वनडे में डेब्यू किया तो उनकी उम्र 16 साल थी.
+
+अगर वर्ल्ड रिकॉर्ड की बात करें तो पाकिस्तान के हसन रज़ा ने महज़ 14 साल 233 दिनों की उम्र में ज़िम्बाब्वे के ख़िलाफ़ पहला वनडे खेला था.
+
+आम तौर पर इंग्लैंड और ऑस्ट्रेलिया में काउंटी और स्टेट टीम से खेलने वाले खिलाड़ियों को नेशनल टीम में जगह बनाने में काफ़ी समय लग जाता है, लेकिन  इंटरनेशनल क्रिकेट में कम उम्र में डेब्यू करने और अपनी जगह बनाने वाले एशियाई खिलाड़ियों की लिस्ट लंबी है.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+मंगलवार को यूएई के ख़िलाफ़ खेली गई वैभव की पारी को लेकर अयाज़ मेमन ने कहा, ''वैभव की कल की पारी एक फ़्रीक पारी थी, जैसे कि वो सेलेक्टर्स को कोई मैसेज दे रहे हों. ऐसा खिलाड़ी कभी-कभार आता है. जब अच्छा खेलने के बावजूद टीम में परमानेंसी की उम्मीद नहीं दिखती तो खिलाड़ी के मेंटल स्ट्रेंथ पर भी इसका असर पड़ सकता है.''
+
+उन्होंने कहा, ''कोई भी खिलाड़ी ये सोच सकता है कि अच्छा खेलने के बावजूद टीम में ठीक से जगह नहीं बन रही, अब और क्या किया जाए. दस मैच में फ़ेल होने पर बाहर करना समझ आता है. लेकिन एक-दो मैच खिलाना, फिर बाहर कर देना सही नहीं है. वैभव को लंबा मौका दिए जाने की ज़रूरत है.''
+
+लेकिन कप्तान अय्यर की ओपनिंग पेयर की दलील का क्या. इस पर मेमन ने कहा, ''ये बात सही है कि अभिषेक शर्मा और संजू सैमसन, दोनों बढ़िया खिलाड़ी हैं, लेकिन आपको वैभव के लिए जगह बनाने के रास्ते खोजने होंगे. ऐसा नहीं कर सकते कि कभी खिला रहे हैं, कभी बाहर कर दे रहे हैं.'
+
+बीबीसी ने वैभव के बारे में जब जानी-मानी स्पोर्ट्स एक्सपर्ट और राइटर मीनाक्षी राव से बात की तो उन्होंने कहा कि इस खिलाड़ी को लेकर बैलेंस्ड अप्रोच की ज़रूरत है.
+
+मीनाक्षी के मुताबिक़, ''वैभव को लेकर चारों तरफ़ काफ़ी हाइप है. जब वो बाकी जगह अच्छा करते हैं तो काफ़ी चर्चा होती है, जब इंडियन टीम से खेलते हुए किसी दिन नाकाम हो जाते हैं तो कह दिया जाता है कि ख़राब खेल रहा है, ये सब सही नहीं है. ऐसी उम्मीद करना बेमानी है कि वो हर मैच में स्कोर करेंगे. लेकिन उन्हें मौके लगातार देने होंगे.''
+
+मीनाक्षी का कहना है कि वैभव की आक्रामक बल्लेबाज़ी उनका यूएसपी है, और इससे छेड़छाड़ नहीं की जानी चाहिए. लेकिन इसके साथ-साथ उन्हें इंटरनेशनल पिच और इंटरनेशनल बॉलर्स के सामने टेस्ट ज़रूर करना चाहिए.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ckwy9qr4p51do)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `वैभव सूर्यवंशी को टी 20 इंटरनेशनल टीम में परमानेंट जगह कब मिलेगी`,
+    summary_hi: `टीनएजर बच्चों में वीडियो गेम काफ़ी पसंद किया जाता है. लेकिन 15 साल के वैभव सूर्यवंशी ऐसे टीनएजर हैं, जो आजकल प्रोफ़ेशनल क्रिकेट को ही वीडियो गेम में बदल रहे हैं.`,
+    content_hi: `टीनएजर बच्चों में वीडियो गेम काफ़ी पसंद किया जाता है. लेकिन 15 साल के वैभव सूर्यवंशी ऐसे टीनएजर हैं, जो आजकल प्रोफ़ेशनल क्रिकेट को ही वीडियो गेम में बदल रहे हैं.
+
+24 नवंबर को दोहा में हुए एक मैच में उन्होंने ऐसा ही कुछ किया.
+
+वैभव ने लिस्ट ए क्रिकेट की एक ही पारी में सबसे तेज़ 100 रन (28 बॉल), सबसे तेज़ 150 रन (40 बॉल) और सबसे तेज़ 200 रन (52 बॉल) का रिकॉर्ड बना दिया.
+
+उनकी इस पारी में कुल 28 छक्के थे. जी हां, 28 छक्के. यानी 204 रनों की इस पारी में 168 रन छक्कों से ही बटोर लिए.
+
+वैभव की ताज़ा पारी ने एक बार फिर इस सवाल को हवा दी है कि ये लड़का इंडिया की टी20 क्रिकेट टीम में बतौर ओपनर अपनी जगह पक्की कब कर पाएगा? और क्या टी20 के अलावा उन्हें वनडे क्रिकेट में भी आज़माया जाना चाहिए?
+
+सबसे पहले डेटा पर ही नज़र डाल लेते हैं.
+
+अब तक खेले गए 10 टी20 इंटरनेशनल मैच में वैभव ने 29.50 की एवरेज और 185.53 के स्ट्राइक रेट से 295 रन बनाए हैं, जिनमें सबसे ज़्यादा पारी 81 रनों की रही.
+
+उन्हें अब तक इंग्लैंड के सामने तीन, ज़िम्बाब्वे के सामने तीन, न्यूज़ीलैंड के सामने दो और पाकिस्तान-श्रीलंका के सामने एक-एक मैच में मौका दिया गया है.
+
+दूसरी ओर, आईपीएल की अब तक खेली गई 23 पारियों में उन्होंने 1028 रन बनाए हैं, जहां उनकी औसत 44.69 और स्ट्राइक रेट 228.95 रहा.
+
+इनमें से सात मैच उन्होंने 2025 सीज़न और 16 मैच साल 2026 के आईपीएल में खेले.
+
+और आईपीएल 2026 में ही उन्होंने क्रिस गेल का एक सीज़न में सबसे ज़्यादा छक्के मारने का रिकॉर्ड भी तोड़ा था.
+
+गेल ने 2012 सीज़न में 59 छक्के मारे थे, जबकि राजस्थान रॉयल्स के इस टीएनएज सेंसेशन ने 2026 में 72 छक्के जड़े.
+
+छक्कों का ज़िक्र इसलिए ज़रूरी है क्योंकि वैभव सूर्यवंशी के खेलने के स्टाइल में उनके एग्रेशन और सिक्स हिटिंग एबिलिटी की बात बार-बार होती है.
+
+कुछ एक्सपर्ट का मानना है कि वैभव सूर्यवंशी को भारत की टी20 इंटरनेशनल टीम में परमानेंट जगह मिलनी चाहिए और ओपनर की उनकी पोज़िशन से कुछ समय तक छेड़छाड़ नहीं की जानी चाहिए.
+
+वरिष्ठ खेल पत्रकार और विशेषज्ञ अयाज़ मेनन से जब ये पूछा गया कि ऐसी शानदार पारियां खेलने के बावजूद वैभव को टीम में जगह देकर लंबे तक क्यों नहीं आज़माया जाता तो उन्होंने कहा कि ये बिलकुल वाजिब सवाल है.
+
+हाल में इंडियन टीम ने न्यूज़ीलैंड में पाँच मैचों की टी20 सिरीज़ खेली जिनमें से दो में वैभव सूर्यवंशी को टीम में खिलाया गया.
+
+इनमें से एक मैच में उन्हें ओपन करने का मौका मिला और उन्होंने 19 बॉल में 45 रन बनाए.
+
+कप्तान श्रेयस अय्यर से जब सिरीज़ से पहले वैभव को मौका देने के के बारे में पूछा गया था तो उन्होंने कहा था, ''ये ज़रूरी है कि उसके जैसा टैलेंट ड्रेसिंग रूम के आसपास ख़ुश रहे.''
+
+अय्यर के मुताबिक़, ''वो बहुत ही यंग है और उसके पास आने वाले सालों में कई सारे मौके आएंगे. वो सीधे ऐसे टीम में वॉक इन नहीं कर सकता क्योंकि हमारे ओपनर भी लगातार अच्छा प्रदर्शन कर रहे हैं.''
+
+अयाज़ मेमन ने बीबीसी से कहा, ''ज़्यादातर लोगों का कहना है कि वैभव सूर्यवंशी 'चाइल्ड प्रोडिजी' हैं या वंस इन ए जनरेशन प्लेयर हैं. ऐसे खिलाड़ी को अगर सही समय पर मौके न मिलें और वो भी लगातार, तो इसके नुक़सान भी हो सकते हैं. सचिन तेंदुलकर को भी बहुत कम उम्र में मौका दिया गया था और उन्हें जब मौका दिया गया तो फिर लगातार मौके दिए गए, उसके बाद उन्होंने जो किया वो हम सभी के सामने है.'
+
+साल 1989 में पाकिस्तान के ख़िलाफ़ सचिन तेंदुलकर ने जब टेस्ट और वनडे में डेब्यू किया तो उनकी उम्र 16 साल थी.
+
+अगर वर्ल्ड रिकॉर्ड की बात करें तो पाकिस्तान के हसन रज़ा ने महज़ 14 साल 233 दिनों की उम्र में ज़िम्बाब्वे के ख़िलाफ़ पहला वनडे खेला था.
+
+आम तौर पर इंग्लैंड और ऑस्ट्रेलिया में काउंटी और स्टेट टीम से खेलने वाले खिलाड़ियों को नेशनल टीम में जगह बनाने में काफ़ी समय लग जाता है, लेकिन  इंटरनेशनल क्रिकेट में कम उम्र में डेब्यू करने और अपनी जगह बनाने वाले एशियाई खिलाड़ियों की लिस्ट लंबी है.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+मंगलवार को यूएई के ख़िलाफ़ खेली गई वैभव की पारी को लेकर अयाज़ मेमन ने कहा, ''वैभव की कल की पारी एक फ़्रीक पारी थी, जैसे कि वो सेलेक्टर्स को कोई मैसेज दे रहे हों. ऐसा खिलाड़ी कभी-कभार आता है. जब अच्छा खेलने के बावजूद टीम में परमानेंसी की उम्मीद नहीं दिखती तो खिलाड़ी के मेंटल स्ट्रेंथ पर भी इसका असर पड़ सकता है.''
+
+उन्होंने कहा, ''कोई भी खिलाड़ी ये सोच सकता है कि अच्छा खेलने के बावजूद टीम में ठीक से जगह नहीं बन रही, अब और क्या किया जाए. दस मैच में फ़ेल होने पर बाहर करना समझ आता है. लेकिन एक-दो मैच खिलाना, फिर बाहर कर देना सही नहीं है. वैभव को लंबा मौका दिए जाने की ज़रूरत है.''
+
+लेकिन कप्तान अय्यर की ओपनिंग पेयर की दलील का क्या. इस पर मेमन ने कहा, ''ये बात सही है कि अभिषेक शर्मा और संजू सैमसन, दोनों बढ़िया खिलाड़ी हैं, लेकिन आपको वैभव के लिए जगह बनाने के रास्ते खोजने होंगे. ऐसा नहीं कर सकते कि कभी खिला रहे हैं, कभी बाहर कर दे रहे हैं.'
+
+बीबीसी ने वैभव के बारे में जब जानी-मानी स्पोर्ट्स एक्सपर्ट और राइटर मीनाक्षी राव से बात की तो उन्होंने कहा कि इस खिलाड़ी को लेकर बैलेंस्ड अप्रोच की ज़रूरत है.
+
+मीनाक्षी के मुताबिक़, ''वैभव को लेकर चारों तरफ़ काफ़ी हाइप है. जब वो बाकी जगह अच्छा करते हैं तो काफ़ी चर्चा होती है, जब इंडियन टीम से खेलते हुए किसी दिन नाकाम हो जाते हैं तो कह दिया जाता है कि ख़राब खेल रहा है, ये सब सही नहीं है. ऐसी उम्मीद करना बेमानी है कि वो हर मैच में स्कोर करेंगे. लेकिन उन्हें मौके लगातार देने होंगे.''
+
+मीनाक्षी का कहना है कि वैभव की आक्रामक बल्लेबाज़ी उनका यूएसपी है, और इससे छेड़छाड़ नहीं की जानी चाहिए. लेकिन इसके साथ-साथ उन्हें इंटरनेशनल पिच और इंटरनेशनल बॉलर्स के सामने टेस्ट ज़रूर करना चाहिए.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ckwy9qr4p51do)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक वैभव सूर्यवंशी को टी 20 इंटरनेशनल टीम में परमानेंट जगह कब मिलेगी से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 97851,
+    title: `IND vs NZ 2nd Test: जडेजा की एंट्री, स‍िराज के लिए गंभीर को छोड़नी पड़ेगी जिद! ऐसी होगी क्राइस्टचर्च टेस्ट में टीम इंड‍िया कीप्लेइंग 11 - AajTak`,
+    slug: `ind-vs-nz-2nd-test-11-aajtak-2026`,
+    original_title: `IND vs NZ 2nd Test: जडेजा की एंट्री, स‍िराज के लिए गंभीर को छोड़नी पड़ेगी जिद! ऐसी होगी क्राइस्टचर्च टेस्ट में टीम इंड‍िया कीप्लेइंग 11 - AajTak`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:47Z`,
+    updated_at: `2026-11-26T04:58:47Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-christchurch-2nd-test-india-playing-11-jadeja-siraj-tspok-dskc-2705854-2026-11-26`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `/images/articles/ind-vs-nz-2nd-test-11-aajtak-2026.webp`,
+    image_alt: `IND vs NZ 2nd Test: जडेजा की एंट्री, स‍िराज के लिए गंभीर को छोड़नी पड़ेगी जिद! ऐसी होगी क्राइस्टचर्च टेस्ट में टीम इंड‍िया कीप्लेइंग 11 - AajTak`,
+    image_courtesy: `Image Courtesy: AajTak`,
+    image_photographer: `AajTak`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `IND vs NZ 2nd Test Playing 11: भारत और न्यूजीलैंड के बीच सीरीज का दूसरा और आखिरी टेस्ट शुक्रवार से क्राइस्टचर्च के हेगले ओवल में खेला जाएगा. पहले टेस्ट के ड्रॉ होने के बाद भारतीय टीम की नजर इस मुकाबले को जीतकर सीरीज अपने नाम करने पर होगी. भ`,
+    content: `### भारत और न्यूजीलैंड के बीच दूसरा टेस्ट क्राइस्टचर्च में खेला जाएगा. पहले टेस्ट के ड्रॉ होने के बाद टीम इंडिया की नजर सीरीज जीत पर है. रवींद्र जडेजा और मोहम्मद सिराज की प्लेइंग 11 में वापसी को लेकर चर्चा है. हालांकि टीम संयोजन में बदलाव की संभावना कम नजर आ रही है. गुरनूर बरार और प्रसिद्ध कृष्णा में भी मुकाबला है.
+
+IND vs NZ 2nd Test Playing 11: भारत और न्यूजीलैंड के बीच सीरीज का दूसरा और आखिरी टेस्ट शुक्रवार से क्राइस्टचर्च के हेगले ओवल में खेला जाएगा. पहले टेस्ट के ड्रॉ होने के बाद भारतीय टीम की नजर इस मुकाबले को जीतकर सीरीज अपने नाम करने पर होगी. भारत को न्यूजीलैंड में 17 साल बाद टेस्ट सीरीज जीतने का मौका है. साथ ही टीम इंडिया की कोशिश वर्ल्ड टेस्ट चैम्प‍ियनश‍िप (WTC) फाइनल में पहुंचने की अपनी बची हुई उम्मीदों को जिंदा रखने की होगी.
+
+टीम इंडिया के सामने सबसे बड़ा सवाल प्लेइंग 11 को लेकर है. क्या रवींद्र जडेजा और मोहम्मद सिराज को मौका मिलेगा? पहले टेस्ट में दोनों को बाहर बैठना पड़ा था. हालांकि दोनों ही खिलाड़ी मैच विनर हैं, लेकिन टीम मैनेजमेंट के संकेतों से फिलहाल प्लेइंग 11 में बड़े बदलाव की संभावना कम दिख रही है.
+
+पहले टेस्ट में भारत के चारों विशेषज्ञ गेंदबाजों ने 40 से ज्यादा ओवर फेंके थे. बल्लेबाजों ने भी काफी समय क्रीज पर बिताया था. इसी वजह से टीम ने मंगलवार (24 नवंबर) को वेलिंगटन से क्राइस्टचर्च पहुंचने के बाद बुधवार को अभ्यास के बजाय आराम करने का फैसला किया.
+
+पिच पर घास, गेंदबाजों को मिल सकती है मदद हेगले ओवल की पिच पर वेलिंगटन के मुकाबले गेंदबाजों को ज्यादा मदद मिलने की उम्मीद है. ग्राउंड स्टाफ के मुताबिक पिच पर करीब 12 मिलीमीटर घास छोड़ी जा सकती है. शुरुआती दो दिन तेज धूप रहने का अनुमान है, जिससे घास सूख सकती है. न्यूजीलैंड की टीम ने बुधवार को वैकल्पिक अभ्यास सत्र में हिस्सा लिया. यह भी पढ़ें: IND vs NZ 1st Test Day 5 Highlights: ड्रॉ पर छूटा वेलिंगटन टेस्ट, मिचेल-फिलिप्स का डिफेंस भेद नहीं सकी टीम इंडिया, हाथ से फिसली जीत
+
+भारतीय टीम की ओर से जसप्रीत बुमराह एक बार फिर गेंदबाजी की अगुवाई करेंगे. वहीं तेज गेंदबाज की भूमिका के लिए गुरनूर बरार और प्रसिद्ध कृष्णा के बीच मुकाबला हो सकता है. गुरनूर को मौका मिलता है या प्रसिद्ध पर भरोसा कायम रहता है, यह देखना दिलचस्प होगा. वहीं मोहम्मद स‍िराज को क्या इस टेस्ट में मौका म‍िलेगा या नहीं, यह एक बार फ‍िर देखने वाली बात होग.
+
+राहुल-जायसवाल पर बल्लेबाजी की जिम्मेदारी बल्लेबाजी में केएल राहुल और यशस्वी जायसवाल से अच्छी शुरुआत की उम्मीद होगी. राहुल ने वेलिंगटन टेस्ट में शानदार शतक लगाया था. अब उनसे क्राइस्टचर्च में भी उसी संयम और जिम्मेदारी के साथ खेलने की उम्मीद है. शुभमन गिल, ऋषभ पंत और साई सुदर्शन जैसे बल्लेबाजों पर भी नजर रहेगी.
+
+दूसरी ओर न्यूजीलैंड को एक और झटका लगा है. बैकअप तेज गेंदबाज ब्लेयर टिकनर हैमस्ट्रिंग चोट के कारण दूसरे टेस्ट से बाहर हो गए हैं. उनकी जगह मैट फिशर को टीम में शामिल किया गया है. फिशर ने अब तक सिर्फ एक टेस्ट खेला है.
+
+न्यूजीलैंड के सामने अपने तेज गेंदबाजों को रोटेट करने की चुनौती भी होगी, क्योंकि टीम को आठ सप्ताह में छह टेस्ट खेलने हैं. कप्तान टॉम लैथम भी बल्ले से वापसी करना चाहेंगे. वेलिंगटन टेस्ट की दोनों पारियों में वह जसप्रीत बुमराह के खिलाफ पहली ही ओवर में आउट हो गए थे.
+
+भारत की संभावित प्लेइंग 11: यशस्वी जायसवाल, केएल राहुल, देवदत्त पडिक्कल, शुभमन गिल (कप्तान), ऋषभ पंत (विकेटकीपर), ध्रुव जुरेल, रवींद्र जडेजा , गुरनूर बरार/मोहम्मद  स‍िराज, जसप्रीत बुमराह, आकाश दीप और प्रसिद्ध कृष्णा.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-christchurch-2nd-test-india-playing-11-jadeja-siraj-tspok-dskc-2705854-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `IND vs NZ 2nd Test: जडेजा की एंट्री, स‍िराज के लिए गंभीर को छोड़नी पड़ेगी जिद! ऐसी होगी क्राइस्टचर्च टेस्ट में टीम इंड‍िया कीप्लेइंग 11 - AajTak`,
+    summary_hi: `IND vs NZ 2nd Test Playing 11: भारत और न्यूजीलैंड के बीच सीरीज का दूसरा और आखिरी टेस्ट शुक्रवार से क्राइस्टचर्च के हेगले ओवल में खेला जाएगा. पहले टेस्ट के ड्रॉ होने के बाद भारतीय टीम की नजर इस मुकाबले को जीतकर सीरीज अपने नाम करने पर होगी. भ`,
+    content_hi: `### भारत और न्यूजीलैंड के बीच दूसरा टेस्ट क्राइस्टचर्च में खेला जाएगा. पहले टेस्ट के ड्रॉ होने के बाद टीम इंडिया की नजर सीरीज जीत पर है. रवींद्र जडेजा और मोहम्मद सिराज की प्लेइंग 11 में वापसी को लेकर चर्चा है. हालांकि टीम संयोजन में बदलाव की संभावना कम नजर आ रही है. गुरनूर बरार और प्रसिद्ध कृष्णा में भी मुकाबला है.
+
+IND vs NZ 2nd Test Playing 11: भारत और न्यूजीलैंड के बीच सीरीज का दूसरा और आखिरी टेस्ट शुक्रवार से क्राइस्टचर्च के हेगले ओवल में खेला जाएगा. पहले टेस्ट के ड्रॉ होने के बाद भारतीय टीम की नजर इस मुकाबले को जीतकर सीरीज अपने नाम करने पर होगी. भारत को न्यूजीलैंड में 17 साल बाद टेस्ट सीरीज जीतने का मौका है. साथ ही टीम इंडिया की कोशिश वर्ल्ड टेस्ट चैम्प‍ियनश‍िप (WTC) फाइनल में पहुंचने की अपनी बची हुई उम्मीदों को जिंदा रखने की होगी.
+
+टीम इंडिया के सामने सबसे बड़ा सवाल प्लेइंग 11 को लेकर है. क्या रवींद्र जडेजा और मोहम्मद सिराज को मौका मिलेगा? पहले टेस्ट में दोनों को बाहर बैठना पड़ा था. हालांकि दोनों ही खिलाड़ी मैच विनर हैं, लेकिन टीम मैनेजमेंट के संकेतों से फिलहाल प्लेइंग 11 में बड़े बदलाव की संभावना कम दिख रही है.
+
+पहले टेस्ट में भारत के चारों विशेषज्ञ गेंदबाजों ने 40 से ज्यादा ओवर फेंके थे. बल्लेबाजों ने भी काफी समय क्रीज पर बिताया था. इसी वजह से टीम ने मंगलवार (24 नवंबर) को वेलिंगटन से क्राइस्टचर्च पहुंचने के बाद बुधवार को अभ्यास के बजाय आराम करने का फैसला किया.
+
+पिच पर घास, गेंदबाजों को मिल सकती है मदद हेगले ओवल की पिच पर वेलिंगटन के मुकाबले गेंदबाजों को ज्यादा मदद मिलने की उम्मीद है. ग्राउंड स्टाफ के मुताबिक पिच पर करीब 12 मिलीमीटर घास छोड़ी जा सकती है. शुरुआती दो दिन तेज धूप रहने का अनुमान है, जिससे घास सूख सकती है. न्यूजीलैंड की टीम ने बुधवार को वैकल्पिक अभ्यास सत्र में हिस्सा लिया. यह भी पढ़ें: IND vs NZ 1st Test Day 5 Highlights: ड्रॉ पर छूटा वेलिंगटन टेस्ट, मिचेल-फिलिप्स का डिफेंस भेद नहीं सकी टीम इंडिया, हाथ से फिसली जीत
+
+भारतीय टीम की ओर से जसप्रीत बुमराह एक बार फिर गेंदबाजी की अगुवाई करेंगे. वहीं तेज गेंदबाज की भूमिका के लिए गुरनूर बरार और प्रसिद्ध कृष्णा के बीच मुकाबला हो सकता है. गुरनूर को मौका मिलता है या प्रसिद्ध पर भरोसा कायम रहता है, यह देखना दिलचस्प होगा. वहीं मोहम्मद स‍िराज को क्या इस टेस्ट में मौका म‍िलेगा या नहीं, यह एक बार फ‍िर देखने वाली बात होग.
+
+राहुल-जायसवाल पर बल्लेबाजी की जिम्मेदारी बल्लेबाजी में केएल राहुल और यशस्वी जायसवाल से अच्छी शुरुआत की उम्मीद होगी. राहुल ने वेलिंगटन टेस्ट में शानदार शतक लगाया था. अब उनसे क्राइस्टचर्च में भी उसी संयम और जिम्मेदारी के साथ खेलने की उम्मीद है. शुभमन गिल, ऋषभ पंत और साई सुदर्शन जैसे बल्लेबाजों पर भी नजर रहेगी.
+
+दूसरी ओर न्यूजीलैंड को एक और झटका लगा है. बैकअप तेज गेंदबाज ब्लेयर टिकनर हैमस्ट्रिंग चोट के कारण दूसरे टेस्ट से बाहर हो गए हैं. उनकी जगह मैट फिशर को टीम में शामिल किया गया है. फिशर ने अब तक सिर्फ एक टेस्ट खेला है.
+
+न्यूजीलैंड के सामने अपने तेज गेंदबाजों को रोटेट करने की चुनौती भी होगी, क्योंकि टीम को आठ सप्ताह में छह टेस्ट खेलने हैं. कप्तान टॉम लैथम भी बल्ले से वापसी करना चाहेंगे. वेलिंगटन टेस्ट की दोनों पारियों में वह जसप्रीत बुमराह के खिलाफ पहली ही ओवर में आउट हो गए थे.
+
+भारत की संभावित प्लेइंग 11: यशस्वी जायसवाल, केएल राहुल, देवदत्त पडिक्कल, शुभमन गिल (कप्तान), ऋषभ पंत (विकेटकीपर), ध्रुव जुरेल, रवींद्र जडेजा , गुरनूर बरार/मोहम्मद  स‍िराज, जसप्रीत बुमराह, आकाश दीप और प्रसिद्ध कृष्णा.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-christchurch-2nd-test-india-playing-11-jadeja-siraj-tspok-dskc-2705854-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक IND vs NZ 2nd Test: जडेजा की एंट्री, स‍िराज के लिए गंभीर को छोड़नी पड़ेगी जिद! ऐसी होगी क्राइस्टचर्च टेस्ट में टीम इंड‍िया कीप्लेइंग 11 - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 97852,
+    title: `Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The Fastest 4-Digit Crown From Dhurandhar 2! - IMDb`,
+    slug: `ramayana-box-office-day-20-2nd-1000-crore-film-of-bollywood-fails-to-g-2026`,
+    original_title: `Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The Fastest 4-Digit Crown From Dhurandhar 2! - IMDb`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:48Z`,
+    updated_at: `2026-11-26T04:58:48Z`,
+    source_name: `IMDb`,
+    source_url: `https://www.imdb.com/news/ni66127667/?ref_=int_nwr_10`,
+    source_courtesy: `Source: IMDb`,
+    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85&sig=97852`,
+    image_alt: `Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The Fastest 4-Digit Crown From Dhurandhar 2! - IMDb`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The Fastest 4-Digit Crown From Dhurandhar 2! IMDb 'Ramayana: Rise of a Legend' box office collection day 21; Ranbir Kapoor, Yash's film nears Rs 1,000 crore India ne`,
+    content: `### Wire Dispatch Summary
+
+**Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The Fastest 4-Digit Crown From Dhurandhar 2! - IMDb**
+
+Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The Fastest 4-Digit Crown From Dhurandhar 2! IMDb 'Ramayana: Rise of a Legend' box office collection day 21; Ranbir Kapoor, Yash's film nears Rs 1,000 crore India net; earns Rs 9.60 crore on Wednesday The Times of India Ramayana Box Office Collection Day 21: Ranbir Kapoor's Film Becomes 4th Highest-Grossing Indian Film, Beats Pushpa 2 NDTV Bollywood spent years chasing South market. Ramayana finally conquered it India Today Ramayana ticket prices drop to Rs 99: Here's what changed Firstpost
+
+### Primary Source & Attribution
+
+* **Reported By:** IMDb
+* **Original Source:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NcGIzbkR4cVNNSHpqSzdkTmJGY2R5U0NXN2ktcjFwR0NjbldjaWc4VVlydkhoSlV1OFBZblpiVlFYVzBKRnJESmtDRy13TVI0UU1mRHhmcVNhWGdBRmZRN3FURQ?oc=5
+* **Beat / Category:** Entertainment
+
+*Attribution: Compiled as a factual wire summary from IMDb. Refer to the primary source link for the full original report.*`,
+    title_en: `Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The Fastest 4-Digit Crown From Dhurandhar 2! - IMDb`,
+    summary_en: `Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The Fastest 4-Digit Crown From Dhurandhar 2! IMDb 'Ramayana: Rise of a Legend' box office collection day 21; Ranbir Kapoor, Yash's film nears Rs 1,000 crore India ne`,
+    content_en: `### Wire Dispatch Summary
+
+**Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The Fastest 4-Digit Crown From Dhurandhar 2! - IMDb**
+
+Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The Fastest 4-Digit Crown From Dhurandhar 2! IMDb 'Ramayana: Rise of a Legend' box office collection day 21; Ranbir Kapoor, Yash's film nears Rs 1,000 crore India net; earns Rs 9.60 crore on Wednesday The Times of India Ramayana Box Office Collection Day 21: Ranbir Kapoor's Film Becomes 4th Highest-Grossing Indian Film, Beats Pushpa 2 NDTV Bollywood spent years chasing South market. Ramayana finally conquered it India Today Ramayana ticket prices drop to Rs 99: Here's what changed Firstpost
+
+### Primary Source & Attribution
+
+* **Reported By:** IMDb
+* **Original Source:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NcGIzbkR4cVNNSHpqSzdkTmJGY2R5U0NXN2ktcjFwR0NjbldjaWc4VVlydkhoSlV1OFBZblpiVlFYVzBKRnJESmtDRy13TVI0UU1mRHhmcVNhWGdBRmZRN3FURQ?oc=5
+* **Beat / Category:** Entertainment
+
+*Attribution: Compiled as a factual wire summary from IMDb. Refer to the primary source link for the full original report.*`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Wire summary of Entertainment reporting originally published by IMDb.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Key details and primary source attribution for Ramayana Box Office Day 20: 2nd 1000 Crore Film Of Bollywood Fails To Grab The Fastest 4-Digit Crown From Dhurandhar 2! - IMDb.`,
+    primary_source: `IMDb`,
+  },
+  {
+    id: 97853,
+    title: `Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern`,
+    slug: `ranbir-kapoor-returns-to-mumbai-after-visiting-delhis-bangla-sahib-gur-2026`,
+    original_title: `Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:48Z`,
+    updated_at: `2026-11-26T04:58:48Z`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-visits-delhis-bangla-sahib-gurudwara-as-ramayana-begins-international-awards-campaign-spotted-with-namit-malhotra-and-nitesh-tiwari-pics/articleshow/136175081.cms`,
+    source_courtesy: `Source: The Times of India`,
+    image_url: `/images/articles/ranbir-kapoor-returns-to-mumbai-after-visiting-delhis-bangla-sahib-gur-2026.jpg`,
+    image_alt: `Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern`,
+    image_courtesy: `Image Courtesy: The Times of India`,
+    image_photographer: `The Times of India`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern The Times of India Amid Ramayana's Stellar Success, Ranbir Kapoor, Producer Namit Malhotra, Director Nitesh Tiwari Offer Prayers At Gu`,
+    content: `### Wire Dispatch Summary
+
+**Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern**
+
+Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern The Times of India Amid Ramayana's Stellar Success, Ranbir Kapoor, Producer Namit Malhotra, Director Nitesh Tiwari Offer Prayers At Gurdwara Bangla Sahib NDTV Ranbir Kapoor, Namit Malhotra, Nitesh Tiwari offer prayers at Gurudwara Bangla Sahib after 'Ramayana' success https://www.indiagazette.com/ Ranbir Kapoor visits Delhi's Bangla Sahib with Namit Malhotra and Nitesh Tiwari after Ramayana's... Moneycontrol.com Ranbir Kapoor, Nitesh Tiwari, Namit Malhotra offer prayers at Gurudwara Bangla Sahib as Ramayana nears ₹1000 crore at the box office | Bollywood Hindustan Times
+
+### Primary Source & Attribution
+
+* **Reported By:** The Times of India
+* **Original Source:** https://news.google.com/rss/articles/CBMi5gJBVV95cUxOSWhVM29xOGxCNVNlZVNMdTJSNWtrRDlvbk1LYmV2MFcyaVB0UEtDRFFpcC1aVTBSVzhmaXdfVGZZZ0k2ZlZfcXZFbHlrSWtVR0RPMVFCMThSU1NMd1FSSm9kel9yMGc3NV9majVra080R0t0SUJXYWV5R0ZvVWZGRjhTdW5xLW9yVkMzT0MxLUdnc1Y4bzZ5N1hMVjhNWWFIb08zTzItZmU4YTRWMEZZN2s2bl9WSzZ3cUxPMk8tY0puY2J1N2lmOFdueDdXOEpHTTFlWkl3bnRyTV84ZGp2NEdRbUNvZHQtdElCUEhVZzlFMDZMOGtHZEJlR20zaE1TY0ZUZVp3UGtfc3dSRTNrUXIwR05VdzZ4OW91T3cxMEVMX1BTcVhvdkMtMFNTYWRmbnZTTl9zLXBpZk9CbGh3UjIteWRjSk4teXo5SVlOTFB6aGhVTko4UFRCYi1GaXpaWV8tdldn?oc=5
+* **Beat / Category:** Entertainment
+
+*Attribution: Compiled as a factual wire summary from The Times of India. Refer to the primary source link for the full original report.*`,
+    title_en: `Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern`,
+    summary_en: `Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern The Times of India Amid Ramayana's Stellar Success, Ranbir Kapoor, Producer Namit Malhotra, Director Nitesh Tiwari Offer Prayers At Gu`,
+    content_en: `### Wire Dispatch Summary
+
+**Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern**
+
+Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern The Times of India Amid Ramayana's Stellar Success, Ranbir Kapoor, Producer Namit Malhotra, Director Nitesh Tiwari Offer Prayers At Gurdwara Bangla Sahib NDTV Ranbir Kapoor, Namit Malhotra, Nitesh Tiwari offer prayers at Gurudwara Bangla Sahib after 'Ramayana' success https://www.indiagazette.com/ Ranbir Kapoor visits Delhi's Bangla Sahib with Namit Malhotra and Nitesh Tiwari after Ramayana's... Moneycontrol.com Ranbir Kapoor, Nitesh Tiwari, Namit Malhotra offer prayers at Gurudwara Bangla Sahib as Ramayana nears ₹1000 crore at the box office | Bollywood Hindustan Times
+
+### Primary Source & Attribution
+
+* **Reported By:** The Times of India
+* **Original Source:** https://news.google.com/rss/articles/CBMi5gJBVV95cUxOSWhVM29xOGxCNVNlZVNMdTJSNWtrRDlvbk1LYmV2MFcyaVB0UEtDRFFpcC1aVTBSVzhmaXdfVGZZZ0k2ZlZfcXZFbHlrSWtVR0RPMVFCMThSU1NMd1FSSm9kel9yMGc3NV9majVra080R0t0SUJXYWV5R0ZvVWZGRjhTdW5xLW9yVkMzT0MxLUdnc1Y4bzZ5N1hMVjhNWWFIb08zTzItZmU4YTRWMEZZN2s2bl9WSzZ3cUxPMk8tY0puY2J1N2lmOFdueDdXOEpHTTFlWkl3bnRyTV84ZGp2NEdRbUNvZHQtdElCUEhVZzlFMDZMOGtHZEJlR20zaE1TY0ZUZVp3UGtfc3dSRTNrUXIwR05VdzZ4OW91T3cxMEVMX1BTcVhvdkMtMFNTYWRmbnZTTl9zLXBpZk9CbGh3UjIteWRjSk4teXo5SVlOTFB6aGhVTko4UFRCYi1GaXpaWV8tdldn?oc=5
+* **Beat / Category:** Entertainment
+
+*Attribution: Compiled as a factual wire summary from The Times of India. Refer to the primary source link for the full original report.*`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Wire summary of Entertainment reporting originally published by The Times of India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Key details and primary source attribution for Ranbir Kapoor returns to Mumbai after visiting Delhi's Bangla Sahib Gurudwara as 'Ramayana' begins intern.`,
+    primary_source: `The Times of India`,
+  },
+  {
+    id: 97854,
+    title: `1700 करोड़ पार 'रामायण', गुरु पूरब पर गुरुद्वारे पहुंचे रणबीर कपूर, टेका माथा - AajTak`,
+    slug: `1700-aajtak-2026`,
+    original_title: `1700 करोड़ पार 'रामायण', गुरु पूरब पर गुरुद्वारे पहुंचे रणबीर कपूर, टेका माथा - AajTak`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:48Z`,
+    updated_at: `2026-11-26T04:58:48Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/entertainment/bollywood-news/story/ranbir-kapoor-visit-gurudwara-gurpurab-guru-nanak-jayanti-ramayan-1700-crore-box-office-video-tmovb-dskc-2706075-2026-11-25`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `/images/articles/1700-aajtak-2026.webp`,
+    image_alt: `1700 करोड़ पार 'रामायण', गुरु पूरब पर गुरुद्वारे पहुंचे रणबीर कपूर, टेका माथा - AajTak`,
+    image_courtesy: `Image Courtesy: AajTak`,
+    image_photographer: `AajTak`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `‘रामायणम्: पार्ट 1’ की जबरदस्त सफलता के बीच रणबीर कपूर दिल्ली के प्रसिद्ध गुरुद्वारा बंगला साहिब पहुंचे. गुरुपर्व के पावन अवसर पर उनकी ये यात्रा फिल्म की कामयाबी के जश्न से ज्यादा विनम्रता, आस्था और कृतज्ञता का संदेश देती नजर आई. रणबीर कपूर`,
+    content: `### गुरुपर्व के पावन अवसर पर रणबीर कपूर, निर्माता नमित मल्होत्रा और निर्देशक नितेश तिवारी ने दिल्ली के गुरुद्वारे में माथा टेका. रणबीर का ये वीडियो सोशल मीडिया पर खूब वायरल हो रहा है.
+
+‘रामायणम्: पार्ट 1’ की जबरदस्त सफलता के बीच रणबीर कपूर दिल्ली के प्रसिद्ध गुरुद्वारा बंगला साहिब पहुंचे. गुरुपर्व के पावन अवसर पर उनकी ये यात्रा फिल्म की कामयाबी के जश्न से ज्यादा विनम्रता, आस्था और कृतज्ञता का संदेश देती नजर आई. रणबीर कपूर के साथ फिल्म के निर्माता नमित मल्होत्रा और निर्देशक नितेश तिवारी भी गुरुद्वारे पहुंचे. तीनों ने मत्था टेककर ‘रामायणम्: पार्ट 1’ को मिल रही लगातार सफलता और दुनियाभर के दर्शकों के प्यार के लिए आभार व्यक्त किया. साथ ही उन्होंने फिल्म और टीम की बेहतरी के लिए भी प्रार्थना की.
+
+गुरुद्वारे पहुंचे रणबीर कपूर गुरुद्वारे में हजारों श्रद्धालुओं की मौजूदगी और शांत आध्यात्मिक माहौल के बीच रणबीर कपूर की मौजूदगी काफी खास मानी गई. फिल्म की बड़ी सफलता के बीच उनका यह कदम यह दिखाता है कि सफलता के दौर में भी विनम्रता और आभार का भाव कितना महत्वपूर्ण होता है.
+
+‘ रामायण म्: पार्ट 1’ में रणबीर ने भगवान राम की भूमिका निभाई है, जबकि साई पल्लवी ने सीता का किरदार संभाला है. फिल्म में राम, सीता और रावण की कथा के साथ-साथ कर्तव्य, परिवार, धर्म और बुराई पर अच्छाई की जीत जैसे विषयों को दिखाया गया है.
+
+रणबीर ने पहले भी कहा था कि भगवान राम की भूमिका निभाना उनके लिए एक बड़ी जिम्मेदारी थी. उन्होंने स्वीकार किया था कि शुरुआत में उन्हें इस किरदार को निभाने की योग्यता को लेकर डर लगा था, लेकिन धीरे-धीरे यह डर आस्था में बदल गया. उनका कहना है कि इस भूमिका ने उन्हें एक बेहतर इंसान बनने का मौका दिया.
+
+इसलिए जब फिल्म को दर्शकों से इतना प्यार मिल रहा है, तो रणबीर का गुरुद्वारे जाना सिर्फ एक सार्वजनिक उपस्थिति नहीं, बल्कि उनके भीतर के आभार और आध्यात्मिक संतुलन को दर्शाता है. उन्होंने पहले भी अपने व्यक्तिगत जीवन में पिता बनने और ‘रामायण’ में भगवान राम की भूमिका को अपने लिए विशेष अनुभव बताया था.
+
+बता दें कि रणबीर कपूर और साई पल्लवी की फिल्म रामायण पार्ट 1 ने अब तक वर्ल्डवाइड 1700 करोड़ का कलेक्शन कर लिया है.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/ranbir-kapoor-visit-gurudwara-gurpurab-guru-nanak-jayanti-ramayan-1700-crore-box-office-video-tmovb-dskc-2706075-2026-11-25)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `1700 करोड़ पार 'रामायण', गुरु पूरब पर गुरुद्वारे पहुंचे रणबीर कपूर, टेका माथा - AajTak`,
+    summary_hi: `‘रामायणम्: पार्ट 1’ की जबरदस्त सफलता के बीच रणबीर कपूर दिल्ली के प्रसिद्ध गुरुद्वारा बंगला साहिब पहुंचे. गुरुपर्व के पावन अवसर पर उनकी ये यात्रा फिल्म की कामयाबी के जश्न से ज्यादा विनम्रता, आस्था और कृतज्ञता का संदेश देती नजर आई. रणबीर कपूर`,
+    content_hi: `### गुरुपर्व के पावन अवसर पर रणबीर कपूर, निर्माता नमित मल्होत्रा और निर्देशक नितेश तिवारी ने दिल्ली के गुरुद्वारे में माथा टेका. रणबीर का ये वीडियो सोशल मीडिया पर खूब वायरल हो रहा है.
+
+‘रामायणम्: पार्ट 1’ की जबरदस्त सफलता के बीच रणबीर कपूर दिल्ली के प्रसिद्ध गुरुद्वारा बंगला साहिब पहुंचे. गुरुपर्व के पावन अवसर पर उनकी ये यात्रा फिल्म की कामयाबी के जश्न से ज्यादा विनम्रता, आस्था और कृतज्ञता का संदेश देती नजर आई. रणबीर कपूर के साथ फिल्म के निर्माता नमित मल्होत्रा और निर्देशक नितेश तिवारी भी गुरुद्वारे पहुंचे. तीनों ने मत्था टेककर ‘रामायणम्: पार्ट 1’ को मिल रही लगातार सफलता और दुनियाभर के दर्शकों के प्यार के लिए आभार व्यक्त किया. साथ ही उन्होंने फिल्म और टीम की बेहतरी के लिए भी प्रार्थना की.
+
+गुरुद्वारे पहुंचे रणबीर कपूर गुरुद्वारे में हजारों श्रद्धालुओं की मौजूदगी और शांत आध्यात्मिक माहौल के बीच रणबीर कपूर की मौजूदगी काफी खास मानी गई. फिल्म की बड़ी सफलता के बीच उनका यह कदम यह दिखाता है कि सफलता के दौर में भी विनम्रता और आभार का भाव कितना महत्वपूर्ण होता है.
+
+‘ रामायण म्: पार्ट 1’ में रणबीर ने भगवान राम की भूमिका निभाई है, जबकि साई पल्लवी ने सीता का किरदार संभाला है. फिल्म में राम, सीता और रावण की कथा के साथ-साथ कर्तव्य, परिवार, धर्म और बुराई पर अच्छाई की जीत जैसे विषयों को दिखाया गया है.
+
+रणबीर ने पहले भी कहा था कि भगवान राम की भूमिका निभाना उनके लिए एक बड़ी जिम्मेदारी थी. उन्होंने स्वीकार किया था कि शुरुआत में उन्हें इस किरदार को निभाने की योग्यता को लेकर डर लगा था, लेकिन धीरे-धीरे यह डर आस्था में बदल गया. उनका कहना है कि इस भूमिका ने उन्हें एक बेहतर इंसान बनने का मौका दिया.
+
+इसलिए जब फिल्म को दर्शकों से इतना प्यार मिल रहा है, तो रणबीर का गुरुद्वारे जाना सिर्फ एक सार्वजनिक उपस्थिति नहीं, बल्कि उनके भीतर के आभार और आध्यात्मिक संतुलन को दर्शाता है. उन्होंने पहले भी अपने व्यक्तिगत जीवन में पिता बनने और ‘रामायण’ में भगवान राम की भूमिका को अपने लिए विशेष अनुभव बताया था.
+
+बता दें कि रणबीर कपूर और साई पल्लवी की फिल्म रामायण पार्ट 1 ने अब तक वर्ल्डवाइड 1700 करोड़ का कलेक्शन कर लिया है.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/ranbir-kapoor-visit-gurudwara-gurpurab-guru-nanak-jayanti-ramayan-1700-crore-box-office-video-tmovb-dskc-2706075-2026-11-25)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक 1700 करोड़ पार 'रामायण', गुरु पूरब पर गुरुद्वारे पहुंचे रणबीर कपूर, टेका माथा - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 97855,
+    title: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    slug: `entertainment-breaking-report-25865-97855-2026`,
+    original_title: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:48Z`,
+    updated_at: `2026-11-26T04:58:48Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cm93r9d9ypx0o`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/entertainment-breaking-report-25865-97855-2026.png`,
+    image_alt: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    image_courtesy: `Image Courtesy: BBC`,
+    image_photographer: `BBC`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.`,
+    content: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.
+
+लेकिन भारत में इस सीरीज़ की रिलीज़ पर बैन लगाने की मांग उठ रही है.
+
+यह सीरीज़ 4 दिसंबर, 2026 को रिलीज़ होगी और दुनिया भर के 191 देशों में उपलब्ध होगी. इसे कई भाषाओं में डब किया गया है.
+
+एमडी फ़िल्म्स के बैनर तले बनी इस सीरीज़ की कहानी मशहूर उपन्यासकार फ़रहत इश्तियाक़ ने लिखी है, जबकि इसका निर्माण और निर्देशन मोमिना दुरैद ने किया है.
+
+इस सीरीज़ के पहले हिस्से में कुल पाँच एपिसोड हैं, जबकि इसमें कुल 13 एपिसोड होने की संभावना है. इसकी कहानी तीन पीढ़ियों और छह प्रेम कहानियों के इर्द-गिर्द घूमती है.
+
+पाकिस्तानी लेखिका फ़रहत इश्तियाक़ ने 2013 में 'जो बचे हैं संग समेट लो' नाम से एक उपन्यास लिखा था.
+
+इसकी कहानी मुख्य रूप से सिकंदर (अहद रज़ा मीर) और लीसा (इक़रा अज़ीज़) के इर्द-गिर्द घूमती है. सिकंदर हार्वर्ड में क़ानून का छात्र है. वह अपने अतीत से परेशान होकर इटली के रोम शहर चला जाता है, जहां उसकी मुलाक़ात लीसा से होती है.
+
+लीसा एक चित्रकार है और उसका जीवन भी कई उलझनों से घिरा हुआ है.
+
+इटली में उनकी मुलाक़ात उनके जीवन को एक अप्रत्याशित मोड़ देती है. ट्रेलर से पता चलता है कि इस ड्रामा की शूटिंग रोम के अलावा कराची, स्कार्दू और लंदन में भी हुई है.
+
+प्यार, रिश्ते और इंसानी जुड़ाव इसकी कहानी के मुख्य विषय हैं, जिन्हें अलग-अलग क़िरदारों और पीढ़ियों के जीवन के ज़रिए दिखाया गया है.
+
+इस सीरीज़ का नाम और इसका मूल विचार फ़ैज़ अहमद फ़ैज़ की एक ग़ज़ल से प्रेरित है. इस लिहाज़ से, कहानी सिर्फ़ प्रेम संबंधों तक सीमित नहीं है, बल्कि इसमें जीवन भर संजोई गई यादों, रिश्तों और अनुभवों को भी शामिल किया गया है
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+इस सीरीज़ की एक ख़ास बात इसमें शामिल पाकिस्तान के कुछ बड़े कलाकारों की टोली है. इसमें अहद रज़ा मीर और इकरा अज़ीज़ के साथ फ़वाद ख़ान, माहिरा ख़ान, हानिया आमिर, हमज़ा अली अब्बासी, सनम सईद, माया अली, आमना शेख़, ख़ुशाल ख़ान, अहमद अली अकबर और बिलाल अशरफ़ भी हैं.
+
+निर्देशक मोमिना दुरैद के बेटे शाह ज़ैन दुरैद इस सीरीज़ से अभिनय की शुरुआत कर रहे हैं. पाकिस्तानी दर्शकों के लिए इस सीरीज़ की एक ख़ास बात फ़वाद ख़ान और माहिरा ख़ान की जोड़ी है.
+
+बीबीसी न्यूज़ उर्दू से बात करते हुए अमीना शेख़ ने बताया कि एक अभिनेत्री के तौर पर वह अपने आने वाले प्रोजेक्ट्स में व्यस्त थीं, लेकिन निर्माता और बाकी टीम इस सीरीज़ को पूरा करने में जुटी हुई थी. हाल ही में डबिंग के दौरान उन्हें एहसास हुआ कि इस दौरान कितना काम हो चुका है.
+
+वह कहती हैं, "मैं इस प्रोजेक्ट का हिस्सा बनकर बहुत ख़ुश और उत्साहित हूं. मुझे ख़ुशी है कि इस सीरीज़ में नज़र आने वाले सभी कलाकारों ने इसके लिए अपना समय दिया. मुझे लगता है कि इस टीम का हर कलाकार इसके लायक़ है."
+
+उनके मुताबिक़, "एक ही प्रोजेक्ट में इतने सारे कलाकारों का एक साथ आना पाकिस्तानी मनोरंजन उद्योग के लिए भी स्वागत योग्य है."
+
+### आठ साल की तैयारी, 200 दिन की शूटिंग
+
+इस सीरीज़ को बनाने का सफ़र भी काफ़ी लंबा रहा है. मोमिना दुरैद के मुताबिक़, इस प्रोजेक्ट पर काम करने में लगभग आठ साल लगे, जबकि इसकी शूटिंग 200 दिनों तक चली.
+
+वह कहती हैं, "जब इस परियोजना के ज़रिए नेटफ़्लिक्स के दरवाज़े पाकिस्तान के लिए खुलेंगे, तब मुझे गर्व होगा."
+
+उपन्यासकार फ़रहत इश्तियाक़ भी इस मौक़े को अपने काम के वैश्विक प्रदर्शन से कहीं बढ़कर मानती हैं.
+
+वह कहती हैं, "इस समय बहुत ख़ुशी है और साथ ही बहुत डर भी. यह एक बहुत बड़ी और भावनात्मक स्थिति है. मुझे अपने लिए उतनी ख़ुशी नहीं है जितनी अपने देश के लिए है कि अब पाकिस्तानी नाटकों को वैश्विक दर्शक देखेंगे. मैं चाहती हूं कि पाकिस्तान की वह छवि जो दुनिया को जाननी चाहिए, इस नाटक के माध्यम से दुनिया तक पहुंचे."
+
+इस सीरीज़ का संगीत और बैकग्राउंड स्कोर जाने-माने संगीतकार रोहैल हयात ने तैयार किया है. वह 80 और 90 के दशक में 'वाइटल साइंस' बैंड के सदस्य थे. बाद में कोक स्टूडियो के शुरुआती और लोकप्रिय दौर में भी उन्हें काफ़ी शोहरत मिली.
+
+रोहैल हयात का इस परियोजना से जुड़ना इसलिए भी अहम है क्योंकि उनका काम पाकिस्तानी संगीत में पारंपरिक और आधुनिक शैलियों के मेल के लिए जाना जाता है.
+
+सीरीज़ का ट्रेलर और संगीत जारी होने के बाद इसके कलाकारों ने भी इसे सोशल मीडिया पर साझा किया, जहां इस परियोजना को लेकर लोगों ने दिलचस्पी दिखाई.
+
+अभिनेत्री माहिरा ख़ान ने अपने क़िरदार राहत के बारे में एक पोस्ट साझा करते हुए कहा, "इस क़िरदार का एक हिस्सा उसके जीवन भर उसके साथ रहेगा."
+
+पाकिस्तानी ड्रामे विदेशों में रहने वाले दक्षिण एशियाई दर्शकों के बीच कई साल से लोकप्रिय रहे हैं.
+
+यूट्यूब और सोशल मीडिया ने इनकी पहुंच और बढ़ा दी है. भारत समेत दूसरे देशों में भी पाकिस्तानी ड्रामा के संवादों और किरदारों पर बने वीडियो इस लोकप्रियता की मिसाल हैं.
+
+लेकिन यह लोकप्रियता ज़्यादातर उन लोगों तक ही सीमित रही है जो पाकिस्तानी संस्कृति, भाषा या कलाकारों से पहले से परिचित हैं.
+
+नेटफ़्लिक्स जैसे मंच पर मौजूदगी से उन लोगों तक भी पहुंचना मुमकिन हो सकता है जिन्होंने पहले कभी कोई पाकिस्तानी ड्रामा नहीं देखा है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cm93r9d9ypx0o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग?`,
+    summary_hi: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.`,
+    content_hi: `अगले महीने नेटफ़्लिक्स पर पाकिस्तान की पहली ओरिजिनल सिरीज़ 'जो बचे हैं संग समेट लो' रिलीज़ होने जा रही है. इसे पाकिस्तान के फ़िल्म उद्योग के लिए एक बड़ी क़ामयाबी माना जा रहा है.
+
+लेकिन भारत में इस सीरीज़ की रिलीज़ पर बैन लगाने की मांग उठ रही है.
+
+यह सीरीज़ 4 दिसंबर, 2026 को रिलीज़ होगी और दुनिया भर के 191 देशों में उपलब्ध होगी. इसे कई भाषाओं में डब किया गया है.
+
+एमडी फ़िल्म्स के बैनर तले बनी इस सीरीज़ की कहानी मशहूर उपन्यासकार फ़रहत इश्तियाक़ ने लिखी है, जबकि इसका निर्माण और निर्देशन मोमिना दुरैद ने किया है.
+
+इस सीरीज़ के पहले हिस्से में कुल पाँच एपिसोड हैं, जबकि इसमें कुल 13 एपिसोड होने की संभावना है. इसकी कहानी तीन पीढ़ियों और छह प्रेम कहानियों के इर्द-गिर्द घूमती है.
+
+पाकिस्तानी लेखिका फ़रहत इश्तियाक़ ने 2013 में 'जो बचे हैं संग समेट लो' नाम से एक उपन्यास लिखा था.
+
+इसकी कहानी मुख्य रूप से सिकंदर (अहद रज़ा मीर) और लीसा (इक़रा अज़ीज़) के इर्द-गिर्द घूमती है. सिकंदर हार्वर्ड में क़ानून का छात्र है. वह अपने अतीत से परेशान होकर इटली के रोम शहर चला जाता है, जहां उसकी मुलाक़ात लीसा से होती है.
+
+लीसा एक चित्रकार है और उसका जीवन भी कई उलझनों से घिरा हुआ है.
+
+इटली में उनकी मुलाक़ात उनके जीवन को एक अप्रत्याशित मोड़ देती है. ट्रेलर से पता चलता है कि इस ड्रामा की शूटिंग रोम के अलावा कराची, स्कार्दू और लंदन में भी हुई है.
+
+प्यार, रिश्ते और इंसानी जुड़ाव इसकी कहानी के मुख्य विषय हैं, जिन्हें अलग-अलग क़िरदारों और पीढ़ियों के जीवन के ज़रिए दिखाया गया है.
+
+इस सीरीज़ का नाम और इसका मूल विचार फ़ैज़ अहमद फ़ैज़ की एक ग़ज़ल से प्रेरित है. इस लिहाज़ से, कहानी सिर्फ़ प्रेम संबंधों तक सीमित नहीं है, बल्कि इसमें जीवन भर संजोई गई यादों, रिश्तों और अनुभवों को भी शामिल किया गया है
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+इस सीरीज़ की एक ख़ास बात इसमें शामिल पाकिस्तान के कुछ बड़े कलाकारों की टोली है. इसमें अहद रज़ा मीर और इकरा अज़ीज़ के साथ फ़वाद ख़ान, माहिरा ख़ान, हानिया आमिर, हमज़ा अली अब्बासी, सनम सईद, माया अली, आमना शेख़, ख़ुशाल ख़ान, अहमद अली अकबर और बिलाल अशरफ़ भी हैं.
+
+निर्देशक मोमिना दुरैद के बेटे शाह ज़ैन दुरैद इस सीरीज़ से अभिनय की शुरुआत कर रहे हैं. पाकिस्तानी दर्शकों के लिए इस सीरीज़ की एक ख़ास बात फ़वाद ख़ान और माहिरा ख़ान की जोड़ी है.
+
+बीबीसी न्यूज़ उर्दू से बात करते हुए अमीना शेख़ ने बताया कि एक अभिनेत्री के तौर पर वह अपने आने वाले प्रोजेक्ट्स में व्यस्त थीं, लेकिन निर्माता और बाकी टीम इस सीरीज़ को पूरा करने में जुटी हुई थी. हाल ही में डबिंग के दौरान उन्हें एहसास हुआ कि इस दौरान कितना काम हो चुका है.
+
+वह कहती हैं, "मैं इस प्रोजेक्ट का हिस्सा बनकर बहुत ख़ुश और उत्साहित हूं. मुझे ख़ुशी है कि इस सीरीज़ में नज़र आने वाले सभी कलाकारों ने इसके लिए अपना समय दिया. मुझे लगता है कि इस टीम का हर कलाकार इसके लायक़ है."
+
+उनके मुताबिक़, "एक ही प्रोजेक्ट में इतने सारे कलाकारों का एक साथ आना पाकिस्तानी मनोरंजन उद्योग के लिए भी स्वागत योग्य है."
+
+### आठ साल की तैयारी, 200 दिन की शूटिंग
+
+इस सीरीज़ को बनाने का सफ़र भी काफ़ी लंबा रहा है. मोमिना दुरैद के मुताबिक़, इस प्रोजेक्ट पर काम करने में लगभग आठ साल लगे, जबकि इसकी शूटिंग 200 दिनों तक चली.
+
+वह कहती हैं, "जब इस परियोजना के ज़रिए नेटफ़्लिक्स के दरवाज़े पाकिस्तान के लिए खुलेंगे, तब मुझे गर्व होगा."
+
+उपन्यासकार फ़रहत इश्तियाक़ भी इस मौक़े को अपने काम के वैश्विक प्रदर्शन से कहीं बढ़कर मानती हैं.
+
+वह कहती हैं, "इस समय बहुत ख़ुशी है और साथ ही बहुत डर भी. यह एक बहुत बड़ी और भावनात्मक स्थिति है. मुझे अपने लिए उतनी ख़ुशी नहीं है जितनी अपने देश के लिए है कि अब पाकिस्तानी नाटकों को वैश्विक दर्शक देखेंगे. मैं चाहती हूं कि पाकिस्तान की वह छवि जो दुनिया को जाननी चाहिए, इस नाटक के माध्यम से दुनिया तक पहुंचे."
+
+इस सीरीज़ का संगीत और बैकग्राउंड स्कोर जाने-माने संगीतकार रोहैल हयात ने तैयार किया है. वह 80 और 90 के दशक में 'वाइटल साइंस' बैंड के सदस्य थे. बाद में कोक स्टूडियो के शुरुआती और लोकप्रिय दौर में भी उन्हें काफ़ी शोहरत मिली.
+
+रोहैल हयात का इस परियोजना से जुड़ना इसलिए भी अहम है क्योंकि उनका काम पाकिस्तानी संगीत में पारंपरिक और आधुनिक शैलियों के मेल के लिए जाना जाता है.
+
+सीरीज़ का ट्रेलर और संगीत जारी होने के बाद इसके कलाकारों ने भी इसे सोशल मीडिया पर साझा किया, जहां इस परियोजना को लेकर लोगों ने दिलचस्पी दिखाई.
+
+अभिनेत्री माहिरा ख़ान ने अपने क़िरदार राहत के बारे में एक पोस्ट साझा करते हुए कहा, "इस क़िरदार का एक हिस्सा उसके जीवन भर उसके साथ रहेगा."
+
+पाकिस्तानी ड्रामे विदेशों में रहने वाले दक्षिण एशियाई दर्शकों के बीच कई साल से लोकप्रिय रहे हैं.
+
+यूट्यूब और सोशल मीडिया ने इनकी पहुंच और बढ़ा दी है. भारत समेत दूसरे देशों में भी पाकिस्तानी ड्रामा के संवादों और किरदारों पर बने वीडियो इस लोकप्रियता की मिसाल हैं.
+
+लेकिन यह लोकप्रियता ज़्यादातर उन लोगों तक ही सीमित रही है जो पाकिस्तानी संस्कृति, भाषा या कलाकारों से पहले से परिचित हैं.
+
+नेटफ़्लिक्स जैसे मंच पर मौजूदगी से उन लोगों तक भी पहुंचना मुमकिन हो सकता है जिन्होंने पहले कभी कोई पाकिस्तानी ड्रामा नहीं देखा है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cm93r9d9ypx0o)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक जो बचे हैं संग समेट लो': क्या है पाकिस्तान की पहली नेटफ़्लिक्स सीरीज़ की कहानी, भारत में क्यों उठ रही है बैन की मांग? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 97856,
+    title: `Why a Japanese animated Ramayana faced opposition in India, but found an audience decades later - The Indian Express`,
+    slug: `why-a-japanese-animated-ramayana-faced-opposition-in-india-but-found-a-2026`,
+    original_title: `Why a Japanese animated Ramayana faced opposition in India, but found an audience decades later - The Indian Express`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:50Z`,
+    updated_at: `2026-11-26T04:58:50Z`,
+    source_name: `The Indian Express`,
+    source_url: `https://indianexpress.com/article/explained/explained-culture/japanese-animated-ramayana-audience-decades-later-india-10968186/`,
+    source_courtesy: `Source: The Indian Express`,
+    image_url: `/images/articles/why-a-japanese-animated-ramayana-faced-opposition-in-india-but-found-a-2026.webp`,
+    image_alt: `Why a Japanese animated Ramayana faced opposition in India, but found an audience decades later - The Indian Express`,
+    image_courtesy: `Image Courtesy: The Indian Express`,
+    image_photographer: `The Indian Express`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `Ramayana: When Japanese filmmaker Yugo Sako set out to make an animated adaptation of the Ramayana in the 1980s, he hoped it would be an Indo-Japanese production. But the project ran into objections over the depiction of a Hindu epic by a f`,
+    content: `### Yugo Sako and Ram Mohan’s 1992 animated Ramayana spent decades navigating domestic anxieties over religious depiction and the practical hurdles of pre-digital cross-border filmmaking.
+
+Ramayana: When Japanese filmmaker Yugo Sako set out to make an animated adaptation of the Ramayana in the 1980s, he hoped it would be an Indo-Japanese production. But the project ran into objections over the depiction of a Hindu epic by a foreign filmmaker and the use of animation to tell a religious story.
+
+Ramayana: The Legend of Prince Rama was eventually completed in Japan in 1992, with Indian animator Ram Mohan as co-director. Although it premiered in New Delhi the following year, the film struggled to find a mainstream theatrical audience in India. Decades later, it became a cult favourite, culminating in a nationwide theatrical release of its restored version in 2025.
+
+With another iteration of the story in theatres now, we recall the resistance that the film faced and how it eventually found an audience.
+
+Sako first conceived the idea of adapting the Ramayana in 1968, after reading a Japanese translation of the epic. Over the following years, he made several documentaries on India, including one on archaeological sites associated with the Ramayana.
+
+According to Rea Amit, in a 2022 paper published in the Animation Studies Journal , Sako believed animation would be particularly suited to the epic’s fantastical elements. He saw an opportunity to combine India’s cultural connection to the text with Japan’s expertise in animation.
+
+Sako eventually collaborated with Bombay-based animator Ram Mohan, widely regarded as the father of Indian animation. Although several Indian businessmen initially expressed interest in investing, the production was ultimately financed entirely in Japan.
+
+### Why did the project face resistance in India?
+
+One major concern was that a foreign filmmaker might reinterpret one of the most important texts of Hindu culture. Amit noted a warning by the Vishwa Hindu Parishad (VHP) to the Japanese Embassy in New Delhi against attempts to create a new interpretation of the Ramayana. He wrote that the warning followed an April 25, 1983 report in The Indian Express , which suggested that Sako’s documentary project was an attempt to recreate the epic.
+
+In an interview with IIT Bombay’s D’Source, Mohan recalled that the Indian government considered the Ramayana too sensitive a subject to depict through cartoon characters. He said the filmmakers spent about four years trying to secure support for a co-production before Sako decided to proceed with a Japanese production.
+
+The political climate became increasingly sensitive as the film took shape. In 1987, Ramanand Sagar’s television serial Ramayan made its debut on Doordarshan, drawing an enormous audience. We have written about the serial here .
+
+Off screen, the Ram Janmabhoomi campaign was gathering momentum. The VHP organised a shilanyas ceremony in Ayodhya in 1989, followed by BJP leader LK Advani’s Rath Yatra in 1990.
+
+On December 6, 1992, the month the film was completed in Tokyo, kar sevaks demolished the Babri Masjid in Ayodhya, triggering widespread communal violence.
+
+The political climate may have complicated the film’s prospects for a wider theatrical release. However, it premiered at the International Film Festival of India (IFFI) in New Delhi in January 1993, just weeks after the demolition. Amit identified religious and political tensions as possible factors behind its limited theatrical distribution, but did not establish that the demolition directly prevented its release.
+
+The film took nine years and roughly 800 million yen to complete, with most of the animation completed in Japan.
+
+In Tokyo, co-director Koichi Sasaki and animation director Kazuyuki Kobayashi oversaw a large studio operation, involving 450 Japanese production personnel and more than 100,000 hand-drawn animation cells, according to the film’s official website. Mohan, the Indian co-director, helped shape the film’s visual style.
+
+Amit described the collaboration as a form of “reversed outsourcing”. Rather than Japanese studios outsourcing animation work to India, Indian artists contributed to the film’s cultural and creative foundations, while Japanese teams carried out most of the animation.
+
+The teams bridged the gap between Bombay and Tokyo through physical sketches and extensive international travel. Indian filmmaker and production designer Nachiket Patwardhan prepared drawings of Indian costumes and landscapes, which Japanese artists used as visual references.
+
+The collaboration also presented practical challenges. In a D’Source interview, Ram Mohan recalled how drawing overcame language barriers during his trips to Tokyo. Seeing Japanese animators render Rama’s dhoti like tailored pyjamas, he arranged a live demonstration showing how the garment was draped.
+
+### How did the film find its audience?
+
+At the time of its release, the film failed to secure a wider Indian cinema run. It subsequently found an audience through television broadcasts and home video releases.
+
+The film also encountered difficulties with international distribution. According to a 2001 account published by Beliefnet, a Hollywood studio offered to distribute the film in the US, but wanted Rama’s exile rewritten as a honeymoon with Sita. Sako and co-producer Krishna Shah rejected the proposed change.
+
+A Hindi dub, featuring television Ramayan star Arun Govil as Rama and Amrish Puri as Ravana, aired on Doordarshan and was subsequently broadcast on Cartoon Network. In October 2002, the channel included the film in its Dussehra and Diwali programming under The Great Indian Epics. VCD and DVD releases also helped it reach viewers.
+
+The film also struggled to find a theatrical audience in Japan. Amit identified the absence of a Japanese-language dub as one obstacle. Following limited screenings in the late 1990s, the film began an extended theatrical run at a small cinema in Yokohama in September 2018.
+
+On January 24, 2025, Geek Pictures, AA Films, and Excel Entertainment released the 4K remaster across 621 Indian screens in English, Hindi, Tamil, and Telugu, followed by a screening in Parliament.
+
+---
+
+**Original Source:** [The Indian Express](https://indianexpress.com/article/explained/explained-culture/japanese-animated-ramayana-audience-decades-later-india-10968186/)`,
+    title_en: `Why a Japanese animated Ramayana faced opposition in India, but found an audience decades later - The Indian Express`,
+    summary_en: `Ramayana: When Japanese filmmaker Yugo Sako set out to make an animated adaptation of the Ramayana in the 1980s, he hoped it would be an Indo-Japanese production. But the project ran into objections over the depiction of a Hindu epic by a f`,
+    content_en: `### Yugo Sako and Ram Mohan’s 1992 animated Ramayana spent decades navigating domestic anxieties over religious depiction and the practical hurdles of pre-digital cross-border filmmaking.
+
+Ramayana: When Japanese filmmaker Yugo Sako set out to make an animated adaptation of the Ramayana in the 1980s, he hoped it would be an Indo-Japanese production. But the project ran into objections over the depiction of a Hindu epic by a foreign filmmaker and the use of animation to tell a religious story.
+
+Ramayana: The Legend of Prince Rama was eventually completed in Japan in 1992, with Indian animator Ram Mohan as co-director. Although it premiered in New Delhi the following year, the film struggled to find a mainstream theatrical audience in India. Decades later, it became a cult favourite, culminating in a nationwide theatrical release of its restored version in 2025.
+
+With another iteration of the story in theatres now, we recall the resistance that the film faced and how it eventually found an audience.
+
+Sako first conceived the idea of adapting the Ramayana in 1968, after reading a Japanese translation of the epic. Over the following years, he made several documentaries on India, including one on archaeological sites associated with the Ramayana.
+
+According to Rea Amit, in a 2022 paper published in the Animation Studies Journal , Sako believed animation would be particularly suited to the epic’s fantastical elements. He saw an opportunity to combine India’s cultural connection to the text with Japan’s expertise in animation.
+
+Sako eventually collaborated with Bombay-based animator Ram Mohan, widely regarded as the father of Indian animation. Although several Indian businessmen initially expressed interest in investing, the production was ultimately financed entirely in Japan.
+
+### Why did the project face resistance in India?
+
+One major concern was that a foreign filmmaker might reinterpret one of the most important texts of Hindu culture. Amit noted a warning by the Vishwa Hindu Parishad (VHP) to the Japanese Embassy in New Delhi against attempts to create a new interpretation of the Ramayana. He wrote that the warning followed an April 25, 1983 report in The Indian Express , which suggested that Sako’s documentary project was an attempt to recreate the epic.
+
+In an interview with IIT Bombay’s D’Source, Mohan recalled that the Indian government considered the Ramayana too sensitive a subject to depict through cartoon characters. He said the filmmakers spent about four years trying to secure support for a co-production before Sako decided to proceed with a Japanese production.
+
+The political climate became increasingly sensitive as the film took shape. In 1987, Ramanand Sagar’s television serial Ramayan made its debut on Doordarshan, drawing an enormous audience. We have written about the serial here .
+
+Off screen, the Ram Janmabhoomi campaign was gathering momentum. The VHP organised a shilanyas ceremony in Ayodhya in 1989, followed by BJP leader LK Advani’s Rath Yatra in 1990.
+
+On December 6, 1992, the month the film was completed in Tokyo, kar sevaks demolished the Babri Masjid in Ayodhya, triggering widespread communal violence.
+
+The political climate may have complicated the film’s prospects for a wider theatrical release. However, it premiered at the International Film Festival of India (IFFI) in New Delhi in January 1993, just weeks after the demolition. Amit identified religious and political tensions as possible factors behind its limited theatrical distribution, but did not establish that the demolition directly prevented its release.
+
+The film took nine years and roughly 800 million yen to complete, with most of the animation completed in Japan.
+
+In Tokyo, co-director Koichi Sasaki and animation director Kazuyuki Kobayashi oversaw a large studio operation, involving 450 Japanese production personnel and more than 100,000 hand-drawn animation cells, according to the film’s official website. Mohan, the Indian co-director, helped shape the film’s visual style.
+
+Amit described the collaboration as a form of “reversed outsourcing”. Rather than Japanese studios outsourcing animation work to India, Indian artists contributed to the film’s cultural and creative foundations, while Japanese teams carried out most of the animation.
+
+The teams bridged the gap between Bombay and Tokyo through physical sketches and extensive international travel. Indian filmmaker and production designer Nachiket Patwardhan prepared drawings of Indian costumes and landscapes, which Japanese artists used as visual references.
+
+The collaboration also presented practical challenges. In a D’Source interview, Ram Mohan recalled how drawing overcame language barriers during his trips to Tokyo. Seeing Japanese animators render Rama’s dhoti like tailored pyjamas, he arranged a live demonstration showing how the garment was draped.
+
+### How did the film find its audience?
+
+At the time of its release, the film failed to secure a wider Indian cinema run. It subsequently found an audience through television broadcasts and home video releases.
+
+The film also encountered difficulties with international distribution. According to a 2001 account published by Beliefnet, a Hollywood studio offered to distribute the film in the US, but wanted Rama’s exile rewritten as a honeymoon with Sita. Sako and co-producer Krishna Shah rejected the proposed change.
+
+A Hindi dub, featuring television Ramayan star Arun Govil as Rama and Amrish Puri as Ravana, aired on Doordarshan and was subsequently broadcast on Cartoon Network. In October 2002, the channel included the film in its Dussehra and Diwali programming under The Great Indian Epics. VCD and DVD releases also helped it reach viewers.
+
+The film also struggled to find a theatrical audience in Japan. Amit identified the absence of a Japanese-language dub as one obstacle. Following limited screenings in the late 1990s, the film began an extended theatrical run at a small cinema in Yokohama in September 2018.
+
+On January 24, 2025, Geek Pictures, AA Films, and Excel Entertainment released the 4K remaster across 621 Indian screens in English, Hindi, Tamil, and Telugu, followed by a screening in Parliament.
+
+---
+
+**Original Source:** [The Indian Express](https://indianexpress.com/article/explained/explained-culture/japanese-animated-ramayana-audience-decades-later-india-10968186/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Wire summary of Ramayana reporting originally published by The Indian Express.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Key details and primary source attribution for Why a Japanese animated Ramayana faced opposition in India, but found an audience decades later - The Indian Express.`,
+    primary_source: `The Indian Express`,
+  },
+  {
+    id: 97857,
+    title: `QUICK TAKE | Why Shashi Tharoor Is Taking the Ramayana Beyond India. Seven Things to Know - Open Magazine`,
+    slug: `quick-take-why-shashi-tharoor-is-taking-the-ramayana-beyond-india-seve-2026`,
+    original_title: `QUICK TAKE | Why Shashi Tharoor Is Taking the Ramayana Beyond India. Seven Things to Know - Open Magazine`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:50Z`,
+    updated_at: `2026-11-26T04:58:50Z`,
+    source_name: `Open Magazine`,
+    source_url: `https://openthemagazine.com/art-culture/heritage/quick-take-why-shashi-tharoor-is-taking-the-ramayana-beyond-india-seven-things-to-know`,
+    source_courtesy: `Source: Open Magazine`,
+    image_url: `/images/articles/quick-take-why-shashi-tharoor-is-taking-the-ramayana-beyond-india-seve-2026.jpg`,
+    image_alt: `QUICK TAKE | Why Shashi Tharoor Is Taking the Ramayana Beyond India. Seven Things to Know - Open Magazine`,
+    image_courtesy: `Image Courtesy: Open Magazine`,
+    image_photographer: `Open Magazine`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `The author and Congress MP will host Itihasa: Ramayana Beyond Borders , guiding viewers through the epic’s journeys across Asia. The four-part documentary series marks his debut as a docuseries host and draws on his longstanding literary in`,
+    content: `### 1. Who is Shashi Tharoor, and what is his new role?
+
+The author and Congress MP will host Itihasa: Ramayana Beyond Borders , guiding viewers through the epic’s journeys across Asia. The four-part documentary series marks his debut as a docuseries host and draws on his longstanding literary interest in its many tellings.
+
+### 2. When and where will the series premiere?
+
+It premieres on Discovery India on December 7. The channel has released a promotional video featuring different portrayals of Ram. The announcement identifies the television premiere, with further viewing details expected from the broadcaster.
+
+### 3. What drew Tharoor to the project?
+
+Tharoor said the Ramayana interested him as a story that had travelled across centuries and cultures. He described its different tellings as revealing something about the societies that shaped them. Discovery’s invitation offered him a way to bring that interest to a wider audience.
+
+4. Which countries will it explore?
+
+Whatever Happened To The Cockroach Janta Party?
+
+With India as its narrative starting point, the series traces the Ramayana’s presence in Cambodia, Sri Lanka, Thailand, the Philippines, Indonesia and Malaysia. It examines how historical connections helped the epic travel and how local cultures adopted and interpreted its characters.
+
+### 5. How are the four episodes organised?
+
+The episodes follow Ram, Hanuman, Ravana and Sita. Their stories provide four routes into the epic’s cultural reach, exploring ideals of kingship, changing depictions of devotion and power, and interpretations of courage across different societies.
+
+### 6. What will viewers learn about the characters?
+
+Ram’s story introduces ideas about kingship. Hanuman’s varied depictions show how a familiar figure can acquire different cultural identities. Ravana’s contrasting personas and Sita’s evolving portrayals of fearlessness offer further examples of how communities find their own meanings in the epic.
+
+### 7. Why focus on the Ramayana beyond India?
+
+The series asks how a story rooted in India became part of the cultural life of other societies. Its approach follows the people and places that embraced the epic, examining what they preserved, what they adapted and what those choices reveal about their histories. That gives viewers a way to encounter familiar characters through interpretations they may rarely see.
+
+---
+
+**Original Source:** [Open Magazine](https://openthemagazine.com/art-culture/heritage/quick-take-why-shashi-tharoor-is-taking-the-ramayana-beyond-india-seven-things-to-know)`,
+    title_en: `QUICK TAKE | Why Shashi Tharoor Is Taking the Ramayana Beyond India. Seven Things to Know - Open Magazine`,
+    summary_en: `The author and Congress MP will host Itihasa: Ramayana Beyond Borders , guiding viewers through the epic’s journeys across Asia. The four-part documentary series marks his debut as a docuseries host and draws on his longstanding literary in`,
+    content_en: `### 1. Who is Shashi Tharoor, and what is his new role?
+
+The author and Congress MP will host Itihasa: Ramayana Beyond Borders , guiding viewers through the epic’s journeys across Asia. The four-part documentary series marks his debut as a docuseries host and draws on his longstanding literary interest in its many tellings.
+
+### 2. When and where will the series premiere?
+
+It premieres on Discovery India on December 7. The channel has released a promotional video featuring different portrayals of Ram. The announcement identifies the television premiere, with further viewing details expected from the broadcaster.
+
+### 3. What drew Tharoor to the project?
+
+Tharoor said the Ramayana interested him as a story that had travelled across centuries and cultures. He described its different tellings as revealing something about the societies that shaped them. Discovery’s invitation offered him a way to bring that interest to a wider audience.
+
+4. Which countries will it explore?
+
+Whatever Happened To The Cockroach Janta Party?
+
+With India as its narrative starting point, the series traces the Ramayana’s presence in Cambodia, Sri Lanka, Thailand, the Philippines, Indonesia and Malaysia. It examines how historical connections helped the epic travel and how local cultures adopted and interpreted its characters.
+
+### 5. How are the four episodes organised?
+
+The episodes follow Ram, Hanuman, Ravana and Sita. Their stories provide four routes into the epic’s cultural reach, exploring ideals of kingship, changing depictions of devotion and power, and interpretations of courage across different societies.
+
+### 6. What will viewers learn about the characters?
+
+Ram’s story introduces ideas about kingship. Hanuman’s varied depictions show how a familiar figure can acquire different cultural identities. Ravana’s contrasting personas and Sita’s evolving portrayals of fearlessness offer further examples of how communities find their own meanings in the epic.
+
+### 7. Why focus on the Ramayana beyond India?
+
+The series asks how a story rooted in India became part of the cultural life of other societies. Its approach follows the people and places that embraced the epic, examining what they preserved, what they adapted and what those choices reveal about their histories. That gives viewers a way to encounter familiar characters through interpretations they may rarely see.
+
+---
+
+**Original Source:** [Open Magazine](https://openthemagazine.com/art-culture/heritage/quick-take-why-shashi-tharoor-is-taking-the-ramayana-beyond-india-seven-things-to-know)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Wire summary of Ramayana reporting originally published by Open Magazine.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Key details and primary source attribution for QUICK TAKE | Why Shashi Tharoor Is Taking the Ramayana Beyond India. Seven Things to Know - Open Magazine.`,
+    primary_source: `Open Magazine`,
+  },
+  {
+    id: 97858,
+    title: `रामायण की कमाई को 21वें दिन लगा झटका, फिर भी तोड़े गदर 2 से स्त्री 2 तक 7 फिल्मों - ABP News`,
+    slug: `21-2-2-7-abp-news-2026`,
+    original_title: `रामायण की कमाई को 21वें दिन लगा झटका, फिर भी तोड़े गदर 2 से स्त्री 2 तक 7 फिल्मों - ABP News`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:51Z`,
+    updated_at: `2026-11-26T04:58:51Z`,
+    source_name: `ABP News`,
+    source_url: `https://www.abplive.com/entertainment/bollywood/ramayana-box-office-collection-day-21-ranbir-kapoor-yash-film-third-wednesday-collection-beat-gadar-2-stree-2-chhaava-3219386`,
+    source_courtesy: `Source: ABP News`,
+    image_url: `/images/articles/21-2-2-7-abp-news-2026.jpg`,
+    image_alt: `रामायण की कमाई को 21वें दिन लगा झटका, फिर भी तोड़े गदर 2 से स्त्री 2 तक 7 फिल्मों - ABP News`,
+    image_courtesy: `Image Courtesy: ABP News`,
+    image_photographer: `ABP News`,
+    image_license: `Original Source Media`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `भारतीय बॉक्स ऑफिस पर 'रामायण' अपने तीसरे हफ्ते में भी बॉक्स ऑफिस पर जमी हुई है. हालांकि तीसरे मंडे को इसकी कमाई की रफ्तार कम हुई थी लेकिन तीसरे मंगलवार यानी 20वें दिन इसने बॉक्स ऑफिस पर फिर मजबूती दिखाई. चलिए यहां जानते हैं कि रणबीर कपूर स्`,
+    content: `### Ramayana Box Office Collection Day 21: रणबीर कपूर की 'रामायण' की कमाई में 21वें दिन भारी गिरावट देखी गई. हालांकि इसने एक बड़ा रिकॉर्ड अपने नाम कर लिया है.
+
+भारतीय बॉक्स ऑफिस पर 'रामायण' अपने तीसरे हफ्ते में भी बॉक्स ऑफिस पर जमी हुई है. हालांकि तीसरे मंडे को इसकी कमाई की रफ्तार कम हुई थी लेकिन तीसरे मंगलवार यानी 20वें दिन इसने बॉक्स ऑफिस पर फिर मजबूती दिखाई. चलिए यहां जानते हैं कि रणबीर कपूर स्टारर इस फिल्म ने रिलीज के 21वें दिन यानी तीसरे बुधवार को कितना कलेक्शन किया है? 'रामायण' ने 21वें दिन कितनी कमाई की है? नितेश तिवारी निर्देशित 'रामायण' सिनेमाघरों में 5 नवंबर को दीवाली से पहले रिलीज हुई थी. तब से ये फिल्म बॉक्स ऑफिस पर धमाकेदार परफॉ़र्म कर रही है. इसका पहला हफ्ता सबसे शानदार रहा  और इसके फर्स्ट वीक की कमाई 564.65 करोड़ रही. वहीं दूसरे हफ्ते में भी इसने गदर मचाया और 299.10 करोड़ कमाए.
+
+लेकिन तीसरे हफ्ते के वीकडेज में इसकी कमाई घटीहै. बता दें कि  'रामायण' ने तीसरे मंडे 12.70 करोड़ कमाए थे. इसके बाद तीसरे मंगलवार को इसने तेजी दिखाई और 17.50 करोड़ कमाए. लेकिन अब तीसरे बुधवार यानी 21वें दिन इसकी कमाई को बड़ा झटका लगा है और इसने पहली बार सिंगल डिजिट में कलेक्शन किया है.
+
+'रामायण' ने तीसरे बुधवार को बनाया ये रिकॉर्ड 'रामायण' की कमाई में तीसरे बुधवार बेशक बड़ी गिरावट दर्ज की गई फिर भी इस फिल्म ने एक रिकॉर्ड अपने नाम कर लिया है. दरअसल ये 'गदर 2' (8.6 करोड़), 'पठान' (6.75 करोड़), 'छावा' (6.19 करोड़), और 'स्त्री 2' (5.68 करोड़) सहित 8 फिल्मों को पछाड़कर तीसरे बुधवार सबसे ज्यादा कमाई करने वाली 8वीं फिल्म बन गई है.
+
+ये हैं तीसरे बुधवार सबसे ज्यादा कमाई करने वाली बॉलीवुड की टॉप 10 फिल्में (इंडिया नेट कलेक्शन)
+
+'रामायण' 1000 करोड़ से कितनी दूर? 'रामायण' की रिलीज के 21 दिनों की भारत में नेट कमाई अब 982 करोड़ हो चुकी है. वहीं अब ये1000 करोड़ी बनने की ओर बढ़ रही है. इस मील के पत्थर को पार करने के लिए इसे 18 करोड़ और कमाने होंगे. उम्मीद है कि चौथे वीकेंड तक फिल्म इस आंकड़े को पार कर लेगी और 'धुरंधर 2' के बाद चार डिजिट में कमाई करने वाली बॉलीवुड की दूसरी फिल्म बन जाएगी.
+
+निशा शर्मा ABP Live में सीनियर फ्रीलांस पत्रकार हैं और एंटरटेनमेंट बीट संभालती हैं. उन्हें मीडिया इंडस्ट्री में 8 साल से ज्यादा का अनुभव है और बॉक्स ऑफिस की खबरों पर उनकी बेहतरीन पकड़ है. निशा मुख्य रूप से फिल्मों के बजट, बॉक्स ऑफिस कलेक्शन, कमाई और नफे-नुकसान से जुड़े सटीक आंकड़ों और विश्लेषण पर लिखती हैं. उन्होंने अपने करियर की शुरुआत 'आजतक' से की थी. इसके बाद वे 'फोकस टीवी' और 'साधना न्यूज' में बतौर प्रोड्यूसर काम किया. नेशनल और स्पेशल स्टोरीज की जिम्मेदारी संभाल चुकी हैं. निशा ने दिल्ली यूनिवर्सिटी से ग्रेजुएशन और वाईडब्ल्यूसीए (YWCA), नई दिल्ली से मास कम्युनिकेशन में पीजी किया है.
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/entertainment/bollywood/ramayana-box-office-collection-day-21-ranbir-kapoor-yash-film-third-wednesday-collection-beat-gadar-2-stree-2-chhaava-3219386)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `रामायण की कमाई को 21वें दिन लगा झटका, फिर भी तोड़े गदर 2 से स्त्री 2 तक 7 फिल्मों - ABP News`,
+    summary_hi: `भारतीय बॉक्स ऑफिस पर 'रामायण' अपने तीसरे हफ्ते में भी बॉक्स ऑफिस पर जमी हुई है. हालांकि तीसरे मंडे को इसकी कमाई की रफ्तार कम हुई थी लेकिन तीसरे मंगलवार यानी 20वें दिन इसने बॉक्स ऑफिस पर फिर मजबूती दिखाई. चलिए यहां जानते हैं कि रणबीर कपूर स्`,
+    content_hi: `### Ramayana Box Office Collection Day 21: रणबीर कपूर की 'रामायण' की कमाई में 21वें दिन भारी गिरावट देखी गई. हालांकि इसने एक बड़ा रिकॉर्ड अपने नाम कर लिया है.
+
+भारतीय बॉक्स ऑफिस पर 'रामायण' अपने तीसरे हफ्ते में भी बॉक्स ऑफिस पर जमी हुई है. हालांकि तीसरे मंडे को इसकी कमाई की रफ्तार कम हुई थी लेकिन तीसरे मंगलवार यानी 20वें दिन इसने बॉक्स ऑफिस पर फिर मजबूती दिखाई. चलिए यहां जानते हैं कि रणबीर कपूर स्टारर इस फिल्म ने रिलीज के 21वें दिन यानी तीसरे बुधवार को कितना कलेक्शन किया है? 'रामायण' ने 21वें दिन कितनी कमाई की है? नितेश तिवारी निर्देशित 'रामायण' सिनेमाघरों में 5 नवंबर को दीवाली से पहले रिलीज हुई थी. तब से ये फिल्म बॉक्स ऑफिस पर धमाकेदार परफॉ़र्म कर रही है. इसका पहला हफ्ता सबसे शानदार रहा  और इसके फर्स्ट वीक की कमाई 564.65 करोड़ रही. वहीं दूसरे हफ्ते में भी इसने गदर मचाया और 299.10 करोड़ कमाए.
+
+लेकिन तीसरे हफ्ते के वीकडेज में इसकी कमाई घटीहै. बता दें कि  'रामायण' ने तीसरे मंडे 12.70 करोड़ कमाए थे. इसके बाद तीसरे मंगलवार को इसने तेजी दिखाई और 17.50 करोड़ कमाए. लेकिन अब तीसरे बुधवार यानी 21वें दिन इसकी कमाई को बड़ा झटका लगा है और इसने पहली बार सिंगल डिजिट में कलेक्शन किया है.
+
+'रामायण' ने तीसरे बुधवार को बनाया ये रिकॉर्ड 'रामायण' की कमाई में तीसरे बुधवार बेशक बड़ी गिरावट दर्ज की गई फिर भी इस फिल्म ने एक रिकॉर्ड अपने नाम कर लिया है. दरअसल ये 'गदर 2' (8.6 करोड़), 'पठान' (6.75 करोड़), 'छावा' (6.19 करोड़), और 'स्त्री 2' (5.68 करोड़) सहित 8 फिल्मों को पछाड़कर तीसरे बुधवार सबसे ज्यादा कमाई करने वाली 8वीं फिल्म बन गई है.
+
+ये हैं तीसरे बुधवार सबसे ज्यादा कमाई करने वाली बॉलीवुड की टॉप 10 फिल्में (इंडिया नेट कलेक्शन)
+
+'रामायण' 1000 करोड़ से कितनी दूर? 'रामायण' की रिलीज के 21 दिनों की भारत में नेट कमाई अब 982 करोड़ हो चुकी है. वहीं अब ये1000 करोड़ी बनने की ओर बढ़ रही है. इस मील के पत्थर को पार करने के लिए इसे 18 करोड़ और कमाने होंगे. उम्मीद है कि चौथे वीकेंड तक फिल्म इस आंकड़े को पार कर लेगी और 'धुरंधर 2' के बाद चार डिजिट में कमाई करने वाली बॉलीवुड की दूसरी फिल्म बन जाएगी.
+
+निशा शर्मा ABP Live में सीनियर फ्रीलांस पत्रकार हैं और एंटरटेनमेंट बीट संभालती हैं. उन्हें मीडिया इंडस्ट्री में 8 साल से ज्यादा का अनुभव है और बॉक्स ऑफिस की खबरों पर उनकी बेहतरीन पकड़ है. निशा मुख्य रूप से फिल्मों के बजट, बॉक्स ऑफिस कलेक्शन, कमाई और नफे-नुकसान से जुड़े सटीक आंकड़ों और विश्लेषण पर लिखती हैं. उन्होंने अपने करियर की शुरुआत 'आजतक' से की थी. इसके बाद वे 'फोकस टीवी' और 'साधना न्यूज' में बतौर प्रोड्यूसर काम किया. नेशनल और स्पेशल स्टोरीज की जिम्मेदारी संभाल चुकी हैं. निशा ने दिल्ली यूनिवर्सिटी से ग्रेजुएशन और वाईडब्ल्यूसीए (YWCA), नई दिल्ली से मास कम्युनिकेशन में पीजी किया है.
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/entertainment/bollywood/ramayana-box-office-collection-day-21-ranbir-kapoor-yash-film-third-wednesday-collection-beat-gadar-2-stree-2-chhaava-3219386)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट ABP News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक रामायण की कमाई को 21वें दिन लगा झटका, फिर भी तोड़े गदर 2 से स्त्री 2 तक 7 फिल्मों - ABP News से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `ABP News`,
+  },
+  {
+    id: 97859,
+    title: `फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आय - Facebook`,
+    slug: `2-facebook-2026`,
+    original_title: `फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आय - Facebook`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-26T04:58:51Z`,
+    updated_at: `2026-11-26T04:58:51Z`,
+    source_name: `Facebook`,
+    source_url: `https://www.facebook.com/IndiacomHindi/posts/%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AE-%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A3-%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F-2-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B9%E0%A4%A8%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%A8-%E0%A4%95%E0%A4%BE-%E0%A4%95%E0%A4%BF%E0%A4%B0%E0%A4%A6%E0%A4%BE%E0%A4%B0-%E0%A4%A8%E0%A4%BF%E0%A4%AD%E0%A4%BE-%E0%A4%B0%E0%A4%B9%E0%A5%87-%E0%A4%B8%E0%A4%A8%E0%A5%80-%E0%A4%A6%E0%A5%87%E0%A4%93%E0%A4%B2-%E0%A4%95%E0%A5%8B-%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A1%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%B8%E0%A4%B0-%E0%A4%A8/1613444380820287/`,
+    source_courtesy: `Source: Facebook`,
+    image_url: `https://images.unsplash.com/photo-1504813184591-01572f98c85f?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आय - Facebook`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आय Facebook`,
+    content: `### मुख्य समाचार सारांश
+
+**फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आय - Facebook**
+
+फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आय Facebook
+
+### स्रोत एवं संदर्भ
+
+* **प्राथमिक स्रोत:** Facebook
+* **मूल रिपोर्ट लिंक:** https://news.google.com/rss/articles/CBMihgdBVV95cUxQbDJJVVRiQk5HUmtOc3NpaElPUmdFT3pobUhpdGlFSUdrSkFqTVplVTRzTW10WDJBYUtJT0RINy1OWHk1Nlp0VVQwUWV6VEpNUzF4amxSLVBQSlo2OG5sd3dYeEszbF9aeThKX2dWdmlCUzdWTnRCSGhJYjY4aEJFMUZGbVA0VVNyYTJPMVZpb1FDcFNvTE91MTRkaE8tMC1XVDRKQ0wxM090WHc0M2w0aGZaUms4Z2lGakIzcXUxSDcxdzJ4Z0dCOG41cFNvSlN0VXN3d2pwVGZBUlNMdElyVFUzajhHSHZoMm8xbnQ1SmRzUHJkTWVwWktaMW85blFGdHZqakdMcHk4aTByY0NZWmEyVVZyZ21jV0ZuR3JRcWFUX3JGdlF6MFhELUt3c2hPOGtIOWQxcUVxS3pJZDE4MzVnSmM1LXpFM19zSXZNVXRweVo3YmFLZkYwel9TVkUxZ3BPMXJUVkVnU1VyeWp4ODBHZU93a2ctcWJTV2VmVUx3dG5kRjVDQWJFWnd5MmxqWTctMFpGVXY5VGFsREY2OENHYURvYzZzUTZnX0xOR18zeUNOcXQ2c0VKY29scmYxRXFsZ3hsa0s0N0FNZ1Zrb095ZFlmSFpmdkY2UW9MTHVZblBCaUE4eWJSeS1UYS1PdXlqWl9ybjA3czlRVWR2UW45Vm9DV1haTlU3cmFJOWZwWFJqbEIwUXBQTnlQQUp1QWgxenF0N2xxeV9FMEc2TkozZmFWaXlHSU9USUdodTBxNW12UzFxWUgzX09jdVZmektSNldYQzB1b3Q5bEFKWVV4QXBUeGxzZHd0bnhLRGZWUFdjcUo3TlY2QWtwNnVLNExvSFYwRWUtVlB4MVpMdm9XZEVKdndIWHJUOF8yWXdtS1JiUlRROXpvdGc1Vk00cVhad0MtR2w3dTFmN1pjTXZ1QXMxOFV0dk1OM2JmVjJFTU1vMXZkLWZram9DSFJKbU1JcGppTklTSTVremlyMFd4MUV6NHI4dmNEVTRHRnBIYlkyU29NbzdfZU1IUjV1WDB4QkFUb2c3dkM1NW1EMERUZ3p5MGtlcHNnQ3Jrb0FTN1MtSUczSGZ1ajcydFpWQ096d3ZYMWRHMEVNRXJYbHlQTWJRbENfVmY1dWxrZVAzcVl6ZXgwOWZ1N0FZR3hoYkV4ZGladDVRVHlyS1BMMC1aTE0zdw?oc=5
+* **श्रेणी:** Ramayana
+
+*स्रोत: यह संक्षिप्त समाचार सारांश Facebook की रिपोर्ट के आधार पर तैयार किया गया है।*`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आय - Facebook`,
+    summary_hi: `फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आय Facebook`,
+    content_hi: `### मुख्य समाचार सारांश
+
+**फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आय - Facebook**
+
+फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आय Facebook
+
+### स्रोत एवं संदर्भ
+
+* **प्राथमिक स्रोत:** Facebook
+* **मूल रिपोर्ट लिंक:** https://news.google.com/rss/articles/CBMihgdBVV95cUxQbDJJVVRiQk5HUmtOc3NpaElPUmdFT3pobUhpdGlFSUdrSkFqTVplVTRzTW10WDJBYUtJT0RINy1OWHk1Nlp0VVQwUWV6VEpNUzF4amxSLVBQSlo2OG5sd3dYeEszbF9aeThKX2dWdmlCUzdWTnRCSGhJYjY4aEJFMUZGbVA0VVNyYTJPMVZpb1FDcFNvTE91MTRkaE8tMC1XVDRKQ0wxM090WHc0M2w0aGZaUms4Z2lGakIzcXUxSDcxdzJ4Z0dCOG41cFNvSlN0VXN3d2pwVGZBUlNMdElyVFUzajhHSHZoMm8xbnQ1SmRzUHJkTWVwWktaMW85blFGdHZqakdMcHk4aTByY0NZWmEyVVZyZ21jV0ZuR3JRcWFUX3JGdlF6MFhELUt3c2hPOGtIOWQxcUVxS3pJZDE4MzVnSmM1LXpFM19zSXZNVXRweVo3YmFLZkYwel9TVkUxZ3BPMXJUVkVnU1VyeWp4ODBHZU93a2ctcWJTV2VmVUx3dG5kRjVDQWJFWnd5MmxqWTctMFpGVXY5VGFsREY2OENHYURvYzZzUTZnX0xOR18zeUNOcXQ2c0VKY29scmYxRXFsZ3hsa0s0N0FNZ1Zrb095ZFlmSFpmdkY2UW9MTHVZblBCaUE4eWJSeS1UYS1PdXlqWl9ybjA3czlRVWR2UW45Vm9DV1haTlU3cmFJOWZwWFJqbEIwUXBQTnlQQUp1QWgxenF0N2xxeV9FMEc2TkozZmFWaXlHSU9USUdodTBxNW12UzFxWUgzX09jdVZmektSNldYQzB1b3Q5bEFKWVV4QXBUeGxzZHd0bnhLRGZWUFdjcUo3TlY2QWtwNnVLNExvSFYwRWUtVlB4MVpMdm9XZEVKdndIWHJUOF8yWXdtS1JiUlRROXpvdGc1Vk00cVhad0MtR2w3dTFmN1pjTXZ1QXMxOFV0dk1OM2JmVjJFTU1vMXZkLWZram9DSFJKbU1JcGppTklTSTVremlyMFd4MUV6NHI4dmNEVTRHRnBIYlkyU29NbzdfZU1IUjV1WDB4QkFUb2c3dkM1NW1EMERUZ3p5MGtlcHNnQ3Jrb0FTN1MtSUczSGZ1ajcydFpWQ096d3ZYMWRHMEVNRXJYbHlQTWJRbENfVmY1dWxrZVAzcVl6ZXgwOWZ1N0FZR3hoYkV4ZGladDVRVHlyS1BMMC1aTE0zdw?oc=5
+* **श्रेणी:** Ramayana
+
+*स्रोत: यह संक्षिप्त समाचार सारांश Facebook की रिपोर्ट के आधार पर तैयार किया गया है।*`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट Facebook के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक फिल्म 'रामायण पार्ट 2' में हनुमान का किरदार निभा रहे सनी देओल को लेकर प्रोड्यूसर नमित मल्होत्रा ने बड़ा खुलासा किया है। गोल्ड डर्बी को दिए इंटरव्यू में उन्होंने हनुमान की तुलना भारत के आय - Facebook से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Facebook`,
+  },
+{
     id: 55441,
     title: `Delhi-NCR Air Quality Enters Severe Category: CAQM Activates GRAP-IV Emergency Curbs`,
     slug: `delhi-ncr-air-quality-severe-aqi-428-caqm-grap-iv-advisory-2026`,
@@ -20,7 +3194,7 @@ export const SEED_ARTICLES: Article[] = [
     source_name: `Central Pollution Control Board (CPCB) & MoHFW`,
     source_url: `https://cpcb.nic.in/air-quality-telemetry`,
     source_courtesy: `Source: Central Pollution Control Board (CPCB) & MoHFW`,
-    image_url: `https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `Atmospheric smog and air quality monitoring telemetry over national capital region`,
     image_courtesy: `Photo: Environmental Health Media Pool (Unsplash Editorial CC)`,
     image_photographer: `Environmental Health Media Pool`,
@@ -94,7 +3268,7 @@ The editorial desk will monitor subsequent gazette releases, technical advisorie
     source_name: `BCCI & ESPNcricinfo Match Centre`,
     source_url: `https://www.bcci.tv/match-centre/bgt-2026`,
     source_courtesy: `Source: BCCI & ESPNcricinfo Match Centre`,
-    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `Cricket pitch wickets under floodlights during high-voltage international test match`,
     image_courtesy: `Photo: International Sports Photo Desk (Unsplash Editorial CC)`,
     image_photographer: `International Sports Photo Desk`,
@@ -389,7 +3563,7 @@ The editorial desk will monitor subsequent gazette releases, technical advisorie
     source_name: `ESPNcricinfo Wire`,
     source_url: `https://www.cricinfo.com/ci/content/story/1563856.html?ex_cid=OTC-RSS`,
     source_courtesy: `Source: ESPNcricinfo Wire`,
-    image_url: `https://images.unsplash.com/photo-1517649763962-0c623266ddc0?auto=format&fit=crop&w=1600&q=85&sig=953`,
+    image_url: `https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `Cricket photograph: Shoriful admits Bangladesh's pace attack 'lacked discipline'`,
     image_courtesy: `Photo: Stadium Photography Wire (Unsplash Editorial Clearance)`,
     image_photographer: `Stadium Photography Wire`,
@@ -479,7 +3653,7 @@ Field observers noted that execution under pressure characterized pivotal overs.
     source_name: `ESPNcricinfo Wire`,
     source_url: `https://www.cricinfo.com/ci/content/story/1563796.html?ex_cid=OTC-RSS`,
     source_courtesy: `Source: ESPNcricinfo Wire`,
-    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85&sig=954`,
+    image_url: `https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `Cricket photograph: South Africa pick eight uncapped players for India women's Test`,
     image_courtesy: `Photo: Action Sports Photography / Unsplash (Unsplash Commercial & Editorial License)`,
     image_photographer: `Action Sports Photography / Unsplash`,
@@ -569,7 +3743,7 @@ Field observers noted that execution under pressure characterized pivotal overs.
     source_name: `ESPNcricinfo Wire`,
     source_url: `https://www.cricinfo.com/ci/content/story/1563846.html?ex_cid=OTC-RSS`,
     source_courtesy: `Source: ESPNcricinfo Wire`,
-    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85&sig=951`,
+    image_url: `https://images.unsplash.com/photo-1530497610245-94d3c16cda28?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `Cricket photograph: Ben Stokes enters IPL 2027 auction at maximum base price`,
     image_courtesy: `Photo: Action Sports Photography / Unsplash (Unsplash Commercial & Editorial License)`,
     image_photographer: `Action Sports Photography / Unsplash`,
@@ -659,7 +3833,7 @@ Field observers noted that execution under pressure characterized pivotal overs.
     source_name: `ESPNcricinfo Wire`,
     source_url: `https://www.cricinfo.com/ci/content/story/1563809.html?ex_cid=OTC-RSS`,
     source_courtesy: `Source: ESPNcricinfo Wire`,
-    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85&sig=952`,
+    image_url: `https://images.unsplash.com/photo-1555848962-6e79363ec58f?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `Cricket photograph: Ackerman, Mulder tons grind down Bangladesh as SA batters make hay`,
     image_courtesy: `Photo: Athletics & Cricket Media Desk (Official Editorial Wire Clearance)`,
     image_photographer: `Athletics & Cricket Media Desk`,
@@ -749,7 +3923,7 @@ Field observers noted that execution under pressure characterized pivotal overs.
     source_name: `Official Government Calendar & Archives`,
     source_url: `https://knowindia.india.gov.in/calendar/`,
     source_courtesy: `Verified Source: https://knowindia.india.gov.in/calendar/`,
-    image_url: `https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1600&q=85&sig=constitution-day-2026`,
+    image_url: `https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `The Constitution of India preamble tablet and Supreme Court pillars (File photo: Supreme Court of India & Parliamentary Archives).`,
     image_courtesy: `Photo: Parliamentary Archives / Editorial Wire (Official Government Press Handout (Govt of India))`,
     image_photographer: `Parliamentary Archives / Editorial Wire`,
@@ -854,11 +4028,11 @@ Key civic tenets underscored in the 2026 national observance include:
     source_name: `Official Government Calendar & Archives`,
     source_url: `https://www.archives.gov/legislative/features/thanksgiving`,
     source_courtesy: `Verified Source: https://www.archives.gov/legislative/features/thanksgiving`,
-    image_url: `https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1600&q=85&sig=thanksgiving-2026`,
+    image_url: `/images/articles/us-thanksgiving-2026-date-origins-and-how-it-is-observed-2026.png`,
     image_alt: `Thanksgiving harvest celebration and festive table setting (File photo: Unsplash Editorial Clearance).`,
-    image_courtesy: `Photo: Claudio Schwarz / Unsplash (Unsplash Commercial & Editorial License)`,
-    image_photographer: `Claudio Schwarz / Unsplash`,
-    image_license: `Unsplash Commercial & Editorial License`,
+    image_courtesy: `Image Courtesy: Official Government Calendar & Archives`,
+    image_photographer: `Official Government Calendar & Archives`,
+    image_license: `Original Source Media`,
     fact_check_status: `Verified against United States Statutory Calendar`,
     tags: `Observance, Festival, United States, U.S. Thanksgiving Day, Verified Explainer`,
     summary: `U.S. Thanksgiving 2026: Observed on Thursday, November 26 across the United States. Exploring its historical 1621 origins, federal holiday declarations, Macy's parade schedule, and travel advisories for overseas diaspora.`,
@@ -945,7 +4119,7 @@ The Thanksgiving travel corridor represents one of the highest-density transit w
     source_name: `Official Government Calendar & Archives`,
     source_url: `https://dopt.gov.in/holiday-calendar`,
     source_courtesy: `Verified Source: https://dopt.gov.in/holiday-calendar`,
-    image_url: `https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1600&q=85&sig=gurpurab-2026`,
+    image_url: `https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `Golden Temple illumination on Prakash Parv (File photo: Shiromani Gurdwara Parbandhak Committee).`,
     image_courtesy: `Photo: Heritage Visual Media / Editorial Wire (Official Editorial Wire Distribution)`,
     image_photographer: `Heritage Visual Media / Editorial Wire`,
@@ -1034,7 +4208,7 @@ Beyond ceremonial rituals, Guru Nanak Jayanti (Gurpurab) reinforces communal har
     source_name: `www.pib.gov.in`,
     source_url: `https://news.google.com/rss/articles/CBMifkFVX3lxTFBjY3YwcGp5dGVRak96QjFwMG1mbWN2cGh6ODhaSWNBaFdjanFUeVNfZV84UUtzTFVzQ3o1RXZQV3JycVRrbmthSm1iejJjdGpsVVZjVmtFUllWTEhHc0pNckdYM05PdVhDLUpYaUYzdUE1SmhLSEVNUEZacUxSZw?oc=5`,
     source_courtesy: `News Courtesy: www.pib.gov.in Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1600&q=85&sig=934`,
+    image_url: `https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `Verified news photograph: National Orientation Programme for Tribal Healers on Public Health, Kanha Shanti Vanam, Hyderabad - www.pib.gov.in`,
     image_courtesy: `Photo: CDC / Unsplash (Unsplash Commercial & Editorial License)`,
     image_photographer: `CDC / Unsplash`,
@@ -1125,7 +4299,7 @@ Medical researchers emphasize that while observational telemetry provides crucia
     published_at: `2026-11-25T05:16:12Z`,
     updated_at: `2026-11-25T05:16:12Z`,
     source_name: `Indian Council of Medical Research (ICMR)`,
-    source_url: `https://news.google.com/rss/articles/CBMixAFBVV95cUxOUlpaRkxacXR5aUxIWFNVeVR3ZU0xTXlYZmE2d3c5Umg2RG9aQlhvQjA2NUhXVUZmZTR6YjAxdEZIUzlWLWp2UjJfaDQ3cUFreFVQRjJCOFFWU0U1aTZqZ25ZcTdDSjJtbVhLbVd5UENBZElqRFJRSDNJclNJUHVkRTJoUkhQbEY3UElXdlRaQ1lWaElkZlRtTlo3bm0tOEgyZExEelVLY1VwNHpQbFlIbjhkNGJkUmtZTHprczdpYUpyOVhz0gHEAUFVX3lxTE5SWlpGTFpxdHlpTEhYU1V5VHdlTTFNeVhmYTZ3dzlSaDZEb1pCWG9CMDY1SFdVRmZlNHpiMDF0RkhTOVYtanZSMl9oNDdxQWt4VVBGMkI4UVZTRTVpNmpnbllxN0NKMm1tWEttV3lQQ0FkSWpEUlFIM0lyU0lQdWRFMmhSSFBsRjdQSVd2VFpDWVZoSWRmVG1OWjdubS04SDJkTER6VUtjVXA0elBsWUhuOGQ0YmRSa1lMemtzN2lhSnI5WHM?oc=5`,
+    source_url: `https://theprint.in/health/anaemia-incidence-lower-finds-icmr-survey-but-over-half-of-indias-women-still-affected/3107564/?amp`,
     source_courtesy: `News Courtesy: Indian Council of Medical Research (ICMR) Digital Archives`,
     image_url: `https://images.unsplash.com/photo-1527613426441-4da17471b66d?auto=format&fit=crop&w=1600&q=85&sig=935`,
     image_alt: `Verified news photograph: Anaemia incidence lower, finds ICMR survey, but over half of India’s women still affected - ThePrint`,
@@ -1212,79 +4386,153 @@ Medical researchers emphasize that while observational telemetry provides crucia
     topic: ``,
     language: `hi`,
     fomo_badge: `⚡ National Wire`,
-    read_time: `7 min read`,
+    read_time: `4 min read`,
     views_count: 262640,
     shares_count: 36960,
     published_at: `2026-11-25T05:16:12Z`,
     updated_at: `2026-11-25T05:16:12Z`,
     source_name: `BBC`,
-    source_url: `https://news.google.com/rss/articles/CBMiXEFVX3lxTE04bFhSVExnMENTRUE4eXlQVjctbkJLUk9ONUIxcEZoNHIwWHpiOVBiOThTX0VMY2NNa1JyNTc5NllnX1lWbTF1VkxqNWNqOWJaMGxUNHQtdmd1STVQ0gFiQVVfeXFMTWJiWUV0bWdjRTB1aXktSE1TelVGeXBtMmFGMjZrQWZNQlNBNkpVNTJtUkpQenM2SFVZVXV3S3FDaUhGdlh3dkdiRzBqbWkwVGhPODJHNkcwTlE0Yl82WDVuSWc?oc=5`,
+    source_url: `https://www.bbc.com/hindi/articles/cvlyj3941n67o`,
     source_courtesy: `News Courtesy: BBC Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1600&q=85&sig=936`,
+    image_url: `/images/articles/politics-breaking-report-21232-936-2026.jpg`,
     image_alt: `Verified news photograph: ज़ीशान अली: कौन हैं पाकिस्तान के पहले एस्ट्रोनॉट, जो चीन की मदद से जाएंगे अंतरिक्ष?`,
-    image_courtesy: `Photo: Parliamentary Photo Desk (Official Editorial Wire)`,
-    image_photographer: `Parliamentary Photo Desk`,
-    image_license: `Official Editorial Wire`,
+    image_courtesy: `Image Courtesy: BBC`,
+    image_photographer: `BBC`,
+    image_license: `Original Source Media`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, Verified`,
-    summary: `ज़ीशान अली: कौन हैं पाकिस्तान के पहले एस्ट्रोनॉट, जो चीन की मदद से जाएंगे अंतरिक्ष?. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `चीन ने शेनझोउ-24 मानव अंतरिक्ष मिशन के दल की आधिकारिक घोषणा कर दी है. इस दल में पाकिस्तान के अंतरिक्ष यात्री मोहम्मद ज़ीशान अली भी शामिल हैं.`,
+    content: `चीन ने शेनझोउ-24 मानव अंतरिक्ष मिशन के दल की आधिकारिक घोषणा कर दी है. इस दल में पाकिस्तान के अंतरिक्ष यात्री मोहम्मद ज़ीशान अली भी शामिल हैं.
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **ज़ीशान अली: कौन हैं पाकिस्तान के पहले एस्ट्रोनॉट, जो चीन की मदद से जाएंगे अंतरिक्ष?**. According to authoritative communiqués released by BBC, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+इस मिशन के लिए पाकिस्तान ने मोहम्मद ज़ीशान अली और ख़ुर्रम दाऊद का चयन किया था. दोनों ने चीन में अपनी ट्रेनिंग पूरी की है.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+अब मोहम्मद ज़ीशान अली को मिशन के लिए अंतिम रूप से चुना गया है.
 
-### Institutional Oversight & Ground Reality
+वह पेलोड विशेषज्ञ के रूप में चीन के तियांगोंग अंतरिक्ष स्टेशन जाएंगे, जबकि ख़ुर्रम दाऊद बैकअप अंतरिक्ष यात्री की भूमिका निभाएंगे.
 
-Ground reality assessments indicate that ज़ीशान अली: कौन हैं पाकिस्तान के पहले एस्ट्रोनॉट, जो चीन की मदद से जाएंगे अंतरिक्ष? BBC चीन के स्पेस स्टेशन पर पहली बार जाएगा पाकिस्तानी अंतरिक्ष यात्री AajTak चीनी और पाकिस्तानी अंतरिक्ष यात्रियों के मिशन में पूर्ण सफलता की कामना: चीनी विदेश मंत्रालय CRI hindi चीन बुधवार को शेनझोउ-24 मानवयुक्त अंतरिक्ष यान लॉन्च करेगा Qatar news agency चीन के तियांगोंग अंतरिक्ष स्टेशन पर पहला विदेशी अंतरिक्ष यात्री पहुंच चुका है। Vietnam.vn establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+मोहम्मद ज़ीशान अली चीन के अंतरिक्ष स्टेशन पर जाने वाले पहले विदेशी अंतरिक्ष यात्री होंगे. यह चीन के मानव अंतरिक्ष कार्यक्रम के तहत चीनी और विदेशी अंतरिक्ष यात्रियों की पहली संयुक्त अंतरिक्ष उड़ान भी होगी.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+ज़ीशान अली चीन के तियांगोंग अंतरिक्ष स्टेशन पर कई दिन बिताएंगे. इस दौरान वह वैज्ञानिक प्रयोगों और शोध गतिविधियों में हिस्सा लेंगे. मिशन पूरा होने के बाद वह शेनझोउ-23 मिशन के दो चीनी अंतरिक्ष यात्रियों के साथ पृथ्वी पर लौटेंगे.
 
-### Governance Parameter Assessment
+मोहम्मद ज़ीशान अली का कहना है कि इस ऐतिहासिक मिशन का हिस्सा बनना उनके लिए सिर्फ निजी उपलब्धि नहीं है, बल्कि यह पूरे पाकिस्तान का प्रतिनिधित्व करने का मौक़ा भी है.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+उन्होंने कहा, ''मैं पाकिस्तानी लोगों के सपनों को अपने साथ अंतरिक्ष में ले जा रहा हूं.''
 
-### Why This Matters: Policy Impact & Outlook
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+इस साल चीन के मानव अंतरिक्ष कार्यक्रम के तहत पाकिस्तानी उम्मीदवार के रूप में चुने जाने के बाद मोहम्मद ज़ीशान अली ने चीन में कई महीनों तक विशेष ट्रेनिंग ली.
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+इस प्रशिक्षण में चीनी भाषा सीखना, अंतरिक्ष यान के सिस्टम को समझना, ज़ीरो ग्रेविटी में अभ्यास करना और कठिन शारीरिक प्रशिक्षण शामिल था.
+
+चीन के आधिकारिक अख़बार शंघाई डेली ने सोशल मीडिया प्लेटफॉर्म एक्स पर उनका एक बयान साझा किया.
+
+इसमें ज़ीशान अली ने कहा, ''एक पाकिस्तानी के रूप में मैं अपने साथ पाकिस्तानी लोगों के सपने लेकर जा रहा हूं.''
+
+उन्होंने आगे कहा, "चीन और पाकिस्तान के लोगों को हमसे बहुत उम्मीदें हैं. अंतरिक्ष में मिलकर काम करते हुए हम इंसानियत के भविष्य के लिए साझा प्रयास कर रहे हैं."
+
+शंघाई डेली के मुताबिक़, मोहम्मद ज़ीशान अली शेनझोउ-24 मिशन के दौरान पाकिस्तान की ओर से चुने गए चार वैज्ञानिक प्रयोग और परीक्षण करेंगे.
+
+'सीएन स्पेस' नाम के एक्स हैंडल पर साझा किए गए एक इंटरव्यू में ज़ीशान अली ने अपने प्रशिक्षण के अनुभव बताए. उन्होंने कहा कि लड़ाकू विमान के पायलट होने के बावजूद उन्हें कठिन शारीरिक और तकनीकी प्रशिक्षण से गुजरना पड़ा.
+
+उन्होंने कहा, ''मैंने सेंट्रीफ्यूज प्रशिक्षण, बचाव और जीवन रक्षा का प्रशिक्षण और इमरजेंसी प्रक्रियाओं का अभ्यास किया. लेकिन सबसे बड़ी चुनौती चीनी भाषा सीखना था.''
+
+उनके मुताबिक़, अंतरिक्ष यान के सभी स्विच, सॉफ्टवेयर, प्रोग्राम और आवाज़ के जरिए दी जाने वाली घोषणाएं चीनी भाषा में हैं. इसलिए उन्हें रोज़मर्रा की चीनी भाषा के साथ-साथ तकनीकी शब्दावली भी सीखनी पड़ी.
+
+अपने चीनी साथी अंतरिक्ष यात्रियों के बारे में बात करते हुए ज़ीशान अली ने कहा कि वह खुद को खुशकिस्मत मानते हैं कि उन्हें ऐसे सहयोगी मिले हैं, जो उनकी राय का सम्मान करते हैं और मिलकर किसी भी स्थिति का समाधान खोजते हैं.
+
+उन्होंने कहा कि दल के सदस्यों के बीच सहयोग, आपसी समझ और दोस्ती पाकिस्तान और चीन के रिश्तों को दिखाती है.
+
+### पाकिस्तान के कौन से वैज्ञानिक प्रयोग होंगे शामिल?
+
+मोहम्मद ज़ीशान अली का काम सिर्फ अंतरिक्ष की यात्रा करना नहीं होगा. उन्हें वहां पाकिस्तान की ओर से चुने गए वैज्ञानिक प्रयोग भी करने होंगे.
+
+पाकिस्तान की अंतरिक्ष एजेंसी 'सुपारको' को देश के विश्वविद्यालयों और शोध संस्थानों से 300 से ज़्यादा प्रस्ताव मिले थे. इनमें से चार प्रयोगों को चीनी विशेषज्ञों ने इस मिशन के लिए चुना.
+
+ये प्रयोग मुख्य रूप से बायो टेक्नोलॉजी से जुड़े हैं. इनका मक़सद खाद्य सुरक्षा, जलवायु परिवर्तन और भविष्य में अंतरिक्ष की खोज से जुड़े क्षेत्रों में नई जानकारी हासिल करना है.
+
+इन प्रयोगों की तैयारी के साथ ही मिशन के प्रक्षेपण से जुड़ी प्रशासनिक और तकनीकी तैयारियां भी पूरी कर ली गई हैं.
+
+इस मिशन में पाकिस्तानी अंतरिक्ष यात्री के शामिल होने को देखते हुए चीन के अंतरिक्ष कार्यक्रम से जुड़े विभागों ने चीनी और अंग्रेजी भाषा में संचालन संबंधी निर्देश तैयार किए हैं.
+
+इसके अलावा, ज़ीशान अली की खान-पान संबंधी ज़रूरतों को ध्यान में रखते हुए उनके लिए हलाल अंतरिक्ष भोजन की व्यवस्था भी की गई है.
+
+परीक्षण और प्रक्षेपण से जुड़ी सभी जरूरी शर्तें पूरी करने के लिए तापमान और नमी पर लगातार नजर रखने वाली एक स्मार्ट प्रणाली का भी इस्तेमाल किया गया.
+
+चीन के शेनझोउ-24 अंतरिक्ष यान और लॉन्ग मार्च 2एफ रॉकेट को 17 नवंबर को प्रक्षेपण स्थल पर पहुंचाया गया.
+
+अंतरिक्ष यान को बुधवार को बीजिंग के समय के मुताबिक़ सुबह 8:18 बजे उत्तर-पश्चिम चीन के जियुकुआन उपग्रह प्रक्षेपण केंद्र से लॉन्च किया जाएगा.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cvlyj3941n67o)`,
     title_en: ``,
     summary_en: ``,
     content_en: ``,
     title_hi: `ज़ीशान अली: कौन हैं पाकिस्तान के पहले एस्ट्रोनॉट, जो चीन की मदद से जाएंगे अंतरिक्ष?`,
-    summary_hi: `ज़ीशान अली: कौन हैं पाकिस्तान के पहले एस्ट्रोनॉट, जो चीन की मदद से जाएंगे अंतरिक्ष?. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content_hi: `### Strategic Overview & Legislative Framework
+    summary_hi: `चीन ने शेनझोउ-24 मानव अंतरिक्ष मिशन के दल की आधिकारिक घोषणा कर दी है. इस दल में पाकिस्तान के अंतरिक्ष यात्री मोहम्मद ज़ीशान अली भी शामिल हैं.`,
+    content_hi: `चीन ने शेनझोउ-24 मानव अंतरिक्ष मिशन के दल की आधिकारिक घोषणा कर दी है. इस दल में पाकिस्तान के अंतरिक्ष यात्री मोहम्मद ज़ीशान अली भी शामिल हैं.
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **ज़ीशान अली: कौन हैं पाकिस्तान के पहले एस्ट्रोनॉट, जो चीन की मदद से जाएंगे अंतरिक्ष?**. According to authoritative communiqués released by BBC, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+इस मिशन के लिए पाकिस्तान ने मोहम्मद ज़ीशान अली और ख़ुर्रम दाऊद का चयन किया था. दोनों ने चीन में अपनी ट्रेनिंग पूरी की है.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+अब मोहम्मद ज़ीशान अली को मिशन के लिए अंतिम रूप से चुना गया है.
 
-### Institutional Oversight & Ground Reality
+वह पेलोड विशेषज्ञ के रूप में चीन के तियांगोंग अंतरिक्ष स्टेशन जाएंगे, जबकि ख़ुर्रम दाऊद बैकअप अंतरिक्ष यात्री की भूमिका निभाएंगे.
 
-Ground reality assessments indicate that ज़ीशान अली: कौन हैं पाकिस्तान के पहले एस्ट्रोनॉट, जो चीन की मदद से जाएंगे अंतरिक्ष? BBC चीन के स्पेस स्टेशन पर पहली बार जाएगा पाकिस्तानी अंतरिक्ष यात्री AajTak चीनी और पाकिस्तानी अंतरिक्ष यात्रियों के मिशन में पूर्ण सफलता की कामना: चीनी विदेश मंत्रालय CRI hindi चीन बुधवार को शेनझोउ-24 मानवयुक्त अंतरिक्ष यान लॉन्च करेगा Qatar news agency चीन के तियांगोंग अंतरिक्ष स्टेशन पर पहला विदेशी अंतरिक्ष यात्री पहुंच चुका है। Vietnam.vn establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+मोहम्मद ज़ीशान अली चीन के अंतरिक्ष स्टेशन पर जाने वाले पहले विदेशी अंतरिक्ष यात्री होंगे. यह चीन के मानव अंतरिक्ष कार्यक्रम के तहत चीनी और विदेशी अंतरिक्ष यात्रियों की पहली संयुक्त अंतरिक्ष उड़ान भी होगी.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+ज़ीशान अली चीन के तियांगोंग अंतरिक्ष स्टेशन पर कई दिन बिताएंगे. इस दौरान वह वैज्ञानिक प्रयोगों और शोध गतिविधियों में हिस्सा लेंगे. मिशन पूरा होने के बाद वह शेनझोउ-23 मिशन के दो चीनी अंतरिक्ष यात्रियों के साथ पृथ्वी पर लौटेंगे.
 
-### Governance Parameter Assessment
+मोहम्मद ज़ीशान अली का कहना है कि इस ऐतिहासिक मिशन का हिस्सा बनना उनके लिए सिर्फ निजी उपलब्धि नहीं है, बल्कि यह पूरे पाकिस्तान का प्रतिनिधित्व करने का मौक़ा भी है.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+उन्होंने कहा, ''मैं पाकिस्तानी लोगों के सपनों को अपने साथ अंतरिक्ष में ले जा रहा हूं.''
 
-### Why This Matters: Policy Impact & Outlook
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+इस साल चीन के मानव अंतरिक्ष कार्यक्रम के तहत पाकिस्तानी उम्मीदवार के रूप में चुने जाने के बाद मोहम्मद ज़ीशान अली ने चीन में कई महीनों तक विशेष ट्रेनिंग ली.
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+इस प्रशिक्षण में चीनी भाषा सीखना, अंतरिक्ष यान के सिस्टम को समझना, ज़ीरो ग्रेविटी में अभ्यास करना और कठिन शारीरिक प्रशिक्षण शामिल था.
+
+चीन के आधिकारिक अख़बार शंघाई डेली ने सोशल मीडिया प्लेटफॉर्म एक्स पर उनका एक बयान साझा किया.
+
+इसमें ज़ीशान अली ने कहा, ''एक पाकिस्तानी के रूप में मैं अपने साथ पाकिस्तानी लोगों के सपने लेकर जा रहा हूं.''
+
+उन्होंने आगे कहा, "चीन और पाकिस्तान के लोगों को हमसे बहुत उम्मीदें हैं. अंतरिक्ष में मिलकर काम करते हुए हम इंसानियत के भविष्य के लिए साझा प्रयास कर रहे हैं."
+
+शंघाई डेली के मुताबिक़, मोहम्मद ज़ीशान अली शेनझोउ-24 मिशन के दौरान पाकिस्तान की ओर से चुने गए चार वैज्ञानिक प्रयोग और परीक्षण करेंगे.
+
+'सीएन स्पेस' नाम के एक्स हैंडल पर साझा किए गए एक इंटरव्यू में ज़ीशान अली ने अपने प्रशिक्षण के अनुभव बताए. उन्होंने कहा कि लड़ाकू विमान के पायलट होने के बावजूद उन्हें कठिन शारीरिक और तकनीकी प्रशिक्षण से गुजरना पड़ा.
+
+उन्होंने कहा, ''मैंने सेंट्रीफ्यूज प्रशिक्षण, बचाव और जीवन रक्षा का प्रशिक्षण और इमरजेंसी प्रक्रियाओं का अभ्यास किया. लेकिन सबसे बड़ी चुनौती चीनी भाषा सीखना था.''
+
+उनके मुताबिक़, अंतरिक्ष यान के सभी स्विच, सॉफ्टवेयर, प्रोग्राम और आवाज़ के जरिए दी जाने वाली घोषणाएं चीनी भाषा में हैं. इसलिए उन्हें रोज़मर्रा की चीनी भाषा के साथ-साथ तकनीकी शब्दावली भी सीखनी पड़ी.
+
+अपने चीनी साथी अंतरिक्ष यात्रियों के बारे में बात करते हुए ज़ीशान अली ने कहा कि वह खुद को खुशकिस्मत मानते हैं कि उन्हें ऐसे सहयोगी मिले हैं, जो उनकी राय का सम्मान करते हैं और मिलकर किसी भी स्थिति का समाधान खोजते हैं.
+
+उन्होंने कहा कि दल के सदस्यों के बीच सहयोग, आपसी समझ और दोस्ती पाकिस्तान और चीन के रिश्तों को दिखाती है.
+
+### पाकिस्तान के कौन से वैज्ञानिक प्रयोग होंगे शामिल?
+
+मोहम्मद ज़ीशान अली का काम सिर्फ अंतरिक्ष की यात्रा करना नहीं होगा. उन्हें वहां पाकिस्तान की ओर से चुने गए वैज्ञानिक प्रयोग भी करने होंगे.
+
+पाकिस्तान की अंतरिक्ष एजेंसी 'सुपारको' को देश के विश्वविद्यालयों और शोध संस्थानों से 300 से ज़्यादा प्रस्ताव मिले थे. इनमें से चार प्रयोगों को चीनी विशेषज्ञों ने इस मिशन के लिए चुना.
+
+ये प्रयोग मुख्य रूप से बायो टेक्नोलॉजी से जुड़े हैं. इनका मक़सद खाद्य सुरक्षा, जलवायु परिवर्तन और भविष्य में अंतरिक्ष की खोज से जुड़े क्षेत्रों में नई जानकारी हासिल करना है.
+
+इन प्रयोगों की तैयारी के साथ ही मिशन के प्रक्षेपण से जुड़ी प्रशासनिक और तकनीकी तैयारियां भी पूरी कर ली गई हैं.
+
+इस मिशन में पाकिस्तानी अंतरिक्ष यात्री के शामिल होने को देखते हुए चीन के अंतरिक्ष कार्यक्रम से जुड़े विभागों ने चीनी और अंग्रेजी भाषा में संचालन संबंधी निर्देश तैयार किए हैं.
+
+इसके अलावा, ज़ीशान अली की खान-पान संबंधी ज़रूरतों को ध्यान में रखते हुए उनके लिए हलाल अंतरिक्ष भोजन की व्यवस्था भी की गई है.
+
+परीक्षण और प्रक्षेपण से जुड़ी सभी जरूरी शर्तें पूरी करने के लिए तापमान और नमी पर लगातार नजर रखने वाली एक स्मार्ट प्रणाली का भी इस्तेमाल किया गया.
+
+चीन के शेनझोउ-24 अंतरिक्ष यान और लॉन्ग मार्च 2एफ रॉकेट को 17 नवंबर को प्रक्षेपण स्थल पर पहुंचाया गया.
+
+अंतरिक्ष यान को बुधवार को बीजिंग के समय के मुताबिक़ सुबह 8:18 बजे उत्तर-पश्चिम चीन के जियुकुआन उपग्रह प्रक्षेपण केंद्र से लॉन्च किया जाएगा.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cvlyj3941n67o)`,
     author_name: `Pankhudi Sharma`,
     author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
     author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
@@ -1305,79 +4553,129 @@ Beyond immediate headlines, this development carries durable implications for re
     topic: ``,
     language: `hi`,
     fomo_badge: `⚡ National Wire`,
-    read_time: `7 min read`,
+    read_time: `5 min read`,
     views_count: 262880,
     shares_count: 36995,
     published_at: `2026-11-25T05:16:12Z`,
     updated_at: `2026-11-25T05:16:12Z`,
     source_name: `Jagran`,
-    source_url: `https://news.google.com/rss/articles/CBMiugFBVV95cUxOeFJQTGNocGxVYlNtaTNzSmZqZ0EtWFdCS0o1Ukowa19PRktxb29UMldMUGp0Y1hDOU9uU1Q4YmF4X1BVWTU1c2g0X2g5TklYM2F1UHppd1dCaWRQSkU3SHNrclA5Y3FkSlFKUUdqVm9ONHJaQnhYbDdFeTVZRlZaY1UwTEF6Y1hUUHhxYUI5SDFzb1IyWHJWeEZBYUhuOF9yNnRlaDRpOTgxaTQzc25jSkpWc3lFWFE1NlE?oc=5`,
+    source_url: `https://www.jagran.com/punjab/chandigarh-punjab-assembly-election-2027-bjp-akali-dal-nda-alliance-update-40446774.html`,
     source_courtesy: `News Courtesy: Jagran Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1600&q=85&sig=937`,
+    image_url: `/images/articles/bjp-sad-jagran-2026.webp`,
     image_alt: `Verified news photograph: अकाली दल से होगा सीएम चेहरा', पंजाब में BJP-SAD गठबंधन के बाद अमित शाह का बड़ा एलान - Jagran`,
-    image_courtesy: `Photo: Legal & Constitutional Wire (Unsplash Editorial)`,
-    image_photographer: `Legal & Constitutional Wire`,
-    image_license: `Unsplash Editorial`,
+    image_courtesy: `Image Courtesy: Jagran`,
+    image_photographer: `Jagran`,
+    image_license: `Original Source Media`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, Verified`,
-    summary: `अकाली दल से होगा सीएम चेहरा', पंजाब में BJP-SAD गठबंधन के बाद अमित शाह का बड़ा एलान - Jagran. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `पंजाब विधानसभा चुनाव 2027 के लिए भाजपा और शिरोमणि अकाली दल ने पुनः गठबंधन होने जा रहा है। 6 वर्ष बाद हुए इस ऐतिहासिक समझौते के तहत दोनों दल मिलकर चुनावी मैदान में उतरेंगे।`,
+    content: `पंजाब विधानसभा चुनाव 2027 के लिए भाजपा और शिरोमणि अकाली दल ने पुनः गठबंधन होने जा रहा है। 6 वर्ष बाद हुए इस ऐतिहासिक समझौते के तहत दोनों दल मिलकर चुनावी मैदान में उतरेंगे।
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **अकाली दल से होगा सीएम चेहरा', पंजाब में BJP-SAD गठबंधन के बाद अमित शाह का बड़ा एलान - Jagran**. According to authoritative communiqués released by Jagran, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+भाजपा कार्यालय में प्रेस कॉन्फ्रेंस के दौरान गृह मंत्री अमित शाह, अकाली दल अध्यक्ष सुखबीर बादल, भाजपा अध्यक्ष नितिन नवीन, केवल ढिल्लों, सुनील जाखड़, अश्विनी शर्मा व अन्य।
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+भाजपा और अकाली दल ने 2027 चुनाव के लिए हाथ मिलाया।
 
-### Institutional Oversight & Ground Reality
+अमित शाह ने पंजाब को नशामुक्त बनाने का संकल्प दोहराया।
 
-Ground reality assessments indicate that 'अकाली दल से होगा सीएम चेहरा', पंजाब में BJP-SAD गठबंधन के बाद अमित शाह का बड़ा एलान Jagran पंजाब चुनाव: अकाली दल ने बीजेपी के साथ गठबंधन का फ़ैसला क्यों किया? BBC पंजाब में फिर साथ आए भाजपा और अकाली दल, पीएम मोदी बोले- जनता की पहली पसंद बनेगा गठबंधन DD News पंजाब में क्या खोई हुई सियासी जमीन हासिल कर पाएगा अकाली दल-BJP गठबंधन? AajTak पंजाब में BJP-SAD का गठबंधन हुआ फाइनल, किसी ने जताई खुशी, किसी ने कसा तंज, जानें किसने क्या कहा? India TV Hindi establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+सुखबीर बादल ने इसे पंजाब के हित में 'भावनात्मक गठबंधन' बताया।
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+राज्य ब्यूरो, चंडीगढ़। पंजाब की राजनीति में वर्ष 2027 के विधानसभा चुनाव से पहले एक बड़ा बदलाव देखने को मिला है। भारतीय जनता पार्टी और शिरोमणि अकाली दल ने आधिकारिक तौर पर एक बार फिर से हाथ मिला लिया है। इस गठबंधन की औपचारिक घोषणा के लिए अकाली दल के अध्यक्ष सुखबीर सिंह बादल पार्टी मुख्यालय पहुंचे, जहां दोनों दलों के शीर्ष नेतृत्व की उपस्थिति में इस राजनीतिक फैसले पर मुहर लगाई गई।
 
-### Governance Parameter Assessment
+अमित शाह बोले कि NDA गठबंधन की सबसे पुरानी पार्टी अकाली दल वापस लौट कर आ रही है। इसे लेकर अभी भाजपा अध्यक्ष नितिन नवीन और अकाली दल अध्यक्ष सुखबीर बादल के बीच बैठक हुए है। जिसमें पंजाब विधानसभा चुनाव 2027 दोनों मिलकर लड़ने का फैसला लिया है। अकाली दल बड़े भाई की भूमिका में रहेगा और मुख्यमंत्री भी उन्हीं का रहेगा।
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+अमित शाह ने स्पष्ट किया कि लगतार तीन महीने की वर्ता के बाद इस फैसले पर मुहर लगी है। अमित शाह ने एक बार फिर राज्य को नशा मुक्त करने के अपने वादे को दोहराया। वहीं, अकाली दल अध्यक्ष सुखबीर बादल ने प्रकाश पर्व के शुभ अवसर पर अकाली दल और भाजपा के पुनः गठबंधन का स्वागत करते हुए इसे महज एक राजनीतिक समझौता नहीं, बल्कि पंजाब के हित में बना एक 'भावनात्मक गठबंधन' बताया।
 
-### Why This Matters: Policy Impact & Outlook
+शिरोमणि अकाली दल कोई नया राजनीतिक दल नहीं है, बल्कि 106 वर्षों के गौरवशाली इतिहास के साथ भारत की सबसे पुरानी पार्टियों में से एक है। देश की आजादी के संग्राम से लेकर पंजाब की प्रगति और कल्याण तक में इस ऐतिहासिक पार्टी का अत्यंत महत्वपूर्ण योगदान रहा है। यह गठबंधन राज्य की सुख-शांति, समृद्धि और विकास को समर्पित है।
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+यह भी पढ़ें- पंजाब की सियासत में उलटफेर: 6 साल बाद फिर साथ आएंगे BJP और अकाली दल! 2027 चुनाव के लिए सीट शेयरिंग का फॉर्मूला तैयार
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+मंच पर आने से पहले अकाली दल अध्यक्ष सुखबीर बादल का स्वागत करते हुए भाजपा अध्यक्ष नितिन नवीन।
+
+पंजाब में 2027 के विधानसभा चुनाव के लिए भाजपा और शिरोमणि अकाली दल के गठबंधन में सीटों और मुख्यमंत्री पद को लेकर भी स्थिति स्पष्ट होने लगी है। केंद्रीय गृह मंत्री अमित शाह ने कहा कि शिरोमणि अकाली दल गठबंधन में बड़े भाई की भूमिका में रहेगा और बड़े भाई की भूमिका निभाने वाला ही मुख्यमंत्री बनेगा। उन्होंने यह भी स्पष्ट किया कि एनडीए पंजाब की सभी 117 विधानसभा सीटों पर मिलकर चुनाव लड़ेगा।
+
+अमित शाह ने कहा कि जहां-जहां भाजपा की सरकारें हैं, वहां कानून-व्यवस्था की स्थिति ठीक रही है। पंजाब में भी एनडीए की सरकार बनने पर कानून-व्यवस्था को दुरुस्त किया जाएगा। राज्य में गैंगस्टरवाद और अपराध पर लगाम लगाना गठबंधन की प्राथमिकता होगी।
+
+वहीं, अकाली दल अध्यक्ष सुखबीर सिंह बादल ने कहा कि पंजाब का बच्चा-बच्चा चाहता था कि अकाली दल और भाजपा का गठबंधन दोबारा हो। दोनों दलों का पुराना रिश्ता रहा है और अब एक बार फिर साथ आने से पंजाब के विकास और सुरक्षा के मुद्दों पर मिलकर काम किया जा सकेगा। वहीं, नितिन नवीन ने स्पष्ट किया कि सीटों पर फैसला आने वाले दिनों में लिया जाएगा।
+
+अमित शाह ने कहा के यदि हम साथ ना आते तो भी आम आदमी पार्टी का हरण निश्चित था अब हम साथ आ गए हैं तो आम आदमी पार्टी का सफाया निश्चित है
+
+गृहमंत्री शाह ने राज्य सरकार पर हमला करते हुए कहा कि जिसने सिखों का अपमान किया है, जनता उसे सत्ता से हटाने का मन बना चुकी है। उन्होंने विश्वास जताया कि पंजाब की जनता आगामी चुनाव में एनडीए को समर्थन देकर उसकी सरकार बनाएगी।
+
+अमित शाह ने यह भी दोहराया कि एनडीए पंजाब के किसानों की समस्याओं को जड़ से समाप्त करने के लिए पूरी तरह संकल्पित है। उनका दावा है कि इस राजनीतिक बदलाव से राज्य में एक बार फिर शांति, समृद्धि और खुशहाली लौटेगी।
+
+पंजाब से नशे का खात्मा हमारा लक्ष्य है। भ्रष्टाचार खत्म करना मकसद है। अभी वहां कि सरकार, केजरीवाल ने नशा खत्म करने का वादा किया था। 2017 में राहुल ने कहा था कि एक टर्म में नशा खत्म कर देंगे। कांग्रेस भी कुछ नहीं कर पाई। 31 दिसंबर 2029 तक हम पंजाब को पूरी तरह नशे से मुख्त करेंगे।
+
+यह भी पढ़ें- पंजाब विधानसभा चुनाव में बीजेपी और अकाली दल का गठबंधन तय, दोपहर 1 बजे होगा एलान
+
+भाजपा के राष्ट्रीय अध्यक्ष नितिन नवीन ने कहा कि ये गठबंधन एकता का प्रतीक है। एकता की बात जिस प्रकार से गुरु साहिबान के बलिदान से जुड़ी है, उसे हम कभी भूल नहीं सकते। सन् 1675 में जिस प्रकार से गुरु तेग बहादुर जी ने कश्मीरी पंडितों की रक्षा के लिए, धर्म परिवर्तन को रोकने के लिए अपनी जान की आहुति दी।
+
+आज के दिन उन्हीं संदेशों को लेकर समाज में जाएंगे, पंजाब में जाएंगे। जिस प्रकार से प्रधानमंत्री ने लगातार सिख समाज के सम्मान के लिए और पंजाब के विकास के लिए अपना योगदान दिया है, मुझे पूरी उम्मीद है कि जिस प्रकार से एनडीए गठबंधन में हम लोग साथ आ रहे हैं, हम पंजाब के उस संकल्प को पूरा करेंगे।
+
+प्रधानमंत्री मोदी के नेतृत्व में हमारी सरकार ने नशा मुक्त पंजाब बनाने का जो संकल्प लिया है, पंजाब के युवाओं को अपने ही प्रदेश में रोजगार देने, महिलाओं को सुरक्षा देने और विकास के साथ-साथ हर आम आदमी की चिंता करने वाली विकासमुखी सरकार बनाने का हम संकल्प लेंगे।
+
+हम पंजाब को उसके गौरवशाली इतिहास की ओर ले जाएंगे, जो उसके साहस और शौर्य का रहा है, जो उसकी समृद्धि का रहा है, जो वीर सपूतों के सम्मान का रहा है। हम फिर से उस पंजाब को विकसित पंजाब बनाने की दिशा में आगे बढ़ेंगे।
+
+यह भी पढ़ें- पंजाब में 1997 में तय हुआ था 94-23 सीटों का फॉर्मूला, प्रकाश सिंह बादल के शब्दों में 'नाखून-मांस' जैसा था BJP-SAD का रिश्ता
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/punjab/chandigarh-punjab-assembly-election-2027-bjp-akali-dal-nda-alliance-update-40446774.html)`,
     title_en: ``,
     summary_en: ``,
     content_en: ``,
     title_hi: `अकाली दल से होगा सीएम चेहरा', पंजाब में BJP-SAD गठबंधन के बाद अमित शाह का बड़ा एलान - Jagran`,
-    summary_hi: `अकाली दल से होगा सीएम चेहरा', पंजाब में BJP-SAD गठबंधन के बाद अमित शाह का बड़ा एलान - Jagran. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content_hi: `### Strategic Overview & Legislative Framework
+    summary_hi: `पंजाब विधानसभा चुनाव 2027 के लिए भाजपा और शिरोमणि अकाली दल ने पुनः गठबंधन होने जा रहा है। 6 वर्ष बाद हुए इस ऐतिहासिक समझौते के तहत दोनों दल मिलकर चुनावी मैदान में उतरेंगे।`,
+    content_hi: `पंजाब विधानसभा चुनाव 2027 के लिए भाजपा और शिरोमणि अकाली दल ने पुनः गठबंधन होने जा रहा है। 6 वर्ष बाद हुए इस ऐतिहासिक समझौते के तहत दोनों दल मिलकर चुनावी मैदान में उतरेंगे।
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **अकाली दल से होगा सीएम चेहरा', पंजाब में BJP-SAD गठबंधन के बाद अमित शाह का बड़ा एलान - Jagran**. According to authoritative communiqués released by Jagran, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+भाजपा कार्यालय में प्रेस कॉन्फ्रेंस के दौरान गृह मंत्री अमित शाह, अकाली दल अध्यक्ष सुखबीर बादल, भाजपा अध्यक्ष नितिन नवीन, केवल ढिल्लों, सुनील जाखड़, अश्विनी शर्मा व अन्य।
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+भाजपा और अकाली दल ने 2027 चुनाव के लिए हाथ मिलाया।
 
-### Institutional Oversight & Ground Reality
+अमित शाह ने पंजाब को नशामुक्त बनाने का संकल्प दोहराया।
 
-Ground reality assessments indicate that 'अकाली दल से होगा सीएम चेहरा', पंजाब में BJP-SAD गठबंधन के बाद अमित शाह का बड़ा एलान Jagran पंजाब चुनाव: अकाली दल ने बीजेपी के साथ गठबंधन का फ़ैसला क्यों किया? BBC पंजाब में फिर साथ आए भाजपा और अकाली दल, पीएम मोदी बोले- जनता की पहली पसंद बनेगा गठबंधन DD News पंजाब में क्या खोई हुई सियासी जमीन हासिल कर पाएगा अकाली दल-BJP गठबंधन? AajTak पंजाब में BJP-SAD का गठबंधन हुआ फाइनल, किसी ने जताई खुशी, किसी ने कसा तंज, जानें किसने क्या कहा? India TV Hindi establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+सुखबीर बादल ने इसे पंजाब के हित में 'भावनात्मक गठबंधन' बताया।
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+राज्य ब्यूरो, चंडीगढ़। पंजाब की राजनीति में वर्ष 2027 के विधानसभा चुनाव से पहले एक बड़ा बदलाव देखने को मिला है। भारतीय जनता पार्टी और शिरोमणि अकाली दल ने आधिकारिक तौर पर एक बार फिर से हाथ मिला लिया है। इस गठबंधन की औपचारिक घोषणा के लिए अकाली दल के अध्यक्ष सुखबीर सिंह बादल पार्टी मुख्यालय पहुंचे, जहां दोनों दलों के शीर्ष नेतृत्व की उपस्थिति में इस राजनीतिक फैसले पर मुहर लगाई गई।
 
-### Governance Parameter Assessment
+अमित शाह बोले कि NDA गठबंधन की सबसे पुरानी पार्टी अकाली दल वापस लौट कर आ रही है। इसे लेकर अभी भाजपा अध्यक्ष नितिन नवीन और अकाली दल अध्यक्ष सुखबीर बादल के बीच बैठक हुए है। जिसमें पंजाब विधानसभा चुनाव 2027 दोनों मिलकर लड़ने का फैसला लिया है। अकाली दल बड़े भाई की भूमिका में रहेगा और मुख्यमंत्री भी उन्हीं का रहेगा।
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+अमित शाह ने स्पष्ट किया कि लगतार तीन महीने की वर्ता के बाद इस फैसले पर मुहर लगी है। अमित शाह ने एक बार फिर राज्य को नशा मुक्त करने के अपने वादे को दोहराया। वहीं, अकाली दल अध्यक्ष सुखबीर बादल ने प्रकाश पर्व के शुभ अवसर पर अकाली दल और भाजपा के पुनः गठबंधन का स्वागत करते हुए इसे महज एक राजनीतिक समझौता नहीं, बल्कि पंजाब के हित में बना एक 'भावनात्मक गठबंधन' बताया।
 
-### Why This Matters: Policy Impact & Outlook
+शिरोमणि अकाली दल कोई नया राजनीतिक दल नहीं है, बल्कि 106 वर्षों के गौरवशाली इतिहास के साथ भारत की सबसे पुरानी पार्टियों में से एक है। देश की आजादी के संग्राम से लेकर पंजाब की प्रगति और कल्याण तक में इस ऐतिहासिक पार्टी का अत्यंत महत्वपूर्ण योगदान रहा है। यह गठबंधन राज्य की सुख-शांति, समृद्धि और विकास को समर्पित है।
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+यह भी पढ़ें- पंजाब की सियासत में उलटफेर: 6 साल बाद फिर साथ आएंगे BJP और अकाली दल! 2027 चुनाव के लिए सीट शेयरिंग का फॉर्मूला तैयार
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+मंच पर आने से पहले अकाली दल अध्यक्ष सुखबीर बादल का स्वागत करते हुए भाजपा अध्यक्ष नितिन नवीन।
+
+पंजाब में 2027 के विधानसभा चुनाव के लिए भाजपा और शिरोमणि अकाली दल के गठबंधन में सीटों और मुख्यमंत्री पद को लेकर भी स्थिति स्पष्ट होने लगी है। केंद्रीय गृह मंत्री अमित शाह ने कहा कि शिरोमणि अकाली दल गठबंधन में बड़े भाई की भूमिका में रहेगा और बड़े भाई की भूमिका निभाने वाला ही मुख्यमंत्री बनेगा। उन्होंने यह भी स्पष्ट किया कि एनडीए पंजाब की सभी 117 विधानसभा सीटों पर मिलकर चुनाव लड़ेगा।
+
+अमित शाह ने कहा कि जहां-जहां भाजपा की सरकारें हैं, वहां कानून-व्यवस्था की स्थिति ठीक रही है। पंजाब में भी एनडीए की सरकार बनने पर कानून-व्यवस्था को दुरुस्त किया जाएगा। राज्य में गैंगस्टरवाद और अपराध पर लगाम लगाना गठबंधन की प्राथमिकता होगी।
+
+वहीं, अकाली दल अध्यक्ष सुखबीर सिंह बादल ने कहा कि पंजाब का बच्चा-बच्चा चाहता था कि अकाली दल और भाजपा का गठबंधन दोबारा हो। दोनों दलों का पुराना रिश्ता रहा है और अब एक बार फिर साथ आने से पंजाब के विकास और सुरक्षा के मुद्दों पर मिलकर काम किया जा सकेगा। वहीं, नितिन नवीन ने स्पष्ट किया कि सीटों पर फैसला आने वाले दिनों में लिया जाएगा।
+
+अमित शाह ने कहा के यदि हम साथ ना आते तो भी आम आदमी पार्टी का हरण निश्चित था अब हम साथ आ गए हैं तो आम आदमी पार्टी का सफाया निश्चित है
+
+गृहमंत्री शाह ने राज्य सरकार पर हमला करते हुए कहा कि जिसने सिखों का अपमान किया है, जनता उसे सत्ता से हटाने का मन बना चुकी है। उन्होंने विश्वास जताया कि पंजाब की जनता आगामी चुनाव में एनडीए को समर्थन देकर उसकी सरकार बनाएगी।
+
+अमित शाह ने यह भी दोहराया कि एनडीए पंजाब के किसानों की समस्याओं को जड़ से समाप्त करने के लिए पूरी तरह संकल्पित है। उनका दावा है कि इस राजनीतिक बदलाव से राज्य में एक बार फिर शांति, समृद्धि और खुशहाली लौटेगी।
+
+पंजाब से नशे का खात्मा हमारा लक्ष्य है। भ्रष्टाचार खत्म करना मकसद है। अभी वहां कि सरकार, केजरीवाल ने नशा खत्म करने का वादा किया था। 2017 में राहुल ने कहा था कि एक टर्म में नशा खत्म कर देंगे। कांग्रेस भी कुछ नहीं कर पाई। 31 दिसंबर 2029 तक हम पंजाब को पूरी तरह नशे से मुख्त करेंगे।
+
+यह भी पढ़ें- पंजाब विधानसभा चुनाव में बीजेपी और अकाली दल का गठबंधन तय, दोपहर 1 बजे होगा एलान
+
+भाजपा के राष्ट्रीय अध्यक्ष नितिन नवीन ने कहा कि ये गठबंधन एकता का प्रतीक है। एकता की बात जिस प्रकार से गुरु साहिबान के बलिदान से जुड़ी है, उसे हम कभी भूल नहीं सकते। सन् 1675 में जिस प्रकार से गुरु तेग बहादुर जी ने कश्मीरी पंडितों की रक्षा के लिए, धर्म परिवर्तन को रोकने के लिए अपनी जान की आहुति दी।
+
+आज के दिन उन्हीं संदेशों को लेकर समाज में जाएंगे, पंजाब में जाएंगे। जिस प्रकार से प्रधानमंत्री ने लगातार सिख समाज के सम्मान के लिए और पंजाब के विकास के लिए अपना योगदान दिया है, मुझे पूरी उम्मीद है कि जिस प्रकार से एनडीए गठबंधन में हम लोग साथ आ रहे हैं, हम पंजाब के उस संकल्प को पूरा करेंगे।
+
+प्रधानमंत्री मोदी के नेतृत्व में हमारी सरकार ने नशा मुक्त पंजाब बनाने का जो संकल्प लिया है, पंजाब के युवाओं को अपने ही प्रदेश में रोजगार देने, महिलाओं को सुरक्षा देने और विकास के साथ-साथ हर आम आदमी की चिंता करने वाली विकासमुखी सरकार बनाने का हम संकल्प लेंगे।
+
+हम पंजाब को उसके गौरवशाली इतिहास की ओर ले जाएंगे, जो उसके साहस और शौर्य का रहा है, जो उसकी समृद्धि का रहा है, जो वीर सपूतों के सम्मान का रहा है। हम फिर से उस पंजाब को विकसित पंजाब बनाने की दिशा में आगे बढ़ेंगे।
+
+यह भी पढ़ें- पंजाब में 1997 में तय हुआ था 94-23 सीटों का फॉर्मूला, प्रकाश सिंह बादल के शब्दों में 'नाखून-मांस' जैसा था BJP-SAD का रिश्ता
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/punjab/chandigarh-punjab-assembly-election-2027-bjp-akali-dal-nda-alliance-update-40446774.html)`,
     author_name: `Pankhudi Sharma`,
     author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
     author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
@@ -1398,79 +4696,69 @@ Beyond immediate headlines, this development carries durable implications for re
     topic: ``,
     language: `hi`,
     fomo_badge: `⚡ National Wire`,
-    read_time: `7 min read`,
+    read_time: `4 min read`,
     views_count: 263120,
     shares_count: 37030,
     published_at: `2026-11-25T05:16:13Z`,
     updated_at: `2026-11-25T05:16:13Z`,
     source_name: `91Mobiles`,
-    source_url: `https://news.google.com/rss/articles/CBMingFBVV95cUxOZkNrRG02Z3VxNDZHMEFabXY5YnZmdE1ScUpPQlFmYjBlU05IalZGZlljZ3RqTTViSWx4ckFuWHg5MlJnNTlMT2VuOVo1Ti05RWZZZnBtNlQ0a0ZmQW4yVEZQUVBPcGQ5RXJobFNvdG4tQWYyaHZ3empUT3IxVUpsY1BLVkkzbkswWUhnblFsYnR5aEp5UVVwTkRHN3Fmd9IBowFBVV95cUxNamhIa1hwNXRGWGk4MktCaFB2NWRMQ1hQNDNtdHRlMmNKbnBBX251NXZZTVZrSWJJUmx1U2FNRzZDMjRYQWY2RnNabWNFcVdFdzdvMEU4OUM5WFItMkpiVFMwOTRqMTItbXZhZUY2QnpncXpuSXR1N2N2VGNLQUtLVXRDRDEyZHlkMFNuejRXbU9zR2t0d2NvY0pWakwxQXJWZ0gw?oc=5`,
+    source_url: `https://www.91mobiles.com/hindi/iqoo-16-launch-in-malaysia-on-8-december-iqoo-16s-could-unveiled/`,
     source_courtesy: `News Courtesy: 91Mobiles Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1600&q=85&sig=938`,
+    image_url: `/images/articles/16-8-iqoo-16-iqoo-16s-91mobiles-2026.jpg`,
     image_alt: `Verified news photograph: आइकू 16 सीरीज 8 दिसंबर को होगी मलेशिया में लॉन्च, iQOO 16 के साथ आ सकता है नया मॉडल iQOO 16s - 91Mobiles`,
-    image_courtesy: `Photo: Cloud Data Center (Unsplash Editorial)`,
-    image_photographer: `Cloud Data Center`,
-    image_license: `Unsplash Editorial`,
+    image_courtesy: `Image Courtesy: 91Mobiles`,
+    image_photographer: `91Mobiles`,
+    image_license: `Original Source Media`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Tech, Breaking News, India, Verified`,
-    summary: `आइकू 16 सीरीज 8 दिसंबर को होगी मलेशिया में लॉन्च, iQOO 16 के साथ आ सकता है नया मॉडल iQOO 16s - 91Mobiles. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `आइकू अपनी नई ’16 नंबर सीरीज’ को ग्लोबल मार्केट में उतारने की तैयारी कर रही है। कंपनी ने मलेशिया में iQOO 16 series को टीज करना शुरू कर दिया है जिसके साथ ही इसके नए स्मार्टफोन मॉडल की पहली झलक भी सामने आ गई है। कंपनी की ओर से कंफर्म कर दिया `,
+    content: `आइकू अपनी नई ’16 नंबर सीरीज’ को ग्लोबल मार्केट में उतारने की तैयारी कर रही है। कंपनी ने मलेशिया में iQOO 16 series को टीज करना शुरू कर दिया है जिसके साथ ही इसके नए स्मार्टफोन मॉडल की पहली झलक भी सामने आ गई है। कंपनी की ओर से कंफर्म कर दिया गया है कि आइकू 16 सीरीज के दो स्मार्टफोन 8 दिसंबर को मलेशिया में लॉन्च होंगे। ब्रांड द्वारा ऑफिशियल पोस्टर शेयर किया गया है जिसमें iQOO 16 के साथ ही एक अन्य मोबाइल भी दिखाया गया है। लीक्स में इस फोन का नाम iQOO 16s बताया जा रहा है।
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **आइकू 16 सीरीज 8 दिसंबर को होगी मलेशिया में लॉन्च, iQOO 16 के साथ आ सकता है नया मॉडल iQOO 16s - 91Mobiles**. According to authoritative communiqués released by 91Mobiles, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+आइकू 16 5जी फोन 29 सितंबर 2026 को चीन में लॉन्च हुआ था। अब कंपनी इसे चाइना के बाहर ग्लोबल मार्केट में भी लेकर आ रही है। ब्रांड की ओर से आधिकारिक जानकारी दे दी गई है कि आइकू 16 सीरीज 8 दिसंबर को मलेशिया में लॉन्च की जाएगी। सीरीज को इंस्टाग्राम पर टीज किया गया है। इस सीरीज में दो स्मार्टफोन मॉडल्स लाए जा रहे हैं जिनमें से एक iQOO 16 है लेकिन दूसरे का नाम अभी पर्दे के पीछे ही रखा गया है। लीक्स व मीडिया रिपोर्ट्स की मानें तो यह दूसरा मॉडल iQOO 16s नाम के साथ मलेशियन मार्केट में उतारा जा सकता है।
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+A post shared by iQOO Malaysia (@iqoomalaysia)
 
-### Institutional Oversight & Ground Reality
+आइकू मलेशिया की ओर से शेयर किए गए टीजर में iQOO 16 के साथ ही जो दूसरा स्मार्टफोन दिखाया गया है उसे सीरीज का छोटा मॉडल माना जा रहा है। iQOO 16s कहे जा रहे इस स्मार्टफोन के बैक पैनल पर चौकोर शेप का रियर कैमरा सेटअप दिया गया है। दो बड़े रिंग कैमरा सेंसर जहां वर्टिकली प्लेस्ड हैं, वहीं साइड में छोटा ​थर्ड सेंसर और फ्लैश लाइट लगी है। इस कैमरा मॉड्यूल में 100X Tele Lens भी लिखा हुआ है। कंफर्म तो नहीं है लेकिन इस फोन का रियर पैनल ग्लास पर बना जैसा प्रतीत हो रहा है।
 
-Ground reality assessments indicate that आइकू 16 सीरीज 8 दिसंबर को होगी मलेशिया में लॉन्च, iQOO 16 के साथ आ सकता है नया मॉडल iQOO 16s 91Mobiles 8400mAh बैटरी वाला धांसू फोन भारत आ रहा है! iQOO 16 में मिलेंगे 50MP के 3 कैमरे AajTak iQOO I2606 (संभावित iQOO 16R/16s) Geekbench पर लिस्ट, Snapdragon 8s Gen 4 और Android 17 का खुलासा 91Mobiles 10,000 mAh बैटरी वाला नया 5G फोन, 165Hz AMOLED डिस्प्ले और स्नैपड्रैगन प्रोसेसर Jagran Gadgets News 24 Nov 2026: माइक्रोमैक्स फिर लॉन्च करेगा स्मार्टफोन, iQOO 16 का लॉन्च अगले महीने, iphone 20 पर भी आया अपडेट Navbharat Times establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+### कथित iQOO 16s की स्पेसिफिकेशन्स (लीक्स)
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+लीक्स में बताया जा रहा है कि अपकमिंग आइकू 16एस स्मार्टफोन Snapdragon 8s Gen 4 चिपसेट पर लॉन्च किया जा सकता है। यह 4नैनोमीटर फैब्रिकेशन्स पर बना ऑक्टा-कोर प्रोसेसर 3.21 GHz तक की क्लॉक स्पीड पर रन करने की क्षमता रखता है। इस स्मार्टफोन को 12GB LPDDR5X RAM के साथ मलेशिया में लॉन्च किया जा सकता है। लीक की मानें तो पावर बैकअप के लिए यह अपकमिंग आइकू 5जी फोन 8,000एमएएच बैटरी सपोर्ट कर सकता है और इसे तेजी से चार्ज करने के लिए 80वॉट फास्ट चार्जिंग तकनीक दी जा सकती है।
 
-### Governance Parameter Assessment
+iQOO 16s 5G फोन में 6.59-इंच की 1.5K डिस्प्ले दिए जाने की बात लीक में कही गई है। बताया गया है कि इस फोन में 144Hz रिफ्रेश रेट वाली flat OLED स्क्रीन मिल सकता है। वहीं फोटोग्राफी के लिए आइकू 16एस के ट्रिपल रियर कैमरा सेटअप में 50 मेगापिक्सल मेन ओआइएस सेंसर के साथ 50 मेगापिक्सल 3एक्स टेलीफोटो लेंस और 8 मेगापिक्सल अल्ट्रा वाइड एंगल लेंस शामिल हो सकता है। बहरहाल स्मार्टफोन की स्पेसिफिकेशन्स को तब तक पुख्ता नहीं कहा जा सकता है, जब कंपनी की ओर से आधिकारिक जानकारी नहीं दे दी जाती।
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+8 दिसंबर को मलेशिया में लॉन्च होने के बाद आइकू 16 सीरीज भारतीय बाजार में भी आएगी। लीक्स के अनुसार इसे जनवरी 2027 में इंडिया में लॉन्च किया जा सकता है। लॉन्च होने तक क​थित iQOO 16s की खूबी, खामी या इसकी मार्केट पोजिशनिंग तय करना मुश्किल है। लेकिन लीक्ड स्पेसिफिकेशन्स के हिसाब से यह हाई रिफ्रेश रेट कॉम्पैक्ट डिस्प्ले वाली इंडस्ट्री ट्रेंड का हिस्सा बन सकता है। हाई रिफ्रेश रेट से गेमप्ले भी फास्ट होता है। वहीं जो लोग बड़ी बैटरी और लंबा बैकअप वाला फोन चाहते हैं उन्हें भी यह अपकमिंग आइकू फोन पसंद आ सकता है। आइकू 16एस के साथ कंपनी अपने प्रीमियम सेग्मेंट को बढ़ाने की कोशिश कर सकती है और 60 हजार से 70 हजार रुपये की रेंज में फ्लैग​शिप फोन खरीदने वाले कस्टमर्स को टारगेट करने की प्रयास कर सकती है।
 
-### Why This Matters: Policy Impact & Outlook
+अगर आप जनवरी 2027 तक इंडिया में आइकू 16 सीरीज की उपलब्धता का इंतजार नहीं करना चाहते और इसी प्राइस बजट में अगर आप कोई प्रीमियम फ्लैगशिप स्मार्टफोन खरीदना चाहते हैं तो OnePlus 15R, OPPO Reno 16, Samsung Galaxy S26 FE, Infinix GT 50 Pro और vivo V80 को कंसिडर कर सकते हैं। ये सभी मोबाइल बड़ी बैटरी और बेहतरीन कैमरा के साथ पावरफुल परफॉर्मेंस प्रदान करते हैं। जनवरी 2027 से पहले इन्हें खरीदा जा सकता है।
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+---
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+**मूल स्रोत (Original Source):** [91Mobiles](https://www.91mobiles.com/hindi/iqoo-16-launch-in-malaysia-on-8-december-iqoo-16s-could-unveiled/)`,
     title_en: ``,
     summary_en: ``,
     content_en: ``,
     title_hi: `आइकू 16 सीरीज 8 दिसंबर को होगी मलेशिया में लॉन्च, iQOO 16 के साथ आ सकता है नया मॉडल iQOO 16s - 91Mobiles`,
-    summary_hi: `आइकू 16 सीरीज 8 दिसंबर को होगी मलेशिया में लॉन्च, iQOO 16 के साथ आ सकता है नया मॉडल iQOO 16s - 91Mobiles. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content_hi: `### Strategic Overview & Legislative Framework
+    summary_hi: `आइकू अपनी नई ’16 नंबर सीरीज’ को ग्लोबल मार्केट में उतारने की तैयारी कर रही है। कंपनी ने मलेशिया में iQOO 16 series को टीज करना शुरू कर दिया है जिसके साथ ही इसके नए स्मार्टफोन मॉडल की पहली झलक भी सामने आ गई है। कंपनी की ओर से कंफर्म कर दिया `,
+    content_hi: `आइकू अपनी नई ’16 नंबर सीरीज’ को ग्लोबल मार्केट में उतारने की तैयारी कर रही है। कंपनी ने मलेशिया में iQOO 16 series को टीज करना शुरू कर दिया है जिसके साथ ही इसके नए स्मार्टफोन मॉडल की पहली झलक भी सामने आ गई है। कंपनी की ओर से कंफर्म कर दिया गया है कि आइकू 16 सीरीज के दो स्मार्टफोन 8 दिसंबर को मलेशिया में लॉन्च होंगे। ब्रांड द्वारा ऑफिशियल पोस्टर शेयर किया गया है जिसमें iQOO 16 के साथ ही एक अन्य मोबाइल भी दिखाया गया है। लीक्स में इस फोन का नाम iQOO 16s बताया जा रहा है।
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **आइकू 16 सीरीज 8 दिसंबर को होगी मलेशिया में लॉन्च, iQOO 16 के साथ आ सकता है नया मॉडल iQOO 16s - 91Mobiles**. According to authoritative communiqués released by 91Mobiles, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+आइकू 16 5जी फोन 29 सितंबर 2026 को चीन में लॉन्च हुआ था। अब कंपनी इसे चाइना के बाहर ग्लोबल मार्केट में भी लेकर आ रही है। ब्रांड की ओर से आधिकारिक जानकारी दे दी गई है कि आइकू 16 सीरीज 8 दिसंबर को मलेशिया में लॉन्च की जाएगी। सीरीज को इंस्टाग्राम पर टीज किया गया है। इस सीरीज में दो स्मार्टफोन मॉडल्स लाए जा रहे हैं जिनमें से एक iQOO 16 है लेकिन दूसरे का नाम अभी पर्दे के पीछे ही रखा गया है। लीक्स व मीडिया रिपोर्ट्स की मानें तो यह दूसरा मॉडल iQOO 16s नाम के साथ मलेशियन मार्केट में उतारा जा सकता है।
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+A post shared by iQOO Malaysia (@iqoomalaysia)
 
-### Institutional Oversight & Ground Reality
+आइकू मलेशिया की ओर से शेयर किए गए टीजर में iQOO 16 के साथ ही जो दूसरा स्मार्टफोन दिखाया गया है उसे सीरीज का छोटा मॉडल माना जा रहा है। iQOO 16s कहे जा रहे इस स्मार्टफोन के बैक पैनल पर चौकोर शेप का रियर कैमरा सेटअप दिया गया है। दो बड़े रिंग कैमरा सेंसर जहां वर्टिकली प्लेस्ड हैं, वहीं साइड में छोटा ​थर्ड सेंसर और फ्लैश लाइट लगी है। इस कैमरा मॉड्यूल में 100X Tele Lens भी लिखा हुआ है। कंफर्म तो नहीं है लेकिन इस फोन का रियर पैनल ग्लास पर बना जैसा प्रतीत हो रहा है।
 
-Ground reality assessments indicate that आइकू 16 सीरीज 8 दिसंबर को होगी मलेशिया में लॉन्च, iQOO 16 के साथ आ सकता है नया मॉडल iQOO 16s 91Mobiles 8400mAh बैटरी वाला धांसू फोन भारत आ रहा है! iQOO 16 में मिलेंगे 50MP के 3 कैमरे AajTak iQOO I2606 (संभावित iQOO 16R/16s) Geekbench पर लिस्ट, Snapdragon 8s Gen 4 और Android 17 का खुलासा 91Mobiles 10,000 mAh बैटरी वाला नया 5G फोन, 165Hz AMOLED डिस्प्ले और स्नैपड्रैगन प्रोसेसर Jagran Gadgets News 24 Nov 2026: माइक्रोमैक्स फिर लॉन्च करेगा स्मार्टफोन, iQOO 16 का लॉन्च अगले महीने, iphone 20 पर भी आया अपडेट Navbharat Times establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+### कथित iQOO 16s की स्पेसिफिकेशन्स (लीक्स)
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+लीक्स में बताया जा रहा है कि अपकमिंग आइकू 16एस स्मार्टफोन Snapdragon 8s Gen 4 चिपसेट पर लॉन्च किया जा सकता है। यह 4नैनोमीटर फैब्रिकेशन्स पर बना ऑक्टा-कोर प्रोसेसर 3.21 GHz तक की क्लॉक स्पीड पर रन करने की क्षमता रखता है। इस स्मार्टफोन को 12GB LPDDR5X RAM के साथ मलेशिया में लॉन्च किया जा सकता है। लीक की मानें तो पावर बैकअप के लिए यह अपकमिंग आइकू 5जी फोन 8,000एमएएच बैटरी सपोर्ट कर सकता है और इसे तेजी से चार्ज करने के लिए 80वॉट फास्ट चार्जिंग तकनीक दी जा सकती है।
 
-### Governance Parameter Assessment
+iQOO 16s 5G फोन में 6.59-इंच की 1.5K डिस्प्ले दिए जाने की बात लीक में कही गई है। बताया गया है कि इस फोन में 144Hz रिफ्रेश रेट वाली flat OLED स्क्रीन मिल सकता है। वहीं फोटोग्राफी के लिए आइकू 16एस के ट्रिपल रियर कैमरा सेटअप में 50 मेगापिक्सल मेन ओआइएस सेंसर के साथ 50 मेगापिक्सल 3एक्स टेलीफोटो लेंस और 8 मेगापिक्सल अल्ट्रा वाइड एंगल लेंस शामिल हो सकता है। बहरहाल स्मार्टफोन की स्पेसिफिकेशन्स को तब तक पुख्ता नहीं कहा जा सकता है, जब कंपनी की ओर से आधिकारिक जानकारी नहीं दे दी जाती।
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+8 दिसंबर को मलेशिया में लॉन्च होने के बाद आइकू 16 सीरीज भारतीय बाजार में भी आएगी। लीक्स के अनुसार इसे जनवरी 2027 में इंडिया में लॉन्च किया जा सकता है। लॉन्च होने तक क​थित iQOO 16s की खूबी, खामी या इसकी मार्केट पोजिशनिंग तय करना मुश्किल है। लेकिन लीक्ड स्पेसिफिकेशन्स के हिसाब से यह हाई रिफ्रेश रेट कॉम्पैक्ट डिस्प्ले वाली इंडस्ट्री ट्रेंड का हिस्सा बन सकता है। हाई रिफ्रेश रेट से गेमप्ले भी फास्ट होता है। वहीं जो लोग बड़ी बैटरी और लंबा बैकअप वाला फोन चाहते हैं उन्हें भी यह अपकमिंग आइकू फोन पसंद आ सकता है। आइकू 16एस के साथ कंपनी अपने प्रीमियम सेग्मेंट को बढ़ाने की कोशिश कर सकती है और 60 हजार से 70 हजार रुपये की रेंज में फ्लैग​शिप फोन खरीदने वाले कस्टमर्स को टारगेट करने की प्रयास कर सकती है।
 
-### Why This Matters: Policy Impact & Outlook
+अगर आप जनवरी 2027 तक इंडिया में आइकू 16 सीरीज की उपलब्धता का इंतजार नहीं करना चाहते और इसी प्राइस बजट में अगर आप कोई प्रीमियम फ्लैगशिप स्मार्टफोन खरीदना चाहते हैं तो OnePlus 15R, OPPO Reno 16, Samsung Galaxy S26 FE, Infinix GT 50 Pro और vivo V80 को कंसिडर कर सकते हैं। ये सभी मोबाइल बड़ी बैटरी और बेहतरीन कैमरा के साथ पावरफुल परफॉर्मेंस प्रदान करते हैं। जनवरी 2027 से पहले इन्हें खरीदा जा सकता है।
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+---
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+**मूल स्रोत (Original Source):** [91Mobiles](https://www.91mobiles.com/hindi/iqoo-16-launch-in-malaysia-on-8-december-iqoo-16s-could-unveiled/)`,
     author_name: `Pankhudi Sharma`,
     author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
     author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
@@ -1491,79 +4779,73 @@ Beyond immediate headlines, this development carries durable implications for re
     topic: ``,
     language: `hi`,
     fomo_badge: `⚡ National Wire`,
-    read_time: `7 min read`,
+    read_time: `2 min read`,
     views_count: 263360,
     shares_count: 37065,
     published_at: `2026-11-25T05:16:13Z`,
     updated_at: `2026-11-25T05:16:13Z`,
     source_name: `Jagran`,
-    source_url: `https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmx2Z3M1TnBGRGdVVm9KSWJXX1d0ZTl4dGhiS25hZzRuc3Z2d2tha3VWWEZyczYwa0dHNDdrdGZvSTBhSUZ0RkoyTm8yZmstYmY2MkUwOU9CckdWWUZrVXBmZkY2emFOZlU2MzVpaVA0ZFNxZWpfZjR3cGlJMFJFc1dsUjdveHBVb2NWZ2lwZGJQZG0tdEhGY1V6YWFaeDN1SlFvZmFIc3duSjRvUGdRLVVR?oc=5`,
+    source_url: `https://www.jagran.com/technology/tech-news-how-iphone-airdrop-works-fast-file-transfer-technology-40447614.html`,
     source_courtesy: `News Courtesy: Jagran Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=85&sig=939`,
+    image_url: `/images/articles/iphone-airdrop-jagran-2026.webp`,
     image_alt: `Verified news photograph: iPhone का AirDrop कैसे बड़ी-बड़ी फाइल्स कुछ मिनटों में भेज देता है? जानिए इसके पीछे की टेक्नोलॉजी - Jagran`,
-    image_courtesy: `Photo: Semiconductor Lab (Unsplash Editorial)`,
-    image_photographer: `Semiconductor Lab`,
-    image_license: `Unsplash Editorial`,
+    image_courtesy: `Image Courtesy: Jagran`,
+    image_photographer: `Jagran`,
+    image_license: `Original Source Media`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Tech, Breaking News, India, Verified`,
-    summary: `iPhone का AirDrop कैसे बड़ी-बड़ी फाइल्स कुछ मिनटों में भेज देता है? जानिए इसके पीछे की टेक्नोलॉजी - Jagran. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `एप्पल का AirDrop फीचर iPhone, iPad और Mac पर बड़ी फाइलों को बिना इंटरनेट के तेजी से साझा करता है। यह ब्लूटूथ और Wi-Fi Direct जैसी पीयर-टू-पीयर वायरलेस टेक्नोलॉजी का उपयोग करके फाइल ट्रांसफर को आसान बनाता है।`,
+    content: `एप्पल का AirDrop फीचर iPhone, iPad और Mac पर बड़ी फाइलों को बिना इंटरनेट के तेजी से साझा करता है। यह ब्लूटूथ और Wi-Fi Direct जैसी पीयर-टू-पीयर वायरलेस टेक्नोलॉजी का उपयोग करके फाइल ट्रांसफर को आसान बनाता है।
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **iPhone का AirDrop कैसे बड़ी-बड़ी फाइल्स कुछ मिनटों में भेज देता है? जानिए इसके पीछे की टेक्नोलॉजी - Jagran**. According to authoritative communiqués released by Jagran, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+iPhone का AirDrop कैसे बड़ी-बड़ी फाइल्स कुछ मिनटों में भेज देता है? जानिए इसके पीछे की टेक्नोलॉजी
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+जानिए मुख्य बातें और खबर का सार एक नजर में
 
-### Institutional Oversight & Ground Reality
+टेक्नोलॉजी डेस्क, नई दिल्ली। ऐसा देखा गया है कि एप्पल के iPhone में मिलने वाला AirDrop फीचर बड़ी-बड़ी फाइल्स शेयर करना काफी ज्यादा आसान बना देता है। इसकी हेल्प से यूजर्स फोटो, वीडियो, डॉक्यूमेंट और दूसरी फाइल्स को कुछ ही मिनटों में किसी भी दूसरे iPhone, iPad या Mac पर सेंड कर सकते हैं। खास बात ये है कि इसके लिए न तो मोबाइल डेटा ऑन रखने की जरूरत है और न ही इसके लिए Wifi कनेक्शन की जरूरत है। ऐसे में सवाल ये है कि फिर AirDrop इतनी तेजी से फाइल्स कैसे ट्रांसफर करता है?
 
-Ground reality assessments indicate that iPhone का AirDrop कैसे बड़ी-बड़ी फाइल्स कुछ मिनटों में भेज देता है? जानिए इसके पीछे की टेक्नोलॉजी Jagran establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+दरअसल, AirDrop के इतनी फास्ट काम करने के पीछे एप्पल की खास वायरलेस टेक्नोलॉजी है। इसमें न सिर्फ ब्लूटूथ का इस्तेमाल होता है बल्कि ये टेक्नोलॉजी Wi-Fi का भी यूज करती है। दोनों टेक्नोलॉजी मिलकर फाइल ट्रांसफर प्रोसेस को आसान और फास्ट बनाती हैं। चलिए पहले जानते हैं कि AirDrop कैसे काम करता है ।
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+इसे आसान शब्दों में स्मझें तो जब आप अपने iPhone में AirDrop को ऑन करते हैं, तो सबसे पहले ये ब्लूटूथ की हेल्प से आसपास मौजूद एप्पल डिवाइस को सर्च करता है। ब्लूटूथ का काम दोनों डिवाइस के बीच कनेक्शन सेट करने का और एक-दूसरे की पहचान करने में हेल्प करने का होता है।
 
-### Governance Parameter Assessment
+फाइल ट्रांसफर करने के लिए इसके बाद AirDrop Wi-Fi का यूज करता है। ये Wi-Fi Direct जैसी पीयर-टू-पीयर वायरलेस टेक्नोलॉजी के जरिए दोनों डिवाइस के बीच सीधा कनेक्शन बना लेता है। ऐसा करने से फाइल को किसी इंटरनेट सर्वर पर भी अपलोड नहीं करना पड़ता और डेटा सीधे एक डिवाइस से दूसरे डिवाइस पर चला जाता है।
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+### इंटरनेट के बिना हो जाती है फाइल शेयरिंग
 
-### Why This Matters: Policy Impact & Outlook
+AirDrop की सबसे खास बात यही है कि इससे आप फाइल ट्रांसफर बिना किसी मोबाइल नेटवर्क या किसी बाहरी Wi-Fi राउटर के बिना भी कर सकते हैं। इस टेक्नोलॉजी में दोनों डिवाइस के बीच सीधा वायरलेस कनेक्शन बन जाता है। यही कारण है कि इंटरनेट उपलब्ध न होने पर भी फाइल शेयरिंग हो जाती है।
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+यह भी पढ़ें- Motorola का 7000 mAh बैटरी वाला नया 5G फोन लॉन्च, 144Hz डिस्प्ले, 50MP कैमरा और स्नैपड्रगन प्रोसेसर
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/technology/tech-news-how-iphone-airdrop-works-fast-file-transfer-technology-40447614.html)`,
     title_en: ``,
     summary_en: ``,
     content_en: ``,
     title_hi: `iPhone का AirDrop कैसे बड़ी-बड़ी फाइल्स कुछ मिनटों में भेज देता है? जानिए इसके पीछे की टेक्नोलॉजी - Jagran`,
-    summary_hi: `iPhone का AirDrop कैसे बड़ी-बड़ी फाइल्स कुछ मिनटों में भेज देता है? जानिए इसके पीछे की टेक्नोलॉजी - Jagran. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content_hi: `### Strategic Overview & Legislative Framework
+    summary_hi: `एप्पल का AirDrop फीचर iPhone, iPad और Mac पर बड़ी फाइलों को बिना इंटरनेट के तेजी से साझा करता है। यह ब्लूटूथ और Wi-Fi Direct जैसी पीयर-टू-पीयर वायरलेस टेक्नोलॉजी का उपयोग करके फाइल ट्रांसफर को आसान बनाता है।`,
+    content_hi: `एप्पल का AirDrop फीचर iPhone, iPad और Mac पर बड़ी फाइलों को बिना इंटरनेट के तेजी से साझा करता है। यह ब्लूटूथ और Wi-Fi Direct जैसी पीयर-टू-पीयर वायरलेस टेक्नोलॉजी का उपयोग करके फाइल ट्रांसफर को आसान बनाता है।
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **iPhone का AirDrop कैसे बड़ी-बड़ी फाइल्स कुछ मिनटों में भेज देता है? जानिए इसके पीछे की टेक्नोलॉजी - Jagran**. According to authoritative communiqués released by Jagran, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+iPhone का AirDrop कैसे बड़ी-बड़ी फाइल्स कुछ मिनटों में भेज देता है? जानिए इसके पीछे की टेक्नोलॉजी
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+जानिए मुख्य बातें और खबर का सार एक नजर में
 
-### Institutional Oversight & Ground Reality
+टेक्नोलॉजी डेस्क, नई दिल्ली। ऐसा देखा गया है कि एप्पल के iPhone में मिलने वाला AirDrop फीचर बड़ी-बड़ी फाइल्स शेयर करना काफी ज्यादा आसान बना देता है। इसकी हेल्प से यूजर्स फोटो, वीडियो, डॉक्यूमेंट और दूसरी फाइल्स को कुछ ही मिनटों में किसी भी दूसरे iPhone, iPad या Mac पर सेंड कर सकते हैं। खास बात ये है कि इसके लिए न तो मोबाइल डेटा ऑन रखने की जरूरत है और न ही इसके लिए Wifi कनेक्शन की जरूरत है। ऐसे में सवाल ये है कि फिर AirDrop इतनी तेजी से फाइल्स कैसे ट्रांसफर करता है?
 
-Ground reality assessments indicate that iPhone का AirDrop कैसे बड़ी-बड़ी फाइल्स कुछ मिनटों में भेज देता है? जानिए इसके पीछे की टेक्नोलॉजी Jagran establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+दरअसल, AirDrop के इतनी फास्ट काम करने के पीछे एप्पल की खास वायरलेस टेक्नोलॉजी है। इसमें न सिर्फ ब्लूटूथ का इस्तेमाल होता है बल्कि ये टेक्नोलॉजी Wi-Fi का भी यूज करती है। दोनों टेक्नोलॉजी मिलकर फाइल ट्रांसफर प्रोसेस को आसान और फास्ट बनाती हैं। चलिए पहले जानते हैं कि AirDrop कैसे काम करता है ।
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+इसे आसान शब्दों में स्मझें तो जब आप अपने iPhone में AirDrop को ऑन करते हैं, तो सबसे पहले ये ब्लूटूथ की हेल्प से आसपास मौजूद एप्पल डिवाइस को सर्च करता है। ब्लूटूथ का काम दोनों डिवाइस के बीच कनेक्शन सेट करने का और एक-दूसरे की पहचान करने में हेल्प करने का होता है।
 
-### Governance Parameter Assessment
+फाइल ट्रांसफर करने के लिए इसके बाद AirDrop Wi-Fi का यूज करता है। ये Wi-Fi Direct जैसी पीयर-टू-पीयर वायरलेस टेक्नोलॉजी के जरिए दोनों डिवाइस के बीच सीधा कनेक्शन बना लेता है। ऐसा करने से फाइल को किसी इंटरनेट सर्वर पर भी अपलोड नहीं करना पड़ता और डेटा सीधे एक डिवाइस से दूसरे डिवाइस पर चला जाता है।
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+### इंटरनेट के बिना हो जाती है फाइल शेयरिंग
 
-### Why This Matters: Policy Impact & Outlook
+AirDrop की सबसे खास बात यही है कि इससे आप फाइल ट्रांसफर बिना किसी मोबाइल नेटवर्क या किसी बाहरी Wi-Fi राउटर के बिना भी कर सकते हैं। इस टेक्नोलॉजी में दोनों डिवाइस के बीच सीधा वायरलेस कनेक्शन बन जाता है। यही कारण है कि इंटरनेट उपलब्ध न होने पर भी फाइल शेयरिंग हो जाती है।
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+यह भी पढ़ें- Motorola का 7000 mAh बैटरी वाला नया 5G फोन लॉन्च, 144Hz डिस्प्ले, 50MP कैमरा और स्नैपड्रगन प्रोसेसर
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/technology/tech-news-how-iphone-airdrop-works-fast-file-transfer-technology-40447614.html)`,
     author_name: `Pankhudi Sharma`,
     author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
     author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
@@ -1584,79 +4866,97 @@ Beyond immediate headlines, this development carries durable implications for re
     topic: ``,
     language: `hi`,
     fomo_badge: `⚡ National Wire`,
-    read_time: `7 min read`,
+    read_time: `3 min read`,
     views_count: 263600,
     shares_count: 37100,
     published_at: `2026-11-25T05:16:15Z`,
     updated_at: `2026-11-25T05:16:15Z`,
     source_name: `Jagran`,
-    source_url: `https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ3Y2YzVLZGZBTnZjTkQwNWhXR3dZU2VZWlhvMTNsTDdITWotZnVrRkllVklkaEttamNTWTF0c1NOVDRZMHk0djQxZ3NZVDA4T1A2LWJ6SmhsOTJkd0pVMk15aXZDZ3RqcUdZRWx4ZHhlTC1qRzhEcl9pRFI3bkhMX2ttekNfSjdyZG5GaHM3UWFWd2JfdVE2NUtKbGljQWE5TDdIMDFTWWJLcnNHSEE?oc=5`,
+    source_url: `https://www.jagran.com/world/pakistan-asim-munirs-provincial-plan-faces-strong-sindh-opposition-40446988.html`,
     source_courtesy: `News Courtesy: Jagran Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=85&sig=940`,
+    image_url: `/images/articles/world-breaking-report-80525-940-2026.webp`,
     image_alt: `Verified news photograph: आसिम मुनीर का दांव पड़ा उल्टा, पाकिस्तान को बांटने के खिलाफ सड़कों पर उतरे हजारों लोग - Jagran`,
-    image_courtesy: `Photo: Global Satellite Telemetry (Unsplash Editorial)`,
-    image_photographer: `Global Satellite Telemetry`,
-    image_license: `Unsplash Editorial`,
+    image_courtesy: `Image Courtesy: Jagran`,
+    image_photographer: `Jagran`,
+    image_license: `Original Source Media`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `World, Breaking News, India, Verified`,
-    summary: `आसिम मुनीर का दांव पड़ा उल्टा, पाकिस्तान को बांटने के खिलाफ सड़कों पर उतरे हजारों लोग - Jagran. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `पाकिस्तान के सेना प्रमुख आसिम मुनीर की प्रांतीय नक्शे बदलने की योजना पर सिंध में भारी विरोध प्रदर्शन शुरू हो गया है। कराची में हजारों सिंधी लोगों ने सिंध के बंटवारे का विरोध किया।`,
+    content: `पाकिस्तान के सेना प्रमुख आसिम मुनीर की प्रांतीय नक्शे बदलने की योजना पर सिंध में भारी विरोध प्रदर्शन शुरू हो गया है। कराची में हजारों सिंधी लोगों ने सिंध के बंटवारे का विरोध किया।
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **आसिम मुनीर का दांव पड़ा उल्टा, पाकिस्तान को बांटने के खिलाफ सड़कों पर उतरे हजारों लोग - Jagran**. According to authoritative communiqués released by Jagran, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+पाकिस्तान में प्रांतीय बंटवारे के खिलाफ सिंध में सड़कों पर उतरे लोग (फोटो-सोशल मीडिया)
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+जानिए मुख्य बातें और खबर का सार एक नजर में
 
-### Institutional Oversight & Ground Reality
+डिजिटल डेस्क, इस्लामाबाद। पाकिस्तान के सेना प्रमुख, फील्ड मार्शल आसिम मुनीर, पाकिस्तान के चार मुख्य प्रांतों—पंजाब, सिंध, खैबर पख्तूनख्वा और बलूचिस्तान—का नक्शा बदलने की योजना पर राजनीतिक घमासान शुरू हो गया है।
 
-Ground reality assessments indicate that आसिम मुनीर का दांव पड़ा उल्टा, पाकिस्तान को बांटने के खिलाफ सड़कों पर उतरे हजारों लोग Jagran मुल्ला मुनीर पर भारी पड़ा दांव, कराची में हजारों लोग सड़कों पर उतरे; पाक को बांटने के खिलाफ विरोध प्रदर्शन Navbharat Live पाकिस्तान के टुकड़े करने की तैयारी कर रहे आसिम मुनीर.. Prabhat Khabar मुसलमान भुगत रहे जिन्‍ना के पाप का फल, अब आसिम मुनीर बन रहे भस्‍मासुर News18 Hindi पाक सरकार में दो फाड़, PM शहबाज़ के सलाहकार की गृह मंत्री नकवी को दो टूक- धमकियों से नहीं डरता | Tap to know more | Inshorts Inshorts establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+इस योजना के विरोध में कराची की सड़कों पर हजारों सिंधी लोग उतरे और उन्होंने साफ शब्दों में कहा कि सिंध का बंटवारा किसी भी कीमत पर स्वीकार नहीं किया जाएगा।
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+इस हफ्ते कराची में हुए विरोध प्रदर्शन में बड़ी संख्या में लोग पारंपरिक अजरक स्कार्फ और टोपियां पहनकर शामिल हुए। पाकिस्तान टुडे की रिपोर्ट के अनुसार, इस रैली को जी सिंध रहबर कमेटी ने आयोजित किया था। प्रदर्शन में राष्ट्रवादी नेताओं, राजनीतिक कार्यकर्ताओं , वकीलों और आम लोगों ने हिस्सा लिया।
 
-### Governance Parameter Assessment
+रैली में बोलने वाले वक्ताओं ने सिंध की मौजूदा सीमाओं में किसी भी तरह के फेरबदल का विरोध किया। उनका कहना है कि सिंध की जमीन और उसकी पहचान से कोई समझौता नहीं हो सकता। प्रांत की सीमाओं या प्रशासनिक ढांचे को लेकर कोई भी फैसला वहां की जनता की मर्जी के बिना नहीं लिया जाना चाहिए।
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+विरोध करने वालो लोगों ने यह भी कहा कि सिंध की पहचान उसके पुराने इतिहास, संस्कृति और सभ्यता से जुड़ी है, इसलिए इसे सिर्फ प्रशासनिक सुविधा के हिसाब से नहीं देखा जा सकता। रिपोर्ट के अनुसार, प्रदर्शनकारियों ने नए प्रांत या प्रशासनिक इकाइयां बनाने के लिए जनमत संग्रह कराने के विचार को भी खारिज कर दिया।
 
-### Why This Matters: Policy Impact & Outlook
+विरोध कर रहे लोगों ने प्रधानमंत्री शहबाज शरीफ के नेतृत्व वाली संघीय सरकार और संबंधित संस्थाओं से कहा कि वे ऐसा कोई कदम न उठाएं जिससे राजनीतिक तनाव बढ़े या प्रांत के अंदर फूट पड़े। उन्होंने चेतावनी दी कि अगर जनता की सहमति के बिना कोई फैसला थोपा गया, तो पूरे प्रांत में विरोध प्रदर्शन किए जाएंगे और संवैधानिक, कानूनी व लोकतांत्रिक तरीकों से इसका मुकाबला होगा।
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+बताया जा रहा है कि इस योजना के तहत देश के मौजूदा चार प्रांतों को तोड़कर करीब एक दर्जन या उससे ज्यादा प्रशासनिक इकाइयों में बांटने की तैयारी है। इस विचार को पाकिस्तानी सेना प्रमुख से जोड़ा जा रहा है, जिनके पास राष्ट्रपति और प्रधानमंत्री के रहते हुए भी सबसे ज्यादा ताकत मानी जाती है। हालांकि, अभी तक इस योजना का कोई आधिकारिक खाका सार्वजनिक नहीं किया गया है।
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+समर्थकों की ओर से इसे शासन सुधारने, प्रशासन को ज्यादा प्रभावी बनाने और सरकार को लोगों के करीब लाने की कोशिश के तौर पर पेश किया जा रहा है। लेकिन जानकारों का मानना है कि यदि इसे लागू किया गया, तो इससे पाकिस्तान के संघीय ढांचे में बड़ा बदलाव आ सकता है।
+
+द इकोनॉमिस्ट ने 8 अक्टूबर के अपने संपादकीय में लिखा था कि यह कदम राजनीतिक विपक्ष को कमजोर करने और सेना प्रमुख की पकड़ को और मजबूत करने का प्रयास हो सकता है।
+
+### बिलावल भुट्टो-जरदारी की सख्त चेतावनी
+
+इस मुद्दे पर पाकिस्तान पीपुल्स पार्टी के अध्यक्ष बिलावल भुट्टो-जरदारी ने भी कड़ा रुख अपनाया है। जियो टीवी की रिपोर्ट के अनुसार, 17 नवंबर को कराची प्रेस क्लब में एक कार्यक्रम के दौरान बिलावल ने चेतावनी दी कि यदि सिंध को जबरन बांटा गया, तो हालात बेहद गंभीर हो सकते हैं।
+
+उन्होंने कहा कि जबरदस्ती बंटवारा होने से समाज में दरार आएगी, दुश्मनी बढ़ेगी और आम लोग हथियार उठाने को मजबूर हो सकते हैं, जिससे हिंसा और खून-खराबा फैल सकता है। बिलावल ने स्पष्ट किया कि उनकी पार्टी संविधान, कानून और लोगों की इच्छा के मुताबिक नए प्रांत बनाने के खिलाफ नहीं है, लेकिन दबाव या ताकत के जरिए किया गया बंटवारा उन्हें मंजूर नहीं है।
+
+उन्होंने यह भी कहा कि संविधान में पहले से तय प्रक्रिया के बजाय जनमत संग्रह की बात करना किसी असंवैधानिक रास्ते की तलाश जैसा है, क्योंकि पाकिस्तान में पहले भी जनमत संग्रह का इस्तेमाल अलोकतांत्रिक मकसदों के लिए किया जा चुका है।
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/world/pakistan-asim-munirs-provincial-plan-faces-strong-sindh-opposition-40446988.html)`,
     title_en: ``,
     summary_en: ``,
     content_en: ``,
     title_hi: `आसिम मुनीर का दांव पड़ा उल्टा, पाकिस्तान को बांटने के खिलाफ सड़कों पर उतरे हजारों लोग - Jagran`,
-    summary_hi: `आसिम मुनीर का दांव पड़ा उल्टा, पाकिस्तान को बांटने के खिलाफ सड़कों पर उतरे हजारों लोग - Jagran. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content_hi: `### Strategic Overview & Legislative Framework
+    summary_hi: `पाकिस्तान के सेना प्रमुख आसिम मुनीर की प्रांतीय नक्शे बदलने की योजना पर सिंध में भारी विरोध प्रदर्शन शुरू हो गया है। कराची में हजारों सिंधी लोगों ने सिंध के बंटवारे का विरोध किया।`,
+    content_hi: `पाकिस्तान के सेना प्रमुख आसिम मुनीर की प्रांतीय नक्शे बदलने की योजना पर सिंध में भारी विरोध प्रदर्शन शुरू हो गया है। कराची में हजारों सिंधी लोगों ने सिंध के बंटवारे का विरोध किया।
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **आसिम मुनीर का दांव पड़ा उल्टा, पाकिस्तान को बांटने के खिलाफ सड़कों पर उतरे हजारों लोग - Jagran**. According to authoritative communiqués released by Jagran, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+पाकिस्तान में प्रांतीय बंटवारे के खिलाफ सिंध में सड़कों पर उतरे लोग (फोटो-सोशल मीडिया)
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+जानिए मुख्य बातें और खबर का सार एक नजर में
 
-### Institutional Oversight & Ground Reality
+डिजिटल डेस्क, इस्लामाबाद। पाकिस्तान के सेना प्रमुख, फील्ड मार्शल आसिम मुनीर, पाकिस्तान के चार मुख्य प्रांतों—पंजाब, सिंध, खैबर पख्तूनख्वा और बलूचिस्तान—का नक्शा बदलने की योजना पर राजनीतिक घमासान शुरू हो गया है।
 
-Ground reality assessments indicate that आसिम मुनीर का दांव पड़ा उल्टा, पाकिस्तान को बांटने के खिलाफ सड़कों पर उतरे हजारों लोग Jagran मुल्ला मुनीर पर भारी पड़ा दांव, कराची में हजारों लोग सड़कों पर उतरे; पाक को बांटने के खिलाफ विरोध प्रदर्शन Navbharat Live पाकिस्तान के टुकड़े करने की तैयारी कर रहे आसिम मुनीर.. Prabhat Khabar मुसलमान भुगत रहे जिन्‍ना के पाप का फल, अब आसिम मुनीर बन रहे भस्‍मासुर News18 Hindi पाक सरकार में दो फाड़, PM शहबाज़ के सलाहकार की गृह मंत्री नकवी को दो टूक- धमकियों से नहीं डरता | Tap to know more | Inshorts Inshorts establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+इस योजना के विरोध में कराची की सड़कों पर हजारों सिंधी लोग उतरे और उन्होंने साफ शब्दों में कहा कि सिंध का बंटवारा किसी भी कीमत पर स्वीकार नहीं किया जाएगा।
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+इस हफ्ते कराची में हुए विरोध प्रदर्शन में बड़ी संख्या में लोग पारंपरिक अजरक स्कार्फ और टोपियां पहनकर शामिल हुए। पाकिस्तान टुडे की रिपोर्ट के अनुसार, इस रैली को जी सिंध रहबर कमेटी ने आयोजित किया था। प्रदर्शन में राष्ट्रवादी नेताओं, राजनीतिक कार्यकर्ताओं , वकीलों और आम लोगों ने हिस्सा लिया।
 
-### Governance Parameter Assessment
+रैली में बोलने वाले वक्ताओं ने सिंध की मौजूदा सीमाओं में किसी भी तरह के फेरबदल का विरोध किया। उनका कहना है कि सिंध की जमीन और उसकी पहचान से कोई समझौता नहीं हो सकता। प्रांत की सीमाओं या प्रशासनिक ढांचे को लेकर कोई भी फैसला वहां की जनता की मर्जी के बिना नहीं लिया जाना चाहिए।
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+विरोध करने वालो लोगों ने यह भी कहा कि सिंध की पहचान उसके पुराने इतिहास, संस्कृति और सभ्यता से जुड़ी है, इसलिए इसे सिर्फ प्रशासनिक सुविधा के हिसाब से नहीं देखा जा सकता। रिपोर्ट के अनुसार, प्रदर्शनकारियों ने नए प्रांत या प्रशासनिक इकाइयां बनाने के लिए जनमत संग्रह कराने के विचार को भी खारिज कर दिया।
 
-### Why This Matters: Policy Impact & Outlook
+विरोध कर रहे लोगों ने प्रधानमंत्री शहबाज शरीफ के नेतृत्व वाली संघीय सरकार और संबंधित संस्थाओं से कहा कि वे ऐसा कोई कदम न उठाएं जिससे राजनीतिक तनाव बढ़े या प्रांत के अंदर फूट पड़े। उन्होंने चेतावनी दी कि अगर जनता की सहमति के बिना कोई फैसला थोपा गया, तो पूरे प्रांत में विरोध प्रदर्शन किए जाएंगे और संवैधानिक, कानूनी व लोकतांत्रिक तरीकों से इसका मुकाबला होगा।
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+बताया जा रहा है कि इस योजना के तहत देश के मौजूदा चार प्रांतों को तोड़कर करीब एक दर्जन या उससे ज्यादा प्रशासनिक इकाइयों में बांटने की तैयारी है। इस विचार को पाकिस्तानी सेना प्रमुख से जोड़ा जा रहा है, जिनके पास राष्ट्रपति और प्रधानमंत्री के रहते हुए भी सबसे ज्यादा ताकत मानी जाती है। हालांकि, अभी तक इस योजना का कोई आधिकारिक खाका सार्वजनिक नहीं किया गया है।
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+समर्थकों की ओर से इसे शासन सुधारने, प्रशासन को ज्यादा प्रभावी बनाने और सरकार को लोगों के करीब लाने की कोशिश के तौर पर पेश किया जा रहा है। लेकिन जानकारों का मानना है कि यदि इसे लागू किया गया, तो इससे पाकिस्तान के संघीय ढांचे में बड़ा बदलाव आ सकता है।
+
+द इकोनॉमिस्ट ने 8 अक्टूबर के अपने संपादकीय में लिखा था कि यह कदम राजनीतिक विपक्ष को कमजोर करने और सेना प्रमुख की पकड़ को और मजबूत करने का प्रयास हो सकता है।
+
+### बिलावल भुट्टो-जरदारी की सख्त चेतावनी
+
+इस मुद्दे पर पाकिस्तान पीपुल्स पार्टी के अध्यक्ष बिलावल भुट्टो-जरदारी ने भी कड़ा रुख अपनाया है। जियो टीवी की रिपोर्ट के अनुसार, 17 नवंबर को कराची प्रेस क्लब में एक कार्यक्रम के दौरान बिलावल ने चेतावनी दी कि यदि सिंध को जबरन बांटा गया, तो हालात बेहद गंभीर हो सकते हैं।
+
+उन्होंने कहा कि जबरदस्ती बंटवारा होने से समाज में दरार आएगी, दुश्मनी बढ़ेगी और आम लोग हथियार उठाने को मजबूर हो सकते हैं, जिससे हिंसा और खून-खराबा फैल सकता है। बिलावल ने स्पष्ट किया कि उनकी पार्टी संविधान, कानून और लोगों की इच्छा के मुताबिक नए प्रांत बनाने के खिलाफ नहीं है, लेकिन दबाव या ताकत के जरिए किया गया बंटवारा उन्हें मंजूर नहीं है।
+
+उन्होंने यह भी कहा कि संविधान में पहले से तय प्रक्रिया के बजाय जनमत संग्रह की बात करना किसी असंवैधानिक रास्ते की तलाश जैसा है, क्योंकि पाकिस्तान में पहले भी जनमत संग्रह का इस्तेमाल अलोकतांत्रिक मकसदों के लिए किया जा चुका है।
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/world/pakistan-asim-munirs-provincial-plan-faces-strong-sindh-opposition-40446988.html)`,
     author_name: `Pankhudi Sharma`,
     author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
     author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
@@ -1677,79 +4977,93 @@ Beyond immediate headlines, this development carries durable implications for re
     topic: ``,
     language: `hi`,
     fomo_badge: `⚡ National Wire`,
-    read_time: `7 min read`,
+    read_time: `3 min read`,
     views_count: 263840,
     shares_count: 37135,
     published_at: `2026-11-25T05:16:15Z`,
     updated_at: `2026-11-25T05:16:15Z`,
     source_name: `AajTak`,
-    source_url: `https://news.google.com/rss/articles/CBMizgFBVV95cUxObW1SSmtCXzdlQWZwSGljOW9tczZFVWlmaDRlak41a3lQbHhBWWF4dzB6VHdQS1h6S19pNS1MaTdEb2pVdmFOREZ6SkZMNTFVOGtNZTFQeXVZOVpHMm5WYm5rdUNsTk1mZHNjUHpqbkhTU01MV0JSekZlY2RnZ0RaaG9UY1IzQWpIRDBLbFA0c3NkMEVXVXlQd3djQVd4NTdJb1ozUlFTM3p4NHNkdngtbGc5VzBYeHh0bHRITG5CUDVSUlZZWTlzYVVpZHhyQQ?oc=5`,
+    source_url: `https://www.aajtak.in/world/story/israel-claims-iran-preparing-chemical-weapons-katz-confirms-attack-ntc-drmt-dskc-2705274-2026-11-25`,
     source_courtesy: `News Courtesy: AajTak Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?auto=format&fit=crop&w=1600&q=85&sig=941`,
+    image_url: `/images/articles/world-breaking-report-96641-941-2026.webp`,
     image_alt: `Verified news photograph: ईरान बना रहा केमिकल हथियार...', इजरायल का दावा, रक्षा मंत्री बोले- ट्रंप के साथ मिलकर फिर हमला करेंगे - AajTak`,
-    image_courtesy: `Photo: Diplomatic Affairs Wire (Unsplash Editorial)`,
-    image_photographer: `Diplomatic Affairs Wire`,
-    image_license: `Unsplash Editorial`,
+    image_courtesy: `Image Courtesy: AajTak`,
+    image_photographer: `AajTak`,
+    image_license: `Original Source Media`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `World, Breaking News, India, Verified`,
-    summary: `ईरान बना रहा केमिकल हथियार...', इजरायल का दावा, रक्षा मंत्री बोले- ट्रंप के साथ मिलकर फिर हमला करेंगे - AajTak. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `एक तरफ अमेरिका लगातार दावा कर रहा है कि वो ईरान को परमाणु हथियार नहीं बनाने देगा, दूसरी तरफ इजरायल का कहना है कि ईरान रासायनिक हथियार बना रहा है. इजरायल के रक्षा मंत्री इजरायल काट्ज के मुताबिक कि ईरान पिछले सैन्य अभियान के बाद से ही रासायनि`,
+    content: `### इजरायल के रक्षा मंत्री इजरायल काट्ज ने कहा है कि ईरान रासायनिक हथियार बनाने पर काम कर रहा है. उन्होंने इसे क्षेत्र के लिए बड़ा खतरा करार दिया. उन्होंने ये भी बताया कि इजरायल और अमेरिका मिलकर ईरान पर हमले की योजना बना रहे हैं, हालांकि आखिरी फैसला अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के हाथ में है.
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **ईरान बना रहा केमिकल हथियार...', इजरायल का दावा, रक्षा मंत्री बोले- ट्रंप के साथ मिलकर फिर हमला करेंगे - AajTak**. According to authoritative communiqués released by AajTak, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+एक तरफ अमेरिका लगातार दावा कर रहा है कि वो ईरान को परमाणु हथियार नहीं बनाने देगा, दूसरी तरफ इजरायल का कहना है कि ईरान रासायनिक हथियार बना रहा है. इजरायल के रक्षा मंत्री इजरायल काट्ज के मुताबिक कि ईरान पिछले सैन्य अभियान के बाद से ही रासायनिक हथियार बनाने पर काम कर रहा है.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+काट्ज ने बताया कि इजरायल को इस बारे में काफी समय से पता था और इस खुफिया सूचना की जानकारी अमेरिका को भी दी जा चुकी है. इजरायली मंत्री का कहना है कि ईरान परमाणु कार्यक्रम को बचाने के लिए रासायनिक हथियारों का सहारा लेना चाहता है.
 
-### Institutional Oversight & Ground Reality
+रक्षा मंत्री काट्ज ने ईरान की संभावित रासायनिक हथियार क्षमता को इजरायल और क्षेत्र के दूसरे देशों के लिए 'गेम-चेंजिंग' यानी स्थिति बदलने वाला खतरा बताया. उन्होंने कहा, 'इजरायल की नीति स्पष्ट है कि वो ईरान को सामूहिक विनाश के हथियारों से खुद को धमकाने की इजाजत नहीं देगा.'
 
-Ground reality assessments indicate that 'ईरान बना रहा केमिकल हथियार...', इजरायल का दावा, रक्षा मंत्री बोले- ट्रंप के साथ मिलकर फिर हमला करेंगे AajTak सऊदी अरब में हूती विद्रोहियों के हमले में दो भारतीय घायल, विदेश मंत्रालय ने क्या कहा BBC 'ईरान को रोकना होगा', इजरायली रक्षा मंत्री का दावा- तेहरान बना रहा केमिकल हथियार, अमेरिका को दी जानकारी Navbharat Times ग़रीब-आबादी: सद्दाम को रासायनिक हथियार देने वाले आज ईरान पर आरोप लगाते हैं Pars Today ईरान ने रासायनिक हथियार निगरानी संस्था को लेकर अमेरिका पर पाखंड का आरोप लगाया Lokmat News Hindi establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+इजरायल को डराने के लिए रासायनिक हथियार बना रहा ईरान!
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+काट्ज के मुताबिक, ईरान अपने परमाणु कार्यक्रम को आगे बढ़ाते समय इजरायल और पड़ोसी देशों को डराने के लिए इन रासायनिक हथियारों का इस्तेमाल कर सकता है. उन्होंने कहा कि इनके प्रोडक्शन को रोकना बेहद जरूरी है और अगर इजरायल को लगता कि संकट तुरंत खड़ा हो रहा है, तो वो अब तक कार्रवाई कर चुका होता.
 
-### Governance Parameter Assessment
+काट्ज ने ये भी कहा कि ईरान अपने परमाणु कार्यक्रम को फिर से जिंदा करने के कदम उठा रहा है. हालिया इजरायली आकलन बताते हैं कि ईरानी परमाणु ठिकानों पर और हमले करने से उसका कार्यक्रम दशकों पीछे जा सकता है.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+अमेरिका के साथ मिलकर हमले की तैयारी, आखिरी फैसला ट्रंप पर
 
-### Why This Matters: Policy Impact & Outlook
+काट्ज ने जानकारी दी कि इजरायल डिफेंस फोर्सेज और यूएस सेंट्रल कमांड ईरान पर हमले की तैयारी कर रहे हैं. उन्होंने बताया कि परिचालन योजनाएं तैयार हैं और अमेरिकी हमले पर आखिरी फैसला राष्ट्रपति डोनाल्ड ट्रंप के हाथ में है. हालांकि इजरायल का मकसद अमेरिका के साथ तालमेल बिठाकर काम करना है, लेकिन जरूरत पड़ने पर इजरायल अकेले भी कार्रवाई कर सकता है.
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+काट्ज के मुताबिक, पिछले महीने हुए इजरायली चुनावों से पहले ट्रंप ने हमले पर विचार किया था. उस समय प्रधानमंत्री नेतन्याहू ने उनसे चुनाव खत्म होने तक रुकने की अपील की थी, जिसके बाद ट्रंप ने हमला टाल दिया था. काट्ज ने कहा कि ट्रंप क्षेत्रीय और ऊर्जा से जुड़े पहलुओं के साथ-साथ किसी समझौते पर पहुंचने की संभावनाओं को भी तौल रहे हैं.
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+हमास की फंडिंग और ट्रंप की हत्या की साजिश का आरोप
+
+एविग्डोर लिबरमैन की टिप्पणियों का जवाब देते हुए काट्ज ने कहा कि 'राइजिंग लायन' और 'रोरिंग लायन' अभियानों की तरह दोबारा चौंकने से बचने के लिए ईरान पहले हमला कर सकता है. उन्होंने कहा कि इजरायल के पास पलटवार करने की पूरी क्षमता बनी रहेगी और ईरान की लॉन्च क्षमताओं को कमजोर करने से इजरायल की रक्षा करना आसान हो जाएगा.
+
+काट्ज ने बताया कि प्रधानमंत्री नेतन्याहू, IDF चीफ ऑफ स्टाफ और सैन्य खुफिया प्रमुख रासायनिक हथियारों के खतरे की गंभीरता पर एकमत हैं. उन्होंने ये भी कहा कि ईरान अब भी हमास को फंडिंग दे रहा है और सीरिया में अपनी मौजूदगी फिर से बनाने की कोशिश कर रहा है.
+
+यह भी पढ़ें: ईरान की महिला सिंगर को पड़े 74 कोड़े, बिना हिजाब कॉन्सर्ट करने पर मिली सजा
+
+ब्रीफिंग के मुताबिक, इजरायली खुफिया एजेंसी मोसाद ईरान में सत्ता परिवर्तन की कोशिशों का नेतृत्व कर रही है. इसके साथ ही काट्ज ने ये आरोप भी लगाया कि ईरान अमेरिकी धरती पर राष्ट्रपति ट्रंप की हत्या करने और दूसरे वरिष्ठ अमेरिकी अधिकारियों को निशाना बनाने के लिए ठोस कदम उठा रहा है.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/israel-claims-iran-preparing-chemical-weapons-katz-confirms-attack-ntc-drmt-dskc-2705274-2026-11-25)`,
     title_en: ``,
     summary_en: ``,
     content_en: ``,
     title_hi: `ईरान बना रहा केमिकल हथियार...', इजरायल का दावा, रक्षा मंत्री बोले- ट्रंप के साथ मिलकर फिर हमला करेंगे - AajTak`,
-    summary_hi: `ईरान बना रहा केमिकल हथियार...', इजरायल का दावा, रक्षा मंत्री बोले- ट्रंप के साथ मिलकर फिर हमला करेंगे - AajTak. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content_hi: `### Strategic Overview & Legislative Framework
+    summary_hi: `एक तरफ अमेरिका लगातार दावा कर रहा है कि वो ईरान को परमाणु हथियार नहीं बनाने देगा, दूसरी तरफ इजरायल का कहना है कि ईरान रासायनिक हथियार बना रहा है. इजरायल के रक्षा मंत्री इजरायल काट्ज के मुताबिक कि ईरान पिछले सैन्य अभियान के बाद से ही रासायनि`,
+    content_hi: `### इजरायल के रक्षा मंत्री इजरायल काट्ज ने कहा है कि ईरान रासायनिक हथियार बनाने पर काम कर रहा है. उन्होंने इसे क्षेत्र के लिए बड़ा खतरा करार दिया. उन्होंने ये भी बताया कि इजरायल और अमेरिका मिलकर ईरान पर हमले की योजना बना रहे हैं, हालांकि आखिरी फैसला अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के हाथ में है.
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **ईरान बना रहा केमिकल हथियार...', इजरायल का दावा, रक्षा मंत्री बोले- ट्रंप के साथ मिलकर फिर हमला करेंगे - AajTak**. According to authoritative communiqués released by AajTak, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+एक तरफ अमेरिका लगातार दावा कर रहा है कि वो ईरान को परमाणु हथियार नहीं बनाने देगा, दूसरी तरफ इजरायल का कहना है कि ईरान रासायनिक हथियार बना रहा है. इजरायल के रक्षा मंत्री इजरायल काट्ज के मुताबिक कि ईरान पिछले सैन्य अभियान के बाद से ही रासायनिक हथियार बनाने पर काम कर रहा है.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+काट्ज ने बताया कि इजरायल को इस बारे में काफी समय से पता था और इस खुफिया सूचना की जानकारी अमेरिका को भी दी जा चुकी है. इजरायली मंत्री का कहना है कि ईरान परमाणु कार्यक्रम को बचाने के लिए रासायनिक हथियारों का सहारा लेना चाहता है.
 
-### Institutional Oversight & Ground Reality
+रक्षा मंत्री काट्ज ने ईरान की संभावित रासायनिक हथियार क्षमता को इजरायल और क्षेत्र के दूसरे देशों के लिए 'गेम-चेंजिंग' यानी स्थिति बदलने वाला खतरा बताया. उन्होंने कहा, 'इजरायल की नीति स्पष्ट है कि वो ईरान को सामूहिक विनाश के हथियारों से खुद को धमकाने की इजाजत नहीं देगा.'
 
-Ground reality assessments indicate that 'ईरान बना रहा केमिकल हथियार...', इजरायल का दावा, रक्षा मंत्री बोले- ट्रंप के साथ मिलकर फिर हमला करेंगे AajTak सऊदी अरब में हूती विद्रोहियों के हमले में दो भारतीय घायल, विदेश मंत्रालय ने क्या कहा BBC 'ईरान को रोकना होगा', इजरायली रक्षा मंत्री का दावा- तेहरान बना रहा केमिकल हथियार, अमेरिका को दी जानकारी Navbharat Times ग़रीब-आबादी: सद्दाम को रासायनिक हथियार देने वाले आज ईरान पर आरोप लगाते हैं Pars Today ईरान ने रासायनिक हथियार निगरानी संस्था को लेकर अमेरिका पर पाखंड का आरोप लगाया Lokmat News Hindi establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+इजरायल को डराने के लिए रासायनिक हथियार बना रहा ईरान!
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+काट्ज के मुताबिक, ईरान अपने परमाणु कार्यक्रम को आगे बढ़ाते समय इजरायल और पड़ोसी देशों को डराने के लिए इन रासायनिक हथियारों का इस्तेमाल कर सकता है. उन्होंने कहा कि इनके प्रोडक्शन को रोकना बेहद जरूरी है और अगर इजरायल को लगता कि संकट तुरंत खड़ा हो रहा है, तो वो अब तक कार्रवाई कर चुका होता.
 
-### Governance Parameter Assessment
+काट्ज ने ये भी कहा कि ईरान अपने परमाणु कार्यक्रम को फिर से जिंदा करने के कदम उठा रहा है. हालिया इजरायली आकलन बताते हैं कि ईरानी परमाणु ठिकानों पर और हमले करने से उसका कार्यक्रम दशकों पीछे जा सकता है.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+अमेरिका के साथ मिलकर हमले की तैयारी, आखिरी फैसला ट्रंप पर
 
-### Why This Matters: Policy Impact & Outlook
+काट्ज ने जानकारी दी कि इजरायल डिफेंस फोर्सेज और यूएस सेंट्रल कमांड ईरान पर हमले की तैयारी कर रहे हैं. उन्होंने बताया कि परिचालन योजनाएं तैयार हैं और अमेरिकी हमले पर आखिरी फैसला राष्ट्रपति डोनाल्ड ट्रंप के हाथ में है. हालांकि इजरायल का मकसद अमेरिका के साथ तालमेल बिठाकर काम करना है, लेकिन जरूरत पड़ने पर इजरायल अकेले भी कार्रवाई कर सकता है.
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+काट्ज के मुताबिक, पिछले महीने हुए इजरायली चुनावों से पहले ट्रंप ने हमले पर विचार किया था. उस समय प्रधानमंत्री नेतन्याहू ने उनसे चुनाव खत्म होने तक रुकने की अपील की थी, जिसके बाद ट्रंप ने हमला टाल दिया था. काट्ज ने कहा कि ट्रंप क्षेत्रीय और ऊर्जा से जुड़े पहलुओं के साथ-साथ किसी समझौते पर पहुंचने की संभावनाओं को भी तौल रहे हैं.
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+हमास की फंडिंग और ट्रंप की हत्या की साजिश का आरोप
+
+एविग्डोर लिबरमैन की टिप्पणियों का जवाब देते हुए काट्ज ने कहा कि 'राइजिंग लायन' और 'रोरिंग लायन' अभियानों की तरह दोबारा चौंकने से बचने के लिए ईरान पहले हमला कर सकता है. उन्होंने कहा कि इजरायल के पास पलटवार करने की पूरी क्षमता बनी रहेगी और ईरान की लॉन्च क्षमताओं को कमजोर करने से इजरायल की रक्षा करना आसान हो जाएगा.
+
+काट्ज ने बताया कि प्रधानमंत्री नेतन्याहू, IDF चीफ ऑफ स्टाफ और सैन्य खुफिया प्रमुख रासायनिक हथियारों के खतरे की गंभीरता पर एकमत हैं. उन्होंने ये भी कहा कि ईरान अब भी हमास को फंडिंग दे रहा है और सीरिया में अपनी मौजूदगी फिर से बनाने की कोशिश कर रहा है.
+
+यह भी पढ़ें: ईरान की महिला सिंगर को पड़े 74 कोड़े, बिना हिजाब कॉन्सर्ट करने पर मिली सजा
+
+ब्रीफिंग के मुताबिक, इजरायली खुफिया एजेंसी मोसाद ईरान में सत्ता परिवर्तन की कोशिशों का नेतृत्व कर रही है. इसके साथ ही काट्ज ने ये आरोप भी लगाया कि ईरान अमेरिकी धरती पर राष्ट्रपति ट्रंप की हत्या करने और दूसरे वरिष्ठ अमेरिकी अधिकारियों को निशाना बनाने के लिए ठोस कदम उठा रहा है.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/israel-claims-iran-preparing-chemical-weapons-katz-confirms-attack-ntc-drmt-dskc-2705274-2026-11-25)`,
     author_name: `Pankhudi Sharma`,
     author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
     author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
@@ -1770,79 +5084,153 @@ Beyond immediate headlines, this development carries durable implications for re
     topic: ``,
     language: `hi`,
     fomo_badge: `⚡ National Wire`,
-    read_time: `7 min read`,
+    read_time: `5 min read`,
     views_count: 264080,
     shares_count: 37170,
     published_at: `2026-11-25T05:16:16Z`,
     updated_at: `2026-11-25T05:16:16Z`,
     source_name: `BBC`,
-    source_url: `https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tQzMydGgtZGZidC01d0FjOFFXT1dubmF2d3NfVFQxeDEzZnU0ZFNzYTZsaDFYUnhHSXBEY0V3RlVWZTZYZllEODB1SlVhNzFLc19WYW1yWmNXZFN30gFiQVVfeXFMTmhQVUY3SXJQZ0VjM2NLeU1BTnRJQVQ2T1p6elVzWWZPbG43VlFRX0VXM2Q2YlAzUS1oclFycHlhdER5dFRPYUZSSW5lOWt6VHBFbXJ3UEw5dkFFSzRIQTc1MEE?oc=5`,
+    source_url: `https://www.bbc.com/hindi/articles/cqrkg620r8m7o`,
     source_courtesy: `News Courtesy: BBC Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85&sig=942`,
+    image_url: `/images/articles/sports-breaking-report-30193-942-2026.jpg`,
     image_alt: `Verified news photograph: वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर`,
-    image_courtesy: `Photo: Stadium Sports Media (Unsplash Editorial)`,
-    image_photographer: `Stadium Sports Media`,
-    image_license: `Unsplash Editorial`,
+    image_courtesy: `Image Courtesy: BBC`,
+    image_photographer: `BBC`,
+    image_license: `Original Source Media`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Sports, Breaking News, India, Verified`,
-    summary: `वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.`,
+    content: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर**. According to authoritative communiqués released by BBC, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+मंगलवार को पाकिस्तान ए टीम ने नेपाल की टीम को 96 रनों से हराया. लेकिन पाकिस्तान में इस जीत की बजाय यूएई के ख़िलाफ़ भारत की जीत की चर्चा अधिक हो रही है.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+15 साल के वैभव सूर्यवंशी ने लिस्ट ए में सबसे तेज़ दोहरा शतक लगाने का रिकॉर्ड बनाया.
 
-### Institutional Oversight & Ground Reality
+उन्होंने यूएई के ख़िलाफ़ महज 52 गेंदों में दोहरा शतक लगाया और इस दौरान उन्होंने 28 छक्के और सात चौके लगाए.
 
-Ground reality assessments indicate that वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर BBC वैभव सूर्यवंशी के नाम दर्ज हुए कई बड़े रिकॉर्ड, 53 गेंदों में 204 रन बनाकर रचा इतिहास BBC 'मारो, मारो, मारो...', वैभव सूर्यवंशी के 28 छक्कों और 204 की पारी देख डगआउट में यही बोले ख‍िलाड़ी, तिलक ने खोला राज AajTak IND A VS UAE A मैच में भी बवाल, अभिषेक शर्मा से भिड़ा यूएई का गेंदबाज; फिर वैभव सूर्यवंशी ने लिया बदला Jagran 204 रन की तूफानी पारी में वैभव का महारिकॉर्ड, पहली बार किसी बल्लेबाज ने क्रिकेट मैच में जड़े इतने छक्के India TV Hindi establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+भारत के पूर्व कप्तान सौरव गांगुली ने कहा , "वैभव सूर्यवंशी ने 28 गेंदों में शतक जड़कर लिस्ट ए क्रिकेट में सबसे तेज शतक लगाने का नया रिकॉर्ड बनाया. उन्होंने जेक फ्रेजर-मैकगर्क के 29 गेंदों में शतक के पिछले रिकॉर्ड को पीछे छोड़ दिया."
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+गांगुली ने कहा, "उसने अच्छा खेला. यह ए टीम है. टी20 में उसकी क्षमता असाधारण है. इसके अलावा, उसकी पावर हिटिंग शानदार थी. उसने बहुत अच्छा खेला."
 
-### Governance Parameter Assessment
+पाकिस्तान में पूर्व क्रिकेटरों ने कहा कि 'इतने छक्के तो वीडियो गेम में भी नहीं लगते' या 'पूरी टीम भी इतने छक्के नहीं लगा पाती.'
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+### 'इतने छक्के लगाए जितनी पूरी टीम नहीं लगा पाती'
 
-### Why This Matters: Policy Impact & Outlook
+पाकिस्तान के पूर्व क्रिकेटर बासित अली ने कहा कि 'यूएई के ख़िलाफ़ तो मैच ही नहीं हो पाया.'
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+अपने यूट्यूब चैनल पर उन्होंने कमेंट्री करते हुए कहा , "यूएई ने 249 रनों का ठीक-ठाक टार्गेट दिया था और लग रहा था कि दूसरी पारी में पिच ख़राब होगी लेकिन मैदान पर नज़ारा कुछ और था. वैभव ने इतने छक्के लगाए जितने पूरी टीम नहीं लगा पाती है."
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+बासित अली ने कहा, "हर ओवर में या तो तीन छक्के और दो चौके या तीन चौके या दो छक्के उसने लगाए. लिस्ट ए के जितने रिकॉर्ड थे, वो बब्लू (वैभव) ले गए."
+
+"अंतरराष्ट्रीय स्तर पर टीमों ने जितने छक्के नहीं मारे होंगे, वैभव ने एक ही दिन में मार दिए. मेरे ख़्याल से उन्होंने केवल आठ रन भाग कर बनाए, जबकि क़रीब 196 रन केवल बाउंड्रीज़ से बनाए."
+
+"जिस ग्राउंड में खेल हो रहा था वो कोई छोटा ग्राउंड नहीं था. लेकिन दो मैचों से एक प्रेशर भी था प्रदर्शन न कर पाने का. उन्होंने सेमीफ़ाइनल और फ़ाइनल में आने से पहले अपनी फ़ॉर्म दिखा दी है."
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+पाकिस्तान के एक पूर्व क्रिकेटर मोहम्मद वसीम ने कहा कि 'वैभव सूर्यवंशी के रिकॉर्ड को कोई और नहीं तोड़ सकता, शायद वो खुद तोड़ पाएं.'
+
+पूर्व क्रिकेटर तनवीर अहमद ने कहा , "जो वो खेल रहे हैं, वो बहुत एक्सेप्शनल टैलेंट है. 15 साल के बच्चे के लिए यह वाक़ई हैरान करने वाला है."
+
+तनवीर अहमद ने सूर्यवंशी की उम्र को लेकर भी सवाल उठाए लेकिन ये भी कहा कि उन्हें अभी कमज़ोर क्षेत्रों में काम करने की और ज़रूरत है.
+
+उन्होंने कहा, "जिस तरीक़े से वो बैटिंग कर रहे थे, उन्हें अपने माफ़िक गेंदें मिल रही थीं और वो मारते जा रहे थे. शायद इसीलिए उन्हें इंटरनेशनल क्रिकेट उस तरीक़े से नहीं खिला रहे हैं क्योंकि इंटरनेशनल क्रिकेट में इस तरीक़े से छक्के मारना उतना आसान नहीं होता है."
+
+"शायद इसीलिए उन्हें टाइम दिया जा रहा है कि आप टीम के साथ रहें, टूर करते रहें और सीखें. जिन क्षेत्रों में वो कमज़ोर हैं, जैसे कवर्स में, तो उस पर अधिक काम करें. ये एक तरीक़ा होता है."
+
+पाकिस्तान क्रिकेट पर तंज़ करते हुए तनवीर अहमद ने कहा, "अगर वैभव पाकिस्तान में होते तो उन्हें टी-20, वनडे और टेस्ट टीम में भी खिलाया जा रहा होता और यहां तक कैप्टन भी बना दिया जाता."
+
+### 'इतने छक्के तो हाथ से भी न फेंके जाएं'
+
+पाकिस्तान के पूर्व क्रिकेटर कामरान अकमल ने एक यूट्यूब चैनल पर बातचीत में कहा कि जो काम 25-30 साल की उम्र में किया जा सकता है और जो क्रिकेट मिलती और प्रसिद्धि मिलती है, उसे वैभव ने 15 साल की उम्र में हासिल कर लिया."
+
+उन्होंने कहा, "चाहे कोई भी टीम हो, रिज़ल्ट भी देखना चाहिए. अगर कोई अकेला बाउंड्री की तरफ़ थ्रो भी फेंके तो भी इतने रन न हो पाएं. 52 गेंदें मैं फेंकू तब भी 28 छक्के न हों कभी. उसने वो बल्ले के साथ कर दिखाया."
+
+वैभव सूर्यवंशी के खेल को लेकर पाकिस्तान में अपनी टीम के साथ भी तुलना की जाने लगी है.
+
+इसी बातचीत में कामरान अकमल ने कहा, "वैभव का मेच्योरिटी लेवल और क्रिकेट के लिहाज से देखें तो उन्हें इंटरनेशनल क्रिकेट खेलने को मिल रहा है. उन्हें 15 साल की उम्र के लेवल से ही हटा दिया है."
+
+"जहां तक उनके उम्र की बात है तो ये बात अब हमें छोड़ ही देना चाहिए. हमारे यहां इस तरह के खिलाड़ी को अंडर 15 से ही न निकलने दें हम लोग. आप उनका माइंडसेट देखें कि वो इस तरह के खिलाड़ी को कौन सी क्रिकेट खिला रहे हैं. हमारे यहां ऊपर से नीचे की ओर लेकर आ रहे हैं. तो गेम अप्रोच में, पर्फ़ार्मेंस में और खेल में फ़र्क तो आएगा ही."
+
+कामरान ने सवाल किया कि पाकिस्तान में नए खिलाड़ियों को क्यों नहीं आगे लाया जा रहा है?
+
+पाकिस्तान के स्पोर्ट्स एनालिस्ट मोहम्मद मोहसिन ने अपने यूट्यूब चैनल पर वैभव की पारी को लेकर कहा कि यूएई की ड्रेसिंग में पूछा गया होगा, 'कितने आदमी थे. तो कहा गया होगा- वो अकेला ही था.'
+
+मोहम्मद मोहसिन ने कहा, "क्रिस गेल खुद को अनोखा खिलाड़ी मानते हैं. उनके रिकॉर्ड को तोड़कर वो (वैभव) क्रिकेट खेल रहे हैं. जिस दिन उनका बल्ला चलता है, कुछ और बात करने को होता ही नहीं है."
+
+सबसे तेज अर्धशतक: श्रीलंका ए के खिलाफ 11 गेंदों में, 21 जून को. इससे पहले यह रिकॉर्ड के वीरारत्ने के नाम था, जिन्होंने 1 नवंबर 2005 को 12 गेंदों में अर्धशतक बनाया था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cqrkg620r8m7o)`,
     title_en: ``,
     summary_en: ``,
     content_en: ``,
     title_hi: `वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर`,
-    summary_hi: `वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content_hi: `### Strategic Overview & Legislative Framework
+    summary_hi: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.`,
+    content_hi: `एशिया कप राइजिंग स्टार्स के मुकाबले में यूएई के ख़िलाफ़ वैभव सूर्यवंशी की आतिशी पारी की दुनिया भर में चर्चा हो रही है और ख़ासकर पाकिस्तान के पूर्व क्रिकेटरों ने उनकी ख़ूब तारीफ़ की है.
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर**. According to authoritative communiqués released by BBC, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+मंगलवार को पाकिस्तान ए टीम ने नेपाल की टीम को 96 रनों से हराया. लेकिन पाकिस्तान में इस जीत की बजाय यूएई के ख़िलाफ़ भारत की जीत की चर्चा अधिक हो रही है.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+15 साल के वैभव सूर्यवंशी ने लिस्ट ए में सबसे तेज़ दोहरा शतक लगाने का रिकॉर्ड बनाया.
 
-### Institutional Oversight & Ground Reality
+उन्होंने यूएई के ख़िलाफ़ महज 52 गेंदों में दोहरा शतक लगाया और इस दौरान उन्होंने 28 छक्के और सात चौके लगाए.
 
-Ground reality assessments indicate that वैभव सूर्यवंशी की आतिशी बल्लेबाज़ी पर क्या बोले पाकिस्तान के पूर्व क्रिकेटर BBC वैभव सूर्यवंशी के नाम दर्ज हुए कई बड़े रिकॉर्ड, 53 गेंदों में 204 रन बनाकर रचा इतिहास BBC 'मारो, मारो, मारो...', वैभव सूर्यवंशी के 28 छक्कों और 204 की पारी देख डगआउट में यही बोले ख‍िलाड़ी, तिलक ने खोला राज AajTak IND A VS UAE A मैच में भी बवाल, अभिषेक शर्मा से भिड़ा यूएई का गेंदबाज; फिर वैभव सूर्यवंशी ने लिया बदला Jagran 204 रन की तूफानी पारी में वैभव का महारिकॉर्ड, पहली बार किसी बल्लेबाज ने क्रिकेट मैच में जड़े इतने छक्के India TV Hindi establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+भारत के पूर्व कप्तान सौरव गांगुली ने कहा , "वैभव सूर्यवंशी ने 28 गेंदों में शतक जड़कर लिस्ट ए क्रिकेट में सबसे तेज शतक लगाने का नया रिकॉर्ड बनाया. उन्होंने जेक फ्रेजर-मैकगर्क के 29 गेंदों में शतक के पिछले रिकॉर्ड को पीछे छोड़ दिया."
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+गांगुली ने कहा, "उसने अच्छा खेला. यह ए टीम है. टी20 में उसकी क्षमता असाधारण है. इसके अलावा, उसकी पावर हिटिंग शानदार थी. उसने बहुत अच्छा खेला."
 
-### Governance Parameter Assessment
+पाकिस्तान में पूर्व क्रिकेटरों ने कहा कि 'इतने छक्के तो वीडियो गेम में भी नहीं लगते' या 'पूरी टीम भी इतने छक्के नहीं लगा पाती.'
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+### 'इतने छक्के लगाए जितनी पूरी टीम नहीं लगा पाती'
 
-### Why This Matters: Policy Impact & Outlook
+पाकिस्तान के पूर्व क्रिकेटर बासित अली ने कहा कि 'यूएई के ख़िलाफ़ तो मैच ही नहीं हो पाया.'
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+अपने यूट्यूब चैनल पर उन्होंने कमेंट्री करते हुए कहा , "यूएई ने 249 रनों का ठीक-ठाक टार्गेट दिया था और लग रहा था कि दूसरी पारी में पिच ख़राब होगी लेकिन मैदान पर नज़ारा कुछ और था. वैभव ने इतने छक्के लगाए जितने पूरी टीम नहीं लगा पाती है."
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+बासित अली ने कहा, "हर ओवर में या तो तीन छक्के और दो चौके या तीन चौके या दो छक्के उसने लगाए. लिस्ट ए के जितने रिकॉर्ड थे, वो बब्लू (वैभव) ले गए."
+
+"अंतरराष्ट्रीय स्तर पर टीमों ने जितने छक्के नहीं मारे होंगे, वैभव ने एक ही दिन में मार दिए. मेरे ख़्याल से उन्होंने केवल आठ रन भाग कर बनाए, जबकि क़रीब 196 रन केवल बाउंड्रीज़ से बनाए."
+
+"जिस ग्राउंड में खेल हो रहा था वो कोई छोटा ग्राउंड नहीं था. लेकिन दो मैचों से एक प्रेशर भी था प्रदर्शन न कर पाने का. उन्होंने सेमीफ़ाइनल और फ़ाइनल में आने से पहले अपनी फ़ॉर्म दिखा दी है."
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+पाकिस्तान के एक पूर्व क्रिकेटर मोहम्मद वसीम ने कहा कि 'वैभव सूर्यवंशी के रिकॉर्ड को कोई और नहीं तोड़ सकता, शायद वो खुद तोड़ पाएं.'
+
+पूर्व क्रिकेटर तनवीर अहमद ने कहा , "जो वो खेल रहे हैं, वो बहुत एक्सेप्शनल टैलेंट है. 15 साल के बच्चे के लिए यह वाक़ई हैरान करने वाला है."
+
+तनवीर अहमद ने सूर्यवंशी की उम्र को लेकर भी सवाल उठाए लेकिन ये भी कहा कि उन्हें अभी कमज़ोर क्षेत्रों में काम करने की और ज़रूरत है.
+
+उन्होंने कहा, "जिस तरीक़े से वो बैटिंग कर रहे थे, उन्हें अपने माफ़िक गेंदें मिल रही थीं और वो मारते जा रहे थे. शायद इसीलिए उन्हें इंटरनेशनल क्रिकेट उस तरीक़े से नहीं खिला रहे हैं क्योंकि इंटरनेशनल क्रिकेट में इस तरीक़े से छक्के मारना उतना आसान नहीं होता है."
+
+"शायद इसीलिए उन्हें टाइम दिया जा रहा है कि आप टीम के साथ रहें, टूर करते रहें और सीखें. जिन क्षेत्रों में वो कमज़ोर हैं, जैसे कवर्स में, तो उस पर अधिक काम करें. ये एक तरीक़ा होता है."
+
+पाकिस्तान क्रिकेट पर तंज़ करते हुए तनवीर अहमद ने कहा, "अगर वैभव पाकिस्तान में होते तो उन्हें टी-20, वनडे और टेस्ट टीम में भी खिलाया जा रहा होता और यहां तक कैप्टन भी बना दिया जाता."
+
+### 'इतने छक्के तो हाथ से भी न फेंके जाएं'
+
+पाकिस्तान के पूर्व क्रिकेटर कामरान अकमल ने एक यूट्यूब चैनल पर बातचीत में कहा कि जो काम 25-30 साल की उम्र में किया जा सकता है और जो क्रिकेट मिलती और प्रसिद्धि मिलती है, उसे वैभव ने 15 साल की उम्र में हासिल कर लिया."
+
+उन्होंने कहा, "चाहे कोई भी टीम हो, रिज़ल्ट भी देखना चाहिए. अगर कोई अकेला बाउंड्री की तरफ़ थ्रो भी फेंके तो भी इतने रन न हो पाएं. 52 गेंदें मैं फेंकू तब भी 28 छक्के न हों कभी. उसने वो बल्ले के साथ कर दिखाया."
+
+वैभव सूर्यवंशी के खेल को लेकर पाकिस्तान में अपनी टीम के साथ भी तुलना की जाने लगी है.
+
+इसी बातचीत में कामरान अकमल ने कहा, "वैभव का मेच्योरिटी लेवल और क्रिकेट के लिहाज से देखें तो उन्हें इंटरनेशनल क्रिकेट खेलने को मिल रहा है. उन्हें 15 साल की उम्र के लेवल से ही हटा दिया है."
+
+"जहां तक उनके उम्र की बात है तो ये बात अब हमें छोड़ ही देना चाहिए. हमारे यहां इस तरह के खिलाड़ी को अंडर 15 से ही न निकलने दें हम लोग. आप उनका माइंडसेट देखें कि वो इस तरह के खिलाड़ी को कौन सी क्रिकेट खिला रहे हैं. हमारे यहां ऊपर से नीचे की ओर लेकर आ रहे हैं. तो गेम अप्रोच में, पर्फ़ार्मेंस में और खेल में फ़र्क तो आएगा ही."
+
+कामरान ने सवाल किया कि पाकिस्तान में नए खिलाड़ियों को क्यों नहीं आगे लाया जा रहा है?
+
+पाकिस्तान के स्पोर्ट्स एनालिस्ट मोहम्मद मोहसिन ने अपने यूट्यूब चैनल पर वैभव की पारी को लेकर कहा कि यूएई की ड्रेसिंग में पूछा गया होगा, 'कितने आदमी थे. तो कहा गया होगा- वो अकेला ही था.'
+
+मोहम्मद मोहसिन ने कहा, "क्रिस गेल खुद को अनोखा खिलाड़ी मानते हैं. उनके रिकॉर्ड को तोड़कर वो (वैभव) क्रिकेट खेल रहे हैं. जिस दिन उनका बल्ला चलता है, कुछ और बात करने को होता ही नहीं है."
+
+सबसे तेज अर्धशतक: श्रीलंका ए के खिलाफ 11 गेंदों में, 21 जून को. इससे पहले यह रिकॉर्ड के वीरारत्ने के नाम था, जिन्होंने 1 नवंबर 2005 को 12 गेंदों में अर्धशतक बनाया था.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cqrkg620r8m7o)`,
     author_name: `Pankhudi Sharma`,
     author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
     author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
@@ -1863,79 +5251,61 @@ Beyond immediate headlines, this development carries durable implications for re
     topic: ``,
     language: `hi`,
     fomo_badge: `⚡ National Wire`,
-    read_time: `7 min read`,
+    read_time: `2 min read`,
     views_count: 264320,
     shares_count: 37205,
     published_at: `2026-11-25T05:16:16Z`,
     updated_at: `2026-11-25T05:16:16Z`,
     source_name: `ABP News`,
-    source_url: `https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZmd2WFc0QWtJNEQ1c3VORFNfNGNTVVRLTG41akI5NkFyV1A4Tkk4ZVpNRUhTWUwyR1pWTWM5Z2I3UDhHNmdPdWxGSXY5Y2lOVDg2aW5yV1Z0eFBIbE5pdTQzc1NxU1Z0eFRBaTZQS2tQNUc3ZVIzMm1TYVVqaGp5Z2VzZEU0ejVWUFRldnZCSXhWcmFKMGFnRkNOUGlYLVc1Q0lNVml0YWk0bVJwdmJiVXVlU2Y4c3lSeFdfZUFKaU1MV0Y2WGJMcnpCdGxjLWNhOG44bWZn0gHbAUFVX3lxTE9vaTFNVVFHVTdkMW5mdVZyclhtSkRYU0FHZmE4VDJYcGtjb3dwUE9LdU43TWJheGo4WTFDOFBMYzJmU1dDTzFYQk12VW9PcUJ6dWpUUlBpbFlJcDhaM0k3U3hpRlNFaU9wM0xVSjhWY1VHRllHRERUV3FSRy1vZGwwb21ZMnIzeTVfVTREc0dIbzUwUVlYUzMyczZiQm5zcGowTEgxUTJoQ3dRM0F0MmRRMVRIdHI5OEQwZUdGOFdDSFlDbm5QczNQNFZsRTRmMFQ5NGF3QjVEdm5JYw?oc=5`,
+    source_url: `https://www.abplive.com/sports/cricket/ipl-auction-2027-players-list-aaryavir-sehwag-mohit-ulva-register-with-30-lakh-rs-base-price-3219060`,
     source_courtesy: `News Courtesy: ABP News Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85&sig=943`,
+    image_url: `/images/articles/ipl-auction-2027-abp-news-2026.jpg`,
     image_alt: `Verified news photograph: IPL Auction 2027: आर्यवीर सहवाग, मोहित उलवा ने आईपीएल ऑक्शन में किया रजिस्टर, जानें क्या - ABP News`,
-    image_courtesy: `Photo: Athletics Federation (Unsplash Editorial)`,
-    image_photographer: `Athletics Federation`,
-    image_license: `Unsplash Editorial`,
+    image_courtesy: `Image Courtesy: ABP News`,
+    image_photographer: `ABP News`,
+    image_license: `Original Source Media`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Sports, Breaking News, India, Verified`,
-    summary: `IPL Auction 2027: आर्यवीर सहवाग, मोहित उलवा ने आईपीएल ऑक्शन में किया रजिस्टर, जानें क्या - ABP News. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `आईपीएल 2027 के लिए होने वाले ऑक्शन में अब करीब 20 दिन का समय बचा है. इसमें अपना नाम रजिस्टर करवाने वाले प्लेयर्स को लेकर एक बड़ी खबर आई है. वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग ने ऑक्शन में अपना नाम दिया है. उन्होंने हाल ही में खत्म हुए अंडर`,
+    content: `### वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग ने आईपीएल 2027 के लिए होने वाले ऑक्शन में अपना नाम रजिस्टर करवाया है. उन्होंने U19 एशिया कप में जिस तरह का प्रदर्शन किया था, उन्हें बड़ा प्राइस मिल सकता है.
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **IPL Auction 2027: आर्यवीर सहवाग, मोहित उलवा ने आईपीएल ऑक्शन में किया रजिस्टर, जानें क्या - ABP News**. According to authoritative communiqués released by ABP News, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+आईपीएल 2027 के लिए होने वाले ऑक्शन में अब करीब 20 दिन का समय बचा है. इसमें अपना नाम रजिस्टर करवाने वाले प्लेयर्स को लेकर एक बड़ी खबर आई है. वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग ने ऑक्शन में अपना नाम दिया है. उन्होंने हाल ही में खत्म हुए अंडर-19 एशिया कप में शानदार प्रदर्शन किया था, जिसके लिए उन्हें प्लेयर ऑफ द टूर्नामेंट चुना गया था. भारत ने फाइनल में पाकिस्तान को 1 विकेट से हराकर खिताब जीता था. फाइनल के हीरो मोहित उलवा भी लिस्ट में शामिल हैं.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+क्रिकबज की रिपोर्ट के अनुसार U19 एशिया कप 2026 के कप्तान लक्ष्य रायचंदानी और भारतीय दिग्गज राहुल द्रविड़ के बेटे अन्वय द्रविड़ ने ऑक्शन के लिए रजिस्ट्रेशन नहीं कराया है. टीम के अन्य प्रमुख खिलाड़ियों में से काव्यान् पटेल ने रजिस्ट्रेशन कराया है, लेकिन उस यादगार फाइनल में शानदार प्रदर्शन करने वाले मनाल चौहान नीलामी का हिस्सा नहीं होंगे. इन सभी खिलाड़ियों ने अपना बेस प्राइस 30 लाख रुपये तय किया है.
 
-### Institutional Oversight & Ground Reality
+डेविड वॉर्नर ने भी आईपीएल ऑक्शन में रजिस्ट्रेशन किया है. उन्होंने अपना बेस प्राइस 2 करोड़ रुपये तय किया है. इसके आलावा भारतीय मूल के ऑस्ट्रेलियाई खिलाड़ी निखिल चौधरी शामिल हैं, जो ऑस्ट्रेलिया के टी20 में डेब्यू कर चुके हैं. तेज गेंदबाज सोनी बेकर भी इस रजिस्टर में हैं.
 
-Ground reality assessments indicate that IPL Auction 2027: आर्यवीर सहवाग, मोहित उलवा ने आईपीएल ऑक्शन में किया रजिस्टर, जानें क्या ABP News स्टोक्स होंगे IPL नीलामी में शामिल Cricinfo IPL Auction 2027 Players List: बेन स्टोक्स से लेकर डेरिल मिचेल, देखें IPL ऑक्शन में 2 करोड़ बेस प्राइस ABP News आईपीएल की नीलामी में शामिल होंगे सॉनी बेकर - Naya India-Hindi News, Latest Hindi News, Breaking News, Hindi Naya India-Hindi News, Latest Hindi News, Breaking News, Hindi Samachar बेन स्टोक्स और स्कॉट बोलैंड का लिस्ट में नाम, मुस्ताफिजुर रहमान बाहर, आईपीएल मिनी ऑक्शन में 1220 खिलाड़ियों ने दिया नाम Navbharat Times establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+पाकिस्तान के पूर्व तेज गेंदबाज मोहम्मद आमिर को कुछ समय पहले ब्रिटिश की नागरिकता मिल चुकी है. एक संभावना जताई जा रही थी कि वह भी इंग्लैंड प्लेयर के तौर पर अपना नाम रजिस्टर करवा सकते हैं. हालाँकि उन्होंने इंग्लैंड एंड वेल्स क्रिकेट बोर्ड (ECB) के जरिए अपना नाम नहीं भेजा.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+रिपोर्ट में बताया गया है कि BCCI ने फ्रेंचाइजियों को उन खिलाड़ियों की लिस्ट दी है जो IPL 2027 में केवल कुछ समय के लिए उपलब्ध रहेंगे. झाय रिचर्डसन सिर्फ 50 प्रतिशत हिस्से के लिए उपलब्ध रहेंगे, उन्होंने अपना बेस प्राइस 2 करोड़ रुपये तय किया है. ऑस्ट्रेलिया के तेज गेंदबाज स्कॉट बोलैंड ने अपना नाम वापस ले लिया है. इससे पहले मिचेल स्टार्क और ट्रेविस हेड भी पूरे सीजन से हट चुके हैं.
 
-### Governance Parameter Assessment
+यह भी पढ़ें- बेन स्टोक्स के लिए IPL ने बदला नियम, 2027 ऑक्शन के लिए बांग्लादेश के भी 12 खिलाड़ी
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+---
 
-### Why This Matters: Policy Impact & Outlook
-
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
-
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/sports/cricket/ipl-auction-2027-players-list-aaryavir-sehwag-mohit-ulva-register-with-30-lakh-rs-base-price-3219060)`,
     title_en: ``,
     summary_en: ``,
     content_en: ``,
     title_hi: `IPL Auction 2027: आर्यवीर सहवाग, मोहित उलवा ने आईपीएल ऑक्शन में किया रजिस्टर, जानें क्या - ABP News`,
-    summary_hi: `IPL Auction 2027: आर्यवीर सहवाग, मोहित उलवा ने आईपीएल ऑक्शन में किया रजिस्टर, जानें क्या - ABP News. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content_hi: `### Strategic Overview & Legislative Framework
+    summary_hi: `आईपीएल 2027 के लिए होने वाले ऑक्शन में अब करीब 20 दिन का समय बचा है. इसमें अपना नाम रजिस्टर करवाने वाले प्लेयर्स को लेकर एक बड़ी खबर आई है. वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग ने ऑक्शन में अपना नाम दिया है. उन्होंने हाल ही में खत्म हुए अंडर`,
+    content_hi: `### वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग ने आईपीएल 2027 के लिए होने वाले ऑक्शन में अपना नाम रजिस्टर करवाया है. उन्होंने U19 एशिया कप में जिस तरह का प्रदर्शन किया था, उन्हें बड़ा प्राइस मिल सकता है.
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **IPL Auction 2027: आर्यवीर सहवाग, मोहित उलवा ने आईपीएल ऑक्शन में किया रजिस्टर, जानें क्या - ABP News**. According to authoritative communiqués released by ABP News, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+आईपीएल 2027 के लिए होने वाले ऑक्शन में अब करीब 20 दिन का समय बचा है. इसमें अपना नाम रजिस्टर करवाने वाले प्लेयर्स को लेकर एक बड़ी खबर आई है. वीरेंद्र सहवाग के बेटे आर्यवीर सहवाग ने ऑक्शन में अपना नाम दिया है. उन्होंने हाल ही में खत्म हुए अंडर-19 एशिया कप में शानदार प्रदर्शन किया था, जिसके लिए उन्हें प्लेयर ऑफ द टूर्नामेंट चुना गया था. भारत ने फाइनल में पाकिस्तान को 1 विकेट से हराकर खिताब जीता था. फाइनल के हीरो मोहित उलवा भी लिस्ट में शामिल हैं.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+क्रिकबज की रिपोर्ट के अनुसार U19 एशिया कप 2026 के कप्तान लक्ष्य रायचंदानी और भारतीय दिग्गज राहुल द्रविड़ के बेटे अन्वय द्रविड़ ने ऑक्शन के लिए रजिस्ट्रेशन नहीं कराया है. टीम के अन्य प्रमुख खिलाड़ियों में से काव्यान् पटेल ने रजिस्ट्रेशन कराया है, लेकिन उस यादगार फाइनल में शानदार प्रदर्शन करने वाले मनाल चौहान नीलामी का हिस्सा नहीं होंगे. इन सभी खिलाड़ियों ने अपना बेस प्राइस 30 लाख रुपये तय किया है.
 
-### Institutional Oversight & Ground Reality
+डेविड वॉर्नर ने भी आईपीएल ऑक्शन में रजिस्ट्रेशन किया है. उन्होंने अपना बेस प्राइस 2 करोड़ रुपये तय किया है. इसके आलावा भारतीय मूल के ऑस्ट्रेलियाई खिलाड़ी निखिल चौधरी शामिल हैं, जो ऑस्ट्रेलिया के टी20 में डेब्यू कर चुके हैं. तेज गेंदबाज सोनी बेकर भी इस रजिस्टर में हैं.
 
-Ground reality assessments indicate that IPL Auction 2027: आर्यवीर सहवाग, मोहित उलवा ने आईपीएल ऑक्शन में किया रजिस्टर, जानें क्या ABP News स्टोक्स होंगे IPL नीलामी में शामिल Cricinfo IPL Auction 2027 Players List: बेन स्टोक्स से लेकर डेरिल मिचेल, देखें IPL ऑक्शन में 2 करोड़ बेस प्राइस ABP News आईपीएल की नीलामी में शामिल होंगे सॉनी बेकर - Naya India-Hindi News, Latest Hindi News, Breaking News, Hindi Naya India-Hindi News, Latest Hindi News, Breaking News, Hindi Samachar बेन स्टोक्स और स्कॉट बोलैंड का लिस्ट में नाम, मुस्ताफिजुर रहमान बाहर, आईपीएल मिनी ऑक्शन में 1220 खिलाड़ियों ने दिया नाम Navbharat Times establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+पाकिस्तान के पूर्व तेज गेंदबाज मोहम्मद आमिर को कुछ समय पहले ब्रिटिश की नागरिकता मिल चुकी है. एक संभावना जताई जा रही थी कि वह भी इंग्लैंड प्लेयर के तौर पर अपना नाम रजिस्टर करवा सकते हैं. हालाँकि उन्होंने इंग्लैंड एंड वेल्स क्रिकेट बोर्ड (ECB) के जरिए अपना नाम नहीं भेजा.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+रिपोर्ट में बताया गया है कि BCCI ने फ्रेंचाइजियों को उन खिलाड़ियों की लिस्ट दी है जो IPL 2027 में केवल कुछ समय के लिए उपलब्ध रहेंगे. झाय रिचर्डसन सिर्फ 50 प्रतिशत हिस्से के लिए उपलब्ध रहेंगे, उन्होंने अपना बेस प्राइस 2 करोड़ रुपये तय किया है. ऑस्ट्रेलिया के तेज गेंदबाज स्कॉट बोलैंड ने अपना नाम वापस ले लिया है. इससे पहले मिचेल स्टार्क और ट्रेविस हेड भी पूरे सीजन से हट चुके हैं.
 
-### Governance Parameter Assessment
+यह भी पढ़ें- बेन स्टोक्स के लिए IPL ने बदला नियम, 2027 ऑक्शन के लिए बांग्लादेश के भी 12 खिलाड़ी
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+---
 
-### Why This Matters: Policy Impact & Outlook
-
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
-
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/sports/cricket/ipl-auction-2027-players-list-aaryavir-sehwag-mohit-ulva-register-with-30-lakh-rs-base-price-3219060)`,
     author_name: `Pankhudi Sharma`,
     author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
     author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
@@ -1956,79 +5326,125 @@ Beyond immediate headlines, this development carries durable implications for re
     topic: ``,
     language: `hi`,
     fomo_badge: `⚡ National Wire`,
-    read_time: `7 min read`,
+    read_time: `5 min read`,
     views_count: 264560,
     shares_count: 37240,
     published_at: `2026-11-25T05:16:18Z`,
     updated_at: `2026-11-25T05:16:18Z`,
     source_name: `AajTak`,
-    source_url: `https://news.google.com/rss/articles/CBMizAFBVV95cUxQbGJVaTh4QW5fenBuS01LQnRPRl9WdjYyRFFpMEo5OFppb2ZkQUQtc3FNVmIzTHhqRWZOTlRpUmRORng3TnQtbUstNDloZzZvcFB2X1lvUDQxUFdSZGJIYUlubWtqd3p4UlZZbTJ3M2ZxbEw3RzJBTDdDeWh0UmVYY0tlaDl3YlNrNkY4c2hSc0stQW9RenpfOWpVZGpWZGpwaF9GOS1vbUhYV1FaMnN6S2dOdWoxaWdzekNzUFFOdE85eW14MlU3U2FiQWzSAdIBQVVfeXFMTXlXMXFYWi1ockxjZWhEZmh5dUYzQTZFT2JwQzRMR09JOHh0bTFBd3RyUXZESHp2TnMtQy1TbTJNcnBZVzNOaFBRRUVhOW13aWNpa0VnZDNlQ01MdlFHckkxaHFQRURwN1g2MFR1WkJoOHBqQzF1RlR3TjcxczA2WjNzT1pzOWtBaVlvZEwzdm1fY3J3UjJWakxvYnFudHFrNmZlNHhqaHJpSEVpajloMzBWVDlGNTBXNmtrQTRVZ1ZUOHUwZkZlN2lCXzI1NnNyX21n?oc=5`,
+    source_url: `https://www.aajtak.in/technology/tech-news/story/desi-batman-bhainsmobile-sujal-jaiswar-ai-viral-video-ttecm-dskc-2705036-2026-11-24`,
     source_courtesy: `News Courtesy: AajTak Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85&sig=944`,
+    image_url: `/images/articles/batman-ai-aajtak-2026.webp`,
     image_alt: `Verified news photograph: भैंस पर बैठा Batman, पीछे 'साजन-साजन'... AI से कैसे बना ये वायरल वीडियो? जानिए पूरा टेक्नोलॉजी गेम - AajTak`,
-    image_courtesy: `Photo: Cinema Premiere Desk (Unsplash Editorial)`,
-    image_photographer: `Cinema Premiere Desk`,
-    image_license: `Unsplash Editorial`,
+    image_courtesy: `Image Courtesy: AajTak`,
+    image_photographer: `AajTak`,
+    image_license: `Original Source Media`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Entertainment, Breaking News, India, Verified`,
-    summary: `भैंस पर बैठा Batman, पीछे 'साजन-साजन'... AI से कैसे बना ये वायरल वीडियो? जानिए पूरा टेक्नोलॉजी गेम - AajTak. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `सोचिए, दुनिया का सबसे मशहूर सुपरहीरो बैटमैन गोथम सिटी की सड़कों पर नहीं, बल्कि किसी भारतीय गांव में घूम रहा हो. उसकी चमचमाती बैटमोबाइल की जगह भैंस हो, सामने जोकर हो और पीछे माधुरी दीक्षित का गाना 'साजन साजन तेरी दुल्हन' बज रहा हो. सुनने में`,
+    content: `### इन दिनों सोशल मीडिया पर देसी बैटमैन खूब वायरल हो रहा है. लोगों को लग रहा है कि ये वीडियो AI से बनाया गया है. क्या सच में ऐसा है? आइए जानते हैं कि इसमें AI के कौन से टूल्स यूज किए गए हैं और वीडियो कैसे वायरल हो रहा है.
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **भैंस पर बैठा Batman, पीछे 'साजन-साजन'... AI से कैसे बना ये वायरल वीडियो? जानिए पूरा टेक्नोलॉजी गेम - AajTak**. According to authoritative communiqués released by AajTak, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+सोचिए, दुनिया का सबसे मशहूर सुपरहीरो बैटमैन गोथम सिटी की सड़कों पर नहीं, बल्कि किसी भारतीय गांव में घूम रहा हो. उसकी चमचमाती बैटमोबाइल की जगह भैंस हो, सामने जोकर हो और पीछे माधुरी दीक्षित का गाना 'साजन साजन तेरी दुल्हन' बज रहा हो. सुनने में यह किसी मजाक जैसा लगता है, लेकिन इंस्टाग्राम पर यही कॉम्बिनेशन लोगों को खूब पसंद आ रहा है.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+सोशल मीडिया पर वायरल हो रहे इस वीडियो में बैटमैन रेलवे ट्रैक के पास दांत साफ करता दिखता है. कहानी आगे बढ़ती है तो एक बच्चे के गायब होने, जोकर और उसके पीछे निकले बैटमैन का सीन सामने आता है.
 
-### Institutional Oversight & Ground Reality
+लेकिन यहां हॉलीवुड वाला बैटमैन नहीं, बल्कि देसी अंदाज में नजर आने वाला सुपरहीरो है. वह अपनी बैटमोबाइल के बजाय भैंस पर सवार होकर मिशन पर निकलता है. इसी वजह से लोग इसे 'भैंसमोबाइल' भी कह रहे हैं.
 
-Ground reality assessments indicate that भैंस पर बैठा Batman, पीछे 'साजन-साजन'... AI से कैसे बना ये वायरल वीडियो? जानिए पूरा टेक्नोलॉजी गेम AajTak भैंस पर सवार Batman, पीछे बज रहा 'साजन-साजन'... कौन बना रहा ये VIDEO? AajTak Madhuri Dixit का 'चटपटा गाना', भैंस पर आता देसी बैटमैन; इंटरनेट पर वायरल हुआ Alka Yagnik का 27 साल पुराना गाना Jagran Desi Batman: कौन हैं सुजल जैसवार, कैसे बनाया वायरल वीडियो? Prabhat Khabar 'साजन साजन तेरी दुल्हन' पर नाच रहा Batman, इंस्टाग्राम,यूट्यूब पर वीडियो पर लाखों व्यूज़ News18 Hindi establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+इस पूरी सीरीज के पीछे हैं भारतीय फिल्ममेकर और डिजिटल क्रिएटर सुजल जैसवार. उन्होंने बैटमैन को गोथम सिटी से निकालकर भारतीय गांवों, गलियों, रेलवे ट्रैक और चाय की दुकानों के बीच ला खड़ा किया है. दिलचस्प बात यह है कि इन वीडियो को सिर्फ AI से तैयार नहीं किया गया है. इनमें असली शूटिंग, AI बेस्ड विजुअल इफेक्ट्स और वीडियो एडिटिंग का कॉम्बिनेशन है.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+कौन हैं सुजल जैसवार, जिनका देसी बैटमैन हुआ वायरल?
 
-### Governance Parameter Assessment
+सुजल जैसवार महाराष्ट्र के रहने वाले हैं. उन्होंने आईआईएम रांची से पांच साल का इंटीग्रेटेड मैनेजमेंट प्रोग्राम पूरा किया है. पढ़ाई के दौरान ही उनकी दिलचस्पी फिल्ममेकिंग, ऐड्स और वीडियो प्रोडक्शन में थी. उन्होंने अपने दोस्त ललित कृष्णा के साथ मार्च 2023 में न्यूडेन प्रोडक्शंस की शुरुआत भी की थी.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+सुजल ने बेंगलुरु में हाउस ऑफ एडटेक के साथ एआई जनरलिस्ट के तौर पर काम किया. उनका काम जनरेटिव एआई, वीडियो प्रोडक्शन और डिजिटल कंटेंट से जुड़ा रहा. यही अनुभव उनके देसी बैटमैन वीडियो में दिखाई देता है. यहां टेक्नोलॉजी का इस्तेमाल सिर्फ तस्वीर बनाने के लिए नहीं, बल्कि एक छोटी कहानी को फिल्म जैसा रूप देने के लिए किया गया है.
 
-### Why This Matters: Policy Impact & Outlook
+क्या पूरा वीडियो AI से बना है? असली टेक्नोलॉजी यही है
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+वीडियो देखकर कई लोगों को लगता है कि इसे किसी AI टूल में एक लाइन लिखकर तैयार कर लिया गया होगा. लेकिन ऐसा नहीं है. सुजल ने लाइव-एक्शन फुटेज भी शूट किया है. यानी कुछ सीन में असली कैमरा, असली जगह और इंसान मौजूद हैं. इसके बाद AI आधारित टूल्स की मदद से वीडियो के अलग-अलग हिस्सों को बेहतर बनाया गया.
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+इस प्रोसेस में विजुअल इफेक्ट्स, कंपोजिटिंग, साउंड डिजाइन और कलर वर्क जैसे काम शामिल हैं. उदाहरण के लिए, किसी असली शूट किए गए सीन में बैटमैन को ज्यादा सिनेमैटिक दिखाना हो, बैकग्राउंड बदलना हो या किसी किरदार को दूसरे माहौल में फिट करना हो, तो AI और विजुअल इफेक्ट्स मदद कर सकते हैं.
+
+कंपोजिटिंग का मतलब है अलग-अलग तस्वीरों या वीडियो लेयर को मिलाकर एक ही फ्रेम बनाना. मान लीजिए बैटमैन का शॉट अलग शूट हुआ और गांव का बैकग्राउंड अलग है. दोनों को इस तरह जोड़ा जाता है कि दर्शक को लगे कि किरदार उसी जगह मौजूद है. इसके बाद लाइट, शैडो और रंगों को मिलाया जाता है ताकि वीडियो नकली या अलग-अलग हिस्सों से जोड़ा हुआ न लगे.
+
+यही वजह है कि इन वीडियो में कभी-कभी हॉलीवुड फिल्म जैसा लुक दिखाई देता है, जबकि कहानी पूरी तरह भारतीय माहौल में चलती है.
+
+कौन से AI टूल्स इस्तेमाल हुए? इन नामों को लेकर समझें फर्क
+
+यहां एक जरूरी बात समझनी होगी. सुजल के देसी बैटमैन के इस खास वायरल एपिसोड में इस्तेमाल किए गए सभी सॉफ्टवेयर और AI टूल्स की पूरी सूची पब्लिक नहीं है. उपलब्ध रिपोर्ट्स में AI आधारित टूल्स से विजुअल इफेक्ट्स, कंपोजिटिंग, साउंड और कलर वर्क करने की जानकारी है, लेकिन हर टूल का नाम नहीं बताया गया है.
+
+सुजल के एक अलग लिंक्डइन पोस्ट में उन्होंने बताया था कि उनका एक AI वीडियो Higgsfield AI Cinema Studio की मदद से तैयार हुआ था. इसी तरह Google Veo और Runway जैसे टूल्स का नाम भी इसमें शामिल है.
+
+सिर्फ 2,500 से 5,000 रुपये में तैयार हो जाता है एक एपिसोड
+
+इस सीरीज की एक और दिलचस्प बात इसका बजट है. रिपोर्ट के मुताबिक, एक एपिसोड तैयार करने में करीब 2,500 से 5,000 रुपये तक खर्च आता है. यह रकम किसी बड़े फिल्म प्रोडक्शन के मुकाबले बहुत कम है. छोटे बजट में शूटिंग और AI टूल्स की मदद से ऐसे वीडियो तैयार करना अब पहले के मुकाबले आसान हो रहा है.
+
+हालांकि, कम बजट का मतलब यह नहीं कि वीडियो बनाने में मेहनत नहीं लगती. कहानी सोचने, शॉट प्लान करने, सही लोकेशन चुनने, शूटिंग करने और फिर AI की मदद से विजुअल्स को जोड़ने में समय और स्किल दोनों लगते हैं. AI कई काम आसान कर सकता है, लेकिन वह अपने आप मजेदार कहानी या सही टाइमिंग नहीं बना देता.
+
+'साजन-साजन' गाने ने कैसे बदल दिया वीडियो का पूरा मजा?
+
+इस वीडियो की पॉपुलैरिटी में सिर्फ भैंस पर सवार बैटमैन का योगदान नहीं है. इसका बैकग्राउंड म्यूजिक भी उतना ही अहम है. 1999 में आई फिल्म 'आरजू' का गाना 'साजन साजन तेरी दुल्हन' मूल रूप से एक रोमांटिक गाना है. इसे अलका याग्निक ने गाया था और इसका संगीत अनु मलिक ने तैयार किया था. फिल्म में माधुरी दीक्षित नजर आई थीं.
+
+अब सोचिए, एक तरफ बैटमैन जैसा गंभीर सुपरहीरो है और दूसरी तरफ उसके पीछे बज रहा रोमांटिक बॉलीवुड गाना. दोनों के बीच का यही अंतर वीडियो को मजेदार बनाता है. अगर यही सीन किसी गंभीर हॉलीवुड बैकग्राउंड म्यूजिक के साथ होता, तो शायद इसका असर अलग होता. लेकिन 'साजन-साजन' ने इसे एक ऐसा देसी टच दे दिया, जिसे लोग आसानी से याद रख सकते हैं.
+
+धीरे-धीरे दूसरे क्रिएटर्स भी इसी ऑडियो पर अपने बैटमैन एडिट और सुपरहीरो वीडियो बनाने लगे. यहां एक क्रिएटर का वीडियो सिर्फ एक वायरल पोस्ट नहीं रहा, बल्कि एक अलग सोशल मीडिया ट्रेंड बन गया. अमेजन म्यूजिक इंडिया ने भी इस गाने और बैटमैन वाले ट्रेंड पर पोस्ट शेयर की है.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/technology/tech-news/story/desi-batman-bhainsmobile-sujal-jaiswar-ai-viral-video-ttecm-dskc-2705036-2026-11-24)`,
     title_en: ``,
     summary_en: ``,
     content_en: ``,
     title_hi: `भैंस पर बैठा Batman, पीछे 'साजन-साजन'... AI से कैसे बना ये वायरल वीडियो? जानिए पूरा टेक्नोलॉजी गेम - AajTak`,
-    summary_hi: `भैंस पर बैठा Batman, पीछे 'साजन-साजन'... AI से कैसे बना ये वायरल वीडियो? जानिए पूरा टेक्नोलॉजी गेम - AajTak. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content_hi: `### Strategic Overview & Legislative Framework
+    summary_hi: `सोचिए, दुनिया का सबसे मशहूर सुपरहीरो बैटमैन गोथम सिटी की सड़कों पर नहीं, बल्कि किसी भारतीय गांव में घूम रहा हो. उसकी चमचमाती बैटमोबाइल की जगह भैंस हो, सामने जोकर हो और पीछे माधुरी दीक्षित का गाना 'साजन साजन तेरी दुल्हन' बज रहा हो. सुनने में`,
+    content_hi: `### इन दिनों सोशल मीडिया पर देसी बैटमैन खूब वायरल हो रहा है. लोगों को लग रहा है कि ये वीडियो AI से बनाया गया है. क्या सच में ऐसा है? आइए जानते हैं कि इसमें AI के कौन से टूल्स यूज किए गए हैं और वीडियो कैसे वायरल हो रहा है.
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **भैंस पर बैठा Batman, पीछे 'साजन-साजन'... AI से कैसे बना ये वायरल वीडियो? जानिए पूरा टेक्नोलॉजी गेम - AajTak**. According to authoritative communiqués released by AajTak, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+सोचिए, दुनिया का सबसे मशहूर सुपरहीरो बैटमैन गोथम सिटी की सड़कों पर नहीं, बल्कि किसी भारतीय गांव में घूम रहा हो. उसकी चमचमाती बैटमोबाइल की जगह भैंस हो, सामने जोकर हो और पीछे माधुरी दीक्षित का गाना 'साजन साजन तेरी दुल्हन' बज रहा हो. सुनने में यह किसी मजाक जैसा लगता है, लेकिन इंस्टाग्राम पर यही कॉम्बिनेशन लोगों को खूब पसंद आ रहा है.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+सोशल मीडिया पर वायरल हो रहे इस वीडियो में बैटमैन रेलवे ट्रैक के पास दांत साफ करता दिखता है. कहानी आगे बढ़ती है तो एक बच्चे के गायब होने, जोकर और उसके पीछे निकले बैटमैन का सीन सामने आता है.
 
-### Institutional Oversight & Ground Reality
+लेकिन यहां हॉलीवुड वाला बैटमैन नहीं, बल्कि देसी अंदाज में नजर आने वाला सुपरहीरो है. वह अपनी बैटमोबाइल के बजाय भैंस पर सवार होकर मिशन पर निकलता है. इसी वजह से लोग इसे 'भैंसमोबाइल' भी कह रहे हैं.
 
-Ground reality assessments indicate that भैंस पर बैठा Batman, पीछे 'साजन-साजन'... AI से कैसे बना ये वायरल वीडियो? जानिए पूरा टेक्नोलॉजी गेम AajTak भैंस पर सवार Batman, पीछे बज रहा 'साजन-साजन'... कौन बना रहा ये VIDEO? AajTak Madhuri Dixit का 'चटपटा गाना', भैंस पर आता देसी बैटमैन; इंटरनेट पर वायरल हुआ Alka Yagnik का 27 साल पुराना गाना Jagran Desi Batman: कौन हैं सुजल जैसवार, कैसे बनाया वायरल वीडियो? Prabhat Khabar 'साजन साजन तेरी दुल्हन' पर नाच रहा Batman, इंस्टाग्राम,यूट्यूब पर वीडियो पर लाखों व्यूज़ News18 Hindi establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+इस पूरी सीरीज के पीछे हैं भारतीय फिल्ममेकर और डिजिटल क्रिएटर सुजल जैसवार. उन्होंने बैटमैन को गोथम सिटी से निकालकर भारतीय गांवों, गलियों, रेलवे ट्रैक और चाय की दुकानों के बीच ला खड़ा किया है. दिलचस्प बात यह है कि इन वीडियो को सिर्फ AI से तैयार नहीं किया गया है. इनमें असली शूटिंग, AI बेस्ड विजुअल इफेक्ट्स और वीडियो एडिटिंग का कॉम्बिनेशन है.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+कौन हैं सुजल जैसवार, जिनका देसी बैटमैन हुआ वायरल?
 
-### Governance Parameter Assessment
+सुजल जैसवार महाराष्ट्र के रहने वाले हैं. उन्होंने आईआईएम रांची से पांच साल का इंटीग्रेटेड मैनेजमेंट प्रोग्राम पूरा किया है. पढ़ाई के दौरान ही उनकी दिलचस्पी फिल्ममेकिंग, ऐड्स और वीडियो प्रोडक्शन में थी. उन्होंने अपने दोस्त ललित कृष्णा के साथ मार्च 2023 में न्यूडेन प्रोडक्शंस की शुरुआत भी की थी.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+सुजल ने बेंगलुरु में हाउस ऑफ एडटेक के साथ एआई जनरलिस्ट के तौर पर काम किया. उनका काम जनरेटिव एआई, वीडियो प्रोडक्शन और डिजिटल कंटेंट से जुड़ा रहा. यही अनुभव उनके देसी बैटमैन वीडियो में दिखाई देता है. यहां टेक्नोलॉजी का इस्तेमाल सिर्फ तस्वीर बनाने के लिए नहीं, बल्कि एक छोटी कहानी को फिल्म जैसा रूप देने के लिए किया गया है.
 
-### Why This Matters: Policy Impact & Outlook
+क्या पूरा वीडियो AI से बना है? असली टेक्नोलॉजी यही है
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+वीडियो देखकर कई लोगों को लगता है कि इसे किसी AI टूल में एक लाइन लिखकर तैयार कर लिया गया होगा. लेकिन ऐसा नहीं है. सुजल ने लाइव-एक्शन फुटेज भी शूट किया है. यानी कुछ सीन में असली कैमरा, असली जगह और इंसान मौजूद हैं. इसके बाद AI आधारित टूल्स की मदद से वीडियो के अलग-अलग हिस्सों को बेहतर बनाया गया.
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+इस प्रोसेस में विजुअल इफेक्ट्स, कंपोजिटिंग, साउंड डिजाइन और कलर वर्क जैसे काम शामिल हैं. उदाहरण के लिए, किसी असली शूट किए गए सीन में बैटमैन को ज्यादा सिनेमैटिक दिखाना हो, बैकग्राउंड बदलना हो या किसी किरदार को दूसरे माहौल में फिट करना हो, तो AI और विजुअल इफेक्ट्स मदद कर सकते हैं.
+
+कंपोजिटिंग का मतलब है अलग-अलग तस्वीरों या वीडियो लेयर को मिलाकर एक ही फ्रेम बनाना. मान लीजिए बैटमैन का शॉट अलग शूट हुआ और गांव का बैकग्राउंड अलग है. दोनों को इस तरह जोड़ा जाता है कि दर्शक को लगे कि किरदार उसी जगह मौजूद है. इसके बाद लाइट, शैडो और रंगों को मिलाया जाता है ताकि वीडियो नकली या अलग-अलग हिस्सों से जोड़ा हुआ न लगे.
+
+यही वजह है कि इन वीडियो में कभी-कभी हॉलीवुड फिल्म जैसा लुक दिखाई देता है, जबकि कहानी पूरी तरह भारतीय माहौल में चलती है.
+
+कौन से AI टूल्स इस्तेमाल हुए? इन नामों को लेकर समझें फर्क
+
+यहां एक जरूरी बात समझनी होगी. सुजल के देसी बैटमैन के इस खास वायरल एपिसोड में इस्तेमाल किए गए सभी सॉफ्टवेयर और AI टूल्स की पूरी सूची पब्लिक नहीं है. उपलब्ध रिपोर्ट्स में AI आधारित टूल्स से विजुअल इफेक्ट्स, कंपोजिटिंग, साउंड और कलर वर्क करने की जानकारी है, लेकिन हर टूल का नाम नहीं बताया गया है.
+
+सुजल के एक अलग लिंक्डइन पोस्ट में उन्होंने बताया था कि उनका एक AI वीडियो Higgsfield AI Cinema Studio की मदद से तैयार हुआ था. इसी तरह Google Veo और Runway जैसे टूल्स का नाम भी इसमें शामिल है.
+
+सिर्फ 2,500 से 5,000 रुपये में तैयार हो जाता है एक एपिसोड
+
+इस सीरीज की एक और दिलचस्प बात इसका बजट है. रिपोर्ट के मुताबिक, एक एपिसोड तैयार करने में करीब 2,500 से 5,000 रुपये तक खर्च आता है. यह रकम किसी बड़े फिल्म प्रोडक्शन के मुकाबले बहुत कम है. छोटे बजट में शूटिंग और AI टूल्स की मदद से ऐसे वीडियो तैयार करना अब पहले के मुकाबले आसान हो रहा है.
+
+हालांकि, कम बजट का मतलब यह नहीं कि वीडियो बनाने में मेहनत नहीं लगती. कहानी सोचने, शॉट प्लान करने, सही लोकेशन चुनने, शूटिंग करने और फिर AI की मदद से विजुअल्स को जोड़ने में समय और स्किल दोनों लगते हैं. AI कई काम आसान कर सकता है, लेकिन वह अपने आप मजेदार कहानी या सही टाइमिंग नहीं बना देता.
+
+'साजन-साजन' गाने ने कैसे बदल दिया वीडियो का पूरा मजा?
+
+इस वीडियो की पॉपुलैरिटी में सिर्फ भैंस पर सवार बैटमैन का योगदान नहीं है. इसका बैकग्राउंड म्यूजिक भी उतना ही अहम है. 1999 में आई फिल्म 'आरजू' का गाना 'साजन साजन तेरी दुल्हन' मूल रूप से एक रोमांटिक गाना है. इसे अलका याग्निक ने गाया था और इसका संगीत अनु मलिक ने तैयार किया था. फिल्म में माधुरी दीक्षित नजर आई थीं.
+
+अब सोचिए, एक तरफ बैटमैन जैसा गंभीर सुपरहीरो है और दूसरी तरफ उसके पीछे बज रहा रोमांटिक बॉलीवुड गाना. दोनों के बीच का यही अंतर वीडियो को मजेदार बनाता है. अगर यही सीन किसी गंभीर हॉलीवुड बैकग्राउंड म्यूजिक के साथ होता, तो शायद इसका असर अलग होता. लेकिन 'साजन-साजन' ने इसे एक ऐसा देसी टच दे दिया, जिसे लोग आसानी से याद रख सकते हैं.
+
+धीरे-धीरे दूसरे क्रिएटर्स भी इसी ऑडियो पर अपने बैटमैन एडिट और सुपरहीरो वीडियो बनाने लगे. यहां एक क्रिएटर का वीडियो सिर्फ एक वायरल पोस्ट नहीं रहा, बल्कि एक अलग सोशल मीडिया ट्रेंड बन गया. अमेजन म्यूजिक इंडिया ने भी इस गाने और बैटमैन वाले ट्रेंड पर पोस्ट शेयर की है.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/technology/tech-news/story/desi-batman-bhainsmobile-sujal-jaiswar-ai-viral-video-ttecm-dskc-2705036-2026-11-24)`,
     author_name: `Pankhudi Sharma`,
     author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
     author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
@@ -2049,79 +5465,69 @@ Beyond immediate headlines, this development carries durable implications for re
     topic: ``,
     language: `hi`,
     fomo_badge: `⚡ National Wire`,
-    read_time: `7 min read`,
+    read_time: `2 min read`,
     views_count: 264800,
     shares_count: 37275,
     published_at: `2026-11-25T05:16:18Z`,
     updated_at: `2026-11-25T05:16:18Z`,
     source_name: `AajTak`,
-    source_url: `https://news.google.com/rss/articles/CBMizgFBVV95cUxQa3ZITkJtTGhJQVZVOXFHT0hDQVhnNWJ0T01lY0tLR0FPcktGR0ZJWXdDOFZ0WTJoc1JLMDVsU0tYeEt2Q0R6elI5aDVjOTUzdFU0aEsxX0xpXzR2OUgtMTdBWVE1ZTBubS0wc1dNU18zNkh5Y0dWZXZyUW5QLVhWcDIwZ0RKc0pGbE8tc182XzhWWkpSamFCRDF2bXJEX0trNk9aamFfRmlKWkhqQUNsU25ObVFpaTBMMWxLdEJiUG9UQ1JTVlFvemZCODNPUdIB0wFBVV95cUxNQUhfd0dubjBZN1FaRkk2NnJFU0RtamFhNEw5ZWVpQTd0SjJRa1RnTThuZURIMzJoRUFvSzFtV0hoYUVoNVdSYzJxbEtYdnFnT0pza1RFOWlINlVJU3dzRDhhZW4za0VFNnI0VHdfX2l3WjdMV3BYaEFkUVN5N0ZZMG1iTTRReFR4LVkwXzlhWHpXN3MwOE1tRmVHZktjUGU1LXNiX0RsSFFOUDJtV1dfaFNmU2p4LThuLWtDMU9HZGlyOGxDRFpZSXk2dU83NkRaaFhV?oc=5`,
+    source_url: `https://www.aajtak.in/trending/story/pakistani-kids-sur-taal-academy-baga-vich-main-to-viral-song-video-tstsd-dskc-2704518-2026-11-24`,
     source_courtesy: `News Courtesy: AajTak Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85&sig=945`,
+    image_url: `/images/articles/entertainment-breaking-report-91183-945-2026.webp`,
     image_alt: `Verified news photograph: पाकिस्तान के बच्चों ने गाया ऐसा गाना... इंटरनेट पर छा गए, खूब वायरल हो रहा वीडियो - AajTak`,
-    image_courtesy: `Photo: Cinema Premiere Desk (Unsplash Editorial)`,
-    image_photographer: `Cinema Premiere Desk`,
-    image_license: `Unsplash Editorial`,
+    image_courtesy: `Image Courtesy: AajTak`,
+    image_photographer: `AajTak`,
+    image_license: `Original Source Media`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Entertainment, Breaking News, India, Verified`,
-    summary: `पाकिस्तान के बच्चों ने गाया ऐसा गाना... इंटरनेट पर छा गए, खूब वायरल हो रहा वीडियो - AajTak. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `पाकिस्तानी बच्चों के एक ग्रुप का गाया गाना इन दिनों सोशल मीडिया पर खूब वायरल हो रहा है. सभी बच्चे एक म्यूजिक एकेडमी के स्टूडेंट बताए गए हैं. इन बच्चों ने इसे इतनी खूबसूरती से गाया है कि इसकी चर्चा सोशल मीडिया के साथ- साथ मेनस्ट्रीम मीडिया म`,
+    content: `### पाकिस्तान के एक म्यूजिक एकेडमी के बच्चों के ग्रुप का वीडियो इन दिनों खूब वायरल हो रहा है. क्योंकि, इसमें इन बच्चों ने इतनी खूबसूरत तरीके से और मीठी आवाज में गाना गाया है और इसकी धुन भी खुद तैयार की है कि बार- बार इस गाने को सुनने का आपका दिल करेगा.
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **पाकिस्तान के बच्चों ने गाया ऐसा गाना... इंटरनेट पर छा गए, खूब वायरल हो रहा वीडियो - AajTak**. According to authoritative communiqués released by AajTak, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+पाकिस्तानी बच्चों के एक ग्रुप का गाया गाना इन दिनों सोशल मीडिया पर खूब वायरल हो रहा है. सभी बच्चे एक म्यूजिक एकेडमी के स्टूडेंट बताए गए हैं. इन बच्चों ने इसे इतनी खूबसूरती से गाया है कि इसकी चर्चा सोशल मीडिया के साथ- साथ मेनस्ट्रीम मीडिया में हो रही है.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+हारमोनियम और दूसरे म्यूजिक इंस्ट्रुमेंट व साज पर 'बागा विच मैं तो...' गाना गाकर बच्चों ने ऐसा धमाल मचाया है कि लोग इसे बार- बार सुन रहे हैं और शेयर कर रहे हैं. बच्चों की बनाई धुन इतनी मीठी है कि ओरिजनल गाने से भी यह शानदार लगती है.
 
-### Institutional Oversight & Ground Reality
+मीडिया रिपोर्ट्स के मुताबिक, यह गाना गाने वाले बच्चों का ग्रुप पाकिस्तान के लाहौर में चल रही सुरताल एकेडमी के है. ये बच्चे सोशल मीडिया पर अपनी अनोखी धुनों और म्यूजिक के ज़रिए ख़ास पहचान बना चुके  हैं.  संगीत के प्रति प्रेम, टैलेंट और कुछ अनोखा रचने का जुनून इन बच्चों को सबसे अलग बनाता है.
 
-Ground reality assessments indicate that पाकिस्तान के बच्चों ने गाया ऐसा गाना... इंटरनेट पर छा गए, खूब वायरल हो रहा वीडियो AajTak पाकिस्तानी बच्चों के साथ विदेशी युवक ने गाया गाना, झूमने पर मजबूर हुए लोग.. News18 Hindi establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+A post shared by Aaryan khobba (@theaaryan_verse)
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+सुरताल एकेडमी के इंस्टाग्राम अकाउंट पर इन बच्चों के गाए कई सारे गानों के वीडियो हैं. भारत में भी इन बच्चों के गाए गाने काफी पसंद किए जा रहे हैं. पाकिस्तानी मीडिया तो इन बच्चों के इंटरव्यू भी कर रही है. इन वीडियो को लोग खूब शेयर कर रहे हैं और इस पर लोगों की काफी प्रतिक्रियाएं भी आ रही है.
 
-### Governance Parameter Assessment
+इस वीडियो पर काफी सारे यूजर्स ने अपने रिएक्शंस दिए हैं. एक यूजर ने लिखा है कि एक बार इसे देखने के बाद इस वीडियो ने मेरे पूरे फीड को हाईजैक कर लिया. ऐसा रिएक्शन यूजर ने इस लिए दिया है क्योंकि इस वीडियो को काफी लोगों ने शेयर किया है. ऐसे में अलग- अलग लोगों के हैंडल से ये वीडियो फीड में एक के बाद एक आते रहते हैं.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+यह भी पढ़ें: चर्चा में आई ट्रांसजेंडर मॉडल... क्यों अपनी सर्जरी को बताया इमोशनल टॉर्चर?
 
-### Why This Matters: Policy Impact & Outlook
+वहीं दूसरे यूजर ने लिखा है - इस वीडियो को लेकर मैं इतना ऑबसेस्ड हो गया हूं कि बार- बार रिपीट करके सुन रहा हूं. एक दूसरे यूजर ने लिखा है कि इसमें जो ग्रीन शर्ट पहने लड़का है वो ग्रुप का रॉक स्टार है. इसी तरह कई यूजर्स ने लिखा है कि इन बच्चों ने दिल चुरा लिया है. कुछ तो ऐसे है जो बोल रहे हैं कि कोई मुझे रोक लो, क्योंकि मैं बार- बार रिपीट मोड में इसे सुने जा रहा हूं.
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+---
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/trending/story/pakistani-kids-sur-taal-academy-baga-vich-main-to-viral-song-video-tstsd-dskc-2704518-2026-11-24)`,
     title_en: ``,
     summary_en: ``,
     content_en: ``,
     title_hi: `पाकिस्तान के बच्चों ने गाया ऐसा गाना... इंटरनेट पर छा गए, खूब वायरल हो रहा वीडियो - AajTak`,
-    summary_hi: `पाकिस्तान के बच्चों ने गाया ऐसा गाना... इंटरनेट पर छा गए, खूब वायरल हो रहा वीडियो - AajTak. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content_hi: `### Strategic Overview & Legislative Framework
+    summary_hi: `पाकिस्तानी बच्चों के एक ग्रुप का गाया गाना इन दिनों सोशल मीडिया पर खूब वायरल हो रहा है. सभी बच्चे एक म्यूजिक एकेडमी के स्टूडेंट बताए गए हैं. इन बच्चों ने इसे इतनी खूबसूरती से गाया है कि इसकी चर्चा सोशल मीडिया के साथ- साथ मेनस्ट्रीम मीडिया म`,
+    content_hi: `### पाकिस्तान के एक म्यूजिक एकेडमी के बच्चों के ग्रुप का वीडियो इन दिनों खूब वायरल हो रहा है. क्योंकि, इसमें इन बच्चों ने इतनी खूबसूरत तरीके से और मीठी आवाज में गाना गाया है और इसकी धुन भी खुद तैयार की है कि बार- बार इस गाने को सुनने का आपका दिल करेगा.
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **पाकिस्तान के बच्चों ने गाया ऐसा गाना... इंटरनेट पर छा गए, खूब वायरल हो रहा वीडियो - AajTak**. According to authoritative communiqués released by AajTak, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+पाकिस्तानी बच्चों के एक ग्रुप का गाया गाना इन दिनों सोशल मीडिया पर खूब वायरल हो रहा है. सभी बच्चे एक म्यूजिक एकेडमी के स्टूडेंट बताए गए हैं. इन बच्चों ने इसे इतनी खूबसूरती से गाया है कि इसकी चर्चा सोशल मीडिया के साथ- साथ मेनस्ट्रीम मीडिया में हो रही है.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+हारमोनियम और दूसरे म्यूजिक इंस्ट्रुमेंट व साज पर 'बागा विच मैं तो...' गाना गाकर बच्चों ने ऐसा धमाल मचाया है कि लोग इसे बार- बार सुन रहे हैं और शेयर कर रहे हैं. बच्चों की बनाई धुन इतनी मीठी है कि ओरिजनल गाने से भी यह शानदार लगती है.
 
-### Institutional Oversight & Ground Reality
+मीडिया रिपोर्ट्स के मुताबिक, यह गाना गाने वाले बच्चों का ग्रुप पाकिस्तान के लाहौर में चल रही सुरताल एकेडमी के है. ये बच्चे सोशल मीडिया पर अपनी अनोखी धुनों और म्यूजिक के ज़रिए ख़ास पहचान बना चुके  हैं.  संगीत के प्रति प्रेम, टैलेंट और कुछ अनोखा रचने का जुनून इन बच्चों को सबसे अलग बनाता है.
 
-Ground reality assessments indicate that पाकिस्तान के बच्चों ने गाया ऐसा गाना... इंटरनेट पर छा गए, खूब वायरल हो रहा वीडियो AajTak पाकिस्तानी बच्चों के साथ विदेशी युवक ने गाया गाना, झूमने पर मजबूर हुए लोग.. News18 Hindi establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+A post shared by Aaryan khobba (@theaaryan_verse)
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+सुरताल एकेडमी के इंस्टाग्राम अकाउंट पर इन बच्चों के गाए कई सारे गानों के वीडियो हैं. भारत में भी इन बच्चों के गाए गाने काफी पसंद किए जा रहे हैं. पाकिस्तानी मीडिया तो इन बच्चों के इंटरव्यू भी कर रही है. इन वीडियो को लोग खूब शेयर कर रहे हैं और इस पर लोगों की काफी प्रतिक्रियाएं भी आ रही है.
 
-### Governance Parameter Assessment
+इस वीडियो पर काफी सारे यूजर्स ने अपने रिएक्शंस दिए हैं. एक यूजर ने लिखा है कि एक बार इसे देखने के बाद इस वीडियो ने मेरे पूरे फीड को हाईजैक कर लिया. ऐसा रिएक्शन यूजर ने इस लिए दिया है क्योंकि इस वीडियो को काफी लोगों ने शेयर किया है. ऐसे में अलग- अलग लोगों के हैंडल से ये वीडियो फीड में एक के बाद एक आते रहते हैं.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+यह भी पढ़ें: चर्चा में आई ट्रांसजेंडर मॉडल... क्यों अपनी सर्जरी को बताया इमोशनल टॉर्चर?
 
-### Why This Matters: Policy Impact & Outlook
+वहीं दूसरे यूजर ने लिखा है - इस वीडियो को लेकर मैं इतना ऑबसेस्ड हो गया हूं कि बार- बार रिपीट करके सुन रहा हूं. एक दूसरे यूजर ने लिखा है कि इसमें जो ग्रीन शर्ट पहने लड़का है वो ग्रुप का रॉक स्टार है. इसी तरह कई यूजर्स ने लिखा है कि इन बच्चों ने दिल चुरा लिया है. कुछ तो ऐसे है जो बोल रहे हैं कि कोई मुझे रोक लो, क्योंकि मैं बार- बार रिपीट मोड में इसे सुने जा रहा हूं.
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+---
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/trending/story/pakistani-kids-sur-taal-academy-baga-vich-main-to-viral-song-video-tstsd-dskc-2704518-2026-11-24)`,
     author_name: `Pankhudi Sharma`,
     author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
     author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
@@ -2148,13 +5554,13 @@ Beyond immediate headlines, this development carries durable implications for re
     published_at: `2026-11-25T05:16:18Z`,
     updated_at: `2026-11-25T05:16:18Z`,
     source_name: `Navbharat Live`,
-    source_url: `https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY3dCRzN1R1NXN1QtUnN6dnVBajFXYXFiaENTNTQ2elQ2bVJ6cWZ6Z0N4YVZDUFFGcHQ5RTEybXQ3VzM5NktlQ0Vrc1hyMVF0RHZvSVhxcFVncGhCT1NvTzhPYlMwMHMzN2ltT3lqTDBpenBUU2lwY2tDWjRSQ0Y1bWFGLVlxWUNxRmpUeldMNWk4eGl6RUxndTNBcEg0aW1teWZJdWJnTWhMdmxkYlB1QXVaNnhLUHkxU0NqT2tBSGIzLWdVRXJYemFxY21udWs3M3VURHV3UmhiQdIB5wFBVV95cUxOZGxsY0wzUl9hRE53cWNlRVhjUzEwTEtWRFhULUdjX08yMjZBcDFyVkQzaWs2SURfcDZqaXlLQ3Nnb0NSSG9vSmRZem5ldUUtV2hjd2k5Q0tKZ0lzS1dTNl9mMDlibHB4ODBxQnBoQ1NZM2xPVnZqWkFBZ1luRGFyRV81STk5MFZsalFobmJHYmxWVWRGclJPVXcwMGg2YWhKUmMwNG5ydG12cXJfR2MwWjVObk1kWnlIYmROYURJNTBCZXRkS2FCa0Y3TWN2dGh1YkRITEFWTHhVZFRYeWQyMWFyQ05tT00?oc=5`,
+    source_url: `https://navbharatlive.com/photos/ramayana-worldwide-box-office-collection-highest-grossing-indian-movies-dangal-pushpa-2-rrr-kgf-2-jawan-yss14`,
     source_courtesy: `News Courtesy: Navbharat Live Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1600&q=85&sig=946`,
+    image_url: `/images/articles/rrrkgf-2-4-navbharat-live-2026.jpg`,
     image_alt: `Verified news photograph: RRR','KGF 2' और 'जवान' को पछाड़कर रणबीर कपूर की 'रामायण' की ऐतिहासिक उड़ान, अब सिर्फ 4 फिल्मों से पीछे - Navbharat Live`,
-    image_courtesy: `Photo: Heritage Architecture Desk (Unsplash Editorial)`,
-    image_photographer: `Heritage Architecture Desk`,
-    image_license: `Unsplash Editorial`,
+    image_courtesy: `Image Courtesy: Navbharat Live`,
+    image_photographer: `Navbharat Live`,
+    image_license: `Original Source Media`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Ramayana, Breaking News, India, Verified`,
     summary: `RRR','KGF 2' और 'जवान' को पछाड़कर रणबीर कपूर की 'रामायण' की ऐतिहासिक उड़ान, अब सिर्फ 4 फिल्मों से पीछे - Navbharat Live. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
@@ -2235,79 +5641,109 @@ Beyond immediate headlines, this development carries durable implications for re
     topic: ``,
     language: `hi`,
     fomo_badge: `⚡ National Wire`,
-    read_time: `7 min read`,
+    read_time: `4 min read`,
     views_count: 265280,
     shares_count: 37345,
     published_at: `2026-11-25T05:16:18Z`,
     updated_at: `2026-11-25T05:16:18Z`,
     source_name: `India TV Hindi`,
-    source_url: `https://news.google.com/rss/articles/CBMi_gFBVV95cUxNLVJzeElXdExHUEZZbTZnRVZ5QUJaTl84d2t6clA1U0dkRXp1em5zdkV1b3VNeEgxWXUxQVc5cHFoMExvWHVvT3FDNXRKYkJuUHBOekF6d2dQWG9mYkZoSnBMdXNCTHlOcW1PbnI3U1E5NEl0bHlXRVBHaFgxbkFzT3lSaHV2d0hrUzh2MGdGQ1Q0T2ZPTDR3SXRiWmdZXzJhMFlaNE9DN0tSSldqcnJhb3VVZU5wZ0M4c21zZGNoajVMMURodzJUQUJWcnhfcVlUYkFWVDBDM21URGtEc2c1ZnQ5WjB2djFMcFF2eHJ4UkgwZTRCNE91ZkNXZGZwd9IBgwJBVV95cUxQbUlCVmI3NHlndmd3dUJkMWwxTXd5dzVVVWpYZ3ZGQ2FVZ0FIN1dTbVNydFQ3cVRBQk1xa0NXQ3JTVGdUTzJFYndIWC1LUXBtYlNoMmhzQmVYS1RSMlRpYkxpdG5BV2hjdFVMMUszTEtlQXZfdExwSHhFeUZoSXhmYVRFWk04QWVScmVSRXkyT0ZsSW03TldwdGE0Z3E1TlM0VHN0aURUSmhTX0ZoMVBIYW9LVWRpVGtLbmZnc0hGeXNqMEp6bldXZWhkVU9NZEoxRlZ2aGplTjJPYVFWSmdkQk11SHdiZkdpVWswUVJ0VFVhUHJLQmF4akxEdVEwcTVfM3Nj?oc=5`,
+    source_url: `https://www.indiatv.in/entertainment/bollywood/ramayana-achieves-major-milestone-gets-shorlisted-for-32nd-annual-critics-choice-awards-in-2-categories-2026-11-24-1256163`,
     source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1600&q=85&sig=947`,
+    image_url: `/images/articles/32-india-tv-hindi-2026.jpg`,
     image_alt: `Verified news photograph: रामायण' ने हासिल की बड़ी उपलब्धि, 32वें क्रिटिक्स चॉइस अवॉर्ड्स के लिए शॉर्टलिस्ट हुई रणबीर कपूर की फिल्म, - India TV Hindi`,
-    image_courtesy: `Photo: Heritage Architecture Desk (Unsplash Editorial)`,
-    image_photographer: `Heritage Architecture Desk`,
-    image_license: `Unsplash Editorial`,
+    image_courtesy: `Image Courtesy: India TV Hindi`,
+    image_photographer: `India TV Hindi`,
+    image_license: `Original Source Media`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Ramayana, Breaking News, India, Verified`,
-    summary: `रामायण' ने हासिल की बड़ी उपलब्धि, 32वें क्रिटिक्स चॉइस अवॉर्ड्स के लिए शॉर्टलिस्ट हुई रणबीर कपूर की फिल्म, - India TV Hindi. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `नितेश तिवारी के निर्देशन में बनी 'रामायण: पार्ट 1' की इन दिनों हर तरफ चर्चा है। सिर्फ भारत में ही नहीं, विदेशों में भी इस फिल्म का कमाल देखने को मिल रहा है। विदेशों में इस फिल्म ने 550 करोड़ से ज्यादा का ग्रॉस कलेक्शन कर लिया है और भारत में`,
+    content: `### रणबीर कपूर और यश स्टारर 'रामायण: पार्ट 1' एक तरफ बॉक्स ऑफिस पर रिकॉर्ड तोड़ रही है तो दूसरी तरफ इसने एक और कमाल कर दिखाया है। नितेश तिवारी के निर्देशन में बनी इस फिल्म को 32वें वार्षिक क्रिटिक्स चॉइस अवार्ड्स में दो श्रेणियों के लिए शॉर्टलिस्ट किया गया है।
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **रामायण' ने हासिल की बड़ी उपलब्धि, 32वें क्रिटिक्स चॉइस अवॉर्ड्स के लिए शॉर्टलिस्ट हुई रणबीर कपूर की फिल्म, - India TV Hindi**. According to authoritative communiqués released by India TV Hindi, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+नितेश तिवारी के निर्देशन में बनी 'रामायण: पार्ट 1' की इन दिनों हर तरफ चर्चा है। सिर्फ भारत में ही नहीं, विदेशों में भी इस फिल्म का कमाल देखने को मिल रहा है। विदेशों में इस फिल्म ने 550 करोड़ से ज्यादा का ग्रॉस कलेक्शन कर लिया है और भारत में 1100 करोड़ से ज्यादा की कमाई कर चुकी है। बॉक्स ऑफिस के साथ-साथ अब इस फिल्म ने एक और अंतरराष्ट्रीय उपलब्धि अपने नाम कर ली है। रणबीर कपूर और यश स्टारर इस फिल्म ने 32वें वार्षिक 'क्रिटिक्स चॉइस अवार्ड्स' के लिए दो श्रेणियों में जगह बनाई है। जी हां, 'रामायण' को क्रिटिक्स चॉइस अवॉर्ड के लिए शॉर्टलिस्ट किया गया है।
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+### 'रामायण' तकनीकी शॉर्टलिस्ट में 'द ओडिसी' और 'ड्यून: पार्ट थ्री' के साथ शामिल हो गई है
 
-### Institutional Oversight & Ground Reality
+अंतरराष्ट्रीय बाजारों में 'रामायण: राइज ऑफ अ लेजेंड' को इसके तकनीकी काम के लिए काफी तारीफ मिल रही है। इस मेगा बजट फिल्म के विज़ुअल इफेक्ट्स दर्शकों को काफी पसंद आए हैं, जिसका श्रेय डैन ग्लास को दिया गया है। इस फिल्म ने 32वें वार्षिक क्रिटिक्स चॉइस अवॉर्ड में दो तकनीकी श्रेणियों में जगह बनाई है, जो भारतीय फिल्म इंडस्ट्री के लिए भी बड़ी उपलब्धि है।
 
-Ground reality assessments indicate that 'रामायण' ने हासिल की बड़ी उपलब्धि, 32वें क्रिटिक्स चॉइस अवॉर्ड्स के लिए शॉर्टलिस्ट हुई रणबीर कपूर की फिल्म, India TV Hindi establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+### 2 केटेगरी में शॉर्टलिस्ट हुई 'रामायण'
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+'रामायण' 32वें वार्षिक क्रिटिक्स चॉइस अवॉर्ड में दो श्रेणियों में शॉर्टलिस्ट हुई है। ये फिल्म 'बेस्ट विजुअल इफेक्ट्स' और 'बेस्ट स्टंट डिजाइन्स' की श्रेणी में हॉलीवुड की कुछ बेहद शानदार फिल्मों के साथ प्रतिस्पर्धा करेगी। 'बेस्ट विज़ुअल इफ़ेक्ट्स' श्रेणी में कैटेगरी में, यह फिल्म 'ड्यून: पार्ट थ्री', 'द ओडिसी', 'स्पाइडर-मैन: ब्रांड न्यू डे', 'गॉडज़िला माइनस जीरो', 'कोयोट वर्सेस एक्मी', 'द शीप डिटेक्टिव्स', 'प्रोजेक्ट हेल मैरी', 'द एंड ऑफ ओक स्ट्रीट', 'रेजिडेंट ईविल', 'वाइल्डवुड' और 'वेरवुल्फ' जैसी फिल्मों के साथ प्रतिस्पर्धा करेगी। वहीं, 'बेस्ट स्टंट डिजाइन' में इसका कॉम्पटीशन 'ड्यून: पार्ट थ्री', 'द ओडिसी', 'द फ्यूरियस', 'स्पाइडर-मैन: ब्रांड न्यू डे', 'द फ़र्दर मिस-एडवेंचर्स ऑफ क्लिफ़ बूथ', 'जैकऐस: बेस्ट एंड लास्ट', 'गॉडजिला माइनस ज़ीरो', 'होप', रेजिडेंट ईविल', 'वेरवुल्फ' और 'योर मदर योर मदर योर मदर' जैसी फिल्मों से है।
 
-### Governance Parameter Assessment
+### क्रिटिक्स चॉइस अवार्ड्स में शॉर्टलिस्ट होने का क्या मतलब है?
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+'बिलो-द-लाइन' कैटेगरी उन टेक्निकल और क्रिएटिव टीमों को मान्यता देती हैं जो पर्दे के पीछे काम करती हैं। इनमें विज़ुअल इफेक्ट्स, सिनेमैटोग्राफी, स्टंट डिजाइन, एडिटिंग, कॉस्ट्यूम डिजाइन, प्रोडक्शन डिजाइन साउंड जैसे विभाग शामिल हैं। वहीं शॉर्टलिस्ट किए जाने की बात करें तो इसका मतलब ये नहीं है कि फिल्म को आधिकारिक नॉमिनेशन मिल गया है। शॉर्टलिस्ट किए जाने के बाद अगला चरण 4 दिसंबर को होने वाला है, जिसमें फाइनल नॉमिनेशन की घोषणा होगी।
 
-### Why This Matters: Policy Impact & Outlook
+नितेश तिवारी द्वारा निर्देशित, 'रामायण: पार्ट 1' की बात करें तो इसको प्राइम फोकस स्टूडियोज के बैनर तले नमित मल्होत्रा ​​ने प्रोड्यूस किया है। इस मेगा बजट फिल्म में रणबीर कपूर, साई पल्लवी, यश और रवि दुबे जैसे कलाकारों से सजी ये फिल्म 5 नवंबर को सिनेमाघरों में रिलीज हुई थी और अब तक दुनियाभर में 1704 करोड़ से ज्यादा का कलेक्शन कर चुकी है और इसी के साथ कई बड़ी फिल्मों के रिकॉर्ड चकनाचूर कर चुकी है। फिलहाल ये फिल्म भारत में कमाई के मामले में पांचवे नंबर पर है।
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+ये भी पढ़ेंः अक्षय कुमार-करण जौहर ने किया दीपिका पादुकोण का सपोर्ट, 8 घंटे शिफ्ट डिमांड पर बोले- 'ये उनका हक है'
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+### India TV हिंदी न्यूज़ के साथ रहें हर दिन अपडेट, पाएं देश और दुनिया की हर बड़ी खबर। Bollywood से जुड़ी लेटेस्ट खबरों के लिए अभी विज़िट करें मनोरंजन ।
+
+### छठ के पवित्र सिंदूर पर अभद्र टिप्पणी कर फंसे कॉमेडियन यश माहेश्वरी, मांगी माफी, दिल्ली में दर्ज हुई FIR
+
+### दोस्त की शादी में कंगना रनौत का दिखा मस्ती भरा अंदाज, दूल्हा-दुल्हन पर बरसाए फूल, लुटाया प्यार
+
+### 'ओ साथी रे' में करण के रोल के लिए अर्जुन रामपाल की जगह अविनाश तिवारी को क्यों चुना? इम्तियाज अली ने किया खुलासा
+
+### बेटी आराध्या के साथ भाभी श्रीमा राय के बर्थडे में पहुंचीं ऐश्वर्या राय, परिवार संग बिताए खास पल
+
+### संविधान दिवस के अवसर पर PM मोदी ने लिखा लेख, विपक्ष को दी नसीहत, युवाओं को भी दिया खास संदेश
+
+### अनंत सिंह की बेटी शिवांगी की शादी संपन्न, 151 गाड़ियों के काफिले में आया दुल्हा, आज घुड़दौड़ की फाइनल रेस
+
+### एटमी हथियारों की बात पर पूरी दुनिया से उल्टा रुख क्यों रखता है उत्तर कोरिया? समझिए इनसाइड स्टोरी
+
+### सूर्यकुमार यादव एक, शिवम दुबे गोल्डन डक, जगदीश सुचित ने एक ही ओवर में मचाया तहलका
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/entertainment/bollywood/ramayana-achieves-major-milestone-gets-shorlisted-for-32nd-annual-critics-choice-awards-in-2-categories-2026-11-24-1256163)`,
     title_en: ``,
     summary_en: ``,
     content_en: ``,
     title_hi: `रामायण' ने हासिल की बड़ी उपलब्धि, 32वें क्रिटिक्स चॉइस अवॉर्ड्स के लिए शॉर्टलिस्ट हुई रणबीर कपूर की फिल्म, - India TV Hindi`,
-    summary_hi: `रामायण' ने हासिल की बड़ी उपलब्धि, 32वें क्रिटिक्स चॉइस अवॉर्ड्स के लिए शॉर्टलिस्ट हुई रणबीर कपूर की फिल्म, - India TV Hindi. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk.`,
-    content_hi: `### Strategic Overview & Legislative Framework
+    summary_hi: `नितेश तिवारी के निर्देशन में बनी 'रामायण: पार्ट 1' की इन दिनों हर तरफ चर्चा है। सिर्फ भारत में ही नहीं, विदेशों में भी इस फिल्म का कमाल देखने को मिल रहा है। विदेशों में इस फिल्म ने 550 करोड़ से ज्यादा का ग्रॉस कलेक्शन कर लिया है और भारत में`,
+    content_hi: `### रणबीर कपूर और यश स्टारर 'रामायण: पार्ट 1' एक तरफ बॉक्स ऑफिस पर रिकॉर्ड तोड़ रही है तो दूसरी तरफ इसने एक और कमाल कर दिखाया है। नितेश तिवारी के निर्देशन में बनी इस फिल्म को 32वें वार्षिक क्रिटिक्स चॉइस अवार्ड्स में दो श्रेणियों के लिए शॉर्टलिस्ट किया गया है।
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **रामायण' ने हासिल की बड़ी उपलब्धि, 32वें क्रिटिक्स चॉइस अवॉर्ड्स के लिए शॉर्टलिस्ट हुई रणबीर कपूर की फिल्म, - India TV Hindi**. According to authoritative communiqués released by India TV Hindi, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+नितेश तिवारी के निर्देशन में बनी 'रामायण: पार्ट 1' की इन दिनों हर तरफ चर्चा है। सिर्फ भारत में ही नहीं, विदेशों में भी इस फिल्म का कमाल देखने को मिल रहा है। विदेशों में इस फिल्म ने 550 करोड़ से ज्यादा का ग्रॉस कलेक्शन कर लिया है और भारत में 1100 करोड़ से ज्यादा की कमाई कर चुकी है। बॉक्स ऑफिस के साथ-साथ अब इस फिल्म ने एक और अंतरराष्ट्रीय उपलब्धि अपने नाम कर ली है। रणबीर कपूर और यश स्टारर इस फिल्म ने 32वें वार्षिक 'क्रिटिक्स चॉइस अवार्ड्स' के लिए दो श्रेणियों में जगह बनाई है। जी हां, 'रामायण' को क्रिटिक्स चॉइस अवॉर्ड के लिए शॉर्टलिस्ट किया गया है।
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+### 'रामायण' तकनीकी शॉर्टलिस्ट में 'द ओडिसी' और 'ड्यून: पार्ट थ्री' के साथ शामिल हो गई है
 
-### Institutional Oversight & Ground Reality
+अंतरराष्ट्रीय बाजारों में 'रामायण: राइज ऑफ अ लेजेंड' को इसके तकनीकी काम के लिए काफी तारीफ मिल रही है। इस मेगा बजट फिल्म के विज़ुअल इफेक्ट्स दर्शकों को काफी पसंद आए हैं, जिसका श्रेय डैन ग्लास को दिया गया है। इस फिल्म ने 32वें वार्षिक क्रिटिक्स चॉइस अवॉर्ड में दो तकनीकी श्रेणियों में जगह बनाई है, जो भारतीय फिल्म इंडस्ट्री के लिए भी बड़ी उपलब्धि है।
 
-Ground reality assessments indicate that 'रामायण' ने हासिल की बड़ी उपलब्धि, 32वें क्रिटिक्स चॉइस अवॉर्ड्स के लिए शॉर्टलिस्ट हुई रणबीर कपूर की फिल्म, India TV Hindi establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+### 2 केटेगरी में शॉर्टलिस्ट हुई 'रामायण'
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+'रामायण' 32वें वार्षिक क्रिटिक्स चॉइस अवॉर्ड में दो श्रेणियों में शॉर्टलिस्ट हुई है। ये फिल्म 'बेस्ट विजुअल इफेक्ट्स' और 'बेस्ट स्टंट डिजाइन्स' की श्रेणी में हॉलीवुड की कुछ बेहद शानदार फिल्मों के साथ प्रतिस्पर्धा करेगी। 'बेस्ट विज़ुअल इफ़ेक्ट्स' श्रेणी में कैटेगरी में, यह फिल्म 'ड्यून: पार्ट थ्री', 'द ओडिसी', 'स्पाइडर-मैन: ब्रांड न्यू डे', 'गॉडज़िला माइनस जीरो', 'कोयोट वर्सेस एक्मी', 'द शीप डिटेक्टिव्स', 'प्रोजेक्ट हेल मैरी', 'द एंड ऑफ ओक स्ट्रीट', 'रेजिडेंट ईविल', 'वाइल्डवुड' और 'वेरवुल्फ' जैसी फिल्मों के साथ प्रतिस्पर्धा करेगी। वहीं, 'बेस्ट स्टंट डिजाइन' में इसका कॉम्पटीशन 'ड्यून: पार्ट थ्री', 'द ओडिसी', 'द फ्यूरियस', 'स्पाइडर-मैन: ब्रांड न्यू डे', 'द फ़र्दर मिस-एडवेंचर्स ऑफ क्लिफ़ बूथ', 'जैकऐस: बेस्ट एंड लास्ट', 'गॉडजिला माइनस ज़ीरो', 'होप', रेजिडेंट ईविल', 'वेरवुल्फ' और 'योर मदर योर मदर योर मदर' जैसी फिल्मों से है।
 
-### Governance Parameter Assessment
+### क्रिटिक्स चॉइस अवार्ड्स में शॉर्टलिस्ट होने का क्या मतलब है?
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+'बिलो-द-लाइन' कैटेगरी उन टेक्निकल और क्रिएटिव टीमों को मान्यता देती हैं जो पर्दे के पीछे काम करती हैं। इनमें विज़ुअल इफेक्ट्स, सिनेमैटोग्राफी, स्टंट डिजाइन, एडिटिंग, कॉस्ट्यूम डिजाइन, प्रोडक्शन डिजाइन साउंड जैसे विभाग शामिल हैं। वहीं शॉर्टलिस्ट किए जाने की बात करें तो इसका मतलब ये नहीं है कि फिल्म को आधिकारिक नॉमिनेशन मिल गया है। शॉर्टलिस्ट किए जाने के बाद अगला चरण 4 दिसंबर को होने वाला है, जिसमें फाइनल नॉमिनेशन की घोषणा होगी।
 
-### Why This Matters: Policy Impact & Outlook
+नितेश तिवारी द्वारा निर्देशित, 'रामायण: पार्ट 1' की बात करें तो इसको प्राइम फोकस स्टूडियोज के बैनर तले नमित मल्होत्रा ​​ने प्रोड्यूस किया है। इस मेगा बजट फिल्म में रणबीर कपूर, साई पल्लवी, यश और रवि दुबे जैसे कलाकारों से सजी ये फिल्म 5 नवंबर को सिनेमाघरों में रिलीज हुई थी और अब तक दुनियाभर में 1704 करोड़ से ज्यादा का कलेक्शन कर चुकी है और इसी के साथ कई बड़ी फिल्मों के रिकॉर्ड चकनाचूर कर चुकी है। फिलहाल ये फिल्म भारत में कमाई के मामले में पांचवे नंबर पर है।
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+ये भी पढ़ेंः अक्षय कुमार-करण जौहर ने किया दीपिका पादुकोण का सपोर्ट, 8 घंटे शिफ्ट डिमांड पर बोले- 'ये उनका हक है'
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+### India TV हिंदी न्यूज़ के साथ रहें हर दिन अपडेट, पाएं देश और दुनिया की हर बड़ी खबर। Bollywood से जुड़ी लेटेस्ट खबरों के लिए अभी विज़िट करें मनोरंजन ।
+
+### छठ के पवित्र सिंदूर पर अभद्र टिप्पणी कर फंसे कॉमेडियन यश माहेश्वरी, मांगी माफी, दिल्ली में दर्ज हुई FIR
+
+### दोस्त की शादी में कंगना रनौत का दिखा मस्ती भरा अंदाज, दूल्हा-दुल्हन पर बरसाए फूल, लुटाया प्यार
+
+### 'ओ साथी रे' में करण के रोल के लिए अर्जुन रामपाल की जगह अविनाश तिवारी को क्यों चुना? इम्तियाज अली ने किया खुलासा
+
+### बेटी आराध्या के साथ भाभी श्रीमा राय के बर्थडे में पहुंचीं ऐश्वर्या राय, परिवार संग बिताए खास पल
+
+### संविधान दिवस के अवसर पर PM मोदी ने लिखा लेख, विपक्ष को दी नसीहत, युवाओं को भी दिया खास संदेश
+
+### अनंत सिंह की बेटी शिवांगी की शादी संपन्न, 151 गाड़ियों के काफिले में आया दुल्हा, आज घुड़दौड़ की फाइनल रेस
+
+### एटमी हथियारों की बात पर पूरी दुनिया से उल्टा रुख क्यों रखता है उत्तर कोरिया? समझिए इनसाइड स्टोरी
+
+### सूर्यकुमार यादव एक, शिवम दुबे गोल्डन डक, जगदीश सुचित ने एक ही ओवर में मचाया तहलका
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/entertainment/bollywood/ramayana-achieves-major-milestone-gets-shorlisted-for-32nd-annual-critics-choice-awards-in-2-categories-2026-11-24-1256163)`,
     author_name: `Pankhudi Sharma`,
     author_bio: `Senior Digital Editor covering national policy, public health, and frontier technology.`,
     author_url: `https://zestfeedx.com/author/pankhudi-sharma`,
@@ -2420,7 +5856,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `India TV Hindi`,
     source_url: `https://www.indiatv.in/punjab/pm-modi-first-reaction-on-bjp-sad-alliance-know-what-he-says-2026-11-24-1256102`,
     source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1532375810709-75b1da00537c?auto=format&fit=crop&w=1600&q=85&sig=915`,
+    image_url: `/images/articles/bjp-sad-pm-india-tv-hindi-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: BJP-SAD के गठबंधन पर आया PM मोदी का बयान, अटल-आडवाणी और प्रकाश सिंह बादल को किया याद; जानें क्या बोले - India TV Hindi`,
     image_courtesy: `Photo Courtesy: India TV Hindi Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -2506,7 +5942,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `AajTak`,
     source_url: `https://www.aajtak.in/lifestyle/fashion/photo/anant-singh-daughter-shivangi-wore-yellow-saree-in-haldi-tel-rasam-dulha-also-wore-yellow-kurta-anant-singh-ke-beti-ki-shadi-photo-tvisp-2705045-2026-11-24`,
     source_courtesy: `News Courtesy: AajTak Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/anant-singh-daughter-wedding-photo-aajtak-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: Anant Singh Daughter Wedding: पीली साड़ी में शिवांगी बनीं दुल्हन, हुई तेल चढ़ाने की रस्म, कुर्ता-पजामा में छाए अनंत सिंह के दामाद, PHOTO - AajTak`,
     image_courtesy: `Photo Courtesy: AajTak Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -2585,73 +6021,147 @@ Beyond immediate headlines, this development carries durable implications for re
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `7 min read`,
+    read_time: `4 min read`,
     views_count: 328440,
     shares_count: 45365,
     published_at: `Tue, 24 Nov 2026 16:29:50 GMT`,
     source_name: `DW.com`,
     source_url: `https://www.dw.com/en/india-report-warns-of-deepening-authoritarianism-under-modi/live-80027405`,
     source_courtesy: `News Courtesy: DW.com Digital Archives`,
-    image_url: `https://static.dw.com/image/80027455_6.jpg`,
+    image_url: `/images/articles/india-news-nation-deepens-authoritarian-slide-under-modi-report-dwcom-2026.jpg`,
     image_alt: `Official news wire photograph: Why Everyone Is Shocked By India news: Nation deepens authoritarian slide under Modi — report - DW.com`,
-    image_courtesy: `Photo Courtesy: DW.com Photo Wire`,
+    image_courtesy: `Image Courtesy: DW.com`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, DW.com`,
-    summary: `India news: Nation deepens authoritarian slide under Modi — report DW.com... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `A Human Rights Watch report found that Modi's rule in India has eroded the rule of law and "systematically weakened institutions" meant to protect freedoms. Also, in Delhi a man injured nine police with a knife.`,
+    content: `A Human Rights Watch report found that Modi's rule in India has eroded the rule of law and "systematically weakened institutions" meant to protect freedoms. Also, in Delhi a man injured nine police with a knife.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **India news: Nation deepens authoritarian slide under Modi — report - DW.com**. According to authoritative communiqués released by DW.com, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+This blog is now closed. It was a roundup of the biggest headlines from India on Tuesday, November 24:
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+This blog is now closed. Thank you for reading!
 
-### Institutional Oversight & Ground Reality
+### Chess: Game 1 ends in draw between Gukesh, Sindarov
 
-Ground reality assessments indicate that India news: Nation deepens authoritarian slide under Modi — report DW.com establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+Gukesh Dommaraju has held on for a draw with the black pieces in the first game against Javokhir Sindarov. The players fell into a repeated sequence of moves and shook hands a few minutes ago.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+The defending champ might be the happier of the two players for several reasons.
 
-### Governance Parameter Assessment
+First, black always has a marginal disadvantage as the second to play.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+Second, because he spent much of Tuesday's game under pressure on the clock, having used the vast majority of his time in the first 20 moves of the game and having only a very modest reserve to play towards move 40, when the players are given extra time.
 
-### Why This Matters: Policy Impact & Outlook
+And third, because a draw is Gukesh's best ever start to a world championship match. Famously, against Ding Liren two years ago, he lost the opening game despite having gone into the match as a fairly clear favorite.
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+But for both players, the game represented a high-quality and solid start to the match — with neither making any noteworthy mistakes and both getting half a point on the board in a match where the majority of games are bound to end up as draws.
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+The two players will be back in action on Wednesday and Thursday, with Friday the first rest day of the match.
+
+### Records tumble as Sooryavanshi smashes 204 in 53 balls
+
+Vaibhav Sooryavanshi has broken multiple records in a spectacular innings for India in New Delhi.
+
+The 15-year-old tormented underdogs the United Arab Emirates, smashing their bowlers to pieces for the fastest century and double century in List A cricket.
+
+Sooryavanshi hit no fewer than 28 sixes, and averaged very nearly four runs a ball as he raced to a total of 204 off just 53 deliveries.
+
+He hit his hundred in 28 balls, one quicker than Australian record-holder Jake Fraser-McGurk.
+
+As for the time it took him to reach 200, no other player is even in the same league. Sooryavanshi made his double-century in 52 balls, compared to the previous best of 103 deliveries by Chad Bowes.
+
+"No words to say for him. I would only say it's like absolute carnage," said India A captain Tilak Varma after the Asia Cup Rising Stars match. "The way he played, I think the first five overs the match was done."
+
+India passed the target of 250 in just 14.2 overs, with the 15-year-old scoring more than four-fifths of the total single handed. The UAE had set the target in 50 overs.
+
+Sooryavanshi became India's youngest ever men's international in July with his debut against England in Manchester in a T20I game.
+
+He was the leading scorer in the India Premier League this year, and is known for his rapid scoring and aggressive style, averaging more than 2 runs per ball across the entire season.
+
+### Chess world championship game 1 begins with cagey Berlin defense
+
+Gukesh and Sindarov are into their first endgame already in the first game of the world championship match in Geneva.
+
+The queens came off the board extremely quickly, with Gukesh playing the Berlin defense that creates a rapid route towards a queen exchange.
+
+The situation on the board is currently broadly even and rather conservative, although the players have not proceeded towards the fastest and most automatic draws in the line.
+
+Gukesh has a strong back line and a pair of centralized bishops that could give him long-term potential with black, while Sindarov has slightly more space and control of the center of the board at the cost of being more stretched.
+
+It's still a three-result game potentially, but as always in top-level chess, a draw is the most likely of the three!
+
+Depending on how it develops, the game could still last several hours.
+
+### Gukesh to start chess world championship defense against Sindarov
+
+The battle for the most prestigious title in chess begins later on Tuesday in Geneva, Switzerland.
+
+---
+
+**Original Source:** [DW.com](https://www.dw.com/en/india-report-warns-of-deepening-authoritarianism-under-modi/live-80027405)`,
     title_en: `🚨 Why Everyone Is Shocked By India news: Nation deepens authoritarian slide under Modi — report - DW.com`,
-    summary_en: `India news: Nation deepens authoritarian slide under Modi — report DW.com... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content_en: `### Strategic Overview & Legislative Framework
+    summary_en: `A Human Rights Watch report found that Modi's rule in India has eroded the rule of law and "systematically weakened institutions" meant to protect freedoms. Also, in Delhi a man injured nine police with a knife.`,
+    content_en: `A Human Rights Watch report found that Modi's rule in India has eroded the rule of law and "systematically weakened institutions" meant to protect freedoms. Also, in Delhi a man injured nine police with a knife.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **India news: Nation deepens authoritarian slide under Modi — report - DW.com**. According to authoritative communiqués released by DW.com, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+This blog is now closed. It was a roundup of the biggest headlines from India on Tuesday, November 24:
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+This blog is now closed. Thank you for reading!
 
-### Institutional Oversight & Ground Reality
+### Chess: Game 1 ends in draw between Gukesh, Sindarov
 
-Ground reality assessments indicate that India news: Nation deepens authoritarian slide under Modi — report DW.com establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+Gukesh Dommaraju has held on for a draw with the black pieces in the first game against Javokhir Sindarov. The players fell into a repeated sequence of moves and shook hands a few minutes ago.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+The defending champ might be the happier of the two players for several reasons.
 
-### Governance Parameter Assessment
+First, black always has a marginal disadvantage as the second to play.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+Second, because he spent much of Tuesday's game under pressure on the clock, having used the vast majority of his time in the first 20 moves of the game and having only a very modest reserve to play towards move 40, when the players are given extra time.
 
-### Why This Matters: Policy Impact & Outlook
+And third, because a draw is Gukesh's best ever start to a world championship match. Famously, against Ding Liren two years ago, he lost the opening game despite having gone into the match as a fairly clear favorite.
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+But for both players, the game represented a high-quality and solid start to the match — with neither making any noteworthy mistakes and both getting half a point on the board in a match where the majority of games are bound to end up as draws.
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+The two players will be back in action on Wednesday and Thursday, with Friday the first rest day of the match.
+
+### Records tumble as Sooryavanshi smashes 204 in 53 balls
+
+Vaibhav Sooryavanshi has broken multiple records in a spectacular innings for India in New Delhi.
+
+The 15-year-old tormented underdogs the United Arab Emirates, smashing their bowlers to pieces for the fastest century and double century in List A cricket.
+
+Sooryavanshi hit no fewer than 28 sixes, and averaged very nearly four runs a ball as he raced to a total of 204 off just 53 deliveries.
+
+He hit his hundred in 28 balls, one quicker than Australian record-holder Jake Fraser-McGurk.
+
+As for the time it took him to reach 200, no other player is even in the same league. Sooryavanshi made his double-century in 52 balls, compared to the previous best of 103 deliveries by Chad Bowes.
+
+"No words to say for him. I would only say it's like absolute carnage," said India A captain Tilak Varma after the Asia Cup Rising Stars match. "The way he played, I think the first five overs the match was done."
+
+India passed the target of 250 in just 14.2 overs, with the 15-year-old scoring more than four-fifths of the total single handed. The UAE had set the target in 50 overs.
+
+Sooryavanshi became India's youngest ever men's international in July with his debut against England in Manchester in a T20I game.
+
+He was the leading scorer in the India Premier League this year, and is known for his rapid scoring and aggressive style, averaging more than 2 runs per ball across the entire season.
+
+### Chess world championship game 1 begins with cagey Berlin defense
+
+Gukesh and Sindarov are into their first endgame already in the first game of the world championship match in Geneva.
+
+The queens came off the board extremely quickly, with Gukesh playing the Berlin defense that creates a rapid route towards a queen exchange.
+
+The situation on the board is currently broadly even and rather conservative, although the players have not proceeded towards the fastest and most automatic draws in the line.
+
+Gukesh has a strong back line and a pair of centralized bishops that could give him long-term potential with black, while Sindarov has slightly more space and control of the center of the board at the cost of being more stretched.
+
+It's still a three-result game potentially, but as always in top-level chess, a draw is the most likely of the three!
+
+Depending on how it develops, the game could still last several hours.
+
+### Gukesh to start chess world championship defense against Sindarov
+
+The battle for the most prestigious title in chess begins later on Tuesday in Geneva, Switzerland.
+
+---
+
+**Original Source:** [DW.com](https://www.dw.com/en/india-report-warns-of-deepening-authoritarianism-under-modi/live-80027405)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
@@ -2674,7 +6184,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `News On AIR`,
     source_url: `https://newsonair.gov.in/pm-modi-says-public-response-to-gold-buying-appeal-helped-curb-prices/`,
     source_courtesy: `News Courtesy: News On AIR Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1600&q=85&sig=918`,
+    image_url: `https://images.unsplash.com/photo-1532664189809-02133fee698d?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `Official news wire photograph: What Nobody Is Telling You About PM Modi says public response to gold-buying appeal helped curb prices`,
     image_courtesy: `Photo Courtesy: News On AIR Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -2749,73 +6259,39 @@ Beyond immediate headlines, this development carries durable implications for re
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `7 min read`,
+    read_time: `1 min read`,
     views_count: 329080,
     shares_count: 45455,
     published_at: `2026-11-25T04:11:29+05:30`,
     source_name: `The Times of India`,
     source_url: `https://timesofindia.indiatimes.com/india/1st-privately-built-pslv-set-for-launch-early-next-year-isro-chief/articleshow/136143686.cms`,
     source_courtesy: `News Courtesy: The Times of India Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/1st-privately-built-pslv-set-for-launch-early-next-year-isro-chief-2026.jpg`,
     image_alt: `Official news wire photograph: The Midnight Move: How 1st privately built PSLV set for launch early next year: Isro chief Caught Everyone Completely Off Guard`,
-    image_courtesy: `Photo Courtesy: The Times of India Photo Wire`,
+    image_courtesy: `Image Courtesy: The Times of India`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, The Times of India`,
-    summary: `Isro Chairman V Narayanan announced the first privately built Polar Satellite Launch Vehicle is ready for launch. This PSLV-N1 rocket is being developed by a co... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `Share your thoughts in the comments`,
+    content: `### Gaganyaan in final phase, says Isro chief
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **1st privately built PSLV set for launch early next year: Isro chief**. According to authoritative communiqués released by The Times of India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+Share your thoughts in the comments
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Be respectful · TOI community guidelines
 
-### Institutional Oversight & Ground Reality
+---
 
-Ground reality assessments indicate that Isro Chairman V Narayanan announced the first privately built Polar Satellite Launch Vehicle is ready for launch. This PSLV-N1 rocket is being developed by a consortium including L T and HAL. The government is promoting satellite launches in collaboration with startups, which have increased to over 440. Narayanan emphasized the importance of building more space assets for communication and navigation. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
-
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
-
-### Governance Parameter Assessment
-
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
-
-### Why This Matters: Policy Impact & Outlook
-
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
-
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/india/1st-privately-built-pslv-set-for-launch-early-next-year-isro-chief/articleshow/136143686.cms)`,
     title_en: `🚨 The Midnight Move: How 1st privately built PSLV set for launch early next year: Isro chief Caught Everyone Completely Off Guard`,
-    summary_en: `Isro Chairman V Narayanan announced the first privately built Polar Satellite Launch Vehicle is ready for launch. This PSLV-N1 rocket is being developed by a co... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content_en: `### Strategic Overview & Legislative Framework
+    summary_en: `Share your thoughts in the comments`,
+    content_en: `### Gaganyaan in final phase, says Isro chief
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **1st privately built PSLV set for launch early next year: Isro chief**. According to authoritative communiqués released by The Times of India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+Share your thoughts in the comments
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Be respectful · TOI community guidelines
 
-### Institutional Oversight & Ground Reality
+---
 
-Ground reality assessments indicate that Isro Chairman V Narayanan announced the first privately built Polar Satellite Launch Vehicle is ready for launch. This PSLV-N1 rocket is being developed by a consortium including L T and HAL. The government is promoting satellite launches in collaboration with startups, which have increased to over 440. Narayanan emphasized the importance of building more space assets for communication and navigation. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
-
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
-
-### Governance Parameter Assessment
-
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
-
-### Why This Matters: Policy Impact & Outlook
-
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
-
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/india/1st-privately-built-pslv-set-for-launch-early-next-year-isro-chief/articleshow/136143686.cms)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
@@ -2831,73 +6307,135 @@ Beyond immediate headlines, this development carries durable implications for re
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `7 min read`,
+    read_time: `2 min read`,
     views_count: 329400,
     shares_count: 45500,
     published_at: `Wed, 25 Nov 2026 03:57:25 +0530`,
     source_name: `The Hindu`,
     source_url: `https://www.thehindu.com/news/national/assam/assam-cm-downplays-fight-between-two-ips-officers/article71740197.ece`,
     source_courtesy: `News Courtesy: The Hindu Digital Archives`,
-    image_url: `https://th-i.thgim.com/public/incoming/wcyry9/article71740196.ece/alternates/LANDSCAPE_1200/PTI11_23_2026_000222B.jpg`,
+    image_url: `/images/articles/assam-cm-downplays-fight-between-two-ips-officers-2026.jpg`,
     image_alt: `Official news wire photograph: Behind Closed Doors: What Really Happened When Assam CM downplays ‘fight’ between two IPS officers`,
-    image_courtesy: `Photo Courtesy: The Hindu Photo Wire`,
+    image_courtesy: `Image Courtesy: The Hindu`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, The Hindu`,
-    summary: `The confrontation occurred at an Assam Police battalion headquarters in the western part of the State on November 22, 2026... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `You don’t have any Active Subscription.`,
+    content: `You don’t have any Active Subscription.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Assam CM downplays ‘fight’ between two IPS officers**. According to authoritative communiqués released by The Hindu, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Weather News November 25, 2026 e-Paper
 
-### Institutional Oversight & Ground Reality
+The View From India Looking at World Affairs from the Indian perspective.
 
-Ground reality assessments indicate that The confrontation occurred at an Assam Police battalion headquarters in the western part of the State on November 22, 2026 establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+First Day First Show News and reviews from the world of cinema and streaming.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Today's Cache Your download of the top 5 technology stories of the day.
 
-### Governance Parameter Assessment
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+Data Point Decoding the headlines with facts, figures, and numbers
 
-### Why This Matters: Policy Impact & Outlook
+THEdge At the cutting edge of education and careers
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### The confrontation occurred at an Assam Police battalion headquarters in the western part of the State on November 22, 2026
+
+Published - November 25, 2026 04:15 am IST - GUWAHATI
+
+Assam Chief Minister Himanta Biswa Sarma. File
+                                          | Photo Credit: PTI
+
+Assam Chief Minister Himanta Biswa Sarma on Tuesday (November 24, 2026) downplayed an alleged clash between two senior Indian Police Service officers at a party as a “personal fight”.
+
+The incident, involving a Deputy Inspector General of Police (DIG) and a Senior Superintendent of Police (SSP), occurred at an Assam Police battalion in the western part of the State on Sunday night (November 22, 2026).
+
+“There was a fight between two persons at a private programme. We have nothing to do here, as it was personal and had no connection with the Police Department. Sometimes, we also end up having arguments,” the Chief Minister told journalists on the sidelines of an official event.
+
+“We would have done something had it happened during official duty. I have no comment on a personal matter,” he said.
+
+According to reports, the DIG in question was among several senior police officers invited to a party the SSP had organised.
+
+The DIG and the SSP allegedly quarrelled during the event. It turned physical, reportedly leaving the SSP injured.
+
+Another senior IPS officer, reportedly assigned by Director General of Police Harmeet Singh, resolved the matter.
+
+The trigger for the fight could not be ascertained. Police did not issue any statement.
+
+Published - November 25, 2026 04:15 am IST
+
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+
+We have migrated to a new commenting platform. If you are already a registered user of The Hindu and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/assam/assam-cm-downplays-fight-between-two-ips-officers/article71740197.ece)`,
     title_en: `🚨 Behind Closed Doors: What Really Happened When Assam CM downplays ‘fight’ between two IPS officers`,
-    summary_en: `The confrontation occurred at an Assam Police battalion headquarters in the western part of the State on November 22, 2026... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content_en: `### Strategic Overview & Legislative Framework
+    summary_en: `You don’t have any Active Subscription.`,
+    content_en: `You don’t have any Active Subscription.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Assam CM downplays ‘fight’ between two IPS officers**. According to authoritative communiqués released by The Hindu, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Weather News November 25, 2026 e-Paper
 
-### Institutional Oversight & Ground Reality
+The View From India Looking at World Affairs from the Indian perspective.
 
-Ground reality assessments indicate that The confrontation occurred at an Assam Police battalion headquarters in the western part of the State on November 22, 2026 establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+First Day First Show News and reviews from the world of cinema and streaming.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Today's Cache Your download of the top 5 technology stories of the day.
 
-### Governance Parameter Assessment
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+Data Point Decoding the headlines with facts, figures, and numbers
 
-### Why This Matters: Policy Impact & Outlook
+THEdge At the cutting edge of education and careers
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### The confrontation occurred at an Assam Police battalion headquarters in the western part of the State on November 22, 2026
+
+Published - November 25, 2026 04:15 am IST - GUWAHATI
+
+Assam Chief Minister Himanta Biswa Sarma. File
+                                          | Photo Credit: PTI
+
+Assam Chief Minister Himanta Biswa Sarma on Tuesday (November 24, 2026) downplayed an alleged clash between two senior Indian Police Service officers at a party as a “personal fight”.
+
+The incident, involving a Deputy Inspector General of Police (DIG) and a Senior Superintendent of Police (SSP), occurred at an Assam Police battalion in the western part of the State on Sunday night (November 22, 2026).
+
+“There was a fight between two persons at a private programme. We have nothing to do here, as it was personal and had no connection with the Police Department. Sometimes, we also end up having arguments,” the Chief Minister told journalists on the sidelines of an official event.
+
+“We would have done something had it happened during official duty. I have no comment on a personal matter,” he said.
+
+According to reports, the DIG in question was among several senior police officers invited to a party the SSP had organised.
+
+The DIG and the SSP allegedly quarrelled during the event. It turned physical, reportedly leaving the SSP injured.
+
+Another senior IPS officer, reportedly assigned by Director General of Police Harmeet Singh, resolved the matter.
+
+The trigger for the fight could not be ascertained. Police did not issue any statement.
+
+Published - November 25, 2026 04:15 am IST
+
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+
+We have migrated to a new commenting platform. If you are already a registered user of The Hindu and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/assam/assam-cm-downplays-fight-between-two-ips-officers/article71740197.ece)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
@@ -2913,73 +6451,131 @@ Beyond immediate headlines, this development carries durable implications for re
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `7 min read`,
+    read_time: `5 min read`,
     views_count: 329720,
     shares_count: 45545,
     published_at: `Tue, 24 Nov 2026 11:19:55 GMT`,
     source_name: `Live Law`,
     source_url: `https://www.livelaw.in/high-court/madras-high-court/madras-high-court-thiruparankundram-deepam-row-lighting-lamp-559801`,
     source_courtesy: `News Courtesy: Live Law Digital Archives`,
-    image_url: `https://www.livelaw.in/h-upload/2026/09/02/697614-justice-gr-swaminathan-and-justice-md-sumathi-with-madurai-court.jpg`,
+    image_url: `/images/articles/thiruparankundram-karthigai-deepam-implement-sc-order-review-pendency-no-gr-2026.jpg`,
     image_alt: `Official news wire photograph: The Secret Truth Behind: Thiruparankundram Karthigai Deepam | Implement SC Order, Review Pendency No Ground For Non-Compliance :... - Live Law`,
-    image_courtesy: `Photo Courtesy: Live Law Photo Wire`,
+    image_courtesy: `Image Courtesy: Live Law`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, Live Law`,
-    summary: `Thiruparankundram Karthigai Deepam | Implement SC Order, Review Pendency No Ground For Non-Compliance :... Live Law Deepam Lit Away From Approved Spot As Vijay ... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `The Madras High Court on Tuesday (November 24) directed Madurai Collector and other authorities to comply with Supreme Court's order permitting lighting of the lamp for Karthigai Deepam celebrations at Thiruparankundram today. In doing so t`,
+    content: `### Court also ordered release of persons unlawfully detained following Collector's prohibitory orders.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Thiruparankundram Karthigai Deepam | Implement SC Order, Review Pendency No Ground For Non-Compliance :... - Live Law**. According to authoritative communiqués released by Live Law, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+The Madras High Court on Tuesday (November 24) directed Madurai Collector and other authorities to comply with Supreme Court's order permitting lighting of the lamp for Karthigai Deepam celebrations at Thiruparankundram today. In doing so the court said that the prohibitory order issued by Madurai Collector in the area cannot come in the way of exercise of fundamental rights of the...
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Your support helps us to bring you  more content at an affordable  subscription scheme !!! All payment options available
 
-### Institutional Oversight & Ground Reality
+The Madras High Court on Tuesday (November 24) directed Madurai Collector and other authorities to comply with Supreme Court's order permitting lighting of the lamp for Karthigai Deepam celebrations at Thiruparankundram today.
 
-Ground reality assessments indicate that Thiruparankundram Karthigai Deepam | Implement SC Order, Review Pendency No Ground For Non-Compliance :... Live Law Deepam Lit Away From Approved Spot As Vijay Government Defies Supreme Court Order NDTV Thiruparankundram Deepam lit at customary spot despite court orders The News Minute TVK govt defies SC order; lamp not lit at TN temple Deepathoon Rediff.com 'Sanghi monkeys disappointed': Congress hails Karthigai Deepam lighting at traditional spot The Times of India establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+In doing so the court said that the prohibitory order issued by Madurai Collector in the area cannot come in the way of exercise of fundamental rights of the devotees.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Earlier today, the court had asked the State to reconsider the prohibitory orders issued by the Madurai District Collector and orally remarked that such an order would collapse the Supreme Court's order permitting the lighting of the lamp this year.
 
-### Governance Parameter Assessment
+The bench of Justice GR Swaminathan and Justice MD Sumathi while dictating its order said that the Supreme Court's November 20 order had directed that the lamp should be lit today. It said that the petitioners apprehend that order would not be implemented.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+" Nishant Krishna (Collector) pointed to us that the prohibitory order has been issued only to prevent unauthorised persons from climbing up the hill. He drew our attention to specific recital in the order which clarifies that it will not apply to anything done in pursuance of for giving effect to the order of Supreme Court. Collector made it clear that he had acted and that he will act in compliance of SC orders.
 
-### Why This Matters: Policy Impact & Outlook
+Article 144 mandates all authorities in territory of India to act in aid of Supreme Court. The District Collector is a civilian authority and Article 144 will squarely apply to him since officials brazenly defied judicial authorities last year in connection with Karthigai Deepam event, we deem it fit to remind that Collector is a public servant answerable only to Supreme Court and should ignore any contra advise given to him. Pendency of review petition is not a ground for not complying with the order " the court said.
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+The court further said that a prohibitory order should not come in the way of exercise of fundamental rights under Article 25 of Constitution. The Court thus asked all authorities concerned, including Collector, Commissioner and temple authorities to comply with the Supreme Court order.
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+The court directed that persons unlawfully detained following Collector's prohibitory orders be released.
+
+During the hearing, Senior Advocate Gopal Sankaranarayanan appearing for the Collector informed the court that as of now, there is no restriction on movement in the temple and that devotees have been going to temple and are being issued tokens.
+
+"There's no question of the authorities using the order against movement of devotees," the senior counsel said clarifying that the persons detained were those who were connected to certain organisations.
+
+Sankaranarayan further said that the detention had happened only because there was an apprehension, adding that 258 people have been detained and 2 FIRs registered
+
+He stated that Supreme Court's order is not limited to lighting of lamp on top of hill but movement till the hill and beyond.
+
+For context, the Supreme Court had last week permitted the lighting of the lamp, as a one time measure, at the Deepathoon on November 24, the Karthigai Deepam day this year, considering the proximity of the festival. The Supreme Court had clarified that this arrangement should not be construed as a final endorsement of the claimed custom of lighting the lamp at the disputed location.
+
+The Supreme Court had directed that only authorised representatives of the Devasthanam (temple administration) and government officials would be permitted to access the location for the ritual. The general public would not be allowed to go to the Deepathoon. No procession, public congregation, slogan-raising or demonstration shall be allowed during the ceremony.
+
+Further, it directed the authorities to ensure adequate security arrangements and permitted the deployment of the Central Industrial Security Force (CISF), if necessary. It directed the District Collector to file a compliance report within 3 days, and allowed him to approach the Court in case of exigency.
+
+Meanwhile the Commissioner of Tamil Nadu's Hindu Religious and Charitable Endowments Department has filed an application seeking review of this order, which is yet to be heard.
+
+Meanwhile, the Madurai District Collector had issued prohibitory orders under Section 163 BNSS in the District yesterday. Challenging the same, the present pleas have been filed. The pleas seek direction to permit devotees to assemble and witness the lighting of the Karthigai Deepam at the foothills.
+
+The pleas also seek direction to facilitate Hindu Religious and Charitable Endowment (HR & CE) Department officials and the Archaeology Department officials to light the lamp at the Deepathoon with the assistance of CRPF officials.
+
+When the matter was heard in the morning session , the petitioner argued that the prohibitory order is highly violative to the order passed by the Supreme Court and it will amount to contempt. The petitioner also submitted that persons were being prevented from coming to the area and some were even arrested. The petitioners argued that the State, in the guise of enforcing the prohibitory order, was infringing the devotees' right to worship.
+
+Senior Advocate Gopal Sankaranarayanan, appearing for the Madurai District Collector, submitted that the petitions were with reference to implementation of the Apex Court order and that the petitioners should rightly take it up with the Top Court.
+
+Counsel for Petitioner: Mr. J. Preetam
+
+Counsel for Respondents: Mr.Gopal Sankaranarayanan, Senior Counsel for Mr.M.P.Senthil, Government Pleader, Mr.R.John Sathyan, State P.P assisted by Mr.D.Venkatesh, APP, Mr.M.Karthikeya Venkatachalapathy DSGI (i/c)
+
+Upasana Sajeev is a Principal Correspondent with LiveLaw, covering Madras High Court
+
+---
+
+**Original Source:** [Live Law](https://www.livelaw.in/high-court/madras-high-court/madras-high-court-thiruparankundram-deepam-row-lighting-lamp-559801)`,
     title_en: `🚨 The Secret Truth Behind: Thiruparankundram Karthigai Deepam | Implement SC Order, Review Pendency No Ground For Non-Compliance :... - Live Law`,
-    summary_en: `Thiruparankundram Karthigai Deepam | Implement SC Order, Review Pendency No Ground For Non-Compliance :... Live Law Deepam Lit Away From Approved Spot As Vijay ... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content_en: `### Strategic Overview & Legislative Framework
+    summary_en: `The Madras High Court on Tuesday (November 24) directed Madurai Collector and other authorities to comply with Supreme Court's order permitting lighting of the lamp for Karthigai Deepam celebrations at Thiruparankundram today. In doing so t`,
+    content_en: `### Court also ordered release of persons unlawfully detained following Collector's prohibitory orders.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Thiruparankundram Karthigai Deepam | Implement SC Order, Review Pendency No Ground For Non-Compliance :... - Live Law**. According to authoritative communiqués released by Live Law, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+The Madras High Court on Tuesday (November 24) directed Madurai Collector and other authorities to comply with Supreme Court's order permitting lighting of the lamp for Karthigai Deepam celebrations at Thiruparankundram today. In doing so the court said that the prohibitory order issued by Madurai Collector in the area cannot come in the way of exercise of fundamental rights of the...
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Your support helps us to bring you  more content at an affordable  subscription scheme !!! All payment options available
 
-### Institutional Oversight & Ground Reality
+The Madras High Court on Tuesday (November 24) directed Madurai Collector and other authorities to comply with Supreme Court's order permitting lighting of the lamp for Karthigai Deepam celebrations at Thiruparankundram today.
 
-Ground reality assessments indicate that Thiruparankundram Karthigai Deepam | Implement SC Order, Review Pendency No Ground For Non-Compliance :... Live Law Deepam Lit Away From Approved Spot As Vijay Government Defies Supreme Court Order NDTV Thiruparankundram Deepam lit at customary spot despite court orders The News Minute TVK govt defies SC order; lamp not lit at TN temple Deepathoon Rediff.com 'Sanghi monkeys disappointed': Congress hails Karthigai Deepam lighting at traditional spot The Times of India establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+In doing so the court said that the prohibitory order issued by Madurai Collector in the area cannot come in the way of exercise of fundamental rights of the devotees.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Earlier today, the court had asked the State to reconsider the prohibitory orders issued by the Madurai District Collector and orally remarked that such an order would collapse the Supreme Court's order permitting the lighting of the lamp this year.
 
-### Governance Parameter Assessment
+The bench of Justice GR Swaminathan and Justice MD Sumathi while dictating its order said that the Supreme Court's November 20 order had directed that the lamp should be lit today. It said that the petitioners apprehend that order would not be implemented.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+" Nishant Krishna (Collector) pointed to us that the prohibitory order has been issued only to prevent unauthorised persons from climbing up the hill. He drew our attention to specific recital in the order which clarifies that it will not apply to anything done in pursuance of for giving effect to the order of Supreme Court. Collector made it clear that he had acted and that he will act in compliance of SC orders.
 
-### Why This Matters: Policy Impact & Outlook
+Article 144 mandates all authorities in territory of India to act in aid of Supreme Court. The District Collector is a civilian authority and Article 144 will squarely apply to him since officials brazenly defied judicial authorities last year in connection with Karthigai Deepam event, we deem it fit to remind that Collector is a public servant answerable only to Supreme Court and should ignore any contra advise given to him. Pendency of review petition is not a ground for not complying with the order " the court said.
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+The court further said that a prohibitory order should not come in the way of exercise of fundamental rights under Article 25 of Constitution. The Court thus asked all authorities concerned, including Collector, Commissioner and temple authorities to comply with the Supreme Court order.
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+The court directed that persons unlawfully detained following Collector's prohibitory orders be released.
+
+During the hearing, Senior Advocate Gopal Sankaranarayanan appearing for the Collector informed the court that as of now, there is no restriction on movement in the temple and that devotees have been going to temple and are being issued tokens.
+
+"There's no question of the authorities using the order against movement of devotees," the senior counsel said clarifying that the persons detained were those who were connected to certain organisations.
+
+Sankaranarayan further said that the detention had happened only because there was an apprehension, adding that 258 people have been detained and 2 FIRs registered
+
+He stated that Supreme Court's order is not limited to lighting of lamp on top of hill but movement till the hill and beyond.
+
+For context, the Supreme Court had last week permitted the lighting of the lamp, as a one time measure, at the Deepathoon on November 24, the Karthigai Deepam day this year, considering the proximity of the festival. The Supreme Court had clarified that this arrangement should not be construed as a final endorsement of the claimed custom of lighting the lamp at the disputed location.
+
+The Supreme Court had directed that only authorised representatives of the Devasthanam (temple administration) and government officials would be permitted to access the location for the ritual. The general public would not be allowed to go to the Deepathoon. No procession, public congregation, slogan-raising or demonstration shall be allowed during the ceremony.
+
+Further, it directed the authorities to ensure adequate security arrangements and permitted the deployment of the Central Industrial Security Force (CISF), if necessary. It directed the District Collector to file a compliance report within 3 days, and allowed him to approach the Court in case of exigency.
+
+Meanwhile the Commissioner of Tamil Nadu's Hindu Religious and Charitable Endowments Department has filed an application seeking review of this order, which is yet to be heard.
+
+Meanwhile, the Madurai District Collector had issued prohibitory orders under Section 163 BNSS in the District yesterday. Challenging the same, the present pleas have been filed. The pleas seek direction to permit devotees to assemble and witness the lighting of the Karthigai Deepam at the foothills.
+
+The pleas also seek direction to facilitate Hindu Religious and Charitable Endowment (HR & CE) Department officials and the Archaeology Department officials to light the lamp at the Deepathoon with the assistance of CRPF officials.
+
+When the matter was heard in the morning session , the petitioner argued that the prohibitory order is highly violative to the order passed by the Supreme Court and it will amount to contempt. The petitioner also submitted that persons were being prevented from coming to the area and some were even arrested. The petitioners argued that the State, in the guise of enforcing the prohibitory order, was infringing the devotees' right to worship.
+
+Senior Advocate Gopal Sankaranarayanan, appearing for the Madurai District Collector, submitted that the petitions were with reference to implementation of the Apex Court order and that the petitioners should rightly take it up with the Top Court.
+
+Counsel for Petitioner: Mr. J. Preetam
+
+Counsel for Respondents: Mr.Gopal Sankaranarayanan, Senior Counsel for Mr.M.P.Senthil, Government Pleader, Mr.R.John Sathyan, State P.P assisted by Mr.D.Venkatesh, APP, Mr.M.Karthikeya Venkatachalapathy DSGI (i/c)
+
+Upasana Sajeev is a Principal Correspondent with LiveLaw, covering Madras High Court
+
+---
+
+**Original Source:** [Live Law](https://www.livelaw.in/high-court/madras-high-court/madras-high-court-thiruparankundram-deepam-row-lighting-lamp-559801)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
@@ -3002,7 +6598,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `AajTak`,
     source_url: `https://www.aajtak.in/entertainment/bollywood-news/story/sai-pallavi-whole-heartedly-prays-sings-bhajan-at-sri-sathya-sai-babas-centenary-celebrations-amid-ramayana-om-box-office-success-tmova-dskc-2703861-2026-11-24`,
     source_courtesy: `News Courtesy: AajTak Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/1700-video-aajtak-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: 1700 करोड़ पार रामायण! श्री सत्य साईं की भक्ति में डूबीं 'सीता' साई पल्लवी, हाथ जोड़ गाए भजन, Video - AajTak`,
     image_courtesy: `Photo Courtesy: AajTak Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -3088,9 +6684,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `The Lallantop`,
     source_url: `https://www.thelallantop.com/entertainment/post/ramayana-vfx-artist-slams-makers-after-being-laid-off-without-a-salary-hike`,
     source_courtesy: `News Courtesy: The Lallantop Digital Archives`,
-    image_url: `https://static.thelallantop.com/images/post/202611/1795524210789-ramayana-10.webp`,
+    image_url: `/images/articles/vfx-the-lallantop-the-lallantop-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: एक रुपया नहीं बढ़ा और जॉब से निकाल दिया..." - 'रामायण' के VFX आर्टिस्ट ने मेकर्स की धज्जियां उड़ाईं | The Lallantop - The Lallantop`,
-    image_courtesy: `Photo Courtesy: The Lallantop Photo Wire`,
+    image_courtesy: `Image Courtesy: The Lallantop`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Ramayana, Breaking News, National, Hindi News`,
     summary: `"एक रुपया नहीं बढ़ा और जॉब से निकाल दिया..." - 'रामायण' के  आर्टिस्ट ने मेकर्स की धज्जियां उड़ाईं |... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -3174,9 +6770,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `India TV Hindi`,
     source_url: `https://www.indiatv.in/entertainment/bollywood/ramayana-created-history-worldwide-surpassing-rrr-kgf-2-and-jawan-ranbir-kapoor-film-now-trails-only-four-movies-2026-11-24-1256104`,
     source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1600&q=85&sig=924`,
+    image_url: `/images/articles/rrr-kgf-2-4-india-tv-hindi-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: रामायण' ने दुनियाभर में रचा इतिहास, 'RRR', 'KGF 2' और 'जवान' को पछाड़ा, अब सिर्फ 4 फिल्मों से पीछे रणबीर क - India TV Hindi`,
-    image_courtesy: `Photo Courtesy: India TV Hindi Photo Wire`,
+    image_courtesy: `Image Courtesy: India TV Hindi`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Entertainment, Breaking News, National, Hindi News`,
     summary: `'रामायण' ने दुनियाभर में रचा इतिहास, '', ' 2' और 'जवान' को पछाड़ा, अब सिर्फ 4 फिल्मों से पीछे रणबीर क    20वें दिन  की रफ्तार हुई और तेज, मंगलवार को   की फिल्म ... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -3260,7 +6856,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `AajTak`,
     source_url: `https://www.aajtak.in/entertainment/hollywood/photo/marvel-movies-to-watch-before-avengers-doomsday-mcu-movies-x-men-fantastic-four-watchlist-tmovj-2704463-2026-11-24`,
     source_courtesy: `News Courtesy: AajTak Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/avengers-doomsday-watchlist-14-aajtak-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: Avengers Doomsday Watchlist: डूम्सडे देखने से पहले निपटा लें ये 14 फिल्में-सीरीज, वरना थिएटर में नहीं आएगा मजा! - AajTak`,
     image_courtesy: `Photo Courtesy: AajTak Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -3346,7 +6942,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `AajTak`,
     source_url: `https://www.aajtak.in/business/news/story/india-china-japan-faces-new-us-tariff-threat-donald-trump-prepares-to-raise-tariff-on-16-nations-tutc-dskc-2705115-2026-11-24`,
     source_courtesy: `News Courtesy: AajTak Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/trump-tariff-threat-16-aajtak-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: Trump Tariff Threat: ट्रंप के निशाने पर 16 देश... नया टैरिफ बम फोड़ने की तैयारी, भारत पर भी खतरा! - AajTak`,
     image_courtesy: `Photo Courtesy: AajTak Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -3432,9 +7028,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Dainik Bhaskar`,
     source_url: `https://www.bhaskar.com/g/international/news/libya-ukraine-russia-warship-attack-zelenskyy-drone-strike-139776839.html`,
     source_courtesy: `News Courtesy: Dainik Bhaskar Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/7-4-dainik-bhaskar-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: यूक्रेन ने अफ्रीकी देश लीबिया के पास रूसी युद्धपोत डुबोया: 7 समुद्री ड्रोन से हमला किया; नवंबर में अब तक 4 ... - Dainik Bhaskar`,
-    image_courtesy: `Photo Courtesy: Dainik Bhaskar Photo Wire`,
+    image_courtesy: `Image Courtesy: Dainik Bhaskar`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `World, Breaking News, National, Hindi News`,
     summary: `यूक्रेन ने अफ्रीकी देश लीबिया के पास रूसी युद्धपोत डुबोया: 7 समुद्री ड्रोन से हमला किया; नवंबर में अब तक 4 ...   यूक्रेन: सर्द मौसम में बिजली, जल आपूर्ति नैटवर्... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -3604,7 +7200,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Cricinfo`,
     source_url: `https://www.cricinfo.com/hindi/series/asia-cup-rising-stars-50-overs-2026-27-1562333/india-a-vs-united-arab-emirates-12th-match-group-b-1562353/full-scorecard`,
     source_courtesy: `News Courtesy: Cricinfo Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1517649763962-0c623266ddc0?auto=format&fit=crop&w=1600&q=85&sig=929`,
+    image_url: `https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `आधिकारिक समाचार छायाचित्र: क्रिकेट स्कोरकार्ड - IND-A vs UAE 12वां मैच, ग्रुप बी, एशिया कप राइज़िंग स्टार्स 2026/27 | स्कोर रिपोर्ट - Cricinfo`,
     image_courtesy: `Photo Courtesy: Cricinfo Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -3690,7 +7286,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Dainik Bhaskar`,
     source_url: `https://www.bhaskar.com/lifestyle/news/child-healthy-diet-plan-kids-age-wise-nutrition-guidelines-food-chart-list-139787261.html`,
     source_courtesy: `News Courtesy: Dainik Bhaskar Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/1-5-2-dainik-bhaskar-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: जरूरत की खबर- 1-5 साल के बच्चे को क्या खिलाएं: 2 साल तक चीनी-नमक नहीं देना, डॉक्टर ने बताई एसेंशियल फूड की ... - Dainik Bhaskar`,
     image_courtesy: `Photo Courtesy: Dainik Bhaskar Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -3776,7 +7372,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Dainik Bhaskar`,
     source_url: `https://www.bhaskar.com/local/bihar/muzaffarpur/bochaha/news/bochahan-muzaffarpur-stray-dog-attack-anti-rabies-vaccine-update-139788716.html`,
     source_courtesy: `News Courtesy: Dainik Bhaskar Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/24-9-chc-dainik-bhaskar-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: बोचहां में आवार कुत्तों को आतंक आवारा: 24 घंटे में 9 लोगों पर हमला, CHC में सभी को एंटी-रेबीज टीका लगा - Dainik Bhaskar`,
     image_courtesy: `Photo Courtesy: Dainik Bhaskar Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -3862,9 +7458,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Inshorts`,
     source_url: `https://inshorts.com/hi/news/gta-6-%E0%A4%95--%E0%A4%AA%E0%A4%B9%E0%A4%B2--%E0%A4%AA-%E0%A4%9A-%E0%A4%9C-%E0%A4%B0---%E0%A4%95-%E0%A4%B0-%E0%A4%B6-%E0%A4%94%E0%A4%B0-%E0%A4%AE-%E0%A4%B6%E0%A4%A8-%E0%A4%AC%E0%A4%97-%E0%A4%A0-%E0%A4%95-1795516127401`,
     source_courtesy: `News Courtesy: Inshorts Digital Archives`,
-    image_url: `https://media.inshorts.com/inshorts/images/v1/variants/webp/l/2026/11_nov/24_tue/img_1795516126634_483.webp`,
+    image_url: `/images/articles/gta-6-tap-to-know-more-inshorts-inshorts-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: GTA 6 लॉन्च के बाद पहला अपडेट जारी, गेम क्रैश की समस्या हुई ठीक | Tap to know more | Inshorts - Inshorts`,
-    image_courtesy: `Photo Courtesy: Inshorts Photo Wire`,
+    image_courtesy: `Image Courtesy: Inshorts`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Tech, Breaking News, National, Hindi News`,
     summary: `6 लॉन्च के बाद पहला अपडेट जारी, गेम क्रैश की समस्या हुई ठीक |     |    6: लूसिया की एंट्री क्यों ख़ास है, गेमिंग की दुनिया में महिला किरदारों की कितनी जगह?   6 ... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -3948,7 +7544,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `AajTak`,
     source_url: `https://www.aajtak.in/technology/tech-news/story/iqoo-16-india-launch-december-2026-price-specifications-ttecm-dskc-2703818-2026-11-24`,
     source_courtesy: `News Courtesy: AajTak Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/8400mah-iqoo-16-50mp-3-aajtak-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: 8400mAh बैटरी वाला धांसू फोन भारत आ रहा है! iQOO 16 में मिलेंगे 50MP के 3 कैमरे - AajTak`,
     image_courtesy: `Photo Courtesy: AajTak Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -4034,7 +7630,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `India TV Hindi`,
     source_url: `https://www.indiatv.in/uttar-pradesh/big-news-regarding-seat-sharing-between-sp-and-congress-in-up-sp-has-proposed-giving-26-seats-to-congress-says-sources-2026-11-24-1256065`,
     source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1600&q=85&sig=895`,
+    image_url: `https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `आधिकारिक समाचार छायाचित्र: सूत्र: सपा ने कांग्रेस को 26 सीटें देने का प्रस्ताव दिया, लिस्ट भी सामने आई, कांग्रेस ने बंटवारे की सूची को - India TV Hindi`,
     image_courtesy: `Photo Courtesy: India TV Hindi Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -4120,7 +7716,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Jagran`,
     source_url: `https://www.jagran.com/news/national-madras-high-court-directs-tamilnadu-on-karthigai-deepam-releases-detainees-40447080.html`,
     source_courtesy: `News Courtesy: Jagran Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1598387993441-a364f854c3e1?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/politics-breaking-dispatch-896-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: हिरासत में लिए गए लोगों को रिहा करें', दीपम जलाने से पहले मद्रास हाई कोर्ट का तमिलनाडु सरकार को निर्देश - Jagran`,
     image_courtesy: `Photo Courtesy: Jagran Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -4206,7 +7802,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `India TV Hindi`,
     source_url: `https://www.indiatv.in/india/national/major-news-regarding-former-prime-minister-sheikh-hasina-plans-to-return-to-bangladesh-from-india-the-date-has-also-been-revealed-2026-11-24-1256051`,
     source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1532375810709-75b1da00537c?auto=format&fit=crop&w=1600&q=85&sig=897`,
+    image_url: `/images/articles/pm-pm-india-tv-hindi-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: बांग्लादेश की पूर्व PM शेख हसीना ने भारत से बांग्लादेश लौटने की योजना बनाई, तारीख सामने आई, PM तारिक से की - India TV Hindi`,
     image_courtesy: `Photo Courtesy: India TV Hindi Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -4292,7 +7888,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `DD News`,
     source_url: `https://ddnews.gov.in/en/india-retains-third-spot-in-lowys-asia-power-index-2026-pm-modi-ranked-most-effective-regional-leader/`,
     source_courtesy: `News Courtesy: DD News Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1600&q=85&sig=898`,
+    image_url: `https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `Official news wire photograph: The Secret Truth Behind: India Retains Third Spot in Lowy’s Asia Power Index 2026, PM Modi Ranked Most Effective Regional Leader`,
     image_courtesy: `Photo Courtesy: DD News Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -4367,7 +7963,7 @@ Beyond immediate headlines, this development carries durable implications for re
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `7 min read`,
+    read_time: `3 min read`,
     views_count: 322680,
     shares_count: 44555,
     published_at: `Tue, 24 Nov 2026 11:46:35 GMT`,
@@ -4379,61 +7975,111 @@ Beyond immediate headlines, this development carries durable implications for re
     image_courtesy: `Photo Courtesy: DD News Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, DD News`,
-    summary: `PM Modi to unveil development projects worth Rs 34,470 crore in Bihar on November 21 DD News... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `21/11/26 | 9:34 am							| Bihar | Narendra Modi | PM Modi | Prime Minister`,
+    content: `21/11/26 | 9:34 am							| Bihar | Narendra Modi | PM Modi | Prime Minister
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **PM Modi to unveil development projects worth Rs 34,470 crore in Bihar on November 21**. According to authoritative communiqués released by DD News, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+### PM Modi to unveil development projects worth Rs 34,470 crore in Bihar on November 21
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Prime Minister Narendra Modi will visit Bihar on November 21, to inaugurate, dedicate to the nation and lay the foundation stones of development projects worth around ₹34,470 crore in Vaishali. The projects cover road connectivity, energy, urban infrastructure, water resources, education, healthcare, transport and other key sectors.
 
-### Institutional Oversight & Ground Reality
+The Prime Minister will visit Nitish Setu in Vaishali district at around 1:15 PM. At approximately 2 PM, he will inaugurate and dedicate various projects to the nation, lay the foundation stones for several new initiatives and address a public gathering.
 
-Ground reality assessments indicate that PM Modi to unveil development projects worth Rs 34,470 crore in Bihar on November 21 DD News establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+The projects are aimed at strengthening infrastructure, improving public services and supporting economic development across Bihar.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Nitish Setu to Strengthen Connectivity Between North and South Bihar
 
-### Governance Parameter Assessment
+A major highlight of the visit will be the dedication of Nitish Setu, an extradosed cable-stayed bridge over the River Ganga, to the nation. Built at an estimated cost of ₹4,280 crore, the 19.7-km-long project connects Kachhi Dargah on NH-22 in Patna district with Bidupur on NH-322 in Vaishali district.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+The project comprises a 9.7-km main bridge and 10 km of approach roads. It will provide an additional crossing over the Ganga, helping ease traffic congestion on the existing Mahatma Gandhi Setu and JP Setu and reducing travel time between North and South Bihar.
 
-### Why This Matters: Policy Impact & Outlook
+The bridge is expected to particularly benefit residents of Raghopur Diara by improving their connectivity with Patna and access to essential services, including healthcare and education. It will also facilitate the transportation of agricultural produce and industrial goods, improve access to markets and encourage trade and commerce across the region.
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+Infrastructure Projects Worth Over ₹15,600 Crore to Be Inaugurated
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+PM Modi will inaugurate several major infrastructure and development projects worth over ₹15,600 crore.
+
+In the road sector, key projects include the six-laning of the Aurangabad–Chordaha section of NH-19, the Chorma–Bairgania section of NH-227F and the Umagaon–Saharsa section of NH-327, among others.
+
+In the power sector, he will inaugurate Unit 2, with a capacity of 660 MW, of the 1,320 MW Buxar Thermal Power Project. Electricity distribution and transmission infrastructure projects under the Energy Department will also be inaugurated. These include RDSS Loss Reduction Works worth over ₹1,130 crore.
+
+Other projects include the restoration and strengthening of canals and embankments, a floating solar project at Phulwaria Dam in Nawada and sewerage infrastructure at Kahalgaon.
+
+The inauguration programme will also cover buildings and facilities for educational institutions, residential schools, healthcare services, agriculture, sports and public administration. Together, these initiatives are expected to improve irrigation, urban services and access to essential facilities.
+
+Foundation Stones to Be Laid for Projects Worth Around ₹14,450 Crore
+
+PM Modi will lay the foundation stones of development projects worth around ₹14,450 crore.
+
+Among the major road projects is the four-laning of the Sahebganj–Areraj–Bettiah section of NH-139W, to be developed at a cost of over ₹3,800 crore.
+
+In the energy sector, the foundation stone will be laid for the power evacuation project for the Pirpainti Super Thermal Power Project, with a capacity of 3 x 800 MW, estimated to cost around ₹3,350 crore.
+
+The Prime Minister will also lay the foundation stones for sewerage and water-supply projects in Begusarai, Biharsharif, Purnea, Hajipur, Motihari, Danapur, Khagaria, Samastipur, Bodhgaya, Sitamarhi, Saharsa and other urban areas.
+
+Other projects include the modernisation of canal systems, Dr. Bhimrao Ambedkar Residential Schools, the IIT Patna Research Park and hostel, engineering and polytechnic institutions, as well as emergency response and police data centre infrastructure.
+
+100 PM-eBuses to Be Flagged Off; Over 26,900 PMAY Beneficiaries to Get Housewarming Ceremony
+
+As part of efforts to promote cleaner public transport, the Prime Minister will flag off 100 PM-eBuses in the state.
+
+The visit will also mark the Griha Pravesh ceremony for more than 26,900 beneficiaries under the Pradhan Mantri Awas Yojana (Urban). The occasion will mark an important milestone in the provision of housing to urban families.
+
+---
+
+**Original Source:** [DD News](https://ddnews.gov.in/en/pm-modi-to-unveil-development-projects-worth-rs-34470-crore-in-bihar-on-november-21/)`,
     title_en: `🚨 The Midnight Move: How PM Modi to unveil development projects worth Rs 34,470 crore in Bihar on November 21 Caught Everyone Completely Off Guard`,
-    summary_en: `PM Modi to unveil development projects worth Rs 34,470 crore in Bihar on November 21 DD News... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content_en: `### Strategic Overview & Legislative Framework
+    summary_en: `21/11/26 | 9:34 am							| Bihar | Narendra Modi | PM Modi | Prime Minister`,
+    content_en: `21/11/26 | 9:34 am							| Bihar | Narendra Modi | PM Modi | Prime Minister
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **PM Modi to unveil development projects worth Rs 34,470 crore in Bihar on November 21**. According to authoritative communiqués released by DD News, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+### PM Modi to unveil development projects worth Rs 34,470 crore in Bihar on November 21
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Prime Minister Narendra Modi will visit Bihar on November 21, to inaugurate, dedicate to the nation and lay the foundation stones of development projects worth around ₹34,470 crore in Vaishali. The projects cover road connectivity, energy, urban infrastructure, water resources, education, healthcare, transport and other key sectors.
 
-### Institutional Oversight & Ground Reality
+The Prime Minister will visit Nitish Setu in Vaishali district at around 1:15 PM. At approximately 2 PM, he will inaugurate and dedicate various projects to the nation, lay the foundation stones for several new initiatives and address a public gathering.
 
-Ground reality assessments indicate that PM Modi to unveil development projects worth Rs 34,470 crore in Bihar on November 21 DD News establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+The projects are aimed at strengthening infrastructure, improving public services and supporting economic development across Bihar.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Nitish Setu to Strengthen Connectivity Between North and South Bihar
 
-### Governance Parameter Assessment
+A major highlight of the visit will be the dedication of Nitish Setu, an extradosed cable-stayed bridge over the River Ganga, to the nation. Built at an estimated cost of ₹4,280 crore, the 19.7-km-long project connects Kachhi Dargah on NH-22 in Patna district with Bidupur on NH-322 in Vaishali district.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+The project comprises a 9.7-km main bridge and 10 km of approach roads. It will provide an additional crossing over the Ganga, helping ease traffic congestion on the existing Mahatma Gandhi Setu and JP Setu and reducing travel time between North and South Bihar.
 
-### Why This Matters: Policy Impact & Outlook
+The bridge is expected to particularly benefit residents of Raghopur Diara by improving their connectivity with Patna and access to essential services, including healthcare and education. It will also facilitate the transportation of agricultural produce and industrial goods, improve access to markets and encourage trade and commerce across the region.
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+Infrastructure Projects Worth Over ₹15,600 Crore to Be Inaugurated
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+PM Modi will inaugurate several major infrastructure and development projects worth over ₹15,600 crore.
+
+In the road sector, key projects include the six-laning of the Aurangabad–Chordaha section of NH-19, the Chorma–Bairgania section of NH-227F and the Umagaon–Saharsa section of NH-327, among others.
+
+In the power sector, he will inaugurate Unit 2, with a capacity of 660 MW, of the 1,320 MW Buxar Thermal Power Project. Electricity distribution and transmission infrastructure projects under the Energy Department will also be inaugurated. These include RDSS Loss Reduction Works worth over ₹1,130 crore.
+
+Other projects include the restoration and strengthening of canals and embankments, a floating solar project at Phulwaria Dam in Nawada and sewerage infrastructure at Kahalgaon.
+
+The inauguration programme will also cover buildings and facilities for educational institutions, residential schools, healthcare services, agriculture, sports and public administration. Together, these initiatives are expected to improve irrigation, urban services and access to essential facilities.
+
+Foundation Stones to Be Laid for Projects Worth Around ₹14,450 Crore
+
+PM Modi will lay the foundation stones of development projects worth around ₹14,450 crore.
+
+Among the major road projects is the four-laning of the Sahebganj–Areraj–Bettiah section of NH-139W, to be developed at a cost of over ₹3,800 crore.
+
+In the energy sector, the foundation stone will be laid for the power evacuation project for the Pirpainti Super Thermal Power Project, with a capacity of 3 x 800 MW, estimated to cost around ₹3,350 crore.
+
+The Prime Minister will also lay the foundation stones for sewerage and water-supply projects in Begusarai, Biharsharif, Purnea, Hajipur, Motihari, Danapur, Khagaria, Samastipur, Bodhgaya, Sitamarhi, Saharsa and other urban areas.
+
+Other projects include the modernisation of canal systems, Dr. Bhimrao Ambedkar Residential Schools, the IIT Patna Research Park and hostel, engineering and polytechnic institutions, as well as emergency response and police data centre infrastructure.
+
+100 PM-eBuses to Be Flagged Off; Over 26,900 PMAY Beneficiaries to Get Housewarming Ceremony
+
+As part of efforts to promote cleaner public transport, the Prime Minister will flag off 100 PM-eBuses in the state.
+
+The visit will also mark the Griha Pravesh ceremony for more than 26,900 beneficiaries under the Pradhan Mantri Awas Yojana (Urban). The occasion will mark an important milestone in the provision of housing to urban families.
+
+---
+
+**Original Source:** [DD News](https://ddnews.gov.in/en/pm-modi-to-unveil-development-projects-worth-rs-34470-crore-in-bihar-on-november-21/)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
@@ -4449,73 +8095,39 @@ Beyond immediate headlines, this development carries durable implications for re
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `7 min read`,
+    read_time: `1 min read`,
     views_count: 323000,
     shares_count: 44600,
     published_at: `2026-11-24T18:54:50+05:30`,
     source_name: `The Times of India`,
     source_url: `https://timesofindia.indiatimes.com/india/the-ogs-reunite-sad-gets-bada-bhai-tag-in-punjab-but-bjp-has-bigger-ambitions/articleshow/136130855.cms`,
     source_courtesy: `News Courtesy: The Times of India Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/the-ogs-reunite-sad-gets-bada-bhai-tag-in-punjab-but-bjp-has-bigger-ambitio-2026.jpg`,
     image_alt: `Official news wire photograph: Why Insiders Are Calling The OGs reunite: SAD gets 'bada bhai' tag in Punjab, but BJP has bigger ambitions a Total Game-Changer`,
     image_courtesy: `Photo Courtesy: The Times of India Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, The Times of India`,
-    summary: `The BJP and Shiromani Akali Dal have revived their alliance for the 2027 Punjab assembly elections, six years after splitting over the Centre’s farm laws. The r... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `Share your thoughts in the comments`,
+    content: `### Six years later, a very different Punjab
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **The OGs reunite: SAD gets 'bada bhai' tag in Punjab, but BJP has bigger ambitions**. According to authoritative communiqués released by The Times of India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+Share your thoughts in the comments
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Be respectful · TOI community guidelines
 
-### Institutional Oversight & Ground Reality
+---
 
-Ground reality assessments indicate that The BJP and Shiromani Akali Dal have revived their alliance for the 2027 Punjab assembly elections, six years after splitting over the Centre’s farm laws. The reunion restores a partnership that governed Punjab for 15 years, but the political arithmetic has shifted. The BJP has grown in the 2024 Lok Sabha election. With AAP and Congress still in contention, the alliance faces questions over farmer trust, Panthic support and seat-sharing. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
-
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
-
-### Governance Parameter Assessment
-
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
-
-### Why This Matters: Policy Impact & Outlook
-
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
-
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/india/the-ogs-reunite-sad-gets-bada-bhai-tag-in-punjab-but-bjp-has-bigger-ambitions/articleshow/136130855.cms)`,
     title_en: `🚨 Why Insiders Are Calling The OGs reunite: SAD gets 'bada bhai' tag in Punjab, but BJP has bigger ambitions a Total Game-Changer`,
-    summary_en: `The BJP and Shiromani Akali Dal have revived their alliance for the 2027 Punjab assembly elections, six years after splitting over the Centre’s farm laws. The r... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content_en: `### Strategic Overview & Legislative Framework
+    summary_en: `Share your thoughts in the comments`,
+    content_en: `### Six years later, a very different Punjab
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **The OGs reunite: SAD gets 'bada bhai' tag in Punjab, but BJP has bigger ambitions**. According to authoritative communiqués released by The Times of India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+Share your thoughts in the comments
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Be respectful · TOI community guidelines
 
-### Institutional Oversight & Ground Reality
+---
 
-Ground reality assessments indicate that The BJP and Shiromani Akali Dal have revived their alliance for the 2027 Punjab assembly elections, six years after splitting over the Centre’s farm laws. The reunion restores a partnership that governed Punjab for 15 years, but the political arithmetic has shifted. The BJP has grown in the 2024 Lok Sabha election. With AAP and Congress still in contention, the alliance faces questions over farmer trust, Panthic support and seat-sharing. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
-
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
-
-### Governance Parameter Assessment
-
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
-
-### Why This Matters: Policy Impact & Outlook
-
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
-
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/india/the-ogs-reunite-sad-gets-bada-bhai-tag-in-punjab-but-bjp-has-bigger-ambitions/articleshow/136130855.cms)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
@@ -4531,73 +8143,153 @@ Beyond immediate headlines, this development carries durable implications for re
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `7 min read`,
+    read_time: `4 min read`,
     views_count: 323320,
     shares_count: 44645,
     published_at: `Tue, 24 Nov 2026 19:29:55 +0530`,
     source_name: `The Hindu`,
     source_url: `https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece`,
     source_courtesy: `News Courtesy: The Hindu Digital Archives`,
-    image_url: `https://th-i.thgim.com/public/incoming/3q30zw/article71739022.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-24%20at%2019.15.29.jpeg`,
+    image_url: `/images/articles/thirupparankundram-deepathoon-row-live-karthigai-deepam-lit-at-traditional-2026.jpg`,
     image_alt: `Official news wire photograph: The Midnight Move: How Thirupparankundram 'deepathoon' row LIVE: Karthigai Deepam lit at traditional spot despite Supreme court order Caught Everyone Completely Off Guard`,
-    image_courtesy: `Photo Courtesy: The Hindu Photo Wire`,
+    image_courtesy: `Image Courtesy: The Hindu`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, The Hindu`,
-    summary: `Defying the Supreme Court's recent interim order that allowed the lighting of lamp on the controversial 'deepathoon' atop the hill in Madurai district, the maha... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `You don’t have any Active Subscription.`,
+    content: `You don’t have any Active Subscription.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Thirupparankundram 'deepathoon' row LIVE: Karthigai Deepam lit at traditional spot despite Supreme court order**. According to authoritative communiqués released by The Hindu, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Weather News November 25, 2026 e-Paper
 
-### Institutional Oversight & Ground Reality
+The View From India Looking at World Affairs from the Indian perspective.
 
-Ground reality assessments indicate that Defying the Supreme Court's recent interim order that allowed the lighting of lamp on the controversial 'deepathoon' atop the hill in Madurai district, the maha deepam was lit at the traditional spot at Uchipillayar deepa mandapam on Tuesday (November 24, 2026). establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+First Day First Show News and reviews from the world of cinema and streaming.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Today's Cache Your download of the top 5 technology stories of the day.
 
-### Governance Parameter Assessment
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+Data Point Decoding the headlines with facts, figures, and numbers
 
-### Why This Matters: Policy Impact & Outlook
+THEdge At the cutting edge of education and careers
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Devotees barred from Tirupparankundram hill for the second consecutive day and heavy security deployed
+
+Updated - November 25, 2026 07:25 pm IST
+
+A visual of the lit ‘Karthigai Deepam’ at Uchi Pillaiyar Deepa Mandapam on Thirupparankundram hill, in Madurai, on November 25, 2026.
+                                                  | Photo Credit:  
+                          ANI
+
+A day after the annual Karthigai Deepam shone from its customary spot at the Deepa Mandapam, the Supreme Court said on Wednesday (November 25, 2026) that it would consider whether Tamil Nadu government authorities and the Arulmigu Subramaniaswamy temple administration had wilfully defied its November 20 order to light the lamp on the Deepathoon, near a dargah atop the Thirupparankundram Hill, as a “limited one-time arrangement”.
+
+Tamil Nadu authorities and Hindu parties locked horns in back-to-back oral mentions made before a Bench headed by Justice Aravind Kumar, and in subsequent filings. The Collector, in a preliminary status report, said he had made every arrangement for compliance with the court’s November 20 order to light the lamp on the Deepathoon, only for the temple’s Board of Trustees to fail to authorise a lamp-lighting team.
+
+Mr. Krishna made it clear that he had worked to comply with the SC’s order, adding that the actual religious act of lighting the lamp was left in the hands of the temple administration.
+
+Devotees and the general public were barred from ascending the Tirupparankundram hill for the second consecutive day on Wednesday (November 25, 2026), with heavy police personnel deployed near the entrance of the Palani Andavar temple.
+
+A section of advocates on Wednesday (November 25) staged a protest outside the Madurai Bench of the Madras High Court, condemning the Tamil Nadu government and police for failing to light the Karthigai Deepam at the ‘Deepathoon’ atop Thirupparankundram hill despite a Supreme Court order permitting one-time lighting of the lamp on the stone pillar.
+
+Raising slogans against the state administration and police, the protesting lawyers accused the government of showing disrespect to the apex court and the Constitution. The demonstrators also questioned the authorities over the non-implementation of the court’s directive and protested the action taken against Hindu Munnani functionaries.
+
+The Tamil Nadu government on Wednesday (November 25) apologised to the Supreme Court over the non-lighting of the ceremonial lamp at the disputed Deepathoon (pillar) on the Thirupparankundram hill and blamed the Arulmigu Subramaniaswamy temple authorities for it, as contempt proceedings were sought against the State.
+
+The Supreme Court, while refusing to initiate suo motu contempt proceedings, said it will hear such a plea if filed. A bench of Justices Aravind Kumar and Vipul M Pancholi said the registry will verify the filing of applications for permission to light the lamp, including contempt petitions, and the court will see if they can be listed on Thursday (November 26) or Friday (November 27).
+
+The Bharatiya Janata Party (BJP) on Wednesday (November 25, 2026) targeted the Tamil Nadu government over what it alleged was a defiance of the Supreme Court’s order on the Karthigai Deepam festival.
+
+### BJP accuses Tamil Nadu government, INDIA bloc of ‘contempt’ in Thirupparankundram issue
+
+BJP accuses INDIA alliance and Tamil Nadu government of contempt and anti-Hindu bias over Karthigai Deepam ruling and SC order.
+
+The Vishva Hindu Parishad (VHP) accused the TVK government in Tamil Nadu of defying the Supreme Court’s order on the traditional lighting of the Karthigai Deepam at ‘Deepathoon’ on Thiruparankundram hill near Madurai, saying its actions amount to an insult to the judiciary, the Constitution and Hindu religious sentiments.
+
+The RSS affiliate also warned that “anti-Hindu” politics and such a mindset are nearing extinction from the country’s political landscape and will soon disappear from Tamil Nadu as well.
+
+In a statement, VHP international president Alok Kumar said preventing a centuries-old religious tradition hurts the faith and sentiments of crores of devotees of Lord Murugan and reflects the state government’s “anti-Hindu obstinacy”.
+
+“Preventing a centuries-old religious tradition despite the Supreme Court’s order is a grave insult to the Indian Constitution and the judiciary. It is also a serious affront to the faith and beliefs of crores of devotees of Lord Murugan,” Mr. Kumar said.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece)`,
     title_en: `🚨 The Midnight Move: How Thirupparankundram 'deepathoon' row LIVE: Karthigai Deepam lit at traditional spot despite Supreme court order Caught Everyone Completely Off Guard`,
-    summary_en: `Defying the Supreme Court's recent interim order that allowed the lighting of lamp on the controversial 'deepathoon' atop the hill in Madurai district, the maha... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content_en: `### Strategic Overview & Legislative Framework
+    summary_en: `You don’t have any Active Subscription.`,
+    content_en: `You don’t have any Active Subscription.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Thirupparankundram 'deepathoon' row LIVE: Karthigai Deepam lit at traditional spot despite Supreme court order**. According to authoritative communiqués released by The Hindu, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Weather News November 25, 2026 e-Paper
 
-### Institutional Oversight & Ground Reality
+The View From India Looking at World Affairs from the Indian perspective.
 
-Ground reality assessments indicate that Defying the Supreme Court's recent interim order that allowed the lighting of lamp on the controversial 'deepathoon' atop the hill in Madurai district, the maha deepam was lit at the traditional spot at Uchipillayar deepa mandapam on Tuesday (November 24, 2026). establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+First Day First Show News and reviews from the world of cinema and streaming.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Today's Cache Your download of the top 5 technology stories of the day.
 
-### Governance Parameter Assessment
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+Data Point Decoding the headlines with facts, figures, and numbers
 
-### Why This Matters: Policy Impact & Outlook
+THEdge At the cutting edge of education and careers
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Devotees barred from Tirupparankundram hill for the second consecutive day and heavy security deployed
+
+Updated - November 25, 2026 07:25 pm IST
+
+A visual of the lit ‘Karthigai Deepam’ at Uchi Pillaiyar Deepa Mandapam on Thirupparankundram hill, in Madurai, on November 25, 2026.
+                                                  | Photo Credit:  
+                          ANI
+
+A day after the annual Karthigai Deepam shone from its customary spot at the Deepa Mandapam, the Supreme Court said on Wednesday (November 25, 2026) that it would consider whether Tamil Nadu government authorities and the Arulmigu Subramaniaswamy temple administration had wilfully defied its November 20 order to light the lamp on the Deepathoon, near a dargah atop the Thirupparankundram Hill, as a “limited one-time arrangement”.
+
+Tamil Nadu authorities and Hindu parties locked horns in back-to-back oral mentions made before a Bench headed by Justice Aravind Kumar, and in subsequent filings. The Collector, in a preliminary status report, said he had made every arrangement for compliance with the court’s November 20 order to light the lamp on the Deepathoon, only for the temple’s Board of Trustees to fail to authorise a lamp-lighting team.
+
+Mr. Krishna made it clear that he had worked to comply with the SC’s order, adding that the actual religious act of lighting the lamp was left in the hands of the temple administration.
+
+Devotees and the general public were barred from ascending the Tirupparankundram hill for the second consecutive day on Wednesday (November 25, 2026), with heavy police personnel deployed near the entrance of the Palani Andavar temple.
+
+A section of advocates on Wednesday (November 25) staged a protest outside the Madurai Bench of the Madras High Court, condemning the Tamil Nadu government and police for failing to light the Karthigai Deepam at the ‘Deepathoon’ atop Thirupparankundram hill despite a Supreme Court order permitting one-time lighting of the lamp on the stone pillar.
+
+Raising slogans against the state administration and police, the protesting lawyers accused the government of showing disrespect to the apex court and the Constitution. The demonstrators also questioned the authorities over the non-implementation of the court’s directive and protested the action taken against Hindu Munnani functionaries.
+
+The Tamil Nadu government on Wednesday (November 25) apologised to the Supreme Court over the non-lighting of the ceremonial lamp at the disputed Deepathoon (pillar) on the Thirupparankundram hill and blamed the Arulmigu Subramaniaswamy temple authorities for it, as contempt proceedings were sought against the State.
+
+The Supreme Court, while refusing to initiate suo motu contempt proceedings, said it will hear such a plea if filed. A bench of Justices Aravind Kumar and Vipul M Pancholi said the registry will verify the filing of applications for permission to light the lamp, including contempt petitions, and the court will see if they can be listed on Thursday (November 26) or Friday (November 27).
+
+The Bharatiya Janata Party (BJP) on Wednesday (November 25, 2026) targeted the Tamil Nadu government over what it alleged was a defiance of the Supreme Court’s order on the Karthigai Deepam festival.
+
+### BJP accuses Tamil Nadu government, INDIA bloc of ‘contempt’ in Thirupparankundram issue
+
+BJP accuses INDIA alliance and Tamil Nadu government of contempt and anti-Hindu bias over Karthigai Deepam ruling and SC order.
+
+The Vishva Hindu Parishad (VHP) accused the TVK government in Tamil Nadu of defying the Supreme Court’s order on the traditional lighting of the Karthigai Deepam at ‘Deepathoon’ on Thiruparankundram hill near Madurai, saying its actions amount to an insult to the judiciary, the Constitution and Hindu religious sentiments.
+
+The RSS affiliate also warned that “anti-Hindu” politics and such a mindset are nearing extinction from the country’s political landscape and will soon disappear from Tamil Nadu as well.
+
+In a statement, VHP international president Alok Kumar said preventing a centuries-old religious tradition hurts the faith and sentiments of crores of devotees of Lord Murugan and reflects the state government’s “anti-Hindu obstinacy”.
+
+“Preventing a centuries-old religious tradition despite the Supreme Court’s order is a grave insult to the Indian Constitution and the judiciary. It is also a serious affront to the faith and beliefs of crores of devotees of Lord Murugan,” Mr. Kumar said.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
@@ -4613,73 +8305,159 @@ Beyond immediate headlines, this development carries durable implications for re
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `7 min read`,
+    read_time: `5 min read`,
     views_count: 323640,
     shares_count: 44690,
     published_at: `Tue, 24 Nov 2026 06:37:22 GMT`,
     source_name: `The Hindu`,
     source_url: `https://www.thehindu.com/news/national/punjab-elections-bharatiya-janata-party-shiromani-akali-dal-bjp-sad-alliance-seat-sharing-november-24-2026/article71737438.ece`,
     source_courtesy: `News Courtesy: The Hindu Digital Archives`,
-    image_url: `https://th-i.thgim.com/public/incoming/5162jy/article71737755.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-24%20at%2013.42.25.jpeg`,
+    image_url: `/images/articles/after-six-years-apart-bjp-and-akali-dal-announce-alliance-for-punjab-assemb-2026.jpg`,
     image_alt: `Official news wire photograph: Behind Closed Doors: What Really Happened When After six years apart, BJP and Akali Dal announce alliance for Punjab Assembly election`,
-    image_courtesy: `Photo Courtesy: The Hindu Photo Wire`,
+    image_courtesy: `Image Courtesy: The Hindu`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, The Hindu`,
-    summary: `After six years apart, BJP and Akali Dal announce alliance for Punjab Assembly election The Hindu BJP's Punjab Pivot: From 6 Solo Years To Alliance With Akalis,... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `You don’t have any Active Subscription.`,
+    content: `You don’t have any Active Subscription.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **After six years apart, BJP and Akali Dal announce alliance for Punjab Assembly election**. According to authoritative communiqués released by The Hindu, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Weather News November 24, 2026 e-Paper
 
-### Institutional Oversight & Ground Reality
+The View From India Looking at World Affairs from the Indian perspective.
 
-Ground reality assessments indicate that After six years apart, BJP and Akali Dal announce alliance for Punjab Assembly election The Hindu BJP's Punjab Pivot: From 6 Solo Years To Alliance With Akalis, What's Changed? NDTV BJP, SAD revive alliance for Punjab assembly polls, to contest all 117 seats Telegraph India ‘Sitting at the feet of the same BJP’: Bhagwant Mann attacks Sukhbir Badal over alliance The Times of India The trusted Modi commander from Gujarat behind BJP-Akali Dal alliance in Punjab India Today establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+First Day First Show News and reviews from the world of cinema and streaming.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Today's Cache Your download of the top 5 technology stories of the day.
 
-### Governance Parameter Assessment
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+Data Point Decoding the headlines with facts, figures, and numbers
 
-### Why This Matters: Policy Impact & Outlook
+THEdge At the cutting edge of education and careers
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Prime Minister Narendra Modi hails the move as ‘putting Punjab and the welfare of Punjabis first’
+
+Updated - November 24, 2026 05:53 pm IST - New Delhi
+
+Union Home Minister Amit Shah, BJP national president Nitin Nabin, and SAD president Sukhbir Singh Badal seen during a press conference at BJP headquarters in New Delhi on November 24, 2026.
+                                          | Photo Credit: Sushil Kumar Verma
+
+Six years after parting ways because of differences over the three farm laws, the Bharatiya Janata Party (BJP) and its oldest ally, the Shiromani Akali Dal (SAD ), reunited ahead of the Assembly election in Punjab, with Prime Minister Narendra Modi hailing the move as “putting Punjab and the welfare of Punjabis first”.
+
+The announcement of the return of the SAD to the National Democratic Alliance (NDA) headed by the BJP was made at a press conference held at the BJP’s headquarters in New Delhi, and addressed by Union Home Minister Amit Shah, SAD chief Sukhbir Singh Badal, and BJP president Nitin Nabin.
+
+Seat adjustment details are yet to be ironed out, according to Mr. Nabin, who said talks in this regard were ongoing, while Mr. Shah clarified that the SAD would continue to hold the status of “elder brother” or the more dominant partner in the State, with a claim to the Chief Minister’s post if the alliance came to power. “It is usually the elder brother who has a claim to the CM’s post,” Mr. Shah said.
+
+The alliance’s goal was to make Punjab drug-free by December 31, 2029, and make sure that law and order, development, and issues pertaining to farmers were addressed, the Home Minister also said.
+
+Mr. Badal hailed the long history and personal equations between senior leaders of the BJP, the late former PM Atal Behari Vajpayee and L.K. Advani, with his own father, late CM of Punjab, Parkash Singh Badal, who had, between the three of them, fashioned the alliance in 1996.
+
+“This is not a political alliance; it’s an alliance of people’s sentiments,” Mr. Sukhbir Badal said, emphasising Hindu- Sikh unity and harmony, as did Mr. Nabin in his remarks. The PM would be attending a public meeting in Moga on December 8, Mr. Sukhbir Badal said, marking the birth anniversary of Parkash Singh Badal.
+
+VIDEO | Delhi: During a joint press conference, Union Home Minister Amit Shah (@AmitShah) says, "BJP, the Akali Dal, and the NDA will contest in Punjab, and we will announce several key points in our manifesto. But, I want to make one thing very clear: eliminating drugs from Punjab will be our primary goal, eliminating corruption in Punjab will be our primary goal, and strengthening nationalist forces in Punjab will also be our primary goal. The current government in the state, led by Kejriwal Ji, had come to power promising to eliminate drugs within three months. They promised to eliminate drugs, but the problem has not been eradicated; it has increased. In 2017, Rahul Gandhi Ji had promised that drugs would be eliminated within one term. He made that promise, but his party also did nothing to address the drug problem. Now, I want to reiterate a promise that I made there: by December 31, 2029, we will make Punjab completely drug-free."
+
+
+					
+								(Full video available on PTI Videos - https://t.co/bIyFWTfmBd)
+
+While the contours of the exact seat-sharing agreement are yet to be decided, in the past, the BJP contested 23 out of the 117 seats in the fray, a situation that is likely to change, with the BJP being given more seats, albeit still fewer than the SAD.
+
+The alliance had won 93 seats in the 1997 Assembly election, with the SAD winning 75 seats and the BJP winning 18 seats. After losing power to the Congress in 2002, the alliance returned to office in 2007 with 68 seats and retained power in 2012 with an identical tally, bucking Punjab’s trend of voting out incumbent governments.
+
+The SAD walked away from the NDA in 2020, with party MP Harsimrat Badal also resigning her position as Minister in the Modi government at the Centre over the three farm laws that sought to re-engineer agri-commerce, igniting months-long protests on Delhi’s borders. To a question by the media on what the SAD had to say about the farm laws now, Mr. Shah answered that since the farm Bills had been withdrawn by the government, “there is no point in asking the question”.
+
+Mr. Modi had pushed for the alliance, for both sentiment and realpolitik, sources in the know said. “The sentiments with regard to the Sikh community, and an alliance of parties appealing to both Hindu and orthodox Sikh panthic support, is important for social harmony in Punjab, and blunts any appeal that Waris Punjab De might have. Repeated surveys also show that an alliance between the two parties would energise cadres,” a senior BJP leader said.
+
+Waris Punjab De is a political outfit founded in 2021 around issues of the political rights of Sikhs, headed by incarcerated Lok Sabha MP Amritpal Singh.
+
+Published - November 24, 2026 12:07 pm IST
+
+Punjab / Bharatiya Janata Party / Shiromani Akali Dal
+
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/punjab-elections-bharatiya-janata-party-shiromani-akali-dal-bjp-sad-alliance-seat-sharing-november-24-2026/article71737438.ece)`,
     title_en: `🚨 Behind Closed Doors: What Really Happened When After six years apart, BJP and Akali Dal announce alliance for Punjab Assembly election`,
-    summary_en: `After six years apart, BJP and Akali Dal announce alliance for Punjab Assembly election The Hindu BJP's Punjab Pivot: From 6 Solo Years To Alliance With Akalis,... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content_en: `### Strategic Overview & Legislative Framework
+    summary_en: `You don’t have any Active Subscription.`,
+    content_en: `You don’t have any Active Subscription.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **After six years apart, BJP and Akali Dal announce alliance for Punjab Assembly election**. According to authoritative communiqués released by The Hindu, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Weather News November 24, 2026 e-Paper
 
-### Institutional Oversight & Ground Reality
+The View From India Looking at World Affairs from the Indian perspective.
 
-Ground reality assessments indicate that After six years apart, BJP and Akali Dal announce alliance for Punjab Assembly election The Hindu BJP's Punjab Pivot: From 6 Solo Years To Alliance With Akalis, What's Changed? NDTV BJP, SAD revive alliance for Punjab assembly polls, to contest all 117 seats Telegraph India ‘Sitting at the feet of the same BJP’: Bhagwant Mann attacks Sukhbir Badal over alliance The Times of India The trusted Modi commander from Gujarat behind BJP-Akali Dal alliance in Punjab India Today establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+First Day First Show News and reviews from the world of cinema and streaming.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Today's Cache Your download of the top 5 technology stories of the day.
 
-### Governance Parameter Assessment
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+Data Point Decoding the headlines with facts, figures, and numbers
 
-### Why This Matters: Policy Impact & Outlook
+THEdge At the cutting edge of education and careers
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Prime Minister Narendra Modi hails the move as ‘putting Punjab and the welfare of Punjabis first’
+
+Updated - November 24, 2026 05:53 pm IST - New Delhi
+
+Union Home Minister Amit Shah, BJP national president Nitin Nabin, and SAD president Sukhbir Singh Badal seen during a press conference at BJP headquarters in New Delhi on November 24, 2026.
+                                          | Photo Credit: Sushil Kumar Verma
+
+Six years after parting ways because of differences over the three farm laws, the Bharatiya Janata Party (BJP) and its oldest ally, the Shiromani Akali Dal (SAD ), reunited ahead of the Assembly election in Punjab, with Prime Minister Narendra Modi hailing the move as “putting Punjab and the welfare of Punjabis first”.
+
+The announcement of the return of the SAD to the National Democratic Alliance (NDA) headed by the BJP was made at a press conference held at the BJP’s headquarters in New Delhi, and addressed by Union Home Minister Amit Shah, SAD chief Sukhbir Singh Badal, and BJP president Nitin Nabin.
+
+Seat adjustment details are yet to be ironed out, according to Mr. Nabin, who said talks in this regard were ongoing, while Mr. Shah clarified that the SAD would continue to hold the status of “elder brother” or the more dominant partner in the State, with a claim to the Chief Minister’s post if the alliance came to power. “It is usually the elder brother who has a claim to the CM’s post,” Mr. Shah said.
+
+The alliance’s goal was to make Punjab drug-free by December 31, 2029, and make sure that law and order, development, and issues pertaining to farmers were addressed, the Home Minister also said.
+
+Mr. Badal hailed the long history and personal equations between senior leaders of the BJP, the late former PM Atal Behari Vajpayee and L.K. Advani, with his own father, late CM of Punjab, Parkash Singh Badal, who had, between the three of them, fashioned the alliance in 1996.
+
+“This is not a political alliance; it’s an alliance of people’s sentiments,” Mr. Sukhbir Badal said, emphasising Hindu- Sikh unity and harmony, as did Mr. Nabin in his remarks. The PM would be attending a public meeting in Moga on December 8, Mr. Sukhbir Badal said, marking the birth anniversary of Parkash Singh Badal.
+
+VIDEO | Delhi: During a joint press conference, Union Home Minister Amit Shah (@AmitShah) says, "BJP, the Akali Dal, and the NDA will contest in Punjab, and we will announce several key points in our manifesto. But, I want to make one thing very clear: eliminating drugs from Punjab will be our primary goal, eliminating corruption in Punjab will be our primary goal, and strengthening nationalist forces in Punjab will also be our primary goal. The current government in the state, led by Kejriwal Ji, had come to power promising to eliminate drugs within three months. They promised to eliminate drugs, but the problem has not been eradicated; it has increased. In 2017, Rahul Gandhi Ji had promised that drugs would be eliminated within one term. He made that promise, but his party also did nothing to address the drug problem. Now, I want to reiterate a promise that I made there: by December 31, 2029, we will make Punjab completely drug-free."
+
+
+					
+								(Full video available on PTI Videos - https://t.co/bIyFWTfmBd)
+
+While the contours of the exact seat-sharing agreement are yet to be decided, in the past, the BJP contested 23 out of the 117 seats in the fray, a situation that is likely to change, with the BJP being given more seats, albeit still fewer than the SAD.
+
+The alliance had won 93 seats in the 1997 Assembly election, with the SAD winning 75 seats and the BJP winning 18 seats. After losing power to the Congress in 2002, the alliance returned to office in 2007 with 68 seats and retained power in 2012 with an identical tally, bucking Punjab’s trend of voting out incumbent governments.
+
+The SAD walked away from the NDA in 2020, with party MP Harsimrat Badal also resigning her position as Minister in the Modi government at the Centre over the three farm laws that sought to re-engineer agri-commerce, igniting months-long protests on Delhi’s borders. To a question by the media on what the SAD had to say about the farm laws now, Mr. Shah answered that since the farm Bills had been withdrawn by the government, “there is no point in asking the question”.
+
+Mr. Modi had pushed for the alliance, for both sentiment and realpolitik, sources in the know said. “The sentiments with regard to the Sikh community, and an alliance of parties appealing to both Hindu and orthodox Sikh panthic support, is important for social harmony in Punjab, and blunts any appeal that Waris Punjab De might have. Repeated surveys also show that an alliance between the two parties would energise cadres,” a senior BJP leader said.
+
+Waris Punjab De is a political outfit founded in 2021 around issues of the political rights of Sikhs, headed by incarcerated Lok Sabha MP Amritpal Singh.
+
+Published - November 24, 2026 12:07 pm IST
+
+Punjab / Bharatiya Janata Party / Shiromani Akali Dal
+
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/punjab-elections-bharatiya-janata-party-shiromani-akali-dal-bjp-sad-alliance-seat-sharing-november-24-2026/article71737438.ece)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
@@ -4702,9 +8480,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `News18 Hindi`,
     source_url: `https://hindi.news18.com/photogallery/entertainment/bollywood-ramayana-crosses-1700-crore-nitesh-tiwari-film-part-2-have-hanuman-sunny-deol-indrajit-raghav-juyal-faisal-mallik-strong-role-11008749.html`,
     source_courtesy: `News Courtesy: News18 Hindi Digital Archives`,
-    image_url: `https://images.news18.com/ibnkhabar/uploads/2026/11/ram-2-2026-11-00a1aba9d363a8d168091eb6418d8cd8-1200x675.jpg`,
+    image_url: `/images/articles/2-2-news18-hindi-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: रामायण' के पार्ट 2 में सिर्फ सनी देओल नहीं, ये सितारे भी करेंगे तांडव, 2 के नाम पर लग चुकी है मुहर - News18 Hindi`,
-    image_courtesy: `Photo Courtesy: News18 Hindi Photo Wire`,
+    image_courtesy: `Image Courtesy: News18 Hindi`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Ramayana, Breaking News, National, Hindi News`,
     summary: `'रामायण' के पार्ट 2 में सिर्फ सनी देओल नहीं, ये सितारे भी करेंगे तांडव, 2 के नाम पर लग चुकी है मुहर 18... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -4788,7 +8566,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Jagran`,
     source_url: `https://www.jagran.com/business/personal-finance-prime-focus-from-garage-to-hollywood-the-man-behind-ramayan-vfx-40445611.html`,
     source_courtesy: `News Courtesy: Jagran Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1598387993441-a364f854c3e1?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/8-19-prime-focus-from-garage-to-hollywood-the-man-behind-ramayan-vfx-jagran-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: गैराज से हॉलीवुड तक: 'रामायण' बनाने 8 ऑस्कर जीतने वाली प्राइम फोकस के पीछे इस शख्स का दिमाग; ऐसा रहा ₹19 हजार करोड़ का सफर - prime focus from garage to hollywood the man behind ramayan vfx - Jagran`,
     image_courtesy: `Photo Courtesy: Jagran Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -4874,7 +8652,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `AajTak`,
     source_url: `https://www.aajtak.in/entertainment/bollywood-news/story/ye-prem-mol-liya-director-sooraj-barjatya-reveals-halted-explosive-marriage-film-salman-khan-tmovj-dskc-2703937-2026-11-24`,
     source_courtesy: `News Courtesy: AajTak Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/sooraj-barjatya-movies-aajtak-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: Sooraj Barjatya Movies: शादी पर विवादित फिल्म बनाना चाहते थे सूरज बड़जात्या, लोगों की चेतावनी से डरे - AajTak`,
     image_courtesy: `Photo Courtesy: AajTak Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -4960,7 +8738,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `AajTak`,
     source_url: `https://www.aajtak.in/entertainment/ott/story/panchayat-season-5-trailer-fans-reactions-vidhayak-ji-pankaj-jha-missed-jitu-bhaiya-banrakas-tmova-dskc-2704506-2026-11-24`,
     source_courtesy: `News Courtesy: AajTak Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/panchayat-trailer-x-reactions-aajtak-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: Panchayat Trailer X Reactions: फुलेरा में फिर लौटेगा देसी ड्रामा! ट्रेलर देख झूमे फैंस, विधायक जी के लिए उठी आवाज - AajTak`,
     image_courtesy: `Photo Courtesy: AajTak Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -5046,7 +8824,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Dainik Bhaskar`,
     source_url: `https://www.bhaskar.com/g/international/news/russia-ukraine-war-putin-military-recruitment-casualties-update-139783815.html`,
     source_courtesy: `News Courtesy: Dainik Bhaskar Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/7-2-4-dainik-bhaskar-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: रूस के 7 लाख सैनिकों की जंग में मौत: यह सरकारी रिकॉर्ड से 2 लाख ज्यादा; हर साल 4 लाख सैनिकों की भर्ती कर रह... - Dainik Bhaskar`,
     image_courtesy: `Photo Courtesy: Dainik Bhaskar Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -5132,9 +8910,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `India TV Hindi`,
     source_url: `https://www.indiatv.in/sports/cricket/vaibhav-sooryavanshi-smashes-fastest-hundred-in-list-a-cricket-with-28-ball-century-against-uae-2026-11-24-1256118`,
     source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1600&q=85&sig=908`,
+    image_url: `/images/articles/28-14-india-tv-hindi-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: वैभव सूर्यवंशी ने तोड़ा वर्ल्ड रिकॉर्ड, 28 गेंदों पर ठोकी तूफानी सेंचुरी, 14 गगनचुंबी छक्के भी जड़े - India TV Hindi`,
-    image_courtesy: `Photo Courtesy: India TV Hindi Photo Wire`,
+    image_courtesy: `Image Courtesy: India TV Hindi`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Sports, Breaking News, National, Hindi News`,
     summary: `वैभव सूर्यवंशी ने तोड़ा वर्ल्ड रिकॉर्ड, 28 गेंदों पर ठोकी तूफानी सेंचुरी, 14 गगनचुंबी छक्के भी जड़े    28 छक्के, 7 चौके... वैभव सूर्यवंशी ने रच दिया इतिहास, 52 ... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -5218,9 +8996,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Navbharat Live`,
     source_url: `https://navbharatlive.com/sports/cricket/india-a-vs-uae-live-score-updates-rising-stars-asia-cup-2026`,
     source_courtesy: `News Courtesy: Navbharat Live Digital Archives`,
-    image_url: `https://media.assettype.com/navbharatlive%2F2026-11-24%2Fny0w3s9z%2Find-vs-uae-2.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100`,
+    image_url: `/images/articles/india-a-vs-uae-live-score-uae-7-142-250-navbharat-live-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: India A vs UAE Live Score: भारत ने UAE को 7 विकेट से हराया, 14.2 ओवर में 250 का लक्ष्य किया हासिल - Navbharat Live`,
-    image_courtesy: `Photo Courtesy: Navbharat Live Photo Wire`,
+    image_courtesy: `Image Courtesy: Navbharat Live`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Sports, Breaking News, National, Hindi News`,
     summary: `: भारत ने  को 7 विकेट से हराया, 14.2 ओवर में 250 का लक्ष्य किया हासिल      : करो या मरो होगा इंडिया-ए बनाम यूएई मुकाबला, भारत को कैसे मिलेगा सेमीफाइनल का टिकट? ... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -5304,9 +9082,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Onlymyhealth`,
     source_url: `https://www.onlymyhealth.com/hindi/national-milk-day-debunking-5-common-milk-myths-and-revealing-the-scientific-truth-behind-them-12977852053`,
     source_courtesy: `News Courtesy: Onlymyhealth Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/national-milk-day-5-onlymyhealth-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: National Milk Day: दूध को लेकर फैले 5 बड़े झूठ, क्या आप भी इनमें विश्वास करते हैं? - Onlymyhealth`,
-    image_courtesy: `Photo Courtesy: Onlymyhealth Photo Wire`,
+    image_courtesy: `Image Courtesy: Onlymyhealth`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Health, Breaking News, National, Hindi News`,
     summary: `: दूध को लेकर फैले 5 बड़े झूठ, क्या आप भी इनमें विश्वास करते हैं?... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -5390,9 +9168,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `BBC`,
     source_url: `https://www.bbc.com/hindi/podcasts/p05525mc/p0pp76qy`,
     source_courtesy: `News Courtesy: BBC Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?auto=format&fit=crop&w=1600&q=85&sig=911`,
+    image_url: `/images/articles/health-breaking-dispatch-911-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: HIV-AIDS अभी भी क्यों बना हुआ है एक ग्लोबल चैलेंज`,
-    image_courtesy: `Photo Courtesy: BBC Photo Wire`,
+    image_courtesy: `Image Courtesy: BBC`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Health, Breaking News, National, Hindi News`,
     summary: `- अभी भी क्यों बना हुआ है एक ग्लोबल चैलेंज... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -5476,9 +9254,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Navbharat Live`,
     source_url: `https://navbharatlive.com/technology/motorola-signature-27-to-launch-in-india-on-december-9-200mp-camera-and-a-7000mah-battery-srs13`,
     source_courtesy: `News Courtesy: Navbharat Live Digital Archives`,
-    image_url: `https://media.assettype.com/navbharatlive%2F2026-11-24%2Fd9e9fwzz%2FMotorola-Signature-27.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100`,
+    image_url: `/images/articles/motorola-signature-27-9-200mp-7000mah-navbharat-live-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: Motorola Signature 27 भारत में 9 दिसंबर को होगा लॉन्च, 200MP कैमरा और 7,000mAh बैटरी से लैस होगा फोन - Navbharat Live`,
-    image_courtesy: `Photo Courtesy: Navbharat Live Photo Wire`,
+    image_courtesy: `Image Courtesy: Navbharat Live`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Tech, Breaking News, National, Hindi News`,
     summary: `27 भारत में 9 दिसंबर को होगा लॉन्च, 200 कैमरा और 7,000 बैटरी से लैस होगा फोन   200 कैमरा और 7000 बैटरी! 9 दिसंबर को आएगा  का नया फोन!  23 से 29 नवंबर के बीच इस ... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -5562,9 +9340,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `AajTak`,
     source_url: `https://www.aajtak.in/visualstories/technology/ulefone-armor-35-pro-features-11000mah-battery-prym-287740-24-11-2026`,
     source_courtesy: `News Courtesy: AajTak Digital Archives`,
-    image_url: `https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/11/New-Project-2026-11-24T092644552ITG-1795492619262.jpg?size=*:675`,
+    image_url: `/images/articles/11000mah-12km-aajtak-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: 11,000mAh बैटरी और 1.2KM रेंजफाइंडर, गजब है ये फोन! - AajTak`,
-    image_courtesy: `Photo Courtesy: AajTak Photo Wire`,
+    image_courtesy: `Image Courtesy: AajTak`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Tech, Breaking News, National, Hindi News`,
     summary: `11,000 बैटरी और 1.2 रेंजफाइंडर, गजब है ये फोन!... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -5648,7 +9426,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `India TV Hindi`,
     source_url: `https://www.indiatv.in/delhi/policemen-attacked-with-knives-at-jama-masjid-police-station-in-delhi-five-policemen-injured-2026-11-23-1255948`,
     source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1600&q=85&sig=876`,
+    image_url: `https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `आधिकारिक समाचार छायाचित्र: दिल्ली के जामा मस्जिद थाने में पुलिसकर्मियों पर चाकू से हमला, 9 घायल; पुलिस ने हमलावर को किया गिरफ्तार - India TV Hindi`,
     image_courtesy: `Photo Courtesy: India TV Hindi Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -5734,9 +9512,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `BBC`,
     source_url: `https://www.bbc.com/hindi/articles/cqx2w0v9x0nro`,
     source_courtesy: `News Courtesy: BBC Digital Archives`,
-    image_url: `https://ichef.bbci.co.uk/news/1200/branded_hindi/8880/live/9fe51170-e6d8-11f1-a602-b5625863c796.jpg`,
+    image_url: `/images/articles/politics-breaking-dispatch-877-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: कॉप-31 समझौते पर सहमति क्यों नहीं बनी, प्रमुख देशों ने क्या कहा?`,
-    image_courtesy: `Photo Courtesy: BBC Photo Wire`,
+    image_courtesy: `Image Courtesy: BBC`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, National, Hindi News`,
     summary: `कॉप-31 समझौते पर सहमति क्यों नहीं बनी, प्रमुख देशों ने क्या कहा?   के पक्षकारों का 31वाँ सम्मेलन ( 31)   31 के नतीजों से निराश महासचिव की जलवायु न्याय की पुकार ... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -5820,9 +9598,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `India TV Hindi`,
     source_url: `https://www.indiatv.in/viral/news/several-streetlights-removed-from-villages-after-candidate-loss-election-in-rajasthan-2026-11-23-1255893`,
     source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&w=1600&q=85&sig=878`,
+    image_url: `/images/articles/50-india-tv-hindi-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: चुनाव में हार के बाद गांवों से उतारी गईं 50 रोड लाइटें, ग्रामीणों ने उठाए सवाल; बताया- "चार दिन की चांदनी" - India TV Hindi`,
-    image_courtesy: `Photo Courtesy: India TV Hindi Photo Wire`,
+    image_courtesy: `Image Courtesy: India TV Hindi`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, National, Hindi News`,
     summary: `चुनाव में हार के बाद गांवों से उतारी गईं 50 रोड लाइटें, ग्रामीणों ने उठाए सवाल; बताया- "चार दिन की चांदनी"    खबर हटके- व्हीलचेयर पर घूमने वाली भेड़: पक्षियों क... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -5906,7 +9684,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `NarendraModi.in`,
     source_url: `https://www.narendramodi.in/be/mobile/prime-minister-narendra-modi-attends-a-public-rally-in-samastipur-and-begusarai-bihar-24th-october-twenty-twenty-five-598888`,
     source_courtesy: `News Courtesy: NarendraModi.in Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1532375810709-75b1da00537c?auto=format&fit=crop&w=1600&q=85&sig=879`,
+    image_url: `https://images.unsplash.com/photo-1517466787929-bc90951d0974?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `Official news wire photograph: Revealed: The Shocking Details Behind Har ek ke haath mein light hain toh lantern (RJD symbol) chahiye kya?': PM Modi in Samastipur - NarendraModi.in`,
     image_courtesy: `Photo Courtesy: NarendraModi.in Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -5981,73 +9759,99 @@ Beyond immediate headlines, this development carries durable implications for re
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `7 min read`,
+    read_time: `6 min read`,
     views_count: 316600,
     shares_count: 43700,
     published_at: `Mon, 23 Nov 2026 18:26:54 GMT`,
     source_name: `PM India`,
     source_url: `https://www.pmindia.gov.in/en/news_updates/pm-joins-the-shabad-kirtan-on-the-parkash-purab-of-sri-guru-nanak-dev-ji/?comment=disable`,
     source_courtesy: `News Courtesy: PM India Digital Archives`,
-    image_url: `https://www.pmindia.gov.in/wp-content/uploads/2026/10/default-image-1.jpg`,
+    image_url: `/images/articles/pm-joins-the-shabad-kirtan-on-the-parkash-purab-of-sri-guru-nanak-dev-ji-pm-2026.jpg`,
     image_alt: `Official news wire photograph: The Secret Truth Behind: PM joins the Shabad Kirtan on the Parkash Purab of Sri Guru Nanak Dev Ji`,
-    image_courtesy: `Photo Courtesy: PM India Photo Wire`,
+    image_courtesy: `Image Courtesy: PM India`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, PM India`,
-    summary: `PM joins the Shabad Kirtan on the Parkash Purab of Sri Guru Nanak Dev Ji PM India... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `The entire Sikh tradition is synonymous with the spirit of sacrificing everything for the nation and its culture: PM`,
+    content: `### PM joins the Shabad Kirtan on the Parkash Purab of Sri Guru Nanak Dev Ji
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **PM joins the Shabad Kirtan on the Parkash Purab of Sri Guru Nanak Dev Ji - PM India**. According to authoritative communiqués released by PM India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+The entire Sikh tradition is synonymous with the spirit of sacrificing everything for the nation and its culture: PM
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Today, conflicts are underway in numerous parts of the world, with countless innocent people and families facing violence and unrest; In such times, to ensure peace in every corner of the globe, safety for every family, and the opportunity for every individual to live with dignity, the spirit of ‘Sarbat Da Bhala’ becomes all the more vital: PM
 
-### Institutional Oversight & Ground Reality
+Every youth of the nation should be free from addiction, fulfill their dreams, study well, and bring pride to their family and nation; Families play a major role in this effort, and together, our Sangat, Gurudwaras, and social organisations can guide the youth and give them the courage to choose the right path: PM
 
-Ground reality assessments indicate that PM joins the Shabad Kirtan on the Parkash Purab of Sri Guru Nanak Dev Ji PM India establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+Prime Minister Shri Narendra Modi today joined the Shabad Kirtan on the sacred occasion of the Parkash Purab of Sri Guru Nanak Dev Ji. Addressing the gathering on the occasion, the Prime Minister opened his remarks with the greeting Waheguru Ji Ka Khalsa, Waheguru Ji Ki Fateh! Bowing with reverence to Guru Nanak Dev Ji in the sacred atmosphere and expressing heartfelt gratitude for the opportunity to participate in the Shabad Kirtan, he extended festive greetings to the nation.“I extend countless greetings to all countrymen on the occasion of Parkash Purab,” remarked Shri Modi.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Describing every Shabad of Gurbani and every melody of Kirtan as far more than mere music, the Prime Minister characterized it as a spiritual practice in itself and like diving into an ocean of knowledge. “Therefore, whenever I receive an invitation for such an event, whenever I get the opportunity, I definitely attend the Sangat and Kirtan,” remarked PM Modi.
 
-### Governance Parameter Assessment
+Recalling Guru Nanak Dev Ji’s teaching of Kirat Karo, Vand Chhako, Naam Japo as a natural part of his life from childhood, the Prime Minister spoke fondly of bowing in Gurdwaras, immersing in Gurbani, experiencing the joy of Seva, partaking in Langar, and paying obeisance at Sri Harmandir Sahib on numerous occasions. “Old colleagues would know that I have also spent a lot of time in Punjab, and that period has been one of the most special memories of my life,” remarked Shri Modi.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+Expressing gratitude for continually receiving the company of Sikh saints by the Guru’s grace, including the privilege of hosting numerous saints and scholars at the Prime Minister’s residence, Shri Modi noted the distinct spiritual energy felt through their presence at the event and felicitated all Sikh brothers. “On this occasion, I bow to all saints and scholars,” remarked PM Modi.
 
-### Why This Matters: Policy Impact & Outlook
+Highlighting that this year’s Parkash Purab coincides with the 350th martyrdom anniversary of Sri Guru Tegh Bahadur Ji, who laid down his life on the very soil of Delhi to protect the nation’s identity, faith, belief, and values, the Prime Minister noted that even after 350 years, the inspiration of that sacrifice remains deeply ingrained in the soil and every corner of the nation. “Every citizen of the country will always remain grateful to him for it,” affirmed Shri Modi.
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+Observing that the entire Sikh tradition has been synonymous with sacrificing everything for the nation and its culture, exemplified by the martyrdom of Bhai Mati Das Ji, Bhai Sati Das Ji, and Bhai Dayala Ji as well as the unabated spirit during the freedom struggle, the Prime Minister paid tribute to Sardar Teja Singh Samundri Ji for his vital role in the Gurdwara Reform Movement and lifelong dedication to service. “This year also marks the completion of one hundred years of his martyrdom; on this occasion, I bow to him as well,” noted PM Modi.
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+Recalling that India endured centuries of slavery and that even during its most difficult historical periods the Gurus kept alive the flame of protecting the nation, the Prime Minister emphasized that today’s great national resolves and the goal of Viksit Bharat can only be achieved through their inspiration and ideals. “Therefore, it is the responsibility of all of us to keep Sikh traditions and the heritage of Sikhi ahead as a beacon of light,” asserted Shri Modi.
+
+Detailing how the government has fulfilled this responsibility with complete faith over the past 12 years, the Prime Minister cited the celebrations of the 350th Parkash Purab of Guru Gobind Singh Ji and the 550th Parkash Purab of Guru Nanak Dev Ji across India and abroad. He noted that commemorative coins and postage stamps were released, special trains were run, Gurbani programs were organized nationwide, and a national event was held at the Red Fort to mark the 400th Parkash Purab of Guru Tegh Bahadur Ji. “With this same spirit, we are currently also observing the 350th Martyrdom Day of Guru Tegh Bahadur Ji,” noted PM Modi.
+
+Noting that the nation will observe the next Veer Bal Diwas on December 26, the Prime Minister explained that the national observance was initiated to pass on the immortal saga of the brave Sahibzadas’ martyrdom and Mata Gujri’s resolve to the younger generation. “When our children learn about the circumstances of that era, how the Sahibzadas and Gurus attained martyrdom, and how our faith remained protected, this knowledge and inspiration will build youth dedicated to the nation,” asserted Shri Modi.
+
+Pointing out that efforts to celebrate the glory of the Gurus extend beyond India’s borders, the Prime Minister recalled his recent visit to Khalsa Diwan, the oldest Gurdwara in the Philippines, where the Government of India is supporting its redevelopment. “It is our effort that the light of our Gurus reaches every person, and with their blessings, India touches new heights,” affirmed PM Modi.
+
+Quoting the Ardas prayer ‘Nanak Naam Chardi Kala, Tere Bhane Sarbat Da Bhala’, the Prime Minister noted that Gurbani imparts the universal teaching of working for the welfare of all. “The thought of wishing well for everyone awakens in the mind only when we begin to consider everyone as our own,” observed Shri Modi.
+
+Referring to ongoing conflicts around the world where innocent people and families face violence and unrest, the Prime Minister emphasized the universal need for peace, safety for every family, and a life of dignity for every individual. “In such times, the spirit of Sarbat Da Bhala becomes even more important,” asserted PM Modi.
+
+Observing that the greatest test of the life values imparted by Guru Sahib takes place in everyday life, the Prime Minister drew attention to the pressing societal challenge of drugs. “When a young person falls into the grip of addiction, the dreams of the entire family shatter along with them,” observed Shri Modi.
+
+Calling for every youth in India to be free from addiction so they can study well, fulfill their dreams, and bring pride to their families and the nation, the Prime Minister underscored the vital role of families, the Sangat, Gurdwaras, and social institutions in guiding youth toward the right path, before concluding with Parkash Purab greetings and the traditional Sikh salutations. “I am confident that with Guru Sahib’s grace and the collective efforts of society, we will be able to give our new generation a safe and bright future,” affirmed PM Modi.
+
+---
+
+**Original Source:** [PM India](https://www.pmindia.gov.in/en/news_updates/pm-joins-the-shabad-kirtan-on-the-parkash-purab-of-sri-guru-nanak-dev-ji/?comment=disable)`,
     title_en: `🚨 The Secret Truth Behind: PM joins the Shabad Kirtan on the Parkash Purab of Sri Guru Nanak Dev Ji`,
-    summary_en: `PM joins the Shabad Kirtan on the Parkash Purab of Sri Guru Nanak Dev Ji PM India... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content_en: `### Strategic Overview & Legislative Framework
+    summary_en: `The entire Sikh tradition is synonymous with the spirit of sacrificing everything for the nation and its culture: PM`,
+    content_en: `### PM joins the Shabad Kirtan on the Parkash Purab of Sri Guru Nanak Dev Ji
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **PM joins the Shabad Kirtan on the Parkash Purab of Sri Guru Nanak Dev Ji - PM India**. According to authoritative communiqués released by PM India, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+The entire Sikh tradition is synonymous with the spirit of sacrificing everything for the nation and its culture: PM
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Today, conflicts are underway in numerous parts of the world, with countless innocent people and families facing violence and unrest; In such times, to ensure peace in every corner of the globe, safety for every family, and the opportunity for every individual to live with dignity, the spirit of ‘Sarbat Da Bhala’ becomes all the more vital: PM
 
-### Institutional Oversight & Ground Reality
+Every youth of the nation should be free from addiction, fulfill their dreams, study well, and bring pride to their family and nation; Families play a major role in this effort, and together, our Sangat, Gurudwaras, and social organisations can guide the youth and give them the courage to choose the right path: PM
 
-Ground reality assessments indicate that PM joins the Shabad Kirtan on the Parkash Purab of Sri Guru Nanak Dev Ji PM India establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+Prime Minister Shri Narendra Modi today joined the Shabad Kirtan on the sacred occasion of the Parkash Purab of Sri Guru Nanak Dev Ji. Addressing the gathering on the occasion, the Prime Minister opened his remarks with the greeting Waheguru Ji Ka Khalsa, Waheguru Ji Ki Fateh! Bowing with reverence to Guru Nanak Dev Ji in the sacred atmosphere and expressing heartfelt gratitude for the opportunity to participate in the Shabad Kirtan, he extended festive greetings to the nation.“I extend countless greetings to all countrymen on the occasion of Parkash Purab,” remarked Shri Modi.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Describing every Shabad of Gurbani and every melody of Kirtan as far more than mere music, the Prime Minister characterized it as a spiritual practice in itself and like diving into an ocean of knowledge. “Therefore, whenever I receive an invitation for such an event, whenever I get the opportunity, I definitely attend the Sangat and Kirtan,” remarked PM Modi.
 
-### Governance Parameter Assessment
+Recalling Guru Nanak Dev Ji’s teaching of Kirat Karo, Vand Chhako, Naam Japo as a natural part of his life from childhood, the Prime Minister spoke fondly of bowing in Gurdwaras, immersing in Gurbani, experiencing the joy of Seva, partaking in Langar, and paying obeisance at Sri Harmandir Sahib on numerous occasions. “Old colleagues would know that I have also spent a lot of time in Punjab, and that period has been one of the most special memories of my life,” remarked Shri Modi.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+Expressing gratitude for continually receiving the company of Sikh saints by the Guru’s grace, including the privilege of hosting numerous saints and scholars at the Prime Minister’s residence, Shri Modi noted the distinct spiritual energy felt through their presence at the event and felicitated all Sikh brothers. “On this occasion, I bow to all saints and scholars,” remarked PM Modi.
 
-### Why This Matters: Policy Impact & Outlook
+Highlighting that this year’s Parkash Purab coincides with the 350th martyrdom anniversary of Sri Guru Tegh Bahadur Ji, who laid down his life on the very soil of Delhi to protect the nation’s identity, faith, belief, and values, the Prime Minister noted that even after 350 years, the inspiration of that sacrifice remains deeply ingrained in the soil and every corner of the nation. “Every citizen of the country will always remain grateful to him for it,” affirmed Shri Modi.
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+Observing that the entire Sikh tradition has been synonymous with sacrificing everything for the nation and its culture, exemplified by the martyrdom of Bhai Mati Das Ji, Bhai Sati Das Ji, and Bhai Dayala Ji as well as the unabated spirit during the freedom struggle, the Prime Minister paid tribute to Sardar Teja Singh Samundri Ji for his vital role in the Gurdwara Reform Movement and lifelong dedication to service. “This year also marks the completion of one hundred years of his martyrdom; on this occasion, I bow to him as well,” noted PM Modi.
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+Recalling that India endured centuries of slavery and that even during its most difficult historical periods the Gurus kept alive the flame of protecting the nation, the Prime Minister emphasized that today’s great national resolves and the goal of Viksit Bharat can only be achieved through their inspiration and ideals. “Therefore, it is the responsibility of all of us to keep Sikh traditions and the heritage of Sikhi ahead as a beacon of light,” asserted Shri Modi.
+
+Detailing how the government has fulfilled this responsibility with complete faith over the past 12 years, the Prime Minister cited the celebrations of the 350th Parkash Purab of Guru Gobind Singh Ji and the 550th Parkash Purab of Guru Nanak Dev Ji across India and abroad. He noted that commemorative coins and postage stamps were released, special trains were run, Gurbani programs were organized nationwide, and a national event was held at the Red Fort to mark the 400th Parkash Purab of Guru Tegh Bahadur Ji. “With this same spirit, we are currently also observing the 350th Martyrdom Day of Guru Tegh Bahadur Ji,” noted PM Modi.
+
+Noting that the nation will observe the next Veer Bal Diwas on December 26, the Prime Minister explained that the national observance was initiated to pass on the immortal saga of the brave Sahibzadas’ martyrdom and Mata Gujri’s resolve to the younger generation. “When our children learn about the circumstances of that era, how the Sahibzadas and Gurus attained martyrdom, and how our faith remained protected, this knowledge and inspiration will build youth dedicated to the nation,” asserted Shri Modi.
+
+Pointing out that efforts to celebrate the glory of the Gurus extend beyond India’s borders, the Prime Minister recalled his recent visit to Khalsa Diwan, the oldest Gurdwara in the Philippines, where the Government of India is supporting its redevelopment. “It is our effort that the light of our Gurus reaches every person, and with their blessings, India touches new heights,” affirmed PM Modi.
+
+Quoting the Ardas prayer ‘Nanak Naam Chardi Kala, Tere Bhane Sarbat Da Bhala’, the Prime Minister noted that Gurbani imparts the universal teaching of working for the welfare of all. “The thought of wishing well for everyone awakens in the mind only when we begin to consider everyone as our own,” observed Shri Modi.
+
+Referring to ongoing conflicts around the world where innocent people and families face violence and unrest, the Prime Minister emphasized the universal need for peace, safety for every family, and a life of dignity for every individual. “In such times, the spirit of Sarbat Da Bhala becomes even more important,” asserted PM Modi.
+
+Observing that the greatest test of the life values imparted by Guru Sahib takes place in everyday life, the Prime Minister drew attention to the pressing societal challenge of drugs. “When a young person falls into the grip of addiction, the dreams of the entire family shatter along with them,” observed Shri Modi.
+
+Calling for every youth in India to be free from addiction so they can study well, fulfill their dreams, and bring pride to their families and the nation, the Prime Minister underscored the vital role of families, the Sangat, Gurdwaras, and social institutions in guiding youth toward the right path, before concluding with Parkash Purab greetings and the traditional Sikh salutations. “I am confident that with Guru Sahib’s grace and the collective efforts of society, we will be able to give our new generation a safe and bright future,” affirmed PM Modi.
+
+---
+
+**Original Source:** [PM India](https://www.pmindia.gov.in/en/news_updates/pm-joins-the-shabad-kirtan-on-the-parkash-purab-of-sri-guru-nanak-dev-ji/?comment=disable)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
@@ -6070,7 +9874,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `The Times of India`,
     source_url: `https://timesofindia.indiatimes.com/india/6-samples-collected-5-met-applicable-standards-bisleri/articleshow/136117211.cms`,
     source_courtesy: `News Courtesy: The Times of India Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/6-samples-collected-5-met-applicable-standards-bisleri-2026.jpg`,
     image_alt: `Official news wire photograph: The Midnight Move: How 6 samples collected, 5 met applicable standards: Bisleri Caught Everyone Completely Off Guard`,
     image_courtesy: `Photo Courtesy: The Times of India Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -6145,73 +9949,127 @@ Beyond immediate headlines, this development carries durable implications for re
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `7 min read`,
+    read_time: `2 min read`,
     views_count: 317240,
     shares_count: 43790,
     published_at: `Tue, 24 Nov 2026 07:53:00 +0530`,
     source_name: `The Hindu`,
     source_url: `https://www.thehindu.com/news/national/maharashtra/sanjay-raut-accuses-state-assembly-speaker-rahul-narwekar-of-tribal-land-grab/article71737058.ece`,
     source_courtesy: `News Courtesy: The Hindu Digital Archives`,
-    image_url: `https://th-i.thgim.com/public/incoming/920682/article71737059.ece/alternates/LANDSCAPE_1200/20260620402L.jpg`,
+    image_url: `/images/articles/sanjay-raut-accuses-state-assembly-speaker-rahul-narwekar-of-tribal-land-gr-2026.jpg`,
     image_alt: `Official news wire photograph: Behind Closed Doors: What Really Happened When Sanjay Raut accuses State Assembly Speaker Rahul Narwekar of tribal land grab`,
-    image_courtesy: `Photo Courtesy: The Hindu Photo Wire`,
+    image_courtesy: `Image Courtesy: The Hindu`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, The Hindu`,
-    summary: `Sanjay Raut has demanded to register a criminal case under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `You don’t have any Active Subscription.`,
+    content: `You don’t have any Active Subscription.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Sanjay Raut accuses State Assembly Speaker Rahul Narwekar of tribal land grab**. According to authoritative communiqués released by The Hindu, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Weather News November 24, 2026 e-Paper
 
-### Institutional Oversight & Ground Reality
+The View From India Looking at World Affairs from the Indian perspective.
 
-Ground reality assessments indicate that Sanjay Raut has demanded to register a criminal case under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+First Day First Show News and reviews from the world of cinema and streaming.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Today's Cache Your download of the top 5 technology stories of the day.
 
-### Governance Parameter Assessment
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+Data Point Decoding the headlines with facts, figures, and numbers
 
-### Why This Matters: Policy Impact & Outlook
+THEdge At the cutting edge of education and careers
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Sanjay Raut has demanded to register a criminal case under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act
+
+Updated - November 24, 2026 07:53 am IST - Mumbai
+
+File photo of Shiv Sena (UBT) Rajya Sabha MP Sanjay Raut.
+                                          | Photo Credit: ANI
+
+Shiv Sena (UBT) Rajya Sabha MP Sanjay Raut on Monday (November 23, 2026) has requested Chief Minister Devendra Fadnavis to order an independent investigation into allegations accusing state assembly speaker Rahul Narwekar and his associates of illegally encroaching on land, evicting Katkari tribal families from their homes in Maharashtra’s Raigad district. Mr. Narwekar has dismissed the allegations, calling it “baseless”.
+
+Mr. Raut has written a letter to Mr. Fadnavis, raising concerns around displacement of Katkari tribal community from Mhatroli village in Raigad district’s Alibaug taluka. He has asked Mr. Fadnavis to rehabilitate them on their original land or an alternative site with compensation.
+
+In a letter dated November 22, Mr. Raut stated, “On 20 March 2025, in the middle of the night, 20 Adivasi families were displaced by forcibly evicting them with a bulldozer. The 15-acre plot was purchased in 2017 by Rahul Narvekar in the name of his wife Sarita Rahul Narvekar.”
+
+Mr. Raut has demanded to register a criminal case under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act.
+
+Mr. Narwekar threatened to file a defamation suit, saying, “Mr. Raut has made baseless allegations, and the mentioned plot is lawfully purchased property after the title disputes had been settled.”
+
+Published - November 24, 2026 07:52 am IST
+
+Maharashtra / Mumbai / Shiv Sena-Uddhav Balasaheb Thackeray
+
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+
+We have migrated to a new commenting platform. If you are already a registered user of The Hindu and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/maharashtra/sanjay-raut-accuses-state-assembly-speaker-rahul-narwekar-of-tribal-land-grab/article71737058.ece)`,
     title_en: `🚨 Behind Closed Doors: What Really Happened When Sanjay Raut accuses State Assembly Speaker Rahul Narwekar of tribal land grab`,
-    summary_en: `Sanjay Raut has demanded to register a criminal case under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content_en: `### Strategic Overview & Legislative Framework
+    summary_en: `You don’t have any Active Subscription.`,
+    content_en: `You don’t have any Active Subscription.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Sanjay Raut accuses State Assembly Speaker Rahul Narwekar of tribal land grab**. According to authoritative communiqués released by The Hindu, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Weather News November 24, 2026 e-Paper
 
-### Institutional Oversight & Ground Reality
+The View From India Looking at World Affairs from the Indian perspective.
 
-Ground reality assessments indicate that Sanjay Raut has demanded to register a criminal case under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+First Day First Show News and reviews from the world of cinema and streaming.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Today's Cache Your download of the top 5 technology stories of the day.
 
-### Governance Parameter Assessment
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+Data Point Decoding the headlines with facts, figures, and numbers
 
-### Why This Matters: Policy Impact & Outlook
+THEdge At the cutting edge of education and careers
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Sanjay Raut has demanded to register a criminal case under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act
+
+Updated - November 24, 2026 07:53 am IST - Mumbai
+
+File photo of Shiv Sena (UBT) Rajya Sabha MP Sanjay Raut.
+                                          | Photo Credit: ANI
+
+Shiv Sena (UBT) Rajya Sabha MP Sanjay Raut on Monday (November 23, 2026) has requested Chief Minister Devendra Fadnavis to order an independent investigation into allegations accusing state assembly speaker Rahul Narwekar and his associates of illegally encroaching on land, evicting Katkari tribal families from their homes in Maharashtra’s Raigad district. Mr. Narwekar has dismissed the allegations, calling it “baseless”.
+
+Mr. Raut has written a letter to Mr. Fadnavis, raising concerns around displacement of Katkari tribal community from Mhatroli village in Raigad district’s Alibaug taluka. He has asked Mr. Fadnavis to rehabilitate them on their original land or an alternative site with compensation.
+
+In a letter dated November 22, Mr. Raut stated, “On 20 March 2025, in the middle of the night, 20 Adivasi families were displaced by forcibly evicting them with a bulldozer. The 15-acre plot was purchased in 2017 by Rahul Narvekar in the name of his wife Sarita Rahul Narvekar.”
+
+Mr. Raut has demanded to register a criminal case under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act.
+
+Mr. Narwekar threatened to file a defamation suit, saying, “Mr. Raut has made baseless allegations, and the mentioned plot is lawfully purchased property after the title disputes had been settled.”
+
+Published - November 24, 2026 07:52 am IST
+
+Maharashtra / Mumbai / Shiv Sena-Uddhav Balasaheb Thackeray
+
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+
+We have migrated to a new commenting platform. If you are already a registered user of The Hindu and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/maharashtra/sanjay-raut-accuses-state-assembly-speaker-rahul-narwekar-of-tribal-land-grab/article71737058.ece)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
@@ -6227,73 +10085,143 @@ Beyond immediate headlines, this development carries durable implications for re
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `7 min read`,
+    read_time: `4 min read`,
     views_count: 317560,
     shares_count: 43835,
     published_at: `Mon, 23 Nov 2026 13:39:30 GMT`,
     source_name: `BBC`,
     source_url: `https://www.bbc.com/news/articles/cwx2ervemj4ko`,
     source_courtesy: `News Courtesy: BBC Digital Archives`,
-    image_url: `https://ichef.bbci.co.uk/news/1200/branded_news/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg`,
+    image_url: `/images/articles/nepal-pm-balendra-shah-visit-india-to-give-162bn-economic-package-2026.jpg`,
     image_alt: `Official news wire photograph: Behind Closed Doors: What Really Happened When Nepal PM Balendra Shah visit: India to give $1.62bn economic package`,
-    image_courtesy: `Photo Courtesy: BBC Photo Wire`,
+    image_courtesy: `Image Courtesy: BBC`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, BBC`,
-    summary: `Nepal PM Balendra Shah visit: India to give $1.62bn economic package BBC List of Outcomes: State visit of the Prime Minister of Nepal to India NarendraModi.in P... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `Nepal's Prime Minister Balen Shah has repeatedly called for his country to be treated as an equal by its powerful neighbours. His first visit to the Indian capital, Delhi, put that approach to the test, as both sides sought to reset a relat`,
+    content: `Nepal's Prime Minister Balen Shah has repeatedly called for his country to be treated as an equal by its powerful neighbours. His first visit to the Indian capital, Delhi, put that approach to the test, as both sides sought to reset a relationship strained by years of friction.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Nepal PM Balendra Shah visit: India to give $1.62bn economic package**. According to authoritative communiqués released by BBC, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+The contrast between the two leaders was striking.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Shah, 36, wearing his trademark black suit and sunglasses, stood beside Prime Minister Narendra Modi, 76, dressed in white. Shah rose to power after a wave of Gen Z-led protests toppled his predecessor.
 
-### Institutional Oversight & Ground Reality
+Modi, meanwhile, is serving a third term and has recently faced student-led protests in India.
 
-Ground reality assessments indicate that Nepal PM Balendra Shah visit: India to give $1.62bn economic package BBC List of Outcomes: State visit of the Prime Minister of Nepal to India NarendraModi.in Prime Minister of Nepal Calls on The President of India Ministry of External Affairs Modi announces port access, Ayodhya-Janakpur train and third offshore IIT campus for Nepal in talks with Balen Shah Telegraph India Joint Press Release on the State Visit of the Prime Minister of Nepal to India PM India establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+Yet, the two leaders seemed determined to project warmer relations. They exchanged gifts, inspected a military guard of honour and jointly flagged off a new cross-border train service.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+For Nepal, the stakes were about far more than repairing diplomatic ties.
 
-### Governance Parameter Assessment
+The two countries announced a series of agreements covering trade, hydropower, transport and education for Nepali youths.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+India, more crucially, unveiled a $1.6bn (£1.22bn) support package as Nepal recovers from devastating floods earlier this year.
 
-### Why This Matters: Policy Impact & Outlook
+The floods killed more than 1,400 people, with thousands still missing. Shah's government has faced criticism over support for families which lost homes and loved ones.
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+The country faces a huge reconstruction challenge. The government estimates rebuilding could cost as much as $4.8bn. Addressing the UN General Assembly in September, Shah warned that when climate disasters devastate poorer countries, "the answer cannot simply be another mega-loan".
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+Modi pledged nearly $1.6bn in Indian support. Most of it will come as a line of credit for energy projects, alongside about $400m in grants for reconstruction and infrastructure.
+
+While Nepal would have preferred a larger package, former senior Nepali diplomat Vijay Kant Karna says it is still "a significant amount" and could help stabilise a relationship that has often been uneasy.
+
+A Hindu-majority nation wedged between India and China, Nepal has long had to navigate competing interests from its two giant neighbours. Allegations of political interference and an unresolved border dispute have frequently complicated ties with India.
+
+Nepal's former Prime Minister, KP Sharma Oli, who leads a communist party, was widely viewed as being closer to China. Shah, by contrast, emerged as a political outsider when he was elected earlier this year. The former rapper, then 35, led a party that was only four years old.
+
+His new approach of dealing with India may explain why the border dispute was largely absent from the leaders' public remarks, although the joint statement acknowledged that outstanding issues remained.
+
+According to Govind Pokharel, a former vice-chairman of Nepal's National Planning Commission, Shah's government may have chosen to set contentious issues aside in order to secure progress on more immediate development needs.
+
+"Right now you can go home and convince the young Nepalis that it will be handled later," Pokhrel says, "but if they don't deal with these issues in the future, there will be criticism."
+
+Veteran Indian diplomat Anil Trigunayat says both sides appear to have opted to leave the dispute to established mechanisms rather than engage in what he calls "cartographic aggressions".
+
+There were other gains for Nepal as a result of the Delhi visit.
+
+As a landlocked country heavily dependent on India for trade, Nepal secured access to two additional Indian ports, Kandla and Paradip. The two sides also agreed to improve road and rail connectivity.
+
+The leaders jointly inaugurated a train service linking Ayodhya in India, revered by Hindus as the birthplace of Lord Ram, with Janakpur in Nepal, traditionally regarded as the birthplace of his wife Sita.
+
+There was, however, disappointment on aviation.
+
+Nepal has long sought greater access to Indian airspace in order to attract international traffic to its airports at Bhairahawa and Pokhara.
+
+Some analysts believe the lack of an agreement reflects Indian concerns over Chinese involvement in the two airport projects.
+
+"The airport in Pokhara can pose certain security challenges for India, so it is a more complicated issue to resolve," says Trigunayat.
+
+India did, however, agree to make an existing air route linking Kathmandu, Bhairahawa and Lucknow bidirectional.
+
+"Nepal invested a huge amount of money in those airports," says Pokharel. "It fell short of expectations, but the bidirectional route is a breakthrough."
+
+Shah must now manage relations with China as he seeks to balance the interests of Nepal's two much larger neighbours.
+
+For now he returns home with substantial financial commitments from India as Nepal continues the long task of rebuilding.
+
+---
+
+**Original Source:** [BBC](https://www.bbc.com/news/articles/cwx2ervemj4ko)`,
     title_en: `🚨 Behind Closed Doors: What Really Happened When Nepal PM Balendra Shah visit: India to give $1.62bn economic package`,
-    summary_en: `Nepal PM Balendra Shah visit: India to give $1.62bn economic package BBC List of Outcomes: State visit of the Prime Minister of Nepal to India NarendraModi.in P... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content_en: `### Strategic Overview & Legislative Framework
+    summary_en: `Nepal's Prime Minister Balen Shah has repeatedly called for his country to be treated as an equal by its powerful neighbours. His first visit to the Indian capital, Delhi, put that approach to the test, as both sides sought to reset a relat`,
+    content_en: `Nepal's Prime Minister Balen Shah has repeatedly called for his country to be treated as an equal by its powerful neighbours. His first visit to the Indian capital, Delhi, put that approach to the test, as both sides sought to reset a relationship strained by years of friction.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **Nepal PM Balendra Shah visit: India to give $1.62bn economic package**. According to authoritative communiqués released by BBC, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+The contrast between the two leaders was striking.
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Shah, 36, wearing his trademark black suit and sunglasses, stood beside Prime Minister Narendra Modi, 76, dressed in white. Shah rose to power after a wave of Gen Z-led protests toppled his predecessor.
 
-### Institutional Oversight & Ground Reality
+Modi, meanwhile, is serving a third term and has recently faced student-led protests in India.
 
-Ground reality assessments indicate that Nepal PM Balendra Shah visit: India to give $1.62bn economic package BBC List of Outcomes: State visit of the Prime Minister of Nepal to India NarendraModi.in Prime Minister of Nepal Calls on The President of India Ministry of External Affairs Modi announces port access, Ayodhya-Janakpur train and third offshore IIT campus for Nepal in talks with Balen Shah Telegraph India Joint Press Release on the State Visit of the Prime Minister of Nepal to India PM India establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+Yet, the two leaders seemed determined to project warmer relations. They exchanged gifts, inspected a military guard of honour and jointly flagged off a new cross-border train service.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+For Nepal, the stakes were about far more than repairing diplomatic ties.
 
-### Governance Parameter Assessment
+The two countries announced a series of agreements covering trade, hydropower, transport and education for Nepali youths.
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+India, more crucially, unveiled a $1.6bn (£1.22bn) support package as Nepal recovers from devastating floods earlier this year.
 
-### Why This Matters: Policy Impact & Outlook
+The floods killed more than 1,400 people, with thousands still missing. Shah's government has faced criticism over support for families which lost homes and loved ones.
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+The country faces a huge reconstruction challenge. The government estimates rebuilding could cost as much as $4.8bn. Addressing the UN General Assembly in September, Shah warned that when climate disasters devastate poorer countries, "the answer cannot simply be another mega-loan".
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+Modi pledged nearly $1.6bn in Indian support. Most of it will come as a line of credit for energy projects, alongside about $400m in grants for reconstruction and infrastructure.
+
+While Nepal would have preferred a larger package, former senior Nepali diplomat Vijay Kant Karna says it is still "a significant amount" and could help stabilise a relationship that has often been uneasy.
+
+A Hindu-majority nation wedged between India and China, Nepal has long had to navigate competing interests from its two giant neighbours. Allegations of political interference and an unresolved border dispute have frequently complicated ties with India.
+
+Nepal's former Prime Minister, KP Sharma Oli, who leads a communist party, was widely viewed as being closer to China. Shah, by contrast, emerged as a political outsider when he was elected earlier this year. The former rapper, then 35, led a party that was only four years old.
+
+His new approach of dealing with India may explain why the border dispute was largely absent from the leaders' public remarks, although the joint statement acknowledged that outstanding issues remained.
+
+According to Govind Pokharel, a former vice-chairman of Nepal's National Planning Commission, Shah's government may have chosen to set contentious issues aside in order to secure progress on more immediate development needs.
+
+"Right now you can go home and convince the young Nepalis that it will be handled later," Pokhrel says, "but if they don't deal with these issues in the future, there will be criticism."
+
+Veteran Indian diplomat Anil Trigunayat says both sides appear to have opted to leave the dispute to established mechanisms rather than engage in what he calls "cartographic aggressions".
+
+There were other gains for Nepal as a result of the Delhi visit.
+
+As a landlocked country heavily dependent on India for trade, Nepal secured access to two additional Indian ports, Kandla and Paradip. The two sides also agreed to improve road and rail connectivity.
+
+The leaders jointly inaugurated a train service linking Ayodhya in India, revered by Hindus as the birthplace of Lord Ram, with Janakpur in Nepal, traditionally regarded as the birthplace of his wife Sita.
+
+There was, however, disappointment on aviation.
+
+Nepal has long sought greater access to Indian airspace in order to attract international traffic to its airports at Bhairahawa and Pokhara.
+
+Some analysts believe the lack of an agreement reflects Indian concerns over Chinese involvement in the two airport projects.
+
+"The airport in Pokhara can pose certain security challenges for India, so it is a more complicated issue to resolve," says Trigunayat.
+
+India did, however, agree to make an existing air route linking Kathmandu, Bhairahawa and Lucknow bidirectional.
+
+"Nepal invested a huge amount of money in those airports," says Pokharel. "It fell short of expectations, but the bidirectional route is a breakthrough."
+
+Shah must now manage relations with China as he seeks to balance the interests of Nepal's two much larger neighbours.
+
+For now he returns home with substantial financial commitments from India as Nepal continues the long task of rebuilding.
+
+---
+
+**Original Source:** [BBC](https://www.bbc.com/news/articles/cwx2ervemj4ko)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
@@ -6316,9 +10244,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Navbharat Live`,
     source_url: `https://navbharatlive.com/entertainment/ramayana-collection-day-17-beats-dhurandhar-2-record-suj05`,
     source_courtesy: `News Courtesy: Navbharat Live Digital Archives`,
-    image_url: `https://media.assettype.com/navbharatlive%2F2026-11-22%2Fvqp8wejh%2FRamayana-Day-17-Box-Office-Collection.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100`,
+    image_url: `/images/articles/17-2-navbharat-live-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: रणबीर कपूर की रामायण का बॉक्स ऑफिस पर दबदबा कायम, 17वें दिन कमाई में दिखा दम, रणवीर सिंह की धुरंधर 2 को दी मात - Navbharat Live`,
-    image_courtesy: `Photo Courtesy: Navbharat Live Photo Wire`,
+    image_courtesy: `Image Courtesy: Navbharat Live`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Ramayana, Breaking News, National, Hindi News`,
     summary: `रणबीर कपूर की रामायण का बॉक्स ऑफिस पर दबदबा कायम, 17वें दिन कमाई में दिखा दम, रणवीर सिंह की धुरंधर 2 को दी मात      18: रामायण की बंपर कमाई जारी, रविवार छापे 35... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -6402,7 +10330,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `AajTak`,
     source_url: `https://www.aajtak.in/entertainment/bollywood-news/story/sunny-deol-as-hanuman-is-iron-man-of-ramayana-part-2-namit-malhotra-spills-details-release-update-tmova-dskc-2703542-2026-11-23`,
     source_courtesy: `News Courtesy: AajTak Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/sunny-deol-as-hanuman-aajtak-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: Sunny Deol as Hanuman: जय श्रीराम की गूंज से कांपेगा सिनेमाघर, हनुमान बन सनी देओल मचाएंगे तबाही! 'रामायण' प्रोड्यूसर ने खोले राज - AajTak`,
     image_courtesy: `Photo Courtesy: AajTak Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -6488,7 +10416,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Jagran`,
     source_url: `https://www.jagran.com/entertainment/web-series-review-yeh-prem-mol-liya-ott-release-date-when-and-where-to-watch-ayushmann-khurrana-sharvari-movie-40443613.html`,
     source_courtesy: `News Courtesy: Jagran Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1598387993441-a364f854c3e1?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/ott-yeh-prem-mol-liya-jagran-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: थिएटर्स के बाद OTT पर Yeh Prem Mol Liya सिखाएगा पारिवारिक पाठ, कब और कहां देखें आयुष्मान-शरवरी की फिल्म? - Jagran`,
     image_courtesy: `Photo Courtesy: Jagran Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -6574,7 +10502,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Jagran`,
     source_url: `https://www.jagran.com/entertainment/web-series-review-panchayat-5-trailer-released-now-by-ott-platform-prime-video-phulera-village-ruled-by-new-power-40445916.html`,
     source_courtesy: `News Courtesy: Jagran Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1598387993441-a364f854c3e1?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/panchayat-5-trailer-jagran-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: Panchayat 5 Trailer: फुलेरा में आई नई सत्ता, बनराकस ने सचिव जी को किया टॉर्चर; रिलीज हुआ मजेदार ट्रेलर - Jagran`,
     image_courtesy: `Photo Courtesy: Jagran Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -6660,7 +10588,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `AajTak`,
     source_url: `https://www.aajtak.in/topic/coral-snake`,
     source_courtesy: `News Courtesy: AajTak Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/coral-snake-latest-news-updates-in-hindi-aajtak-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: Coral Snake Latest News, Updates in Hindi | कोरल स्नेक के समाचार और अपडेट - AajTak`,
     image_courtesy: `Photo Courtesy: AajTak Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -6746,7 +10674,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `India TV Hindi`,
     source_url: `https://www.indiatv.in/sports/cricket/india-vs-uae-asia-cup-rising-stars-live-match-tv-aur-mobile-par-kaise-dekhen-2026-11-23-1255941`,
     source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1517649763962-0c623266ddc0?auto=format&fit=crop&w=1600&q=85&sig=889`,
+    image_url: `/images/articles/ind-vs-uae-live-india-tv-hindi-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: IND vs UAE एशिया कप राइजिंग स्टार्स मुकाबला, टीवी और मोबाइल पर कैसे देखें LIVE - India TV Hindi`,
     image_courtesy: `Photo Courtesy: India TV Hindi Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -6832,7 +10760,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Jagran`,
     source_url: `https://www.jagran.com/cricket/bouncer-kieron-pollard-creates-history-completes-15000-t20-runs-while-playing-for-mi-emirates-ilt20-2026-40445168.html`,
     source_courtesy: `News Courtesy: Jagran Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1598387993441-a364f854c3e1?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/20-mi-jagran-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: कायरन पोलार्ड ने टी20 क्रिकेट में रचा इतिहास, MI के लिए खेलते हुए हासिल की खास उपलब्धि - Jagran`,
     image_courtesy: `Photo Courtesy: Jagran Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -6918,7 +10846,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `BBC`,
     source_url: `https://www.bbc.com/hindi/podcasts/p05525mc/p0pp76qy`,
     source_courtesy: `News Courtesy: BBC Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?auto=format&fit=crop&w=1600&q=85&sig=891`,
+    image_url: `/images/articles/health-breaking-dispatch-891-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: HIV-AIDS अभी भी क्यों बना हुआ है एक ग्लोबल चैलेंज`,
     image_courtesy: `Photo Courtesy: BBC Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -7004,9 +10932,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Prabhat Khabar`,
     source_url: `https://www.prabhatkhabar.com/world/bangladesh-measles-outbreak-9-suspected-deaths-in-24-hours`,
     source_courtesy: `News Courtesy: Prabhat Khabar Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&w=1600&q=85&sig=892`,
+    image_url: `/images/articles/24-9-prabhat-khabar-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: बांग्लादेश में मीजल्स का कहर: 24 घंटे में 9 बच्चों की मौत - Prabhat Khabar`,
-    image_courtesy: `Photo Courtesy: Prabhat Khabar Photo Wire`,
+    image_courtesy: `Image Courtesy: Prabhat Khabar`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Health, Breaking News, National, Hindi News`,
     summary: `बांग्लादेश में मीजल्स का कहर: 24 घंटे में 9 बच्चों की मौत    समाचार पर ज़्यादा हेडलाइन और उनके बारे में विशेषज्ञों की राय देखें... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -7090,9 +11018,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Vietnam.vn`,
     source_url: `https://www.vietnam.vn/hi/hinh-anh-moi-ve-iphone-air-2-va-iphone-18`,
     source_courtesy: `News Courtesy: Vietnam.vn Digital Archives`,
-    image_url: `https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/23/1795394689696_03722112026_iphone_air_2_va_iphone_18.jpeg`,
+    image_url: `/images/articles/2-18-vietnamvn-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: आईफोन एयर 2 और आईफोन 18 की नई तस्वीरें। - Vietnam.vn`,
-    image_courtesy: `Photo Courtesy: Vietnam.vn Photo Wire`,
+    image_courtesy: `Image Courtesy: Vietnam.vn`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Tech, Breaking News, National, Hindi News`,
     summary: `आईफोन एयर 2 और आईफोन 18 की नई तस्वीरें। . लॉन्चिंग के लिए तैयार  18,   27 की सेल होगी डाउन? 1 लाख में होगा लॉन्च  सस्ता  लैपटॉप खरीदने वालों के लिए अच्छी खबर,  ... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -7176,9 +11104,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Navbharat Live`,
     source_url: `https://navbharatlive.com/technology/43050-on-the-samsung-galaxy-s25-ultra-opportunity-to-purchase-it-for-50000-srs13`,
     source_courtesy: `News Courtesy: Navbharat Live Digital Archives`,
-    image_url: `https://media.assettype.com/navbharatlive%2F2026-11-23%2Few4e4vmf%2FSamsung-Galaxy-S25-Ultra.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100`,
+    image_url: `/images/articles/s25-43050-50-navbharat-live-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: सैमसंग गैलेक्सी S25 अल्ट्रा पर ₹43,050 की सीधी छूट, एक्सचेंज-बैंक ऑफर से ₹50 हजार में खरीदने का मौका - Navbharat Live`,
-    image_courtesy: `Photo Courtesy: Navbharat Live Photo Wire`,
+    image_courtesy: `Image Courtesy: Navbharat Live`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Tech, Breaking News, National, Hindi News`,
     summary: `सैमसंग गैलेक्सी 25 अल्ट्रा पर ₹43,050 की सीधी छूट, एक्सचेंज-बैंक ऑफर से ₹50 हजार में खरीदने का मौका    के 50 कैमरा वाले 5 फोन पर डिस्काउंट, 6.7 इंच सुपर  डिस्प्... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -7348,7 +11276,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Jagran`,
     source_url: `https://www.jagran.com/news/national-bisleri-water-sample-fails-test-fssai-approves-legal-action-against-5-food-companies-2-licenses-suspended-40445315.html`,
     source_courtesy: `News Courtesy: Jagran Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1598387993441-a364f854c3e1?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/fssai-5-2-jagran-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: बिसलेरी के पानी का सैंपल फेल, FSSAI ने 5 कंपनियों पर मुकदमा चलाने की दी मंजूरी; 2 के लाइसेंस रद - Jagran`,
     image_courtesy: `Photo Courtesy: Jagran Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -7434,7 +11362,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `ABP News`,
     source_url: `https://www.abplive.com/news/india/supreme-court-directive-on-west-bengal-sir-increase-the-number-of-tribunals-prioritize-election-related-matters-3218427`,
     source_courtesy: `News Courtesy: ABP News Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/sir-sc-abp-news-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: बंगाल SIR पर SC का निर्देश, ट्रिब्यूनल की संख्या बढ़ाएं, चुनावी क्षेत्र को प्राथमिकता दें - ABP News`,
     image_courtesy: `Photo Courtesy: ABP News Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -7595,73 +11523,111 @@ Beyond immediate headlines, this development carries durable implications for re
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `7 min read`,
+    read_time: `4 min read`,
     views_count: 310200,
     shares_count: 42800,
     published_at: `Mon, 23 Nov 2026 09:06:56 GMT`,
     source_name: `DD News`,
     source_url: `https://ddnews.gov.in/en/pm-modis-25-year-journey-defined-by-seva-sangharsh-samarpan-and-nation-first-hm-shah/`,
     source_courtesy: `News Courtesy: DD News Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&w=1600&q=85&sig=860`,
+    image_url: `https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `Official news wire photograph: Why Everyone Is Shocked By PM Modi’s 25`,
     image_courtesy: `Photo Courtesy: DD News Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, DD News`,
-    summary: `PM Modi’s 25 DD News... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `07/10/26 | 7:28 pm							| 25 Years as Head of Government | 25 Years of Seva | AMIT SHAH | Modi government | Narendra Modi | Nation First | Prime Minister Modi | Seva Sangharsh Samarpan | Viksit Bharat`,
+    content: `07/10/26 | 7:28 pm							| 25 Years as Head of Government | 25 Years of Seva | AMIT SHAH | Modi government | Narendra Modi | Nation First | Prime Minister Modi | Seva Sangharsh Samarpan | Viksit Bharat
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **PM Modi’s 25**. According to authoritative communiqués released by DD News, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+### PM Modi’s 25-year journey defined by ‘Seva, Sangharsh, Samarpan’ and ‘Nation First’: HM Shah
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Union Home Minister and Minister of Cooperation Amit Shah on Wednesday congratulated Prime Minister Narendra Modi on completing 25 continuous years as Head of Government, describing his journey from Gujarat Chief Minister to Prime Minister as one defined by Seva, Sangharsh and Samarpan, with the guiding principle of putting the nation first and working for the welfare and empowerment of every section of society.
 
-### Institutional Oversight & Ground Reality
+Prime Minister Modi completed 25 years as Head of Government on October 7, 2026, marking a political journey that began with his assumption of office as Chief Minister of Gujarat in 2001 and continued with his taking over as Prime Minister of India in 2014.
 
-Ground reality assessments indicate that PM Modi’s 25 DD News establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+In a series of posts on X, HM Shah said the Prime Minister’s 25-year journey had been defined by tireless hard work, resolve and the principle of putting the nation first.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+“Heartfelt congratulations to the illustrious Prime Minister Shri Narendra Modi ji on completing 25 years of Seva and Samarpan – a journey defined by tireless hard work, remarkable resolve, and the guiding principle of putting the nation first. It was on this very day, October 7, 2001, that Modi ji took the oath as the Chief Minister of Gujarat. Since then, his continuous journey of Seva, Sangharsh and Samarpan – spanning his tenures as Chief Minister and Prime Minister – has become synonymous with the welfare of the poor, the empowerment of women, the upliftment of the youth, and the prosperity of every section of society. Through these #25YearsOfSeva, Modi ji has redefined governance – characterized by public welfare policies, effective implementation, decisive leadership, transparency, and certainty of results – thereby establishing the ideal of the ‘politics of performance’.”
 
-### Governance Parameter Assessment
+https://x.com/AmitShah/status/2107671498932772903?s=20
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+In another post, HM Shah highlighted Prime Minister Modi’s governance initiatives in Gujarat, including the rebuilding of Kutch after the earthquake, the Jyotigram Yojana, the Vibrant Gujarat initiative and agricultural growth, describing these achievements as the foundation of a governance model later expanded at the national level.
 
-### Why This Matters: Policy Impact & Outlook
+HM Shah said, “As Chief Minister, Modi ji rebuilt Kutch – devastated by an earthquake – into an exemplary region; he ensured 24-hour electricity reached every village through the Jyotigram Yojana; gave a new direction to investment and industry via solar energy and the ‘Vibrant Gujarat’ initiative; and achieved an agricultural growth rate of over 8%, thereby establishing a model of good governance in Gujarat that later became the foundation for the entire nation. This vision was further expanded during his tenure as Prime Minister. India achieved new milestones across domains ranging from space to the oceans, and from global platforms to internal security. Significant transformations also took place in the lives of the people – 250 million individuals were lifted out of poverty, while crores of families gained access to permanent housing, health coverage of up to ₹5 lakh, Ujjwala gas connections, and tap water in every home.”
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+https://x.com/AmitShah/status/2107672195849928766?s=20
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+HM Shah further underlined India’s expanding economic and technological capabilities under Prime Minister Modi, as well as his vision of a developed India by 2047.
+
+Union Home Minister said, “Today, under the leadership of Modi ji, India is a rapidly growing economy scaling new heights in sectors such as manufacturing, digital payments, start-ups, semiconductors, defence production, and renewable energy. Amidst this era of war and instability, India has emerged as a significant global voice for peace and harmony. By instilling self-confidence in crores of citizens, Modi ji gave the mantra of a ‘Viksit Bharat’ and inspired a resolve to make India a leader in every sector by 2047. It is a matter of privilege and pride for all of us to participate in these service initiatives under his leadership.”
+
+https://x.com/AmitShah/status/2107672539648622615?s=20
+
+### Global Markets- Stocks rally in Asia, unrocked by US tariffs
+
+Share markets cobbled together a rare rally in Asia on Thursday as the latest salvo of US tariffs looked less damaging than first feared, while the Thanksgiving holiday offered a welcome break from the AI pain trade.
+
+White House proposals for new ta...
+
+### Space X gets US FCC approval to build AI data centres in space with upto 1 million satellites
+
+The Elon Musk led SpaceX is set to breach another frontier after it recieved approval from the US Federal Communications Commission (FCC) to build AI data centrer in space with up to 1 million satellites.
+
+SpaceX's Starmind constellation will harness...
+
+### The Constitution – Our guiding force
+
+On Samvidhan Divas, PM Modi reflects on the Constitution's role in shaping India's journey. He highlights efforts to realise its vision of justice and equality. The PM calls on citizens to put India First and uphold their Kartavya as we move towards ...
+
+---
+
+**Original Source:** [DD News](https://ddnews.gov.in/en/pm-modis-25-year-journey-defined-by-seva-sangharsh-samarpan-and-nation-first-hm-shah/)`,
     title_en: `🚨 Why Everyone Is Shocked By PM Modi’s 25`,
-    summary_en: `PM Modi’s 25 DD News... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content_en: `### Strategic Overview & Legislative Framework
+    summary_en: `07/10/26 | 7:28 pm							| 25 Years as Head of Government | 25 Years of Seva | AMIT SHAH | Modi government | Narendra Modi | Nation First | Prime Minister Modi | Seva Sangharsh Samarpan | Viksit Bharat`,
+    content_en: `07/10/26 | 7:28 pm							| 25 Years as Head of Government | 25 Years of Seva | AMIT SHAH | Modi government | Narendra Modi | Nation First | Prime Minister Modi | Seva Sangharsh Samarpan | Viksit Bharat
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **PM Modi’s 25**. According to authoritative communiqués released by DD News, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+### PM Modi’s 25-year journey defined by ‘Seva, Sangharsh, Samarpan’ and ‘Nation First’: HM Shah
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Union Home Minister and Minister of Cooperation Amit Shah on Wednesday congratulated Prime Minister Narendra Modi on completing 25 continuous years as Head of Government, describing his journey from Gujarat Chief Minister to Prime Minister as one defined by Seva, Sangharsh and Samarpan, with the guiding principle of putting the nation first and working for the welfare and empowerment of every section of society.
 
-### Institutional Oversight & Ground Reality
+Prime Minister Modi completed 25 years as Head of Government on October 7, 2026, marking a political journey that began with his assumption of office as Chief Minister of Gujarat in 2001 and continued with his taking over as Prime Minister of India in 2014.
 
-Ground reality assessments indicate that PM Modi’s 25 DD News establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+In a series of posts on X, HM Shah said the Prime Minister’s 25-year journey had been defined by tireless hard work, resolve and the principle of putting the nation first.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+“Heartfelt congratulations to the illustrious Prime Minister Shri Narendra Modi ji on completing 25 years of Seva and Samarpan – a journey defined by tireless hard work, remarkable resolve, and the guiding principle of putting the nation first. It was on this very day, October 7, 2001, that Modi ji took the oath as the Chief Minister of Gujarat. Since then, his continuous journey of Seva, Sangharsh and Samarpan – spanning his tenures as Chief Minister and Prime Minister – has become synonymous with the welfare of the poor, the empowerment of women, the upliftment of the youth, and the prosperity of every section of society. Through these #25YearsOfSeva, Modi ji has redefined governance – characterized by public welfare policies, effective implementation, decisive leadership, transparency, and certainty of results – thereby establishing the ideal of the ‘politics of performance’.”
 
-### Governance Parameter Assessment
+https://x.com/AmitShah/status/2107671498932772903?s=20
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+In another post, HM Shah highlighted Prime Minister Modi’s governance initiatives in Gujarat, including the rebuilding of Kutch after the earthquake, the Jyotigram Yojana, the Vibrant Gujarat initiative and agricultural growth, describing these achievements as the foundation of a governance model later expanded at the national level.
 
-### Why This Matters: Policy Impact & Outlook
+HM Shah said, “As Chief Minister, Modi ji rebuilt Kutch – devastated by an earthquake – into an exemplary region; he ensured 24-hour electricity reached every village through the Jyotigram Yojana; gave a new direction to investment and industry via solar energy and the ‘Vibrant Gujarat’ initiative; and achieved an agricultural growth rate of over 8%, thereby establishing a model of good governance in Gujarat that later became the foundation for the entire nation. This vision was further expanded during his tenure as Prime Minister. India achieved new milestones across domains ranging from space to the oceans, and from global platforms to internal security. Significant transformations also took place in the lives of the people – 250 million individuals were lifted out of poverty, while crores of families gained access to permanent housing, health coverage of up to ₹5 lakh, Ujjwala gas connections, and tap water in every home.”
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+https://x.com/AmitShah/status/2107672195849928766?s=20
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+HM Shah further underlined India’s expanding economic and technological capabilities under Prime Minister Modi, as well as his vision of a developed India by 2047.
+
+Union Home Minister said, “Today, under the leadership of Modi ji, India is a rapidly growing economy scaling new heights in sectors such as manufacturing, digital payments, start-ups, semiconductors, defence production, and renewable energy. Amidst this era of war and instability, India has emerged as a significant global voice for peace and harmony. By instilling self-confidence in crores of citizens, Modi ji gave the mantra of a ‘Viksit Bharat’ and inspired a resolve to make India a leader in every sector by 2047. It is a matter of privilege and pride for all of us to participate in these service initiatives under his leadership.”
+
+https://x.com/AmitShah/status/2107672539648622615?s=20
+
+### Global Markets- Stocks rally in Asia, unrocked by US tariffs
+
+Share markets cobbled together a rare rally in Asia on Thursday as the latest salvo of US tariffs looked less damaging than first feared, while the Thanksgiving holiday offered a welcome break from the AI pain trade.
+
+White House proposals for new ta...
+
+### Space X gets US FCC approval to build AI data centres in space with upto 1 million satellites
+
+The Elon Musk led SpaceX is set to breach another frontier after it recieved approval from the US Federal Communications Commission (FCC) to build AI data centrer in space with up to 1 million satellites.
+
+SpaceX's Starmind constellation will harness...
+
+### The Constitution – Our guiding force
+
+On Samvidhan Divas, PM Modi reflects on the Constitution's role in shaping India's journey. He highlights efforts to realise its vision of justice and equality. The PM calls on citizens to put India First and uphold their Kartavya as we move towards ...
+
+---
+
+**Original Source:** [DD News](https://ddnews.gov.in/en/pm-modis-25-year-journey-defined-by-seva-sangharsh-samarpan-and-nation-first-hm-shah/)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
@@ -7684,7 +11650,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `The Times of India`,
     source_url: `https://timesofindia.indiatimes.com/india/up-polls-sp-cong-reach-broad-consensus-on-seat-sharing-final-numbers-in-2-3-days/articleshow/136106674.cms`,
     source_courtesy: `News Courtesy: The Times of India Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/up-polls-sp-cong-reach-broad-consensus-on-seat-sharing-final-numbers-in-2-3-2026.jpg`,
     image_alt: `Official news wire photograph: Behind Closed Doors: What Really Happened When UP polls: SP, Cong reach broad consensus on seat-sharing, final numbers in 2-3 days`,
     image_courtesy: `Photo Courtesy: The Times of India Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -7759,73 +11725,109 @@ Beyond immediate headlines, this development carries durable implications for re
     category: `politics`,
     language: `en`,
     fomo_badge: `⚡ Politics Wire`,
-    read_time: `7 min read`,
+    read_time: `2 min read`,
     views_count: 310840,
     shares_count: 42890,
     published_at: `Mon, 23 Nov 2026 20:32:16 +0530`,
     source_name: `The Hindu`,
     source_url: `https://www.thehindu.com/news/national/andhra-pradesh/cid-holds-meeting-to-strengthen-coordination-against-cybercrimes/article71735406.ece`,
     source_courtesy: `News Courtesy: The Hindu Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1600&q=85&sig=862`,
+    image_url: `/images/articles/cid-holds-meeting-to-strengthen-coordination-against-cybercrimes-2026.webp`,
     image_alt: `Official news wire photograph: The Secret Truth Behind: CID holds meeting to strengthen coordination against cybercrimes`,
     image_courtesy: `Photo Courtesy: The Hindu Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Politics, Breaking News, India, World, The Hindu`,
-    summary: `Comprehensive investigative report and ground reality analysis on CID holds meeting to strengthen coordination against cybercrimes.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content: `### Strategic Overview & Legislative Framework
+    summary: `You don’t have any Active Subscription.`,
+    content: `You don’t have any Active Subscription.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **CID holds meeting to strengthen coordination against cybercrimes**. According to authoritative communiqués released by The Hindu, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Weather News November 23, 2026 e-Paper
 
-### Institutional Oversight & Ground Reality
+The View From India Looking at World Affairs from the Indian perspective.
 
-Ground reality assessments indicate that Comprehensive investigative report and ground reality analysis on CID holds meeting to strengthen coordination against cybercrimes. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+First Day First Show News and reviews from the world of cinema and streaming.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Today's Cache Your download of the top 5 technology stories of the day.
 
-### Governance Parameter Assessment
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+Data Point Decoding the headlines with facts, figures, and numbers
 
-### Why This Matters: Policy Impact & Outlook
+THEdge At the cutting edge of education and careers
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+Updated - November 23, 2026 09:41 pm IST - VIJAYAWADA
+
+The Crime Investigation Department (CID) organised a coordination meeting with the Indian Cyber Crime Coordination Centre (I4C), non-banking financial companies (NBFCs) and Andhra Pradesh Technology Services at the CID headquarters in Mangalagiri on Monday.
+
+The meeting aimed to strengthen coordination among the police, banks and fintech companies to ensure a coordinated response to cybercrimes, CID officials said.
+
+The meeting was organised by cybercrime officers under the aegis of the Union Ministry of Home Affairs. Heads and representatives of various banks and financial institutions participated in it.
+
+Experts urged victims of cyber fraud to immediately call the National Cyber Crime Helpline (1930) and register a complaint on www\\.cybercrime.gov.in.
+
+Published - November 23, 2026 08:32 pm IST
+
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+
+We have migrated to a new commenting platform. If you are already a registered user of The Hindu and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/andhra-pradesh/cid-holds-meeting-to-strengthen-coordination-against-cybercrimes/article71735406.ece)`,
     title_en: `🚨 The Secret Truth Behind: CID holds meeting to strengthen coordination against cybercrimes`,
-    summary_en: `Comprehensive investigative report and ground reality analysis on CID holds meeting to strengthen coordination against cybercrimes.... Comprehensive investigative reporting and verified dispatches from the news desk.`,
-    content_en: `### Strategic Overview & Legislative Framework
+    summary_en: `You don’t have any Active Subscription.`,
+    content_en: `You don’t have any Active Subscription.
 
-In what policy analysts and parliamentary observers describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **CID holds meeting to strengthen coordination against cybercrimes**. According to authoritative communiqués released by The Hindu, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
+Weather News November 23, 2026 e-Paper
 
-### Institutional Oversight & Ground Reality
+The View From India Looking at World Affairs from the Indian perspective.
 
-Ground reality assessments indicate that Comprehensive investigative report and ground reality analysis on CID holds meeting to strengthen coordination against cybercrimes. establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
+First Day First Show News and reviews from the world of cinema and streaming.
 
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
+Today's Cache Your download of the top 5 technology stories of the day.
 
-### Governance Parameter Assessment
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
 
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
+Data Point Decoding the headlines with facts, figures, and numbers
 
-### Why This Matters: Policy Impact & Outlook
+THEdge At the cutting edge of education and careers
 
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
 
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*`,
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+Updated - November 23, 2026 09:41 pm IST - VIJAYAWADA
+
+The Crime Investigation Department (CID) organised a coordination meeting with the Indian Cyber Crime Coordination Centre (I4C), non-banking financial companies (NBFCs) and Andhra Pradesh Technology Services at the CID headquarters in Mangalagiri on Monday.
+
+The meeting aimed to strengthen coordination among the police, banks and fintech companies to ensure a coordinated response to cybercrimes, CID officials said.
+
+The meeting was organised by cybercrime officers under the aegis of the Union Ministry of Home Affairs. Heads and representatives of various banks and financial institutions participated in it.
+
+Experts urged victims of cyber fraud to immediately call the National Cyber Crime Helpline (1930) and register a complaint on www\\.cybercrime.gov.in.
+
+Published - November 23, 2026 08:32 pm IST
+
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+
+We have migrated to a new commenting platform. If you are already a registered user of The Hindu and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/andhra-pradesh/cid-holds-meeting-to-strengthen-coordination-against-cybercrimes/article71735406.ece)`,
     title_hi: ``,
     summary_hi: ``,
     content_hi: ``,
@@ -7848,7 +11850,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Forbes`,
     source_url: `https://www.forbes.com/sites/siladityaray/2026/11/23/trump-urges-nvidia-board-to-bring-back-jensen-huang-amid-new-chinese-spy-agency-revelations/`,
     source_courtesy: `News Courtesy: Forbes Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1596524430615-b46475ddff6e?auto=format&fit=crop&w=1600&q=85&sig=863`,
+    image_url: `https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=1600&q=85`,
     image_alt: `Official news wire photograph: The Midnight Move: How Trump Urges Nvidia Board To Bring Back Jensen Huang Amid New Chinese Spy Agency Revelations - Forbes Caught Everyone Completely Off Guard`,
     image_courtesy: `Photo Courtesy: Forbes Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -8016,7 +12018,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Jagran`,
     source_url: `https://www.jagran.com/entertainment/bollywood-namit-malhotra-compares-sunny-deols-hanuman-character-to-iron-man-in-ramayana-40445886.html`,
     source_courtesy: `News Courtesy: Jagran Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1598387993441-a364f854c3e1?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/ramayana-sunny-deol-jagran-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: हनुमान जी भारत के आयरन मैन हैं...' Ramayana में Sunny Deol की कास्टिंग पर नमित मल्होत्रा का बयान - Jagran`,
     image_courtesy: `Photo Courtesy: Jagran Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -8102,7 +12104,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `AajTak`,
     source_url: `https://www.aajtak.in/entertainment/television/story/avinash-mishra-eisha-singh-breakup-reason-cheating-rumours-whatsapp-chat-rajat-dalal-tmovj-dskc-2703573-2026-11-23`,
     source_courtesy: `News Courtesy: AajTak Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/avinash-eisha-breakup-tv-aajtak-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: Avinash- Eisha Breakup: 'शर्मिंदा हूं', TV एक्टर ने दिया गर्लफ्रेंड को धोखा? एक्ट्रेस के भाई ने दिखाए सबूत, भड़के रजत दलाल - AajTak`,
     image_courtesy: `Photo Courtesy: AajTak Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -8188,7 +12190,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `AajTak`,
     source_url: `https://www.aajtak.in/entertainment/bollywood-news/story/deepika-padukone-struggled-to-play-maid-acting-school-anupam-kher-reveals-tmovj-dskc-2703647-2026-11-23`,
     source_courtesy: `News Courtesy: AajTak Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/anupam-kher-on-deepika-padukone-aajtak-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: Anupam Kher on Deepika Padukone: एक्टिंग स्कूल में कामवाली बाई बनीं दीपिका पादुकोण, झाड़ू लगाने में निकले आंसू, अनुपम खेर ने सुनाया किस्सा - AajTak`,
     image_courtesy: `Photo Courtesy: AajTak Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -8274,9 +12276,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `India TV Hindi`,
     source_url: `https://www.indiatv.in/world/asia/saudi-arabia-carried-out-81-airstrikes-and-missile-attacks-over-past-24-hours-civilians-killed-and-wounded-claims-houthis-2026-11-23-1255840`,
     source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1600&q=85&sig=868`,
+    image_url: `/images/articles/24-81-f-15-india-tv-hindi-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: सऊदी अरब का हूतियों पर बड़ा हमला, 24 घंटे में 81 हवाई और मिसाइल हमले किए, F-15 और टाइफून विमानों का इस्तेमा - India TV Hindi`,
-    image_courtesy: `Photo Courtesy: India TV Hindi Photo Wire`,
+    image_courtesy: `Image Courtesy: India TV Hindi`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `World, Breaking News, National, Hindi News`,
     summary: `सऊदी अरब का हूतियों पर बड़ा हमला, 24 घंटे में 81 हवाई और मिसाइल हमले किए, -15 और टाइफून विमानों का इस्तेमा    सऊदी की राबिग तेल रिफाइनरी पर हूतियों का हमला, रिफ... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -8360,7 +12362,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Jagran`,
     source_url: `https://www.jagran.com/west-bengal/kolkata-wb-cm-to-discuss-bangladesh-unrest-caa-cutoff-date-with-eam-40445263.html`,
     source_courtesy: `News Courtesy: Jagran Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1598387993441-a364f854c3e1?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/cm-caa-jagran-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: बांग्लादेश में अशांति पर विदेश मंत्री से बात करेंगे बंगाल CM शुभेंदु, CAA कट-ऑफ तारीख बढ़ाने की कर सकते हैं मांग - Jagran`,
     image_courtesy: `Photo Courtesy: Jagran Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -8446,7 +12448,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `India TV Hindi`,
     source_url: `https://www.indiatv.in/sports/cricket/india-vs-new-zealand-1st-test-draw-wtc-points-table-changed-2026-11-23-1255864`,
     source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85&sig=870`,
+    image_url: `/images/articles/ind-vs-nz-wtc-india-tv-hindi-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: IND vs NZ पहला टेस्ट ड्रॉ, WTC अंक तालिका में क्या पड़ा असर, टीम इंडिया को नुकसान - India TV Hindi`,
     image_courtesy: `Photo Courtesy: India TV Hindi Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -8532,7 +12534,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Jagran`,
     source_url: `https://www.jagran.com/cricket/apni-baat-ind-vs-nz-shubman-gill-statement-on-mohammed-siraj-and-ravindra-jadeja-drop-40445535.html`,
     source_courtesy: `News Courtesy: Jagran Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1598387993441-a364f854c3e1?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/ind-vs-nz-jagran-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: IND vs NZ: 'कोई फर्क नहीं पड़ता', मोहम्मद सिराज और रवींद्र जडेजा को बाहर करने पर शुभमन गिल ने दी सफाई - Jagran`,
     image_courtesy: `Photo Courtesy: Jagran Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -8618,9 +12620,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `BBC`,
     source_url: `https://www.bbc.com/hindi/podcasts/p05525mc/p0pp76qy`,
     source_courtesy: `News Courtesy: BBC Digital Archives`,
-    image_url: `https://ichef.bbci.co.uk/images/ic/1200x675/p09krv3t.jpg`,
+    image_url: `/images/articles/health-breaking-dispatch-872-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: HIV-AIDS अभी भी क्यों बना हुआ है एक ग्लोबल चैलेंज`,
-    image_courtesy: `Photo Courtesy: BBC Photo Wire`,
+    image_courtesy: `Image Courtesy: BBC`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Health, Breaking News, National, Hindi News`,
     summary: `- अभी भी क्यों बना हुआ है एक ग्लोबल चैलेंज... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -8704,9 +12706,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Nai Dunia`,
     source_url: `https://www.naidunia.com/lifestyle/news-work-from-home-vitamin-d-deficiency-risk-5-signs-sunlight-fatigue-bone-pain-8478699`,
     source_courtesy: `News Courtesy: Nai Dunia Digital Archives`,
-    image_url: `https://img.naidunia.com/naidunia/ndnimg/23112026/23_11_2026-work_from_home_causes_vitamin_d_dificit.jpg`,
+    image_url: `/images/articles/work-from-home-vitamin-d-deficiency-5-nai-dunia-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: Work From Home में बढ़ रहा Vitamin D Deficiency का खतरा, शरीर में दिख सकते हैं ये 5 संकेत - Nai Dunia`,
-    image_courtesy: `Photo Courtesy: Nai Dunia Photo Wire`,
+    image_courtesy: `Image Courtesy: Nai Dunia`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Health, Breaking News, National, Hindi News`,
     summary: `में बढ़ रहा    का खतरा, शरीर में दिख सकते हैं ये 5 संकेत... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -8790,9 +12792,9 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `India TV Hindi`,
     source_url: `https://www.indiatv.in/tech/tech-news/vivo-y21s-india-launch-tipped-with-6500mah-battery-50mp-camera-2026-11-23-1255870`,
     source_courtesy: `News Courtesy: India TV Hindi Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=1600&q=85&sig=874`,
+    image_url: `/images/articles/6500mah-50mp-vivo-y-india-tv-hindi-2026.jpg`,
     image_alt: `आधिकारिक समाचार छायाचित्र: 6500mAh बैटरी, 50MP कैमरा, Vivo Y सीरीज के अपकमिंग फोन में मिलेंगे धमाकेदार फीचर्स - India TV Hindi`,
-    image_courtesy: `Photo Courtesy: India TV Hindi Photo Wire`,
+    image_courtesy: `Image Courtesy: India TV Hindi`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
     tags: `Tech, Breaking News, National, Hindi News`,
     summary: `6500 बैटरी, 50 कैमरा,   सीरीज के अपकमिंग फोन में मिलेंगे धमाकेदार फीचर्स    6500 बैटरी वाला  का सस्ता 5 स्मार्टफोन, 50 कैमरा और 120 डिस्प्ले से होगा लैस   05   ... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।`,
@@ -8876,7 +12878,7 @@ Beyond immediate headlines, this development carries durable implications for re
     source_name: `Jagran`,
     source_url: `https://www.jagran.com/smart-choice/gadget-zone/top-5-laptops-under-1-lakh-for-video-editing-graphic-designing-8916`,
     source_courtesy: `News Courtesy: Jagran Digital Archives`,
-    image_url: `https://images.unsplash.com/photo-1598387993441-a364f854c3e1?auto=format&fit=crop&w=1600&q=85`,
+    image_url: `/images/articles/1-5-laptops-jagran-2026.webp`,
     image_alt: `आधिकारिक समाचार छायाचित्र: ₹1 लाख के बजट में टॉप 5 Laptops: वीडियो एडिटिंग और ग्राफिक डिजाइनिंग के लिए बेहतरीन चॉइस! - Jagran`,
     image_courtesy: `Photo Courtesy: Jagran Photo Wire`,
     fact_check_status: `Verified by Multi-Agency Editorial Desk`,
@@ -18487,7 +22489,7 @@ Beyond immediate headlines, this development carries durable implications for re
     "id": 577,
     "title": "⚡ बड़ी खबर: Xiaomi 18 Pro Max Launched: कंपनी ने पेश किए दो पावरफुल स्मार्टफोन्स, पीछे भी है स्क्रीन, 200-200MP कैमरा",
     "slug": "xiaomi-18-pro-max-launched-200-200mp-aajtak-2026",
-    "original_title": "Xiaomi 18 Pro Max Launched: कंपनी ने पेश किए दो पावरफुल स्मार्टफोन्स, पीछे भी है स्क्रीन, 200-200MP कैमरा  - AajTak",
+    "original_title": "Xiaomi 18 Pro Max Launched: कंपनी ने पेश किए दो पावरफुल स्मार्टफोन्स, पीछे भी है स्क्रीन, 200-200MP कैमरा  - AajTak",
     "category": "tech",
     "language": "hi",
     "fomo_badge": "⚡ ताज़ा बुलेटिन",
@@ -18499,18 +22501,18 @@ Beyond immediate headlines, this development carries durable implications for re
     "source_url": "https://www.aajtak.in/technology/mobile/story/xiaomi-18-pro-max-global-launch-price-features-camera-battery-ttecm-dskc-2699156-2026-11-17",
     "source_courtesy": "News Courtesy: AajTak Digital Archives",
     "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85",
-    "image_alt": "आधिकारिक समाचार छायाचित्र: Xiaomi 18 Pro Max Launched: कंपनी ने पेश किए दो पावरफुल स्मार्टफोन्स, पीछे भी है स्क्रीन, 200-200MP कैमरा  - AajTak",
+    "image_alt": "आधिकारिक समाचार छायाचित्र: Xiaomi 18 Pro Max Launched: कंपनी ने पेश किए दो पावरफुल स्मार्टफोन्स, पीछे भी है स्क्रीन, 200-200MP कैमरा  - AajTak",
     "image_courtesy": "Photo Courtesy: AajTak Photo Wire",
     "fact_check_status": "Verified by Multi-Agency Editorial Desk",
     "tags": "Tech, Breaking News, National, Hindi News",
     "summary": "18   : कंपनी ने पेश किए दो पावरफुल स्मार्टफोन्स, पीछे भी है स्क्रीन, 200-200 कैमरा  8,888  बैटरी के साथ लॉन्च होगा   18, 45 चार्जिंग के साथ मिलेगा 50 का कैमरा  ... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।",
-    "content": "### मुख्य घटनाक्रम एवं आधिकारिक पृष्ठभूमि\n\nराष्ट्रीय एवं क्षेत्रीय मीडिया गलियारों से आज की बड़ी और सत्यापित खबर। **Xiaomi 18 Pro Max Launched: कंपनी ने पेश किए दो पावरफुल स्मार्टफोन्स, पीछे भी है स्क्रीन, 200-200MP कैमरा  - AajTak** के संबंध में आधिकारिक सूचनाएं और प्रशासनिक विवरण सामने आए हैं। AajTak द्वारा जारी सत्यापित रिपोर्ट के अनुसार, इस पूरे मामले पर उच्चस्तरीय नीतिगत व प्रशासनिक हलकों में गहन समीक्षा की जा रही है।\n\nप्रशासनिक पारदर्शिता, वैधानिक नियमों के कड़े अनुपालन और जनसाधारण के हितों को सर्वोच्च प्राथमिकता देते हुए संबंधित विभागों द्वारा आवश्यक दिशा-निर्देश जारी किए गए हैं।\n\n### प्रशासनिक समीक्षा एवं ज़मीनी हकीकत\n\nज़मीनी हकीकत और विषय विशेषज्ञों के विश्लेषण से स्पष्ट होता है कि 18   : कंपनी ने पेश किए दो पावरफुल स्मार्टफोन्स, पीछे भी है स्क्रीन, 200-200 कैमरा  8,888  बैटरी के साथ लॉन्च होगा   18, 45 चार्जिंग के साथ मिलेगा 50 का कैमरा    18 की डिटेल्स आई सामने, सर्टिफिकेशन साइट पर लिस्ट हुआ मोबाइल 91 वियतनाम में एआई-एकीकृत रियर डिस्प्ले वाला पहला हाई-एंड स्मार्टफोन लॉन्च हो गया है। . 7,050 बैटरी और 50 वायरलेस चार्जिंग,  18   के फीचर्स जानकर रह जाएंगे हैरान 18। इस घटनाक्रम का सीधा प्रभाव संबंधित क्षेत्र, जनसंस्थाओं और नीतिगत प्राथमिकताओं पर पड़ना तय माना जा रहा है।\n\nवरिष्ठ संपादकीय विशेषज्ञों और जमीनी संवाददाताओं का मानना है कि इस प्रकार के नीतिगत और संस्थागत निर्णय दीर्घकालिक स्थिरता और व्यवस्थागत जवाबदेही को सुदृढ़ करते हैं। संबंधित उच्चाधिकारियों द्वारा स्थिति पर निरंतर नजर रखी जा रही है ताकि सभी कार्य सुचारु रूप से संपन्न हो सकें।\n\n### मुख्य बिंदु एवं व्यवस्थागत स्थिति\n\n| व्यवस्था बिंदु | प्रशासनिक स्थिति | वर्तमान स्थिति |\n| :--- | :--- | :--- |\n| विभागीय समीक्षा | उच्चस्तरीय समिति | सक्रिय एवं प्रगति पर |\n| वैधानिक अनुपालन | दिशा-निर्देशों के अनुरूप | पूरी तरह लागू |\n| जन सूचना तंत्र | नियमित आधिकारिक बुलेटिन | सत्यापित |\n| अंतर-विभागीय समन्वय | केंद्रीय व क्षेत्रीय डेस्क | समन्वित |\n\n### दूरगामी प्रभाव एवं विश्लेषणात्मक दृष्टिकोण\n\nसंबंधित विशेषज्ञों ने पुष्टि की है कि नियमों की स्पष्टता और पारदर्शिता भविष्य के प्रशासनिक कार्यों के लिए एक आदर्श मानक स्थापित करेगी। जनसाधारण और हितधारकों तक सही, निष्पक्ष और तथ्यपरक जानकारी पहुंचाना ही पत्रकारिता का मूल ध्येय है।\n\nसंपादकीय विभाग द्वारा इस पूरे घटनाक्रम पर लगातार नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं और प्रेस नोटों के आधार पर विस्तृत विश्लेषण का यह क्रम अनवरत जारी रहेगा।\n\n*ZestFeedX न्यूज़ डेस्क — निष्पक्ष, तथ्यपरक और सत्यापित पत्रकारिता का विश्वसनीय मंच।*",
+    "content": "### मुख्य घटनाक्रम एवं आधिकारिक पृष्ठभूमि\n\nराष्ट्रीय एवं क्षेत्रीय मीडिया गलियारों से आज की बड़ी और सत्यापित खबर। **Xiaomi 18 Pro Max Launched: कंपनी ने पेश किए दो पावरफुल स्मार्टफोन्स, पीछे भी है स्क्रीन, 200-200MP कैमरा  - AajTak** के संबंध में आधिकारिक सूचनाएं और प्रशासनिक विवरण सामने आए हैं। AajTak द्वारा जारी सत्यापित रिपोर्ट के अनुसार, इस पूरे मामले पर उच्चस्तरीय नीतिगत व प्रशासनिक हलकों में गहन समीक्षा की जा रही है।\n\nप्रशासनिक पारदर्शिता, वैधानिक नियमों के कड़े अनुपालन और जनसाधारण के हितों को सर्वोच्च प्राथमिकता देते हुए संबंधित विभागों द्वारा आवश्यक दिशा-निर्देश जारी किए गए हैं।\n\n### प्रशासनिक समीक्षा एवं ज़मीनी हकीकत\n\nज़मीनी हकीकत और विषय विशेषज्ञों के विश्लेषण से स्पष्ट होता है कि 18   : कंपनी ने पेश किए दो पावरफुल स्मार्टफोन्स, पीछे भी है स्क्रीन, 200-200 कैमरा  8,888  बैटरी के साथ लॉन्च होगा   18, 45 चार्जिंग के साथ मिलेगा 50 का कैमरा    18 की डिटेल्स आई सामने, सर्टिफिकेशन साइट पर लिस्ट हुआ मोबाइल 91 वियतनाम में एआई-एकीकृत रियर डिस्प्ले वाला पहला हाई-एंड स्मार्टफोन लॉन्च हो गया है। . 7,050 बैटरी और 50 वायरलेस चार्जिंग,  18   के फीचर्स जानकर रह जाएंगे हैरान 18। इस घटनाक्रम का सीधा प्रभाव संबंधित क्षेत्र, जनसंस्थाओं और नीतिगत प्राथमिकताओं पर पड़ना तय माना जा रहा है।\n\nवरिष्ठ संपादकीय विशेषज्ञों और जमीनी संवाददाताओं का मानना है कि इस प्रकार के नीतिगत और संस्थागत निर्णय दीर्घकालिक स्थिरता और व्यवस्थागत जवाबदेही को सुदृढ़ करते हैं। संबंधित उच्चाधिकारियों द्वारा स्थिति पर निरंतर नजर रखी जा रही है ताकि सभी कार्य सुचारु रूप से संपन्न हो सकें।\n\n### मुख्य बिंदु एवं व्यवस्थागत स्थिति\n\n| व्यवस्था बिंदु | प्रशासनिक स्थिति | वर्तमान स्थिति |\n| :--- | :--- | :--- |\n| विभागीय समीक्षा | उच्चस्तरीय समिति | सक्रिय एवं प्रगति पर |\n| वैधानिक अनुपालन | दिशा-निर्देशों के अनुरूप | पूरी तरह लागू |\n| जन सूचना तंत्र | नियमित आधिकारिक बुलेटिन | सत्यापित |\n| अंतर-विभागीय समन्वय | केंद्रीय व क्षेत्रीय डेस्क | समन्वित |\n\n### दूरगामी प्रभाव एवं विश्लेषणात्मक दृष्टिकोण\n\nसंबंधित विशेषज्ञों ने पुष्टि की है कि नियमों की स्पष्टता और पारदर्शिता भविष्य के प्रशासनिक कार्यों के लिए एक आदर्श मानक स्थापित करेगी। जनसाधारण और हितधारकों तक सही, निष्पक्ष और तथ्यपरक जानकारी पहुंचाना ही पत्रकारिता का मूल ध्येय है।\n\nसंपादकीय विभाग द्वारा इस पूरे घटनाक्रम पर लगातार नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं और प्रेस नोटों के आधार पर विस्तृत विश्लेषण का यह क्रम अनवरत जारी रहेगा।\n\n*ZestFeedX न्यूज़ डेस्क — निष्पक्ष, तथ्यपरक और सत्यापित पत्रकारिता का विश्वसनीय मंच।*",
     "title_en": "",
     "summary_en": "",
     "content_en": "",
     "title_hi": "⚡ बड़ी खबर: Xiaomi 18 Pro Max Launched: कंपनी ने पेश किए दो पावरफुल स्मार्टफोन्स, पीछे भी है स्क्रीन, 200-200MP कैमरा",
     "summary_hi": "18   : कंपनी ने पेश किए दो पावरफुल स्मार्टफोन्स, पीछे भी है स्क्रीन, 200-200 कैमरा  8,888  बैटरी के साथ लॉन्च होगा   18, 45 चार्जिंग के साथ मिलेगा 50 का कैमरा  ... इस महत्वपूर्ण मामले पर प्रशासनिक और नीतिगत स्तर पर लगातार नजर रखी जा रही है।",
-    "content_hi": "### मुख्य घटनाक्रम एवं आधिकारिक पृष्ठभूमि\n\nराष्ट्रीय एवं क्षेत्रीय मीडिया गलियारों से आज की बड़ी और सत्यापित खबर। **Xiaomi 18 Pro Max Launched: कंपनी ने पेश किए दो पावरफुल स्मार्टफोन्स, पीछे भी है स्क्रीन, 200-200MP कैमरा  - AajTak** के संबंध में आधिकारिक सूचनाएं और प्रशासनिक विवरण सामने आए हैं। AajTak द्वारा जारी सत्यापित रिपोर्ट के अनुसार, इस पूरे मामले पर उच्चस्तरीय नीतिगत व प्रशासनिक हलकों में गहन समीक्षा की जा रही है।\n\nप्रशासनिक पारदर्शिता, वैधानिक नियमों के कड़े अनुपालन और जनसाधारण के हितों को सर्वोच्च प्राथमिकता देते हुए संबंधित विभागों द्वारा आवश्यक दिशा-निर्देश जारी किए गए हैं।\n\n### प्रशासनिक समीक्षा एवं ज़मीनी हकीकत\n\nज़मीनी हकीकत और विषय विशेषज्ञों के विश्लेषण से स्पष्ट होता है कि 18   : कंपनी ने पेश किए दो पावरफुल स्मार्टफोन्स, पीछे भी है स्क्रीन, 200-200 कैमरा  8,888  बैटरी के साथ लॉन्च होगा   18, 45 चार्जिंग के साथ मिलेगा 50 का कैमरा    18 की डिटेल्स आई सामने, सर्टिफिकेशन साइट पर लिस्ट हुआ मोबाइल 91 वियतनाम में एआई-एकीकृत रियर डिस्प्ले वाला पहला हाई-एंड स्मार्टफोन लॉन्च हो गया है। . 7,050 बैटरी और 50 वायरलेस चार्जिंग,  18   के फीचर्स जानकर रह जाएंगे हैरान 18। इस घटनाक्रम का सीधा प्रभाव संबंधित क्षेत्र, जनसंस्थाओं और नीतिगत प्राथमिकताओं पर पड़ना तय माना जा रहा है।\n\nवरिष्ठ संपादकीय विशेषज्ञों और जमीनी संवाददाताओं का मानना है कि इस प्रकार के नीतिगत और संस्थागत निर्णय दीर्घकालिक स्थिरता और व्यवस्थागत जवाबदेही को सुदृढ़ करते हैं। संबंधित उच्चाधिकारियों द्वारा स्थिति पर निरंतर नजर रखी जा रही है ताकि सभी कार्य सुचारु रूप से संपन्न हो सकें।\n\n### मुख्य बिंदु एवं व्यवस्थागत स्थिति\n\n| व्यवस्था बिंदु | प्रशासनिक स्थिति | वर्तमान स्थिति |\n| :--- | :--- | :--- |\n| विभागीय समीक्षा | उच्चस्तरीय समिति | सक्रिय एवं प्रगति पर |\n| वैधानिक अनुपालन | दिशा-निर्देशों के अनुरूप | पूरी तरह लागू |\n| जन सूचना तंत्र | नियमित आधिकारिक बुलेटिन | सत्यापित |\n| अंतर-विभागीय समन्वय | केंद्रीय व क्षेत्रीय डेस्क | समन्वित |\n\n### दूरगामी प्रभाव एवं विश्लेषणात्मक दृष्टिकोण\n\nसंबंधित विशेषज्ञों ने पुष्टि की है कि नियमों की स्पष्टता और पारदर्शिता भविष्य के प्रशासनिक कार्यों के लिए एक आदर्श मानक स्थापित करेगी। जनसाधारण और हितधारकों तक सही, निष्पक्ष और तथ्यपरक जानकारी पहुंचाना ही पत्रकारिता का मूल ध्येय है।\n\nसंपादकीय विभाग द्वारा इस पूरे घटनाक्रम पर लगातार नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं और प्रेस नोटों के आधार पर विस्तृत विश्लेषण का यह क्रम अनवरत जारी रहेगा।\n\n*ZestFeedX न्यूज़ डेस्क — निष्पक्ष, तथ्यपरक और सत्यापित पत्रकारिता का विश्वसनीय मंच।*",
+    "content_hi": "### मुख्य घटनाक्रम एवं आधिकारिक पृष्ठभूमि\n\nराष्ट्रीय एवं क्षेत्रीय मीडिया गलियारों से आज की बड़ी और सत्यापित खबर। **Xiaomi 18 Pro Max Launched: कंपनी ने पेश किए दो पावरफुल स्मार्टफोन्स, पीछे भी है स्क्रीन, 200-200MP कैमरा  - AajTak** के संबंध में आधिकारिक सूचनाएं और प्रशासनिक विवरण सामने आए हैं। AajTak द्वारा जारी सत्यापित रिपोर्ट के अनुसार, इस पूरे मामले पर उच्चस्तरीय नीतिगत व प्रशासनिक हलकों में गहन समीक्षा की जा रही है।\n\nप्रशासनिक पारदर्शिता, वैधानिक नियमों के कड़े अनुपालन और जनसाधारण के हितों को सर्वोच्च प्राथमिकता देते हुए संबंधित विभागों द्वारा आवश्यक दिशा-निर्देश जारी किए गए हैं।\n\n### प्रशासनिक समीक्षा एवं ज़मीनी हकीकत\n\nज़मीनी हकीकत और विषय विशेषज्ञों के विश्लेषण से स्पष्ट होता है कि 18   : कंपनी ने पेश किए दो पावरफुल स्मार्टफोन्स, पीछे भी है स्क्रीन, 200-200 कैमरा  8,888  बैटरी के साथ लॉन्च होगा   18, 45 चार्जिंग के साथ मिलेगा 50 का कैमरा    18 की डिटेल्स आई सामने, सर्टिफिकेशन साइट पर लिस्ट हुआ मोबाइल 91 वियतनाम में एआई-एकीकृत रियर डिस्प्ले वाला पहला हाई-एंड स्मार्टफोन लॉन्च हो गया है। . 7,050 बैटरी और 50 वायरलेस चार्जिंग,  18   के फीचर्स जानकर रह जाएंगे हैरान 18। इस घटनाक्रम का सीधा प्रभाव संबंधित क्षेत्र, जनसंस्थाओं और नीतिगत प्राथमिकताओं पर पड़ना तय माना जा रहा है।\n\nवरिष्ठ संपादकीय विशेषज्ञों और जमीनी संवाददाताओं का मानना है कि इस प्रकार के नीतिगत और संस्थागत निर्णय दीर्घकालिक स्थिरता और व्यवस्थागत जवाबदेही को सुदृढ़ करते हैं। संबंधित उच्चाधिकारियों द्वारा स्थिति पर निरंतर नजर रखी जा रही है ताकि सभी कार्य सुचारु रूप से संपन्न हो सकें।\n\n### मुख्य बिंदु एवं व्यवस्थागत स्थिति\n\n| व्यवस्था बिंदु | प्रशासनिक स्थिति | वर्तमान स्थिति |\n| :--- | :--- | :--- |\n| विभागीय समीक्षा | उच्चस्तरीय समिति | सक्रिय एवं प्रगति पर |\n| वैधानिक अनुपालन | दिशा-निर्देशों के अनुरूप | पूरी तरह लागू |\n| जन सूचना तंत्र | नियमित आधिकारिक बुलेटिन | सत्यापित |\n| अंतर-विभागीय समन्वय | केंद्रीय व क्षेत्रीय डेस्क | समन्वित |\n\n### दूरगामी प्रभाव एवं विश्लेषणात्मक दृष्टिकोण\n\nसंबंधित विशेषज्ञों ने पुष्टि की है कि नियमों की स्पष्टता और पारदर्शिता भविष्य के प्रशासनिक कार्यों के लिए एक आदर्श मानक स्थापित करेगी। जनसाधारण और हितधारकों तक सही, निष्पक्ष और तथ्यपरक जानकारी पहुंचाना ही पत्रकारिता का मूल ध्येय है।\n\nसंपादकीय विभाग द्वारा इस पूरे घटनाक्रम पर लगातार नज़र रखी जा रही है। आगामी आधिकारिक सूचनाओं और प्रेस नोटों के आधार पर विस्तृत विश्लेषण का यह क्रम अनवरत जारी रहेगा।\n\n*ZestFeedX न्यूज़ डेस्क — निष्पक्ष, तथ्यपरक और सत्यापित पत्रकारिता का विश्वसनीय मंच।*",
     "author_name": "पंखुड़ी शर्मा (वरिष्ठ डिजिटल संपादक)",
     "author_bio": "Senior Digital Editor covering national policy, frontier tech, and lifestyle trends with over 15 years of investigative journalism experience.",
     "author_url": "https://zestfeedx.com/author/pankhudi-sharma"

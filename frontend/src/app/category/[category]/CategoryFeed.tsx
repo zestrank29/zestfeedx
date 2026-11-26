@@ -63,6 +63,8 @@ export default function CategoryFeed({ articles, categoryTitle }: CategoryFeedPr
   useEffect(() => {
     const t = searchParams?.get("topic");
     if (t) setActiveTopic(t);
+    const l = searchParams?.get("lang");
+    if (l === "hi" || l === "en") setActiveLang(l);
   }, [searchParams]);
 
   const isHealthCategory = categoryTitle.toLowerCase().includes("health");
@@ -84,14 +86,15 @@ export default function CategoryFeed({ articles, categoryTitle }: CategoryFeedPr
       })
     : articles;
 
-  const englishArticles = topicFilteredArticles.filter((a) => a.language === "en");
-  const hindiArticles = topicFilteredArticles.filter((a) => a.language === "hi");
+  const isDevanagari = (text: string) => /[\u0900-\u097F]/.test(text || "");
+  const englishArticles = topicFilteredArticles.filter((a) => a.language === "en" && !isDevanagari(a.title));
+  const hindiArticles = topicFilteredArticles.filter((a) => a.language === "hi" || isDevanagari(a.title));
 
   const displayedArticles = activeLang === "all"
     ? topicFilteredArticles
     : activeLang === "hi"
-    ? (hindiArticles.length > 0 ? hindiArticles : topicFilteredArticles)
-    : (englishArticles.length > 0 ? englishArticles : topicFilteredArticles);
+    ? hindiArticles
+    : englishArticles;
 
   return (
     <div>

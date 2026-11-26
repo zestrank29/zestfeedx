@@ -4,7 +4,8 @@ chcp 65001 > nul
 set "PYTHONUTF8=1"
 set "PYTHONIOENCODING=utf-8"
 
-set "ROOT_DIR=d:\BuzzNews"
+set "ROOT_DIR=%~dp0"
+if "%ROOT_DIR:~-1%"=="\" set "ROOT_DIR=%ROOT_DIR:~0,-1%"
 set "LOG_DIR=%ROOT_DIR%\logs"
 if not exist "%LOG_DIR%" mkdir "%LOG_DIR%"
 

@@ -81,7 +81,9 @@ export default async function AuthorProfilePage({ params }: Props) {
   const originalArticles = ORIGINAL_ARTICLES.filter(
     (a) => a.author.slug === author.slug || author.slug === "pankhudi-sharma"
   );
-  const seedArticles = SEED_ARTICLES.slice(0, 48);
+  const seedArticles = SEED_ARTICLES.filter(
+    (s) => s.language !== "hi" && !/[\u0900-\u097F]/.test(s.title || "")
+  ).slice(0, 48);
 
   const authorJsonLd = {
     "@context": "https://schema.org",

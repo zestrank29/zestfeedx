@@ -154,11 +154,11 @@ export function HomePageContent({
 
   const allArticles = React.useMemo(() => {
     let list: OriginalArticle[] = [];
+    const hasDevanagari = (t?: string) => /[\u0900-\u097F]/.test(t || "");
     if (currentLanguage === "hi") {
-      const hiSeeds = convertedSeeds.filter((a) => a.language === "hi");
-      list = hiSeeds.length > 0 ? hiSeeds : convertedSeeds;
+      list = convertedSeeds.filter((a) => a.language === "hi" || hasDevanagari(a.title));
     } else {
-      const enSeeds = convertedSeeds.filter((a) => a.language === "en");
+      const enSeeds = convertedSeeds.filter((a) => a.language === "en" && !hasDevanagari(a.title));
       list = [...enSeeds, ...ORIGINAL_ARTICLES];
     }
     // Sort strictly by actual ZestFeedX published_at timestamp descending

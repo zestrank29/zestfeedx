@@ -99,82 +99,112 @@ def to_hd_image(img_url):
 # Curated High-Definition Unsplash Pool (>=1600px wide, Rights-cleared for editorial web use)
 CATEGORY_HD_IMAGES = {
     "health": [
-        {"url": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982", "photographer": "CDC / Unsplash", "license": "Unsplash Commercial & Editorial License", "topic": "public-health"},
-        {"url": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7", "photographer": "National Cancer Institute", "license": "Public Domain / Editorial Handout", "topic": "heart-health"},
-        {"url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9", "photographer": "Ella Olsson", "license": "Unsplash Editorial Clearance", "topic": "nutrition"},
-        {"url": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528", "photographer": "Total Shape", "license": "Unsplash Editorial Clearance", "topic": "diabetes"},
-        {"url": "https://images.unsplash.com/photo-1530497610245-94d3c16cda28", "photographer": "Ani Kolleshi", "license": "Unsplash Editorial Clearance", "topic": "air-pollution"},
-        {"url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d", "photographer": "Accredited Clinical Imagery", "license": "Editorial Press Handout", "topic": "seasonal-illnesses"},
-        {"url": "https://images.unsplash.com/photo-1527613426441-4da17471b66d", "photographer": "Medical Lab Research", "license": "Unsplash Editorial License", "topic": "womens-health"},
-        {"url": "https://images.unsplash.com/photo-1516549655169-df83a0774514", "photographer": "Clinical Healthcare Archives", "license": "Unsplash Editorial License", "topic": "mental-health"}
+        {"url": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License", "topic": "public-health"},
+        {"url": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License", "topic": "heart-health"},
+        {"url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9", "photographer": "Ella Olsson / Unsplash", "license": "Unsplash License", "topic": "nutrition"},
+        {"url": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License", "topic": "diabetes"},
+        {"url": "https://images.unsplash.com/photo-1530497610245-94d3c16cda28", "photographer": "Ani Kolleshi / Unsplash", "license": "Unsplash License", "topic": "air-pollution"},
+        {"url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License", "topic": "seasonal-illnesses"},
+        {"url": "https://images.unsplash.com/photo-1527613426441-4da17471b66d", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License", "topic": "womens-health"},
+        {"url": "https://images.unsplash.com/photo-1516549655169-df83a0774514", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License", "topic": "mental-health"}
     ],
     "politics": [
-        {"url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9", "photographer": "Parliamentary Photo Desk", "license": "Official Editorial Wire"},
-        {"url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f", "photographer": "Legal & Constitutional Wire", "license": "Unsplash Editorial"},
-        {"url": "https://images.unsplash.com/photo-1532375810709-75b1da00537c", "photographer": "National Archives", "license": "Unsplash Editorial"},
-        {"url": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7", "photographer": "Government Secretariat", "license": "Official Press Release"}
+        {"url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"},
+        {"url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"},
+        {"url": "https://images.unsplash.com/photo-1532375810709-75b1da00537c", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"},
+        {"url": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"}
     ],
     "markets": [
-        {"url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3", "photographer": "Financial Exchange Archives", "license": "Unsplash Editorial"},
-        {"url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f", "photographer": "Bourse Telemetry Desk", "license": "Unsplash Editorial"},
-        {"url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e", "photographer": "Currency & Commodities Desk", "license": "Unsplash Editorial"}
+        {"url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"},
+        {"url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"},
+        {"url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"}
     ],
     "tech": [
-        {"url": "https://images.unsplash.com/photo-1518770660439-4636190af475", "photographer": "Semiconductor Lab", "license": "Unsplash Editorial"},
-        {"url": "https://images.unsplash.com/photo-1677442136019-21780ecad995", "photographer": "AI Systems Architecture", "license": "Unsplash Editorial"},
-        {"url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b", "photographer": "Cloud Data Center", "license": "Unsplash Editorial"}
+        {"url": "https://images.unsplash.com/photo-1518770660439-4636190af475", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"},
+        {"url": "https://images.unsplash.com/photo-1677442136019-21780ecad995", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"},
+        {"url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"}
     ],
     "world": [
-        {"url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa", "photographer": "Global Satellite Telemetry", "license": "Unsplash Editorial"},
-        {"url": "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4", "photographer": "Diplomatic Affairs Wire", "license": "Unsplash Editorial"}
+        {"url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"},
+        {"url": "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"}
     ],
     "sports": [
-        {"url": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e", "photographer": "Stadium Sports Media", "license": "Unsplash Editorial"},
-        {"url": "https://images.unsplash.com/photo-1531415074868-036b1c57e329", "photographer": "Athletics Federation", "license": "Unsplash Editorial"}
+        {"url": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"},
+        {"url": "https://images.unsplash.com/photo-1531415074868-036b1c57e329", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"}
     ],
     "entertainment": [
-        {"url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba", "photographer": "Cinema Premiere Desk", "license": "Unsplash Editorial"}
+        {"url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"}
     ],
     "ramayana": [
-        {"url": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220", "photographer": "Heritage Architecture Desk", "license": "Unsplash Editorial"}
+        {"url": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"}
     ]
 }
 
+# Strictly separated English and Hindi feeds per category so languages never mix
 FEEDS = {
-    # Lead Priority: Health, ICMR, MoHFW, WHO, Air Pollution
-    "health": [
-        "https://news.google.com/rss/search?q=ICMR+health+India+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=%22Ministry+of+Health%22+India+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=%22air+pollution%22+OR+%22AQI%22+Delhi+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=diabetes+OR+cardiology+India+study+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/search?q=dengue+malaria+advisory+India+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://news.google.com/rss/headlines/section/topic/HEALTH?hl=hi&gl=IN&ceid=IN:hi",
-        "https://aninews.in/rss/feed/category/health.xml"
-    ],
-    "politics": [
-        "https://news.google.com/rss?hl=hi&gl=IN&ceid=IN:hi",
-        "https://news.google.com/rss/headlines/section/topic/NATION?hl=hi&gl=IN&ceid=IN:hi",
-        "https://news.google.com/rss/search?q=%22PM+Modi%22+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-        "https://aninews.in/rss/feed/category/national.xml"
-    ],
-    "tech": [
-        "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=hi&gl=IN&ceid=IN:hi",
-        "https://aninews.in/rss/feed/category/tech.xml"
-    ],
-    "world": [
-        "https://news.google.com/rss/headlines/section/topic/WORLD?hl=hi&gl=IN&ceid=IN:hi",
-        "https://aninews.in/rss/feed/category/world.xml"
-    ],
-    "sports": [
-        "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=hi&gl=IN&ceid=IN:hi",
-        "https://aninews.in/rss/feed/category/sports.xml"
-    ],
-    "entertainment": [
-        "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=hi&gl=IN&ceid=IN:hi"
-    ],
-    "ramayana": [
-        "https://news.google.com/rss/search?q=%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A3&hl=hi&gl=IN&ceid=IN:hi"
-    ]
+    "health": {
+        "en": [
+            "https://news.google.com/rss/search?q=ICMR+health+India+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+            "https://news.google.com/rss/search?q=%22Ministry+of+Health%22+India+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+            "https://news.google.com/rss/search?q=%22air+pollution%22+OR+%22AQI%22+Delhi+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+            "https://aninews.in/rss/feed/category/health.xml",
+        ],
+        "hi": [
+            "https://news.google.com/rss/headlines/section/topic/HEALTH?hl=hi&gl=IN&ceid=IN:hi",
+        ],
+    },
+    "politics": {
+        "en": [
+            "https://news.google.com/rss/headlines/section/topic/NATION?hl=en-IN&gl=IN&ceid=IN:en",
+            "https://aninews.in/rss/feed/category/national.xml",
+        ],
+        "hi": [
+            "https://news.google.com/rss/headlines/section/topic/NATION?hl=hi&gl=IN&ceid=IN:hi",
+        ],
+    },
+    "tech": {
+        "en": [
+            "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-IN&gl=IN&ceid=IN:en",
+            "https://aninews.in/rss/feed/category/tech.xml",
+        ],
+        "hi": [
+            "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=hi&gl=IN&ceid=IN:hi",
+        ],
+    },
+    "world": {
+        "en": [
+            "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-IN&gl=IN&ceid=IN:en",
+            "https://aninews.in/rss/feed/category/world.xml",
+        ],
+        "hi": [
+            "https://news.google.com/rss/headlines/section/topic/WORLD?hl=hi&gl=IN&ceid=IN:hi",
+        ],
+    },
+    "sports": {
+        "en": [
+            "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-IN&gl=IN&ceid=IN:en",
+            "https://aninews.in/rss/feed/category/sports.xml",
+        ],
+        "hi": [
+            "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=hi&gl=IN&ceid=IN:hi",
+        ],
+    },
+    "entertainment": {
+        "en": [
+            "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-IN&gl=IN&ceid=IN:en",
+        ],
+        "hi": [
+            "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=hi&gl=IN&ceid=IN:hi",
+        ],
+    },
+    "ramayana": {
+        "en": [
+            "https://news.google.com/rss/search?q=Ramayana+culture+India+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
+        ],
+        "hi": [
+            "https://news.google.com/rss/search?q=%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A3&hl=hi&gl=IN&ceid=IN:hi",
+        ],
+    },
 }
 
 FEED_HEADERS = {
@@ -192,10 +222,16 @@ try:
 except ImportError:
     gnewsdecoder = None
 
+try:
+    from bs4 import BeautifulSoup
+except ImportError:
+    BeautifulSoup = None
+
 def clean_html(text):
     if not text:
         return ""
-    clean = re.sub(r'<[^>]+>', ' ', text)
+    clean = text.replace("\u2028", " ").replace("\u2029", " ")
+    clean = re.sub(r'<[^>]+>', ' ', clean)
     clean = re.sub(r'&[a-zA-Z0-9#]+;', ' ', clean)
     clean = re.sub(r'\s+', ' ', clean)
     return clean.strip()
@@ -243,25 +279,112 @@ def needs_medical_review(category, title, desc):
     ]
     return any(k in text for k in clinical_keywords)
 
-def extract_og_image(url):
-    if not url:
-        return ""
+def decode_source_url(url):
+    if not url or "news.google.com" not in url:
+        return url
+    if gnewsdecoder is not None:
+        try:
+            res = gnewsdecoder(url, interval=0.5)
+            if isinstance(res, dict) and (res.get("success") or res.get("status")) and res.get("decoded_url"):
+                return res["decoded_url"]
+        except Exception:
+            pass
+    return url
+
+NOISE_PHRASES = (
+    "इमेज स्रोत", "image caption", "copyright", "all rights reserved",
+    "subscribe", "also read", "read more:", "advertisement", "cookie",
+    "follow us on", "download app", "click here", "sign up"
+)
+
+def extract_source_content_and_image(url):
+    """Fetch original og:image and full article paragraphs from the decoded source URL."""
+    if not url or "news.google.com" in url or "zestfeedx.com" in url:
+        return "", []
+    bad_patterns = ("google-news", "googleusercontent.com/s2", "gstatic.com", "favicon", "default-image", "placeholder", "/logo", "site-logo", "1x1", "pixel.gif")
+    img_url = ""
+    paragraphs = []
     try:
         req = urllib.request.Request(url, headers=ARTICLE_HEADERS)
-        with urllib.request.urlopen(req, timeout=6) as resp:
-            html = resp.read().decode("utf-8", errors="ignore")
-            og = re.search(r'<meta[^>]+property=[\'"]og:image[\'"][^>]+content=[\'"]([^\'"]+)[\'"]', html, re.I)
-            if not og:
-                og = re.search(r'<meta[^>]+content=[\'"]([^\'"]+)[\'"][^>]+property=[\'"]og:image[\'"]', html, re.I)
-            if og:
-                img = og.group(1).strip()
-                if img.startswith("//"):
-                    img = "https:" + img
-                if img.startswith("http"):
-                    return to_hd_image(img)
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            html = resp.read(1500000).decode("utf-8", errors="ignore")
+            if BeautifulSoup is not None:
+                soup = BeautifulSoup(html, "html.parser")
+                og = (
+                    soup.find("meta", property="og:image")
+                    or soup.find("meta", attrs={"name": "twitter:image"})
+                    or soup.find("meta", attrs={"property": "twitter:image"})
+                )
+                if og and og.get("content"):
+                    cand = og["content"].strip().replace("&amp;", "&")
+                    if cand.startswith("//"):
+                        cand = "https:" + cand
+                    if cand.startswith("http") and not any(b in cand.lower() for b in bad_patterns):
+                        img_url = to_hd_image(cand)
+
+                for tag in soup(["script", "style", "nav", "footer", "aside"]):
+                    tag.decompose()
+
+                def extract_from(node):
+                    out = []
+                    seen_p = set()
+                    for p in node.find_all(["p", "h2", "h3"]):
+                        txt = p.get_text(" ", strip=True).replace("\u2028", " ").replace("\u2029", " ")
+                        if len(txt) < 35:
+                            continue
+                        low = txt.lower()
+                        if any(np in low for np in NOISE_PHRASES):
+                            continue
+                        if txt in seen_p:
+                            continue
+                        seen_p.add(txt)
+                        out.append(f"### {txt}" if p.name in ("h2", "h3") else txt)
+                    return out
+
+                for cand_node in (soup.find("article"), soup.find("main"), soup):
+                    if cand_node is not None:
+                        paras = extract_from(cand_node)
+                        if len(paras) >= 3:
+                            break
+            else:
+                for pat in [
+                    r'<meta[^>]+property=[\'"]og:image[\'"][^>]+content=[\'"]([^\'"]+)[\'"]',
+                    r'<meta[^>]+content=[\'"]([^\'"]+)[\'"][^>]+property=[\'"]og:image[\'"]',
+                ]:
+                    og = re.search(pat, html, re.I)
+                    if og:
+                        cand = og.group(1).strip().replace("&amp;", "&")
+                        if cand.startswith("//"):
+                            cand = "https:" + cand
+                        if cand.startswith("http") and not any(b in cand.lower() for b in bad_patterns):
+                            img_url = to_hd_image(cand)
+                            break
     except Exception:
         pass
-    return ""
+    return img_url, paragraphs[:30]
+
+def download_source_image_local(img_url, slug):
+    if not img_url or not img_url.startswith("http"):
+        return ""
+    try:
+        images_dir = os.path.join(BASE_DIR, "frontend", "public", "images", "articles")
+        os.makedirs(images_dir, exist_ok=True)
+        req = urllib.request.Request(img_url, headers=ARTICLE_HEADERS)
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            ctype = resp.headers.get("Content-Type", "").lower()
+            if resp.status != 200 or "image" not in ctype:
+                return ""
+            data = resp.read(5 * 1024 * 1024)
+            if len(data) < 5000:
+                return ""
+            ext = ".webp" if "webp" in ctype else (".png" if "png" in ctype else ".jpg")
+            safe_slug = re.sub(r'[^a-zA-Z0-9_-]', '', slug)[:80] or "article"
+            filename = f"{safe_slug}{ext}"
+            with open(os.path.join(images_dir, filename), "wb") as f:
+                f.write(data)
+            return f"/images/articles/{filename}"
+    except Exception:
+        return ""
 
 def get_existing_metadata():
     if not os.path.exists(SEED_FILE):
@@ -340,121 +463,90 @@ def build_complete_article(art_id, item, seen_images):
     slug = make_slug(clean_title, category, art_id)
     
     img = item.get("img", "")
-    source_url = item.get("link", "")
+    source_url = decode_source_url(item.get("link", ""))
     source_name = item.get("source_name", "Official Wire")
     topic = detect_health_topic(clean_title, item.get("desc", "")) if category == "health" else ""
     is_med_review = needs_medical_review(category, clean_title, item.get("desc", ""))
 
-    # Unsplash / Rights-cleared pool fallback
+    # 1. Fetch original source image (og:image / twitter:image) AND full article paragraphs
+    extracted_img, extracted_paras = extract_source_content_and_image(source_url)
+    if not img and extracted_img:
+        img = extracted_img
+    if img and img.startswith("http"):
+        local_img = download_source_image_local(img, slug)
+        if local_img:
+            img = local_img
+
+    # 2. Fallback ONLY within the SAME category pool (never cross-contaminate e.g. health image on ramayana)
+    seen_bases = {u.split("?")[0] for u in seen_images}
     img_meta = None
-    if not img or img in seen_images:
+    if not img or img.split("?")[0] in seen_bases:
         pool = CATEGORY_HD_IMAGES.get(category, CATEGORY_HD_IMAGES["politics"])
-        if category == "health" and topic:
-            topic_pool = [x for x in pool if x.get("topic") == topic]
-            selected = topic_pool[0] if topic_pool else pool[art_id % len(pool)]
-        else:
-            selected = pool[art_id % len(pool)]
-        
+        selected = next((c for c in pool if c["url"].split("?")[0] not in seen_bases), pool[art_id % len(pool)])
         base_url = selected["url"].split('?')[0]
-        img = f"{base_url}?auto=format&fit=crop&w=1600&q=85&sig={art_id}"
+        img = f"{base_url}?auto=format&fit=crop&w=1600&q=85"
         img_meta = selected
     
     seen_images.add(img)
 
-    photographer = img_meta["photographer"] if img_meta else f"{source_name} Visual Media Team"
-    img_license = img_meta["license"] if img_meta else "Editorial Press Wire Distribution License"
+    photographer = img_meta["photographer"] if img_meta else f"{source_name}"
+    img_license = img_meta["license"] if img_meta else "External Source Attribution"
 
     is_hindi = bool(re.search(r'[\u0900-\u097F]', clean_title))
-    now_dt = now_ist()
     now_iso = now_utc().strftime("%Y-%m-%dT%H:%M:%SZ")
+    desc_text = (item.get("desc") or "").strip()
+    if not desc_text or desc_text.lower() == clean_title.lower():
+        desc_text = clean_title
 
-    # What Happened, Who Is Affected, Why It Matters, What to Watch
-    why_it_matters = f"Sets a critical public accountability and institutional benchmark for {category.capitalize()} affairs across India."
-    who_is_affected = "Directly impacts civic communities, healthcare administrators, policymakers, and consumers nationwide."
-    readers_searching = f"Readers are searching for verified directives, regional advisories, and statutory guidance on {clean_title}."
+    body_text = "\n\n".join(extracted_paras) if extracted_paras else desc_text
+    word_count = max(1, len(body_text.split()))
+    read_mins = max(1, round(word_count / 200))
 
-    # Construct comprehensive 800+ word structured investigative dispatch
-    if category == "health":
-        content_markdown = f"""### Clinical & Epidemiological Background
+    if is_hindi:
+        why_it_matters = f"{category.capitalize()} श्रेणी से जुड़ी यह रिपोर्ट {source_name} के प्राथमिक समाचार बुलेटिन पर आधारित है।"
+        who_is_affected = "संबंधित पाठक, नागरिक एवं नीति-निर्माता।"
+        readers_searching = f"पाठक {clean_title} से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।"
+        content_markdown = f"""{body_text}
 
-A significant healthcare development has emerged today regarding **{clean_title}**. According to corroborated documentation released by {source_name}, public health bodies and medical authorities have initiated immediate surveillance and operational protocols.
+---
 
-With India's healthcare landscape addressing dual challenges of communicable infections and non-communicable lifestyle conditions, authoritative bodies including the Ministry of Health and Family Welfare (MoHFW) and the Indian Council of Medical Research (ICMR) stress the necessity of evidence-based interventions and transparent clinical disclosures.
-
-### Field Realities & Patient Impact
-
-Ground reports and clinical telemetry indicate that {item.get('desc', clean_title)} represents a consequential juncture for primary care providers and civic health workers. Epidemiological teams emphasize that early detection, localized containment, and strict adherence to established protocols remain the first line of defense.
-
-Addressing medical correspondents, senior clinicians pointed out that patient safety and diagnostic accuracy must not be compromised. Where pharmacological interventions or clinical therapies are under consideration, physicians must evaluate verified clinical trial endpoints before altering therapeutic regimens.
-
-### Verified Clinical & Policy Telemetry
-
-| Healthcare Indicator | Clinical Status | Administrative Benchmark |
-| :--- | :--- | :--- |
-| Surveillance Level | Active Regional Monitoring | Enforced by State Health Desks |
-| Diagnostic Standard | Multi-Laboratory Verification | ICMR / MoHFW Aligned |
-| Public Advisory | Official Guidelines Issued | Verified for Citizen Guidance |
-| Clinical Review Mandate | Independent Medical Assessment | Completed by Review Board |
-
-### Editorial Context & Expert Consensus
-
-Medical researchers emphasize that while observational telemetry provides crucial early warnings, comprehensive peer-reviewed longitudinal data is necessary to determine permanent institutional guidelines. Citizens are urged to rely exclusively on official state health bulletins and verified medical practitioners rather than uncorroborated social communications.
-
-*Disclaimer: This report is compiled for informational and public awareness purposes. In case of acute medical symptoms or personal health decisions, always consult a qualified medical professional.*"""
+**मूल स्रोत (Original Source):** [{source_name}]({source_url})"""
+        summary_text = (extracted_paras[0] if extracted_paras and not extracted_paras[0].startswith("###") else desc_text)[:240]
     else:
-        content_markdown = f"""### Strategic Overview & Legislative Framework
+        why_it_matters = f"Full report attributed to {source_name}."
+        who_is_affected = "Readers tracking verified news updates across India."
+        readers_searching = f"Complete coverage and source attribution for {clean_title}."
+        content_markdown = f"""{body_text}
 
-In what institutional analysts describe as a consequential administrative milestone, verified dispatches confirm significant momentum regarding **{clean_title}**. According to authoritative communiqués released by {source_name}, this proceeding reflects concerted administrative oversight and structured institutional coordination across national ministries.
+---
 
-State administrative secretariats, regulatory bodies, and legislative committees have underscored the critical importance of transparent governance, statutory compliance, and civic welfare in overseeing this matter.
-
-### Institutional Oversight & Ground Reality
-
-Ground reality assessments indicate that {item.get('desc', clean_title)} establishes a clear operational precedent. Senior governance specialists highlight that multi-agency supervisory committees are actively monitoring implementation milestones to guarantee full accountability, statutory integrity, and public transparency.
-
-Addressing press correspondents during the regular briefing, administrative spokespersons confirmed that operational protocols are being executed with strict adherence to established legal mandates, ensuring that stakeholder interests and community welfare remain fully protected.
-
-### Governance Parameter Assessment
-
-| Institutional Metric | Operational Benchmark | Statutory Status |
-| :--- | :--- | :--- |
-| Inter-Agency Oversight | Multi-Tier Secretariat Review | Verified & Active |
-| Statutory Compliance | Strict Adherence to Legislative Mandate | Enforced |
-| Public Transparency Index | High-Frequency Field Dispatches | Documented |
-| Jurisdictional Coordination | National & Regional Secretariat Desk | Coordinated |
-
-### Why This Matters: Policy Impact & Outlook
-
-Beyond immediate headlines, this development carries durable implications for regulatory policy and public administration. Constitutional scholars and governance strategists note that the operational precedents affirmed today provide a stable framework for future legislative initiatives.
-
-*ZestFeedX Editorial Desk will continue to monitor official gazettes, ministerial releases, and verified ground telemetry as further updates emerge.*"""
-
-    summary_text = f"{clean_title}. Comprehensive verified dispatches and institutional ground analysis from the ZestFeedX editorial desk."
+**Original Source:** [{source_name}]({source_url})"""
+        summary_text = (extracted_paras[0] if extracted_paras and not extracted_paras[0].startswith("###") else desc_text)[:240]
 
     article_obj = {
         "id": art_id,
-        "title": f"🩺 {clean_title}" if category == "health" else f"🚨 {clean_title}",
+        "title": clean_title,
         "slug": slug,
         "original_title": clean_title,
         "category": category,
         "topic": topic,
         "language": "hi" if is_hindi else "en",
-        "fomo_badge": "🩺 Health Wire" if category == "health" else "⚡ National Wire",
-        "read_time": "7 min read",
-        "views_count": 38000 + (art_id * 240),
-        "shares_count": 4200 + (art_id * 35),
+        "fomo_badge": "स्वास्थ्य वायर" if (is_hindi and category == "health") else ("न्यूज़ वायर" if is_hindi else ("Health Wire" if category == "health" else "News Wire")),
+        "read_time": f"{read_mins} min read",
+        "views_count": 0,
+        "shares_count": 0,
         "published_at": now_iso,
         "updated_at": now_iso,
         "source_name": source_name,
         "source_url": source_url,
-        "source_courtesy": f"News Courtesy: {source_name} Digital Archives",
+        "source_courtesy": f"Source: {source_name}",
         "image_url": img,
-        "image_alt": f"Verified news photograph: {clean_title}",
-        "image_courtesy": f"Photo: {photographer} ({img_license})",
+        "image_alt": clean_title,
+        "image_courtesy": f"Image: {photographer} ({img_license})",
         "image_photographer": photographer,
         "image_license": img_license,
-        "fact_check_status": "Verified by Multi-Agency Editorial Desk",
-        "tags": f"{category.title()}, Breaking News, India, Verified",
+        "fact_check_status": "Wire Summary — Attributed to Primary Source",
+        "tags": f"{category.title()}, News, India",
         "summary": summary_text,
         "content": content_markdown,
         "title_en": "" if is_hindi else clean_title,
@@ -463,16 +555,16 @@ Beyond immediate headlines, this development carries durable implications for re
         "title_hi": clean_title if is_hindi else "",
         "summary_hi": summary_text if is_hindi else "",
         "content_hi": content_markdown if is_hindi else "",
-        "author_name": "Pankhudi Sharma",
-        "author_bio": "Senior Digital Editor covering national policy, public health, and frontier technology.",
-        "author_url": "https://zestfeedx.com/author/pankhudi-sharma",
-        "medical_reviewed": is_med_review,
-        "medical_reviewer_name": "Dr. Ananya Mukherjee, MBBS, MD" if is_med_review else "",
-        "medical_reviewer_credentials": "MBBS, MD (Internal Medicine), Clinical Consultant" if is_med_review else "",
+        "author_name": "ZestFeedX न्यूज़ डेस्क" if is_hindi else "ZestFeedX Wire Desk",
+        "author_bio": "Aggregated wire summary attributed to primary news sources." if not is_hindi else "प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।",
+        "author_url": "https://zestfeedx.com/about/",
+        "medical_reviewed": False,
+        "medical_reviewer_name": "",
+        "medical_reviewer_credentials": "",
         "why_it_matters_today": why_it_matters,
         "who_is_affected": who_is_affected,
         "what_readers_are_searching_for": readers_searching,
-        "primary_source": f"{source_name} Official Dispatch"
+        "primary_source": source_name
     }
     return article_obj
 
@@ -533,34 +625,43 @@ def main():
         current_id = max_id + 1
         collected_this_run = []
 
-        for cat, urls in FEEDS.items():
-            print(f"Checking {cat.upper()} ({len(urls)} feeds)...")
-            cat_collected = 0
-            for url in urls:
-                items = fetch_feed_items(url, cat, recent_errors)
-                for item in items:
-                    title = item["title"]
-                    # Test unique title
-                    if title in existing_titles or any(c["title"] == title for c in queue.get("collected", [])):
-                        continue
-                    
-                    test_slug = make_slug(title, cat, current_id)
-                    if test_slug in existing_slugs or any(a.get("slug") == test_slug for a in queue.get("approved", [])):
-                        continue
+        for cat, lang_feeds in FEEDS.items():
+            for lang in ("en", "hi"):
+                urls = lang_feeds.get(lang, [])
+                if not urls:
+                    continue
+                print(f"Checking {cat.upper()} [{lang.upper()}] ({len(urls)} feeds)...")
+                lang_collected = 0
+                for url in urls:
+                    items = fetch_feed_items(url, cat, recent_errors)
+                    for item in items:
+                        title = item["title"]
+                        has_devanagari = bool(re.search(r'[\u0900-\u097F]', title))
+                        # Enforce strict language separation at ingestion time
+                        if lang == "en" and has_devanagari:
+                            continue
+                        if lang == "hi" and not has_devanagari:
+                            continue
 
-                    art = build_complete_article(current_id, item, seen_images)
-                    collected_this_run.append(art)
-                    existing_slugs.add(art["slug"])
-                    existing_titles.add(title)
-                    current_id += 1
-                    cat_collected += 1
-                    print(f"  ✓ Collected: [{cat.upper()}] {art['title'][:60]}... ({art['source_name']})")
+                        if title in existing_titles or any(c["title"] == title for c in queue.get("collected", [])):
+                            continue
 
-                    # Limit: 2 articles per category per run
-                    if cat_collected >= 2:
+                        test_slug = make_slug(title, cat, current_id)
+                        if test_slug in existing_slugs or any(a.get("slug") == test_slug for a in queue.get("approved", [])):
+                            continue
+
+                        art = build_complete_article(current_id, item, seen_images)
+                        collected_this_run.append(art)
+                        existing_slugs.add(art["slug"])
+                        existing_titles.add(title)
+                        current_id += 1
+                        lang_collected += 1
+                        print(f"  ✓ Collected: [{cat.upper()}/{lang.upper()}] {art['title'][:60]}... ({art['source_name']})")
+
+                        if lang_collected >= 2:
+                            break
+                    if lang_collected >= 2:
                         break
-                if cat_collected >= 2:
-                    break
 
         # Step 2: Editorial Approval Pipeline
         print(f"\n--- PHASE 2: EDITORIAL APPROVAL & SCHEDULING ({len(collected_this_run)} items) ---")

@@ -17,6 +17,14 @@ if sys.platform == "win32":
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
+if SCRIPTS_DIR not in sys.path:
+    sys.path.insert(0, SCRIPTS_DIR)
+
+from auto_scrape_and_publish import (
+    decode_source_url,
+    extract_source_content_and_image,
+    download_source_image_local,
+)
 SEED_FILE = os.path.join(BASE_DIR, "frontend", "src", "data", "seedArticles.ts")
 TELEMETRY_FILE = os.path.join(BASE_DIR, "frontend", "src", "data", "cricket_telemetry.json")
 STATUS_FILE = os.path.join(BASE_DIR, "frontend", "src", "data", "publishing_status.json")
@@ -237,71 +245,66 @@ def run_cricket_monitor():
         if slug in existing_slugs or clean_title in existing_titles:
             continue
 
+        decoded_src = decode_source_url(item["link"])
+        extracted_img, extracted_paras = extract_source_content_and_image(decoded_src)
+        img_url = ""
+        if extracted_img:
+            local_img = download_source_image_local(extracted_img, slug)
+            img_url = local_img or extracted_img
+
         img_meta = CRICKET_HD_IMAGES[current_id % len(CRICKET_HD_IMAGES)]
-        
+        if not img_url:
+            img_url = f"{img_meta['url']}?auto=format&fit=crop&w=1600&q=85"
+
         # Calculate Measured Pipeline Latency
         det_dt = datetime.strptime(detected_at, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
         latency_secs = round((now_u - det_dt).total_seconds(), 2)
 
-        content_markdown = f"""### Match Overview & Tactical Context
+        body_text = "\n\n".join(extracted_paras) if extracted_paras else (item.get("desc") or clean_title)
+        wc = max(1, len(body_text.split()))
+        read_mins = max(1, round(wc / 200))
 
-A major cricket dispatch confirmed today regarding **{clean_title}**. According to authoritative match centre communiqués reported by {item['source_name']}, this fixture represents a consequential juncture in the competitive championship calendar.
+        content_markdown = f"""{body_text}
 
-International cricket boards, team management desks, and high-performance directors emphasize that tactical adaptability, top-order stability, and bowling discipline remain paramount.
+---
 
-### Scorecard & Real-Time Match State
+**Original Source:** [{item['source_name']}]({decoded_src})"""
 
-* **Competition / Fixture:** {match_id or "International & Domestic Cricket"}
-* **Verified Score:** {score or "Official Match Record in Progress"}
-* **Match Status:** {status}
-* **Score Checked At:** {now_ist_str}
-
-### Key Field Milestones & Match Highlights
-
-Field observers noted that execution under pressure characterized pivotal overs. With bowler rotations, middle-order partnerships, and bowling workloads evaluated with scientific precision, both squads continue to contest critical championship points.
-
-| Match Parameter | Verified Status | Regulatory Compliance |
-| :--- | :--- | :--- |
-| Match Status | {status} | Confirmed by Board Match Centre |
-| Verified Telemetry | Real-Time Telemetry Feed | ICC / BCCI Aligned |
-| Next Scheduled Session | Upcoming Innings / Play | Published in Match Schedule |
-
-*ZestFeedX Cricket Desk delivers verified scorecards, tactical match breakdowns, and official board updates.*"""
-
-        summary_text = f"{clean_title}. Real-time scorecards, match status, and tactical analysis from the ZestFeedX cricket desk."
+        first_p = next((p for p in extracted_paras if not p.startswith("### ")), "") if extracted_paras else ""
+        summary_text = (first_p or item.get("desc") or clean_title)[:240]
 
         art_obj = {
             "id": current_id,
-            "title": f"🏏 {clean_title}",
+            "title": clean_title,
             "slug": slug,
             "original_title": clean_title,
             "category": "cricket",
             "topic": "cricket",
             "language": "en",
-            "fomo_badge": "🏏 Cricket Wire",
-            "read_time": "6 min read",
-            "views_count": 48000 + (current_id * 310),
-            "shares_count": 5600 + (current_id * 50),
+            "fomo_badge": "Cricket Wire",
+            "read_time": f"{read_mins} min read",
+            "views_count": 0,
+            "shares_count": 0,
             "published_at": now_iso,
             "updated_at": now_iso,
             "source_name": item["source_name"],
-            "source_url": item["link"],
+            "source_url": decoded_src,
             "source_courtesy": f"Source: {item['source_name']}",
-            "image_url": f"{img_meta['url']}?auto=format&fit=crop&w=1600&q=85&sig={current_id}",
-            "image_alt": f"Cricket photograph: {clean_title}",
-            "image_courtesy": f"Photo: {img_meta['photographer']} ({img_meta['license']})",
-            "image_photographer": img_meta["photographer"],
-            "image_license": img_meta["license"],
-            "fact_check_status": "Verified against Official Cricket Match Centre",
-            "tags": "Cricket, BCCI, Live Score, Sports, Match Report",
+            "image_url": img_url,
+            "image_alt": clean_title,
+            "image_courtesy": f"Image Courtesy: {item['source_name']}" if extracted_img else f"Photo: {img_meta['photographer']} (Unsplash License)",
+            "image_photographer": item["source_name"] if extracted_img else img_meta["photographer"],
+            "image_license": "Original Source Media" if extracted_img else "Unsplash License",
+            "fact_check_status": "Wire Report — Attributed to Primary Source",
+            "tags": "Cricket, Sports, Match Report",
             "summary": summary_text,
             "content": content_markdown,
             "title_en": clean_title,
             "summary_en": summary_text,
             "content_en": content_markdown,
-            "author_name": "Rohan Sen",
-            "author_bio": "Senior Sports Correspondent covering international cricket, IPL, and tactical athletic telemetry.",
-            "author_url": "https://zestfeedx.com/author/rohan-sen",
+            "author_name": "ZestFeedX Cricket Desk",
+            "author_bio": "Cricket wire dispatches attributed to primary sports sources.",
+            "author_url": "https://zestfeedx.com/about/",
             "medical_reviewed": False,
             "is_live_cricket": True,
             "match_id": match_id or f"match-dispatch-{current_id}",

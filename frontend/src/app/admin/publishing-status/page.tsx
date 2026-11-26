@@ -198,6 +198,12 @@ export default function PublishingStatusPage() {
               Cricket Centre
             </Link>
             <Link
+              href="/admin/submit/"
+              className="px-4 py-2 text-xs font-semibold rounded-lg bg-[#FF5A1F] text-white hover:bg-[#e04a12] transition-colors shadow-xs"
+            >
+              Submit News / Guest Post
+            </Link>
+            <Link
               href="/category/health/"
               className="px-4 py-2 text-xs font-semibold rounded-lg bg-[#0E7C86] text-white hover:bg-[#0E7C86]/90 transition-colors shadow-xs"
             >
