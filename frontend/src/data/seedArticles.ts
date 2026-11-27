@@ -20,7 +20,3017 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+  
+  
   {
+    id: 98091,
+    title: `Rohit Sharma to lead Mumbai Indians again in IPL 2027`,
+    slug: `rohit-sharma-to-lead-mumbai-indians-again-in-ipl-2027-2026`,
+    original_title: `Rohit Sharma to lead Mumbai Indians again in IPL 2027`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:06:04Z`,
+    updated_at: `2026-11-27T14:06:04Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1563366.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Rohit Sharma to lead Mumbai Indians again in IPL 2027`,
+    image_courtesy: `Photo: Action Sports Photography / Unsplash (Unsplash License)`,
+    image_photographer: `Action Sports Photography / Unsplash`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `Rohit Sharma, who turns 40 next April, last led Mumbai Indians in IPL 2023, when the team lost in Qualifier 2 to Gujarat Titans`,
+    content: `Rohit Sharma, who turns 40 next April, last led Mumbai Indians in IPL 2023, when the team lost in Qualifier 2 to Gujarat Titans
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563366.html?ex_cid=OTC-RSS)`,
+    title_en: `Rohit Sharma to lead Mumbai Indians again in IPL 2027`,
+    summary_en: `Rohit Sharma, who turns 40 next April, last led Mumbai Indians in IPL 2023, when the team lost in Qualifier 2 to Gujarat Titans`,
+    content_en: `Rohit Sharma, who turns 40 next April, last led Mumbai Indians in IPL 2023, when the team lost in Qualifier 2 to Gujarat Titans
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563366.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `ipl-2027-tournament-hub`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Session Break`,
+    score_verified_at: `2026-11-27 19:36:04 IST`,
+    detected_at: `2026-11-27T14:06:03Z`,
+    verified_at: `2026-11-27T14:06:04Z`,
+    approved_at: `2026-11-27T14:06:04Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Rohit Sharma to lead Mumbai Indians again in IPL 2027.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 98092,
+    title: `Latham, Blundell fifties give NZ advantage after hard-fought opening day`,
+    slug: `latham-blundell-fifties-give-nz-advantage-after-hard-fought-openi-2026`,
+    original_title: `Latham, Blundell fifties give NZ advantage after hard-fought opening day`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:06:04Z`,
+    updated_at: `2026-11-27T14:06:04Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564389.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Latham, Blundell fifties give NZ advantage after hard-fought opening day`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `Bumrah went wicketless after India won the toss and inserted the hosts in Christchurch`,
+    content: `Bumrah went wicketless after India won the toss and inserted the hosts in Christchurch
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564389.html?ex_cid=OTC-RSS)`,
+    title_en: `Latham, Blundell fifties give NZ advantage after hard-fought opening day`,
+    summary_en: `Bumrah went wicketless after India won the toss and inserted the hosts in Christchurch`,
+    content_en: `Bumrah went wicketless after India won the toss and inserted the hosts in Christchurch
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564389.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-98092`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-27 19:36:04 IST`,
+    detected_at: `2026-11-27T14:06:03Z`,
+    verified_at: `2026-11-27T14:06:04Z`,
+    approved_at: `2026-11-27T14:06:04Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Latham, Blundell fifties give NZ advantage after hard-fought opening day.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 98063,
+    title: `Two-thirds of Indian adolescents have vitamin B12 deficiency: ICMR survey`,
+    slug: `two-thirds-of-indian-adolescents-have-vitamin-b12-deficiency-icmr-surv-2026`,
+    original_title: `Two-thirds of Indian adolescents have vitamin B12 deficiency: ICMR survey`,
+    category: `health`,
+    topic: `nutrition`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:04:58Z`,
+    updated_at: `2026-11-27T14:04:58Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://www.business-standard.com/amp/health/two-thirds-of-indian-adolescents-have-vitamin-b12-deficiency-icmr-survey-126112700664_1.html`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/two-thirds-of-indian-adolescents-have-vitamin-b12-deficiency-icmr-surv-2026.jpg`,
+    image_alt: `Two-thirds of Indian adolescents have vitamin B12 deficiency: ICMR survey`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `Nearly two-thirds of Indian adolescents have vitamin B12 deficiency, with the prevalence marginally higher among boys than girls, according to findings of a national survey conducted by the ICMR-National Institute of Nutrition (ICMR-NIN).Th`,
+    content: `Nearly two-thirds of Indian adolescents have vitamin B12 deficiency, with the prevalence marginally higher among boys than girls, according to findings of a national survey conducted by the ICMR-National Institute of Nutrition (ICMR-NIN).The survey found vitamin B12 deficiency in 66.1 per cent of adolescent boys aged 10-19 years and 65.4 per cent of girls in the same age group.
+
+Deficiency was defined as a serum vitamin B12 level below 203 pg/mL.The findings are part of the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA), conducted during 2023-25 to generate national estimates of anaemia and micronutrient deficiencies across different stages of life.The survey covered more than 200,000 people across 183 districts in 35 states and Union Territories and over 81,000 households.
+
+More than 170,000 blood samples were analysed, according to the ICMR-NIN factsheet.Among adolescent girls, vitamin B12 deficiency was more prevalent than iron or folate deficiency. While 65.4 per cent had low vitamin B12 levels, 36.3 per cent had iron deficiency, and 8.6 per cent had folate deficiency.Among adolescent boys, 66.1 per cent had vitamin B12 deficiency, compared with 10 per cent with iron deficiency and 6.3 per cent with folate deficiency.The survey found that vitamin B12 deficiency was not limited to adolescents.
+
+It was reported in 55.2 per cent of non-pregnant, non-lactating women aged 20-59 years and 57.4 per cent among women of reproductive age (15-49 years).Among adult men aged 20-59 years, the prevalence stood at 60.4 per cent. It was 41.2 per cent among women aged 60 years and above and 46.8 per cent among men in the same age group.Vitamin B12 deficiency was also recorded in 63.1 per cent of pregnant women and 51.8 per cent of lactating women.The survey indicated that the problem begins early in life, with vitamin B12 deficiency reported in 37.3 per cent of children aged 12-59 months and 46.5 per cent of those aged 5-9 years.The findings also highlighted the difference between micronutrient deficiencies and anaemia.
+
+Among adolescent girls, anaemia was reported in 46.3 per cent, while vitamin B12 deficiency affected 65.4 per cent. Among boys, the prevalence of anaemia was 22.8 per cent, compared with 66.1 per cent having vitamin B12 deficiency.The ICMR-NIN factsheet said SAMPADA provides nationally representative estimates of micronutrient deficiencies across the life course and can help identify nutritional gaps and priority groups for targeted interventions.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.business-standard.com/amp/health/two-thirds-of-indian-adolescents-have-vitamin-b12-deficiency-icmr-survey-126112700664_1.html)`,
+    title_en: `Two-thirds of Indian adolescents have vitamin B12 deficiency: ICMR survey`,
+    summary_en: `Nearly two-thirds of Indian adolescents have vitamin B12 deficiency, with the prevalence marginally higher among boys than girls, according to findings of a national survey conducted by the ICMR-National Institute of Nutrition (ICMR-NIN).Th`,
+    content_en: `Nearly two-thirds of Indian adolescents have vitamin B12 deficiency, with the prevalence marginally higher among boys than girls, according to findings of a national survey conducted by the ICMR-National Institute of Nutrition (ICMR-NIN).The survey found vitamin B12 deficiency in 66.1 per cent of adolescent boys aged 10-19 years and 65.4 per cent of girls in the same age group.
+
+Deficiency was defined as a serum vitamin B12 level below 203 pg/mL.The findings are part of the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA), conducted during 2023-25 to generate national estimates of anaemia and micronutrient deficiencies across different stages of life.The survey covered more than 200,000 people across 183 districts in 35 states and Union Territories and over 81,000 households.
+
+More than 170,000 blood samples were analysed, according to the ICMR-NIN factsheet.Among adolescent girls, vitamin B12 deficiency was more prevalent than iron or folate deficiency. While 65.4 per cent had low vitamin B12 levels, 36.3 per cent had iron deficiency, and 8.6 per cent had folate deficiency.Among adolescent boys, 66.1 per cent had vitamin B12 deficiency, compared with 10 per cent with iron deficiency and 6.3 per cent with folate deficiency.The survey found that vitamin B12 deficiency was not limited to adolescents.
+
+It was reported in 55.2 per cent of non-pregnant, non-lactating women aged 20-59 years and 57.4 per cent among women of reproductive age (15-49 years).Among adult men aged 20-59 years, the prevalence stood at 60.4 per cent. It was 41.2 per cent among women aged 60 years and above and 46.8 per cent among men in the same age group.Vitamin B12 deficiency was also recorded in 63.1 per cent of pregnant women and 51.8 per cent of lactating women.The survey indicated that the problem begins early in life, with vitamin B12 deficiency reported in 37.3 per cent of children aged 12-59 months and 46.5 per cent of those aged 5-9 years.The findings also highlighted the difference between micronutrient deficiencies and anaemia.
+
+Among adolescent girls, anaemia was reported in 46.3 per cent, while vitamin B12 deficiency affected 65.4 per cent. Among boys, the prevalence of anaemia was 22.8 per cent, compared with 66.1 per cent having vitamin B12 deficiency.The ICMR-NIN factsheet said SAMPADA provides nationally representative estimates of micronutrient deficiencies across the life course and can help identify nutritional gaps and priority groups for targeted interventions.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.business-standard.com/amp/health/two-thirds-of-indian-adolescents-have-vitamin-b12-deficiency-icmr-survey-126112700664_1.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Two-thirds of Indian adolescents have vitamin B12 deficiency: ICMR survey.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 98064,
+    title: `56% of Indian women of reproductive age anaemic, finds ICMR survey - CNBC TV18`,
+    slug: `56-of-indian-women-of-reproductive-age-anaemic-finds-icmr-survey-cnbc-2026`,
+    original_title: `56% of Indian women of reproductive age anaemic, finds ICMR survey - CNBC TV18`,
+    category: `health`,
+    topic: `womens-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:02Z`,
+    updated_at: `2026-11-27T14:05:02Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://www.cnbctv18.com/lifestyle/healthcare/56-of-indian-women-of-reproductive-age-anaemic-finds-icmr-survey-20042903.htm/amp`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/56-of-indian-women-of-reproductive-age-anaemic-finds-icmr-survey-cnbc-2026.jpg`,
+    image_alt: `56% of Indian women of reproductive age anaemic, finds ICMR survey - CNBC TV18`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `More than half of women of reproductive age in India are anaemic, according to a new national survey conducted by the Indian Council of Medical Research .The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropo`,
+    content: `More than half of women of reproductive age in India are anaemic, according to a new national survey conducted by the Indian Council of Medical Research .The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry , conducted between 2023 and 2025, found that 56% of women of reproductive age have anaemia.The survey also found that 42% of children aged 12-59 months are anaemic.
+
+Among adolescents, 46% of girls aged 10-19 years have anaemia, while the figure is lower at 22-23% among boys in the same age group and men aged 20-59 years.The SAMPADA survey covered more than 2 lakh people from over 81,000 households across 183 districts in 35 states and Union Territories.
+
+Researchers analysed more than 1.7 lakh blood samples to check haemoglobin levels.The survey studied iron, vitamin B12 and folate levels in some participants to understand the possible reasons behind anaemia.The survey found that most people with anaemia have mild anaemia. About half of the women, including pregnant and breastfeeding women, adolescent girls and children with anaemia, had mild cases.Among men and adolescent boys, nearly three-fourths of anaemia cases were mild.
+
+The survey found that severe anaemia affected less than 2% of people in most age groups. It also found that iron deficiency is responsible for about half of anaemia cases among women, adolescent girls and children.Iron deficiency is not the only reason behind anaemia. Infections, inherited blood disorders called haemoglobinopathies and inflammation caused by long-term health conditions can also contribute to it.The researchers found that vitamin B12 and folate deficiencies were seen at similar levels among people with and without anaemia.Iron deficiency was more common among children below five years, adolescent girls and women of reproductive age.
+
+It was less common among adolescent boys, adult men and older people. The survey also found that people with moderate or severe anaemia were more likely to have iron deficiency.Dr Rajiv Bahl, Secretary of the Department of Health Research and Director General of ICMR, said the survey provides national-level information on anaemia across different age groups, including children, adolescents, adults, pregnant women, breastfeeding women and older people."It is encouraging that prevalence of anaemia is lower in SAMPADA compared to previous national surveys," he said.Dr Bharati Kulkarni, Director of ICMR-NIN, said the findings would help develop better strategies to prevent and manage anaemia among different population groups.The findings will help strengthen Anaemia Mukt Bharat, the government's programme to reduce anaemia across the country through prevention, testing and treatment.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.cnbctv18.com/lifestyle/healthcare/56-of-indian-women-of-reproductive-age-anaemic-finds-icmr-survey-20042903.htm/amp)`,
+    title_en: `56% of Indian women of reproductive age anaemic, finds ICMR survey - CNBC TV18`,
+    summary_en: `More than half of women of reproductive age in India are anaemic, according to a new national survey conducted by the Indian Council of Medical Research .The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropo`,
+    content_en: `More than half of women of reproductive age in India are anaemic, according to a new national survey conducted by the Indian Council of Medical Research .The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry , conducted between 2023 and 2025, found that 56% of women of reproductive age have anaemia.The survey also found that 42% of children aged 12-59 months are anaemic.
+
+Among adolescents, 46% of girls aged 10-19 years have anaemia, while the figure is lower at 22-23% among boys in the same age group and men aged 20-59 years.The SAMPADA survey covered more than 2 lakh people from over 81,000 households across 183 districts in 35 states and Union Territories.
+
+Researchers analysed more than 1.7 lakh blood samples to check haemoglobin levels.The survey studied iron, vitamin B12 and folate levels in some participants to understand the possible reasons behind anaemia.The survey found that most people with anaemia have mild anaemia. About half of the women, including pregnant and breastfeeding women, adolescent girls and children with anaemia, had mild cases.Among men and adolescent boys, nearly three-fourths of anaemia cases were mild.
+
+The survey found that severe anaemia affected less than 2% of people in most age groups. It also found that iron deficiency is responsible for about half of anaemia cases among women, adolescent girls and children.Iron deficiency is not the only reason behind anaemia. Infections, inherited blood disorders called haemoglobinopathies and inflammation caused by long-term health conditions can also contribute to it.The researchers found that vitamin B12 and folate deficiencies were seen at similar levels among people with and without anaemia.Iron deficiency was more common among children below five years, adolescent girls and women of reproductive age.
+
+It was less common among adolescent boys, adult men and older people. The survey also found that people with moderate or severe anaemia were more likely to have iron deficiency.Dr Rajiv Bahl, Secretary of the Department of Health Research and Director General of ICMR, said the survey provides national-level information on anaemia across different age groups, including children, adolescents, adults, pregnant women, breastfeeding women and older people."It is encouraging that prevalence of anaemia is lower in SAMPADA compared to previous national surveys," he said.Dr Bharati Kulkarni, Director of ICMR-NIN, said the findings would help develop better strategies to prevent and manage anaemia among different population groups.The findings will help strengthen Anaemia Mukt Bharat, the government's programme to reduce anaemia across the country through prevention, testing and treatment.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.cnbctv18.com/lifestyle/healthcare/56-of-indian-women-of-reproductive-age-anaemic-finds-icmr-survey-20042903.htm/amp)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for 56% of Indian women of reproductive age anaemic, finds ICMR survey - CNBC TV18.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 98065,
+    title: `HIV नियंत्रण में वाराणसी प्रदेश में नंबर-1: सुरक्षित जिले का मिला दर्जा; दो ART सेंटरों पर करीब 4,800 मरीज ... - Dainik Bhaskar`,
+    slug: `hiv-1-art-4800-dainik-bhaskar-2026`,
+    original_title: `HIV नियंत्रण में वाराणसी प्रदेश में नंबर-1: सुरक्षित जिले का मिला दर्जा; दो ART सेंटरों पर करीब 4,800 मरीज ... - Dainik Bhaskar`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:03Z`,
+    updated_at: `2026-11-27T14:05:03Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/local/uttar-pradesh/varanasi/news/varanasi-hiv-aids-control-naco-ranking-safe-district-139816089.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/hiv-1-art-4800-dainik-bhaskar-2026.jpg`,
+    image_alt: `HIV नियंत्रण में वाराणसी प्रदेश में नंबर-1: सुरक्षित जिले का मिला दर्जा; दो ART सेंटरों पर करीब 4,800 मरीज ... - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `HIV नियंत्रण में वाराणसी ने प्रदेश में पहला स्थान हासिल किया है। राष्ट्रीय एड्स नियंत्रण संगठन (NACO) की ओर से जारी रैंकिंग में जिले को ‘सुरक्षित’ श्रेणी में रखा गया है।`,
+    content: `HIV नियंत्रण में वाराणसी ने प्रदेश में पहला स्थान हासिल किया है। राष्ट्रीय एड्स नियंत्रण संगठन (NACO) की ओर से जारी रैंकिंग में जिले को ‘सुरक्षित’ श्रेणी में रखा गया है।
+
+जिले में करीब 4,800 HIV पॉजिटिव मरीज है। इनमें 25 से 40 साल के मरीजों की संख्या सबसे ज्यादा है। महिला और पुरुष मरीजों की संख्या लगभग बराबर है। जिले में BHU और पंडित दीनदयाल उपाध्याय राजकीय अस्पताल के दो ART सेंटरों पर मरीजों का इलाज चल रहा है।
+
+95-95-95 के तीन मानकों पर मिली सफलता
+
+राष्ट्रीय एड्स नियंत्रण संगठन HIV नियंत्रण कार्यक्रम की प्रगति का आकलन 95-95-95 के तीन मानकों पर करता है। पहले मानक के तहत अनुमानित HIV संक्रमित आबादी के कम से कम 95% लोगों की पहचान होनी चाहिए।
+
+दूसरे मानक में पहचाने गए संक्रमितों में से 95% को एंटी रेट्रोवायरल थेरेपी (ART) से जोड़ना जरूरी है। तीसरे मानक के अनुसार, ART का इलाज करा रहे 95% मरीजों का वायरल लोड सप्रेस्ड होना चाहिए। इन तीनों मानकों पर उपलब्धि हासिल करने वाले जिले को सुरक्षित श्रेणी में रखा जाता है।
+
+जिला क्षय रोग अधिकारी डॉ. पीयूष राय के मुताबिक, वाराणसी उत्तर प्रदेश में ‘सक्षम’ घोषित होने वाला पहला जिला था। अब 95-95-95 के तीनों मानकों पर उपलब्धि हासिल कर जिले ने सुरक्षित श्रेणी में प्रदेश में पहला स्थान प्राप्त किया है।
+
+मुख्य चिकित्सा अधिकारी डॉ. एनपी सिंह ने इस उपलब्धि का श्रेय स्वास्थ्य विभाग के अधिकारियों, चिकित्सकों, परामर्शदाताओं, तकनीकी कर्मचारियों और सामुदायिक संगठनों के सामूहिक प्रयासों को दिया।
+
+वाराणसी में BHU और पंडित दीनदयाल उपाध्याय राजकीय अस्पताल में ART सेंटर संचालित हैं। यहां जिले के साथ आसपास के दूसरे जिलों के मरीज भी इलाज कराने आते हैं।
+
+अधिकारियों के मुताबिक, BHU के ART सेंटर में इलाज करा रहे मरीजों में करीब 15% वाराणसी के हैं, जबकि दीनदयाल अस्पताल में लगभग 80% मरीज वाराणसी के हैं। बाकी मरीज दूसरे जिलों से आते हैं। इसलिए दोनों सेंटरों पर पंजीकृत मरीजों की कुल संख्या और वाराणसी के स्थानीय मरीजों की संख्या अलग-अलग है।
+
+HIV संक्रमितों में 25 से 40 साल के आयु वर्ग के मरीजों की संख्या सबसे अधिक है। महिला और पुरुष मरीजों का आंकड़ा लगभग बराबर है। स्वास्थ्य विभाग मरीजों को नियमित दवा लेने और इलाज बीच में नहीं छोड़ने के लिए जागरूक कर रहा है।
+
+नियमित ART दवा लेने से वायरल लोड नियंत्रित रखने में मदद मिलती है। मरीजों की नियमित निगरानी भी की जाती है।
+
+मां से बच्चे में संक्रमण रोकने पर भी काम
+
+HIV संक्रमित गर्भवती महिलाओं के इलाज और काउंसिलिंग पर भी विभाग का जोर है। समय पर संक्रमण की पहचान और उचित इलाज से मां से बच्चे में संक्रमण का खतरा कम किया जा सकता है। स्वास्थ्य विभाग के मुताबिक, संक्रमित माता-पिता के बच्चों को संक्रमण से बचाने के लिए भी जरूरी चिकित्सकीय कदम उठाए जाते हैं।
+
+### अधूरा नहीं! पढ़िए पूरा! पढ़ें पूरी खबर दैनिक भास्कर ऐप पर
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/local/uttar-pradesh/varanasi/news/varanasi-hiv-aids-control-naco-ranking-safe-district-139816089.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `HIV नियंत्रण में वाराणसी प्रदेश में नंबर-1: सुरक्षित जिले का मिला दर्जा; दो ART सेंटरों पर करीब 4,800 मरीज ... - Dainik Bhaskar`,
+    summary_hi: `HIV नियंत्रण में वाराणसी ने प्रदेश में पहला स्थान हासिल किया है। राष्ट्रीय एड्स नियंत्रण संगठन (NACO) की ओर से जारी रैंकिंग में जिले को ‘सुरक्षित’ श्रेणी में रखा गया है।`,
+    content_hi: `HIV नियंत्रण में वाराणसी ने प्रदेश में पहला स्थान हासिल किया है। राष्ट्रीय एड्स नियंत्रण संगठन (NACO) की ओर से जारी रैंकिंग में जिले को ‘सुरक्षित’ श्रेणी में रखा गया है।
+
+जिले में करीब 4,800 HIV पॉजिटिव मरीज है। इनमें 25 से 40 साल के मरीजों की संख्या सबसे ज्यादा है। महिला और पुरुष मरीजों की संख्या लगभग बराबर है। जिले में BHU और पंडित दीनदयाल उपाध्याय राजकीय अस्पताल के दो ART सेंटरों पर मरीजों का इलाज चल रहा है।
+
+95-95-95 के तीन मानकों पर मिली सफलता
+
+राष्ट्रीय एड्स नियंत्रण संगठन HIV नियंत्रण कार्यक्रम की प्रगति का आकलन 95-95-95 के तीन मानकों पर करता है। पहले मानक के तहत अनुमानित HIV संक्रमित आबादी के कम से कम 95% लोगों की पहचान होनी चाहिए।
+
+दूसरे मानक में पहचाने गए संक्रमितों में से 95% को एंटी रेट्रोवायरल थेरेपी (ART) से जोड़ना जरूरी है। तीसरे मानक के अनुसार, ART का इलाज करा रहे 95% मरीजों का वायरल लोड सप्रेस्ड होना चाहिए। इन तीनों मानकों पर उपलब्धि हासिल करने वाले जिले को सुरक्षित श्रेणी में रखा जाता है।
+
+जिला क्षय रोग अधिकारी डॉ. पीयूष राय के मुताबिक, वाराणसी उत्तर प्रदेश में ‘सक्षम’ घोषित होने वाला पहला जिला था। अब 95-95-95 के तीनों मानकों पर उपलब्धि हासिल कर जिले ने सुरक्षित श्रेणी में प्रदेश में पहला स्थान प्राप्त किया है।
+
+मुख्य चिकित्सा अधिकारी डॉ. एनपी सिंह ने इस उपलब्धि का श्रेय स्वास्थ्य विभाग के अधिकारियों, चिकित्सकों, परामर्शदाताओं, तकनीकी कर्मचारियों और सामुदायिक संगठनों के सामूहिक प्रयासों को दिया।
+
+वाराणसी में BHU और पंडित दीनदयाल उपाध्याय राजकीय अस्पताल में ART सेंटर संचालित हैं। यहां जिले के साथ आसपास के दूसरे जिलों के मरीज भी इलाज कराने आते हैं।
+
+अधिकारियों के मुताबिक, BHU के ART सेंटर में इलाज करा रहे मरीजों में करीब 15% वाराणसी के हैं, जबकि दीनदयाल अस्पताल में लगभग 80% मरीज वाराणसी के हैं। बाकी मरीज दूसरे जिलों से आते हैं। इसलिए दोनों सेंटरों पर पंजीकृत मरीजों की कुल संख्या और वाराणसी के स्थानीय मरीजों की संख्या अलग-अलग है।
+
+HIV संक्रमितों में 25 से 40 साल के आयु वर्ग के मरीजों की संख्या सबसे अधिक है। महिला और पुरुष मरीजों का आंकड़ा लगभग बराबर है। स्वास्थ्य विभाग मरीजों को नियमित दवा लेने और इलाज बीच में नहीं छोड़ने के लिए जागरूक कर रहा है।
+
+नियमित ART दवा लेने से वायरल लोड नियंत्रित रखने में मदद मिलती है। मरीजों की नियमित निगरानी भी की जाती है।
+
+मां से बच्चे में संक्रमण रोकने पर भी काम
+
+HIV संक्रमित गर्भवती महिलाओं के इलाज और काउंसिलिंग पर भी विभाग का जोर है। समय पर संक्रमण की पहचान और उचित इलाज से मां से बच्चे में संक्रमण का खतरा कम किया जा सकता है। स्वास्थ्य विभाग के मुताबिक, संक्रमित माता-पिता के बच्चों को संक्रमण से बचाने के लिए भी जरूरी चिकित्सकीय कदम उठाए जाते हैं।
+
+### अधूरा नहीं! पढ़िए पूरा! पढ़ें पूरी खबर दैनिक भास्कर ऐप पर
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/local/uttar-pradesh/varanasi/news/varanasi-hiv-aids-control-naco-ranking-safe-district-139816089.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक HIV नियंत्रण में वाराणसी प्रदेश में नंबर-1: सुरक्षित जिले का मिला दर्जा; दो ART सेंटरों पर करीब 4,800 मरीज ... - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+  {
+    id: 98066,
+    title: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    slug: `health-breaking-report-40167-98066-2026`,
+    original_title: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:05Z`,
+    updated_at: `2026-11-27T14:05:05Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/c5m2lke8jdzzo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/health-breaking-report-40167-98066-2026.jpg`,
+    image_alt: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.`,
+    content: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.
+
+साल 2025 में भारत, पाकिस्तान, इंडोनेशिया, यूक्रेन, नाइजीरिया और इथियोपिया समेत 57 देशों में खसरे के बड़े प्रकोप दर्ज किए गए.
+
+विशेषज्ञों का कहना है कि मामलों में बढ़ोतरी का सीधा संबंध टीकाकरण की घटती दरों से है. विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) के मुताबिक़, साल 2019 में दुनियाभर के 86% बच्चों को खसरे के टीके की पहली खुराक दी गई थी, लेकिन साल 2025 तक यह आंकड़ा घटकर 84% हो गया.
+
+हालांकि ये दोनों आंकड़े भी उस 95% टीकाकरण कवरेज से काफ़ी कम हैं, जो किसी आबादी में खसरे के प्रसार को रोकने के लिए ज़रूरी है.
+
+टीकाकरण के प्रति हिचकिचाहट, टीकाकरण की कम दरों के पीछे एक प्रमुख कारण है. टीकों की सुरक्षा, उनके असर और उनके दुष्प्रभावों को लेकर चिंताएं ऑनलाइन ग़लत सूचनाओं के प्रसार से और बढ़ जाती हैं.
+
+लंदन स्कूल ऑफ़ हाइजीन एंड ट्रॉपिकल मेडिसिन में बाल स्वास्थ्य की प्रोफेसर हेलेन बेडफोर्ड कहती हैं, "इंटरनेट और मीडिया के इस दौर में टीकाकरण से जुड़े मिथक, अफ़वाहें और चिंताएं बहुत तेज़ी से दुनियाभर में फैल सकती हैं."
+
+हालांकि, ब्रिटेन की यूनिवर्सिटी ऑफ हडर्सफ़ील्ड में निवारक स्वास्थ्य की शोधकर्ता सुज़ाना कोला-पामर का कहना है कि टीकाकरण को लेकर हिचकिचाने वाले लोगों को तुरंत टीका-विरोधी नहीं मान लेना चाहिए.
+
+वह बीबीसी वर्ल्ड सर्विस से कहती हैं कि इसके बजाय, उनमें से कई लोग सिर्फ़ "आश्वासन चाहते हैं."
+
+तो वैज्ञानिक कैसे तय करते हैं कि कोई टीका सुरक्षित है और आप ऑनलाइन फैलाई जा रही ग़लत सूचनाओं की पहचान कैसे कर सकते हैं?
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+आज भी टीकों के विकास को चिकित्सा विज्ञान की सबसे बड़ी उपलब्धियों में से एक माना जाता है. डब्ल्यूएचओ का अनुमान है कि खसरा, टिटनेस, डिप्थीरिया और इन्फ्लुएंजा जैसी बीमारियों से हर साल 35 लाख से 50 लाख लोगों की जान बचाने में टीके मदद करते हैं.
+
+टीका शरीर की प्रतिरक्षा प्रणाली (इम्यून सिस्टम) को किसी संक्रमण की पहचान करना और उससे लड़ना सिखाता है, ताकि वास्तविक संक्रमण के संपर्क में आने से पहले ही शरीर उससे निपटने के लिए तैयार हो जाए.
+
+बेडफोर्ड बताती हैं, "टीके वास्तविक संक्रमण से गुज़रे बिना ही वह इम्यूनिटी दे देते हैं, जो आमतौर पर वास्तव में संक्रमण होने पर शरीर में विकसित होती है."
+
+उदाहरण के लिए, मम्प्स (गलसुआ), खसरा और रूबेला (एमएमआर) का टीका इन बीमारियों का कारण बनने वाले वायरस के कमज़ोर रूपों से तैयार किया जाता है. इसे शरीर में इंजेक्ट करने पर प्रतिरक्षा प्रणाली सक्रिय हो जाती है और भविष्य में वास्तविक संक्रमण के संपर्क में आने पर वह उसे पहचानकर तुरंत प्रतिक्रिया देती है.
+
+हालांकि, सभी टीके एक ही तरह से काम नहीं करते.
+
+मैसेंजर आरएनए (एमआरएनए) टीकों में आनुवंशिक निर्देशों का इस्तेमाल किया जाता है, जो अस्थायी रूप से कोशिकाओं को बिना नुक़सान वाले प्रोटीन बनाने के लिए कहते हैं.
+
+यह प्रोटीन शरीर में इम्यून रेस्पॉन्स पैदा करता है. फाइज़र का कोविड-19 टीका एमआरएनए टीके का एक उदाहरण है.
+
+### टीकों का परीक्षण कैसे किया जाता है?
+
+यह प्रक्रिया वैज्ञानिक शोध से शुरू होती है. इसमें यह देखा जाता है कि इस विषय पर क्षेत्र के दूसरे शोधकर्ताओं ने क्या काम किया है और वे किन निष्कर्षों पर पहुंचे हैं.
+
+जब वैज्ञानिक किसी नए विचार का परीक्षण करने के लिए तैयार होते हैं, तो वे प्रयोगशाला में जांच शुरू करते हैं. जांच सबसे पहले कोशिकाओं पर और फिर जानवरों पर, जिनमें अक्सर चूहों का इस्तेमाल किया जाता है.
+
+ऑक्सफोर्ड यूनिवर्सिटी के वैक्सीन नॉलेज प्रोजेक्ट के मुताबिक़, अगले चरण के परीक्षणों में जाने से पहले यह साबित करना ज़रूरी होता है कि परीक्षण किया जा रहा टीका जानवरों में इम्यून रेस्पॉन्स पैदा कर सकता है.
+
+इसके बाद इंसानों पर परीक्षण किए जाते हैं, जिन्हें आमतौर पर तीन चरणों में बांटा जाता है.
+
+फेज़ 1- पहले चरण में वॉलंटियर्स के एक छोटे समूह पर परीक्षण किया जाता है. इनमें आमतौर पर युवा और स्वस्थ वयस्क शामिल होते हैं. डब्ल्यूएचओ के मुताबिक़, इस चरण में सुरक्षा से जुड़ी किसी बड़ी चिंता और टीके की सही खुराक का पता लगाया जाता है.
+
+फेज़ 2- दूसरे चरण में स्वयंसेवकों के एक बड़े समूह पर परीक्षण किया जाता है. इसमें आमतौर पर कई सौ लोग शामिल होते हैं, जो उस आबादी से होते हैं जिसके लिए टीका तैयार किया गया है.
+
+उनकी तुलना ऐसे लोगों के एक समूह से की जाती है जिन्हें टीका नहीं दिया गया होता. इसे कंट्रोल ग्रुप कहा जाता है. डॉक्टर टीके के संभावित दुष्प्रभावों और शरीर की प्रतिरक्षा प्रतिक्रिया का अध्ययन करते हैं.
+
+फेज़ 3- तीसरे चरण में इससे भी बड़े समूह पर टीके का परीक्षण किया जाता है. इसमें आमतौर पर हज़ारों वॉलंटियर्स शामिल होते हैं. साथ ही एक कंट्रोल ग्रुप भी रखा जाता है.
+
+ये परीक्षण आमतौर पर अलग-अलग देशों में किए जाते हैं, ताकि यह सुनिश्चित किया जा सके कि टीका अलग-अलग उम्र, जातीयता (एथनेसिटी), सामाजिक पृष्ठभूमि और रहन-सहन वाले लोगों के बीच प्रभावी और सुरक्षित है.
+
+किसी टीके को इन तीनों चरणों से गुज़रने में कई दशक भी लग सकते हैं. मेनबी के नाम से जाने जाने वाले मेनिंगोकोकल बीमारी के टीके को विकसित करने में क़रीब 15 साल लगे थे.
+
+बेडफोर्ड कहती हैं, "जब आप किसी पूरी आबादी के स्वस्थ बच्चों को कोई टीका देने जा रहे होते हैं, तो आपको पूरी तरह आश्वस्त होना पड़ता है कि वह बहुत सुरक्षित है."
+
+हालांकि, असाधारण परिस्थितियों में सुरक्षा जांच से समझौता किए बिना टीकों को तेज़ी से विकसित और उनका परीक्षण किया जा सकता है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c5m2lke8jdzzo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    summary_hi: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.`,
+    content_hi: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.
+
+साल 2025 में भारत, पाकिस्तान, इंडोनेशिया, यूक्रेन, नाइजीरिया और इथियोपिया समेत 57 देशों में खसरे के बड़े प्रकोप दर्ज किए गए.
+
+विशेषज्ञों का कहना है कि मामलों में बढ़ोतरी का सीधा संबंध टीकाकरण की घटती दरों से है. विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) के मुताबिक़, साल 2019 में दुनियाभर के 86% बच्चों को खसरे के टीके की पहली खुराक दी गई थी, लेकिन साल 2025 तक यह आंकड़ा घटकर 84% हो गया.
+
+हालांकि ये दोनों आंकड़े भी उस 95% टीकाकरण कवरेज से काफ़ी कम हैं, जो किसी आबादी में खसरे के प्रसार को रोकने के लिए ज़रूरी है.
+
+टीकाकरण के प्रति हिचकिचाहट, टीकाकरण की कम दरों के पीछे एक प्रमुख कारण है. टीकों की सुरक्षा, उनके असर और उनके दुष्प्रभावों को लेकर चिंताएं ऑनलाइन ग़लत सूचनाओं के प्रसार से और बढ़ जाती हैं.
+
+लंदन स्कूल ऑफ़ हाइजीन एंड ट्रॉपिकल मेडिसिन में बाल स्वास्थ्य की प्रोफेसर हेलेन बेडफोर्ड कहती हैं, "इंटरनेट और मीडिया के इस दौर में टीकाकरण से जुड़े मिथक, अफ़वाहें और चिंताएं बहुत तेज़ी से दुनियाभर में फैल सकती हैं."
+
+हालांकि, ब्रिटेन की यूनिवर्सिटी ऑफ हडर्सफ़ील्ड में निवारक स्वास्थ्य की शोधकर्ता सुज़ाना कोला-पामर का कहना है कि टीकाकरण को लेकर हिचकिचाने वाले लोगों को तुरंत टीका-विरोधी नहीं मान लेना चाहिए.
+
+वह बीबीसी वर्ल्ड सर्विस से कहती हैं कि इसके बजाय, उनमें से कई लोग सिर्फ़ "आश्वासन चाहते हैं."
+
+तो वैज्ञानिक कैसे तय करते हैं कि कोई टीका सुरक्षित है और आप ऑनलाइन फैलाई जा रही ग़लत सूचनाओं की पहचान कैसे कर सकते हैं?
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+आज भी टीकों के विकास को चिकित्सा विज्ञान की सबसे बड़ी उपलब्धियों में से एक माना जाता है. डब्ल्यूएचओ का अनुमान है कि खसरा, टिटनेस, डिप्थीरिया और इन्फ्लुएंजा जैसी बीमारियों से हर साल 35 लाख से 50 लाख लोगों की जान बचाने में टीके मदद करते हैं.
+
+टीका शरीर की प्रतिरक्षा प्रणाली (इम्यून सिस्टम) को किसी संक्रमण की पहचान करना और उससे लड़ना सिखाता है, ताकि वास्तविक संक्रमण के संपर्क में आने से पहले ही शरीर उससे निपटने के लिए तैयार हो जाए.
+
+बेडफोर्ड बताती हैं, "टीके वास्तविक संक्रमण से गुज़रे बिना ही वह इम्यूनिटी दे देते हैं, जो आमतौर पर वास्तव में संक्रमण होने पर शरीर में विकसित होती है."
+
+उदाहरण के लिए, मम्प्स (गलसुआ), खसरा और रूबेला (एमएमआर) का टीका इन बीमारियों का कारण बनने वाले वायरस के कमज़ोर रूपों से तैयार किया जाता है. इसे शरीर में इंजेक्ट करने पर प्रतिरक्षा प्रणाली सक्रिय हो जाती है और भविष्य में वास्तविक संक्रमण के संपर्क में आने पर वह उसे पहचानकर तुरंत प्रतिक्रिया देती है.
+
+हालांकि, सभी टीके एक ही तरह से काम नहीं करते.
+
+मैसेंजर आरएनए (एमआरएनए) टीकों में आनुवंशिक निर्देशों का इस्तेमाल किया जाता है, जो अस्थायी रूप से कोशिकाओं को बिना नुक़सान वाले प्रोटीन बनाने के लिए कहते हैं.
+
+यह प्रोटीन शरीर में इम्यून रेस्पॉन्स पैदा करता है. फाइज़र का कोविड-19 टीका एमआरएनए टीके का एक उदाहरण है.
+
+### टीकों का परीक्षण कैसे किया जाता है?
+
+यह प्रक्रिया वैज्ञानिक शोध से शुरू होती है. इसमें यह देखा जाता है कि इस विषय पर क्षेत्र के दूसरे शोधकर्ताओं ने क्या काम किया है और वे किन निष्कर्षों पर पहुंचे हैं.
+
+जब वैज्ञानिक किसी नए विचार का परीक्षण करने के लिए तैयार होते हैं, तो वे प्रयोगशाला में जांच शुरू करते हैं. जांच सबसे पहले कोशिकाओं पर और फिर जानवरों पर, जिनमें अक्सर चूहों का इस्तेमाल किया जाता है.
+
+ऑक्सफोर्ड यूनिवर्सिटी के वैक्सीन नॉलेज प्रोजेक्ट के मुताबिक़, अगले चरण के परीक्षणों में जाने से पहले यह साबित करना ज़रूरी होता है कि परीक्षण किया जा रहा टीका जानवरों में इम्यून रेस्पॉन्स पैदा कर सकता है.
+
+इसके बाद इंसानों पर परीक्षण किए जाते हैं, जिन्हें आमतौर पर तीन चरणों में बांटा जाता है.
+
+फेज़ 1- पहले चरण में वॉलंटियर्स के एक छोटे समूह पर परीक्षण किया जाता है. इनमें आमतौर पर युवा और स्वस्थ वयस्क शामिल होते हैं. डब्ल्यूएचओ के मुताबिक़, इस चरण में सुरक्षा से जुड़ी किसी बड़ी चिंता और टीके की सही खुराक का पता लगाया जाता है.
+
+फेज़ 2- दूसरे चरण में स्वयंसेवकों के एक बड़े समूह पर परीक्षण किया जाता है. इसमें आमतौर पर कई सौ लोग शामिल होते हैं, जो उस आबादी से होते हैं जिसके लिए टीका तैयार किया गया है.
+
+उनकी तुलना ऐसे लोगों के एक समूह से की जाती है जिन्हें टीका नहीं दिया गया होता. इसे कंट्रोल ग्रुप कहा जाता है. डॉक्टर टीके के संभावित दुष्प्रभावों और शरीर की प्रतिरक्षा प्रतिक्रिया का अध्ययन करते हैं.
+
+फेज़ 3- तीसरे चरण में इससे भी बड़े समूह पर टीके का परीक्षण किया जाता है. इसमें आमतौर पर हज़ारों वॉलंटियर्स शामिल होते हैं. साथ ही एक कंट्रोल ग्रुप भी रखा जाता है.
+
+ये परीक्षण आमतौर पर अलग-अलग देशों में किए जाते हैं, ताकि यह सुनिश्चित किया जा सके कि टीका अलग-अलग उम्र, जातीयता (एथनेसिटी), सामाजिक पृष्ठभूमि और रहन-सहन वाले लोगों के बीच प्रभावी और सुरक्षित है.
+
+किसी टीके को इन तीनों चरणों से गुज़रने में कई दशक भी लग सकते हैं. मेनबी के नाम से जाने जाने वाले मेनिंगोकोकल बीमारी के टीके को विकसित करने में क़रीब 15 साल लगे थे.
+
+बेडफोर्ड कहती हैं, "जब आप किसी पूरी आबादी के स्वस्थ बच्चों को कोई टीका देने जा रहे होते हैं, तो आपको पूरी तरह आश्वस्त होना पड़ता है कि वह बहुत सुरक्षित है."
+
+हालांकि, असाधारण परिस्थितियों में सुरक्षा जांच से समझौता किए बिना टीकों को तेज़ी से विकसित और उनका परीक्षण किया जा सकता है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c5m2lke8jdzzo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक हमें कैसे पता चलेगा कि टीके सुरक्षित हैं? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 98067,
+    title: `Thiruparankundram Row | Supreme Court Orders Lamp Lighting At Deepathoon Tomorrow; Issues Contempt Notice ... - Live Law`,
+    slug: `thiruparankundram-row-supreme-court-orders-lamp-lighting-at-deepathoon-2026`,
+    original_title: `Thiruparankundram Row | Supreme Court Orders Lamp Lighting At Deepathoon Tomorrow; Issues Contempt Notice ... - Live Law`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:05Z`,
+    updated_at: `2026-11-27T14:05:05Z`,
+    source_name: `Live Law`,
+    source_url: `https://www.livelaw.in/top-stories/thiruparankundram-row-supreme-court-orders-lamp-lighting-at-deepathoon-tomorrow-issues-contempt-notice-to-tn-authorities-560277`,
+    source_courtesy: `Source: Live Law`,
+    image_url: `/images/articles/thiruparankundram-row-supreme-court-orders-lamp-lighting-at-deepathoon-2026.jpg`,
+    image_alt: `Thiruparankundram Row | Supreme Court Orders Lamp Lighting At Deepathoon Tomorrow; Issues Contempt Notice ... - Live Law`,
+    image_courtesy: `Image: Live Law (External Source Attribution)`,
+    image_photographer: `Live Law`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `The Supreme Court today (November 27) directed that the ceremonial lamp be lit at the Thiruparankundram Deepathoon tomorrow (November 28), using the flame lit at the Uchaipillaiyar Mandapam, provided it is still burning, or by any other arr`,
+    content: `The Supreme Court today (November 27) directed that the ceremonial lamp be lit at the Thiruparankundram Deepathoon tomorrow (November 28), using the flame lit at the Uchaipillaiyar Mandapam, provided it is still burning, or by any other arrangement.Modifying its earlier order which permitted only a restricted team approved by the Temple trust to perform the ceremony, the Court directed that every devotee be permitted to light the lamp, which is customarily lit during the Tamil month Karthigai, at a distance of at least 50 metres from the Sikandar Dargah on the hilltop on all sides.
+
+The Court also directed the Central Reserve Police Force (CRPF) to provide security to both the temple and the Dargah.The Court suspended the Board of Trustees of the Arulmigu Subramania Swamy Temple and appointed a committee comprising former Madras High Court Judges Justice S Vaidyanathan and Justice V Parthiban as receivers to take charge of the temple's administration and ensure implementation of the Court's directions.
+
+.desktop-ad   { display: block; }  .mobile-ad  { display: none;  }      @media (max-width: 767px) {      .desktop-ad { display: none;  }      .mobile-ad  { display: block; }  }          .ad_unit_wrapper {      text-align: center;      margin-top: 10px;  }    .insidecontent-ad-img {      width: 728px;      height: 220px;      max-width: 100%;      object-fit: cover;      display: block;      margin: 0 auto;  }    @media only screen and (max-width: 768px) {      .insidecontent-ad-img {          width: 100%;          height: auto;      }  }  Given the non-compliance with the previous order, the Court vacated its previous stay on the Madras High Court's findings regarding the Deepathoon.
+
+The Court however clarified that its safeguards in the previous order to protect the Dargah will continue to apply.The bench comprising Justice Aravind Kumar and Justice Vipul Pancholi was considering contempt petitions filed against the Madurai District Collector and other Tamil Nadu authorities alleging that they wilfully defied the Supreme Court's November 20 order which permitted the lighting of the ceremonial lamp at the Deepathoon near the Dargah on the top of the Thiruparankundram hill.Prima facie contempt found against TN AuthoritiesThe Court prima facie observed that there was a brazen violation of its November 20 order which permitted the lamp lighting at the Deepathoon, remarking that there appeared to be "administrative chaos" in Tamil Nadu, at least in Madurai district."There is prima facie administrative chaos in the State of Tamil Nadu, at least in Madurai District," the Court observed.The Court also expressed concern that the executive authorities appeared to have acted at the behest of political leadership."Executive authorities seem to have acted on the dictates of their political bosses," the Court observed, saying that it has to be unearthed.
+
+Therefore, the Court directed the Chief Secretary of the State to file an affidavit explaining the entire sequence of events, including the production of the communications and emails.The Court rejected the District Collector's preliminary status report as "shedding crocodile tears".
+
+Contempt notice issued to the Temple Board of TrusteesThe Court took serious exception to a resolution passed by the Board of Trustees of the Arulmigu Subramaniaswamy Temple, which stated that the lamp cannot be lit at the Deepathoon and can be done only at the Uchaipillaiyar Mandapam as per the prevailing custom.
+
+The Collector had relied upon this resolution to submit that he could not implement the order as the Board did not authorise the ceremony. The Court described the Board's resolution as an attempt to "overreach" the Court's November 20 order by adopting a "strained interpretation" of its directions.The Court also observed that the Madurai District Collector was attempting to take umbrage under the resolution passed by the temple's Board of Trustees.
+
+"The resolution on its face, firstly disclose wilful and flagrant disobedience of the interim order of this Court. Secondly, it evinces a deliberate attempt to undermine the authority of this Court and the undertaking to the High Court. Thirdly, what shocks this Court is the Board's statements that "traditions must be brought to the notice of this Court".
+
+This Court had heard the parties in detail. The statement contains an unwarranted insinuation that this Court failed to comprehend the traditions of the temple. It is apt and appropriate to note that the Board has never appeared before this Court or contested the matter by impugning the High Court's order..." the Court observed.The failure to light the lamp at the Deepathoon, viewed in conjunction with the resolution, and invocation of the temple traditions, prima facie discloses "wilful and flagrant disobedience" of the order, the Court stated.Authorities asked to appear personallyThe Supreme Court issued show-cause notices to...
+
+---
+
+**Original Source:** [Live Law](https://www.livelaw.in/top-stories/thiruparankundram-row-supreme-court-orders-lamp-lighting-at-deepathoon-tomorrow-issues-contempt-notice-to-tn-authorities-560277)`,
+    title_en: `Thiruparankundram Row | Supreme Court Orders Lamp Lighting At Deepathoon Tomorrow; Issues Contempt Notice ... - Live Law`,
+    summary_en: `The Supreme Court today (November 27) directed that the ceremonial lamp be lit at the Thiruparankundram Deepathoon tomorrow (November 28), using the flame lit at the Uchaipillaiyar Mandapam, provided it is still burning, or by any other arr`,
+    content_en: `The Supreme Court today (November 27) directed that the ceremonial lamp be lit at the Thiruparankundram Deepathoon tomorrow (November 28), using the flame lit at the Uchaipillaiyar Mandapam, provided it is still burning, or by any other arrangement.Modifying its earlier order which permitted only a restricted team approved by the Temple trust to perform the ceremony, the Court directed that every devotee be permitted to light the lamp, which is customarily lit during the Tamil month Karthigai, at a distance of at least 50 metres from the Sikandar Dargah on the hilltop on all sides.
+
+The Court also directed the Central Reserve Police Force (CRPF) to provide security to both the temple and the Dargah.The Court suspended the Board of Trustees of the Arulmigu Subramania Swamy Temple and appointed a committee comprising former Madras High Court Judges Justice S Vaidyanathan and Justice V Parthiban as receivers to take charge of the temple's administration and ensure implementation of the Court's directions.
+
+.desktop-ad   { display: block; }  .mobile-ad  { display: none;  }      @media (max-width: 767px) {      .desktop-ad { display: none;  }      .mobile-ad  { display: block; }  }          .ad_unit_wrapper {      text-align: center;      margin-top: 10px;  }    .insidecontent-ad-img {      width: 728px;      height: 220px;      max-width: 100%;      object-fit: cover;      display: block;      margin: 0 auto;  }    @media only screen and (max-width: 768px) {      .insidecontent-ad-img {          width: 100%;          height: auto;      }  }  Given the non-compliance with the previous order, the Court vacated its previous stay on the Madras High Court's findings regarding the Deepathoon.
+
+The Court however clarified that its safeguards in the previous order to protect the Dargah will continue to apply.The bench comprising Justice Aravind Kumar and Justice Vipul Pancholi was considering contempt petitions filed against the Madurai District Collector and other Tamil Nadu authorities alleging that they wilfully defied the Supreme Court's November 20 order which permitted the lighting of the ceremonial lamp at the Deepathoon near the Dargah on the top of the Thiruparankundram hill.Prima facie contempt found against TN AuthoritiesThe Court prima facie observed that there was a brazen violation of its November 20 order which permitted the lamp lighting at the Deepathoon, remarking that there appeared to be "administrative chaos" in Tamil Nadu, at least in Madurai district."There is prima facie administrative chaos in the State of Tamil Nadu, at least in Madurai District," the Court observed.The Court also expressed concern that the executive authorities appeared to have acted at the behest of political leadership."Executive authorities seem to have acted on the dictates of their political bosses," the Court observed, saying that it has to be unearthed.
+
+Therefore, the Court directed the Chief Secretary of the State to file an affidavit explaining the entire sequence of events, including the production of the communications and emails.The Court rejected the District Collector's preliminary status report as "shedding crocodile tears".
+
+Contempt notice issued to the Temple Board of TrusteesThe Court took serious exception to a resolution passed by the Board of Trustees of the Arulmigu Subramaniaswamy Temple, which stated that the lamp cannot be lit at the Deepathoon and can be done only at the Uchaipillaiyar Mandapam as per the prevailing custom.
+
+The Collector had relied upon this resolution to submit that he could not implement the order as the Board did not authorise the ceremony. The Court described the Board's resolution as an attempt to "overreach" the Court's November 20 order by adopting a "strained interpretation" of its directions.The Court also observed that the Madurai District Collector was attempting to take umbrage under the resolution passed by the temple's Board of Trustees.
+
+"The resolution on its face, firstly disclose wilful and flagrant disobedience of the interim order of this Court. Secondly, it evinces a deliberate attempt to undermine the authority of this Court and the undertaking to the High Court. Thirdly, what shocks this Court is the Board's statements that "traditions must be brought to the notice of this Court".
+
+This Court had heard the parties in detail. The statement contains an unwarranted insinuation that this Court failed to comprehend the traditions of the temple. It is apt and appropriate to note that the Board has never appeared before this Court or contested the matter by impugning the High Court's order..." the Court observed.The failure to light the lamp at the Deepathoon, viewed in conjunction with the resolution, and invocation of the temple traditions, prima facie discloses "wilful and flagrant disobedience" of the order, the Court stated.Authorities asked to appear personallyThe Supreme Court issued show-cause notices to...
+
+---
+
+**Original Source:** [Live Law](https://www.livelaw.in/top-stories/thiruparankundram-row-supreme-court-orders-lamp-lighting-at-deepathoon-tomorrow-issues-contempt-notice-to-tn-authorities-560277)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Live Law.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Thiruparankundram Row | Supreme Court Orders Lamp Lighting At Deepathoon Tomorrow; Issues Contempt Notice ... - Live Law.`,
+    primary_source: `Live Law`,
+  },
+  {
+    id: 98068,
+    title: `Union Cabinet clears delimitation bill`,
+    slug: `union-cabinet-clears-delimitation-bill-2026`,
+    original_title: `Union Cabinet clears delimitation bill`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:06Z`,
+    updated_at: `2026-11-27T14:05:06Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/union-cabinet-clears-delimitation-bill-2026.jpg`,
+    image_alt: `Union Cabinet clears delimitation bill`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `The Union Cabinet has approved Constitution Amendment Bill providing proportionate increase of 50 per cent seats across all States. This ratio will continue for 25 years till it changes according to the population in the Census after 2051. `,
+    content: `The Union Cabinet has approved Constitution Amendment Bill providing proportionate increase of 50 per cent seats across all States. This ratio will continue for 25 years till it changes according to the population in the Census after 2051. The Women’s Reservation Bill will come into effect along with the increase in seats.
+
+A similar attempt by the government was rejected in the Lok Sabha during the Monsoon session in April. Why Delimitation Bill failed to pass in Parliament in April 2026 Why Delimitation Bill failed to pass in Parliament in April 2026 Why the Delimitation Bill failed in Parliament in April 2026 and how the political arithmetic changed since then; here’s what to know Why Delimitation Bill failed to pass in Parliament in April 2026 storyline 1 The government has called for a special sitting of Parliament beginning Monday (November 30, 2026).
+
+The two Houses will meet on separate dates, Union Parliamentary Affairs Minister Kiren Rijiju announced on Thursday (November 26, 2026), which is the 104th day since the Monsoon Session adjourned indefinitely on August 13. DMK sets conditions to support Delimitation Bill DMK sets conditions to support Delimitation Bill Tamil Nadu’s share in Lok Sabha should not be reduced and the existing proportional strength of all States as determined on the basis of the 1971 Census must remain frozen for another 25 years, are Mr.
+
+Stalin’s two demands for supporting the Delimitation bill ANALYSIS DMK sets conditions to support Delimitation Bill storyline 1 The Cabinet meeting was chaired by Prime Minister Narendra Modi and was convened at 1 pm at Sewa Teerth. A two-thirds majority in both houses of Parliament is a must for a Constitutional amendment bill to get cleared.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece)`,
+    title_en: `Union Cabinet clears delimitation bill`,
+    summary_en: `The Union Cabinet has approved Constitution Amendment Bill providing proportionate increase of 50 per cent seats across all States. This ratio will continue for 25 years till it changes according to the population in the Census after 2051. `,
+    content_en: `The Union Cabinet has approved Constitution Amendment Bill providing proportionate increase of 50 per cent seats across all States. This ratio will continue for 25 years till it changes according to the population in the Census after 2051. The Women’s Reservation Bill will come into effect along with the increase in seats.
+
+A similar attempt by the government was rejected in the Lok Sabha during the Monsoon session in April. Why Delimitation Bill failed to pass in Parliament in April 2026 Why Delimitation Bill failed to pass in Parliament in April 2026 Why the Delimitation Bill failed in Parliament in April 2026 and how the political arithmetic changed since then; here’s what to know Why Delimitation Bill failed to pass in Parliament in April 2026 storyline 1 The government has called for a special sitting of Parliament beginning Monday (November 30, 2026).
+
+The two Houses will meet on separate dates, Union Parliamentary Affairs Minister Kiren Rijiju announced on Thursday (November 26, 2026), which is the 104th day since the Monsoon Session adjourned indefinitely on August 13. DMK sets conditions to support Delimitation Bill DMK sets conditions to support Delimitation Bill Tamil Nadu’s share in Lok Sabha should not be reduced and the existing proportional strength of all States as determined on the basis of the 1971 Census must remain frozen for another 25 years, are Mr.
+
+Stalin’s two demands for supporting the Delimitation bill ANALYSIS DMK sets conditions to support Delimitation Bill storyline 1 The Cabinet meeting was chaired by Prime Minister Narendra Modi and was convened at 1 pm at Sewa Teerth. A two-thirds majority in both houses of Parliament is a must for a Constitutional amendment bill to get cleared.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Union Cabinet clears delimitation bill.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 98069,
+    title: `संसद का विशेष सत्र: डीलिमिटेशन बिल पास करा पाएगी मोदी सरकार, इस बार क्या कहता है गणित?`,
+    slug: `politics-breaking-report-64235-98069-2026`,
+    original_title: `संसद का विशेष सत्र: डीलिमिटेशन बिल पास करा पाएगी मोदी सरकार, इस बार क्या कहता है गणित?`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:08Z`,
+    updated_at: `2026-11-27T14:05:08Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/c9vg23d0n422o`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/politics-breaking-report-64235-98069-2026.jpg`,
+    image_alt: `संसद का विशेष सत्र: डीलिमिटेशन बिल पास करा पाएगी मोदी सरकार, इस बार क्या कहता है गणित?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `केंद्रीय संसदीय मंत्री किरेन रिजिजू ने संसद का विशेष सत्र बुलाने का एलान किया है. चर्चा है इस दौरान मोदी सरकार डीलिमिटेशन बिल पास कराने की कोशिश करेगी.`,
+    content: `केंद्रीय संसदीय मंत्री किरेन रिजिजू ने संसद का विशेष सत्र बुलाने का एलान किया है. चर्चा है इस दौरान मोदी सरकार डीलिमिटेशन बिल पास कराने की कोशिश करेगी.
+
+हालांकि रिजिजू ने किसी विशेष एजेंडे का नाम नहीं लिया है और एक्स पर जारी बयान में विशेष सत्र का मक़सद 'ज़रूरी सरकारी कामकाज निपटाना' बताया है.
+
+विपक्षी इंडिया गठबंधन की साझेदारों में से एक एनसीपी (शरद पवार) की नेता सुप्रिया सुले ने दो दिन पहले ये बयान देकर इस चर्चा को और हवा दे दी कि 'अगर यह देश के हित में होगा तो उस पर भी एकमत हुआ जा सकता है." हालांकि उन्होंने कहा कि 'हमें अभी तक कुछ नहीं पता, पहले बिल आने दीजिए.'
+
+नए बिल पेश किए जाने की ख़बरों के बीच इस पर चर्चा तेज़ हो गई है कि क्या संविधान संशोधन बिल पास कराने के लिए बीजेपी के अगुवाई वाले सत्तारूढ़ गठबंधन एनडीए के पास दो तिहाई बहुमत है, क्योंकि इसी साल अप्रैल में हुए मतदान में दो तिहाई बहुमत न होने से यह बिल पास नहीं हो पाया था.
+
+केंद्रीय संसदीय मंत्री के मुताबिक़ , लोकसभा की बैठक 30 नवंबर को और राज्यसभा की दो दिसंबर को बैठक होगी और तीन दिसंबर को इस विशेष सत्र का समापन हो सकता है.
+
+विपक्षी नेताओं ने दावा किया है कि भले ही एजेंडा घोषित नहीं किया गया है लेकिन 'इस विशेष सत्र में डीलिमिटेशन बिल लाया जाएगा.'
+
+कांग्रेस के वरिष्ठ नेता केसी वेणुगोपाल ने सरकार पर 'संसद चोरी' का आरोप लगाया है. उन्होंने एक्स पर लिखा , "इसमें कोई शक नहीं है कि उनका परिसीमन विधेयक संसद की चोरी की एक कवायद से ज़्यादा कुछ नहीं होगा. हम इसे पारित नहीं होने देंगे."
+
+महिला आरक्षण क़ानून और डीलिमिटेशन से जुड़ा 131वां संवैधानिक संशोधन विधेयक 17 अप्रैल 2026  को लोकसभा में गिर गया था.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+संसद में महिलाओं को 33 फ़ीसदी आरक्षण देने वाले क़ानून में संशोधन और डीलिमिटेशन से जुड़े बिलों के समर्थन में जब मतदान हुआ तो पक्ष में 298 मत पड़े जबकि इसके विरोध में 230 मत पड़े. 11 सांसद अनुपस्थित रहे थे.
+
+संविधान संशोधन विधेयक पारित करने के लिए लोकसभा में कम से कम दो तिहाई बहुमत होना चाहिए. बीते अप्रैल में लोकसभा में 528 सदस्य थे और विधेयक पारित कराने के लिए 352 वोटों की ज़रूरत थी. यानी बिल को पास कराने में 54 वोट कम थे.
+
+इसके बाद सरकार ने परिसीमन और केंद्रशासित प्रदेशों से जुड़े दो अन्य विधेयकों को भी आगे नहीं बढ़ाया.
+
+लेकिन इस बार मोदी सरकार नए सिरे से इस विधेयक को संसद में ला सकती है और वह इसे पास करने की पुरजोर कोशिश करेगी.
+
+इंडियन एक्सप्रेस के अनुसार, केंद्र सरकार को दो-तिहाई बहुमत मिलने का भरोसा इसलिए है, क्योंकि पहले इंडिया गठबंधन का हिस्सा रही डीएमके की ओर से इस बिल के समर्थन के संकेत मिले हैं.
+
+अख़बार ने सूत्रों के हवाले से कहा है कि डीएमके चाहती है कि तमिलनाडु की लोकसभा सीटों में मौजूदा करीब 7.2 फ़ीसदी हिस्सेदारी बरकरार रखने की गारंटी दी जाए.
+
+अभी लोकसभा में कुल 540 सांसद हैं. ऐसे में दो-तिहाई बहुमत का आंकड़ा 360 पर पहुँचता है. लोकसभा चुनाव 2024 में एनडीए को 293 सीटें मिली थीं.
+
+लेकिन तृणमूल कांग्रेस के 20 बाग़ी सांसदों के अलग होने और एनडीए को समर्थन घोषित कर देने से यह आंकड़ा बदला है.
+
+इसी साल जून में उद्धव ठाकरे की शिव सेना के छह सांसदों ने पाला बदल लिया और शिंदे गुट में आ गए, जो पहले से ही एनडीए के सहयोगी हैं. इस तरह एनडीए की संख्या बढ़कर 319 हो गई थी.
+
+डीएमके ने पिछली बार डीलिमिटेशन बिल का विरोध किया था. लेकिन इस बार उसने समर्थन देने के संकेत दिए हैं.
+
+शुक्रवार को डीएमके के प्रवक्ता टीकेएस एलानगोवन ने एएनआई से कहा, "अगर यह (नया) विधेयक हमें स्वीकार्य होगा, तो हम इसका समर्थन करेंगे. पहले विधेयक आने दीजिए."
+
+लोकसभा में डीएमके के 22 सांसद हैं. तमिलनाडु में हार के बाद कांग्रेस के अलग हो जाने से डीएमके ने इंडिया गठबंधन का साथ छोड़ दिया.
+
+इंडियन एक्सप्रेस के मुताबिक , डीएमके के एक नेता ने माना कि सरकार ने उनसे संपर्क किया था और अगर तमिलनाडु की लोकसभा सीटों में मौजूदा करीब 7.2 फीसदी हिस्सेदारी बरकरार रखने की गारंटी मिलती है, तो पार्टी परिसीमन का समर्थन कर सकती है.
+
+एनसीपी (शरद पवार) की नेता सुप्रिया सुले ने बिल के समर्थन के संकेत दिए थे हालांकि शुक्रवार को उन्होंने कोई टिप्पणी करने से इनकार कर दिया. लोकसभा में पार्टी के आठ सांसद हैं.
+
+सुप्रिया सुले ने पत्रकारों से बात करते बीते बुधवार को कहा था, "विपक्ष ने अतीत में कई मुद्दों का समर्थन किया है, जैसे पहलगाम मामला, जीएसटी बिल, महिला आरक्षण का बिल हमने एकमत से पास किया. देश हित में चर्चा होनी चाहिए."
+
+अगर लोकसभा में मंजूरी मिल जाती है तो विधेयक को राज्यसभा की बैठक में पेश किए जाने की उम्मीद है. 245 सदस्यों वाली राज्य सभा में एनडीए के 142 सांसद हैं. संविधान संशोधन के लिए 161 सदस्यों का समर्थन जरूरी होगा. ऐसे में सत्तारूढ़ गठबंधन को 19 सांसदों के समर्थन की ज़रूरत है.
+
+राज्यसभा में डीएमके के आठ और एनसीपी (शरद पवार) का एक सांसद है. क्षेत्रीय दलों समेत एनडीए से बाहर के दलों के करीब 100 सांसद हैं. बीजेपी को भरोसा है कि वो पर्याप्त संख्या जुटाने में सफल होगी.
+
+तमिलनाडु के पूर्व मुख्यमंत्री और डीएमके नेता एमके स्टालिन ने कहा है कि डीएमके भारत में पहली पार्टी थी, जिसने परिसीमन के संभावित परिणामों को लेकर आवाज़ उठाई थी.
+
+उन्होंने एक्स पर एक पोस्ट में लिखा है कि निष्पक्ष परिसीमन की मांग को लेकर राष्ट्रीय नेताओं को एक मंच पर लाने के लिए पहली बैठक भी चेन्नई में ही हुई थी.
+
+तमिलनाडु विधानसभा में पारित प्रस्ताव और निष्पक्ष परिसीमन के लिए संयुक्त कार्य समिति की बैठक में अपनाए गए प्रस्तावों के मुताबिक़, हमारी दो स्पष्ट मांगें थीं-
+
+"अगर लोकसभा सीटों की संख्या बढ़ाई जाती है, तो किसी भी हालत में तमिलनाडु की मौजूदा 7.18 फीसदी हिस्सेदारी कम नहीं होनी चाहिए,
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c9vg23d0n422o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `संसद का विशेष सत्र: डीलिमिटेशन बिल पास करा पाएगी मोदी सरकार, इस बार क्या कहता है गणित?`,
+    summary_hi: `केंद्रीय संसदीय मंत्री किरेन रिजिजू ने संसद का विशेष सत्र बुलाने का एलान किया है. चर्चा है इस दौरान मोदी सरकार डीलिमिटेशन बिल पास कराने की कोशिश करेगी.`,
+    content_hi: `केंद्रीय संसदीय मंत्री किरेन रिजिजू ने संसद का विशेष सत्र बुलाने का एलान किया है. चर्चा है इस दौरान मोदी सरकार डीलिमिटेशन बिल पास कराने की कोशिश करेगी.
+
+हालांकि रिजिजू ने किसी विशेष एजेंडे का नाम नहीं लिया है और एक्स पर जारी बयान में विशेष सत्र का मक़सद 'ज़रूरी सरकारी कामकाज निपटाना' बताया है.
+
+विपक्षी इंडिया गठबंधन की साझेदारों में से एक एनसीपी (शरद पवार) की नेता सुप्रिया सुले ने दो दिन पहले ये बयान देकर इस चर्चा को और हवा दे दी कि 'अगर यह देश के हित में होगा तो उस पर भी एकमत हुआ जा सकता है." हालांकि उन्होंने कहा कि 'हमें अभी तक कुछ नहीं पता, पहले बिल आने दीजिए.'
+
+नए बिल पेश किए जाने की ख़बरों के बीच इस पर चर्चा तेज़ हो गई है कि क्या संविधान संशोधन बिल पास कराने के लिए बीजेपी के अगुवाई वाले सत्तारूढ़ गठबंधन एनडीए के पास दो तिहाई बहुमत है, क्योंकि इसी साल अप्रैल में हुए मतदान में दो तिहाई बहुमत न होने से यह बिल पास नहीं हो पाया था.
+
+केंद्रीय संसदीय मंत्री के मुताबिक़ , लोकसभा की बैठक 30 नवंबर को और राज्यसभा की दो दिसंबर को बैठक होगी और तीन दिसंबर को इस विशेष सत्र का समापन हो सकता है.
+
+विपक्षी नेताओं ने दावा किया है कि भले ही एजेंडा घोषित नहीं किया गया है लेकिन 'इस विशेष सत्र में डीलिमिटेशन बिल लाया जाएगा.'
+
+कांग्रेस के वरिष्ठ नेता केसी वेणुगोपाल ने सरकार पर 'संसद चोरी' का आरोप लगाया है. उन्होंने एक्स पर लिखा , "इसमें कोई शक नहीं है कि उनका परिसीमन विधेयक संसद की चोरी की एक कवायद से ज़्यादा कुछ नहीं होगा. हम इसे पारित नहीं होने देंगे."
+
+महिला आरक्षण क़ानून और डीलिमिटेशन से जुड़ा 131वां संवैधानिक संशोधन विधेयक 17 अप्रैल 2026  को लोकसभा में गिर गया था.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+संसद में महिलाओं को 33 फ़ीसदी आरक्षण देने वाले क़ानून में संशोधन और डीलिमिटेशन से जुड़े बिलों के समर्थन में जब मतदान हुआ तो पक्ष में 298 मत पड़े जबकि इसके विरोध में 230 मत पड़े. 11 सांसद अनुपस्थित रहे थे.
+
+संविधान संशोधन विधेयक पारित करने के लिए लोकसभा में कम से कम दो तिहाई बहुमत होना चाहिए. बीते अप्रैल में लोकसभा में 528 सदस्य थे और विधेयक पारित कराने के लिए 352 वोटों की ज़रूरत थी. यानी बिल को पास कराने में 54 वोट कम थे.
+
+इसके बाद सरकार ने परिसीमन और केंद्रशासित प्रदेशों से जुड़े दो अन्य विधेयकों को भी आगे नहीं बढ़ाया.
+
+लेकिन इस बार मोदी सरकार नए सिरे से इस विधेयक को संसद में ला सकती है और वह इसे पास करने की पुरजोर कोशिश करेगी.
+
+इंडियन एक्सप्रेस के अनुसार, केंद्र सरकार को दो-तिहाई बहुमत मिलने का भरोसा इसलिए है, क्योंकि पहले इंडिया गठबंधन का हिस्सा रही डीएमके की ओर से इस बिल के समर्थन के संकेत मिले हैं.
+
+अख़बार ने सूत्रों के हवाले से कहा है कि डीएमके चाहती है कि तमिलनाडु की लोकसभा सीटों में मौजूदा करीब 7.2 फ़ीसदी हिस्सेदारी बरकरार रखने की गारंटी दी जाए.
+
+अभी लोकसभा में कुल 540 सांसद हैं. ऐसे में दो-तिहाई बहुमत का आंकड़ा 360 पर पहुँचता है. लोकसभा चुनाव 2024 में एनडीए को 293 सीटें मिली थीं.
+
+लेकिन तृणमूल कांग्रेस के 20 बाग़ी सांसदों के अलग होने और एनडीए को समर्थन घोषित कर देने से यह आंकड़ा बदला है.
+
+इसी साल जून में उद्धव ठाकरे की शिव सेना के छह सांसदों ने पाला बदल लिया और शिंदे गुट में आ गए, जो पहले से ही एनडीए के सहयोगी हैं. इस तरह एनडीए की संख्या बढ़कर 319 हो गई थी.
+
+डीएमके ने पिछली बार डीलिमिटेशन बिल का विरोध किया था. लेकिन इस बार उसने समर्थन देने के संकेत दिए हैं.
+
+शुक्रवार को डीएमके के प्रवक्ता टीकेएस एलानगोवन ने एएनआई से कहा, "अगर यह (नया) विधेयक हमें स्वीकार्य होगा, तो हम इसका समर्थन करेंगे. पहले विधेयक आने दीजिए."
+
+लोकसभा में डीएमके के 22 सांसद हैं. तमिलनाडु में हार के बाद कांग्रेस के अलग हो जाने से डीएमके ने इंडिया गठबंधन का साथ छोड़ दिया.
+
+इंडियन एक्सप्रेस के मुताबिक , डीएमके के एक नेता ने माना कि सरकार ने उनसे संपर्क किया था और अगर तमिलनाडु की लोकसभा सीटों में मौजूदा करीब 7.2 फीसदी हिस्सेदारी बरकरार रखने की गारंटी मिलती है, तो पार्टी परिसीमन का समर्थन कर सकती है.
+
+एनसीपी (शरद पवार) की नेता सुप्रिया सुले ने बिल के समर्थन के संकेत दिए थे हालांकि शुक्रवार को उन्होंने कोई टिप्पणी करने से इनकार कर दिया. लोकसभा में पार्टी के आठ सांसद हैं.
+
+सुप्रिया सुले ने पत्रकारों से बात करते बीते बुधवार को कहा था, "विपक्ष ने अतीत में कई मुद्दों का समर्थन किया है, जैसे पहलगाम मामला, जीएसटी बिल, महिला आरक्षण का बिल हमने एकमत से पास किया. देश हित में चर्चा होनी चाहिए."
+
+अगर लोकसभा में मंजूरी मिल जाती है तो विधेयक को राज्यसभा की बैठक में पेश किए जाने की उम्मीद है. 245 सदस्यों वाली राज्य सभा में एनडीए के 142 सांसद हैं. संविधान संशोधन के लिए 161 सदस्यों का समर्थन जरूरी होगा. ऐसे में सत्तारूढ़ गठबंधन को 19 सांसदों के समर्थन की ज़रूरत है.
+
+राज्यसभा में डीएमके के आठ और एनसीपी (शरद पवार) का एक सांसद है. क्षेत्रीय दलों समेत एनडीए से बाहर के दलों के करीब 100 सांसद हैं. बीजेपी को भरोसा है कि वो पर्याप्त संख्या जुटाने में सफल होगी.
+
+तमिलनाडु के पूर्व मुख्यमंत्री और डीएमके नेता एमके स्टालिन ने कहा है कि डीएमके भारत में पहली पार्टी थी, जिसने परिसीमन के संभावित परिणामों को लेकर आवाज़ उठाई थी.
+
+उन्होंने एक्स पर एक पोस्ट में लिखा है कि निष्पक्ष परिसीमन की मांग को लेकर राष्ट्रीय नेताओं को एक मंच पर लाने के लिए पहली बैठक भी चेन्नई में ही हुई थी.
+
+तमिलनाडु विधानसभा में पारित प्रस्ताव और निष्पक्ष परिसीमन के लिए संयुक्त कार्य समिति की बैठक में अपनाए गए प्रस्तावों के मुताबिक़, हमारी दो स्पष्ट मांगें थीं-
+
+"अगर लोकसभा सीटों की संख्या बढ़ाई जाती है, तो किसी भी हालत में तमिलनाडु की मौजूदा 7.18 फीसदी हिस्सेदारी कम नहीं होनी चाहिए,
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c9vg23d0n422o)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक संसद का विशेष सत्र: डीलिमिटेशन बिल पास करा पाएगी मोदी सरकार, इस बार क्या कहता है गणित? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 98070,
+    title: `5 लाख के पर्दे, 11 लाख रुपये के झूमर... जब केजरीवाल के 'शीशमहल' में गया कैमरा, तो अंदर क्या-क्या दिखा - India TV Hindi`,
+    slug: `5-11-india-tv-hindi-2026`,
+    original_title: `5 लाख के पर्दे, 11 लाख रुपये के झूमर... जब केजरीवाल के 'शीशमहल' में गया कैमरा, तो अंदर क्या-क्या दिखा - India TV Hindi`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:09Z`,
+    updated_at: `2026-11-27T14:05:09Z`,
+    source_name: `India TV Hindi`,
+    source_url: `https://www.indiatv.in/delhi/delhi-govt-opens-arvind-kejriwal-residence-sheeshmahal-for-public-curtains-worth-rs-5-lakh-chandeliers-worth-rs-11-lakh-revealed-watch-video-2026-11-27-1256747`,
+    source_courtesy: `Source: India TV Hindi`,
+    image_url: `/images/articles/5-11-india-tv-hindi-2026.jpg`,
+    image_alt: `5 लाख के पर्दे, 11 लाख रुपये के झूमर... जब केजरीवाल के 'शीशमहल' में गया कैमरा, तो अंदर क्या-क्या दिखा - India TV Hindi`,
+    image_courtesy: `Image: India TV Hindi (External Source Attribution)`,
+    image_photographer: `India TV Hindi`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `दिल्ली की बीजेपी सरकार ने आज से पूर्व मुख्यमंत्री अरविंद केजरीवाल के 6, फ्लैगस्टाफ रोड स्थित सरकारी बंगले को आम लोगों के लिए खोल दिया। बंगले के बाहर शीशमहल नाम का बोर्ड लगाया गया है। दावा किया गया है कि बंगले की कुल कीमत 58 करोड़ 83 लाख 66 `,
+    content: `दिल्ली की बीजेपी सरकार ने आज से पूर्व मुख्यमंत्री अरविंद केजरीवाल के 6, फ्लैगस्टाफ रोड स्थित सरकारी बंगले को आम लोगों के लिए खोल दिया। बंगले के बाहर शीशमहल नाम का बोर्ड लगाया गया है। दावा किया गया है कि बंगले की कुल कीमत 58 करोड़ 83 लाख 66 हजार 314 रुपए है। बंगले के अलग-अलग हिस्सों और इंटीरियर में इस्तेमाल हुई चीजों की कीमतें भी बताई गई हैं।
+
+आइए जानते हैं कि जब शीशमहल में कैमरा गया तो इसके अंदर क्या-क्या देखने को मिला है। शीशमहल के अंदर क्या दिखा? पूर्व मुख्यमंत्री अरविंद केजरीवाल के सरकारी बंगले में बेड, सोफा, टेबल सहित हर एक सामान पर प्राइस टैग लगा है। डाइनिंग टेबल-कुर्सियों की कीमत 30.52 लाख रुपये बताई गई है। वहीं, पर्दों की कीमत 5 लाख रुपये और झूमर की कीमत 11 लाख रुपए बताई गई है।
+
+शीशमहल में स्लाइडिंग दरवाजे वाली बैठक की कीमत 41.16 लाख रुपए बताई गई है। वहीं, पाउडर रूम की कीमत 5.80 लाख और लॉबी एरिया की कीमत 7.58 लाख रुपए है। किचन में सामान ऊपर-नीचे ले जाने के लिए लगी डंबवेटर लिफ्ट की कीमत 7 लाख बताई गई है। टिकट की कीमत करीब 20 रुपए हो सकती है अरविंद केजरीवाल के पूर्व सरकारी बंगले को देखने की टिकट की कीमत करीब 20 रुपए हो सकती है।
+
+सीनियर सिटीजन और कॉलेज के छात्रों को मुफ्त एंट्री देने की योजना है। दिल्ली सरकार ने इस बंगले को आज से खुलवा दिया है। दिल्ली सरकार की योजना इस बंगले को कुछ समय तक आम लोगों के लिए खुला रखने की है। इसके बाद इसे एक निजी हॉस्पिटैलिटी कंपनी को सौंपने की तैयारी है। कंपनी यहां सरकारी कॉन्फ्रेंस, लंच और बैठकों का आयोजन कर सकती है।
+
+2015 से 2024 तक बंगले में रहे थे केजरीवाल आपको बता दें कि अरविंद केजरीवाल CM रहने के दौरान, साल 2015 से 2024 तक इस बंगले में परिवार समेत रहे थे। हाल ही में दिल्ली सरकार के दिल्ली के लोक निर्माण विभाग (PWD) मंत्री प्रवेश साहिब सिंह ने जानकारी दी थी कि 'शीशमहल' अब आम आदमी भी देख सकेगा।
+
+उन्होंने कहा था-"जनता की मांग को देखते हुए हम 'शीशमहल' को लोगों के देखने के लिए खोलेंगे। हम लोगों को भ्रष्टाचार का सबसे बड़ा उदाहरण दिखाएंगे कि कैसे एक व्यक्ति, जिसने कहा था कि वह सरकारी वाहन तक का इस्तेमाल नहीं करेगा, उसने कई अन्य घरों को ध्वस्त करके अपने लिए यह आलीशान आवास बनवाया।" बंगले में खर्च का ब्यौरा सरकार ने जारी किया शीशमहल में खर्च का आंकड़ा ये भी पढ़ें- केजरीवाल और AAP नेताओं को दिल्ली हाईकोर्ट की आखिरी चेतावनी, कहा- 'अब और समय नहीं मिलेगा'
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/delhi/delhi-govt-opens-arvind-kejriwal-residence-sheeshmahal-for-public-curtains-worth-rs-5-lakh-chandeliers-worth-rs-11-lakh-revealed-watch-video-2026-11-27-1256747)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `5 लाख के पर्दे, 11 लाख रुपये के झूमर... जब केजरीवाल के 'शीशमहल' में गया कैमरा, तो अंदर क्या-क्या दिखा - India TV Hindi`,
+    summary_hi: `दिल्ली की बीजेपी सरकार ने आज से पूर्व मुख्यमंत्री अरविंद केजरीवाल के 6, फ्लैगस्टाफ रोड स्थित सरकारी बंगले को आम लोगों के लिए खोल दिया। बंगले के बाहर शीशमहल नाम का बोर्ड लगाया गया है। दावा किया गया है कि बंगले की कुल कीमत 58 करोड़ 83 लाख 66 `,
+    content_hi: `दिल्ली की बीजेपी सरकार ने आज से पूर्व मुख्यमंत्री अरविंद केजरीवाल के 6, फ्लैगस्टाफ रोड स्थित सरकारी बंगले को आम लोगों के लिए खोल दिया। बंगले के बाहर शीशमहल नाम का बोर्ड लगाया गया है। दावा किया गया है कि बंगले की कुल कीमत 58 करोड़ 83 लाख 66 हजार 314 रुपए है। बंगले के अलग-अलग हिस्सों और इंटीरियर में इस्तेमाल हुई चीजों की कीमतें भी बताई गई हैं।
+
+आइए जानते हैं कि जब शीशमहल में कैमरा गया तो इसके अंदर क्या-क्या देखने को मिला है। शीशमहल के अंदर क्या दिखा? पूर्व मुख्यमंत्री अरविंद केजरीवाल के सरकारी बंगले में बेड, सोफा, टेबल सहित हर एक सामान पर प्राइस टैग लगा है। डाइनिंग टेबल-कुर्सियों की कीमत 30.52 लाख रुपये बताई गई है। वहीं, पर्दों की कीमत 5 लाख रुपये और झूमर की कीमत 11 लाख रुपए बताई गई है।
+
+शीशमहल में स्लाइडिंग दरवाजे वाली बैठक की कीमत 41.16 लाख रुपए बताई गई है। वहीं, पाउडर रूम की कीमत 5.80 लाख और लॉबी एरिया की कीमत 7.58 लाख रुपए है। किचन में सामान ऊपर-नीचे ले जाने के लिए लगी डंबवेटर लिफ्ट की कीमत 7 लाख बताई गई है। टिकट की कीमत करीब 20 रुपए हो सकती है अरविंद केजरीवाल के पूर्व सरकारी बंगले को देखने की टिकट की कीमत करीब 20 रुपए हो सकती है।
+
+सीनियर सिटीजन और कॉलेज के छात्रों को मुफ्त एंट्री देने की योजना है। दिल्ली सरकार ने इस बंगले को आज से खुलवा दिया है। दिल्ली सरकार की योजना इस बंगले को कुछ समय तक आम लोगों के लिए खुला रखने की है। इसके बाद इसे एक निजी हॉस्पिटैलिटी कंपनी को सौंपने की तैयारी है। कंपनी यहां सरकारी कॉन्फ्रेंस, लंच और बैठकों का आयोजन कर सकती है।
+
+2015 से 2024 तक बंगले में रहे थे केजरीवाल आपको बता दें कि अरविंद केजरीवाल CM रहने के दौरान, साल 2015 से 2024 तक इस बंगले में परिवार समेत रहे थे। हाल ही में दिल्ली सरकार के दिल्ली के लोक निर्माण विभाग (PWD) मंत्री प्रवेश साहिब सिंह ने जानकारी दी थी कि 'शीशमहल' अब आम आदमी भी देख सकेगा।
+
+उन्होंने कहा था-"जनता की मांग को देखते हुए हम 'शीशमहल' को लोगों के देखने के लिए खोलेंगे। हम लोगों को भ्रष्टाचार का सबसे बड़ा उदाहरण दिखाएंगे कि कैसे एक व्यक्ति, जिसने कहा था कि वह सरकारी वाहन तक का इस्तेमाल नहीं करेगा, उसने कई अन्य घरों को ध्वस्त करके अपने लिए यह आलीशान आवास बनवाया।" बंगले में खर्च का ब्यौरा सरकार ने जारी किया शीशमहल में खर्च का आंकड़ा ये भी पढ़ें- केजरीवाल और AAP नेताओं को दिल्ली हाईकोर्ट की आखिरी चेतावनी, कहा- 'अब और समय नहीं मिलेगा'
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/delhi/delhi-govt-opens-arvind-kejriwal-residence-sheeshmahal-for-public-curtains-worth-rs-5-lakh-chandeliers-worth-rs-11-lakh-revealed-watch-video-2026-11-27-1256747)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट India TV Hindi के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक 5 लाख के पर्दे, 11 लाख रुपये के झूमर... जब केजरीवाल के 'शीशमहल' में गया कैमरा, तो अंदर क्या-क्या दिखा - India TV Hindi से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `India TV Hindi`,
+  },
+  {
+    id: 98071,
+    title: `OpenAI's pricing mix-up means most users of its new AI models will hit limits faster - Business Insider`,
+    slug: `openais-pricing-mix-up-means-most-users-of-its-new-ai-models-will-hit-2026`,
+    original_title: `OpenAI's pricing mix-up means most users of its new AI models will hit limits faster - Business Insider`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:09Z`,
+    updated_at: `2026-11-27T14:05:09Z`,
+    source_name: `Business Insider`,
+    source_url: `https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11`,
+    source_courtesy: `Source: Business Insider`,
+    image_url: `/images/articles/openais-pricing-mix-up-means-most-users-of-its-new-ai-models-will-hit-2026.webp`,
+    image_alt: `OpenAI's pricing mix-up means most users of its new AI models will hit limits faster - Business Insider`,
+    image_courtesy: `Image: Business Insider (External Source Attribution)`,
+    image_photographer: `Business Insider`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Black Friday savings briefly and unintentionally came to OpenAI. The company made a billing mistake that "incorrectly discounted" GPT-6.2 Astra and Sol earlier this month, Thibault Sottiaux, the engineering lead for Codex, OpenAI's coding a`,
+    content: `Black Friday savings briefly and unintentionally came to OpenAI. The company made a billing mistake that "incorrectly discounted" GPT-6.2 Astra and Sol earlier this month, Thibault Sottiaux, the engineering lead for Codex, OpenAI's coding agent, said on X. Now that it's been fixed, most users can expect to hit their usage limits 40% and 25% faster on Astra and Sol, respectively, for doing the same tasks, Sottiaux said in his early-morning post on Thursday.
+
+Astra is OpenAI's newest frontier model for the most difficult tasks, whereas Sol is cheaper and for everyday tasks, according to OpenAI's website. Sottiaux said OpenAI wouldn't retroactively charge users for the difference in past usage with the new models, which both launched on November 17.
+
+"As a small token to apologize for the mistake, we'll be adding one banked reset for everyone on Go, Plus, Pro, and Business," Sottiaux wrote, meaning everyone on the listed paid plans gets one opportunity to reset their usage limit early. Usage limits are measured in tokens, the basic unit of data inputted or outputted by an AI model.
+
+More intensive tasks require more compute, and therefore rack up a higher token bill. Different ChatGPT subscriptions have different limits, and pricing plans across models have become a moving target for AI companies. This isn't Sottiaux's first X post about problems with usage limits.
+
+In June, some Codex users reported reaching their usage limits more quickly than usual, even when performing the same tasks. OpenAI set up a "warroom" to look into the issue, Sottiaux said at the time, and eventually determined that Codex was doing more behind-the-scenes work than intended, causing it to use more compute.
+
+The company also reset everyone's limits in that scenario. Coding tasks can get expensive quickly for users, since they typically use more compute compared to basic tasks like asking a chatbot a question. Companies, too, are grappling with ballooning AI bills, as employees burn through tokens and cash.
+
+JPMorgan, for example, instituted $2,000 monthly caps for some of its engineers using Claude Code earlier this year. Yet agents for both coding and mundane tasks are also pricey for AI companies, and questions remain about how they will make money. Earlier this month, Elon Musk said the cost of maintaining SpaceX's GrokBot, an AI agent, was "unsustainably high relative to revenue." Meta CEO Mark Zuckerberg told investors in October that Muse, the wildly popular AI agent, isn't making money yet and is "very compute-intensive."
+
+---
+
+**Original Source:** [Business Insider](https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11)`,
+    title_en: `OpenAI's pricing mix-up means most users of its new AI models will hit limits faster - Business Insider`,
+    summary_en: `Black Friday savings briefly and unintentionally came to OpenAI. The company made a billing mistake that "incorrectly discounted" GPT-6.2 Astra and Sol earlier this month, Thibault Sottiaux, the engineering lead for Codex, OpenAI's coding a`,
+    content_en: `Black Friday savings briefly and unintentionally came to OpenAI. The company made a billing mistake that "incorrectly discounted" GPT-6.2 Astra and Sol earlier this month, Thibault Sottiaux, the engineering lead for Codex, OpenAI's coding agent, said on X. Now that it's been fixed, most users can expect to hit their usage limits 40% and 25% faster on Astra and Sol, respectively, for doing the same tasks, Sottiaux said in his early-morning post on Thursday.
+
+Astra is OpenAI's newest frontier model for the most difficult tasks, whereas Sol is cheaper and for everyday tasks, according to OpenAI's website. Sottiaux said OpenAI wouldn't retroactively charge users for the difference in past usage with the new models, which both launched on November 17.
+
+"As a small token to apologize for the mistake, we'll be adding one banked reset for everyone on Go, Plus, Pro, and Business," Sottiaux wrote, meaning everyone on the listed paid plans gets one opportunity to reset their usage limit early. Usage limits are measured in tokens, the basic unit of data inputted or outputted by an AI model.
+
+More intensive tasks require more compute, and therefore rack up a higher token bill. Different ChatGPT subscriptions have different limits, and pricing plans across models have become a moving target for AI companies. This isn't Sottiaux's first X post about problems with usage limits.
+
+In June, some Codex users reported reaching their usage limits more quickly than usual, even when performing the same tasks. OpenAI set up a "warroom" to look into the issue, Sottiaux said at the time, and eventually determined that Codex was doing more behind-the-scenes work than intended, causing it to use more compute.
+
+The company also reset everyone's limits in that scenario. Coding tasks can get expensive quickly for users, since they typically use more compute compared to basic tasks like asking a chatbot a question. Companies, too, are grappling with ballooning AI bills, as employees burn through tokens and cash.
+
+JPMorgan, for example, instituted $2,000 monthly caps for some of its engineers using Claude Code earlier this year. Yet agents for both coding and mundane tasks are also pricey for AI companies, and questions remain about how they will make money. Earlier this month, Elon Musk said the cost of maintaining SpaceX's GrokBot, an AI agent, was "unsustainably high relative to revenue." Meta CEO Mark Zuckerberg told investors in October that Muse, the wildly popular AI agent, isn't making money yet and is "very compute-intensive."
+
+---
+
+**Original Source:** [Business Insider](https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Business Insider.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for OpenAI's pricing mix-up means most users of its new AI models will hit limits faster - Business Insider.`,
+    primary_source: `Business Insider`,
+  },
+  {
+    id: 98072,
+    title: `Get Ready for GTA 6 on PC With These Black Friday Monitor Deals From Just $75 - CNET`,
+    slug: `get-ready-for-gta-6-on-pc-with-these-black-friday-monitor-deals-from-j-2026`,
+    original_title: `Get Ready for GTA 6 on PC With These Black Friday Monitor Deals From Just $75 - CNET`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:10Z`,
+    updated_at: `2026-11-27T14:05:10Z`,
+    source_name: `CNET`,
+    source_url: `https://www.cnet.com/tech/gaming/gta-6-black-friday-monitor-deals/`,
+    source_courtesy: `Source: CNET`,
+    image_url: `/images/articles/get-ready-for-gta-6-on-pc-with-these-black-friday-monitor-deals-from-j-2026.jpg`,
+    image_alt: `Get Ready for GTA 6 on PC With These Black Friday Monitor Deals From Just $75 - CNET`,
+    image_courtesy: `Image: CNET (External Source Attribution)`,
+    image_photographer: `CNET`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `The biggest game of the decade is expected to come to PC in early 2027, and these Black Friday deals help you prepare for less.`,
+    content: `The biggest game of the decade is expected to come to PC in early 2027, and these Black Friday deals help you prepare for less.
+
+Save up to $700: GTA 6 might be a console exclusive right now, but the biggest game of the decade is expected to come to PC in early 2027 . That means that now is the perfect time to get ahead of the game and pick up a new monitor for the occasion, especially while the Black Friday deals are in full effect and you can save up to $700 on one.
+
+### AOC 27G50F2 27-inch FHD 180Hz monitor
+
+### LG UltraGear 45-inch WQHD OLED 240Hz monitor
+
+### Samsung ViewFinity S65VC 34-inch WQHD 100Hz monitor
+
+We’ve collected a few different monitor deals below, with prices starting from just $75 . At the other end of the scale, a 45-inch OLED monster is on sale for just $1,000 for those who really want to fully immerse themselves in the GTA 6 world. With more options in between, we’re sure that there will be a monitor for everyone in this collection of GTA 6-ready PC monitors. But remember that these deals aren’t likely to last for long, and the clock is already ticking.
+
+### Black Friday GTA 6 PC monitor deals
+
+This 27-inch monitor is the most affordable on our list thanks to a $75 discount that slashes the original price by 50%. Despite its low price, it offers a super-fast 144Hz refresh rate and a 5-millisecond response time, as well as support for AMD FreeSync. Its 1080p resolution is great for gaming at this size without pushing your GPU too far. It also offers both HDMI and VGA connectivity, so you can hook up multiple devices at once.
+
+AOC’s 27G50F2 is a 27-inch monitor with a blazing-fast 188Hz refresh rate and an equally speedy 0.5-millisecond response time. AMD FreeSync support is also present, while DisplayPort and HDMI are both options when it comes time to hook this thing up. The 1080p resolution might seem low in a world of 4K displays, but at 27 inches it’s perfect for PCs that don’t have the very latest (and most costly) GPUs installed.
+
+The premium offering in our roundup, this LG UltraGear is a 45-inch monster monitor with a huge 3440 x 1440 resolution. That’s paired with an incredibly quick 240Hz refresh rate and 0.03-millisecond response time for buttery-smooth gaming and in-app scrolling. That’s aided by support for AMD FreeSync Premium Pro and Nvidia’s G-Sync technologies, while the OLED panel means support for DisplayHDR 400 True Black and great contrast. This monitor also features three ports for expanded connectivity options.
+
+This Samsung monitor is curved to wrap around your head for a more even, distortion-free viewing experience and comes with a built-in webcam for video calls between GTA 6 gaming sessions. It has a 3440 x 1440 resolution as well as support for HDR10 and even has a built-in speaker. Designed for getting work done just as much as playing games, this monitor automatically optimizes color temperature and brightness to prevent eye strain.
+
+### Is Black Friday the best time to buy a new monitor?
+
+Black Friday certainly isn’t the worst time to buy a new monitor, especially if you’ve been nursing an old display while waiting for the sales to begin. This time of year is rife with discounts on everything tech, including PC monitors. It’s often the time of year when we see the lowest prices on everything from Pokemon cards to Lego sets , so be sure to check out our list of the very best Black Friday deals before buying anything this weekend.
+
+GTA 6 launched on PS5 and Xbox Series X|S on Nov. 19, but it’s exclusive to those consoles for now. Rockstar Games nor Take-Two Interactive have announced when a PC version of the game will launch. However, reports have suggested that the pair are aiming for an early 2027 release, meaning PC gamers hopefully won’t have to wait too long for their Vice City fix.
+
+---
+
+**Original Source:** [CNET](https://www.cnet.com/tech/gaming/gta-6-black-friday-monitor-deals/)`,
+    title_en: `Get Ready for GTA 6 on PC With These Black Friday Monitor Deals From Just $75 - CNET`,
+    summary_en: `The biggest game of the decade is expected to come to PC in early 2027, and these Black Friday deals help you prepare for less.`,
+    content_en: `The biggest game of the decade is expected to come to PC in early 2027, and these Black Friday deals help you prepare for less.
+
+Save up to $700: GTA 6 might be a console exclusive right now, but the biggest game of the decade is expected to come to PC in early 2027 . That means that now is the perfect time to get ahead of the game and pick up a new monitor for the occasion, especially while the Black Friday deals are in full effect and you can save up to $700 on one.
+
+### AOC 27G50F2 27-inch FHD 180Hz monitor
+
+### LG UltraGear 45-inch WQHD OLED 240Hz monitor
+
+### Samsung ViewFinity S65VC 34-inch WQHD 100Hz monitor
+
+We’ve collected a few different monitor deals below, with prices starting from just $75 . At the other end of the scale, a 45-inch OLED monster is on sale for just $1,000 for those who really want to fully immerse themselves in the GTA 6 world. With more options in between, we’re sure that there will be a monitor for everyone in this collection of GTA 6-ready PC monitors. But remember that these deals aren’t likely to last for long, and the clock is already ticking.
+
+### Black Friday GTA 6 PC monitor deals
+
+This 27-inch monitor is the most affordable on our list thanks to a $75 discount that slashes the original price by 50%. Despite its low price, it offers a super-fast 144Hz refresh rate and a 5-millisecond response time, as well as support for AMD FreeSync. Its 1080p resolution is great for gaming at this size without pushing your GPU too far. It also offers both HDMI and VGA connectivity, so you can hook up multiple devices at once.
+
+AOC’s 27G50F2 is a 27-inch monitor with a blazing-fast 188Hz refresh rate and an equally speedy 0.5-millisecond response time. AMD FreeSync support is also present, while DisplayPort and HDMI are both options when it comes time to hook this thing up. The 1080p resolution might seem low in a world of 4K displays, but at 27 inches it’s perfect for PCs that don’t have the very latest (and most costly) GPUs installed.
+
+The premium offering in our roundup, this LG UltraGear is a 45-inch monster monitor with a huge 3440 x 1440 resolution. That’s paired with an incredibly quick 240Hz refresh rate and 0.03-millisecond response time for buttery-smooth gaming and in-app scrolling. That’s aided by support for AMD FreeSync Premium Pro and Nvidia’s G-Sync technologies, while the OLED panel means support for DisplayHDR 400 True Black and great contrast. This monitor also features three ports for expanded connectivity options.
+
+This Samsung monitor is curved to wrap around your head for a more even, distortion-free viewing experience and comes with a built-in webcam for video calls between GTA 6 gaming sessions. It has a 3440 x 1440 resolution as well as support for HDR10 and even has a built-in speaker. Designed for getting work done just as much as playing games, this monitor automatically optimizes color temperature and brightness to prevent eye strain.
+
+### Is Black Friday the best time to buy a new monitor?
+
+Black Friday certainly isn’t the worst time to buy a new monitor, especially if you’ve been nursing an old display while waiting for the sales to begin. This time of year is rife with discounts on everything tech, including PC monitors. It’s often the time of year when we see the lowest prices on everything from Pokemon cards to Lego sets , so be sure to check out our list of the very best Black Friday deals before buying anything this weekend.
+
+GTA 6 launched on PS5 and Xbox Series X|S on Nov. 19, but it’s exclusive to those consoles for now. Rockstar Games nor Take-Two Interactive have announced when a PC version of the game will launch. However, reports have suggested that the pair are aiming for an early 2027 release, meaning PC gamers hopefully won’t have to wait too long for their Vice City fix.
+
+---
+
+**Original Source:** [CNET](https://www.cnet.com/tech/gaming/gta-6-black-friday-monitor-deals/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to CNET.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Get Ready for GTA 6 on PC With These Black Friday Monitor Deals From Just $75 - CNET.`,
+    primary_source: `CNET`,
+  },
+  {
+    id: 98073,
+    title: `500-इंच तक की डिस्प्ले वाला 4K लेजर प्रोजेक्टर हुआ लॉन्च, घर में मिलेगा सिनेमा का एक्सपीरियंस - Jagran`,
+    slug: `500-4k-jagran-2026`,
+    original_title: `500-इंच तक की डिस्प्ले वाला 4K लेजर प्रोजेक्टर हुआ लॉन्च, घर में मिलेगा सिनेमा का एक्सपीरियंस - Jagran`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:12Z`,
+    updated_at: `2026-11-27T14:05:12Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/technology/tech-news-epson-korea-launches-two-4k-laser-projectors-with-500inch-displays-40450188.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/500-4k-jagran-2026.webp`,
+    image_alt: `500-इंच तक की डिस्प्ले वाला 4K लेजर प्रोजेक्टर हुआ लॉन्च, घर में मिलेगा सिनेमा का एक्सपीरियंस - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Epson Korea ने दो नए 4K लेजर होम सिनेमा प्रोजेक्टर EH-LS7000 और EH-LS5000 लॉन्च किए हैं।`,
+    content: `Epson Korea ने दो नए 4K लेजर होम सिनेमा प्रोजेक्टर EH-LS7000 और EH-LS5000 लॉन्च किए हैं।
+
+Epson ने लॉन्च किए 4K लेजर होम सिनेमा प्रोजेक्टर, मिलेगा 500 इंच का शानदार अनुभव
+
+Epson ने दो नए 4K लेजर प्रोजेक्टर लॉन्च किए।
+
+ये प्रोजेक्टर 500 इंच तक की डिस्प्ले देते हैं।
+
+AI सुपर स्केल और HDR10 जैसे फीचर्स शामिल हैं।
+
+टेक्नोलॉजी डेस्क, नई दिल्ली। Epson Korea ने दो 4K लेजर होम सिनेमा प्रोजेक्टर EH-LS7000 और EH-LS5000 लॉन्च किए हैं। ये दोनों प्रोजेक्टर 500 इंच की डिस्प्ले ऑफर करते हैं, जो 4K (3,840 x 2,160) मॉडल हैं, जो लेजर लाइस सोर्स के साथ आता है। EH-LS7000 प्रोजेक्टर 3,600 ISO लूमिन्स और EH-LS5000 प्रोजेक्टर 2,500 ISO लूमिन्स ऑफर करता है।
+
+Epson Korea के EH-LS7000 प्रोजेक्टर की लूमिन्स 3,600 ISO और कॉन्ट्रास्ट रेश्यो 5,000,000:1 है। इसके साथ ही EH-LS5000 प्रोजेक्टर की लूमिन्स 2,500 ISO और कॉन्ट्रास्ट रेश्यो 3,000,000:1 है। Epson का कहना है कि नॉर्मल मोड में प्रोजक्टर 20,000 घंटे लाइट ऑफर करने के लिए डिजाइन कर सकते हैं। इसके साथ ही कंपनी का दावा है कि कलर ब्राइटनेस और कलर गौमट सिंगल चिप DLP प्रोजेक्टर के मुकाबले तीन गुना बेहतर है। इन प्रोजेक्टर में लोवर रेजोल्यूशन कंटेंट की डिटेल को शार्प करने के लिए AI Super से स्केल किया जा सकता है।
+
+इसके साथ ही AI PQ Scene 2.0+, AI कॉन्ट्रास्ट, और MEMC मोशन कॉम्पेन्सेशन दिया गया है, जो फिल्म से सीन को नेचुरल दिखाता है। इसके साथ ही गेम और स्पोर्ट्स के फुटेज स्मूद करता है। प्रोजेक्टर में HDR10, HLG, और डायनमिक टोन मैपिंग का सपोर्ट मिलता है। इन प्रोजेक्टर में कंपनी ने HDMI पोर्ट के साथ eARC मिलते हैं। इन प्रोजेक्टर के स्क्रीन साइज को 40 इंच (102 cm) से 500 इंच (1,270 cm) तक सेट किया जा सकता है। इनका थ्रो 1.1 मीटर से 14.7 मीटर है। इन प्रोजेक्टर को लीविंग रूम में सिनेमा सेटअप एक्सपीरियंस किया जा सकता है।
+
+इस प्रोजेक्टर के सेंटर लेंस को वर्टिकल 59 प्रतिशत और 21 प्रतिशत हॉरिजेंटल शिफ्ट किया जा सकता है। यानी बिना चेसिस को मूव किए इमेज को संरेखित किया जा सकता है। इसके साथ ही कंपनी सीलिंग माउंट और दूसरे एक्सेसरीज भी ऑफर करती है। इस प्रोजेक्टर के फैन का साउंड नॉर्मल मोड में 25 dB है, जो पिछले मॉडल से 10 dB कम है। इको मोड में नॉइस 22 dB है। यूजर्स प्रोजेक्टर से हेडफोन या साउंडबार कनेक्ट कर सकता है।
+
+यह भी पढ़ें- Redmi K100 सीरीज का अपकमिंग फ्लैगशिप फोन, Snapdragon 8 Elite Gen 6 और ट्रिपल 50MP कैमरा से होगा लैस
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/technology/tech-news-epson-korea-launches-two-4k-laser-projectors-with-500inch-displays-40450188.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `500-इंच तक की डिस्प्ले वाला 4K लेजर प्रोजेक्टर हुआ लॉन्च, घर में मिलेगा सिनेमा का एक्सपीरियंस - Jagran`,
+    summary_hi: `Epson Korea ने दो नए 4K लेजर होम सिनेमा प्रोजेक्टर EH-LS7000 और EH-LS5000 लॉन्च किए हैं।`,
+    content_hi: `Epson Korea ने दो नए 4K लेजर होम सिनेमा प्रोजेक्टर EH-LS7000 और EH-LS5000 लॉन्च किए हैं।
+
+Epson ने लॉन्च किए 4K लेजर होम सिनेमा प्रोजेक्टर, मिलेगा 500 इंच का शानदार अनुभव
+
+Epson ने दो नए 4K लेजर प्रोजेक्टर लॉन्च किए।
+
+ये प्रोजेक्टर 500 इंच तक की डिस्प्ले देते हैं।
+
+AI सुपर स्केल और HDR10 जैसे फीचर्स शामिल हैं।
+
+टेक्नोलॉजी डेस्क, नई दिल्ली। Epson Korea ने दो 4K लेजर होम सिनेमा प्रोजेक्टर EH-LS7000 और EH-LS5000 लॉन्च किए हैं। ये दोनों प्रोजेक्टर 500 इंच की डिस्प्ले ऑफर करते हैं, जो 4K (3,840 x 2,160) मॉडल हैं, जो लेजर लाइस सोर्स के साथ आता है। EH-LS7000 प्रोजेक्टर 3,600 ISO लूमिन्स और EH-LS5000 प्रोजेक्टर 2,500 ISO लूमिन्स ऑफर करता है।
+
+Epson Korea के EH-LS7000 प्रोजेक्टर की लूमिन्स 3,600 ISO और कॉन्ट्रास्ट रेश्यो 5,000,000:1 है। इसके साथ ही EH-LS5000 प्रोजेक्टर की लूमिन्स 2,500 ISO और कॉन्ट्रास्ट रेश्यो 3,000,000:1 है। Epson का कहना है कि नॉर्मल मोड में प्रोजक्टर 20,000 घंटे लाइट ऑफर करने के लिए डिजाइन कर सकते हैं। इसके साथ ही कंपनी का दावा है कि कलर ब्राइटनेस और कलर गौमट सिंगल चिप DLP प्रोजेक्टर के मुकाबले तीन गुना बेहतर है। इन प्रोजेक्टर में लोवर रेजोल्यूशन कंटेंट की डिटेल को शार्प करने के लिए AI Super से स्केल किया जा सकता है।
+
+इसके साथ ही AI PQ Scene 2.0+, AI कॉन्ट्रास्ट, और MEMC मोशन कॉम्पेन्सेशन दिया गया है, जो फिल्म से सीन को नेचुरल दिखाता है। इसके साथ ही गेम और स्पोर्ट्स के फुटेज स्मूद करता है। प्रोजेक्टर में HDR10, HLG, और डायनमिक टोन मैपिंग का सपोर्ट मिलता है। इन प्रोजेक्टर में कंपनी ने HDMI पोर्ट के साथ eARC मिलते हैं। इन प्रोजेक्टर के स्क्रीन साइज को 40 इंच (102 cm) से 500 इंच (1,270 cm) तक सेट किया जा सकता है। इनका थ्रो 1.1 मीटर से 14.7 मीटर है। इन प्रोजेक्टर को लीविंग रूम में सिनेमा सेटअप एक्सपीरियंस किया जा सकता है।
+
+इस प्रोजेक्टर के सेंटर लेंस को वर्टिकल 59 प्रतिशत और 21 प्रतिशत हॉरिजेंटल शिफ्ट किया जा सकता है। यानी बिना चेसिस को मूव किए इमेज को संरेखित किया जा सकता है। इसके साथ ही कंपनी सीलिंग माउंट और दूसरे एक्सेसरीज भी ऑफर करती है। इस प्रोजेक्टर के फैन का साउंड नॉर्मल मोड में 25 dB है, जो पिछले मॉडल से 10 dB कम है। इको मोड में नॉइस 22 dB है। यूजर्स प्रोजेक्टर से हेडफोन या साउंडबार कनेक्ट कर सकता है।
+
+यह भी पढ़ें- Redmi K100 सीरीज का अपकमिंग फ्लैगशिप फोन, Snapdragon 8 Elite Gen 6 और ट्रिपल 50MP कैमरा से होगा लैस
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/technology/tech-news-epson-korea-launches-two-4k-laser-projectors-with-500inch-displays-40450188.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक 500-इंच तक की डिस्प्ले वाला 4K लेजर प्रोजेक्टर हुआ लॉन्च, घर में मिलेगा सिनेमा का एक्सपीरियंस - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+  {
+    id: 98074,
+    title: `Flipkart Black Friday Sale: 15999 रुपये में मिल रहा Vivo का 6500mAh बैटरी वाला फोन - India TV Hindi`,
+    slug: `flipkart-black-friday-sale-15999-vivo-6500mah-india-tv-hindi-2026`,
+    original_title: `Flipkart Black Friday Sale: 15999 रुपये में मिल रहा Vivo का 6500mAh बैटरी वाला फोन - India TV Hindi`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:14Z`,
+    updated_at: `2026-11-27T14:05:14Z`,
+    source_name: `India TV Hindi`,
+    source_url: `https://www.indiatv.in/gallery/technology-flipkart-black-friday-sale-vivo-t5-lite-5g-with-6500mah-battery-discount-offer-2026-11-27-1256721`,
+    source_courtesy: `Source: India TV Hindi`,
+    image_url: `/images/articles/flipkart-black-friday-sale-15999-vivo-6500mah-india-tv-hindi-2026.webp`,
+    image_alt: `Flipkart Black Friday Sale: 15999 रुपये में मिल रहा Vivo का 6500mAh बैटरी वाला फोन - India TV Hindi`,
+    image_courtesy: `Image: India TV Hindi (External Source Attribution)`,
+    image_photographer: `India TV Hindi`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Flipkart पर चल रही Black Friday Sale में Vivo के इस साल लॉन्च हुए बजट फ्रेंडली फोन को काफी सस्ते में खरीदा जा सकता है। वीवो ने इस फोन को कुछ महीने पहले ही पेश किया था। फोन में 6500mAh बैटरी, मिलिट्री ग्रेड ड्यूरेबिलिटी जैसे फीचर्स दिए गए है`,
+    content: `Flipkart पर चल रही Black Friday Sale में Vivo के इस साल लॉन्च हुए बजट फ्रेंडली फोन को काफी सस्ते में खरीदा जा सकता है। वीवो ने इस फोन को कुछ महीने पहले ही पेश किया था। फोन में 6500mAh बैटरी, मिलिट्री ग्रेड ड्यूरेबिलिटी जैसे फीचर्स दिए गए हैं। Vivo T5 Lite फ्लिपकार्ट पर दो स्टोरेज वेरिएंट्स- 4GB + 64GB और 4GB + 128GB में सेल के लिए उपलब्ध है।
+
+फोन की खरीद पर 2,000 रुपये का डिस्काउंट ऑफर किया जा रहा है। यह फोन 17,999 रुपये की शुरुआती कीमत में लिस्ट किया गया है। सेल में यह 15,999 रुपये की शुरुआती कीमत में मिलेगा। चीनी कंपनी का यह फोन 6.74 इंच का HD+ डिस्प्ले के साथ आता है। फोन का डिस्प्ले 120Hz रिफ्रेश रेट को सपोर्ट करता है।
+
+फोन में मिलिट्री ग्रेड  MIL-STD ड्यूरेबिलिटी मिलती है और यह IP65  रेटेड है, जिसकी वजह से फोन पानी और धूल-मिट्टी में भी सुरक्षित रहता है। इस फोन मे कंपनी ने MediaTek Dimensity 6300 चिपसेट यूज किया है। यह फोन 6GB RAM और 256GB तक स्टोरेज को सपोर्ट करता है। फोन में 6,500mAh की बैटरी मिलती है, जिसके साथ 44W वायर्ड फास्ट चार्जिंग फीचर मिलेगा।
+
+Vivo T5 Lite के बैक में 50MP का मेन और एक सेकेंडरी कैमरा दिया गया है। सेल्फी और वीडियो कॉलिंग के लिए इसमें 5MP का कैमरा मिलेगा। फोन Android 16 पर बेस्ड OriginOS 6 पर काम करता है। इस फोन में कनेक्टिविटी के लिए WiFi, Bluetooth, 5G जैसे फीचर्स दिए गए हैं।
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/gallery/technology-flipkart-black-friday-sale-vivo-t5-lite-5g-with-6500mah-battery-discount-offer-2026-11-27-1256721)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Flipkart Black Friday Sale: 15999 रुपये में मिल रहा Vivo का 6500mAh बैटरी वाला फोन - India TV Hindi`,
+    summary_hi: `Flipkart पर चल रही Black Friday Sale में Vivo के इस साल लॉन्च हुए बजट फ्रेंडली फोन को काफी सस्ते में खरीदा जा सकता है। वीवो ने इस फोन को कुछ महीने पहले ही पेश किया था। फोन में 6500mAh बैटरी, मिलिट्री ग्रेड ड्यूरेबिलिटी जैसे फीचर्स दिए गए है`,
+    content_hi: `Flipkart पर चल रही Black Friday Sale में Vivo के इस साल लॉन्च हुए बजट फ्रेंडली फोन को काफी सस्ते में खरीदा जा सकता है। वीवो ने इस फोन को कुछ महीने पहले ही पेश किया था। फोन में 6500mAh बैटरी, मिलिट्री ग्रेड ड्यूरेबिलिटी जैसे फीचर्स दिए गए हैं। Vivo T5 Lite फ्लिपकार्ट पर दो स्टोरेज वेरिएंट्स- 4GB + 64GB और 4GB + 128GB में सेल के लिए उपलब्ध है।
+
+फोन की खरीद पर 2,000 रुपये का डिस्काउंट ऑफर किया जा रहा है। यह फोन 17,999 रुपये की शुरुआती कीमत में लिस्ट किया गया है। सेल में यह 15,999 रुपये की शुरुआती कीमत में मिलेगा। चीनी कंपनी का यह फोन 6.74 इंच का HD+ डिस्प्ले के साथ आता है। फोन का डिस्प्ले 120Hz रिफ्रेश रेट को सपोर्ट करता है।
+
+फोन में मिलिट्री ग्रेड  MIL-STD ड्यूरेबिलिटी मिलती है और यह IP65  रेटेड है, जिसकी वजह से फोन पानी और धूल-मिट्टी में भी सुरक्षित रहता है। इस फोन मे कंपनी ने MediaTek Dimensity 6300 चिपसेट यूज किया है। यह फोन 6GB RAM और 256GB तक स्टोरेज को सपोर्ट करता है। फोन में 6,500mAh की बैटरी मिलती है, जिसके साथ 44W वायर्ड फास्ट चार्जिंग फीचर मिलेगा।
+
+Vivo T5 Lite के बैक में 50MP का मेन और एक सेकेंडरी कैमरा दिया गया है। सेल्फी और वीडियो कॉलिंग के लिए इसमें 5MP का कैमरा मिलेगा। फोन Android 16 पर बेस्ड OriginOS 6 पर काम करता है। इस फोन में कनेक्टिविटी के लिए WiFi, Bluetooth, 5G जैसे फीचर्स दिए गए हैं।
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/gallery/technology-flipkart-black-friday-sale-vivo-t5-lite-5g-with-6500mah-battery-discount-offer-2026-11-27-1256721)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट India TV Hindi के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Flipkart Black Friday Sale: 15999 रुपये में मिल रहा Vivo का 6500mAh बैटरी वाला फोन - India TV Hindi से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `India TV Hindi`,
+  },
+  {
+    id: 98075,
+    title: `How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region - Al Jazeera`,
+    slug: `how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-re-2026`,
+    original_title: `How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region - Al Jazeera`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:17Z`,
+    updated_at: `2026-11-27T14:05:17Z`,
+    source_name: `Al Jazeera`,
+    source_url: `https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region`,
+    source_courtesy: `Source: Al Jazeera`,
+    image_url: `/images/articles/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-re-2026.webp`,
+    image_alt: `How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region - Al Jazeera`,
+    image_courtesy: `Image: Al Jazeera (External Source Attribution)`,
+    image_photographer: `Al Jazeera`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `Prime Minister al-Zaidi’s move to take control of border crossings and oilfields has drawn a sharp response from Erbil.`,
+    content: `Prime Minister al-Zaidi’s move to take control of border crossings and oilfields has drawn a sharp response from Erbil.
+
+Iraq’s federal government and the semi-autonomous Kurdish region are locked in their sharpest confrontation in years over who controls the country’s oil , its border crossings and the revenues that flow from them.
+
+The crisis escalated this week. Prime Minister Ali al-Zaidi ordered federal authorities to take over all border crossings in the northern Kurdish region, close unofficial crossings used for smuggling, and seize control of oilfields in disputed provinces held by Kurdish security forces. Within 24 hours, Iraq’s Federal Supreme Court had issued a ruling backing Baghdad’s powers.
+
+The Kurdistan Regional Government (KRG) has called the measures a violation of the constitution and accused Baghdad of trying to return Iraq to centralisation. On Wednesday, as reports spread that army units were heading north, the government in Baghdad insisted it had no plans to send troops into the region.
+
+Here is what we know about the dispute, and where it could be headed.
+
+On the surface, the dispute is about oil smuggling.
+
+On Tuesday, al-Zaidi ordered the Border Ports Authority to take over all crossings into the Kurdish region and directed the closure of all unofficial crossings. He told the energy police to secure all oilfields. He also ordered the federal Oil Ministry to take over the management of fields in Kirkuk, Nineveh, Salahuddin and Diyala provinces.
+
+Those provinces lie in a belt of territory that both Baghdad and Erbil claim. The 2005 constitution set out a process under Article 140 to settle their status, but it was never completed.
+
+Kirkuk, home to some of Iraq’s largest oilfields, has been the most bitterly contested. Kurdish forces took control of the city in 2014 after the Iraqi army withdrew from conflict with ISIL (ISIS). Federal forces retook it in October 2017, after the Kurdish region held an independence referendum which Iraq’s Federal Supreme Court later declared unconstitutional and void.
+
+Al Jazeera correspondent Suhaib al-Asa has reported that the oil sites named in this week’s order are, in practice, outside the semi-autonomous Kurdish region but still under the control of its security forces.
+
+The court ruling raised the stakes further. In an interpretive decision, the Federal Supreme Court affirmed the federal government’s authority to secure Iraq’s international borders and deploy the armed forces across all Iraqi territory. The court said federal authorities could supervise border crossings, including those in the Kurdish region. It also confirmed Baghdad’s power to oversee the production and export of oil and gas, as well as oil and non-oil revenues.
+
+Both sides have framed the dispute as a constitutional battle, said Tallha Abdulrazaq, an independent international security and defence consultant based in the United Kingdom. Baghdad cites federal authority over national wealth and borders under Articles 110 and 112, while Erbil invokes shared customs administration and regional autonomy under Article 114.
+
+“Paradoxically, both sides are right,” Abdulrazaq told Al Jazeera. “Since its adoption in 2005, Iraq’s constitution has contained contradictory and ambiguous provisions on oil and border management, making it a recurring recipe for political chaos.”
+
+### What has the Iraqi government said?
+
+Baghdad presents its measures as a campaign against corruption and smuggling , not a move against the Kurds.
+
+“National sovereignty is indivisible,” said al-Zaidi, who is also commander-in-chief of the armed forces. He described protecting Iraq’s wealth as “a battle for existence” in which the state would put an end to all forms of smuggling.
+
+The orders follow an investigation into smuggling at the state-run North Oil Company. Al-Zaidi also dismissed eight security and administrative officials, including the head of the Border Ports Authority, Kirkuk’s operations commander and the province’s police chief.
+
+Government spokesperson Haidar al-Aboudi told state broadcaster Al-Iraqiya on Wednesday that there was “no truth” to reports of troops moving towards the region. He said al-Zaidi was committed to “protecting the people of the region, not threatening them”. He added that the salaries of the Kurdish region’s public employees would be secured in the 2027 budget.
+
+Baghdad is framing the measures as part of a wider drive to secure state security. Earlier this month, Iraqi forces entered Jurf al-Sakhar, south of Baghdad, a longtime stronghold of the Iran-aligned armed group Kataib Hezbollah. According to Reuters, the group allowed the forces in under a settlement brokered by politicians.
+
+Abdulrazaq said al-Zaidi was justified “on the narrow facts”. “Oil smuggling across unofficial crossings is real and well-documented. However, smuggling is the pretext,” he said.
+
+The security and defence consultant described the escalation as “largely a calculated domestic manoeuvre”. In Jurf al-Sakhar, al-Zaidi faces steep hurdles, he said. Rebuilding the town, returning Sunni Arab residents displaced for 12 years and fully expelling Kataib Hezbollah all risk triggering an intra-Shia clash.
+
+“A controlled dispute with the Kurdistan Regional Government carries far lower political costs for Baghdad than an armed confrontation among Shia factions,” he said.
+
+Al-Zaidi also needs to show his Shia coalition partners and armed factions that “he is decisive with everyone, not just selectively targeting some Shia militias”, Abdulrazaq added. He suggested a hard line towards the Kurds “may even have been an explicit demand from those factions” at the height of the Jurf al-Sakhar standoff.
+
+Oil is the backbone of Iraq’s economy. It accounts for the overwhelming majority of state revenue and pays the salaries of millions of public employees, including those in the semi-autonomous Kurdish region.
+
+Baghdad claims smuggling is draining that wealth on a large scale. Al-Aboudi said tens of billions had gone into “private pockets and accounts” without benefiting the region’s residents. According to Al Jazeera’s al-Asa, the government estimates that 200,000 to 230,000 barrels of oil per day (bpd) are smuggled, worth about $200m a month.
+
+Al-Asa has reported that oil is moved from the disputed provinces to other parts of Iraq and then abroad, or sent directly from Sulaimaniyah, Kirkuk and Erbil towards Iran. Most of the region’s unofficial crossings are on the Iranian border, he said.
+
+The Iraqi News Agency has published excerpts from a government intelligence report which traces smuggling routes from Kirkuk and Sulaimaniyah to Iran and on to Afghanistan. The report also describes operations to disguise Iranian oil products so they can be passed off as Iraqi.
+
+For Erbil, control of oil has been central to its autonomous status. In February 2022, the Federal Supreme Court ruled the region’s oil and gas law unconstitutional. The Kurdish region, which has enjoyed broad autonomy from Baghdad since the 1990s, has in the past ignored rulings by the federal court, and did so with that one.
+
+The region’s independent exports suffered a major blow in March 2023 when the Kirkuk-Ceyhan pipeline was halted after the International Chamber of Commerce in Paris ordered Turkiye to pay Iraq $1.5bn in damages over unauthorised crude oil exports from Iraq’s Kurdish region transported without Baghdad’s approval. Exports resumed in September 2025 under an interim deal between Iraq’s federal government, the KRG and foreign oil producers .
+
+Revenue from border crossings matters, too. Salim Zakhour, a researcher in constitutional law and political systems who is based in Qatar, told Al Jazeera: “One of the key points of debate in the court’s decision is that it gave federal authorities oversight of revenues from non-oil fees and taxes, and I think this is one of the issues that could be contested in the court’s rulings.”
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region)`,
+    title_en: `How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region - Al Jazeera`,
+    summary_en: `Prime Minister al-Zaidi’s move to take control of border crossings and oilfields has drawn a sharp response from Erbil.`,
+    content_en: `Prime Minister al-Zaidi’s move to take control of border crossings and oilfields has drawn a sharp response from Erbil.
+
+Iraq’s federal government and the semi-autonomous Kurdish region are locked in their sharpest confrontation in years over who controls the country’s oil , its border crossings and the revenues that flow from them.
+
+The crisis escalated this week. Prime Minister Ali al-Zaidi ordered federal authorities to take over all border crossings in the northern Kurdish region, close unofficial crossings used for smuggling, and seize control of oilfields in disputed provinces held by Kurdish security forces. Within 24 hours, Iraq’s Federal Supreme Court had issued a ruling backing Baghdad’s powers.
+
+The Kurdistan Regional Government (KRG) has called the measures a violation of the constitution and accused Baghdad of trying to return Iraq to centralisation. On Wednesday, as reports spread that army units were heading north, the government in Baghdad insisted it had no plans to send troops into the region.
+
+Here is what we know about the dispute, and where it could be headed.
+
+On the surface, the dispute is about oil smuggling.
+
+On Tuesday, al-Zaidi ordered the Border Ports Authority to take over all crossings into the Kurdish region and directed the closure of all unofficial crossings. He told the energy police to secure all oilfields. He also ordered the federal Oil Ministry to take over the management of fields in Kirkuk, Nineveh, Salahuddin and Diyala provinces.
+
+Those provinces lie in a belt of territory that both Baghdad and Erbil claim. The 2005 constitution set out a process under Article 140 to settle their status, but it was never completed.
+
+Kirkuk, home to some of Iraq’s largest oilfields, has been the most bitterly contested. Kurdish forces took control of the city in 2014 after the Iraqi army withdrew from conflict with ISIL (ISIS). Federal forces retook it in October 2017, after the Kurdish region held an independence referendum which Iraq’s Federal Supreme Court later declared unconstitutional and void.
+
+Al Jazeera correspondent Suhaib al-Asa has reported that the oil sites named in this week’s order are, in practice, outside the semi-autonomous Kurdish region but still under the control of its security forces.
+
+The court ruling raised the stakes further. In an interpretive decision, the Federal Supreme Court affirmed the federal government’s authority to secure Iraq’s international borders and deploy the armed forces across all Iraqi territory. The court said federal authorities could supervise border crossings, including those in the Kurdish region. It also confirmed Baghdad’s power to oversee the production and export of oil and gas, as well as oil and non-oil revenues.
+
+Both sides have framed the dispute as a constitutional battle, said Tallha Abdulrazaq, an independent international security and defence consultant based in the United Kingdom. Baghdad cites federal authority over national wealth and borders under Articles 110 and 112, while Erbil invokes shared customs administration and regional autonomy under Article 114.
+
+“Paradoxically, both sides are right,” Abdulrazaq told Al Jazeera. “Since its adoption in 2005, Iraq’s constitution has contained contradictory and ambiguous provisions on oil and border management, making it a recurring recipe for political chaos.”
+
+### What has the Iraqi government said?
+
+Baghdad presents its measures as a campaign against corruption and smuggling , not a move against the Kurds.
+
+“National sovereignty is indivisible,” said al-Zaidi, who is also commander-in-chief of the armed forces. He described protecting Iraq’s wealth as “a battle for existence” in which the state would put an end to all forms of smuggling.
+
+The orders follow an investigation into smuggling at the state-run North Oil Company. Al-Zaidi also dismissed eight security and administrative officials, including the head of the Border Ports Authority, Kirkuk’s operations commander and the province’s police chief.
+
+Government spokesperson Haidar al-Aboudi told state broadcaster Al-Iraqiya on Wednesday that there was “no truth” to reports of troops moving towards the region. He said al-Zaidi was committed to “protecting the people of the region, not threatening them”. He added that the salaries of the Kurdish region’s public employees would be secured in the 2027 budget.
+
+Baghdad is framing the measures as part of a wider drive to secure state security. Earlier this month, Iraqi forces entered Jurf al-Sakhar, south of Baghdad, a longtime stronghold of the Iran-aligned armed group Kataib Hezbollah. According to Reuters, the group allowed the forces in under a settlement brokered by politicians.
+
+Abdulrazaq said al-Zaidi was justified “on the narrow facts”. “Oil smuggling across unofficial crossings is real and well-documented. However, smuggling is the pretext,” he said.
+
+The security and defence consultant described the escalation as “largely a calculated domestic manoeuvre”. In Jurf al-Sakhar, al-Zaidi faces steep hurdles, he said. Rebuilding the town, returning Sunni Arab residents displaced for 12 years and fully expelling Kataib Hezbollah all risk triggering an intra-Shia clash.
+
+“A controlled dispute with the Kurdistan Regional Government carries far lower political costs for Baghdad than an armed confrontation among Shia factions,” he said.
+
+Al-Zaidi also needs to show his Shia coalition partners and armed factions that “he is decisive with everyone, not just selectively targeting some Shia militias”, Abdulrazaq added. He suggested a hard line towards the Kurds “may even have been an explicit demand from those factions” at the height of the Jurf al-Sakhar standoff.
+
+Oil is the backbone of Iraq’s economy. It accounts for the overwhelming majority of state revenue and pays the salaries of millions of public employees, including those in the semi-autonomous Kurdish region.
+
+Baghdad claims smuggling is draining that wealth on a large scale. Al-Aboudi said tens of billions had gone into “private pockets and accounts” without benefiting the region’s residents. According to Al Jazeera’s al-Asa, the government estimates that 200,000 to 230,000 barrels of oil per day (bpd) are smuggled, worth about $200m a month.
+
+Al-Asa has reported that oil is moved from the disputed provinces to other parts of Iraq and then abroad, or sent directly from Sulaimaniyah, Kirkuk and Erbil towards Iran. Most of the region’s unofficial crossings are on the Iranian border, he said.
+
+The Iraqi News Agency has published excerpts from a government intelligence report which traces smuggling routes from Kirkuk and Sulaimaniyah to Iran and on to Afghanistan. The report also describes operations to disguise Iranian oil products so they can be passed off as Iraqi.
+
+For Erbil, control of oil has been central to its autonomous status. In February 2022, the Federal Supreme Court ruled the region’s oil and gas law unconstitutional. The Kurdish region, which has enjoyed broad autonomy from Baghdad since the 1990s, has in the past ignored rulings by the federal court, and did so with that one.
+
+The region’s independent exports suffered a major blow in March 2023 when the Kirkuk-Ceyhan pipeline was halted after the International Chamber of Commerce in Paris ordered Turkiye to pay Iraq $1.5bn in damages over unauthorised crude oil exports from Iraq’s Kurdish region transported without Baghdad’s approval. Exports resumed in September 2025 under an interim deal between Iraq’s federal government, the KRG and foreign oil producers .
+
+Revenue from border crossings matters, too. Salim Zakhour, a researcher in constitutional law and political systems who is based in Qatar, told Al Jazeera: “One of the key points of debate in the court’s decision is that it gave federal authorities oversight of revenues from non-oil fees and taxes, and I think this is one of the issues that could be contested in the court’s rulings.”
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Al Jazeera.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region - Al Jazeera.`,
+    primary_source: `Al Jazeera`,
+  },
+  {
+    id: 98076,
+    title: `Italians killed in Kuwait: Why is Iran denying responsibility? - Al Jazeera`,
+    slug: `italians-killed-in-kuwait-why-is-iran-denying-responsibility-al-jazeer-2026`,
+    original_title: `Italians killed in Kuwait: Why is Iran denying responsibility? - Al Jazeera`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:18Z`,
+    updated_at: `2026-11-27T14:05:18Z`,
+    source_name: `Al Jazeera`,
+    source_url: `https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility`,
+    source_courtesy: `Source: Al Jazeera`,
+    image_url: `/images/articles/italians-killed-in-kuwait-why-is-iran-denying-responsibility-al-jazeer-2026.webp`,
+    image_alt: `Italians killed in Kuwait: Why is Iran denying responsibility? - Al Jazeera`,
+    image_courtesy: `Image: Al Jazeera (External Source Attribution)`,
+    image_photographer: `Al Jazeera`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?`,
+    content: `Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?
+
+Two Italian technicians have been killed in a drone attack on a military site in Kuwait on Thursday, the first European civilians to die amid the United States-Israel war on Iran.
+
+Kuwait and Italy have both blamed Iran. Tehran, which has for the most part not denied, outright, strikes on US military assets hosted by its Gulf neighbours and described those attacks as self-defence, has this time denied any role and has suggested the strike was a “false-flag” operation.
+
+The denial has raised two questions: Who was behind the attack and, if it was Iran, why is it not taking responsibility?
+
+On Thursday, several drones targeted military installations in Kuwait, according to Italy’s Foreign Minister Antonio Tajani.
+
+Kuwait’s army initially described the target only as a “vital site”. Tajani later told the Italian Senate that it included an air-defence detection station where two technicians from Rheinmetall Italia, the Italian arm of the German defence company, were working.
+
+The men were named by Italian media as Antonio Saccoccio, 65, from Formia, and Emanuele Lo Russo, 36, from Rome. They were maintaining detection antennae for the Skyguard air defence system used by Kuwait’s armed forces.
+
+They were killed by falling shrapnel after the drones were intercepted, according to Kuwaiti and Italian reports. A Kuwaiti and a Pakistani national were injured.
+
+The two dead men are the first European civilians to be killed as a result of the US-Israel war on Iran since it began in late February. A French soldier was killed in a drone attack in Iraq in March.
+
+This was the first fatal strike on Kuwait in several months, although the country has been one of the hardest-hit Gulf states during the war. Its oil facilities, power infrastructure and airport have all been targeted at various points in the conflict. An Indian traveller was killed and 63 people were injured when drones hit Kuwait international airport on June 3 .
+
+Iran said it last struck Kuwait on November 18 .
+
+### What have Kuwait and Italy said about the latest incident?
+
+Both countries have blamed Iran for Thursday’s drone strike.
+
+Kuwait’s Foreign Ministry condemned what it called a “sinful” attack and said the country reserved its right to take all measures to protect its sovereignty and the security of its citizens and residents.
+
+After a call between Kuwait’s foreign minister and Tajani, the Kuwaiti ministry said the two had jointly condemned the strike.
+
+Tajani told the Italian parliament the drones were “of Iranian origin”. The Gulf Cooperation Council’s secretary-general, Jasem Albudaiwi, also condemned what he called a “brutal attack”.
+
+“The incident is suspicious and looks like a pre-cooked recipe for war,” Foreign Minister Abbas Araghchi wrote on X.
+
+Araghchi called both his Kuwaiti and Italian counterparts to deny Iranian involvement and offered to mount a joint investigation, according to Iran’s foreign ministry. As of Thursday evening, Kuwait had not publicly commented on the call with Araghchi.
+
+Armed forces spokesman Abolfazl Shekarchi, speaking for both the Islamic Revolutionary Guard Corps (IRGC) and the regular army, said Iranian forces had conducted “no military or offensive operations whatsoever” in the region. He called the attack a “false flag” operation, while a military statement accused the US and Israel of using it as cover for continued aggression.
+
+The Iranian embassy in Rome said it “categorically rejects the allegation”, suggesting the attack could have been staged to drag Europe into the Iran war.
+
+The denial stands out because Iran has rarely disowned its attacks since US-Israeli strikes began in February. In November alone, it issued five statements claiming strikes on neighbouring states, four of them on Bahrain and Kuwait.
+
+Tehran usually tries to justify those strikes as self-defence, arguing that it targets US bases from which Iran is attacked, not the countries that host them.
+
+This is not the first time Iran has denied an attack on Kuwait, however. When a power and desalination plant was hit on March 30 , killing an Indian worker, Iran also claimed that Israel was responsible.
+
+### What do we know about who launched the drones?
+
+Hassan Ahmadian, a professor of Middle East studies at the University of Tehran, said Iran’s record of claiming its strikes should be taken seriously.
+
+“Whenever the Iranians do something, they announce it,” he told Al Jazeera. “This time, as on three or four occasions during the war, they said, ‘This wasn’t us.'”
+
+He argued that Iran would have little reason to hide this attack. “They’ve struck the Americans,” he said. “Would they be afraid to announce they’d hit Italians?”
+
+Ahmadian said other parties in the region, such as Israel, might want to “complicate the situation” by blaming Iran, which he called “the ready-made party to blame”. He added that some in Iran also suspect Ukraine, which he argued has been trying to raise its strategic value to Washington.
+
+As the US ran down its stock of expensive Patriot missile interceptor systems against a barrage of cheap, mass-produced Iranian Shahed drones, Ukraine offered its expertise to the US in March on how to combat the drones, which are also used by Russia.
+
+Ahmadian said US involvement could not be ruled out either. Iran has previously told regional governments that the US was behind strikes on two sites during the war, he said.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility)`,
+    title_en: `Italians killed in Kuwait: Why is Iran denying responsibility? - Al Jazeera`,
+    summary_en: `Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?`,
+    content_en: `Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?
+
+Two Italian technicians have been killed in a drone attack on a military site in Kuwait on Thursday, the first European civilians to die amid the United States-Israel war on Iran.
+
+Kuwait and Italy have both blamed Iran. Tehran, which has for the most part not denied, outright, strikes on US military assets hosted by its Gulf neighbours and described those attacks as self-defence, has this time denied any role and has suggested the strike was a “false-flag” operation.
+
+The denial has raised two questions: Who was behind the attack and, if it was Iran, why is it not taking responsibility?
+
+On Thursday, several drones targeted military installations in Kuwait, according to Italy’s Foreign Minister Antonio Tajani.
+
+Kuwait’s army initially described the target only as a “vital site”. Tajani later told the Italian Senate that it included an air-defence detection station where two technicians from Rheinmetall Italia, the Italian arm of the German defence company, were working.
+
+The men were named by Italian media as Antonio Saccoccio, 65, from Formia, and Emanuele Lo Russo, 36, from Rome. They were maintaining detection antennae for the Skyguard air defence system used by Kuwait’s armed forces.
+
+They were killed by falling shrapnel after the drones were intercepted, according to Kuwaiti and Italian reports. A Kuwaiti and a Pakistani national were injured.
+
+The two dead men are the first European civilians to be killed as a result of the US-Israel war on Iran since it began in late February. A French soldier was killed in a drone attack in Iraq in March.
+
+This was the first fatal strike on Kuwait in several months, although the country has been one of the hardest-hit Gulf states during the war. Its oil facilities, power infrastructure and airport have all been targeted at various points in the conflict. An Indian traveller was killed and 63 people were injured when drones hit Kuwait international airport on June 3 .
+
+Iran said it last struck Kuwait on November 18 .
+
+### What have Kuwait and Italy said about the latest incident?
+
+Both countries have blamed Iran for Thursday’s drone strike.
+
+Kuwait’s Foreign Ministry condemned what it called a “sinful” attack and said the country reserved its right to take all measures to protect its sovereignty and the security of its citizens and residents.
+
+After a call between Kuwait’s foreign minister and Tajani, the Kuwaiti ministry said the two had jointly condemned the strike.
+
+Tajani told the Italian parliament the drones were “of Iranian origin”. The Gulf Cooperation Council’s secretary-general, Jasem Albudaiwi, also condemned what he called a “brutal attack”.
+
+“The incident is suspicious and looks like a pre-cooked recipe for war,” Foreign Minister Abbas Araghchi wrote on X.
+
+Araghchi called both his Kuwaiti and Italian counterparts to deny Iranian involvement and offered to mount a joint investigation, according to Iran’s foreign ministry. As of Thursday evening, Kuwait had not publicly commented on the call with Araghchi.
+
+Armed forces spokesman Abolfazl Shekarchi, speaking for both the Islamic Revolutionary Guard Corps (IRGC) and the regular army, said Iranian forces had conducted “no military or offensive operations whatsoever” in the region. He called the attack a “false flag” operation, while a military statement accused the US and Israel of using it as cover for continued aggression.
+
+The Iranian embassy in Rome said it “categorically rejects the allegation”, suggesting the attack could have been staged to drag Europe into the Iran war.
+
+The denial stands out because Iran has rarely disowned its attacks since US-Israeli strikes began in February. In November alone, it issued five statements claiming strikes on neighbouring states, four of them on Bahrain and Kuwait.
+
+Tehran usually tries to justify those strikes as self-defence, arguing that it targets US bases from which Iran is attacked, not the countries that host them.
+
+This is not the first time Iran has denied an attack on Kuwait, however. When a power and desalination plant was hit on March 30 , killing an Indian worker, Iran also claimed that Israel was responsible.
+
+### What do we know about who launched the drones?
+
+Hassan Ahmadian, a professor of Middle East studies at the University of Tehran, said Iran’s record of claiming its strikes should be taken seriously.
+
+“Whenever the Iranians do something, they announce it,” he told Al Jazeera. “This time, as on three or four occasions during the war, they said, ‘This wasn’t us.'”
+
+He argued that Iran would have little reason to hide this attack. “They’ve struck the Americans,” he said. “Would they be afraid to announce they’d hit Italians?”
+
+Ahmadian said other parties in the region, such as Israel, might want to “complicate the situation” by blaming Iran, which he called “the ready-made party to blame”. He added that some in Iran also suspect Ukraine, which he argued has been trying to raise its strategic value to Washington.
+
+As the US ran down its stock of expensive Patriot missile interceptor systems against a barrage of cheap, mass-produced Iranian Shahed drones, Ukraine offered its expertise to the US in March on how to combat the drones, which are also used by Russia.
+
+Ahmadian said US involvement could not be ruled out either. Iran has previously told regional governments that the US was behind strikes on two sites during the war, he said.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Al Jazeera.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Italians killed in Kuwait: Why is Iran denying responsibility? - Al Jazeera.`,
+    primary_source: `Al Jazeera`,
+  },
+  {
+    id: 98077,
+    title: `हूती विद्रोहियों पर टूट पड़ा सऊदी अरब, यमन में राजधानी सना समेत कई ठिकानों पर बमबारी - AajTak`,
+    slug: `world-breaking-report-96742-98077-2026`,
+    original_title: `हूती विद्रोहियों पर टूट पड़ा सऊदी अरब, यमन में राजधानी सना समेत कई ठिकानों पर बमबारी - AajTak`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:21Z`,
+    updated_at: `2026-11-27T14:05:21Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/world/story/saudi-arabi-strikes-houthi-controlled-parts-of-yemen-ntc-rmxk-dskc-2707186-2026-11-27`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b08bd8c61303-saudi-arabi-strikes-houthi-261523160.jpg`,
+    image_alt: `हूती विद्रोहियों पर टूट पड़ा सऊदी अरब, यमन में राजधानी सना समेत कई ठिकानों पर बमबारी - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `सऊदी अरब ने पलटवार करते हुए यमन में हूती विद्रोहियों के ठिकानों पर जबर्दस्त बमबारी की है. यमन के पश्चिमी और दक्षिण-पश्चिमी इलाकों में गुरुवार को सऊदी अरब के फाइटर जेट्स ने जमकर बम बरसाए. और पढ़ेंहूती विद्रोहियों ने इन हमलों के लिए सऊदी अरब `,
+    content: `सऊदी अरब ने पलटवार करते हुए यमन में हूती विद्रोहियों के ठिकानों पर जबर्दस्त बमबारी की है. यमन के पश्चिमी और दक्षिण-पश्चिमी इलाकों में गुरुवार को सऊदी अरब के फाइटर जेट्स ने जमकर बम बरसाए. और पढ़ेंहूती विद्रोहियों ने इन हमलों के लिए सऊदी अरब समर्थित सरकारी बलों को जिम्मेदार ठहराया है, जो विद्रोहियों के खिलाफ लड़ाई लड़ रहे हैं.
+
+संगठन के प्रवक्ता असबाही ने बताया कि ताइज प्रांत में कई हवाई हमलों में चार लोगों की मौत हो गई. इनमें एक बच्चा भी शामिल है.बताया जा रहा है कि यमन की राजधानी सना में भी सउदी ने हवाई हमले किए. सना के विद्रोहियों के कब्जे वाले इलाकों में रहने वाले लोगों ने भी रात के दौरान धमाकों की आवाज सुनने की बात कही.स्थानीय लोगों ने कहा, &#039;हमें समय-समय पर इन आवाजों को सहना पड़ता है.
+
+इनका हमारे बच्चों के स्वास्थ्य पर भी असर पड़ता है&#039;.ये ताजा हमले हूती विद्रोहियों और सऊदी अरब समर्थित सरकारी बलों के बीच दोबारा तेज हुई लड़ाई के बीच हुए हैं. Advertisement        इधर, गुरुवार को ही सऊदी अरब के ऊर्जा मंत्रालय ने बताया कि देश के दक्षिण-पश्चिमी हिस्से में स्थित तेल रिफाइनरी पर हुए हमले में नेपाल के एक कर्मचारी की मौत हो गई.बता दें कि सऊदी अरब के साथ संघर्ष तेज होने के बाद से हूती विद्रोही लगातार तेल प्रतिष्ठानों को निशाना बनाते रहे हैं.
+
+गुरुवार को ही जजान स्थित तेल रिफाइनरी पर हमला किया गया था. यह रिफाइनरी पहले भी हूती विद्रोहियों के निशाने पर रही है.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/saudi-arabi-strikes-houthi-controlled-parts-of-yemen-ntc-rmxk-dskc-2707186-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `हूती विद्रोहियों पर टूट पड़ा सऊदी अरब, यमन में राजधानी सना समेत कई ठिकानों पर बमबारी - AajTak`,
+    summary_hi: `सऊदी अरब ने पलटवार करते हुए यमन में हूती विद्रोहियों के ठिकानों पर जबर्दस्त बमबारी की है. यमन के पश्चिमी और दक्षिण-पश्चिमी इलाकों में गुरुवार को सऊदी अरब के फाइटर जेट्स ने जमकर बम बरसाए. और पढ़ेंहूती विद्रोहियों ने इन हमलों के लिए सऊदी अरब `,
+    content_hi: `सऊदी अरब ने पलटवार करते हुए यमन में हूती विद्रोहियों के ठिकानों पर जबर्दस्त बमबारी की है. यमन के पश्चिमी और दक्षिण-पश्चिमी इलाकों में गुरुवार को सऊदी अरब के फाइटर जेट्स ने जमकर बम बरसाए. और पढ़ेंहूती विद्रोहियों ने इन हमलों के लिए सऊदी अरब समर्थित सरकारी बलों को जिम्मेदार ठहराया है, जो विद्रोहियों के खिलाफ लड़ाई लड़ रहे हैं.
+
+संगठन के प्रवक्ता असबाही ने बताया कि ताइज प्रांत में कई हवाई हमलों में चार लोगों की मौत हो गई. इनमें एक बच्चा भी शामिल है.बताया जा रहा है कि यमन की राजधानी सना में भी सउदी ने हवाई हमले किए. सना के विद्रोहियों के कब्जे वाले इलाकों में रहने वाले लोगों ने भी रात के दौरान धमाकों की आवाज सुनने की बात कही.स्थानीय लोगों ने कहा, &#039;हमें समय-समय पर इन आवाजों को सहना पड़ता है.
+
+इनका हमारे बच्चों के स्वास्थ्य पर भी असर पड़ता है&#039;.ये ताजा हमले हूती विद्रोहियों और सऊदी अरब समर्थित सरकारी बलों के बीच दोबारा तेज हुई लड़ाई के बीच हुए हैं. Advertisement        इधर, गुरुवार को ही सऊदी अरब के ऊर्जा मंत्रालय ने बताया कि देश के दक्षिण-पश्चिमी हिस्से में स्थित तेल रिफाइनरी पर हुए हमले में नेपाल के एक कर्मचारी की मौत हो गई.बता दें कि सऊदी अरब के साथ संघर्ष तेज होने के बाद से हूती विद्रोही लगातार तेल प्रतिष्ठानों को निशाना बनाते रहे हैं.
+
+गुरुवार को ही जजान स्थित तेल रिफाइनरी पर हमला किया गया था. यह रिफाइनरी पहले भी हूती विद्रोहियों के निशाने पर रही है.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/saudi-arabi-strikes-houthi-controlled-parts-of-yemen-ntc-rmxk-dskc-2707186-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक हूती विद्रोहियों पर टूट पड़ा सऊदी अरब, यमन में राजधानी सना समेत कई ठिकानों पर बमबारी - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98078,
+    title: `सऊदी-तुर्की संग पाकिस्तान क्या करने जा रहा? इस्लामाबाद में बुलाई मीटिंग - AajTak`,
+    slug: `world-breaking-report-24980-98078-2026`,
+    original_title: `सऊदी-तुर्की संग पाकिस्तान क्या करने जा रहा? इस्लामाबाद में बुलाई मीटिंग - AajTak`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:25Z`,
+    updated_at: `2026-11-27T14:05:25Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/world/story/pakistan-saudi-arabia-turkiye-trilateral-defence-talks-islamabad-ntc-mnrd-smsr-2707953-2026-11-27`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b09653b8b36a-turkish-president-tayyip-erdogan--saudi-crown-prince-mohammed-bin-salman-and-pakistans-prime-minist-271050423.jpg`,
+    image_alt: `सऊदी-तुर्की संग पाकिस्तान क्या करने जा रहा? इस्लामाबाद में बुलाई मीटिंग - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `पश्चिम एशिया में बढ़ते तनाव और सऊदी अरब पर यमन के हूती विद्रोहियों के हमलों के बीच पाकिस्तान में शुक्रवार को एक अहम बैठक होने जा रही है. इस बैठक में पाकिस्तान, सऊदी अरब और तुर्किए के अधिकारी शामिल होंगे. तीनों देश एक रक्षा समझौते के तहत बात`,
+    content: `पश्चिम एशिया में बढ़ते तनाव और सऊदी अरब पर यमन के हूती विद्रोहियों के हमलों के बीच पाकिस्तान में शुक्रवार को एक अहम बैठक होने जा रही है. इस बैठक में पाकिस्तान, सऊदी अरब और तुर्किए के अधिकारी शामिल होंगे. तीनों देश एक रक्षा समझौते के तहत बातचीत करेंगे, जिसके मुताबिक किसी एक सदस्य देश पर हमला तीनों देशों पर हमला माना जाएगा.
+
+और पढ़ेंरिपोर्ट के मुताबिक, इस्लामाबाद में होने वाली बैठक में पश्चिम एशिया के हालात पर चर्चा होगी. इसमें ईरान समर्थित हूती विद्रोहियों की ओर से सऊदी अरब पर किए जा रहे हमले भी शामिल हैं. बैठक में तीनों देशों के वरिष्ठ राजनयिक, रक्षा और सैन्य अधिकारी हिस्सा लेंगे.यह भी पढ़ें: पठानकोट में भारत-पाकिस्तान बॉर्डर पर घुसपैठ की कोशिश, 120 मीटर अंदर तक आया पाकिस्तानी घुसपैठिया, BSF ने मार गिरायारक्षा सहयोग और खुफिया जानकारी साझा करने पर चर्चाबैठक में संभावित खतरों से निपटने, सैन्य सहयोग बढ़ाने, खुफिया जानकारी साझा करने और रक्षा उद्योग के बीच संबंध मजबूत करने पर बात होगी.
+
+पाकिस्तान के रक्षा मंत्री ख्वाजा मुहम्मद आसिफ, विदेश मंत्री इशाक डार और सेना प्रमुख फील्ड मार्शल असीम मुनीर भी इसमें शामिल होंगे.पाकिस्तान के रक्षा मंत्री आसिफ ने कहा है कि हूतियों के हमलों से सऊदी अरब की रक्षा के लिए पाकिस्तान हर उपलब्ध तरीके का इस्तेमाल करेगा. हालांकि, पाकिस्तान ने साफ किया है कि यह समझौता पूरी तरह रक्षात्मक है और ईरान समेत किसी भी देश के खिलाफ नहीं है.
+
+Advertisement        अगस्त में हुआ था तीनों देशों के बीच समझौतायह बैठक जॉइंट मक्का डिफेंस एग्रीमेंट के तहत बनाई गई रणनीतिक, राजनीतिक और रक्षा समिति की है. इस समझौते पर अगस्त में मक्का में सऊदी क्राउन प्रिंस मोहम्मद बिन सलमान, तुर्किए के राष्ट्रपति रेचेप तैयप एर्दोगन और पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने हस्ताक्षर किए थे.इससे पहले रियाद में हुई बैठक में तीनों देशों ने साझा रक्षा प्रतिबद्धताओं को तुरंत लागू करने की बात कही थी.
+
+इसमें सऊदी अरब में सहमति से तय सैन्य बलों और संसाधनों की तेजी से तैनाती की व्यवस्था भी शामिल है.यह भी पढ़ें: LoC पर भारत तैनात करेगा पांचवां S-400 एयर डिफेंस सिस्टम, चीन-पाकिस्तान की बढ़ेगी चुनौतीइस्लामाबाद में सुरक्षा के कड़े इंतजामबैठक के मद्देनजर इस्लामाबाद में स्थानीय अवकाश घोषित किया गया है.
+
+विदेशी प्रतिनिधिमंडलों की आवाजाही को देखते हुए ट्रैफिक पुलिस ने कई रास्तों पर बदलाव किए हैं. समझौते के तहत इसका सचिवालय सऊदी अरब में बनाया गया है और पाकिस्तान के रिटायर्ड जनरल नौमान महमूद को पहला महासचिव चुना गया है. यह समझौता 10 साल के लिए है. यह भी बता दिन कि मीटिंग की तारीख अभी तय नहीं की गई है.---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/pakistan-saudi-arabia-turkiye-trilateral-defence-talks-islamabad-ntc-mnrd-smsr-2707953-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `सऊदी-तुर्की संग पाकिस्तान क्या करने जा रहा? इस्लामाबाद में बुलाई मीटिंग - AajTak`,
+    summary_hi: `पश्चिम एशिया में बढ़ते तनाव और सऊदी अरब पर यमन के हूती विद्रोहियों के हमलों के बीच पाकिस्तान में शुक्रवार को एक अहम बैठक होने जा रही है. इस बैठक में पाकिस्तान, सऊदी अरब और तुर्किए के अधिकारी शामिल होंगे. तीनों देश एक रक्षा समझौते के तहत बात`,
+    content_hi: `पश्चिम एशिया में बढ़ते तनाव और सऊदी अरब पर यमन के हूती विद्रोहियों के हमलों के बीच पाकिस्तान में शुक्रवार को एक अहम बैठक होने जा रही है. इस बैठक में पाकिस्तान, सऊदी अरब और तुर्किए के अधिकारी शामिल होंगे. तीनों देश एक रक्षा समझौते के तहत बातचीत करेंगे, जिसके मुताबिक किसी एक सदस्य देश पर हमला तीनों देशों पर हमला माना जाएगा.
+
+और पढ़ेंरिपोर्ट के मुताबिक, इस्लामाबाद में होने वाली बैठक में पश्चिम एशिया के हालात पर चर्चा होगी. इसमें ईरान समर्थित हूती विद्रोहियों की ओर से सऊदी अरब पर किए जा रहे हमले भी शामिल हैं. बैठक में तीनों देशों के वरिष्ठ राजनयिक, रक्षा और सैन्य अधिकारी हिस्सा लेंगे.यह भी पढ़ें: पठानकोट में भारत-पाकिस्तान बॉर्डर पर घुसपैठ की कोशिश, 120 मीटर अंदर तक आया पाकिस्तानी घुसपैठिया, BSF ने मार गिरायारक्षा सहयोग और खुफिया जानकारी साझा करने पर चर्चाबैठक में संभावित खतरों से निपटने, सैन्य सहयोग बढ़ाने, खुफिया जानकारी साझा करने और रक्षा उद्योग के बीच संबंध मजबूत करने पर बात होगी.
+
+पाकिस्तान के रक्षा मंत्री ख्वाजा मुहम्मद आसिफ, विदेश मंत्री इशाक डार और सेना प्रमुख फील्ड मार्शल असीम मुनीर भी इसमें शामिल होंगे.पाकिस्तान के रक्षा मंत्री आसिफ ने कहा है कि हूतियों के हमलों से सऊदी अरब की रक्षा के लिए पाकिस्तान हर उपलब्ध तरीके का इस्तेमाल करेगा. हालांकि, पाकिस्तान ने साफ किया है कि यह समझौता पूरी तरह रक्षात्मक है और ईरान समेत किसी भी देश के खिलाफ नहीं है.
+
+Advertisement        अगस्त में हुआ था तीनों देशों के बीच समझौतायह बैठक जॉइंट मक्का डिफेंस एग्रीमेंट के तहत बनाई गई रणनीतिक, राजनीतिक और रक्षा समिति की है. इस समझौते पर अगस्त में मक्का में सऊदी क्राउन प्रिंस मोहम्मद बिन सलमान, तुर्किए के राष्ट्रपति रेचेप तैयप एर्दोगन और पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने हस्ताक्षर किए थे.इससे पहले रियाद में हुई बैठक में तीनों देशों ने साझा रक्षा प्रतिबद्धताओं को तुरंत लागू करने की बात कही थी.
+
+इसमें सऊदी अरब में सहमति से तय सैन्य बलों और संसाधनों की तेजी से तैनाती की व्यवस्था भी शामिल है.यह भी पढ़ें: LoC पर भारत तैनात करेगा पांचवां S-400 एयर डिफेंस सिस्टम, चीन-पाकिस्तान की बढ़ेगी चुनौतीइस्लामाबाद में सुरक्षा के कड़े इंतजामबैठक के मद्देनजर इस्लामाबाद में स्थानीय अवकाश घोषित किया गया है.
+
+विदेशी प्रतिनिधिमंडलों की आवाजाही को देखते हुए ट्रैफिक पुलिस ने कई रास्तों पर बदलाव किए हैं. समझौते के तहत इसका सचिवालय सऊदी अरब में बनाया गया है और पाकिस्तान के रिटायर्ड जनरल नौमान महमूद को पहला महासचिव चुना गया है. यह समझौता 10 साल के लिए है. यह भी बता दिन कि मीटिंग की तारीख अभी तय नहीं की गई है.---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/pakistan-saudi-arabia-turkiye-trilateral-defence-talks-islamabad-ntc-mnrd-smsr-2707953-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक सऊदी-तुर्की संग पाकिस्तान क्या करने जा रहा? इस्लामाबाद में बुलाई मीटिंग - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98079,
+    title: `IND vs NZ second Test: Blundell, Phillips take New Zealand to 246 after Akash Deep’s spirited spell`,
+    slug: `ind-vs-nz-second-test-blundell-phillips-take-new-zealand-to-246-after-2026`,
+    original_title: `IND vs NZ second Test: Blundell, Phillips take New Zealand to 246 after Akash Deep’s spirited spell`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:26Z`,
+    updated_at: `2026-11-27T14:05:26Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/sport/cricket/india-new-zealand-second-test-day-1-updates-november-27-2026/article71748299.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/ind-vs-nz-second-test-blundell-phillips-take-new-zealand-to-246-after-2026.jpg`,
+    image_alt: `IND vs NZ second Test: Blundell, Phillips take New Zealand to 246 after Akash Deep’s spirited spell`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `Christchurch For much of the opening session, India’s decision to bowl first at Hagley Oval appeared to have played into New Zealand’s hands. But a spirited spell from Akash Deep around the middle of the day, followed by a timely breakthrou`,
+    content: `Christchurch For much of the opening session, India’s decision to bowl first at Hagley Oval appeared to have played into New Zealand’s hands. But a spirited spell from Akash Deep around the middle of the day, followed by a timely breakthrough from Washington Sundar, ensured the hosts could not make the most of a promising start on the opening day of the second and final Test on Friday (November 27, 2026).
+
+New Zealand reached 246 for five at stumps, with Tom Blundell unbeaten on 53 and Glenn Phillips on 36 at Hagley Oval. The pair had added an unbroken 62 for the sixth wicket to help the hosts recover after India had reduced them from 110 for one to 110 for four in the space of 16 deliveries.
+
+On a bright morning, Shubman Gill had no hesitation in bowling after winning the toss for the 11th time in his 12 Tests. With the previous two days having been affected by rain, India hoped to exploit the moisture in the surface. However, its new-ball attack struggled to make an early impression.
+
+Also read | IND vs NZ second Test: Morne Morkel urges patience with Anshul Kamboj’s performance https://www.thehindu.com/sport/cricket/india-vs-new-zealand-second-test-in-christchurch-morne-morkel-quotes/article71745227.ece Tom Latham, who was dropped on 29 by K.L. Rahul at second slip off Akash, looked increasingly assured as the morning progressed.
+
+The New Zealand captain, who had survived an early lbw appeal against Jasprit Bumrah, made the most of the reprieve to reach 42 not out at lunch. Devon Conway, meanwhile, took 19 deliveries to get off the mark and was eventually dismissed off the final ball of the session, when debutant Gurnoor Brar jagged one back to hit the stumps.
+
+New Zealand went into the break at 77 for one. Brar, who became India’s 321st Test cricketer after replacing Prasidh Krishna, provided the breakthrough, but it was Akash who turned the tide in the second session. IND vs NZ second Test: Eyeing WTC finals, India hopes to replicate heroics and sign off with Test victory IND vs NZ second Test: Eyeing WTC finals, India hopes to replicate heroics and sign off with Test victory The memories of those back-to-back T20I victories at Hagley Oval will linger as India’s Test contingent looks to make its own mark over the next week IND vs NZ second Test: Eyeing WTC finals, India hopes to replicate heroics and sign off with Test victory storyline 1 The Bengal pacer, easily India’s most impressive bowler on the day, produced a probing spell that read 7-4-7-2.
+
+He first unsettled Latham with deliveries in the channel before eventually inducing an edge off a short ball. The ball ricocheted off the helmet and fell safely, but Akash did not have to wait long for his reward. A near-perfect delivery in the channel left the New Zealand captain clueless and sent him back for 59 (128b, 6x4).
+
+At the other end, Anshul Kamboj, who had kept things tight, had Henry Nicholls pulling one straight to long-leg. Akash then struck again, getting Rachin Ravindra to edge one while bowling around the wicket. Three wickets in 16 deliveries without a run being added left the hosts reeling at 110 for four.
+
+India had an opportunity to press home its advantage, but Mitchell and Blundell weathered the storm. The fifth-wicket pair added 74 runs before Washington, introduced in the 61st over, provided a much-needed breakthrough. The off-spinner got some extra bounce and kept his line around middle and leg, prompting Mitchell (31, 74b, 4x4) to offer a tickle that Dhruv Jurel collected at leg-slip.
+
+Blundell, however, remained unfazed. The wicketkeeper-batter, playing his 50th Test, negotiated Akash’s accuracy and Brar’s bounce to keep the innings together. With 20 minutes remaining in the extended final half-hour, India took the new ball as soon as it became available. Akash and Bumrah bowled four overs with it, but could not find another breakthrough.
+
+All through the day, Bumrah tried various tricks, producing inside edges and outside edges that either missed the stumps, fell short or flew beyond the reach of the cordon. Even a change in his run-up in the second session failed to bring a wicket. Blundell completed a deserving half-century with a steer through point off Bumrah in the penultimate over.
+
+His unbeaten 53 (117b, 6x4), alongside Phillips’ 36 not out (64b, 5x4), ensured New Zealand finished the day with a measure of control. After India’s fightback in the second session, the hosts will be pleased to have recovered. But with five wickets still to fall, the visitors will know that an early breakthrough on Saturday could yet tilt the contest back in their favour.
+
+Scoreboard New Zealand 1st Innings: Tom Latham c Pant b Akash Deep 59; Devon Conway lbw b Gurnoor Brar 31; Henry Nicholls c Akash Deep b Kamboj 16; Rachin Ravindra c Pant b Akash Deep 0; Daryl Mitchell c Jurel b Washington Sundar 31; Tom Blundell not out 53; Glenn Phillips not out 36.
+
+Extras: (b-8, lb-5, nb-7) 20 Total: 246/5 in 85 overs Fall of wickets: 1-77, 2-110, 3-110, 4-110, 5-184 India bowling:  Jasprit Bumrah 19-4-37-0, Anshul Kamboj 17-5-56-1, Akash Deep 21-6-52-2, Gurnoor Brar 19-4-52-1, Washington Sundar 9-1-36-1.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/sport/cricket/india-new-zealand-second-test-day-1-updates-november-27-2026/article71748299.ece)`,
+    title_en: `IND vs NZ second Test: Blundell, Phillips take New Zealand to 246 after Akash Deep’s spirited spell`,
+    summary_en: `Christchurch For much of the opening session, India’s decision to bowl first at Hagley Oval appeared to have played into New Zealand’s hands. But a spirited spell from Akash Deep around the middle of the day, followed by a timely breakthrou`,
+    content_en: `Christchurch For much of the opening session, India’s decision to bowl first at Hagley Oval appeared to have played into New Zealand’s hands. But a spirited spell from Akash Deep around the middle of the day, followed by a timely breakthrough from Washington Sundar, ensured the hosts could not make the most of a promising start on the opening day of the second and final Test on Friday (November 27, 2026).
+
+New Zealand reached 246 for five at stumps, with Tom Blundell unbeaten on 53 and Glenn Phillips on 36 at Hagley Oval. The pair had added an unbroken 62 for the sixth wicket to help the hosts recover after India had reduced them from 110 for one to 110 for four in the space of 16 deliveries.
+
+On a bright morning, Shubman Gill had no hesitation in bowling after winning the toss for the 11th time in his 12 Tests. With the previous two days having been affected by rain, India hoped to exploit the moisture in the surface. However, its new-ball attack struggled to make an early impression.
+
+Also read | IND vs NZ second Test: Morne Morkel urges patience with Anshul Kamboj’s performance https://www.thehindu.com/sport/cricket/india-vs-new-zealand-second-test-in-christchurch-morne-morkel-quotes/article71745227.ece Tom Latham, who was dropped on 29 by K.L. Rahul at second slip off Akash, looked increasingly assured as the morning progressed.
+
+The New Zealand captain, who had survived an early lbw appeal against Jasprit Bumrah, made the most of the reprieve to reach 42 not out at lunch. Devon Conway, meanwhile, took 19 deliveries to get off the mark and was eventually dismissed off the final ball of the session, when debutant Gurnoor Brar jagged one back to hit the stumps.
+
+New Zealand went into the break at 77 for one. Brar, who became India’s 321st Test cricketer after replacing Prasidh Krishna, provided the breakthrough, but it was Akash who turned the tide in the second session. IND vs NZ second Test: Eyeing WTC finals, India hopes to replicate heroics and sign off with Test victory IND vs NZ second Test: Eyeing WTC finals, India hopes to replicate heroics and sign off with Test victory The memories of those back-to-back T20I victories at Hagley Oval will linger as India’s Test contingent looks to make its own mark over the next week IND vs NZ second Test: Eyeing WTC finals, India hopes to replicate heroics and sign off with Test victory storyline 1 The Bengal pacer, easily India’s most impressive bowler on the day, produced a probing spell that read 7-4-7-2.
+
+He first unsettled Latham with deliveries in the channel before eventually inducing an edge off a short ball. The ball ricocheted off the helmet and fell safely, but Akash did not have to wait long for his reward. A near-perfect delivery in the channel left the New Zealand captain clueless and sent him back for 59 (128b, 6x4).
+
+At the other end, Anshul Kamboj, who had kept things tight, had Henry Nicholls pulling one straight to long-leg. Akash then struck again, getting Rachin Ravindra to edge one while bowling around the wicket. Three wickets in 16 deliveries without a run being added left the hosts reeling at 110 for four.
+
+India had an opportunity to press home its advantage, but Mitchell and Blundell weathered the storm. The fifth-wicket pair added 74 runs before Washington, introduced in the 61st over, provided a much-needed breakthrough. The off-spinner got some extra bounce and kept his line around middle and leg, prompting Mitchell (31, 74b, 4x4) to offer a tickle that Dhruv Jurel collected at leg-slip.
+
+Blundell, however, remained unfazed. The wicketkeeper-batter, playing his 50th Test, negotiated Akash’s accuracy and Brar’s bounce to keep the innings together. With 20 minutes remaining in the extended final half-hour, India took the new ball as soon as it became available. Akash and Bumrah bowled four overs with it, but could not find another breakthrough.
+
+All through the day, Bumrah tried various tricks, producing inside edges and outside edges that either missed the stumps, fell short or flew beyond the reach of the cordon. Even a change in his run-up in the second session failed to bring a wicket. Blundell completed a deserving half-century with a steer through point off Bumrah in the penultimate over.
+
+His unbeaten 53 (117b, 6x4), alongside Phillips’ 36 not out (64b, 5x4), ensured New Zealand finished the day with a measure of control. After India’s fightback in the second session, the hosts will be pleased to have recovered. But with five wickets still to fall, the visitors will know that an early breakthrough on Saturday could yet tilt the contest back in their favour.
+
+Scoreboard New Zealand 1st Innings: Tom Latham c Pant b Akash Deep 59; Devon Conway lbw b Gurnoor Brar 31; Henry Nicholls c Akash Deep b Kamboj 16; Rachin Ravindra c Pant b Akash Deep 0; Daryl Mitchell c Jurel b Washington Sundar 31; Tom Blundell not out 53; Glenn Phillips not out 36.
+
+Extras: (b-8, lb-5, nb-7) 20 Total: 246/5 in 85 overs Fall of wickets: 1-77, 2-110, 3-110, 4-110, 5-184 India bowling:  Jasprit Bumrah 19-4-37-0, Anshul Kamboj 17-5-56-1, Akash Deep 21-6-52-2, Gurnoor Brar 19-4-52-1, Washington Sundar 9-1-36-1.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/sport/cricket/india-new-zealand-second-test-day-1-updates-november-27-2026/article71748299.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for IND vs NZ second Test: Blundell, Phillips take New Zealand to 246 after Akash Deep’s spirited spell.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 98080,
+    title: `IPL 2027: Rohit in line for MI captaincy as Pollard shapes leadership, Pandya trade - Cricbuzz`,
+    slug: `ipl-2027-rohit-in-line-for-mi-captaincy-as-pollard-shapes-leadership-p-2026`,
+    original_title: `IPL 2027: Rohit in line for MI captaincy as Pollard shapes leadership, Pandya trade - Cricbuzz`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:27Z`,
+    updated_at: `2026-11-27T14:05:27Z`,
+    source_name: `Cricbuzz`,
+    source_url: `https://www.cricbuzz.com/cricket-news/141083/ipl-2027-rohit-in-line-for-mi-captaincy-as-pollard-shapes-leadership-pandya-trade-cricbuzzcom`,
+    source_courtesy: `Source: Cricbuzz`,
+    image_url: `/images/articles/ipl-2027-rohit-in-line-for-mi-captaincy-as-pollard-shapes-leadership-p-2026.webp`,
+    image_alt: `IPL 2027: Rohit in line for MI captaincy as Pollard shapes leadership, Pandya trade - Cricbuzz`,
+    image_courtesy: `Image: Cricbuzz (External Source Attribution)`,
+    image_photographer: `Cricbuzz`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `Kieron Pollard, Mumbai Indians' new head coach, may have had a say not only in the captaincy question – where Rohit Sharma has emerged as the likely choice – but also in the high-profile trade that sent Hardik Pandya to Punjab Kings in exch`,
+    content: `Kieron Pollard, Mumbai Indians' new head coach, may have had a say not only in the captaincy question – where Rohit Sharma has emerged as the likely choice – but also in the high-profile trade that sent Hardik Pandya to Punjab Kings in exchange for Arshdeep Singh. <i>Cricbuzz</i> understands that Pollard was consulted during his few days in Mumbai last month, well ahead of the captaincy announcement, which is expected at 5.45 pm on Friday (November 27).
+
+Whether it is Rohit, Suryakumar Yadav, Tilak Varma or even Mitchell Santner – yes, the New Zealander was also in the reckoning – the thinking around the captaincy appears to have changed following the arrival, or rather the announcement, of Pollard as head coach. Even Jasprit Bumrah's name was considered briefly.
+
+The shortlist was subsequently pruned to Rohit and Suryakumar after the management concluded that it might be too early for Tilak to take over the reins. Santner, meanwhile, was ruled out on the grounds that having an overseas captain is not an ideal arrangement for an IPL side because of inherent challenges.
+
+That leaves Rohit and Suryakumar in the final reckoning, with the former the frontrunner. Meanwhile, MI have managed to create quite a buzz around the announcement, with considerable build-up thanks to a series of cleverly designed social media posts. Some theories have even attempted to decode the significance of the 5.45 pm reveal: five being the number of IPL titles MI won under Rohit and 45 his jersey number.
+
+Significance is also being attached to the date, the 27th, on which Pandya's trade to Mumbai Indians had apparently taken place in 2023. The same date is now set to mark the beginning of a new chapter for one of the IPL's two most successful franchises. Roshan Paul, head of Brand Marketing and Digital Growth, wrote in a social media post that a straightforward roll-out has been turned into an all-out event.
+
+There are about 12 million reels on the subject, reflecting high traction and engagement across social media platforms. Pollard's hand is just as visible in the Pandya trade. The thinking earlier was to bring in a batter and a spinner in exchange for Pandya, and a deal involving Yashasvi Jaiswal and Ravi Bishnoi would have been acceptable to Mumbai Indians.
+
+The discussions are understood to have progressed considerably, with the Rajasthan Royals management believed to have given the proposal serious consideration. It is said that the RR social media team had travelled to Bengaluru to shoot with Pandya while, according to one report, head coach Kumar Sangakkara even flew to Bengaluru, where Pandya lives.
+
+That account, of course, is being disputed. It is being pointed out that since RR skipper Riyan Parag was in Bengaluru, undergoing rehabilitation at the BCCI's Centre of Excellence (CoE), members of the RR team had travelled to the city, once to meet their captain and on another occasion for a shoot with Vaibhav Sooryavanshi.
+
+Coming back to the Pandya trade, MI began looking for a fast bowler at Pollard's insistence. Sources say they sought interests from many teams for a pacer. Kolkata Knight Riders were approached for Harshit Rana, while Rajasthan Royals may have been asked if they were willing to part with Jofra Archer.
+
+Eventually, MI settled on a deal with Punjab Kings for Arshdeep, India's leading wicket-taker in T20Is. MI are happy that they now have two of the best Indian pacers in their line-up: Bumrah and Arshdeep. That would not have been possible had the Royals not taken their time to consider the initial discussions around a possible deal involving Jaiswal and Bishnoi.
+
+The franchise's priorities subsequently changed, as it inferred that a frontline batter was a luxury and a quality pacer was a necessity. Does that mean MI have moved on from the idea of acquiring the prolific opener? MI may still be open to an all-cash deal for Jaiswal, who could provide them with a long-term option for at least three auction cycles.
+
+It is unlikely that the Royals, who have earned a reputation for driving hard bargains, would trade a player of Jaiswal's calibre without securing adequate compensation in return. Last year's deal involving Sanju Samson and Chennai Super Kings is a case in point, with the general perception being that the Royals walked away with the better bargain.
+
+The situation with Jaiswal in RR is not clear, but a potential Jaiswal trade was certainly discussed with Kolkata Knight Riders and Lucknow Super Giants as well. A recent social media post featuring Jaiswal, however, should put an end to speculation about a possible trade, at least for now.
+
+---
+
+**Original Source:** [Cricbuzz](https://www.cricbuzz.com/cricket-news/141083/ipl-2027-rohit-in-line-for-mi-captaincy-as-pollard-shapes-leadership-pandya-trade-cricbuzzcom)`,
+    title_en: `IPL 2027: Rohit in line for MI captaincy as Pollard shapes leadership, Pandya trade - Cricbuzz`,
+    summary_en: `Kieron Pollard, Mumbai Indians' new head coach, may have had a say not only in the captaincy question – where Rohit Sharma has emerged as the likely choice – but also in the high-profile trade that sent Hardik Pandya to Punjab Kings in exch`,
+    content_en: `Kieron Pollard, Mumbai Indians' new head coach, may have had a say not only in the captaincy question – where Rohit Sharma has emerged as the likely choice – but also in the high-profile trade that sent Hardik Pandya to Punjab Kings in exchange for Arshdeep Singh. <i>Cricbuzz</i> understands that Pollard was consulted during his few days in Mumbai last month, well ahead of the captaincy announcement, which is expected at 5.45 pm on Friday (November 27).
+
+Whether it is Rohit, Suryakumar Yadav, Tilak Varma or even Mitchell Santner – yes, the New Zealander was also in the reckoning – the thinking around the captaincy appears to have changed following the arrival, or rather the announcement, of Pollard as head coach. Even Jasprit Bumrah's name was considered briefly.
+
+The shortlist was subsequently pruned to Rohit and Suryakumar after the management concluded that it might be too early for Tilak to take over the reins. Santner, meanwhile, was ruled out on the grounds that having an overseas captain is not an ideal arrangement for an IPL side because of inherent challenges.
+
+That leaves Rohit and Suryakumar in the final reckoning, with the former the frontrunner. Meanwhile, MI have managed to create quite a buzz around the announcement, with considerable build-up thanks to a series of cleverly designed social media posts. Some theories have even attempted to decode the significance of the 5.45 pm reveal: five being the number of IPL titles MI won under Rohit and 45 his jersey number.
+
+Significance is also being attached to the date, the 27th, on which Pandya's trade to Mumbai Indians had apparently taken place in 2023. The same date is now set to mark the beginning of a new chapter for one of the IPL's two most successful franchises. Roshan Paul, head of Brand Marketing and Digital Growth, wrote in a social media post that a straightforward roll-out has been turned into an all-out event.
+
+There are about 12 million reels on the subject, reflecting high traction and engagement across social media platforms. Pollard's hand is just as visible in the Pandya trade. The thinking earlier was to bring in a batter and a spinner in exchange for Pandya, and a deal involving Yashasvi Jaiswal and Ravi Bishnoi would have been acceptable to Mumbai Indians.
+
+The discussions are understood to have progressed considerably, with the Rajasthan Royals management believed to have given the proposal serious consideration. It is said that the RR social media team had travelled to Bengaluru to shoot with Pandya while, according to one report, head coach Kumar Sangakkara even flew to Bengaluru, where Pandya lives.
+
+That account, of course, is being disputed. It is being pointed out that since RR skipper Riyan Parag was in Bengaluru, undergoing rehabilitation at the BCCI's Centre of Excellence (CoE), members of the RR team had travelled to the city, once to meet their captain and on another occasion for a shoot with Vaibhav Sooryavanshi.
+
+Coming back to the Pandya trade, MI began looking for a fast bowler at Pollard's insistence. Sources say they sought interests from many teams for a pacer. Kolkata Knight Riders were approached for Harshit Rana, while Rajasthan Royals may have been asked if they were willing to part with Jofra Archer.
+
+Eventually, MI settled on a deal with Punjab Kings for Arshdeep, India's leading wicket-taker in T20Is. MI are happy that they now have two of the best Indian pacers in their line-up: Bumrah and Arshdeep. That would not have been possible had the Royals not taken their time to consider the initial discussions around a possible deal involving Jaiswal and Bishnoi.
+
+The franchise's priorities subsequently changed, as it inferred that a frontline batter was a luxury and a quality pacer was a necessity. Does that mean MI have moved on from the idea of acquiring the prolific opener? MI may still be open to an all-cash deal for Jaiswal, who could provide them with a long-term option for at least three auction cycles.
+
+It is unlikely that the Royals, who have earned a reputation for driving hard bargains, would trade a player of Jaiswal's calibre without securing adequate compensation in return. Last year's deal involving Sanju Samson and Chennai Super Kings is a case in point, with the general perception being that the Royals walked away with the better bargain.
+
+The situation with Jaiswal in RR is not clear, but a potential Jaiswal trade was certainly discussed with Kolkata Knight Riders and Lucknow Super Giants as well. A recent social media post featuring Jaiswal, however, should put an end to speculation about a possible trade, at least for now.
+
+---
+
+**Original Source:** [Cricbuzz](https://www.cricbuzz.com/cricket-news/141083/ipl-2027-rohit-in-line-for-mi-captaincy-as-pollard-shapes-leadership-pandya-trade-cricbuzzcom)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Cricbuzz.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for IPL 2027: Rohit in line for MI captaincy as Pollard shapes leadership, Pandya trade - Cricbuzz.`,
+    primary_source: `Cricbuzz`,
+  },
+  {
+    id: 98081,
+    title: `Rohit Sharma Captain: घड़ी में 17:45 बजते ही मुंबई इंड‍ियंस ने क‍िया कप्तान का ऐलान, रोहित शर्मा से क्या है कनेक्शन? - AajTak`,
+    slug: `rohit-sharma-captain-1745-aajtak-2026`,
+    original_title: `Rohit Sharma Captain: घड़ी में 17:45 बजते ही मुंबई इंड‍ियंस ने क‍िया कप्तान का ऐलान, रोहित शर्मा से क्या है कनेक्शन? - AajTak`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:31Z`,
+    updated_at: `2026-11-27T14:05:31Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/sports/cricket/story/rohit-sharma-mumbai-indians-captain-ipl-2027-1745-time-post-reason-jersey-tspok-dskc-2708043-2026-11-27`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b098280b0a9b-rohit-sharma-271543436.jpg`,
+    image_alt: `Rohit Sharma Captain: घड़ी में 17:45 बजते ही मुंबई इंड‍ियंस ने क‍िया कप्तान का ऐलान, रोहित शर्मा से क्या है कनेक्शन? - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `Rohit Sharma Captain: घड़ी में 17:45 बजते ही मुंबई इंड‍ियंस ने क‍िया कप्तान का ऐलान, रोहित शर्मा से क्या है कनेक्शन? AajTak मुंबई इंडियंस का बड़ा ऐलान, रोहित शर्मा फिर बने कप्तान, नीता अंबानी बोलीं- 'बहुत खुशी और सौभाग्य की बात' India TV Hi`,
+    content: `### मुंबई इंडियंस ने आईपीएल 2027 के लिए रोहित शर्मा को फिर से कप्तान बना दिया है. फ्रेंचाइजी ने 27 नवंबर को शाम 5:45 बजे सोशल मीडिया पर इसका ऐलान किया. पोस्ट में लिखा था- मुस्कराइए, सभी लोग मुस्कराइए. रोहित तीन साल बाद टीम की कप्तानी संभालेंगे. उनकी अगुआई में मुंबई इंडियंस पांच बार आईपीएल खिताब जीत चुकी है.
+
+मुंबई इंडियंस ने आईपीएल (इंड‍ियन प्रीम‍ियर लीग) 2027 से पहले बड़ा फैसला लेते हुए रोहित शर्मा को एक बार फिर टीम की कप्तानी सौंप दी है. 27 नवंबर को फ्रेंचाइजी ने इसकी आधिकारिक घोषणा की.
+
+लेकिन इस ऐलान के साथ ही मुंबई इंडियंस की सोशल मीडिया पोस्ट का समय भी चर्चा में आ गया. फ्रेंचाइजी ने भारतीय समयानुसार शाम 5:45 बजे यानी 17:45 पर पोस्ट शेयर किया. इसमें सिर्फ एक लाइन लिखी थी- 'Smile, everybody smile' (मुस्कुराइए, सब लोग मुस्कुराइए).
+
+Smile, everybody smile 💙 #MumbaiIndians #CaptainRo https://t.co/YUqYZTQxu9
+
+17:45 बजे किए गए इस पोस्ट को रोहित शर्मा की जर्सी नंबर 45 से जोड़कर देखा जा रहा है. रोहित का जर्सी नंबर 45 है. ऐसे में कप्तानी की घोषणा के लिए 17:45 का समय चुनना उनके फैन्स के लिए खास संदेश माना जा रहा है.
+
+वहीं खास बात यह है कि 17:45 का 17 मुंबई इंड‍ियंस संग रोहित के 17वें सीजन को द‍िखाता है. रोहित के लिए 2027 का आईपीएल उनका मुंबई इंड‍ियंस के लिए 17वां सीजन होगा.
+
+तीन साल बाद फिर मुंबई की कप्तानी करेंगे रोहित रोहित शर्मा तीन सीजन के अंतराल के बाद मुंबई इंडियंस की कप्तानी संभालेंगे. हार्दिक पंड्या के पंजाब किंग्स में ट्रेड होने के बाद फ्रेंचाइजी ने यह जिम्मेदारी रोहित को सौंपी है. हार्दिक की जगह तेज गेंदबाज अर्शदीप सिंह के साथ ट्रेड डील हुई है.
+
+रोहित ने 2013 में पहली बार मुंबई इंडियंस की कप्तानी संभाली थी. उनकी अगुआई में टीम ने 2013, 2015, 2017, 2019 और 2020 में पांच आईपीएल खिताब जीते. वह फ्रेंचाइजी के सबसे सफल कप्तानों में शामिल हैं.
+
+Aala re aala, Mumbai cha Raja aala! 👑 Mumbai Indians cha captain, Rohit Hitman Sharma aala! 💙 #MumbaiIndians #CaptainRo https://t.co/lDgSubCjX7
+
+हालांकि, आईपीएल 2020 में खिताब जीतने के बाद मुंबई का प्रदर्शन लगातार गिरा. टीम 2021 में पांचवें, 2022 में दसवें और 2023 में क्वालिफायर-2 तक पहुंचकर बाहर हो गई. इसके बाद आईपीएल 2024 से पहले रोहित को कप्तानी से हटाकर हार्दिक पंड्या को जिम्मेदारी दी गई.
+
+हार्दिक की कप्तानी में भी मुंबई को खास कामयाबी नहीं मिली. टीम 2024 में दसवें और 2026 में नौवें स्थान पर रही, जबकि 2025 में क्वालिफायर-2 तक पहुंचकर बाहर हो गई.
+
+नीता अंबानी ने याद किया 2011 का वो दिन मुंबई इंडियंस की मालिक नीता एम. अंबानी ने रोहित की वापसी पर खुशी जताई. उन्होंने कहा कि फ्रेंचाइजी ने 2011 में रोहित के लिए बोली लगाई थी और उसी समय से वह मुंबई इंडियंस परिवार का हिस्सा बन गए थे.
+
+नीता अंबानी ने कहा- मुझे आज भी वह यंग रोहित याद है, जो हमारी टीम से जुड़ा था. उसे एक क्रिकेटर, चैम्प‍ियन , लीडर और शानदार पारिवारिक व्यक्ति के रूप में आगे बढ़ते देखना हमारे लिए खुशी और सौभाग्य की बात रही है.
+
+“We bid for Rohit in 2011, and from that moment, he became part of our Mumbai Indians family. I still remember the young Rohit who joined us, and it has been such a joy and privilege to watch him grow over the years as a cricketer, a champion, a leader, and a wonderful family man. As we celebrate the 20th season of Mumbai Indians, it is a very special moment for all of us to see Rohit lead the team once again. He has given us so many wonderful memories over the years, and I know how much he means to our Paltan. I hope this new chapter brings many more moments of pride for him, for our team and for the millions of fans who love Mumbai Indians. Rohit, we are all cheering for you!” - Mrs. Nita M. Ambani
+
+उन्होंने आगे कहा कि मुंबई इंडियंस के 20वें सीजन में रोहित को दोबारा कप्तानी करते देखना सभी के लिए बेहद खास है. उन्होंने उम्मीद जताई कि यह नया अध्याय रोहित, टीम और लाखों प्रशंसकों के लिए गर्व के और भी मौके लेकर आएगा.
+
+आकाश अंबानी ने भी जताया भरोसा आकाश अंबानी ने कहा कि मुंबई इंडियंस के ऐतिहासिक 20वें सीजन में रोहित का टीम की अगुआई करना खुशी की बात है. रोहित और पलटन के बीच का रिश्ता बेहद खास है. आगामी सीजन को लेकर हुई बातचीत में दोनों पक्षों के बीच उत्साह और कुछ अच्छा करने की महत्वाकांक्षा नजर आई.
+
+“I am delighted to have Rohit lead the Blue and Gold into our landmark 20th season. The bond that Rohit shares with Mumbai Indians and our Paltan is truly special. In our conversations about the season ahead, there was a shared sense of excitement and ambition for what we can achieve together. With Rohit’s experience and leadership, and the exciting team we are building, there is so much to look forward to. We want to play the kind of cricket that makes our Paltan proud and create many more special memories together.” - Akash Ambani
+
+उन्होंने कहा कि रोहित के अनुभव और नेतृत्व के साथ टीम में बन रहे नए संयोजन से काफी उम्मीदें हैं. फ्रेंचाइजी ऐसा क्रिकेट खेलना चाहती है, जिससे पलटन को गर्व महसूस हो और फैन्स के साथ नई मेमोरी बनाई जा सकें.
+
+रोहित बोले-आईपीएल चैलेंज के लिए तैयार कप्तान बनने के बाद रोहित शर्मा ने कहा कि मुंबई इंडियंस उनकी जिंदगी का बहुत बड़ा हिस्सा रही है. इस टीम की कप्तानी करना उनके लिए हमेशा गर्व की बात रही है. नीता भाभी और आकाश के साथ आगामी सीजन को लेकर हुई बातचीत काफी उत्साहजनक रही है. उन्हें भरोसा है कि टीम मिलकर अच्छा प्रदर्शन कर सकती है.
+
+रोहित ने कहा कि वह आईपीएल के 20वें सीजन और आगे आने वाली चुनौतियों के लिए तैयार हैं. उनका लक्ष्य अपनी पलटन को जश्न मनाने के कई मौके देना है. टीम का फोकस अपने अंदाज में क्रिकेट खेलने, एकजुट होकर मुकाबला करने और खेल का आनंद लेने पर रहेगा.
+
+रोहित के IPL करियर के आंकड़े 39 साल के रोहित शर्मा ने अपने आईपीएल करियर की शुरुआत डेक्कन चार्जर्स के साथ की थी. वह अब तक 281 मैचों में 7,329 रन बना चुके हैं. उनके नाम दो शतक और 49 अर्धशतक हैं. आईपीएल में सबसे ज्यादा रन बनाने वालों की सूची में वह दूसरे स्थान पर हैं. उनसे आगे रॉयल चैलेंजर्स बेंगलुरु के विराट कोहली हैं, जिनके नाम 283 मैचों में 9,336 रन, 9 शतक और 68 अर्धशतक दर्ज हैं.
+
+मुंबई इंडियंस अब रोहित की कप्तानी में अपने 20वें सीजन में उतरेगी. फ्रेंचाइजी को उम्मीद है कि उनके नेतृत्व में टीम एक बार फिर खिताबी सफलता हासिल करेगी.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/rohit-sharma-mumbai-indians-captain-ipl-2027-1745-time-post-reason-jersey-tspok-dskc-2708043-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Rohit Sharma Captain: घड़ी में 17:45 बजते ही मुंबई इंड‍ियंस ने क‍िया कप्तान का ऐलान, रोहित शर्मा से क्या है कनेक्शन? - AajTak`,
+    summary_hi: `Rohit Sharma Captain: घड़ी में 17:45 बजते ही मुंबई इंड‍ियंस ने क‍िया कप्तान का ऐलान, रोहित शर्मा से क्या है कनेक्शन? AajTak मुंबई इंडियंस का बड़ा ऐलान, रोहित शर्मा फिर बने कप्तान, नीता अंबानी बोलीं- 'बहुत खुशी और सौभाग्य की बात' India TV Hi`,
+    content_hi: `### मुंबई इंडियंस ने आईपीएल 2027 के लिए रोहित शर्मा को फिर से कप्तान बना दिया है. फ्रेंचाइजी ने 27 नवंबर को शाम 5:45 बजे सोशल मीडिया पर इसका ऐलान किया. पोस्ट में लिखा था- मुस्कराइए, सभी लोग मुस्कराइए. रोहित तीन साल बाद टीम की कप्तानी संभालेंगे. उनकी अगुआई में मुंबई इंडियंस पांच बार आईपीएल खिताब जीत चुकी है.
+
+मुंबई इंडियंस ने आईपीएल (इंड‍ियन प्रीम‍ियर लीग) 2027 से पहले बड़ा फैसला लेते हुए रोहित शर्मा को एक बार फिर टीम की कप्तानी सौंप दी है. 27 नवंबर को फ्रेंचाइजी ने इसकी आधिकारिक घोषणा की.
+
+लेकिन इस ऐलान के साथ ही मुंबई इंडियंस की सोशल मीडिया पोस्ट का समय भी चर्चा में आ गया. फ्रेंचाइजी ने भारतीय समयानुसार शाम 5:45 बजे यानी 17:45 पर पोस्ट शेयर किया. इसमें सिर्फ एक लाइन लिखी थी- 'Smile, everybody smile' (मुस्कुराइए, सब लोग मुस्कुराइए).
+
+Smile, everybody smile 💙 #MumbaiIndians #CaptainRo https://t.co/YUqYZTQxu9
+
+17:45 बजे किए गए इस पोस्ट को रोहित शर्मा की जर्सी नंबर 45 से जोड़कर देखा जा रहा है. रोहित का जर्सी नंबर 45 है. ऐसे में कप्तानी की घोषणा के लिए 17:45 का समय चुनना उनके फैन्स के लिए खास संदेश माना जा रहा है.
+
+वहीं खास बात यह है कि 17:45 का 17 मुंबई इंड‍ियंस संग रोहित के 17वें सीजन को द‍िखाता है. रोहित के लिए 2027 का आईपीएल उनका मुंबई इंड‍ियंस के लिए 17वां सीजन होगा.
+
+तीन साल बाद फिर मुंबई की कप्तानी करेंगे रोहित रोहित शर्मा तीन सीजन के अंतराल के बाद मुंबई इंडियंस की कप्तानी संभालेंगे. हार्दिक पंड्या के पंजाब किंग्स में ट्रेड होने के बाद फ्रेंचाइजी ने यह जिम्मेदारी रोहित को सौंपी है. हार्दिक की जगह तेज गेंदबाज अर्शदीप सिंह के साथ ट्रेड डील हुई है.
+
+रोहित ने 2013 में पहली बार मुंबई इंडियंस की कप्तानी संभाली थी. उनकी अगुआई में टीम ने 2013, 2015, 2017, 2019 और 2020 में पांच आईपीएल खिताब जीते. वह फ्रेंचाइजी के सबसे सफल कप्तानों में शामिल हैं.
+
+Aala re aala, Mumbai cha Raja aala! 👑 Mumbai Indians cha captain, Rohit Hitman Sharma aala! 💙 #MumbaiIndians #CaptainRo https://t.co/lDgSubCjX7
+
+हालांकि, आईपीएल 2020 में खिताब जीतने के बाद मुंबई का प्रदर्शन लगातार गिरा. टीम 2021 में पांचवें, 2022 में दसवें और 2023 में क्वालिफायर-2 तक पहुंचकर बाहर हो गई. इसके बाद आईपीएल 2024 से पहले रोहित को कप्तानी से हटाकर हार्दिक पंड्या को जिम्मेदारी दी गई.
+
+हार्दिक की कप्तानी में भी मुंबई को खास कामयाबी नहीं मिली. टीम 2024 में दसवें और 2026 में नौवें स्थान पर रही, जबकि 2025 में क्वालिफायर-2 तक पहुंचकर बाहर हो गई.
+
+नीता अंबानी ने याद किया 2011 का वो दिन मुंबई इंडियंस की मालिक नीता एम. अंबानी ने रोहित की वापसी पर खुशी जताई. उन्होंने कहा कि फ्रेंचाइजी ने 2011 में रोहित के लिए बोली लगाई थी और उसी समय से वह मुंबई इंडियंस परिवार का हिस्सा बन गए थे.
+
+नीता अंबानी ने कहा- मुझे आज भी वह यंग रोहित याद है, जो हमारी टीम से जुड़ा था. उसे एक क्रिकेटर, चैम्प‍ियन , लीडर और शानदार पारिवारिक व्यक्ति के रूप में आगे बढ़ते देखना हमारे लिए खुशी और सौभाग्य की बात रही है.
+
+“We bid for Rohit in 2011, and from that moment, he became part of our Mumbai Indians family. I still remember the young Rohit who joined us, and it has been such a joy and privilege to watch him grow over the years as a cricketer, a champion, a leader, and a wonderful family man. As we celebrate the 20th season of Mumbai Indians, it is a very special moment for all of us to see Rohit lead the team once again. He has given us so many wonderful memories over the years, and I know how much he means to our Paltan. I hope this new chapter brings many more moments of pride for him, for our team and for the millions of fans who love Mumbai Indians. Rohit, we are all cheering for you!” - Mrs. Nita M. Ambani
+
+उन्होंने आगे कहा कि मुंबई इंडियंस के 20वें सीजन में रोहित को दोबारा कप्तानी करते देखना सभी के लिए बेहद खास है. उन्होंने उम्मीद जताई कि यह नया अध्याय रोहित, टीम और लाखों प्रशंसकों के लिए गर्व के और भी मौके लेकर आएगा.
+
+आकाश अंबानी ने भी जताया भरोसा आकाश अंबानी ने कहा कि मुंबई इंडियंस के ऐतिहासिक 20वें सीजन में रोहित का टीम की अगुआई करना खुशी की बात है. रोहित और पलटन के बीच का रिश्ता बेहद खास है. आगामी सीजन को लेकर हुई बातचीत में दोनों पक्षों के बीच उत्साह और कुछ अच्छा करने की महत्वाकांक्षा नजर आई.
+
+“I am delighted to have Rohit lead the Blue and Gold into our landmark 20th season. The bond that Rohit shares with Mumbai Indians and our Paltan is truly special. In our conversations about the season ahead, there was a shared sense of excitement and ambition for what we can achieve together. With Rohit’s experience and leadership, and the exciting team we are building, there is so much to look forward to. We want to play the kind of cricket that makes our Paltan proud and create many more special memories together.” - Akash Ambani
+
+उन्होंने कहा कि रोहित के अनुभव और नेतृत्व के साथ टीम में बन रहे नए संयोजन से काफी उम्मीदें हैं. फ्रेंचाइजी ऐसा क्रिकेट खेलना चाहती है, जिससे पलटन को गर्व महसूस हो और फैन्स के साथ नई मेमोरी बनाई जा सकें.
+
+रोहित बोले-आईपीएल चैलेंज के लिए तैयार कप्तान बनने के बाद रोहित शर्मा ने कहा कि मुंबई इंडियंस उनकी जिंदगी का बहुत बड़ा हिस्सा रही है. इस टीम की कप्तानी करना उनके लिए हमेशा गर्व की बात रही है. नीता भाभी और आकाश के साथ आगामी सीजन को लेकर हुई बातचीत काफी उत्साहजनक रही है. उन्हें भरोसा है कि टीम मिलकर अच्छा प्रदर्शन कर सकती है.
+
+रोहित ने कहा कि वह आईपीएल के 20वें सीजन और आगे आने वाली चुनौतियों के लिए तैयार हैं. उनका लक्ष्य अपनी पलटन को जश्न मनाने के कई मौके देना है. टीम का फोकस अपने अंदाज में क्रिकेट खेलने, एकजुट होकर मुकाबला करने और खेल का आनंद लेने पर रहेगा.
+
+रोहित के IPL करियर के आंकड़े 39 साल के रोहित शर्मा ने अपने आईपीएल करियर की शुरुआत डेक्कन चार्जर्स के साथ की थी. वह अब तक 281 मैचों में 7,329 रन बना चुके हैं. उनके नाम दो शतक और 49 अर्धशतक हैं. आईपीएल में सबसे ज्यादा रन बनाने वालों की सूची में वह दूसरे स्थान पर हैं. उनसे आगे रॉयल चैलेंजर्स बेंगलुरु के विराट कोहली हैं, जिनके नाम 283 मैचों में 9,336 रन, 9 शतक और 68 अर्धशतक दर्ज हैं.
+
+मुंबई इंडियंस अब रोहित की कप्तानी में अपने 20वें सीजन में उतरेगी. फ्रेंचाइजी को उम्मीद है कि उनके नेतृत्व में टीम एक बार फिर खिताबी सफलता हासिल करेगी.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/rohit-sharma-mumbai-indians-captain-ipl-2027-1745-time-post-reason-jersey-tspok-dskc-2708043-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Rohit Sharma Captain: घड़ी में 17:45 बजते ही मुंबई इंड‍ियंस ने क‍िया कप्तान का ऐलान, रोहित शर्मा से क्या है कनेक्शन? - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98082,
+    title: `IND vs NZ Christchurch Test Day 1: पहले दिन का खेल हुआ खत्म, कॉन्वे के बाद ब्लंडल ने संभाली न्यूजीलैंड की प - India TV Hindi`,
+    slug: `ind-vs-nz-christchurch-test-day-1-india-tv-hindi-2026`,
+    original_title: `IND vs NZ Christchurch Test Day 1: पहले दिन का खेल हुआ खत्म, कॉन्वे के बाद ब्लंडल ने संभाली न्यूजीलैंड की प - India TV Hindi`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `11 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:32Z`,
+    updated_at: `2026-11-27T14:05:32Z`,
+    source_name: `India TV Hindi`,
+    source_url: `https://www.indiatv.in/sports/cricket/ind-vs-nz-hagley-oval-christchurch-test-day-1-live-score-updates-and-hindi-commentary-india-vs-new-zealand-1256664`,
+    source_courtesy: `Source: India TV Hindi`,
+    image_url: `/images/articles/ind-vs-nz-christchurch-test-day-1-india-tv-hindi-2026.jpg`,
+    image_alt: `IND vs NZ Christchurch Test Day 1: पहले दिन का खेल हुआ खत्म, कॉन्वे के बाद ब्लंडल ने संभाली न्यूजीलैंड की प - India TV Hindi`,
+    image_courtesy: `Image: India TV Hindi (External Source Attribution)`,
+    image_photographer: `India TV Hindi`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `भारत और न्यूजीलैंड के बीच खेली जा रही दो टेस्ट मैचों की सीरीज का दूसरा और आखिरी टेस्ट मैच क्राइस्टचर्च के हेगली ओवल स्टेडियम में खेला जा रहा है। इस टेस्ट मैच में भारतीय कप्तान शुभमन गिल ने टॉस जीतने के बाद पहले गेंदबाजी करने का फैसला लिया थ`,
+    content: `भारत और न्यूजीलैंड के बीच खेली जा रही दो टेस्ट मैचों की सीरीज का दूसरा और आखिरी टेस्ट मैच क्राइस्टचर्च के हेगली ओवल स्टेडियम में खेला जा रहा है। इस टेस्ट मैच में भारतीय कप्तान शुभमन गिल ने टॉस जीतने के बाद पहले गेंदबाजी करने का फैसला लिया था, जिसके बाद पहले दिन का खेल खत्म होने के पर टॉस हारने के बाद पहले बल्लेबाजी करने उतरी मेजबान कीवी टीम ने अपनी पहली पारी में 5 विकेट के नुकसान पर 246 रनों का स्कोर बना लिया था।
+
+दिन का खेल खत्म होने पर टॉम ब्लंडल 53 और ग्लेन फिलिप्स 36 रन बनाकर नाबाद थे। वहीं टीम इंडिया की तरफ से गेंदबाजी में पहले दिन के खेल में आकाश दीप ने 2 जबकि अंशुल कंबोज, वाशिंगटन सुंदर और टेस्ट क्रिकेट में डेब्यू कर रहे गुरनूर बरार ने 1-1 विकेट हासिल किया। पहला सेशन रहा न्यूजीलैंड की टीम के नाम टॉस हारने के बाद पहले बल्लेबाजी करने उतरी न्यूजीलैंड टीम की तरफ से पहले सेशन में बल्ले से शानदार प्रदर्शन देखने को मिला, जिसमें उन्होंने लंच से ठीक पहले सिर्फ एक विकेट डीवोन कॉन्वे के रूप में गंवाया।
+
+टॉम लैथम और कॉन्वे की ओपनिंग जोड़ी ने शुरुआती ओवर्स में काफी संभलकर बल्लेबाजी की जिसमें लैथम को एक जीवनदान भी मिला दोनों ने एकबार अपनी नजरें जमाने के बाद रन गति को तेज किया। लैथम और कॉन्वे के बीच पहले विकेट के लिए 77 रनों की साझेदारी हुई, जिसमें कॉन्वे का विकेट गिरने के साथ अंपायर्स ने पहला सेशन खत्म करने का फैसला भी ले लिया।
+
+दूसरे सेशन में टीम इंडिया ने की शानदार वापसी क्राइस्टचर्च टेस्ट मैच के पहले दिन का पहला सेशन जहां न्यूजीलैंड टीम के नाम रहा तो वहीं दूसरे सेशन में टीम इंडिया वापसी करने में कामयाब रही, जिसमें इस सेशन में कीवी टीम ने अपने तीन अहम विकेट गंवा दिए। न्यूजीलैंड के कप्तान टॉम लैथम जहां अपना अर्धशतक पूरा करने के बाद 59 के निजी स्कोर पर आकाश दीप का शिकार बने तो वहीं हेनरी निकोल्स को 16 के निजी स्कोर पर अंशुल कंबोज ने पवेलियन का रास्ता दिखाया।
+
+इसके बाद रचिन रवींद्र बिना खाता खोले आकाश दीप की गेंद पर अपना विकेट गंवा बैठे। आखिरी सेशन में न्यूजीलैंड ने गंवाया सिर्फ एक विकेट, ब्लंडल ने जड़ा अर्धशतक पहले दिन के आखिरी सेशन के खेल में न्यूजीलैंड की टीम को उनकी पहली पारी में पांचवां झटका 184 के स्कोर पर डेरिल मिचेल के रूप में लगा जो 31 रन बनाकर वाशिंगटन सुंदर की गेंद पर अपना विकेट गंवा बैठे।
+
+इसके बाद बल्लेबाजी करने उतरे ग्लेन फिलिप्स ने टॉम ब्लंडल का बखूबी साथ देते हुए दिन का अंत होने तक कोई और झटका नहीं लगने दिया। टॉम ब्लंडल ने जहां अपना अर्धशतक पूरा करने के बाद 53 रन बनाकर नाबाद थे तो वहीं ग्लेन फिलिप्स 36 रन बना चुके थे। दूसरे टेस्ट के लिए दोनों टीमों की प्लेइंग 11 भारत - केएल राहुल, यशस्वी जायसवाल, देवदत्त पडिक्कल, शुभमन गिल (कप्तान), ऋषभ पंत (विकेटकीपर), वाशिंगटन सुंदर, ध्रुव जुरेल, आकाश दीप, अंशुल कंबोज, गुरनूर बरार, जसप्रीत बुमराह।
+
+न्यूजीलैंड - टॉम लैथम (कप्तान), डेवोन कॉन्वे, हेनरी निकोल्स, रचिन रवींद्र, डेरिल मिचेल, टॉम ब्लंडल (विकेटकीपर), ग्लेन फिलिप्स, नाथन स्मिथ, काइल जैमीसन, मैट हेनरी, जैकब डफी। क्राइस्टचर्च टेस्ट मैच के पहले दिन के खेल में कुल 85 ओवर्स की गेंदबाजी हुई जिसमें टॉस हारने के बाद पहले बल्लेबाजी करने उतरी मेजबान कीवी टीम ने दिन का खेल खत्म होने पर अपनी पहली पारी में 5 विकेट के नुकसान पर 246 रन बना लिए थे।
+
+टॉम ब्लंडल 53 और ग्लेन फिलिप्स 36 रन बनाकर खेल रहे थे। क्राइस्टचर्च टेस्ट मैच के पहले दिन के आखिरी सेशन के खेल में न्यूजीलैंड टीम की पहली पारी में उनके विकेटकीपर बल्लेबाज टॉम ब्लंडल अपनी फिफ्टी पूरी करने में कामयाब हो गए हैं। ब्लंडल ने अपना अर्धशतक 114 गेंदों में पूरा किया है जिसमें उन्होंने 6 चौके लगाए हैं।
+
+क्राइस्टचर्च टेस्ट के पहले दिन के खेल में न्यूजीलैंड टीम की पहली पारी में आखिरी सेशन के दौरान 80 ओवर्स पूरे होने के बाद भारतीय टीम ने नई गेंद लेने में बिल्कुल भी देर नहीं लगाई जिसमें उन्होंने 81वें ओवर की दूसरी गेंद के बाद नई गेंद लेने का फैसला लिया। क्राइस्टचर्च टेस्ट मैच के पहले दिन के आखिरी सेशन के खेल में न्यूजीलैंड टीम की पहली पारी में ग्लेन फिलिप्स और टॉम ब्लंडल के बीच छठे विकेट के लिए अर्धशतकीय साझेदारी पूरी हो चुकी है।
+
+न्यूजीलैंड की टीम ने अपनी पहली पारी में 80 ओवर्स खत्म होने के बाद 5 विकेट के नुकसान पर 237 रन बना लिए हैं। क्राइस्टचर्च टेस्ट मैच के पहले दिन के आखिरी सेशन के खेल में न्यूजीलैंड की टीम ने अपनी पहली पारी में 200 रनों का स्कोर पार कर लिया है, जिसमें कीवी टीम ने 74 ओवर्स में 5 विकेट के नुकसान पर 219 रन बना लिए हैं।
+
+टॉम ब्लंडल 38 और ग्लेन फिलिप्स 24 रन बनाकर खेल रहे हैं। क्राइस्टचर्च टेस्ट मैच के पहले दिन के आखिरी सेशन के खेल में मेजबान न्यूजीलैंड की टीम ने अपनी पहली पारी में 69 ओवर्स का खेल खत्म होने के बाद 5 विकेट के नुकसान पर 193 रन बना लिए थे, जिसमें टॉम ब्लंडल 36 और ग्लेन फिलिप्स 4 रन बनाकर खेल रहे हैं।
+
+न्यूजीलैंड की टीम ने क्राइस्टचर्च टेस्ट मैच के पहले दिन अपनी पहली पारी में पांचवां विकेट डेरिल मिचेल के रूप में 184 के स्कोर पर गंवा दिया है, जो 31 के निजी स्कोर पर वाशिंगटन सुंदर की गेंद पर ध्रुव जुरेल की गेंद पर अपना विकेट गंवा बैठे। अब मैदान पर बल्लेबाजी करने ग्लेन फिलिप्स उतरे हैं।
+
+क्राइस्टचर्च टेस्ट में न्यूजीलैंड ने अपनी पहली पारी में 110 के स्कोर पर चार विकेट गंवा दिए थे, जिसके बाद टॉम ब्लंडल और डेरिल मिचेल ने पारी को संभालते हुए पांचवें विकेट के लिए अर्धशतकीय साझेदारी को पूरा कर लिया है। न्यूजीलैंड ने अपनी पहली पारी में 62 ओवर्स में 4 विकेट के नुकसान पर 172 रन बना लिए थे, जिसमें मिचेल 30 और ब्लंडल 24 रन बनाकर खेल रहे हैं।
+
+110 के स्कोर पर बैक टू बैक तीन विकेट गंवाने के बाद अब डेरिल मिचेल और टॉम ब्लंडल ने न्यूजीलैंड की पहली पारी को संभाल लिया है, जिसमें दोनों ने पहले दिन के आखिरी सेशन के खेल में 55 ओवर्स खत्म होने के बाद स्कोर को 4 विकेट के नुकसान पर 134 रन पहुंचा दिया है, जिसमें मिचेल 9 और ब्लंडल 8 रन बनाकर खेल रहे हैं।
+
+क्राइस्टचर्च टेस्ट मैच में पहले दिन के आखिरी सेशन के खेल की शुरुआत हो गई है, जिसमें टीम इंडिया की नजरें कीवी टीम की पहली पारी को समेटने पर रहने वाली हैं। दूसरा सेशन खत्म होने पर न्यूजीलैंड ने अपनी पहली पारी में चार विकेट के नुकसान पर 131 रन बना लिए थे। भारत और न्यूजीलैंड के बीच क्राइस्टचर्च के हेगली ओवल में खेले जा रहे दूसरे टेस्ट मैच के पहले दिन के दूसरे सेशन का खेल खत्म होने पर मेजबान कीवी टीम ने अपनी पहली पारी में 4 विकेट के नुकसान पर 131 रन बना लिए थे, जिसमें इस सेशन में उन्होंने तीन विकेट गंवाए।
+
+क्राइस्टचर्च टेस्ट मैच के पहले दिन के दूसरे सेशन के खेल में न्यूजीलैंड ने अपनी पहली पारी में 110 के स्कोर पर चौथा विकेट गंवा दिया था, जिसके बाद डेरिल मिचेल और टॉम ब्लंडल ने पारी को संभालते हुए पांचवें विकेट के लिए 21 रनों की साझेदारी कर ली है, जिसमें कीवी टीम ने 49 ओवर्स में 130 रन बना लिए हैं।
+
+क्राइस्टचर्च टेस्ट में पहले दिन के दूसरे सेशन के खेल में टीम इंडिया की शानदार वापसी देखने को मिली है, जिसमें न्यूजीलैंड की टीम ने अपनी पहली पारी में 110 के स्कोर पर चौथा विकेट रचिन रवींद्र के रूप में गंवा दिया है, जो बिना खाता खोले आकाश दीप की गेंद पर अपना विकेट गंवा बैठे। वेलिंग्टन टेस्ट मैच में शानदार शतकीय पारी खेलने वाले न्यूजीलैंड टीम के स्टार खिलाड़ी हेनरी निकोल्स क्राइस्टचर्च टेस्ट मैच में कीवी टीम की पहली पारी में सिर्फ 16 रन बनाकर पवेलियन लौट गए हैं, जिसमें उनका विकेट अंशुल कंबोज ने हासिल किया।
+
+न्यूजीलैंड ने अपना तीसरा विकेट 110 के स्कोर पर गंवा दिया है। क्राइस्टचर्च टेस्ट मैच के पहले दिन के दूसरे सेशन के खेल में न्यूजीलैंड ने अपना दूसरा विकेट कप्तान टॉम लैथम के रूप में 110 के स्कोर पर गंवा दिया है। लैथम 59 के निजी स्कोर पर आकाश दीप की गेंद पर अपना विकेट गंवा बैठे जिसमें उनका कैच विकेटकीपर ऋषभ पंत ने पकड़ा।
+
+टॉम लैथम और हेनरी निकोल्स क्राइस्टचर्च टेस्ट मैच के पहले दिन के दूसरे सेशन के खेल में काफी संभलकर बल्लेबाजी करते हुए दिख रहे हैं, जिसमें न्यूजीलैंड की टीम ने अपनी पहली पारी में एक विकेट के नुकसान पर 110 रन बना लिए हैं। लैथम और निकोल्स के बीच दूसरे विकेट के लिए 33 रनों की साझेदारी हो चुकी है।
+
+भारतीय टीम के खिलाफ क्राइस्टचर्च टेस्ट मैच में न्यूजीलैंड की टीम ने पहले दिन के दूसरे सेशन के खेल में अपनी पहली पारी में 100 रनों का आंकड़ा एक विकेट के नुकसान पर पूरा कर लिया है। कीवी टीम ने 36 ओवर्स में 102 रन बना लिए हैं, जिसमें टॉम लैथम 56 और हेनरी निकोल्स 11 रन बनाकर खेल रहे हैं।
+
+न्यूजीलैंड ने क्राइस्टचर्च टेस्ट मैच के पहले दिन के दूसरे सेशन के जारी खेल में अपनी पहली पारी में 34 ओवर्स खत्म होने के बाद एक विकेट के नुकसान पर 95 रन बना लिए हैं, जिसमें टॉम लैथम अर्धशतक पूरा करने के बाद 50 रन बनाकर खेल रहे हैं तो वहीं हेनरी निकोल्स 10 रन बना चुके हैं। भारतीय टीम के खिलाफ पहले टेस्ट मैच की दोनों पारियों में शून्य के स्कोर पर पवेलियन लौटने वाले न्यूजीलैंड के कप्तान टॉम लैथम ने दूसरे टेस्ट में बल्ले से दमदार वापसी की है और दूसरे सेशन की शुरुआत होने के साथ अपना अर्धशतक पूरा कर लिया है।
+
+न्यूजीलैंड ने अपनी पहली पारी में एक विकेट के नुकसान पर 86 रन बना लिए हैं, जिसमें टॉम लैथम 50 और हेनरी निकोल्स एक रन बनाकर खेल रहे हैं। क्राइस्टचर्च टेस्ट मैच में लंच खत्म होने के बाद अब दूसरे सेशन के खेल की शुरुआत हो गई है, जिसमें न्यूजीलैंड की टीम ने पहले सेशन का अंत होने पर अपनी पहली पारी में एक विकेट के नुकसान पर 77 रन बना लिए थे।
+
+टॉम लैथम 77 रन बनाकर खेल रहे हैं तो वहीं डीवोन कॉन्वे 31 रन बनाकर आउट हो गए थे। क्राइस्टचर्च टेस्ट मैच में न्यूजीलैंड ने अपनी पहली पारी में पहला विकेट लंच से ठीक पहले डीवोन कॉन्वे के रूप में 77 के स्कोर पर गंवा दिया है जिनको गुरनूर बरार ने 31 के निजी स्कोर पर LBW करते हुए पवेलियन का रास्ता दिखा।
+
+इस विकेट के साथ ही पहले दिन का पहला सेशन भी खत्म हो गया। भारतीय टीम के खिलाफ क्राइस्टचर्च टेस्ट मैच में टॉस हारने के बाद पहले बल्लेबाजी करने उतरी मेजबान कीवी टीम को टॉम लैथम और डीवोन कॉन्वे की ओपनिंग जोड़ी ने शानदार शुरुआत देते हुए पहले विकेट के लिए 24 ओवर्स में 75 रनों की साझेदारी कर ली है, जिसमें लैथम 41 और कॉन्वे 31 रन बनाकर खेल खेल रहे हैं।
+
+क्राइस्टचर्च टेस्ट मैच में टॉस हारने के बाद पहले बल्लेबाजी करने उतरी मेजबान न्यूजीलैंड की टीम को उनके कप्तान टॉम लैथम और डीवोन कॉन्वे की ओपनिंग जोड़ी ने शानदार शुरुआत देते हुए पहले विकेट के लिए अर्धशतकीय साझेदारी पूरी कर रही है। कीवी टीम ने अपनी पहली पारी में 19 ओवर्स में बिना किसी नुकसान के 51 रन बना लिए हैं, जिसमें टॉम लैथम 31 और डीवोन कॉन्वे 19 रन बनाकर खेल रहे हैं।
+
+क्राइस्टचर्च टेस्ट मैच के पहले दिन के खेल में केएल राहुल ने कीवी कप्तान टॉम लैथम का 29 के निजी स्कोर पर दूसरी स्लिप पर 15वें ओवर्स की पहली गेंद पर जो आकाश दीप ने फेंकी थी उसपर कैच टपका दिया है, जिससे टीम इंडिया की पहले विकेट की तलाश अब और लंबी हो गई है। भारतीय टीम के खिलाफ क्राइस्टचर्च टेस्ट मैच में मेजबान न्यूजीलैंड की टीम टॉस हारने के बाद पहले बल्लेबाजी कर रही है, जिसमें टॉम लैथम और डीवोन कॉन्वे की ओपनिंग जोड़ी काफी संभलकर खेलते हुए दिख रही है।
+
+दोनों ने मिलकर पहले 10 ओवर्स में 26 रनों की साझेदारी कर ली है। क्राइस्टचर्च टेस्ट मैच में टॉस हारने के बाद पहले बल्लेबाजी करने उतरी मेजबान न्यूजीलैंड की टीम ने अपनी पहली पारी में 6 ओवर्स खत्म होने के बाद बिना किसी नुकसान के 8 रन बना लिए हैं, जिसमें टॉम लैथम 8 रन बनाकर खेल रहे हैं तो वहीं डीवोन कॉन्वे ने अभी अपना खाता नहीं खोला है।
+
+क्राइस्टचर्च टेस्ट मैच में भारतीय टीम के कप्तान शुभमन गिल ने टॉस जीतने के बाद पहले गेंदबाजी करने का फैसला लिया है, जिसमें शुरुआती 3 ओवर्स में बुमराह और कंबोज ने पिच में मौजूद नमी का फायदा नई गेंद से उठाते हुए दिख रहे हैं, जिसमें लैथम और कॉन्वे की ओपनिंग जोड़ी काफी संभलकर बल्लेबाजी करते हुए दिख रही है।
+
+क्राइस्टचर्च टेस्ट मैच में भारतीय टीम के टॉस जीतकर पहले गेंदबाजी करने के फैसले के बाद मेजबान न्यूजीलैंड की पहली पारी का आगाज हो गया है, जिसमें उनकी तरफ से ओपनिंग में कप्तान टॉम लैथम के साथ डीवोन कॉन्वे बल्लेबाजी करने मैदान पर उतरे हैं। टॉम लैथम (कप्तान), डेवोन कॉन्वे, हेनरी निकोल्स, रचिन रवींद्र, डेरिल मिचेल, टॉम ब्लंडल (विकेटकीपर), ग्लेन फिलिप्स, नाथन स्मिथ, काइल जैमीसन, मैट हेनरी, जैकब डफी।
+
+केएल राहुल, यशस्वी जायसवाल, देवदत्त पडिक्कल, शुभमन गिल (कप्तान), ऋषभ पंत (विकेटकीपर), वाशिंगटन सुंदर, ध्रुव जुरेल, आकाश दीप, अंशुल कंबोज, गुरनूर बरार, जसप्रीत बुमराह। भारत और न्यूजीलैंड के बीच खेली जा रही दो टेस्ट मैचों की सीरीज का दूसरा मुकाबला क्राइस्टचर्च के हेगली ओवल स्टेडियम में खेला जा रहा है, जिसमें भारतीय टीम के कप्तान शुभमन गिल ने टॉस जीतने के बाद पहले गेंदबाजी करने का फैसला लिया है।
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/sports/cricket/ind-vs-nz-hagley-oval-christchurch-test-day-1-live-score-updates-and-hindi-commentary-india-vs-new-zealand-1256664)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `IND vs NZ Christchurch Test Day 1: पहले दिन का खेल हुआ खत्म, कॉन्वे के बाद ब्लंडल ने संभाली न्यूजीलैंड की प - India TV Hindi`,
+    summary_hi: `भारत और न्यूजीलैंड के बीच खेली जा रही दो टेस्ट मैचों की सीरीज का दूसरा और आखिरी टेस्ट मैच क्राइस्टचर्च के हेगली ओवल स्टेडियम में खेला जा रहा है। इस टेस्ट मैच में भारतीय कप्तान शुभमन गिल ने टॉस जीतने के बाद पहले गेंदबाजी करने का फैसला लिया थ`,
+    content_hi: `भारत और न्यूजीलैंड के बीच खेली जा रही दो टेस्ट मैचों की सीरीज का दूसरा और आखिरी टेस्ट मैच क्राइस्टचर्च के हेगली ओवल स्टेडियम में खेला जा रहा है। इस टेस्ट मैच में भारतीय कप्तान शुभमन गिल ने टॉस जीतने के बाद पहले गेंदबाजी करने का फैसला लिया था, जिसके बाद पहले दिन का खेल खत्म होने के पर टॉस हारने के बाद पहले बल्लेबाजी करने उतरी मेजबान कीवी टीम ने अपनी पहली पारी में 5 विकेट के नुकसान पर 246 रनों का स्कोर बना लिया था।
+
+दिन का खेल खत्म होने पर टॉम ब्लंडल 53 और ग्लेन फिलिप्स 36 रन बनाकर नाबाद थे। वहीं टीम इंडिया की तरफ से गेंदबाजी में पहले दिन के खेल में आकाश दीप ने 2 जबकि अंशुल कंबोज, वाशिंगटन सुंदर और टेस्ट क्रिकेट में डेब्यू कर रहे गुरनूर बरार ने 1-1 विकेट हासिल किया। पहला सेशन रहा न्यूजीलैंड की टीम के नाम टॉस हारने के बाद पहले बल्लेबाजी करने उतरी न्यूजीलैंड टीम की तरफ से पहले सेशन में बल्ले से शानदार प्रदर्शन देखने को मिला, जिसमें उन्होंने लंच से ठीक पहले सिर्फ एक विकेट डीवोन कॉन्वे के रूप में गंवाया।
+
+टॉम लैथम और कॉन्वे की ओपनिंग जोड़ी ने शुरुआती ओवर्स में काफी संभलकर बल्लेबाजी की जिसमें लैथम को एक जीवनदान भी मिला दोनों ने एकबार अपनी नजरें जमाने के बाद रन गति को तेज किया। लैथम और कॉन्वे के बीच पहले विकेट के लिए 77 रनों की साझेदारी हुई, जिसमें कॉन्वे का विकेट गिरने के साथ अंपायर्स ने पहला सेशन खत्म करने का फैसला भी ले लिया।
+
+दूसरे सेशन में टीम इंडिया ने की शानदार वापसी क्राइस्टचर्च टेस्ट मैच के पहले दिन का पहला सेशन जहां न्यूजीलैंड टीम के नाम रहा तो वहीं दूसरे सेशन में टीम इंडिया वापसी करने में कामयाब रही, जिसमें इस सेशन में कीवी टीम ने अपने तीन अहम विकेट गंवा दिए। न्यूजीलैंड के कप्तान टॉम लैथम जहां अपना अर्धशतक पूरा करने के बाद 59 के निजी स्कोर पर आकाश दीप का शिकार बने तो वहीं हेनरी निकोल्स को 16 के निजी स्कोर पर अंशुल कंबोज ने पवेलियन का रास्ता दिखाया।
+
+इसके बाद रचिन रवींद्र बिना खाता खोले आकाश दीप की गेंद पर अपना विकेट गंवा बैठे। आखिरी सेशन में न्यूजीलैंड ने गंवाया सिर्फ एक विकेट, ब्लंडल ने जड़ा अर्धशतक पहले दिन के आखिरी सेशन के खेल में न्यूजीलैंड की टीम को उनकी पहली पारी में पांचवां झटका 184 के स्कोर पर डेरिल मिचेल के रूप में लगा जो 31 रन बनाकर वाशिंगटन सुंदर की गेंद पर अपना विकेट गंवा बैठे।
+
+इसके बाद बल्लेबाजी करने उतरे ग्लेन फिलिप्स ने टॉम ब्लंडल का बखूबी साथ देते हुए दिन का अंत होने तक कोई और झटका नहीं लगने दिया। टॉम ब्लंडल ने जहां अपना अर्धशतक पूरा करने के बाद 53 रन बनाकर नाबाद थे तो वहीं ग्लेन फिलिप्स 36 रन बना चुके थे। दूसरे टेस्ट के लिए दोनों टीमों की प्लेइंग 11 भारत - केएल राहुल, यशस्वी जायसवाल, देवदत्त पडिक्कल, शुभमन गिल (कप्तान), ऋषभ पंत (विकेटकीपर), वाशिंगटन सुंदर, ध्रुव जुरेल, आकाश दीप, अंशुल कंबोज, गुरनूर बरार, जसप्रीत बुमराह।
+
+न्यूजीलैंड - टॉम लैथम (कप्तान), डेवोन कॉन्वे, हेनरी निकोल्स, रचिन रवींद्र, डेरिल मिचेल, टॉम ब्लंडल (विकेटकीपर), ग्लेन फिलिप्स, नाथन स्मिथ, काइल जैमीसन, मैट हेनरी, जैकब डफी। क्राइस्टचर्च टेस्ट मैच के पहले दिन के खेल में कुल 85 ओवर्स की गेंदबाजी हुई जिसमें टॉस हारने के बाद पहले बल्लेबाजी करने उतरी मेजबान कीवी टीम ने दिन का खेल खत्म होने पर अपनी पहली पारी में 5 विकेट के नुकसान पर 246 रन बना लिए थे।
+
+टॉम ब्लंडल 53 और ग्लेन फिलिप्स 36 रन बनाकर खेल रहे थे। क्राइस्टचर्च टेस्ट मैच के पहले दिन के आखिरी सेशन के खेल में न्यूजीलैंड टीम की पहली पारी में उनके विकेटकीपर बल्लेबाज टॉम ब्लंडल अपनी फिफ्टी पूरी करने में कामयाब हो गए हैं। ब्लंडल ने अपना अर्धशतक 114 गेंदों में पूरा किया है जिसमें उन्होंने 6 चौके लगाए हैं।
+
+क्राइस्टचर्च टेस्ट के पहले दिन के खेल में न्यूजीलैंड टीम की पहली पारी में आखिरी सेशन के दौरान 80 ओवर्स पूरे होने के बाद भारतीय टीम ने नई गेंद लेने में बिल्कुल भी देर नहीं लगाई जिसमें उन्होंने 81वें ओवर की दूसरी गेंद के बाद नई गेंद लेने का फैसला लिया। क्राइस्टचर्च टेस्ट मैच के पहले दिन के आखिरी सेशन के खेल में न्यूजीलैंड टीम की पहली पारी में ग्लेन फिलिप्स और टॉम ब्लंडल के बीच छठे विकेट के लिए अर्धशतकीय साझेदारी पूरी हो चुकी है।
+
+न्यूजीलैंड की टीम ने अपनी पहली पारी में 80 ओवर्स खत्म होने के बाद 5 विकेट के नुकसान पर 237 रन बना लिए हैं। क्राइस्टचर्च टेस्ट मैच के पहले दिन के आखिरी सेशन के खेल में न्यूजीलैंड की टीम ने अपनी पहली पारी में 200 रनों का स्कोर पार कर लिया है, जिसमें कीवी टीम ने 74 ओवर्स में 5 विकेट के नुकसान पर 219 रन बना लिए हैं।
+
+टॉम ब्लंडल 38 और ग्लेन फिलिप्स 24 रन बनाकर खेल रहे हैं। क्राइस्टचर्च टेस्ट मैच के पहले दिन के आखिरी सेशन के खेल में मेजबान न्यूजीलैंड की टीम ने अपनी पहली पारी में 69 ओवर्स का खेल खत्म होने के बाद 5 विकेट के नुकसान पर 193 रन बना लिए थे, जिसमें टॉम ब्लंडल 36 और ग्लेन फिलिप्स 4 रन बनाकर खेल रहे हैं।
+
+न्यूजीलैंड की टीम ने क्राइस्टचर्च टेस्ट मैच के पहले दिन अपनी पहली पारी में पांचवां विकेट डेरिल मिचेल के रूप में 184 के स्कोर पर गंवा दिया है, जो 31 के निजी स्कोर पर वाशिंगटन सुंदर की गेंद पर ध्रुव जुरेल की गेंद पर अपना विकेट गंवा बैठे। अब मैदान पर बल्लेबाजी करने ग्लेन फिलिप्स उतरे हैं।
+
+क्राइस्टचर्च टेस्ट में न्यूजीलैंड ने अपनी पहली पारी में 110 के स्कोर पर चार विकेट गंवा दिए थे, जिसके बाद टॉम ब्लंडल और डेरिल मिचेल ने पारी को संभालते हुए पांचवें विकेट के लिए अर्धशतकीय साझेदारी को पूरा कर लिया है। न्यूजीलैंड ने अपनी पहली पारी में 62 ओवर्स में 4 विकेट के नुकसान पर 172 रन बना लिए थे, जिसमें मिचेल 30 और ब्लंडल 24 रन बनाकर खेल रहे हैं।
+
+110 के स्कोर पर बैक टू बैक तीन विकेट गंवाने के बाद अब डेरिल मिचेल और टॉम ब्लंडल ने न्यूजीलैंड की पहली पारी को संभाल लिया है, जिसमें दोनों ने पहले दिन के आखिरी सेशन के खेल में 55 ओवर्स खत्म होने के बाद स्कोर को 4 विकेट के नुकसान पर 134 रन पहुंचा दिया है, जिसमें मिचेल 9 और ब्लंडल 8 रन बनाकर खेल रहे हैं।
+
+क्राइस्टचर्च टेस्ट मैच में पहले दिन के आखिरी सेशन के खेल की शुरुआत हो गई है, जिसमें टीम इंडिया की नजरें कीवी टीम की पहली पारी को समेटने पर रहने वाली हैं। दूसरा सेशन खत्म होने पर न्यूजीलैंड ने अपनी पहली पारी में चार विकेट के नुकसान पर 131 रन बना लिए थे। भारत और न्यूजीलैंड के बीच क्राइस्टचर्च के हेगली ओवल में खेले जा रहे दूसरे टेस्ट मैच के पहले दिन के दूसरे सेशन का खेल खत्म होने पर मेजबान कीवी टीम ने अपनी पहली पारी में 4 विकेट के नुकसान पर 131 रन बना लिए थे, जिसमें इस सेशन में उन्होंने तीन विकेट गंवाए।
+
+क्राइस्टचर्च टेस्ट मैच के पहले दिन के दूसरे सेशन के खेल में न्यूजीलैंड ने अपनी पहली पारी में 110 के स्कोर पर चौथा विकेट गंवा दिया था, जिसके बाद डेरिल मिचेल और टॉम ब्लंडल ने पारी को संभालते हुए पांचवें विकेट के लिए 21 रनों की साझेदारी कर ली है, जिसमें कीवी टीम ने 49 ओवर्स में 130 रन बना लिए हैं।
+
+क्राइस्टचर्च टेस्ट में पहले दिन के दूसरे सेशन के खेल में टीम इंडिया की शानदार वापसी देखने को मिली है, जिसमें न्यूजीलैंड की टीम ने अपनी पहली पारी में 110 के स्कोर पर चौथा विकेट रचिन रवींद्र के रूप में गंवा दिया है, जो बिना खाता खोले आकाश दीप की गेंद पर अपना विकेट गंवा बैठे। वेलिंग्टन टेस्ट मैच में शानदार शतकीय पारी खेलने वाले न्यूजीलैंड टीम के स्टार खिलाड़ी हेनरी निकोल्स क्राइस्टचर्च टेस्ट मैच में कीवी टीम की पहली पारी में सिर्फ 16 रन बनाकर पवेलियन लौट गए हैं, जिसमें उनका विकेट अंशुल कंबोज ने हासिल किया।
+
+न्यूजीलैंड ने अपना तीसरा विकेट 110 के स्कोर पर गंवा दिया है। क्राइस्टचर्च टेस्ट मैच के पहले दिन के दूसरे सेशन के खेल में न्यूजीलैंड ने अपना दूसरा विकेट कप्तान टॉम लैथम के रूप में 110 के स्कोर पर गंवा दिया है। लैथम 59 के निजी स्कोर पर आकाश दीप की गेंद पर अपना विकेट गंवा बैठे जिसमें उनका कैच विकेटकीपर ऋषभ पंत ने पकड़ा।
+
+टॉम लैथम और हेनरी निकोल्स क्राइस्टचर्च टेस्ट मैच के पहले दिन के दूसरे सेशन के खेल में काफी संभलकर बल्लेबाजी करते हुए दिख रहे हैं, जिसमें न्यूजीलैंड की टीम ने अपनी पहली पारी में एक विकेट के नुकसान पर 110 रन बना लिए हैं। लैथम और निकोल्स के बीच दूसरे विकेट के लिए 33 रनों की साझेदारी हो चुकी है।
+
+भारतीय टीम के खिलाफ क्राइस्टचर्च टेस्ट मैच में न्यूजीलैंड की टीम ने पहले दिन के दूसरे सेशन के खेल में अपनी पहली पारी में 100 रनों का आंकड़ा एक विकेट के नुकसान पर पूरा कर लिया है। कीवी टीम ने 36 ओवर्स में 102 रन बना लिए हैं, जिसमें टॉम लैथम 56 और हेनरी निकोल्स 11 रन बनाकर खेल रहे हैं।
+
+न्यूजीलैंड ने क्राइस्टचर्च टेस्ट मैच के पहले दिन के दूसरे सेशन के जारी खेल में अपनी पहली पारी में 34 ओवर्स खत्म होने के बाद एक विकेट के नुकसान पर 95 रन बना लिए हैं, जिसमें टॉम लैथम अर्धशतक पूरा करने के बाद 50 रन बनाकर खेल रहे हैं तो वहीं हेनरी निकोल्स 10 रन बना चुके हैं। भारतीय टीम के खिलाफ पहले टेस्ट मैच की दोनों पारियों में शून्य के स्कोर पर पवेलियन लौटने वाले न्यूजीलैंड के कप्तान टॉम लैथम ने दूसरे टेस्ट में बल्ले से दमदार वापसी की है और दूसरे सेशन की शुरुआत होने के साथ अपना अर्धशतक पूरा कर लिया है।
+
+न्यूजीलैंड ने अपनी पहली पारी में एक विकेट के नुकसान पर 86 रन बना लिए हैं, जिसमें टॉम लैथम 50 और हेनरी निकोल्स एक रन बनाकर खेल रहे हैं। क्राइस्टचर्च टेस्ट मैच में लंच खत्म होने के बाद अब दूसरे सेशन के खेल की शुरुआत हो गई है, जिसमें न्यूजीलैंड की टीम ने पहले सेशन का अंत होने पर अपनी पहली पारी में एक विकेट के नुकसान पर 77 रन बना लिए थे।
+
+टॉम लैथम 77 रन बनाकर खेल रहे हैं तो वहीं डीवोन कॉन्वे 31 रन बनाकर आउट हो गए थे। क्राइस्टचर्च टेस्ट मैच में न्यूजीलैंड ने अपनी पहली पारी में पहला विकेट लंच से ठीक पहले डीवोन कॉन्वे के रूप में 77 के स्कोर पर गंवा दिया है जिनको गुरनूर बरार ने 31 के निजी स्कोर पर LBW करते हुए पवेलियन का रास्ता दिखा।
+
+इस विकेट के साथ ही पहले दिन का पहला सेशन भी खत्म हो गया। भारतीय टीम के खिलाफ क्राइस्टचर्च टेस्ट मैच में टॉस हारने के बाद पहले बल्लेबाजी करने उतरी मेजबान कीवी टीम को टॉम लैथम और डीवोन कॉन्वे की ओपनिंग जोड़ी ने शानदार शुरुआत देते हुए पहले विकेट के लिए 24 ओवर्स में 75 रनों की साझेदारी कर ली है, जिसमें लैथम 41 और कॉन्वे 31 रन बनाकर खेल खेल रहे हैं।
+
+क्राइस्टचर्च टेस्ट मैच में टॉस हारने के बाद पहले बल्लेबाजी करने उतरी मेजबान न्यूजीलैंड की टीम को उनके कप्तान टॉम लैथम और डीवोन कॉन्वे की ओपनिंग जोड़ी ने शानदार शुरुआत देते हुए पहले विकेट के लिए अर्धशतकीय साझेदारी पूरी कर रही है। कीवी टीम ने अपनी पहली पारी में 19 ओवर्स में बिना किसी नुकसान के 51 रन बना लिए हैं, जिसमें टॉम लैथम 31 और डीवोन कॉन्वे 19 रन बनाकर खेल रहे हैं।
+
+क्राइस्टचर्च टेस्ट मैच के पहले दिन के खेल में केएल राहुल ने कीवी कप्तान टॉम लैथम का 29 के निजी स्कोर पर दूसरी स्लिप पर 15वें ओवर्स की पहली गेंद पर जो आकाश दीप ने फेंकी थी उसपर कैच टपका दिया है, जिससे टीम इंडिया की पहले विकेट की तलाश अब और लंबी हो गई है। भारतीय टीम के खिलाफ क्राइस्टचर्च टेस्ट मैच में मेजबान न्यूजीलैंड की टीम टॉस हारने के बाद पहले बल्लेबाजी कर रही है, जिसमें टॉम लैथम और डीवोन कॉन्वे की ओपनिंग जोड़ी काफी संभलकर खेलते हुए दिख रही है।
+
+दोनों ने मिलकर पहले 10 ओवर्स में 26 रनों की साझेदारी कर ली है। क्राइस्टचर्च टेस्ट मैच में टॉस हारने के बाद पहले बल्लेबाजी करने उतरी मेजबान न्यूजीलैंड की टीम ने अपनी पहली पारी में 6 ओवर्स खत्म होने के बाद बिना किसी नुकसान के 8 रन बना लिए हैं, जिसमें टॉम लैथम 8 रन बनाकर खेल रहे हैं तो वहीं डीवोन कॉन्वे ने अभी अपना खाता नहीं खोला है।
+
+क्राइस्टचर्च टेस्ट मैच में भारतीय टीम के कप्तान शुभमन गिल ने टॉस जीतने के बाद पहले गेंदबाजी करने का फैसला लिया है, जिसमें शुरुआती 3 ओवर्स में बुमराह और कंबोज ने पिच में मौजूद नमी का फायदा नई गेंद से उठाते हुए दिख रहे हैं, जिसमें लैथम और कॉन्वे की ओपनिंग जोड़ी काफी संभलकर बल्लेबाजी करते हुए दिख रही है।
+
+क्राइस्टचर्च टेस्ट मैच में भारतीय टीम के टॉस जीतकर पहले गेंदबाजी करने के फैसले के बाद मेजबान न्यूजीलैंड की पहली पारी का आगाज हो गया है, जिसमें उनकी तरफ से ओपनिंग में कप्तान टॉम लैथम के साथ डीवोन कॉन्वे बल्लेबाजी करने मैदान पर उतरे हैं। टॉम लैथम (कप्तान), डेवोन कॉन्वे, हेनरी निकोल्स, रचिन रवींद्र, डेरिल मिचेल, टॉम ब्लंडल (विकेटकीपर), ग्लेन फिलिप्स, नाथन स्मिथ, काइल जैमीसन, मैट हेनरी, जैकब डफी।
+
+केएल राहुल, यशस्वी जायसवाल, देवदत्त पडिक्कल, शुभमन गिल (कप्तान), ऋषभ पंत (विकेटकीपर), वाशिंगटन सुंदर, ध्रुव जुरेल, आकाश दीप, अंशुल कंबोज, गुरनूर बरार, जसप्रीत बुमराह। भारत और न्यूजीलैंड के बीच खेली जा रही दो टेस्ट मैचों की सीरीज का दूसरा मुकाबला क्राइस्टचर्च के हेगली ओवल स्टेडियम में खेला जा रहा है, जिसमें भारतीय टीम के कप्तान शुभमन गिल ने टॉस जीतने के बाद पहले गेंदबाजी करने का फैसला लिया है।
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/sports/cricket/ind-vs-nz-hagley-oval-christchurch-test-day-1-live-score-updates-and-hindi-commentary-india-vs-new-zealand-1256664)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट India TV Hindi के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक IND vs NZ Christchurch Test Day 1: पहले दिन का खेल हुआ खत्म, कॉन्वे के बाद ब्लंडल ने संभाली न्यूजीलैंड की प - India TV Hindi से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `India TV Hindi`,
+  },
+  {
+    id: 98083,
+    title: `‘Gunmaaster G9’ movie review: Emraan Hashmi’s pulpier action-hero turn hits more than it loses`,
+    slug: `gunmaaster-g9-movie-review-emraan-hashmis-pulpier-action-hero-turn-hit-2026`,
+    original_title: `‘Gunmaaster G9’ movie review: Emraan Hashmi’s pulpier action-hero turn hits more than it loses`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:33Z`,
+    updated_at: `2026-11-27T14:05:33Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/entertainment/movies/gunmaaster-g9-movie-review-emraan-hashmi-himesh-reshammiya-genelia-deshmukh-aparshakti-khurana/article71750180.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/gunmaaster-g9-movie-review-emraan-hashmis-pulpier-action-hero-turn-hit-2026.jpg`,
+    image_alt: `‘Gunmaaster G9’ movie review: Emraan Hashmi’s pulpier action-hero turn hits more than it loses`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Beyond the edifice of the bad-boy persona popularised during the late 2000s, there is an inherent lover boy in Emraan Hashmi. His presence commands unmissable warmth and genuine likeability; he is a bad boy with a heart. Awarapan understood`,
+    content: `Beyond the edifice of the bad-boy persona popularised during the late 2000s, there is an inherent lover boy in Emraan Hashmi. His presence commands unmissable warmth and genuine likeability; he is a bad boy with a heart. Awarapan understood this, and Emraan transformed the film’s rougher edges into timeless appeal.
+
+The sequel cashed in on the familiarity with little invention, and it still struck a minor chord. Now, Gunmaaster G9 comes amidst Hindi cinema’s ever-lasting obsession with guns and violence. It is what has made even Shah Rukh Khan go on a killing spree in his upcoming King. The soft spots are hardened.
+
+Our lovers have turned into fighters. interview You can make a good film in quick time: Emraan Hashmi  Shifting gears: Emraan Hashmi enjoying the Delhi winter  ‘Awarapan 2’ movie review: Emraan Hashmi’s faded sequel doesn’t rise from the riches of its past storyline 1 ‘Gunmaaster G9’ trailer: Emraan Hashmi is out to take revenge in pulpy actioner storyline 1 ‘Tu Mil Jaye’: Shah Rukh Khan unveils first song from ‘King’ on his 61st birthday storyline 1 There is an earthy resonance with which Emraan is presented in the film.
+
+His milk-seller businessman, Eeshwar, who owns a large farm and has a dark past, feels like he has come straight out of a Hindi pulp fiction novel from the nineties. With a tattoo of a bull on his forearm and that of Shiva on his heart, Eeshwar is draped in cultural iconographies, even as his fighting style mirrors slick gunslingers from American westerns.
+
+He is a magician with the gun and is also equipped to slash bodies with a trident as the film deifies him in a pivotal, nail-biting sequence in the second half. In short, Eeshwar is desi at heart, videsi in action. ‘He has a dirty sense of humour’ ‘He has a dirty sense of humour’ Says Emran Hashmi describing his character in Raja Natwarlal.
+
+feature ‘He has a dirty sense of humour’ Emran and Humaima. Photo: PTI It is that blend of style and pulse that is at the centre of Aditya Datt’s Gunmaaster G9. It is a world filled with excess, beginning with a violent introduction to the menacing nemesis, Desu Rathi (Aparshakti Khurana), who mercilessly butchers the family members of an undercover cop operating in his gang.
+
+Eeshwar leads a parallel life in peace in Haridwar with his wife, Aarti (Genelia Deshmukh is believable although with its share of emotional inconsistencies), and daughter, Jiya (Inayat Verma). However, a cop blackmails Eeshwar into infiltrating Desu’s gang, making the famed gun master return into the glory of his past exploits.
+
+Gunmaaster G9 (Hindi) Director: Aditya Datt Cast: Emraan Hashmi, Genelia Deshmukh, Aparshakti Khurana, Inayat Verma Runtime: 143 minutes Storyline: A milk-selling businessman has to reconnect with his darker past as a stylish gunslinger to infiltrate a crime lord’s gang. While the film begins with flair, cracks in the tale start to appear beneath all the spectacular visual play.
+
+Eeshwar’s rise to become the dreaded gun master is not delved into as much and is restricted to a few montages. His earlier relationship with Desu is only implied but never as closely interlinked, which makes it further difficult to connect with the dynamics between the two, especially given that Eeshwar takes an important decision at the intermission point.
+
+This is also when the film struggles most to regenerate the promise it shows in the expository first half, which ably establishes Eeshwar as a formidable warrior faced with a difficult choice to return to his dark side. Complexity is not the arena of Gunmaaster G9. The film straddles along while taking a leap of faith in its gory, hyperbolic action, punchy dialogues and Himesh Reshammiya’s resounding, auto-tuned nasal voice hitting the upper notes in ‘Afsaana, Afsaana’.
+
+When its trailer came out, the title track seemed more like a forced callback to Emraan, Aditya and Himesh’s 2005 collaboration Aashiq Banaya Aapne. However, it attains the truth of its texture within the high-octane idiosyncrasies of the world, with Himesh creating a rustic charm in the music, even if it is rendered with an awkward play of words.
+
+story The songs you remember from the films you don’t They tuned well: (From left) Pyarelal, Lata Mangeshkar, Kishore Kumar,  Anand Bakshi and Laxmikant. feature Some swagger, some sorrow Martin Garixx Filled with tacky flourishes, Gunmaaster G9 stays true to its old-school reckoning while keeping space for minor subversions, especially in the character progression of Aarti.
+
+Its exaggeration is not entirely self-aware, as it blatantly sexualises Avneet Kaur in a typical dance number, belittles trans folks in a casual dialogue, and repeatedly places women in intensely violent situations, often subjecting them to lecherous threats and actions for gratuitous cinematic spectacle.
+
+The exploitative nature of these sequences was a regularity in 80s and 90s Hindi cinema, whose style Gunmaaster G9 tries to recreate, but to do that without infusing any layer of progressive commentary hollows out the portrayal, especially for a film that understands the grammar of potboiler cinema so well.
+
+The only relief in these shortcomings is seeing Emraan fully committing to the masala ethos. He is effective in embodying the softer shades of Eeshwar as much as he is in infusing a hue of rage into his violent side. The over-the-top, pulpy glorification serves him well, with the actor adding a life-like quality to the comic-book elements of the man.
+
+Aparshakti Khurana is electric in his turn as the maniacal antagonist. He lends the character some distinctive traits, seen especially in his Haryanvi dialogue delivery, as he avoids falling into the trap of performing only to sway. feature Aparshakti Khurana: Sportsman at heart  On a new pitch: Aparshakti Khurana is relishing his foray in front of the camera   Sooraj Barjatya is back on the horizon with a new Prem, a new promise Sooraj Barjatya is back on the horizon with a new Prem, a new promise With Ayushmann Khurrana as his new voice, the architect of the great Indian wedding, shifts his lens from preserving tradition to sparking social change.
+
+The veteran filmmaker gets candid about his cinematic universe, his abiding love for Noddy comics, the evolution of the Rajshri heroine, and why simplicity is back in vogue Sooraj Barjatya is back on the horizon with a new Prem, a new promise storyline 1 The comforts of such familiarities work in favour of Gunmaaster G9.
+
+The theatres this Friday are anyway ringing with the tunes of nostalgia as Aparshakti’s brother Ayushmann Khurrana leads another Himesh Reshammiya musical. For Emraan, it is a second turn, after he reprised his much-loved role of Shivam in Awarapan 2 this August. The patterns are not new; it is just good old Emraan jovially lip-syncing over the voice of Himesh while also breaking some bones along the way.
+
+‘Awarapan 2’ movie review: Emraan Hashmi’s faded sequel doesn’t rise from the riches of its past storyline 1 We have seen you fight effectively. Now can we see you in a softer, wholehearted world of mushy love too, Emraan? Gunmaaster G9 is currently running in theatres  Gunmaaster G9 (Hindi) Director: Aditya Datt Cast: Emraan Hashmi, Genelia Deshmukh, Aparshakti Khurana, Inayat Verma Runtime: 143 minutes Storyline: A milk-selling businessman has to reconnect with his darker past as a stylish gunslinger to infiltrate a crime lord’s gang.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/entertainment/movies/gunmaaster-g9-movie-review-emraan-hashmi-himesh-reshammiya-genelia-deshmukh-aparshakti-khurana/article71750180.ece)`,
+    title_en: `‘Gunmaaster G9’ movie review: Emraan Hashmi’s pulpier action-hero turn hits more than it loses`,
+    summary_en: `Beyond the edifice of the bad-boy persona popularised during the late 2000s, there is an inherent lover boy in Emraan Hashmi. His presence commands unmissable warmth and genuine likeability; he is a bad boy with a heart. Awarapan understood`,
+    content_en: `Beyond the edifice of the bad-boy persona popularised during the late 2000s, there is an inherent lover boy in Emraan Hashmi. His presence commands unmissable warmth and genuine likeability; he is a bad boy with a heart. Awarapan understood this, and Emraan transformed the film’s rougher edges into timeless appeal.
+
+The sequel cashed in on the familiarity with little invention, and it still struck a minor chord. Now, Gunmaaster G9 comes amidst Hindi cinema’s ever-lasting obsession with guns and violence. It is what has made even Shah Rukh Khan go on a killing spree in his upcoming King. The soft spots are hardened.
+
+Our lovers have turned into fighters. interview You can make a good film in quick time: Emraan Hashmi  Shifting gears: Emraan Hashmi enjoying the Delhi winter  ‘Awarapan 2’ movie review: Emraan Hashmi’s faded sequel doesn’t rise from the riches of its past storyline 1 ‘Gunmaaster G9’ trailer: Emraan Hashmi is out to take revenge in pulpy actioner storyline 1 ‘Tu Mil Jaye’: Shah Rukh Khan unveils first song from ‘King’ on his 61st birthday storyline 1 There is an earthy resonance with which Emraan is presented in the film.
+
+His milk-seller businessman, Eeshwar, who owns a large farm and has a dark past, feels like he has come straight out of a Hindi pulp fiction novel from the nineties. With a tattoo of a bull on his forearm and that of Shiva on his heart, Eeshwar is draped in cultural iconographies, even as his fighting style mirrors slick gunslingers from American westerns.
+
+He is a magician with the gun and is also equipped to slash bodies with a trident as the film deifies him in a pivotal, nail-biting sequence in the second half. In short, Eeshwar is desi at heart, videsi in action. ‘He has a dirty sense of humour’ ‘He has a dirty sense of humour’ Says Emran Hashmi describing his character in Raja Natwarlal.
+
+feature ‘He has a dirty sense of humour’ Emran and Humaima. Photo: PTI It is that blend of style and pulse that is at the centre of Aditya Datt’s Gunmaaster G9. It is a world filled with excess, beginning with a violent introduction to the menacing nemesis, Desu Rathi (Aparshakti Khurana), who mercilessly butchers the family members of an undercover cop operating in his gang.
+
+Eeshwar leads a parallel life in peace in Haridwar with his wife, Aarti (Genelia Deshmukh is believable although with its share of emotional inconsistencies), and daughter, Jiya (Inayat Verma). However, a cop blackmails Eeshwar into infiltrating Desu’s gang, making the famed gun master return into the glory of his past exploits.
+
+Gunmaaster G9 (Hindi) Director: Aditya Datt Cast: Emraan Hashmi, Genelia Deshmukh, Aparshakti Khurana, Inayat Verma Runtime: 143 minutes Storyline: A milk-selling businessman has to reconnect with his darker past as a stylish gunslinger to infiltrate a crime lord’s gang. While the film begins with flair, cracks in the tale start to appear beneath all the spectacular visual play.
+
+Eeshwar’s rise to become the dreaded gun master is not delved into as much and is restricted to a few montages. His earlier relationship with Desu is only implied but never as closely interlinked, which makes it further difficult to connect with the dynamics between the two, especially given that Eeshwar takes an important decision at the intermission point.
+
+This is also when the film struggles most to regenerate the promise it shows in the expository first half, which ably establishes Eeshwar as a formidable warrior faced with a difficult choice to return to his dark side. Complexity is not the arena of Gunmaaster G9. The film straddles along while taking a leap of faith in its gory, hyperbolic action, punchy dialogues and Himesh Reshammiya’s resounding, auto-tuned nasal voice hitting the upper notes in ‘Afsaana, Afsaana’.
+
+When its trailer came out, the title track seemed more like a forced callback to Emraan, Aditya and Himesh’s 2005 collaboration Aashiq Banaya Aapne. However, it attains the truth of its texture within the high-octane idiosyncrasies of the world, with Himesh creating a rustic charm in the music, even if it is rendered with an awkward play of words.
+
+story The songs you remember from the films you don’t They tuned well: (From left) Pyarelal, Lata Mangeshkar, Kishore Kumar,  Anand Bakshi and Laxmikant. feature Some swagger, some sorrow Martin Garixx Filled with tacky flourishes, Gunmaaster G9 stays true to its old-school reckoning while keeping space for minor subversions, especially in the character progression of Aarti.
+
+Its exaggeration is not entirely self-aware, as it blatantly sexualises Avneet Kaur in a typical dance number, belittles trans folks in a casual dialogue, and repeatedly places women in intensely violent situations, often subjecting them to lecherous threats and actions for gratuitous cinematic spectacle.
+
+The exploitative nature of these sequences was a regularity in 80s and 90s Hindi cinema, whose style Gunmaaster G9 tries to recreate, but to do that without infusing any layer of progressive commentary hollows out the portrayal, especially for a film that understands the grammar of potboiler cinema so well.
+
+The only relief in these shortcomings is seeing Emraan fully committing to the masala ethos. He is effective in embodying the softer shades of Eeshwar as much as he is in infusing a hue of rage into his violent side. The over-the-top, pulpy glorification serves him well, with the actor adding a life-like quality to the comic-book elements of the man.
+
+Aparshakti Khurana is electric in his turn as the maniacal antagonist. He lends the character some distinctive traits, seen especially in his Haryanvi dialogue delivery, as he avoids falling into the trap of performing only to sway. feature Aparshakti Khurana: Sportsman at heart  On a new pitch: Aparshakti Khurana is relishing his foray in front of the camera   Sooraj Barjatya is back on the horizon with a new Prem, a new promise Sooraj Barjatya is back on the horizon with a new Prem, a new promise With Ayushmann Khurrana as his new voice, the architect of the great Indian wedding, shifts his lens from preserving tradition to sparking social change.
+
+The veteran filmmaker gets candid about his cinematic universe, his abiding love for Noddy comics, the evolution of the Rajshri heroine, and why simplicity is back in vogue Sooraj Barjatya is back on the horizon with a new Prem, a new promise storyline 1 The comforts of such familiarities work in favour of Gunmaaster G9.
+
+The theatres this Friday are anyway ringing with the tunes of nostalgia as Aparshakti’s brother Ayushmann Khurrana leads another Himesh Reshammiya musical. For Emraan, it is a second turn, after he reprised his much-loved role of Shivam in Awarapan 2 this August. The patterns are not new; it is just good old Emraan jovially lip-syncing over the voice of Himesh while also breaking some bones along the way.
+
+‘Awarapan 2’ movie review: Emraan Hashmi’s faded sequel doesn’t rise from the riches of its past storyline 1 We have seen you fight effectively. Now can we see you in a softer, wholehearted world of mushy love too, Emraan? Gunmaaster G9 is currently running in theatres  Gunmaaster G9 (Hindi) Director: Aditya Datt Cast: Emraan Hashmi, Genelia Deshmukh, Aparshakti Khurana, Inayat Verma Runtime: 143 minutes Storyline: A milk-selling businessman has to reconnect with his darker past as a stylish gunslinger to infiltrate a crime lord’s gang.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/entertainment/movies/gunmaaster-g9-movie-review-emraan-hashmi-himesh-reshammiya-genelia-deshmukh-aparshakti-khurana/article71750180.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for ‘Gunmaaster G9’ movie review: Emraan Hashmi’s pulpier action-hero turn hits more than it loses.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 98084,
+    title: `On what legal basis has government blocked a Pakistani series on Netflix? | Explained`,
+    slug: `on-what-legal-basis-has-government-blocked-a-pakistani-series-on-netfl-2026`,
+    original_title: `On what legal basis has government blocked a Pakistani series on Netflix? | Explained`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:34Z`,
+    updated_at: `2026-11-27T14:05:34Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/news/national/on-what-legal-basis-has-government-blocked-a-pakistani-series-on-netflix-explained/article71749245.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/on-what-legal-basis-has-government-blocked-a-pakistani-series-on-netfl-2026.jpg`,
+    image_alt: `On what legal basis has government blocked a Pakistani series on Netflix? | Explained`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `You don’t have any Active Subscription.`,
+    content: `You don’t have any Active Subscription.
+
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
+
+Weather News November 27, 2026 e-Paper
+
+The View From India Looking at World Affairs from the Indian perspective.
+
+First Day First Show News and reviews from the world of cinema and streaming.
+
+Today's Cache Your download of the top 5 technology stories of the day.
+
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
+
+Data Point Decoding the headlines with facts, figures, and numbers
+
+THEdge At the cutting edge of education and careers
+
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
+
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Jo Bachay Hain Sang Samait Lo has drawn a warning from the government that Pakistani-origin content cannot be shown on Indian streaming platforms.
+
+Updated - November 27, 2026 11:10 am IST
+
+Image used for representation purpose only.
+                                          | Photo Credit: Reuters
+
+The story so far: The Pakistani series Jo Bachay Hain Sang Samait Lo , starring Fawad Khan, Hania Aamir, Mahira Khan, Sanam Saeed and Ahad Raza Mir, has become the target of an online furore. The show, which is marketed as Pakistan’s first Netflix original, has drawn ire from the All Indian Cine Workers Association (AICWA) and the Federation of Western India Cine Employees (FWICE), who seek a continuing ban on all Pakistani content in the aftermath of the 2025 Pahalgam terrorist attack and the ensuing conflict between Pakistan and India. The Ministry of Information and Broadcasting has told Netflix to avoid publishing Pakistani content.
+
+Shortly after the April 22, 2025 Pahalgam attack, which resulted in the deaths of 25 Indians and one Nepalese citizen, the Ministry of Information and Broadcasting on May 8 ordered all streaming platforms to pull down Pakistan-origin content, reasoning that the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, prevented streamers from putting out content that “threatens the unity, integrity, defence, security or sovereignty of India, friendly relations with foreign States, or public order.”
+
+Published - November 27, 2026 07:58 am IST
+
+national government / computing and information technology / The Hindu Explains / law / crime, law and justice / politics / government / India-Pakistan / media
+
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+
+We have migrated to a new commenting platform. If you are already a registered user of The Hindu and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/on-what-legal-basis-has-government-blocked-a-pakistani-series-on-netflix-explained/article71749245.ece)`,
+    title_en: `On what legal basis has government blocked a Pakistani series on Netflix? | Explained`,
+    summary_en: `You don’t have any Active Subscription.`,
+    content_en: `You don’t have any Active Subscription.
+
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
+
+Weather News November 27, 2026 e-Paper
+
+The View From India Looking at World Affairs from the Indian perspective.
+
+First Day First Show News and reviews from the world of cinema and streaming.
+
+Today's Cache Your download of the top 5 technology stories of the day.
+
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
+
+Data Point Decoding the headlines with facts, figures, and numbers
+
+THEdge At the cutting edge of education and careers
+
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
+
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Jo Bachay Hain Sang Samait Lo has drawn a warning from the government that Pakistani-origin content cannot be shown on Indian streaming platforms.
+
+Updated - November 27, 2026 11:10 am IST
+
+Image used for representation purpose only.
+                                          | Photo Credit: Reuters
+
+The story so far: The Pakistani series Jo Bachay Hain Sang Samait Lo , starring Fawad Khan, Hania Aamir, Mahira Khan, Sanam Saeed and Ahad Raza Mir, has become the target of an online furore. The show, which is marketed as Pakistan’s first Netflix original, has drawn ire from the All Indian Cine Workers Association (AICWA) and the Federation of Western India Cine Employees (FWICE), who seek a continuing ban on all Pakistani content in the aftermath of the 2025 Pahalgam terrorist attack and the ensuing conflict between Pakistan and India. The Ministry of Information and Broadcasting has told Netflix to avoid publishing Pakistani content.
+
+Shortly after the April 22, 2025 Pahalgam attack, which resulted in the deaths of 25 Indians and one Nepalese citizen, the Ministry of Information and Broadcasting on May 8 ordered all streaming platforms to pull down Pakistan-origin content, reasoning that the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, prevented streamers from putting out content that “threatens the unity, integrity, defence, security or sovereignty of India, friendly relations with foreign States, or public order.”
+
+Published - November 27, 2026 07:58 am IST
+
+national government / computing and information technology / The Hindu Explains / law / crime, law and justice / politics / government / India-Pakistan / media
+
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+
+We have migrated to a new commenting platform. If you are already a registered user of The Hindu and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/on-what-legal-basis-has-government-blocked-a-pakistani-series-on-netflix-explained/article71749245.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for On what legal basis has government blocked a Pakistani series on Netflix? | Explained.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 98085,
+    title: `भारत में पाकिस्तानी वेब सीरीज की रिलीज पर सरकार सख्त, 'जो बचे हैं संग समेट लो' को लेकर Netflix को निर्देश - Navbharat Live`,
+    slug: `netflix-navbharat-live-2026`,
+    original_title: `भारत में पाकिस्तानी वेब सीरीज की रिलीज पर सरकार सख्त, 'जो बचे हैं संग समेट लो' को लेकर Netflix को निर्देश - Navbharat Live`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:35Z`,
+    updated_at: `2026-11-27T14:05:35Z`,
+    source_name: `Navbharat Live`,
+    source_url: `https://navbharatlive.com/entertainment/information-broadcasting-ministry-directs-netflix-pakistani-content-india-aks03`,
+    source_courtesy: `Source: Navbharat Live`,
+    image_url: `/images/articles/netflix-navbharat-live-2026.jpg`,
+    image_alt: `भारत में पाकिस्तानी वेब सीरीज की रिलीज पर सरकार सख्त, 'जो बचे हैं संग समेट लो' को लेकर Netflix को निर्देश - Navbharat Live`,
+    image_courtesy: `Image: Navbharat Live (External Source Attribution)`,
+    image_photographer: `Navbharat Live`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Highlights:सूचना एवं प्रसारण मंत्रालय ने नेटफ्लिक्स को पुरानी एडवाइजरी याद दिलाई।8 मई 2025 को पाकिस्तानी मूल के कंटेंट को लेकर एडवाइजरी जारी हुई थी।'जो बचे हैं संग समेट लो' की संभावित रिलीज पर मंत्रालय को शिकायतें मिलीं।बेंगलुरु में पाकिस्त`,
+    content: `Highlights:सूचना एवं प्रसारण मंत्रालय ने नेटफ्लिक्स को पुरानी एडवाइजरी याद दिलाई।8 मई 2025 को पाकिस्तानी मूल के कंटेंट को लेकर एडवाइजरी जारी हुई थी।'जो बचे हैं संग समेट लो' की संभावित रिलीज पर मंत्रालय को शिकायतें मिलीं।बेंगलुरु में पाकिस्तानी ड्रामा 'दर-ए-नजात' की दो निजी स्क्रीनिंग रद्द हुईं।.Netflix Pakistani Content in India: भारत और पाकिस्तान के बीच जारी तनाव का असर अब मनोरंजन जगत पर भी दिखाई देने लगा है।
+
+पाकिस्तानी फिल्मों और वेब सीरीज की भारत में उपलब्धता को लेकर केंद्र सरकार ने सख्त रुख अपनाया है। सूचना एवं प्रसारण मंत्रालय ने ओटीटी प्लेटफॉर्म नेटफ्लिक्स को 8 मई 2025 को जारी एडवाइजरी का पालन करने और पाकिस्तानी कंटेंट को भारतीय दर्शकों के लिए उपलब्ध नहीं कराने का निर्देश दिया है।&nbsp;यह मामला ऐसे समय में सामने आया है, जब पाकिस्तानी वेब सीरीज को लेकर भारत में चर्चाएं तेज हैं और बेंगलुरु में एक पाकिस्तानी टीवी शो की दो निजी स्क्रीनिंग भी विरोध के बाद रद्द करनी पड़ी हैं।.'जो बचे हैं संग समेट लो' को लेकर क्यों मचा विवाद?पाकिस्तानी वेब सीरीज 'जो बचे हैं संग समेट लो' की संभावित भारतीय रिलीज को लेकर विवाद सामने आया है।
+
+इस सीरीज को लेकर मंत्रालय तक शिकायतें पहुंचने के बाद मामला चर्चा में आ गया। हालांकि, फिलहाल नेटफ्लिक्स की ओर से इस संबंध में किसी नए आधिकारिक बयान की जानकारी सामने नहीं आई है।.अमित शाह से मिली रामायण की टीम, बॉक्स ऑफिस पर रणबीर कपूर की फिल्म ने बनाया नया रिकॉर्ड.Netflix को मंत्रालय ने क्यों दिया निर्देश?सूत्रों के मुताबिक, मंत्रालय को पाकिस्तानी वेब सीरीज 'जो बचे हैं संग समेट लो' को भारत में रिलीज किए जाने की संभावनाओं को लेकर कई शिकायतें और आवेदन मिले हैं।
+
+इसके बाद मंत्रालय ने नेटफ्लिक्स को उसके पहले दिए गए आश्वासन की याद दिलाई है। सरकार चाहती है कि प्लेटफॉर्म भारतीय दर्शकों के लिए पाकिस्तानी मनोरंजन सामग्री उपलब्ध नहीं कराने की अपनी पूर्व स्थिति पर कायम रहे।दरअसल, पिछले साल जून में नेटफ्लिक्स ने मंत्रालय को बताया था कि उसने पाकिस्तान की किसी भी फिल्म या वेब सीरीज को भारत में अपने सब्सक्राइबर्स के लिए उपलब्ध नहीं कराया है।
+
+अब मंत्रालय ने इसी आश्वासन को दोहराते हुए प्लेटफॉर्म को अपनी एडवाइजरी का पालन सुनिश्चित करने को कहा है।.बेंगलुरु में पाकिस्तानी शो की स्क्रीनिंग रद्दपाकिस्तानी मनोरंजन सामग्री को लेकर विवाद केवल ओटीटी प्लेटफॉर्म तक सीमित नहीं है। कर्नाटक की राजधानी बेंगलुरु में पाकिस्तानी टीवी ड्रामा 'दर-ए-नजात' की दो निजी स्क्रीनिंग आयोजित करने की योजना भी विरोध के चलते रद्द करनी पड़ी।पाकिस्तान के ARY डिजिटल पर प्रसारित होने वाला यह शो भारतीय दर्शकों के बीच भी लोकप्रिय हो रहा है।
+
+भारत में चैनल ब्लॉक होने के बावजूद कुछ यूट्यूब चैनलों के जरिए दर्शक इसे देख रहे हैं।.स्क्रीनिंग के लिए रखा गया था खास डिनरइस सीरीज के दो एपिसोड दिखाने के लिए एक रेस्तरां में विशेष कार्यक्रम आयोजित करने की तैयारी थी। इसमें मेहमानों के लिए फारसी और अरबी व्यंजनों वाला डिनर भी रखा गया था।
+
+वहीं, दूसरे आयोजन में मेहमानों को पाकिस्तानी पारंपरिक कपड़े पहनकर आने का निमंत्रण दिया गया था।जैसे ही इन आयोजनों के प्रमोशनल पोस्टर सोशल मीडिया पर सामने आए, विरोध शुरू हो गया। कई लोगों ने भारत-पाकिस्तान के बीच तनाव का हवाला देते हुए ऐसे कार्यक्रमों पर आपत्ति जताई और पुलिस से कार्रवाई की मांग की।
+
+इसके बाद दोनों आयोजनों को रद्द कर दिया गया।.बाबा महाकाल के दरबार पहुंचे विवेक ओबेरॉय और विवेक बिंद्रा, रामायण की फीस दान करने पर एक्टर ने कही बड़ी बात.तनाव के बीच मनोरंजन कंटेंट पर भी नजरभारत और पाकिस्तान के बीच राजनीतिक एवं सैन्य तनाव का असर दोनों देशों के सांस्कृतिक और मनोरंजन संबंधों पर भी पड़ रहा है।
+
+एक तरफ पाकिस्तानी कंटेंट की संभावित ओटीटी रिलीज को लेकर मंत्रालय ने नेटफ्लिक्स को निर्देश दिए हैं, तो दूसरी तरफ निजी स्क्रीनिंग को लेकर भी विरोध देखने को मिला है।इन घटनाओं से स्पष्ट है कि भारत में पाकिस्तानी मनोरंजन सामग्री की उपलब्धता और उसके सार्वजनिक प्रदर्शन को लेकर संवेदनशीलता बढ़ी हुई है।
+
+अब सबकी नजर इस बात पर है कि नेटफ्लिक्स मंत्रालय के निर्देशों पर क्या रुख अपनाता है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/entertainment/information-broadcasting-ministry-directs-netflix-pakistani-content-india-aks03)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `भारत में पाकिस्तानी वेब सीरीज की रिलीज पर सरकार सख्त, 'जो बचे हैं संग समेट लो' को लेकर Netflix को निर्देश - Navbharat Live`,
+    summary_hi: `Highlights:सूचना एवं प्रसारण मंत्रालय ने नेटफ्लिक्स को पुरानी एडवाइजरी याद दिलाई।8 मई 2025 को पाकिस्तानी मूल के कंटेंट को लेकर एडवाइजरी जारी हुई थी।'जो बचे हैं संग समेट लो' की संभावित रिलीज पर मंत्रालय को शिकायतें मिलीं।बेंगलुरु में पाकिस्त`,
+    content_hi: `Highlights:सूचना एवं प्रसारण मंत्रालय ने नेटफ्लिक्स को पुरानी एडवाइजरी याद दिलाई।8 मई 2025 को पाकिस्तानी मूल के कंटेंट को लेकर एडवाइजरी जारी हुई थी।'जो बचे हैं संग समेट लो' की संभावित रिलीज पर मंत्रालय को शिकायतें मिलीं।बेंगलुरु में पाकिस्तानी ड्रामा 'दर-ए-नजात' की दो निजी स्क्रीनिंग रद्द हुईं।.Netflix Pakistani Content in India: भारत और पाकिस्तान के बीच जारी तनाव का असर अब मनोरंजन जगत पर भी दिखाई देने लगा है।
+
+पाकिस्तानी फिल्मों और वेब सीरीज की भारत में उपलब्धता को लेकर केंद्र सरकार ने सख्त रुख अपनाया है। सूचना एवं प्रसारण मंत्रालय ने ओटीटी प्लेटफॉर्म नेटफ्लिक्स को 8 मई 2025 को जारी एडवाइजरी का पालन करने और पाकिस्तानी कंटेंट को भारतीय दर्शकों के लिए उपलब्ध नहीं कराने का निर्देश दिया है।&nbsp;यह मामला ऐसे समय में सामने आया है, जब पाकिस्तानी वेब सीरीज को लेकर भारत में चर्चाएं तेज हैं और बेंगलुरु में एक पाकिस्तानी टीवी शो की दो निजी स्क्रीनिंग भी विरोध के बाद रद्द करनी पड़ी हैं।.'जो बचे हैं संग समेट लो' को लेकर क्यों मचा विवाद?पाकिस्तानी वेब सीरीज 'जो बचे हैं संग समेट लो' की संभावित भारतीय रिलीज को लेकर विवाद सामने आया है।
+
+इस सीरीज को लेकर मंत्रालय तक शिकायतें पहुंचने के बाद मामला चर्चा में आ गया। हालांकि, फिलहाल नेटफ्लिक्स की ओर से इस संबंध में किसी नए आधिकारिक बयान की जानकारी सामने नहीं आई है।.अमित शाह से मिली रामायण की टीम, बॉक्स ऑफिस पर रणबीर कपूर की फिल्म ने बनाया नया रिकॉर्ड.Netflix को मंत्रालय ने क्यों दिया निर्देश?सूत्रों के मुताबिक, मंत्रालय को पाकिस्तानी वेब सीरीज 'जो बचे हैं संग समेट लो' को भारत में रिलीज किए जाने की संभावनाओं को लेकर कई शिकायतें और आवेदन मिले हैं।
+
+इसके बाद मंत्रालय ने नेटफ्लिक्स को उसके पहले दिए गए आश्वासन की याद दिलाई है। सरकार चाहती है कि प्लेटफॉर्म भारतीय दर्शकों के लिए पाकिस्तानी मनोरंजन सामग्री उपलब्ध नहीं कराने की अपनी पूर्व स्थिति पर कायम रहे।दरअसल, पिछले साल जून में नेटफ्लिक्स ने मंत्रालय को बताया था कि उसने पाकिस्तान की किसी भी फिल्म या वेब सीरीज को भारत में अपने सब्सक्राइबर्स के लिए उपलब्ध नहीं कराया है।
+
+अब मंत्रालय ने इसी आश्वासन को दोहराते हुए प्लेटफॉर्म को अपनी एडवाइजरी का पालन सुनिश्चित करने को कहा है।.बेंगलुरु में पाकिस्तानी शो की स्क्रीनिंग रद्दपाकिस्तानी मनोरंजन सामग्री को लेकर विवाद केवल ओटीटी प्लेटफॉर्म तक सीमित नहीं है। कर्नाटक की राजधानी बेंगलुरु में पाकिस्तानी टीवी ड्रामा 'दर-ए-नजात' की दो निजी स्क्रीनिंग आयोजित करने की योजना भी विरोध के चलते रद्द करनी पड़ी।पाकिस्तान के ARY डिजिटल पर प्रसारित होने वाला यह शो भारतीय दर्शकों के बीच भी लोकप्रिय हो रहा है।
+
+भारत में चैनल ब्लॉक होने के बावजूद कुछ यूट्यूब चैनलों के जरिए दर्शक इसे देख रहे हैं।.स्क्रीनिंग के लिए रखा गया था खास डिनरइस सीरीज के दो एपिसोड दिखाने के लिए एक रेस्तरां में विशेष कार्यक्रम आयोजित करने की तैयारी थी। इसमें मेहमानों के लिए फारसी और अरबी व्यंजनों वाला डिनर भी रखा गया था।
+
+वहीं, दूसरे आयोजन में मेहमानों को पाकिस्तानी पारंपरिक कपड़े पहनकर आने का निमंत्रण दिया गया था।जैसे ही इन आयोजनों के प्रमोशनल पोस्टर सोशल मीडिया पर सामने आए, विरोध शुरू हो गया। कई लोगों ने भारत-पाकिस्तान के बीच तनाव का हवाला देते हुए ऐसे कार्यक्रमों पर आपत्ति जताई और पुलिस से कार्रवाई की मांग की।
+
+इसके बाद दोनों आयोजनों को रद्द कर दिया गया।.बाबा महाकाल के दरबार पहुंचे विवेक ओबेरॉय और विवेक बिंद्रा, रामायण की फीस दान करने पर एक्टर ने कही बड़ी बात.तनाव के बीच मनोरंजन कंटेंट पर भी नजरभारत और पाकिस्तान के बीच राजनीतिक एवं सैन्य तनाव का असर दोनों देशों के सांस्कृतिक और मनोरंजन संबंधों पर भी पड़ रहा है।
+
+एक तरफ पाकिस्तानी कंटेंट की संभावित ओटीटी रिलीज को लेकर मंत्रालय ने नेटफ्लिक्स को निर्देश दिए हैं, तो दूसरी तरफ निजी स्क्रीनिंग को लेकर भी विरोध देखने को मिला है।इन घटनाओं से स्पष्ट है कि भारत में पाकिस्तानी मनोरंजन सामग्री की उपलब्धता और उसके सार्वजनिक प्रदर्शन को लेकर संवेदनशीलता बढ़ी हुई है।
+
+अब सबकी नजर इस बात पर है कि नेटफ्लिक्स मंत्रालय के निर्देशों पर क्या रुख अपनाता है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/entertainment/information-broadcasting-ministry-directs-netflix-pakistani-content-india-aks03)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट Navbharat Live के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक भारत में पाकिस्तानी वेब सीरीज की रिलीज पर सरकार सख्त, 'जो बचे हैं संग समेट लो' को लेकर Netflix को निर्देश - Navbharat Live से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Navbharat Live`,
+  },
+  {
+    id: 98086,
+    title: `Gunmaaster G9 X Review: पहली बार पर्दे पर दिखी इमरान-जेनेलिया की जोड़ी, दर्शकों ने बताया 'क्यूटेस्ट', फिल्म - India TV Hindi`,
+    slug: `gunmaaster-g9-x-review-india-tv-hindi-2026`,
+    original_title: `Gunmaaster G9 X Review: पहली बार पर्दे पर दिखी इमरान-जेनेलिया की जोड़ी, दर्शकों ने बताया 'क्यूटेस्ट', फिल्म - India TV Hindi`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:36Z`,
+    updated_at: `2026-11-27T14:05:36Z`,
+    source_name: `India TV Hindi`,
+    source_url: `https://www.indiatv.in/entertainment/bollywood/gunmaaster-g9-x-review-emraan-genelia-seen-on-screen-for-first-time-audiences-call-them-cutest-film-gets-amazing-response-2026-11-27-1256757`,
+    source_courtesy: `Source: India TV Hindi`,
+    image_url: `/images/articles/gunmaaster-g9-x-review-india-tv-hindi-2026.jpg`,
+    image_alt: `Gunmaaster G9 X Review: पहली बार पर्दे पर दिखी इमरान-जेनेलिया की जोड़ी, दर्शकों ने बताया 'क्यूटेस्ट', फिल्म - India TV Hindi`,
+    image_courtesy: `Image: India TV Hindi (External Source Attribution)`,
+    image_photographer: `India TV Hindi`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `बॉलीवुड अभिनेता इमरान हाशमी अपनी फिल्मों में रोमांस और एक्शन के अलग-अलग अंदाज के लिए पहचाने जाते हैं। अब वह फिल्म ‘गनमास्टर G9' के साथ बड़े पर्दे पर लौट आए हैं। इस फिल्म की सबसे बड़ी खासियत इमरान हाशमी और जेनेलिया डिसूजा की नई जोड़ी है, जो `,
+    content: `बॉलीवुड अभिनेता इमरान हाशमी अपनी फिल्मों में रोमांस और एक्शन के अलग-अलग अंदाज के लिए पहचाने जाते हैं। अब वह फिल्म ‘गनमास्टर G9' के साथ बड़े पर्दे पर लौट आए हैं। इस फिल्म की सबसे बड़ी खासियत इमरान हाशमी और जेनेलिया डिसूजा की नई जोड़ी है, जो पहली बार एक साथ स्क्रीन शेयर कर रही है। फिल्म के गानों और फर्स्ट लुक के सामने आने के बाद से ही दर्शकों के बीच इसे लेकर उत्सुकता बनी हुई थी।
+
+अब 27 नवंबर को सिनेमाघरों में रिलीज होने के बाद फिल्म को लेकर सोशल मीडिया प्लेटफॉर्म एक्स पर दर्शकों की शुरुआती प्रतिक्रियाएं सामने आने लगी हैं। इन प्रतिक्रियाओं में फिल्म के एक्शन, रोमांस, सरप्राइज ट्विस्ट और कलाकारों के अभिनय की तारीफ हो रही है। खासतौर पर इमरान और जेनेलिया की केमिस्ट्री दर्शकों को पसंद आ रही है।इमरान-जेनेलिया की जोड़ी को मिला दर्शकों का प्यार‘गनमास्टर G9' को लेकर सोशल मीडिया पर सबसे ज्यादा चर्चा इमरान हाशमी और जेनेलिया डिसूजा की जोड़ी की हो रही है।
+
+दोनों कलाकार पहली बार किसी फिल्म में साथ नजर आ रहे हैं। ऐसे में उनकी ऑनस्क्रीन केमिस्ट्री दर्शकों के लिए खास आकर्षण बनी हुई है। एक्स पर कई यूजर्स ने दोनों की जोड़ी की तारीफ की है। एक दर्शक ने तो इमरान और जेनेलिया को 'कटेस्ट' यानी बेहद प्यारी जोड़ी तक बता दिया। इमरान हाशमी की स्क्रीन प्रेजेंस को भी दर्शकों से अच्छी प्रतिक्रिया मिल रही है।
+
+फिल्म में उनका एक्शन अवतार और दमदार अंदाज लोगों का ध्यान खींच रहा है। वहीं, जेनेलिया के साथ उनकी जोड़ी कहानी में रोमांस का पहलू जोड़ती है। शुरुआती प्रतिक्रियाओं से साफ है कि दर्शकों को इस फ्रेश पेयरिंग में दिलचस्पी नजर आ रही है।एक्शन और क्लाइमैक्स ने बढ़ाया फिल्म का रोमांचफिल्म देखने वाले दर्शकों ने इसके एक्शन सीक्वेंस, कहानी के अप्रत्याशित मोड़ और क्लाइमैक्स की भी तारीफ की है।
+
+सोशल मीडिया पर कई लोगों ने फिल्म को एक्शन और रोमांस का अच्छा मिश्रण बताया है। इसके अलावा फिल्म का म्यूजिक भी दर्शकों के बीच चर्चा में है। कलाकारों के अभिनय को लेकर भी सकारात्मक प्रतिक्रियाएं देखने को मिल रही हैं। कहानी की बात करें तो ‘गनमास्टर G9' में इमरान हाशमी ईश्वर नाम के एक डेयरी किसान का किरदार निभा रहे हैं।
+
+ईश्वर अपनी जिंदगी परिवार के साथ सुकून से बिताना चाहता है, लेकिन उसकी शांत दुनिया उस वक्त बदल जाती है, जब एक खतरनाक गैंग उसके परिवार को निशाना बनाने लगता है। अपने प्रियजनों की सुरक्षा के लिए उसे मजबूरन उस हिंसक अतीत का सामना करना पड़ता है, जिसे वह पीछे छोड़ चुका था। कहानी इसी संघर्ष के इर्द-गिर्द आगे बढ़ती है।अपारशक्ति खुराना निभा रहे हैं नेगेटिव किरदारफिल्म में जेनेलिया डिसूजा आरती के किरदार में नजर आ रही हैं, जबकि अभिनेता अपारशक्ति खुराना नेगेटिव भूमिका में देसू का किरदार निभा रहे हैं।
+
+इनके अलावा अभिषेक सिंह, इनायत वर्मा और स्नेहिल दीक्षित मेहरा भी फिल्म का हिस्सा हैं। फिल्म में सभी कलाकारों की भूमिकाएं कहानी को आगे बढ़ाने में अहम हैं। इस फिल्म के साथ इमरान हाशमी, निर्देशक आदित्य दत्त और संगीतकार हिमेश रेशमिया की तिकड़ी भी करीब 20 साल बाद फिर से साथ आई है। इससे पहले तीनों ने ‘आशिक बनाया आपने' और ‘दिल दिया है' जैसी फिल्मों में साथ काम किया था।
+
+ऐसे में इस फिल्म को लेकर उनके पुराने प्रशंसकों में भी उत्सुकता थी। हिमेश रेशमिया का संगीत फिल्म के आकर्षण का एक अहम हिस्सा माना जा रहा है।तारीफ के बावजूद बॉक्स ऑफिस पर धीमी शुरुआतसोशल मीडिया पर मिल रही सकारात्मक प्रतिक्रियाओं के बावजूद ‘गनमास्टर G9' की बॉक्स ऑफिस शुरुआत फिलहाल धीमी रही है।
+
+सैकनिल्क की रिपोर्ट के मुताबिक, फिल्म देशभर में 1289 शोज में दिखाई जा रही है और अब तक करीब 32 लाख रुपये का कलेक्शन कर चुकी है। हालांकि फिल्म को सिनेमाघरों में रिलीज हुए अभी ज्यादा समय नहीं हुआ है। ऐसे में आने वाले दिनों में इसकी कमाई में बदलाव देखने को मिल सकता है। दर्शकों की तारीफ, इमरान-जेनेलिया की नई जोड़ी और फिल्म के एक्शन से भरपूर अंदाज का इसे फायदा मिलने की उम्मीद है।
+
+अब यह देखना दिलचस्प होगा कि सोशल मीडिया पर मिल रहा प्यार बॉक्स ऑफिस के आंकड़ों में कितना असर दिखा पाता है।ये भी पढ़ें: 15 बैठकों के बाद भी नहीं हुआ संजय कपूर संपत्ति विवाद का निपटारा, 30 हजार करोड़ के फैमिली ट्रस्ट पर सास-बहू आमने-सामने, अब कोर्ट में होगा फैसला
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/entertainment/bollywood/gunmaaster-g9-x-review-emraan-genelia-seen-on-screen-for-first-time-audiences-call-them-cutest-film-gets-amazing-response-2026-11-27-1256757)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Gunmaaster G9 X Review: पहली बार पर्दे पर दिखी इमरान-जेनेलिया की जोड़ी, दर्शकों ने बताया 'क्यूटेस्ट', फिल्म - India TV Hindi`,
+    summary_hi: `बॉलीवुड अभिनेता इमरान हाशमी अपनी फिल्मों में रोमांस और एक्शन के अलग-अलग अंदाज के लिए पहचाने जाते हैं। अब वह फिल्म ‘गनमास्टर G9' के साथ बड़े पर्दे पर लौट आए हैं। इस फिल्म की सबसे बड़ी खासियत इमरान हाशमी और जेनेलिया डिसूजा की नई जोड़ी है, जो `,
+    content_hi: `बॉलीवुड अभिनेता इमरान हाशमी अपनी फिल्मों में रोमांस और एक्शन के अलग-अलग अंदाज के लिए पहचाने जाते हैं। अब वह फिल्म ‘गनमास्टर G9' के साथ बड़े पर्दे पर लौट आए हैं। इस फिल्म की सबसे बड़ी खासियत इमरान हाशमी और जेनेलिया डिसूजा की नई जोड़ी है, जो पहली बार एक साथ स्क्रीन शेयर कर रही है। फिल्म के गानों और फर्स्ट लुक के सामने आने के बाद से ही दर्शकों के बीच इसे लेकर उत्सुकता बनी हुई थी।
+
+अब 27 नवंबर को सिनेमाघरों में रिलीज होने के बाद फिल्म को लेकर सोशल मीडिया प्लेटफॉर्म एक्स पर दर्शकों की शुरुआती प्रतिक्रियाएं सामने आने लगी हैं। इन प्रतिक्रियाओं में फिल्म के एक्शन, रोमांस, सरप्राइज ट्विस्ट और कलाकारों के अभिनय की तारीफ हो रही है। खासतौर पर इमरान और जेनेलिया की केमिस्ट्री दर्शकों को पसंद आ रही है।इमरान-जेनेलिया की जोड़ी को मिला दर्शकों का प्यार‘गनमास्टर G9' को लेकर सोशल मीडिया पर सबसे ज्यादा चर्चा इमरान हाशमी और जेनेलिया डिसूजा की जोड़ी की हो रही है।
+
+दोनों कलाकार पहली बार किसी फिल्म में साथ नजर आ रहे हैं। ऐसे में उनकी ऑनस्क्रीन केमिस्ट्री दर्शकों के लिए खास आकर्षण बनी हुई है। एक्स पर कई यूजर्स ने दोनों की जोड़ी की तारीफ की है। एक दर्शक ने तो इमरान और जेनेलिया को 'कटेस्ट' यानी बेहद प्यारी जोड़ी तक बता दिया। इमरान हाशमी की स्क्रीन प्रेजेंस को भी दर्शकों से अच्छी प्रतिक्रिया मिल रही है।
+
+फिल्म में उनका एक्शन अवतार और दमदार अंदाज लोगों का ध्यान खींच रहा है। वहीं, जेनेलिया के साथ उनकी जोड़ी कहानी में रोमांस का पहलू जोड़ती है। शुरुआती प्रतिक्रियाओं से साफ है कि दर्शकों को इस फ्रेश पेयरिंग में दिलचस्पी नजर आ रही है।एक्शन और क्लाइमैक्स ने बढ़ाया फिल्म का रोमांचफिल्म देखने वाले दर्शकों ने इसके एक्शन सीक्वेंस, कहानी के अप्रत्याशित मोड़ और क्लाइमैक्स की भी तारीफ की है।
+
+सोशल मीडिया पर कई लोगों ने फिल्म को एक्शन और रोमांस का अच्छा मिश्रण बताया है। इसके अलावा फिल्म का म्यूजिक भी दर्शकों के बीच चर्चा में है। कलाकारों के अभिनय को लेकर भी सकारात्मक प्रतिक्रियाएं देखने को मिल रही हैं। कहानी की बात करें तो ‘गनमास्टर G9' में इमरान हाशमी ईश्वर नाम के एक डेयरी किसान का किरदार निभा रहे हैं।
+
+ईश्वर अपनी जिंदगी परिवार के साथ सुकून से बिताना चाहता है, लेकिन उसकी शांत दुनिया उस वक्त बदल जाती है, जब एक खतरनाक गैंग उसके परिवार को निशाना बनाने लगता है। अपने प्रियजनों की सुरक्षा के लिए उसे मजबूरन उस हिंसक अतीत का सामना करना पड़ता है, जिसे वह पीछे छोड़ चुका था। कहानी इसी संघर्ष के इर्द-गिर्द आगे बढ़ती है।अपारशक्ति खुराना निभा रहे हैं नेगेटिव किरदारफिल्म में जेनेलिया डिसूजा आरती के किरदार में नजर आ रही हैं, जबकि अभिनेता अपारशक्ति खुराना नेगेटिव भूमिका में देसू का किरदार निभा रहे हैं।
+
+इनके अलावा अभिषेक सिंह, इनायत वर्मा और स्नेहिल दीक्षित मेहरा भी फिल्म का हिस्सा हैं। फिल्म में सभी कलाकारों की भूमिकाएं कहानी को आगे बढ़ाने में अहम हैं। इस फिल्म के साथ इमरान हाशमी, निर्देशक आदित्य दत्त और संगीतकार हिमेश रेशमिया की तिकड़ी भी करीब 20 साल बाद फिर से साथ आई है। इससे पहले तीनों ने ‘आशिक बनाया आपने' और ‘दिल दिया है' जैसी फिल्मों में साथ काम किया था।
+
+ऐसे में इस फिल्म को लेकर उनके पुराने प्रशंसकों में भी उत्सुकता थी। हिमेश रेशमिया का संगीत फिल्म के आकर्षण का एक अहम हिस्सा माना जा रहा है।तारीफ के बावजूद बॉक्स ऑफिस पर धीमी शुरुआतसोशल मीडिया पर मिल रही सकारात्मक प्रतिक्रियाओं के बावजूद ‘गनमास्टर G9' की बॉक्स ऑफिस शुरुआत फिलहाल धीमी रही है।
+
+सैकनिल्क की रिपोर्ट के मुताबिक, फिल्म देशभर में 1289 शोज में दिखाई जा रही है और अब तक करीब 32 लाख रुपये का कलेक्शन कर चुकी है। हालांकि फिल्म को सिनेमाघरों में रिलीज हुए अभी ज्यादा समय नहीं हुआ है। ऐसे में आने वाले दिनों में इसकी कमाई में बदलाव देखने को मिल सकता है। दर्शकों की तारीफ, इमरान-जेनेलिया की नई जोड़ी और फिल्म के एक्शन से भरपूर अंदाज का इसे फायदा मिलने की उम्मीद है।
+
+अब यह देखना दिलचस्प होगा कि सोशल मीडिया पर मिल रहा प्यार बॉक्स ऑफिस के आंकड़ों में कितना असर दिखा पाता है।ये भी पढ़ें: 15 बैठकों के बाद भी नहीं हुआ संजय कपूर संपत्ति विवाद का निपटारा, 30 हजार करोड़ के फैमिली ट्रस्ट पर सास-बहू आमने-सामने, अब कोर्ट में होगा फैसला
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/entertainment/bollywood/gunmaaster-g9-x-review-emraan-genelia-seen-on-screen-for-first-time-audiences-call-them-cutest-film-gets-amazing-response-2026-11-27-1256757)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट India TV Hindi के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Gunmaaster G9 X Review: पहली बार पर्दे पर दिखी इमरान-जेनेलिया की जोड़ी, दर्शकों ने बताया 'क्यूटेस्ट', फिल्म - India TV Hindi से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `India TV Hindi`,
+  },
+  {
+    id: 98087,
+    title: `Ayodhya to Janakpur train: How the Saryu-Kamala Express revives the Ramayana connection - Open Magazine`,
+    slug: `ayodhya-to-janakpur-train-how-the-saryu-kamala-express-revives-the-ram-2026`,
+    original_title: `Ayodhya to Janakpur train: How the Saryu-Kamala Express revives the Ramayana connection - Open Magazine`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:53Z`,
+    updated_at: `2026-11-27T14:05:53Z`,
+    source_name: `Open Magazine`,
+    source_url: `https://openthemagazine.com/india/ayodhya-to-janakpur-train-how-the-saryu-kamala-express-revives-the-ramayana-connection`,
+    source_courtesy: `Source: Open Magazine`,
+    image_url: `/images/articles/ayodhya-to-janakpur-train-how-the-saryu-kamala-express-revives-the-ram-2026.jpg`,
+    image_alt: `Ayodhya to Janakpur train: How the Saryu-Kamala Express revives the Ramayana connection - Open Magazine`,
+    image_courtesy: `Image: Open Magazine (External Source Attribution)`,
+    image_photographer: `Open Magazine`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `What connects Ayodhya, the birthplace of Lord Ram, with Janakpur in Nepal, traditionally associated with Goddess Sita? Beyond the Ramayana, the two places share a cultural connection that stretches across generations. A new railway service `,
+    content: `What connects Ayodhya, the birthplace of Lord Ram, with Janakpur in Nepal, traditionally associated with Goddess Sita? Beyond the Ramayana, the two places share a cultural connection that stretches across generations. A new railway service is now turning that association into a more direct journey for pilgrims.
+
+The Saryu-Kamala Express was inaugurated on Monday, November 23, with Prime Minister Narendra Modi and Nepal Prime Minister Balendra Shah virtually flagging off the train. Uttar Pradesh Chief Minister Yogi Adityanath attended the ceremony in Ayodhya and described the link as a revival of the ancient cultural association between Ayodhya and Mithila.
+
+Why is the Ayodhya-Jan akpur train significant? The railway link connects two destinations deeply woven into the Ramayana tradition. Ayodhya is associated with Lord Ram, while Janakpur, in Nepal's Madhesh province, is revered as the birthplace of Goddess Sita. Speaking at the inauguration, Adityanath described the India-Nepal relationship as one rooted in faith, family and shared traditions.
+
+"The relationship between India and Nepal spans thousands of years, reaching back to ancient times. It is a bond rooted in faith and deep personal affinity. It is a connection forged through shared rivers and shared families, a relationship often described in common parlance as one of 'roti-beti' (a bond defined by the exchange of food and the union of families through marriage)," he said.
+
+How does the Saryu-Kamala Express connect the two pilgrimage destinations? The 604-kilometre rail journey between Ayodhya Cantt and Janakpur Dham is expected to take approximately 19 hours. The weekly train will allow passengers to travel directly between the two destinations without changing trains along the route.
+
+According to The Indian Express, regular services will begin on November 28. Train No. 15596 will depart Ayodhya Cantt at 5.50 pm every Monday and arrive at Janakpur Dham at 12.40 pm on Tuesday, Nepal time. The return service, Train No. 15595, will leave Janakpur Dham at 1.10 pm on Saturdays and reach Ayodhya Cantt at 8.10 am on Sunday.
+
+The train will pass through stations including Mankapur, Basti, Gorakhpur, Narkatiaganj, Raxaul, Sitamarhi, Shisho, Madhubani and Jaynagar. What is the connection between Ayodhya and Janakpur beyond the train? The cultural association between the two cities is celebrated during Vivaha Panchami, which commemorates the marriage of Ram and Sita.
+
+Janakpur hosts festivities at the Ram-Janaki Vivah Mandapam, while Ayodhya celebrates the occasion through religious rituals and traditional songs. "During Vivaha Panchami, as festivities unfold at the Ram-Janaki Vivah Mandapam in Janakpur, traditional wedding songs, known as 'mangala geet', resound in Ayodhya.
+
+It was on the very day of Vivaha Panchami last year that the 'dharmadhvaja' (sacred flag) was consecrated atop the spire of the Shri Ram Janmabhoomi Mandir," Adityanath said. Will the new train boost religious tourism between India and Nepal? The direct service is expected to ease travel for devotees visiting both destinations and strengthen the Ramayana Circuit.
+
+Pilgrims from Nepal will be able to travel to Ayodhya to visit Ram Lalla, while Indian devotees can make the journey to Janakpur to worship at sites associated with Sita. The route could also support tourism, local businesses and economic activity in border regions, giving the centuries-old cultural connection between India and Nepal a more tangible modern link.
+
+(With inputs from ANI)
+
+---
+
+**Original Source:** [Open Magazine](https://openthemagazine.com/india/ayodhya-to-janakpur-train-how-the-saryu-kamala-express-revives-the-ramayana-connection)`,
+    title_en: `Ayodhya to Janakpur train: How the Saryu-Kamala Express revives the Ramayana connection - Open Magazine`,
+    summary_en: `What connects Ayodhya, the birthplace of Lord Ram, with Janakpur in Nepal, traditionally associated with Goddess Sita? Beyond the Ramayana, the two places share a cultural connection that stretches across generations. A new railway service `,
+    content_en: `What connects Ayodhya, the birthplace of Lord Ram, with Janakpur in Nepal, traditionally associated with Goddess Sita? Beyond the Ramayana, the two places share a cultural connection that stretches across generations. A new railway service is now turning that association into a more direct journey for pilgrims.
+
+The Saryu-Kamala Express was inaugurated on Monday, November 23, with Prime Minister Narendra Modi and Nepal Prime Minister Balendra Shah virtually flagging off the train. Uttar Pradesh Chief Minister Yogi Adityanath attended the ceremony in Ayodhya and described the link as a revival of the ancient cultural association between Ayodhya and Mithila.
+
+Why is the Ayodhya-Jan akpur train significant? The railway link connects two destinations deeply woven into the Ramayana tradition. Ayodhya is associated with Lord Ram, while Janakpur, in Nepal's Madhesh province, is revered as the birthplace of Goddess Sita. Speaking at the inauguration, Adityanath described the India-Nepal relationship as one rooted in faith, family and shared traditions.
+
+"The relationship between India and Nepal spans thousands of years, reaching back to ancient times. It is a bond rooted in faith and deep personal affinity. It is a connection forged through shared rivers and shared families, a relationship often described in common parlance as one of 'roti-beti' (a bond defined by the exchange of food and the union of families through marriage)," he said.
+
+How does the Saryu-Kamala Express connect the two pilgrimage destinations? The 604-kilometre rail journey between Ayodhya Cantt and Janakpur Dham is expected to take approximately 19 hours. The weekly train will allow passengers to travel directly between the two destinations without changing trains along the route.
+
+According to The Indian Express, regular services will begin on November 28. Train No. 15596 will depart Ayodhya Cantt at 5.50 pm every Monday and arrive at Janakpur Dham at 12.40 pm on Tuesday, Nepal time. The return service, Train No. 15595, will leave Janakpur Dham at 1.10 pm on Saturdays and reach Ayodhya Cantt at 8.10 am on Sunday.
+
+The train will pass through stations including Mankapur, Basti, Gorakhpur, Narkatiaganj, Raxaul, Sitamarhi, Shisho, Madhubani and Jaynagar. What is the connection between Ayodhya and Janakpur beyond the train? The cultural association between the two cities is celebrated during Vivaha Panchami, which commemorates the marriage of Ram and Sita.
+
+Janakpur hosts festivities at the Ram-Janaki Vivah Mandapam, while Ayodhya celebrates the occasion through religious rituals and traditional songs. "During Vivaha Panchami, as festivities unfold at the Ram-Janaki Vivah Mandapam in Janakpur, traditional wedding songs, known as 'mangala geet', resound in Ayodhya.
+
+It was on the very day of Vivaha Panchami last year that the 'dharmadhvaja' (sacred flag) was consecrated atop the spire of the Shri Ram Janmabhoomi Mandir," Adityanath said. Will the new train boost religious tourism between India and Nepal? The direct service is expected to ease travel for devotees visiting both destinations and strengthen the Ramayana Circuit.
+
+Pilgrims from Nepal will be able to travel to Ayodhya to visit Ram Lalla, while Indian devotees can make the journey to Janakpur to worship at sites associated with Sita. The route could also support tourism, local businesses and economic activity in border regions, giving the centuries-old cultural connection between India and Nepal a more tangible modern link.
+
+(With inputs from ANI)
+
+---
+
+**Original Source:** [Open Magazine](https://openthemagazine.com/india/ayodhya-to-janakpur-train-how-the-saryu-kamala-express-revives-the-ramayana-connection)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Open Magazine.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Ayodhya to Janakpur train: How the Saryu-Kamala Express revives the Ramayana connection - Open Magazine.`,
+    primary_source: `Open Magazine`,
+  },
+  {
+    id: 98088,
+    title: `How BrahMos and Brahma influence brought India closer to China in power race - India Today`,
+    slug: `how-brahmos-and-brahma-influence-brought-india-closer-to-china-in-powe-2026`,
+    original_title: `How BrahMos and Brahma influence brought India closer to China in power race - India Today`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:56Z`,
+    updated_at: `2026-11-27T14:05:56Z`,
+    source_name: `India Today`,
+    source_url: `https://www.indiatoday.in/india/story/india-china-power-gap-narrows-brahmos-exports-cultural-influence-asia-lowy-institute-itspc-3045002-2026-11-24`,
+    source_courtesy: `Source: India Today`,
+    image_url: `/images/articles/how-brahmos-and-brahma-influence-brought-india-closer-to-china-in-powe-2026.webp`,
+    image_alt: `How BrahMos and Brahma influence brought India closer to China in power race - India Today`,
+    image_courtesy: `Image: India Today (External Source Attribution)`,
+    image_photographer: `India Today`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `India&#039;s growing influence in Asia is not being built through economic muscle alone. The BrahMos missiles are entering the arsenals of Southeast Asian countries, while India&#039;s cultural legacy, from the Ramayana to its rich artistic`,
+    content: `India&#039;s growing influence in Asia is not being built through economic muscle alone. The BrahMos missiles are entering the arsenals of Southeast Asian countries, while India&#039;s cultural legacy, from the Ramayana to its rich artistic and intellectual traditions, continues to forge enduring connections across the region.The BrahMos missile has found buyers in three Southeast Asian countries — the Philippines, Vietnam and Indonesia.
+
+At the same time, India&#039;s cultural influence is gaining ground in the region too. These two dimensions of India&#039;s reach have found a place in Australia&#039;s think tank, Lowy Institute&#039;s 2026 Asia Power Index, which records that India has strengthened its defence networks and cultural influence, narrowing its overall power gap with China to the smallest level since the index began in 2018.The report offers an interesting explanation for India&#039;s changing position in Asia&#039;s power equation.
+
+India has moved closer to China in overall power than at any point since the index began in 2018. However, this does not mean the two countries are now equals. China still scores 73.6 against India&#039;s 40.5, retaining an overall power advantage of about 80%.However, India&#039;s growing defence ties with Southeast Asia are reflected in the BrahMos, a supersonic missile jointly developed by India and Russia and now being bought by countries in the region.
+
+(Ai IllustrationIndia Today Digital)BRAHMOS IS TAKING INDIA&#039;S DEFENCE REACH FURTHER IN ASIAIndia&#039;s BrahMos missile exports have given its defence diplomacy a new dimension in Southeast Asia. The supersonic missile, which is developed jointly by India&#039;s Defence Research and Development Organisation (DRDO) and Russia&#039;s NPO Mashinostroyenia, BrahMos has become one of India&#039;s most prominent defence exports.The Philippines became the first foreign buyer in 2022, signing a $375 million agreement for three shore-based anti-ship missile batteries.
+
+Deliveries began in 2024. The deal was significant because it gave India an entry into the Philippines&#039; coastal defence modernisation programme, as Manila faced growing maritime tensions with China in the South China Sea.The Philippines is now considering expanding the purchase.
+
+In early November, Reuters reported that India was in final-stage discussions with Manila for a possible additional order of about five systems and nearly 60 missiles, potentially worth $700 million to $800 million. The proposed purchase would be substantially larger than the original contract.Vietnam has also signed an agreement to procure BrahMos missiles from India.
+
+India&#039;s Defence Secretary Rajesh Kumar Singh confirmed the agreement in May 2026. Reuters reported that the potential deal could be worth around $629 million, including training and logistical support.Indonesia has become the third Southeast Asian country to enter an agreement to procure a missile system.
+
+Its Defence Ministry confirmed the agreement in March 2026, saying it was part of efforts to modernise military equipment and strengthen maritime defence capabilities.The three agreements are important not only because they expand India&#039;s defence export market. Missile procurement can create longer-term relationships through training, maintenance, logistical support and continued military engagement.
+
+For India, this offers an opportunity to deepen defence ties with countries that are seeking to strengthen their maritime security.The Lowy Institute links the increase in India&#039;s Defence Networks score to greater regional defence engagement and BrahMos sales to Southeast Asia.
+
+India&#039;s score rose to 18.6, taking it up two places to ninth in the measure in 2026. This is a significant improvement, although defence networks remain one of India&#039;s weaker areas in the index. (Ai IllustrationIndia Today Digital)BRAHMA AND INDIA&#039;S CULTURAL FOOTPRINT INFLUENCE GROWS IN ASIAIf BrahMos represents India&#039;s hard-power outreach, Brahma stands for the country&#039;s wider cultural and civilisational influence.
+
+India&#039;s cultural links with Southeast Asia, however, are much older than its modern defence partnerships.The Ramayana, one of India&#039;s major epics, travelled across the region and became part of local traditions, performing arts and literature. Its influence can be seen in Cambodia&#039;s temple heritage, Indonesia&#039;s Ramayana performances and Thailand&#039;s Ramakien, a national epic rooted in the Ramayana tradition.
+
+Hindu and Buddhist philosophies, temple architecture, iconography and artistic practices also travelled across Southeast Asia through centuries of maritime and cultural exchanges.India&#039;s Ministry of Culture has documented these historical connections with countries including Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore and Vietnam.
+
+These links demonstrate how Indian ideas and traditions became part of the cultural histories of societies beyond the subcontinent.But India&#039;s cultural influence today is not limited to its ancient heritage. Cinema, music, dance, yoga, educational institutions, media and diaspora networks contribute to the country&#039;s contemporary presence abroad.The Lowy Institute, in its latest report, measured Cultural Influence through dimensions like cultural projection, information flows and people exchanges.
+
+These include cultural exports and heritage, the regional appeal of media outlets and universities, international students, diaspora communities, migration and travel connections.India&#039;s score in this measure increased by 2.3 points to 43.8 in 2026, keeping it fourth among the 27 countries and territories assessed.
+
+The report attributes the improvement to gains across all three dimensions. China, however, remains ahead with a score of 60.2.This is an important distinction because India&#039;s cultural influence is expanding, but the report does not suggest that any single cultural export or historical tradition was responsible for the improvement.
+
+Its assessment covers a wider set of indicators that capture how a country&#039;s culture, information and people connect with the rest of Asia. (Ai IllustrationIndia Today Digital)HOW THE TWO ARE CHANGING INDIA&#039;S POWER EQUATIONThe BrahMos agreements and India&#039;s cultural footprint point to two different ways in which a country can build influence.
+
+Defence exports can deepen strategic relationships, while cultural connections can shape perceptions and sustain people-to-people links. Both help India build relationships beyond its immediate neighbourhood.The Lowy Institute&#039;s findings are particularly notable because India&#039;s economic performance in the index was mixed.
+
+Its Economic Capability score fell by 0.7 points to 26.4, affected by a weakening rupee and changes in the International Monetary Fund&#039;s measurement of economies. Its Future Resources score, however, rose to 56.2 on the back of an improved economic forecast.India&#039;s overall power score reached 40.5, retaining its third position in the index.
+
+Its gains in Defence Networks and Cultural Influence came alongside improvements in economic relationships and future resources. These developments helped India narrow its Power Yield, which is the gap between the power expected from its resources and the influence it actually exercises, for the first time since 2023.The report does not attribute the narrowing India-China power gap solely to BrahMos or cultural influence.
+
+Rather, the two have been cited to illustrate how India is translating its capabilities and connections into greater regional influence.China remains substantially more powerful, with advantages across several measures. But India&#039;s growing defence partnerships and cultural reach show that its influence in Asia is no longer being measured only through economic growth or military strength.
+
+India&#039;s missiles are finding buyers, while its cultural links continue to travel across borders. Together, they offer a picture of a country seeking a larger role in the region&#039;s changing balance of power.- EndsMust Watch
+
+---
+
+**Original Source:** [India Today](https://www.indiatoday.in/india/story/india-china-power-gap-narrows-brahmos-exports-cultural-influence-asia-lowy-institute-itspc-3045002-2026-11-24)`,
+    title_en: `How BrahMos and Brahma influence brought India closer to China in power race - India Today`,
+    summary_en: `India&#039;s growing influence in Asia is not being built through economic muscle alone. The BrahMos missiles are entering the arsenals of Southeast Asian countries, while India&#039;s cultural legacy, from the Ramayana to its rich artistic`,
+    content_en: `India&#039;s growing influence in Asia is not being built through economic muscle alone. The BrahMos missiles are entering the arsenals of Southeast Asian countries, while India&#039;s cultural legacy, from the Ramayana to its rich artistic and intellectual traditions, continues to forge enduring connections across the region.The BrahMos missile has found buyers in three Southeast Asian countries — the Philippines, Vietnam and Indonesia.
+
+At the same time, India&#039;s cultural influence is gaining ground in the region too. These two dimensions of India&#039;s reach have found a place in Australia&#039;s think tank, Lowy Institute&#039;s 2026 Asia Power Index, which records that India has strengthened its defence networks and cultural influence, narrowing its overall power gap with China to the smallest level since the index began in 2018.The report offers an interesting explanation for India&#039;s changing position in Asia&#039;s power equation.
+
+India has moved closer to China in overall power than at any point since the index began in 2018. However, this does not mean the two countries are now equals. China still scores 73.6 against India&#039;s 40.5, retaining an overall power advantage of about 80%.However, India&#039;s growing defence ties with Southeast Asia are reflected in the BrahMos, a supersonic missile jointly developed by India and Russia and now being bought by countries in the region.
+
+(Ai IllustrationIndia Today Digital)BRAHMOS IS TAKING INDIA&#039;S DEFENCE REACH FURTHER IN ASIAIndia&#039;s BrahMos missile exports have given its defence diplomacy a new dimension in Southeast Asia. The supersonic missile, which is developed jointly by India&#039;s Defence Research and Development Organisation (DRDO) and Russia&#039;s NPO Mashinostroyenia, BrahMos has become one of India&#039;s most prominent defence exports.The Philippines became the first foreign buyer in 2022, signing a $375 million agreement for three shore-based anti-ship missile batteries.
+
+Deliveries began in 2024. The deal was significant because it gave India an entry into the Philippines&#039; coastal defence modernisation programme, as Manila faced growing maritime tensions with China in the South China Sea.The Philippines is now considering expanding the purchase.
+
+In early November, Reuters reported that India was in final-stage discussions with Manila for a possible additional order of about five systems and nearly 60 missiles, potentially worth $700 million to $800 million. The proposed purchase would be substantially larger than the original contract.Vietnam has also signed an agreement to procure BrahMos missiles from India.
+
+India&#039;s Defence Secretary Rajesh Kumar Singh confirmed the agreement in May 2026. Reuters reported that the potential deal could be worth around $629 million, including training and logistical support.Indonesia has become the third Southeast Asian country to enter an agreement to procure a missile system.
+
+Its Defence Ministry confirmed the agreement in March 2026, saying it was part of efforts to modernise military equipment and strengthen maritime defence capabilities.The three agreements are important not only because they expand India&#039;s defence export market. Missile procurement can create longer-term relationships through training, maintenance, logistical support and continued military engagement.
+
+For India, this offers an opportunity to deepen defence ties with countries that are seeking to strengthen their maritime security.The Lowy Institute links the increase in India&#039;s Defence Networks score to greater regional defence engagement and BrahMos sales to Southeast Asia.
+
+India&#039;s score rose to 18.6, taking it up two places to ninth in the measure in 2026. This is a significant improvement, although defence networks remain one of India&#039;s weaker areas in the index. (Ai IllustrationIndia Today Digital)BRAHMA AND INDIA&#039;S CULTURAL FOOTPRINT INFLUENCE GROWS IN ASIAIf BrahMos represents India&#039;s hard-power outreach, Brahma stands for the country&#039;s wider cultural and civilisational influence.
+
+India&#039;s cultural links with Southeast Asia, however, are much older than its modern defence partnerships.The Ramayana, one of India&#039;s major epics, travelled across the region and became part of local traditions, performing arts and literature. Its influence can be seen in Cambodia&#039;s temple heritage, Indonesia&#039;s Ramayana performances and Thailand&#039;s Ramakien, a national epic rooted in the Ramayana tradition.
+
+Hindu and Buddhist philosophies, temple architecture, iconography and artistic practices also travelled across Southeast Asia through centuries of maritime and cultural exchanges.India&#039;s Ministry of Culture has documented these historical connections with countries including Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore and Vietnam.
+
+These links demonstrate how Indian ideas and traditions became part of the cultural histories of societies beyond the subcontinent.But India&#039;s cultural influence today is not limited to its ancient heritage. Cinema, music, dance, yoga, educational institutions, media and diaspora networks contribute to the country&#039;s contemporary presence abroad.The Lowy Institute, in its latest report, measured Cultural Influence through dimensions like cultural projection, information flows and people exchanges.
+
+These include cultural exports and heritage, the regional appeal of media outlets and universities, international students, diaspora communities, migration and travel connections.India&#039;s score in this measure increased by 2.3 points to 43.8 in 2026, keeping it fourth among the 27 countries and territories assessed.
+
+The report attributes the improvement to gains across all three dimensions. China, however, remains ahead with a score of 60.2.This is an important distinction because India&#039;s cultural influence is expanding, but the report does not suggest that any single cultural export or historical tradition was responsible for the improvement.
+
+Its assessment covers a wider set of indicators that capture how a country&#039;s culture, information and people connect with the rest of Asia. (Ai IllustrationIndia Today Digital)HOW THE TWO ARE CHANGING INDIA&#039;S POWER EQUATIONThe BrahMos agreements and India&#039;s cultural footprint point to two different ways in which a country can build influence.
+
+Defence exports can deepen strategic relationships, while cultural connections can shape perceptions and sustain people-to-people links. Both help India build relationships beyond its immediate neighbourhood.The Lowy Institute&#039;s findings are particularly notable because India&#039;s economic performance in the index was mixed.
+
+Its Economic Capability score fell by 0.7 points to 26.4, affected by a weakening rupee and changes in the International Monetary Fund&#039;s measurement of economies. Its Future Resources score, however, rose to 56.2 on the back of an improved economic forecast.India&#039;s overall power score reached 40.5, retaining its third position in the index.
+
+Its gains in Defence Networks and Cultural Influence came alongside improvements in economic relationships and future resources. These developments helped India narrow its Power Yield, which is the gap between the power expected from its resources and the influence it actually exercises, for the first time since 2023.The report does not attribute the narrowing India-China power gap solely to BrahMos or cultural influence.
+
+Rather, the two have been cited to illustrate how India is translating its capabilities and connections into greater regional influence.China remains substantially more powerful, with advantages across several measures. But India&#039;s growing defence partnerships and cultural reach show that its influence in Asia is no longer being measured only through economic growth or military strength.
+
+India&#039;s missiles are finding buyers, while its cultural links continue to travel across borders. Together, they offer a picture of a country seeking a larger role in the region&#039;s changing balance of power.- EndsMust Watch
+
+---
+
+**Original Source:** [India Today](https://www.indiatoday.in/india/story/india-china-power-gap-narrows-brahmos-exports-cultural-influence-asia-lowy-institute-itspc-3045002-2026-11-24)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to India Today.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for How BrahMos and Brahma influence brought India closer to China in power race - India Today.`,
+    primary_source: `India Today`,
+  },
+  {
+    id: 98089,
+    title: `रामायण' के बाद साई पल्लवी का बिल्कुल नया अवतार, छोटे बाल और प्रेग्नेंट महिला के लुक में दिखा बदला अंदाज, ' - India TV Hindi`,
+    slug: `ramayana-breaking-report-40416-98089-2026`,
+    original_title: `रामायण' के बाद साई पल्लवी का बिल्कुल नया अवतार, छोटे बाल और प्रेग्नेंट महिला के लुक में दिखा बदला अंदाज, ' - India TV Hindi`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:05:58Z`,
+    updated_at: `2026-11-27T14:05:58Z`,
+    source_name: `India TV Hindi`,
+    source_url: `https://www.indiatv.in/entertainment/bollywood/after-ramayana-sai-pallavi-reveals-new-avatar-sporting-short-hair-look-of-pregnant-woman-song-aachi-aachi-creates-buzz-2026-11-26-1256563`,
+    source_courtesy: `Source: India TV Hindi`,
+    image_url: `/images/articles/ramayana-breaking-report-40416-98089-2026.jpg`,
+    image_alt: `रामायण' के बाद साई पल्लवी का बिल्कुल नया अवतार, छोटे बाल और प्रेग्नेंट महिला के लुक में दिखा बदला अंदाज, ' - India TV Hindi`,
+    image_courtesy: `Image: India TV Hindi (External Source Attribution)`,
+    image_photographer: `India TV Hindi`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `फिल्म 'रामायण' में सीता के किरदार से दर्शकों का दिल जीतने वाली अभिनेत्री साई पल्लवी अब अपने अगले प्रोजेक्ट के साथ आगे बढ़ रही हैं। इस बार वह मशहूर फिल्ममेकर मणिरत्नम की रोमांटिक ड्रामा फिल्म 'इंजी वेल्लम' में नजर आएंगी। फिल्म का पहला गाना '`,
+    content: `फिल्म 'रामायण' में सीता के किरदार से दर्शकों का दिल जीतने वाली अभिनेत्री साई पल्लवी अब अपने अगले प्रोजेक्ट के साथ आगे बढ़ रही हैं। इस बार वह मशहूर फिल्ममेकर मणिरत्नम की रोमांटिक ड्रामा फिल्म 'इंजी वेल्लम' में नजर आएंगी। फिल्म का पहला गाना 'आची आची' रिलीज हो चुका है और इसके सामने आते ही साई पल्लवी का बिल्कुल नया लुक चर्चा में आ गया है।
+
+गाने में अभिनेत्री एक प्रेग्नेंट महिला के किरदार में दिखाई दे रही हैं। खास बात यह है कि इस भूमिका के लिए उन्होंने छोटे बालों वाला लुक अपनाया है। उनका यह ट्रांसफॉर्मेशन फैंस के लिए काफी अप्रत्याशित रहा, लेकिन सोशल मीडिया पर इसे खूब पसंद किया जा रहा है।प्रेग्नेंट महिला के किरदार में दिखीं साई पल्लवी'आची आची' गाना मातृत्व की खुशी और उससे जुड़े खूबसूरत एहसासों को दर्शाता है।
+
+इसमें साई पल्लवी गर्भवती महिला के रूप में नजर आती हैं। उनके छोटे बाल और बदला हुआ लुक इस गाने की सबसे खास बात बन गया है। इसके साथ ही अभिनेत्री के डांस मूव्स भी दर्शकों का ध्यान खींच रहे हैं। गाने को इलंगो कृष्णन ने लिखा है, जबकि वैशाली सामंत और शरण्या श्रीनिवास ने अपनी आवाज दी है।
+
+एआर रहमान ने इसका संगीत तैयार किया है। गाना रिलीज होने के बाद सोशल मीडिया पर साई पल्लवी के लुक को लेकर लगातार प्रतिक्रियाएं आ रही हैं। एक यूजर ने उनके छोटे बालों वाले अंदाज की तारीफ करते हुए लिखा कि यह ट्रांसफॉर्मेशन बिल्कुल अप्रत्याशित है, लेकिन अभिनेत्री इसे बेहद सहजता से निभा रही हैं।
+
+वहीं एक अन्य फैन ने कहा कि साई पल्लवी ने अपने शॉर्ट हेयर लुक को खूबसूरती से अपनाया है और वह फिल्म को मणिरत्नम की एक क्लासिक प्रेम कहानी के रूप में देखने के लिए उत्साहित हैं।तमिल और मलयालम का खूबसूरत मेल'आची आची' को लेकर एक और खास बात इसकी संगीत शैली है। गाने में तमिल और मलयालम भाषाओं का मेल सुनने को मिलता है।
+
+फैंस ने एआर रहमान के संगीत की तारीफ करते हुए इसे शानदार फ्यूजन बताया है। कुछ दर्शकों को गाने में साई पल्लवी का डांस और प्रेग्नेंट महिला के रूप में उनकी ताजगी खास तौर पर पसंद आई। मणिरत्नम और एआर रहमान की जोड़ी एक बार फिर साथ आई है, ऐसे में दर्शकों को फिल्म के संगीत से काफी उम्मीदें हैं।पहली बार विजय सेतुपति के साथ नजर आएंगी साई पल्लवी'इंजी वेल्लम' में साई पल्लवी के साथ विजय सेतुपति मुख्य भूमिका में हैं।
+
+यह पहली बार होगा जब दोनों कलाकार एक साथ पर्दे पर दिखाई देंगे। फिल्म की कहानी और किरदारों को लेकर मेकर्स ने अभी ज्यादा जानकारी साझा नहीं की है। हालांकि, फिल्म का बड़ा हिस्सा कोलकाता में शूट किया गया है। सिनेमैटोग्राफी की जिम्मेदारी अविक मुखोपाध्याय ने संभाली है, जबकि एडिटिंग श्रीकर प्रसाद कर रहे हैं।
+
+फिल्म का निर्माण सुभास्करन, मणिरत्नम और शिवा अनंत ने मद्रास टॉकीज और लाइका प्रोडक्शंस के बैनर तले किया है। 'इंजी वेल्लम' 29 जनवरी 2027 को दुनियाभर के सिनेमाघरों में रिलीज होगी। 'रामायण' के बाद साई पल्लवी का यह बिल्कुल अलग अंदाज उनके प्रशंसकों के लिए नया आकर्षण बन गया है।ये भी पढ़ें:  मखमली जैकेट में अक्षय कुमार के लाडले आरव ने दिखाया शाही अंदाज, 'ऑब्सेस्ड' हुईं अनन्या पांडे, स्टाइल के आगे फीकी पड़ी हर चमक
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/entertainment/bollywood/after-ramayana-sai-pallavi-reveals-new-avatar-sporting-short-hair-look-of-pregnant-woman-song-aachi-aachi-creates-buzz-2026-11-26-1256563)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `रामायण' के बाद साई पल्लवी का बिल्कुल नया अवतार, छोटे बाल और प्रेग्नेंट महिला के लुक में दिखा बदला अंदाज, ' - India TV Hindi`,
+    summary_hi: `फिल्म 'रामायण' में सीता के किरदार से दर्शकों का दिल जीतने वाली अभिनेत्री साई पल्लवी अब अपने अगले प्रोजेक्ट के साथ आगे बढ़ रही हैं। इस बार वह मशहूर फिल्ममेकर मणिरत्नम की रोमांटिक ड्रामा फिल्म 'इंजी वेल्लम' में नजर आएंगी। फिल्म का पहला गाना '`,
+    content_hi: `फिल्म 'रामायण' में सीता के किरदार से दर्शकों का दिल जीतने वाली अभिनेत्री साई पल्लवी अब अपने अगले प्रोजेक्ट के साथ आगे बढ़ रही हैं। इस बार वह मशहूर फिल्ममेकर मणिरत्नम की रोमांटिक ड्रामा फिल्म 'इंजी वेल्लम' में नजर आएंगी। फिल्म का पहला गाना 'आची आची' रिलीज हो चुका है और इसके सामने आते ही साई पल्लवी का बिल्कुल नया लुक चर्चा में आ गया है।
+
+गाने में अभिनेत्री एक प्रेग्नेंट महिला के किरदार में दिखाई दे रही हैं। खास बात यह है कि इस भूमिका के लिए उन्होंने छोटे बालों वाला लुक अपनाया है। उनका यह ट्रांसफॉर्मेशन फैंस के लिए काफी अप्रत्याशित रहा, लेकिन सोशल मीडिया पर इसे खूब पसंद किया जा रहा है।प्रेग्नेंट महिला के किरदार में दिखीं साई पल्लवी'आची आची' गाना मातृत्व की खुशी और उससे जुड़े खूबसूरत एहसासों को दर्शाता है।
+
+इसमें साई पल्लवी गर्भवती महिला के रूप में नजर आती हैं। उनके छोटे बाल और बदला हुआ लुक इस गाने की सबसे खास बात बन गया है। इसके साथ ही अभिनेत्री के डांस मूव्स भी दर्शकों का ध्यान खींच रहे हैं। गाने को इलंगो कृष्णन ने लिखा है, जबकि वैशाली सामंत और शरण्या श्रीनिवास ने अपनी आवाज दी है।
+
+एआर रहमान ने इसका संगीत तैयार किया है। गाना रिलीज होने के बाद सोशल मीडिया पर साई पल्लवी के लुक को लेकर लगातार प्रतिक्रियाएं आ रही हैं। एक यूजर ने उनके छोटे बालों वाले अंदाज की तारीफ करते हुए लिखा कि यह ट्रांसफॉर्मेशन बिल्कुल अप्रत्याशित है, लेकिन अभिनेत्री इसे बेहद सहजता से निभा रही हैं।
+
+वहीं एक अन्य फैन ने कहा कि साई पल्लवी ने अपने शॉर्ट हेयर लुक को खूबसूरती से अपनाया है और वह फिल्म को मणिरत्नम की एक क्लासिक प्रेम कहानी के रूप में देखने के लिए उत्साहित हैं।तमिल और मलयालम का खूबसूरत मेल'आची आची' को लेकर एक और खास बात इसकी संगीत शैली है। गाने में तमिल और मलयालम भाषाओं का मेल सुनने को मिलता है।
+
+फैंस ने एआर रहमान के संगीत की तारीफ करते हुए इसे शानदार फ्यूजन बताया है। कुछ दर्शकों को गाने में साई पल्लवी का डांस और प्रेग्नेंट महिला के रूप में उनकी ताजगी खास तौर पर पसंद आई। मणिरत्नम और एआर रहमान की जोड़ी एक बार फिर साथ आई है, ऐसे में दर्शकों को फिल्म के संगीत से काफी उम्मीदें हैं।पहली बार विजय सेतुपति के साथ नजर आएंगी साई पल्लवी'इंजी वेल्लम' में साई पल्लवी के साथ विजय सेतुपति मुख्य भूमिका में हैं।
+
+यह पहली बार होगा जब दोनों कलाकार एक साथ पर्दे पर दिखाई देंगे। फिल्म की कहानी और किरदारों को लेकर मेकर्स ने अभी ज्यादा जानकारी साझा नहीं की है। हालांकि, फिल्म का बड़ा हिस्सा कोलकाता में शूट किया गया है। सिनेमैटोग्राफी की जिम्मेदारी अविक मुखोपाध्याय ने संभाली है, जबकि एडिटिंग श्रीकर प्रसाद कर रहे हैं।
+
+फिल्म का निर्माण सुभास्करन, मणिरत्नम और शिवा अनंत ने मद्रास टॉकीज और लाइका प्रोडक्शंस के बैनर तले किया है। 'इंजी वेल्लम' 29 जनवरी 2027 को दुनियाभर के सिनेमाघरों में रिलीज होगी। 'रामायण' के बाद साई पल्लवी का यह बिल्कुल अलग अंदाज उनके प्रशंसकों के लिए नया आकर्षण बन गया है।ये भी पढ़ें:  मखमली जैकेट में अक्षय कुमार के लाडले आरव ने दिखाया शाही अंदाज, 'ऑब्सेस्ड' हुईं अनन्या पांडे, स्टाइल के आगे फीकी पड़ी हर चमक
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/entertainment/bollywood/after-ramayana-sai-pallavi-reveals-new-avatar-sporting-short-hair-look-of-pregnant-woman-song-aachi-aachi-creates-buzz-2026-11-26-1256563)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट India TV Hindi के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक रामायण' के बाद साई पल्लवी का बिल्कुल नया अवतार, छोटे बाल और प्रेग्नेंट महिला के लुक में दिखा बदला अंदाज, ' - India TV Hindi से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `India TV Hindi`,
+  },
+  {
+    id: 98090,
+    title: `Sai Pallavi Sita Controversy: 1700 करोड़ कमा चुकी रामायण में योद्धा क्यों है सीता? - AajTak`,
+    slug: `sai-pallavi-sita-controversy-1700-aajtak-2026`,
+    original_title: `Sai Pallavi Sita Controversy: 1700 करोड़ कमा चुकी रामायण में योद्धा क्यों है सीता? - AajTak`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T14:06:01Z`,
+    updated_at: `2026-11-27T14:06:01Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/entertainment/bollywood-news/story/author-amish-tripathi-defends-sai-pallavi-warrior-sita-ramayana-ranbir-kapoor-yash-1700-crore-box-office-tmovj-dskc-2707448-2026-11-27`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b091727cebd1-sai-pallavi-warrior-sita-controversy-273742811.jpg`,
+    image_alt: `Sai Pallavi Sita Controversy: 1700 करोड़ कमा चुकी रामायण में योद्धा क्यों है सीता? - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `नमित मल्होत्रा की फिल्म रामायण का पहला पार्ट सिनेमाघरों में रिलीज हुए तीन हफ्ते बीत चुके हैं. इसे अधिकतर लोगों ने देख लिया, और मूवी में दिखाई गई कहानी पर सबकी अलग-अलग राय बनी. कई लोगों को फिल्म पंसद आई, तो कइयों ने इसमें किरदारों के चित्रण `,
+    content: `नमित मल्होत्रा की फिल्म रामायण का पहला पार्ट सिनेमाघरों में रिलीज हुए तीन हफ्ते बीत चुके हैं. इसे अधिकतर लोगों ने देख लिया, और मूवी में दिखाई गई कहानी पर सबकी अलग-अलग राय बनी. कई लोगों को फिल्म पंसद आई, तो कइयों ने इसमें किरदारों के चित्रण पर सवाल उठाए. सबसे ज्यादा सवाल साई पल्लवी के किरदार माता सीता पर उठे, क्योंकि उन्हें फिल्म में एक योद्धा की तरह लड़ते हुए दिखाया गया.
+
+और पढ़ेंसीता माता के किरदार पर क्यों हुआ बवाल?फिल्म रामायण महर्षि वाल्मीकि द्वारा लिखी गई रामायण के अनुसार बनाई गई जिसमें माता सीता को इस रूप में नहीं बताया गया है. हालांकि मेकर्स ने रिलीज से पहले ही साफ किया था कि उन्होंने वाल्मीकि के अलावा अन्य ग्रंथों से भी रामायण के कुछ-कुछ हिस्से लिए हैं.
+
+इन्हीं में से एक रामायण में माता सीता को योद्धा बताया गया, जिसे फिल्म में दिखाया गया और फिर विवाद हुआ. अब साई पल्लवी को मशहूर राइटर अमीश त्रिपाठी का साथ मिला है, जो एक जाने-माने माइथोलॉजिकल राइटर हैं. अमीश खुद भी रामायण से जुड़ी कहानियों पर किताब लिख चुके हैं. उनकी किताब &#039;सीता: वॉरियर ऑफ मिथिला&#039; में भी माता सीता को एक योद्धा के रूप में दिखाया गया है.
+
+ऐसे में वो फिल्म में साई पल्लवी के किरदार को लेकर उठ रहे सवालों से सहमत नहीं हैं. Advertisement        स्क्रीन से बातचीत में अमीश त्रिपाठी ने कहा कि लोगों को रामायण के सभी रूपों के बारे में जानकारी नहीं है. उन्होंने कहा- हमारे एजुकेशन सिस्टम में रामायण और महाभारत को ठीक से नहीं पढ़ाया जाता.
+
+इसी वजह से हमें इनके अलग-अलग रूपों के बारे में पता नहीं है. अद्भुत रामायण में सीता ने रावण के एक ज्यादा ताकतवर और बड़े रूप का वध किया था. उस कहानी में सीता एक योद्धा थीं. ये कोई नई कहानी नहीं है, बल्कि वाल्मीकि से जुड़ा एक प्राचीन रूप है.रामायण और महाभारत पर अमीश क्या बोले?अमीश ने रामायण और महाभारत जैसी कहानियों को समझने के तरीके पर भी बात की.
+
+उन्होंने कहा कि समय के साथ इन महाकाव्यों को लेकर हमारी समझ बढ़ती है. परेशानी तब होती है, जब लोग इनके सिर्फ एक ही रूप को जानते हैं और बाकी कहानियों के बारे में उन्हें जानकारी नहीं होती.अपनी बात समझाने के लिए उन्होंने ग्रीक कहानी &#039;ओडिसी&#039; का उदाहरण दिया. अमीश ने बताया कि एक समय ऐसा था, जब लोग होमर की &#039;ओडिसी&#039; को सिर्फ काल्पनिक कहानी मानते थे.
+
+लेकिन 19वीं सदी में यूरोप में ट्रॉय शहर की खोज हुई. इसके बाद ये सामने आया कि ट्रोजन युद्ध की कहानी के पीछे कुछ असली घटनाएं भी थीं. हालांकि, समय के साथ इसमें कुछ काल्पनिक चीजें भी जुड़ गई होंगी. Advertisement        बता दें कि फिल्म रामायण के पहले पार्ट को नितेश तिवारी ने डायरेक्ट किया है.
+
+अब वो इसके दूसरे पार्ट पर काम कर रहे हैं, जिसे दिवाली 2028 पर रिलीज करने का ऐलान किया गया है. पहले पार्ट में कहानी माता सीता के हरण से रावण-जटायु के युद्ध तक खत्म होती है. अगले पार्ट में हनुमान जी और भगवान राम-रावण के युद्ध को दिखाया जाएगा. उस पार्ट में सनी देओल भी दिखाई देंगे.बात करें रामायण की कमाई की, तो वर्ल्डवाइड फिल्म 1700 करोड़ से ज्यादा कमा चुकी है.
+
+अब इसकी नजर 1800 करोड़ क्लब में एंट्री पर है, जो 23वें दिन पूरी होने की संभावना है. ---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/author-amish-tripathi-defends-sai-pallavi-warrior-sita-ramayana-ranbir-kapoor-yash-1700-crore-box-office-tmovj-dskc-2707448-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Sai Pallavi Sita Controversy: 1700 करोड़ कमा चुकी रामायण में योद्धा क्यों है सीता? - AajTak`,
+    summary_hi: `नमित मल्होत्रा की फिल्म रामायण का पहला पार्ट सिनेमाघरों में रिलीज हुए तीन हफ्ते बीत चुके हैं. इसे अधिकतर लोगों ने देख लिया, और मूवी में दिखाई गई कहानी पर सबकी अलग-अलग राय बनी. कई लोगों को फिल्म पंसद आई, तो कइयों ने इसमें किरदारों के चित्रण `,
+    content_hi: `नमित मल्होत्रा की फिल्म रामायण का पहला पार्ट सिनेमाघरों में रिलीज हुए तीन हफ्ते बीत चुके हैं. इसे अधिकतर लोगों ने देख लिया, और मूवी में दिखाई गई कहानी पर सबकी अलग-अलग राय बनी. कई लोगों को फिल्म पंसद आई, तो कइयों ने इसमें किरदारों के चित्रण पर सवाल उठाए. सबसे ज्यादा सवाल साई पल्लवी के किरदार माता सीता पर उठे, क्योंकि उन्हें फिल्म में एक योद्धा की तरह लड़ते हुए दिखाया गया.
+
+और पढ़ेंसीता माता के किरदार पर क्यों हुआ बवाल?फिल्म रामायण महर्षि वाल्मीकि द्वारा लिखी गई रामायण के अनुसार बनाई गई जिसमें माता सीता को इस रूप में नहीं बताया गया है. हालांकि मेकर्स ने रिलीज से पहले ही साफ किया था कि उन्होंने वाल्मीकि के अलावा अन्य ग्रंथों से भी रामायण के कुछ-कुछ हिस्से लिए हैं.
+
+इन्हीं में से एक रामायण में माता सीता को योद्धा बताया गया, जिसे फिल्म में दिखाया गया और फिर विवाद हुआ. अब साई पल्लवी को मशहूर राइटर अमीश त्रिपाठी का साथ मिला है, जो एक जाने-माने माइथोलॉजिकल राइटर हैं. अमीश खुद भी रामायण से जुड़ी कहानियों पर किताब लिख चुके हैं. उनकी किताब &#039;सीता: वॉरियर ऑफ मिथिला&#039; में भी माता सीता को एक योद्धा के रूप में दिखाया गया है.
+
+ऐसे में वो फिल्म में साई पल्लवी के किरदार को लेकर उठ रहे सवालों से सहमत नहीं हैं. Advertisement        स्क्रीन से बातचीत में अमीश त्रिपाठी ने कहा कि लोगों को रामायण के सभी रूपों के बारे में जानकारी नहीं है. उन्होंने कहा- हमारे एजुकेशन सिस्टम में रामायण और महाभारत को ठीक से नहीं पढ़ाया जाता.
+
+इसी वजह से हमें इनके अलग-अलग रूपों के बारे में पता नहीं है. अद्भुत रामायण में सीता ने रावण के एक ज्यादा ताकतवर और बड़े रूप का वध किया था. उस कहानी में सीता एक योद्धा थीं. ये कोई नई कहानी नहीं है, बल्कि वाल्मीकि से जुड़ा एक प्राचीन रूप है.रामायण और महाभारत पर अमीश क्या बोले?अमीश ने रामायण और महाभारत जैसी कहानियों को समझने के तरीके पर भी बात की.
+
+उन्होंने कहा कि समय के साथ इन महाकाव्यों को लेकर हमारी समझ बढ़ती है. परेशानी तब होती है, जब लोग इनके सिर्फ एक ही रूप को जानते हैं और बाकी कहानियों के बारे में उन्हें जानकारी नहीं होती.अपनी बात समझाने के लिए उन्होंने ग्रीक कहानी &#039;ओडिसी&#039; का उदाहरण दिया. अमीश ने बताया कि एक समय ऐसा था, जब लोग होमर की &#039;ओडिसी&#039; को सिर्फ काल्पनिक कहानी मानते थे.
+
+लेकिन 19वीं सदी में यूरोप में ट्रॉय शहर की खोज हुई. इसके बाद ये सामने आया कि ट्रोजन युद्ध की कहानी के पीछे कुछ असली घटनाएं भी थीं. हालांकि, समय के साथ इसमें कुछ काल्पनिक चीजें भी जुड़ गई होंगी. Advertisement        बता दें कि फिल्म रामायण के पहले पार्ट को नितेश तिवारी ने डायरेक्ट किया है.
+
+अब वो इसके दूसरे पार्ट पर काम कर रहे हैं, जिसे दिवाली 2028 पर रिलीज करने का ऐलान किया गया है. पहले पार्ट में कहानी माता सीता के हरण से रावण-जटायु के युद्ध तक खत्म होती है. अगले पार्ट में हनुमान जी और भगवान राम-रावण के युद्ध को दिखाया जाएगा. उस पार्ट में सनी देओल भी दिखाई देंगे.बात करें रामायण की कमाई की, तो वर्ल्डवाइड फिल्म 1700 करोड़ से ज्यादा कमा चुकी है.
+
+अब इसकी नजर 1800 करोड़ क्लब में एंट्री पर है, जो 23वें दिन पूरी होने की संभावना है. ---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/author-amish-tripathi-defends-sai-pallavi-warrior-sita-ramayana-ranbir-kapoor-yash-1700-crore-box-office-tmovj-dskc-2707448-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Sai Pallavi Sita Controversy: 1700 करोड़ कमा चुकी रामायण में योद्धा क्यों है सीता? - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+{
     id: 98061,
     title: `Ireland to tour Pakistan for three ODIs ahead of World Cup qualifier`,
     slug: `ireland-to-tour-pakistan-for-three-odis-ahead-of-world-cup-qualif-2026`,
