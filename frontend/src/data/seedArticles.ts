@@ -22,7 +22,2987 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+  
+  
   {
+    id: 98121,
+    title: `England bowl, Owen and Stanlake come in for Australia`,
+    slug: `england-bowl-owen-and-stanlake-come-in-for-australia-2026`,
+    original_title: `England bowl, Owen and Stanlake come in for Australia`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:27:12Z`,
+    updated_at: `2026-11-27T15:27:12Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564420.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `England bowl, Owen and Stanlake come in for Australia`,
+    image_courtesy: `Photo: Action Sports Photography / Unsplash (Unsplash License)`,
+    image_photographer: `Action Sports Photography / Unsplash`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `Billy Stanlake plays first T20I in seven years as hosts look to bounce back from Carrara mauling`,
+    content: `Billy Stanlake plays first T20I in seven years as hosts look to bounce back from Carrara mauling
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564420.html?ex_cid=OTC-RSS)`,
+    title_en: `England bowl, Owen and Stanlake come in for Australia`,
+    summary_en: `Billy Stanlake plays first T20I in seven years as hosts look to bounce back from Carrara mauling`,
+    content_en: `Billy Stanlake plays first T20I in seven years as hosts look to bounce back from Carrara mauling
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564420.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-australia-vs-england-2026`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-27 20:57:12 IST`,
+    detected_at: `2026-11-27T15:27:11Z`,
+    verified_at: `2026-11-27T15:27:12Z`,
+    approved_at: `2026-11-27T15:27:12Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding England bowl, Owen and Stanlake come in for Australia.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 98122,
+    title: `Fatima Sana returns to lead Pakistan on tour of the West Indies`,
+    slug: `fatima-sana-returns-to-lead-pakistan-on-tour-of-the-west-indies-2026`,
+    original_title: `Fatima Sana returns to lead Pakistan on tour of the West Indies`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:27:12Z`,
+    updated_at: `2026-11-27T15:27:12Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1563904.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Fatima Sana returns to lead Pakistan on tour of the West Indies`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `Pakistan will play three T20Is and three ODIs, with the ODIs crucial from the point of view of direct qualification for the next World Cup, in 2029`,
+    content: `Pakistan will play three T20Is and three ODIs, with the ODIs crucial from the point of view of direct qualification for the next World Cup, in 2029
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563904.html?ex_cid=OTC-RSS)`,
+    title_en: `Fatima Sana returns to lead Pakistan on tour of the West Indies`,
+    summary_en: `Pakistan will play three T20Is and three ODIs, with the ODIs crucial from the point of view of direct qualification for the next World Cup, in 2029`,
+    content_en: `Pakistan will play three T20Is and three ODIs, with the ODIs crucial from the point of view of direct qualification for the next World Cup, in 2029
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563904.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-pakistan-vs-west-indies-2026`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-27 20:57:12 IST`,
+    detected_at: `2026-11-27T15:27:11Z`,
+    verified_at: `2026-11-27T15:27:12Z`,
+    approved_at: `2026-11-27T15:27:12Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Fatima Sana returns to lead Pakistan on tour of the West Indies.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 98093,
+    title: `ICMR-NIN Survey Finds Low Levels Of Vitamin D In Nearly Two-Thirds Of Indian Teenagers - ABP Live English`,
+    slug: `icmr-nin-survey-finds-low-levels-of-vitamin-d-in-nearly-two-thirds-of-2026`,
+    original_title: `ICMR-NIN Survey Finds Low Levels Of Vitamin D In Nearly Two-Thirds Of Indian Teenagers - ABP Live English`,
+    category: `health`,
+    topic: `nutrition`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:06Z`,
+    updated_at: `2026-11-27T15:26:06Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://news.abplive.com/health/icmr-nin-survey-finds-low-levels-of-vitamin-d-in-nearly-two-thirds-of-indian-teenagers-1877732`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/icmr-nin-survey-finds-low-levels-of-vitamin-d-in-nearly-two-thirds-of-2026.jpg`,
+    image_alt: `ICMR-NIN Survey Finds Low Levels Of Vitamin D In Nearly Two-Thirds Of Indian Teenagers - ABP Live English`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `Vitamin B12 deficiency has emerged as a major nutritional concern among Indian teenagers, with nearly two-thirds of adolescents showing low levels of the essential nutrient, according to a national survey by the Indian Council of Medical Re`,
+    content: `Vitamin B12 deficiency has emerged as a major nutritional concern among Indian teenagers, with nearly two-thirds of adolescents showing low levels of the essential nutrient, according to a national survey by the Indian Council of Medical Research (ICMR) and the National Institute of Nutrition (NIN).
+
+The findings reveal that 65.4% of girls and 66.1% of boys aged 10&ndash;19 years have vitamin B12 deficiency. The survey also found low levels across children, adults and pregnant women, highlighting the need to pay greater attention to nutritional health across different age groups.
+
+Two-Thirds Of Teens Affected
+According to the survey, vitamin B12 deficiency was found in 65.4% of adolescent girls and 66.1% of adolescent boys between 10 and 19 years of age. The ICMR-NIN report considered blood vitamin B12 levels below 203 picograms per millilitre (pg/mL) to indicate deficiency.
+
+The findings show that the problem is almost equally prevalent among teenage girls and boys. The survey was conducted between 2023 and 2025 across 183 districts in 35 States and Union Territories. More than 81,000 households and over two lakh people were included in the assessment.
+
+Also Read: What Is Cutis Laxa? Know The Rare Skin Disorder That Causes Premature Ageing
+Researchers also analysed around 1.7 lakh blood samples to assess nutritional indicators across different age groups and population categories. The survey was conducted under the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA).
+
+Rural And Urban Differences
+The survey also identified differences in vitamin B12 deficiency between rural and urban populations. Among adolescent girls, 66.5% in rural areas had low vitamin B12 levels, compared with 61.7% in urban areas. The pattern was different among boys. The deficiency rate stood at 68.6% in urban areas, while 65.3% of boys in rural areas were found to have low levels.
+
+Children And Adults Also Affected
+The findings indicate that vitamin B12 deficiency is not limited to teenagers. Among children aged five to nine years, 46.5% had low vitamin B12 levels. The figure stood at 37.3% among children aged 12&ndash;59 months. The survey also found deficiency in 55.2% of women and 60.4% of men aged 20&ndash;59 years.
+
+Among women above 60, the figure was 41.2%. The findings also highlighted concerns among pregnant and breastfeeding women. Vitamin B12 deficiency was recorded in 63.1% of pregnant women and 51.8% of lactating women. Also Read: Air Pollution May Increase Kidney Disease Risk; Know The Effects Of PM2.5 Exposure
+Why Vitamin B12 Matters
+Vitamin B12 is an essential nutrient that supports the formation of red blood cells, proper nerve function and DNA production.
+
+It also plays an important role in maintaining the normal functioning of the brain and nervous system. Low levels of vitamin B12 can be associated with symptoms such as fatigue, weakness, tingling or numbness, and difficulty concentrating. Prolonged deficiency may also lead to neurological complications.
+
+The survey's findings highlight the importance of monitoring nutritional health across different stages of life, particularly among adolescents, children and women.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://news.abplive.com/health/icmr-nin-survey-finds-low-levels-of-vitamin-d-in-nearly-two-thirds-of-indian-teenagers-1877732)`,
+    title_en: `ICMR-NIN Survey Finds Low Levels Of Vitamin D In Nearly Two-Thirds Of Indian Teenagers - ABP Live English`,
+    summary_en: `Vitamin B12 deficiency has emerged as a major nutritional concern among Indian teenagers, with nearly two-thirds of adolescents showing low levels of the essential nutrient, according to a national survey by the Indian Council of Medical Re`,
+    content_en: `Vitamin B12 deficiency has emerged as a major nutritional concern among Indian teenagers, with nearly two-thirds of adolescents showing low levels of the essential nutrient, according to a national survey by the Indian Council of Medical Research (ICMR) and the National Institute of Nutrition (NIN).
+
+The findings reveal that 65.4% of girls and 66.1% of boys aged 10&ndash;19 years have vitamin B12 deficiency. The survey also found low levels across children, adults and pregnant women, highlighting the need to pay greater attention to nutritional health across different age groups.
+
+Two-Thirds Of Teens Affected
+According to the survey, vitamin B12 deficiency was found in 65.4% of adolescent girls and 66.1% of adolescent boys between 10 and 19 years of age. The ICMR-NIN report considered blood vitamin B12 levels below 203 picograms per millilitre (pg/mL) to indicate deficiency.
+
+The findings show that the problem is almost equally prevalent among teenage girls and boys. The survey was conducted between 2023 and 2025 across 183 districts in 35 States and Union Territories. More than 81,000 households and over two lakh people were included in the assessment.
+
+Also Read: What Is Cutis Laxa? Know The Rare Skin Disorder That Causes Premature Ageing
+Researchers also analysed around 1.7 lakh blood samples to assess nutritional indicators across different age groups and population categories. The survey was conducted under the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA).
+
+Rural And Urban Differences
+The survey also identified differences in vitamin B12 deficiency between rural and urban populations. Among adolescent girls, 66.5% in rural areas had low vitamin B12 levels, compared with 61.7% in urban areas. The pattern was different among boys. The deficiency rate stood at 68.6% in urban areas, while 65.3% of boys in rural areas were found to have low levels.
+
+Children And Adults Also Affected
+The findings indicate that vitamin B12 deficiency is not limited to teenagers. Among children aged five to nine years, 46.5% had low vitamin B12 levels. The figure stood at 37.3% among children aged 12&ndash;59 months. The survey also found deficiency in 55.2% of women and 60.4% of men aged 20&ndash;59 years.
+
+Among women above 60, the figure was 41.2%. The findings also highlighted concerns among pregnant and breastfeeding women. Vitamin B12 deficiency was recorded in 63.1% of pregnant women and 51.8% of lactating women. Also Read: Air Pollution May Increase Kidney Disease Risk; Know The Effects Of PM2.5 Exposure
+Why Vitamin B12 Matters
+Vitamin B12 is an essential nutrient that supports the formation of red blood cells, proper nerve function and DNA production.
+
+It also plays an important role in maintaining the normal functioning of the brain and nervous system. Low levels of vitamin B12 can be associated with symptoms such as fatigue, weakness, tingling or numbness, and difficulty concentrating. Prolonged deficiency may also lead to neurological complications.
+
+The survey's findings highlight the importance of monitoring nutritional health across different stages of life, particularly among adolescents, children and women.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://news.abplive.com/health/icmr-nin-survey-finds-low-levels-of-vitamin-d-in-nearly-two-thirds-of-indian-teenagers-1877732)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for ICMR-NIN Survey Finds Low Levels Of Vitamin D In Nearly Two-Thirds Of Indian Teenagers - ABP Live English.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 98094,
+    title: `ICMR Explores New Drug Option For Duchenne Muscular Dystrophy - Outlook India`,
+    slug: `icmr-explores-new-drug-option-for-duchenne-muscular-dystrophy-outlook-2026`,
+    original_title: `ICMR Explores New Drug Option For Duchenne Muscular Dystrophy - Outlook India`,
+    category: `health`,
+    topic: `public-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:07Z`,
+    updated_at: `2026-11-27T15:26:07Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://www.outlookindia.com/healthcare-spotlight/icmr-explores-new-drug-option-for-duchenne-muscular-dystrophy`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/icmr-explores-new-drug-option-for-duchenne-muscular-dystrophy-outlook-2026.jpg`,
+    image_alt: `ICMR Explores New Drug Option For Duchenne Muscular Dystrophy - Outlook India`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `ICMR seeks pharma partners to develop oral Vorinostat, a repurposed HDAC inhibitor, for a multicentre trial in boys aged 6-15 with Duchenne Muscular Dystrophy. Submissions close December 24, 2026.`,
+    content: `ICMR seeks pharma partners to develop oral Vorinostat, a repurposed HDAC inhibitor, for a multicentre trial in boys aged 6-15 with Duchenne Muscular Dystrophy. Submissions close December 24, 2026.
+
+In a move that could open up another treatment avenue for children with Duchenne Muscular Dystrophy (DMD), the Indian Council of Medical Research (ICMR) has invited pharmaceutical manufacturers to collaborate on developing an oral formulation of Vorinostat for the rare genetic disorder.
+
+The initiative aims to evaluate the potential of repurposing an existing drug for DMD, a severe inherited condition caused by mutations in the gene responsible for producing dystrophin, a protein that helps maintain the structure and function of muscle cells.
+
+The condition predominantly affects boys and typically becomes apparent in early childhood, when parents may notice difficulty running, climbing stairs or getting up from the floor.
+
+Muscle weakness progressively worsens, and many affected children eventually lose the ability to walk independently. The disease can also damage the heart muscle and weaken the muscles needed for breathing, requiring long-term monitoring and specialised care.
+
+The ICMR has proposed a multicentre clinical trial to assess whether vorinostat, an oral histone deacetylase (HDAC) inhibitor, can slow disease progression when given alongside standard treatment. The proposed study will involve ambulatory boys aged 6 to 15 years with genetically confirmed DMD.
+
+The drug is being explored because HDAC inhibition may help regulate genes involved in muscle regeneration, reduce inflammation and fibrosis, and improve muscle repair. Preclinical studies in animal models of muscular dystrophy have shown improvements in muscle structure, strength and functional performance, according to the ICMR document.
+
+Roche’s New Breast Cancer Drug Gets US FDA Nod; Is India’s Regulatory Approval Next?
+
+ICMR To Study Dust Exposure, Respiratory Risks Among Combine Harvester Workers
+
+DMD Families Continue To Face Challenges In Accessing Promised Government Support
+
+ICMR Backs 7 Hubs With Rs 105 Crore To Develop Indigenous Medical Devices
+
+The proposed clinical programme will have a dose-finding stage followed by a confirmatory phase. It will evaluate four weight-based doses of vorinostat — 0.6 mg, 1.2 mg, 2.4 mg and 3.6 mg per kg per day — against a placebo. Each treatment arm in the initial dose-finding stage will include 20 participants, with the study planned over 48 weeks.
+
+The confirmatory phase proposes to enrol 183 participants receiving vorinostat along with standard care and 92 receiving placebo alongside standard care. An open-label extension is also envisaged.
+
+The move comes against the backdrop of limited treatment options for DMD. Current management includes corticosteroids, rehabilitation and supportive cardiac and respiratory care. While mutation-specific therapies are available for a small subset of patients, their high costs and limited eligibility continue to restrict access to newer DMD treatments.
+
+For instance, Givinostat, an HDAC inhibitor marketed as Duvyzat, developed by the Italian pharmaceutical company Italfarmaco S.p.A received US Food and Drug Administration approval in March 2024 for patients aged six years and above who are able to walk. The European Union also approved the drug for eligible patients.
+
+However, as its high cost and limited availability remain barriers to wider access, Italy's medicines agency, AIFA, in a move to expand access, announced on February 26, 2026, that Duvyzat would be reimbursed through the country's national health service.
+
+Vorinostat, which is already approved for other clinical indications, has an established safety and pharmacokinetic profile. The ICMR is exploring whether it can be repurposed as a potentially more accessible treatment option for DMD.
+
+As part of the initiative, manufacturers will be required to develop a suitable paediatric oral formulation, including provisions for weight-based dosing, and supply a matching placebo for the proposed clinical study. The estimated requirement is 80 kg of the active pharmaceutical ingredient, including the applicable overage.
+
+The selected industry partner will also support formulation development, quality testing, manufacturing, regulatory documentation and supply of the investigational product.
+
+ICMR has invited expressions of interest from eligible Indian pharmaceutical manufacturers, with December 24, 2026, as the last date for submission.
+
+For families raising a child with DMD, the cost of treatment, rehabilitation and day-to-day care can place a heavy financial burden. A study, published in the Journal of Postgraduate Medicine in March 2026, has estimated the annual economic burden of DMD in India at around Rs 2,055 crore, highlighting the financial implications of the disorder.
+
+Researchers from Seth GS Medical College and King Edward Memorial (KEM) Hospital, Mumbai, assessed 60 boys with DMD using data collected between July 2022 and January 2024. The median annual cost per patient was Rs 2,68,325, as per the study.
+
+One of the study's notable findings was that spending on complementary and alternative medicines and unapproved therapies accounted for a substantial share of direct costs. The researchers said the findings underline the need for evidence-based treatment, standardised care guidelines and stronger safeguards against unscientific therapies.
+
+Welcoming the ICMR initiative, Jaipur-based Ram Gopal Sharma, whose 13-year-old grandson Khushwant Bhardwaj is wheelchair-bound due to DMD, said the proposed research should move forward at the earliest. Sharma who is national convenor of the MD (Muscular Dystrophy) core committee of India, added that the move was much-awaited and could offer hope to affected children and help them lead a more dignified and longer life.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.outlookindia.com/healthcare-spotlight/icmr-explores-new-drug-option-for-duchenne-muscular-dystrophy)`,
+    title_en: `ICMR Explores New Drug Option For Duchenne Muscular Dystrophy - Outlook India`,
+    summary_en: `ICMR seeks pharma partners to develop oral Vorinostat, a repurposed HDAC inhibitor, for a multicentre trial in boys aged 6-15 with Duchenne Muscular Dystrophy. Submissions close December 24, 2026.`,
+    content_en: `ICMR seeks pharma partners to develop oral Vorinostat, a repurposed HDAC inhibitor, for a multicentre trial in boys aged 6-15 with Duchenne Muscular Dystrophy. Submissions close December 24, 2026.
+
+In a move that could open up another treatment avenue for children with Duchenne Muscular Dystrophy (DMD), the Indian Council of Medical Research (ICMR) has invited pharmaceutical manufacturers to collaborate on developing an oral formulation of Vorinostat for the rare genetic disorder.
+
+The initiative aims to evaluate the potential of repurposing an existing drug for DMD, a severe inherited condition caused by mutations in the gene responsible for producing dystrophin, a protein that helps maintain the structure and function of muscle cells.
+
+The condition predominantly affects boys and typically becomes apparent in early childhood, when parents may notice difficulty running, climbing stairs or getting up from the floor.
+
+Muscle weakness progressively worsens, and many affected children eventually lose the ability to walk independently. The disease can also damage the heart muscle and weaken the muscles needed for breathing, requiring long-term monitoring and specialised care.
+
+The ICMR has proposed a multicentre clinical trial to assess whether vorinostat, an oral histone deacetylase (HDAC) inhibitor, can slow disease progression when given alongside standard treatment. The proposed study will involve ambulatory boys aged 6 to 15 years with genetically confirmed DMD.
+
+The drug is being explored because HDAC inhibition may help regulate genes involved in muscle regeneration, reduce inflammation and fibrosis, and improve muscle repair. Preclinical studies in animal models of muscular dystrophy have shown improvements in muscle structure, strength and functional performance, according to the ICMR document.
+
+Roche’s New Breast Cancer Drug Gets US FDA Nod; Is India’s Regulatory Approval Next?
+
+ICMR To Study Dust Exposure, Respiratory Risks Among Combine Harvester Workers
+
+DMD Families Continue To Face Challenges In Accessing Promised Government Support
+
+ICMR Backs 7 Hubs With Rs 105 Crore To Develop Indigenous Medical Devices
+
+The proposed clinical programme will have a dose-finding stage followed by a confirmatory phase. It will evaluate four weight-based doses of vorinostat — 0.6 mg, 1.2 mg, 2.4 mg and 3.6 mg per kg per day — against a placebo. Each treatment arm in the initial dose-finding stage will include 20 participants, with the study planned over 48 weeks.
+
+The confirmatory phase proposes to enrol 183 participants receiving vorinostat along with standard care and 92 receiving placebo alongside standard care. An open-label extension is also envisaged.
+
+The move comes against the backdrop of limited treatment options for DMD. Current management includes corticosteroids, rehabilitation and supportive cardiac and respiratory care. While mutation-specific therapies are available for a small subset of patients, their high costs and limited eligibility continue to restrict access to newer DMD treatments.
+
+For instance, Givinostat, an HDAC inhibitor marketed as Duvyzat, developed by the Italian pharmaceutical company Italfarmaco S.p.A received US Food and Drug Administration approval in March 2024 for patients aged six years and above who are able to walk. The European Union also approved the drug for eligible patients.
+
+However, as its high cost and limited availability remain barriers to wider access, Italy's medicines agency, AIFA, in a move to expand access, announced on February 26, 2026, that Duvyzat would be reimbursed through the country's national health service.
+
+Vorinostat, which is already approved for other clinical indications, has an established safety and pharmacokinetic profile. The ICMR is exploring whether it can be repurposed as a potentially more accessible treatment option for DMD.
+
+As part of the initiative, manufacturers will be required to develop a suitable paediatric oral formulation, including provisions for weight-based dosing, and supply a matching placebo for the proposed clinical study. The estimated requirement is 80 kg of the active pharmaceutical ingredient, including the applicable overage.
+
+The selected industry partner will also support formulation development, quality testing, manufacturing, regulatory documentation and supply of the investigational product.
+
+ICMR has invited expressions of interest from eligible Indian pharmaceutical manufacturers, with December 24, 2026, as the last date for submission.
+
+For families raising a child with DMD, the cost of treatment, rehabilitation and day-to-day care can place a heavy financial burden. A study, published in the Journal of Postgraduate Medicine in March 2026, has estimated the annual economic burden of DMD in India at around Rs 2,055 crore, highlighting the financial implications of the disorder.
+
+Researchers from Seth GS Medical College and King Edward Memorial (KEM) Hospital, Mumbai, assessed 60 boys with DMD using data collected between July 2022 and January 2024. The median annual cost per patient was Rs 2,68,325, as per the study.
+
+One of the study's notable findings was that spending on complementary and alternative medicines and unapproved therapies accounted for a substantial share of direct costs. The researchers said the findings underline the need for evidence-based treatment, standardised care guidelines and stronger safeguards against unscientific therapies.
+
+Welcoming the ICMR initiative, Jaipur-based Ram Gopal Sharma, whose 13-year-old grandson Khushwant Bhardwaj is wheelchair-bound due to DMD, said the proposed research should move forward at the earliest. Sharma who is national convenor of the MD (Muscular Dystrophy) core committee of India, added that the move was much-awaited and could offer hope to affected children and help them lead a more dignified and longer life.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.outlookindia.com/healthcare-spotlight/icmr-explores-new-drug-option-for-duchenne-muscular-dystrophy)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for ICMR Explores New Drug Option For Duchenne Muscular Dystrophy - Outlook India.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 98095,
+    title: `आहार में शामिल करके देखें मौसमी फल, हरी सब्जियां, दालें, दूध, दही और फिर देखें सेहत का चमत्‍कार - Nai Dunia`,
+    slug: `nai-dunia-2026`,
+    original_title: `आहार में शामिल करके देखें मौसमी फल, हरी सब्जियां, दालें, दूध, दही और फिर देखें सेहत का चमत्‍कार - Nai Dunia`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:09Z`,
+    updated_at: `2026-11-27T15:26:09Z`,
+    source_name: `Nai Dunia`,
+    source_url: `https://www.naidunia.com/lifestyle/news-try-including-seasonal-fruits-green-vegetables-pulses-milk-and-yogurt-in-your-diet-and-see-miracle-of-health-8479541`,
+    source_courtesy: `Source: Nai Dunia`,
+    image_url: `/images/articles/nai-dunia-2026.jpg`,
+    image_alt: `आहार में शामिल करके देखें मौसमी फल, हरी सब्जियां, दालें, दूध, दही और फिर देखें सेहत का चमत्‍कार - Nai Dunia`,
+    image_courtesy: `Image: Nai Dunia (External Source Attribution)`,
+    image_photographer: `Nai Dunia`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `आहार में शामिल करके देखें मौसमी फल, हरी सब्जियां, दालें, दूध, दही और फिर देखें सेहत का चमत्‍कार Nai Dunia`,
+    content: `### बच्चों को संक्रमण से बचाने के लिए उनकी दिनचर्या और खान-पान पर विशेष ध्यान देना जरूरी है। भोजन में मौसमी फल, हरी सब्जियां, दालें, दूध, दही और पर्याप्त प्रोटीन शामिल करें। बच्चों को पर्याप्त मात्रा में पानी और पौष्टिक आहार दें।
+
+लाइफस्‍टाइल डेस्‍क। सर्दी के दिनों में बच्चों में सर्दी-जुकाम, खांसी, बुखार और गले में संक्रमण की शिकायत बढ़ जाती है। इसका प्रमुख कारण मौसम में बदलाव के साथ ही कई तरह के वायरस का सक्रिय होना है। स्कूल, खेल के मैदान और भीड़भाड़ वाली जगहों पर बच्चों का एक-दूसरे के संपर्क में आना भी संक्रमण फैलने की आशंका बढ़ाता है। खांसने, छींकने और संक्रमित सतहों को छूने से वायरस एक बच्चे से दूसरे तक पहुंच सकता है।
+
+छोटे बच्चों की रोग प्रतिरोधक क्षमता पूरी तरह विकसित नहीं होने के कारण वे संक्रमण की चपेट में जल्दी आ सकते हैं। बच्चों को संक्रमण से बचाने के लिए उनकी दिनचर्या और खान-पान पर विशेष ध्यान देना जरूरी है। भोजन में मौसमी फल, हरी सब्जियां, दालें, दूध, दही और पर्याप्त प्रोटीन शामिल करें।
+
+बच्चों को पर्याप्त मात्रा में पानी और पौष्टिक आहार दें। विटामिन और खनिज तत्वों से भरपूर भोजन शरीर की रोग प्रतिरोधक क्षमता को बेहतर बनाए रखने में मदद करता है। केवल सर्दी से बचाने के लिए बच्चों को जरूरत से ज्यादा गर्म कपड़े पहनाना जरूरी नहीं है, बल्कि मौसम के अनुसार आरामदायक कपड़े पहनाएं।
+
+यह भी पढ़ें- विटामिन डी की कमी से बढ़ती हैं हड्डियों की समस्‍याएं, कैल्शियम रिच और प्रोटीन डाइट से मिलेगा फायदा
+
+बच्चों को हाथ धोने, खांसते या छींकते समय मुंह ढंकने और व्यक्तिगत साफ-सफाई की आदत डालें। बीमार होने पर उन्हें स्कूल भेजने से बचें। पर्याप्त नींद और नियमित शारीरिक गतिविधि भी जरूरी है। डाॅ. रितेश पाटीदार, बाल रोग विशेषज्ञ के अनुसार कुपोषण से बच्चों की रोग प्रतिरोधक क्षमता कमजोर हो सकती है।
+
+इसलिए उनके वजन और लंबाई की नियमित निगरानी करें। यदि बच्चे को तेज बुखार, सांस लेने में परेशानी, सुस्ती या पानी की कमी के लक्षण दिखाई दें तो तत्काल चिकित्सक से संपर्क करें। बिना डाॅक्टर की सलाह के एंटीबायोटिक या खांसी-जुकाम की दवाएं न दें।
+
+यह भी पढ़ें- बदलते मौसम के सेहत पर असर के बीच काम की बातें जो बदल देंगी आपका जीवन
+
+---
+
+**मूल स्रोत (Original Source):** [Nai Dunia](https://www.naidunia.com/lifestyle/news-try-including-seasonal-fruits-green-vegetables-pulses-milk-and-yogurt-in-your-diet-and-see-miracle-of-health-8479541)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `आहार में शामिल करके देखें मौसमी फल, हरी सब्जियां, दालें, दूध, दही और फिर देखें सेहत का चमत्‍कार - Nai Dunia`,
+    summary_hi: `आहार में शामिल करके देखें मौसमी फल, हरी सब्जियां, दालें, दूध, दही और फिर देखें सेहत का चमत्‍कार Nai Dunia`,
+    content_hi: `### बच्चों को संक्रमण से बचाने के लिए उनकी दिनचर्या और खान-पान पर विशेष ध्यान देना जरूरी है। भोजन में मौसमी फल, हरी सब्जियां, दालें, दूध, दही और पर्याप्त प्रोटीन शामिल करें। बच्चों को पर्याप्त मात्रा में पानी और पौष्टिक आहार दें।
+
+लाइफस्‍टाइल डेस्‍क। सर्दी के दिनों में बच्चों में सर्दी-जुकाम, खांसी, बुखार और गले में संक्रमण की शिकायत बढ़ जाती है। इसका प्रमुख कारण मौसम में बदलाव के साथ ही कई तरह के वायरस का सक्रिय होना है। स्कूल, खेल के मैदान और भीड़भाड़ वाली जगहों पर बच्चों का एक-दूसरे के संपर्क में आना भी संक्रमण फैलने की आशंका बढ़ाता है। खांसने, छींकने और संक्रमित सतहों को छूने से वायरस एक बच्चे से दूसरे तक पहुंच सकता है।
+
+छोटे बच्चों की रोग प्रतिरोधक क्षमता पूरी तरह विकसित नहीं होने के कारण वे संक्रमण की चपेट में जल्दी आ सकते हैं। बच्चों को संक्रमण से बचाने के लिए उनकी दिनचर्या और खान-पान पर विशेष ध्यान देना जरूरी है। भोजन में मौसमी फल, हरी सब्जियां, दालें, दूध, दही और पर्याप्त प्रोटीन शामिल करें।
+
+बच्चों को पर्याप्त मात्रा में पानी और पौष्टिक आहार दें। विटामिन और खनिज तत्वों से भरपूर भोजन शरीर की रोग प्रतिरोधक क्षमता को बेहतर बनाए रखने में मदद करता है। केवल सर्दी से बचाने के लिए बच्चों को जरूरत से ज्यादा गर्म कपड़े पहनाना जरूरी नहीं है, बल्कि मौसम के अनुसार आरामदायक कपड़े पहनाएं।
+
+यह भी पढ़ें- विटामिन डी की कमी से बढ़ती हैं हड्डियों की समस्‍याएं, कैल्शियम रिच और प्रोटीन डाइट से मिलेगा फायदा
+
+बच्चों को हाथ धोने, खांसते या छींकते समय मुंह ढंकने और व्यक्तिगत साफ-सफाई की आदत डालें। बीमार होने पर उन्हें स्कूल भेजने से बचें। पर्याप्त नींद और नियमित शारीरिक गतिविधि भी जरूरी है। डाॅ. रितेश पाटीदार, बाल रोग विशेषज्ञ के अनुसार कुपोषण से बच्चों की रोग प्रतिरोधक क्षमता कमजोर हो सकती है।
+
+इसलिए उनके वजन और लंबाई की नियमित निगरानी करें। यदि बच्चे को तेज बुखार, सांस लेने में परेशानी, सुस्ती या पानी की कमी के लक्षण दिखाई दें तो तत्काल चिकित्सक से संपर्क करें। बिना डाॅक्टर की सलाह के एंटीबायोटिक या खांसी-जुकाम की दवाएं न दें।
+
+यह भी पढ़ें- बदलते मौसम के सेहत पर असर के बीच काम की बातें जो बदल देंगी आपका जीवन
+
+---
+
+**मूल स्रोत (Original Source):** [Nai Dunia](https://www.naidunia.com/lifestyle/news-try-including-seasonal-fruits-green-vegetables-pulses-milk-and-yogurt-in-your-diet-and-see-miracle-of-health-8479541)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट Nai Dunia के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक आहार में शामिल करके देखें मौसमी फल, हरी सब्जियां, दालें, दूध, दही और फिर देखें सेहत का चमत्‍कार - Nai Dunia से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Nai Dunia`,
+  },
+  {
+    id: 98096,
+    title: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    slug: `health-breaking-report-4813-98096-2026`,
+    original_title: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:10Z`,
+    updated_at: `2026-11-27T15:26:10Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/c5m2lke8jdzzo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/health-breaking-report-4813-98096-2026.jpg`,
+    image_alt: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.`,
+    content: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.
+
+साल 2025 में भारत, पाकिस्तान, इंडोनेशिया, यूक्रेन, नाइजीरिया और इथियोपिया समेत 57 देशों में खसरे के बड़े प्रकोप दर्ज किए गए.
+
+विशेषज्ञों का कहना है कि मामलों में बढ़ोतरी का सीधा संबंध टीकाकरण की घटती दरों से है. विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) के मुताबिक़, साल 2019 में दुनियाभर के 86% बच्चों को खसरे के टीके की पहली खुराक दी गई थी, लेकिन साल 2025 तक यह आंकड़ा घटकर 84% हो गया.
+
+हालांकि ये दोनों आंकड़े भी उस 95% टीकाकरण कवरेज से काफ़ी कम हैं, जो किसी आबादी में खसरे के प्रसार को रोकने के लिए ज़रूरी है.
+
+टीकाकरण के प्रति हिचकिचाहट, टीकाकरण की कम दरों के पीछे एक प्रमुख कारण है. टीकों की सुरक्षा, उनके असर और उनके दुष्प्रभावों को लेकर चिंताएं ऑनलाइन ग़लत सूचनाओं के प्रसार से और बढ़ जाती हैं.
+
+लंदन स्कूल ऑफ़ हाइजीन एंड ट्रॉपिकल मेडिसिन में बाल स्वास्थ्य की प्रोफेसर हेलेन बेडफोर्ड कहती हैं, "इंटरनेट और मीडिया के इस दौर में टीकाकरण से जुड़े मिथक, अफ़वाहें और चिंताएं बहुत तेज़ी से दुनियाभर में फैल सकती हैं."
+
+हालांकि, ब्रिटेन की यूनिवर्सिटी ऑफ हडर्सफ़ील्ड में निवारक स्वास्थ्य की शोधकर्ता सुज़ाना कोला-पामर का कहना है कि टीकाकरण को लेकर हिचकिचाने वाले लोगों को तुरंत टीका-विरोधी नहीं मान लेना चाहिए.
+
+वह बीबीसी वर्ल्ड सर्विस से कहती हैं कि इसके बजाय, उनमें से कई लोग सिर्फ़ "आश्वासन चाहते हैं."
+
+तो वैज्ञानिक कैसे तय करते हैं कि कोई टीका सुरक्षित है और आप ऑनलाइन फैलाई जा रही ग़लत सूचनाओं की पहचान कैसे कर सकते हैं?
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+आज भी टीकों के विकास को चिकित्सा विज्ञान की सबसे बड़ी उपलब्धियों में से एक माना जाता है. डब्ल्यूएचओ का अनुमान है कि खसरा, टिटनेस, डिप्थीरिया और इन्फ्लुएंजा जैसी बीमारियों से हर साल 35 लाख से 50 लाख लोगों की जान बचाने में टीके मदद करते हैं.
+
+टीका शरीर की प्रतिरक्षा प्रणाली (इम्यून सिस्टम) को किसी संक्रमण की पहचान करना और उससे लड़ना सिखाता है, ताकि वास्तविक संक्रमण के संपर्क में आने से पहले ही शरीर उससे निपटने के लिए तैयार हो जाए.
+
+बेडफोर्ड बताती हैं, "टीके वास्तविक संक्रमण से गुज़रे बिना ही वह इम्यूनिटी दे देते हैं, जो आमतौर पर वास्तव में संक्रमण होने पर शरीर में विकसित होती है."
+
+उदाहरण के लिए, मम्प्स (गलसुआ), खसरा और रूबेला (एमएमआर) का टीका इन बीमारियों का कारण बनने वाले वायरस के कमज़ोर रूपों से तैयार किया जाता है. इसे शरीर में इंजेक्ट करने पर प्रतिरक्षा प्रणाली सक्रिय हो जाती है और भविष्य में वास्तविक संक्रमण के संपर्क में आने पर वह उसे पहचानकर तुरंत प्रतिक्रिया देती है.
+
+हालांकि, सभी टीके एक ही तरह से काम नहीं करते.
+
+मैसेंजर आरएनए (एमआरएनए) टीकों में आनुवंशिक निर्देशों का इस्तेमाल किया जाता है, जो अस्थायी रूप से कोशिकाओं को बिना नुक़सान वाले प्रोटीन बनाने के लिए कहते हैं.
+
+यह प्रोटीन शरीर में इम्यून रेस्पॉन्स पैदा करता है. फाइज़र का कोविड-19 टीका एमआरएनए टीके का एक उदाहरण है.
+
+### टीकों का परीक्षण कैसे किया जाता है?
+
+यह प्रक्रिया वैज्ञानिक शोध से शुरू होती है. इसमें यह देखा जाता है कि इस विषय पर क्षेत्र के दूसरे शोधकर्ताओं ने क्या काम किया है और वे किन निष्कर्षों पर पहुंचे हैं.
+
+जब वैज्ञानिक किसी नए विचार का परीक्षण करने के लिए तैयार होते हैं, तो वे प्रयोगशाला में जांच शुरू करते हैं. जांच सबसे पहले कोशिकाओं पर और फिर जानवरों पर, जिनमें अक्सर चूहों का इस्तेमाल किया जाता है.
+
+ऑक्सफोर्ड यूनिवर्सिटी के वैक्सीन नॉलेज प्रोजेक्ट के मुताबिक़, अगले चरण के परीक्षणों में जाने से पहले यह साबित करना ज़रूरी होता है कि परीक्षण किया जा रहा टीका जानवरों में इम्यून रेस्पॉन्स पैदा कर सकता है.
+
+इसके बाद इंसानों पर परीक्षण किए जाते हैं, जिन्हें आमतौर पर तीन चरणों में बांटा जाता है.
+
+फेज़ 1- पहले चरण में वॉलंटियर्स के एक छोटे समूह पर परीक्षण किया जाता है. इनमें आमतौर पर युवा और स्वस्थ वयस्क शामिल होते हैं. डब्ल्यूएचओ के मुताबिक़, इस चरण में सुरक्षा से जुड़ी किसी बड़ी चिंता और टीके की सही खुराक का पता लगाया जाता है.
+
+फेज़ 2- दूसरे चरण में स्वयंसेवकों के एक बड़े समूह पर परीक्षण किया जाता है. इसमें आमतौर पर कई सौ लोग शामिल होते हैं, जो उस आबादी से होते हैं जिसके लिए टीका तैयार किया गया है.
+
+उनकी तुलना ऐसे लोगों के एक समूह से की जाती है जिन्हें टीका नहीं दिया गया होता. इसे कंट्रोल ग्रुप कहा जाता है. डॉक्टर टीके के संभावित दुष्प्रभावों और शरीर की प्रतिरक्षा प्रतिक्रिया का अध्ययन करते हैं.
+
+फेज़ 3- तीसरे चरण में इससे भी बड़े समूह पर टीके का परीक्षण किया जाता है. इसमें आमतौर पर हज़ारों वॉलंटियर्स शामिल होते हैं. साथ ही एक कंट्रोल ग्रुप भी रखा जाता है.
+
+ये परीक्षण आमतौर पर अलग-अलग देशों में किए जाते हैं, ताकि यह सुनिश्चित किया जा सके कि टीका अलग-अलग उम्र, जातीयता (एथनेसिटी), सामाजिक पृष्ठभूमि और रहन-सहन वाले लोगों के बीच प्रभावी और सुरक्षित है.
+
+किसी टीके को इन तीनों चरणों से गुज़रने में कई दशक भी लग सकते हैं. मेनबी के नाम से जाने जाने वाले मेनिंगोकोकल बीमारी के टीके को विकसित करने में क़रीब 15 साल लगे थे.
+
+बेडफोर्ड कहती हैं, "जब आप किसी पूरी आबादी के स्वस्थ बच्चों को कोई टीका देने जा रहे होते हैं, तो आपको पूरी तरह आश्वस्त होना पड़ता है कि वह बहुत सुरक्षित है."
+
+हालांकि, असाधारण परिस्थितियों में सुरक्षा जांच से समझौता किए बिना टीकों को तेज़ी से विकसित और उनका परीक्षण किया जा सकता है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c5m2lke8jdzzo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    summary_hi: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.`,
+    content_hi: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.
+
+साल 2025 में भारत, पाकिस्तान, इंडोनेशिया, यूक्रेन, नाइजीरिया और इथियोपिया समेत 57 देशों में खसरे के बड़े प्रकोप दर्ज किए गए.
+
+विशेषज्ञों का कहना है कि मामलों में बढ़ोतरी का सीधा संबंध टीकाकरण की घटती दरों से है. विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) के मुताबिक़, साल 2019 में दुनियाभर के 86% बच्चों को खसरे के टीके की पहली खुराक दी गई थी, लेकिन साल 2025 तक यह आंकड़ा घटकर 84% हो गया.
+
+हालांकि ये दोनों आंकड़े भी उस 95% टीकाकरण कवरेज से काफ़ी कम हैं, जो किसी आबादी में खसरे के प्रसार को रोकने के लिए ज़रूरी है.
+
+टीकाकरण के प्रति हिचकिचाहट, टीकाकरण की कम दरों के पीछे एक प्रमुख कारण है. टीकों की सुरक्षा, उनके असर और उनके दुष्प्रभावों को लेकर चिंताएं ऑनलाइन ग़लत सूचनाओं के प्रसार से और बढ़ जाती हैं.
+
+लंदन स्कूल ऑफ़ हाइजीन एंड ट्रॉपिकल मेडिसिन में बाल स्वास्थ्य की प्रोफेसर हेलेन बेडफोर्ड कहती हैं, "इंटरनेट और मीडिया के इस दौर में टीकाकरण से जुड़े मिथक, अफ़वाहें और चिंताएं बहुत तेज़ी से दुनियाभर में फैल सकती हैं."
+
+हालांकि, ब्रिटेन की यूनिवर्सिटी ऑफ हडर्सफ़ील्ड में निवारक स्वास्थ्य की शोधकर्ता सुज़ाना कोला-पामर का कहना है कि टीकाकरण को लेकर हिचकिचाने वाले लोगों को तुरंत टीका-विरोधी नहीं मान लेना चाहिए.
+
+वह बीबीसी वर्ल्ड सर्विस से कहती हैं कि इसके बजाय, उनमें से कई लोग सिर्फ़ "आश्वासन चाहते हैं."
+
+तो वैज्ञानिक कैसे तय करते हैं कि कोई टीका सुरक्षित है और आप ऑनलाइन फैलाई जा रही ग़लत सूचनाओं की पहचान कैसे कर सकते हैं?
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+आज भी टीकों के विकास को चिकित्सा विज्ञान की सबसे बड़ी उपलब्धियों में से एक माना जाता है. डब्ल्यूएचओ का अनुमान है कि खसरा, टिटनेस, डिप्थीरिया और इन्फ्लुएंजा जैसी बीमारियों से हर साल 35 लाख से 50 लाख लोगों की जान बचाने में टीके मदद करते हैं.
+
+टीका शरीर की प्रतिरक्षा प्रणाली (इम्यून सिस्टम) को किसी संक्रमण की पहचान करना और उससे लड़ना सिखाता है, ताकि वास्तविक संक्रमण के संपर्क में आने से पहले ही शरीर उससे निपटने के लिए तैयार हो जाए.
+
+बेडफोर्ड बताती हैं, "टीके वास्तविक संक्रमण से गुज़रे बिना ही वह इम्यूनिटी दे देते हैं, जो आमतौर पर वास्तव में संक्रमण होने पर शरीर में विकसित होती है."
+
+उदाहरण के लिए, मम्प्स (गलसुआ), खसरा और रूबेला (एमएमआर) का टीका इन बीमारियों का कारण बनने वाले वायरस के कमज़ोर रूपों से तैयार किया जाता है. इसे शरीर में इंजेक्ट करने पर प्रतिरक्षा प्रणाली सक्रिय हो जाती है और भविष्य में वास्तविक संक्रमण के संपर्क में आने पर वह उसे पहचानकर तुरंत प्रतिक्रिया देती है.
+
+हालांकि, सभी टीके एक ही तरह से काम नहीं करते.
+
+मैसेंजर आरएनए (एमआरएनए) टीकों में आनुवंशिक निर्देशों का इस्तेमाल किया जाता है, जो अस्थायी रूप से कोशिकाओं को बिना नुक़सान वाले प्रोटीन बनाने के लिए कहते हैं.
+
+यह प्रोटीन शरीर में इम्यून रेस्पॉन्स पैदा करता है. फाइज़र का कोविड-19 टीका एमआरएनए टीके का एक उदाहरण है.
+
+### टीकों का परीक्षण कैसे किया जाता है?
+
+यह प्रक्रिया वैज्ञानिक शोध से शुरू होती है. इसमें यह देखा जाता है कि इस विषय पर क्षेत्र के दूसरे शोधकर्ताओं ने क्या काम किया है और वे किन निष्कर्षों पर पहुंचे हैं.
+
+जब वैज्ञानिक किसी नए विचार का परीक्षण करने के लिए तैयार होते हैं, तो वे प्रयोगशाला में जांच शुरू करते हैं. जांच सबसे पहले कोशिकाओं पर और फिर जानवरों पर, जिनमें अक्सर चूहों का इस्तेमाल किया जाता है.
+
+ऑक्सफोर्ड यूनिवर्सिटी के वैक्सीन नॉलेज प्रोजेक्ट के मुताबिक़, अगले चरण के परीक्षणों में जाने से पहले यह साबित करना ज़रूरी होता है कि परीक्षण किया जा रहा टीका जानवरों में इम्यून रेस्पॉन्स पैदा कर सकता है.
+
+इसके बाद इंसानों पर परीक्षण किए जाते हैं, जिन्हें आमतौर पर तीन चरणों में बांटा जाता है.
+
+फेज़ 1- पहले चरण में वॉलंटियर्स के एक छोटे समूह पर परीक्षण किया जाता है. इनमें आमतौर पर युवा और स्वस्थ वयस्क शामिल होते हैं. डब्ल्यूएचओ के मुताबिक़, इस चरण में सुरक्षा से जुड़ी किसी बड़ी चिंता और टीके की सही खुराक का पता लगाया जाता है.
+
+फेज़ 2- दूसरे चरण में स्वयंसेवकों के एक बड़े समूह पर परीक्षण किया जाता है. इसमें आमतौर पर कई सौ लोग शामिल होते हैं, जो उस आबादी से होते हैं जिसके लिए टीका तैयार किया गया है.
+
+उनकी तुलना ऐसे लोगों के एक समूह से की जाती है जिन्हें टीका नहीं दिया गया होता. इसे कंट्रोल ग्रुप कहा जाता है. डॉक्टर टीके के संभावित दुष्प्रभावों और शरीर की प्रतिरक्षा प्रतिक्रिया का अध्ययन करते हैं.
+
+फेज़ 3- तीसरे चरण में इससे भी बड़े समूह पर टीके का परीक्षण किया जाता है. इसमें आमतौर पर हज़ारों वॉलंटियर्स शामिल होते हैं. साथ ही एक कंट्रोल ग्रुप भी रखा जाता है.
+
+ये परीक्षण आमतौर पर अलग-अलग देशों में किए जाते हैं, ताकि यह सुनिश्चित किया जा सके कि टीका अलग-अलग उम्र, जातीयता (एथनेसिटी), सामाजिक पृष्ठभूमि और रहन-सहन वाले लोगों के बीच प्रभावी और सुरक्षित है.
+
+किसी टीके को इन तीनों चरणों से गुज़रने में कई दशक भी लग सकते हैं. मेनबी के नाम से जाने जाने वाले मेनिंगोकोकल बीमारी के टीके को विकसित करने में क़रीब 15 साल लगे थे.
+
+बेडफोर्ड कहती हैं, "जब आप किसी पूरी आबादी के स्वस्थ बच्चों को कोई टीका देने जा रहे होते हैं, तो आपको पूरी तरह आश्वस्त होना पड़ता है कि वह बहुत सुरक्षित है."
+
+हालांकि, असाधारण परिस्थितियों में सुरक्षा जांच से समझौता किए बिना टीकों को तेज़ी से विकसित और उनका परीक्षण किया जा सकता है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c5m2lke8jdzzo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक हमें कैसे पता चलेगा कि टीके सुरक्षित हैं? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 98097,
+    title: `Union Cabinet clears delimitation bill`,
+    slug: `union-cabinet-clears-delimitation-bill-2026`,
+    original_title: `Union Cabinet clears delimitation bill`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:12Z`,
+    updated_at: `2026-11-27T15:26:12Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Union Cabinet clears delimitation bill`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `The Union Cabinet has approved Constitution Amendment Bill providing proportionate increase of 50 per cent seats across all States. This ratio will continue for 25 years till it changes according to the population in the Census after 2051. `,
+    content: `The Union Cabinet has approved Constitution Amendment Bill providing proportionate increase of 50 per cent seats across all States. This ratio will continue for 25 years till it changes according to the population in the Census after 2051. The Women’s Reservation Bill will come into effect along with the increase in seats.
+
+A similar attempt by the government was rejected in the Lok Sabha during the Monsoon session in April. Why Delimitation Bill failed to pass in Parliament in April 2026 Why Delimitation Bill failed to pass in Parliament in April 2026 Why the Delimitation Bill failed in Parliament in April 2026 and how the political arithmetic changed since then; here’s what to know Why Delimitation Bill failed to pass in Parliament in April 2026 storyline 1 The government has called for a special sitting of Parliament beginning Monday (November 30, 2026).
+
+The two Houses will meet on separate dates, Union Parliamentary Affairs Minister Kiren Rijiju announced on Thursday (November 26, 2026), which is the 104th day since the Monsoon Session adjourned indefinitely on August 13. DMK sets conditions to support Delimitation Bill DMK sets conditions to support Delimitation Bill Tamil Nadu’s share in Lok Sabha should not be reduced and the existing proportional strength of all States as determined on the basis of the 1971 Census must remain frozen for another 25 years, are Mr.
+
+Stalin’s two demands for supporting the Delimitation bill ANALYSIS DMK sets conditions to support Delimitation Bill storyline 1 The Cabinet meeting was chaired by Prime Minister Narendra Modi and was convened at 1 pm at Sewa Teerth. A two-thirds majority in both houses of Parliament is a must for a Constitutional amendment bill to get cleared.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece)`,
+    title_en: `Union Cabinet clears delimitation bill`,
+    summary_en: `The Union Cabinet has approved Constitution Amendment Bill providing proportionate increase of 50 per cent seats across all States. This ratio will continue for 25 years till it changes according to the population in the Census after 2051. `,
+    content_en: `The Union Cabinet has approved Constitution Amendment Bill providing proportionate increase of 50 per cent seats across all States. This ratio will continue for 25 years till it changes according to the population in the Census after 2051. The Women’s Reservation Bill will come into effect along with the increase in seats.
+
+A similar attempt by the government was rejected in the Lok Sabha during the Monsoon session in April. Why Delimitation Bill failed to pass in Parliament in April 2026 Why Delimitation Bill failed to pass in Parliament in April 2026 Why the Delimitation Bill failed in Parliament in April 2026 and how the political arithmetic changed since then; here’s what to know Why Delimitation Bill failed to pass in Parliament in April 2026 storyline 1 The government has called for a special sitting of Parliament beginning Monday (November 30, 2026).
+
+The two Houses will meet on separate dates, Union Parliamentary Affairs Minister Kiren Rijiju announced on Thursday (November 26, 2026), which is the 104th day since the Monsoon Session adjourned indefinitely on August 13. DMK sets conditions to support Delimitation Bill DMK sets conditions to support Delimitation Bill Tamil Nadu’s share in Lok Sabha should not be reduced and the existing proportional strength of all States as determined on the basis of the 1971 Census must remain frozen for another 25 years, are Mr.
+
+Stalin’s two demands for supporting the Delimitation bill ANALYSIS DMK sets conditions to support Delimitation Bill storyline 1 The Cabinet meeting was chaired by Prime Minister Narendra Modi and was convened at 1 pm at Sewa Teerth. A two-thirds majority in both houses of Parliament is a must for a Constitutional amendment bill to get cleared.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Union Cabinet clears delimitation bill.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 98098,
+    title: `Amit Shah may have amnesia': P Chidambaram slams Home Minister over women's reservation bill - Deccan Herald`,
+    slug: `amit-shah-may-have-amnesia-p-chidambaram-slams-home-minister-over-wome-2026`,
+    original_title: `Amit Shah may have amnesia': P Chidambaram slams Home Minister over women's reservation bill - Deccan Herald`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:13Z`,
+    updated_at: `2026-11-27T15:26:13Z`,
+    source_name: `Deccan Herald`,
+    source_url: `https://www.deccanherald.com/india/amit-shah-may-have-amnesia-p-chidambaram-slams-home-minister-over-womens-reservation-bill-4233003`,
+    source_courtesy: `Source: Deccan Herald`,
+    image_url: `/images/articles/amit-shah-may-have-amnesia-p-chidambaram-slams-home-minister-over-wome-2026.jpg`,
+    image_alt: `Amit Shah may have amnesia': P Chidambaram slams Home Minister over women's reservation bill - Deccan Herald`,
+    image_courtesy: `Image: Deccan Herald (External Source Attribution)`,
+    image_photographer: `Deccan Herald`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `<p>Senior Congress leader P Chidambaram on Friday slammed Union Home Minister Amit Shah for criticising the <a href="https://www.deccanherald.com/tags/congress">Congress </a>over 33 per cent reservation for women in the Lok Sabha and state `,
+    content: `<p>Senior Congress leader P Chidambaram on Friday slammed Union Home Minister Amit Shah for criticising the <a href="https://www.deccanherald.com/tags/congress">Congress </a>over 33 per cent reservation for women in the Lok Sabha and state assemblies, saying either the <a href="https://www.deccanherald.com/tags/bjp">BJP </a>leader has amnesia or is economical with the truth.</p><p>The former Union finance minister said that the Congress fully supported the bill and has even demanded an immediate implementation of the Constitution (106th) Amendment Act, 2023.</p><p>"Home Minister Amit Shah either has amnesia or is economical with the truth.
+
+He claims that the Congress cannot stop the implementation of the promise to reserve 1/3 of the seats for women in the Lok Sabha and the State Legislatures. The Constitution (106th) Amendment Act, 2023 has already been enacted," Chidambaram said on X.</p>.<p>The women's reservation bill was passed in both the Houses of Parliament on September 20 and 21, 2023, he said, adding that the government is not implementing the Act and why the need for a new bill.
+
+</p>.'Carrying Constitution in pocket, waving it in public not respect': Shah slams Rahul on Constitution Day.<p>The Constitution (106th) Amendment Act inserted Article 334A, which tied women's reservation to delimitation after next Census, Chidambaram said.</p><p>"Read the debates in Parliament.
+
+Congress and other Opposition parties opposed the insertion of Article 334A which, unnecessarily, created two hurdles: Census and Delimitation after the Census," he said.</p><p>"But the BJP was adamant and insistent on Article 334A. Mischievously. Maliciously," he added.</p><p>He said that Article 334A has now become a law and only thing that has to be done to implement women's reservation immediately is to delete Article 334A.
+
+</p><p>The comments come a day after Shah accused Leader of Opposition in Lok Sabha Rahul Gandhi of using the Constitution for political appearance and questioning constitutional institutions and electoral processes.</p><p>Addressing a 'Samvidhan Gaurav Divas' event, Shah said merely carrying a copy of the Constitution in one's pocket or waving it in public doesn't amount to respecting the document.</p><p>The home minister asserted that the BJP is committed to ensuring 33 per cent reservation for women (in the Lok Sabha and state assemblies).
+
+</p><p><em>(With PTI inputs)</em></p>
+
+---
+
+**Original Source:** [Deccan Herald](https://www.deccanherald.com/india/amit-shah-may-have-amnesia-p-chidambaram-slams-home-minister-over-womens-reservation-bill-4233003)`,
+    title_en: `Amit Shah may have amnesia': P Chidambaram slams Home Minister over women's reservation bill - Deccan Herald`,
+    summary_en: `<p>Senior Congress leader P Chidambaram on Friday slammed Union Home Minister Amit Shah for criticising the <a href="https://www.deccanherald.com/tags/congress">Congress </a>over 33 per cent reservation for women in the Lok Sabha and state `,
+    content_en: `<p>Senior Congress leader P Chidambaram on Friday slammed Union Home Minister Amit Shah for criticising the <a href="https://www.deccanherald.com/tags/congress">Congress </a>over 33 per cent reservation for women in the Lok Sabha and state assemblies, saying either the <a href="https://www.deccanherald.com/tags/bjp">BJP </a>leader has amnesia or is economical with the truth.</p><p>The former Union finance minister said that the Congress fully supported the bill and has even demanded an immediate implementation of the Constitution (106th) Amendment Act, 2023.</p><p>"Home Minister Amit Shah either has amnesia or is economical with the truth.
+
+He claims that the Congress cannot stop the implementation of the promise to reserve 1/3 of the seats for women in the Lok Sabha and the State Legislatures. The Constitution (106th) Amendment Act, 2023 has already been enacted," Chidambaram said on X.</p>.<p>The women's reservation bill was passed in both the Houses of Parliament on September 20 and 21, 2023, he said, adding that the government is not implementing the Act and why the need for a new bill.
+
+</p>.'Carrying Constitution in pocket, waving it in public not respect': Shah slams Rahul on Constitution Day.<p>The Constitution (106th) Amendment Act inserted Article 334A, which tied women's reservation to delimitation after next Census, Chidambaram said.</p><p>"Read the debates in Parliament.
+
+Congress and other Opposition parties opposed the insertion of Article 334A which, unnecessarily, created two hurdles: Census and Delimitation after the Census," he said.</p><p>"But the BJP was adamant and insistent on Article 334A. Mischievously. Maliciously," he added.</p><p>He said that Article 334A has now become a law and only thing that has to be done to implement women's reservation immediately is to delete Article 334A.
+
+</p><p>The comments come a day after Shah accused Leader of Opposition in Lok Sabha Rahul Gandhi of using the Constitution for political appearance and questioning constitutional institutions and electoral processes.</p><p>Addressing a 'Samvidhan Gaurav Divas' event, Shah said merely carrying a copy of the Constitution in one's pocket or waving it in public doesn't amount to respecting the document.</p><p>The home minister asserted that the BJP is committed to ensuring 33 per cent reservation for women (in the Lok Sabha and state assemblies).
+
+</p><p><em>(With PTI inputs)</em></p>
+
+---
+
+**Original Source:** [Deccan Herald](https://www.deccanherald.com/india/amit-shah-may-have-amnesia-p-chidambaram-slams-home-minister-over-womens-reservation-bill-4233003)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Deccan Herald.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Amit Shah may have amnesia': P Chidambaram slams Home Minister over women's reservation bill - Deccan Herald.`,
+    primary_source: `Deccan Herald`,
+  },
+  {
+    id: 98099,
+    title: `संसद का विशेष सत्र: डीलिमिटेशन बिल पास करा पाएगी मोदी सरकार, इस बार क्या कहता है गणित?`,
+    slug: `politics-breaking-report-59507-98099-2026`,
+    original_title: `संसद का विशेष सत्र: डीलिमिटेशन बिल पास करा पाएगी मोदी सरकार, इस बार क्या कहता है गणित?`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:16Z`,
+    updated_at: `2026-11-27T15:26:16Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/c9vg23d0n422o`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/politics-breaking-report-59507-98099-2026.jpg`,
+    image_alt: `संसद का विशेष सत्र: डीलिमिटेशन बिल पास करा पाएगी मोदी सरकार, इस बार क्या कहता है गणित?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `केंद्रीय संसदीय मंत्री किरेन रिजिजू ने संसद का विशेष सत्र बुलाने का एलान किया है. चर्चा है इस दौरान मोदी सरकार डीलिमिटेशन बिल पास कराने की कोशिश करेगी.`,
+    content: `केंद्रीय संसदीय मंत्री किरेन रिजिजू ने संसद का विशेष सत्र बुलाने का एलान किया है. चर्चा है इस दौरान मोदी सरकार डीलिमिटेशन बिल पास कराने की कोशिश करेगी.
+
+हालांकि रिजिजू ने किसी विशेष एजेंडे का नाम नहीं लिया है और एक्स पर जारी बयान में विशेष सत्र का मक़सद 'ज़रूरी सरकारी कामकाज निपटाना' बताया है.
+
+विपक्षी इंडिया गठबंधन की साझेदारों में से एक एनसीपी (शरद पवार) की नेता सुप्रिया सुले ने दो दिन पहले ये बयान देकर इस चर्चा को और हवा दे दी कि 'अगर यह देश के हित में होगा तो उस पर भी एकमत हुआ जा सकता है." हालांकि उन्होंने कहा कि 'हमें अभी तक कुछ नहीं पता, पहले बिल आने दीजिए.'
+
+नए बिल पेश किए जाने की ख़बरों के बीच इस पर चर्चा तेज़ हो गई है कि क्या संविधान संशोधन बिल पास कराने के लिए बीजेपी के अगुवाई वाले सत्तारूढ़ गठबंधन एनडीए के पास दो तिहाई बहुमत है, क्योंकि इसी साल अप्रैल में हुए मतदान में दो तिहाई बहुमत न होने से यह बिल पास नहीं हो पाया था.
+
+केंद्रीय संसदीय मंत्री के मुताबिक़ , लोकसभा की बैठक 30 नवंबर को और राज्यसभा की दो दिसंबर को बैठक होगी और तीन दिसंबर को इस विशेष सत्र का समापन हो सकता है.
+
+विपक्षी नेताओं ने दावा किया है कि भले ही एजेंडा घोषित नहीं किया गया है लेकिन 'इस विशेष सत्र में डीलिमिटेशन बिल लाया जाएगा.'
+
+कांग्रेस के वरिष्ठ नेता केसी वेणुगोपाल ने सरकार पर 'संसद चोरी' का आरोप लगाया है. उन्होंने एक्स पर लिखा , "इसमें कोई शक नहीं है कि उनका परिसीमन विधेयक संसद की चोरी की एक कवायद से ज़्यादा कुछ नहीं होगा. हम इसे पारित नहीं होने देंगे."
+
+महिला आरक्षण क़ानून और डीलिमिटेशन से जुड़ा 131वां संवैधानिक संशोधन विधेयक 17 अप्रैल 2026  को लोकसभा में गिर गया था.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+संसद में महिलाओं को 33 फ़ीसदी आरक्षण देने वाले क़ानून में संशोधन और डीलिमिटेशन से जुड़े बिलों के समर्थन में जब मतदान हुआ तो पक्ष में 298 मत पड़े जबकि इसके विरोध में 230 मत पड़े. 11 सांसद अनुपस्थित रहे थे.
+
+संविधान संशोधन विधेयक पारित करने के लिए लोकसभा में कम से कम दो तिहाई बहुमत होना चाहिए. बीते अप्रैल में लोकसभा में 528 सदस्य थे और विधेयक पारित कराने के लिए 352 वोटों की ज़रूरत थी. यानी बिल को पास कराने में 54 वोट कम थे.
+
+इसके बाद सरकार ने परिसीमन और केंद्रशासित प्रदेशों से जुड़े दो अन्य विधेयकों को भी आगे नहीं बढ़ाया.
+
+लेकिन इस बार मोदी सरकार नए सिरे से इस विधेयक को संसद में ला सकती है और वह इसे पास करने की पुरजोर कोशिश करेगी.
+
+इंडियन एक्सप्रेस के अनुसार, केंद्र सरकार को दो-तिहाई बहुमत मिलने का भरोसा इसलिए है, क्योंकि पहले इंडिया गठबंधन का हिस्सा रही डीएमके की ओर से इस बिल के समर्थन के संकेत मिले हैं.
+
+अख़बार ने सूत्रों के हवाले से कहा है कि डीएमके चाहती है कि तमिलनाडु की लोकसभा सीटों में मौजूदा करीब 7.2 फ़ीसदी हिस्सेदारी बरकरार रखने की गारंटी दी जाए.
+
+अभी लोकसभा में कुल 540 सांसद हैं. ऐसे में दो-तिहाई बहुमत का आंकड़ा 360 पर पहुँचता है. लोकसभा चुनाव 2024 में एनडीए को 293 सीटें मिली थीं.
+
+लेकिन तृणमूल कांग्रेस के 20 बाग़ी सांसदों के अलग होने और एनडीए को समर्थन घोषित कर देने से यह आंकड़ा बदला है.
+
+इसी साल जून में उद्धव ठाकरे की शिव सेना के छह सांसदों ने पाला बदल लिया और शिंदे गुट में आ गए, जो पहले से ही एनडीए के सहयोगी हैं. इस तरह एनडीए की संख्या बढ़कर 319 हो गई थी.
+
+डीएमके ने पिछली बार डीलिमिटेशन बिल का विरोध किया था. लेकिन इस बार उसने समर्थन देने के संकेत दिए हैं.
+
+शुक्रवार को डीएमके के प्रवक्ता टीकेएस एलानगोवन ने एएनआई से कहा, "अगर यह (नया) विधेयक हमें स्वीकार्य होगा, तो हम इसका समर्थन करेंगे. पहले विधेयक आने दीजिए."
+
+लोकसभा में डीएमके के 22 सांसद हैं. तमिलनाडु में हार के बाद कांग्रेस के अलग हो जाने से डीएमके ने इंडिया गठबंधन का साथ छोड़ दिया.
+
+इंडियन एक्सप्रेस के मुताबिक , डीएमके के एक नेता ने माना कि सरकार ने उनसे संपर्क किया था और अगर तमिलनाडु की लोकसभा सीटों में मौजूदा करीब 7.2 फीसदी हिस्सेदारी बरकरार रखने की गारंटी मिलती है, तो पार्टी परिसीमन का समर्थन कर सकती है.
+
+एनसीपी (शरद पवार) की नेता सुप्रिया सुले ने बिल के समर्थन के संकेत दिए थे हालांकि शुक्रवार को उन्होंने कोई टिप्पणी करने से इनकार कर दिया. लोकसभा में पार्टी के आठ सांसद हैं.
+
+सुप्रिया सुले ने पत्रकारों से बात करते बीते बुधवार को कहा था, "विपक्ष ने अतीत में कई मुद्दों का समर्थन किया है, जैसे पहलगाम मामला, जीएसटी बिल, महिला आरक्षण का बिल हमने एकमत से पास किया. देश हित में चर्चा होनी चाहिए."
+
+अगर लोकसभा में मंजूरी मिल जाती है तो विधेयक को राज्यसभा की बैठक में पेश किए जाने की उम्मीद है. 245 सदस्यों वाली राज्य सभा में एनडीए के 142 सांसद हैं. संविधान संशोधन के लिए 161 सदस्यों का समर्थन जरूरी होगा. ऐसे में सत्तारूढ़ गठबंधन को 19 सांसदों के समर्थन की ज़रूरत है.
+
+राज्यसभा में डीएमके के आठ और एनसीपी (शरद पवार) का एक सांसद है. क्षेत्रीय दलों समेत एनडीए से बाहर के दलों के करीब 100 सांसद हैं. बीजेपी को भरोसा है कि वो पर्याप्त संख्या जुटाने में सफल होगी.
+
+तमिलनाडु के पूर्व मुख्यमंत्री और डीएमके नेता एमके स्टालिन ने कहा है कि डीएमके भारत में पहली पार्टी थी, जिसने परिसीमन के संभावित परिणामों को लेकर आवाज़ उठाई थी.
+
+उन्होंने एक्स पर एक पोस्ट में लिखा है कि निष्पक्ष परिसीमन की मांग को लेकर राष्ट्रीय नेताओं को एक मंच पर लाने के लिए पहली बैठक भी चेन्नई में ही हुई थी.
+
+तमिलनाडु विधानसभा में पारित प्रस्ताव और निष्पक्ष परिसीमन के लिए संयुक्त कार्य समिति की बैठक में अपनाए गए प्रस्तावों के मुताबिक़, हमारी दो स्पष्ट मांगें थीं-
+
+"अगर लोकसभा सीटों की संख्या बढ़ाई जाती है, तो किसी भी हालत में तमिलनाडु की मौजूदा 7.18 फीसदी हिस्सेदारी कम नहीं होनी चाहिए,
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c9vg23d0n422o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `संसद का विशेष सत्र: डीलिमिटेशन बिल पास करा पाएगी मोदी सरकार, इस बार क्या कहता है गणित?`,
+    summary_hi: `केंद्रीय संसदीय मंत्री किरेन रिजिजू ने संसद का विशेष सत्र बुलाने का एलान किया है. चर्चा है इस दौरान मोदी सरकार डीलिमिटेशन बिल पास कराने की कोशिश करेगी.`,
+    content_hi: `केंद्रीय संसदीय मंत्री किरेन रिजिजू ने संसद का विशेष सत्र बुलाने का एलान किया है. चर्चा है इस दौरान मोदी सरकार डीलिमिटेशन बिल पास कराने की कोशिश करेगी.
+
+हालांकि रिजिजू ने किसी विशेष एजेंडे का नाम नहीं लिया है और एक्स पर जारी बयान में विशेष सत्र का मक़सद 'ज़रूरी सरकारी कामकाज निपटाना' बताया है.
+
+विपक्षी इंडिया गठबंधन की साझेदारों में से एक एनसीपी (शरद पवार) की नेता सुप्रिया सुले ने दो दिन पहले ये बयान देकर इस चर्चा को और हवा दे दी कि 'अगर यह देश के हित में होगा तो उस पर भी एकमत हुआ जा सकता है." हालांकि उन्होंने कहा कि 'हमें अभी तक कुछ नहीं पता, पहले बिल आने दीजिए.'
+
+नए बिल पेश किए जाने की ख़बरों के बीच इस पर चर्चा तेज़ हो गई है कि क्या संविधान संशोधन बिल पास कराने के लिए बीजेपी के अगुवाई वाले सत्तारूढ़ गठबंधन एनडीए के पास दो तिहाई बहुमत है, क्योंकि इसी साल अप्रैल में हुए मतदान में दो तिहाई बहुमत न होने से यह बिल पास नहीं हो पाया था.
+
+केंद्रीय संसदीय मंत्री के मुताबिक़ , लोकसभा की बैठक 30 नवंबर को और राज्यसभा की दो दिसंबर को बैठक होगी और तीन दिसंबर को इस विशेष सत्र का समापन हो सकता है.
+
+विपक्षी नेताओं ने दावा किया है कि भले ही एजेंडा घोषित नहीं किया गया है लेकिन 'इस विशेष सत्र में डीलिमिटेशन बिल लाया जाएगा.'
+
+कांग्रेस के वरिष्ठ नेता केसी वेणुगोपाल ने सरकार पर 'संसद चोरी' का आरोप लगाया है. उन्होंने एक्स पर लिखा , "इसमें कोई शक नहीं है कि उनका परिसीमन विधेयक संसद की चोरी की एक कवायद से ज़्यादा कुछ नहीं होगा. हम इसे पारित नहीं होने देंगे."
+
+महिला आरक्षण क़ानून और डीलिमिटेशन से जुड़ा 131वां संवैधानिक संशोधन विधेयक 17 अप्रैल 2026  को लोकसभा में गिर गया था.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+संसद में महिलाओं को 33 फ़ीसदी आरक्षण देने वाले क़ानून में संशोधन और डीलिमिटेशन से जुड़े बिलों के समर्थन में जब मतदान हुआ तो पक्ष में 298 मत पड़े जबकि इसके विरोध में 230 मत पड़े. 11 सांसद अनुपस्थित रहे थे.
+
+संविधान संशोधन विधेयक पारित करने के लिए लोकसभा में कम से कम दो तिहाई बहुमत होना चाहिए. बीते अप्रैल में लोकसभा में 528 सदस्य थे और विधेयक पारित कराने के लिए 352 वोटों की ज़रूरत थी. यानी बिल को पास कराने में 54 वोट कम थे.
+
+इसके बाद सरकार ने परिसीमन और केंद्रशासित प्रदेशों से जुड़े दो अन्य विधेयकों को भी आगे नहीं बढ़ाया.
+
+लेकिन इस बार मोदी सरकार नए सिरे से इस विधेयक को संसद में ला सकती है और वह इसे पास करने की पुरजोर कोशिश करेगी.
+
+इंडियन एक्सप्रेस के अनुसार, केंद्र सरकार को दो-तिहाई बहुमत मिलने का भरोसा इसलिए है, क्योंकि पहले इंडिया गठबंधन का हिस्सा रही डीएमके की ओर से इस बिल के समर्थन के संकेत मिले हैं.
+
+अख़बार ने सूत्रों के हवाले से कहा है कि डीएमके चाहती है कि तमिलनाडु की लोकसभा सीटों में मौजूदा करीब 7.2 फ़ीसदी हिस्सेदारी बरकरार रखने की गारंटी दी जाए.
+
+अभी लोकसभा में कुल 540 सांसद हैं. ऐसे में दो-तिहाई बहुमत का आंकड़ा 360 पर पहुँचता है. लोकसभा चुनाव 2024 में एनडीए को 293 सीटें मिली थीं.
+
+लेकिन तृणमूल कांग्रेस के 20 बाग़ी सांसदों के अलग होने और एनडीए को समर्थन घोषित कर देने से यह आंकड़ा बदला है.
+
+इसी साल जून में उद्धव ठाकरे की शिव सेना के छह सांसदों ने पाला बदल लिया और शिंदे गुट में आ गए, जो पहले से ही एनडीए के सहयोगी हैं. इस तरह एनडीए की संख्या बढ़कर 319 हो गई थी.
+
+डीएमके ने पिछली बार डीलिमिटेशन बिल का विरोध किया था. लेकिन इस बार उसने समर्थन देने के संकेत दिए हैं.
+
+शुक्रवार को डीएमके के प्रवक्ता टीकेएस एलानगोवन ने एएनआई से कहा, "अगर यह (नया) विधेयक हमें स्वीकार्य होगा, तो हम इसका समर्थन करेंगे. पहले विधेयक आने दीजिए."
+
+लोकसभा में डीएमके के 22 सांसद हैं. तमिलनाडु में हार के बाद कांग्रेस के अलग हो जाने से डीएमके ने इंडिया गठबंधन का साथ छोड़ दिया.
+
+इंडियन एक्सप्रेस के मुताबिक , डीएमके के एक नेता ने माना कि सरकार ने उनसे संपर्क किया था और अगर तमिलनाडु की लोकसभा सीटों में मौजूदा करीब 7.2 फीसदी हिस्सेदारी बरकरार रखने की गारंटी मिलती है, तो पार्टी परिसीमन का समर्थन कर सकती है.
+
+एनसीपी (शरद पवार) की नेता सुप्रिया सुले ने बिल के समर्थन के संकेत दिए थे हालांकि शुक्रवार को उन्होंने कोई टिप्पणी करने से इनकार कर दिया. लोकसभा में पार्टी के आठ सांसद हैं.
+
+सुप्रिया सुले ने पत्रकारों से बात करते बीते बुधवार को कहा था, "विपक्ष ने अतीत में कई मुद्दों का समर्थन किया है, जैसे पहलगाम मामला, जीएसटी बिल, महिला आरक्षण का बिल हमने एकमत से पास किया. देश हित में चर्चा होनी चाहिए."
+
+अगर लोकसभा में मंजूरी मिल जाती है तो विधेयक को राज्यसभा की बैठक में पेश किए जाने की उम्मीद है. 245 सदस्यों वाली राज्य सभा में एनडीए के 142 सांसद हैं. संविधान संशोधन के लिए 161 सदस्यों का समर्थन जरूरी होगा. ऐसे में सत्तारूढ़ गठबंधन को 19 सांसदों के समर्थन की ज़रूरत है.
+
+राज्यसभा में डीएमके के आठ और एनसीपी (शरद पवार) का एक सांसद है. क्षेत्रीय दलों समेत एनडीए से बाहर के दलों के करीब 100 सांसद हैं. बीजेपी को भरोसा है कि वो पर्याप्त संख्या जुटाने में सफल होगी.
+
+तमिलनाडु के पूर्व मुख्यमंत्री और डीएमके नेता एमके स्टालिन ने कहा है कि डीएमके भारत में पहली पार्टी थी, जिसने परिसीमन के संभावित परिणामों को लेकर आवाज़ उठाई थी.
+
+उन्होंने एक्स पर एक पोस्ट में लिखा है कि निष्पक्ष परिसीमन की मांग को लेकर राष्ट्रीय नेताओं को एक मंच पर लाने के लिए पहली बैठक भी चेन्नई में ही हुई थी.
+
+तमिलनाडु विधानसभा में पारित प्रस्ताव और निष्पक्ष परिसीमन के लिए संयुक्त कार्य समिति की बैठक में अपनाए गए प्रस्तावों के मुताबिक़, हमारी दो स्पष्ट मांगें थीं-
+
+"अगर लोकसभा सीटों की संख्या बढ़ाई जाती है, तो किसी भी हालत में तमिलनाडु की मौजूदा 7.18 फीसदी हिस्सेदारी कम नहीं होनी चाहिए,
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c9vg23d0n422o)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक संसद का विशेष सत्र: डीलिमिटेशन बिल पास करा पाएगी मोदी सरकार, इस बार क्या कहता है गणित? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 98100,
+    title: `अनंत सिंह की बेटी की शादी में उमड़ी भीड़ क्या बताती है?`,
+    slug: `politics-breaking-report-6732-98100-2026`,
+    original_title: `अनंत सिंह की बेटी की शादी में उमड़ी भीड़ क्या बताती है?`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:17Z`,
+    updated_at: `2026-11-27T15:26:17Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cmy49dwl137yo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/politics-breaking-report-6732-98100-2026.jpg`,
+    image_alt: `अनंत सिंह की बेटी की शादी में उमड़ी भीड़ क्या बताती है?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `खेत, सड़क, ओवरब्रिज, नेशनल हाईवे...जिधर देखिए उधर लोगों की भीड़.`,
+    content: `खेत, सड़क, ओवरब्रिज, नेशनल हाईवे...जिधर देखिए उधर लोगों की भीड़.
+
+महंगी गाड़ियों की कतारें, खेत में शादी में पहने जाने वाले फॉर्मल कोट पैंट को अपने साथ लेकर चलते लोग, बारीश के चलते खेत में दलदली हुई जमीन पर गिरते पड़ते लोग, चना, मसूर, धान, सरसों की फसल को शादी अटेंड करने की जल्दबाजी में रौंदते लोग.
+
+इस भीड़ में अपने धान के गट्ठर को बचाने में लगा तकरीबन 12 साल का बच्चा भी दिखता है.
+
+उस बच्चे से लोग बार बार हट जाने के लिए कह रहे हैं लेकिन वो अपने धान के गट्ठर के सामने सुरक्षा दीवार बन कर खड़ा है. वो कहता है, "हम हटेंगे तो मेरे धान को नुकसान होगा."
+
+कुछ नौजवान लड़के इस भीड़ में बार बार एक साथ चिल्ला रहे हैं, तो कुछ नौजवान अपने माता – पिता के शादी में नहीं जाने की हिदायत को याद कर रहे हैं.
+
+बीच-बीच में अनंत दा (अनंत सिंह) ज़िंदाबाद के नारे भी लग रहे हैं.
+
+इस भीड़ में महिलाएं ना के बराबर दिखती हैं. ये बीती 25 नवंबर को अनंत सिंह की बेटी शिवांगी सिंह की शादी की ओर जाने वाली भीड़ है.
+
+मोकामा बख़्तियारपुर एनएच 31 से बाएं तरफ़ जाने वाला स्टेट हाईवे 431 अनंत सिंह के पैतृक गांव नदवां जाने का रास्ता है.
+
+इस रास्ते पर लाइट की कोई व्यवस्था नहीं है. लोग गाड़ियों की रोशनी में ही आगे बढ़ रहे हैं.
+
+25 नवंबर को इस सड़क पर कई किलोमीटर लंबा जाम दोपहर से ही लग गया था.
+
+इस जाम में विधायक से लेकर बिहार विधानसभा अध्यक्ष प्रेम कुमार तक फंसे रहे.
+
+बिहार के मोकामा विधायक अनंत सिंह की बेटी शिवांगी सिंह की शादी तक़रीबन एक महीने के दौरान 'टॉकिंग प्वाइंट' बनी हुई थी.
+
+घुड़दौड़ प्रतियोगिता, उसमें मिलने वाली थार, चार लाख मेहमान से लेकर पाकिस्तान तक न्योता भेजने की बात.
+
+हाल के दशकों में शायद ही किसी शादी की इतनी ज्यादा चर्चा हुई हो. जैसा कि मुजफ़्फ़रपुर से बाइक चलाकर आए अंकित बीबीसी से कहते हैं, " अंबानी से ज्यादा दादा (अनंत सिंह) के यहां की शादी चर्चा में है." अंकित जैसे कई नौजवान बाइक, साइकिल, स्केट्स, पैदल और ट्रेन से लंबी – लंबी यात्रा करके इस शादी को देखने पहुंचे थे.''
+
+इनमें से कई ख़ुद को खुशकिस्मत मानते है क्योंकि उनकी मुलाक़ात अनंत सिंह से हो गई. राजू गुप्ता उनमें से एक हैं जो 150 किलोमीटर साइकिल चलाकर नदवां पहुंचे थे.
+
+वो कहते हैं, " दादा ने मुझसे कहा कि ट्रेन बंद हो गई थी जो तुम्हें साइकिल से आना पड़ा."
+
+लखीसराय से आए रूपेश कुमार तो मांग करते है कि अनंत सिंह का नाम गिनीज बुक में दर्ज होना चाहिए.
+
+वो कहते हैं, " हम सब दादा की मोहब्बत में यहां आए है इसलिए उनका नाम गिनीज बुक में डालना चाहिए."
+
+अनंत सिंह के यहां शादी में आई भीड़ सिर्फ़ बिहार के रोहतास, खगड़िया, भागलपुर, कैमूर, समस्तीपुर, जमुई, सीतामढ़ी तक ही सीमित नहीं थी बल्कि बीबीसी को कई ऐसे लोग मिले जो दूसरे प्रदेशों से अनंत सिंह के यहां हुई शादी के गवाह बनने आए थे.
+
+बनारस से आए कबीरपंथी जानकी दास उनमें से एक हैं.
+
+वो कहते हैं, " अनंत सिंह को नहीं जानते. लेकिन उनके बारे में अख़बार और सोशल मीडिया पर देखा तो चले आए शादी देखने."
+
+अनंत सिंह के यहां शादी में कितने लोग आए, इसका कोई पुख़्ता अनुमान लगाना मुश्किल है. लेकिन शादी में उमड़े लोग लाखों की संख्या में थे.
+
+साल 2005 से अनंत सिंह मोकामा सीट से लगातार विधायक हैं. कभी 30 हजार तो कभी 25 हजार के अंतर से जीतने वाले अनंत सिंह के यहां इतने लोग कैसे आ गए?  इस सवाल के कई जवाब है.
+
+सोशल मीडिया के जरिए शादी का बना हाइप, मीडिया की कवरेज, अपने वन लाइनर के लिए मशहुर अनंत सिंह, उन पर बनने वाले मीम, शादी में आने का 'यूनिवर्सल' (भारत से लेकर पाकिस्तान तक) न्योता और अनंत सिंह को लेकर एकतरफ़ा मोहब्बत.
+
+शादी में आने वाले मेहमानों की संख्या पर अनंत सिंह कहते रहे कि 4 लाख से स्टार्टिंग है और ये शादी कोई सिनेमा नहीं है जहां टिकट लगेगा.
+
+उन्होंने कहा, "शादी में जो चाहे आ सकता है. आप भी आइए और अपने दोस्त के दोस्त को भी लाइए."
+
+शादी में अगर बारात से आए और अनंत सिंह के अपने मेहमानों को छोड़ दें तो आम लोगों के लिए  बिहारी शादियों में मिलने वाला आम खाना ही बना था.
+
+शादी का खाना बनवाने वाले संजय कुमार ने बीबीसी को बताया था, " पूरी-कचौड़ी, चावल, दाल, सब्जी और चार तरह की मिठाई लाखों लोगों के लिए तैयार हो रही है. कुल आठ टेंट लगाए गए हैं जहां आम लोगों को खाना मिलेगा."
+
+लेकिन शादी के वायरल हो रहे वीडियो में लोगों की तरफ फेंकी जा रही पत्तलें, खाने के लिए घमासान, गत्ते में खाना लेकर खाते लोग से लेकर खाना नहीं मिलने की शिकायत करते लोग है.
+
+जैसा कि भागलपुर से आए सुरेश कुमार कहते हैं, " हमने सुना था कि 150 तरह के व्यंजन बन रहे हैं. भागलपुर से आए थे लेकिन यहां खाने तक को नहीं मिला."
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cmy49dwl137yo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अनंत सिंह की बेटी की शादी में उमड़ी भीड़ क्या बताती है?`,
+    summary_hi: `खेत, सड़क, ओवरब्रिज, नेशनल हाईवे...जिधर देखिए उधर लोगों की भीड़.`,
+    content_hi: `खेत, सड़क, ओवरब्रिज, नेशनल हाईवे...जिधर देखिए उधर लोगों की भीड़.
+
+महंगी गाड़ियों की कतारें, खेत में शादी में पहने जाने वाले फॉर्मल कोट पैंट को अपने साथ लेकर चलते लोग, बारीश के चलते खेत में दलदली हुई जमीन पर गिरते पड़ते लोग, चना, मसूर, धान, सरसों की फसल को शादी अटेंड करने की जल्दबाजी में रौंदते लोग.
+
+इस भीड़ में अपने धान के गट्ठर को बचाने में लगा तकरीबन 12 साल का बच्चा भी दिखता है.
+
+उस बच्चे से लोग बार बार हट जाने के लिए कह रहे हैं लेकिन वो अपने धान के गट्ठर के सामने सुरक्षा दीवार बन कर खड़ा है. वो कहता है, "हम हटेंगे तो मेरे धान को नुकसान होगा."
+
+कुछ नौजवान लड़के इस भीड़ में बार बार एक साथ चिल्ला रहे हैं, तो कुछ नौजवान अपने माता – पिता के शादी में नहीं जाने की हिदायत को याद कर रहे हैं.
+
+बीच-बीच में अनंत दा (अनंत सिंह) ज़िंदाबाद के नारे भी लग रहे हैं.
+
+इस भीड़ में महिलाएं ना के बराबर दिखती हैं. ये बीती 25 नवंबर को अनंत सिंह की बेटी शिवांगी सिंह की शादी की ओर जाने वाली भीड़ है.
+
+मोकामा बख़्तियारपुर एनएच 31 से बाएं तरफ़ जाने वाला स्टेट हाईवे 431 अनंत सिंह के पैतृक गांव नदवां जाने का रास्ता है.
+
+इस रास्ते पर लाइट की कोई व्यवस्था नहीं है. लोग गाड़ियों की रोशनी में ही आगे बढ़ रहे हैं.
+
+25 नवंबर को इस सड़क पर कई किलोमीटर लंबा जाम दोपहर से ही लग गया था.
+
+इस जाम में विधायक से लेकर बिहार विधानसभा अध्यक्ष प्रेम कुमार तक फंसे रहे.
+
+बिहार के मोकामा विधायक अनंत सिंह की बेटी शिवांगी सिंह की शादी तक़रीबन एक महीने के दौरान 'टॉकिंग प्वाइंट' बनी हुई थी.
+
+घुड़दौड़ प्रतियोगिता, उसमें मिलने वाली थार, चार लाख मेहमान से लेकर पाकिस्तान तक न्योता भेजने की बात.
+
+हाल के दशकों में शायद ही किसी शादी की इतनी ज्यादा चर्चा हुई हो. जैसा कि मुजफ़्फ़रपुर से बाइक चलाकर आए अंकित बीबीसी से कहते हैं, " अंबानी से ज्यादा दादा (अनंत सिंह) के यहां की शादी चर्चा में है." अंकित जैसे कई नौजवान बाइक, साइकिल, स्केट्स, पैदल और ट्रेन से लंबी – लंबी यात्रा करके इस शादी को देखने पहुंचे थे.''
+
+इनमें से कई ख़ुद को खुशकिस्मत मानते है क्योंकि उनकी मुलाक़ात अनंत सिंह से हो गई. राजू गुप्ता उनमें से एक हैं जो 150 किलोमीटर साइकिल चलाकर नदवां पहुंचे थे.
+
+वो कहते हैं, " दादा ने मुझसे कहा कि ट्रेन बंद हो गई थी जो तुम्हें साइकिल से आना पड़ा."
+
+लखीसराय से आए रूपेश कुमार तो मांग करते है कि अनंत सिंह का नाम गिनीज बुक में दर्ज होना चाहिए.
+
+वो कहते हैं, " हम सब दादा की मोहब्बत में यहां आए है इसलिए उनका नाम गिनीज बुक में डालना चाहिए."
+
+अनंत सिंह के यहां शादी में आई भीड़ सिर्फ़ बिहार के रोहतास, खगड़िया, भागलपुर, कैमूर, समस्तीपुर, जमुई, सीतामढ़ी तक ही सीमित नहीं थी बल्कि बीबीसी को कई ऐसे लोग मिले जो दूसरे प्रदेशों से अनंत सिंह के यहां हुई शादी के गवाह बनने आए थे.
+
+बनारस से आए कबीरपंथी जानकी दास उनमें से एक हैं.
+
+वो कहते हैं, " अनंत सिंह को नहीं जानते. लेकिन उनके बारे में अख़बार और सोशल मीडिया पर देखा तो चले आए शादी देखने."
+
+अनंत सिंह के यहां शादी में कितने लोग आए, इसका कोई पुख़्ता अनुमान लगाना मुश्किल है. लेकिन शादी में उमड़े लोग लाखों की संख्या में थे.
+
+साल 2005 से अनंत सिंह मोकामा सीट से लगातार विधायक हैं. कभी 30 हजार तो कभी 25 हजार के अंतर से जीतने वाले अनंत सिंह के यहां इतने लोग कैसे आ गए?  इस सवाल के कई जवाब है.
+
+सोशल मीडिया के जरिए शादी का बना हाइप, मीडिया की कवरेज, अपने वन लाइनर के लिए मशहुर अनंत सिंह, उन पर बनने वाले मीम, शादी में आने का 'यूनिवर्सल' (भारत से लेकर पाकिस्तान तक) न्योता और अनंत सिंह को लेकर एकतरफ़ा मोहब्बत.
+
+शादी में आने वाले मेहमानों की संख्या पर अनंत सिंह कहते रहे कि 4 लाख से स्टार्टिंग है और ये शादी कोई सिनेमा नहीं है जहां टिकट लगेगा.
+
+उन्होंने कहा, "शादी में जो चाहे आ सकता है. आप भी आइए और अपने दोस्त के दोस्त को भी लाइए."
+
+शादी में अगर बारात से आए और अनंत सिंह के अपने मेहमानों को छोड़ दें तो आम लोगों के लिए  बिहारी शादियों में मिलने वाला आम खाना ही बना था.
+
+शादी का खाना बनवाने वाले संजय कुमार ने बीबीसी को बताया था, " पूरी-कचौड़ी, चावल, दाल, सब्जी और चार तरह की मिठाई लाखों लोगों के लिए तैयार हो रही है. कुल आठ टेंट लगाए गए हैं जहां आम लोगों को खाना मिलेगा."
+
+लेकिन शादी के वायरल हो रहे वीडियो में लोगों की तरफ फेंकी जा रही पत्तलें, खाने के लिए घमासान, गत्ते में खाना लेकर खाते लोग से लेकर खाना नहीं मिलने की शिकायत करते लोग है.
+
+जैसा कि भागलपुर से आए सुरेश कुमार कहते हैं, " हमने सुना था कि 150 तरह के व्यंजन बन रहे हैं. भागलपुर से आए थे लेकिन यहां खाने तक को नहीं मिला."
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cmy49dwl137yo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक अनंत सिंह की बेटी की शादी में उमड़ी भीड़ क्या बताती है? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 98101,
+    title: `Croma Black Friday sale: Check offers on iPhones, MacBook Neo and more`,
+    slug: `croma-black-friday-sale-check-offers-on-iphones-macbook-neo-and-more-2026`,
+    original_title: `Croma Black Friday sale: Check offers on iPhones, MacBook Neo and more`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:20Z`,
+    updated_at: `2026-11-27T15:26:20Z`,
+    source_name: `Business Standard`,
+    source_url: `https://www.business-standard.com/technology/tech-news/croma-black-friday-sale-check-offers-on-iphones-macbook-neo-and-more-126112700549_1.html`,
+    source_courtesy: `Source: Business Standard`,
+    image_url: `/images/articles/croma-black-friday-sale-check-offers-on-iphones-macbook-neo-and-more-2026.jpg`,
+    image_alt: `Croma Black Friday sale: Check offers on iPhones, MacBook Neo and more`,
+    image_courtesy: `Image: Business Standard (External Source Attribution)`,
+    image_photographer: `Business Standard`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Croma has announced its Black Friday sale in India, offering discounts on smartphones, laptops, televisions and home appliances. The five-day sale, which began on November 26, will run until November 30. Customers can avail bank cashback on`,
+    content: `Croma has announced its Black Friday sale in India, offering discounts on smartphones, laptops, televisions and home appliances. The five-day sale, which began on November 26, will run until November 30. Customers can avail bank cashback on select cards, exchange bonus on trade-in and more on select products.
+
+The retailer is also offering no-cost equated monthly instalment (EMI) options on eligible purchases.&nbsp;Here are the details of the Croma Black Friday sale offers:Croma Black Friday sale: Offers on Apple productsCroma is offering discounts on select Apple devices, including the iPhone 16, iPhone 17 Pro Max and MacBook Neo.
+
+The offers combine bank cashback, exchange value and additional exchange bonuses.&nbsp;iPhone 16 (128GB)Price: Rs 89,900Offer price: Rs 79,490Exchange value: Up to Rs 24,000 for an iPhone 14 (128GB)Additional exchange bonus: Up to Rs 8,000Bank cashback: Up to Rs 2,000iPhone 17 Pro Max (256GB)Price: Rs 1,49,900Offer price: Rs 1,32,290Exchange value: Up to Rs 24,000 for an iPhone 14 (128GB)Additional exchange bonus: Up to Rs 8,000Bank cashback: Up to Rs 4,000MacBook Neo (8GB RAM + 256GB storage)Price: Rs 79,900Offer price: Rs 68,714Exchange value: Up to Rs 12,000 for an eligible Intel-based MacBookAdditional exchange bonus: Up to Rs 7,000Bank cashback: Up to Rs 7,000Croma Black Friday sale: Offers on Android smartphonesCroma is also offering discounts on select Android smartphones from Samsung, Oppo and Redmi.
+
+The effective prices include exchange benefits and other applicable promotional discounts.&nbsp;Samsung Galaxy S26 Ultra (12GB RAM + 256GB storage):&nbsp;Listed at Rs 1,54,999, the smartphone is available at an effective starting price of Rs 85,999. The offer includes an exchange value of up to Rs 60,000 and an additional exchange bonus of up to Rs 9,000.&nbsp;OPPO F35 Pro 5G (6GB RAM + 128GB storage):&nbsp;Listed at Rs 45,999, the smartphone is available at an effective starting price of Rs 11,761.
+
+The offer includes an exchange value of up to Rs 20,000, an additional exchange bonus of Rs 5,499 and cashback of up to Rs 4,139.&nbsp;Redmi 17C 5G (4GB RAM + 128GB storage):&nbsp;&nbsp;The smartphone is available at an effective starting price of Rs 11,999. The offer includes an exchange value of up to Rs 8,000.&nbsp;&nbsp;ALSO READ:&nbsp;Apple may launch five Product(RED) edition devices on Dec 1: What to expectCroma Black Friday sale: Offers on laptopsThe sale also includes discounts on laptops from Lenovo, HP and Acer.
+
+Croma is offering exchange benefits, cashback and additional discounts on select models.&nbsp;Lenovo Yoga S7 14:&nbsp;&nbsp;The laptop is available at an effective price of Rs 1,02,392. The offer includes an exchange bonus of Rs 26,598 and cashback of up to Rs 4,000.&nbsp;HP 14 OmniBook 5 AI Laptop (16GB RAM + 512GB storage):&nbsp;The laptop is available at an effective price of Rs 69,810.
+
+The offer includes an exchange value of up to Rs 3,000, an additional exchange bonus of Rs 7,000 and cashback of up to Rs 2,500.&nbsp;Acer Aspire Lite:&nbsp;&nbsp;The Aspire Lite laptop is available at an effective price of Rs 43,609. The offer includes an exchange value of up to Rs 2,000 and a further discount of Rs 2,401.&nbsp;ALSO READ:&nbsp;WhatsApp rolls out scheduled messages: How to use it and what to knowCroma Black Friday sale: Television and soundbar offersCroma is offering discounts on select televisions from LG and Sony, alongside cashback and EMI benefits.LG 55-inch 4K AI Nano TV: Rs 44,990 (Inclusive of Rs 1800 cashback)Sony 65-inch Bravia 3II: Rs 1,16,990 (Inclusive of Rs 3000 cashback)LG 75-inch 4K AI Nano TV: Rs 89,990 (Inclusive of Rs 4000 cashback)In addition, customers can avail EMIs starting at Rs 1,999 and cashback of up to Rs 26,000 on select televisions.
+
+Croma is also offering discounts of up to 12 per cent on select soundbars purchased along with a television.
+
+---
+
+**Original Source:** [Business Standard](https://www.business-standard.com/technology/tech-news/croma-black-friday-sale-check-offers-on-iphones-macbook-neo-and-more-126112700549_1.html)`,
+    title_en: `Croma Black Friday sale: Check offers on iPhones, MacBook Neo and more`,
+    summary_en: `Croma has announced its Black Friday sale in India, offering discounts on smartphones, laptops, televisions and home appliances. The five-day sale, which began on November 26, will run until November 30. Customers can avail bank cashback on`,
+    content_en: `Croma has announced its Black Friday sale in India, offering discounts on smartphones, laptops, televisions and home appliances. The five-day sale, which began on November 26, will run until November 30. Customers can avail bank cashback on select cards, exchange bonus on trade-in and more on select products.
+
+The retailer is also offering no-cost equated monthly instalment (EMI) options on eligible purchases.&nbsp;Here are the details of the Croma Black Friday sale offers:Croma Black Friday sale: Offers on Apple productsCroma is offering discounts on select Apple devices, including the iPhone 16, iPhone 17 Pro Max and MacBook Neo.
+
+The offers combine bank cashback, exchange value and additional exchange bonuses.&nbsp;iPhone 16 (128GB)Price: Rs 89,900Offer price: Rs 79,490Exchange value: Up to Rs 24,000 for an iPhone 14 (128GB)Additional exchange bonus: Up to Rs 8,000Bank cashback: Up to Rs 2,000iPhone 17 Pro Max (256GB)Price: Rs 1,49,900Offer price: Rs 1,32,290Exchange value: Up to Rs 24,000 for an iPhone 14 (128GB)Additional exchange bonus: Up to Rs 8,000Bank cashback: Up to Rs 4,000MacBook Neo (8GB RAM + 256GB storage)Price: Rs 79,900Offer price: Rs 68,714Exchange value: Up to Rs 12,000 for an eligible Intel-based MacBookAdditional exchange bonus: Up to Rs 7,000Bank cashback: Up to Rs 7,000Croma Black Friday sale: Offers on Android smartphonesCroma is also offering discounts on select Android smartphones from Samsung, Oppo and Redmi.
+
+The effective prices include exchange benefits and other applicable promotional discounts.&nbsp;Samsung Galaxy S26 Ultra (12GB RAM + 256GB storage):&nbsp;Listed at Rs 1,54,999, the smartphone is available at an effective starting price of Rs 85,999. The offer includes an exchange value of up to Rs 60,000 and an additional exchange bonus of up to Rs 9,000.&nbsp;OPPO F35 Pro 5G (6GB RAM + 128GB storage):&nbsp;Listed at Rs 45,999, the smartphone is available at an effective starting price of Rs 11,761.
+
+The offer includes an exchange value of up to Rs 20,000, an additional exchange bonus of Rs 5,499 and cashback of up to Rs 4,139.&nbsp;Redmi 17C 5G (4GB RAM + 128GB storage):&nbsp;&nbsp;The smartphone is available at an effective starting price of Rs 11,999. The offer includes an exchange value of up to Rs 8,000.&nbsp;&nbsp;ALSO READ:&nbsp;Apple may launch five Product(RED) edition devices on Dec 1: What to expectCroma Black Friday sale: Offers on laptopsThe sale also includes discounts on laptops from Lenovo, HP and Acer.
+
+Croma is offering exchange benefits, cashback and additional discounts on select models.&nbsp;Lenovo Yoga S7 14:&nbsp;&nbsp;The laptop is available at an effective price of Rs 1,02,392. The offer includes an exchange bonus of Rs 26,598 and cashback of up to Rs 4,000.&nbsp;HP 14 OmniBook 5 AI Laptop (16GB RAM + 512GB storage):&nbsp;The laptop is available at an effective price of Rs 69,810.
+
+The offer includes an exchange value of up to Rs 3,000, an additional exchange bonus of Rs 7,000 and cashback of up to Rs 2,500.&nbsp;Acer Aspire Lite:&nbsp;&nbsp;The Aspire Lite laptop is available at an effective price of Rs 43,609. The offer includes an exchange value of up to Rs 2,000 and a further discount of Rs 2,401.&nbsp;ALSO READ:&nbsp;WhatsApp rolls out scheduled messages: How to use it and what to knowCroma Black Friday sale: Television and soundbar offersCroma is offering discounts on select televisions from LG and Sony, alongside cashback and EMI benefits.LG 55-inch 4K AI Nano TV: Rs 44,990 (Inclusive of Rs 1800 cashback)Sony 65-inch Bravia 3II: Rs 1,16,990 (Inclusive of Rs 3000 cashback)LG 75-inch 4K AI Nano TV: Rs 89,990 (Inclusive of Rs 4000 cashback)In addition, customers can avail EMIs starting at Rs 1,999 and cashback of up to Rs 26,000 on select televisions.
+
+Croma is also offering discounts of up to 12 per cent on select soundbars purchased along with a television.
+
+---
+
+**Original Source:** [Business Standard](https://www.business-standard.com/technology/tech-news/croma-black-friday-sale-check-offers-on-iphones-macbook-neo-and-more-126112700549_1.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Business Standard.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Croma Black Friday sale: Check offers on iPhones, MacBook Neo and more.`,
+    primary_source: `Business Standard`,
+  },
+  {
+    id: 98102,
+    title: `Motorola pivots to premiumisation, aims for third spot in India`,
+    slug: `motorola-pivots-to-premiumisation-aims-for-third-spot-in-india-2026`,
+    original_title: `Motorola pivots to premiumisation, aims for third spot in India`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:22Z`,
+    updated_at: `2026-11-27T15:26:22Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/sci-tech/technology/motorola-pivots-to-premiumisation-aims-for-third-spot-in-india/article71749650.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/motorola-pivots-to-premiumisation-aims-for-third-spot-in-india-2026.jpg`,
+    image_alt: `Motorola pivots to premiumisation, aims for third spot in India`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Motorola is aiming for the third spot in India’s competitive smartphone market as the Lenovo-owned brand aggressively pivots to premiumisation and seamless connected experiences. The company’s executives outlined their strategic vision duri`,
+    content: `Motorola is aiming for the third spot in India’s competitive smartphone market as the Lenovo-owned brand aggressively pivots to premiumisation and seamless connected experiences. The company’s executives outlined their strategic vision during a media visit at their contract partner Dixon (Padget Electronics) facility in Noida, Uttar Pradesh.
+
+Motorola launches Edge 70 Neo for premium segment buyers in India storyline 1 Samsung led India’s smartphone market during Q3 2026, overall shipments collapsed 23% storyline 1 India’s smartphone market is currently being dominated by Samsung followed by two Chinese players (Vivo and Oppo).
+
+If Motorola continues its aggressive push and mix of products, it would be able to replace Oppo to become the third largest smartphone brand in the country. According to the latest IDC report, Motorola has already climbed to become the fifth-largest smartphone brand in India, capturing an 8.8% market share during the third quarter of this year.
+
+This growth is heavily anchored in its premium portfolio, which includes the Edge, Razr, and Signature series. Motorola reports that its revenue has surged 20-fold since FY19-20, with nearly 60% now driven entirely by these high-end devices. Fueling this momentum is robust local manufacturing.
+
+Motorola’s upcoming premium flagship smartphone, the Motorola Signature 27, will be made at the Noida facility. Alongside Dixon, the brand maintains a strategic manufacturing partnership with Neolync in Tirupati, Andhra Pradesh. Together, these facilities not only fulfill domestic demand but also handle exports to Latin and North American markets.
+
+Motorola’s manufacturing expansion has generated a substantial economic footprint, providing direct employment to nearly 8,000 people and creating over 56,000 indirect opportunities spanning manufacturing, sales, and servicing. To support its expanding market presence, Motorola has established an extensive service network across the country.
+
+The brand currently covers 716 PIN codes across 620 cities in India, supported by over 846 touch points and 685 dedicated repair centres. Looking ahead, Motorola is doubling down on artificial intelligence, prioritising practical, day-to-day use cases. The company has partnered with Google to integrate Gemini Intelligence into its upcoming Signature 27.
+
+Motorola continues to evolve its proprietary AI assistant, Qira, which is designed to enhance cross-device connectivity and deliver advanced productivity tools for users.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/sci-tech/technology/motorola-pivots-to-premiumisation-aims-for-third-spot-in-india/article71749650.ece)`,
+    title_en: `Motorola pivots to premiumisation, aims for third spot in India`,
+    summary_en: `Motorola is aiming for the third spot in India’s competitive smartphone market as the Lenovo-owned brand aggressively pivots to premiumisation and seamless connected experiences. The company’s executives outlined their strategic vision duri`,
+    content_en: `Motorola is aiming for the third spot in India’s competitive smartphone market as the Lenovo-owned brand aggressively pivots to premiumisation and seamless connected experiences. The company’s executives outlined their strategic vision during a media visit at their contract partner Dixon (Padget Electronics) facility in Noida, Uttar Pradesh.
+
+Motorola launches Edge 70 Neo for premium segment buyers in India storyline 1 Samsung led India’s smartphone market during Q3 2026, overall shipments collapsed 23% storyline 1 India’s smartphone market is currently being dominated by Samsung followed by two Chinese players (Vivo and Oppo).
+
+If Motorola continues its aggressive push and mix of products, it would be able to replace Oppo to become the third largest smartphone brand in the country. According to the latest IDC report, Motorola has already climbed to become the fifth-largest smartphone brand in India, capturing an 8.8% market share during the third quarter of this year.
+
+This growth is heavily anchored in its premium portfolio, which includes the Edge, Razr, and Signature series. Motorola reports that its revenue has surged 20-fold since FY19-20, with nearly 60% now driven entirely by these high-end devices. Fueling this momentum is robust local manufacturing.
+
+Motorola’s upcoming premium flagship smartphone, the Motorola Signature 27, will be made at the Noida facility. Alongside Dixon, the brand maintains a strategic manufacturing partnership with Neolync in Tirupati, Andhra Pradesh. Together, these facilities not only fulfill domestic demand but also handle exports to Latin and North American markets.
+
+Motorola’s manufacturing expansion has generated a substantial economic footprint, providing direct employment to nearly 8,000 people and creating over 56,000 indirect opportunities spanning manufacturing, sales, and servicing. To support its expanding market presence, Motorola has established an extensive service network across the country.
+
+The brand currently covers 716 PIN codes across 620 cities in India, supported by over 846 touch points and 685 dedicated repair centres. Looking ahead, Motorola is doubling down on artificial intelligence, prioritising practical, day-to-day use cases. The company has partnered with Google to integrate Gemini Intelligence into its upcoming Signature 27.
+
+Motorola continues to evolve its proprietary AI assistant, Qira, which is designed to enhance cross-device connectivity and deliver advanced productivity tools for users.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/sci-tech/technology/motorola-pivots-to-premiumisation-aims-for-third-spot-in-india/article71749650.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Motorola pivots to premiumisation, aims for third spot in India.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 98103,
+    title: `ASUS लैपटॉप और PC यूजर्स सावधान! हैकर्स चुरा सकते हैं सिस्टम का कंट्रोल, सरकार ने जारी की गंभीर चेतावनी - Hindustan`,
+    slug: `asus-pc-hindustan-2026`,
+    original_title: `ASUS लैपटॉप और PC यूजर्स सावधान! हैकर्स चुरा सकते हैं सिस्टम का कंट्रोल, सरकार ने जारी की गंभीर चेतावनी - Hindustan`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:23Z`,
+    updated_at: `2026-11-27T15:26:23Z`,
+    source_name: `Hindustan`,
+    source_url: `https://www.livehindustan.com/gadgets/alert-for-asus-laptops-and-pc-users-hackers-can-take-control-of-your-system-government-issues-critical-warning-201795773183485.html`,
+    source_courtesy: `Source: Hindustan`,
+    image_url: `https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `ASUS लैपटॉप और PC यूजर्स सावधान! हैकर्स चुरा सकते हैं सिस्टम का कंट्रोल, सरकार ने जारी की गंभीर चेतावनी - Hindustan`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `अगर आप ASUS का लैपटॉप, PC या कोई दूसरा डिवाइस इस्तेमाल करते हैं, तो आपके लिए एक जरूरी खबर है। भारत की साइबर सुरक्षा एजेंसी CERT-In ने ASUS के कुछ सॉफ्टवेयर में गंभीर सुरक्षा खामियों को लेकर चेतावनी जारी की है। इन कमियों का फायदा उठाकर हैकर्`,
+    content: `अगर आप ASUS का लैपटॉप, PC या कोई दूसरा डिवाइस इस्तेमाल करते हैं, तो आपके लिए एक जरूरी खबर है। भारत की साइबर सुरक्षा एजेंसी CERT-In ने ASUS के कुछ सॉफ्टवेयर में गंभीर सुरक्षा खामियों को लेकर चेतावनी जारी की है। इन कमियों का फायदा उठाकर हैकर्स डिवाइस की लॉगिन सुरक्षा को चकमा दे सकते हैं और सिस्टम का एडमिन कंट्रोल तक हासिल कर सकते हैं।
+
+इतना ही नहीं, हैकर्स बिना एक्सेप्ट किये नए एडमिन अकाउंट बना सकते हैं और पहले से मौजूद एडमिन का पासवर्ड भी बदल सकते हैं।CERT-In ने इन खामियों को क्रिटिकल कैटेगरी में रखा है। हालांकि, इसका मतलब यह नहीं है कि ASUS का हर लैपटॉप या कंप्यूटर खतरे में है। चेतावनी कुछ खास ASUS सॉफ्टवेयर और उनके पुराने वर्जन को लेकर है।
+
+ऐसे में यूजर्स के लिए यह जानना जरूरी है कि उनके डिवाइस में कौन-सा सॉफ्टवेयर इंस्टॉल है और उसका वर्जन क्या है।सरकार ने ASUS यूजर्स के लिए जारी किया अलर्टCERT-In यानी इंडियन कंप्यूटर इमरजेंसी रिस्पॉन्स टीम ने 26 नवंबर 2026 को ASUS के कई प्रोडक्ट्स में सुरक्षा से जुड़ी कमियों पर Vulnerability Note CIVN-2026-0575 जारी किया।
+
+इसमें इन कमियों को क्रिटिकल बताया गया है। CERT ने सिस्टम एडमिनिस्ट्रेटर और प्रभावित ASUS सॉफ्टवेयर इस्तेमाल करने वाले यूजर्स को सतर्क रहने की सलाह दी है। अगर किसी कंपनी या संस्था के कई कंप्यूटर एक ही मैनेजमेंट सिस्टम से जुड़े हैं, तो वहां इसका खतरा और गंभीर हो सकता है। ASUS के इन सॉफ्टवेयर में मिली हैं खामियांCERT-In ने अपनी चेतावनी में ASUS के चार सॉफ्टवेयर का नाम लिया है।
+
+इनमें तीन सॉफ्टवेयर मुख्य रूप से कंपनियों और IT टीमों के कंप्यूटर मैनेज करने के काम आते हैं, जबकि Armoury Crate आम यूजर्स के लिए भी जाना-पहचाना ऐप है।ASUS Control Center Express: v1.7.29 से पुराने वर्जन।ASUS Control Center Datacenter: वर्जन 4.0.0.2 और इससे पुराने वर्जन।ASUS Control Center Enterprise: वर्जन 3.1.0.8 और इससे पुराने वर्जन।ASUS Armoury Crate: v6.7.2 और इससे पुराने वर्जन।इसका मतलब है कि अगर आपके सिस्टम में इन सॉफ्टवेयर का प्रभावित वर्जन मौजूद है, तो आपको इसे अपडेट करने की जरूरत है।
+
+खासतौर पर Armoury Crate इस्तेमाल करने वाले ASUS लैपटॉप और PC यूजर्स को अपने ऐप का वर्जन जरूर चेक करना चाहिए। हैकर्स कैसे हासिल कर सकते हैं सिस्टम का कंट्रोल?CERT-In के मुताबिक, इन सुरक्षा खामियों के पीछे कई तकनीकी वजहें हैं। इनमें सॉफ्टवेयर के अंदर पहले से मौजूद क्रिप्टोग्राफिक की, गलत तरीके से की गई परमिशन चेक, जरूरी सुरक्षा चेक की कमी और अनजान सोर्स से फाइल लोड होने का खतरा शामिल है।
+
+अगर कोई हमलावर इन कमियों का फायदा उठाने में सफल हो जाता है, तो वह प्रभावित सिस्टम पर कई तरह के बदलाव कर सकता है।CERT-In ने प्रभावित सॉफ्टवेयर के लिए ASUS की ओर से जारी सिक्योरिटी अपडेट इंस्टॉल करने की सलाह दी है। यूजर्स को सबसे पहले अपने कंप्यूटर में मौजूद ASUS सॉफ्टवेयर का नाम और वर्जन चेक करना चाहिए।
+
+अगर आपके सिस्टम में ऊपर बताए गए प्रभावित वर्जन में से कोई मौजूद है, तो उसे अपडेट करें।
+
+---
+
+**मूल स्रोत (Original Source):** [Hindustan](https://www.livehindustan.com/gadgets/alert-for-asus-laptops-and-pc-users-hackers-can-take-control-of-your-system-government-issues-critical-warning-201795773183485.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `ASUS लैपटॉप और PC यूजर्स सावधान! हैकर्स चुरा सकते हैं सिस्टम का कंट्रोल, सरकार ने जारी की गंभीर चेतावनी - Hindustan`,
+    summary_hi: `अगर आप ASUS का लैपटॉप, PC या कोई दूसरा डिवाइस इस्तेमाल करते हैं, तो आपके लिए एक जरूरी खबर है। भारत की साइबर सुरक्षा एजेंसी CERT-In ने ASUS के कुछ सॉफ्टवेयर में गंभीर सुरक्षा खामियों को लेकर चेतावनी जारी की है। इन कमियों का फायदा उठाकर हैकर्`,
+    content_hi: `अगर आप ASUS का लैपटॉप, PC या कोई दूसरा डिवाइस इस्तेमाल करते हैं, तो आपके लिए एक जरूरी खबर है। भारत की साइबर सुरक्षा एजेंसी CERT-In ने ASUS के कुछ सॉफ्टवेयर में गंभीर सुरक्षा खामियों को लेकर चेतावनी जारी की है। इन कमियों का फायदा उठाकर हैकर्स डिवाइस की लॉगिन सुरक्षा को चकमा दे सकते हैं और सिस्टम का एडमिन कंट्रोल तक हासिल कर सकते हैं।
+
+इतना ही नहीं, हैकर्स बिना एक्सेप्ट किये नए एडमिन अकाउंट बना सकते हैं और पहले से मौजूद एडमिन का पासवर्ड भी बदल सकते हैं।CERT-In ने इन खामियों को क्रिटिकल कैटेगरी में रखा है। हालांकि, इसका मतलब यह नहीं है कि ASUS का हर लैपटॉप या कंप्यूटर खतरे में है। चेतावनी कुछ खास ASUS सॉफ्टवेयर और उनके पुराने वर्जन को लेकर है।
+
+ऐसे में यूजर्स के लिए यह जानना जरूरी है कि उनके डिवाइस में कौन-सा सॉफ्टवेयर इंस्टॉल है और उसका वर्जन क्या है।सरकार ने ASUS यूजर्स के लिए जारी किया अलर्टCERT-In यानी इंडियन कंप्यूटर इमरजेंसी रिस्पॉन्स टीम ने 26 नवंबर 2026 को ASUS के कई प्रोडक्ट्स में सुरक्षा से जुड़ी कमियों पर Vulnerability Note CIVN-2026-0575 जारी किया।
+
+इसमें इन कमियों को क्रिटिकल बताया गया है। CERT ने सिस्टम एडमिनिस्ट्रेटर और प्रभावित ASUS सॉफ्टवेयर इस्तेमाल करने वाले यूजर्स को सतर्क रहने की सलाह दी है। अगर किसी कंपनी या संस्था के कई कंप्यूटर एक ही मैनेजमेंट सिस्टम से जुड़े हैं, तो वहां इसका खतरा और गंभीर हो सकता है। ASUS के इन सॉफ्टवेयर में मिली हैं खामियांCERT-In ने अपनी चेतावनी में ASUS के चार सॉफ्टवेयर का नाम लिया है।
+
+इनमें तीन सॉफ्टवेयर मुख्य रूप से कंपनियों और IT टीमों के कंप्यूटर मैनेज करने के काम आते हैं, जबकि Armoury Crate आम यूजर्स के लिए भी जाना-पहचाना ऐप है।ASUS Control Center Express: v1.7.29 से पुराने वर्जन।ASUS Control Center Datacenter: वर्जन 4.0.0.2 और इससे पुराने वर्जन।ASUS Control Center Enterprise: वर्जन 3.1.0.8 और इससे पुराने वर्जन।ASUS Armoury Crate: v6.7.2 और इससे पुराने वर्जन।इसका मतलब है कि अगर आपके सिस्टम में इन सॉफ्टवेयर का प्रभावित वर्जन मौजूद है, तो आपको इसे अपडेट करने की जरूरत है।
+
+खासतौर पर Armoury Crate इस्तेमाल करने वाले ASUS लैपटॉप और PC यूजर्स को अपने ऐप का वर्जन जरूर चेक करना चाहिए। हैकर्स कैसे हासिल कर सकते हैं सिस्टम का कंट्रोल?CERT-In के मुताबिक, इन सुरक्षा खामियों के पीछे कई तकनीकी वजहें हैं। इनमें सॉफ्टवेयर के अंदर पहले से मौजूद क्रिप्टोग्राफिक की, गलत तरीके से की गई परमिशन चेक, जरूरी सुरक्षा चेक की कमी और अनजान सोर्स से फाइल लोड होने का खतरा शामिल है।
+
+अगर कोई हमलावर इन कमियों का फायदा उठाने में सफल हो जाता है, तो वह प्रभावित सिस्टम पर कई तरह के बदलाव कर सकता है।CERT-In ने प्रभावित सॉफ्टवेयर के लिए ASUS की ओर से जारी सिक्योरिटी अपडेट इंस्टॉल करने की सलाह दी है। यूजर्स को सबसे पहले अपने कंप्यूटर में मौजूद ASUS सॉफ्टवेयर का नाम और वर्जन चेक करना चाहिए।
+
+अगर आपके सिस्टम में ऊपर बताए गए प्रभावित वर्जन में से कोई मौजूद है, तो उसे अपडेट करें।
+
+---
+
+**मूल स्रोत (Original Source):** [Hindustan](https://www.livehindustan.com/gadgets/alert-for-asus-laptops-and-pc-users-hackers-can-take-control-of-your-system-government-issues-critical-warning-201795773183485.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट Hindustan के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक ASUS लैपटॉप और PC यूजर्स सावधान! हैकर्स चुरा सकते हैं सिस्टम का कंट्रोल, सरकार ने जारी की गंभीर चेतावनी - Hindustan से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Hindustan`,
+  },
+  {
+    id: 98104,
+    title: `बात काम की: मोबाइल का स्टोरेज बार-बार हो रहा है फुल? तो ये 4 तरीके आएंगे काम - Amar Ujala`,
+    slug: `4-amar-ujala-2026`,
+    original_title: `बात काम की: मोबाइल का स्टोरेज बार-बार हो रहा है फुल? तो ये 4 तरीके आएंगे काम - Amar Ujala`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:25Z`,
+    updated_at: `2026-11-27T15:26:25Z`,
+    source_name: `Amar Ujala`,
+    source_url: `https://www.amarujala.com/photo-gallery/utility/4-easy-ways-to-free-up-storage-space-on-your-smartphone-ka-storage-kaise-khali-karein-2026-11-27`,
+    source_courtesy: `Source: Amar Ujala`,
+    image_url: `/images/articles/4-amar-ujala-2026.jpg`,
+    image_alt: `बात काम की: मोबाइल का स्टोरेज बार-बार हो रहा है फुल? तो ये 4 तरीके आएंगे काम - Amar Ujala`,
+    image_courtesy: `Image: Amar Ujala (External Source Attribution)`,
+    image_photographer: `Amar Ujala`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `बात काम की: मोबाइल का स्टोरेज बार-बार हो रहा है फुल? तो ये 4 तरीके आएंगे काम Amar Ujala`,
+    content: `### Smartphone Ka Storage Kaise Khali Karien: मोबाइल का स्टोरेज फुल होने पर फोन की स्पीड धीमी हो सकती है और नए फोटो, वीडियो या एप डाउनलोड करने में परेशानी आती है ऐसे में कुछ आसान तरीकों से बिना जरूरी डाटा गंवाए फोन में जगह खाली की जा सकती है
+
+Smartphone Storage: आजकल स्मार्टफोन का इस्तेमाल सिर्फ कॉल करने या मैसेज भेजने तक सीमित नहीं रह गया है। लोग फोन में फोटो, वीडियो, दस्तावेज और कई तरह के एप रखते हैं। इसके अलावा व्हाट्सएप जैसे एप पर रोजाना आने वाली फोटो और वीडियो भी धीरे-धीरे फोन की मेमोरी भर देते हैं। कई बार फोन में स्टोरेज कम होने का मैसेज आने लगता है। इसके बाद नए एप डाउनलोड करने, फोटो खींचने या वीडियो रिकॉर्ड करने में परेशानी होती है। कुछ मामलों में फोन की परफॉर्मेंस भी स्लो हो सकती है। ऐसे में अगर आपके स्मार्टफोन में भी स्टोरेज फुल होने की दिक्कत आ रही है तो घबराने की जरूरत नहीं है। कुछ आसान तरीकों को अपनाकर आप फोन में काफी जगह खाली कर सकते हैं। चलिए जानते हैं इसका तरीका क्या है। आप आगे इस बारे में जान सकते हैं...
+
+कैसे करें स्टोरेज खाली? बेकार पड़े एप हटाएं
+
+---
+
+**मूल स्रोत (Original Source):** [Amar Ujala](https://www.amarujala.com/photo-gallery/utility/4-easy-ways-to-free-up-storage-space-on-your-smartphone-ka-storage-kaise-khali-karein-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `बात काम की: मोबाइल का स्टोरेज बार-बार हो रहा है फुल? तो ये 4 तरीके आएंगे काम - Amar Ujala`,
+    summary_hi: `बात काम की: मोबाइल का स्टोरेज बार-बार हो रहा है फुल? तो ये 4 तरीके आएंगे काम Amar Ujala`,
+    content_hi: `### Smartphone Ka Storage Kaise Khali Karien: मोबाइल का स्टोरेज फुल होने पर फोन की स्पीड धीमी हो सकती है और नए फोटो, वीडियो या एप डाउनलोड करने में परेशानी आती है ऐसे में कुछ आसान तरीकों से बिना जरूरी डाटा गंवाए फोन में जगह खाली की जा सकती है
+
+Smartphone Storage: आजकल स्मार्टफोन का इस्तेमाल सिर्फ कॉल करने या मैसेज भेजने तक सीमित नहीं रह गया है। लोग फोन में फोटो, वीडियो, दस्तावेज और कई तरह के एप रखते हैं। इसके अलावा व्हाट्सएप जैसे एप पर रोजाना आने वाली फोटो और वीडियो भी धीरे-धीरे फोन की मेमोरी भर देते हैं। कई बार फोन में स्टोरेज कम होने का मैसेज आने लगता है। इसके बाद नए एप डाउनलोड करने, फोटो खींचने या वीडियो रिकॉर्ड करने में परेशानी होती है। कुछ मामलों में फोन की परफॉर्मेंस भी स्लो हो सकती है। ऐसे में अगर आपके स्मार्टफोन में भी स्टोरेज फुल होने की दिक्कत आ रही है तो घबराने की जरूरत नहीं है। कुछ आसान तरीकों को अपनाकर आप फोन में काफी जगह खाली कर सकते हैं। चलिए जानते हैं इसका तरीका क्या है। आप आगे इस बारे में जान सकते हैं...
+
+कैसे करें स्टोरेज खाली? बेकार पड़े एप हटाएं
+
+---
+
+**मूल स्रोत (Original Source):** [Amar Ujala](https://www.amarujala.com/photo-gallery/utility/4-easy-ways-to-free-up-storage-space-on-your-smartphone-ka-storage-kaise-khali-karein-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट Amar Ujala के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक बात काम की: मोबाइल का स्टोरेज बार-बार हो रहा है फुल? तो ये 4 तरीके आएंगे काम - Amar Ujala से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Amar Ujala`,
+  },
+  {
+    id: 98105,
+    title: `Spain’s 2026 election explained in maps and charts - Al Jazeera`,
+    slug: `spains-2026-election-explained-in-maps-and-charts-al-jazeera-2026`,
+    original_title: `Spain’s 2026 election explained in maps and charts - Al Jazeera`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:26Z`,
+    updated_at: `2026-11-27T15:26:26Z`,
+    source_name: `Al Jazeera`,
+    source_url: `https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts`,
+    source_courtesy: `Source: Al Jazeera`,
+    image_url: `/images/articles/spains-2026-election-explained-in-maps-and-charts-al-jazeera-2026.webp`,
+    image_alt: `Spain’s 2026 election explained in maps and charts - Al Jazeera`,
+    image_courtesy: `Image: Al Jazeera (External Source Attribution)`,
+    image_photographer: `Al Jazeera`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `Spaniards vote on November 29 in a snap general election. Here is how the system works, the parties and the key issues.`,
+    content: `Spaniards vote on November 29 in a snap general election. Here is how the system works, the parties and the key issues.
+
+Spain will hold a snap election on November 29 that could bring the far right into the national government for the first time since the end of Francisco Franco’s dictatorship in 1975.
+
+Prime Minister Pedro Sanchez called the early vote last month after parliament rejected his government’s housing relief measures, which came during mass protests over rents and house prices.
+
+Polls suggest the centre-right People’s Party (PP) will win most seats but will need the far-right Vox party to reach the 176 seats required for a majority in the 350-seat Congress of Deputies. Voters will also elect 209 members of the Senate.
+
+About 38.7 million people aged 18 and above are eligible to vote, according to Spain’s National Statistics Institute (INE).
+
+Polling stations across Spain will be open on November 29 at 9am local time (08:00 GMT) and close at 8pm (19:00 GMT).
+
+Spain is a parliamentary monarchy. King Felipe VI is head of state, while the government is led by a prime minister who answers to the Cortes Generales, a parliament made up of two houses: the Congress of Deputies and the Senate.
+
+The 350 members of the lower house, the Congress of Deputies, are elected in 52 constituencies by proportional representation. Rather than choosing individual candidates, voters pick a party, and each party puts forward a ranked list of candidates in every constituency.
+
+Every province is guaranteed at least two seats and the autonomous cities of Ceuta and Melilla in North Africa get one each. The rest are distributed by population, which is why Madrid and Barcelona elect far more deputies than smaller provinces.
+
+Within each constituency, seats are divided according to each party’s share of the vote and go to the candidates at the top of each list. A party needs at least 3 percent of the vote in a constituency to qualify for any seats there.
+
+A party needs 176 of the 350 seats for a majority. If no party reaches that number, parties must form coalitions or strike deals to govern. After consulting party leaders, the king proposes a candidate for prime minister, who must then win an investiture vote in Congress.
+
+Most members of the upper house, the Senate, are elected directly, with voters choosing individual candidates by name. In most provinces, each voter can back up to three candidates and the four with the most votes are elected. The remaining senators are appointed by Spain’s regional parliaments.
+
+### When will the results be announced?
+
+Provisional results from the Interior Ministry will start coming in straight away, with the overall picture expected to be clear before midnight on Sunday.
+
+In 2023, about 99 percent of votes had been counted by 11:45pm.
+
+### Spain’s current coalition government
+
+Prime Minister Pedro Sanchez leads a minority coalition government made up of the Spanish Socialist Workers’ Party (PSOE) and the left-wing Sumar alliance. The 22-member cabinet comprises Sanchez, three deputy prime ministers and 18 other ministers.
+
+The three deputy prime ministers each oversee a major policy area: Carlos Cuerpo oversees the economy, Yolanda Diaz labour and the social economy and Sara Aagesen the ecological transition. Cuerpo is also acting transport minister after Oscar Puente resigned after last month’s train crash that killed 69 people.
+
+Thirteen cabinet members belong to the PSOE and five to Sumar, while four are independents appointed by the PSOE.
+
+### Which are the main parties on the ballot?
+
+According to a YouGov poll published on October 30 , the main issues according to the Spanish public are:
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts)`,
+    title_en: `Spain’s 2026 election explained in maps and charts - Al Jazeera`,
+    summary_en: `Spaniards vote on November 29 in a snap general election. Here is how the system works, the parties and the key issues.`,
+    content_en: `Spaniards vote on November 29 in a snap general election. Here is how the system works, the parties and the key issues.
+
+Spain will hold a snap election on November 29 that could bring the far right into the national government for the first time since the end of Francisco Franco’s dictatorship in 1975.
+
+Prime Minister Pedro Sanchez called the early vote last month after parliament rejected his government’s housing relief measures, which came during mass protests over rents and house prices.
+
+Polls suggest the centre-right People’s Party (PP) will win most seats but will need the far-right Vox party to reach the 176 seats required for a majority in the 350-seat Congress of Deputies. Voters will also elect 209 members of the Senate.
+
+About 38.7 million people aged 18 and above are eligible to vote, according to Spain’s National Statistics Institute (INE).
+
+Polling stations across Spain will be open on November 29 at 9am local time (08:00 GMT) and close at 8pm (19:00 GMT).
+
+Spain is a parliamentary monarchy. King Felipe VI is head of state, while the government is led by a prime minister who answers to the Cortes Generales, a parliament made up of two houses: the Congress of Deputies and the Senate.
+
+The 350 members of the lower house, the Congress of Deputies, are elected in 52 constituencies by proportional representation. Rather than choosing individual candidates, voters pick a party, and each party puts forward a ranked list of candidates in every constituency.
+
+Every province is guaranteed at least two seats and the autonomous cities of Ceuta and Melilla in North Africa get one each. The rest are distributed by population, which is why Madrid and Barcelona elect far more deputies than smaller provinces.
+
+Within each constituency, seats are divided according to each party’s share of the vote and go to the candidates at the top of each list. A party needs at least 3 percent of the vote in a constituency to qualify for any seats there.
+
+A party needs 176 of the 350 seats for a majority. If no party reaches that number, parties must form coalitions or strike deals to govern. After consulting party leaders, the king proposes a candidate for prime minister, who must then win an investiture vote in Congress.
+
+Most members of the upper house, the Senate, are elected directly, with voters choosing individual candidates by name. In most provinces, each voter can back up to three candidates and the four with the most votes are elected. The remaining senators are appointed by Spain’s regional parliaments.
+
+### When will the results be announced?
+
+Provisional results from the Interior Ministry will start coming in straight away, with the overall picture expected to be clear before midnight on Sunday.
+
+In 2023, about 99 percent of votes had been counted by 11:45pm.
+
+### Spain’s current coalition government
+
+Prime Minister Pedro Sanchez leads a minority coalition government made up of the Spanish Socialist Workers’ Party (PSOE) and the left-wing Sumar alliance. The 22-member cabinet comprises Sanchez, three deputy prime ministers and 18 other ministers.
+
+The three deputy prime ministers each oversee a major policy area: Carlos Cuerpo oversees the economy, Yolanda Diaz labour and the social economy and Sara Aagesen the ecological transition. Cuerpo is also acting transport minister after Oscar Puente resigned after last month’s train crash that killed 69 people.
+
+Thirteen cabinet members belong to the PSOE and five to Sumar, while four are independents appointed by the PSOE.
+
+### Which are the main parties on the ballot?
+
+According to a YouGov poll published on October 30 , the main issues according to the Spanish public are:
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Al Jazeera.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Spain’s 2026 election explained in maps and charts - Al Jazeera.`,
+    primary_source: `Al Jazeera`,
+  },
+  {
+    id: 98106,
+    title: `4 dead, 17 missing after six-storey building collapses in Pakistan's Karachi`,
+    slug: `4-dead-17-missing-after-six-storey-building-collapses-in-pakistans-kar-2026`,
+    original_title: `4 dead, 17 missing after six-storey building collapses in Pakistan's Karachi`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:29Z`,
+    updated_at: `2026-11-27T15:26:29Z`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/world/pakistan/4-dead-17-missing-after-six-storey-building-collapses-in-pakistans-karachi/articleshow/136186755.cms`,
+    source_courtesy: `Source: The Times of India`,
+    image_url: `/images/articles/4-dead-17-missing-after-six-storey-building-collapses-in-pakistans-kar-2026.jpg`,
+    image_alt: `4 dead, 17 missing after six-storey building collapses in Pakistan's Karachi`,
+    image_courtesy: `Image: The Times of India (External Source Attribution)`,
+    image_photographer: `The Times of India`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `At least four were killed and 14 others sustained injuries after a six-storey under-construction building came crashing down in Karachi on Wednesday, with rescue operations continuing on Thursday to locate 17 people feared buried under the `,
+    content: `At least four were killed and 14 others sustained injuries after a six-storey under-construction building came crashing down in Karachi on Wednesday, with rescue operations continuing on Thursday to locate 17 people feared buried under the debris.The incident took place in the Baloch Colony area of the Pakistani port city.
+
+Police said rescue workers had so far pulled 14 injured people from the wreckage, according to the Associated Press.Government official Nasrullah Abbasi said families had informed authorities that 17 people were unaccounted for following the collapse. While rescue teams had initially confirmed one fatality, three additional bodies were recovered during overnight operations.The building was reportedly being erected illegally on a plot designated for residential use.
+
+Sindh chief minister Murad Ali Shah had raised concerns about the construction on Wednesday and promised action over the matter.At a high-level meeting on Thursday, Shah ordered the removal of Waseem Shamshad from his positions as Sindh local government secretary and director general of the Sindh Building Control Authority (SBCA).
+
+He also directed that Shamshad's services be returned to the federal government, a statement from the chief minister's office said.Shah further called for a recommendation to the Centre seeking Shamshad's suspension and a formal inquiry into the matter.Karachi Mayor Murtaza Wahab said the immediate focus remained on rescuing people trapped beneath the rubble, but did not disclose the number of those missing.More than a dozen officials were also removed from their positions on Thursday over alleged negligence, according to a government statement.According to AP, such incidents are frequent in Pakistan, where building regulations are often inadequately enforced and construction firms are known to use inferior materials or flout safety norms to reduce costs.
+
+In another such incident, a school roof collapsed in Peshawar in the country's northwest, killing 34 children and a teacher.You use AI every day. Now get your AI Quotient. Take the AIQ test.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/world/pakistan/4-dead-17-missing-after-six-storey-building-collapses-in-pakistans-karachi/articleshow/136186755.cms)`,
+    title_en: `4 dead, 17 missing after six-storey building collapses in Pakistan's Karachi`,
+    summary_en: `At least four were killed and 14 others sustained injuries after a six-storey under-construction building came crashing down in Karachi on Wednesday, with rescue operations continuing on Thursday to locate 17 people feared buried under the `,
+    content_en: `At least four were killed and 14 others sustained injuries after a six-storey under-construction building came crashing down in Karachi on Wednesday, with rescue operations continuing on Thursday to locate 17 people feared buried under the debris.The incident took place in the Baloch Colony area of the Pakistani port city.
+
+Police said rescue workers had so far pulled 14 injured people from the wreckage, according to the Associated Press.Government official Nasrullah Abbasi said families had informed authorities that 17 people were unaccounted for following the collapse. While rescue teams had initially confirmed one fatality, three additional bodies were recovered during overnight operations.The building was reportedly being erected illegally on a plot designated for residential use.
+
+Sindh chief minister Murad Ali Shah had raised concerns about the construction on Wednesday and promised action over the matter.At a high-level meeting on Thursday, Shah ordered the removal of Waseem Shamshad from his positions as Sindh local government secretary and director general of the Sindh Building Control Authority (SBCA).
+
+He also directed that Shamshad's services be returned to the federal government, a statement from the chief minister's office said.Shah further called for a recommendation to the Centre seeking Shamshad's suspension and a formal inquiry into the matter.Karachi Mayor Murtaza Wahab said the immediate focus remained on rescuing people trapped beneath the rubble, but did not disclose the number of those missing.More than a dozen officials were also removed from their positions on Thursday over alleged negligence, according to a government statement.According to AP, such incidents are frequent in Pakistan, where building regulations are often inadequately enforced and construction firms are known to use inferior materials or flout safety norms to reduce costs.
+
+In another such incident, a school roof collapsed in Peshawar in the country's northwest, killing 34 children and a teacher.You use AI every day. Now get your AI Quotient. Take the AIQ test.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/world/pakistan/4-dead-17-missing-after-six-storey-building-collapses-in-pakistans-karachi/articleshow/136186755.cms)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Times of India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for 4 dead, 17 missing after six-storey building collapses in Pakistan's Karachi.`,
+    primary_source: `The Times of India`,
+  },
+  {
+    id: 98107,
+    title: `चीन ने पाकिस्तान के अंतरिक्ष यात्री के लिए भेजे लज़ीज़ पकवान,बटर चिकन, निहारी से लेकर मटन कोरमा तक`,
+    slug: `world-breaking-report-75721-98107-2026`,
+    original_title: `चीन ने पाकिस्तान के अंतरिक्ष यात्री के लिए भेजे लज़ीज़ पकवान,बटर चिकन, निहारी से लेकर मटन कोरमा तक`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:31Z`,
+    updated_at: `2026-11-27T15:26:31Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/c87524le20p7o`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/world-breaking-report-75721-98107-2026.jpg`,
+    image_alt: `चीन ने पाकिस्तान के अंतरिक्ष यात्री के लिए भेजे लज़ीज़ पकवान,बटर चिकन, निहारी से लेकर मटन कोरमा तक`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `चिकन बसरा, निहारी,  मटन कोरमा और चना शोरबा.`,
+    content: `चिकन बसरा, निहारी,  मटन कोरमा और चना शोरबा.
+
+इन पकवानों के नाम सुनते ही किसी व्यस्त पाकिस्तानी रेस्तरां या दावत का ख़याल आता है. लेकिन इन दिनों पाकिस्तान के सोशल मीडिया पर इन लज़ीज़ पकवानों की चर्चा एक अलग ही वजह से हो रही है.
+
+दरअसल, ये व्यंजन चीन के अंतरिक्ष स्टेशन पर मौजूद अंतरिक्ष यात्रियों के लिए तैयार किए गए ख़ास हलाल मेन्यू का हिस्सा हैं.
+
+चीन के सरकारी चैनल चाइना ग्लोबल टेलीविज़न नेटवर्क (सीजीटीएन) ने सोशल मीडिया प्लेटफॉर्म एक्स पर एक पोस्ट में बताया, "चीन के अंतरिक्ष स्टेशन पर छह लोगों के लिए रात्रिभोज का इंतज़ाम किया जा रहा है. इसमें पाकिस्तानी अंतरिक्ष यात्री के लिए ख़ास तौर पर चुने गए 100 से ज़्यादा तरह के हलाल डिश भी परोसे जाएंगे."
+
+सीजीटीएन के मुताबिक़, इन व्यंजनों में निहारी, मटन कोरमा और छोले की सब्ज़ी भी शामिल हैं.
+
+शेनझोउ-24 में चीनी अंतरिक्ष यात्री तांग होंगबो और वू यी के अलावा पाकिस्तानी अंतरिक्ष यात्री ज़ीशान अली भी सवार हैं.
+
+शेनझोउ-24 अंतरिक्ष मिशन के तहत तीन अंतरिक्ष यात्रियों को तियांगोंग अंतरिक्ष स्टेशन भेजा गया है.
+
+इनमें तांग होंगबो मिशन कमांडर, वू यी फ़्लाइट इंजीनियर और पाकिस्तानी पायलट मोहम्मद ज़ीशान अली पेलोड स्पेशलिस्ट के तौर पर शामिल हैं.
+
+बुधवार को जिउछुआन सैटेलाइट लॉन्च सेंटर से रवाना हुआ शेनझोउ-24 अंतरिक्ष मिशन चीन के अंतरिक्ष स्टेशन से जुड़ गया है. इसके बाद शेनझोउ-24 के चालक दल ने अंतरिक्ष स्टेशन में एंट्री की .
+
+इस मिशन में पाकिस्तानी अंतरिक्ष यात्री मोहम्मद ज़ीशान अली की मौजूदगी को देखते हुए चीन के अंतरिक्ष कार्यक्रम से जुड़े विभाग ने चीनी और अंग्रेज़ी, दोनों भाषाओं में कामकाज से जुड़े निर्देश तैयार किए हैं.
+
+इसके अलावा, पाकिस्तानी अंतरिक्ष यात्री की खानपान संबंधी पसंद को ध्यान में रखते हुए हलाल खाने का का भी इंतज़ाम किया गया है.
+
+अंतरिक्ष में भोजन का मामला हमेशा से चर्चा का विषय रहा है. ऐसे में पाकिस्तानी अंतरिक्ष यात्री के लिए हलाल खाने और दक्षिण एशियाई स्वाद वाले व्यंजनों को शामिल किए जाने से सोशल मीडिया पर भी बहस छिड़ गई है.
+
+पाकिस्तानी अंतरिक्ष यात्री मोहम्मद ज़ीशान अली तियांगोंग अंतरिक्ष स्टेशन पर क़रीब एक हफ़्ता बिताएंगे.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+यह ख़बर सामने आने के बाद सोशल मीडिया यूज़र्स पाकिस्तानी डिशेज के अंतरिक्ष तक पहुंचने पर हैरानी और ख़ुशी जता रहे हैं.
+
+कुछ यूज़र्स ने इसे चीन और पाकिस्तान के क़रीबी रिश्तों का प्रतीक बताया, जबकि दूसरे लोगों ने निहारी और कोरमे जैसे पारंपरिक पकवानों के अंतरिक्ष के सफ़र पर दिलचस्प टिप्पणियां कीं.
+
+असमा नाम की एक यूज़र ने पाकिस्तानी अंतरिक्ष यात्री के मेन्यू में ख़ास तौर पर निहारी को शामिल किए जाने की तारीफ़ करते हुए लिखा, "हमारे अंतरिक्ष यात्री के मेन्यू में निहारी को जगह देने के लिए शुक्रिया."
+
+लैला नाम की एक यूज़र ने किसी देश का नाम लिए बिना लिखा कि यह ख़बर निश्चित रूप से हमारे "पड़ोसियों की कैलोरी जलाने" का कारण बनेगी.
+
+ग़ौरतलब है कि पाकिस्तान के पहले अंतरिक्ष यात्री मोहम्मद ज़ीशान अली के चीनी अंतरिक्ष मिशन में शामिल होने की ख़बर को भारत में भी काफ़ी तवज्जो मिल रही है.
+
+देश के बड़े अख़बारों, टीवी चैनलों और डिजिटल प्लेटफॉर्म ने इस घटनाक्रम को प्रमुखता से जगह दी है.
+
+भारत में सोशल मीडिया पर भी इसे लेकर चर्चा जारी है. अंतरिक्ष में भारत और पाकिस्तान की उपलब्धियों और दोनों देशों के बीच होड़ की तुलना भी की जा रही है.
+
+गर्वसेसेक्युलर नाम के एक यूज़र ने लिखा, "हम भारतीयों के लिए यह गर्व की बात है कि बटर चिकन, जो एक भारतीय व्यंजन है, अंतरिक्ष तक पहुंच गया है. इससे क्या फ़र्क़ पड़ता है कि इसे चीनी अंतरिक्ष स्टेशन पर मौजूद एक पाकिस्तानी अंतरिक्ष यात्री के लिए तैयार किया गया है."
+
+इसके साथ ही उन्होंने लिखा, "हालांकि, हम बीफ़ निहारी से अपना कोई संबंध नहीं होने की घोषणा करते हैं."
+
+सोशल मीडिया प्लेटफ़ॉर्म एक्स पर पाकिस्तानी थिंक टैंक 'पाकिस्तान स्ट्रैटेजिक फ़ोरम' के अकाउंट से इसकी तारीफ़ करते हुए कहा गया, "अगर आपके पास वही दिल है तो आप कितनी बार जीत सकते हैं?"
+
+### मेन्यू में बिरयानी न होने से निराशा
+
+सोशल मीडिया पर कई यूजर्स ने पाकिस्तानी अंतरिक्ष यात्री की यात्रा की तारीफ़ करते हुए इसे चीन और पाकिस्तान के बीच घनिष्ठ संबंधों का प्रतीक बताया और साथ ही इस कदम को चीन की ग्लोबल पावर की ताक़त की अहमियत कहा.
+
+एलेक्स हैंक नाम के एक यूजर ने सोशल मीडिया पर अपनी पोस्ट में लिखा, "चीन की ओर से मेहमान की ख़ातिरदारी का एक अद्भुत प्रदर्शन. यही वजह है कि चीन को भविष्य की विश्व शक्ति माना जाता है. यह मिशन अंतरिक्ष सहयोग के एक नए युग का दरवाजा खोल सकता है."
+
+जहां एक ओर यूजर्स ने मेनू में निहारी को शामिल किए जाने पर आश्चर्य और खुशी व्यक्त की, वहीं कई यूजर्स इस बात से थोड़े निराश दिखे कि बिरयानी को मेन्यू में जगह नहीं मिली.
+
+सोशल मीडिया पर बिरयानी के स्वाद और उसे बनाने के तरीकों को लेकर यूजर्स के बीच हर दिन बातचीत होती रहती है. ऐसे में इस 'ऐतिहासिक' अवसर पर बिरयानी का उल्लेख न होने से कई यूजर्स निराश हैं.
+
+बिरयानी के एक प्रशंसक ने लिखा, "मेनू में बीफ़ निहारी देखकर अच्छा लगा, लेकिन जब तक बिरयानी को मेज पर जगह नहीं मिलती, तब तक मिशन का मजा पूरा नहीं होगा. इसलिए हम पाकिस्तानी अंतरिक्ष यात्री जीशान अली से जल्द से जल्द बिरयानी का आनंद लेते हुए अपनी तस्वीरें भेजने का इंतजार कर रहे हैं."
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c87524le20p7o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `चीन ने पाकिस्तान के अंतरिक्ष यात्री के लिए भेजे लज़ीज़ पकवान,बटर चिकन, निहारी से लेकर मटन कोरमा तक`,
+    summary_hi: `चिकन बसरा, निहारी,  मटन कोरमा और चना शोरबा.`,
+    content_hi: `चिकन बसरा, निहारी,  मटन कोरमा और चना शोरबा.
+
+इन पकवानों के नाम सुनते ही किसी व्यस्त पाकिस्तानी रेस्तरां या दावत का ख़याल आता है. लेकिन इन दिनों पाकिस्तान के सोशल मीडिया पर इन लज़ीज़ पकवानों की चर्चा एक अलग ही वजह से हो रही है.
+
+दरअसल, ये व्यंजन चीन के अंतरिक्ष स्टेशन पर मौजूद अंतरिक्ष यात्रियों के लिए तैयार किए गए ख़ास हलाल मेन्यू का हिस्सा हैं.
+
+चीन के सरकारी चैनल चाइना ग्लोबल टेलीविज़न नेटवर्क (सीजीटीएन) ने सोशल मीडिया प्लेटफॉर्म एक्स पर एक पोस्ट में बताया, "चीन के अंतरिक्ष स्टेशन पर छह लोगों के लिए रात्रिभोज का इंतज़ाम किया जा रहा है. इसमें पाकिस्तानी अंतरिक्ष यात्री के लिए ख़ास तौर पर चुने गए 100 से ज़्यादा तरह के हलाल डिश भी परोसे जाएंगे."
+
+सीजीटीएन के मुताबिक़, इन व्यंजनों में निहारी, मटन कोरमा और छोले की सब्ज़ी भी शामिल हैं.
+
+शेनझोउ-24 में चीनी अंतरिक्ष यात्री तांग होंगबो और वू यी के अलावा पाकिस्तानी अंतरिक्ष यात्री ज़ीशान अली भी सवार हैं.
+
+शेनझोउ-24 अंतरिक्ष मिशन के तहत तीन अंतरिक्ष यात्रियों को तियांगोंग अंतरिक्ष स्टेशन भेजा गया है.
+
+इनमें तांग होंगबो मिशन कमांडर, वू यी फ़्लाइट इंजीनियर और पाकिस्तानी पायलट मोहम्मद ज़ीशान अली पेलोड स्पेशलिस्ट के तौर पर शामिल हैं.
+
+बुधवार को जिउछुआन सैटेलाइट लॉन्च सेंटर से रवाना हुआ शेनझोउ-24 अंतरिक्ष मिशन चीन के अंतरिक्ष स्टेशन से जुड़ गया है. इसके बाद शेनझोउ-24 के चालक दल ने अंतरिक्ष स्टेशन में एंट्री की .
+
+इस मिशन में पाकिस्तानी अंतरिक्ष यात्री मोहम्मद ज़ीशान अली की मौजूदगी को देखते हुए चीन के अंतरिक्ष कार्यक्रम से जुड़े विभाग ने चीनी और अंग्रेज़ी, दोनों भाषाओं में कामकाज से जुड़े निर्देश तैयार किए हैं.
+
+इसके अलावा, पाकिस्तानी अंतरिक्ष यात्री की खानपान संबंधी पसंद को ध्यान में रखते हुए हलाल खाने का का भी इंतज़ाम किया गया है.
+
+अंतरिक्ष में भोजन का मामला हमेशा से चर्चा का विषय रहा है. ऐसे में पाकिस्तानी अंतरिक्ष यात्री के लिए हलाल खाने और दक्षिण एशियाई स्वाद वाले व्यंजनों को शामिल किए जाने से सोशल मीडिया पर भी बहस छिड़ गई है.
+
+पाकिस्तानी अंतरिक्ष यात्री मोहम्मद ज़ीशान अली तियांगोंग अंतरिक्ष स्टेशन पर क़रीब एक हफ़्ता बिताएंगे.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+यह ख़बर सामने आने के बाद सोशल मीडिया यूज़र्स पाकिस्तानी डिशेज के अंतरिक्ष तक पहुंचने पर हैरानी और ख़ुशी जता रहे हैं.
+
+कुछ यूज़र्स ने इसे चीन और पाकिस्तान के क़रीबी रिश्तों का प्रतीक बताया, जबकि दूसरे लोगों ने निहारी और कोरमे जैसे पारंपरिक पकवानों के अंतरिक्ष के सफ़र पर दिलचस्प टिप्पणियां कीं.
+
+असमा नाम की एक यूज़र ने पाकिस्तानी अंतरिक्ष यात्री के मेन्यू में ख़ास तौर पर निहारी को शामिल किए जाने की तारीफ़ करते हुए लिखा, "हमारे अंतरिक्ष यात्री के मेन्यू में निहारी को जगह देने के लिए शुक्रिया."
+
+लैला नाम की एक यूज़र ने किसी देश का नाम लिए बिना लिखा कि यह ख़बर निश्चित रूप से हमारे "पड़ोसियों की कैलोरी जलाने" का कारण बनेगी.
+
+ग़ौरतलब है कि पाकिस्तान के पहले अंतरिक्ष यात्री मोहम्मद ज़ीशान अली के चीनी अंतरिक्ष मिशन में शामिल होने की ख़बर को भारत में भी काफ़ी तवज्जो मिल रही है.
+
+देश के बड़े अख़बारों, टीवी चैनलों और डिजिटल प्लेटफॉर्म ने इस घटनाक्रम को प्रमुखता से जगह दी है.
+
+भारत में सोशल मीडिया पर भी इसे लेकर चर्चा जारी है. अंतरिक्ष में भारत और पाकिस्तान की उपलब्धियों और दोनों देशों के बीच होड़ की तुलना भी की जा रही है.
+
+गर्वसेसेक्युलर नाम के एक यूज़र ने लिखा, "हम भारतीयों के लिए यह गर्व की बात है कि बटर चिकन, जो एक भारतीय व्यंजन है, अंतरिक्ष तक पहुंच गया है. इससे क्या फ़र्क़ पड़ता है कि इसे चीनी अंतरिक्ष स्टेशन पर मौजूद एक पाकिस्तानी अंतरिक्ष यात्री के लिए तैयार किया गया है."
+
+इसके साथ ही उन्होंने लिखा, "हालांकि, हम बीफ़ निहारी से अपना कोई संबंध नहीं होने की घोषणा करते हैं."
+
+सोशल मीडिया प्लेटफ़ॉर्म एक्स पर पाकिस्तानी थिंक टैंक 'पाकिस्तान स्ट्रैटेजिक फ़ोरम' के अकाउंट से इसकी तारीफ़ करते हुए कहा गया, "अगर आपके पास वही दिल है तो आप कितनी बार जीत सकते हैं?"
+
+### मेन्यू में बिरयानी न होने से निराशा
+
+सोशल मीडिया पर कई यूजर्स ने पाकिस्तानी अंतरिक्ष यात्री की यात्रा की तारीफ़ करते हुए इसे चीन और पाकिस्तान के बीच घनिष्ठ संबंधों का प्रतीक बताया और साथ ही इस कदम को चीन की ग्लोबल पावर की ताक़त की अहमियत कहा.
+
+एलेक्स हैंक नाम के एक यूजर ने सोशल मीडिया पर अपनी पोस्ट में लिखा, "चीन की ओर से मेहमान की ख़ातिरदारी का एक अद्भुत प्रदर्शन. यही वजह है कि चीन को भविष्य की विश्व शक्ति माना जाता है. यह मिशन अंतरिक्ष सहयोग के एक नए युग का दरवाजा खोल सकता है."
+
+जहां एक ओर यूजर्स ने मेनू में निहारी को शामिल किए जाने पर आश्चर्य और खुशी व्यक्त की, वहीं कई यूजर्स इस बात से थोड़े निराश दिखे कि बिरयानी को मेन्यू में जगह नहीं मिली.
+
+सोशल मीडिया पर बिरयानी के स्वाद और उसे बनाने के तरीकों को लेकर यूजर्स के बीच हर दिन बातचीत होती रहती है. ऐसे में इस 'ऐतिहासिक' अवसर पर बिरयानी का उल्लेख न होने से कई यूजर्स निराश हैं.
+
+बिरयानी के एक प्रशंसक ने लिखा, "मेनू में बीफ़ निहारी देखकर अच्छा लगा, लेकिन जब तक बिरयानी को मेज पर जगह नहीं मिलती, तब तक मिशन का मजा पूरा नहीं होगा. इसलिए हम पाकिस्तानी अंतरिक्ष यात्री जीशान अली से जल्द से जल्द बिरयानी का आनंद लेते हुए अपनी तस्वीरें भेजने का इंतजार कर रहे हैं."
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c87524le20p7o)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक चीन ने पाकिस्तान के अंतरिक्ष यात्री के लिए भेजे लज़ीज़ पकवान,बटर चिकन, निहारी से लेकर मटन कोरमा तक से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 98108,
+    title: `हमला करने आ रहा अमेरिकी फाइटर जेट ईरान के डिफेंस सिस्टम से डरकर वापस लौटा - AajTak`,
+    slug: `world-breaking-report-34942-98108-2026`,
+    original_title: `हमला करने आ रहा अमेरिकी फाइटर जेट ईरान के डिफेंस सिस्टम से डरकर वापस लौटा - AajTak`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:34Z`,
+    updated_at: `2026-11-27T15:26:34Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/defence-news/story/iran-claims-f-16-retreated-after-air-defence-warning-fire-dskc-2707876-2026-11-27`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b095159daffb-iran-us-conflict--irgc--us-f-16-fighter-jet-274600558.jpg`,
+    image_alt: `हमला करने आ रहा अमेरिकी फाइटर जेट ईरान के डिफेंस सिस्टम से डरकर वापस लौटा - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `अमेरिका और ईरान के बीच जारी सैन्य तनाव के बीच एक नया घटनाक्रम सामने आया है. ईरान की इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) ने दावा किया है कि उसने अपने एयर डिफेंस सिस्टम से अमेरिकी F-16 लड़ाकू विमान को पीछे हटने पर मजबूर कर दिया. और पढ़`,
+    content: `अमेरिका और ईरान के बीच जारी सैन्य तनाव के बीच एक नया घटनाक्रम सामने आया है. ईरान की इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) ने दावा किया है कि उसने अपने एयर डिफेंस सिस्टम से अमेरिकी F-16 लड़ाकू विमान को पीछे हटने पर मजबूर कर दिया. और पढ़ेंईरान के सरकारी प्रसारक IRIB ने एक वीडियो जारी किया है, जिसमें कथित तौर पर अमेरिकी विमान को हेंगाम द्वीप (Hengam Island) के दक्षिण-पूर्वी इलाके से वापस जाते दिखाया गया है.
+
+ईरान के मुताबिक, अमेरिकी विमान उसके हवाई क्षेत्र के करीब पहुंचा था. इसके बाद ईरानी एयर डिफेंस ने चेतावनी के तौर पर फायरिंग की. दावा है कि अमेरिकी पायलट ने विमान को तेजी से मोड़ा और ईरानी हवाई क्षेत्र से दूर चला गया. ईरान का यह भी कहना है कि विमान ने खुद को बचाने के लिए फ्लेयर्स छोड़े, लेकिन उसके रडार की निगरानी से बच नहीं पाया.
+
+हालांकि, इस घटना की स्वतंत्र पुष्टि नहीं हुई है और अमेरिकी सेना की ओर से तत्काल कोई आधिकारिक प्रतिक्रिया नहीं आई थी.यह भी पढ़ें: अमेरिका ने तैनात की हाइपरसोनिक मिसाइल डार्क ईगल, बिजली सी रफ्तार, 2775 KM रेंज Advertisement        हेंगाम द्वीप कहां है और इसकी रणनीतिक अहमियत क्या है?हेंगाम द्वीप ईरान के दक्षिणी तट पर फारस की खाड़ी में स्थित है.
+
+यह क्यूशम द्वीप के पास और होर्मुज जलडमरूमध्य के महत्वपूर्ण समुद्री क्षेत्र के करीब है. होर्मुज दुनिया के सबसे महत्वपूर्ण समुद्री व्यापारिक मार्गों में से एक है. दुनिया के समुद्री रास्ते से होने वाले तेल व्यापार का बड़ा हिस्सा इसी रास्ते से गुजरता है.Today, Video of an American F-16 retreating after warning fire from Iran&#039;s air defense southeast of Hengam Island.
+
+Despite deploying flares, the fighter jet remained under the surveillance of Iranian air defense. https://t.co/dyBEbieODv— IRIB (Islamic Republic of Iran Broadcasting) (@iribnews_irib) November 27, 2026ईरान इस क्षेत्र को अपनी राष्ट्रीय सुरक्षा का बेहद संवेदनशील हिस्सा मानता है. यहां अमेरिकी सैन्य विमानों या जहाजों की गतिविधियां तेहरान को अपनी समुद्री और हवाई संप्रभुता के लिए चुनौती दिखाई दे सकती हैं.
+
+दूसरी ओर अमेरिका इस क्षेत्र में अपने सैन्य और व्यापारिक हितों की सुरक्षा को महत्वपूर्ण मानता है.फ्लेयर्स से क्या मिसाइल हमला रोका जा सकता है?इस घटना में फ्लेयर्स का जिक्र खास है. फ्लेयर्स छोटे जलते हुए उपकरण होते हैं, जिन्हें लड़ाकू विमान खतरे का संकेत मिलने पर छोड़ते हैं. इनका उद्देश्य दुश्मन की इंफ्रारेड गाइडेड मिसाइलों को भ्रमित करना होता है.
+
+ऐसी मिसाइलें विमान के इंजन से निकलने वाली गर्मी को पहचानकर उसका पीछा करती हैं. यह भी पढ़ें: LoC पर भारत तैनात करेगा पांचवां S-400 एयर डिफेंस सिस्टम, चीन-पाकिस्तान की बढ़ेगी चुनौती Advertisement        फ्लेयर्स विमान से ज्यादा गर्मी पैदा करके मिसाइल को दूसरी दिशा में मोड़ने की कोशिश करते हैं.
+
+हालांकि, फ्लेयर्स हर तरह की मिसाइल से सुरक्षा नहीं देते. रडार से निर्देशित मिसाइलों के खिलाफ विमान को चाफ (Chaff), इलेक्ट्रॉनिक जैमिंग और दूसरे डिफेंस सिस्टम की जरूरत पड़ सकती है. इसलिए यदि अमेरिकी F-16 ने वास्तव में फ्लेयर्स छोड़े, तो इससे यह संकेत मिल सकता है कि पायलट ने किसी संभावित खतरे को महसूस किया था.
+
+लेकिन केवल फ्लेयर्स दिखाई देने से यह साबित नहीं होता कि ईरान ने विमान पर मिसाइल दागी थी.ईरान का दावा कितना विश्वसनीय है?इस मामले में सबसे महत्वपूर्ण बात यह है कि अभी तक घटना का स्वतंत्र सत्यापन नहीं हुआ है. ईरान ने वीडियो और अपना आधिकारिक बयान जारी किया है, लेकिन अमेरिका ने तत्काल इसकी पुष्टि नहीं की.
+
+21 नवंबर को भी ईरान ने दावा किया था कि उसके एयर डिफेंस ने अमेरिकी F-16 को निशाना बनाया और विमान को आपात लैंडिंग करनी पड़ी. हालांकि, अमेरिकी सेंट्रल कमांड (CENTCOM) ने उस दावे को खारिज करते हुए कहा था कि उसके सभी लड़ाकू विमान सुरक्षित हैं. इसलिए मौजूदा घटना को अमेरिकी विमान को मार गिराने या निश्चित रूप से नुकसान पहुंचाने की घटना कहना गलत होगा.
+
+फिलहाल यह ईरान का सैन्य दावा है. Advertisement        यह भी पढ़ें: क्या ईरान पर अकेले हमला करेगा इजरायल? आउटगोइंग पीएम नेतन्याहू के तेवर अब भी तीखेइस घटना का महत्व केवल एक लड़ाकू विमान तक सीमित नहीं है. ईरान यह संदेश देना चाहता है कि होर्मुज के आसपास उसकी हवाई और समुद्री सीमाओं में अमेरिकी सैन्य गतिविधियों को बिना जवाब के नहीं छोड़ा जाएगा.
+
+वहीं अमेरिका के लिए इस क्षेत्र में अपने विमानों और समुद्री व्यापारिक मार्गों की सुरक्षा महत्वपूर्ण है.यदि ऐसी घटनाएं बार-बार होती हैं तो किसी छोटी गलतफहमी से भी बड़ा सैन्य टकराव शुरू हो सकता है. खासकर तब, जब दोनों देशों के बीच पहले से ही युद्धविराम और समुद्री आवाजाही को लेकर तनाव बना हुआ है.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/defence-news/story/iran-claims-f-16-retreated-after-air-defence-warning-fire-dskc-2707876-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `हमला करने आ रहा अमेरिकी फाइटर जेट ईरान के डिफेंस सिस्टम से डरकर वापस लौटा - AajTak`,
+    summary_hi: `अमेरिका और ईरान के बीच जारी सैन्य तनाव के बीच एक नया घटनाक्रम सामने आया है. ईरान की इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) ने दावा किया है कि उसने अपने एयर डिफेंस सिस्टम से अमेरिकी F-16 लड़ाकू विमान को पीछे हटने पर मजबूर कर दिया. और पढ़`,
+    content_hi: `अमेरिका और ईरान के बीच जारी सैन्य तनाव के बीच एक नया घटनाक्रम सामने आया है. ईरान की इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) ने दावा किया है कि उसने अपने एयर डिफेंस सिस्टम से अमेरिकी F-16 लड़ाकू विमान को पीछे हटने पर मजबूर कर दिया. और पढ़ेंईरान के सरकारी प्रसारक IRIB ने एक वीडियो जारी किया है, जिसमें कथित तौर पर अमेरिकी विमान को हेंगाम द्वीप (Hengam Island) के दक्षिण-पूर्वी इलाके से वापस जाते दिखाया गया है.
+
+ईरान के मुताबिक, अमेरिकी विमान उसके हवाई क्षेत्र के करीब पहुंचा था. इसके बाद ईरानी एयर डिफेंस ने चेतावनी के तौर पर फायरिंग की. दावा है कि अमेरिकी पायलट ने विमान को तेजी से मोड़ा और ईरानी हवाई क्षेत्र से दूर चला गया. ईरान का यह भी कहना है कि विमान ने खुद को बचाने के लिए फ्लेयर्स छोड़े, लेकिन उसके रडार की निगरानी से बच नहीं पाया.
+
+हालांकि, इस घटना की स्वतंत्र पुष्टि नहीं हुई है और अमेरिकी सेना की ओर से तत्काल कोई आधिकारिक प्रतिक्रिया नहीं आई थी.यह भी पढ़ें: अमेरिका ने तैनात की हाइपरसोनिक मिसाइल डार्क ईगल, बिजली सी रफ्तार, 2775 KM रेंज Advertisement        हेंगाम द्वीप कहां है और इसकी रणनीतिक अहमियत क्या है?हेंगाम द्वीप ईरान के दक्षिणी तट पर फारस की खाड़ी में स्थित है.
+
+यह क्यूशम द्वीप के पास और होर्मुज जलडमरूमध्य के महत्वपूर्ण समुद्री क्षेत्र के करीब है. होर्मुज दुनिया के सबसे महत्वपूर्ण समुद्री व्यापारिक मार्गों में से एक है. दुनिया के समुद्री रास्ते से होने वाले तेल व्यापार का बड़ा हिस्सा इसी रास्ते से गुजरता है.Today, Video of an American F-16 retreating after warning fire from Iran&#039;s air defense southeast of Hengam Island.
+
+Despite deploying flares, the fighter jet remained under the surveillance of Iranian air defense. https://t.co/dyBEbieODv— IRIB (Islamic Republic of Iran Broadcasting) (@iribnews_irib) November 27, 2026ईरान इस क्षेत्र को अपनी राष्ट्रीय सुरक्षा का बेहद संवेदनशील हिस्सा मानता है. यहां अमेरिकी सैन्य विमानों या जहाजों की गतिविधियां तेहरान को अपनी समुद्री और हवाई संप्रभुता के लिए चुनौती दिखाई दे सकती हैं.
+
+दूसरी ओर अमेरिका इस क्षेत्र में अपने सैन्य और व्यापारिक हितों की सुरक्षा को महत्वपूर्ण मानता है.फ्लेयर्स से क्या मिसाइल हमला रोका जा सकता है?इस घटना में फ्लेयर्स का जिक्र खास है. फ्लेयर्स छोटे जलते हुए उपकरण होते हैं, जिन्हें लड़ाकू विमान खतरे का संकेत मिलने पर छोड़ते हैं. इनका उद्देश्य दुश्मन की इंफ्रारेड गाइडेड मिसाइलों को भ्रमित करना होता है.
+
+ऐसी मिसाइलें विमान के इंजन से निकलने वाली गर्मी को पहचानकर उसका पीछा करती हैं. यह भी पढ़ें: LoC पर भारत तैनात करेगा पांचवां S-400 एयर डिफेंस सिस्टम, चीन-पाकिस्तान की बढ़ेगी चुनौती Advertisement        फ्लेयर्स विमान से ज्यादा गर्मी पैदा करके मिसाइल को दूसरी दिशा में मोड़ने की कोशिश करते हैं.
+
+हालांकि, फ्लेयर्स हर तरह की मिसाइल से सुरक्षा नहीं देते. रडार से निर्देशित मिसाइलों के खिलाफ विमान को चाफ (Chaff), इलेक्ट्रॉनिक जैमिंग और दूसरे डिफेंस सिस्टम की जरूरत पड़ सकती है. इसलिए यदि अमेरिकी F-16 ने वास्तव में फ्लेयर्स छोड़े, तो इससे यह संकेत मिल सकता है कि पायलट ने किसी संभावित खतरे को महसूस किया था.
+
+लेकिन केवल फ्लेयर्स दिखाई देने से यह साबित नहीं होता कि ईरान ने विमान पर मिसाइल दागी थी.ईरान का दावा कितना विश्वसनीय है?इस मामले में सबसे महत्वपूर्ण बात यह है कि अभी तक घटना का स्वतंत्र सत्यापन नहीं हुआ है. ईरान ने वीडियो और अपना आधिकारिक बयान जारी किया है, लेकिन अमेरिका ने तत्काल इसकी पुष्टि नहीं की.
+
+21 नवंबर को भी ईरान ने दावा किया था कि उसके एयर डिफेंस ने अमेरिकी F-16 को निशाना बनाया और विमान को आपात लैंडिंग करनी पड़ी. हालांकि, अमेरिकी सेंट्रल कमांड (CENTCOM) ने उस दावे को खारिज करते हुए कहा था कि उसके सभी लड़ाकू विमान सुरक्षित हैं. इसलिए मौजूदा घटना को अमेरिकी विमान को मार गिराने या निश्चित रूप से नुकसान पहुंचाने की घटना कहना गलत होगा.
+
+फिलहाल यह ईरान का सैन्य दावा है. Advertisement        यह भी पढ़ें: क्या ईरान पर अकेले हमला करेगा इजरायल? आउटगोइंग पीएम नेतन्याहू के तेवर अब भी तीखेइस घटना का महत्व केवल एक लड़ाकू विमान तक सीमित नहीं है. ईरान यह संदेश देना चाहता है कि होर्मुज के आसपास उसकी हवाई और समुद्री सीमाओं में अमेरिकी सैन्य गतिविधियों को बिना जवाब के नहीं छोड़ा जाएगा.
+
+वहीं अमेरिका के लिए इस क्षेत्र में अपने विमानों और समुद्री व्यापारिक मार्गों की सुरक्षा महत्वपूर्ण है.यदि ऐसी घटनाएं बार-बार होती हैं तो किसी छोटी गलतफहमी से भी बड़ा सैन्य टकराव शुरू हो सकता है. खासकर तब, जब दोनों देशों के बीच पहले से ही युद्धविराम और समुद्री आवाजाही को लेकर तनाव बना हुआ है.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/defence-news/story/iran-claims-f-16-retreated-after-air-defence-warning-fire-dskc-2707876-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक हमला करने आ रहा अमेरिकी फाइटर जेट ईरान के डिफेंस सिस्टम से डरकर वापस लौटा - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98109,
+    title: `Is he crying?': Mohammed Siraj's live TV visuals spark reaction from Ajinkya Rahane, Murali Kartik - WAT`,
+    slug: `is-he-crying-mohammed-sirajs-live-tv-visuals-spark-reaction-from-ajink-2026`,
+    original_title: `Is he crying?': Mohammed Siraj's live TV visuals spark reaction from Ajinkya Rahane, Murali Kartik - WAT`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:37Z`,
+    updated_at: `2026-11-27T15:26:37Z`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/is-he-crying-mohammed-sirajs-live-tv-visuals-spark-reaction-from-ajinkya-rahane-murali-kartik-watch/articleshow/136209441.cms`,
+    source_courtesy: `Source: The Times of India`,
+    image_url: `/images/articles/is-he-crying-mohammed-sirajs-live-tv-visuals-spark-reaction-from-ajink-2026.jpg`,
+    image_alt: `Is he crying?': Mohammed Siraj's live TV visuals spark reaction from Ajinkya Rahane, Murali Kartik - WAT`,
+    image_courtesy: `Image: The Times of India (External Source Attribution)`,
+    image_photographer: `The Times of India`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `NEW DELHI: Mohammed Siraj appeared visibly emotional after being left out of India's playing XI for the second Test against New Zealand in Christchurch. The Indian fast bowler was spotted covering his eyes with sunglasses as cameras capture`,
+    content: `NEW DELHI: Mohammed Siraj appeared visibly emotional after being left out of India's playing XI for the second Test against New Zealand in Christchurch. The Indian fast bowler was spotted covering his eyes with sunglasses as cameras captured him on the opening morning at Hagley Oval.The visuals caught the attention of former India batter Ajinkya Rahane and ex-spinner Murali Kartik, who were on live commentary.
+
+Both spoke about Siraj's reaction, with Kartik suggesting that the decision to drop him would have hurt the pacer.Siraj's omission has also raised questions, especially considering his record in the ongoing World Test Championship (WTC) cycle.Rahane, Kartik react to Siraj's live TV visualsRahane was quick to notice Siraj covering his eyes with his sunglasses when the visuals appeared during the broadcast."These visuals," Kartik said before Rahane asked, "Is he crying?"Kartik agreed that the fast bowler looked upset and explained that players react differently when they are left out of the team.
+
+He felt Siraj was someone who always wanted to be on the field and give his best."I don't know, brother. He certainly looks quite emotional to me, because he is an emotional person," Kartik began."Obviously, it hurts. Look, we have always played alongside all kinds of players; some are okay with it; there are some people who are fine when you drop them.
+
+And then there are some people who just want to play; it doesn't matter to them if they have pain in their leg, pain in their head, pain in their body, or shivering, they'll give everything they've got. They put their life on the line. He seems like that kind of bowler," he said."Because look, I don't know, sometimes you hide inside the hurt you must be feeling," he said."Because he was benched in the ODIs as well, and even during the West Indies tour that happened in India, he was only given a chance in the final match when they didn't want to play anyone else.
+
+This hurts a player," Kartik added.Kartik also said Siraj's performances and numbers made his exclusion even more difficult to understand."With the numbers you've seen so far, I am surprised, for what reason? Either don't keep him in the team at all then!" he argued."If you feel his form isn't good, or he's not bowling well in the nets, or wherever, I don't know whatever the thinking might be, then don't take him on the tour at all.
+
+Don't take him; what's the point then?"Siraj is India's leading wicket-taker in the ongoing WTC cycle, with 43 wickets from 11 matches.India captain Shubman Gill won the toss and elected to bowl first on a green-looking pitch at Hagley Oval. The team made one change to its pace attack, leaving out Prasidh Krishna and handing a Test debut to 26-year-old Punjab pacer Gurnoor Brar.
+
+He received India's 321st Test cap.Get the latest Sports News and Live updates. Download the TOI app.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/is-he-crying-mohammed-sirajs-live-tv-visuals-spark-reaction-from-ajinkya-rahane-murali-kartik-watch/articleshow/136209441.cms)`,
+    title_en: `Is he crying?': Mohammed Siraj's live TV visuals spark reaction from Ajinkya Rahane, Murali Kartik - WAT`,
+    summary_en: `NEW DELHI: Mohammed Siraj appeared visibly emotional after being left out of India's playing XI for the second Test against New Zealand in Christchurch. The Indian fast bowler was spotted covering his eyes with sunglasses as cameras capture`,
+    content_en: `NEW DELHI: Mohammed Siraj appeared visibly emotional after being left out of India's playing XI for the second Test against New Zealand in Christchurch. The Indian fast bowler was spotted covering his eyes with sunglasses as cameras captured him on the opening morning at Hagley Oval.The visuals caught the attention of former India batter Ajinkya Rahane and ex-spinner Murali Kartik, who were on live commentary.
+
+Both spoke about Siraj's reaction, with Kartik suggesting that the decision to drop him would have hurt the pacer.Siraj's omission has also raised questions, especially considering his record in the ongoing World Test Championship (WTC) cycle.Rahane, Kartik react to Siraj's live TV visualsRahane was quick to notice Siraj covering his eyes with his sunglasses when the visuals appeared during the broadcast."These visuals," Kartik said before Rahane asked, "Is he crying?"Kartik agreed that the fast bowler looked upset and explained that players react differently when they are left out of the team.
+
+He felt Siraj was someone who always wanted to be on the field and give his best."I don't know, brother. He certainly looks quite emotional to me, because he is an emotional person," Kartik began."Obviously, it hurts. Look, we have always played alongside all kinds of players; some are okay with it; there are some people who are fine when you drop them.
+
+And then there are some people who just want to play; it doesn't matter to them if they have pain in their leg, pain in their head, pain in their body, or shivering, they'll give everything they've got. They put their life on the line. He seems like that kind of bowler," he said."Because look, I don't know, sometimes you hide inside the hurt you must be feeling," he said."Because he was benched in the ODIs as well, and even during the West Indies tour that happened in India, he was only given a chance in the final match when they didn't want to play anyone else.
+
+This hurts a player," Kartik added.Kartik also said Siraj's performances and numbers made his exclusion even more difficult to understand."With the numbers you've seen so far, I am surprised, for what reason? Either don't keep him in the team at all then!" he argued."If you feel his form isn't good, or he's not bowling well in the nets, or wherever, I don't know whatever the thinking might be, then don't take him on the tour at all.
+
+Don't take him; what's the point then?"Siraj is India's leading wicket-taker in the ongoing WTC cycle, with 43 wickets from 11 matches.India captain Shubman Gill won the toss and elected to bowl first on a green-looking pitch at Hagley Oval. The team made one change to its pace attack, leaving out Prasidh Krishna and handing a Test debut to 26-year-old Punjab pacer Gurnoor Brar.
+
+He received India's 321st Test cap.Get the latest Sports News and Live updates. Download the TOI app.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/is-he-crying-mohammed-sirajs-live-tv-visuals-spark-reaction-from-ajinkya-rahane-murali-kartik-watch/articleshow/136209441.cms)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Times of India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Is he crying?': Mohammed Siraj's live TV visuals spark reaction from Ajinkya Rahane, Murali Kartik - WAT.`,
+    primary_source: `The Times of India`,
+  },
+  {
+    id: 98110,
+    title: `An extraordinary night: Messi returns to Argentina for Carlos Tevez - Goal.com`,
+    slug: `an-extraordinary-night-messi-returns-to-argentina-for-carlos-tevez-goa-2026`,
+    original_title: `An extraordinary night: Messi returns to Argentina for Carlos Tevez - Goal.com`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:40Z`,
+    updated_at: `2026-11-27T15:26:40Z`,
+    source_name: `Goal.com`,
+    source_url: `https://www.goal.com/en/news/an-extraordinary-night-messi-returns-to-argentina-for-carlos-tevez/blt7b97bd4a29497bfd`,
+    source_courtesy: `Source: Goal.com`,
+    image_url: `/images/articles/an-extraordinary-night-messi-returns-to-argentina-for-carlos-tevez-goa-2026.webp`,
+    image_alt: `An extraordinary night: Messi returns to Argentina for Carlos Tevez - Goal.com`,
+    image_courtesy: `Image: Goal.com (External Source Attribution)`,
+    image_photographer: `Goal.com`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `Nobody expected to see them together on the pitch again, and nobody imagined the memories would come flooding back so quickly. But Argentine football is now gearing up for an extraordinary night, one that history will long remember, after i`,
+    content: `Nobody expected to see them together on the pitch again, and nobody imagined the memories would come flooding back so quickly. But Argentine football is now gearing up for an extraordinary night, one that history will long remember, after it was officially confirmed that the legendary Lionel Messi will take part in the testimonial of his former team-mate Carlos Tevez.
+
+Thursday's announcement sent fans in Argentina and beyond into a frenzy. That's no surprise, given Messi had called time on his international career earlier this year, bringing the curtain down on a long Argentina journey full of tears and joy that ended in glory.
+
+Despite that retirement, Messi has decided to return one more time, according to "The Touchline" . Not for a tournament or a trophy, but for an old friend and team-mate who shared the Argentina shirt with him through the hardest and finest moments. It's a return born of loyalty, for a farewell night worthy of a name as big as El Apache.
+
+Tevez's testimonial will take place on 20 December at "La Bombonera", home of Boca Juniors. The club made Tevez's name and served as his first gateway to stardom in Europe and around the world. There, in a stadium that knows all about passion and madness, El Apache will have his last dance.
+
+On Instagram, the match's official account, "adios apache", posted a picture of Messi in an Argentina shirt with an emotional message: "Messi and Tevez shared the Argentina shirt and played together on many occasions, such as the 2010 World Cup in South Africa and the 2011 Copa America."
+
+The account added: "They will be reunited on a historic night. It is truly a great honour to welcome the best player in the world to El Apache's last dance. Leo Messi, La Bombonera is waiting for you."
+
+It went on: "Messi needs no introduction. He is the captain who led Argentina to victory at the 2021 Copa America, then the 2022 World Cup in Qatar, then the 2024 Copa America. His career is one of a kind: eight Ballon d'Or awards, a legendary spell at Barcelona, a memorable stint at Paris Saint-Germain and his current chapter at Inter Miami. But above all, he represents a generation that waited a long time to see him crowned world champion."
+
+Tevez himself officially announced his retirement from football in 2022. His decorated career took him from Boca Juniors to Corinthians, West Ham, Manchester United, Manchester City, Juventus and Shanghai Shenhua, before he finally returned to where it all began.
+
+Messi won't be alone on the night. A host of Argentine and international stars will line up in the testimonial, led by Juan Roman Riquelme, Martin Palermo, Sergio Aguero and Gabriel Omar Batistuta, alongside legends Gianluigi Buffon, Patrice Evra and Rio Ferdinand.
+
+The account concluded: "This is not just a farewell match, but a night to honour an entire generation, and a night for old friends to meet one last time on the green grass. The whole Argentine nation is longing to be part of this night, which will never be repeated. Leo Messi, La Bombonera is waiting for you. And the whole world is waiting for you."
+
+Journalist | Passionate Football Writer
+
+Throughout my journey in journalism, which began in 2006 when I joined one of Saudi Arabia’s leading newspapers, I have worked at numerous media outlets.
+
+I have been part of the editorial teams at several prominent Arabic newspapers and digital platforms, producing hundreds of reports and in-depth investigative articles. These covered both major sporting events and the business side of sports.
+
+However, my true passion for football began much earlier — since the 1998 FIFA World Cup in France, which featured an extraordinary generation of football legends, led by the likes of France’s Zinedine Zidane and Brazil’s Roberto Carlos.
+
+Today, I specialize in creating sports content, including journalistic features, match analyses, and coverage of major sporting events and tournaments.
+
+My all-time favorite XI is as follows:
+
+Defense : Cafu – Franz Beckenbauer – Paolo Maldini – Marcelo.
+
+Midfield : Diego Maradona – Zinedine Zidane – Ronaldinho.
+
+Attack : Lionel Messi – Ronaldo Nazário – Cristiano Ronaldo.
+
+You can follow me on ( X ) via the following link:
+
+---
+
+**Original Source:** [Goal.com](https://www.goal.com/en/news/an-extraordinary-night-messi-returns-to-argentina-for-carlos-tevez/blt7b97bd4a29497bfd)`,
+    title_en: `An extraordinary night: Messi returns to Argentina for Carlos Tevez - Goal.com`,
+    summary_en: `Nobody expected to see them together on the pitch again, and nobody imagined the memories would come flooding back so quickly. But Argentine football is now gearing up for an extraordinary night, one that history will long remember, after i`,
+    content_en: `Nobody expected to see them together on the pitch again, and nobody imagined the memories would come flooding back so quickly. But Argentine football is now gearing up for an extraordinary night, one that history will long remember, after it was officially confirmed that the legendary Lionel Messi will take part in the testimonial of his former team-mate Carlos Tevez.
+
+Thursday's announcement sent fans in Argentina and beyond into a frenzy. That's no surprise, given Messi had called time on his international career earlier this year, bringing the curtain down on a long Argentina journey full of tears and joy that ended in glory.
+
+Despite that retirement, Messi has decided to return one more time, according to "The Touchline" . Not for a tournament or a trophy, but for an old friend and team-mate who shared the Argentina shirt with him through the hardest and finest moments. It's a return born of loyalty, for a farewell night worthy of a name as big as El Apache.
+
+Tevez's testimonial will take place on 20 December at "La Bombonera", home of Boca Juniors. The club made Tevez's name and served as his first gateway to stardom in Europe and around the world. There, in a stadium that knows all about passion and madness, El Apache will have his last dance.
+
+On Instagram, the match's official account, "adios apache", posted a picture of Messi in an Argentina shirt with an emotional message: "Messi and Tevez shared the Argentina shirt and played together on many occasions, such as the 2010 World Cup in South Africa and the 2011 Copa America."
+
+The account added: "They will be reunited on a historic night. It is truly a great honour to welcome the best player in the world to El Apache's last dance. Leo Messi, La Bombonera is waiting for you."
+
+It went on: "Messi needs no introduction. He is the captain who led Argentina to victory at the 2021 Copa America, then the 2022 World Cup in Qatar, then the 2024 Copa America. His career is one of a kind: eight Ballon d'Or awards, a legendary spell at Barcelona, a memorable stint at Paris Saint-Germain and his current chapter at Inter Miami. But above all, he represents a generation that waited a long time to see him crowned world champion."
+
+Tevez himself officially announced his retirement from football in 2022. His decorated career took him from Boca Juniors to Corinthians, West Ham, Manchester United, Manchester City, Juventus and Shanghai Shenhua, before he finally returned to where it all began.
+
+Messi won't be alone on the night. A host of Argentine and international stars will line up in the testimonial, led by Juan Roman Riquelme, Martin Palermo, Sergio Aguero and Gabriel Omar Batistuta, alongside legends Gianluigi Buffon, Patrice Evra and Rio Ferdinand.
+
+The account concluded: "This is not just a farewell match, but a night to honour an entire generation, and a night for old friends to meet one last time on the green grass. The whole Argentine nation is longing to be part of this night, which will never be repeated. Leo Messi, La Bombonera is waiting for you. And the whole world is waiting for you."
+
+Journalist | Passionate Football Writer
+
+Throughout my journey in journalism, which began in 2006 when I joined one of Saudi Arabia’s leading newspapers, I have worked at numerous media outlets.
+
+I have been part of the editorial teams at several prominent Arabic newspapers and digital platforms, producing hundreds of reports and in-depth investigative articles. These covered both major sporting events and the business side of sports.
+
+However, my true passion for football began much earlier — since the 1998 FIFA World Cup in France, which featured an extraordinary generation of football legends, led by the likes of France’s Zinedine Zidane and Brazil’s Roberto Carlos.
+
+Today, I specialize in creating sports content, including journalistic features, match analyses, and coverage of major sporting events and tournaments.
+
+My all-time favorite XI is as follows:
+
+Defense : Cafu – Franz Beckenbauer – Paolo Maldini – Marcelo.
+
+Midfield : Diego Maradona – Zinedine Zidane – Ronaldinho.
+
+Attack : Lionel Messi – Ronaldo Nazário – Cristiano Ronaldo.
+
+You can follow me on ( X ) via the following link:
+
+---
+
+**Original Source:** [Goal.com](https://www.goal.com/en/news/an-extraordinary-night-messi-returns-to-argentina-for-carlos-tevez/blt7b97bd4a29497bfd)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Goal.com.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for An extraordinary night: Messi returns to Argentina for Carlos Tevez - Goal.com.`,
+    primary_source: `Goal.com`,
+  },
+  {
+    id: 98111,
+    title: `मोहम्मद सिराज को फिर नहीं मिली प्लेइंग इलेवन में जगह, फ़ैसले पर उठे सवाल`,
+    slug: `sports-breaking-report-36175-98111-2026`,
+    original_title: `मोहम्मद सिराज को फिर नहीं मिली प्लेइंग इलेवन में जगह, फ़ैसले पर उठे सवाल`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:41Z`,
+    updated_at: `2026-11-27T15:26:41Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cm4gn09vll28o`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/sports-breaking-report-36175-98111-2026.jpg`,
+    image_alt: `मोहम्मद सिराज को फिर नहीं मिली प्लेइंग इलेवन में जगह, फ़ैसले पर उठे सवाल`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `पहले टेस्ट में टीम से बाहर रखे जाने पर सवाल उठे थे और दूसरे टेस्ट में उन्हें शामिल करने की मांग भी तेज़ हुई थी. इसके बावजूद मोहम्मद सिराज को न्यूज़ीलैंड के ख़िलाफ़ दूसरे टेस्ट के लिए भारत की प्लेइंग इलेवन में एक बार फिर जगह नहीं मिली.`,
+    content: `पहले टेस्ट में टीम से बाहर रखे जाने पर सवाल उठे थे और दूसरे टेस्ट में उन्हें शामिल करने की मांग भी तेज़ हुई थी. इसके बावजूद मोहम्मद सिराज को न्यूज़ीलैंड के ख़िलाफ़ दूसरे टेस्ट के लिए भारत की प्लेइंग इलेवन में एक बार फिर जगह नहीं मिली.
+
+सिराज को लगातार दूसरे टेस्ट में बाहर रखने का फ़ैसला ऐसे समय में आया है, जब सीरीज़ के पहले टेस्ट में भारतीय गेंदबाज़ न्यूज़ीलैंड को ऑलआउट करने में नाकाम रहे थे. मेहमान टीम ने भारतीय गेंदबाज़ी आक्रमण का डटकर सामना किया और मैच ड्रॉ कराने में कामयाब रही.
+
+इन हालात में सिराज को टीम में जगह नहीं मिलने के फ़ैसले पर सवाल उठ रहे हैं.
+
+पिछले साल ओवल में इंग्लैंड के ख़िलाफ़ खेले गए टेस्ट मैच में सिराज ने शानदार गेंदबाज़ी की थी और भारत को छह रन से अविश्वसनीय जीत दिलाई थी. उस मैच के बाद से उन्होंने सात टेस्ट मैचों में 21 विकेट लिए हैं.
+
+भारत-न्यूज़ीलैंड के बीच क्राइस्टचर्च में चल रहे दूसरे टेस्ट मैच का स्कोर जानने के लिए यहाँ क्लिक करें
+
+सिराज को सीरीज़ के पहले टेस्ट में भी टीम में जगह नहीं दी गई थी. तब भी टीम मैनेजमेंट के इस फ़ैसले की काफ़ी आलोचना हुई थी.
+
+भारत ने दूसरे टेस्ट के लिए अपनी टीम में सिर्फ़ एक बदलाव किया है. गेंदबाज़ प्रसिद्ध कृष्णा को बाहर रखा गया है और उनकी जगह गुरनूर बराड़ को टेस्ट क्रिकेट में डेब्यू का मौक़ा दिया गया है.
+
+फ़ैन्स को उम्मीद थी कि अगर किसी गेंदबाज़ को इस टेस्ट में बाहर रखा गया, तो सिराज को टीम में जगह मिलेगी. लेकिन ऐसा नहीं हुआ.
+
+### सिराज को बाहर रखने पर पूर्व क्रिकेटरों ने क्या कहा?
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+भारत के पूर्व क्रिकेटरों और क्रिकेट के जानकारों ने टीम मैनेजमेंट के इस फ़ैसले पर सवाल उठाए हैं.
+
+पूर्व भारतीय क्रिकेटर और अब कमेंटेटर मोहम्मद कैफ़ ने भी सिराज को टीम से बाहर रखने के फ़ैसले पर सवाल उठाए.
+
+उन्होंने सोशल मीडिया प्लेटफ़ॉर्म एक्स पर लिखा कि यह यक़ीन करना मुश्किल है कि भारत के प्रमुख तेज़ गेंदबाज़ों में से एक मोहम्मद सिराज को फिर से टीम से बाहर कर दिया गया है.
+
+कैफ़ ने लिखा , "विदेशी धरती पर होने वाले टेस्ट मैचों में भारत के गेंदबाज़ी आक्रमण में जसप्रीत बुमराह के साथ सिराज का नाम भी सबसे पहले लिया जाना चाहिए. दिलचस्प बात यह है कि गेंदबाज़ी कोच मोर्ने मोर्कल ने ख़ुद सिराज को विश्वस्तरीय गेंदबाज़ बताया था और कहा था कि वह अच्छी गेंदबाज़ी कर रहे हैं."
+
+मशहूर क्रिकेट कमेंटेटर हर्षा भोगले ने भी इस फ़ैसले पर निराशा जताई है. उन्होंने कहा कि सिराज अब भारत के छठे रैंकिंग वाले तेज़ गेंदबाज़ हैं और उन्हें टीम से बाहर रखना सही नहीं लगता.
+
+भोगले ने कहा, "वर्ल्ड टेस्ट चैंपियनशिप के मौजूदा चक्र में टेस्ट क्रिकेट में सबसे ज़्यादा विकेट लेने वाले शीर्ष पांच गेंदबाज़ों में से भारत के पास अब सिर्फ़ बुमराह को ही टीम में जगह देने का फ़ैसला किया गया है. उम्मीद है कि उन्हें गेंदबाज़ी के लिए शानदार हालात मिलेंगे. लेकिन वे यह भी जानते होंगे कि जब उनकी बारी आएगी, तो उन्हें लंबे समय तक ख़ुद को साबित करने का मौक़ा नहीं मिलेगा."
+
+पहले टेस्ट में सिराज को टीम में जगह नहीं दिए जाने पर भी भोगले ने सवाल उठाए थे.
+
+उस समय भोगले ने एक्स पर लिखा था, "यह देखकर हैरानी और निराशा हुई कि भारत ने सिराज को टीम से बाहर कर दिया है. उन्होंने टीम के लिए जो भी ज़िम्मेदारी दी गई, उसे बख़ूबी निभाया है. बुमराह की गैरमौजूदगी में गेंदबाज़ी आक्रमण को संभाला है और एक सकारात्मक सोच वाले बेहतरीन टीम प्लेयर रहे हैं. कंबोज को शुभकामनाएं देनी चाहिए, लेकिन उम्मीद है कि सिराज के साथ इस फ़ैसले को लेकर बेहद ईमानदारी से बातचीत की जाएगी."
+
+पूर्व भारतीय क्रिकेटर और कमेंटेटर सुनील गावस्कर ने भी पहले टेस्ट के लिए सिराज को टीम में शामिल नहीं किए जाने पर हैरानी जताई थी.
+
+सुनील गावस्कर ने सोनी स्पोर्ट्स पर एक चर्चा के दौरान कहा था, "जब वह टेस्ट टीम के साथ जल्दी नहीं जुड़े थे तभी इसके संकेत मिल गए थे. जब उन्होंने आखिरी वनडे खेला तो मुझे लगा था कि वे उन्हें टेस्ट में खिलाने जा रहे हैं. लेकिन यह एक हैरानी की बात है. मुझे नहीं लगता कि उन्होंने भारत को निराश किया है. उन्होंने भारत को कभी निराश नहीं किया."
+
+शुक्रवार को एक बार गावस्कर ने टीम सेलेक्शन पर हैरानगी जताई.
+
+लेकिन उन्होंने सिराज के साथ-साथ रविंद्र जडेजा को भी ना खिलाने पर सवाल उठाए.
+
+गावस्कर ने कहा कि सिराज और जडेजा, दोनों को टीम से बाहर रखना मुश्किल फैसला है. उन्होंने जडेजा को बाहर रखने के फैसले को एक चूक बताया, खासकर इसलिए क्योंकि मैच आगे बढ़ने के साथ पिच से स्पिन गेंदबाजों को मदद मिलने की उम्मीद है.
+
+गावस्कर ने खेल शुरू होने से पहले सोनी स्पोर्ट्स से कहा, "आप सिराज की बात कर रहे हैं. लेकिन जडेजा का क्या? वह 33 विकेट के साथ वहां तीसरे नंबर पर हैं. मेरा मानना है कि चौथे और पांचवें दिन उनकी स्पिन गेंदबाजी काफी उपयोगी साबित हो सकती थी, क्योंकि वह गेंद को अच्छी तरह टर्न कराते हैं. वह ऐसे गेंदबाज नहीं हैं जो गेंद को बहुत ऊपर उछालकर फेंकते हैं, लेकिन उन्हें गेंद को पिच पर पकड़ दिलाने और टर्न कराने के लिए जाना जाता है. यहां तक कि सपाट पिचों पर भी वह ऐसा कर सकते हैं."
+
+टीवी एंकर सुमंत रमन ने भी एक्स पर सिराज को टीम से बाहर रखने के फ़ैसले की आलोचना की.
+
+उन्होंने लिखा, "मोहम्मद सिराज के साथ यह नाइंसाफ़ी है. पहले टेस्ट की चौथी पारी में क़रीब दो दिनों तक न्यूज़ीलैंड को ऑलआउट नहीं कर पाने वाले उन्हीं तेज़ गेंदबाज़ों को एक बार फिर टीम में चुन लिया गया है और सिर्फ़ एक बदलाव किया गया है. यह हैरान करने वाली बात है."
+
+पूर्व भारतीय गेंदबाज़ मुनाफ़ पटेल ने भी इस विषय पर एक्स पर एक पोस्ट की है. उन्होंने लिखा, "अगर आप सिराज, शमी और जडेजा की तरफ़ नहीं देख रहे हैं तो फिर आप की टीम की बॉलिंग यूनिट में ऐसा कौन है जो इस मैच को जिता पाएगा?"
+
+बीबीसी के लिए कलेक्टिव न्यूज़रूम की ओर से प्रकाशित.
+
+BBC World Service के नए ऐप को डाउनलोड करें
+
+BBC News हिन्दी को चुनें और पाइए न्यूज़ अलर्ट, लाइव टीवी, पॉडकास्ट... सब एक जगह
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cm4gn09vll28o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `मोहम्मद सिराज को फिर नहीं मिली प्लेइंग इलेवन में जगह, फ़ैसले पर उठे सवाल`,
+    summary_hi: `पहले टेस्ट में टीम से बाहर रखे जाने पर सवाल उठे थे और दूसरे टेस्ट में उन्हें शामिल करने की मांग भी तेज़ हुई थी. इसके बावजूद मोहम्मद सिराज को न्यूज़ीलैंड के ख़िलाफ़ दूसरे टेस्ट के लिए भारत की प्लेइंग इलेवन में एक बार फिर जगह नहीं मिली.`,
+    content_hi: `पहले टेस्ट में टीम से बाहर रखे जाने पर सवाल उठे थे और दूसरे टेस्ट में उन्हें शामिल करने की मांग भी तेज़ हुई थी. इसके बावजूद मोहम्मद सिराज को न्यूज़ीलैंड के ख़िलाफ़ दूसरे टेस्ट के लिए भारत की प्लेइंग इलेवन में एक बार फिर जगह नहीं मिली.
+
+सिराज को लगातार दूसरे टेस्ट में बाहर रखने का फ़ैसला ऐसे समय में आया है, जब सीरीज़ के पहले टेस्ट में भारतीय गेंदबाज़ न्यूज़ीलैंड को ऑलआउट करने में नाकाम रहे थे. मेहमान टीम ने भारतीय गेंदबाज़ी आक्रमण का डटकर सामना किया और मैच ड्रॉ कराने में कामयाब रही.
+
+इन हालात में सिराज को टीम में जगह नहीं मिलने के फ़ैसले पर सवाल उठ रहे हैं.
+
+पिछले साल ओवल में इंग्लैंड के ख़िलाफ़ खेले गए टेस्ट मैच में सिराज ने शानदार गेंदबाज़ी की थी और भारत को छह रन से अविश्वसनीय जीत दिलाई थी. उस मैच के बाद से उन्होंने सात टेस्ट मैचों में 21 विकेट लिए हैं.
+
+भारत-न्यूज़ीलैंड के बीच क्राइस्टचर्च में चल रहे दूसरे टेस्ट मैच का स्कोर जानने के लिए यहाँ क्लिक करें
+
+सिराज को सीरीज़ के पहले टेस्ट में भी टीम में जगह नहीं दी गई थी. तब भी टीम मैनेजमेंट के इस फ़ैसले की काफ़ी आलोचना हुई थी.
+
+भारत ने दूसरे टेस्ट के लिए अपनी टीम में सिर्फ़ एक बदलाव किया है. गेंदबाज़ प्रसिद्ध कृष्णा को बाहर रखा गया है और उनकी जगह गुरनूर बराड़ को टेस्ट क्रिकेट में डेब्यू का मौक़ा दिया गया है.
+
+फ़ैन्स को उम्मीद थी कि अगर किसी गेंदबाज़ को इस टेस्ट में बाहर रखा गया, तो सिराज को टीम में जगह मिलेगी. लेकिन ऐसा नहीं हुआ.
+
+### सिराज को बाहर रखने पर पूर्व क्रिकेटरों ने क्या कहा?
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+भारत के पूर्व क्रिकेटरों और क्रिकेट के जानकारों ने टीम मैनेजमेंट के इस फ़ैसले पर सवाल उठाए हैं.
+
+पूर्व भारतीय क्रिकेटर और अब कमेंटेटर मोहम्मद कैफ़ ने भी सिराज को टीम से बाहर रखने के फ़ैसले पर सवाल उठाए.
+
+उन्होंने सोशल मीडिया प्लेटफ़ॉर्म एक्स पर लिखा कि यह यक़ीन करना मुश्किल है कि भारत के प्रमुख तेज़ गेंदबाज़ों में से एक मोहम्मद सिराज को फिर से टीम से बाहर कर दिया गया है.
+
+कैफ़ ने लिखा , "विदेशी धरती पर होने वाले टेस्ट मैचों में भारत के गेंदबाज़ी आक्रमण में जसप्रीत बुमराह के साथ सिराज का नाम भी सबसे पहले लिया जाना चाहिए. दिलचस्प बात यह है कि गेंदबाज़ी कोच मोर्ने मोर्कल ने ख़ुद सिराज को विश्वस्तरीय गेंदबाज़ बताया था और कहा था कि वह अच्छी गेंदबाज़ी कर रहे हैं."
+
+मशहूर क्रिकेट कमेंटेटर हर्षा भोगले ने भी इस फ़ैसले पर निराशा जताई है. उन्होंने कहा कि सिराज अब भारत के छठे रैंकिंग वाले तेज़ गेंदबाज़ हैं और उन्हें टीम से बाहर रखना सही नहीं लगता.
+
+भोगले ने कहा, "वर्ल्ड टेस्ट चैंपियनशिप के मौजूदा चक्र में टेस्ट क्रिकेट में सबसे ज़्यादा विकेट लेने वाले शीर्ष पांच गेंदबाज़ों में से भारत के पास अब सिर्फ़ बुमराह को ही टीम में जगह देने का फ़ैसला किया गया है. उम्मीद है कि उन्हें गेंदबाज़ी के लिए शानदार हालात मिलेंगे. लेकिन वे यह भी जानते होंगे कि जब उनकी बारी आएगी, तो उन्हें लंबे समय तक ख़ुद को साबित करने का मौक़ा नहीं मिलेगा."
+
+पहले टेस्ट में सिराज को टीम में जगह नहीं दिए जाने पर भी भोगले ने सवाल उठाए थे.
+
+उस समय भोगले ने एक्स पर लिखा था, "यह देखकर हैरानी और निराशा हुई कि भारत ने सिराज को टीम से बाहर कर दिया है. उन्होंने टीम के लिए जो भी ज़िम्मेदारी दी गई, उसे बख़ूबी निभाया है. बुमराह की गैरमौजूदगी में गेंदबाज़ी आक्रमण को संभाला है और एक सकारात्मक सोच वाले बेहतरीन टीम प्लेयर रहे हैं. कंबोज को शुभकामनाएं देनी चाहिए, लेकिन उम्मीद है कि सिराज के साथ इस फ़ैसले को लेकर बेहद ईमानदारी से बातचीत की जाएगी."
+
+पूर्व भारतीय क्रिकेटर और कमेंटेटर सुनील गावस्कर ने भी पहले टेस्ट के लिए सिराज को टीम में शामिल नहीं किए जाने पर हैरानी जताई थी.
+
+सुनील गावस्कर ने सोनी स्पोर्ट्स पर एक चर्चा के दौरान कहा था, "जब वह टेस्ट टीम के साथ जल्दी नहीं जुड़े थे तभी इसके संकेत मिल गए थे. जब उन्होंने आखिरी वनडे खेला तो मुझे लगा था कि वे उन्हें टेस्ट में खिलाने जा रहे हैं. लेकिन यह एक हैरानी की बात है. मुझे नहीं लगता कि उन्होंने भारत को निराश किया है. उन्होंने भारत को कभी निराश नहीं किया."
+
+शुक्रवार को एक बार गावस्कर ने टीम सेलेक्शन पर हैरानगी जताई.
+
+लेकिन उन्होंने सिराज के साथ-साथ रविंद्र जडेजा को भी ना खिलाने पर सवाल उठाए.
+
+गावस्कर ने कहा कि सिराज और जडेजा, दोनों को टीम से बाहर रखना मुश्किल फैसला है. उन्होंने जडेजा को बाहर रखने के फैसले को एक चूक बताया, खासकर इसलिए क्योंकि मैच आगे बढ़ने के साथ पिच से स्पिन गेंदबाजों को मदद मिलने की उम्मीद है.
+
+गावस्कर ने खेल शुरू होने से पहले सोनी स्पोर्ट्स से कहा, "आप सिराज की बात कर रहे हैं. लेकिन जडेजा का क्या? वह 33 विकेट के साथ वहां तीसरे नंबर पर हैं. मेरा मानना है कि चौथे और पांचवें दिन उनकी स्पिन गेंदबाजी काफी उपयोगी साबित हो सकती थी, क्योंकि वह गेंद को अच्छी तरह टर्न कराते हैं. वह ऐसे गेंदबाज नहीं हैं जो गेंद को बहुत ऊपर उछालकर फेंकते हैं, लेकिन उन्हें गेंद को पिच पर पकड़ दिलाने और टर्न कराने के लिए जाना जाता है. यहां तक कि सपाट पिचों पर भी वह ऐसा कर सकते हैं."
+
+टीवी एंकर सुमंत रमन ने भी एक्स पर सिराज को टीम से बाहर रखने के फ़ैसले की आलोचना की.
+
+उन्होंने लिखा, "मोहम्मद सिराज के साथ यह नाइंसाफ़ी है. पहले टेस्ट की चौथी पारी में क़रीब दो दिनों तक न्यूज़ीलैंड को ऑलआउट नहीं कर पाने वाले उन्हीं तेज़ गेंदबाज़ों को एक बार फिर टीम में चुन लिया गया है और सिर्फ़ एक बदलाव किया गया है. यह हैरान करने वाली बात है."
+
+पूर्व भारतीय गेंदबाज़ मुनाफ़ पटेल ने भी इस विषय पर एक्स पर एक पोस्ट की है. उन्होंने लिखा, "अगर आप सिराज, शमी और जडेजा की तरफ़ नहीं देख रहे हैं तो फिर आप की टीम की बॉलिंग यूनिट में ऐसा कौन है जो इस मैच को जिता पाएगा?"
+
+बीबीसी के लिए कलेक्टिव न्यूज़रूम की ओर से प्रकाशित.
+
+BBC World Service के नए ऐप को डाउनलोड करें
+
+BBC News हिन्दी को चुनें और पाइए न्यूज़ अलर्ट, लाइव टीवी, पॉडकास्ट... सब एक जगह
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cm4gn09vll28o)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक मोहम्मद सिराज को फिर नहीं मिली प्लेइंग इलेवन में जगह, फ़ैसले पर उठे सवाल से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 98112,
+    title: `वैभव सूर्यवंशी 500 बनाएगा..., केविन पीटरसन की बड़ी भविष्यवाणी - ABP News`,
+    slug: `500-abp-news-2026`,
+    original_title: `वैभव सूर्यवंशी 500 बनाएगा..., केविन पीटरसन की बड़ी भविष्यवाणी - ABP News`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:44Z`,
+    updated_at: `2026-11-27T15:26:44Z`,
+    source_name: `ABP News`,
+    source_url: `https://www.abplive.com/sports/cricket/kevin-pietersen-predicts-vaibhav-sooryavanshi-will-score-500-runs-in-test-3219794`,
+    source_courtesy: `Source: ABP News`,
+    image_url: `/images/articles/500-abp-news-2026.jpg`,
+    image_alt: `वैभव सूर्यवंशी 500 बनाएगा..., केविन पीटरसन की बड़ी भविष्यवाणी - ABP News`,
+    image_courtesy: `Image: ABP News (External Source Attribution)`,
+    image_photographer: `ABP News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `वैभव सूर्यवंशी इस समय क्रिकेट जगत में छाए हुए हैं. कुछ महीनों में वह जितने रिकॉर्ड बना चुके हैं, वो सुनने में नामुमकिन से लगते हैं. तभी तो पाकिस्तान के पूर्व क्रिकेटर ने उनकी उम्र पर बेवजह सवाल उठाते हुए कहा कि 15 साल का बच्चा 28 छक्के ऐसे `,
+    content: `वैभव सूर्यवंशी इस समय क्रिकेट जगत में छाए हुए हैं. कुछ महीनों में वह जितने रिकॉर्ड बना चुके हैं, वो सुनने में नामुमकिन से लगते हैं. तभी तो पाकिस्तान के पूर्व क्रिकेटर ने उनकी उम्र पर बेवजह सवाल उठाते हुए कहा कि 15 साल का बच्चा 28 छक्के ऐसे नहीं मार सकता. क्रिस गेल भी उनकी बल्लेबाजी करते हुए &nbsp;निडरता को देखकर हैरान होते हैं.
+
+इस बीच इंग्लैंड के पूर्व कप्तान केविन पीटरसन ने भारतीय युवा खिलाड़ी को लेकर एक बड़ी भविष्यवाणी की है. केविन पीटरसन का मानना है कि वैभव सूर्यवंशी टेस्ट क्रिकेट की एक पारी में 500 रन बनाएंगे. बता दें कि अभी टेस्ट में सिर्फ एक बल्लेबाज है, जो एक पारी में 400 रन बना पाया है. वो रिकॉर्ड ब्रायन लारा का है, जिन्होंने साल 2004 में इंग्लैंड के खिलाफ नाबाद 400 रन बनाए थे.
+
+पीटरसन ने अपने एक्स अकाउंट पर एक पोस्ट करते हुए लिखा, "अगले 5 सालों के अंदर वैभव एक टेस्ट मैच में 500 रन बनाएंगे." वैभव ने एशिया कप राइजिंग स्टार्स में यूएई के खिलाफ 53 गेंदों में 204 रन बनाए थे. इस पारी में उन्होंने शतक 28 गेंदों में पूरा किया था. पारी में उन्होंने 28 छक्के लगाए.
+
+इस मैच के बाद उन्होंने बताया था कि पूर्व क्रिकेटर युवराज की टिप्स उनके काम आई. Here&rsquo;s a shout &mdash; Vaibhav will score a 500 in a Test Match within the next 5yrs! &mdash; Kevin Pietersen🦏 (@KP24) November 26, 2026
+
+
+
+बीसीसीआई ने वैभव सूर्यवंशी के इंटरव्यू का वीडियो शेयर किया था, जिसमें उन्होंने बताया था कि जब वह पिछली कुछ पारियों में बड़ा स्कोर नहीं कर पा रहे थे तो मायूस थे.
+
+उन्होंने पाकिस्तान के खिलाफ फ्लॉप होने के बाद युवराज सिंह से करीब आधे घंटे फोन पर बात की थी. युवी ने वैभव को उन गलतियों के बारे में बताया था जो वह कर रहे थे. वैभव ने भी इसे माना फिर उस पर काम किया. यह भी पढ़ें- वैभव सूर्यवंशी कहां से लाते हैं 28 छक्के लगाने का कलेजा? बचपन के कोच मनीष ओझा ने खोले कई राज
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/sports/cricket/kevin-pietersen-predicts-vaibhav-sooryavanshi-will-score-500-runs-in-test-3219794)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `वैभव सूर्यवंशी 500 बनाएगा..., केविन पीटरसन की बड़ी भविष्यवाणी - ABP News`,
+    summary_hi: `वैभव सूर्यवंशी इस समय क्रिकेट जगत में छाए हुए हैं. कुछ महीनों में वह जितने रिकॉर्ड बना चुके हैं, वो सुनने में नामुमकिन से लगते हैं. तभी तो पाकिस्तान के पूर्व क्रिकेटर ने उनकी उम्र पर बेवजह सवाल उठाते हुए कहा कि 15 साल का बच्चा 28 छक्के ऐसे `,
+    content_hi: `वैभव सूर्यवंशी इस समय क्रिकेट जगत में छाए हुए हैं. कुछ महीनों में वह जितने रिकॉर्ड बना चुके हैं, वो सुनने में नामुमकिन से लगते हैं. तभी तो पाकिस्तान के पूर्व क्रिकेटर ने उनकी उम्र पर बेवजह सवाल उठाते हुए कहा कि 15 साल का बच्चा 28 छक्के ऐसे नहीं मार सकता. क्रिस गेल भी उनकी बल्लेबाजी करते हुए &nbsp;निडरता को देखकर हैरान होते हैं.
+
+इस बीच इंग्लैंड के पूर्व कप्तान केविन पीटरसन ने भारतीय युवा खिलाड़ी को लेकर एक बड़ी भविष्यवाणी की है. केविन पीटरसन का मानना है कि वैभव सूर्यवंशी टेस्ट क्रिकेट की एक पारी में 500 रन बनाएंगे. बता दें कि अभी टेस्ट में सिर्फ एक बल्लेबाज है, जो एक पारी में 400 रन बना पाया है. वो रिकॉर्ड ब्रायन लारा का है, जिन्होंने साल 2004 में इंग्लैंड के खिलाफ नाबाद 400 रन बनाए थे.
+
+पीटरसन ने अपने एक्स अकाउंट पर एक पोस्ट करते हुए लिखा, "अगले 5 सालों के अंदर वैभव एक टेस्ट मैच में 500 रन बनाएंगे." वैभव ने एशिया कप राइजिंग स्टार्स में यूएई के खिलाफ 53 गेंदों में 204 रन बनाए थे. इस पारी में उन्होंने शतक 28 गेंदों में पूरा किया था. पारी में उन्होंने 28 छक्के लगाए.
+
+इस मैच के बाद उन्होंने बताया था कि पूर्व क्रिकेटर युवराज की टिप्स उनके काम आई. Here&rsquo;s a shout &mdash; Vaibhav will score a 500 in a Test Match within the next 5yrs! &mdash; Kevin Pietersen🦏 (@KP24) November 26, 2026
+
+
+
+बीसीसीआई ने वैभव सूर्यवंशी के इंटरव्यू का वीडियो शेयर किया था, जिसमें उन्होंने बताया था कि जब वह पिछली कुछ पारियों में बड़ा स्कोर नहीं कर पा रहे थे तो मायूस थे.
+
+उन्होंने पाकिस्तान के खिलाफ फ्लॉप होने के बाद युवराज सिंह से करीब आधे घंटे फोन पर बात की थी. युवी ने वैभव को उन गलतियों के बारे में बताया था जो वह कर रहे थे. वैभव ने भी इसे माना फिर उस पर काम किया. यह भी पढ़ें- वैभव सूर्यवंशी कहां से लाते हैं 28 छक्के लगाने का कलेजा? बचपन के कोच मनीष ओझा ने खोले कई राज
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/sports/cricket/kevin-pietersen-predicts-vaibhav-sooryavanshi-will-score-500-runs-in-test-3219794)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट ABP News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक वैभव सूर्यवंशी 500 बनाएगा..., केविन पीटरसन की बड़ी भविष्यवाणी - ABP News से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `ABP News`,
+  },
+  {
+    id: 98113,
+    title: `Samay Raina makes global YouTube history with 1 million paying subscribers - India Today`,
+    slug: `samay-raina-makes-global-youtube-history-with-1-million-paying-subscri-2026`,
+    original_title: `Samay Raina makes global YouTube history with 1 million paying subscribers - India Today`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:46Z`,
+    updated_at: `2026-11-27T15:26:46Z`,
+    source_name: `India Today`,
+    source_url: `https://www.indiatoday.in/entertainment/ott/story/samay-raina-sets-global-youtube-record-becomes-first-creator-with-1-million-members-3047947-2026-11-27`,
+    source_courtesy: `Source: India Today`,
+    image_url: `/images/articles/samay-raina-makes-global-youtube-history-with-1-million-paying-subscri-2026.webp`,
+    image_alt: `Samay Raina makes global YouTube history with 1 million paying subscribers - India Today`,
+    image_courtesy: `Image: India Today (External Source Attribution)`,
+    image_photographer: `India Today`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Samay Raina has hit a YouTube milestone no creator anywhere in the world has managed so far. The comedian has become the first YouTuber globally to cross one million channel members, a feat confirmed by YouTube. The achievement comes after `,
+    content: `Samay Raina has hit a YouTube milestone no creator anywhere in the world has managed so far. The comedian has become the first YouTuber globally to cross one million channel members, a feat confirmed by YouTube. The achievement comes after a difficult couple of years for Raina, whose career took an unexpected turn following the controversy around India’s Got Latent in 2025.YouTube announced the milestone in a post on the Google India blog, highlighting how Raina has built a community around his content.
+
+From his chess-related videos and banter with Grandmasters to turning India’s Got Latent into a popular online show, the platform credited him with making his channel a space where fans actively engage with his work.&quot;From host-level banter with Grandmasters to creating the phenomenon that is India’s Got Latent, Samay turned his YouTube channel into the ultimate virtual hangout for millions,&quot; the statement read.The milestone also points to a growing trend among Indian audiences, who are increasingly willing to pay for exclusive access to their favourite creators.
+
+According to YouTube, more than 1.2 million fans in India bought at least one channel membership in June 2026 alone. Membership revenue for Indian creators also grew by over 25 per cent year-on-year during the same period.Raina&#039;s YouTube channel currently offers three paid membership tiers for fans who want to support his content.
+
+These include &#039;Samay Ke Dost&#039; at Rs 59 per month, &#039;Samay Ke Khaas&#039; at Rs 599 per month and &#039;Silent Supporter&#039; at Rs 1,999 per month. The one million-member milestone reflects the scale of support he&#039;s managed to build among his audience. From controversy to comebackFor Raina, the achievement carries added significance given what his channel went through after the India’s Got Latent controversy.
+
+The row erupted in February 2025 after YouTuber and podcaster Ranveer Allahbadia made a joke during an episode that triggered widespread backlash. The controversy soon escalated, with several FIRs filed against Allahbadia, Raina and other guests who appeared on the show. The panellists later apologised.Raina subsequently took down all episodes of India’s Got Latent from his YouTube channel.
+
+But he didn&#039;t stay away for long. He returned with his stand-up special Still Alive, which became an important part of his comeback, before bringing back the controversial show for a second season in 2026, this time in partnership with Netflix.The return wasn&#039;t something he had been certain about either.
+
+During the second season&#039;s finale, Raina spoke about how difficult the period had been for him, revealing that he had even turned to ChatGPT for reassurance about whether the show would ever return.&quot;I was depressed when we were in Canada. I used to ask ChatGPT, ‘When do you think Samay Raina will ever be able to bring his show back?’ ChatGPT would reply, ‘It’s unclear right now’.
+
+Then I used to write, ‘Please say yes.’ I had no idea that the show would come back in this manner,&quot; he said.Raina currently has more than 12.4 million subscribers on YouTube. With one million channel members now backing him, the comedian has reached a new milestone for India&#039;s creator economy, turning a turbulent chapter in his career into quite a comeback story.- EndsALSO READ |  Comedian Samay Raina confirms Koffee debut, Karan Johar spills co-guest detailsMust Watch
+
+---
+
+**Original Source:** [India Today](https://www.indiatoday.in/entertainment/ott/story/samay-raina-sets-global-youtube-record-becomes-first-creator-with-1-million-members-3047947-2026-11-27)`,
+    title_en: `Samay Raina makes global YouTube history with 1 million paying subscribers - India Today`,
+    summary_en: `Samay Raina has hit a YouTube milestone no creator anywhere in the world has managed so far. The comedian has become the first YouTuber globally to cross one million channel members, a feat confirmed by YouTube. The achievement comes after `,
+    content_en: `Samay Raina has hit a YouTube milestone no creator anywhere in the world has managed so far. The comedian has become the first YouTuber globally to cross one million channel members, a feat confirmed by YouTube. The achievement comes after a difficult couple of years for Raina, whose career took an unexpected turn following the controversy around India’s Got Latent in 2025.YouTube announced the milestone in a post on the Google India blog, highlighting how Raina has built a community around his content.
+
+From his chess-related videos and banter with Grandmasters to turning India’s Got Latent into a popular online show, the platform credited him with making his channel a space where fans actively engage with his work.&quot;From host-level banter with Grandmasters to creating the phenomenon that is India’s Got Latent, Samay turned his YouTube channel into the ultimate virtual hangout for millions,&quot; the statement read.The milestone also points to a growing trend among Indian audiences, who are increasingly willing to pay for exclusive access to their favourite creators.
+
+According to YouTube, more than 1.2 million fans in India bought at least one channel membership in June 2026 alone. Membership revenue for Indian creators also grew by over 25 per cent year-on-year during the same period.Raina&#039;s YouTube channel currently offers three paid membership tiers for fans who want to support his content.
+
+These include &#039;Samay Ke Dost&#039; at Rs 59 per month, &#039;Samay Ke Khaas&#039; at Rs 599 per month and &#039;Silent Supporter&#039; at Rs 1,999 per month. The one million-member milestone reflects the scale of support he&#039;s managed to build among his audience. From controversy to comebackFor Raina, the achievement carries added significance given what his channel went through after the India’s Got Latent controversy.
+
+The row erupted in February 2025 after YouTuber and podcaster Ranveer Allahbadia made a joke during an episode that triggered widespread backlash. The controversy soon escalated, with several FIRs filed against Allahbadia, Raina and other guests who appeared on the show. The panellists later apologised.Raina subsequently took down all episodes of India’s Got Latent from his YouTube channel.
+
+But he didn&#039;t stay away for long. He returned with his stand-up special Still Alive, which became an important part of his comeback, before bringing back the controversial show for a second season in 2026, this time in partnership with Netflix.The return wasn&#039;t something he had been certain about either.
+
+During the second season&#039;s finale, Raina spoke about how difficult the period had been for him, revealing that he had even turned to ChatGPT for reassurance about whether the show would ever return.&quot;I was depressed when we were in Canada. I used to ask ChatGPT, ‘When do you think Samay Raina will ever be able to bring his show back?’ ChatGPT would reply, ‘It’s unclear right now’.
+
+Then I used to write, ‘Please say yes.’ I had no idea that the show would come back in this manner,&quot; he said.Raina currently has more than 12.4 million subscribers on YouTube. With one million channel members now backing him, the comedian has reached a new milestone for India&#039;s creator economy, turning a turbulent chapter in his career into quite a comeback story.- EndsALSO READ |  Comedian Samay Raina confirms Koffee debut, Karan Johar spills co-guest detailsMust Watch
+
+---
+
+**Original Source:** [India Today](https://www.indiatoday.in/entertainment/ott/story/samay-raina-sets-global-youtube-record-becomes-first-creator-with-1-million-members-3047947-2026-11-27)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to India Today.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Samay Raina makes global YouTube history with 1 million paying subscribers - India Today.`,
+    primary_source: `India Today`,
+  },
+  {
+    id: 98114,
+    title: `OTT Guide: Drishyam: The Conclusion, Hanuman Ansh, Spiderman Brand New Day, Supergirl`,
+    slug: `ott-guide-drishyam-the-conclusion-hanuman-ansh-spiderman-brand-new-day-2026`,
+    original_title: `OTT Guide: Drishyam: The Conclusion, Hanuman Ansh, Spiderman Brand New Day, Supergirl`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:50Z`,
+    updated_at: `2026-11-27T15:26:50Z`,
+    source_name: `Rediff.com`,
+    source_url: `https://www.rediff.com/movies/report/ott-guide-hanuman-ansh-drishyam-the-conclusion-spiderman-supergirl/20261127.htm`,
+    source_courtesy: `Source: Rediff.com`,
+    image_url: `/images/articles/ott-guide-drishyam-the-conclusion-hanuman-ansh-spiderman-brand-new-day-2026.webp`,
+    image_alt: `OTT Guide: Drishyam: The Conclusion, Hanuman Ansh, Spiderman Brand New Day, Supergirl`,
+    image_courtesy: `Image: Rediff.com (External Source Attribution)`,
+    image_photographer: `Rediff.com`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `The latest movies and series hitting OTT platforms this week.Key PointsAjay Devgns Drishyam: The Conclusion is now streaming on Netflix.Marvels Spiderman Brand New Day and DCs Supergirl are available for superhero fans on Netflix and Jio Ho`,
+    content: `The latest movies and series hitting OTT platforms this week.Key PointsAjay Devgns Drishyam: The Conclusion is now streaming on Netflix.Marvels Spiderman Brand New Day and DCs Supergirl are available for superhero fans on Netflix and Jio Hotstar respectively.New series like Blade Runner 2099 (Amazon Prime Video) and Dig (Jio Hotstar) offer sci-fi and comedy genres.Indian language releases include Hanuman Ansh (SonyLIV), Delhi 2021 (Z5), Dhai Chaal (Jio Hotstar), Octopus (Z5), Aadarsha Kutumbam - House No: 47 (Netflix), and Sathyameva (Z5).Ajay Devgns furious foresight, Bollywoods unexpected superhit of the year, superheroes of Marvel and DC worlds and lots more to binge on OTT this week.&nbsp;Hindi and Regional Language HighlightsDrishyam: The ConclusionWhere to watch?
+
+NetflixLanguage: HindiExpert at handling scrutiny by now, Ajay Devgns family man uses his sharp acumen to trick shrewd cops for the third and final part of Drishyam, which follows its own course and doesnt take inspiration from its erstwhile Malayalam source starring Mohanlal.&nbsp;Hanuman AnshWhere to watch?
+
+SonyLIVLanguage: HindiDirector Vishal Chaturvedis surprise hit tells the story of Neem Karoli Baba as a young boy whose pursuit of god leads to his spiritual transformation.&nbsp;Delhi 2021Where to watch? Z5Language: HindiThe likes of Richa Chaddha and Sonali Kulkarni headline this pandemic drama and the pandemonium that erupted in peoples lives during the coronavirus era.&nbsp;Dhai ChaalWhere to watch?
+
+Jio HotstarLanguage: HindiA young man navigates the topsy-turvy world of student politics in Dhai Chaals drama series.&nbsp;OctopusWhere to watch? Z5Language: TamilA newly wed womans mysterious disappearance prompts investigation and suspicion in the seven-part suspenseful series.&nbsp;Aadarsha Kutumbam - House No: 47Where to watch?
+
+NetflixLanguage: TeluguVenkatesh leads the plot of a struggling family mans lottery win attracting unwanted attention from both gangsters and police.&nbsp;SathyamevaWhere to watch? Z5Language: MalayalamSix episodes of courtroom drama involving a lawyer determined to clear his conscience by helping out a dying man and his wish to find his daughter who has been missing for twenty years.English Language and International ReleasesWay of the Warrior KidWhere to watch?
+
+Apple TV+Language: EnglishA teenagers struggles with bullies and school prompt his Navy SEAL uncle to teach him the ropes of survival and strength in this adaptation based on Jocko Willinks book of the same name.&nbsp;Spiderman Brand New DayWhere to watch? NetflixLanguage: EnglishPeter Parker faces challenges on the personal front as well as a superhero in Tom Hollands seventh time wearing the Spideys suit for the well-received MCU vehicle.&nbsp;SupergirlWhere to watch?
+
+Jio HotstarLanguage: EnglishSupermans cousin Kara fights her inner demons as well as interplanetary in DC superhero universe while on a mission to find an antidote for her poisoned dog Krypto.&nbsp;The Mosquito BowlWhere to watch? NetflixLanguage: EnglishBased on a true story, The Mosquito Bowl alludes to the football game played between two marine regiments following the Pearl Harbour attack against the backdrop of World War II.&nbsp;Blade Runner 2099Where to watch?
+
+Amazon Prime VideoLanguage: EnglishAn eight-episode series designed as a sequel to Blade Runner and Blade Runner 2049 wherein a humanoid at the end of her game and a masquerading replicant team up to dig deep into a futuristic Los Angeles conspiracy.&nbsp;DigWhere to watch? Jio HotstarLanguage: EnglishFor archaeologists at an an excavation site in Greece make discoveries and decisions ensuing in much chaos and conspiracy as part of the ten-part comedy series led by Amy Poehler and Hugh Laurie.&nbsp;Clashing Through the SnowWhere to watch?
+
+Amazon Prime VideoLanguage: EnglishCutthroat rivalry between co-workers takes the face of romance as they rush to outdo each other for professional reasons while forced to share a rental car after a snowstorm grounds all flights.Photographs curated by Manisha Kotian/Rediff&nbsp;
+
+---
+
+**Original Source:** [Rediff.com](https://www.rediff.com/movies/report/ott-guide-hanuman-ansh-drishyam-the-conclusion-spiderman-supergirl/20261127.htm)`,
+    title_en: `OTT Guide: Drishyam: The Conclusion, Hanuman Ansh, Spiderman Brand New Day, Supergirl`,
+    summary_en: `The latest movies and series hitting OTT platforms this week.Key PointsAjay Devgns Drishyam: The Conclusion is now streaming on Netflix.Marvels Spiderman Brand New Day and DCs Supergirl are available for superhero fans on Netflix and Jio Ho`,
+    content_en: `The latest movies and series hitting OTT platforms this week.Key PointsAjay Devgns Drishyam: The Conclusion is now streaming on Netflix.Marvels Spiderman Brand New Day and DCs Supergirl are available for superhero fans on Netflix and Jio Hotstar respectively.New series like Blade Runner 2099 (Amazon Prime Video) and Dig (Jio Hotstar) offer sci-fi and comedy genres.Indian language releases include Hanuman Ansh (SonyLIV), Delhi 2021 (Z5), Dhai Chaal (Jio Hotstar), Octopus (Z5), Aadarsha Kutumbam - House No: 47 (Netflix), and Sathyameva (Z5).Ajay Devgns furious foresight, Bollywoods unexpected superhit of the year, superheroes of Marvel and DC worlds and lots more to binge on OTT this week.&nbsp;Hindi and Regional Language HighlightsDrishyam: The ConclusionWhere to watch?
+
+NetflixLanguage: HindiExpert at handling scrutiny by now, Ajay Devgns family man uses his sharp acumen to trick shrewd cops for the third and final part of Drishyam, which follows its own course and doesnt take inspiration from its erstwhile Malayalam source starring Mohanlal.&nbsp;Hanuman AnshWhere to watch?
+
+SonyLIVLanguage: HindiDirector Vishal Chaturvedis surprise hit tells the story of Neem Karoli Baba as a young boy whose pursuit of god leads to his spiritual transformation.&nbsp;Delhi 2021Where to watch? Z5Language: HindiThe likes of Richa Chaddha and Sonali Kulkarni headline this pandemic drama and the pandemonium that erupted in peoples lives during the coronavirus era.&nbsp;Dhai ChaalWhere to watch?
+
+Jio HotstarLanguage: HindiA young man navigates the topsy-turvy world of student politics in Dhai Chaals drama series.&nbsp;OctopusWhere to watch? Z5Language: TamilA newly wed womans mysterious disappearance prompts investigation and suspicion in the seven-part suspenseful series.&nbsp;Aadarsha Kutumbam - House No: 47Where to watch?
+
+NetflixLanguage: TeluguVenkatesh leads the plot of a struggling family mans lottery win attracting unwanted attention from both gangsters and police.&nbsp;SathyamevaWhere to watch? Z5Language: MalayalamSix episodes of courtroom drama involving a lawyer determined to clear his conscience by helping out a dying man and his wish to find his daughter who has been missing for twenty years.English Language and International ReleasesWay of the Warrior KidWhere to watch?
+
+Apple TV+Language: EnglishA teenagers struggles with bullies and school prompt his Navy SEAL uncle to teach him the ropes of survival and strength in this adaptation based on Jocko Willinks book of the same name.&nbsp;Spiderman Brand New DayWhere to watch? NetflixLanguage: EnglishPeter Parker faces challenges on the personal front as well as a superhero in Tom Hollands seventh time wearing the Spideys suit for the well-received MCU vehicle.&nbsp;SupergirlWhere to watch?
+
+Jio HotstarLanguage: EnglishSupermans cousin Kara fights her inner demons as well as interplanetary in DC superhero universe while on a mission to find an antidote for her poisoned dog Krypto.&nbsp;The Mosquito BowlWhere to watch? NetflixLanguage: EnglishBased on a true story, The Mosquito Bowl alludes to the football game played between two marine regiments following the Pearl Harbour attack against the backdrop of World War II.&nbsp;Blade Runner 2099Where to watch?
+
+Amazon Prime VideoLanguage: EnglishAn eight-episode series designed as a sequel to Blade Runner and Blade Runner 2049 wherein a humanoid at the end of her game and a masquerading replicant team up to dig deep into a futuristic Los Angeles conspiracy.&nbsp;DigWhere to watch? Jio HotstarLanguage: EnglishFor archaeologists at an an excavation site in Greece make discoveries and decisions ensuing in much chaos and conspiracy as part of the ten-part comedy series led by Amy Poehler and Hugh Laurie.&nbsp;Clashing Through the SnowWhere to watch?
+
+Amazon Prime VideoLanguage: EnglishCutthroat rivalry between co-workers takes the face of romance as they rush to outdo each other for professional reasons while forced to share a rental car after a snowstorm grounds all flights.Photographs curated by Manisha Kotian/Rediff&nbsp;
+
+---
+
+**Original Source:** [Rediff.com](https://www.rediff.com/movies/report/ott-guide-hanuman-ansh-drishyam-the-conclusion-spiderman-supergirl/20261127.htm)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Rediff.com.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for OTT Guide: Drishyam: The Conclusion, Hanuman Ansh, Spiderman Brand New Day, Supergirl.`,
+    primary_source: `Rediff.com`,
+  },
+  {
+    id: 98115,
+    title: `दिलजीत दोसांझ के कॉन्सर्ट पर MNS का हल्लाबोल, ड्रग्स के आरोपों से मचा बवाल; दी रास्ता रोकने की धमकी! - AajTak`,
+    slug: `mns-aajtak-2026`,
+    original_title: `दिलजीत दोसांझ के कॉन्सर्ट पर MNS का हल्लाबोल, ड्रग्स के आरोपों से मचा बवाल; दी रास्ता रोकने की धमकी! - AajTak`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:54Z`,
+    updated_at: `2026-11-27T15:26:54Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/entertainment/bollywood-news/story/mns-protest-against-diljit-dosanjh-concert-drug-controversy-tmova-rpti-2707250-2026-11-27`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b08fd107a420-diljit-dosanjh-274623252.jpg`,
+    image_alt: `दिलजीत दोसांझ के कॉन्सर्ट पर MNS का हल्लाबोल, ड्रग्स के आरोपों से मचा बवाल; दी रास्ता रोकने की धमकी! - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `मुंबई में पंजाबी सिंगर दिलजीत दोसांझ के कॉन्सर्ट को लेकर नया विवाद खड़ा हो गया है. एक तरफ दिलजीत के गानों पर झूमने के लिए फैंस बेताब हैं, तो दूसरी तरफ महाराष्ट्र नवनिर्माण सेना (MNS) ने इस कार्यक्रम के खिलाफ मोर्चा खोल दिया है. मामला सिर्फ `,
+    content: `मुंबई में पंजाबी सिंगर दिलजीत दोसांझ के कॉन्सर्ट को लेकर नया विवाद खड़ा हो गया है. एक तरफ दिलजीत के गानों पर झूमने के लिए फैंस बेताब हैं, तो दूसरी तरफ महाराष्ट्र नवनिर्माण सेना (MNS) ने इस कार्यक्रम के खिलाफ मोर्चा खोल दिया है. मामला सिर्फ विरोध तक सीमित नहीं है, बल्कि मनसे ने सीधे पुलिस प्रशासन से कॉन्सर्ट रद्द करने की मांग कर दी है.
+
+इतना ही नहीं, चेतावनी भी दे दी है कि अगर उनकी मांग नहीं मानी गई तो स्थानीय लोगों के साथ मिलकर &#039;रास्ता रोको आंदोलन&#039; किया जाएगा. और पढ़ेंदरअसल, मुंबई के महालक्ष्मी रेसकोर्स में आयोजित होने वाले इस कॉन्सर्ट को लेकर मनसे ने ताडदेव पुलिस स्टेशन में लिखित शिकायत दी है. मनसे का दावा है कि ऐसे बड़े म्यूजिकल कॉन्सर्ट के दौरान ड्रग्स सेवन जैसी गतिविधियों की आशंका रहती है.
+
+पार्टी ने अपने पत्र में महालक्ष्मी रेसकोर्स और NSCI डोम में होने वाले कॉन्सर्ट पर सवाल उठाते हुए पुलिस से ऐसे कार्यक्रमों को अनुमति नहीं देने की मांग की है.55 लोगों की जांच में 12 के ड्रग्स सेवन की रिपोर्ट पॉजिटिवमनसे ने अपने विरोध के समर्थन में पिछले कार्यक्रम का हवाला भी दिया है.
+
+पार्टी के मुताबिक, 22 नवंबर को महालक्ष्मी रेसकोर्स में आयोजित एक लाइव कॉन्सर्ट के दौरान एंटी-नारकोटिक्स सेल ने 55 लोगों की जांच की थी, जिनमें से 12 लोगों की ड्रग्स सेवन की जांच पॉजिटिव पाई गई थी. मनसे का कहना है कि इस घटना की खबरें सोशल मीडिया पर भी सामने आई थीं. Advertisement        इतना ही नहीं, पत्र में मनसे ने पिछले साल इसी जगह एक युवक की ड्रग्स सेवन के कारण मौत होने की घटना का भी जिक्र किया है.
+
+पार्टी का कहना है कि ऐसी घटनाओं को हल्के में नहीं लिया जा सकता और समय रहते सख्त कदम उठाना जरूरी है. कॉन्सर्ट में ड्रग्स का डर, पुलिस की सुरक्षा पर भी उठाए सवालमनसे ने आशंका जताई है कि दिलजीत दोसांझ के कॉन्सर्ट के दौरान भी कोई अप्रिय घटना हो सकती है. पार्टी का सवाल है कि जब ऐसे कार्यक्रमों में नशे से जुड़ी घटनाओं की शिकायतें सामने आ चुकी हैं, तो फिर कॉन्सर्ट रद्द करने के बजाय पुलिस प्रशासन उसे सुरक्षा क्यों मुहैया करा रहा है?मनसे के मुताबिक, इन बड़े आयोजनों की वजह से आसपास के इलाकों में रहने वाले लोगों को भी भारी परेशानी होती है.
+
+कार्यक्रम खत्म होने के बाद युवाओं की भीड़, ट्रैफिक जाम और स्थानीय लोगों को होने वाली असुविधा को लेकर पहले भी शिकायतें की जा चुकी हैं.मांग नहीं मानी तो सड़क पर उतरेगी मनसेअब मनसे ने पुलिस प्रशासन को साफ शब्दों में चेतावनी दे दी है. पार्टी ने कहा है कि उसकी शिकायत को गंभीरता से लिया जाए और महालक्ष्मी रेसकोर्स और NSCI डोम में होने वाले म्यूजिकल कॉन्सर्ट को अनुमति न दी जाए.
+
+Advertisement        मनसे ने अपने पत्र में साफ कहा है कि अगर कॉन्सर्ट रद्द नहीं किया गया तो स्थानीय नागरिकों के साथ मिलकर कार्यक्रम स्थल पर &#039;रास्ता रोको आंदोलन&#039; किया जाएगा. एक तरफ दिलजीत दोसांझ के फैंस को उनके गानों और लाइव परफॉर्मेंस का इंतजार है, तो दूसरी तरफ मनसे ने इस कॉन्सर्ट के खिलाफ बिगुल फूंक दिया है.
+
+अब देखना दिलचस्प होगा कि पुलिस प्रशासन इस मांग पर क्या फैसला लेता है और क्या दिलजीत का मुंबई कॉन्सर्ट तय कार्यक्रम के मुताबिक हो पाएगा या विवाद के चलते इस पर संकट के बादल मंडराने लगेंगे.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/mns-protest-against-diljit-dosanjh-concert-drug-controversy-tmova-rpti-2707250-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `दिलजीत दोसांझ के कॉन्सर्ट पर MNS का हल्लाबोल, ड्रग्स के आरोपों से मचा बवाल; दी रास्ता रोकने की धमकी! - AajTak`,
+    summary_hi: `मुंबई में पंजाबी सिंगर दिलजीत दोसांझ के कॉन्सर्ट को लेकर नया विवाद खड़ा हो गया है. एक तरफ दिलजीत के गानों पर झूमने के लिए फैंस बेताब हैं, तो दूसरी तरफ महाराष्ट्र नवनिर्माण सेना (MNS) ने इस कार्यक्रम के खिलाफ मोर्चा खोल दिया है. मामला सिर्फ `,
+    content_hi: `मुंबई में पंजाबी सिंगर दिलजीत दोसांझ के कॉन्सर्ट को लेकर नया विवाद खड़ा हो गया है. एक तरफ दिलजीत के गानों पर झूमने के लिए फैंस बेताब हैं, तो दूसरी तरफ महाराष्ट्र नवनिर्माण सेना (MNS) ने इस कार्यक्रम के खिलाफ मोर्चा खोल दिया है. मामला सिर्फ विरोध तक सीमित नहीं है, बल्कि मनसे ने सीधे पुलिस प्रशासन से कॉन्सर्ट रद्द करने की मांग कर दी है.
+
+इतना ही नहीं, चेतावनी भी दे दी है कि अगर उनकी मांग नहीं मानी गई तो स्थानीय लोगों के साथ मिलकर &#039;रास्ता रोको आंदोलन&#039; किया जाएगा. और पढ़ेंदरअसल, मुंबई के महालक्ष्मी रेसकोर्स में आयोजित होने वाले इस कॉन्सर्ट को लेकर मनसे ने ताडदेव पुलिस स्टेशन में लिखित शिकायत दी है. मनसे का दावा है कि ऐसे बड़े म्यूजिकल कॉन्सर्ट के दौरान ड्रग्स सेवन जैसी गतिविधियों की आशंका रहती है.
+
+पार्टी ने अपने पत्र में महालक्ष्मी रेसकोर्स और NSCI डोम में होने वाले कॉन्सर्ट पर सवाल उठाते हुए पुलिस से ऐसे कार्यक्रमों को अनुमति नहीं देने की मांग की है.55 लोगों की जांच में 12 के ड्रग्स सेवन की रिपोर्ट पॉजिटिवमनसे ने अपने विरोध के समर्थन में पिछले कार्यक्रम का हवाला भी दिया है.
+
+पार्टी के मुताबिक, 22 नवंबर को महालक्ष्मी रेसकोर्स में आयोजित एक लाइव कॉन्सर्ट के दौरान एंटी-नारकोटिक्स सेल ने 55 लोगों की जांच की थी, जिनमें से 12 लोगों की ड्रग्स सेवन की जांच पॉजिटिव पाई गई थी. मनसे का कहना है कि इस घटना की खबरें सोशल मीडिया पर भी सामने आई थीं. Advertisement        इतना ही नहीं, पत्र में मनसे ने पिछले साल इसी जगह एक युवक की ड्रग्स सेवन के कारण मौत होने की घटना का भी जिक्र किया है.
+
+पार्टी का कहना है कि ऐसी घटनाओं को हल्के में नहीं लिया जा सकता और समय रहते सख्त कदम उठाना जरूरी है. कॉन्सर्ट में ड्रग्स का डर, पुलिस की सुरक्षा पर भी उठाए सवालमनसे ने आशंका जताई है कि दिलजीत दोसांझ के कॉन्सर्ट के दौरान भी कोई अप्रिय घटना हो सकती है. पार्टी का सवाल है कि जब ऐसे कार्यक्रमों में नशे से जुड़ी घटनाओं की शिकायतें सामने आ चुकी हैं, तो फिर कॉन्सर्ट रद्द करने के बजाय पुलिस प्रशासन उसे सुरक्षा क्यों मुहैया करा रहा है?मनसे के मुताबिक, इन बड़े आयोजनों की वजह से आसपास के इलाकों में रहने वाले लोगों को भी भारी परेशानी होती है.
+
+कार्यक्रम खत्म होने के बाद युवाओं की भीड़, ट्रैफिक जाम और स्थानीय लोगों को होने वाली असुविधा को लेकर पहले भी शिकायतें की जा चुकी हैं.मांग नहीं मानी तो सड़क पर उतरेगी मनसेअब मनसे ने पुलिस प्रशासन को साफ शब्दों में चेतावनी दे दी है. पार्टी ने कहा है कि उसकी शिकायत को गंभीरता से लिया जाए और महालक्ष्मी रेसकोर्स और NSCI डोम में होने वाले म्यूजिकल कॉन्सर्ट को अनुमति न दी जाए.
+
+Advertisement        मनसे ने अपने पत्र में साफ कहा है कि अगर कॉन्सर्ट रद्द नहीं किया गया तो स्थानीय नागरिकों के साथ मिलकर कार्यक्रम स्थल पर &#039;रास्ता रोको आंदोलन&#039; किया जाएगा. एक तरफ दिलजीत दोसांझ के फैंस को उनके गानों और लाइव परफॉर्मेंस का इंतजार है, तो दूसरी तरफ मनसे ने इस कॉन्सर्ट के खिलाफ बिगुल फूंक दिया है.
+
+अब देखना दिलचस्प होगा कि पुलिस प्रशासन इस मांग पर क्या फैसला लेता है और क्या दिलजीत का मुंबई कॉन्सर्ट तय कार्यक्रम के मुताबिक हो पाएगा या विवाद के चलते इस पर संकट के बादल मंडराने लगेंगे.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/mns-protest-against-diljit-dosanjh-concert-drug-controversy-tmova-rpti-2707250-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक दिलजीत दोसांझ के कॉन्सर्ट पर MNS का हल्लाबोल, ड्रग्स के आरोपों से मचा बवाल; दी रास्ता रोकने की धमकी! - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98116,
+    title: `Ajun Bijlani Remarried: 44 की उम्र में दोबारा शादी रचाएगा एक्टर, निकला शुभ मुहूर्त, पत्नी संग पहुंचा मंदिर - AajTak`,
+    slug: `ajun-bijlani-remarried-44-aajtak-2026`,
+    original_title: `Ajun Bijlani Remarried: 44 की उम्र में दोबारा शादी रचाएगा एक्टर, निकला शुभ मुहूर्त, पत्नी संग पहुंचा मंदिर - AajTak`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:26:57Z`,
+    updated_at: `2026-11-27T15:26:57Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/entertainment/television/photo/arjun-bijlani-remarried-at-44-age-with-wife-neha-neha-swami-father-of-son-reveal-wedding-card-fans-reacted-tmovb-2708021-2026-11-27`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6b097a11d56c5-arjun-bijlani--neha-swami-273944832.jpg`,
+    image_alt: `Ajun Bijlani Remarried: 44 की उम्र में दोबारा शादी रचाएगा एक्टर, निकला शुभ मुहूर्त, पत्नी संग पहुंचा मंदिर - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `अर्जुन बिजलानी टेलीविजन इंडस्ट्री का बड़ा नाम बन चुके हैं. इन दिनों वो पत्नी नेहा स्वामी के साथ पति, पत्नी और पंगा शो में नजर आ रहे हैं.`,
+    content: `अर्जुन बिजलानी टेलीविजन इंडस्ट्री का बड़ा नाम बन चुके हैं. इन दिनों वो पत्नी नेहा स्वामी के साथ पति, पत्नी और पंगा शो में नजर आ रहे हैं.
+
+पति, पत्नी और पंगा के 12 दिसंबर के एपिसोड में सभी कंटेस्टेंट्स दोबारा सात फेरे लेते नजर आएंगे.
+
+अर्जुन बिजलानी और नेहा स्वामी भी धूमधाम से दूसरी बार शादी रचाने वाले हैं. उनकी शादी का शुभ मुहूर्त भी निकला चुका है.
+
+दूसरी बार सात, सात वजन और सात जन्मों का वादा निभाना से पहले अर्जुन और नेहा शादी का कार्ड लेकर मंदिर पहुंचे.
+
+दोबारा शादी करने को लेकर नेहा और अर्जुन के चेहरे पर बेइंतिहा खुशी नजर आई. उन्होंने पैपराजी के सामने अपना वेडिंग कार्ड रिवील किया.
+
+अर्जुन और नेहा के फैंस भी उन्हीं तरह उनकी दोबारा शादी को लेकर एक्साइटेड हैं. क्योंकि उन्होंने अर्जुन और नेहा दूल्हा-दुल्हन बनते नहीं देखा है.
+
+अर्जुन बिजलानी और नेहा स्वामी ने 20 मई 2013 को धूमधाम से शादी रचाई थी. शादी के दो साल बाद दोनों ने बेटे अयान का वेलकम किया.
+
+अर्जुन वो एक्टर हैं जो अपनी पर्सनल और प्रोफेशनल लाइफ बखूबी मेंटेन कर रहे हैं. इसलिए फैंस उन्हें खूब पसंद भी करते हैं.
+
+All Photos: Instagram @arjunbijlani
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/television/photo/arjun-bijlani-remarried-at-44-age-with-wife-neha-neha-swami-father-of-son-reveal-wedding-card-fans-reacted-tmovb-2708021-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Ajun Bijlani Remarried: 44 की उम्र में दोबारा शादी रचाएगा एक्टर, निकला शुभ मुहूर्त, पत्नी संग पहुंचा मंदिर - AajTak`,
+    summary_hi: `अर्जुन बिजलानी टेलीविजन इंडस्ट्री का बड़ा नाम बन चुके हैं. इन दिनों वो पत्नी नेहा स्वामी के साथ पति, पत्नी और पंगा शो में नजर आ रहे हैं.`,
+    content_hi: `अर्जुन बिजलानी टेलीविजन इंडस्ट्री का बड़ा नाम बन चुके हैं. इन दिनों वो पत्नी नेहा स्वामी के साथ पति, पत्नी और पंगा शो में नजर आ रहे हैं.
+
+पति, पत्नी और पंगा के 12 दिसंबर के एपिसोड में सभी कंटेस्टेंट्स दोबारा सात फेरे लेते नजर आएंगे.
+
+अर्जुन बिजलानी और नेहा स्वामी भी धूमधाम से दूसरी बार शादी रचाने वाले हैं. उनकी शादी का शुभ मुहूर्त भी निकला चुका है.
+
+दूसरी बार सात, सात वजन और सात जन्मों का वादा निभाना से पहले अर्जुन और नेहा शादी का कार्ड लेकर मंदिर पहुंचे.
+
+दोबारा शादी करने को लेकर नेहा और अर्जुन के चेहरे पर बेइंतिहा खुशी नजर आई. उन्होंने पैपराजी के सामने अपना वेडिंग कार्ड रिवील किया.
+
+अर्जुन और नेहा के फैंस भी उन्हीं तरह उनकी दोबारा शादी को लेकर एक्साइटेड हैं. क्योंकि उन्होंने अर्जुन और नेहा दूल्हा-दुल्हन बनते नहीं देखा है.
+
+अर्जुन बिजलानी और नेहा स्वामी ने 20 मई 2013 को धूमधाम से शादी रचाई थी. शादी के दो साल बाद दोनों ने बेटे अयान का वेलकम किया.
+
+अर्जुन वो एक्टर हैं जो अपनी पर्सनल और प्रोफेशनल लाइफ बखूबी मेंटेन कर रहे हैं. इसलिए फैंस उन्हें खूब पसंद भी करते हैं.
+
+All Photos: Instagram @arjunbijlani
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/television/photo/arjun-bijlani-remarried-at-44-age-with-wife-neha-neha-swami-father-of-son-reveal-wedding-card-fans-reacted-tmovb-2708021-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Ajun Bijlani Remarried: 44 की उम्र में दोबारा शादी रचाएगा एक्टर, निकला शुभ मुहूर्त, पत्नी संग पहुंचा मंदिर - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98117,
+    title: `Ramayana' painting, 'Gangajal' among Modi's gifts to Nepal PM`,
+    slug: `ramayana-painting-gangajal-among-modis-gifts-to-nepal-pm-2026`,
+    original_title: `Ramayana' painting, 'Gangajal' among Modi's gifts to Nepal PM`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:27:02Z`,
+    updated_at: `2026-11-27T15:27:02Z`,
+    source_name: `Rediff.com`,
+    source_url: `https://www.rediff.com/news/report/ramayana-painting-gangajal-among-modis-gifts-to-nepal-pm/20261123.htm`,
+    source_courtesy: `Source: Rediff.com`,
+    image_url: `/images/articles/ramayana-painting-gangajal-among-modis-gifts-to-nepal-pm-2026.webp`,
+    image_alt: `Ramayana' painting, 'Gangajal' among Modi's gifts to Nepal PM`,
+    image_courtesy: `Image: Rediff.com (External Source Attribution)`,
+    image_photographer: `Rediff.com`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `Prime Minister Narendra Modis recent exchange of symbolic gifts with Nepalese counterpart Balendra Shah, including a Kalamkari Ramayana painting and Gangajal, powerfully reinforces the enduring spiritual and cultural bonds between India and`,
+    content: `Prime Minister Narendra Modis recent exchange of symbolic gifts with Nepalese counterpart Balendra Shah, including a Kalamkari Ramayana painting and Gangajal, powerfully reinforces the enduring spiritual and cultural bonds between India and Nepal.IMAGE: Prime Minister Narendra Modi presents Gangajal to his Nepalese counterpart, Balendra Shah, during their bilateral meeting at Hyderabad House in New Delhi, November 23, 2026.
+
+Photograph:&nbsp;@PM_nepal_ X/ANI PhotoKey PointsPrime Minister Narendra Modi gifted Nepalese counterpart Balendra Shah a Kalamkari Sampoorna Ramayana painting, a Banarasi brocade stole, and Gangajal on Monday.The gifts were exchanged during a bilateral meeting in New Delhi, where leaders also virtually flagged off a train service between Ayodhya and Janakpur.The Kalamkari painting, depicting Lord Ramas journey, symbolises the spiritual bond between Ayodhya and Janakpur.A Banarasi brocade stole in a Sadeli box and Gangajal from Varanasi further highlight Indias rich craftsmanship and spiritual connection.These symbolic gestures underscore the deep-rooted religious, cultural, and civilisational ties between India and Nepal.Prime Minister Narendra Modi on Monday gifted his Nepalese counterpart Balendra Shah a Kalamkari Sampoorna Ramayana painting, a Banarasi brocade stole in a Sadeli box, and Gangajal.Shah, who is on a two-day visit to New Delhi, held a bilateral meeting with Modi.
+
+The two leaders also virtually flagged off a train service between Ayodhya in Uttar Pradesh and Janakpur in Nepal.&nbsp;Symbolic Gifts Reinforce India-Nepal TiesModi gifted Shah the painting, depicting major episodes of Lord Ramas journey, from his birth and exile to his victory over Ravana and return to Ayodhya, official sources said.Hand-painted on cotton in the traditional Srikalahasthi style of Andhra Pradesh using a bamboo pen and natural dyes, the artwork showcases Indias rich heritage of storytelling, devotion and traditional craftsmanship.It also symbolises the enduring spiritual and cultural bond between India and Nepal, connecting Ayodhya, the land of Lord Rama, with Janakpur, revered as the birthplace of Goddess Sita, and reflecting the shared heritage, friendship and values of the two nations.Cultural Exchange And Spiritual UnityModi also gifted Shah a Banarasi brocade stole in a Sadeli box.
+
+The silk stole from Varanasi, featuring intricate motifs and shimmering zari work crafted by skilled master weavers, was presented in a Sadeli box from Gujarat, showcasing intricate geometric inlay and traditional woodworking.The prime minister also gifted his Nepalese counterpart Gangajal from Varanasi in a brass urn.Originating from the Ganga river near the Kashi Vishwanath temple, the offering holds special significance in reflecting the spiritual bond between Baba Vishwanath of Varanasi and Lord Pashupatinath of Kathmandu, both revered manifestations of Lord Shiva.It symbolises the deep-rooted religious, cultural and civilisational ties between India and Nepal, conveying blessings of peace, prosperity and spiritual unity while strengthening the enduring friendship between the two nations, sources said.
+
+---
+
+**Original Source:** [Rediff.com](https://www.rediff.com/news/report/ramayana-painting-gangajal-among-modis-gifts-to-nepal-pm/20261123.htm)`,
+    title_en: `Ramayana' painting, 'Gangajal' among Modi's gifts to Nepal PM`,
+    summary_en: `Prime Minister Narendra Modis recent exchange of symbolic gifts with Nepalese counterpart Balendra Shah, including a Kalamkari Ramayana painting and Gangajal, powerfully reinforces the enduring spiritual and cultural bonds between India and`,
+    content_en: `Prime Minister Narendra Modis recent exchange of symbolic gifts with Nepalese counterpart Balendra Shah, including a Kalamkari Ramayana painting and Gangajal, powerfully reinforces the enduring spiritual and cultural bonds between India and Nepal.IMAGE: Prime Minister Narendra Modi presents Gangajal to his Nepalese counterpart, Balendra Shah, during their bilateral meeting at Hyderabad House in New Delhi, November 23, 2026.
+
+Photograph:&nbsp;@PM_nepal_ X/ANI PhotoKey PointsPrime Minister Narendra Modi gifted Nepalese counterpart Balendra Shah a Kalamkari Sampoorna Ramayana painting, a Banarasi brocade stole, and Gangajal on Monday.The gifts were exchanged during a bilateral meeting in New Delhi, where leaders also virtually flagged off a train service between Ayodhya and Janakpur.The Kalamkari painting, depicting Lord Ramas journey, symbolises the spiritual bond between Ayodhya and Janakpur.A Banarasi brocade stole in a Sadeli box and Gangajal from Varanasi further highlight Indias rich craftsmanship and spiritual connection.These symbolic gestures underscore the deep-rooted religious, cultural, and civilisational ties between India and Nepal.Prime Minister Narendra Modi on Monday gifted his Nepalese counterpart Balendra Shah a Kalamkari Sampoorna Ramayana painting, a Banarasi brocade stole in a Sadeli box, and Gangajal.Shah, who is on a two-day visit to New Delhi, held a bilateral meeting with Modi.
+
+The two leaders also virtually flagged off a train service between Ayodhya in Uttar Pradesh and Janakpur in Nepal.&nbsp;Symbolic Gifts Reinforce India-Nepal TiesModi gifted Shah the painting, depicting major episodes of Lord Ramas journey, from his birth and exile to his victory over Ravana and return to Ayodhya, official sources said.Hand-painted on cotton in the traditional Srikalahasthi style of Andhra Pradesh using a bamboo pen and natural dyes, the artwork showcases Indias rich heritage of storytelling, devotion and traditional craftsmanship.It also symbolises the enduring spiritual and cultural bond between India and Nepal, connecting Ayodhya, the land of Lord Rama, with Janakpur, revered as the birthplace of Goddess Sita, and reflecting the shared heritage, friendship and values of the two nations.Cultural Exchange And Spiritual UnityModi also gifted Shah a Banarasi brocade stole in a Sadeli box.
+
+The silk stole from Varanasi, featuring intricate motifs and shimmering zari work crafted by skilled master weavers, was presented in a Sadeli box from Gujarat, showcasing intricate geometric inlay and traditional woodworking.The prime minister also gifted his Nepalese counterpart Gangajal from Varanasi in a brass urn.Originating from the Ganga river near the Kashi Vishwanath temple, the offering holds special significance in reflecting the spiritual bond between Baba Vishwanath of Varanasi and Lord Pashupatinath of Kathmandu, both revered manifestations of Lord Shiva.It symbolises the deep-rooted religious, cultural and civilisational ties between India and Nepal, conveying blessings of peace, prosperity and spiritual unity while strengthening the enduring friendship between the two nations, sources said.
+
+---
+
+**Original Source:** [Rediff.com](https://www.rediff.com/news/report/ramayana-painting-gangajal-among-modis-gifts-to-nepal-pm/20261123.htm)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Rediff.com.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Ramayana' painting, 'Gangajal' among Modi's gifts to Nepal PM.`,
+    primary_source: `Rediff.com`,
+  },
+  {
+    id: 98118,
+    title: `BGS Vijnatham School Celebrates Annual Day 2026 “Setubandh – A Bridge of Cultures” - TheWire.in`,
+    slug: `bgs-vijnatham-school-celebrates-annual-day-2026-setubandh-a-bridge-of-2026`,
+    original_title: `BGS Vijnatham School Celebrates Annual Day 2026 “Setubandh – A Bridge of Cultures” - TheWire.in`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:27:04Z`,
+    updated_at: `2026-11-27T15:27:04Z`,
+    source_name: `TheWire.in`,
+    source_url: `https://m.thewire.in/article/ptiprnews/bgs-vijnatham-school-celebrates-annual-day-2026-setubandh-a-bridge-of-cultures`,
+    source_courtesy: `Source: TheWire.in`,
+    image_url: `https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `BGS Vijnatham School Celebrates Annual Day 2026 “Setubandh – A Bridge of Cultures” - TheWire.in`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `Greater Noida West, November 2026: In an evening that beautifully harmonised India&#x27;s timeless cultural heritage with the richness of global traditions, BGS Vijnatham School, Greater Noida West, celebrated its Annual Day 2026 under the `,
+    content: `Greater Noida West, November 2026: In an evening that beautifully harmonised India&#x27;s timeless cultural heritage with the richness of global traditions, BGS Vijnatham School, Greater Noida West, celebrated its Annual Day 2026 under the inspiring theme “Setubandh – A Bridge of Cultures”.
+
+Rooted in the enduring wisdom of the Ramayana, the celebration emerged as a magnificent confluence of spirituality, artistic expression, cultural exploration and educational excellence. Conceived around the symbolic significance of Setubandh, the legendary bridge constructed to reach Lanka in the Ramayana, the theme represented the power of shared values to transcend geographical, linguistic and cultural boundaries.
+
+The celebration sought to convey that just as the epic&#x27;s legendary bridge connected distant shores, education, culture and human values create meaningful connections between people, communities and generations. Through a thoughtfully curated sequence of musical, theatrical and dance presentations, the school explored the universal relevance of the Ramayana and its remarkable journey across Asia.
+
+The prestigious occasion was graced by His Holiness JagatGuru Sri Sri Sri Dr. Nirmalanandanatha Mahaswamiji, President of Sri Adichunchanagiri Shikshana Trust, and Mr. Ravi Chandra, Executive Director. The programme commenced on an auspicious note with Ved Ghosha, featuring sacred selections from the Shiksha Valli of the Taittiriya Upanishad.
+
+The recitation offered a profound reflection on India&#x27;s ancient educational philosophy, emphasising truth, discipline, reverence for teachers, ethical conduct and the pursuit of knowledge. A melodious welcome song followed, creating an atmosphere of warmth and celebration, while the ceremonial lighting of the lamp by the revered dignitaries symbolised the triumph of knowledge over ignorance and the illumination of minds through wisdom and understanding.
+
+Adding an international dimension to the celebration, students presented an Indonesian welcome dance, reflecting the evening&#x27;s underlying message of cultural appreciation and interconnectedness. This was followed by a graceful Kathak presentation of Ganesh Vandana, in which devotion, rhythm and intricate choreography came together to invoke the blessings of Lord Ganesha.
+
+A special audiovisual presentation traced the inspiring legacy of Sri Adichunchanagiri Mahasamsthana Math and Sri Adichunchanagiri Shikshana Trust, highlighting their enduring commitment to spirituality, education and selfless service. The presentation offered a glimpse into the institution&#x27;s guiding philosophy, which continues to inspire BGS Vijnatham School in its endeavour to harmonise traditional Indian values with contemporary educational aspirations.
+
+Leadership Addresses and Academic Felicitations  The school&#x27;s Principal, Mrs. Shilpashree T. R., delivered the welcome address, acknowledging the distinguished guests and appreciating the collective commitment of students, teachers and parents. The gathering was further enriched by the addresses of the distinguished dignitaries, whose perspectives and guidance added depth to the occasion.
+
+Their presence and words of encouragement reinforced the importance of education, leadership, cultural values and character-building in shaping the future generation. An important segment of the celebration was dedicated to acknowledging student achievement and perseverance. Meritorious students of Grades 10 and 12 were felicitated for their academic accomplishments, determination and commitment to excellence.
+
+The honours became even more meaningful through the blessings and encouragement of the revered Mahaswamijis. A particularly significant moment of the evening was the Aashirvachana of His Holiness Sri Sri Sri Dr. Nirmalanandanatha Swamiji. His spiritual guidance reinforced the profound belief that education must extend beyond intellectual attainment to nurture humility, compassion, moral responsibility and a spirit of service.
+
+His blessings served as an enduring source of inspiration for the students and the entire school community. Cultural Highlight: Kechak Ramayana in Indonesian Style  The cultural segment brought the central theme to its most vibrant expression through a spectacular interpretation of the Ramayana.
+
+Revered across generations, the epic has travelled far beyond the Indian subcontinent, finding distinctive expressions in the artistic traditions of several Asian countries. Its characters, narratives and ethical ideals have continued to inspire diverse communities, demonstrating the remarkable universality of its message.
+
+The highlight of the evening was “Kechak Ramayana – A Musical Depiction of Ramayana in Indonesian Style.” Inspired by Indonesia&#x27;s distinctive Kechak performance tradition, the production presented the epic through powerful collective chants, synchronised rhythmic patterns, dramatic expressions and captivating theatrical movements.
+
+Directed by Mr. Janardhan Raj Urs, the presentation offered an immersive cultural experience, bringing together the narrative richness of the Ramayana and the distinctive artistic vocabulary of Indonesia. It demonstrated how the same timeless story can find diverse cultural expressions while preserving its essential message of righteousness, devotion, courage and the ultimate triumph of good over evil.
+
+Beyond its spectacular performances, the celebration reflected the school&#x27;s commitment to experiential learning and holistic education. The extensive preparation behind every presentation involved countless hours of practice, creative collaboration, discipline and teamwork. The dedication of the students, coupled with the meticulous guidance of teachers and coordinators, transformed the occasion into a vibrant showcase of artistic excellence, confidence and collective endeavour.
+
+Through Setubandh – A Bridge of Cultures, BGS Vijnatham School reaffirmed its vision of nurturing individuals who are academically accomplished, culturally conscious, creatively empowered and socially responsible. The celebration beautifully illustrated that education is not confined to the acquisition of knowledge; it is also about understanding one&#x27;s heritage, respecting diversity, appreciating different perspectives and developing the wisdom to contribute meaningfully to society.
+
+As the evening drew to a close, Setubandh left the audience with a thought that extended far beyond the celebration itself: the most enduring bridges are those built through knowledge, mutual respect, shared values and humanity. The Annual Day 2026 thus stood as a memorable reflection of BGS Vijnatham School&#x27;s commitment to preserving its cultural roots while preparing its learners to embrace an interconnected and ever-evolving world.
+
+For more details about admissions and school initiatives, visit the official website of BGS Vijnatham School. Website:  https://www.bgsvijnatham.com/ (Disclaimer: The above press release comes to you under an arrangement with PNN and PTI takes no editorial responsibility for the same.).
+
+PTI PWR This is an auto-published feed from PTI with no editorial input from The Wire.
+
+---
+
+**Original Source:** [TheWire.in](https://m.thewire.in/article/ptiprnews/bgs-vijnatham-school-celebrates-annual-day-2026-setubandh-a-bridge-of-cultures)`,
+    title_en: `BGS Vijnatham School Celebrates Annual Day 2026 “Setubandh – A Bridge of Cultures” - TheWire.in`,
+    summary_en: `Greater Noida West, November 2026: In an evening that beautifully harmonised India&#x27;s timeless cultural heritage with the richness of global traditions, BGS Vijnatham School, Greater Noida West, celebrated its Annual Day 2026 under the `,
+    content_en: `Greater Noida West, November 2026: In an evening that beautifully harmonised India&#x27;s timeless cultural heritage with the richness of global traditions, BGS Vijnatham School, Greater Noida West, celebrated its Annual Day 2026 under the inspiring theme “Setubandh – A Bridge of Cultures”.
+
+Rooted in the enduring wisdom of the Ramayana, the celebration emerged as a magnificent confluence of spirituality, artistic expression, cultural exploration and educational excellence. Conceived around the symbolic significance of Setubandh, the legendary bridge constructed to reach Lanka in the Ramayana, the theme represented the power of shared values to transcend geographical, linguistic and cultural boundaries.
+
+The celebration sought to convey that just as the epic&#x27;s legendary bridge connected distant shores, education, culture and human values create meaningful connections between people, communities and generations. Through a thoughtfully curated sequence of musical, theatrical and dance presentations, the school explored the universal relevance of the Ramayana and its remarkable journey across Asia.
+
+The prestigious occasion was graced by His Holiness JagatGuru Sri Sri Sri Dr. Nirmalanandanatha Mahaswamiji, President of Sri Adichunchanagiri Shikshana Trust, and Mr. Ravi Chandra, Executive Director. The programme commenced on an auspicious note with Ved Ghosha, featuring sacred selections from the Shiksha Valli of the Taittiriya Upanishad.
+
+The recitation offered a profound reflection on India&#x27;s ancient educational philosophy, emphasising truth, discipline, reverence for teachers, ethical conduct and the pursuit of knowledge. A melodious welcome song followed, creating an atmosphere of warmth and celebration, while the ceremonial lighting of the lamp by the revered dignitaries symbolised the triumph of knowledge over ignorance and the illumination of minds through wisdom and understanding.
+
+Adding an international dimension to the celebration, students presented an Indonesian welcome dance, reflecting the evening&#x27;s underlying message of cultural appreciation and interconnectedness. This was followed by a graceful Kathak presentation of Ganesh Vandana, in which devotion, rhythm and intricate choreography came together to invoke the blessings of Lord Ganesha.
+
+A special audiovisual presentation traced the inspiring legacy of Sri Adichunchanagiri Mahasamsthana Math and Sri Adichunchanagiri Shikshana Trust, highlighting their enduring commitment to spirituality, education and selfless service. The presentation offered a glimpse into the institution&#x27;s guiding philosophy, which continues to inspire BGS Vijnatham School in its endeavour to harmonise traditional Indian values with contemporary educational aspirations.
+
+Leadership Addresses and Academic Felicitations  The school&#x27;s Principal, Mrs. Shilpashree T. R., delivered the welcome address, acknowledging the distinguished guests and appreciating the collective commitment of students, teachers and parents. The gathering was further enriched by the addresses of the distinguished dignitaries, whose perspectives and guidance added depth to the occasion.
+
+Their presence and words of encouragement reinforced the importance of education, leadership, cultural values and character-building in shaping the future generation. An important segment of the celebration was dedicated to acknowledging student achievement and perseverance. Meritorious students of Grades 10 and 12 were felicitated for their academic accomplishments, determination and commitment to excellence.
+
+The honours became even more meaningful through the blessings and encouragement of the revered Mahaswamijis. A particularly significant moment of the evening was the Aashirvachana of His Holiness Sri Sri Sri Dr. Nirmalanandanatha Swamiji. His spiritual guidance reinforced the profound belief that education must extend beyond intellectual attainment to nurture humility, compassion, moral responsibility and a spirit of service.
+
+His blessings served as an enduring source of inspiration for the students and the entire school community. Cultural Highlight: Kechak Ramayana in Indonesian Style  The cultural segment brought the central theme to its most vibrant expression through a spectacular interpretation of the Ramayana.
+
+Revered across generations, the epic has travelled far beyond the Indian subcontinent, finding distinctive expressions in the artistic traditions of several Asian countries. Its characters, narratives and ethical ideals have continued to inspire diverse communities, demonstrating the remarkable universality of its message.
+
+The highlight of the evening was “Kechak Ramayana – A Musical Depiction of Ramayana in Indonesian Style.” Inspired by Indonesia&#x27;s distinctive Kechak performance tradition, the production presented the epic through powerful collective chants, synchronised rhythmic patterns, dramatic expressions and captivating theatrical movements.
+
+Directed by Mr. Janardhan Raj Urs, the presentation offered an immersive cultural experience, bringing together the narrative richness of the Ramayana and the distinctive artistic vocabulary of Indonesia. It demonstrated how the same timeless story can find diverse cultural expressions while preserving its essential message of righteousness, devotion, courage and the ultimate triumph of good over evil.
+
+Beyond its spectacular performances, the celebration reflected the school&#x27;s commitment to experiential learning and holistic education. The extensive preparation behind every presentation involved countless hours of practice, creative collaboration, discipline and teamwork. The dedication of the students, coupled with the meticulous guidance of teachers and coordinators, transformed the occasion into a vibrant showcase of artistic excellence, confidence and collective endeavour.
+
+Through Setubandh – A Bridge of Cultures, BGS Vijnatham School reaffirmed its vision of nurturing individuals who are academically accomplished, culturally conscious, creatively empowered and socially responsible. The celebration beautifully illustrated that education is not confined to the acquisition of knowledge; it is also about understanding one&#x27;s heritage, respecting diversity, appreciating different perspectives and developing the wisdom to contribute meaningfully to society.
+
+As the evening drew to a close, Setubandh left the audience with a thought that extended far beyond the celebration itself: the most enduring bridges are those built through knowledge, mutual respect, shared values and humanity. The Annual Day 2026 thus stood as a memorable reflection of BGS Vijnatham School&#x27;s commitment to preserving its cultural roots while preparing its learners to embrace an interconnected and ever-evolving world.
+
+For more details about admissions and school initiatives, visit the official website of BGS Vijnatham School. Website:  https://www.bgsvijnatham.com/ (Disclaimer: The above press release comes to you under an arrangement with PNN and PTI takes no editorial responsibility for the same.).
+
+PTI PWR This is an auto-published feed from PTI with no editorial input from The Wire.
+
+---
+
+**Original Source:** [TheWire.in](https://m.thewire.in/article/ptiprnews/bgs-vijnatham-school-celebrates-annual-day-2026-setubandh-a-bridge-of-cultures)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to TheWire.in.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for BGS Vijnatham School Celebrates Annual Day 2026 “Setubandh – A Bridge of Cultures” - TheWire.in.`,
+    primary_source: `TheWire.in`,
+  },
+  {
+    id: 98119,
+    title: `रामायण ने तोड़ा बाहुबली 2 का रिकॉर्ड, 22वें दिन बनी तीसरी ऑल टाइम हाईएस्ट ग्रॉसर फिल्म - ABP News`,
+    slug: `2-22-abp-news-2026`,
+    original_title: `रामायण ने तोड़ा बाहुबली 2 का रिकॉर्ड, 22वें दिन बनी तीसरी ऑल टाइम हाईएस्ट ग्रॉसर फिल्म - ABP News`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:27:07Z`,
+    updated_at: `2026-11-27T15:27:07Z`,
+    source_name: `ABP News`,
+    source_url: `https://www.abplive.com/entertainment/bollywood/ramayana-box-office-collection-becomes-all-time-3rd-highest-indian-grossers-worldwide-breaks-baahubali-2-records-3219856`,
+    source_courtesy: `Source: ABP News`,
+    image_url: `/images/articles/2-22-abp-news-2026.jpg`,
+    image_alt: `रामायण ने तोड़ा बाहुबली 2 का रिकॉर्ड, 22वें दिन बनी तीसरी ऑल टाइम हाईएस्ट ग्रॉसर फिल्म - ABP News`,
+    image_courtesy: `Image: ABP News (External Source Attribution)`,
+    image_photographer: `ABP News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `नितेश तिवारी की फिल्म 'रामायण' बॉक्स ऑफिस पर एक के बाद एक रिकॉर्ड बना रही है. 2026 में बॉलीवुड की ये दूसरी सबसे ज्यादा कमाई करने वाली फिल्म भी बन गई है वहीं, अब इसने दुनियाभर में भी इतिहास रच दिया है. 22वें दिन कमाई के बाद ये वर्ल्डवाइड तीस`,
+    content: `नितेश तिवारी की फिल्म 'रामायण' बॉक्स ऑफिस पर एक के बाद एक रिकॉर्ड बना रही है. 2026 में बॉलीवुड की ये दूसरी सबसे ज्यादा कमाई करने वाली फिल्म भी बन गई है वहीं, अब इसने दुनियाभर में भी इतिहास रच दिया है. 22वें दिन कमाई के बाद ये वर्ल्डवाइड तीसरी ऑल टाइम हाईएस्ट ग्रॉसर फिल्म बन चुकी है.
+
+20वें-21वें दिन के मुकाबले 'रामायण' की कमाई में 22वें दिन गिरावट दर्ज की गई है. लेकिन इसके बावजूद भी फिल्म ने तीसरे गुरुवार को दुनियाभर का बड़ा रिकॉर्ड बना दिया है. इसने 'बाहुबली 2 द कनक्लूजन' को पीछे छोड़ दिया है. चलिए बताते हैं बॉक्स ऑफिस कलेक्शन. 'रामायण' का बॉक्स ऑफिस कलेक्शन
+- सैकनिल्क के अनुसार, 'रामायण' ने पहले दिन 64.85 करोड़ का बिजनेस किया था.- जबकि फिल्म ने पहले हफ्ते 564.60 करोड़ की कमाई की.&nbsp;- वहीं, दूसरे हफ्ते 299.15 करोड़ का कारोबार किया.- तीसरे हफ्ते में भी इसने 100 करोड़ का आंकड़ा पार किया और इसकी कमाई 125.60 करोड़ पहुंच गया है.
+
+'रामायण' का डे-22 बॉक्स ऑफिस कलेक्शन
+
+
+
+रामायण
+बॉक्स ऑफिस कलेक्शन
+ऑक्यूपेंसी
+
+
+डे-17
+6.85 करोड़ (रात 8.30 बजे तक)
+&nbsp;
+
+
+टोटल कलेक्शन
+989.35 करोड़
+&nbsp;
+
+
+
+'रामायण' ने तोड़ा 'बाहुबली 2' का रिकॉर्ड
+इसी के साथ ही 'रामायण' ने वर्ल्डवाइड 'बाहुबली 2 द कनक्लूजन' का रिकॉर्ड तोड़ दिया है, जिसके बाद ये इंडिया की ऑल टाइम तीसरी हाईएस्ट ग्रॉसर फिल्म बन चुकी है और इसकी कमाई भी 1800 करोड़ के करीब पहुंच गई है.
+
+कोईमोई के अनुसार, फिल्म ने 21दिनों में दुनियाभर में 1783.07 करोड़ का बिजनेस कर लिया था. 22वें दिन की कमाई के बाद इसने 'बाहुबली' के कलेक्शन 1788.06 करोड़ को पीछे छोड़ दिया है. हालांकि, इसके फाइनल आंकड़े रात 10.30 बजे तक आएंगे, जिसके बाद साफ हो पाएगा कि इसने 22वें दुनियाभर में कितना कलेक्शन किया.
+
+लेकिन अब इसने बड़ा रिकॉर्ड बना दिया है. 'रामायण' का अन्य रिकॉर्ड
+इतना ही नहीं, अगर 'रामायण' के अन्य रिकॉर्ड्स के बारे में बात की जाए तो सैकनिल्क के अनुसार, फिल्म ने हिंदी में सबसे ज्यादा कमाई की है. इसने 22वें दिन रात 8.30 बजे तक 751.24 करोड़ का बिजनेस कर लिया है. जबकि कन्नड़ में 78.51 करोड़, तेलुगु में 57.85 करोड़, मलयालम में 52.30 करोड़ और तमिल में 49.45 करोड़ का बिजनेस कर लिया है.&nbsp;
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/entertainment/bollywood/ramayana-box-office-collection-becomes-all-time-3rd-highest-indian-grossers-worldwide-breaks-baahubali-2-records-3219856)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `रामायण ने तोड़ा बाहुबली 2 का रिकॉर्ड, 22वें दिन बनी तीसरी ऑल टाइम हाईएस्ट ग्रॉसर फिल्म - ABP News`,
+    summary_hi: `नितेश तिवारी की फिल्म 'रामायण' बॉक्स ऑफिस पर एक के बाद एक रिकॉर्ड बना रही है. 2026 में बॉलीवुड की ये दूसरी सबसे ज्यादा कमाई करने वाली फिल्म भी बन गई है वहीं, अब इसने दुनियाभर में भी इतिहास रच दिया है. 22वें दिन कमाई के बाद ये वर्ल्डवाइड तीस`,
+    content_hi: `नितेश तिवारी की फिल्म 'रामायण' बॉक्स ऑफिस पर एक के बाद एक रिकॉर्ड बना रही है. 2026 में बॉलीवुड की ये दूसरी सबसे ज्यादा कमाई करने वाली फिल्म भी बन गई है वहीं, अब इसने दुनियाभर में भी इतिहास रच दिया है. 22वें दिन कमाई के बाद ये वर्ल्डवाइड तीसरी ऑल टाइम हाईएस्ट ग्रॉसर फिल्म बन चुकी है.
+
+20वें-21वें दिन के मुकाबले 'रामायण' की कमाई में 22वें दिन गिरावट दर्ज की गई है. लेकिन इसके बावजूद भी फिल्म ने तीसरे गुरुवार को दुनियाभर का बड़ा रिकॉर्ड बना दिया है. इसने 'बाहुबली 2 द कनक्लूजन' को पीछे छोड़ दिया है. चलिए बताते हैं बॉक्स ऑफिस कलेक्शन. 'रामायण' का बॉक्स ऑफिस कलेक्शन
+- सैकनिल्क के अनुसार, 'रामायण' ने पहले दिन 64.85 करोड़ का बिजनेस किया था.- जबकि फिल्म ने पहले हफ्ते 564.60 करोड़ की कमाई की.&nbsp;- वहीं, दूसरे हफ्ते 299.15 करोड़ का कारोबार किया.- तीसरे हफ्ते में भी इसने 100 करोड़ का आंकड़ा पार किया और इसकी कमाई 125.60 करोड़ पहुंच गया है.
+
+'रामायण' का डे-22 बॉक्स ऑफिस कलेक्शन
+
+
+
+रामायण
+बॉक्स ऑफिस कलेक्शन
+ऑक्यूपेंसी
+
+
+डे-17
+6.85 करोड़ (रात 8.30 बजे तक)
+&nbsp;
+
+
+टोटल कलेक्शन
+989.35 करोड़
+&nbsp;
+
+
+
+'रामायण' ने तोड़ा 'बाहुबली 2' का रिकॉर्ड
+इसी के साथ ही 'रामायण' ने वर्ल्डवाइड 'बाहुबली 2 द कनक्लूजन' का रिकॉर्ड तोड़ दिया है, जिसके बाद ये इंडिया की ऑल टाइम तीसरी हाईएस्ट ग्रॉसर फिल्म बन चुकी है और इसकी कमाई भी 1800 करोड़ के करीब पहुंच गई है.
+
+कोईमोई के अनुसार, फिल्म ने 21दिनों में दुनियाभर में 1783.07 करोड़ का बिजनेस कर लिया था. 22वें दिन की कमाई के बाद इसने 'बाहुबली' के कलेक्शन 1788.06 करोड़ को पीछे छोड़ दिया है. हालांकि, इसके फाइनल आंकड़े रात 10.30 बजे तक आएंगे, जिसके बाद साफ हो पाएगा कि इसने 22वें दुनियाभर में कितना कलेक्शन किया.
+
+लेकिन अब इसने बड़ा रिकॉर्ड बना दिया है. 'रामायण' का अन्य रिकॉर्ड
+इतना ही नहीं, अगर 'रामायण' के अन्य रिकॉर्ड्स के बारे में बात की जाए तो सैकनिल्क के अनुसार, फिल्म ने हिंदी में सबसे ज्यादा कमाई की है. इसने 22वें दिन रात 8.30 बजे तक 751.24 करोड़ का बिजनेस कर लिया है. जबकि कन्नड़ में 78.51 करोड़, तेलुगु में 57.85 करोड़, मलयालम में 52.30 करोड़ और तमिल में 49.45 करोड़ का बिजनेस कर लिया है.&nbsp;
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/entertainment/bollywood/ramayana-box-office-collection-becomes-all-time-3rd-highest-indian-grossers-worldwide-breaks-baahubali-2-records-3219856)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट ABP News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक रामायण ने तोड़ा बाहुबली 2 का रिकॉर्ड, 22वें दिन बनी तीसरी ऑल टाइम हाईएस्ट ग्रॉसर फिल्म - ABP News से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `ABP News`,
+  },
+  {
+    id: 98120,
+    title: `अदालत का समय बर्बाद मत करो', रणबीर कपूर की 'रामायण' के खिलाफ याचिका पर तत्काल सुनवाई से SC का इनकार - Jagran`,
+    slug: `sc-jagran-2026`,
+    original_title: `अदालत का समय बर्बाद मत करो', रणबीर कपूर की 'रामायण' के खिलाफ याचिका पर तत्काल सुनवाई से SC का इनकार - Jagran`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T15:27:09Z`,
+    updated_at: `2026-11-27T15:27:09Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/news/national-supreem-court-refuses-urgent-hearing-on-petition-against-ranbir-kapoors-ramayana-40450074.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/sc-jagran-2026.webp`,
+    image_alt: `अदालत का समय बर्बाद मत करो', रणबीर कपूर की 'रामायण' के खिलाफ याचिका पर तत्काल सुनवाई से SC का इनकार - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `सुप्रीम कोर्ट ने रणबीर कपूर की फिल्म 'रामायण: राइज ऑफ ए लेजेंड' की रिलीज को चुनौती देने वाली याचिका पर तत्काल सुनवाई से इनकार कर दिया है।`,
+    content: `सुप्रीम कोर्ट ने रणबीर कपूर की फिल्म 'रामायण: राइज ऑफ ए लेजेंड' की रिलीज को चुनौती देने वाली याचिका पर तत्काल सुनवाई से इनकार कर दिया है।
+
+रणबीर कपूर की 'रामायण' के खिलाफ याचिका पर तत्काल सुनवाई से SC का इनकार(फाइल फोटो)
+
+जानिए मुख्य बातें और खबर का सार एक नजर में
+
+डिजिटल डेस्क, नई दिल्ली। सुप्रीम कोर्ट ने शुक्रवार को रणबीर कपूर की फिल्म रामायण: राइज ऑफ ए लेजेंड की रिलीज को चुनौती देने वाली याचिका पर तत्काल सुनवाई करने से इनकार कर दिया है।
+
+समाचार एजेंसी पीटीआई के अनुसार, कोर्ट ने सख्त टिप्पणी करते हुए कहा कि जिन्हें फिल्म में दिखाए गए महाकाव्य के नजरिए से असहमति है, वे अपना अलग नजरिया पेश करने के लिए खुद की फिल्म बनाने के लिए स्वतंत्र हैं।
+
+चीफ जस्टिस सूर्यकांत, जस्टिस जॉयमाल्या बागची और जस्टिस वी. मोहना की बेंच ने इस याचिका पर जल्द सुनवाई की जरूरत पर सवाल उठाए। बेंच ने कहा कि फिल्म पहले ही सिनेमाघरों में रिलीज हो चुकी है और जो लोग इसे देखना चाहते थे, वे देख चुके हैं।
+
+याचिकाकर्ता के वकील ने बेंच को बताया कि यह याचिका 23 नवंबर को दर्ज की गई थी, लेकिन अभी तक इसे सुनवाई के लिए सूचीबद्ध नहीं किया गया है। इस पर चीफ जस्टिस सूर्यकांत ने कहा कि फिल्म पहले ही रिलीज हो चुकी है। जिन्हें इसे देखना था, वे देख चुके हैं।
+
+याचिका में आरोप लगाया गया है कि फिल्म निर्माताओं ने रामायण के चित्रण में कई पौराणिक तथ्यों के साथ छेड़छाड़ की है।
+
+सुनवाई के दौरान जब वकील ने दलील दी कि फिल्म में कई तथ्यों को तोड़-मरोड़कर पेश किया गया है, तो जस्टिस बागची ने जवाब दिया कि उन्होंने अपनी समझ के हिसाब से फिल्म बनाई है, आप अपनी समझ के हिसाब से फिल्म बना लीजिए। कोर्ट का समय बर्बाद मत कीजिए।
+
+चीफ जस्टिस ने भी इस पर सहमति जताते हुए कहा की अगर महाकाव्य को लेकर आपका कोई अलग विचार या नजरिया है, तो आप उस पर फिल्म बनाइए। कोर्ट का समय बर्बाद मत कीजिए।
+
+वकील द्वारा जल्द सुनवाई के लिए बार-बार आग्रह करने पर बेंच ने स्पष्ट किया कि इस मामले को सामान्य प्रक्रिया के तहत तय समय पर ही सूचीबद्ध किया जाएगा।
+
+यह भी पढ़ें- रामायण फिल्म के दृश्यों पर आपत्ति, झारखंड हाई कोर्ट में रोक के लिए जनहित याचिका दायर; राम मंदिर ट्रस्ट को मिले मुआवजा
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/news/national-supreem-court-refuses-urgent-hearing-on-petition-against-ranbir-kapoors-ramayana-40450074.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अदालत का समय बर्बाद मत करो', रणबीर कपूर की 'रामायण' के खिलाफ याचिका पर तत्काल सुनवाई से SC का इनकार - Jagran`,
+    summary_hi: `सुप्रीम कोर्ट ने रणबीर कपूर की फिल्म 'रामायण: राइज ऑफ ए लेजेंड' की रिलीज को चुनौती देने वाली याचिका पर तत्काल सुनवाई से इनकार कर दिया है।`,
+    content_hi: `सुप्रीम कोर्ट ने रणबीर कपूर की फिल्म 'रामायण: राइज ऑफ ए लेजेंड' की रिलीज को चुनौती देने वाली याचिका पर तत्काल सुनवाई से इनकार कर दिया है।
+
+रणबीर कपूर की 'रामायण' के खिलाफ याचिका पर तत्काल सुनवाई से SC का इनकार(फाइल फोटो)
+
+जानिए मुख्य बातें और खबर का सार एक नजर में
+
+डिजिटल डेस्क, नई दिल्ली। सुप्रीम कोर्ट ने शुक्रवार को रणबीर कपूर की फिल्म रामायण: राइज ऑफ ए लेजेंड की रिलीज को चुनौती देने वाली याचिका पर तत्काल सुनवाई करने से इनकार कर दिया है।
+
+समाचार एजेंसी पीटीआई के अनुसार, कोर्ट ने सख्त टिप्पणी करते हुए कहा कि जिन्हें फिल्म में दिखाए गए महाकाव्य के नजरिए से असहमति है, वे अपना अलग नजरिया पेश करने के लिए खुद की फिल्म बनाने के लिए स्वतंत्र हैं।
+
+चीफ जस्टिस सूर्यकांत, जस्टिस जॉयमाल्या बागची और जस्टिस वी. मोहना की बेंच ने इस याचिका पर जल्द सुनवाई की जरूरत पर सवाल उठाए। बेंच ने कहा कि फिल्म पहले ही सिनेमाघरों में रिलीज हो चुकी है और जो लोग इसे देखना चाहते थे, वे देख चुके हैं।
+
+याचिकाकर्ता के वकील ने बेंच को बताया कि यह याचिका 23 नवंबर को दर्ज की गई थी, लेकिन अभी तक इसे सुनवाई के लिए सूचीबद्ध नहीं किया गया है। इस पर चीफ जस्टिस सूर्यकांत ने कहा कि फिल्म पहले ही रिलीज हो चुकी है। जिन्हें इसे देखना था, वे देख चुके हैं।
+
+याचिका में आरोप लगाया गया है कि फिल्म निर्माताओं ने रामायण के चित्रण में कई पौराणिक तथ्यों के साथ छेड़छाड़ की है।
+
+सुनवाई के दौरान जब वकील ने दलील दी कि फिल्म में कई तथ्यों को तोड़-मरोड़कर पेश किया गया है, तो जस्टिस बागची ने जवाब दिया कि उन्होंने अपनी समझ के हिसाब से फिल्म बनाई है, आप अपनी समझ के हिसाब से फिल्म बना लीजिए। कोर्ट का समय बर्बाद मत कीजिए।
+
+चीफ जस्टिस ने भी इस पर सहमति जताते हुए कहा की अगर महाकाव्य को लेकर आपका कोई अलग विचार या नजरिया है, तो आप उस पर फिल्म बनाइए। कोर्ट का समय बर्बाद मत कीजिए।
+
+वकील द्वारा जल्द सुनवाई के लिए बार-बार आग्रह करने पर बेंच ने स्पष्ट किया कि इस मामले को सामान्य प्रक्रिया के तहत तय समय पर ही सूचीबद्ध किया जाएगा।
+
+यह भी पढ़ें- रामायण फिल्म के दृश्यों पर आपत्ति, झारखंड हाई कोर्ट में रोक के लिए जनहित याचिका दायर; राम मंदिर ट्रस्ट को मिले मुआवजा
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/news/national-supreem-court-refuses-urgent-hearing-on-petition-against-ranbir-kapoors-ramayana-40450074.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक अदालत का समय बर्बाद मत करो', रणबीर कपूर की 'रामायण' के खिलाफ याचिका पर तत्काल सुनवाई से SC का इनकार - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+{
     id: 98091,
     title: `Rohit Sharma to lead Mumbai Indians again in IPL 2027`,
     slug: `rohit-sharma-to-lead-mumbai-indians-again-in-ipl-2027-2026`,
