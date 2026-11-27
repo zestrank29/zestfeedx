@@ -18,7 +18,3275 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+  
+  
   {
+    id: 98061,
+    title: `Ireland to tour Pakistan for three ODIs ahead of World Cup qualifier`,
+    slug: `ireland-to-tour-pakistan-for-three-odis-ahead-of-world-cup-qualif-2026`,
+    original_title: `Ireland to tour Pakistan for three ODIs ahead of World Cup qualifier`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:15:22Z`,
+    updated_at: `2026-11-27T05:15:22Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564225.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Ireland to tour Pakistan for three ODIs ahead of World Cup qualifier`,
+    image_courtesy: `Photo: Action Sports Photography / Unsplash (Unsplash License)`,
+    image_photographer: `Action Sports Photography / Unsplash`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `The three ODIs will be played on January 20, 22, and 24 at Gaddafi Stadium, and will be followed by a three-match one-day series between Ireland and Pakistan Shaheens`,
+    content: `The three ODIs will be played on January 20, 22, and 24 at Gaddafi Stadium, and will be followed by a three-match one-day series between Ireland and Pakistan Shaheens
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564225.html?ex_cid=OTC-RSS)`,
+    title_en: `Ireland to tour Pakistan for three ODIs ahead of World Cup qualifier`,
+    summary_en: `The three ODIs will be played on January 20, 22, and 24 at Gaddafi Stadium, and will be followed by a three-match one-day series between Ireland and Pakistan Shaheens`,
+    content_en: `The three ODIs will be played on January 20, 22, and 24 at Gaddafi Stadium, and will be followed by a three-match one-day series between Ireland and Pakistan Shaheens
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564225.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-98061`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-27 10:45:22 IST`,
+    detected_at: `2026-11-27T05:15:21Z`,
+    verified_at: `2026-11-27T05:15:22Z`,
+    approved_at: `2026-11-27T05:15:22Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Ireland to tour Pakistan for three ODIs ahead of World Cup qualifier.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 98062,
+    title: `Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth`,
+    slug: `bumrah-rises-to-joint-second-in-test-bowling-rankings-rabada-up-t-2026`,
+    original_title: `Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:15:22Z`,
+    updated_at: `2026-11-27T05:15:22Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1563908.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `Rishabh Pant, Shubman Gill and Yashasvi Jaiswal have consolidated their places in the top ten among Test batters`,
+    content: `Rishabh Pant, Shubman Gill and Yashasvi Jaiswal have consolidated their places in the top ten among Test batters
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563908.html?ex_cid=OTC-RSS)`,
+    title_en: `Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth`,
+    summary_en: `Rishabh Pant, Shubman Gill and Yashasvi Jaiswal have consolidated their places in the top ten among Test batters`,
+    content_en: `Rishabh Pant, Shubman Gill and Yashasvi Jaiswal have consolidated their places in the top ten among Test batters
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563908.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-98062`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-27 10:45:22 IST`,
+    detected_at: `2026-11-27T05:15:21Z`,
+    verified_at: `2026-11-27T05:15:22Z`,
+    approved_at: `2026-11-27T05:15:22Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 98033,
+    title: `Keralam tops in anaemia control: ICMR survey`,
+    slug: `keralam-tops-in-anaemia-control-icmr-survey-2026`,
+    original_title: `Keralam tops in anaemia control: ICMR survey`,
+    category: `health`,
+    topic: `public-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:13:59Z`,
+    updated_at: `2026-11-27T05:13:59Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://timesofindia.indiatimes.com/city/kochi/keralam-tops-in-anaemia-control-icmr-survey/articleshow/136148054.cms`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `https://static.toiimg.com/photo/msid-47529300/47529300.jpg`,
+    image_alt: `Keralam tops in anaemia control: ICMR survey`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `Kochi: Keralam is the best-performing state in anaemia control, recording the lowest prevalence in seven of the nine age and gender categories assessed in a survey conducted by the Indian Council of Medical Research (ICMR).The Survey for As`,
+    content: `Kochi: Keralam is the best-performing state in anaemia control, recording the lowest prevalence in seven of the nine age and gender categories assessed in a survey conducted by the Indian Council of Medical Research (ICMR).The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (Sampada), conducted during 2023–25, found that Keralam recorded the lowest anaemia prevalence among children aged 12–59 months (14.5%, against the national average of 41.8%), children aged 5–9 years (9.8% against 31.3%), girls aged 10–19 years (21.4% against 46.3%), boys aged 10–19 years (6.3% against 22.8%), women aged 20–59 years (28% against 54.8%) and women of reproductive age (15–49 years) (29.1% against 55.9%).
+
+The state also recorded the lowest prevalence among men aged 20–59 years, at 7.1%, compared with the national average of 22%.However, Keralam did not record the lowest prevalence in either of the two elderly categories. The state’s prevalence was 37.3% among women aged 60 and above and 30.4% among men in the same age group.
+
+Uttarakhand recorded the lowest prevalence among elderly women, at 31.6%, while Haryana had the lowest among elderly men, at 25.4%.At the other end of the spectrum, Andhra Pradesh recorded the highest anaemia prevalence among children aged 12–59 months (57.5%) and elderly women (81.7%).
+
+Chhattisgarh had the highest prevalence among children aged 5–9 years (59.9%) and girls aged 10–19 years (65.4%), while Gujarat recorded the highest among adolescent boys (41.5%). Tripura topped the adult women category at 73.3%, while West Bengal had the highest prevalence among women of reproductive age at 72.4%.
+
+Assam recorded the highest prevalence among adult men (46.8%) and elderly men (74%).According to health experts, Keralam’s achievement is the result of the state’s focus on public health, hygiene, literacy and public participation in healthcare programmes.“Keralam has been performing well on most conventional health indicators for several decades.
+
+Even when Prime Minister (Narendra Modi) compared the infant mortality rate among Scheduled Tribes in Keralam with that of Somalia (in May 2016 during an election campaign), the infant mortality rate in Attappady’s tribal hamlets was 12 per 1,000 live births, while the national figure was around 34,” said Dr T S Aneesh, a public health expert.“Between 1957 and 1980s, Keralam undertook a series of initiatives that transformed its health sector.
+
+At the time of Independence, the overall state of Keralam’s health sector was not particularly encouraging. Improved living standards, high literacy, better hygiene and greater awareness among people about various diseases, coupled with timely diagnosis and treatment, contributed to our achievements in conventional health parameters,” he said.According to health expert Dr SS Lal, the Keralam model was not the result of a single initiative but evolved over the years.
+
+“While developed countries such as the US spend up to 18% of their GDP on the health sector, govt expenditure on healthcare in our country is less than 2%. Keralam, too, spends roughly the same proportion on healthcare. Our strength lies in that we achieve better results with relatively low expenditure,” Lal said.“By the late 1970s, we had continued to improve our health standards, prompting others to recognise what came to be known as the Keralam model.
+
+Data from 1930 show that the erstwhile kingdom of Travancore was ahead of several other parts of India. Several factors, including geography, helped us achieve these results,” he added.You Can Also Check: Gold Rate in Kochi | Silver Rate in Kochi | Bank Holidays in Kochi | Public Holidays in KochiStay updated with the latest Kochi news.
+
+Download the TOI App.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://timesofindia.indiatimes.com/city/kochi/keralam-tops-in-anaemia-control-icmr-survey/articleshow/136148054.cms)`,
+    title_en: `Keralam tops in anaemia control: ICMR survey`,
+    summary_en: `Kochi: Keralam is the best-performing state in anaemia control, recording the lowest prevalence in seven of the nine age and gender categories assessed in a survey conducted by the Indian Council of Medical Research (ICMR).The Survey for As`,
+    content_en: `Kochi: Keralam is the best-performing state in anaemia control, recording the lowest prevalence in seven of the nine age and gender categories assessed in a survey conducted by the Indian Council of Medical Research (ICMR).The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (Sampada), conducted during 2023–25, found that Keralam recorded the lowest anaemia prevalence among children aged 12–59 months (14.5%, against the national average of 41.8%), children aged 5–9 years (9.8% against 31.3%), girls aged 10–19 years (21.4% against 46.3%), boys aged 10–19 years (6.3% against 22.8%), women aged 20–59 years (28% against 54.8%) and women of reproductive age (15–49 years) (29.1% against 55.9%).
+
+The state also recorded the lowest prevalence among men aged 20–59 years, at 7.1%, compared with the national average of 22%.However, Keralam did not record the lowest prevalence in either of the two elderly categories. The state’s prevalence was 37.3% among women aged 60 and above and 30.4% among men in the same age group.
+
+Uttarakhand recorded the lowest prevalence among elderly women, at 31.6%, while Haryana had the lowest among elderly men, at 25.4%.At the other end of the spectrum, Andhra Pradesh recorded the highest anaemia prevalence among children aged 12–59 months (57.5%) and elderly women (81.7%).
+
+Chhattisgarh had the highest prevalence among children aged 5–9 years (59.9%) and girls aged 10–19 years (65.4%), while Gujarat recorded the highest among adolescent boys (41.5%). Tripura topped the adult women category at 73.3%, while West Bengal had the highest prevalence among women of reproductive age at 72.4%.
+
+Assam recorded the highest prevalence among adult men (46.8%) and elderly men (74%).According to health experts, Keralam’s achievement is the result of the state’s focus on public health, hygiene, literacy and public participation in healthcare programmes.“Keralam has been performing well on most conventional health indicators for several decades.
+
+Even when Prime Minister (Narendra Modi) compared the infant mortality rate among Scheduled Tribes in Keralam with that of Somalia (in May 2016 during an election campaign), the infant mortality rate in Attappady’s tribal hamlets was 12 per 1,000 live births, while the national figure was around 34,” said Dr T S Aneesh, a public health expert.“Between 1957 and 1980s, Keralam undertook a series of initiatives that transformed its health sector.
+
+At the time of Independence, the overall state of Keralam’s health sector was not particularly encouraging. Improved living standards, high literacy, better hygiene and greater awareness among people about various diseases, coupled with timely diagnosis and treatment, contributed to our achievements in conventional health parameters,” he said.According to health expert Dr SS Lal, the Keralam model was not the result of a single initiative but evolved over the years.
+
+“While developed countries such as the US spend up to 18% of their GDP on the health sector, govt expenditure on healthcare in our country is less than 2%. Keralam, too, spends roughly the same proportion on healthcare. Our strength lies in that we achieve better results with relatively low expenditure,” Lal said.“By the late 1970s, we had continued to improve our health standards, prompting others to recognise what came to be known as the Keralam model.
+
+Data from 1930 show that the erstwhile kingdom of Travancore was ahead of several other parts of India. Several factors, including geography, helped us achieve these results,” he added.You Can Also Check: Gold Rate in Kochi | Silver Rate in Kochi | Bank Holidays in Kochi | Public Holidays in KochiStay updated with the latest Kochi news.
+
+Download the TOI App.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://timesofindia.indiatimes.com/city/kochi/keralam-tops-in-anaemia-control-icmr-survey/articleshow/136148054.cms)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Keralam tops in anaemia control: ICMR survey.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 98034,
+    title: `Over 54% Of Indian Women Suffer From Anaemia, ICMR-NIN Survey Finds - ETV Bharat`,
+    slug: `over-54-of-indian-women-suffer-from-anaemia-icmr-nin-survey-finds-etv-2026`,
+    original_title: `Over 54% Of Indian Women Suffer From Anaemia, ICMR-NIN Survey Finds - ETV Bharat`,
+    category: `health`,
+    topic: `womens-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:00Z`,
+    updated_at: `2026-11-27T05:14:00Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://www.etvbharat.com/en/health/over-54-percent-of-indian-women-suffer-from-anaemia-icmr-nin-survey-finds-enn26112404752`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/over-54-of-indian-women-suffer-from-anaemia-icmr-nin-survey-finds-etv-2026.jpg`,
+    image_alt: `Over 54% Of Indian Women Suffer From Anaemia, ICMR-NIN Survey Finds - ETV Bharat`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `New Delhi: More than half of India s adult women suffer from anaemia, with Tripura, Assam, Chhattisgarh, West Bengal, Andhra Pradesh and Punjab among the states reporting particularly high prevalence, according to a nationwide nutrition sur`,
+    content: `New Delhi: More than half of India s adult women suffer from anaemia, with Tripura, Assam, Chhattisgarh, West Bengal, Andhra Pradesh and Punjab among the states reporting particularly high prevalence, according to a nationwide nutrition survey conducted by the Indian Council of Medical Research-National Institute of Nutrition (ICMR-NIN).The findings of the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA) 2023-25 reveal that 54.8 per cent of women aged 20-59 years and 55.9 per cent of women in the reproductive age group of 15-49 years are anaemic.The survey also found that anaemia affects 41.8 per cent of children aged 12-59 months, 31.3 per cent of children aged 5-9 years and 46.3 per cent of adolescent girls aged 10-19 years.Among elderly women aged 60 years and above, the prevalence stood at 55.7 per cent, while 44.7 per cent of elderly men were found to be anaemic.Tripura recorded the highest prevalence among adult women at 73.3 per cent, followed by Assam (72.8 per cent), Chhattisgarh (71.5 per cent), West Bengal (70.7 per cent) and Andhra Pradesh (68.2 per cent).Among women of reproductive age, West Bengal reported the highest prevalence at 72.4 per cent, followed by Assam (71.9 per cent), Chhattisgarh (71.5 per cent), Tripura (70 per cent) and Andhra Pradesh (68.5 per cent).Punjab also reported high levels, with 70.1 per cent of adult women and 70.5 per cent of women of reproductive age suffering from anaemia.Bihar recorded a prevalence of 65.5 per cent among both categories, while Gujarat reported 63.8 per cent among adult women and 66.2 per cent among women of reproductive age.The survey found that adolescent girls and young children are vulnerable to anaemia.Chhattisgarh reported the highest prevalence among adolescent girls at 65.4 per cent, followed by West Bengal (60.4 per cent), Tripura (59.5 per cent), Punjab (59 per cent) and Assam (58.8 per cent).
+
+Bihar also reported a high prevalence of 57.6 per cent.Among children aged 5-9 years, Chhattisgarh recorded 59.9 per cent prevalence, followed by Gujarat at 51.7 per cent and Assam at 44.9 per cent.The findings note that nutritional deficiencies are affecting children from an early age, and the need for early screening and dietary interventions.Apart from anaemia, the SAMPADA survey examined deficiencies in iron, vitamin B12 and folate.At the national level, vitamin B12 deficiency was found in 65.4 per cent of adolescent girls, 57.4 per cent of women of reproductive age and 63.1 per cent of pregnant women.Iron deficiency affected 36.3 per cent of adolescent girls, 34.1 per cent of women of reproductive age and 23 per cent of children aged 12-59 months.The report also found that iron deficiency was more prevalent among anaemic individuals than those without anaemia.
+
+People with moderate or severe anaemia had higher rates of iron deficiency than those with mild anaemia.The survey covered more than two lakh individuals across 183 districts, 35 States and Union Territories and over 81,000 households. More than 1.7 lakh blood samples were analysed.Haemoglobin levels were measured using venous blood samples and automated analysers, following the World Health Organization s 2024 age- and gender-specific haemoglobin cut-offs.Reacting to the survey findings, Congress general secretary Jairam Ramesh criticised Prime Minister Narendra Modi and questioned Gujarat s portrayal as a model state.He said that during 2023-25, anaemia was reported among 61.4 per cent of adolescent girls aged 10-19 years, 63.8 per cent of adult women aged 20-59 years and 66.2 per cent of women in the reproductive age group of 15-49 years in Gujarat.According to Ramesh, only Chhattisgarh had worse figures among the states compared.
+
+He compared Gujarat s numbers with those of Kerala, where the corresponding prevalence rates were 21.4 per cent, 28 per cent and 29.1 per cent, respectively.He also pointed out that Gujarat recorded the highest anaemia prevalence among children aged 12-59 months at 56.5 per cent, while Kerala reported the lowest at 14.5 per cent.According to ICMR-NIN, SAMPADA is among the largest and most comprehensive nutrition surveys conducted globally.
+
+It aims to address gaps in national nutrition data by providing estimates of dietary intake, anthropometry, anaemia and nutritional biomarkers.The institute said the survey analysed more than 1.7 lakh blood samples and generated data on anaemia and micronutrient deficiencies across different age groups, including elderly people above 60 years.SAMPADA used a multistage stratified cluster sampling design to generate national and state-level estimates of anaemia prevalence.
+
+It also collected comprehensive information on dietary patterns, anthropometry and nutritional biomarkers.The survey covered more than two lakh individuals across 183 districts, 35 States and Union Territories and over 81,000 households, providing a broad assessment of India s nutritional health across different age groups and physiological categories.Read More:UN s Loss And Damage Fund Sets Aside USD 20 Million For Flood-Hit NepalAnaemia Prevalence Lower Than Earlier Estimates, Severe Cases Below 2 Percent: ICMR SurveyIndia s Fishing Industry Will Flourish Through Cooperatives, Says Union Home Minister Amit Shah
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.etvbharat.com/en/health/over-54-percent-of-indian-women-suffer-from-anaemia-icmr-nin-survey-finds-enn26112404752)`,
+    title_en: `Over 54% Of Indian Women Suffer From Anaemia, ICMR-NIN Survey Finds - ETV Bharat`,
+    summary_en: `New Delhi: More than half of India s adult women suffer from anaemia, with Tripura, Assam, Chhattisgarh, West Bengal, Andhra Pradesh and Punjab among the states reporting particularly high prevalence, according to a nationwide nutrition sur`,
+    content_en: `New Delhi: More than half of India s adult women suffer from anaemia, with Tripura, Assam, Chhattisgarh, West Bengal, Andhra Pradesh and Punjab among the states reporting particularly high prevalence, according to a nationwide nutrition survey conducted by the Indian Council of Medical Research-National Institute of Nutrition (ICMR-NIN).The findings of the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA) 2023-25 reveal that 54.8 per cent of women aged 20-59 years and 55.9 per cent of women in the reproductive age group of 15-49 years are anaemic.The survey also found that anaemia affects 41.8 per cent of children aged 12-59 months, 31.3 per cent of children aged 5-9 years and 46.3 per cent of adolescent girls aged 10-19 years.Among elderly women aged 60 years and above, the prevalence stood at 55.7 per cent, while 44.7 per cent of elderly men were found to be anaemic.Tripura recorded the highest prevalence among adult women at 73.3 per cent, followed by Assam (72.8 per cent), Chhattisgarh (71.5 per cent), West Bengal (70.7 per cent) and Andhra Pradesh (68.2 per cent).Among women of reproductive age, West Bengal reported the highest prevalence at 72.4 per cent, followed by Assam (71.9 per cent), Chhattisgarh (71.5 per cent), Tripura (70 per cent) and Andhra Pradesh (68.5 per cent).Punjab also reported high levels, with 70.1 per cent of adult women and 70.5 per cent of women of reproductive age suffering from anaemia.Bihar recorded a prevalence of 65.5 per cent among both categories, while Gujarat reported 63.8 per cent among adult women and 66.2 per cent among women of reproductive age.The survey found that adolescent girls and young children are vulnerable to anaemia.Chhattisgarh reported the highest prevalence among adolescent girls at 65.4 per cent, followed by West Bengal (60.4 per cent), Tripura (59.5 per cent), Punjab (59 per cent) and Assam (58.8 per cent).
+
+Bihar also reported a high prevalence of 57.6 per cent.Among children aged 5-9 years, Chhattisgarh recorded 59.9 per cent prevalence, followed by Gujarat at 51.7 per cent and Assam at 44.9 per cent.The findings note that nutritional deficiencies are affecting children from an early age, and the need for early screening and dietary interventions.Apart from anaemia, the SAMPADA survey examined deficiencies in iron, vitamin B12 and folate.At the national level, vitamin B12 deficiency was found in 65.4 per cent of adolescent girls, 57.4 per cent of women of reproductive age and 63.1 per cent of pregnant women.Iron deficiency affected 36.3 per cent of adolescent girls, 34.1 per cent of women of reproductive age and 23 per cent of children aged 12-59 months.The report also found that iron deficiency was more prevalent among anaemic individuals than those without anaemia.
+
+People with moderate or severe anaemia had higher rates of iron deficiency than those with mild anaemia.The survey covered more than two lakh individuals across 183 districts, 35 States and Union Territories and over 81,000 households. More than 1.7 lakh blood samples were analysed.Haemoglobin levels were measured using venous blood samples and automated analysers, following the World Health Organization s 2024 age- and gender-specific haemoglobin cut-offs.Reacting to the survey findings, Congress general secretary Jairam Ramesh criticised Prime Minister Narendra Modi and questioned Gujarat s portrayal as a model state.He said that during 2023-25, anaemia was reported among 61.4 per cent of adolescent girls aged 10-19 years, 63.8 per cent of adult women aged 20-59 years and 66.2 per cent of women in the reproductive age group of 15-49 years in Gujarat.According to Ramesh, only Chhattisgarh had worse figures among the states compared.
+
+He compared Gujarat s numbers with those of Kerala, where the corresponding prevalence rates were 21.4 per cent, 28 per cent and 29.1 per cent, respectively.He also pointed out that Gujarat recorded the highest anaemia prevalence among children aged 12-59 months at 56.5 per cent, while Kerala reported the lowest at 14.5 per cent.According to ICMR-NIN, SAMPADA is among the largest and most comprehensive nutrition surveys conducted globally.
+
+It aims to address gaps in national nutrition data by providing estimates of dietary intake, anthropometry, anaemia and nutritional biomarkers.The institute said the survey analysed more than 1.7 lakh blood samples and generated data on anaemia and micronutrient deficiencies across different age groups, including elderly people above 60 years.SAMPADA used a multistage stratified cluster sampling design to generate national and state-level estimates of anaemia prevalence.
+
+It also collected comprehensive information on dietary patterns, anthropometry and nutritional biomarkers.The survey covered more than two lakh individuals across 183 districts, 35 States and Union Territories and over 81,000 households, providing a broad assessment of India s nutritional health across different age groups and physiological categories.Read More:UN s Loss And Damage Fund Sets Aside USD 20 Million For Flood-Hit NepalAnaemia Prevalence Lower Than Earlier Estimates, Severe Cases Below 2 Percent: ICMR SurveyIndia s Fishing Industry Will Flourish Through Cooperatives, Says Union Home Minister Amit Shah
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.etvbharat.com/en/health/over-54-percent-of-indian-women-suffer-from-anaemia-icmr-nin-survey-finds-enn26112404752)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Over 54% Of Indian Women Suffer From Anaemia, ICMR-NIN Survey Finds - ETV Bharat.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 98035,
+    title: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    slug: `health-breaking-report-32242-98035-2026`,
+    original_title: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:03Z`,
+    updated_at: `2026-11-27T05:14:03Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/c5m2lke8jdzzo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/health-breaking-report-32242-98035-2026.jpg`,
+    image_alt: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.`,
+    content: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.
+
+साल 2025 में भारत, पाकिस्तान, इंडोनेशिया, यूक्रेन, नाइजीरिया और इथियोपिया समेत 57 देशों में खसरे के बड़े प्रकोप दर्ज किए गए.
+
+विशेषज्ञों का कहना है कि मामलों में बढ़ोतरी का सीधा संबंध टीकाकरण की घटती दरों से है. विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) के मुताबिक़, साल 2019 में दुनियाभर के 86% बच्चों को खसरे के टीके की पहली खुराक दी गई थी, लेकिन साल 2025 तक यह आंकड़ा घटकर 84% हो गया.
+
+हालांकि ये दोनों आंकड़े भी उस 95% टीकाकरण कवरेज से काफ़ी कम हैं, जो किसी आबादी में खसरे के प्रसार को रोकने के लिए ज़रूरी है.
+
+टीकाकरण के प्रति हिचकिचाहट, टीकाकरण की कम दरों के पीछे एक प्रमुख कारण है. टीकों की सुरक्षा, उनके असर और उनके दुष्प्रभावों को लेकर चिंताएं ऑनलाइन ग़लत सूचनाओं के प्रसार से और बढ़ जाती हैं.
+
+लंदन स्कूल ऑफ़ हाइजीन एंड ट्रॉपिकल मेडिसिन में बाल स्वास्थ्य की प्रोफेसर हेलेन बेडफोर्ड कहती हैं, "इंटरनेट और मीडिया के इस दौर में टीकाकरण से जुड़े मिथक, अफ़वाहें और चिंताएं बहुत तेज़ी से दुनियाभर में फैल सकती हैं."
+
+हालांकि, ब्रिटेन की यूनिवर्सिटी ऑफ हडर्सफ़ील्ड में निवारक स्वास्थ्य की शोधकर्ता सुज़ाना कोला-पामर का कहना है कि टीकाकरण को लेकर हिचकिचाने वाले लोगों को तुरंत टीका-विरोधी नहीं मान लेना चाहिए.
+
+वह बीबीसी वर्ल्ड सर्विस से कहती हैं कि इसके बजाय, उनमें से कई लोग सिर्फ़ "आश्वासन चाहते हैं."
+
+तो वैज्ञानिक कैसे तय करते हैं कि कोई टीका सुरक्षित है और आप ऑनलाइन फैलाई जा रही ग़लत सूचनाओं की पहचान कैसे कर सकते हैं?
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+आज भी टीकों के विकास को चिकित्सा विज्ञान की सबसे बड़ी उपलब्धियों में से एक माना जाता है. डब्ल्यूएचओ का अनुमान है कि खसरा, टिटनेस, डिप्थीरिया और इन्फ्लुएंजा जैसी बीमारियों से हर साल 35 लाख से 50 लाख लोगों की जान बचाने में टीके मदद करते हैं.
+
+टीका शरीर की प्रतिरक्षा प्रणाली (इम्यून सिस्टम) को किसी संक्रमण की पहचान करना और उससे लड़ना सिखाता है, ताकि वास्तविक संक्रमण के संपर्क में आने से पहले ही शरीर उससे निपटने के लिए तैयार हो जाए.
+
+बेडफोर्ड बताती हैं, "टीके वास्तविक संक्रमण से गुज़रे बिना ही वह इम्यूनिटी दे देते हैं, जो आमतौर पर वास्तव में संक्रमण होने पर शरीर में विकसित होती है."
+
+उदाहरण के लिए, मम्प्स (गलसुआ), खसरा और रूबेला (एमएमआर) का टीका इन बीमारियों का कारण बनने वाले वायरस के कमज़ोर रूपों से तैयार किया जाता है. इसे शरीर में इंजेक्ट करने पर प्रतिरक्षा प्रणाली सक्रिय हो जाती है और भविष्य में वास्तविक संक्रमण के संपर्क में आने पर वह उसे पहचानकर तुरंत प्रतिक्रिया देती है.
+
+हालांकि, सभी टीके एक ही तरह से काम नहीं करते.
+
+मैसेंजर आरएनए (एमआरएनए) टीकों में आनुवंशिक निर्देशों का इस्तेमाल किया जाता है, जो अस्थायी रूप से कोशिकाओं को बिना नुक़सान वाले प्रोटीन बनाने के लिए कहते हैं.
+
+यह प्रोटीन शरीर में इम्यून रेस्पॉन्स पैदा करता है. फाइज़र का कोविड-19 टीका एमआरएनए टीके का एक उदाहरण है.
+
+### टीकों का परीक्षण कैसे किया जाता है?
+
+यह प्रक्रिया वैज्ञानिक शोध से शुरू होती है. इसमें यह देखा जाता है कि इस विषय पर क्षेत्र के दूसरे शोधकर्ताओं ने क्या काम किया है और वे किन निष्कर्षों पर पहुंचे हैं.
+
+जब वैज्ञानिक किसी नए विचार का परीक्षण करने के लिए तैयार होते हैं, तो वे प्रयोगशाला में जांच शुरू करते हैं. जांच सबसे पहले कोशिकाओं पर और फिर जानवरों पर, जिनमें अक्सर चूहों का इस्तेमाल किया जाता है.
+
+ऑक्सफोर्ड यूनिवर्सिटी के वैक्सीन नॉलेज प्रोजेक्ट के मुताबिक़, अगले चरण के परीक्षणों में जाने से पहले यह साबित करना ज़रूरी होता है कि परीक्षण किया जा रहा टीका जानवरों में इम्यून रेस्पॉन्स पैदा कर सकता है.
+
+इसके बाद इंसानों पर परीक्षण किए जाते हैं, जिन्हें आमतौर पर तीन चरणों में बांटा जाता है.
+
+फेज़ 1- पहले चरण में वॉलंटियर्स के एक छोटे समूह पर परीक्षण किया जाता है. इनमें आमतौर पर युवा और स्वस्थ वयस्क शामिल होते हैं. डब्ल्यूएचओ के मुताबिक़, इस चरण में सुरक्षा से जुड़ी किसी बड़ी चिंता और टीके की सही खुराक का पता लगाया जाता है.
+
+फेज़ 2- दूसरे चरण में स्वयंसेवकों के एक बड़े समूह पर परीक्षण किया जाता है. इसमें आमतौर पर कई सौ लोग शामिल होते हैं, जो उस आबादी से होते हैं जिसके लिए टीका तैयार किया गया है.
+
+उनकी तुलना ऐसे लोगों के एक समूह से की जाती है जिन्हें टीका नहीं दिया गया होता. इसे कंट्रोल ग्रुप कहा जाता है. डॉक्टर टीके के संभावित दुष्प्रभावों और शरीर की प्रतिरक्षा प्रतिक्रिया का अध्ययन करते हैं.
+
+फेज़ 3- तीसरे चरण में इससे भी बड़े समूह पर टीके का परीक्षण किया जाता है. इसमें आमतौर पर हज़ारों वॉलंटियर्स शामिल होते हैं. साथ ही एक कंट्रोल ग्रुप भी रखा जाता है.
+
+ये परीक्षण आमतौर पर अलग-अलग देशों में किए जाते हैं, ताकि यह सुनिश्चित किया जा सके कि टीका अलग-अलग उम्र, जातीयता (एथनेसिटी), सामाजिक पृष्ठभूमि और रहन-सहन वाले लोगों के बीच प्रभावी और सुरक्षित है.
+
+किसी टीके को इन तीनों चरणों से गुज़रने में कई दशक भी लग सकते हैं. मेनबी के नाम से जाने जाने वाले मेनिंगोकोकल बीमारी के टीके को विकसित करने में क़रीब 15 साल लगे थे.
+
+बेडफोर्ड कहती हैं, "जब आप किसी पूरी आबादी के स्वस्थ बच्चों को कोई टीका देने जा रहे होते हैं, तो आपको पूरी तरह आश्वस्त होना पड़ता है कि वह बहुत सुरक्षित है."
+
+हालांकि, असाधारण परिस्थितियों में सुरक्षा जांच से समझौता किए बिना टीकों को तेज़ी से विकसित और उनका परीक्षण किया जा सकता है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c5m2lke8jdzzo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    summary_hi: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.`,
+    content_hi: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.
+
+साल 2025 में भारत, पाकिस्तान, इंडोनेशिया, यूक्रेन, नाइजीरिया और इथियोपिया समेत 57 देशों में खसरे के बड़े प्रकोप दर्ज किए गए.
+
+विशेषज्ञों का कहना है कि मामलों में बढ़ोतरी का सीधा संबंध टीकाकरण की घटती दरों से है. विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) के मुताबिक़, साल 2019 में दुनियाभर के 86% बच्चों को खसरे के टीके की पहली खुराक दी गई थी, लेकिन साल 2025 तक यह आंकड़ा घटकर 84% हो गया.
+
+हालांकि ये दोनों आंकड़े भी उस 95% टीकाकरण कवरेज से काफ़ी कम हैं, जो किसी आबादी में खसरे के प्रसार को रोकने के लिए ज़रूरी है.
+
+टीकाकरण के प्रति हिचकिचाहट, टीकाकरण की कम दरों के पीछे एक प्रमुख कारण है. टीकों की सुरक्षा, उनके असर और उनके दुष्प्रभावों को लेकर चिंताएं ऑनलाइन ग़लत सूचनाओं के प्रसार से और बढ़ जाती हैं.
+
+लंदन स्कूल ऑफ़ हाइजीन एंड ट्रॉपिकल मेडिसिन में बाल स्वास्थ्य की प्रोफेसर हेलेन बेडफोर्ड कहती हैं, "इंटरनेट और मीडिया के इस दौर में टीकाकरण से जुड़े मिथक, अफ़वाहें और चिंताएं बहुत तेज़ी से दुनियाभर में फैल सकती हैं."
+
+हालांकि, ब्रिटेन की यूनिवर्सिटी ऑफ हडर्सफ़ील्ड में निवारक स्वास्थ्य की शोधकर्ता सुज़ाना कोला-पामर का कहना है कि टीकाकरण को लेकर हिचकिचाने वाले लोगों को तुरंत टीका-विरोधी नहीं मान लेना चाहिए.
+
+वह बीबीसी वर्ल्ड सर्विस से कहती हैं कि इसके बजाय, उनमें से कई लोग सिर्फ़ "आश्वासन चाहते हैं."
+
+तो वैज्ञानिक कैसे तय करते हैं कि कोई टीका सुरक्षित है और आप ऑनलाइन फैलाई जा रही ग़लत सूचनाओं की पहचान कैसे कर सकते हैं?
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+आज भी टीकों के विकास को चिकित्सा विज्ञान की सबसे बड़ी उपलब्धियों में से एक माना जाता है. डब्ल्यूएचओ का अनुमान है कि खसरा, टिटनेस, डिप्थीरिया और इन्फ्लुएंजा जैसी बीमारियों से हर साल 35 लाख से 50 लाख लोगों की जान बचाने में टीके मदद करते हैं.
+
+टीका शरीर की प्रतिरक्षा प्रणाली (इम्यून सिस्टम) को किसी संक्रमण की पहचान करना और उससे लड़ना सिखाता है, ताकि वास्तविक संक्रमण के संपर्क में आने से पहले ही शरीर उससे निपटने के लिए तैयार हो जाए.
+
+बेडफोर्ड बताती हैं, "टीके वास्तविक संक्रमण से गुज़रे बिना ही वह इम्यूनिटी दे देते हैं, जो आमतौर पर वास्तव में संक्रमण होने पर शरीर में विकसित होती है."
+
+उदाहरण के लिए, मम्प्स (गलसुआ), खसरा और रूबेला (एमएमआर) का टीका इन बीमारियों का कारण बनने वाले वायरस के कमज़ोर रूपों से तैयार किया जाता है. इसे शरीर में इंजेक्ट करने पर प्रतिरक्षा प्रणाली सक्रिय हो जाती है और भविष्य में वास्तविक संक्रमण के संपर्क में आने पर वह उसे पहचानकर तुरंत प्रतिक्रिया देती है.
+
+हालांकि, सभी टीके एक ही तरह से काम नहीं करते.
+
+मैसेंजर आरएनए (एमआरएनए) टीकों में आनुवंशिक निर्देशों का इस्तेमाल किया जाता है, जो अस्थायी रूप से कोशिकाओं को बिना नुक़सान वाले प्रोटीन बनाने के लिए कहते हैं.
+
+यह प्रोटीन शरीर में इम्यून रेस्पॉन्स पैदा करता है. फाइज़र का कोविड-19 टीका एमआरएनए टीके का एक उदाहरण है.
+
+### टीकों का परीक्षण कैसे किया जाता है?
+
+यह प्रक्रिया वैज्ञानिक शोध से शुरू होती है. इसमें यह देखा जाता है कि इस विषय पर क्षेत्र के दूसरे शोधकर्ताओं ने क्या काम किया है और वे किन निष्कर्षों पर पहुंचे हैं.
+
+जब वैज्ञानिक किसी नए विचार का परीक्षण करने के लिए तैयार होते हैं, तो वे प्रयोगशाला में जांच शुरू करते हैं. जांच सबसे पहले कोशिकाओं पर और फिर जानवरों पर, जिनमें अक्सर चूहों का इस्तेमाल किया जाता है.
+
+ऑक्सफोर्ड यूनिवर्सिटी के वैक्सीन नॉलेज प्रोजेक्ट के मुताबिक़, अगले चरण के परीक्षणों में जाने से पहले यह साबित करना ज़रूरी होता है कि परीक्षण किया जा रहा टीका जानवरों में इम्यून रेस्पॉन्स पैदा कर सकता है.
+
+इसके बाद इंसानों पर परीक्षण किए जाते हैं, जिन्हें आमतौर पर तीन चरणों में बांटा जाता है.
+
+फेज़ 1- पहले चरण में वॉलंटियर्स के एक छोटे समूह पर परीक्षण किया जाता है. इनमें आमतौर पर युवा और स्वस्थ वयस्क शामिल होते हैं. डब्ल्यूएचओ के मुताबिक़, इस चरण में सुरक्षा से जुड़ी किसी बड़ी चिंता और टीके की सही खुराक का पता लगाया जाता है.
+
+फेज़ 2- दूसरे चरण में स्वयंसेवकों के एक बड़े समूह पर परीक्षण किया जाता है. इसमें आमतौर पर कई सौ लोग शामिल होते हैं, जो उस आबादी से होते हैं जिसके लिए टीका तैयार किया गया है.
+
+उनकी तुलना ऐसे लोगों के एक समूह से की जाती है जिन्हें टीका नहीं दिया गया होता. इसे कंट्रोल ग्रुप कहा जाता है. डॉक्टर टीके के संभावित दुष्प्रभावों और शरीर की प्रतिरक्षा प्रतिक्रिया का अध्ययन करते हैं.
+
+फेज़ 3- तीसरे चरण में इससे भी बड़े समूह पर टीके का परीक्षण किया जाता है. इसमें आमतौर पर हज़ारों वॉलंटियर्स शामिल होते हैं. साथ ही एक कंट्रोल ग्रुप भी रखा जाता है.
+
+ये परीक्षण आमतौर पर अलग-अलग देशों में किए जाते हैं, ताकि यह सुनिश्चित किया जा सके कि टीका अलग-अलग उम्र, जातीयता (एथनेसिटी), सामाजिक पृष्ठभूमि और रहन-सहन वाले लोगों के बीच प्रभावी और सुरक्षित है.
+
+किसी टीके को इन तीनों चरणों से गुज़रने में कई दशक भी लग सकते हैं. मेनबी के नाम से जाने जाने वाले मेनिंगोकोकल बीमारी के टीके को विकसित करने में क़रीब 15 साल लगे थे.
+
+बेडफोर्ड कहती हैं, "जब आप किसी पूरी आबादी के स्वस्थ बच्चों को कोई टीका देने जा रहे होते हैं, तो आपको पूरी तरह आश्वस्त होना पड़ता है कि वह बहुत सुरक्षित है."
+
+हालांकि, असाधारण परिस्थितियों में सुरक्षा जांच से समझौता किए बिना टीकों को तेज़ी से विकसित और उनका परीक्षण किया जा सकता है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c5m2lke8jdzzo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक हमें कैसे पता चलेगा कि टीके सुरक्षित हैं? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 98036,
+    title: `फिजिकल हेल्थ- अनन्या पांडे ने कराया लिम्फैटिक ड्रेनेज: जानें ये क्या है, कैसे काम करता है, किसके लिए जरूरी ... - Dainik Bhaskar`,
+    slug: `health-breaking-report-52608-98036-2026`,
+    original_title: `फिजिकल हेल्थ- अनन्या पांडे ने कराया लिम्फैटिक ड्रेनेज: जानें ये क्या है, कैसे काम करता है, किसके लिए जरूरी ... - Dainik Bhaskar`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:07Z`,
+    updated_at: `2026-11-27T05:14:07Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/lifestyle/news/ananya-panday-lymphatic-drainage-massage-explained-benefits-health-risk-139777251.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/health-breaking-report-52608-98036-2026.jpg`,
+    image_alt: `फिजिकल हेल्थ- अनन्या पांडे ने कराया लिम्फैटिक ड्रेनेज: जानें ये क्या है, कैसे काम करता है, किसके लिए जरूरी ... - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `हाल ही में एक्ट्रेस अनन्या पांडे 'कॉफी विद करण' में नजर आईं। उन्होंने बताया कि एपिसोड में पहनी ड्रेस में फिट होने के लिए उन्होंने ‘लिम्फैटिक ड्रेनेज मसाज’ करवाई थी। इसके बाद से यह तकनीक काफी चर्चा में है।`,
+    content: `हाल ही में एक्ट्रेस अनन्या पांडे 'कॉफी विद करण' में नजर आईं। उन्होंने बताया कि एपिसोड में पहनी ड्रेस में फिट होने के लिए उन्होंने ‘लिम्फैटिक ड्रेनेज मसाज’ करवाई थी। इसके बाद से यह तकनीक काफी चर्चा में है।
+
+आजकल कई लोग शरीर की सूजन कम करने और फिट दिखने के लिए इस तरह की मसाज करवाते हैं। लेकिन क्या आप जानते हैं कि इसका संबंध शरीर के एक खास सिस्टम से है, जो एक्स्ट्रा फ्लूइड को बाहर निकालने और संक्रमण से बचाने में मदद करता है? इसे लिम्फैटिक सिस्टम कहते हैं। इस सिस्टम में गड़बड़ी होने पर हाथ-पैरों में सूजन जैसी समस्याएं हो सकती हैं।
+
+इसलिए आज ‘फिजिकल हेल्थ’ में लिम्फैटिक ड्रेनेज की बात करेंगे। साथ ही जानेंगे कि-
+
+एक्सपर्ट- डॉ. अंबरीश कुमार गर्ग, सीनियर कंसल्टेंट, इंटरनल मेडिसिन, नारायणा हॉस्पिटल, जयपुर
+
+सवाल- लिम्फैटिक सिस्टम क्या है? यह कैसे काम करता है?
+
+सवाल- शरीर में लिम्फ फ्लूइड कैसे बनता है और इसमें क्या होता है?
+
+सवाल- शरीर में लिम्फ नोड्स कहां होते हैं और इनका क्या काम है?
+
+जवाब- लिम्फ नोड्स शरीर में छोटी-छोटी बीन के आकार की ग्लैंड्स होती हैं। इनकी संख्या लगभग 600 होती है। ये लिम्फैटिक सिस्टम का अहम हिस्सा हैं।
+
+इनका मुख्य काम लिम्फ फ्लूइड को फिल्टर करना और बैक्टीरिया-वायरस जैसे हानिकारक तत्वों को पहचानने में इम्यून सिस्टम की मदद करना है। शरीर में लिम्फ नोड्स कहां होती हैं, ग्राफिक में देखिए-
+
+सवाल- लिम्फैटिक सिस्टम में गड़बड़ी हो तो शरीर में क्या बदलाव आते हैं?
+
+जवाब- ऐसे में शरीर के टिश्यूज में एक्स्ट्रा लिम्फ फ्लूइड जमा होने लगता है। इससे शरीर के कुछ हिस्सों में सूजन आ सकती है। इस कंडीशन को ‘लिम्फेडेमा’ कहते हैं। इसके कारण शरीर में ये बदलाव दिखाई दे सकते हैं-
+
+सवाल- लिम्फैटिक ड्रेनेज क्या होता है?
+
+जवाब- लिम्फैटिक ड्रेनेज शरीर में जमा अतिरिक्त लिम्फ फ्लूइड को आगे बढ़ाकर ब्लड सर्कुलेशन तक पहुंचाने की प्रक्रिया है। यह शरीर में प्राकृतिक रूप से होती रहती है।
+
+सवाल- लिम्फैटिक ड्रेनेज शरीर के किन हिस्सों पर किया जाता है?
+
+जवाब- यह इस बात पर निर्भर करता है कि शरीर के किस हिस्से में सूजन है। आमतौर पर इसकी प्रक्रिया में इन हिस्सों को शामिल किया जाता है-
+
+सवाल- लिम्फैटिक ड्रेनेज का प्रोसेस क्या है?
+
+जवाब- इसे प्रोफेशनल थेरेपिस्ट करते हैं। इसका सही तरीका पॉइंटर्स से समझिए-
+
+सवाल- किन हेल्थ कंडीशंस में इसकी जरूरत पड़ती है?
+
+जवाब- डॉक्टर मरीज की बीमारी, सूजन की गंभीरता और लिम्फैटिक सिस्टम की स्थिति को देखकर लिम्फैटिक ड्रेनेज की सलाह देते हैं। खासकर कुछ हेल्थ कंडीशंस में इसकी जरूरत पड़ सकती है। ग्राफिक में देखिए-
+
+सवाल- लिम्फैटिक ड्रेनेज का असर कितने समय तक रहता है?
+
+जवाब- यह इस बात पर निर्भर करता है कि सूजन किस वजह से है, कितनी गंभीर है और लिम्फैटिक सिस्टम कितनी अच्छी तरह काम कर रहा है।
+
+सवाल- लिम्फैटिक ड्रेनेज के क्या साइड इफेक्ट्स हो सकते हैं?
+
+जवाब- कुछ लोगों को इसके बाद हल्की परेशानियां हो सकती हैं। ग्राफिक में सभी साइड इफेक्ट्स देखिए-
+
+सवाल- किन लोगों को लिम्फैटिक ड्रेनेज नहीं करवानी चाहिए?
+
+जवाब- कुछ हेल्थ कंडीशंस में मसाज के कारण परेशानी बढ़ सकती है या शरीर पर अतिरिक्त दबाव पड़ सकता है। इसलिए इन स्थितियों में बिना डॉक्टर की सलाह के लिम्फैटिक ड्रेनेज नहीं करवाना चाहिए-
+
+सवाल- आजकल ये ब्यूटी ट्रेंड भी बन गया है। क्या बिना हेल्थ नीड के सुंदरता के लिए ये कराना ठीक है?
+
+जवाब- शरीर में लिम्फ फ्लूइड का फ्लो मेंटेन रखने के लिए किसी बाहरी मसाज की जरूरत नहीं होती। हालांकि, ब्यूटी ट्रीटमेंट के रूप में कुछ लोग चेहरे की पफीनेस और शरीर की सूजन कम करने के लिए लिम्फैटिक ड्रेनेज करवाते हैं।
+
+इससे कुछ समय के लिए चेहरे या शरीर की सूजन कम दिखाई दे सकती है, लेकिन इसका असर स्थायी नहीं होता। इसलिए सिर्फ सुंदरता के लिए इसे करवाना जरूरी नहीं है।
+
+सवाल- शरीर के लिम्फैटिक सिस्टम को स्वस्थ रखने के लिए कौन-सी आदतें अपनानी चाहिए?
+
+जवाब- इसके लिए कुछ हेल्दी आदतें अपना सकते हैं, जैसेकि-
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/lifestyle/news/ananya-panday-lymphatic-drainage-massage-explained-benefits-health-risk-139777251.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `फिजिकल हेल्थ- अनन्या पांडे ने कराया लिम्फैटिक ड्रेनेज: जानें ये क्या है, कैसे काम करता है, किसके लिए जरूरी ... - Dainik Bhaskar`,
+    summary_hi: `हाल ही में एक्ट्रेस अनन्या पांडे 'कॉफी विद करण' में नजर आईं। उन्होंने बताया कि एपिसोड में पहनी ड्रेस में फिट होने के लिए उन्होंने ‘लिम्फैटिक ड्रेनेज मसाज’ करवाई थी। इसके बाद से यह तकनीक काफी चर्चा में है।`,
+    content_hi: `हाल ही में एक्ट्रेस अनन्या पांडे 'कॉफी विद करण' में नजर आईं। उन्होंने बताया कि एपिसोड में पहनी ड्रेस में फिट होने के लिए उन्होंने ‘लिम्फैटिक ड्रेनेज मसाज’ करवाई थी। इसके बाद से यह तकनीक काफी चर्चा में है।
+
+आजकल कई लोग शरीर की सूजन कम करने और फिट दिखने के लिए इस तरह की मसाज करवाते हैं। लेकिन क्या आप जानते हैं कि इसका संबंध शरीर के एक खास सिस्टम से है, जो एक्स्ट्रा फ्लूइड को बाहर निकालने और संक्रमण से बचाने में मदद करता है? इसे लिम्फैटिक सिस्टम कहते हैं। इस सिस्टम में गड़बड़ी होने पर हाथ-पैरों में सूजन जैसी समस्याएं हो सकती हैं।
+
+इसलिए आज ‘फिजिकल हेल्थ’ में लिम्फैटिक ड्रेनेज की बात करेंगे। साथ ही जानेंगे कि-
+
+एक्सपर्ट- डॉ. अंबरीश कुमार गर्ग, सीनियर कंसल्टेंट, इंटरनल मेडिसिन, नारायणा हॉस्पिटल, जयपुर
+
+सवाल- लिम्फैटिक सिस्टम क्या है? यह कैसे काम करता है?
+
+सवाल- शरीर में लिम्फ फ्लूइड कैसे बनता है और इसमें क्या होता है?
+
+सवाल- शरीर में लिम्फ नोड्स कहां होते हैं और इनका क्या काम है?
+
+जवाब- लिम्फ नोड्स शरीर में छोटी-छोटी बीन के आकार की ग्लैंड्स होती हैं। इनकी संख्या लगभग 600 होती है। ये लिम्फैटिक सिस्टम का अहम हिस्सा हैं।
+
+इनका मुख्य काम लिम्फ फ्लूइड को फिल्टर करना और बैक्टीरिया-वायरस जैसे हानिकारक तत्वों को पहचानने में इम्यून सिस्टम की मदद करना है। शरीर में लिम्फ नोड्स कहां होती हैं, ग्राफिक में देखिए-
+
+सवाल- लिम्फैटिक सिस्टम में गड़बड़ी हो तो शरीर में क्या बदलाव आते हैं?
+
+जवाब- ऐसे में शरीर के टिश्यूज में एक्स्ट्रा लिम्फ फ्लूइड जमा होने लगता है। इससे शरीर के कुछ हिस्सों में सूजन आ सकती है। इस कंडीशन को ‘लिम्फेडेमा’ कहते हैं। इसके कारण शरीर में ये बदलाव दिखाई दे सकते हैं-
+
+सवाल- लिम्फैटिक ड्रेनेज क्या होता है?
+
+जवाब- लिम्फैटिक ड्रेनेज शरीर में जमा अतिरिक्त लिम्फ फ्लूइड को आगे बढ़ाकर ब्लड सर्कुलेशन तक पहुंचाने की प्रक्रिया है। यह शरीर में प्राकृतिक रूप से होती रहती है।
+
+सवाल- लिम्फैटिक ड्रेनेज शरीर के किन हिस्सों पर किया जाता है?
+
+जवाब- यह इस बात पर निर्भर करता है कि शरीर के किस हिस्से में सूजन है। आमतौर पर इसकी प्रक्रिया में इन हिस्सों को शामिल किया जाता है-
+
+सवाल- लिम्फैटिक ड्रेनेज का प्रोसेस क्या है?
+
+जवाब- इसे प्रोफेशनल थेरेपिस्ट करते हैं। इसका सही तरीका पॉइंटर्स से समझिए-
+
+सवाल- किन हेल्थ कंडीशंस में इसकी जरूरत पड़ती है?
+
+जवाब- डॉक्टर मरीज की बीमारी, सूजन की गंभीरता और लिम्फैटिक सिस्टम की स्थिति को देखकर लिम्फैटिक ड्रेनेज की सलाह देते हैं। खासकर कुछ हेल्थ कंडीशंस में इसकी जरूरत पड़ सकती है। ग्राफिक में देखिए-
+
+सवाल- लिम्फैटिक ड्रेनेज का असर कितने समय तक रहता है?
+
+जवाब- यह इस बात पर निर्भर करता है कि सूजन किस वजह से है, कितनी गंभीर है और लिम्फैटिक सिस्टम कितनी अच्छी तरह काम कर रहा है।
+
+सवाल- लिम्फैटिक ड्रेनेज के क्या साइड इफेक्ट्स हो सकते हैं?
+
+जवाब- कुछ लोगों को इसके बाद हल्की परेशानियां हो सकती हैं। ग्राफिक में सभी साइड इफेक्ट्स देखिए-
+
+सवाल- किन लोगों को लिम्फैटिक ड्रेनेज नहीं करवानी चाहिए?
+
+जवाब- कुछ हेल्थ कंडीशंस में मसाज के कारण परेशानी बढ़ सकती है या शरीर पर अतिरिक्त दबाव पड़ सकता है। इसलिए इन स्थितियों में बिना डॉक्टर की सलाह के लिम्फैटिक ड्रेनेज नहीं करवाना चाहिए-
+
+सवाल- आजकल ये ब्यूटी ट्रेंड भी बन गया है। क्या बिना हेल्थ नीड के सुंदरता के लिए ये कराना ठीक है?
+
+जवाब- शरीर में लिम्फ फ्लूइड का फ्लो मेंटेन रखने के लिए किसी बाहरी मसाज की जरूरत नहीं होती। हालांकि, ब्यूटी ट्रीटमेंट के रूप में कुछ लोग चेहरे की पफीनेस और शरीर की सूजन कम करने के लिए लिम्फैटिक ड्रेनेज करवाते हैं।
+
+इससे कुछ समय के लिए चेहरे या शरीर की सूजन कम दिखाई दे सकती है, लेकिन इसका असर स्थायी नहीं होता। इसलिए सिर्फ सुंदरता के लिए इसे करवाना जरूरी नहीं है।
+
+सवाल- शरीर के लिम्फैटिक सिस्टम को स्वस्थ रखने के लिए कौन-सी आदतें अपनानी चाहिए?
+
+जवाब- इसके लिए कुछ हेल्दी आदतें अपना सकते हैं, जैसेकि-
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/lifestyle/news/ananya-panday-lymphatic-drainage-massage-explained-benefits-health-risk-139777251.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक फिजिकल हेल्थ- अनन्या पांडे ने कराया लिम्फैटिक ड्रेनेज: जानें ये क्या है, कैसे काम करता है, किसके लिए जरूरी ... - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+  {
+    id: 98037,
+    title: `Tamil Nadu govt. has acquired only 24% of land required for railway projects: Ashwini Vaishnav`,
+    slug: `tamil-nadu-govt-has-acquired-only-24-of-land-required-for-railway-proj-2026`,
+    original_title: `Tamil Nadu govt. has acquired only 24% of land required for railway projects: Ashwini Vaishnav`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:09Z`,
+    updated_at: `2026-11-27T05:14:09Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-govt-has-acquired-only-24-of-land-required-for-railway-projects-ashwini-vaishnav/article71747955.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/tamil-nadu-govt-has-acquired-only-24-of-land-required-for-railway-proj-2026.jpg`,
+    image_alt: `Tamil Nadu govt. has acquired only 24% of land required for railway projects: Ashwini Vaishnav`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `Chennai Stating that the Tamil Nadu government will have to do its duty of acquiring land if all sanctioned railway projects are to be implemented in the State, Railway Minister Ashwini Vaishnaw said that the total land acquired so far stoo`,
+    content: `Chennai Stating that the Tamil Nadu government will have to do its duty of acquiring land if all sanctioned railway projects are to be implemented in the State, Railway Minister Ashwini Vaishnaw said that the total land acquired so far stood at only 24% of the land required. Speaking at a Constitution Day event organised by the State BJP unit in the city on Thursday, Mr.
+
+Vaishnav said, that out of a total requirment of 4,800 hectares of land, the State has managed to acquire only 1,253 hectares. “My request to the TVK is, please take this as a challenge. Acquire the land [and] we will [carry out] each and every project without any hassle...don’t shy away from your responsibilities,” he emphasised.
+
+Projects sanctioned for development of railways in Tamil Nadu amounted to Rs. 48,000 crore, he added. Taking a dig at the State government over the Thiruparankundram deepam issue, Mr. Vaishnav said, “You can stop one deepam to be lighted, but you cannot stop the Tamil people from progress.
+
+Stopping one deepam, you have disturbed the emotions of millions of people.” Listing out some of the projects undertaken, the minister said that 77 railway stations in Tamil Nadu are being reconstructed. Construction was underway in stations like Chennai Egmore, Madurai, and Katpadi, while construction work has been completed in Chinna Salem, Morappur, Manapparai, Pollachi, Thiruvarur, Coonoor, and Udhagamandalam.
+
+Nine Vande Bharat services are being operated in Tamil Nadu, he maintained. Bullet trains, once introduced, will cut the journey from Chennai to Bengaluru to merely 73 minutes. Also, the Hyderabad-Amaravati-Chennai distance will take three hours to complete, the minister added. He added that in Gummidipoondi, the Ramkrishna Titagarh Rail Wheels Ltd’s forged wheel factory was ready and would soon roll out high strength railway wheels which will be exported to Europe as well.
+
+Earlier, BJP State President Nainar Nagendran put forth a series of requests, including installing a statue of former chief minister M.G. Ramachandran at the Chennai Central Railway Station, reopening of Kallur station near Tirunelveli, introducing sleeper coaches in Vande Bharat trains, and a stop at Thalaiyuthu station for trains running between Coimbatore and Tirunelveli.
+
+The minister immediately got on his phone passing the demands on to railway officials and setting a timeline for the same, which drew applause from the crowd. Tamilisai Soundararajan, senior BJP leader, requested the minister to install a statue of freedom fighter Vanchinathan at the Vanchi Maniyachchi Junction in Thoothukudi district.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-govt-has-acquired-only-24-of-land-required-for-railway-projects-ashwini-vaishnav/article71747955.ece)`,
+    title_en: `Tamil Nadu govt. has acquired only 24% of land required for railway projects: Ashwini Vaishnav`,
+    summary_en: `Chennai Stating that the Tamil Nadu government will have to do its duty of acquiring land if all sanctioned railway projects are to be implemented in the State, Railway Minister Ashwini Vaishnaw said that the total land acquired so far stoo`,
+    content_en: `Chennai Stating that the Tamil Nadu government will have to do its duty of acquiring land if all sanctioned railway projects are to be implemented in the State, Railway Minister Ashwini Vaishnaw said that the total land acquired so far stood at only 24% of the land required. Speaking at a Constitution Day event organised by the State BJP unit in the city on Thursday, Mr.
+
+Vaishnav said, that out of a total requirment of 4,800 hectares of land, the State has managed to acquire only 1,253 hectares. “My request to the TVK is, please take this as a challenge. Acquire the land [and] we will [carry out] each and every project without any hassle...don’t shy away from your responsibilities,” he emphasised.
+
+Projects sanctioned for development of railways in Tamil Nadu amounted to Rs. 48,000 crore, he added. Taking a dig at the State government over the Thiruparankundram deepam issue, Mr. Vaishnav said, “You can stop one deepam to be lighted, but you cannot stop the Tamil people from progress.
+
+Stopping one deepam, you have disturbed the emotions of millions of people.” Listing out some of the projects undertaken, the minister said that 77 railway stations in Tamil Nadu are being reconstructed. Construction was underway in stations like Chennai Egmore, Madurai, and Katpadi, while construction work has been completed in Chinna Salem, Morappur, Manapparai, Pollachi, Thiruvarur, Coonoor, and Udhagamandalam.
+
+Nine Vande Bharat services are being operated in Tamil Nadu, he maintained. Bullet trains, once introduced, will cut the journey from Chennai to Bengaluru to merely 73 minutes. Also, the Hyderabad-Amaravati-Chennai distance will take three hours to complete, the minister added. He added that in Gummidipoondi, the Ramkrishna Titagarh Rail Wheels Ltd’s forged wheel factory was ready and would soon roll out high strength railway wheels which will be exported to Europe as well.
+
+Earlier, BJP State President Nainar Nagendran put forth a series of requests, including installing a statue of former chief minister M.G. Ramachandran at the Chennai Central Railway Station, reopening of Kallur station near Tirunelveli, introducing sleeper coaches in Vande Bharat trains, and a stop at Thalaiyuthu station for trains running between Coimbatore and Tirunelveli.
+
+The minister immediately got on his phone passing the demands on to railway officials and setting a timeline for the same, which drew applause from the crowd. Tamilisai Soundararajan, senior BJP leader, requested the minister to install a statue of freedom fighter Vanchinathan at the Vanchi Maniyachchi Junction in Thoothukudi district.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-govt-has-acquired-only-24-of-land-required-for-railway-projects-ashwini-vaishnav/article71747955.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Tamil Nadu govt. has acquired only 24% of land required for railway projects: Ashwini Vaishnav.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 98038,
+    title: `The big fat wedding of politician's daughter making headlines in India`,
+    slug: `the-big-fat-wedding-of-politicians-daughter-making-headlines-in-india-2026`,
+    original_title: `The big fat wedding of politician's daughter making headlines in India`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:13Z`,
+    updated_at: `2026-11-27T05:14:13Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/news/articles/cvj6l162j0rpo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/the-big-fat-wedding-of-politicians-daughter-making-headlines-in-india-2026.jpg`,
+    image_alt: `The big fat wedding of politician's daughter making headlines in India`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `The big fat wedding of a politician's daughter in the northern Indian state of Bihar has been making headlines for its over-the-top celebrations in the country's poorest state.`,
+    content: `The big fat wedding of a politician's daughter in the northern Indian state of Bihar has been making headlines for its over-the-top celebrations in the country's poorest state.
+
+The wedding of Shivangi Singh, daughter of Anant Singh - a legislator in the state assembly - culminated on Wednesday after days of high-voltage celebrations that included plans for a horse race.
+
+Hundreds of thousands of people, including the speaker of the state assembly and several prominent local and national politicians, attended Wednesday's ceremony at the family's ancestral home in Nadawa village, about 65km (40.4 miles) from the state capital, Patna.
+
+At a press conference earlier this month, Singh - a five-time legislator from the Mokama constituency - had said "everyone has been invited... Not only from Bihar, but from across India and Pakistan too".
+
+And reports from the ground yesterday said it seemed "everyone did turn up".
+
+Media reports estimated that half a million people attended the wedding, turning the village into a large fairground and stalling traffic for several hours on the road leading to and from Patna.
+
+Six helipads were set up in the village to receive important guests, and more than 150 dishes, including eight million pieces of sweets, were prepared by hundreds of cooks in temporary kitchens.
+
+The biggest attraction at Wednesday's wedding was meant to be the horse race, for which 52 horses had been brought in. But it was postponed at the last minute because of the huge crowds that turned up to watch the event, with many spilling on to the racing ground.
+
+A viral video from a pre-wedding practice session for the race showed tens of thousands of spectators gathered to watch, with several hundreds perched high above the ground over an electricity tower to get a better view.
+
+Last week, the legislator shared a video on his X account of a white SUV costing between 1m-2m rupees (£8,300-£16,500; $10,800-$21,600), announcing that it would be the prize for the winner. A motorcycle and a scooter were promised as the second and third prizes.
+
+The finale is now planned for Thursday.
+
+The bride, Shivangi, a Delhi university graduate, arrived in a Land Cruiser while the groom Rishikesh Kumar, an MBA from Georgia State University in Atlanta, came in a convoy of 151 cars.
+
+Anant Singh also made a grand entry, rising through the sunroof of an SUV as a sea of supporters pressed in around it, news channel NDTV reported. He "was arriving for his daughter's wedding, and he did it in a style that would upstage any groom".
+
+Media reports said the groom received a car worth 23m rupees, as well as gold and silver, from the bride's family, although Singh has not revealed how much the wedding cost.
+
+The scale of the wedding is not comparable to the 2024 festivities India saw during the marriage of Anant Ambani, the youngest son of Asia's richest man Mukesh Ambani.
+
+But the extravagant wedding in Bihar, a state where one in every three citizen is counted as multidimensionally poor, has been dubbed "a royal wedding" and become a huge talking point.
+
+One political rival - Neeraj Kumar, a Bihar legislative council member - has also called on the investigative agencies to look into where the money for the wedding came from.
+
+The interest in the wedding, though, has less to do with the couple than with the father of the bride, a controversial politician.
+
+Popularly known as "Chhote Sarkar" (Hindi for younger lord or mini government), Singh is often described as a "bahubali" - a word that translates as strongman and is used to describe powerful local leaders in many parts of India.
+
+In videos on his social media accounts, Singh is often seen twirling and turning up the ends of his moustache - a gesture of pride and masculinity.
+
+Local people say he travels in a convoy of 20-25 cars and a local journalist said that, on one occasion, Singh chased away tax officials who visited him by turning up with live snakes wrapped around his neck.
+
+Singh first won Mokama in 2005 and has retained it in subsequent elections in 2010, 2015, 2020 and 2025.
+
+According to the affidavit he submitted to the Election Commission before last year's polls, he described himself as a social worker who has businesses and agricultural land.
+
+He declared that his combined wealth with his wife added up to 1bn rupees and that there were more than two dozen criminal cases pending against him. In some of these cases, he's accused of serious crimes such as murder, attempt to murder, extortion and rioting.
+
+According to reports, he's done several stints in prison , but the only time he was not a legislator in the past two decades was in 2022 when he was convicted and sentenced for 10 years in jail. It was in a case from 2019 when arms and ammunition, including an AK-47 assault rifle, were seized from his home.
+
+The state assembly disqualified him, but he remained on bail and appealed against the court order. He contested and won last year's election and returned to the assembly.
+
+He's also been named as the main suspect in a murder case during last year's election and the Supreme Court has ordered him to surrender by 1st December. Singh, who spent three months in jail in connection with the case, has said in interviews that he would abide by the court order.
+
+---
+
+**Original Source:** [BBC](https://www.bbc.com/news/articles/cvj6l162j0rpo)`,
+    title_en: `The big fat wedding of politician's daughter making headlines in India`,
+    summary_en: `The big fat wedding of a politician's daughter in the northern Indian state of Bihar has been making headlines for its over-the-top celebrations in the country's poorest state.`,
+    content_en: `The big fat wedding of a politician's daughter in the northern Indian state of Bihar has been making headlines for its over-the-top celebrations in the country's poorest state.
+
+The wedding of Shivangi Singh, daughter of Anant Singh - a legislator in the state assembly - culminated on Wednesday after days of high-voltage celebrations that included plans for a horse race.
+
+Hundreds of thousands of people, including the speaker of the state assembly and several prominent local and national politicians, attended Wednesday's ceremony at the family's ancestral home in Nadawa village, about 65km (40.4 miles) from the state capital, Patna.
+
+At a press conference earlier this month, Singh - a five-time legislator from the Mokama constituency - had said "everyone has been invited... Not only from Bihar, but from across India and Pakistan too".
+
+And reports from the ground yesterday said it seemed "everyone did turn up".
+
+Media reports estimated that half a million people attended the wedding, turning the village into a large fairground and stalling traffic for several hours on the road leading to and from Patna.
+
+Six helipads were set up in the village to receive important guests, and more than 150 dishes, including eight million pieces of sweets, were prepared by hundreds of cooks in temporary kitchens.
+
+The biggest attraction at Wednesday's wedding was meant to be the horse race, for which 52 horses had been brought in. But it was postponed at the last minute because of the huge crowds that turned up to watch the event, with many spilling on to the racing ground.
+
+A viral video from a pre-wedding practice session for the race showed tens of thousands of spectators gathered to watch, with several hundreds perched high above the ground over an electricity tower to get a better view.
+
+Last week, the legislator shared a video on his X account of a white SUV costing between 1m-2m rupees (£8,300-£16,500; $10,800-$21,600), announcing that it would be the prize for the winner. A motorcycle and a scooter were promised as the second and third prizes.
+
+The finale is now planned for Thursday.
+
+The bride, Shivangi, a Delhi university graduate, arrived in a Land Cruiser while the groom Rishikesh Kumar, an MBA from Georgia State University in Atlanta, came in a convoy of 151 cars.
+
+Anant Singh also made a grand entry, rising through the sunroof of an SUV as a sea of supporters pressed in around it, news channel NDTV reported. He "was arriving for his daughter's wedding, and he did it in a style that would upstage any groom".
+
+Media reports said the groom received a car worth 23m rupees, as well as gold and silver, from the bride's family, although Singh has not revealed how much the wedding cost.
+
+The scale of the wedding is not comparable to the 2024 festivities India saw during the marriage of Anant Ambani, the youngest son of Asia's richest man Mukesh Ambani.
+
+But the extravagant wedding in Bihar, a state where one in every three citizen is counted as multidimensionally poor, has been dubbed "a royal wedding" and become a huge talking point.
+
+One political rival - Neeraj Kumar, a Bihar legislative council member - has also called on the investigative agencies to look into where the money for the wedding came from.
+
+The interest in the wedding, though, has less to do with the couple than with the father of the bride, a controversial politician.
+
+Popularly known as "Chhote Sarkar" (Hindi for younger lord or mini government), Singh is often described as a "bahubali" - a word that translates as strongman and is used to describe powerful local leaders in many parts of India.
+
+In videos on his social media accounts, Singh is often seen twirling and turning up the ends of his moustache - a gesture of pride and masculinity.
+
+Local people say he travels in a convoy of 20-25 cars and a local journalist said that, on one occasion, Singh chased away tax officials who visited him by turning up with live snakes wrapped around his neck.
+
+Singh first won Mokama in 2005 and has retained it in subsequent elections in 2010, 2015, 2020 and 2025.
+
+According to the affidavit he submitted to the Election Commission before last year's polls, he described himself as a social worker who has businesses and agricultural land.
+
+He declared that his combined wealth with his wife added up to 1bn rupees and that there were more than two dozen criminal cases pending against him. In some of these cases, he's accused of serious crimes such as murder, attempt to murder, extortion and rioting.
+
+According to reports, he's done several stints in prison , but the only time he was not a legislator in the past two decades was in 2022 when he was convicted and sentenced for 10 years in jail. It was in a case from 2019 when arms and ammunition, including an AK-47 assault rifle, were seized from his home.
+
+The state assembly disqualified him, but he remained on bail and appealed against the court order. He contested and won last year's election and returned to the assembly.
+
+He's also been named as the main suspect in a murder case during last year's election and the Supreme Court has ordered him to surrender by 1st December. Singh, who spent three months in jail in connection with the case, has said in interviews that he would abide by the court order.
+
+---
+
+**Original Source:** [BBC](https://www.bbc.com/news/articles/cvj6l162j0rpo)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to BBC.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for The big fat wedding of politician's daughter making headlines in India.`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 98039,
+    title: `कुलगाम में पानी जमा, श्रीनगर में सबसे ठंडी रात: राजस्थान-एमपी में शीतलहर, 13 राज्यों में घना कोहरा; जानें द... - Dainik Bhaskar`,
+    slug: `13-dainik-bhaskar-2026`,
+    original_title: `कुलगाम में पानी जमा, श्रीनगर में सबसे ठंडी रात: राजस्थान-एमपी में शीतलहर, 13 राज्यों में घना कोहरा; जानें द... - Dainik Bhaskar`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:14Z`,
+    updated_at: `2026-11-27T05:14:14Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/g/national/news/kulgam-srinagar-weather-update-cold-wave-fog-alert-india-139808436.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/13-dainik-bhaskar-2026.jpg`,
+    image_alt: `कुलगाम में पानी जमा, श्रीनगर में सबसे ठंडी रात: राजस्थान-एमपी में शीतलहर, 13 राज्यों में घना कोहरा; जानें द... - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `जम्मू-कश्मीर में तेज सर्दी शुरू हो चुकी है। गुरुवार को श्रीनगर में -1.9°C के साथ सीजन की सबसे ठंडी रात रही। कुलगाम में पेड़ों की टहनियों पर बर्फ जम गई। जलस्रोतों और पानी की पाइपलाइनों में भी पानी जमने लगा है।`,
+    content: `जम्मू-कश्मीर में तेज सर्दी शुरू हो चुकी है। गुरुवार को श्रीनगर में -1.9°C के साथ सीजन की सबसे ठंडी रात रही। कुलगाम में पेड़ों की टहनियों पर बर्फ जम गई। जलस्रोतों और पानी की पाइपलाइनों में भी पानी जमने लगा है।
+
+राजस्थान और मध्य प्रदेश के 22 शहरों में तापमान 10°C से नीचे पहुंच गया है। गुरुवार को फतेहपुर में 4.3 और एमपी के करौंदी में 6.8°C पारा रहा। दोनों राज्यों में आज से शीतलहर और बढ़ेगी।
+
+सर्दी का असर दक्षिण भारत में भी दिखाई दे रहा है। आंध्र प्रदेश के अल्लूरी सीताराम राजू जिले में तापमान 9.6°C पर पहुंच गया है।
+
+वहीं, यूपी, दिल्ली, पंजाब, हरियाणा और हिमाचल समेत उत्तर भारत के 13 राज्यों में आज घने कोहरे का अलर्ट है।
+
+आगे जानिए देशभर का मौसम, प्रदूषण का हाल और हेल्दी रहने के टिप…
+
+दिल्ली, यूपी, पंजाब, हरियाणा, चंडीगढ़, दिल्ली, हिमाचल प्रदेश, नगालैंड, मणिपुर, मिजोरम और त्रिपुरा में घन कोहरे का अलर्ट है।
+
+राजस्थान में लगातार दूसरे दिन शीतलहर का अलर्ट जारी किया गया है। आंध्र प्रदेश, रायलसीमा में तेज हवाएं चल सकती हैं।
+
+दिल्ली की हवा गुरुवार को लगातार 12वें दिन ‘खराब’ कैटेगरी में रही। 24 घंटे का औसत एयर क्वालिटी इंडेक्स (AQI) 224 दर्ज किया गया। दिल्ली की हवा 15 नवंबर से लगातार ‘खराब’ कैटेगरी में बनी हुई है।
+
+नोट: CPCB के मुताबिक, 0-50 AQI अच्छा, 51-100 संतोषजनक, 101-200 मध्यम, 201-300 खराब, 301-400 बहुत खराब और 401-500 गंभीर श्रेणी में आता है।
+
+1. राजस्थान: 5 जिलों में आज शीतलहर का अलर्ट, फतेहपुर में तापमान 4.3 डिग्री पहुंचा
+
+उत्तर भारत से आ रही सर्द हवाओं के कारण राजस्थान में ठंड बढ़ गई है। मौसम विभाग ने 27 नवंबर को सीकर, अजमेर, टोंक, बूंदी और कोटा समेत 5 जिलों में शीतलहर का यलो अलर्ट जारी किया है। गुरुवार को सीकर के फतेहपुर में सबसे कम 4.3 डिग्री सेल्सियस तापमान दर्ज हुआ। सीकर में 5 डिग्री, नागौर में 6.1 और चूरू में 7.6 डिग्री तापमान रहा। पूरी खबर पढ़ें…
+
+2. MP: 4 जिलों में शीतलहर का अलर्ट; भोपाल में पारा 8.8°, 10 शहरों में तापमान 10° से नीचे
+
+मध्य प्रदेश में ठंड का असर बढ़ रहा है। गुरुवार रात प्रदेश के 10 शहरों में न्यूनतम तापमान 10 डिग्री सेल्सियस से नीचे दर्ज किया गया। कटनी जिले के करौंदी में सबसे कम 6.8 डिग्री तापमान रहा, जबकि भोपाल में पारा 8.8 डिग्री दर्ज हुआ। मौसम विभाग ने शुक्रवार को भोपाल, शाजापुर, दमोह और कटनी में शीतलहर का अलर्ट जारी किया है। पूरी खबर पढ़ें…
+
+3. यूपी: मुजफ्फरनगर में पारा 9.1°C पहुंचा, 5 शहरों में 9.1° से नीचे; 20 शहरों में घना कोहरा
+
+उत्तर प्रदेश के मुजफ्फरनगर में गुरुवार को न्यूनतम तापमान 9.1 डिग्री सेल्सियस दर्ज किया गया, जो प्रदेश में सबसे कम रहा। कानपुर में 9.2, हरदोई में 9.5, इटावा में 9.6 और मेरठ में 10 डिग्री तापमान रहा। गुरुवार को लखीमपुर, बलरामपुर, बिजनौर, मऊ और गोंडा समेत 20 शहरों में घना कोहरा छाया रहा। बलरामपुर में विजिबिलिटी घटकर 10 मीटर रह गई। पूरी खबर पढ़ें…
+
+4. बिहार: अरवल में सबसे कम 11.2° तापमान, भभुआ सबसे गर्म; सुबह-रात बढ़ेगी ठंड
+
+बिहार में सुबह और रात के समय ठंड बढ़ रही है, जबकि दोपहर में धूप से राहत मिल रही है। मौसम विभाग के मुताबिक, अगले 7 दिनों तक मौसम शुष्क रहेगा और बारिश की संभावना नहीं है। सुबह ज्यादातर जिलों में हल्का से मध्यम कोहरा छा सकता है। राज्य के भभुआ में गुरुवार को सबसे ज्यादा 31.7 डिग्री और अरवल में सबसे कम 11.2 डिग्री तापमान दर्ज किया गया। पूरी खबर पढ़ें…
+
+5. छत्तीसगढ़: बलरामपुर में पारा 8.8° पहुंचा, 13 जिलों में तापमान 15° से नीचे
+
+छत्तीसगढ़ में मौसम साफ होने के बाद ठंड बढ़ गई है। बलरामपुर-रामानुजगंज में न्यूनतम तापमान 8.8 डिग्री दर्ज किया गया। सूरजपुर में 9.4 और सरगुजा में 9.2 डिग्री रहा। सूरजपुर में पारा सामान्य से 7.1 डिग्री नीचे पहुंच गया। प्रदेश के 13 जिलों में न्यूनतम तापमान 15 डिग्री से कम रहा। मैदानी इलाकों में भी ठिठुरन बढ़ी है। फिलहाल मौसम शुष्क है और कोई अलर्ट जारी नहीं किया गया है। पूरी खबर पढ़ें…
+
+7. हरियाणा: 6 जिलों में घना कोहरे, हिसार में पारा 7.2° पहुंचा, 12 जिलों में तापमान 9° से नीचे
+
+हरियाणा में ठंड बढ़ रही है। बीते 24 घंटे में औसत न्यूनतम तापमान 0.2 डिग्री गिरा। हिसार 7.2 डिग्री के साथ प्रदेश में सबसे ठंडा रहा। 12 जिलों में पारा 9 डिग्री से नीचे दर्ज किया गया। मौसम विभाग ने अंबाला, कुरुक्षेत्र, कैथल, करनाल, पानीपत और सोनीपत में घने कोहरे का यलो अलर्ट जारी किया है। पूरी खबर पढ़ें…
+
+8. पंजाब: 13 जिलों में घने कोहरे का अलर्ट, फरीदकोट 7.1° के साथ सबसे ठंडा
+
+पंजाब के 13 जिलों में आज घना कोहरा छाने की संभावना है। मौसम विभाग ने 28 नवंबर तक चेतावनी जारी की है। राज्य के न्यूनतम तापमान में 0.4 डिग्री की गिरावट आई है। फरीदकोट में गुरुवार को सबसे कम 7.1 डिग्री तापमान दर्ज किया गया। चंडीगढ़ में पारा 9.4 डिग्री रहा, जो सामान्य से 1.4 डिग्री कम है। यहां आज आसमान साफ रहने और धूप निकलने का अनुमान है। पूरी खबर पढ़ें…
+
+9. उत्तराखंड: हरिद्वार-ऊधम सिंह नगर में कोहरा, पहाड़ों में बादल; आज से बढ़ेगी ठंड
+
+उत्तराखंड में आज रात से ठंड बढ़ने लगेगी। हरिद्वार और ऊधम सिंह नगर में कोहरा छाने का अनुमान है। अगले हफ्ते तक देहरादून, नैनीताल, पौड़ी और चंपावत में भी कोहरा फैल सकता है। दिसंबर के दूसरे हफ्ते से ठंड और बढ़ने की संभावना है। पहाड़ी इलाकों में बादल छाए रहेंगे और रात से हल्का पाला गिरना शुरू हो सकता है। पूरी खबर पढ़ें…
+
+10. हिमाचल प्रदेश: 11 शहरों में पारा 5° से नीचे, 30 नवंबर तक घने कोहरे का अलर्ट
+
+हिमाचल के मंडी, बिलासपुर और हमीरपुर में 30 नवंबर तक घने कोहरे का यलो अलर्ट जारी किया गया है। इन इलाकों में विजिबिलिटी 50 मीटर तक घट सकती है। प्रदेश के 11 शहरों में न्यूनतम तापमान पहले ही 5 डिग्री से नीचे पहुंच चुका है। सोलन में गुरुवार को 3.6 और चंबा में 4.8 डिग्री तापमान दर्ज किया गया, जबकि शिमला में पारा 9 डिग्री रहा। नवंबर में अब तक सामान्य से 80% कम बारिश हुई है। पूरी खबर पढ़ें…
+
+11. झारखंड: रांची में पारा 11° तक गिरने का अनुमान, 2 दिन में 2-3° की कमी संभव
+
+झारखंड में ठंड का असर बढ़ने लगा है। अगले 2 दिनों में न्यूनतम तापमान 2-3 डिग्री गिर सकता है। रांची में पारा 11 डिग्री तक पहुंचने का अनुमान है। 28 और 29 नवंबर को सुबह हल्का से मध्यम कोहरा छाएगा। दिन में आसमान साफ रहेगा और धूप निकलेगी। मौसम विभाग के मुताबिक, राज्य में बारिश की संभावना नहीं है और महीने के अंत तक मौसम सामान्य रहेगा। पूरी खबर पढ़ें…
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/national/news/kulgam-srinagar-weather-update-cold-wave-fog-alert-india-139808436.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `कुलगाम में पानी जमा, श्रीनगर में सबसे ठंडी रात: राजस्थान-एमपी में शीतलहर, 13 राज्यों में घना कोहरा; जानें द... - Dainik Bhaskar`,
+    summary_hi: `जम्मू-कश्मीर में तेज सर्दी शुरू हो चुकी है। गुरुवार को श्रीनगर में -1.9°C के साथ सीजन की सबसे ठंडी रात रही। कुलगाम में पेड़ों की टहनियों पर बर्फ जम गई। जलस्रोतों और पानी की पाइपलाइनों में भी पानी जमने लगा है।`,
+    content_hi: `जम्मू-कश्मीर में तेज सर्दी शुरू हो चुकी है। गुरुवार को श्रीनगर में -1.9°C के साथ सीजन की सबसे ठंडी रात रही। कुलगाम में पेड़ों की टहनियों पर बर्फ जम गई। जलस्रोतों और पानी की पाइपलाइनों में भी पानी जमने लगा है।
+
+राजस्थान और मध्य प्रदेश के 22 शहरों में तापमान 10°C से नीचे पहुंच गया है। गुरुवार को फतेहपुर में 4.3 और एमपी के करौंदी में 6.8°C पारा रहा। दोनों राज्यों में आज से शीतलहर और बढ़ेगी।
+
+सर्दी का असर दक्षिण भारत में भी दिखाई दे रहा है। आंध्र प्रदेश के अल्लूरी सीताराम राजू जिले में तापमान 9.6°C पर पहुंच गया है।
+
+वहीं, यूपी, दिल्ली, पंजाब, हरियाणा और हिमाचल समेत उत्तर भारत के 13 राज्यों में आज घने कोहरे का अलर्ट है।
+
+आगे जानिए देशभर का मौसम, प्रदूषण का हाल और हेल्दी रहने के टिप…
+
+दिल्ली, यूपी, पंजाब, हरियाणा, चंडीगढ़, दिल्ली, हिमाचल प्रदेश, नगालैंड, मणिपुर, मिजोरम और त्रिपुरा में घन कोहरे का अलर्ट है।
+
+राजस्थान में लगातार दूसरे दिन शीतलहर का अलर्ट जारी किया गया है। आंध्र प्रदेश, रायलसीमा में तेज हवाएं चल सकती हैं।
+
+दिल्ली की हवा गुरुवार को लगातार 12वें दिन ‘खराब’ कैटेगरी में रही। 24 घंटे का औसत एयर क्वालिटी इंडेक्स (AQI) 224 दर्ज किया गया। दिल्ली की हवा 15 नवंबर से लगातार ‘खराब’ कैटेगरी में बनी हुई है।
+
+नोट: CPCB के मुताबिक, 0-50 AQI अच्छा, 51-100 संतोषजनक, 101-200 मध्यम, 201-300 खराब, 301-400 बहुत खराब और 401-500 गंभीर श्रेणी में आता है।
+
+1. राजस्थान: 5 जिलों में आज शीतलहर का अलर्ट, फतेहपुर में तापमान 4.3 डिग्री पहुंचा
+
+उत्तर भारत से आ रही सर्द हवाओं के कारण राजस्थान में ठंड बढ़ गई है। मौसम विभाग ने 27 नवंबर को सीकर, अजमेर, टोंक, बूंदी और कोटा समेत 5 जिलों में शीतलहर का यलो अलर्ट जारी किया है। गुरुवार को सीकर के फतेहपुर में सबसे कम 4.3 डिग्री सेल्सियस तापमान दर्ज हुआ। सीकर में 5 डिग्री, नागौर में 6.1 और चूरू में 7.6 डिग्री तापमान रहा। पूरी खबर पढ़ें…
+
+2. MP: 4 जिलों में शीतलहर का अलर्ट; भोपाल में पारा 8.8°, 10 शहरों में तापमान 10° से नीचे
+
+मध्य प्रदेश में ठंड का असर बढ़ रहा है। गुरुवार रात प्रदेश के 10 शहरों में न्यूनतम तापमान 10 डिग्री सेल्सियस से नीचे दर्ज किया गया। कटनी जिले के करौंदी में सबसे कम 6.8 डिग्री तापमान रहा, जबकि भोपाल में पारा 8.8 डिग्री दर्ज हुआ। मौसम विभाग ने शुक्रवार को भोपाल, शाजापुर, दमोह और कटनी में शीतलहर का अलर्ट जारी किया है। पूरी खबर पढ़ें…
+
+3. यूपी: मुजफ्फरनगर में पारा 9.1°C पहुंचा, 5 शहरों में 9.1° से नीचे; 20 शहरों में घना कोहरा
+
+उत्तर प्रदेश के मुजफ्फरनगर में गुरुवार को न्यूनतम तापमान 9.1 डिग्री सेल्सियस दर्ज किया गया, जो प्रदेश में सबसे कम रहा। कानपुर में 9.2, हरदोई में 9.5, इटावा में 9.6 और मेरठ में 10 डिग्री तापमान रहा। गुरुवार को लखीमपुर, बलरामपुर, बिजनौर, मऊ और गोंडा समेत 20 शहरों में घना कोहरा छाया रहा। बलरामपुर में विजिबिलिटी घटकर 10 मीटर रह गई। पूरी खबर पढ़ें…
+
+4. बिहार: अरवल में सबसे कम 11.2° तापमान, भभुआ सबसे गर्म; सुबह-रात बढ़ेगी ठंड
+
+बिहार में सुबह और रात के समय ठंड बढ़ रही है, जबकि दोपहर में धूप से राहत मिल रही है। मौसम विभाग के मुताबिक, अगले 7 दिनों तक मौसम शुष्क रहेगा और बारिश की संभावना नहीं है। सुबह ज्यादातर जिलों में हल्का से मध्यम कोहरा छा सकता है। राज्य के भभुआ में गुरुवार को सबसे ज्यादा 31.7 डिग्री और अरवल में सबसे कम 11.2 डिग्री तापमान दर्ज किया गया। पूरी खबर पढ़ें…
+
+5. छत्तीसगढ़: बलरामपुर में पारा 8.8° पहुंचा, 13 जिलों में तापमान 15° से नीचे
+
+छत्तीसगढ़ में मौसम साफ होने के बाद ठंड बढ़ गई है। बलरामपुर-रामानुजगंज में न्यूनतम तापमान 8.8 डिग्री दर्ज किया गया। सूरजपुर में 9.4 और सरगुजा में 9.2 डिग्री रहा। सूरजपुर में पारा सामान्य से 7.1 डिग्री नीचे पहुंच गया। प्रदेश के 13 जिलों में न्यूनतम तापमान 15 डिग्री से कम रहा। मैदानी इलाकों में भी ठिठुरन बढ़ी है। फिलहाल मौसम शुष्क है और कोई अलर्ट जारी नहीं किया गया है। पूरी खबर पढ़ें…
+
+7. हरियाणा: 6 जिलों में घना कोहरे, हिसार में पारा 7.2° पहुंचा, 12 जिलों में तापमान 9° से नीचे
+
+हरियाणा में ठंड बढ़ रही है। बीते 24 घंटे में औसत न्यूनतम तापमान 0.2 डिग्री गिरा। हिसार 7.2 डिग्री के साथ प्रदेश में सबसे ठंडा रहा। 12 जिलों में पारा 9 डिग्री से नीचे दर्ज किया गया। मौसम विभाग ने अंबाला, कुरुक्षेत्र, कैथल, करनाल, पानीपत और सोनीपत में घने कोहरे का यलो अलर्ट जारी किया है। पूरी खबर पढ़ें…
+
+8. पंजाब: 13 जिलों में घने कोहरे का अलर्ट, फरीदकोट 7.1° के साथ सबसे ठंडा
+
+पंजाब के 13 जिलों में आज घना कोहरा छाने की संभावना है। मौसम विभाग ने 28 नवंबर तक चेतावनी जारी की है। राज्य के न्यूनतम तापमान में 0.4 डिग्री की गिरावट आई है। फरीदकोट में गुरुवार को सबसे कम 7.1 डिग्री तापमान दर्ज किया गया। चंडीगढ़ में पारा 9.4 डिग्री रहा, जो सामान्य से 1.4 डिग्री कम है। यहां आज आसमान साफ रहने और धूप निकलने का अनुमान है। पूरी खबर पढ़ें…
+
+9. उत्तराखंड: हरिद्वार-ऊधम सिंह नगर में कोहरा, पहाड़ों में बादल; आज से बढ़ेगी ठंड
+
+उत्तराखंड में आज रात से ठंड बढ़ने लगेगी। हरिद्वार और ऊधम सिंह नगर में कोहरा छाने का अनुमान है। अगले हफ्ते तक देहरादून, नैनीताल, पौड़ी और चंपावत में भी कोहरा फैल सकता है। दिसंबर के दूसरे हफ्ते से ठंड और बढ़ने की संभावना है। पहाड़ी इलाकों में बादल छाए रहेंगे और रात से हल्का पाला गिरना शुरू हो सकता है। पूरी खबर पढ़ें…
+
+10. हिमाचल प्रदेश: 11 शहरों में पारा 5° से नीचे, 30 नवंबर तक घने कोहरे का अलर्ट
+
+हिमाचल के मंडी, बिलासपुर और हमीरपुर में 30 नवंबर तक घने कोहरे का यलो अलर्ट जारी किया गया है। इन इलाकों में विजिबिलिटी 50 मीटर तक घट सकती है। प्रदेश के 11 शहरों में न्यूनतम तापमान पहले ही 5 डिग्री से नीचे पहुंच चुका है। सोलन में गुरुवार को 3.6 और चंबा में 4.8 डिग्री तापमान दर्ज किया गया, जबकि शिमला में पारा 9 डिग्री रहा। नवंबर में अब तक सामान्य से 80% कम बारिश हुई है। पूरी खबर पढ़ें…
+
+11. झारखंड: रांची में पारा 11° तक गिरने का अनुमान, 2 दिन में 2-3° की कमी संभव
+
+झारखंड में ठंड का असर बढ़ने लगा है। अगले 2 दिनों में न्यूनतम तापमान 2-3 डिग्री गिर सकता है। रांची में पारा 11 डिग्री तक पहुंचने का अनुमान है। 28 और 29 नवंबर को सुबह हल्का से मध्यम कोहरा छाएगा। दिन में आसमान साफ रहेगा और धूप निकलेगी। मौसम विभाग के मुताबिक, राज्य में बारिश की संभावना नहीं है और महीने के अंत तक मौसम सामान्य रहेगा। पूरी खबर पढ़ें…
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/national/news/kulgam-srinagar-weather-update-cold-wave-fog-alert-india-139808436.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक कुलगाम में पानी जमा, श्रीनगर में सबसे ठंडी रात: राजस्थान-एमपी में शीतलहर, 13 राज्यों में घना कोहरा; जानें द... - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+  {
+    id: 98040,
+    title: `संसद का चार दिवसीय विशेष सत्र, कांग्रेस ने पूछा- शीतकालीन सत्र क्यों नहीं बुला रही सरकार?`,
+    slug: `politics-breaking-report-42048-98040-2026`,
+    original_title: `संसद का चार दिवसीय विशेष सत्र, कांग्रेस ने पूछा- शीतकालीन सत्र क्यों नहीं बुला रही सरकार?`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:15Z`,
+    updated_at: `2026-11-27T05:14:15Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/c6d91jlnl033o`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/politics-breaking-report-42048-98040-2026.jpg`,
+    image_alt: `संसद का चार दिवसीय विशेष सत्र, कांग्रेस ने पूछा- शीतकालीन सत्र क्यों नहीं बुला रही सरकार?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `केंद्र सरकार ने संसद का विशेष सत्र बुलाने की घोषणा की है. लोकसभा की बैठक 30 नवंबर से और राज्यसभा की बैठक 2 दिसंबर से शुरू होगी.`,
+    content: `केंद्र सरकार ने संसद का विशेष सत्र बुलाने की घोषणा की है. लोकसभा की बैठक 30 नवंबर से और राज्यसभा की बैठक 2 दिसंबर से शुरू होगी.
+
+संसदीय कार्य मंत्री किरेन रिजिजू के मुताबिक़ , कामकाज को देखते हुए दोनों सदनों की बैठकें 3 दिसंबर को ख़त्म हो सकती हैं.
+
+इस बीच चर्चा है कि सरकार महिला आरक्षण और परिसीमन (डीलिमिटेशन) विधेयक को फिर संसद में ला सकती है, जो अप्रैल में आगे नहीं बढ़ पाया था.
+
+प्रमुख विपक्षी दल कांग्रेस ने सरकार की मंशा पर सवाल उठाए हैं और शीतकालीन सत्र न बुलाए जाने की आशंका ज़ाहिर की है.
+
+रिजिजू ने बीते गुरुवार को एक्स पर कहा कि ये बैठकें ज़रूरी सरकारी कामकाज के लिए बुलाई जा रही हैं. उन्होंने किसी विधेयक का नाम नहीं लिया.
+
+कांग्रेस सांसद मनीष तिवारी ने एक्स पर पूछा कि सरकार नियमित शीतकालीन सत्र क्यों नहीं बुला रही.
+
+उनका कहना है कि विशेष सत्र को नियमित सत्र की जगह नहीं लेनी चाहिए. सरकार अगर अप्रैल में पास नहीं हुए विधेयक को फिर लाना चाहती है, तो वह नियमित सत्र में भी ऐसा कर सकती है.
+
+द इंडियन एक्सप्रेस ने सूत्रों के हवाले से बताया है कि लोकसभा की बैठकें 30 नवंबर और 1 दिसंबर को, जबकि राज्यसभा की बैठकें 2 और 3 दिसंबर को हो सकती हैं. हालांकि, सरकार ने सिर्फ दोनों सदनों की पहली बैठक के लिए तारीख़ें सुझाई हैं.
+
+इससे पहले, 13 अगस्त को लोकसभा और राज्यसभा की बैठकें जब स्थगित हुई थीं तो अगली बैठक की तारीख़ तय नहीं थी.
+
+लेकिन मानसून सत्र को औपचारिक तौर पर ख़त्म नहीं किया गया था. यानी उस दिन बैठकें रुकी थीं, सत्र समाप्त नहीं हुआ था.
+
+हालांकि, सरकार का ताज़ा बयान किसी भी नियमित शीतकालीन सत्र का एलान नहीं है.
+
+ग़ौरतलब है कि मानसून सत्र को स्थगित हुए 104 दिन हो चुके हैं. इसके स्थगन की घोषणा 13 अगस्त को की गई थी.
+
+### महिला आरक्षण और परिसीमन बिल की चर्चा क्यों लौटी?
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+संसद ने 2023 में लोकसभा, राज्य विधानसभाओं और दिल्ली विधानसभा में महिलाओं के लिए एक-तिहाई सीटें आरक्षित करने का क़ानून पास किया था.
+
+लेकिन आरक्षण तुरंत लागू नहीं होना था. क़ानून के मुताबिक़, इसके प्रभावी होने के बाद होने वाली पहली जनगणना के संबंधित आंकड़े प्रकाशित होने हैं. उन आंकड़ों के आधार पर परिसीमन के बाद आरक्षण लागू होगा.
+
+परिसीमन में चुनाव क्षेत्रों की सीमाएं नए सिरे से तय की जाती हैं. अप्रैल 2026 में सरकार ने नई जनगणना का इंतज़ार किए बिना परिसीमन कराने और महिला आरक्षण जल्दी लागू करने का प्रस्ताव रखा था.
+
+साथ ही लोकसभा की कुल सीटें बढ़ाने की बात भी थी. इसलिए बहस सिर्फ़ इस पर नहीं थी कि आरक्षण कब लागू होगा. सवाल यह भी था कि नई व्यवस्था में किस राज्य को लोकसभा की कितनी सीटें मिलेंगी.
+
+17 अप्रैल को लोकसभा में 528 सांसदों ने वोट दिया. द इंडियन एक्सप्रेस के मुताबिक़, 298 सांसदों ने संविधान संशोधन के पक्ष में और 230 ने विरोध में वोट दिया.
+
+उस मतदान में दो-तिहाई समर्थन के लिए 352 वोट चाहिए थे. जो विधेयक पास नहीं हुआ, वह 2026 का संविधान संशोधन था, 2023 का महिला आरक्षण क़ानून नहीं.
+
+इसके बाद सरकार ने परिसीमन और केंद्रशासित प्रदेशों से जुड़े दो अन्य विधेयकों को भी आगे नहीं बढ़ाया.
+
+कांग्रेस सांसद शशि थरूर ने संसद के शीतकालीन सत्र में देरी को लेकर केंद्र सरकार को घेरा है.
+
+उन्होंने कहा कि सरकार संसद को बहस और जवाबदेही का मंच बनाने के बजाय केवल विधेयकों पर मुहर लगाने वाली संस्था बनाना चाहती है.
+
+थरूर ने कहा , "1950 के दशक में संसद की बैठकें साल में 120 से 170 दिन तक होती थीं, जबकि अब यह घटकर करीब 70 दिन रह गई हैं."
+
+उन्होंने संसदीय लोकतंत्र के प्रति सरकार के रवैये को 'अजीब' बताते हुए लिखा, "हमने देखा है कि गुजरात में मुख्यमंत्री रहते हुए नरेंद्र मोदी का रिकॉर्ड विधानसभा सत्रों की अवधि कम करने का रहा है. मेरी जानकारी के मुताबिक, मुख्यमंत्री के तौर पर उनके कार्यकाल के आखिरी कुछ वर्षों में गुजरात विधानसभा की साल भर में केवल 50 से 55 दिन ही बैठकें होती थीं. हम निश्चित रूप से नहीं चाहते कि संसद में भी ऐसा हो."
+
+थरूर ने संसद का कैलेंडर 9 से 12 महीने पहले जारी करने की मांग की. उन्होंने परिसीमन विधेयक पर भी गंभीर चर्चा की ज़रूरत बताई.
+
+### पी चिदंबरम ने पूछा- फिर से विधेयक क्यों
+
+कांग्रेस के वरिष्ठ नेता पी चिदंबरम ने एक्स पर लिखा , "गृह मंत्री अमित शाह या तो भूलने की बीमारी से पीड़ित हैं या फिर सच को तोड़-मरोड़कर पेश कर रहे हैं."
+
+"उनका दावा है कि कांग्रेस लोकसभा और राज्य विधानसभाओं में महिलाओं के लिए एक-तिहाई सीटें आरक्षित करने के वादे को लागू होने से नहीं रोक सकती."
+
+"संविधान (106वां संशोधन) अधिनियम, 2023 पहले ही पारित हो चुका है. इस विधेयक को संसद के दोनों सदनों ने 20 और 21 सितंबर, 2023 को पारित किया था."
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c6d91jlnl033o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `संसद का चार दिवसीय विशेष सत्र, कांग्रेस ने पूछा- शीतकालीन सत्र क्यों नहीं बुला रही सरकार?`,
+    summary_hi: `केंद्र सरकार ने संसद का विशेष सत्र बुलाने की घोषणा की है. लोकसभा की बैठक 30 नवंबर से और राज्यसभा की बैठक 2 दिसंबर से शुरू होगी.`,
+    content_hi: `केंद्र सरकार ने संसद का विशेष सत्र बुलाने की घोषणा की है. लोकसभा की बैठक 30 नवंबर से और राज्यसभा की बैठक 2 दिसंबर से शुरू होगी.
+
+संसदीय कार्य मंत्री किरेन रिजिजू के मुताबिक़ , कामकाज को देखते हुए दोनों सदनों की बैठकें 3 दिसंबर को ख़त्म हो सकती हैं.
+
+इस बीच चर्चा है कि सरकार महिला आरक्षण और परिसीमन (डीलिमिटेशन) विधेयक को फिर संसद में ला सकती है, जो अप्रैल में आगे नहीं बढ़ पाया था.
+
+प्रमुख विपक्षी दल कांग्रेस ने सरकार की मंशा पर सवाल उठाए हैं और शीतकालीन सत्र न बुलाए जाने की आशंका ज़ाहिर की है.
+
+रिजिजू ने बीते गुरुवार को एक्स पर कहा कि ये बैठकें ज़रूरी सरकारी कामकाज के लिए बुलाई जा रही हैं. उन्होंने किसी विधेयक का नाम नहीं लिया.
+
+कांग्रेस सांसद मनीष तिवारी ने एक्स पर पूछा कि सरकार नियमित शीतकालीन सत्र क्यों नहीं बुला रही.
+
+उनका कहना है कि विशेष सत्र को नियमित सत्र की जगह नहीं लेनी चाहिए. सरकार अगर अप्रैल में पास नहीं हुए विधेयक को फिर लाना चाहती है, तो वह नियमित सत्र में भी ऐसा कर सकती है.
+
+द इंडियन एक्सप्रेस ने सूत्रों के हवाले से बताया है कि लोकसभा की बैठकें 30 नवंबर और 1 दिसंबर को, जबकि राज्यसभा की बैठकें 2 और 3 दिसंबर को हो सकती हैं. हालांकि, सरकार ने सिर्फ दोनों सदनों की पहली बैठक के लिए तारीख़ें सुझाई हैं.
+
+इससे पहले, 13 अगस्त को लोकसभा और राज्यसभा की बैठकें जब स्थगित हुई थीं तो अगली बैठक की तारीख़ तय नहीं थी.
+
+लेकिन मानसून सत्र को औपचारिक तौर पर ख़त्म नहीं किया गया था. यानी उस दिन बैठकें रुकी थीं, सत्र समाप्त नहीं हुआ था.
+
+हालांकि, सरकार का ताज़ा बयान किसी भी नियमित शीतकालीन सत्र का एलान नहीं है.
+
+ग़ौरतलब है कि मानसून सत्र को स्थगित हुए 104 दिन हो चुके हैं. इसके स्थगन की घोषणा 13 अगस्त को की गई थी.
+
+### महिला आरक्षण और परिसीमन बिल की चर्चा क्यों लौटी?
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+संसद ने 2023 में लोकसभा, राज्य विधानसभाओं और दिल्ली विधानसभा में महिलाओं के लिए एक-तिहाई सीटें आरक्षित करने का क़ानून पास किया था.
+
+लेकिन आरक्षण तुरंत लागू नहीं होना था. क़ानून के मुताबिक़, इसके प्रभावी होने के बाद होने वाली पहली जनगणना के संबंधित आंकड़े प्रकाशित होने हैं. उन आंकड़ों के आधार पर परिसीमन के बाद आरक्षण लागू होगा.
+
+परिसीमन में चुनाव क्षेत्रों की सीमाएं नए सिरे से तय की जाती हैं. अप्रैल 2026 में सरकार ने नई जनगणना का इंतज़ार किए बिना परिसीमन कराने और महिला आरक्षण जल्दी लागू करने का प्रस्ताव रखा था.
+
+साथ ही लोकसभा की कुल सीटें बढ़ाने की बात भी थी. इसलिए बहस सिर्फ़ इस पर नहीं थी कि आरक्षण कब लागू होगा. सवाल यह भी था कि नई व्यवस्था में किस राज्य को लोकसभा की कितनी सीटें मिलेंगी.
+
+17 अप्रैल को लोकसभा में 528 सांसदों ने वोट दिया. द इंडियन एक्सप्रेस के मुताबिक़, 298 सांसदों ने संविधान संशोधन के पक्ष में और 230 ने विरोध में वोट दिया.
+
+उस मतदान में दो-तिहाई समर्थन के लिए 352 वोट चाहिए थे. जो विधेयक पास नहीं हुआ, वह 2026 का संविधान संशोधन था, 2023 का महिला आरक्षण क़ानून नहीं.
+
+इसके बाद सरकार ने परिसीमन और केंद्रशासित प्रदेशों से जुड़े दो अन्य विधेयकों को भी आगे नहीं बढ़ाया.
+
+कांग्रेस सांसद शशि थरूर ने संसद के शीतकालीन सत्र में देरी को लेकर केंद्र सरकार को घेरा है.
+
+उन्होंने कहा कि सरकार संसद को बहस और जवाबदेही का मंच बनाने के बजाय केवल विधेयकों पर मुहर लगाने वाली संस्था बनाना चाहती है.
+
+थरूर ने कहा , "1950 के दशक में संसद की बैठकें साल में 120 से 170 दिन तक होती थीं, जबकि अब यह घटकर करीब 70 दिन रह गई हैं."
+
+उन्होंने संसदीय लोकतंत्र के प्रति सरकार के रवैये को 'अजीब' बताते हुए लिखा, "हमने देखा है कि गुजरात में मुख्यमंत्री रहते हुए नरेंद्र मोदी का रिकॉर्ड विधानसभा सत्रों की अवधि कम करने का रहा है. मेरी जानकारी के मुताबिक, मुख्यमंत्री के तौर पर उनके कार्यकाल के आखिरी कुछ वर्षों में गुजरात विधानसभा की साल भर में केवल 50 से 55 दिन ही बैठकें होती थीं. हम निश्चित रूप से नहीं चाहते कि संसद में भी ऐसा हो."
+
+थरूर ने संसद का कैलेंडर 9 से 12 महीने पहले जारी करने की मांग की. उन्होंने परिसीमन विधेयक पर भी गंभीर चर्चा की ज़रूरत बताई.
+
+### पी चिदंबरम ने पूछा- फिर से विधेयक क्यों
+
+कांग्रेस के वरिष्ठ नेता पी चिदंबरम ने एक्स पर लिखा , "गृह मंत्री अमित शाह या तो भूलने की बीमारी से पीड़ित हैं या फिर सच को तोड़-मरोड़कर पेश कर रहे हैं."
+
+"उनका दावा है कि कांग्रेस लोकसभा और राज्य विधानसभाओं में महिलाओं के लिए एक-तिहाई सीटें आरक्षित करने के वादे को लागू होने से नहीं रोक सकती."
+
+"संविधान (106वां संशोधन) अधिनियम, 2023 पहले ही पारित हो चुका है. इस विधेयक को संसद के दोनों सदनों ने 20 और 21 सितंबर, 2023 को पारित किया था."
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c6d91jlnl033o)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक संसद का चार दिवसीय विशेष सत्र, कांग्रेस ने पूछा- शीतकालीन सत्र क्यों नहीं बुला रही सरकार? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 98041,
+    title: `Wordle today: The answer and hints for November 26, 2026 - Mashable`,
+    slug: `wordle-today-the-answer-and-hints-for-november-26-2026-mashable-2026`,
+    original_title: `Wordle today: The answer and hints for November 26, 2026 - Mashable`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:17Z`,
+    updated_at: `2026-11-27T05:14:17Z`,
+    source_name: `Mashable`,
+    source_url: `https://mashable.com/entertainment/wordle-today-answer-november-26-2026`,
+    source_courtesy: `Source: Mashable`,
+    image_url: `/images/articles/wordle-today-the-answer-and-hints-for-november-26-2026-mashable-2026.webp`,
+    image_alt: `Wordle today: The answer and hints for November 26, 2026 - Mashable`,
+    image_courtesy: `Image: Mashable (External Source Attribution)`,
+    image_photographer: `Mashable`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Today's Wordle answer should be easy to solve if you're always on edge.If you just want to be told today's word, you can jump to the bottom of this article for today's Wordle solution revealed. But if you'd rather solve it yourself, keep re`,
+    content: `Today's Wordle answer should be easy to solve if you're always on edge.If you just want to be told today's word, you can jump to the bottom of this article for today's Wordle solution revealed. But if you'd rather solve it yourself, keep reading for some clues, tips, and strategies to assist you.
+
+SEE ALSO:
+        
+            Mahjong, Sudoku, free crossword, and more: Play games on Mashable
+            
+        
+    
+
+        SEE ALSO:
+        
+            NYT Connections hints today: Clues, answers for November 26, 2026
+            
+        
+    
+Where did Wordle come from?Originally created by engineer Josh Wardle as a gift for his partner, Wordle rapidly spread to become an international phenomenon, with thousands of people around the globe playing every day.
+
+Alternate Wordle versions created by fans also sprang up, including battle royale Squabble, music identification game Heardle, and variations like Dordle and Quordle that make you guess multiple words at once.&nbsp;Wordle eventually became so popular that it was purchased by the New York Times, and TikTok creators even livestream themselves playing.What's the best Wordle starting word?The best Wordle starting word is the one that speaks to you.
+
+But if you prefer to be strategic in your approach, we have a few ideas to help you pick a word that might help you find the solution faster. One tip is to select a word that includes at least two different vowels, plus some common consonants like S, T, R, or N.What happened to the Wordle archive?The entire archive of past Wordle puzzles was originally available for anyone to enjoy whenever they felt like it, but it was later taken down, with the website's creator stating it was done at the request of the New York Times.
+
+However, the New York Times then rolled out its own Wordle Archive, available only to NYT Games subscribers. Is Wordle getting harder?It might feel like Wordle is getting harder, but it actually isn't any more difficult than when it first began. You can turn on Wordle's Hard Mode if you're after more of a challenge, though.Here's a subtle hint for today's Wordle answer:Nervous.Does today's Wordle answer have a double letter?The letter E appears twice.Want more tech and digital culture news delivered to your inbox daily or sent straight to your device?
+
+Sign up for Mashable's Top Stories newsletter or get Mashable push alerts today.Today's Wordle is a 5-letter word that starts with...Today's Wordle starts with the letter T.The Wordle answer today is...Get your last guesses in now, because it's your final chance to solve today's Wordle before we reveal the solution.Drumroll please!The solution to today's Wordle is...TENSEDon't feel down if you didn't manage to guess it this time.
+
+There will be a new Wordle for you to stretch your brain with tomorrow, and we'll be back again to guide you with more helpful hints. Are you also playing NYT Strands? See hints and answers for today's Strands.Reporting by Chance Townsend, Caitlin Welsh, Sam Haysom, Amanda Yeo, Shannon Connellan, Cecily Mauran, Mike Pearl, and Adam Rosenberg contributed to this article.Meet The Mashable 101: Our list of the content creators shaping the internet todayIf you're looking for more puzzles, Mashable's got games now!
+
+Check out our games hub for Mahjong, Sudoku, free crossword, and more.
+
+---
+
+**Original Source:** [Mashable](https://mashable.com/entertainment/wordle-today-answer-november-26-2026)`,
+    title_en: `Wordle today: The answer and hints for November 26, 2026 - Mashable`,
+    summary_en: `Today's Wordle answer should be easy to solve if you're always on edge.If you just want to be told today's word, you can jump to the bottom of this article for today's Wordle solution revealed. But if you'd rather solve it yourself, keep re`,
+    content_en: `Today's Wordle answer should be easy to solve if you're always on edge.If you just want to be told today's word, you can jump to the bottom of this article for today's Wordle solution revealed. But if you'd rather solve it yourself, keep reading for some clues, tips, and strategies to assist you.
+
+SEE ALSO:
+        
+            Mahjong, Sudoku, free crossword, and more: Play games on Mashable
+            
+        
+    
+
+        SEE ALSO:
+        
+            NYT Connections hints today: Clues, answers for November 26, 2026
+            
+        
+    
+Where did Wordle come from?Originally created by engineer Josh Wardle as a gift for his partner, Wordle rapidly spread to become an international phenomenon, with thousands of people around the globe playing every day.
+
+Alternate Wordle versions created by fans also sprang up, including battle royale Squabble, music identification game Heardle, and variations like Dordle and Quordle that make you guess multiple words at once.&nbsp;Wordle eventually became so popular that it was purchased by the New York Times, and TikTok creators even livestream themselves playing.What's the best Wordle starting word?The best Wordle starting word is the one that speaks to you.
+
+But if you prefer to be strategic in your approach, we have a few ideas to help you pick a word that might help you find the solution faster. One tip is to select a word that includes at least two different vowels, plus some common consonants like S, T, R, or N.What happened to the Wordle archive?The entire archive of past Wordle puzzles was originally available for anyone to enjoy whenever they felt like it, but it was later taken down, with the website's creator stating it was done at the request of the New York Times.
+
+However, the New York Times then rolled out its own Wordle Archive, available only to NYT Games subscribers. Is Wordle getting harder?It might feel like Wordle is getting harder, but it actually isn't any more difficult than when it first began. You can turn on Wordle's Hard Mode if you're after more of a challenge, though.Here's a subtle hint for today's Wordle answer:Nervous.Does today's Wordle answer have a double letter?The letter E appears twice.Want more tech and digital culture news delivered to your inbox daily or sent straight to your device?
+
+Sign up for Mashable's Top Stories newsletter or get Mashable push alerts today.Today's Wordle is a 5-letter word that starts with...Today's Wordle starts with the letter T.The Wordle answer today is...Get your last guesses in now, because it's your final chance to solve today's Wordle before we reveal the solution.Drumroll please!The solution to today's Wordle is...TENSEDon't feel down if you didn't manage to guess it this time.
+
+There will be a new Wordle for you to stretch your brain with tomorrow, and we'll be back again to guide you with more helpful hints. Are you also playing NYT Strands? See hints and answers for today's Strands.Reporting by Chance Townsend, Caitlin Welsh, Sam Haysom, Amanda Yeo, Shannon Connellan, Cecily Mauran, Mike Pearl, and Adam Rosenberg contributed to this article.Meet The Mashable 101: Our list of the content creators shaping the internet todayIf you're looking for more puzzles, Mashable's got games now!
+
+Check out our games hub for Mahjong, Sudoku, free crossword, and more.
+
+---
+
+**Original Source:** [Mashable](https://mashable.com/entertainment/wordle-today-answer-november-26-2026)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Mashable.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Wordle today: The answer and hints for November 26, 2026 - Mashable.`,
+    primary_source: `Mashable`,
+  },
+  {
+    id: 98042,
+    title: `GTA VI generates $3.79 bn, becomes biggest entertainment launch ever`,
+    slug: `gta-vi-generates-379-bn-becomes-biggest-entertainment-launch-ever-2026`,
+    original_title: `GTA VI generates $3.79 bn, becomes biggest entertainment launch ever`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:20Z`,
+    updated_at: `2026-11-27T05:14:20Z`,
+    source_name: `Business Standard`,
+    source_url: `https://www.business-standard.com/technology/tech-news/gta-vi-generates-3-79-bn-becomes-biggest-entertainment-launch-ever-126112100066_1.html`,
+    source_courtesy: `Source: Business Standard`,
+    image_url: `/images/articles/gta-vi-generates-379-bn-becomes-biggest-entertainment-launch-ever-2026.jpg`,
+    image_alt: `GTA VI generates $3.79 bn, becomes biggest entertainment launch ever`,
+    image_courtesy: `Image: Business Standard (External Source Attribution)`,
+    image_photographer: `Business Standard`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `&quot;Grand Theft Auto VI&quot; raked in $3.79 billion in sales within the first 24 hours of its launch, becoming the world&#39;s biggest entertainment release ever, as fans around the world celebrated the blockbuster title that is now a ​g`,
+    content: `&quot;Grand Theft Auto VI&quot; raked in $3.79 billion in sales within the first 24 hours of its launch, becoming the world&#39;s biggest entertainment release ever, as fans around the world celebrated the blockbuster title that is now a ​global cultural phenomenon.The action-adventure title that sees criminal duo Lucia and Jason blitz through the neon-soaked ​streets of Vice City sold 32.5 million units pre-release, developer Rockstar Games said on Friday, a day after the game &zwnj;launched to massive fanfare and critical acclaim globally.GTA VI&#39;s day-one haul is nearly five times the estimated $800 million that its predecessor, GTA V, made on its first day in 2013.
+
+GTA V had been widely regarded as the best-selling videogame in the first 24 hours until now.GTA VI has also surpassed the highest-grossing movie of all time at the worldwide box office, &quot;Avengers: Endgame&quot;, which has grossed some $2.94 billion, according to media analytics firm Rentrak.The title is set to boost financials at Rockstar Games&#39; parent company Take-Two Interactive, which is also the publisher behind other hits such as the &quot;Red Dead Redemption&quot; franchise and the &quot;NBA 2K&quot; basketball series.&quot;We are incredibly humbled by the response from players around the world,&quot; said Sam Houser, president and founder of Rockstar Games, calling GTA VI&#39;s release the beginning of a &quot;new chapter&quot; for the studio.Take-Two shares ended Friday&#39;s trading session marginally higher.The game reached players after a long wait of more than 13 &zwnj;years.
+
+To soak it in, gamers all over the world have done everything from taking paid time off from work to signing &quot;contracts&quot; with their partners to get uninterrupted game time.GTA VI marketing BlitzTake-Two has shelled out an estimated $1 billion or more in production costs for GTA VI, making it one of the most expensive entertainment projects.
+
+It began pre-orders for the game in June, but had remained tight-lipped about the numbers behind the hype.&quot;The title is so widely anticipated, consumers appear very, very excited, and all the press so far has been universally positive, but we still aren&#39;t ready to declare victory,&quot; CEO Strauss Zelnick had said on Take-Two&#39;s earnings call earlier this month.&quot;We tend to avoid ​claiming success before it occurs,&quot; he said then.The game&#39;s lengthier promotional trailer, &quot;GTA VI: An Extended Look&quot; hit screens through Netflix in August and &zwnj;helped drive a sixfold jump in pre-orders, according to Sensor Tower estimates.In Miami, which Vice City is based on, the city&#39;s NBA team celebrated the release on Wednesday with a Vice City-themed match.Over the weekend, the company is hosting &quot;GTA VI: The Festival&quot; - a music ​show with a &zwnj;star-studded line-up that includes Grammy-winning rapper Cardi B, hip hop record producer Metro Boomin and rapper Travis Scott.What next for take-two?Investors have been waiting to &zwnj;hear from Take-Two about its plans for a PC launch of GTA VI and an online version rollout.
+
+The online, multiplayer component of a videogame is crucial in turning the title into a recurring revenue engine.Some industry analysts are expecting the PC launch and &zwnj;online mode ​in 2027.Brokerage TD ​Cowen named Take-Two one of its &quot;Best Ideas&quot; for 2027, with its analyst Doug Creutz upbeat about the company&#39;s financial prospects when the game releases online.&quot;The potential ceiling for GTA VI&#39;s long-term recurrent consumer spending performance is very high...
+
+&#39;when&#39; and &#39;how big&#39; &zwnj;the next GTA Online will be ​is the most important question for the stock, more so than GTA VI unit sales.&quot;
+
+---
+
+**Original Source:** [Business Standard](https://www.business-standard.com/technology/tech-news/gta-vi-generates-3-79-bn-becomes-biggest-entertainment-launch-ever-126112100066_1.html)`,
+    title_en: `GTA VI generates $3.79 bn, becomes biggest entertainment launch ever`,
+    summary_en: `&quot;Grand Theft Auto VI&quot; raked in $3.79 billion in sales within the first 24 hours of its launch, becoming the world&#39;s biggest entertainment release ever, as fans around the world celebrated the blockbuster title that is now a ​g`,
+    content_en: `&quot;Grand Theft Auto VI&quot; raked in $3.79 billion in sales within the first 24 hours of its launch, becoming the world&#39;s biggest entertainment release ever, as fans around the world celebrated the blockbuster title that is now a ​global cultural phenomenon.The action-adventure title that sees criminal duo Lucia and Jason blitz through the neon-soaked ​streets of Vice City sold 32.5 million units pre-release, developer Rockstar Games said on Friday, a day after the game &zwnj;launched to massive fanfare and critical acclaim globally.GTA VI&#39;s day-one haul is nearly five times the estimated $800 million that its predecessor, GTA V, made on its first day in 2013.
+
+GTA V had been widely regarded as the best-selling videogame in the first 24 hours until now.GTA VI has also surpassed the highest-grossing movie of all time at the worldwide box office, &quot;Avengers: Endgame&quot;, which has grossed some $2.94 billion, according to media analytics firm Rentrak.The title is set to boost financials at Rockstar Games&#39; parent company Take-Two Interactive, which is also the publisher behind other hits such as the &quot;Red Dead Redemption&quot; franchise and the &quot;NBA 2K&quot; basketball series.&quot;We are incredibly humbled by the response from players around the world,&quot; said Sam Houser, president and founder of Rockstar Games, calling GTA VI&#39;s release the beginning of a &quot;new chapter&quot; for the studio.Take-Two shares ended Friday&#39;s trading session marginally higher.The game reached players after a long wait of more than 13 &zwnj;years.
+
+To soak it in, gamers all over the world have done everything from taking paid time off from work to signing &quot;contracts&quot; with their partners to get uninterrupted game time.GTA VI marketing BlitzTake-Two has shelled out an estimated $1 billion or more in production costs for GTA VI, making it one of the most expensive entertainment projects.
+
+It began pre-orders for the game in June, but had remained tight-lipped about the numbers behind the hype.&quot;The title is so widely anticipated, consumers appear very, very excited, and all the press so far has been universally positive, but we still aren&#39;t ready to declare victory,&quot; CEO Strauss Zelnick had said on Take-Two&#39;s earnings call earlier this month.&quot;We tend to avoid ​claiming success before it occurs,&quot; he said then.The game&#39;s lengthier promotional trailer, &quot;GTA VI: An Extended Look&quot; hit screens through Netflix in August and &zwnj;helped drive a sixfold jump in pre-orders, according to Sensor Tower estimates.In Miami, which Vice City is based on, the city&#39;s NBA team celebrated the release on Wednesday with a Vice City-themed match.Over the weekend, the company is hosting &quot;GTA VI: The Festival&quot; - a music ​show with a &zwnj;star-studded line-up that includes Grammy-winning rapper Cardi B, hip hop record producer Metro Boomin and rapper Travis Scott.What next for take-two?Investors have been waiting to &zwnj;hear from Take-Two about its plans for a PC launch of GTA VI and an online version rollout.
+
+The online, multiplayer component of a videogame is crucial in turning the title into a recurring revenue engine.Some industry analysts are expecting the PC launch and &zwnj;online mode ​in 2027.Brokerage TD ​Cowen named Take-Two one of its &quot;Best Ideas&quot; for 2027, with its analyst Doug Creutz upbeat about the company&#39;s financial prospects when the game releases online.&quot;The potential ceiling for GTA VI&#39;s long-term recurrent consumer spending performance is very high...
+
+&#39;when&#39; and &#39;how big&#39; &zwnj;the next GTA Online will be ​is the most important question for the stock, more so than GTA VI unit sales.&quot;
+
+---
+
+**Original Source:** [Business Standard](https://www.business-standard.com/technology/tech-news/gta-vi-generates-3-79-bn-becomes-biggest-entertainment-launch-ever-126112100066_1.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Business Standard.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for GTA VI generates $3.79 bn, becomes biggest entertainment launch ever.`,
+    primary_source: `Business Standard`,
+  },
+  {
+    id: 98043,
+    title: `Apple ने दुनिया भर में बैन किया चीनी AI ऐप Talkie, बच्चों से आपत्तिजनक बातचीत के आरोप के बाद लिया बड़ा एक्शन - Navbharat Live`,
+    slug: `apple-ai-talkie-navbharat-live-2026`,
+    original_title: `Apple ने दुनिया भर में बैन किया चीनी AI ऐप Talkie, बच्चों से आपत्तिजनक बातचीत के आरोप के बाद लिया बड़ा एक्शन - Navbharat Live`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:22Z`,
+    updated_at: `2026-11-27T05:14:22Z`,
+    source_name: `Navbharat Live`,
+    source_url: `https://navbharatlive.com/technology/apple-bans-chinese-ai-app-talkie-globally-inappropriate-conversations-children-srs13`,
+    source_courtesy: `Source: Navbharat Live`,
+    image_url: `/images/articles/apple-ai-talkie-navbharat-live-2026.jpg`,
+    image_alt: `Apple ने दुनिया भर में बैन किया चीनी AI ऐप Talkie, बच्चों से आपत्तिजनक बातचीत के आरोप के बाद लिया बड़ा एक्शन - Navbharat Live`,
+    image_courtesy: `Image: Navbharat Live (External Source Attribution)`,
+    image_photographer: `Navbharat Live`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Highlight:AI स्टार्टअप MiniMax के लोकप्रिय AI कंपैनियन ऐप Talkie को दुनियाभर के App Store से हटा दिया है।ब्रिटेन और ऑस्ट्रेलिया में कुछ बच्चों को ऐप पर ऐसे जवाब मिले, जिनमें अपमानजनक भाषा, ज्यादा अधिकार जताने और रोमांटिक बातचीत जैसी बातें श`,
+    content: `Highlight:AI स्टार्टअप MiniMax के लोकप्रिय AI कंपैनियन ऐप Talkie को दुनियाभर के App Store से हटा दिया है।ब्रिटेन और ऑस्ट्रेलिया में कुछ बच्चों को ऐप पर ऐसे जवाब मिले, जिनमें अपमानजनक भाषा, ज्यादा अधिकार जताने और रोमांटिक बातचीत जैसी बातें शामिल थीं।बच्चों के लिए AI चैटबॉट्स की सुरक्षा पर सवाल खड़े कर दिए हैं।.Apple Talkie App Ban: बच्चों की ऑनलाइन सुरक्षा को लेकर Apple ने बड़ा कदम उठाया है।
+
+बता दें कि कंपनी ने चीनी AI स्टार्टअप MiniMax के लोकप्रिय AI कंपैनियन ऐप Talkie को दुनियाभर के App Store से हटा दिया है। यह कार्रवाई ऐप के AI कैरेक्टर्स पर बच्चों के साथ आपत्तिजनक और अनुचित बातचीत करने के आरोपों के बाद हुई है। वहीं ब्रिटेन और ऑस्ट्रेलिया के मीडिया संस्थानों की संयुक्त जांच में सामने आया कि कुछ बच्चों को ऐप पर ऐसे जवाब मिले, जिनमें अपमानजनक भाषा, जरूरत से ज्यादा अधिकार जताने और रोमांटिक बातचीत जैसी बातें शामिल थीं।
+
+इस मामले ने एक बार फिर बच्चों के लिए AI चैटबॉट्स की सुरक्षा पर सवाल खड़े कर दिए हैं।.बच्चों के साथ AI कैरेक्टर्स की बातचीत पर उठे सवालऑस्ट्रेलिया के ABC News और ब्रिटेन के The Bureau of Investigative Journalism की संयुक्त जांच में Talkie के व्यवहार को लेकर कई चिंताएं सामने आईं। रिपोर्ट में बताया गया है कि कुछ बच्चों के साथ बातचीत के दौरान AI कैरेक्टर्स ने अपमानजनक भाषा का इस्तेमाल किया और रोमांटिक रोल-प्ले जैसी बातचीत की।वहीं जांचकर्ताओं ने 17 नवंबर को Apple के साथ इससे जुड़े सबूत साझा किए थे।
+
+इसके बाद कंपनी ने ऐप को अपने App Store से हटा दिया। Apple ने कार्रवाई के लिए यौन सामग्री को वजह बताया है लेकिन कंपनी ने यह स्पष्ट नहीं किया कि हटाई गई सामग्री विशेष रूप से नाबालिगों को दिखाई गई थी या नहीं। MiniMax ने भी इस मामले पर कोई सार्वजनिक प्रतिक्रिया नहीं दी है।.क्या है Talkie AI ऐप और कैसे करता है काम?Talkie एक AI कंपैनियन ऐप है जिसमें यूजर्स अलग-अलग वर्चुअल कैरेक्टर्स के साथ टेक्स्ट और वॉइस के जरिए बातचीत कर सकते हैं।
+
+इसमें काल्पनिक कहानियों और रोल-प्ले का विकल्प भी मिलता है। ऐप को 18+ रेटिंग दी गई थी लेकिन जांच में इसकी उम्र सत्यापन प्रक्रिया पर सवाल उठे। वहीं रिपोर्ट में बताया जा रहा है कि कुछ मामलों में यूजर्स केवल अपनी उम्र बताकर आगे बढ़ सकते थे। इससे नाबालिगों के ऐप तक पहुंचने का खतरा बना हुआ था।
+
+जिसका सीधा मतलब है कि सिर्फ 18+ रेटिंग देना बच्चों को अनुचित कंटेंट से बचाने के लिए पर्याप्त साबित नहीं हुआ।.WhatsApp यूजर्स के चैट्स अब Google Drive के बिना होंगे सेव, कंपनी दे रही है 2GB फ्री क्लाउड स्टोरेज.2024 में भी हटाया गया था TalkieApple ने इससे पहले 2024 में भी Talkie के पुराने वर्जन को आपत्तिजनक यूजर कंटेंट के कारण App Store से हटाया था।
+
+इसके बाद MiniMax ने 2025 में इसका नया वर्जन जारी किया। अक्टूबर 2026 में इस ऐप और वेबसाइट के करीब 1.1 करोड़ मासिक सक्रिय यूजर्स थे। चीनी रिसर्च फर्म Unique Research के अनुसार, सितंबर के मुकाबले अक्टूबर में इसके नए डाउनलोड 32.2 फीसदी घटे।.AI चैटबॉट से दो साल चला रोमांस, ग्रुप चैट में दूसरी महिला से नजदीकी देख महिला ने किया ब्रेकअप.AI ऐप्स पर बढ़ रही है सुरक्षा की सख्तीचीन ने भी AI कंपैनियन प्लेटफॉर्म्स के लिए नियम सख्त किए हैं।
+
+नए नियमों के तहत नाबालिगों के साथ वर्चुअल पार्टनर जैसे अंतरंग रिश्तों को बढ़ावा देने पर रोक लगाई गई है। Apple की यह कार्रवाई दिखाती है कि AI कंपनियों के लिए अब सिर्फ नए फीचर्स बनाना ही नहीं बल्कि बच्चों की सुरक्षा और कंटेंट मॉडरेशन भी बड़ी जिम्मेदारी बन गई है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/technology/apple-bans-chinese-ai-app-talkie-globally-inappropriate-conversations-children-srs13)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Apple ने दुनिया भर में बैन किया चीनी AI ऐप Talkie, बच्चों से आपत्तिजनक बातचीत के आरोप के बाद लिया बड़ा एक्शन - Navbharat Live`,
+    summary_hi: `Highlight:AI स्टार्टअप MiniMax के लोकप्रिय AI कंपैनियन ऐप Talkie को दुनियाभर के App Store से हटा दिया है।ब्रिटेन और ऑस्ट्रेलिया में कुछ बच्चों को ऐप पर ऐसे जवाब मिले, जिनमें अपमानजनक भाषा, ज्यादा अधिकार जताने और रोमांटिक बातचीत जैसी बातें श`,
+    content_hi: `Highlight:AI स्टार्टअप MiniMax के लोकप्रिय AI कंपैनियन ऐप Talkie को दुनियाभर के App Store से हटा दिया है।ब्रिटेन और ऑस्ट्रेलिया में कुछ बच्चों को ऐप पर ऐसे जवाब मिले, जिनमें अपमानजनक भाषा, ज्यादा अधिकार जताने और रोमांटिक बातचीत जैसी बातें शामिल थीं।बच्चों के लिए AI चैटबॉट्स की सुरक्षा पर सवाल खड़े कर दिए हैं।.Apple Talkie App Ban: बच्चों की ऑनलाइन सुरक्षा को लेकर Apple ने बड़ा कदम उठाया है।
+
+बता दें कि कंपनी ने चीनी AI स्टार्टअप MiniMax के लोकप्रिय AI कंपैनियन ऐप Talkie को दुनियाभर के App Store से हटा दिया है। यह कार्रवाई ऐप के AI कैरेक्टर्स पर बच्चों के साथ आपत्तिजनक और अनुचित बातचीत करने के आरोपों के बाद हुई है। वहीं ब्रिटेन और ऑस्ट्रेलिया के मीडिया संस्थानों की संयुक्त जांच में सामने आया कि कुछ बच्चों को ऐप पर ऐसे जवाब मिले, जिनमें अपमानजनक भाषा, जरूरत से ज्यादा अधिकार जताने और रोमांटिक बातचीत जैसी बातें शामिल थीं।
+
+इस मामले ने एक बार फिर बच्चों के लिए AI चैटबॉट्स की सुरक्षा पर सवाल खड़े कर दिए हैं।.बच्चों के साथ AI कैरेक्टर्स की बातचीत पर उठे सवालऑस्ट्रेलिया के ABC News और ब्रिटेन के The Bureau of Investigative Journalism की संयुक्त जांच में Talkie के व्यवहार को लेकर कई चिंताएं सामने आईं। रिपोर्ट में बताया गया है कि कुछ बच्चों के साथ बातचीत के दौरान AI कैरेक्टर्स ने अपमानजनक भाषा का इस्तेमाल किया और रोमांटिक रोल-प्ले जैसी बातचीत की।वहीं जांचकर्ताओं ने 17 नवंबर को Apple के साथ इससे जुड़े सबूत साझा किए थे।
+
+इसके बाद कंपनी ने ऐप को अपने App Store से हटा दिया। Apple ने कार्रवाई के लिए यौन सामग्री को वजह बताया है लेकिन कंपनी ने यह स्पष्ट नहीं किया कि हटाई गई सामग्री विशेष रूप से नाबालिगों को दिखाई गई थी या नहीं। MiniMax ने भी इस मामले पर कोई सार्वजनिक प्रतिक्रिया नहीं दी है।.क्या है Talkie AI ऐप और कैसे करता है काम?Talkie एक AI कंपैनियन ऐप है जिसमें यूजर्स अलग-अलग वर्चुअल कैरेक्टर्स के साथ टेक्स्ट और वॉइस के जरिए बातचीत कर सकते हैं।
+
+इसमें काल्पनिक कहानियों और रोल-प्ले का विकल्प भी मिलता है। ऐप को 18+ रेटिंग दी गई थी लेकिन जांच में इसकी उम्र सत्यापन प्रक्रिया पर सवाल उठे। वहीं रिपोर्ट में बताया जा रहा है कि कुछ मामलों में यूजर्स केवल अपनी उम्र बताकर आगे बढ़ सकते थे। इससे नाबालिगों के ऐप तक पहुंचने का खतरा बना हुआ था।
+
+जिसका सीधा मतलब है कि सिर्फ 18+ रेटिंग देना बच्चों को अनुचित कंटेंट से बचाने के लिए पर्याप्त साबित नहीं हुआ।.WhatsApp यूजर्स के चैट्स अब Google Drive के बिना होंगे सेव, कंपनी दे रही है 2GB फ्री क्लाउड स्टोरेज.2024 में भी हटाया गया था TalkieApple ने इससे पहले 2024 में भी Talkie के पुराने वर्जन को आपत्तिजनक यूजर कंटेंट के कारण App Store से हटाया था।
+
+इसके बाद MiniMax ने 2025 में इसका नया वर्जन जारी किया। अक्टूबर 2026 में इस ऐप और वेबसाइट के करीब 1.1 करोड़ मासिक सक्रिय यूजर्स थे। चीनी रिसर्च फर्म Unique Research के अनुसार, सितंबर के मुकाबले अक्टूबर में इसके नए डाउनलोड 32.2 फीसदी घटे।.AI चैटबॉट से दो साल चला रोमांस, ग्रुप चैट में दूसरी महिला से नजदीकी देख महिला ने किया ब्रेकअप.AI ऐप्स पर बढ़ रही है सुरक्षा की सख्तीचीन ने भी AI कंपैनियन प्लेटफॉर्म्स के लिए नियम सख्त किए हैं।
+
+नए नियमों के तहत नाबालिगों के साथ वर्चुअल पार्टनर जैसे अंतरंग रिश्तों को बढ़ावा देने पर रोक लगाई गई है। Apple की यह कार्रवाई दिखाती है कि AI कंपनियों के लिए अब सिर्फ नए फीचर्स बनाना ही नहीं बल्कि बच्चों की सुरक्षा और कंटेंट मॉडरेशन भी बड़ी जिम्मेदारी बन गई है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/technology/apple-bans-chinese-ai-app-talkie-globally-inappropriate-conversations-children-srs13)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट Navbharat Live के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Apple ने दुनिया भर में बैन किया चीनी AI ऐप Talkie, बच्चों से आपत्तिजनक बातचीत के आरोप के बाद लिया बड़ा एक्शन - Navbharat Live से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Navbharat Live`,
+  },
+  {
+    id: 98044,
+    title: `5.49 लाख रुपये में लॉन्च हुआ HP का OmniBook Ultra 16, मिलते हैं तगड़े AI फीचर्स - India TV Hindi`,
+    slug: `549-hp-omnibook-ultra-16-ai-india-tv-hindi-2026`,
+    original_title: `5.49 लाख रुपये में लॉन्च हुआ HP का OmniBook Ultra 16, मिलते हैं तगड़े AI फीचर्स - India TV Hindi`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:23Z`,
+    updated_at: `2026-11-27T05:14:23Z`,
+    source_name: `India TV Hindi`,
+    source_url: `https://www.indiatv.in/tech/tech-news/hp-omnibook-ultra-16-launched-with-nvidia-rtx-spark-and-ai-chip-2026-11-26-1256614`,
+    source_courtesy: `Source: India TV Hindi`,
+    image_url: `/images/articles/549-hp-omnibook-ultra-16-ai-india-tv-hindi-2026.jpg`,
+    image_alt: `5.49 लाख रुपये में लॉन्च हुआ HP का OmniBook Ultra 16, मिलते हैं तगड़े AI फीचर्स - India TV Hindi`,
+    image_courtesy: `Image: India TV Hindi (External Source Attribution)`,
+    image_photographer: `India TV Hindi`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `HP ने भारत में प्रीमियम लैपटॉप OmniBook Ultra 16 लॉन्च किया है। एचपी का यह लैपटॉप तगड़े AI फीचर्स से लैस है। इस लैपटॉप को खास तौर पर डेवलपर्स, क्रिएटर्स और वर्किंग प्रोफेशनल्स को ध्यान में रखकर लॉन्च किया गया है। इसमें क्रिएटिव वर्क के लिए `,
+    content: `HP ने भारत में प्रीमियम लैपटॉप OmniBook Ultra 16 लॉन्च किया है। एचपी का यह लैपटॉप तगड़े AI फीचर्स से लैस है। इस लैपटॉप को खास तौर पर डेवलपर्स, क्रिएटर्स और वर्किंग प्रोफेशनल्स को ध्यान में रखकर लॉन्च किया गया है। इसमें क्रिएटिव वर्क के लिए एडवांस AI हार्डवेयर यूज किया गया है। इसमें कपनी ने NVIDIA RTX Spark का इस्तेमाल किया गया है।
+
+कितनी है कीमत? HP OmniBook Ultra 16 को भारत में 5,49,999 रुपये की शुरुआती कीमत में लॉन्च किया गया है। इस लैपटॉप में कंपनी ने प्रीमियम फर्म फैक्टर यूज किया है। यह एक ही कलर ऑप्शन Eclipse Grey में आता है। इसकी सेल 1 दिसंबर से शुरू होगी। इसकी खरीद पर 40,000 रुपये का कैशबैक ऑफर किया जा रहा है।
+
+मिलते हैं तगड़े AI फीचर्स एचपी का यह लैपटॉप 16 इंच के OLED पैनल के साथ आता है। इस लैपटॉप के डिस्प्ले में कंपनी ने 3K रेजलूशन वाला डिस्प्ले पैनल यूज किया है, जिसकी रेजलूशन 2880 x 1800 पिक्सल है। इसका डिस्प्ले 120Hz रिफ्रेश रेट को सपोर्ट करता है। इसमें VESA Display HDR True Black 1000 का इस्तेमाल किया गया है, जो विजुअल एक्सपीरियंस को बेहतर बनाता है।
+
+HP के इस लैपटॉप में कंपनी ने क्वाड स्पीकर दिया है। साथ ही, इसमें हैपटिक टचपैड का सपोर्ट मिलेगा, जो जेस्चर बेस्ड वॉल्यूम और ब्राइटनेस को सपोर्ट करता है। इस लैपटॉप में कंपनी ने 99Wh बैटरी का इस्तेमाल किया गया है। इसके साथ कंपनी ने 140W GaN चार्जर दिया है। कनेक्टिविटी के लिए WiFi 7 का इस्तेमाल किया गया है।
+
+साथ ही, यह 5MP IR कैमरा, दो USB Type C, USB Type A पोर्ट्स, एक HDMI 2.1 पोर्ट और एक MicroSD कार्ड स्लॉट के साथ आता है। यह AI PC NVIDIA CUDA प्लेटफॉर्म पर काम करता है। इसमें ऑनबोर्ड एडवांस AI कैपेबिलिटीज दी गई है। इसके अलावा इसमें 128GB यूनीफाइड मेमोरी का सपोर्ट दिया गया है। एचपी का यह फ्लैगशिप लैपटॉप Windows 11 प्लेटफॉर्म पर काम करता है।
+
+पिछले दिनों HP ने भारत में अपने दो दमदार लैपटॉप- OmniBook 5 और ProBook 4 G2iS लॉन्च कर दिया है। एचपी के ये दोनों लैपटॉप AI फीचर्स से लैस हैं। इन दोनों लैपटॉप को खास तौर पर बिजनेस प्रोफेशनल्स को ध्यान में रखकर उतारा गया है। इनमें OLED डिस्प्ले पैनल, Intel Core 7 चिपसेट और 32GB रैम जैसे फीचर्स दिए गए हैं।
+
+यह भी पढ़ें - Samsung का अगला ट्रिपल फोल्डेबल फोन जल्द होगा लॉन्च, सामने आई अहम जानकारी
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/tech/tech-news/hp-omnibook-ultra-16-launched-with-nvidia-rtx-spark-and-ai-chip-2026-11-26-1256614)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `5.49 लाख रुपये में लॉन्च हुआ HP का OmniBook Ultra 16, मिलते हैं तगड़े AI फीचर्स - India TV Hindi`,
+    summary_hi: `HP ने भारत में प्रीमियम लैपटॉप OmniBook Ultra 16 लॉन्च किया है। एचपी का यह लैपटॉप तगड़े AI फीचर्स से लैस है। इस लैपटॉप को खास तौर पर डेवलपर्स, क्रिएटर्स और वर्किंग प्रोफेशनल्स को ध्यान में रखकर लॉन्च किया गया है। इसमें क्रिएटिव वर्क के लिए `,
+    content_hi: `HP ने भारत में प्रीमियम लैपटॉप OmniBook Ultra 16 लॉन्च किया है। एचपी का यह लैपटॉप तगड़े AI फीचर्स से लैस है। इस लैपटॉप को खास तौर पर डेवलपर्स, क्रिएटर्स और वर्किंग प्रोफेशनल्स को ध्यान में रखकर लॉन्च किया गया है। इसमें क्रिएटिव वर्क के लिए एडवांस AI हार्डवेयर यूज किया गया है। इसमें कपनी ने NVIDIA RTX Spark का इस्तेमाल किया गया है।
+
+कितनी है कीमत? HP OmniBook Ultra 16 को भारत में 5,49,999 रुपये की शुरुआती कीमत में लॉन्च किया गया है। इस लैपटॉप में कंपनी ने प्रीमियम फर्म फैक्टर यूज किया है। यह एक ही कलर ऑप्शन Eclipse Grey में आता है। इसकी सेल 1 दिसंबर से शुरू होगी। इसकी खरीद पर 40,000 रुपये का कैशबैक ऑफर किया जा रहा है।
+
+मिलते हैं तगड़े AI फीचर्स एचपी का यह लैपटॉप 16 इंच के OLED पैनल के साथ आता है। इस लैपटॉप के डिस्प्ले में कंपनी ने 3K रेजलूशन वाला डिस्प्ले पैनल यूज किया है, जिसकी रेजलूशन 2880 x 1800 पिक्सल है। इसका डिस्प्ले 120Hz रिफ्रेश रेट को सपोर्ट करता है। इसमें VESA Display HDR True Black 1000 का इस्तेमाल किया गया है, जो विजुअल एक्सपीरियंस को बेहतर बनाता है।
+
+HP के इस लैपटॉप में कंपनी ने क्वाड स्पीकर दिया है। साथ ही, इसमें हैपटिक टचपैड का सपोर्ट मिलेगा, जो जेस्चर बेस्ड वॉल्यूम और ब्राइटनेस को सपोर्ट करता है। इस लैपटॉप में कंपनी ने 99Wh बैटरी का इस्तेमाल किया गया है। इसके साथ कंपनी ने 140W GaN चार्जर दिया है। कनेक्टिविटी के लिए WiFi 7 का इस्तेमाल किया गया है।
+
+साथ ही, यह 5MP IR कैमरा, दो USB Type C, USB Type A पोर्ट्स, एक HDMI 2.1 पोर्ट और एक MicroSD कार्ड स्लॉट के साथ आता है। यह AI PC NVIDIA CUDA प्लेटफॉर्म पर काम करता है। इसमें ऑनबोर्ड एडवांस AI कैपेबिलिटीज दी गई है। इसके अलावा इसमें 128GB यूनीफाइड मेमोरी का सपोर्ट दिया गया है। एचपी का यह फ्लैगशिप लैपटॉप Windows 11 प्लेटफॉर्म पर काम करता है।
+
+पिछले दिनों HP ने भारत में अपने दो दमदार लैपटॉप- OmniBook 5 और ProBook 4 G2iS लॉन्च कर दिया है। एचपी के ये दोनों लैपटॉप AI फीचर्स से लैस हैं। इन दोनों लैपटॉप को खास तौर पर बिजनेस प्रोफेशनल्स को ध्यान में रखकर उतारा गया है। इनमें OLED डिस्प्ले पैनल, Intel Core 7 चिपसेट और 32GB रैम जैसे फीचर्स दिए गए हैं।
+
+यह भी पढ़ें - Samsung का अगला ट्रिपल फोल्डेबल फोन जल्द होगा लॉन्च, सामने आई अहम जानकारी
+
+---
+
+**मूल स्रोत (Original Source):** [India TV Hindi](https://www.indiatv.in/tech/tech-news/hp-omnibook-ultra-16-launched-with-nvidia-rtx-spark-and-ai-chip-2026-11-26-1256614)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट India TV Hindi के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक 5.49 लाख रुपये में लॉन्च हुआ HP का OmniBook Ultra 16, मिलते हैं तगड़े AI फीचर्स - India TV Hindi से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `India TV Hindi`,
+  },
+  {
+    id: 98045,
+    title: `Thanksgiving storm batters eastern US, leaves over 900,000 without power as floods disrupt travel`,
+    slug: `thanksgiving-storm-batters-eastern-us-leaves-over-900000-without-power-2026`,
+    original_title: `Thanksgiving storm batters eastern US, leaves over 900,000 without power as floods disrupt travel`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:24Z`,
+    updated_at: `2026-11-27T05:14:24Z`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/world/us/thanksgiving-storm-batters-eastern-us-leaves-over-900000-without-power-as-floods-disrupt-travel/articleshow/136206115.cms`,
+    source_courtesy: `Source: The Times of India`,
+    image_url: `/images/articles/thanksgiving-storm-batters-eastern-us-leaves-over-900000-without-power-2026.jpg`,
+    image_alt: `Thanksgiving storm batters eastern US, leaves over 900,000 without power as floods disrupt travel`,
+    image_courtesy: `Image: The Times of India (External Source Attribution)`,
+    image_photographer: `The Times of India`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `A powerful Thanksgiving storm disrupted holiday celebrations and travel across the United States on Thursday, leaving more than 900,000 customers without electricity, flooding coastal communities and damaging infrastructure. The storm swept`,
+    content: `A powerful Thanksgiving storm disrupted holiday celebrations and travel across the United States on Thursday, leaving more than 900,000 customers without electricity, flooding coastal communities and damaging infrastructure. The storm swept from Missouri to Massachusetts, bringing heavy snowfall to parts of the Midwest and strong winds and rain to the East Coast.
+
+Emergency crews carried out dozens of rescues as floodwaters inundated neighbourhoods and stranded motorists.Pennsylvania recorded the highest number of power outages, with more than 213,000 customers affected. Virginia had over 150,000 customers without electricity, while Missouri reported nearly 120,000 outages, according to PowerOutage.us.
+
+New York, North Carolina and Illinois were among the other affected states.Flooding triggers rescues in New Jersey and VirginiaFlooding forced emergency services into action across several East Coast communities. In Atlantic City, New Jersey, water reached depths of two to three feet in some low-lying areas.
+
+Rescue teams evacuated residents from homes and carried out more than 14 rescues involving vehicles trapped in floodwaters. Although the water had begun to recede, some roads remained closed.In Virginia, Norfolk Fire-Rescue teams rescued 39 people, while around five residents were evacuated from their homes in nearby Poquoson.
+
+Two dogs were also rescued in Norfolk. No injuries were reported in these operations.Fallen trees damage homes in Maryland; Mamdani reports rescues in New YorkThe storm also brought down trees and damaged buildings in Maryland. Emergency responders in Montgomery County received more than 300 calls on Thursday morning, including dozens of reports of trees falling on houses.
+
+In one incident, a tree partially crushed an occupied house. Residents were also trapped inside another home after a fallen tree blocked their way.In New York City, Mayor Zohran Mamdani said two people had been rescued from vehicles caught in floodwaters. He urged residents to avoid flooded roads and remain indoors."We've already had two New Yorkers that we've rescued from their cars as a result of the flooding," Mamdani said during an event in Harlem to distribute Thanksgiving meals."We want to remind everyone to stay safe and to remember that there is no destination worth your safety," he added.High winds shut bridge, disrupt airport servicesThe storm also damaged infrastructure and disrupted road travel.
+
+The Commodore Barry Bridge, which connects Pennsylvania and New Jersey, was shut after strong winds damaged work platforms above its road lanes. The Delaware River Port Authority said the damage had made the roadway unsafe. Winds in the region were gusting between 50 and 70 mph, and repair crews were expected to secure the damaged structures once conditions allowed.Air travel also faced disruption, with hundreds of flights cancelled or delayed during the busy holiday period.
+
+The Federal Aviation Administration issued a ground stop for Delta Air Lines flights heading to New York's LaGuardia Airport until 7.30 pm ET. High winds also forced the suspension of the AirTrain monorail at Newark Liberty International Airport, with buses arranged to replace the service.Macy's Thanksgiving Day Parade postponed for first time in historyIn New York, the weather forced organisers to postpone the Macy's Thanksgiving Day Parade for the first time in its history.
+
+The event has been rescheduled for Saturday, November 28.The Midwest faced a different challenge as heavy snowfall affected transport and infrastructure. Parts of eastern Missouri and western Illinois recorded eight to 12 inches of snow, with some locations in Missouri receiving up to 14 inches.
+
+The snowfall caused part of the Wentzville Ice Arena, around 40 miles west of St Louis, to collapse. No injuries were reported.Authorities in Margate City, New Jersey, also warned residents that flooding could persist through Friday morning as another high tide approached.While rain and strong winds were beginning to ease in parts of the Mid-Atlantic, forecasters warned that conditions could worsen in New England overnight.
+
+Another storm system is also expected to bring rain and snow across parts of the US over the weekend, potentially disrupting travel on Sunday, one of the busiest days of the Thanksgiving holiday period.You use AI every day. Now get your AI Quotient. Take the AIQ test.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/world/us/thanksgiving-storm-batters-eastern-us-leaves-over-900000-without-power-as-floods-disrupt-travel/articleshow/136206115.cms)`,
+    title_en: `Thanksgiving storm batters eastern US, leaves over 900,000 without power as floods disrupt travel`,
+    summary_en: `A powerful Thanksgiving storm disrupted holiday celebrations and travel across the United States on Thursday, leaving more than 900,000 customers without electricity, flooding coastal communities and damaging infrastructure. The storm swept`,
+    content_en: `A powerful Thanksgiving storm disrupted holiday celebrations and travel across the United States on Thursday, leaving more than 900,000 customers without electricity, flooding coastal communities and damaging infrastructure. The storm swept from Missouri to Massachusetts, bringing heavy snowfall to parts of the Midwest and strong winds and rain to the East Coast.
+
+Emergency crews carried out dozens of rescues as floodwaters inundated neighbourhoods and stranded motorists.Pennsylvania recorded the highest number of power outages, with more than 213,000 customers affected. Virginia had over 150,000 customers without electricity, while Missouri reported nearly 120,000 outages, according to PowerOutage.us.
+
+New York, North Carolina and Illinois were among the other affected states.Flooding triggers rescues in New Jersey and VirginiaFlooding forced emergency services into action across several East Coast communities. In Atlantic City, New Jersey, water reached depths of two to three feet in some low-lying areas.
+
+Rescue teams evacuated residents from homes and carried out more than 14 rescues involving vehicles trapped in floodwaters. Although the water had begun to recede, some roads remained closed.In Virginia, Norfolk Fire-Rescue teams rescued 39 people, while around five residents were evacuated from their homes in nearby Poquoson.
+
+Two dogs were also rescued in Norfolk. No injuries were reported in these operations.Fallen trees damage homes in Maryland; Mamdani reports rescues in New YorkThe storm also brought down trees and damaged buildings in Maryland. Emergency responders in Montgomery County received more than 300 calls on Thursday morning, including dozens of reports of trees falling on houses.
+
+In one incident, a tree partially crushed an occupied house. Residents were also trapped inside another home after a fallen tree blocked their way.In New York City, Mayor Zohran Mamdani said two people had been rescued from vehicles caught in floodwaters. He urged residents to avoid flooded roads and remain indoors."We've already had two New Yorkers that we've rescued from their cars as a result of the flooding," Mamdani said during an event in Harlem to distribute Thanksgiving meals."We want to remind everyone to stay safe and to remember that there is no destination worth your safety," he added.High winds shut bridge, disrupt airport servicesThe storm also damaged infrastructure and disrupted road travel.
+
+The Commodore Barry Bridge, which connects Pennsylvania and New Jersey, was shut after strong winds damaged work platforms above its road lanes. The Delaware River Port Authority said the damage had made the roadway unsafe. Winds in the region were gusting between 50 and 70 mph, and repair crews were expected to secure the damaged structures once conditions allowed.Air travel also faced disruption, with hundreds of flights cancelled or delayed during the busy holiday period.
+
+The Federal Aviation Administration issued a ground stop for Delta Air Lines flights heading to New York's LaGuardia Airport until 7.30 pm ET. High winds also forced the suspension of the AirTrain monorail at Newark Liberty International Airport, with buses arranged to replace the service.Macy's Thanksgiving Day Parade postponed for first time in historyIn New York, the weather forced organisers to postpone the Macy's Thanksgiving Day Parade for the first time in its history.
+
+The event has been rescheduled for Saturday, November 28.The Midwest faced a different challenge as heavy snowfall affected transport and infrastructure. Parts of eastern Missouri and western Illinois recorded eight to 12 inches of snow, with some locations in Missouri receiving up to 14 inches.
+
+The snowfall caused part of the Wentzville Ice Arena, around 40 miles west of St Louis, to collapse. No injuries were reported.Authorities in Margate City, New Jersey, also warned residents that flooding could persist through Friday morning as another high tide approached.While rain and strong winds were beginning to ease in parts of the Mid-Atlantic, forecasters warned that conditions could worsen in New England overnight.
+
+Another storm system is also expected to bring rain and snow across parts of the US over the weekend, potentially disrupting travel on Sunday, one of the busiest days of the Thanksgiving holiday period.You use AI every day. Now get your AI Quotient. Take the AIQ test.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/world/us/thanksgiving-storm-batters-eastern-us-leaves-over-900000-without-power-as-floods-disrupt-travel/articleshow/136206115.cms)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Times of India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Thanksgiving storm batters eastern US, leaves over 900,000 without power as floods disrupt travel.`,
+    primary_source: `The Times of India`,
+  },
+  {
+    id: 98046,
+    title: `HT exclusive: India set to deploy fifth S-400 along Pakistan border by February | India News - Hindustan Times`,
+    slug: `ht-exclusive-india-set-to-deploy-fifth-s-400-along-pakistan-border-by-2026`,
+    original_title: `HT exclusive: India set to deploy fifth S-400 along Pakistan border by February | India News - Hindustan Times`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:25Z`,
+    updated_at: `2026-11-27T05:14:25Z`,
+    source_name: `Hindustan Times`,
+    source_url: `https://www.hindustantimes.com/india-news/india-set-to-deploy-fifth-s-400-along-pakistan-border-by-february-101795740894013.html`,
+    source_courtesy: `Source: Hindustan Times`,
+    image_url: `https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `HT exclusive: India set to deploy fifth S-400 along Pakistan border by February | India News - Hindustan Times`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `With China and Turkey supplying hardware, the US giving more teeth to F-16 fighters, and Saudi Arabia providing capital for Pakistan’s military capabilities, India has decided to further strengthen its western border by deploying a fifth S-`,
+    content: `With China and Turkey supplying hardware, the US giving more teeth to F-16 fighters, and Saudi Arabia providing capital for Pakistan’s military capabilities, India has decided to further strengthen its western border by deploying a fifth S-400 air defence system to guard the 740km Line of Control (LoC) in Jammu &amp; Kashmir, according to two top officials aware of the matter.At present, three S-400 long-range systems to counter aerial threats are deployed in Punjab, Rajasthan and Gujarat, and a fourth is deployed in Assam to protect the 1126km long Line of Actual Control in Arunachal Pradesh.S-400 purchase from RussiaWhile the Union government remains tight-lipped on national security, the officials cited above told HT that an Indian Air Force (IAF) pre-dispatch inspection team will visit Russia next month, and a fifth S-400 system will be ready for deployment by February 2027.The S-400 system, of which India is seeking to buy another five from Russia in the coming year, can counter ballistic missiles, aircraft, unmanned combat air systems, kamikaze drones, and loitering ammunition from a range of 40km to 400 km.
+
+The S-400 proved itself during Operation Sindoor, ensuring that no ballistic missile or rocket fired by Pakistan hit the Indian territory, apart from knocking down Pakistani fighters, AEW&amp;C aircraft, and ELINT platforms from the skies till as far as west of the Indus. India prepares against Chinese threatIn the backdrop of China planning to supply J-35 fifth-generation fighters to Rawalpindi in 2027, India has decided to manufacture and acquire long-range stand-off weapons and loitering ammunition to counter Chinese long-range air-to-air missiles such as the PL-15 E (Extended), and air defence systems such as the HQ 9BE.
+
+PAF used Chinese J-10 fighters in tandem with Swedish AWACS to fire 200km range twin-data link PL-15 E missiles during Op Sindoor.“We know the future war will be without contact with stand-off weapons. “Whoever has a longer-range missile and better anti-missile capability will have an edge,” said a top military officer.Also Read I Defence, space, trade: The 75-year-old ‘iron brotherhood’ of China and PakistanThe second official cited above said that India is aware that Beijing and Ankara are bolstering Pakistan militarily, Washington is providing an F-16 upgradation package, and Riyadh is releasing capital as compensation for Mecca Alliance support against Iranian-backed Houthis.
+
+Though Pakistan is seeking IMF support and has low forex reserves, it is buying eight Yuan (Hangor)-class AIP diesel attack submarines from China (over $5 billion), with one already deployed by the Pakistan Navy in June 2026, he added. Meanwhile, Turkey is upgrading its Agosta 90 B submarines and supplying long-range kamikaze drones to Pakistan, and China has already supplied armed Wing Loong II missile firing drones to boost Pakistan’s military-aerial capability, the people said.In light of the national security assessment emanating from these acquisitions, coupled with the cross-border terror threat from Pakistan, India is preparing to bolster not only on long-range air-to -air, air-to-ground and ground-to-ground stand-off weapons but also upgrade its border infrastructure on the LAC, the officials added.
+
+---
+
+**Original Source:** [Hindustan Times](https://www.hindustantimes.com/india-news/india-set-to-deploy-fifth-s-400-along-pakistan-border-by-february-101795740894013.html)`,
+    title_en: `HT exclusive: India set to deploy fifth S-400 along Pakistan border by February | India News - Hindustan Times`,
+    summary_en: `With China and Turkey supplying hardware, the US giving more teeth to F-16 fighters, and Saudi Arabia providing capital for Pakistan’s military capabilities, India has decided to further strengthen its western border by deploying a fifth S-`,
+    content_en: `With China and Turkey supplying hardware, the US giving more teeth to F-16 fighters, and Saudi Arabia providing capital for Pakistan’s military capabilities, India has decided to further strengthen its western border by deploying a fifth S-400 air defence system to guard the 740km Line of Control (LoC) in Jammu &amp; Kashmir, according to two top officials aware of the matter.At present, three S-400 long-range systems to counter aerial threats are deployed in Punjab, Rajasthan and Gujarat, and a fourth is deployed in Assam to protect the 1126km long Line of Actual Control in Arunachal Pradesh.S-400 purchase from RussiaWhile the Union government remains tight-lipped on national security, the officials cited above told HT that an Indian Air Force (IAF) pre-dispatch inspection team will visit Russia next month, and a fifth S-400 system will be ready for deployment by February 2027.The S-400 system, of which India is seeking to buy another five from Russia in the coming year, can counter ballistic missiles, aircraft, unmanned combat air systems, kamikaze drones, and loitering ammunition from a range of 40km to 400 km.
+
+The S-400 proved itself during Operation Sindoor, ensuring that no ballistic missile or rocket fired by Pakistan hit the Indian territory, apart from knocking down Pakistani fighters, AEW&amp;C aircraft, and ELINT platforms from the skies till as far as west of the Indus. India prepares against Chinese threatIn the backdrop of China planning to supply J-35 fifth-generation fighters to Rawalpindi in 2027, India has decided to manufacture and acquire long-range stand-off weapons and loitering ammunition to counter Chinese long-range air-to-air missiles such as the PL-15 E (Extended), and air defence systems such as the HQ 9BE.
+
+PAF used Chinese J-10 fighters in tandem with Swedish AWACS to fire 200km range twin-data link PL-15 E missiles during Op Sindoor.“We know the future war will be without contact with stand-off weapons. “Whoever has a longer-range missile and better anti-missile capability will have an edge,” said a top military officer.Also Read I Defence, space, trade: The 75-year-old ‘iron brotherhood’ of China and PakistanThe second official cited above said that India is aware that Beijing and Ankara are bolstering Pakistan militarily, Washington is providing an F-16 upgradation package, and Riyadh is releasing capital as compensation for Mecca Alliance support against Iranian-backed Houthis.
+
+Though Pakistan is seeking IMF support and has low forex reserves, it is buying eight Yuan (Hangor)-class AIP diesel attack submarines from China (over $5 billion), with one already deployed by the Pakistan Navy in June 2026, he added. Meanwhile, Turkey is upgrading its Agosta 90 B submarines and supplying long-range kamikaze drones to Pakistan, and China has already supplied armed Wing Loong II missile firing drones to boost Pakistan’s military-aerial capability, the people said.In light of the national security assessment emanating from these acquisitions, coupled with the cross-border terror threat from Pakistan, India is preparing to bolster not only on long-range air-to -air, air-to-ground and ground-to-ground stand-off weapons but also upgrade its border infrastructure on the LAC, the officials added.
+
+---
+
+**Original Source:** [Hindustan Times](https://www.hindustantimes.com/india-news/india-set-to-deploy-fifth-s-400-along-pakistan-border-by-february-101795740894013.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Hindustan Times.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for HT exclusive: India set to deploy fifth S-400 along Pakistan border by February | India News - Hindustan Times.`,
+    primary_source: `Hindustan Times`,
+  },
+  {
+    id: 98047,
+    title: `चीन ने पाकिस्तान के अंतरिक्ष यात्री के लिए भेजे लज़ीज़ पकवान,बटर चिकन, निहारी से लेकर मटन कोरमा तक`,
+    slug: `world-breaking-report-63830-98047-2026`,
+    original_title: `चीन ने पाकिस्तान के अंतरिक्ष यात्री के लिए भेजे लज़ीज़ पकवान,बटर चिकन, निहारी से लेकर मटन कोरमा तक`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:27Z`,
+    updated_at: `2026-11-27T05:14:27Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/c87524le20p7o`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/world-breaking-report-63830-98047-2026.jpg`,
+    image_alt: `चीन ने पाकिस्तान के अंतरिक्ष यात्री के लिए भेजे लज़ीज़ पकवान,बटर चिकन, निहारी से लेकर मटन कोरमा तक`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `चिकन बसरा, निहारी,  मटन कोरमा और चना शोरबा.`,
+    content: `चिकन बसरा, निहारी,  मटन कोरमा और चना शोरबा.
+
+इन पकवानों के नाम सुनते ही किसी व्यस्त पाकिस्तानी रेस्तरां या दावत का ख़याल आता है. लेकिन इन दिनों पाकिस्तान के सोशल मीडिया पर इन लज़ीज़ पकवानों की चर्चा एक अलग ही वजह से हो रही है.
+
+दरअसल, ये व्यंजन चीन के अंतरिक्ष स्टेशन पर मौजूद अंतरिक्ष यात्रियों के लिए तैयार किए गए ख़ास हलाल मेन्यू का हिस्सा हैं.
+
+चीन के सरकारी चैनल चाइना ग्लोबल टेलीविज़न नेटवर्क (सीजीटीएन) ने सोशल मीडिया प्लेटफॉर्म एक्स पर एक पोस्ट में बताया, "चीन के अंतरिक्ष स्टेशन पर छह लोगों के लिए रात्रिभोज का इंतज़ाम किया जा रहा है. इसमें पाकिस्तानी अंतरिक्ष यात्री के लिए ख़ास तौर पर चुने गए 100 से ज़्यादा तरह के हलाल डिश भी परोसे जाएंगे."
+
+सीजीटीएन के मुताबिक़, इन व्यंजनों में निहारी, मटन कोरमा और छोले की सब्ज़ी भी शामिल हैं.
+
+शेनझोउ-24 में चीनी अंतरिक्ष यात्री तांग होंगबो और वू यी के अलावा पाकिस्तानी अंतरिक्ष यात्री ज़ीशान अली भी सवार हैं.
+
+शेनझोउ-24 अंतरिक्ष मिशन के तहत तीन अंतरिक्ष यात्रियों को तियांगोंग अंतरिक्ष स्टेशन भेजा गया है.
+
+इनमें तांग होंगबो मिशन कमांडर, वू यी फ़्लाइट इंजीनियर और पाकिस्तानी पायलट मोहम्मद ज़ीशान अली पेलोड स्पेशलिस्ट के तौर पर शामिल हैं.
+
+बुधवार को जिउछुआन सैटेलाइट लॉन्च सेंटर से रवाना हुआ शेनझोउ-24 अंतरिक्ष मिशन चीन के अंतरिक्ष स्टेशन से जुड़ गया है. इसके बाद शेनझोउ-24 के चालक दल ने अंतरिक्ष स्टेशन में एंट्री की .
+
+इस मिशन में पाकिस्तानी अंतरिक्ष यात्री मोहम्मद ज़ीशान अली की मौजूदगी को देखते हुए चीन के अंतरिक्ष कार्यक्रम से जुड़े विभाग ने चीनी और अंग्रेज़ी, दोनों भाषाओं में कामकाज से जुड़े निर्देश तैयार किए हैं.
+
+इसके अलावा, पाकिस्तानी अंतरिक्ष यात्री की खानपान संबंधी पसंद को ध्यान में रखते हुए हलाल खाने का का भी इंतज़ाम किया गया है.
+
+अंतरिक्ष में भोजन का मामला हमेशा से चर्चा का विषय रहा है. ऐसे में पाकिस्तानी अंतरिक्ष यात्री के लिए हलाल खाने और दक्षिण एशियाई स्वाद वाले व्यंजनों को शामिल किए जाने से सोशल मीडिया पर भी बहस छिड़ गई है.
+
+पाकिस्तानी अंतरिक्ष यात्री मोहम्मद ज़ीशान अली तियांगोंग अंतरिक्ष स्टेशन पर क़रीब एक हफ़्ता बिताएंगे.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+यह ख़बर सामने आने के बाद सोशल मीडिया यूज़र्स पाकिस्तानी डिशेज के अंतरिक्ष तक पहुंचने पर हैरानी और ख़ुशी जता रहे हैं.
+
+कुछ यूज़र्स ने इसे चीन और पाकिस्तान के क़रीबी रिश्तों का प्रतीक बताया, जबकि दूसरे लोगों ने निहारी और कोरमे जैसे पारंपरिक पकवानों के अंतरिक्ष के सफ़र पर दिलचस्प टिप्पणियां कीं.
+
+असमा नाम की एक यूज़र ने पाकिस्तानी अंतरिक्ष यात्री के मेन्यू में ख़ास तौर पर निहारी को शामिल किए जाने की तारीफ़ करते हुए लिखा, "हमारे अंतरिक्ष यात्री के मेन्यू में निहारी को जगह देने के लिए शुक्रिया."
+
+लैला नाम की एक यूज़र ने किसी देश का नाम लिए बिना लिखा कि यह ख़बर निश्चित रूप से हमारे "पड़ोसियों की कैलोरी जलाने" का कारण बनेगी.
+
+ग़ौरतलब है कि पाकिस्तान के पहले अंतरिक्ष यात्री मोहम्मद ज़ीशान अली के चीनी अंतरिक्ष मिशन में शामिल होने की ख़बर को भारत में भी काफ़ी तवज्जो मिल रही है.
+
+देश के बड़े अख़बारों, टीवी चैनलों और डिजिटल प्लेटफॉर्म ने इस घटनाक्रम को प्रमुखता से जगह दी है.
+
+भारत में सोशल मीडिया पर भी इसे लेकर चर्चा जारी है. अंतरिक्ष में भारत और पाकिस्तान की उपलब्धियों और दोनों देशों के बीच होड़ की तुलना भी की जा रही है.
+
+गर्वसेसेक्युलर नाम के एक यूज़र ने लिखा, "हम भारतीयों के लिए यह गर्व की बात है कि बटर चिकन, जो एक भारतीय व्यंजन है, अंतरिक्ष तक पहुंच गया है. इससे क्या फ़र्क़ पड़ता है कि इसे चीनी अंतरिक्ष स्टेशन पर मौजूद एक पाकिस्तानी अंतरिक्ष यात्री के लिए तैयार किया गया है."
+
+इसके साथ ही उन्होंने लिखा, "हालांकि, हम बीफ़ निहारी से अपना कोई संबंध नहीं होने की घोषणा करते हैं."
+
+सोशल मीडिया प्लेटफ़ॉर्म एक्स पर पाकिस्तानी थिंक टैंक 'पाकिस्तान स्ट्रैटेजिक फ़ोरम' के अकाउंट से इसकी तारीफ़ करते हुए कहा गया, "अगर आपके पास वही दिल है तो आप कितनी बार जीत सकते हैं?"
+
+### मेन्यू में बिरयानी न होने से निराशा
+
+सोशल मीडिया पर कई यूजर्स ने पाकिस्तानी अंतरिक्ष यात्री की यात्रा की तारीफ़ करते हुए इसे चीन और पाकिस्तान के बीच घनिष्ठ संबंधों का प्रतीक बताया और साथ ही इस कदम को चीन की ग्लोबल पावर की ताक़त की अहमियत कहा.
+
+एलेक्स हैंक नाम के एक यूजर ने सोशल मीडिया पर अपनी पोस्ट में लिखा, "चीन की ओर से मेहमान की ख़ातिरदारी का एक अद्भुत प्रदर्शन. यही वजह है कि चीन को भविष्य की विश्व शक्ति माना जाता है. यह मिशन अंतरिक्ष सहयोग के एक नए युग का दरवाजा खोल सकता है."
+
+जहां एक ओर यूजर्स ने मेनू में निहारी को शामिल किए जाने पर आश्चर्य और खुशी व्यक्त की, वहीं कई यूजर्स इस बात से थोड़े निराश दिखे कि बिरयानी को मेन्यू में जगह नहीं मिली.
+
+सोशल मीडिया पर बिरयानी के स्वाद और उसे बनाने के तरीकों को लेकर यूजर्स के बीच हर दिन बातचीत होती रहती है. ऐसे में इस 'ऐतिहासिक' अवसर पर बिरयानी का उल्लेख न होने से कई यूजर्स निराश हैं.
+
+बिरयानी के एक प्रशंसक ने लिखा, "मेनू में बीफ़ निहारी देखकर अच्छा लगा, लेकिन जब तक बिरयानी को मेज पर जगह नहीं मिलती, तब तक मिशन का मजा पूरा नहीं होगा. इसलिए हम पाकिस्तानी अंतरिक्ष यात्री जीशान अली से जल्द से जल्द बिरयानी का आनंद लेते हुए अपनी तस्वीरें भेजने का इंतजार कर रहे हैं."
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c87524le20p7o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `चीन ने पाकिस्तान के अंतरिक्ष यात्री के लिए भेजे लज़ीज़ पकवान,बटर चिकन, निहारी से लेकर मटन कोरमा तक`,
+    summary_hi: `चिकन बसरा, निहारी,  मटन कोरमा और चना शोरबा.`,
+    content_hi: `चिकन बसरा, निहारी,  मटन कोरमा और चना शोरबा.
+
+इन पकवानों के नाम सुनते ही किसी व्यस्त पाकिस्तानी रेस्तरां या दावत का ख़याल आता है. लेकिन इन दिनों पाकिस्तान के सोशल मीडिया पर इन लज़ीज़ पकवानों की चर्चा एक अलग ही वजह से हो रही है.
+
+दरअसल, ये व्यंजन चीन के अंतरिक्ष स्टेशन पर मौजूद अंतरिक्ष यात्रियों के लिए तैयार किए गए ख़ास हलाल मेन्यू का हिस्सा हैं.
+
+चीन के सरकारी चैनल चाइना ग्लोबल टेलीविज़न नेटवर्क (सीजीटीएन) ने सोशल मीडिया प्लेटफॉर्म एक्स पर एक पोस्ट में बताया, "चीन के अंतरिक्ष स्टेशन पर छह लोगों के लिए रात्रिभोज का इंतज़ाम किया जा रहा है. इसमें पाकिस्तानी अंतरिक्ष यात्री के लिए ख़ास तौर पर चुने गए 100 से ज़्यादा तरह के हलाल डिश भी परोसे जाएंगे."
+
+सीजीटीएन के मुताबिक़, इन व्यंजनों में निहारी, मटन कोरमा और छोले की सब्ज़ी भी शामिल हैं.
+
+शेनझोउ-24 में चीनी अंतरिक्ष यात्री तांग होंगबो और वू यी के अलावा पाकिस्तानी अंतरिक्ष यात्री ज़ीशान अली भी सवार हैं.
+
+शेनझोउ-24 अंतरिक्ष मिशन के तहत तीन अंतरिक्ष यात्रियों को तियांगोंग अंतरिक्ष स्टेशन भेजा गया है.
+
+इनमें तांग होंगबो मिशन कमांडर, वू यी फ़्लाइट इंजीनियर और पाकिस्तानी पायलट मोहम्मद ज़ीशान अली पेलोड स्पेशलिस्ट के तौर पर शामिल हैं.
+
+बुधवार को जिउछुआन सैटेलाइट लॉन्च सेंटर से रवाना हुआ शेनझोउ-24 अंतरिक्ष मिशन चीन के अंतरिक्ष स्टेशन से जुड़ गया है. इसके बाद शेनझोउ-24 के चालक दल ने अंतरिक्ष स्टेशन में एंट्री की .
+
+इस मिशन में पाकिस्तानी अंतरिक्ष यात्री मोहम्मद ज़ीशान अली की मौजूदगी को देखते हुए चीन के अंतरिक्ष कार्यक्रम से जुड़े विभाग ने चीनी और अंग्रेज़ी, दोनों भाषाओं में कामकाज से जुड़े निर्देश तैयार किए हैं.
+
+इसके अलावा, पाकिस्तानी अंतरिक्ष यात्री की खानपान संबंधी पसंद को ध्यान में रखते हुए हलाल खाने का का भी इंतज़ाम किया गया है.
+
+अंतरिक्ष में भोजन का मामला हमेशा से चर्चा का विषय रहा है. ऐसे में पाकिस्तानी अंतरिक्ष यात्री के लिए हलाल खाने और दक्षिण एशियाई स्वाद वाले व्यंजनों को शामिल किए जाने से सोशल मीडिया पर भी बहस छिड़ गई है.
+
+पाकिस्तानी अंतरिक्ष यात्री मोहम्मद ज़ीशान अली तियांगोंग अंतरिक्ष स्टेशन पर क़रीब एक हफ़्ता बिताएंगे.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+यह ख़बर सामने आने के बाद सोशल मीडिया यूज़र्स पाकिस्तानी डिशेज के अंतरिक्ष तक पहुंचने पर हैरानी और ख़ुशी जता रहे हैं.
+
+कुछ यूज़र्स ने इसे चीन और पाकिस्तान के क़रीबी रिश्तों का प्रतीक बताया, जबकि दूसरे लोगों ने निहारी और कोरमे जैसे पारंपरिक पकवानों के अंतरिक्ष के सफ़र पर दिलचस्प टिप्पणियां कीं.
+
+असमा नाम की एक यूज़र ने पाकिस्तानी अंतरिक्ष यात्री के मेन्यू में ख़ास तौर पर निहारी को शामिल किए जाने की तारीफ़ करते हुए लिखा, "हमारे अंतरिक्ष यात्री के मेन्यू में निहारी को जगह देने के लिए शुक्रिया."
+
+लैला नाम की एक यूज़र ने किसी देश का नाम लिए बिना लिखा कि यह ख़बर निश्चित रूप से हमारे "पड़ोसियों की कैलोरी जलाने" का कारण बनेगी.
+
+ग़ौरतलब है कि पाकिस्तान के पहले अंतरिक्ष यात्री मोहम्मद ज़ीशान अली के चीनी अंतरिक्ष मिशन में शामिल होने की ख़बर को भारत में भी काफ़ी तवज्जो मिल रही है.
+
+देश के बड़े अख़बारों, टीवी चैनलों और डिजिटल प्लेटफॉर्म ने इस घटनाक्रम को प्रमुखता से जगह दी है.
+
+भारत में सोशल मीडिया पर भी इसे लेकर चर्चा जारी है. अंतरिक्ष में भारत और पाकिस्तान की उपलब्धियों और दोनों देशों के बीच होड़ की तुलना भी की जा रही है.
+
+गर्वसेसेक्युलर नाम के एक यूज़र ने लिखा, "हम भारतीयों के लिए यह गर्व की बात है कि बटर चिकन, जो एक भारतीय व्यंजन है, अंतरिक्ष तक पहुंच गया है. इससे क्या फ़र्क़ पड़ता है कि इसे चीनी अंतरिक्ष स्टेशन पर मौजूद एक पाकिस्तानी अंतरिक्ष यात्री के लिए तैयार किया गया है."
+
+इसके साथ ही उन्होंने लिखा, "हालांकि, हम बीफ़ निहारी से अपना कोई संबंध नहीं होने की घोषणा करते हैं."
+
+सोशल मीडिया प्लेटफ़ॉर्म एक्स पर पाकिस्तानी थिंक टैंक 'पाकिस्तान स्ट्रैटेजिक फ़ोरम' के अकाउंट से इसकी तारीफ़ करते हुए कहा गया, "अगर आपके पास वही दिल है तो आप कितनी बार जीत सकते हैं?"
+
+### मेन्यू में बिरयानी न होने से निराशा
+
+सोशल मीडिया पर कई यूजर्स ने पाकिस्तानी अंतरिक्ष यात्री की यात्रा की तारीफ़ करते हुए इसे चीन और पाकिस्तान के बीच घनिष्ठ संबंधों का प्रतीक बताया और साथ ही इस कदम को चीन की ग्लोबल पावर की ताक़त की अहमियत कहा.
+
+एलेक्स हैंक नाम के एक यूजर ने सोशल मीडिया पर अपनी पोस्ट में लिखा, "चीन की ओर से मेहमान की ख़ातिरदारी का एक अद्भुत प्रदर्शन. यही वजह है कि चीन को भविष्य की विश्व शक्ति माना जाता है. यह मिशन अंतरिक्ष सहयोग के एक नए युग का दरवाजा खोल सकता है."
+
+जहां एक ओर यूजर्स ने मेनू में निहारी को शामिल किए जाने पर आश्चर्य और खुशी व्यक्त की, वहीं कई यूजर्स इस बात से थोड़े निराश दिखे कि बिरयानी को मेन्यू में जगह नहीं मिली.
+
+सोशल मीडिया पर बिरयानी के स्वाद और उसे बनाने के तरीकों को लेकर यूजर्स के बीच हर दिन बातचीत होती रहती है. ऐसे में इस 'ऐतिहासिक' अवसर पर बिरयानी का उल्लेख न होने से कई यूजर्स निराश हैं.
+
+बिरयानी के एक प्रशंसक ने लिखा, "मेनू में बीफ़ निहारी देखकर अच्छा लगा, लेकिन जब तक बिरयानी को मेज पर जगह नहीं मिलती, तब तक मिशन का मजा पूरा नहीं होगा. इसलिए हम पाकिस्तानी अंतरिक्ष यात्री जीशान अली से जल्द से जल्द बिरयानी का आनंद लेते हुए अपनी तस्वीरें भेजने का इंतजार कर रहे हैं."
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c87524le20p7o)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक चीन ने पाकिस्तान के अंतरिक्ष यात्री के लिए भेजे लज़ीज़ पकवान,बटर चिकन, निहारी से लेकर मटन कोरमा तक से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 98048,
+    title: `नन्हे हमिंगबर्ड का कमाल! 38 दिनों में 6526 KM उड़कर पहुंचा अलास्का, वैज्ञानिक भी हैरान - AajTak`,
+    slug: `38-6526-km-aajtak-2026`,
+    original_title: `नन्हे हमिंगबर्ड का कमाल! 38 दिनों में 6526 KM उड़कर पहुंचा अलास्का, वैज्ञानिक भी हैरान - AajTak`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:30Z`,
+    updated_at: `2026-11-27T05:14:30Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/science/story/small-hummingbird-record-breaking-migration-of-6526-kilometers-dskc-2707234-2026-11-27`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b08f482add05-hummingbird-record-breaking-migration-270953637.jpg`,
+    image_alt: `नन्हे हमिंगबर्ड का कमाल! 38 दिनों में 6526 KM उड़कर पहुंचा अलास्का, वैज्ञानिक भी हैरान - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `दुनिया की सबसे छोटी और हल्की चिड़ियों में शामिल हमिंगबर्ड ने अपनी उड़ान क्षमता से वैज्ञानिकों को हैरान कर दिया है. एक नर रूफस हमिंगबर्ड (Rufous Hummingbird) ने महज 38 दिनों में अमेरिका के अलबामा से अलास्का तक 6,526 किलोमीटर की यात्रा पूरी क`,
+    content: `दुनिया की सबसे छोटी और हल्की चिड़ियों में शामिल हमिंगबर्ड ने अपनी उड़ान क्षमता से वैज्ञानिकों को हैरान कर दिया है. एक नर रूफस हमिंगबर्ड (Rufous Hummingbird) ने महज 38 दिनों में अमेरिका के अलबामा से अलास्का तक 6,526 किलोमीटर की यात्रा पूरी की. और पढ़ेंवैज्ञानिकों के रिकॉर्ड में यह किसी हमिंगबर्ड की अब तक दर्ज की गई सबसे लंबी प्रवास यात्रा है.
+
+खास बात यह है कि इस पूरी यात्रा को वैज्ञानिकों ने एक बेहद छोटे ट्रैकिंग डिवाइस की मदद से रिकॉर्ड किया. इस तकनीक ने न केवल हमिंगबर्ड की उड़ान से जुड़े नए रहस्य खोले हैं, बल्कि पक्षियों के प्रवास और उनके संरक्षण की दिशा में भी नई संभावनाएं पैदा की हैं.हमिंगबर्ड आकार और वजन के मामले में बेहद छोटी होती हैं.
+
+इनका वजन आमतौर पर 5 ग्राम से भी कम होता है. यानी एक छोटी चीनी की डली के आसपास. इसके बावजूद ये पक्षी लंबी दूरी तक उड़ान भरने और मौसम के अनुसार एक क्षेत्र से दूसरे क्षेत्र में प्रवास करने की क्षमता रखते हैं. इनकी सबसे बड़ी विशेषता इनके पंखों की तेज गति और हवा में एक जगह स्थिर रहने की क्षमता है.
+
+Advertisement        यह भी पढ़ें: मणिपुर से अफ्रीका तक 5,700 KM का सफर... नन्हे परिंदे &#039;आलंग&#039; ने बिना रुके 101 घंटे तक भरी उड़ानप्रवास यानी Migration पक्षियों की वह प्राकृतिक प्रक्रिया है, जिसमें वे भोजन, अनुकूल तापमान और प्रजनन के लिए एक स्थान से दूसरे स्थान तक जाते हैं.
+
+हमिंगबर्ड भी मौसम बदलने के साथ अपना ठिकाना बदलती हैं. हालांकि, इनके छोटे आकार के कारण वैज्ञानिकों के लिए इनकी पूरी यात्रा का पता लगाना हमेशा मुश्किल रहा है. बड़े पक्षियों पर लगाए जाने वाले सामान्य GPS ट्रैकर और दूसरे उपकरण हमिंगबर्ड के लिए बहुत भारी होते हैं. इतने छोटे पक्षी के शरीर पर भारी उपकरण लगाने से उसकी उड़ान और ऊर्जा खर्च पर असर पड़ सकता है.वैज्ञानिकों ने बनाया चावल के दाने जितना हल्का ट्रैकरअमेरिका की यूनिवर्सिटी ऑफ मेम्फिस की पशु शरीर विज्ञान विशेषज्ञ एम्मा रोड्स के नेतृत्व में वैज्ञानिकों की एक टीम ने इस समस्या का समाधान खोजने की कोशिश की.
+
+टीम ने BlūMorpho नाम का एक बेहद छोटा ट्रैकिंग उपकरण तैयार किया. इसका वजन सिर्फ 0.06 ग्राम है, जो चावल के एक दाने के आसपास है. यह वजन हमिंगबर्ड के शरीर के कुल वजन के 3 प्रतिशत से भी कम रखा गया.ये ट्रैकर लगाया गया था हमिंगबर्ड में. (Photo: Rhodes et al., Ecology and Evolution, 2026)इस डिवाइस की सबसे खास बात यह है कि इसमें बैटरी या डेटा स्टोर करने की जरूरत नहीं पड़ती.
+
+इसमें लगा छोटा सोलर सेल सूर्य की रोशनी से ऊर्जा प्राप्त करता है और हर तीन सेकंड में एक सिग्नल भेजता है. आसपास 200 मीटर के दायरे में मौजूद स्मार्टफोन या कंप्यूटर ब्लूटूथ के जरिए इस सिग्नल को पकड़ सकते हैं. इस तरह पक्षी की मौजूदगी और उसकी लोकेशन से जुड़ी जानकारी दर्ज की जा सकती है.
+
+Advertisement        इस तकनीक का परीक्षण मार्च और अप्रैल 2025 में किया गया. वैज्ञानिकों ने चार रूफस हमिंगबर्ड और सात रूबी-थ्रोटेड हमिंगबर्ड पर ये ट्रैकर लगाए. उपकरणों को पक्षियों के कंधों के बीच चिपकाया गया और उनका एंटीना पीछे की तरफ रखा गया.एक पक्षी ने बनाया 6,526 किलोमीटर की उड़ान का रिकॉर्डइस अध्ययन का सबसे बड़ा आकर्षण वह नर रूफस हमिंगबर्ड रहा, जिसने अलबामा से अलास्का तक 38 दिनों में 6,526 किलोमीटर की यात्रा की.
+
+उसकी उड़ान का रास्ता भी काफी दिलचस्प था. वह उत्तरी मेक्सिको की तरफ पश्चिम की ओर बढ़ा और फिर प्रशांत तट के समानांतर जाने वाले Pacific Flyway प्रवासी मार्ग से अलास्का पहुंचा.इस अध्ययन में वैज्ञानिकों को कुछ और असामान्य उड़ान मार्ग भी देखने को मिले. एक रूफस हमिंगबर्ड ने लगभग 23 दिनों तक अमेरिका के कई पूर्वी राज्यों में घुमावदार रास्ते से यात्रा की.
+
+इस दौरान उसने पूर्वी टेनेसी की तरफ करीब 345 किलोमीटर का एक बड़ा चक्कर लगाया. इसके बाद वह मिसौरी के फ्रेडरिकटाउन तक उत्तर की ओर गया और फिर दक्षिण की तरफ लौटकर पूर्व की ओर बढ़ा.दो रूबी-थ्रोटेड नर हमिंगबर्ड एक ही दिन पकड़े गए थे. वैज्ञानिकों ने देखा कि अप्रैल में दो दिनों तक दोनों लगभग समानांतर दिशा में उत्तर की ओर उड़ रहे थे.
+
+हालांकि, उनके बीच करीब 83 किलोमीटर की दूरी थी. एक अन्य पक्षी ने अपने सामान्य उत्तर की ओर जाने वाले रास्ते के बजाय दक्षिण-पूर्व दिशा पकड़ी और अलबामा से फ्लोरिडा पहुंच गया. Advertisement        यह भी पढ़ें: 6 दिन में 6100 KM... छोटे अमूर बाज ने भरी भारत से जिम्बाब्वे तक की बड़ी उड़ानपुराने तरीकों से कैसे अलग है यह तकनीक?अब तक वैज्ञानिक हमिंगबर्ड की गतिविधियों पर नजर रखने के लिए मुख्य रूप से Bird Banding तकनीक का इस्तेमाल करते रहे हैं.
+
+इसमें पक्षियों को जाल की मदद से पकड़ा जाता है और उनके पैरों में एक छोटी धातु की पट्टी लगाई जाती है. इस पट्टी पर एक विशेष पहचान संख्या होती है. बाद में जब किसी दूसरे स्थान पर वही पक्षी दिखाई देता है, तो उसकी पहचान करके उसके प्रवास से जुड़ी जानकारी मिलती है.हालांकि, इस तरीके की एक सीमा है.
+
+इससे वैज्ञानिकों को यह पता चल सकता है कि पक्षी किन-किन जगहों पर देखा गया, लेकिन दो स्थानों के बीच उसने किस रास्ते से यात्रा की, इसकी पूरी जानकारी मिलना मुश्किल है.दूसरी तरफ रेडियो टेलीमेट्री और Motus Wildlife Tracking System जैसी तकनीकों से भी पक्षियों की गतिविधियां रिकॉर्ड की जाती हैं.
+
+लेकिन इनके लिए विशेष रिसीवर टावरों की जरूरत होती है. BlūMorpho इस सीमा को कम करने की कोशिश करता है. यह Internet of Things यानी IoT आधारित तकनीक है, जिसमें सामान्य स्मार्टफोन और कंप्यूटर भी सिग्नल पकड़ने वाले रिसीवर की भूमिका निभा सकते हैं. Advertisement        तकनीक की सीमाएं और हमिंगबर्ड के संरक्षण में महत्वहालांकि, इस नई तकनीक की कुछ सीमाएं भी हैं.
+
+पहला, यह डिवाइस रात में काम नहीं करता, क्योंकि इसे सौर ऊर्जा की जरूरत होती है. दूसरा, दूरदराज के ऐसे इलाकों में इसकी उपयोगिता कम हो जाती है, जहां स्मार्टफोन या कंप्यूटर मौजूद नहीं हैं. इसके अलावा, पक्षियों के शरीर पर लगाए गए उपकरण औसतन करीब 47 दिनों तक ही टिक पाए. इसके बाद आशंका है कि उन्हें चिपकाने के लिए इस्तेमाल किया गया गोंद कमजोर पड़ गया और ट्रैकर गिर गए.यह भी पढ़ें: मादा की तलाश में 4000 KM पार!
+
+प्यार के लिए इन कुत्तों ने लांघीं सारी सीमाएंयह अध्ययन वैज्ञानिक पत्रिका Ecology and Evolution में प्रकाशित हुआ है. इसका महत्व इसलिए भी बढ़ जाता है क्योंकि रूफस और रूबी-थ्रोटेड हमिंगबर्ड की आबादी में हाल के वर्षों में गिरावट दर्ज की गई है. जलवायु परिवर्तन, प्राकृतिक आवासों का नुकसान, भोजन की उपलब्धता में बदलाव और मानवीय गतिविधियां पक्षियों के अस्तित्व के लिए चुनौती बन रही हैं.वैज्ञानिकों को अब यह समझने में मदद मिल सकती है कि ये पक्षी किन क्षेत्रों में प्रजनन करते हैं, किन रास्तों से प्रवास करते हैं और यात्रा के दौरान किन जगहों पर उन्हें सबसे ज्यादा खतरा होता है.
+
+इससे उनके महत्वपूर्ण आवासों की पहचान और संरक्षण की बेहतर योजना बनाई जा सकती है. Advertisement        इस तरह 0.06 ग्राम का एक छोटा-सा उपकरण पक्षियों के अध्ययन में बड़ी क्रांति ला सकता है. 38 दिनों में 6,526 किलोमीटर की उड़ान भरने वाले इस नन्हे हमिंगबर्ड ने साबित कर दिया है कि आकार छोटा होने का मतलब क्षमताएं छोटी होना नहीं है.---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/science/story/small-hummingbird-record-breaking-migration-of-6526-kilometers-dskc-2707234-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `नन्हे हमिंगबर्ड का कमाल! 38 दिनों में 6526 KM उड़कर पहुंचा अलास्का, वैज्ञानिक भी हैरान - AajTak`,
+    summary_hi: `दुनिया की सबसे छोटी और हल्की चिड़ियों में शामिल हमिंगबर्ड ने अपनी उड़ान क्षमता से वैज्ञानिकों को हैरान कर दिया है. एक नर रूफस हमिंगबर्ड (Rufous Hummingbird) ने महज 38 दिनों में अमेरिका के अलबामा से अलास्का तक 6,526 किलोमीटर की यात्रा पूरी क`,
+    content_hi: `दुनिया की सबसे छोटी और हल्की चिड़ियों में शामिल हमिंगबर्ड ने अपनी उड़ान क्षमता से वैज्ञानिकों को हैरान कर दिया है. एक नर रूफस हमिंगबर्ड (Rufous Hummingbird) ने महज 38 दिनों में अमेरिका के अलबामा से अलास्का तक 6,526 किलोमीटर की यात्रा पूरी की. और पढ़ेंवैज्ञानिकों के रिकॉर्ड में यह किसी हमिंगबर्ड की अब तक दर्ज की गई सबसे लंबी प्रवास यात्रा है.
+
+खास बात यह है कि इस पूरी यात्रा को वैज्ञानिकों ने एक बेहद छोटे ट्रैकिंग डिवाइस की मदद से रिकॉर्ड किया. इस तकनीक ने न केवल हमिंगबर्ड की उड़ान से जुड़े नए रहस्य खोले हैं, बल्कि पक्षियों के प्रवास और उनके संरक्षण की दिशा में भी नई संभावनाएं पैदा की हैं.हमिंगबर्ड आकार और वजन के मामले में बेहद छोटी होती हैं.
+
+इनका वजन आमतौर पर 5 ग्राम से भी कम होता है. यानी एक छोटी चीनी की डली के आसपास. इसके बावजूद ये पक्षी लंबी दूरी तक उड़ान भरने और मौसम के अनुसार एक क्षेत्र से दूसरे क्षेत्र में प्रवास करने की क्षमता रखते हैं. इनकी सबसे बड़ी विशेषता इनके पंखों की तेज गति और हवा में एक जगह स्थिर रहने की क्षमता है.
+
+Advertisement        यह भी पढ़ें: मणिपुर से अफ्रीका तक 5,700 KM का सफर... नन्हे परिंदे &#039;आलंग&#039; ने बिना रुके 101 घंटे तक भरी उड़ानप्रवास यानी Migration पक्षियों की वह प्राकृतिक प्रक्रिया है, जिसमें वे भोजन, अनुकूल तापमान और प्रजनन के लिए एक स्थान से दूसरे स्थान तक जाते हैं.
+
+हमिंगबर्ड भी मौसम बदलने के साथ अपना ठिकाना बदलती हैं. हालांकि, इनके छोटे आकार के कारण वैज्ञानिकों के लिए इनकी पूरी यात्रा का पता लगाना हमेशा मुश्किल रहा है. बड़े पक्षियों पर लगाए जाने वाले सामान्य GPS ट्रैकर और दूसरे उपकरण हमिंगबर्ड के लिए बहुत भारी होते हैं. इतने छोटे पक्षी के शरीर पर भारी उपकरण लगाने से उसकी उड़ान और ऊर्जा खर्च पर असर पड़ सकता है.वैज्ञानिकों ने बनाया चावल के दाने जितना हल्का ट्रैकरअमेरिका की यूनिवर्सिटी ऑफ मेम्फिस की पशु शरीर विज्ञान विशेषज्ञ एम्मा रोड्स के नेतृत्व में वैज्ञानिकों की एक टीम ने इस समस्या का समाधान खोजने की कोशिश की.
+
+टीम ने BlūMorpho नाम का एक बेहद छोटा ट्रैकिंग उपकरण तैयार किया. इसका वजन सिर्फ 0.06 ग्राम है, जो चावल के एक दाने के आसपास है. यह वजन हमिंगबर्ड के शरीर के कुल वजन के 3 प्रतिशत से भी कम रखा गया.ये ट्रैकर लगाया गया था हमिंगबर्ड में. (Photo: Rhodes et al., Ecology and Evolution, 2026)इस डिवाइस की सबसे खास बात यह है कि इसमें बैटरी या डेटा स्टोर करने की जरूरत नहीं पड़ती.
+
+इसमें लगा छोटा सोलर सेल सूर्य की रोशनी से ऊर्जा प्राप्त करता है और हर तीन सेकंड में एक सिग्नल भेजता है. आसपास 200 मीटर के दायरे में मौजूद स्मार्टफोन या कंप्यूटर ब्लूटूथ के जरिए इस सिग्नल को पकड़ सकते हैं. इस तरह पक्षी की मौजूदगी और उसकी लोकेशन से जुड़ी जानकारी दर्ज की जा सकती है.
+
+Advertisement        इस तकनीक का परीक्षण मार्च और अप्रैल 2025 में किया गया. वैज्ञानिकों ने चार रूफस हमिंगबर्ड और सात रूबी-थ्रोटेड हमिंगबर्ड पर ये ट्रैकर लगाए. उपकरणों को पक्षियों के कंधों के बीच चिपकाया गया और उनका एंटीना पीछे की तरफ रखा गया.एक पक्षी ने बनाया 6,526 किलोमीटर की उड़ान का रिकॉर्डइस अध्ययन का सबसे बड़ा आकर्षण वह नर रूफस हमिंगबर्ड रहा, जिसने अलबामा से अलास्का तक 38 दिनों में 6,526 किलोमीटर की यात्रा की.
+
+उसकी उड़ान का रास्ता भी काफी दिलचस्प था. वह उत्तरी मेक्सिको की तरफ पश्चिम की ओर बढ़ा और फिर प्रशांत तट के समानांतर जाने वाले Pacific Flyway प्रवासी मार्ग से अलास्का पहुंचा.इस अध्ययन में वैज्ञानिकों को कुछ और असामान्य उड़ान मार्ग भी देखने को मिले. एक रूफस हमिंगबर्ड ने लगभग 23 दिनों तक अमेरिका के कई पूर्वी राज्यों में घुमावदार रास्ते से यात्रा की.
+
+इस दौरान उसने पूर्वी टेनेसी की तरफ करीब 345 किलोमीटर का एक बड़ा चक्कर लगाया. इसके बाद वह मिसौरी के फ्रेडरिकटाउन तक उत्तर की ओर गया और फिर दक्षिण की तरफ लौटकर पूर्व की ओर बढ़ा.दो रूबी-थ्रोटेड नर हमिंगबर्ड एक ही दिन पकड़े गए थे. वैज्ञानिकों ने देखा कि अप्रैल में दो दिनों तक दोनों लगभग समानांतर दिशा में उत्तर की ओर उड़ रहे थे.
+
+हालांकि, उनके बीच करीब 83 किलोमीटर की दूरी थी. एक अन्य पक्षी ने अपने सामान्य उत्तर की ओर जाने वाले रास्ते के बजाय दक्षिण-पूर्व दिशा पकड़ी और अलबामा से फ्लोरिडा पहुंच गया. Advertisement        यह भी पढ़ें: 6 दिन में 6100 KM... छोटे अमूर बाज ने भरी भारत से जिम्बाब्वे तक की बड़ी उड़ानपुराने तरीकों से कैसे अलग है यह तकनीक?अब तक वैज्ञानिक हमिंगबर्ड की गतिविधियों पर नजर रखने के लिए मुख्य रूप से Bird Banding तकनीक का इस्तेमाल करते रहे हैं.
+
+इसमें पक्षियों को जाल की मदद से पकड़ा जाता है और उनके पैरों में एक छोटी धातु की पट्टी लगाई जाती है. इस पट्टी पर एक विशेष पहचान संख्या होती है. बाद में जब किसी दूसरे स्थान पर वही पक्षी दिखाई देता है, तो उसकी पहचान करके उसके प्रवास से जुड़ी जानकारी मिलती है.हालांकि, इस तरीके की एक सीमा है.
+
+इससे वैज्ञानिकों को यह पता चल सकता है कि पक्षी किन-किन जगहों पर देखा गया, लेकिन दो स्थानों के बीच उसने किस रास्ते से यात्रा की, इसकी पूरी जानकारी मिलना मुश्किल है.दूसरी तरफ रेडियो टेलीमेट्री और Motus Wildlife Tracking System जैसी तकनीकों से भी पक्षियों की गतिविधियां रिकॉर्ड की जाती हैं.
+
+लेकिन इनके लिए विशेष रिसीवर टावरों की जरूरत होती है. BlūMorpho इस सीमा को कम करने की कोशिश करता है. यह Internet of Things यानी IoT आधारित तकनीक है, जिसमें सामान्य स्मार्टफोन और कंप्यूटर भी सिग्नल पकड़ने वाले रिसीवर की भूमिका निभा सकते हैं. Advertisement        तकनीक की सीमाएं और हमिंगबर्ड के संरक्षण में महत्वहालांकि, इस नई तकनीक की कुछ सीमाएं भी हैं.
+
+पहला, यह डिवाइस रात में काम नहीं करता, क्योंकि इसे सौर ऊर्जा की जरूरत होती है. दूसरा, दूरदराज के ऐसे इलाकों में इसकी उपयोगिता कम हो जाती है, जहां स्मार्टफोन या कंप्यूटर मौजूद नहीं हैं. इसके अलावा, पक्षियों के शरीर पर लगाए गए उपकरण औसतन करीब 47 दिनों तक ही टिक पाए. इसके बाद आशंका है कि उन्हें चिपकाने के लिए इस्तेमाल किया गया गोंद कमजोर पड़ गया और ट्रैकर गिर गए.यह भी पढ़ें: मादा की तलाश में 4000 KM पार!
+
+प्यार के लिए इन कुत्तों ने लांघीं सारी सीमाएंयह अध्ययन वैज्ञानिक पत्रिका Ecology and Evolution में प्रकाशित हुआ है. इसका महत्व इसलिए भी बढ़ जाता है क्योंकि रूफस और रूबी-थ्रोटेड हमिंगबर्ड की आबादी में हाल के वर्षों में गिरावट दर्ज की गई है. जलवायु परिवर्तन, प्राकृतिक आवासों का नुकसान, भोजन की उपलब्धता में बदलाव और मानवीय गतिविधियां पक्षियों के अस्तित्व के लिए चुनौती बन रही हैं.वैज्ञानिकों को अब यह समझने में मदद मिल सकती है कि ये पक्षी किन क्षेत्रों में प्रजनन करते हैं, किन रास्तों से प्रवास करते हैं और यात्रा के दौरान किन जगहों पर उन्हें सबसे ज्यादा खतरा होता है.
+
+इससे उनके महत्वपूर्ण आवासों की पहचान और संरक्षण की बेहतर योजना बनाई जा सकती है. Advertisement        इस तरह 0.06 ग्राम का एक छोटा-सा उपकरण पक्षियों के अध्ययन में बड़ी क्रांति ला सकता है. 38 दिनों में 6,526 किलोमीटर की उड़ान भरने वाले इस नन्हे हमिंगबर्ड ने साबित कर दिया है कि आकार छोटा होने का मतलब क्षमताएं छोटी होना नहीं है.---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/science/story/small-hummingbird-record-breaking-migration-of-6526-kilometers-dskc-2707234-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक नन्हे हमिंगबर्ड का कमाल! 38 दिनों में 6526 KM उड़कर पहुंचा अलास्का, वैज्ञानिक भी हैरान - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98049,
+    title: `Gukesh-Sindarov Game 2 Ends Abruptly In 20-Move London System Draw - Chess.com`,
+    slug: `gukesh-sindarov-game-2-ends-abruptly-in-20-move-london-system-draw-che-2026`,
+    original_title: `Gukesh-Sindarov Game 2 Ends Abruptly In 20-Move London System Draw - Chess.com`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:34Z`,
+    updated_at: `2026-11-27T05:14:34Z`,
+    source_name: `Chess.com`,
+    source_url: `https://www.chess.com/news/view/2026-fide-world-chess-championship-game-2`,
+    source_courtesy: `Source: Chess.com`,
+    image_url: `/images/articles/gukesh-sindarov-game-2-ends-abruptly-in-20-move-london-system-draw-che-2026.png`,
+    image_alt: `Gukesh-Sindarov Game 2 Ends Abruptly In 20-Move London System Draw - Chess.com`,
+    image_courtesy: `Image: Chess.com (External Source Attribution)`,
+    image_photographer: `Chess.com`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `World Champion Gukesh Dommaraju played the London System in game two of the Salesforce FIDE World Championship 2026 , but Challenger GM Javokhir Sindarov was ready. Once again, Gukesh fell behind on the clock, but just when Sindarov had gon`,
+    content: `World Champion Gukesh Dommaraju played the London System in game two of the Salesforce FIDE World Championship 2026 , but Challenger GM Javokhir Sindarov was ready. Once again, Gukesh fell behind on the clock, but just when Sindarov had gone for a bold pawn push and action seemed to be heating up, the game ended in a 20-move draw by repetition, leaving the scores level at 1-1.
+
+Game three, when Sindarov has the white pieces for a second time, starts Thursday, November 26, at 9 a.m. ET / 15:00 CET /  7:30 p.m. IST .
+
+Check out Nakamura's recap of the game, as well as our full playlist with recaps by partner streamers , including IM Levy Rozman .
+
+GM Dejan Bojkov has annotated the game below.
+
+Game two of the match in Geneva was the first time Sindarov would get the black pieces in a world championship game. What was he discussing last-minute with second GM Nikita Vitiugov as they arrived at the venue?
+
+Sindarov arrives for Game 2 and has a discussion with his second Nikita Vitiugov! #GukeshSindarov https://t.co/MASIH5z5kF
+
+Sindarov later explained: "Not about chess, some mental things. Sometimes not even about chess, some other stuff—just to relax before a game and not be nervous."
+
+Gukesh got to make the first move, choosing 1.d4 (he'd previously played 1.e4 three times and 1.d4 and 1.Nf3 twice each in the world championship match against GM Ding Liren ). From there, however, he went on to do something he hadn't done before at this level—play the somewhat infamous London System with 3.Bf4 .
+
+The opening used to be associated with unambitious play simply to "get a game," but it's been used extensively by GM Magnus Carlsen and, for instance, by Ding to beat GM Ian Nepomniachtchi in game six of the 2023 World Championship . Gukesh justified his choice as follows:
+
+It’s a good opening! And nowadays everything from both colors is so playable; there’s so much to explore because of engines. I don’t think one opening is better than the others. They’re all possible, and I thought it would be a nice, cool way to start the match!
+
+I thought it would be a nice, cool way to start the match!
+
+—Gukesh Dommaraju on playing the London
+
+As in game one, however, it was Sindarov who played faster in the opening, despite admitting to being somewhat surprised: "Actually I was not expecting the London, but I checked this line before also a lot."
+
+7...Qb6 from Sindarov was the first move that caused Gukesh to think and lose his lead on the clock.
+
+Gukesh didn't think too long, however—six minutes—and when asked at the press conference why he didn't respond 8.Qb3 he explained that the move is hit by 8...Nh5!, before adding that he "knew" 8.Rb1 was the move. The world champion clarified about his opening choices: "I felt I could have remembered more from my notes, but OK, both players are super well-prepared, and getting nothing out of the opening is a very normal outcome in the world championship."
+
+Getting nothing out of the opening is a very normal outcome in the world championship.
+
+The next move to surprise both commentators and Gukesh was 11...Qd8 .
+
+Sindarov's 11...Qd8!? puzzles our commentators. "Gukesh must be confused, just as we are!" (Howell) #GukeshSindarov https://t.co/bMerczwV9h
+
+Gukesh thought for 25 minutes, while Sindarov, in the press conference, suggested he was proceeding on general principles: "That was the idea of my plan. ...Qd8, and somewhere ...Be8, ...Nd7 [Gukesh admitted he underestimated this plan], ...f5, so I know this idea, and I’m just trying to play somewhere this idea. I think I played it in the best moment!"
+
+When the plan had become obvious to all concerned there was some puzzlement that Sindarov delayed eight minutes before retreating his knight.
+
+After Sindarov takes a long time to play the obvious next move, 14...Nd7, Polgar asks, "How is it possible to spend 8 minutes on this move?" Sindarov yawns — Howell: "Maybe that's why!" #GukeshSindarov https://t.co/xfibR5caXa
+
+Asked about the yawn afterward, however, Sindarov countered: "I’m good, in general. When my opponent thinks, I’m just trying to chill! I'm not just sleeping there, I'm thinking about the moves."
+
+When my opponent thinks, I'm just trying to chill!
+
+When 15...f5! appeared on the board, it was clear the opening had gone well for Sindarov, with Polgar predicting ...g5 to follow in the next five moves with energetic play.
+
+Nothing happened fast, however, with Gukesh spending 30 minutes over the decision to play 16.f3 , hinting at e4. When Sindarov brought his knight to f6, however, the e4-break was off the table, as was any real chance of his pushing ...e5.
+
+In the previous world championship match, it didn't worry Gukesh that he had nothing—or was even worse—since he'd invariably try to play on anyway. This time, however, he shut things down by offering a draw by repetition, which Sindarov accepted.
+
+The final moments as Game 2 of the 2026 Salesforce FIDE World Championship ends in a draw by repetition! #GukeshSindarov https://t.co/i053pLi17E
+
+Gukesh seems to have tempered his willingness to take risks, explaining in the press conference that, "You hope for your opponent to go wrong at some point, but also it's equally likely that you'll get into trouble, so it's about making some clever decisions."
+
+The match is now level at 1-1, with both players looking satisfied with the start. Sindarov explained to FM Mike Klein that although openings are important he still thinks everything will be decided by general chess skills.
+
+Sindarov after Game 2: "Here I'm trying to be better in openings, but in general anyway you'll win a game with good chess—otherwise it's impossible!" #GukeshSindarov https://t.co/3frloTutja
+
+---
+
+**Original Source:** [Chess.com](https://www.chess.com/news/view/2026-fide-world-chess-championship-game-2)`,
+    title_en: `Gukesh-Sindarov Game 2 Ends Abruptly In 20-Move London System Draw - Chess.com`,
+    summary_en: `World Champion Gukesh Dommaraju played the London System in game two of the Salesforce FIDE World Championship 2026 , but Challenger GM Javokhir Sindarov was ready. Once again, Gukesh fell behind on the clock, but just when Sindarov had gon`,
+    content_en: `World Champion Gukesh Dommaraju played the London System in game two of the Salesforce FIDE World Championship 2026 , but Challenger GM Javokhir Sindarov was ready. Once again, Gukesh fell behind on the clock, but just when Sindarov had gone for a bold pawn push and action seemed to be heating up, the game ended in a 20-move draw by repetition, leaving the scores level at 1-1.
+
+Game three, when Sindarov has the white pieces for a second time, starts Thursday, November 26, at 9 a.m. ET / 15:00 CET /  7:30 p.m. IST .
+
+Check out Nakamura's recap of the game, as well as our full playlist with recaps by partner streamers , including IM Levy Rozman .
+
+GM Dejan Bojkov has annotated the game below.
+
+Game two of the match in Geneva was the first time Sindarov would get the black pieces in a world championship game. What was he discussing last-minute with second GM Nikita Vitiugov as they arrived at the venue?
+
+Sindarov arrives for Game 2 and has a discussion with his second Nikita Vitiugov! #GukeshSindarov https://t.co/MASIH5z5kF
+
+Sindarov later explained: "Not about chess, some mental things. Sometimes not even about chess, some other stuff—just to relax before a game and not be nervous."
+
+Gukesh got to make the first move, choosing 1.d4 (he'd previously played 1.e4 three times and 1.d4 and 1.Nf3 twice each in the world championship match against GM Ding Liren ). From there, however, he went on to do something he hadn't done before at this level—play the somewhat infamous London System with 3.Bf4 .
+
+The opening used to be associated with unambitious play simply to "get a game," but it's been used extensively by GM Magnus Carlsen and, for instance, by Ding to beat GM Ian Nepomniachtchi in game six of the 2023 World Championship . Gukesh justified his choice as follows:
+
+It’s a good opening! And nowadays everything from both colors is so playable; there’s so much to explore because of engines. I don’t think one opening is better than the others. They’re all possible, and I thought it would be a nice, cool way to start the match!
+
+I thought it would be a nice, cool way to start the match!
+
+—Gukesh Dommaraju on playing the London
+
+As in game one, however, it was Sindarov who played faster in the opening, despite admitting to being somewhat surprised: "Actually I was not expecting the London, but I checked this line before also a lot."
+
+7...Qb6 from Sindarov was the first move that caused Gukesh to think and lose his lead on the clock.
+
+Gukesh didn't think too long, however—six minutes—and when asked at the press conference why he didn't respond 8.Qb3 he explained that the move is hit by 8...Nh5!, before adding that he "knew" 8.Rb1 was the move. The world champion clarified about his opening choices: "I felt I could have remembered more from my notes, but OK, both players are super well-prepared, and getting nothing out of the opening is a very normal outcome in the world championship."
+
+Getting nothing out of the opening is a very normal outcome in the world championship.
+
+The next move to surprise both commentators and Gukesh was 11...Qd8 .
+
+Sindarov's 11...Qd8!? puzzles our commentators. "Gukesh must be confused, just as we are!" (Howell) #GukeshSindarov https://t.co/bMerczwV9h
+
+Gukesh thought for 25 minutes, while Sindarov, in the press conference, suggested he was proceeding on general principles: "That was the idea of my plan. ...Qd8, and somewhere ...Be8, ...Nd7 [Gukesh admitted he underestimated this plan], ...f5, so I know this idea, and I’m just trying to play somewhere this idea. I think I played it in the best moment!"
+
+When the plan had become obvious to all concerned there was some puzzlement that Sindarov delayed eight minutes before retreating his knight.
+
+After Sindarov takes a long time to play the obvious next move, 14...Nd7, Polgar asks, "How is it possible to spend 8 minutes on this move?" Sindarov yawns — Howell: "Maybe that's why!" #GukeshSindarov https://t.co/xfibR5caXa
+
+Asked about the yawn afterward, however, Sindarov countered: "I’m good, in general. When my opponent thinks, I’m just trying to chill! I'm not just sleeping there, I'm thinking about the moves."
+
+When my opponent thinks, I'm just trying to chill!
+
+When 15...f5! appeared on the board, it was clear the opening had gone well for Sindarov, with Polgar predicting ...g5 to follow in the next five moves with energetic play.
+
+Nothing happened fast, however, with Gukesh spending 30 minutes over the decision to play 16.f3 , hinting at e4. When Sindarov brought his knight to f6, however, the e4-break was off the table, as was any real chance of his pushing ...e5.
+
+In the previous world championship match, it didn't worry Gukesh that he had nothing—or was even worse—since he'd invariably try to play on anyway. This time, however, he shut things down by offering a draw by repetition, which Sindarov accepted.
+
+The final moments as Game 2 of the 2026 Salesforce FIDE World Championship ends in a draw by repetition! #GukeshSindarov https://t.co/i053pLi17E
+
+Gukesh seems to have tempered his willingness to take risks, explaining in the press conference that, "You hope for your opponent to go wrong at some point, but also it's equally likely that you'll get into trouble, so it's about making some clever decisions."
+
+The match is now level at 1-1, with both players looking satisfied with the start. Sindarov explained to FM Mike Klein that although openings are important he still thinks everything will be decided by general chess skills.
+
+Sindarov after Game 2: "Here I'm trying to be better in openings, but in general anyway you'll win a game with good chess—otherwise it's impossible!" #GukeshSindarov https://t.co/3frloTutja
+
+---
+
+**Original Source:** [Chess.com](https://www.chess.com/news/view/2026-fide-world-chess-championship-game-2)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Chess.com.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Gukesh-Sindarov Game 2 Ends Abruptly In 20-Move London System Draw - Chess.com.`,
+    primary_source: `Chess.com`,
+  },
+  {
+    id: 98050,
+    title: `From The Oval to the outside: Siraj's Test career at a crossroads - Cricbuzz`,
+    slug: `from-the-oval-to-the-outside-sirajs-test-career-at-a-crossroads-cricbu-2026`,
+    original_title: `From The Oval to the outside: Siraj's Test career at a crossroads - Cricbuzz`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:36Z`,
+    updated_at: `2026-11-27T05:14:36Z`,
+    source_name: `Cricbuzz`,
+    source_url: `https://www.cricbuzz.com/cricket-news/141075/from-the-oval-to-the-outside-mohammed-sirajs-test-career-at-a-crossroads-india-vs-new-zealand-2026-cricbuzzcom`,
+    source_courtesy: `Source: Cricbuzz`,
+    image_url: `/images/articles/from-the-oval-to-the-outside-sirajs-test-career-at-a-crossroads-cricbu-2026.webp`,
+    image_alt: `From The Oval to the outside: Siraj's Test career at a crossroads - Cricbuzz`,
+    image_courtesy: `Image: Cricbuzz (External Source Attribution)`,
+    image_photographer: `Cricbuzz`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `Only 16 months ago, Mohammed Siraj was steaming in for his 42nd spell of the series at The Oval. He was bowling as quickly then as he had in his first spell of the five-Test English sojourn. This was to become his signature moment, one wher`,
+    content: `Only 16 months ago, Mohammed Siraj was steaming in for his 42nd spell of the series at The Oval. He was bowling as quickly then as he had in his first spell of the five-Test English sojourn. This was to become his signature moment, one where he not only became the darling of every Indian cricket fan but also won the hearts of the entire cricket world.
+
+Fast forward to November 2026, and Siraj has been left out of the Indian playing XI for the first Test in Wellington because he's deemed to be not bowling quick enough, and to no longer possess the venom he did when he was deservedly looked at as the best after Jasprit Bumrah. So much so that captain Shubman Gill has had to come out and rather candidly cite Siraj not being at his peak as the main reason for the talisman being benched.
+
+It's quite a turnaround in fortunes for the 32-year-old fast bowler, who has led the Indian attack whenever they've had to go in without Bumrah and still has the most wickets for India in the current WTC cycle. For the record, he has also averaged 25.07 for his 41 wickets under Gill's captaincy.
+
+But for now, Siraj finds himself out of favour, and is not expected to get the nod for the second Test in Christchurch either. That would have seemed unthinkable during the 2025 English summer, when he had clearly emerged as a player who'd be inked into the playing XI in all conditions.
+
+The loss of faith this team management has shown in Siraj is likely to have started at the SSC in Colombo, India's last Test before Wellington, where the Sri Lankans batted for 154 overs to save the match. While Siraj's figures of 2/59 in 26 overs don't read as alarming by any means, reports that his speeds were down drastically have been linked to his overall ineffectiveness on a largely flat Sri Lankan-style pitch.
+
+Maybe it was a case of Siraj having often been made to carry the Indian attack as Bumrah's workload was managed even more stringently. The Hyderabad pacer has bowled 305.3 overs during Gill's reign, second only to Ravindra Jadeja, who also currently finds himself on the outside. Or maybe it is a genuine drop in form. The question then is whether he has been given a good enough opportunity to bowl himself back into form. And that remains debatable.
+
+According to Siraj, speaking after his ordinary returns for South Zone in the Duleep Trophy final, the problem might well have been the opposite: too many lengthy breaks during this cycle, with India not having played a lot of Tests. "I'm purely a rhythm bowler. If I'm not in sync, I simply can't explode through the crease. That was the struggle in Sri Lanka, my run-up felt disjointed," he said after conceding 140 runs off his 25 overs as East Zone piled on 708 in their first innings. That outing was, after all, Siraj's attempt to get back into some long-form bowling rhythm before preparing for this tour of New Zealand.
+
+His next assignment was the India A game in Christchurch, where he returned figures of 4/118 and looked far more in sync with his action and the rest of his bowling. Maybe he needed another game of red-ball cricket under his belt, but instead he was flown to Mount Maunganui for the final ODI, where he played his part as well, picking up the two big wickets of Tim Seifert and Finn Allen.
+
+At times, especially when it comes to a team's pace attack, the talking point around selection is not solely why a fast bowler gets left out but also who he gets left out in favour of. In this case, India opted for Anshul Kamboj and the returning Akash Deep. This was also done to extend the batting line-up a bit more, and only happens if, as Gill said, Siraj isn't at his best. There are so many other attributes to Siraj's bowling that his place in the team doesn't come up for grabs unless he really has lost his edge.
+
+The bigger challenge for Siraj now is to win his way back into the playing XI. India's next Test assignment is at home against Australia, and it's unlikely we'll see him there unless he finds a way to convince Gill and the team management that he is indeed back to his "peak". That is tougher to prove when you are out of the team, at least in the eyes of those making the call on you. It leaves Siraj's Test career suddenly at a crossroads, barely 16 months on from his heroics at The Oval, when he was the toast of the nation.
+
+---
+
+**Original Source:** [Cricbuzz](https://www.cricbuzz.com/cricket-news/141075/from-the-oval-to-the-outside-mohammed-sirajs-test-career-at-a-crossroads-india-vs-new-zealand-2026-cricbuzzcom)`,
+    title_en: `From The Oval to the outside: Siraj's Test career at a crossroads - Cricbuzz`,
+    summary_en: `Only 16 months ago, Mohammed Siraj was steaming in for his 42nd spell of the series at The Oval. He was bowling as quickly then as he had in his first spell of the five-Test English sojourn. This was to become his signature moment, one wher`,
+    content_en: `Only 16 months ago, Mohammed Siraj was steaming in for his 42nd spell of the series at The Oval. He was bowling as quickly then as he had in his first spell of the five-Test English sojourn. This was to become his signature moment, one where he not only became the darling of every Indian cricket fan but also won the hearts of the entire cricket world.
+
+Fast forward to November 2026, and Siraj has been left out of the Indian playing XI for the first Test in Wellington because he's deemed to be not bowling quick enough, and to no longer possess the venom he did when he was deservedly looked at as the best after Jasprit Bumrah. So much so that captain Shubman Gill has had to come out and rather candidly cite Siraj not being at his peak as the main reason for the talisman being benched.
+
+It's quite a turnaround in fortunes for the 32-year-old fast bowler, who has led the Indian attack whenever they've had to go in without Bumrah and still has the most wickets for India in the current WTC cycle. For the record, he has also averaged 25.07 for his 41 wickets under Gill's captaincy.
+
+But for now, Siraj finds himself out of favour, and is not expected to get the nod for the second Test in Christchurch either. That would have seemed unthinkable during the 2025 English summer, when he had clearly emerged as a player who'd be inked into the playing XI in all conditions.
+
+The loss of faith this team management has shown in Siraj is likely to have started at the SSC in Colombo, India's last Test before Wellington, where the Sri Lankans batted for 154 overs to save the match. While Siraj's figures of 2/59 in 26 overs don't read as alarming by any means, reports that his speeds were down drastically have been linked to his overall ineffectiveness on a largely flat Sri Lankan-style pitch.
+
+Maybe it was a case of Siraj having often been made to carry the Indian attack as Bumrah's workload was managed even more stringently. The Hyderabad pacer has bowled 305.3 overs during Gill's reign, second only to Ravindra Jadeja, who also currently finds himself on the outside. Or maybe it is a genuine drop in form. The question then is whether he has been given a good enough opportunity to bowl himself back into form. And that remains debatable.
+
+According to Siraj, speaking after his ordinary returns for South Zone in the Duleep Trophy final, the problem might well have been the opposite: too many lengthy breaks during this cycle, with India not having played a lot of Tests. "I'm purely a rhythm bowler. If I'm not in sync, I simply can't explode through the crease. That was the struggle in Sri Lanka, my run-up felt disjointed," he said after conceding 140 runs off his 25 overs as East Zone piled on 708 in their first innings. That outing was, after all, Siraj's attempt to get back into some long-form bowling rhythm before preparing for this tour of New Zealand.
+
+His next assignment was the India A game in Christchurch, where he returned figures of 4/118 and looked far more in sync with his action and the rest of his bowling. Maybe he needed another game of red-ball cricket under his belt, but instead he was flown to Mount Maunganui for the final ODI, where he played his part as well, picking up the two big wickets of Tim Seifert and Finn Allen.
+
+At times, especially when it comes to a team's pace attack, the talking point around selection is not solely why a fast bowler gets left out but also who he gets left out in favour of. In this case, India opted for Anshul Kamboj and the returning Akash Deep. This was also done to extend the batting line-up a bit more, and only happens if, as Gill said, Siraj isn't at his best. There are so many other attributes to Siraj's bowling that his place in the team doesn't come up for grabs unless he really has lost his edge.
+
+The bigger challenge for Siraj now is to win his way back into the playing XI. India's next Test assignment is at home against Australia, and it's unlikely we'll see him there unless he finds a way to convince Gill and the team management that he is indeed back to his "peak". That is tougher to prove when you are out of the team, at least in the eyes of those making the call on you. It leaves Siraj's Test career suddenly at a crossroads, barely 16 months on from his heroics at The Oval, when he was the toast of the nation.
+
+---
+
+**Original Source:** [Cricbuzz](https://www.cricbuzz.com/cricket-news/141075/from-the-oval-to-the-outside-mohammed-sirajs-test-career-at-a-crossroads-india-vs-new-zealand-2026-cricbuzzcom)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Cricbuzz.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for From The Oval to the outside: Siraj's Test career at a crossroads - Cricbuzz.`,
+    primary_source: `Cricbuzz`,
+  },
+  {
+    id: 98051,
+    title: `IND vs NZ 2nd Test day 1 Live Score: कीवी कप्तान टॉम लैथम ने जमा दी फिफ्टी, दूसरे विकेट की तलाश में भारतीय टीम - AajTak`,
+    slug: `ind-vs-nz-2nd-test-day-1-live-score-aajtak-2026`,
+    original_title: `IND vs NZ 2nd Test day 1 Live Score: कीवी कप्तान टॉम लैथम ने जमा दी फिफ्टी, दूसरे विकेट की तलाश में भारतीय टीम - AajTak`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:40Z`,
+    updated_at: `2026-11-27T05:14:40Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-2nd-test-day-1-christchurch-live-cricket-score-ind-vs-nz-match-tspok-tspoa-dskc-2707007-2026-11-27`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b08fe56cb26a-team-india-275150175.jpg`,
+    image_alt: `IND vs NZ 2nd Test day 1 Live Score: कीवी कप्तान टॉम लैथम ने जमा दी फिफ्टी, दूसरे विकेट की तलाश में भारतीय टीम - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `India vs New Zealand 2nd Test Live Cricket Score: भारत और न्यूजीलैंड के बीच टेस्ट सीरीज का दूसरा मुकाबला क्राइस्टचर्च के हेगले ओवल में खेला जा रहा है. न्यूजीलैंड की पहली पारी में बल्लेबाजी जारी है. उसके 5 विकेट गिरे हैं. और पढ़ेंइस टेस्ट मै`,
+    content: `India vs New Zealand 2nd Test Live Cricket Score: भारत और न्यूजीलैंड के बीच टेस्ट सीरीज का दूसरा मुकाबला क्राइस्टचर्च के हेगले ओवल में खेला जा रहा है. न्यूजीलैंड की पहली पारी में बल्लेबाजी जारी है. उसके 5 विकेट गिरे हैं. और पढ़ेंइस टेस्ट मैच में टीम इंडिया के कप्तान शुभमन गिल ने टॉस जीतकर पहले गेंदबाजी करने का फैसला किया.
+
+भारतीय टीम में मोहम्मद सिराज को फिर मौका नहीं मिला. प्रसिद्ध कृष्णा की जगह गुरनूर बरार खेल रहे हैं. बरार का यह पहला टेस्ट मैच है. इस मुकाबले की लाइव अपडेट और स्कोर कार्ड के लिए इस पेज को र‍िफ्रेश करते रहें, हम लगातार इस पेज को अपडेट कर रहे हैं. पहली पारी में ऐसी रही कीवी टीम की बैटिंगन्यूजीलैंड के सलामी बल्लेबाजों ने पहली पारी में दमदार शुरुआत की.
+
+कप्तान टॉम लैथम और डेवोन कॉन्वे ने पहले विकेट के लिए 77 रनों की पार्टनरशिप की. अपना पहला टेस्ट मैच खेल रहे गुरनूर बरार ने खतरनाक दिख रहे कॉन्वे को 31 रनों के निजी पर आउट कर पवेलियन भेजा. ये विकेट पहले दिन लंच से पहले आखिरी गेंद पर गिरा. Advertisement        लंच के टॉम लैथम ने अपनी फिफ्टी पूरी की.
+
+लैथम ने 128 गेंदों पर 59 रन बनाए, जिसमें 6 चौके शामिल रहे. लैथम का विकेट आकाश दीप ने लिया. फिर अंशुल कम्बोज ने हेनरी निकोल्स (16 रन) को आउट कर भारत को तीसरी कामयाबी दिलाई. 110 के स्कोर पर ही न्यूजीलैंड का एक और विकेट गिरा, जब आकाश दीप के बिछाए जाल मेंं रचिन रवींद्र (0 रन) फंस गए.यहां से टॉम ब्लंडेल और डेरिल मिचेल ने पांचवें विकेट के लिए 74 रन जोड़कर मेजबान टीम को संभाला.
+
+मिचेल 31 रनों के निजी स्कोर वॉशिंगटन सुंदर का शिकार बने, जिसके चलते ये साझेदारी टूटी.न्यूजीलैंड की पहली पारी का स्कोरकार्डबल्लेबाज			विकेट			रन		टॉम लैथम			कॉट ऋषभ पंत बोल्ड आकाश दीप			59		डेवोन कॉन्वे			LBW गुरनूर बरार			31		हेनरी निकोल्स			कॉट आकाश दीप बोल्ड अंशुल कम्बोज			16		रचिन रवींद्र			कॉट ऋषभ पंत बोल्ड आकाश दीप			0		डेरिल मिचेल			कॉट ध्रुव जुरेल बोल्ड वॉशिंगटन सुंदर			31		टॉम ब्लंडेल			नाबाद			 		ग्लेन फिलिप्स			नाबाद			 		विकेट पतन: 1-77 (डेवोन कॉन्वे, 25.6 ओवर), 2-110 (टॉम लैथम, 41.3 ओवर), 3-110 (हेनरी निकोल्स, 42.1 ओवर), 4-110 (रचिन रवींद्र, 43.6 ओवर), 5-184 (डेरिल मिचेल, 64.4 ओवर)न्यूजीलैंड की प्लेइंग 11:  टॉम लैथम (कप्तान), डेवोन कॉन्वे, हेनरी निकोल्स, रचिन रवींद्र, डेरिल मिचेल, टॉम ब्लंडेल (विकेटकीपर), ग्लेन फिलिप्स, नाथन स्मिथ, काइल जेमिसन, मैट हेनरी और जैकब डफी.
+
+Advertisement        भारत की प्लेइंग 11: केएल राहुल, यशस्वी जायसवाल, देवदत्त पडिक्कल, शुभमन गिल (कप्तान), ऋषभ पंत (विकेटकीपर), ध्रुव जुरेल, वॉशिंगटन सुंदर, अंशुल कम्बोज, आकाश दीप, जसप्रीत बुमराह, गुरनूर बरार.क्या कहता है दोनों टीमों का रिकॉर्ड?न्यूजीलैंड का हालिया रिकॉर्ड भारत के खिलाफ बेहतर रहा है.
+
+उसने भारत के खिलाफ पिछले 9 टेस्ट मैचों में से 6 में जीत दर्ज की है. क्राइस्टचर्च के मैदान पर टेस्ट मैचों की औसत पारी का स्कोर पहली पारी में 291, दूसरी पारी में 343, तीसरी पारी में 272 और चौथी पारी में 248 रन रहा है. भारतीय टीम ने इस मैदान पर अब तक सिर्फ एक टेस्ट खेला है और उसे 2020 में हार का सामना करना पड़ा था.भारत न्यूजीलैंड दोनों टीमों का हेड टू हेड न्यूजीलैंड और भारत के के बीच अब तक क्रिकेट के सबसे बड़े फॉर्मेट में 66 मुकाबले खेले गए हैं.
+
+इस दौरान भारतीय टीम ने ने 22 टेस्ट मैचों में जीत दर्ज की. जबकि न्यूजीलैंड ने 16 मुकाबले अपने नाम किए. 28 टेस्ट मैच ड्रॉ पर छूटे.भारत बनाम न्यूजीलैंड (h2h)कुल टेस्ट मैच: 66भारत ने जीते: 22न्यूजीलैंड ने जीते: 16ड्रॉ रहे: 28न्यूजीलैंड का स्क्वॉड: टॉम लैथम (कप्तान), डेवोन कॉन्वे, हेनरी निकोल्स, रचिन रवींद्र, डेरिल मिचेल, टॉम ब्लंडेल (विकेटकीपर), ग्लेन फिलिप्स, नाथन स्मिथ, डीन फॉक्सक्रॉफ्ट, विल यंग, काइल जेमिसन, मैट हेनरी, ब्लेयर टिकनर और जैकब डफी.
+
+Advertisement        भारत का स्क्वॉड: शुभमन गिल (कप्तान), यशस्वी जायसवाल, केएल राहुल (उप-कप्तान), देवदत्त पडिक्कल, ऋषभ पंत (विकेटकीपर), ध्रुव जुरेल (विकेटकीपर), रवींद्र जडेजा, अंशुल कम्बोज, जसप्रीत बुमराह, प्रसिद्ध कृष्णा, वॉशिंगटन सुंदर, मोहम्मद सिराज, आकाश दीप, साई सुदर्शन, नीतीश कुमार रेड्डी और गुरनूर बरार.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-2nd-test-day-1-christchurch-live-cricket-score-ind-vs-nz-match-tspok-tspoa-dskc-2707007-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `IND vs NZ 2nd Test day 1 Live Score: कीवी कप्तान टॉम लैथम ने जमा दी फिफ्टी, दूसरे विकेट की तलाश में भारतीय टीम - AajTak`,
+    summary_hi: `India vs New Zealand 2nd Test Live Cricket Score: भारत और न्यूजीलैंड के बीच टेस्ट सीरीज का दूसरा मुकाबला क्राइस्टचर्च के हेगले ओवल में खेला जा रहा है. न्यूजीलैंड की पहली पारी में बल्लेबाजी जारी है. उसके 5 विकेट गिरे हैं. और पढ़ेंइस टेस्ट मै`,
+    content_hi: `India vs New Zealand 2nd Test Live Cricket Score: भारत और न्यूजीलैंड के बीच टेस्ट सीरीज का दूसरा मुकाबला क्राइस्टचर्च के हेगले ओवल में खेला जा रहा है. न्यूजीलैंड की पहली पारी में बल्लेबाजी जारी है. उसके 5 विकेट गिरे हैं. और पढ़ेंइस टेस्ट मैच में टीम इंडिया के कप्तान शुभमन गिल ने टॉस जीतकर पहले गेंदबाजी करने का फैसला किया.
+
+भारतीय टीम में मोहम्मद सिराज को फिर मौका नहीं मिला. प्रसिद्ध कृष्णा की जगह गुरनूर बरार खेल रहे हैं. बरार का यह पहला टेस्ट मैच है. इस मुकाबले की लाइव अपडेट और स्कोर कार्ड के लिए इस पेज को र‍िफ्रेश करते रहें, हम लगातार इस पेज को अपडेट कर रहे हैं. पहली पारी में ऐसी रही कीवी टीम की बैटिंगन्यूजीलैंड के सलामी बल्लेबाजों ने पहली पारी में दमदार शुरुआत की.
+
+कप्तान टॉम लैथम और डेवोन कॉन्वे ने पहले विकेट के लिए 77 रनों की पार्टनरशिप की. अपना पहला टेस्ट मैच खेल रहे गुरनूर बरार ने खतरनाक दिख रहे कॉन्वे को 31 रनों के निजी पर आउट कर पवेलियन भेजा. ये विकेट पहले दिन लंच से पहले आखिरी गेंद पर गिरा. Advertisement        लंच के टॉम लैथम ने अपनी फिफ्टी पूरी की.
+
+लैथम ने 128 गेंदों पर 59 रन बनाए, जिसमें 6 चौके शामिल रहे. लैथम का विकेट आकाश दीप ने लिया. फिर अंशुल कम्बोज ने हेनरी निकोल्स (16 रन) को आउट कर भारत को तीसरी कामयाबी दिलाई. 110 के स्कोर पर ही न्यूजीलैंड का एक और विकेट गिरा, जब आकाश दीप के बिछाए जाल मेंं रचिन रवींद्र (0 रन) फंस गए.यहां से टॉम ब्लंडेल और डेरिल मिचेल ने पांचवें विकेट के लिए 74 रन जोड़कर मेजबान टीम को संभाला.
+
+मिचेल 31 रनों के निजी स्कोर वॉशिंगटन सुंदर का शिकार बने, जिसके चलते ये साझेदारी टूटी.न्यूजीलैंड की पहली पारी का स्कोरकार्डबल्लेबाज			विकेट			रन		टॉम लैथम			कॉट ऋषभ पंत बोल्ड आकाश दीप			59		डेवोन कॉन्वे			LBW गुरनूर बरार			31		हेनरी निकोल्स			कॉट आकाश दीप बोल्ड अंशुल कम्बोज			16		रचिन रवींद्र			कॉट ऋषभ पंत बोल्ड आकाश दीप			0		डेरिल मिचेल			कॉट ध्रुव जुरेल बोल्ड वॉशिंगटन सुंदर			31		टॉम ब्लंडेल			नाबाद			 		ग्लेन फिलिप्स			नाबाद			 		विकेट पतन: 1-77 (डेवोन कॉन्वे, 25.6 ओवर), 2-110 (टॉम लैथम, 41.3 ओवर), 3-110 (हेनरी निकोल्स, 42.1 ओवर), 4-110 (रचिन रवींद्र, 43.6 ओवर), 5-184 (डेरिल मिचेल, 64.4 ओवर)न्यूजीलैंड की प्लेइंग 11:  टॉम लैथम (कप्तान), डेवोन कॉन्वे, हेनरी निकोल्स, रचिन रवींद्र, डेरिल मिचेल, टॉम ब्लंडेल (विकेटकीपर), ग्लेन फिलिप्स, नाथन स्मिथ, काइल जेमिसन, मैट हेनरी और जैकब डफी.
+
+Advertisement        भारत की प्लेइंग 11: केएल राहुल, यशस्वी जायसवाल, देवदत्त पडिक्कल, शुभमन गिल (कप्तान), ऋषभ पंत (विकेटकीपर), ध्रुव जुरेल, वॉशिंगटन सुंदर, अंशुल कम्बोज, आकाश दीप, जसप्रीत बुमराह, गुरनूर बरार.क्या कहता है दोनों टीमों का रिकॉर्ड?न्यूजीलैंड का हालिया रिकॉर्ड भारत के खिलाफ बेहतर रहा है.
+
+उसने भारत के खिलाफ पिछले 9 टेस्ट मैचों में से 6 में जीत दर्ज की है. क्राइस्टचर्च के मैदान पर टेस्ट मैचों की औसत पारी का स्कोर पहली पारी में 291, दूसरी पारी में 343, तीसरी पारी में 272 और चौथी पारी में 248 रन रहा है. भारतीय टीम ने इस मैदान पर अब तक सिर्फ एक टेस्ट खेला है और उसे 2020 में हार का सामना करना पड़ा था.भारत न्यूजीलैंड दोनों टीमों का हेड टू हेड न्यूजीलैंड और भारत के के बीच अब तक क्रिकेट के सबसे बड़े फॉर्मेट में 66 मुकाबले खेले गए हैं.
+
+इस दौरान भारतीय टीम ने ने 22 टेस्ट मैचों में जीत दर्ज की. जबकि न्यूजीलैंड ने 16 मुकाबले अपने नाम किए. 28 टेस्ट मैच ड्रॉ पर छूटे.भारत बनाम न्यूजीलैंड (h2h)कुल टेस्ट मैच: 66भारत ने जीते: 22न्यूजीलैंड ने जीते: 16ड्रॉ रहे: 28न्यूजीलैंड का स्क्वॉड: टॉम लैथम (कप्तान), डेवोन कॉन्वे, हेनरी निकोल्स, रचिन रवींद्र, डेरिल मिचेल, टॉम ब्लंडेल (विकेटकीपर), ग्लेन फिलिप्स, नाथन स्मिथ, डीन फॉक्सक्रॉफ्ट, विल यंग, काइल जेमिसन, मैट हेनरी, ब्लेयर टिकनर और जैकब डफी.
+
+Advertisement        भारत का स्क्वॉड: शुभमन गिल (कप्तान), यशस्वी जायसवाल, केएल राहुल (उप-कप्तान), देवदत्त पडिक्कल, ऋषभ पंत (विकेटकीपर), ध्रुव जुरेल (विकेटकीपर), रवींद्र जडेजा, अंशुल कम्बोज, जसप्रीत बुमराह, प्रसिद्ध कृष्णा, वॉशिंगटन सुंदर, मोहम्मद सिराज, आकाश दीप, साई सुदर्शन, नीतीश कुमार रेड्डी और गुरनूर बरार.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-2nd-test-day-1-christchurch-live-cricket-score-ind-vs-nz-match-tspok-tspoa-dskc-2707007-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक IND vs NZ 2nd Test day 1 Live Score: कीवी कप्तान टॉम लैथम ने जमा दी फिफ्टी, दूसरे विकेट की तलाश में भारतीय टीम - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98052,
+    title: `करीब 2 घंटे के बाद इंडिया को विकेट मिला: सुंदर ने डेरिल मिचेल को आउट किया, फिफ्टी पार्टनरशिप ब्रेक; न्यूजीलैंड 191/5 - Dainik Bhaskar`,
+    slug: `2-1915-dainik-bhaskar-2026`,
+    original_title: `करीब 2 घंटे के बाद इंडिया को विकेट मिला: सुंदर ने डेरिल मिचेल को आउट किया, फिफ्टी पार्टनरशिप ब्रेक; न्यूजीलैंड 191/5 - Dainik Bhaskar`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:43Z`,
+    updated_at: `2026-11-27T05:14:43Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/g/sports/cricket/news/india-new-zealand-test-christchurch-siraj-gurnoor-brar-debut-update-139808492.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/2-1915-dainik-bhaskar-2026.jpg`,
+    image_alt: `करीब 2 घंटे के बाद इंडिया को विकेट मिला: सुंदर ने डेरिल मिचेल को आउट किया, फिफ्टी पार्टनरशिप ब्रेक; न्यूजीलैंड 191/5 - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `भारत और न्यूजीलैंड के बीच दूसरा टेस्ट क्राइस्टचर्च के हेगले ओवल स्टेडियम में खेला जा रहा है। टॉस हारकर बैटिंग कर रही न्यूजीलैंड ने 5 विकेट पर 234 रन बना लिए हैं। टॉम ब्लंडेल और ग्लेन फिलिप्स छठे विकेट के लिए फिफ्टी पार्टनरशिप कर ली है।`,
+    content: `भारत और न्यूजीलैंड के बीच दूसरा टेस्ट क्राइस्टचर्च के हेगले ओवल स्टेडियम में खेला जा रहा है। टॉस हारकर बैटिंग कर रही न्यूजीलैंड ने 5 विकेट पर 234 रन बना लिए हैं। टॉम ब्लंडेल और ग्लेन फिलिप्स छठे विकेट के लिए फिफ्टी पार्टनरशिप कर ली है।
+
+वॉशिंगटन सुंदर ने डेरिल मिचेल (31 रन) को कैच आउट कराकर फिफ्टी पार्टनरशिप ब्रेक की। इंडिया को करीब 2 घंटे के बाद विकेट मिला है।
+
+टी-ब्रेक से पहले रचिन रवींद्र (जीरो), हेनरी निकल्स 16, कप्तान टॉम लैथम 59 रन बनाकर पवेलियन लौटे। गुरनूर बरार ने डेवोन कॉन्वे का विकेट लेकर ओपनिंग पार्टनरशिप ब्रेक की। मैच का स्कोरबोर्ड
+
+अंशुल कंबोज की 77वें ओवर की 5वीं गेंद पर टॉम ब्लंडेल ने चौका लगाया। कंबोज ने शॉर्ट गेंद डाली, लेकिन उसमें इतनी रफ्तार नहीं थी कि ब्लंडेल को परेशान कर सके। ब्लंडेल ने गेंद की उछाल का फायदा उठाते हुए पुल शॉट खेला और मिडविकेट की ओर बाउंड्री हासिल की।
+
+गुरनूर बरार की 74वें ओवर की चौथी गेंद पर ग्लेन फिलिप्स ने चौका लगाया। बैक ऑफ लेंथ गेंद पर फिलिप्स ने शरीर से दूर शॉट खेला और मोटा किनारा लगा। गेंद दूसरी स्लिप और गली में खड़े केएल राहुल के बीच से निकलकर बाउंड्री पार चली गई।
+
+72वें ओवर में गुरनूर बरार की बाउंसर ग्लेन फिलिप्स की पीठ पर लगी। गुरनूर ने 5वीं गेंद 134 kmph की रफ्तार से डाली। फिलिप्स गेंद से बचने की कोशिश में पीछे हटे, लेकिन गेंद उनकी पीठ पर लगी। इस गेंद पर कोई रन नहीं बना।
+
+70वें ओवर में न्यूजीलैंड ने 200 रन का आंकड़ा पार कर लिया। गुरनूर बरार की पांचवीं गेंद पर 4 बाई रन मिले।
+
+गुरनूर की तेज बाउंसर पर बैटर और विकेटकीपर को छकाकर बाउंड्री पार चली गई। विकेटकीपर ऋषभ पंत गेंद तक नहीं पहुंच सके।
+
+191वें ओवर में आकाशदीप ने महज एक रन दिया। उन्होंने शुरुआती 5 बॉल टॉम ब्लंडेल को डॉट कराई। आखिरी बॉल पर सिंगल आया।
+
+65वें ओवर की चौथी गेंद पर न्यूजीलैंड ने 5वां विकेट गंवाया। वॉशिंगटन सुंदर ने डेरिल मिचेल को ध्रुव जुरेल के हाथों कैच कराया। मिचेल 31 रन बनाकर आउट हुए। उन्होंने 74 गेंदों का सामना किया और 4 चौके लगाए।
+
+61वें ओवर में वॉशिंगटन सुंदर की 5वीं बॉल पर टॉम ब्लंडेल ने चौका लगाया। इस चौके के साथ उन्होंने डेरिल मिचेल के साथ चौथे विकेट के लिए फिफ्टी पार्टनरशिप कर ली।
+
+भारत ने पहली बार स्पिन गेंदबाजी का इस्तेमाल किया। 61वें ओवर में वॉशिंगटन सुंदर अटैक पर आए। उनके ओवर में एक स्लिप और एक शॉर्ट लेग फील्डर तैनात किया गया। उनके इस ओवर से 11 रन आए।
+
+59वें ओवर की पांचवीं गेंद पर डेरिल मिचेल ने चौका लगाया। उन्होंने आकाशदीप की गेंद को फाइन लेग बाउंड्री के पार पहुंचाया। इसके साथ ही न्यूजीलैंड का स्कोर 150 रन के पार पहुंच गया।
+
+57वें ओवर में गुरनूर बरार ने एक और नो बॉल फेंकी। वे अब तक 14 ओवर की गेंदबाजी में 7 नो बॉल फेंक चुके हैं।
+
+गुरनूर बरार ने भी 53वें ओवर में मेडन फेंका। उन्होंने टॉम ब्लंडेल को लगातार 6 गेंदों पर रन नहीं बनाने दिए। इस दौरान बरार ने 137.3 किमी/घंटे की रफ्तार से गेंद भी डाली।
+
+इससे पहले बुमराह ने डेरिल मिचेल के खिलाफ 52वां ओवर मेडन किया था। न्यूजीलैंड का स्कोर 53 ओवर के बाद 132/4 रहा। ब्लंडेल 31 गेंदों पर 8 और मिचेल 31 गेंदों पर 7 रन बनाकर खेल रहे थे।
+
+जसप्रीत बुमराह ने 52वें ओवर में डेरिल मिचेल को कोई रन नहीं बनाने दिया। उन्होंने ओवर की सभी 6 गेंदें डॉट फेंकीं। मिचेल ने पांच गेंदें छोड़ दीं, जबकि एक गेंद को डिफेंड किया।
+
+इससे पहले 51वें ओवर में गुरनूर बरार ने भी सिर्फ एक रन दिया था। न्यूजीलैंड 132/4 रहा। मिचेल 31 गेंदों पर 7 और टॉम ब्लंडेल 25 गेंदों पर 8 रन बनाकर खेल रहे थे।
+
+गुरनूर बरार ने 51वें ओवर में टॉम ब्लंडेल को रन बनाने का मौका नहीं दिया। उन्होंने ओवर में सिर्फ एक रन दिया। ब्लंडेल ने ओवर की पहली चार गेंदों पर कोई रन नहीं बनाया। पांचवीं गेंद पर भी वह रन नहीं ले सके। आखिरी गेंद पर सिंगल आया।
+
+पहले दिन का दूसरा सेशन भारत के नाम रहा है। 24 ओवर के इस सेशन में भारत ने 54 रन देकर 3 विकेट झटके हैं।
+
+48वें ओवर में बुमराह की गेंद अंदर की ओर आई और ब्लंडेल के बल्ले को छकाती हुई पिछले पैर की जांघ पर लगी। भारत ने LBW के लिए रिव्यू लिया, लेकिन गेंद स्टंप्स के ऊपर से जा रही थी। ब्लंडेल नॉटआउट रहे।
+
+45वें ओवर की चौथी गेंद पर अंशुल कंबोज की अंदर आती गेंद टॉम ब्लंडेल के पैड पर लगी। भारतीय खिलाड़ियों ने LBW की अपील की, लेकिन अंपायर ने आउट नहीं दिया।
+
+शुभमन गिल ने गेंदबाज से बात करने के बाद रिव्यू नहीं लेने का फैसला किया। गेंद लेग स्टंप के बाहर जा सकती थी।
+
+44वें ओवर की छठी गेंद पर आकाशदीप ने रचिन रवींद्र को आउट कर दिया। ऋषभ पंत ने रचिन का कैच पकड़ा। रचिन 9 गेंदों पर बिना खाता खोले आउट हुए। न्यूजीलैंड ने 110 रन पर चौथा विकेट गंवा दिया।
+
+43वें ओवर की पहली गेंद पर अंशुल कंबोज ने हेनरी निकल्स को आउट कर दिया। उन्होंने शॉर्ट गेंद पर पुल शॉट खेलने की कोशिश की, लेकिन गेंद बल्ले का ऊपरी किनारा लेकर हवा में गई।
+
+लॉन्ग लेग पर आकाश दीप ने आसान कैच पकड़ा। निकल्स 46 गेंदों पर 16 रन बनाकर आउट हुए। भारत ने लगातार दो ओवर में लैथम और निकल्स के विकेट हासिल किए।
+
+42वें ओवर की तीसरी गेंद पर आकाश दीप ने टॉम लैथम को आउट कर दिया। आकाशदीप की गेंद को लैथम ने आगे बढ़कर रोका।
+
+गेंद बल्ले का बाहरी किनारा लेकर पंत के दस्तानों में चली गई। लैथम 128 गेंदों पर 59 रन बनाकर आउट हुए। उनकी पारी में 6 चौके शामिल रहे। भारत को लंच के बाद पहली सफलता मिली।
+
+भारत ने लंच के बाद विकेट लेने की काफी कोशिश की, लेकिन अब तक उसे सफलता नहीं मिली है। टीम को कई मौके मिले, लेकिन रनआउट के प्रयास चूके, रिव्यू नहीं लिया और गेंद कई बार बल्ले का किनारा लेकर निकल गई।
+
+गेंद अब भी पिच से मूव कर रही है। हेनरी निकल्स संभलकर बल्लेबाजी कर रहे हैं, लेकिन रन लेने में उनकी टाइमिंग अच्छी नहीं रही। इस सेशन में भी कड़ा मुकाबला देखने को मिल सकता है।
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/sports/cricket/news/india-new-zealand-test-christchurch-siraj-gurnoor-brar-debut-update-139808492.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `करीब 2 घंटे के बाद इंडिया को विकेट मिला: सुंदर ने डेरिल मिचेल को आउट किया, फिफ्टी पार्टनरशिप ब्रेक; न्यूजीलैंड 191/5 - Dainik Bhaskar`,
+    summary_hi: `भारत और न्यूजीलैंड के बीच दूसरा टेस्ट क्राइस्टचर्च के हेगले ओवल स्टेडियम में खेला जा रहा है। टॉस हारकर बैटिंग कर रही न्यूजीलैंड ने 5 विकेट पर 234 रन बना लिए हैं। टॉम ब्लंडेल और ग्लेन फिलिप्स छठे विकेट के लिए फिफ्टी पार्टनरशिप कर ली है।`,
+    content_hi: `भारत और न्यूजीलैंड के बीच दूसरा टेस्ट क्राइस्टचर्च के हेगले ओवल स्टेडियम में खेला जा रहा है। टॉस हारकर बैटिंग कर रही न्यूजीलैंड ने 5 विकेट पर 234 रन बना लिए हैं। टॉम ब्लंडेल और ग्लेन फिलिप्स छठे विकेट के लिए फिफ्टी पार्टनरशिप कर ली है।
+
+वॉशिंगटन सुंदर ने डेरिल मिचेल (31 रन) को कैच आउट कराकर फिफ्टी पार्टनरशिप ब्रेक की। इंडिया को करीब 2 घंटे के बाद विकेट मिला है।
+
+टी-ब्रेक से पहले रचिन रवींद्र (जीरो), हेनरी निकल्स 16, कप्तान टॉम लैथम 59 रन बनाकर पवेलियन लौटे। गुरनूर बरार ने डेवोन कॉन्वे का विकेट लेकर ओपनिंग पार्टनरशिप ब्रेक की। मैच का स्कोरबोर्ड
+
+अंशुल कंबोज की 77वें ओवर की 5वीं गेंद पर टॉम ब्लंडेल ने चौका लगाया। कंबोज ने शॉर्ट गेंद डाली, लेकिन उसमें इतनी रफ्तार नहीं थी कि ब्लंडेल को परेशान कर सके। ब्लंडेल ने गेंद की उछाल का फायदा उठाते हुए पुल शॉट खेला और मिडविकेट की ओर बाउंड्री हासिल की।
+
+गुरनूर बरार की 74वें ओवर की चौथी गेंद पर ग्लेन फिलिप्स ने चौका लगाया। बैक ऑफ लेंथ गेंद पर फिलिप्स ने शरीर से दूर शॉट खेला और मोटा किनारा लगा। गेंद दूसरी स्लिप और गली में खड़े केएल राहुल के बीच से निकलकर बाउंड्री पार चली गई।
+
+72वें ओवर में गुरनूर बरार की बाउंसर ग्लेन फिलिप्स की पीठ पर लगी। गुरनूर ने 5वीं गेंद 134 kmph की रफ्तार से डाली। फिलिप्स गेंद से बचने की कोशिश में पीछे हटे, लेकिन गेंद उनकी पीठ पर लगी। इस गेंद पर कोई रन नहीं बना।
+
+70वें ओवर में न्यूजीलैंड ने 200 रन का आंकड़ा पार कर लिया। गुरनूर बरार की पांचवीं गेंद पर 4 बाई रन मिले।
+
+गुरनूर की तेज बाउंसर पर बैटर और विकेटकीपर को छकाकर बाउंड्री पार चली गई। विकेटकीपर ऋषभ पंत गेंद तक नहीं पहुंच सके।
+
+191वें ओवर में आकाशदीप ने महज एक रन दिया। उन्होंने शुरुआती 5 बॉल टॉम ब्लंडेल को डॉट कराई। आखिरी बॉल पर सिंगल आया।
+
+65वें ओवर की चौथी गेंद पर न्यूजीलैंड ने 5वां विकेट गंवाया। वॉशिंगटन सुंदर ने डेरिल मिचेल को ध्रुव जुरेल के हाथों कैच कराया। मिचेल 31 रन बनाकर आउट हुए। उन्होंने 74 गेंदों का सामना किया और 4 चौके लगाए।
+
+61वें ओवर में वॉशिंगटन सुंदर की 5वीं बॉल पर टॉम ब्लंडेल ने चौका लगाया। इस चौके के साथ उन्होंने डेरिल मिचेल के साथ चौथे विकेट के लिए फिफ्टी पार्टनरशिप कर ली।
+
+भारत ने पहली बार स्पिन गेंदबाजी का इस्तेमाल किया। 61वें ओवर में वॉशिंगटन सुंदर अटैक पर आए। उनके ओवर में एक स्लिप और एक शॉर्ट लेग फील्डर तैनात किया गया। उनके इस ओवर से 11 रन आए।
+
+59वें ओवर की पांचवीं गेंद पर डेरिल मिचेल ने चौका लगाया। उन्होंने आकाशदीप की गेंद को फाइन लेग बाउंड्री के पार पहुंचाया। इसके साथ ही न्यूजीलैंड का स्कोर 150 रन के पार पहुंच गया।
+
+57वें ओवर में गुरनूर बरार ने एक और नो बॉल फेंकी। वे अब तक 14 ओवर की गेंदबाजी में 7 नो बॉल फेंक चुके हैं।
+
+गुरनूर बरार ने भी 53वें ओवर में मेडन फेंका। उन्होंने टॉम ब्लंडेल को लगातार 6 गेंदों पर रन नहीं बनाने दिए। इस दौरान बरार ने 137.3 किमी/घंटे की रफ्तार से गेंद भी डाली।
+
+इससे पहले बुमराह ने डेरिल मिचेल के खिलाफ 52वां ओवर मेडन किया था। न्यूजीलैंड का स्कोर 53 ओवर के बाद 132/4 रहा। ब्लंडेल 31 गेंदों पर 8 और मिचेल 31 गेंदों पर 7 रन बनाकर खेल रहे थे।
+
+जसप्रीत बुमराह ने 52वें ओवर में डेरिल मिचेल को कोई रन नहीं बनाने दिया। उन्होंने ओवर की सभी 6 गेंदें डॉट फेंकीं। मिचेल ने पांच गेंदें छोड़ दीं, जबकि एक गेंद को डिफेंड किया।
+
+इससे पहले 51वें ओवर में गुरनूर बरार ने भी सिर्फ एक रन दिया था। न्यूजीलैंड 132/4 रहा। मिचेल 31 गेंदों पर 7 और टॉम ब्लंडेल 25 गेंदों पर 8 रन बनाकर खेल रहे थे।
+
+गुरनूर बरार ने 51वें ओवर में टॉम ब्लंडेल को रन बनाने का मौका नहीं दिया। उन्होंने ओवर में सिर्फ एक रन दिया। ब्लंडेल ने ओवर की पहली चार गेंदों पर कोई रन नहीं बनाया। पांचवीं गेंद पर भी वह रन नहीं ले सके। आखिरी गेंद पर सिंगल आया।
+
+पहले दिन का दूसरा सेशन भारत के नाम रहा है। 24 ओवर के इस सेशन में भारत ने 54 रन देकर 3 विकेट झटके हैं।
+
+48वें ओवर में बुमराह की गेंद अंदर की ओर आई और ब्लंडेल के बल्ले को छकाती हुई पिछले पैर की जांघ पर लगी। भारत ने LBW के लिए रिव्यू लिया, लेकिन गेंद स्टंप्स के ऊपर से जा रही थी। ब्लंडेल नॉटआउट रहे।
+
+45वें ओवर की चौथी गेंद पर अंशुल कंबोज की अंदर आती गेंद टॉम ब्लंडेल के पैड पर लगी। भारतीय खिलाड़ियों ने LBW की अपील की, लेकिन अंपायर ने आउट नहीं दिया।
+
+शुभमन गिल ने गेंदबाज से बात करने के बाद रिव्यू नहीं लेने का फैसला किया। गेंद लेग स्टंप के बाहर जा सकती थी।
+
+44वें ओवर की छठी गेंद पर आकाशदीप ने रचिन रवींद्र को आउट कर दिया। ऋषभ पंत ने रचिन का कैच पकड़ा। रचिन 9 गेंदों पर बिना खाता खोले आउट हुए। न्यूजीलैंड ने 110 रन पर चौथा विकेट गंवा दिया।
+
+43वें ओवर की पहली गेंद पर अंशुल कंबोज ने हेनरी निकल्स को आउट कर दिया। उन्होंने शॉर्ट गेंद पर पुल शॉट खेलने की कोशिश की, लेकिन गेंद बल्ले का ऊपरी किनारा लेकर हवा में गई।
+
+लॉन्ग लेग पर आकाश दीप ने आसान कैच पकड़ा। निकल्स 46 गेंदों पर 16 रन बनाकर आउट हुए। भारत ने लगातार दो ओवर में लैथम और निकल्स के विकेट हासिल किए।
+
+42वें ओवर की तीसरी गेंद पर आकाश दीप ने टॉम लैथम को आउट कर दिया। आकाशदीप की गेंद को लैथम ने आगे बढ़कर रोका।
+
+गेंद बल्ले का बाहरी किनारा लेकर पंत के दस्तानों में चली गई। लैथम 128 गेंदों पर 59 रन बनाकर आउट हुए। उनकी पारी में 6 चौके शामिल रहे। भारत को लंच के बाद पहली सफलता मिली।
+
+भारत ने लंच के बाद विकेट लेने की काफी कोशिश की, लेकिन अब तक उसे सफलता नहीं मिली है। टीम को कई मौके मिले, लेकिन रनआउट के प्रयास चूके, रिव्यू नहीं लिया और गेंद कई बार बल्ले का किनारा लेकर निकल गई।
+
+गेंद अब भी पिच से मूव कर रही है। हेनरी निकल्स संभलकर बल्लेबाजी कर रहे हैं, लेकिन रन लेने में उनकी टाइमिंग अच्छी नहीं रही। इस सेशन में भी कड़ा मुकाबला देखने को मिल सकता है।
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/sports/cricket/news/india-new-zealand-test-christchurch-siraj-gurnoor-brar-debut-update-139808492.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक करीब 2 घंटे के बाद इंडिया को विकेट मिला: सुंदर ने डेरिल मिचेल को आउट किया, फिफ्टी पार्टनरशिप ब्रेक; न्यूजीलैंड 191/5 - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+  {
+    id: 98053,
+    title: `‘Sita killed Ravana in Adhbhuta Ramayana’: Amish Tripathi says Sita was a warrior - The Indian Express`,
+    slug: `sita-killed-ravana-in-adhbhuta-ramayana-amish-tripathi-says-sita-was-a-2026`,
+    original_title: `‘Sita killed Ravana in Adhbhuta Ramayana’: Amish Tripathi says Sita was a warrior - The Indian Express`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:47Z`,
+    updated_at: `2026-11-27T05:14:47Z`,
+    source_name: `The Indian Express`,
+    source_url: `https://indianexpress.com/article/entertainment/bollywood/amish-tripathi-says-sita-was-always-a-warrior-ramayana-part-1-10978072/`,
+    source_courtesy: `Source: The Indian Express`,
+    image_url: `/images/articles/sita-killed-ravana-in-adhbhuta-ramayana-amish-tripathi-says-sita-was-a-2026.webp`,
+    image_alt: `‘Sita killed Ravana in Adhbhuta Ramayana’: Amish Tripathi says Sita was a warrior - The Indian Express`,
+    image_courtesy: `Image: The Indian Express (External Source Attribution)`,
+    image_photographer: `The Indian Express`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Ever since Nitesh Tiwari's film adaptation of the Indian epic, Ramayana, has released, there have been certain sections of society, including actor Mukesh Khanna, who flagged the alleged false portrayal of Sita. They claimed that the wife o`,
+    content: `Ever since Nitesh Tiwari's film adaptation of the Indian epic, Ramayana, has released, there have been certain sections of society, including actor Mukesh Khanna, who flagged the alleged false portrayal of Sita. They claimed that the wife of Rama was never a warrior, but is shown wielding a sword and fighting asuras on the big screen.
+
+Amish Tripathi, who famously presented Sita as a warrior princess in his 2017 bestselling book Sita - Warrior of Mithila, cleared the air on such claims in an exclusive interview with SCREEN. Debunking misconceptions around Ramayana, Amish Tripathi said, "Because we're not taught the Ramayana and the Mahabharata through our education system, we're not aware of all the versions.
+
+There's a version called the Adbhuta Ramayana, credited to Valmiki. He wrote three versions - Valmiki Ramayana, Adbhuta Ramayana, and Ananda Ramayana. In Adbhuta Ramayana, the elder, more powerful Ravana was killed by Sita. She was a warrior in that version. It's not a new version.
+
+It's an ancient version credited to Valmiki." Tripathi claimed that while there's enough evidence out there to suggest the core events of the Ramayana and the Mahabharata actually took place, some elements have been added over the years, as it happens with any ancient text. "There was a time when it was believed Homer's Odyssey was a pure fantasy.
+
+This was a time when the church in Europe was clamping down on any such stories. But then in 19th-century Europe, Troy was discovered. Yes, the core elements of the Trojan War did happen, although there may have been some magic realism added to it," points out the author. He reasons that the lines between history and mythology tend to blur when the former is taught in school through a colonised lens.
+
+"Even Herodotus, who's considered the 'Father of Western History', wrote elephants in India flew with their ears as wings. I'm sure you don't believe that, right?" said Tripathi, adding that in the absence of decolonised history, people resort to fantasies. "There's no historical evidence that flying machines were invented in Asian India which even traveled outside Earth.
+
+But there's more than enough historical evidence that ancient Indians conducted surgery and were great ship builders. Some fantasies emerge in an atmosphere of ignorance. So, the sunlight of knowledge must come in to dispel ignorance," said Tripathi. He argued that the perception that India was the wealthiest nation of ancient times also holds true.
+
+"We were wealthy because of trading, because of hard work, and not because we discovered oil. Emperor Vespasian tried to ban trade with India because Rome was going bankrupt importing important things from India. And India didn't want anything from Rome. We just wanted their gold and silver," said the author, attributing the ignorance to colonisation of history books.
+
+"Much of our history books still privilege the Western lens on our history rather than our own understanding of it. Our history books tell us that Vasco da Gama discovered the sea route to India, which isn't true. We're not taught that Indians were the best seafarers and businessmen of the ancient era.
+
+They don't tell us the knowledge and achievements of our ancestors, or even the mistakes, from a decolonised point of view," said Tripathi, who believes the lack of decolonisation has led to the modern Indian liberal turning to Western ideas of progressive thought. "Unfortunately, our modern Indian liberals don't realise that our ancient culture is actually their biggest ally because they've read more Western stuff than our own.
+
+You don't have to invent a modern, more progressive version. Our ancient versions are themselves very liberal. They're not Western liberalism. Western feminism has translated into man-hating, and Western transgenderism has translated into woman-hating. Our ancestors didn't hate anybody to be more sure of their identity.
+
+Men and women being equal isn't a Western idea. It's actually being true Indian." Amish Tripathi on how to make history great again Amish Tripathi pointed out that colonisation is only one of the issues with Indian history books today. "Our history books have too much focus on Delhi.
+
+Delhi is an important city; don't get me wrong. But it's not the only important city in India. If you see our history books, particularly the history of the last 1500 years, the empires coming from any area east of Agra and south of Jaipur is largely ignored. They'll be just there in a few lines," said Tripathi.
+
+Dismissing the perception that it's a "Hindu-Muslim" thing, Tripathi believes the focus of history must be decentralised from Delhi to give a fair airtime to other key areas of India. "The Bijapur sultans were in fact much wealthier than the Delhi sultans. Post the destruction of Vijayanagar, Bijapur was actually the biggest Indian city and the second largest on Earth.
+
+If you'd have read our history books, you'd have said it was Delhi or Agra," he argued. Also Read - ‘Sai Pallavi miscast as Sita, Ranbir Kapoor is outstanding’: Tanishaa Mukerji on Ramayana Tripathi also laments the fact that history books are too boring to be relished. Which is why he came up with his first children's history book - Dhruv and Tara: The Great Indian History Quiz, When Rivals Become Teammates!
+
+earlier this year, which has now been adapted into an audiobook on Audible. "I'm more of a storyteller than an author, which means I'm media-agnostic. Stories can be communicated through both the written and the spoken world," said Tripathi, adding, "Adapting has to be not only with the medium, but also with the structure.
+
+The chapters have to be much shorter and quicker. The language has to be different. One can't set up a gyan session because kids don't enjoy that. So, I tell a history lesson in the garb of a fun adventure. That's what made the book succeed, and I'm sure it will also make the audiobook succeed."
+
+---
+
+**Original Source:** [The Indian Express](https://indianexpress.com/article/entertainment/bollywood/amish-tripathi-says-sita-was-always-a-warrior-ramayana-part-1-10978072/)`,
+    title_en: `‘Sita killed Ravana in Adhbhuta Ramayana’: Amish Tripathi says Sita was a warrior - The Indian Express`,
+    summary_en: `Ever since Nitesh Tiwari's film adaptation of the Indian epic, Ramayana, has released, there have been certain sections of society, including actor Mukesh Khanna, who flagged the alleged false portrayal of Sita. They claimed that the wife o`,
+    content_en: `Ever since Nitesh Tiwari's film adaptation of the Indian epic, Ramayana, has released, there have been certain sections of society, including actor Mukesh Khanna, who flagged the alleged false portrayal of Sita. They claimed that the wife of Rama was never a warrior, but is shown wielding a sword and fighting asuras on the big screen.
+
+Amish Tripathi, who famously presented Sita as a warrior princess in his 2017 bestselling book Sita - Warrior of Mithila, cleared the air on such claims in an exclusive interview with SCREEN. Debunking misconceptions around Ramayana, Amish Tripathi said, "Because we're not taught the Ramayana and the Mahabharata through our education system, we're not aware of all the versions.
+
+There's a version called the Adbhuta Ramayana, credited to Valmiki. He wrote three versions - Valmiki Ramayana, Adbhuta Ramayana, and Ananda Ramayana. In Adbhuta Ramayana, the elder, more powerful Ravana was killed by Sita. She was a warrior in that version. It's not a new version.
+
+It's an ancient version credited to Valmiki." Tripathi claimed that while there's enough evidence out there to suggest the core events of the Ramayana and the Mahabharata actually took place, some elements have been added over the years, as it happens with any ancient text. "There was a time when it was believed Homer's Odyssey was a pure fantasy.
+
+This was a time when the church in Europe was clamping down on any such stories. But then in 19th-century Europe, Troy was discovered. Yes, the core elements of the Trojan War did happen, although there may have been some magic realism added to it," points out the author. He reasons that the lines between history and mythology tend to blur when the former is taught in school through a colonised lens.
+
+"Even Herodotus, who's considered the 'Father of Western History', wrote elephants in India flew with their ears as wings. I'm sure you don't believe that, right?" said Tripathi, adding that in the absence of decolonised history, people resort to fantasies. "There's no historical evidence that flying machines were invented in Asian India which even traveled outside Earth.
+
+But there's more than enough historical evidence that ancient Indians conducted surgery and were great ship builders. Some fantasies emerge in an atmosphere of ignorance. So, the sunlight of knowledge must come in to dispel ignorance," said Tripathi. He argued that the perception that India was the wealthiest nation of ancient times also holds true.
+
+"We were wealthy because of trading, because of hard work, and not because we discovered oil. Emperor Vespasian tried to ban trade with India because Rome was going bankrupt importing important things from India. And India didn't want anything from Rome. We just wanted their gold and silver," said the author, attributing the ignorance to colonisation of history books.
+
+"Much of our history books still privilege the Western lens on our history rather than our own understanding of it. Our history books tell us that Vasco da Gama discovered the sea route to India, which isn't true. We're not taught that Indians were the best seafarers and businessmen of the ancient era.
+
+They don't tell us the knowledge and achievements of our ancestors, or even the mistakes, from a decolonised point of view," said Tripathi, who believes the lack of decolonisation has led to the modern Indian liberal turning to Western ideas of progressive thought. "Unfortunately, our modern Indian liberals don't realise that our ancient culture is actually their biggest ally because they've read more Western stuff than our own.
+
+You don't have to invent a modern, more progressive version. Our ancient versions are themselves very liberal. They're not Western liberalism. Western feminism has translated into man-hating, and Western transgenderism has translated into woman-hating. Our ancestors didn't hate anybody to be more sure of their identity.
+
+Men and women being equal isn't a Western idea. It's actually being true Indian." Amish Tripathi on how to make history great again Amish Tripathi pointed out that colonisation is only one of the issues with Indian history books today. "Our history books have too much focus on Delhi.
+
+Delhi is an important city; don't get me wrong. But it's not the only important city in India. If you see our history books, particularly the history of the last 1500 years, the empires coming from any area east of Agra and south of Jaipur is largely ignored. They'll be just there in a few lines," said Tripathi.
+
+Dismissing the perception that it's a "Hindu-Muslim" thing, Tripathi believes the focus of history must be decentralised from Delhi to give a fair airtime to other key areas of India. "The Bijapur sultans were in fact much wealthier than the Delhi sultans. Post the destruction of Vijayanagar, Bijapur was actually the biggest Indian city and the second largest on Earth.
+
+If you'd have read our history books, you'd have said it was Delhi or Agra," he argued. Also Read - ‘Sai Pallavi miscast as Sita, Ranbir Kapoor is outstanding’: Tanishaa Mukerji on Ramayana Tripathi also laments the fact that history books are too boring to be relished. Which is why he came up with his first children's history book - Dhruv and Tara: The Great Indian History Quiz, When Rivals Become Teammates!
+
+earlier this year, which has now been adapted into an audiobook on Audible. "I'm more of a storyteller than an author, which means I'm media-agnostic. Stories can be communicated through both the written and the spoken world," said Tripathi, adding, "Adapting has to be not only with the medium, but also with the structure.
+
+The chapters have to be much shorter and quicker. The language has to be different. One can't set up a gyan session because kids don't enjoy that. So, I tell a history lesson in the garb of a fun adventure. That's what made the book succeed, and I'm sure it will also make the audiobook succeed."
+
+---
+
+**Original Source:** [The Indian Express](https://indianexpress.com/article/entertainment/bollywood/amish-tripathi-says-sita-was-always-a-warrior-ramayana-part-1-10978072/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Indian Express.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for ‘Sita killed Ravana in Adhbhuta Ramayana’: Amish Tripathi says Sita was a warrior - The Indian Express.`,
+    primary_source: `The Indian Express`,
+  },
+  {
+    id: 98054,
+    title: `Avengers: Doomsday' Eyes $270M+ Opening, 'Dune 3' $75M+: Box Office Forecast - Deadline`,
+    slug: `avengers-doomsday-eyes-270m-opening-dune-3-75m-box-office-forecast-dea-2026`,
+    original_title: `Avengers: Doomsday' Eyes $270M+ Opening, 'Dune 3' $75M+: Box Office Forecast - Deadline`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:50Z`,
+    updated_at: `2026-11-27T05:14:50Z`,
+    source_name: `Deadline`,
+    source_url: `https://deadline.com/2026/11/avengers-doomsday-dune-3-box-office-opening-projection-1237233326/`,
+    source_courtesy: `Source: Deadline`,
+    image_url: `/images/articles/avengers-doomsday-eyes-270m-opening-dune-3-75m-box-office-forecast-dea-2026.webp`,
+    image_alt: `Avengers: Doomsday' Eyes $270M+ Opening, 'Dune 3' $75M+: Box Office Forecast - Deadline`,
+    image_courtesy: `Image: Deadline (External Source Attribution)`,
+    image_photographer: `Deadline`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `EXCLUSIVE: It’s happening. Yes, finally, Disney/Marvel Studio’s Russo Brothers’ Avengers:Doomsday arrived on NRG’s 3 week-in-advance tracking with a projection of $270M+ . Yes, calm down, fanboys, we know, it has a shot at $300M+ , but you `,
+    content: `EXCLUSIVE: It’s happening. Yes, finally, Disney/Marvel Studio’s Russo Brothers’ Avengers:Doomsday arrived on NRG’s 3 week-in-advance tracking with a projection of $270M+ . Yes, calm down, fanboys, we know, it has a shot at $300M+ , but you can’t call it until it’s there.
+
+The tracking for Legendary/ Warner Bros ‘ Dune Part 3 via Skydance shows a $75M start , and wouldn’t be shocking if it went over $80M , duh.
+
+In regards to Doomsday ‘s figures, that’s the highest projection NRG has ever recorded, higher than Sony’s Spider-Man: Brand New Day which came on at $180M, and yes, wound up at an all-time domestic opening record start of $360M. Related Stories News 'Avengers: Doomsday' U.S. Presales Now At $100M+ As Pic Heads For $270M+ Opening - Box Office News Chris Evans On Secret Meetings About 'Avengers' Return Despite Saying He Was "Happily Retired" From MCU
+
+### 'Avengers: Doomsday' U.S. Presales Now At $100M+ As Pic Heads For $270M+ Opening - Box Office
+
+### Chris Evans On Secret Meetings About 'Avengers' Return Despite Saying He Was "Happily Retired" From MCU
+
+Why isn’t Doomsday being called at $300M+ yet? For the usual footnote forecast reasons: it’s the weekend before Christmas, there could be a winter storm, not to mention audiences plan their holiday moviegoing (those same reasons stand for Dune 3 sticking to its forecast). True, none of those have ever fully gotten in the way of a record opening weekend. At the very least, Doomsday is headed to a record December opening ahead of Sony’s 2021 Spider-Man: No Way Home ($260M) and also Disney’s best ever for December, beating Star Wars: Force Awakens $247.9M debut 11 years ago. Watch on Deadline
+
+Still, many are projecting this fanboy charged pre-Christmas weekend as the biggest ever, poised to outstrip the last weekend of July when Spider-Man: Brand New Day drove all titles to $437.1M.
+
+Marvel Studios is the major winner here being the co-producer of Sony’s Spider-Man: Brand New Day and also owning the second highest opening ever at the domestic box office, Avengers : Endgame at $357.1M.
+
+First Choice, an excellent indicator of who will actually show up, is enormous with guys under 25 followed immediately after by guys over 25. Guys under 25 in first choice has the same near 50% as Spider-Man: Brand New Day . Guys over 25 are two points behind guys under 25 in first choice; that figure 35% ahead of where Brand New Day was when it arrived on tracking.
+
+Dune 3 is also big with guys overall in first choice with men under 25 leading, followed by men over 25. But because Avengers: Doomsday is sitting on tracking in addition to Hunger Games: Sunrise on the Reaping, first choice numbers are smaller than Doomsday for Dune 3. So we then look at unaided awareness (that stat where those polled cite a pic they’re interested in seeing without being prompting by pollsters) which shows Dune 3 at a level of men over 25 leading, ahead of Dune Part 2 and Jurassic World Rebirth ($92M opening) and The Odyssey ($123.5M) followed promptly after by men under 25 which is ahead of Dune 2 and way ahead of Odyssey. In fact in all unaided awareness demos, Dune 3 is pretty even, especially with women. The overall unaided awareness score which is just under 25% is 53% ahead of The Odyssey at the same point in time.
+
+Working in both pics’ favors are their massive star ensembles, Doomsday with the OG gang of Robert Downey Jr, Chris Evan, Chris Hemsworth, James Marsden and new faces like Pedro Pascal, Vanessa Kirby and more, while Dune 3 has Zendaya, Timothee Chalamet, Anya Taylor Joy, and let’s not forget Robert Pattinson. The latter Twilight star is having a banner year having notched the role of James Bond, in addition to his critically acclaimed turns in The Odyssey, The Drama and Primetime.
+
+Tickets went on sale for Avengers: Doomsday on July 20 for Disney PLF certified Infinity Vision. Dune 3 will have all the Imax. On August 14, Doomsday tickets went on sale for general 2D and 3D showtimes.
+
+Dune 3 advance tickets have been dripped out, starting with sellouts in April for Imax 70MM, followed by general tickets in mid August. We’re told that presales are the best ever for Warner Bros higher than of their movies, i.e. Barbie, Harry Potter or Dark Knight franchise, and they’re also at the pace and level of Universal’s Christopher Nolan The Odyssey .
+
+### ‘Sunrise On The Reaping’ Firing Up Thanksgiving With $85M+ Five-Day Haul
+
+### Judge Sides With ABC In First Amendment Lawsuit Against FCC
+
+### Broadway Will Perform Saturday In Macy’s Thanksgiving Parade
+
+### U2 Delivers Halftime Goods During NFL’s First Thanksgiving Eve Game
+
+Get our Breaking News Alerts and Keep your inbox happy.
+
+Comments On Deadline Hollywood are monitored. So don't go off topic, don't impersonate anyone, and don't get your facts wrong.
+
+People are underestimating Doomsday. It’s going to beat the OW record domestically and worldwide. It will then take both all-time records. It will top both of them quite easily. 1.1b+ and 3.3b+.
+
+If people are like myself, there’s going to be MULTIPLE viewings of Doomsday in the opening weekend.  First showing is with friends on opening night at 2AM (just like we did with Endgame), and seeing it again on Saturday with my kids.  I’m sure I’ll see Dune, but not that opening weekend.
+
+Nah, Dune 3 is going to need help trying to catch up with the 2nd movie’s BO.
+
+It was a mistake to let those two huge movies open together, now we’ll never know how far Doomsday could have gone with it’s domestic opening if there was no competition that weekend. Close to $400m? We can only speculate.
+
+Disney could have moved! They chose December 18 after Dune: Part Three had already announced that date a month before. Remember Disney muscled in on that date because they had to delay the film after recasting and rewriting because of the Kang/Majors debacle.
+
+Fairly normal for a big movie to open with another big movie around the holidays, isn’t it?
+
+If Spiderman can open to $360 mill with a decent amount of competition, then Avengers will open to whatever full potential it has
+
+i think we all know and expect that this is going to break BND first weekend. The only question is how high can it go. if there is demand, big theater chains can possibly open  24 hours to accommodate more screenings just like what they did during Endgame. Irregardless, its a good time to be a cinema lover.
+
+since i live outside the US, i already filed my work leave for 16th and 17th, and i am planning to see Doomsday twice on the 16th, then Dune 3 and a possble 3rd viewing of Doomsday on the 17th.
+
+Studios call it “easy money” and this guys says “I’m doing my part!”
+
+No we don’t all know that. It’s possible Doomsday can break the opening weekend record, but it’s no slam dunk guarantee. If Dune 3 opens to $100M or close to it I don’t see Doomsday breaking the opening weekend record, but I can see it happening if Dune 3 opens to $60M-$70M.
+
+---
+
+**Original Source:** [Deadline](https://deadline.com/2026/11/avengers-doomsday-dune-3-box-office-opening-projection-1237233326/)`,
+    title_en: `Avengers: Doomsday' Eyes $270M+ Opening, 'Dune 3' $75M+: Box Office Forecast - Deadline`,
+    summary_en: `EXCLUSIVE: It’s happening. Yes, finally, Disney/Marvel Studio’s Russo Brothers’ Avengers:Doomsday arrived on NRG’s 3 week-in-advance tracking with a projection of $270M+ . Yes, calm down, fanboys, we know, it has a shot at $300M+ , but you `,
+    content_en: `EXCLUSIVE: It’s happening. Yes, finally, Disney/Marvel Studio’s Russo Brothers’ Avengers:Doomsday arrived on NRG’s 3 week-in-advance tracking with a projection of $270M+ . Yes, calm down, fanboys, we know, it has a shot at $300M+ , but you can’t call it until it’s there.
+
+The tracking for Legendary/ Warner Bros ‘ Dune Part 3 via Skydance shows a $75M start , and wouldn’t be shocking if it went over $80M , duh.
+
+In regards to Doomsday ‘s figures, that’s the highest projection NRG has ever recorded, higher than Sony’s Spider-Man: Brand New Day which came on at $180M, and yes, wound up at an all-time domestic opening record start of $360M. Related Stories News 'Avengers: Doomsday' U.S. Presales Now At $100M+ As Pic Heads For $270M+ Opening - Box Office News Chris Evans On Secret Meetings About 'Avengers' Return Despite Saying He Was "Happily Retired" From MCU
+
+### 'Avengers: Doomsday' U.S. Presales Now At $100M+ As Pic Heads For $270M+ Opening - Box Office
+
+### Chris Evans On Secret Meetings About 'Avengers' Return Despite Saying He Was "Happily Retired" From MCU
+
+Why isn’t Doomsday being called at $300M+ yet? For the usual footnote forecast reasons: it’s the weekend before Christmas, there could be a winter storm, not to mention audiences plan their holiday moviegoing (those same reasons stand for Dune 3 sticking to its forecast). True, none of those have ever fully gotten in the way of a record opening weekend. At the very least, Doomsday is headed to a record December opening ahead of Sony’s 2021 Spider-Man: No Way Home ($260M) and also Disney’s best ever for December, beating Star Wars: Force Awakens $247.9M debut 11 years ago. Watch on Deadline
+
+Still, many are projecting this fanboy charged pre-Christmas weekend as the biggest ever, poised to outstrip the last weekend of July when Spider-Man: Brand New Day drove all titles to $437.1M.
+
+Marvel Studios is the major winner here being the co-producer of Sony’s Spider-Man: Brand New Day and also owning the second highest opening ever at the domestic box office, Avengers : Endgame at $357.1M.
+
+First Choice, an excellent indicator of who will actually show up, is enormous with guys under 25 followed immediately after by guys over 25. Guys under 25 in first choice has the same near 50% as Spider-Man: Brand New Day . Guys over 25 are two points behind guys under 25 in first choice; that figure 35% ahead of where Brand New Day was when it arrived on tracking.
+
+Dune 3 is also big with guys overall in first choice with men under 25 leading, followed by men over 25. But because Avengers: Doomsday is sitting on tracking in addition to Hunger Games: Sunrise on the Reaping, first choice numbers are smaller than Doomsday for Dune 3. So we then look at unaided awareness (that stat where those polled cite a pic they’re interested in seeing without being prompting by pollsters) which shows Dune 3 at a level of men over 25 leading, ahead of Dune Part 2 and Jurassic World Rebirth ($92M opening) and The Odyssey ($123.5M) followed promptly after by men under 25 which is ahead of Dune 2 and way ahead of Odyssey. In fact in all unaided awareness demos, Dune 3 is pretty even, especially with women. The overall unaided awareness score which is just under 25% is 53% ahead of The Odyssey at the same point in time.
+
+Working in both pics’ favors are their massive star ensembles, Doomsday with the OG gang of Robert Downey Jr, Chris Evan, Chris Hemsworth, James Marsden and new faces like Pedro Pascal, Vanessa Kirby and more, while Dune 3 has Zendaya, Timothee Chalamet, Anya Taylor Joy, and let’s not forget Robert Pattinson. The latter Twilight star is having a banner year having notched the role of James Bond, in addition to his critically acclaimed turns in The Odyssey, The Drama and Primetime.
+
+Tickets went on sale for Avengers: Doomsday on July 20 for Disney PLF certified Infinity Vision. Dune 3 will have all the Imax. On August 14, Doomsday tickets went on sale for general 2D and 3D showtimes.
+
+Dune 3 advance tickets have been dripped out, starting with sellouts in April for Imax 70MM, followed by general tickets in mid August. We’re told that presales are the best ever for Warner Bros higher than of their movies, i.e. Barbie, Harry Potter or Dark Knight franchise, and they’re also at the pace and level of Universal’s Christopher Nolan The Odyssey .
+
+### ‘Sunrise On The Reaping’ Firing Up Thanksgiving With $85M+ Five-Day Haul
+
+### Judge Sides With ABC In First Amendment Lawsuit Against FCC
+
+### Broadway Will Perform Saturday In Macy’s Thanksgiving Parade
+
+### U2 Delivers Halftime Goods During NFL’s First Thanksgiving Eve Game
+
+Get our Breaking News Alerts and Keep your inbox happy.
+
+Comments On Deadline Hollywood are monitored. So don't go off topic, don't impersonate anyone, and don't get your facts wrong.
+
+People are underestimating Doomsday. It’s going to beat the OW record domestically and worldwide. It will then take both all-time records. It will top both of them quite easily. 1.1b+ and 3.3b+.
+
+If people are like myself, there’s going to be MULTIPLE viewings of Doomsday in the opening weekend.  First showing is with friends on opening night at 2AM (just like we did with Endgame), and seeing it again on Saturday with my kids.  I’m sure I’ll see Dune, but not that opening weekend.
+
+Nah, Dune 3 is going to need help trying to catch up with the 2nd movie’s BO.
+
+It was a mistake to let those two huge movies open together, now we’ll never know how far Doomsday could have gone with it’s domestic opening if there was no competition that weekend. Close to $400m? We can only speculate.
+
+Disney could have moved! They chose December 18 after Dune: Part Three had already announced that date a month before. Remember Disney muscled in on that date because they had to delay the film after recasting and rewriting because of the Kang/Majors debacle.
+
+Fairly normal for a big movie to open with another big movie around the holidays, isn’t it?
+
+If Spiderman can open to $360 mill with a decent amount of competition, then Avengers will open to whatever full potential it has
+
+i think we all know and expect that this is going to break BND first weekend. The only question is how high can it go. if there is demand, big theater chains can possibly open  24 hours to accommodate more screenings just like what they did during Endgame. Irregardless, its a good time to be a cinema lover.
+
+since i live outside the US, i already filed my work leave for 16th and 17th, and i am planning to see Doomsday twice on the 16th, then Dune 3 and a possble 3rd viewing of Doomsday on the 17th.
+
+Studios call it “easy money” and this guys says “I’m doing my part!”
+
+No we don’t all know that. It’s possible Doomsday can break the opening weekend record, but it’s no slam dunk guarantee. If Dune 3 opens to $100M or close to it I don’t see Doomsday breaking the opening weekend record, but I can see it happening if Dune 3 opens to $60M-$70M.
+
+---
+
+**Original Source:** [Deadline](https://deadline.com/2026/11/avengers-doomsday-dune-3-box-office-opening-projection-1237233326/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Deadline.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Avengers: Doomsday' Eyes $270M+ Opening, 'Dune 3' $75M+: Box Office Forecast - Deadline.`,
+    primary_source: `Deadline`,
+  },
+  {
+    id: 98055,
+    title: `Ramayana Box Office Day 22 collection: 'पुष्पा 2' का टूटा रिकॉर्ड, अब 'बाहुबली 2' की बारी! भारत में 1000 करोड़ के करीब रामायण - AajTak`,
+    slug: `ramayana-box-office-day-22-collection-2-2-1000-aajtak-2026`,
+    original_title: `Ramayana Box Office Day 22 collection: 'पुष्पा 2' का टूटा रिकॉर्ड, अब 'बाहुबली 2' की बारी! भारत में 1000 करोड़ के करीब रामायण - AajTak`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:53Z`,
+    updated_at: `2026-11-27T05:14:53Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/entertainment/bollywood-news/story/ramayana-box-office-day-22-india-992-crore-collection-all-eyes-on-baahubali-2-worldwide-record-tmovg-dskc-2707183-2026-11-27`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b08acb5b539b-ramayana-22-day-collection-260332487.jpg`,
+    image_alt: `Ramayana Box Office Day 22 collection: 'पुष्पा 2' का टूटा रिकॉर्ड, अब 'बाहुबली 2' की बारी! भारत में 1000 करोड़ के करीब रामायण - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `वर्ल्डवाइड बॉक्स ऑफिस पर अल्लू अर्जुन की &#039;पुष्पा 2: द रूल&#039; को पीछे छोड़ने के बाद, &#039;रामायण&#039; का अब एक और बड़ा टारगेट है. रणबीर कपूर और यश स्टारर यह फिल्म अब एसएस राजामौली की &#039;बाहुबली 2: द कंक्लूजन&#039; को टक्कर दे रह`,
+    content: `वर्ल्डवाइड बॉक्स ऑफिस पर अल्लू अर्जुन की &#039;पुष्पा 2: द रूल&#039; को पीछे छोड़ने के बाद, &#039;रामायण&#039; का अब एक और बड़ा टारगेट है. रणबीर कपूर और यश स्टारर यह फिल्म अब एसएस राजामौली की &#039;बाहुबली 2: द कंक्लूजन&#039; को टक्कर दे रही है, जो दुनिया भर में सबसे ज्यादा कमाई करने वाली भारतीय फिल्मों की लिस्ट में अभी भी इससे आगे है.
+
+इसके साथ ही, यह फिल्म भारत में 1,000 करोड़ रुपये की नेट कमाई के आंकड़े के भी करीब पहुंच रही है. और पढ़ेंरामायण का वर्ल्डवाइड कलेक्शनअपनी रिलीज के 22वें दिन, &#039;रामायण&#039; ने 15,418 शोज के जरिए ₹9.65 करोड़ की नेट कमाई की. हिंदी (22वां दिन) में  ₹6.75 करोड़, मलयालम में ₹1.00 करोड़, कन्नड़ में ₹85 लाख, तमिल में ₹75 लाख और तेलुगु में ₹30 लाख की कमाई हुई.
+
+इसके साथ ही, भारत में अब तक का कुल ग्रॉस कलेक्शन ₹1,185.00 करोड़ और कुल नेट कलेक्शन ₹992.10 करोड़ हो गया है.विदेशों में, फिल्म ने 22वें दिन ₹10.00 करोड़ की कमाई की, जिससे वहां का कुल ग्रॉस कलेक्शन ₹592.00 करोड़ तक पहुंच गया है. इस तरह, फिल्म का दुनिया भर में कुल ग्रॉस कलेक्शन ₹1,777.00 करोड़ हो गया है.यह फिल्म अब 1000 करोड़ रुपये के आंकड़े के बहुत करीब पहुंच गई है और उम्मीद है कि कल तक यह इस आंकड़े को पार कर लेगी.
+
+थोड़ी गिरावट के बावजूद, फिल्म ने दुनिया भर में ₹1700 करोड़ से ज्यादा की ग्रॉस कमाई कर ली है. Advertisement        &#039;रामायण&#039; की नजर &#039;बाहुबली 2&#039; पर21वें दिन &#039;पुष्पा 2&#039; के 1,742.10 करोड़ रुपये के लाइफटाइम वर्ल्डवाइड कलेक्शन को पीछे छोड़ने के बाद, &#039;रामायण&#039; अब एक और बड़े लक्ष्य की ओर बढ़ गई है.
+
+फिल्म ने वर्ल्डवाइड 1,761 करोड़ रुपये का आंकड़ा पार कर लिया है और अब यह &#039;बाहुबली 2: द कन्क्लूजन&#039; को टक्कर दे रही है.सैकनिल्क (Sacnilk) के अनुसार, एसएस. राजामौली के निर्देशन में बनी इस फिल्म ने अपनी थिएट्रिकल रन के दौरान वर्ल्डवाइड 1,788.06 करोड़ रुपये की कमाई की थी. इसका मतलब है कि &#039;बाहुबली 2&#039; के लाइफटाइम कलेक्शन की बराबरी करने के लिए, &#039;रामायण&#039; को अपने मौजूदा वर्ल्डवाइड टोटल में लगभग 11 करोड़ रुपये और जोड़ने होंगे.
+
+रामायण चौथे नंबर पर पहुंचीदुनिया भर में 1,777 करोड़ रुपये से ज्यादा की कमाई के साथ, &#039;रामायण&#039; भारतीय बॉक्स ऑफिस की सबसे बड़ी सफल फिल्मों में एक अहम मुकाम पर पहुंच गई है. ये कमाई के मामले में चौथी सबसे ज्यादा कमाऊ फिल्म बन गई.दंगल - 2,070.30 करोड़ रुपयेधुरंधर: द रिवेंज - 1,850.88 करोड़ रुपयेबाहुबली 2: द कन्क्लूज़न - 1,788.06 करोड़ रुपये&#039;रामायण&#039; के लिए फिलहाल &#039;बाहुबली 2&#039; सबसे नजदीकी लक्ष्य है.
+
+हालांकि, इस सूची में और ऊपर पहुंचने के लिए फिल्म को सिनेमाघरों में अपनी पकड़ बनाए रखनी होगी.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/ramayana-box-office-day-22-india-992-crore-collection-all-eyes-on-baahubali-2-worldwide-record-tmovg-dskc-2707183-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Ramayana Box Office Day 22 collection: 'पुष्पा 2' का टूटा रिकॉर्ड, अब 'बाहुबली 2' की बारी! भारत में 1000 करोड़ के करीब रामायण - AajTak`,
+    summary_hi: `वर्ल्डवाइड बॉक्स ऑफिस पर अल्लू अर्जुन की &#039;पुष्पा 2: द रूल&#039; को पीछे छोड़ने के बाद, &#039;रामायण&#039; का अब एक और बड़ा टारगेट है. रणबीर कपूर और यश स्टारर यह फिल्म अब एसएस राजामौली की &#039;बाहुबली 2: द कंक्लूजन&#039; को टक्कर दे रह`,
+    content_hi: `वर्ल्डवाइड बॉक्स ऑफिस पर अल्लू अर्जुन की &#039;पुष्पा 2: द रूल&#039; को पीछे छोड़ने के बाद, &#039;रामायण&#039; का अब एक और बड़ा टारगेट है. रणबीर कपूर और यश स्टारर यह फिल्म अब एसएस राजामौली की &#039;बाहुबली 2: द कंक्लूजन&#039; को टक्कर दे रही है, जो दुनिया भर में सबसे ज्यादा कमाई करने वाली भारतीय फिल्मों की लिस्ट में अभी भी इससे आगे है.
+
+इसके साथ ही, यह फिल्म भारत में 1,000 करोड़ रुपये की नेट कमाई के आंकड़े के भी करीब पहुंच रही है. और पढ़ेंरामायण का वर्ल्डवाइड कलेक्शनअपनी रिलीज के 22वें दिन, &#039;रामायण&#039; ने 15,418 शोज के जरिए ₹9.65 करोड़ की नेट कमाई की. हिंदी (22वां दिन) में  ₹6.75 करोड़, मलयालम में ₹1.00 करोड़, कन्नड़ में ₹85 लाख, तमिल में ₹75 लाख और तेलुगु में ₹30 लाख की कमाई हुई.
+
+इसके साथ ही, भारत में अब तक का कुल ग्रॉस कलेक्शन ₹1,185.00 करोड़ और कुल नेट कलेक्शन ₹992.10 करोड़ हो गया है.विदेशों में, फिल्म ने 22वें दिन ₹10.00 करोड़ की कमाई की, जिससे वहां का कुल ग्रॉस कलेक्शन ₹592.00 करोड़ तक पहुंच गया है. इस तरह, फिल्म का दुनिया भर में कुल ग्रॉस कलेक्शन ₹1,777.00 करोड़ हो गया है.यह फिल्म अब 1000 करोड़ रुपये के आंकड़े के बहुत करीब पहुंच गई है और उम्मीद है कि कल तक यह इस आंकड़े को पार कर लेगी.
+
+थोड़ी गिरावट के बावजूद, फिल्म ने दुनिया भर में ₹1700 करोड़ से ज्यादा की ग्रॉस कमाई कर ली है. Advertisement        &#039;रामायण&#039; की नजर &#039;बाहुबली 2&#039; पर21वें दिन &#039;पुष्पा 2&#039; के 1,742.10 करोड़ रुपये के लाइफटाइम वर्ल्डवाइड कलेक्शन को पीछे छोड़ने के बाद, &#039;रामायण&#039; अब एक और बड़े लक्ष्य की ओर बढ़ गई है.
+
+फिल्म ने वर्ल्डवाइड 1,761 करोड़ रुपये का आंकड़ा पार कर लिया है और अब यह &#039;बाहुबली 2: द कन्क्लूजन&#039; को टक्कर दे रही है.सैकनिल्क (Sacnilk) के अनुसार, एसएस. राजामौली के निर्देशन में बनी इस फिल्म ने अपनी थिएट्रिकल रन के दौरान वर्ल्डवाइड 1,788.06 करोड़ रुपये की कमाई की थी. इसका मतलब है कि &#039;बाहुबली 2&#039; के लाइफटाइम कलेक्शन की बराबरी करने के लिए, &#039;रामायण&#039; को अपने मौजूदा वर्ल्डवाइड टोटल में लगभग 11 करोड़ रुपये और जोड़ने होंगे.
+
+रामायण चौथे नंबर पर पहुंचीदुनिया भर में 1,777 करोड़ रुपये से ज्यादा की कमाई के साथ, &#039;रामायण&#039; भारतीय बॉक्स ऑफिस की सबसे बड़ी सफल फिल्मों में एक अहम मुकाम पर पहुंच गई है. ये कमाई के मामले में चौथी सबसे ज्यादा कमाऊ फिल्म बन गई.दंगल - 2,070.30 करोड़ रुपयेधुरंधर: द रिवेंज - 1,850.88 करोड़ रुपयेबाहुबली 2: द कन्क्लूज़न - 1,788.06 करोड़ रुपये&#039;रामायण&#039; के लिए फिलहाल &#039;बाहुबली 2&#039; सबसे नजदीकी लक्ष्य है.
+
+हालांकि, इस सूची में और ऊपर पहुंचने के लिए फिल्म को सिनेमाघरों में अपनी पकड़ बनाए रखनी होगी.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/ramayana-box-office-day-22-india-992-crore-collection-all-eyes-on-baahubali-2-worldwide-record-tmovg-dskc-2707183-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Ramayana Box Office Day 22 collection: 'पुष्पा 2' का टूटा रिकॉर्ड, अब 'बाहुबली 2' की बारी! भारत में 1000 करोड़ के करीब रामायण - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98056,
+    title: `पाकिस्तानी ड्रामे दर-ए-निजात को लेकर भारत में विवाद क्यों?`,
+    slug: `entertainment-breaking-report-25953-98056-2026`,
+    original_title: `पाकिस्तानी ड्रामे दर-ए-निजात को लेकर भारत में विवाद क्यों?`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:14:54Z`,
+    updated_at: `2026-11-27T05:14:54Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/c94gnzr75gljo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/entertainment-breaking-report-25953-98056-2026.jpg`,
+    image_alt: `पाकिस्तानी ड्रामे दर-ए-निजात को लेकर भारत में विवाद क्यों?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `बुधवार तक, बेंगलुरु में कुछ टीवी शो के शौक़ीन लोगों के वीकेंड प्लान में ख़ास तैयारी शामिल थी. वे शानदार डिनर के साथ यह जानने के लिए जुटते कि पाकिस्तानी टीवी के एक बेहद लोकप्रिय जोड़े की ज़िंदगी (रील लाइफ़) में आगे क्या होता है.`,
+    content: `बुधवार तक, बेंगलुरु में कुछ टीवी शो के शौक़ीन लोगों के वीकेंड प्लान में ख़ास तैयारी शामिल थी. वे शानदार डिनर के साथ यह जानने के लिए जुटते कि पाकिस्तानी टीवी के एक बेहद लोकप्रिय जोड़े की ज़िंदगी (रील लाइफ़) में आगे क्या होता है.
+
+लेकिन फिर जियो-पॉलिटिक्स बीच में आ गई.
+
+पाकिस्तानी टीवी ड्रामा 'दर-ए-निजात' (मुक्ति का दरवाज़ा) की दो निजी स्क्रीनिंग रद्द कर दी गईं. यह शो भारत में सोशल मीडिया सेंसेशन बन चुका है. ऑनलाइन विरोध और पुलिस की जांच-पड़ताल के बाद ये स्क्रीनिंग रद्द हुईं.
+
+यह सीरियल पाकिस्तान के एआरवाई डिजिटल चैनल पर प्रसारित होता है. भारत के दर्शक इसे कुछ यूट्यूब चैनलों पर देख सकते हैं, हालांकि चैनल का आधिकारिक यूट्यूब चैनल भारत में ब्लॉक है.
+
+यह विवाद ऐसे समय में हुआ है, जब भारत में पाकिस्तानी सीरियल की मांग फिर बढ़ रही है. हालांकि, पिछले साल मई में भारत-पाकिस्तान के बीच तीखी सैन्य भिड़ंत के बाद सांस्कृतिक मेलजोल अब भी संवेदनशील मुद्दा बना हुआ है.
+
+पिछले हफ़्ते दिल्ली में भी ऐसा ही एक आयोजन हुआ था. इसमें शो से जुड़े सवाल-जवाब और यहां तक कि निर्देशक के साथ ऑनलाइन बातचीत भी हुई थी. इस आयोजन को लेकर सोशल मीडिया पर पहले ही बहस हो रही थी.
+
+बेंगलुरु में एक स्क्रीनिंग शनिवार को एक रेस्तरां में होनी थी. इसमें मामूली टिकट शुल्क पर फ़ारसी और अरबी डिनर के साथ सीरियल के दो एपिसोड दिखाए जाने थे.
+
+दूसरी स्क्रीनिंग एक निजी थिएटर में होनी थी. यह सिर्फ़ परिवार के सदस्यों के लिए रखी गई थी. इसमें मेहमानों से अपने "सबसे अच्छे पाकिस्तानी पहनावे" में आने को कहा गया था.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+जैसे ही आयोजन के प्रचार पोस्टर ऑनलाइन फैलने लगे, कई सोशल मीडिया यूज़र्स ने ऐसे आयोजनों पर सवाल उठाए. उन्होंने पुलिस से कार्रवाई करने की मांग भी की. इसके बाद दोनों आयोजन रद्द कर दिए गए.
+
+यह विरोध ऐसे समय में हुआ है, जब भारत में एक और पाकिस्तानी ड्रामा की रिलीज़ रोकने की मांग उठ रही है.
+
+ऑल इंडियन सिने वर्कर्स एसोसिएशन (एआईसीडब्ल्यूए) ने प्रधानमंत्री नरेंद्र मोदी को पत्र लिखकर नेटफ़्लिक्स की आने वाली पाकिस्तानी सीरीज़ 'जो बचे हैं संग समेट लो' को भारत में रिलीज़ न होने देने की मांग की है.
+
+इस सीरीज़ में फ़वाद ख़ान, माहिरा ख़ान, सनम सईद और दूसरे ऐसे कलाकार हैं, जिनके भारत में कई प्रशंसक हैं. यह पाकिस्तान की पहली नेटफ़्लिक्स ओरिजिनल सीरीज़ है. इसका दुनिया भर में प्रीमियर 4 दिसंबर को होना है.
+
+मंगलवार को पीएम मोदी को लिखे पत्र में एआईसीडब्ल्यूए ने कहा कि इस सीरीज़ को भारत में रिलीज़ करना आतंकवाद से प्रभावित परिवारों की भावनाओं की अनदेखी होगी.
+
+भारत लंबे समय से पाकिस्तान पर सीमा पार आतंकवाद का समर्थन करने का आरोप लगाता रहा है. पाकिस्तान इस आरोप से इनकार करता है.
+
+ऑल इंडियन सिने वर्कर्स एसोसिएशन (एआईसीडब्ल्यूए) ने भारत में पाकिस्तानी मनोरंजन से जुड़ी सामग्री पर रोक लगाने के लिए स्थायी क़ानून बनाने की मांग भी की है. नेटफ़्लिक्स ने अब तक यह साफ़ नहीं किया है कि यह सीरीज़ भारत के सब्सक्राइबर्स के लिए उपलब्ध होगी या नहीं.
+
+इन घटनाओं ने भारत में एक पुरानी बहस को फिर से हवा दे दी है. सवाल यह है कि क्या पाकिस्तान के साथ सांस्कृतिक रिश्तों को राजनीतिक मतभेदों से अलग रखा जाना चाहिए.
+
+भारत और पाकिस्तान की साझा सांस्कृतिक विरासत काफ़ी समृद्ध है. लेकिन आज़ादी के बाद से ही दोनों के रिश्तों में अक्सर तनाव रहा है.
+
+और राजनीतिक तनाव का असर सबसे पहले सांस्कृतिक आदान-प्रदान पर ही पड़ा है. कई पाकिस्तानी ग़ज़ल गायकों के भारत में बड़ी संख्या में प्रशंसक रहे हैं लेकिन वो कई बार यहां कार्यक्रम नहीं कर पाए हैं. वहीं पाकिस्तान में बेहद लोकप्रिय भारतीय फ़िल्में वहां के सिनेमाघरों से ग़ायब हो गई हैं. जब दोनों देशों के रिश्तों में कुछ सुधार हुआ, तो कलाकारों ने साथ काम किया. लेकिन तनाव बढ़ते ही ये सहयोग फिर टूट गए.
+
+2010 के शुरुआती साल इस लिहाज़ से काफ़ी अच्छे रहे. पाकिस्तानी गायक आतिफ़ असलम और राहत फ़तेह अली ख़ान हिंदी सिनेमा की सबसे पहचानी जाने वाली आवाज़ों में शामिल थे.
+
+2014 में टीवी चैनल ज़िंदगी शुरू हुआ. इसके ज़रिए पाकिस्तानी सीरियल भारतीय घरों तक पहुंचे. दर्शकों को इन सीरियल की कहानियों की भाषा और भावनात्मक दुनिया अपनी-सी लगी. लेकिन रोज़मर्रा की ज़िंदगी को दिखाने का उनका अंदाज़ काफ़ी अलग और नया था.
+
+2016 तक फ़वाद ख़ान बॉलीवुड की कुछ बड़ी फ़िल्मों में नज़र आने लगे थे. लेकिन उसी साल उरी में भारतीय सुरक्षा बलों पर हुए हमले और 2019 में पुलवामा हमले के बाद सांस्कृतिक सहयोग की गुंजाइश कम हो गई. भारत ने इन दोनों हमलों के लिए पाकिस्तान स्थित चरमपंथी संगठनों को ज़िम्मेदार ठहराया था.
+
+पाकिस्तान लगातार किसी भी तरह की संलिप्तता से इनकार करता रहा है. उसने भी भारतीय मनोरंजन सामग्री पर पाबंदियां लगा दीं.
+
+आधिकारिक सांस्कृतिक आदान-प्रदान कम होने के बावजूद पाकिस्तानी ड्रामा यूट्यूब के ज़रिए भारत में नए दर्शकों तक पहुंचते रहे. वहीं, म्यूज़िक स्ट्रीमिंग प्लेटफ़ॉर्म के ज़रिए दोनों देशों के बीच संगीत का सफ़र जारी रहा.
+
+लेकिन पिछले साल हुई घटनाओं ने इस अनौपचारिक रिश्ते को भी प्रभावित किया.
+
+22 अप्रैल 2025 को कश्मीर के पहलगाम में चरमपंथियों ने 26 लोगों की हत्या कर दी थी. इनमें ज़्यादातर पर्यटक थे. भारत ने इस हमले के लिए पाकिस्तान से जुड़े चरमपंथियों को ज़िम्मेदार ठहराया. पाकिस्तान ने इसमें अपनी भूमिका से इनकार किया.
+
+मई में भारत ने पाकिस्तान और पाकिस्तान प्रशासित कश्मीर में कई ठिकानों पर सैन्य हमले किए. भारत ने दावा किया कि यहां पर आतंकवादी ढांचे थे.
+
+इसके बाद चार दिन तक दोनों देशों के बीच लड़ाई चली. फिर संघर्ष विराम का एलान हुआ.
+
+भारत में इस हमले को लेकर काफ़ी ग़ुस्सा था. इस बीच सरकार ने स्ट्रीमिंग प्लेटफ़ॉर्म से पाकिस्तानी मूल के कंटेंट हटाने को कहा. कई पाकिस्तानी कलाकारों के सोशल मीडिया अकाउंट भी ब्लॉक कर दिए गए.
+
+फ़वाद ख़ान की हिंदी सिनेमा में बहुप्रतीक्षित वापसी की कोशिश भी नाकाम हो गई. उनकी फ़िल्म 'अबीर गुलाल' को भारत में रिलीज़ की अनुमति नहीं मिली. पाकिस्तानी कलाकारों की ओर से भारत की सैन्य कार्रवाई की आलोचना ने भी ग़ुस्से को और बढ़ाया.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c94gnzr75gljo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `पाकिस्तानी ड्रामे दर-ए-निजात को लेकर भारत में विवाद क्यों?`,
+    summary_hi: `बुधवार तक, बेंगलुरु में कुछ टीवी शो के शौक़ीन लोगों के वीकेंड प्लान में ख़ास तैयारी शामिल थी. वे शानदार डिनर के साथ यह जानने के लिए जुटते कि पाकिस्तानी टीवी के एक बेहद लोकप्रिय जोड़े की ज़िंदगी (रील लाइफ़) में आगे क्या होता है.`,
+    content_hi: `बुधवार तक, बेंगलुरु में कुछ टीवी शो के शौक़ीन लोगों के वीकेंड प्लान में ख़ास तैयारी शामिल थी. वे शानदार डिनर के साथ यह जानने के लिए जुटते कि पाकिस्तानी टीवी के एक बेहद लोकप्रिय जोड़े की ज़िंदगी (रील लाइफ़) में आगे क्या होता है.
+
+लेकिन फिर जियो-पॉलिटिक्स बीच में आ गई.
+
+पाकिस्तानी टीवी ड्रामा 'दर-ए-निजात' (मुक्ति का दरवाज़ा) की दो निजी स्क्रीनिंग रद्द कर दी गईं. यह शो भारत में सोशल मीडिया सेंसेशन बन चुका है. ऑनलाइन विरोध और पुलिस की जांच-पड़ताल के बाद ये स्क्रीनिंग रद्द हुईं.
+
+यह सीरियल पाकिस्तान के एआरवाई डिजिटल चैनल पर प्रसारित होता है. भारत के दर्शक इसे कुछ यूट्यूब चैनलों पर देख सकते हैं, हालांकि चैनल का आधिकारिक यूट्यूब चैनल भारत में ब्लॉक है.
+
+यह विवाद ऐसे समय में हुआ है, जब भारत में पाकिस्तानी सीरियल की मांग फिर बढ़ रही है. हालांकि, पिछले साल मई में भारत-पाकिस्तान के बीच तीखी सैन्य भिड़ंत के बाद सांस्कृतिक मेलजोल अब भी संवेदनशील मुद्दा बना हुआ है.
+
+पिछले हफ़्ते दिल्ली में भी ऐसा ही एक आयोजन हुआ था. इसमें शो से जुड़े सवाल-जवाब और यहां तक कि निर्देशक के साथ ऑनलाइन बातचीत भी हुई थी. इस आयोजन को लेकर सोशल मीडिया पर पहले ही बहस हो रही थी.
+
+बेंगलुरु में एक स्क्रीनिंग शनिवार को एक रेस्तरां में होनी थी. इसमें मामूली टिकट शुल्क पर फ़ारसी और अरबी डिनर के साथ सीरियल के दो एपिसोड दिखाए जाने थे.
+
+दूसरी स्क्रीनिंग एक निजी थिएटर में होनी थी. यह सिर्फ़ परिवार के सदस्यों के लिए रखी गई थी. इसमें मेहमानों से अपने "सबसे अच्छे पाकिस्तानी पहनावे" में आने को कहा गया था.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+जैसे ही आयोजन के प्रचार पोस्टर ऑनलाइन फैलने लगे, कई सोशल मीडिया यूज़र्स ने ऐसे आयोजनों पर सवाल उठाए. उन्होंने पुलिस से कार्रवाई करने की मांग भी की. इसके बाद दोनों आयोजन रद्द कर दिए गए.
+
+यह विरोध ऐसे समय में हुआ है, जब भारत में एक और पाकिस्तानी ड्रामा की रिलीज़ रोकने की मांग उठ रही है.
+
+ऑल इंडियन सिने वर्कर्स एसोसिएशन (एआईसीडब्ल्यूए) ने प्रधानमंत्री नरेंद्र मोदी को पत्र लिखकर नेटफ़्लिक्स की आने वाली पाकिस्तानी सीरीज़ 'जो बचे हैं संग समेट लो' को भारत में रिलीज़ न होने देने की मांग की है.
+
+इस सीरीज़ में फ़वाद ख़ान, माहिरा ख़ान, सनम सईद और दूसरे ऐसे कलाकार हैं, जिनके भारत में कई प्रशंसक हैं. यह पाकिस्तान की पहली नेटफ़्लिक्स ओरिजिनल सीरीज़ है. इसका दुनिया भर में प्रीमियर 4 दिसंबर को होना है.
+
+मंगलवार को पीएम मोदी को लिखे पत्र में एआईसीडब्ल्यूए ने कहा कि इस सीरीज़ को भारत में रिलीज़ करना आतंकवाद से प्रभावित परिवारों की भावनाओं की अनदेखी होगी.
+
+भारत लंबे समय से पाकिस्तान पर सीमा पार आतंकवाद का समर्थन करने का आरोप लगाता रहा है. पाकिस्तान इस आरोप से इनकार करता है.
+
+ऑल इंडियन सिने वर्कर्स एसोसिएशन (एआईसीडब्ल्यूए) ने भारत में पाकिस्तानी मनोरंजन से जुड़ी सामग्री पर रोक लगाने के लिए स्थायी क़ानून बनाने की मांग भी की है. नेटफ़्लिक्स ने अब तक यह साफ़ नहीं किया है कि यह सीरीज़ भारत के सब्सक्राइबर्स के लिए उपलब्ध होगी या नहीं.
+
+इन घटनाओं ने भारत में एक पुरानी बहस को फिर से हवा दे दी है. सवाल यह है कि क्या पाकिस्तान के साथ सांस्कृतिक रिश्तों को राजनीतिक मतभेदों से अलग रखा जाना चाहिए.
+
+भारत और पाकिस्तान की साझा सांस्कृतिक विरासत काफ़ी समृद्ध है. लेकिन आज़ादी के बाद से ही दोनों के रिश्तों में अक्सर तनाव रहा है.
+
+और राजनीतिक तनाव का असर सबसे पहले सांस्कृतिक आदान-प्रदान पर ही पड़ा है. कई पाकिस्तानी ग़ज़ल गायकों के भारत में बड़ी संख्या में प्रशंसक रहे हैं लेकिन वो कई बार यहां कार्यक्रम नहीं कर पाए हैं. वहीं पाकिस्तान में बेहद लोकप्रिय भारतीय फ़िल्में वहां के सिनेमाघरों से ग़ायब हो गई हैं. जब दोनों देशों के रिश्तों में कुछ सुधार हुआ, तो कलाकारों ने साथ काम किया. लेकिन तनाव बढ़ते ही ये सहयोग फिर टूट गए.
+
+2010 के शुरुआती साल इस लिहाज़ से काफ़ी अच्छे रहे. पाकिस्तानी गायक आतिफ़ असलम और राहत फ़तेह अली ख़ान हिंदी सिनेमा की सबसे पहचानी जाने वाली आवाज़ों में शामिल थे.
+
+2014 में टीवी चैनल ज़िंदगी शुरू हुआ. इसके ज़रिए पाकिस्तानी सीरियल भारतीय घरों तक पहुंचे. दर्शकों को इन सीरियल की कहानियों की भाषा और भावनात्मक दुनिया अपनी-सी लगी. लेकिन रोज़मर्रा की ज़िंदगी को दिखाने का उनका अंदाज़ काफ़ी अलग और नया था.
+
+2016 तक फ़वाद ख़ान बॉलीवुड की कुछ बड़ी फ़िल्मों में नज़र आने लगे थे. लेकिन उसी साल उरी में भारतीय सुरक्षा बलों पर हुए हमले और 2019 में पुलवामा हमले के बाद सांस्कृतिक सहयोग की गुंजाइश कम हो गई. भारत ने इन दोनों हमलों के लिए पाकिस्तान स्थित चरमपंथी संगठनों को ज़िम्मेदार ठहराया था.
+
+पाकिस्तान लगातार किसी भी तरह की संलिप्तता से इनकार करता रहा है. उसने भी भारतीय मनोरंजन सामग्री पर पाबंदियां लगा दीं.
+
+आधिकारिक सांस्कृतिक आदान-प्रदान कम होने के बावजूद पाकिस्तानी ड्रामा यूट्यूब के ज़रिए भारत में नए दर्शकों तक पहुंचते रहे. वहीं, म्यूज़िक स्ट्रीमिंग प्लेटफ़ॉर्म के ज़रिए दोनों देशों के बीच संगीत का सफ़र जारी रहा.
+
+लेकिन पिछले साल हुई घटनाओं ने इस अनौपचारिक रिश्ते को भी प्रभावित किया.
+
+22 अप्रैल 2025 को कश्मीर के पहलगाम में चरमपंथियों ने 26 लोगों की हत्या कर दी थी. इनमें ज़्यादातर पर्यटक थे. भारत ने इस हमले के लिए पाकिस्तान से जुड़े चरमपंथियों को ज़िम्मेदार ठहराया. पाकिस्तान ने इसमें अपनी भूमिका से इनकार किया.
+
+मई में भारत ने पाकिस्तान और पाकिस्तान प्रशासित कश्मीर में कई ठिकानों पर सैन्य हमले किए. भारत ने दावा किया कि यहां पर आतंकवादी ढांचे थे.
+
+इसके बाद चार दिन तक दोनों देशों के बीच लड़ाई चली. फिर संघर्ष विराम का एलान हुआ.
+
+भारत में इस हमले को लेकर काफ़ी ग़ुस्सा था. इस बीच सरकार ने स्ट्रीमिंग प्लेटफ़ॉर्म से पाकिस्तानी मूल के कंटेंट हटाने को कहा. कई पाकिस्तानी कलाकारों के सोशल मीडिया अकाउंट भी ब्लॉक कर दिए गए.
+
+फ़वाद ख़ान की हिंदी सिनेमा में बहुप्रतीक्षित वापसी की कोशिश भी नाकाम हो गई. उनकी फ़िल्म 'अबीर गुलाल' को भारत में रिलीज़ की अनुमति नहीं मिली. पाकिस्तानी कलाकारों की ओर से भारत की सैन्य कार्रवाई की आलोचना ने भी ग़ुस्से को और बढ़ाया.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c94gnzr75gljo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक पाकिस्तानी ड्रामे दर-ए-निजात को लेकर भारत में विवाद क्यों? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 98057,
+    title: `Ayodhya to Janakpur: Faith, strategy behind India-Nepal’s new rail link - The Indian Express`,
+    slug: `ayodhya-to-janakpur-faith-strategy-behind-india-nepals-new-rail-link-t-2026`,
+    original_title: `Ayodhya to Janakpur: Faith, strategy behind India-Nepal’s new rail link - The Indian Express`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:15:12Z`,
+    updated_at: `2026-11-27T05:15:12Z`,
+    source_name: `The Indian Express`,
+    source_url: `https://indianexpress.com/article/explained/explained-culture/ayodhya-to-janakpur-faith-strategy-india-nepal-rail-link-10975274/`,
+    source_courtesy: `Source: The Indian Express`,
+    image_url: `/images/articles/ayodhya-to-janakpur-faith-strategy-behind-india-nepals-new-rail-link-t-2026.webp`,
+    image_alt: `Ayodhya to Janakpur: Faith, strategy behind India-Nepal’s new rail link - The Indian Express`,
+    image_courtesy: `Image: The Indian Express (External Source Attribution)`,
+    image_photographer: `The Indian Express`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `During his maiden official visit to India, Nepal’s Prime Minister Balendra Shah and PM Narendra Modi flagged off a train service between Ayodhya and Janakpur. The new Ayodhya-Janakpur Saryu Kamala Express is the first direct passenger train`,
+    content: `During his maiden official visit to India, Nepal’s Prime Minister Balendra Shah and PM Narendra Modi flagged off a train service between Ayodhya and Janakpur. The new Ayodhya-Janakpur Saryu Kamala Express is the first direct passenger train service connecting the two cities in India and Nepal.
+
+While Ayodhya is revered as the birthplace of Lord Ram, Janakpur, in Nepal, is widely believed to be the region ruled by Goddess Sita’s father, King Janaka. What is the route of the new train? What is the significance of Janakpur in the Ramayana? What is the strategic dimension to these cultural initiatives?
+
+We explain. What is the route of the Ayodhya-Janakpur Saryu Kamala Express? The weekly train service will cover approximately 604 km between Ayodhya Cantt in Uttar Pradesh and Janakpur Dham in Nepal, passing through several towns in Uttar Pradesh and Bihar. The train's commercial stoppages include Mankapur, Basti and Gorakhpur in Uttar Pradesh; Narkatiaganj, Raxaul, Sitamarhi, Shisho, Madhubani and Jaynagar in Bihar; and Janakpur Dham in Nepal.
+
+The journey takes around 19 hours. The service will operate once a week, with its originating days being Saturday from Janakpur and Monday from Ayodhya. The route is expected to benefit pilgrims travelling between the two religious destinations, as well as passengers travelling for business, education and family-related purposes.
+
+Why is Janakpur significant? Janakpur, located in Nepal's Madhesh province in the Terai plains, is an important pilgrimage centre for Hindus. It is associated with the ancient kingdom of Mithila, whose king, Janaka, was Sita's father. Sita is also known as Janaki, after her father.
+
+The city is home to the Janaki Mandir, a prominent temple dedicated to Sita. Built in 1874 according to the Nepal tourism board, the three-storey structure is known for its blend of Mughal and local architectural styles. It is among Nepal's most important religious landmarks. Janakpur is associated with the wedding of Ram and Sita.
+
+Every year, the occasion is commemorated during Vivah Panchami, a festival that draws pilgrims from India and Nepal. The Vivah Mandap, near the Janaki Mandir, is traditionally identified as the site of their wedding. The city is also known for its many ponds. Nepal has been keen to promote Janakpur as an important part of the Ramayana circuit, a network of religious destinations associated with the life of Ram.
+
+In December 2023, Nepal's then Ambassador to India, Shankar Prasad Sharma, described Janakpur as an indispensable part of the circuit and said the two countries were working towards establishing a sister-city relationship between Janakpur and Ayodhya. Where is Sita’s birthplace? While some believe Sita’s birthplace to be Janakpur, others regard Punaura Dham, near Sitamarhi in Bihar, as the birthplace.
+
+According to the Ramayana tradition, Sita was found by King Janaka while he was ploughing a field. She is believed to have emerged from the earth, which is also why she is referred to as Bhumija (daughter of the earth). The name Sita itself is associated with the furrow made by a plough.
+
+In a 2023 interview with The Indian Express, Acharya Kishore Kunal, former chairman of the Bihar State Board of Religious Trust, cited the Valmiki Ramayana and historical accounts to argue in favour of Punaura Dham. He also noted that the name Janakpuri is a relatively modern one for the ancient Mithilapuri mentioned in the epic.
+
+The region of Mithila was split between India and Nepal after the Anglo-Nepalese war ended with British victory and the treaty of Sugauli in 1816. What does this new train mean for India-Nepal ties? The new train is also part of India's broader effort to strengthen its relationship with Nepal through cultural and religious connections.
+
+India and Nepal share close historical, religious and people-to-people ties. The Ramayana circuit, which includes important pilgrimage destinations in both countries, and the Buddhist circuit are examples of India's efforts to develop cross-border religious tourism. There is also a strategic dimension to these initiatives.
+
+China has expanded its economic and infrastructure engagement with Nepal over the years. Strengthening cultural and religious links with Nepal can help India reinforce its traditional influence and maintain close ties with its neighbour.
+
+---
+
+**Original Source:** [The Indian Express](https://indianexpress.com/article/explained/explained-culture/ayodhya-to-janakpur-faith-strategy-india-nepal-rail-link-10975274/)`,
+    title_en: `Ayodhya to Janakpur: Faith, strategy behind India-Nepal’s new rail link - The Indian Express`,
+    summary_en: `During his maiden official visit to India, Nepal’s Prime Minister Balendra Shah and PM Narendra Modi flagged off a train service between Ayodhya and Janakpur. The new Ayodhya-Janakpur Saryu Kamala Express is the first direct passenger train`,
+    content_en: `During his maiden official visit to India, Nepal’s Prime Minister Balendra Shah and PM Narendra Modi flagged off a train service between Ayodhya and Janakpur. The new Ayodhya-Janakpur Saryu Kamala Express is the first direct passenger train service connecting the two cities in India and Nepal.
+
+While Ayodhya is revered as the birthplace of Lord Ram, Janakpur, in Nepal, is widely believed to be the region ruled by Goddess Sita’s father, King Janaka. What is the route of the new train? What is the significance of Janakpur in the Ramayana? What is the strategic dimension to these cultural initiatives?
+
+We explain. What is the route of the Ayodhya-Janakpur Saryu Kamala Express? The weekly train service will cover approximately 604 km between Ayodhya Cantt in Uttar Pradesh and Janakpur Dham in Nepal, passing through several towns in Uttar Pradesh and Bihar. The train's commercial stoppages include Mankapur, Basti and Gorakhpur in Uttar Pradesh; Narkatiaganj, Raxaul, Sitamarhi, Shisho, Madhubani and Jaynagar in Bihar; and Janakpur Dham in Nepal.
+
+The journey takes around 19 hours. The service will operate once a week, with its originating days being Saturday from Janakpur and Monday from Ayodhya. The route is expected to benefit pilgrims travelling between the two religious destinations, as well as passengers travelling for business, education and family-related purposes.
+
+Why is Janakpur significant? Janakpur, located in Nepal's Madhesh province in the Terai plains, is an important pilgrimage centre for Hindus. It is associated with the ancient kingdom of Mithila, whose king, Janaka, was Sita's father. Sita is also known as Janaki, after her father.
+
+The city is home to the Janaki Mandir, a prominent temple dedicated to Sita. Built in 1874 according to the Nepal tourism board, the three-storey structure is known for its blend of Mughal and local architectural styles. It is among Nepal's most important religious landmarks. Janakpur is associated with the wedding of Ram and Sita.
+
+Every year, the occasion is commemorated during Vivah Panchami, a festival that draws pilgrims from India and Nepal. The Vivah Mandap, near the Janaki Mandir, is traditionally identified as the site of their wedding. The city is also known for its many ponds. Nepal has been keen to promote Janakpur as an important part of the Ramayana circuit, a network of religious destinations associated with the life of Ram.
+
+In December 2023, Nepal's then Ambassador to India, Shankar Prasad Sharma, described Janakpur as an indispensable part of the circuit and said the two countries were working towards establishing a sister-city relationship between Janakpur and Ayodhya. Where is Sita’s birthplace? While some believe Sita’s birthplace to be Janakpur, others regard Punaura Dham, near Sitamarhi in Bihar, as the birthplace.
+
+According to the Ramayana tradition, Sita was found by King Janaka while he was ploughing a field. She is believed to have emerged from the earth, which is also why she is referred to as Bhumija (daughter of the earth). The name Sita itself is associated with the furrow made by a plough.
+
+In a 2023 interview with The Indian Express, Acharya Kishore Kunal, former chairman of the Bihar State Board of Religious Trust, cited the Valmiki Ramayana and historical accounts to argue in favour of Punaura Dham. He also noted that the name Janakpuri is a relatively modern one for the ancient Mithilapuri mentioned in the epic.
+
+The region of Mithila was split between India and Nepal after the Anglo-Nepalese war ended with British victory and the treaty of Sugauli in 1816. What does this new train mean for India-Nepal ties? The new train is also part of India's broader effort to strengthen its relationship with Nepal through cultural and religious connections.
+
+India and Nepal share close historical, religious and people-to-people ties. The Ramayana circuit, which includes important pilgrimage destinations in both countries, and the Buddhist circuit are examples of India's efforts to develop cross-border religious tourism. There is also a strategic dimension to these initiatives.
+
+China has expanded its economic and infrastructure engagement with Nepal over the years. Strengthening cultural and religious links with Nepal can help India reinforce its traditional influence and maintain close ties with its neighbour.
+
+---
+
+**Original Source:** [The Indian Express](https://indianexpress.com/article/explained/explained-culture/ayodhya-to-janakpur-faith-strategy-india-nepal-rail-link-10975274/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Indian Express.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Ayodhya to Janakpur: Faith, strategy behind India-Nepal’s new rail link - The Indian Express.`,
+    primary_source: `The Indian Express`,
+  },
+  {
+    id: 98058,
+    title: `Amit Shah Meets 'Ramayana' Team to Celebrate Film's Global Impact - India News Network`,
+    slug: `amit-shah-meets-ramayana-team-to-celebrate-films-global-impact-india-n-2026`,
+    original_title: `Amit Shah Meets 'Ramayana' Team to Celebrate Film's Global Impact - India News Network`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:15:14Z`,
+    updated_at: `2026-11-27T05:15:14Z`,
+    source_name: `India News Network`,
+    source_url: `https://www.indianewsnetwork.com/en/amit-shah-meets-ramayana-team-celebrate-film-global-impact-20261126`,
+    source_courtesy: `Source: India News Network`,
+    image_url: `/images/articles/amit-shah-meets-ramayana-team-to-celebrate-films-global-impact-india-n-2026.webp`,
+    image_alt: `Amit Shah Meets 'Ramayana' Team to Celebrate Film's Global Impact - India News Network`,
+    image_courtesy: `Image: India News Network (External Source Attribution)`,
+    image_photographer: `India News Network`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `Indian Home Minister Amit Shah recently held a meeting with the creators of the animated film 'Ramayana', applauding their efforts in achieving significant international recognition. The film, rooted in the ancient Indian epic, has garnered`,
+    content: `Indian Home Minister Amit Shah recently held a meeting with the creators of the animated film 'Ramayana', applauding their efforts in achieving significant international recognition. The film, rooted in the ancient Indian epic, has garnered attention not only within India but also on global platforms.
+
+During the meeting, Amit Shah expressed pride in the film's success and reiterated the importance of cultural narratives in strengthening connections across diverse audiences. He highlighted how such cinematic efforts contribute to promoting India's rich heritage and storytelling legacy on an international scale.
+
+The 'Ramayana', representing a pivotal aspect of Indian folklore, has resonated with audiences worldwide, showcasing universal themes of duty, righteousness, and virtue. The film's production team shared insights regarding the creative process and the challenges faced while bringing this iconic story to life.
+
+Amit Shah encouraged the team to continue their efforts in creating engaging content that encapsulates the spirit of Indian culture. His remarks underscored the government's support for initiatives that seek to amplify Indian stories on various platforms, thus fostering a greater understanding of India's cultural diversity.
+
+The reception of 'Ramayana' has sparked discussions about the potential for further cultural exchanges in the film industry, paving the way for future projects that could further enhance India's presence in global cinema. This meeting emphasizes the ongoing trend of Indian filmmakers exploring narratives that appeal to international audiences while remaining true to their roots.
+
+---
+
+**Original Source:** [India News Network](https://www.indianewsnetwork.com/en/amit-shah-meets-ramayana-team-celebrate-film-global-impact-20261126)`,
+    title_en: `Amit Shah Meets 'Ramayana' Team to Celebrate Film's Global Impact - India News Network`,
+    summary_en: `Indian Home Minister Amit Shah recently held a meeting with the creators of the animated film 'Ramayana', applauding their efforts in achieving significant international recognition. The film, rooted in the ancient Indian epic, has garnered`,
+    content_en: `Indian Home Minister Amit Shah recently held a meeting with the creators of the animated film 'Ramayana', applauding their efforts in achieving significant international recognition. The film, rooted in the ancient Indian epic, has garnered attention not only within India but also on global platforms.
+
+During the meeting, Amit Shah expressed pride in the film's success and reiterated the importance of cultural narratives in strengthening connections across diverse audiences. He highlighted how such cinematic efforts contribute to promoting India's rich heritage and storytelling legacy on an international scale.
+
+The 'Ramayana', representing a pivotal aspect of Indian folklore, has resonated with audiences worldwide, showcasing universal themes of duty, righteousness, and virtue. The film's production team shared insights regarding the creative process and the challenges faced while bringing this iconic story to life.
+
+Amit Shah encouraged the team to continue their efforts in creating engaging content that encapsulates the spirit of Indian culture. His remarks underscored the government's support for initiatives that seek to amplify Indian stories on various platforms, thus fostering a greater understanding of India's cultural diversity.
+
+The reception of 'Ramayana' has sparked discussions about the potential for further cultural exchanges in the film industry, paving the way for future projects that could further enhance India's presence in global cinema. This meeting emphasizes the ongoing trend of Indian filmmakers exploring narratives that appeal to international audiences while remaining true to their roots.
+
+---
+
+**Original Source:** [India News Network](https://www.indianewsnetwork.com/en/amit-shah-meets-ramayana-team-celebrate-film-global-impact-20261126)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to India News Network.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Amit Shah Meets 'Ramayana' Team to Celebrate Film's Global Impact - India News Network.`,
+    primary_source: `India News Network`,
+  },
+  {
+    id: 98059,
+    title: `Ramayana Collection: 22वें दिन भी रामायण का जलवा बरकरार, कमाई 990 करोड़ पार, 1000 करोड़ के पर टिकी निगाहें - Navbharat Live`,
+    slug: `ramayana-collection-22-990-1000-navbharat-live-2026`,
+    original_title: `Ramayana Collection: 22वें दिन भी रामायण का जलवा बरकरार, कमाई 990 करोड़ पार, 1000 करोड़ के पर टिकी निगाहें - Navbharat Live`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:15:15Z`,
+    updated_at: `2026-11-27T05:15:15Z`,
+    source_name: `Navbharat Live`,
+    source_url: `https://navbharatlive.com/entertainment/ramayana-box-office-collection-day-22-ranbir-kapoor-movie-near-1000-crore-milestone-yss14`,
+    source_courtesy: `Source: Navbharat Live`,
+    image_url: `/images/articles/ramayana-collection-22-990-1000-navbharat-live-2026.jpg`,
+    image_alt: `Ramayana Collection: 22वें दिन भी रामायण का जलवा बरकरार, कमाई 990 करोड़ पार, 1000 करोड़ के पर टिकी निगाहें - Navbharat Live`,
+    image_courtesy: `Image: Navbharat Live (External Source Attribution)`,
+    image_photographer: `Navbharat Live`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `Highlightsरिलीज के 22वें दिन रामायण ने 8.32 करोड़ रुपये का कलेक्शन किया।भारत में फिल्म रामायण का नेट कलेक्शन 990.77 करोड़ रुपये पहुंच गया।घरेलू ग्रॉस कलेक्शन 1,183.32 करोड़ रुपये दर्ज किया गया।फिल्म अब भारतीय बॉक्स ऑफिस पर 1000 करोड़ नेट क्`,
+    content: `Highlightsरिलीज के 22वें दिन रामायण ने 8.32 करोड़ रुपये का कलेक्शन किया।भारत में फिल्म रामायण का नेट कलेक्शन 990.77 करोड़ रुपये पहुंच गया।घरेलू ग्रॉस कलेक्शन 1,183.32 करोड़ रुपये दर्ज किया गया।फिल्म अब भारतीय बॉक्स ऑफिस पर 1000 करोड़ नेट क्लब से बेहद करीब है।.Ranbir Kapoor Ramayana Collection Day 22: नितेश तिवारी के डायरेक्शन में बनी फिल्म रामायण ने 5 नवंबर को बॉक्स ऑफिस पर दस्तक देने के बाद से ही दर्शकों का ध्यान खींचा है।
+
+22वें दिन भी यह चर्चा का विषय बनी हुई है, क्योंकि इसका कलेक्शन अब एक ऐतिहासिक पड़ाव के बेहद करीब आ गई है। बीते गुरुवार को फिल्म की रफ्तार में थोड़ी सुस्ती जरूर दिखी, लेकिन इसका कुल आंकड़ा इतना बड़ा हो चुका है कि हर किसी की नजर अब अगले दिन के हिसाब-किताब पर टिकी है। .22वें दिन धीमी पड़ी रफ्तार पर आंकड़े चौंकाने वालेबीते गुरुवार को भी फिल्म रामायण के कलेक्शन में हल्की गिरावट दर्ज की गई।
+
+खबरों के अनुसार 22वें दिन फिल्म रामायण ने 8.32 करोड़ रुपये का कलेक्शन किया, जबकि एक दिन पहले इसके 14,700 शो चले थे। इससे पहले मंगलवार को मेकर्स ने टिकट की कीमत 99 रुपये रखी थी, जिसका सीधा फायदा फिल्म को मिला था। भले ही गुरुवार को कलेक्शन थोड़ा घटा हो, पर 22 दिनों में भारत में इसका कुल कलेक्शन 990.77 करोड़ रुपये तक पहुंच गई है।
+
+वहीं भारत में इसका ग्रॉस कलेक्शन 1,183.32 करोड़ रुपये दर्ज किया गया है।.कई भाषाओं से मिली फिल्म को ताकत फिल्म रामायण की कामयाबी सिर्फ एक भाषा या एक वर्ग तक सीमित नहीं रही। हिंदी के साथ कन्नड़, तमिल और तेलुगु में भी दर्शकों ने इसे हाथोंहाथ लिया। इसी बहुभाषी जुड़ाव के चलते यह फिल्म घरेलू बॉक्स ऑफिस पर 1000 करोड़ रुपये के क्लब में शामिल होने से कुछ कदम दूर खड़ी है।
+
+उम्मीद जताई जा रही है कि शुक्रवार के आंकड़े सामने आते ही यह आंकड़ा पार हो सकता है। .बप्पी लहरी के पास था इतना सोना, फिर भी कभी तराजू पर क्यों नहीं तौला अपना खजाना? जानें दिलचस्प किस्सा.बड़े बजट की 2 पार्ट की कहानी और दमदार स्टार कास्टनमित मल्होत्रा के बैनर तले बनी यह फिल्म रामायण 2 पार्ट में तैयार की गई है।
+
+पहले हिस्से के बाद दूसरे भाग को 2028 में रिलीज करने की योजना बनाई गई है। इस कहानी में रणबीर कपूर भगवान राम के किरदार में हैं, जबकि साई पल्लवी माता सीता और यश रावण के रोल में दिखाई दे रहे हैं। लक्ष्मण के रूप में रवि दुबे नजर आए हैं और फिल्म के आखिर में सनी देओल की हनुमान के तौर पर एंट्री होती है।.अगले पार्ट की राह तकती दर्शकों की उम्मीदेंफिल्म रामायण का पहला हिस्सा अब अपने बड़े कलेक्शन के करीब पहुंच चुका है, जिससे आगे की यात्रा को लेकर उत्सुकता और बढ़ गई है।
+
+22 दिनों का यह सफर दिखाता है कि बड़े पैमाने पर बनी फिल्म रामायण ने शुरुआती हफ्तों की चमक के बाद भी अपना असर कायम रखा है। अब सबकी निगाहें आने वाले दिनों के कलेक्शन पर हैं, जो तय करेंगी कि यह फिल्म किस नए मुकाम को छूती है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/entertainment/ramayana-box-office-collection-day-22-ranbir-kapoor-movie-near-1000-crore-milestone-yss14)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Ramayana Collection: 22वें दिन भी रामायण का जलवा बरकरार, कमाई 990 करोड़ पार, 1000 करोड़ के पर टिकी निगाहें - Navbharat Live`,
+    summary_hi: `Highlightsरिलीज के 22वें दिन रामायण ने 8.32 करोड़ रुपये का कलेक्शन किया।भारत में फिल्म रामायण का नेट कलेक्शन 990.77 करोड़ रुपये पहुंच गया।घरेलू ग्रॉस कलेक्शन 1,183.32 करोड़ रुपये दर्ज किया गया।फिल्म अब भारतीय बॉक्स ऑफिस पर 1000 करोड़ नेट क्`,
+    content_hi: `Highlightsरिलीज के 22वें दिन रामायण ने 8.32 करोड़ रुपये का कलेक्शन किया।भारत में फिल्म रामायण का नेट कलेक्शन 990.77 करोड़ रुपये पहुंच गया।घरेलू ग्रॉस कलेक्शन 1,183.32 करोड़ रुपये दर्ज किया गया।फिल्म अब भारतीय बॉक्स ऑफिस पर 1000 करोड़ नेट क्लब से बेहद करीब है।.Ranbir Kapoor Ramayana Collection Day 22: नितेश तिवारी के डायरेक्शन में बनी फिल्म रामायण ने 5 नवंबर को बॉक्स ऑफिस पर दस्तक देने के बाद से ही दर्शकों का ध्यान खींचा है।
+
+22वें दिन भी यह चर्चा का विषय बनी हुई है, क्योंकि इसका कलेक्शन अब एक ऐतिहासिक पड़ाव के बेहद करीब आ गई है। बीते गुरुवार को फिल्म की रफ्तार में थोड़ी सुस्ती जरूर दिखी, लेकिन इसका कुल आंकड़ा इतना बड़ा हो चुका है कि हर किसी की नजर अब अगले दिन के हिसाब-किताब पर टिकी है। .22वें दिन धीमी पड़ी रफ्तार पर आंकड़े चौंकाने वालेबीते गुरुवार को भी फिल्म रामायण के कलेक्शन में हल्की गिरावट दर्ज की गई।
+
+खबरों के अनुसार 22वें दिन फिल्म रामायण ने 8.32 करोड़ रुपये का कलेक्शन किया, जबकि एक दिन पहले इसके 14,700 शो चले थे। इससे पहले मंगलवार को मेकर्स ने टिकट की कीमत 99 रुपये रखी थी, जिसका सीधा फायदा फिल्म को मिला था। भले ही गुरुवार को कलेक्शन थोड़ा घटा हो, पर 22 दिनों में भारत में इसका कुल कलेक्शन 990.77 करोड़ रुपये तक पहुंच गई है।
+
+वहीं भारत में इसका ग्रॉस कलेक्शन 1,183.32 करोड़ रुपये दर्ज किया गया है।.कई भाषाओं से मिली फिल्म को ताकत फिल्म रामायण की कामयाबी सिर्फ एक भाषा या एक वर्ग तक सीमित नहीं रही। हिंदी के साथ कन्नड़, तमिल और तेलुगु में भी दर्शकों ने इसे हाथोंहाथ लिया। इसी बहुभाषी जुड़ाव के चलते यह फिल्म घरेलू बॉक्स ऑफिस पर 1000 करोड़ रुपये के क्लब में शामिल होने से कुछ कदम दूर खड़ी है।
+
+उम्मीद जताई जा रही है कि शुक्रवार के आंकड़े सामने आते ही यह आंकड़ा पार हो सकता है। .बप्पी लहरी के पास था इतना सोना, फिर भी कभी तराजू पर क्यों नहीं तौला अपना खजाना? जानें दिलचस्प किस्सा.बड़े बजट की 2 पार्ट की कहानी और दमदार स्टार कास्टनमित मल्होत्रा के बैनर तले बनी यह फिल्म रामायण 2 पार्ट में तैयार की गई है।
+
+पहले हिस्से के बाद दूसरे भाग को 2028 में रिलीज करने की योजना बनाई गई है। इस कहानी में रणबीर कपूर भगवान राम के किरदार में हैं, जबकि साई पल्लवी माता सीता और यश रावण के रोल में दिखाई दे रहे हैं। लक्ष्मण के रूप में रवि दुबे नजर आए हैं और फिल्म के आखिर में सनी देओल की हनुमान के तौर पर एंट्री होती है।.अगले पार्ट की राह तकती दर्शकों की उम्मीदेंफिल्म रामायण का पहला हिस्सा अब अपने बड़े कलेक्शन के करीब पहुंच चुका है, जिससे आगे की यात्रा को लेकर उत्सुकता और बढ़ गई है।
+
+22 दिनों का यह सफर दिखाता है कि बड़े पैमाने पर बनी फिल्म रामायण ने शुरुआती हफ्तों की चमक के बाद भी अपना असर कायम रखा है। अब सबकी निगाहें आने वाले दिनों के कलेक्शन पर हैं, जो तय करेंगी कि यह फिल्म किस नए मुकाम को छूती है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/entertainment/ramayana-box-office-collection-day-22-ranbir-kapoor-movie-near-1000-crore-milestone-yss14)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट Navbharat Live के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Ramayana Collection: 22वें दिन भी रामायण का जलवा बरकरार, कमाई 990 करोड़ पार, 1000 करोड़ के पर टिकी निगाहें - Navbharat Live से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Navbharat Live`,
+  },
+  {
+    id: 98060,
+    title: `झारखंड: 'रामायण' फिल्म पर रोक लगाने की मांग, हाईकोर्ट में जनहित याचिका दाखिल - Amar Ujala`,
+    slug: `amar-ujala-2026`,
+    original_title: `झारखंड: 'रामायण' फिल्म पर रोक लगाने की मांग, हाईकोर्ट में जनहित याचिका दाखिल - Amar Ujala`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-27T05:15:19Z`,
+    updated_at: `2026-11-27T05:15:19Z`,
+    source_name: `Amar Ujala`,
+    source_url: `https://www.amarujala.com/jharkhand/ranchi/ramayana-film-controversy-jharkhand-high-court-pil-ban-demand-2026-11-26`,
+    source_courtesy: `Source: Amar Ujala`,
+    image_url: `/images/articles/amar-ujala-2026.jpg`,
+    image_alt: `झारखंड: 'रामायण' फिल्म पर रोक लगाने की मांग, हाईकोर्ट में जनहित याचिका दाखिल - Amar Ujala`,
+    image_courtesy: `Image: Amar Ujala (External Source Attribution)`,
+    image_photographer: `Amar Ujala`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `फिल्म &amp;#39;रामायण&amp;#39; के कथानक और कुछ दृश्यों को लेकर विवाद खड़ा हो गया है। फिल्म के कथित आपत्तिजनक दृश्यों को हटाने या इसके प्रदर्शन पर पूरी तरह रोक लगाने की मांग को लेकर झारखंड उच्च न्यायालय में जनहित याचिका दाखिल की गई है। याचिक`,
+    content: `फिल्म &amp;#39;रामायण&amp;#39; के कथानक और कुछ दृश्यों को लेकर विवाद खड़ा हो गया है। फिल्म के कथित आपत्तिजनक दृश्यों को हटाने या इसके प्रदर्शन पर पूरी तरह रोक लगाने की मांग को लेकर झारखंड उच्च न्यायालय में जनहित याचिका दाखिल की गई है। याचिकाकर्ता ने भगवान राम की छवि को नुकसान पहुंचाने के एवज में फिल्म की कुल कमाई का 50 प्रतिशत हिस्सा अयोध्या स्थित श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट को देने की मांग भी की है।
+
+साथ ही फिल्म को महर्षि वाल्मीकि की मूल रामायण के अनुरूप प्रदर्शित करने का निर्देश देने की गुहार लगाई गई है। कैकेयी के वरदान और वनवास के प्रसंग पर भी आपत्ति  संतोष कुमार की ओर से अधिवक्ता संतोष कुमार सोनी ने हाईकोर्ट में यह याचिका दाखिल की है। इसमें आरोप लगाया गया है कि फिल्म में रामायण के कई महत्वपूर्ण प्रसंगों को गलत तरीके से प्रस्तुत किया गया है।
+
+इससे लोगों की धार्मिक और सांस्कृतिक भावनाएं आहत हो सकती हैं। याचिका में राजा दशरथ से महारानी कैकेयी के दो वरदान मांगने और इसके बाद भगवान राम को 14 वर्ष का वनवास तथा भरत को राजगद्दी दिए जाने वाले प्रसंग पर सवाल उठाए गए हैं। याचिकाकर्ता का आरोप है कि फिल्म में लक्ष्मण का व्यवहार रघुकुल की मर्यादा और परंपरा के विपरीत दिखाया गया है।
+
+राम, सीता और लक्ष्मण को भागते हुए दिखाने पर सवाल  याचिका में भगवान राम, माता सीता और लक्ष्मण को भागते हुए दिखाए जाने पर भी आपत्ति जताई गई है। प्रार्थी का कहना है कि वाल्मीकि रामायण में भगवान राम को कहीं भी भागते हुए नहीं दिखाया गया है। उन्हें हमेशा साहसी योद्धा के रूप में आगे रहकर युद्ध करते हुए दर्शाया गया है।
+
+इसके अलावा सोने के हिरण यानी मारीच वाले प्रसंग में माता सीता के मुंह से &amp;#39;राम&amp;#39; शब्द कहलवाने पर भी सवाल उठाया गया है। याचिकाकर्ता का तर्क है कि भारतीय परंपरा में पत्नी द्वारा पति का नाम लेने का चलन नहीं रहा है। रावण के चरित्र को अधिक महत्व देने का आरोप  याचिका में फिल्म में रावण के किरदार को भगवान राम की तुलना में अधिक तरजीह देने और उसे मुख्य भूमिका में प्रस्तुत करने पर भी आपत्ति दर्ज कराई गई है।
+
+याचिकाकर्ता ने इसे रामायण की मूल कथा और सांस्कृतिक मर्यादा के विपरीत बताया है। निर्माता, निर्देशक और केंद्र-राज्य सरकार को बनाया पक्षकार  जनहित याचिका में फिल्म के निर्माता, निर्देशक और पटकथा लेखक के अलावा केंद्र सरकार तथा झारखंड सरकार को प्रतिवादी बनाया गया है। याचिकाकर्ता ने अदालत से मांग की है कि फिल्म के सभी विवादित और कथित आपत्तिजनक दृश्यों को हटाए जाने तक इसके प्रदर्शन पर रोक लगाई जाए।
+
+इसके साथ ही फिल्म की कुल कमाई का 50 प्रतिशत हिस्सा श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट को देने का निर्देश देने की भी मांग की गई है।
+
+---
+
+**मूल स्रोत (Original Source):** [Amar Ujala](https://www.amarujala.com/jharkhand/ranchi/ramayana-film-controversy-jharkhand-high-court-pil-ban-demand-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `झारखंड: 'रामायण' फिल्म पर रोक लगाने की मांग, हाईकोर्ट में जनहित याचिका दाखिल - Amar Ujala`,
+    summary_hi: `फिल्म &amp;#39;रामायण&amp;#39; के कथानक और कुछ दृश्यों को लेकर विवाद खड़ा हो गया है। फिल्म के कथित आपत्तिजनक दृश्यों को हटाने या इसके प्रदर्शन पर पूरी तरह रोक लगाने की मांग को लेकर झारखंड उच्च न्यायालय में जनहित याचिका दाखिल की गई है। याचिक`,
+    content_hi: `फिल्म &amp;#39;रामायण&amp;#39; के कथानक और कुछ दृश्यों को लेकर विवाद खड़ा हो गया है। फिल्म के कथित आपत्तिजनक दृश्यों को हटाने या इसके प्रदर्शन पर पूरी तरह रोक लगाने की मांग को लेकर झारखंड उच्च न्यायालय में जनहित याचिका दाखिल की गई है। याचिकाकर्ता ने भगवान राम की छवि को नुकसान पहुंचाने के एवज में फिल्म की कुल कमाई का 50 प्रतिशत हिस्सा अयोध्या स्थित श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट को देने की मांग भी की है।
+
+साथ ही फिल्म को महर्षि वाल्मीकि की मूल रामायण के अनुरूप प्रदर्शित करने का निर्देश देने की गुहार लगाई गई है। कैकेयी के वरदान और वनवास के प्रसंग पर भी आपत्ति  संतोष कुमार की ओर से अधिवक्ता संतोष कुमार सोनी ने हाईकोर्ट में यह याचिका दाखिल की है। इसमें आरोप लगाया गया है कि फिल्म में रामायण के कई महत्वपूर्ण प्रसंगों को गलत तरीके से प्रस्तुत किया गया है।
+
+इससे लोगों की धार्मिक और सांस्कृतिक भावनाएं आहत हो सकती हैं। याचिका में राजा दशरथ से महारानी कैकेयी के दो वरदान मांगने और इसके बाद भगवान राम को 14 वर्ष का वनवास तथा भरत को राजगद्दी दिए जाने वाले प्रसंग पर सवाल उठाए गए हैं। याचिकाकर्ता का आरोप है कि फिल्म में लक्ष्मण का व्यवहार रघुकुल की मर्यादा और परंपरा के विपरीत दिखाया गया है।
+
+राम, सीता और लक्ष्मण को भागते हुए दिखाने पर सवाल  याचिका में भगवान राम, माता सीता और लक्ष्मण को भागते हुए दिखाए जाने पर भी आपत्ति जताई गई है। प्रार्थी का कहना है कि वाल्मीकि रामायण में भगवान राम को कहीं भी भागते हुए नहीं दिखाया गया है। उन्हें हमेशा साहसी योद्धा के रूप में आगे रहकर युद्ध करते हुए दर्शाया गया है।
+
+इसके अलावा सोने के हिरण यानी मारीच वाले प्रसंग में माता सीता के मुंह से &amp;#39;राम&amp;#39; शब्द कहलवाने पर भी सवाल उठाया गया है। याचिकाकर्ता का तर्क है कि भारतीय परंपरा में पत्नी द्वारा पति का नाम लेने का चलन नहीं रहा है। रावण के चरित्र को अधिक महत्व देने का आरोप  याचिका में फिल्म में रावण के किरदार को भगवान राम की तुलना में अधिक तरजीह देने और उसे मुख्य भूमिका में प्रस्तुत करने पर भी आपत्ति दर्ज कराई गई है।
+
+याचिकाकर्ता ने इसे रामायण की मूल कथा और सांस्कृतिक मर्यादा के विपरीत बताया है। निर्माता, निर्देशक और केंद्र-राज्य सरकार को बनाया पक्षकार  जनहित याचिका में फिल्म के निर्माता, निर्देशक और पटकथा लेखक के अलावा केंद्र सरकार तथा झारखंड सरकार को प्रतिवादी बनाया गया है। याचिकाकर्ता ने अदालत से मांग की है कि फिल्म के सभी विवादित और कथित आपत्तिजनक दृश्यों को हटाए जाने तक इसके प्रदर्शन पर रोक लगाई जाए।
+
+इसके साथ ही फिल्म की कुल कमाई का 50 प्रतिशत हिस्सा श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट को देने का निर्देश देने की भी मांग की गई है।
+
+---
+
+**मूल स्रोत (Original Source):** [Amar Ujala](https://www.amarujala.com/jharkhand/ranchi/ramayana-film-controversy-jharkhand-high-court-pil-ban-demand-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट Amar Ujala के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक झारखंड: 'रामायण' फिल्म पर रोक लगाने की मांग, हाईकोर्ट में जनहित याचिका दाखिल - Amar Ujala से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Amar Ujala`,
+  },
+{
     id: 98031,
     title: `2027 World Cup venue at Victoria Falls stages first official match`,
     slug: `2027-world-cup-venue-at-victoria-falls-stages-first-official-matc-2026`,
