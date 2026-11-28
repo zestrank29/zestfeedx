@@ -12,7 +12,1851 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+  
+  
   {
+    id: 220,
+    title: `Mushfiqur Rahim to retire from Test cricket in February 2027`,
+    slug: `mushfiqur-rahim-to-retire-from-test-cricket-in-february-2027-2026`,
+    original_title: `Mushfiqur Rahim to retire from Test cricket in February 2027`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:24:18Z`,
+    updated_at: `2026-11-28T13:24:18Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564554.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Mushfiqur Rahim to retire from Test cricket in February 2027`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `The first Test against England in Dhaka will be his last international game`,
+    content: `The first Test against England in Dhaka will be his last international game
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564554.html?ex_cid=OTC-RSS)`,
+    title_en: `Mushfiqur Rahim to retire from Test cricket in February 2027`,
+    summary_en: `The first Test against England in Dhaka will be his last international game`,
+    content_en: `The first Test against England in Dhaka will be his last international game
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564554.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-220`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-28 18:54:18 IST`,
+    detected_at: `2026-11-28T13:24:17Z`,
+    verified_at: `2026-11-28T13:24:18Z`,
+    approved_at: `2026-11-28T13:24:18Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Mushfiqur Rahim to retire from Test cricket in February 2027.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 221,
+    title: `Duffy bounces back from one of his 'worst weeks' with New Zealand`,
+    slug: `duffy-bounces-back-from-one-of-his-worst-weeks-with-new-zealand-2026`,
+    original_title: `Duffy bounces back from one of his 'worst weeks' with New Zealand`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:24:18Z`,
+    updated_at: `2026-11-28T13:24:18Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564527.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Duffy bounces back from one of his 'worst weeks' with New Zealand`,
+    image_courtesy: `Photo: Stadium Photography Wire (Unsplash License)`,
+    image_photographer: `Stadium Photography Wire`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `After conceding 201 in 33 overs in Wellington, the New Zealand quick took two wickets on the second day in Christchurch`,
+    content: `After conceding 201 in 33 overs in Wellington, the New Zealand quick took two wickets on the second day in Christchurch
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564527.html?ex_cid=OTC-RSS)`,
+    title_en: `Duffy bounces back from one of his 'worst weeks' with New Zealand`,
+    summary_en: `After conceding 201 in 33 overs in Wellington, the New Zealand quick took two wickets on the second day in Christchurch`,
+    content_en: `After conceding 201 in 33 overs in Wellington, the New Zealand quick took two wickets on the second day in Christchurch
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564527.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-221`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-28 18:54:18 IST`,
+    detected_at: `2026-11-28T13:24:17Z`,
+    verified_at: `2026-11-28T13:24:18Z`,
+    approved_at: `2026-11-28T13:24:18Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Duffy bounces back from one of his 'worst weeks' with New Zealand.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 204,
+    title: `ICMR Survey Finds Lower Anaemia Prevalence Across India - Voice of Healthcare`,
+    slug: `icmr-survey-finds-lower-anaemia-prevalence-across-india-voice-of-healt-2026`,
+    original_title: `ICMR Survey Finds Lower Anaemia Prevalence Across India - Voice of Healthcare`,
+    category: `health`,
+    topic: `public-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:23:22Z`,
+    updated_at: `2026-11-28T13:23:22Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://vohnetwork.com/news/policy/icmr-sampada-survey-lower-anaemia-estimates-2026`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/icmr-survey-finds-lower-anaemia-prevalence-across-india-voice-of-healt-2026.webp`,
+    image_alt: `ICMR Survey Finds Lower Anaemia Prevalence Across India - Voice of Healthcare`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `India’s SAMPADA survey reports lower anaemia prevalence than earlier national estimates, highlighting the need for targeted screening and treatment across different population groups.`,
+    content: `India’s SAMPADA survey reports lower anaemia prevalence than earlier national estimates, highlighting the need for targeted screening and treatment across different population groups.
+
+Editorial Note: This content has been prepared using information from official announcements, regulatory communications, scientific publications, conference presentations, or other verified sources. AI-assisted editorial tools may be used during content preparation. Every article is reviewed, edited, and verified by the VOH editorial team prior to publication. Unless explicitly identified as Sponsored Content or Brand Solutions, publication does not imply endorsement by VOH Network.
+
+Host or sponsor events that place your brand at the forefront of healthcare impact.
+
+Engage a wider audience with thought leadership shared across VOH's podcast channels.
+
+Take center stage at healthcare forums to spark conversations and share bold perspectives.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://vohnetwork.com/news/policy/icmr-sampada-survey-lower-anaemia-estimates-2026)`,
+    title_en: `ICMR Survey Finds Lower Anaemia Prevalence Across India - Voice of Healthcare`,
+    summary_en: `India’s SAMPADA survey reports lower anaemia prevalence than earlier national estimates, highlighting the need for targeted screening and treatment across different population groups.`,
+    content_en: `India’s SAMPADA survey reports lower anaemia prevalence than earlier national estimates, highlighting the need for targeted screening and treatment across different population groups.
+
+Editorial Note: This content has been prepared using information from official announcements, regulatory communications, scientific publications, conference presentations, or other verified sources. AI-assisted editorial tools may be used during content preparation. Every article is reviewed, edited, and verified by the VOH editorial team prior to publication. Unless explicitly identified as Sponsored Content or Brand Solutions, publication does not imply endorsement by VOH Network.
+
+Host or sponsor events that place your brand at the forefront of healthcare impact.
+
+Engage a wider audience with thought leadership shared across VOH's podcast channels.
+
+Take center stage at healthcare forums to spark conversations and share bold perspectives.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://vohnetwork.com/news/policy/icmr-sampada-survey-lower-anaemia-estimates-2026)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for ICMR Survey Finds Lower Anaemia Prevalence Across India - Voice of Healthcare.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 205,
+    title: `हरिद्वार नगर निगम के प्रयासों को मिला सम्मान: 2059 आवारा कुत्तों की नसबंदी और एंटी रेबीज टीकाकरण , 262 शिका... - Dainik Bhaskar`,
+    slug: `2059-262-dainik-bhaskar-2026`,
+    original_title: `हरिद्वार नगर निगम के प्रयासों को मिला सम्मान: 2059 आवारा कुत्तों की नसबंदी और एंटी रेबीज टीकाकरण , 262 शिका... - Dainik Bhaskar`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:23:30Z`,
+    updated_at: `2026-11-28T13:23:30Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/local/uttarakhand/haridwar/news/haridwar-municipal-corporation-stray-dog-sterilization-vaccination-139825985.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/2059-262-dainik-bhaskar-2026.jpg`,
+    image_alt: `हरिद्वार नगर निगम के प्रयासों को मिला सम्मान: 2059 आवारा कुत्तों की नसबंदी और एंटी रेबीज टीकाकरण , 262 शिका... - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `धर्मनगरी हरिद्वार में आवारा कुत्तों की बढ़ती आबादी को नियंत्रित करने और रेबीज जैसी गंभीर बीमारी की रोकथाम के लिए नगर निगम की ओर से संचालित अभियान के सकारात्मक परिणाम सामने आए हैं। नगर निगम हरिद्वार और ह्यूमेन वर्ल्ड फॉर एनिमल्स इंडिया के सं`,
+    content: `धर्मनगरी हरिद्वार में आवारा कुत्तों की बढ़ती आबादी को नियंत्रित करने और रेबीज जैसी गंभीर बीमारी की रोकथाम के लिए नगर निगम की ओर से संचालित अभियान के सकारात्मक परिणाम सामने आए हैं। नगर निगम हरिद्वार और ह्यूमेन वर्ल्ड फॉर एनिमल्स इंडिया के संयुक्त प्रय
+
+शनिवार को होटल सरोवर पोर्टिको में संस्था की ओर से प्रथम वार्षिक सम्मान समारोह आयोजित किया गया। इसमें नगर निगम के उप नगर आयुक्त दीपक गोस्वामी, उप मुख्य पशु चिकित्सा अधिकारी डॉ. अशोक कुमार, मुख्य सफाई निरीक्षक श्रीकान्त और आर्यन एकेडमी की प्रधानाचार्य शालिनी त्यागी समेत स्थानीय नागरिकों और स्वयंसेवकों ने प्रतिभाग किया।
+
+कार्यक्रम में संस्था की ओर से अभियान की प्रगति और सामुदायिक सहभागिता से जुड़े आंकड़े साझा किए गए। बताया गया कि अभियान के तहत अब तक 2059 कुत्तों की नसबंदी और एंटी रेबीज टीकाकरण किया जा चुका है। अभियान में स्थानीय नागरिकों की भागीदारी भी महत्वपूर्ण रही है। 600 से अधिक आवारा कुत्तों को स्थानीय नागरिक स्वयं नसबंदी और टीकाकरण के लिए लेकर पहुंचे। इससे अभियान को गति मिलने के साथ पशु कल्याण के प्रति लोगों की जागरूकता भी सामने आई है।
+
+262 से अधिक शिकायतों का निस्तारण, जागरूकता के लिए 80 बैठकें
+
+संस्था के अनुसार, आवारा कुत्तों से संबंधित नागरिकों की समस्याओं के समाधान के लिए अभियान के तहत 262 से अधिक जनशिकायतों का निस्तारण किया गया। इसके अलावा लोगों को कुत्तों के व्यवहार, उनके साथ सुरक्षित तरीके से व्यवहार करने और पशु कल्याण के प्रति जागरूक करने के उद्देश्य से 80 बैठकें आयोजित की गईं। लगभग 50 व्यवहार संबंधी कार्यशालाओं के माध्यम से भी लोगों को जानकारी दी गई।
+
+अभियान में नसबंदी और एंटी रेबीज टीकाकरण के साथ सामुदायिक सहभागिता और जागरूकता को भी प्राथमिकता दी जा रही है। इसका उद्देश्य आवारा कुत्तों की संख्या को नियंत्रित करने के साथ-साथ मनुष्यों और पशुओं के बीच सुरक्षित सह-अस्तित्व को बढ़ावा देना है।
+
+जनस्वास्थ्य और पशु कल्याण के लिए प्रतिबद्ध नगर निगम
+
+उप नगर आयुक्त दीपक गोस्वामी ने कहा कि नगर निगम हरिद्वार जनस्वास्थ्य, नागरिक सुरक्षा और पशु कल्याण के प्रति प्रतिबद्ध है। ह्यूमेन वर्ल्ड फॉर एनिमल्स इंडिया के सहयोग से संचालित ABC कार्यक्रम शहर में आवारा कुत्तों के मानवीय प्रबंधन और रेबीज नियंत्रण की दिशा में महत्वपूर्ण पहल है।
+
+उन्होंने अभियान में सहयोग करने वाली संस्था, स्थानीय नागरिकों और स्वयंसेवकों की भूमिका की सराहना की। कार्यक्रम में नगर निगम और संस्था के संयुक्त प्रयासों को आगे भी जारी रखने तथा शहर में जागरूकता बढ़ाने पर जोर दिया गया।
+
+नगर निगम का कहना है कि आवारा कुत्तों की समस्या के समाधान के लिए वैज्ञानिक और मानवीय तरीके अपनाना जरूरी है। नसबंदी, एंटी रेबीज टीकाकरण और नागरिकों की सहभागिता के माध्यम से हरिद्वार को स्वच्छ, सुरक्षित और स्वस्थ बनाने के प्रयास किए जा रहे हैं।
+
+### अधूरा नहीं! पढ़िए पूरा! पढ़ें पूरी खबर दैनिक भास्कर ऐप पर
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/local/uttarakhand/haridwar/news/haridwar-municipal-corporation-stray-dog-sterilization-vaccination-139825985.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `हरिद्वार नगर निगम के प्रयासों को मिला सम्मान: 2059 आवारा कुत्तों की नसबंदी और एंटी रेबीज टीकाकरण , 262 शिका... - Dainik Bhaskar`,
+    summary_hi: `धर्मनगरी हरिद्वार में आवारा कुत्तों की बढ़ती आबादी को नियंत्रित करने और रेबीज जैसी गंभीर बीमारी की रोकथाम के लिए नगर निगम की ओर से संचालित अभियान के सकारात्मक परिणाम सामने आए हैं। नगर निगम हरिद्वार और ह्यूमेन वर्ल्ड फॉर एनिमल्स इंडिया के सं`,
+    content_hi: `धर्मनगरी हरिद्वार में आवारा कुत्तों की बढ़ती आबादी को नियंत्रित करने और रेबीज जैसी गंभीर बीमारी की रोकथाम के लिए नगर निगम की ओर से संचालित अभियान के सकारात्मक परिणाम सामने आए हैं। नगर निगम हरिद्वार और ह्यूमेन वर्ल्ड फॉर एनिमल्स इंडिया के संयुक्त प्रय
+
+शनिवार को होटल सरोवर पोर्टिको में संस्था की ओर से प्रथम वार्षिक सम्मान समारोह आयोजित किया गया। इसमें नगर निगम के उप नगर आयुक्त दीपक गोस्वामी, उप मुख्य पशु चिकित्सा अधिकारी डॉ. अशोक कुमार, मुख्य सफाई निरीक्षक श्रीकान्त और आर्यन एकेडमी की प्रधानाचार्य शालिनी त्यागी समेत स्थानीय नागरिकों और स्वयंसेवकों ने प्रतिभाग किया।
+
+कार्यक्रम में संस्था की ओर से अभियान की प्रगति और सामुदायिक सहभागिता से जुड़े आंकड़े साझा किए गए। बताया गया कि अभियान के तहत अब तक 2059 कुत्तों की नसबंदी और एंटी रेबीज टीकाकरण किया जा चुका है। अभियान में स्थानीय नागरिकों की भागीदारी भी महत्वपूर्ण रही है। 600 से अधिक आवारा कुत्तों को स्थानीय नागरिक स्वयं नसबंदी और टीकाकरण के लिए लेकर पहुंचे। इससे अभियान को गति मिलने के साथ पशु कल्याण के प्रति लोगों की जागरूकता भी सामने आई है।
+
+262 से अधिक शिकायतों का निस्तारण, जागरूकता के लिए 80 बैठकें
+
+संस्था के अनुसार, आवारा कुत्तों से संबंधित नागरिकों की समस्याओं के समाधान के लिए अभियान के तहत 262 से अधिक जनशिकायतों का निस्तारण किया गया। इसके अलावा लोगों को कुत्तों के व्यवहार, उनके साथ सुरक्षित तरीके से व्यवहार करने और पशु कल्याण के प्रति जागरूक करने के उद्देश्य से 80 बैठकें आयोजित की गईं। लगभग 50 व्यवहार संबंधी कार्यशालाओं के माध्यम से भी लोगों को जानकारी दी गई।
+
+अभियान में नसबंदी और एंटी रेबीज टीकाकरण के साथ सामुदायिक सहभागिता और जागरूकता को भी प्राथमिकता दी जा रही है। इसका उद्देश्य आवारा कुत्तों की संख्या को नियंत्रित करने के साथ-साथ मनुष्यों और पशुओं के बीच सुरक्षित सह-अस्तित्व को बढ़ावा देना है।
+
+जनस्वास्थ्य और पशु कल्याण के लिए प्रतिबद्ध नगर निगम
+
+उप नगर आयुक्त दीपक गोस्वामी ने कहा कि नगर निगम हरिद्वार जनस्वास्थ्य, नागरिक सुरक्षा और पशु कल्याण के प्रति प्रतिबद्ध है। ह्यूमेन वर्ल्ड फॉर एनिमल्स इंडिया के सहयोग से संचालित ABC कार्यक्रम शहर में आवारा कुत्तों के मानवीय प्रबंधन और रेबीज नियंत्रण की दिशा में महत्वपूर्ण पहल है।
+
+उन्होंने अभियान में सहयोग करने वाली संस्था, स्थानीय नागरिकों और स्वयंसेवकों की भूमिका की सराहना की। कार्यक्रम में नगर निगम और संस्था के संयुक्त प्रयासों को आगे भी जारी रखने तथा शहर में जागरूकता बढ़ाने पर जोर दिया गया।
+
+नगर निगम का कहना है कि आवारा कुत्तों की समस्या के समाधान के लिए वैज्ञानिक और मानवीय तरीके अपनाना जरूरी है। नसबंदी, एंटी रेबीज टीकाकरण और नागरिकों की सहभागिता के माध्यम से हरिद्वार को स्वच्छ, सुरक्षित और स्वस्थ बनाने के प्रयास किए जा रहे हैं।
+
+### अधूरा नहीं! पढ़िए पूरा! पढ़ें पूरी खबर दैनिक भास्कर ऐप पर
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/local/uttarakhand/haridwar/news/haridwar-municipal-corporation-stray-dog-sterilization-vaccination-139825985.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक हरिद्वार नगर निगम के प्रयासों को मिला सम्मान: 2059 आवारा कुत्तों की नसबंदी और एंटी रेबीज टीकाकरण , 262 शिका... - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+  {
+    id: 206,
+    title: `Thirupparankundram row LIVE: Karthigai lamp lit at 'deepathoon'; Supreme Court appointed retired Judges oversee the ceremony`,
+    slug: `thirupparankundram-row-live-karthigai-lamp-lit-at-deepathoon-supreme-c-2026`,
+    original_title: `Thirupparankundram row LIVE: Karthigai lamp lit at 'deepathoon'; Supreme Court appointed retired Judges oversee the ceremony`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:23:31Z`,
+    updated_at: `2026-11-28T13:23:31Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/thirupparankundram-row-live-karthigai-lamp-lit-at-deepathoon-supreme-c-2026.jpg`,
+    image_alt: `Thirupparankundram row LIVE: Karthigai lamp lit at 'deepathoon'; Supreme Court appointed retired Judges oversee the ceremony`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `You don’t have any Active Subscription.`,
+    content: `You don’t have any Active Subscription.
+
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
+
+Weather News November 28, 2026 e-Paper
+
+The View From India Looking at World Affairs from the Indian perspective.
+
+First Day First Show News and reviews from the world of cinema and streaming.
+
+Today's Cache Your download of the top 5 technology stories of the day.
+
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
+
+Data Point Decoding the headlines with facts, figures, and numbers
+
+THEdge At the cutting edge of education and careers
+
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
+
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram
+
+Updated - November 28, 2026 06:27 pm IST
+
+The ceremonial Karthigai lamp was lit at the disputed 'deepathoon' atop the Thirupparankundram hill. 
+                                                  | Photo Credit:  
+                          G. Moorthy
+
+T he Karthigai lamp was lit today at 5 p.m. at the ‘d eepathoon ’ atop the Thiruparankundram Hill. Supreme Court-appointed receivers, retired Meghalaya High Court Chief Justice S. Vaidyanathan and former Madras High Court Judge Justice V. Parthiban, oversaw the arrangements.
+
+Following the lamp lighting, devotees were seen to be celebrating by bursting crackers amid emotional chants of ‘Vetrivel Muruganuku Arohara’ (Salutations to Lord Muruga, who holds the victorious spear). Devotees were also thanking the CRPF personnel outside the temple.
+
+“It was an out-of-the-world experience,” said V. Parthiban, one of the Supreme Court appointed receivers.
+
+The Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai lamp at the disputed stone pillar on Thirupparankundram hill. Hearing the contempt petitions on Friday (November 27, 2026), the court accused the authorities and the Board of Trustees of having acted “according to their political bosses”.
+
+The Supreme Court directed the temple receivers to light the Karthigai Deepam at the stone pillar , ‘deepathoon’, on Saturday (November 28, 2026) after consultations with the priests.
+
+This year’s festival might be over, but the long-standing issue is far from resolved. Disagreements over the use of the hill by the Muslim and Hindu communities, its ownership and traditional practices have existed since 1915. Now, with the apex Court’s order being a temporary arrangement, legal closure is yet to come.
+
+The Karthigai Deepam was illuminated atop the ‘deepathoon’ on the Thirupparankundram hills on Saturday (November 28, 2026), adhering to the directives of the Supreme Court of India.
+
+Devotees were seen to be celebrating the lighting of the Karthigai lamp at the ‘deepathoon’ an hour after the event ended.
+
+Hindu outfits including the BJP raised ‘Arohara’ slogans for Madras Hight Court Judge G.R. Swaminathan, the Supreme Court and CRPF personnel.
+
+Somaskandan, a priest, who lit the lamp at ‘deepathoon’, said it was a very exciting experience to do so as per the Supreme Court order. All rules of the court were followed and it showed the will of the devotees, he added.
+
+‘We The Leaders’ founder K. Annamalai, speaking to reporters at the Coimbatore airport, said the Supreme Court’s directive permitting the lighting of the ceremonial lamp at the stone pillar was “not a verdict to be celebrated,” as it merely affirmed the right of worship for devotees of Lord Murugan.
+
+Noting that Muslims visit the dargah on the hill while Hindu devotees light the lamp at the stone pillar, he said the matter should end there and warned that repeatedly dragging it out would only lead to unnecessary untoward consequences.
+
+Mr. Annamalai described the conduct of the event under Central Reserve Police Force (CRPF) security as a bad precedent that should not have occurred, blaming the State Government and urging it to introspect.
+
+Following the Karthigai lamp lighting at ‘deepathoon’, devotees were seen to be thanking the CRPF personnel outside the Thirupparankundram temple.
+
+Amid tight security by armed CRPF personnel and chants of ‘Vetrivel, Veeravel,’ (Victory to Lord Muruga’s spear, Hail the valourous spear of the lord), the lamp was lit.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece)`,
+    title_en: `Thirupparankundram row LIVE: Karthigai lamp lit at 'deepathoon'; Supreme Court appointed retired Judges oversee the ceremony`,
+    summary_en: `You don’t have any Active Subscription.`,
+    content_en: `You don’t have any Active Subscription.
+
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
+
+Weather News November 28, 2026 e-Paper
+
+The View From India Looking at World Affairs from the Indian perspective.
+
+First Day First Show News and reviews from the world of cinema and streaming.
+
+Today's Cache Your download of the top 5 technology stories of the day.
+
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
+
+Data Point Decoding the headlines with facts, figures, and numbers
+
+THEdge At the cutting edge of education and careers
+
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
+
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram
+
+Updated - November 28, 2026 06:27 pm IST
+
+The ceremonial Karthigai lamp was lit at the disputed 'deepathoon' atop the Thirupparankundram hill. 
+                                                  | Photo Credit:  
+                          G. Moorthy
+
+T he Karthigai lamp was lit today at 5 p.m. at the ‘d eepathoon ’ atop the Thiruparankundram Hill. Supreme Court-appointed receivers, retired Meghalaya High Court Chief Justice S. Vaidyanathan and former Madras High Court Judge Justice V. Parthiban, oversaw the arrangements.
+
+Following the lamp lighting, devotees were seen to be celebrating by bursting crackers amid emotional chants of ‘Vetrivel Muruganuku Arohara’ (Salutations to Lord Muruga, who holds the victorious spear). Devotees were also thanking the CRPF personnel outside the temple.
+
+“It was an out-of-the-world experience,” said V. Parthiban, one of the Supreme Court appointed receivers.
+
+The Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai lamp at the disputed stone pillar on Thirupparankundram hill. Hearing the contempt petitions on Friday (November 27, 2026), the court accused the authorities and the Board of Trustees of having acted “according to their political bosses”.
+
+The Supreme Court directed the temple receivers to light the Karthigai Deepam at the stone pillar , ‘deepathoon’, on Saturday (November 28, 2026) after consultations with the priests.
+
+This year’s festival might be over, but the long-standing issue is far from resolved. Disagreements over the use of the hill by the Muslim and Hindu communities, its ownership and traditional practices have existed since 1915. Now, with the apex Court’s order being a temporary arrangement, legal closure is yet to come.
+
+The Karthigai Deepam was illuminated atop the ‘deepathoon’ on the Thirupparankundram hills on Saturday (November 28, 2026), adhering to the directives of the Supreme Court of India.
+
+Devotees were seen to be celebrating the lighting of the Karthigai lamp at the ‘deepathoon’ an hour after the event ended.
+
+Hindu outfits including the BJP raised ‘Arohara’ slogans for Madras Hight Court Judge G.R. Swaminathan, the Supreme Court and CRPF personnel.
+
+Somaskandan, a priest, who lit the lamp at ‘deepathoon’, said it was a very exciting experience to do so as per the Supreme Court order. All rules of the court were followed and it showed the will of the devotees, he added.
+
+‘We The Leaders’ founder K. Annamalai, speaking to reporters at the Coimbatore airport, said the Supreme Court’s directive permitting the lighting of the ceremonial lamp at the stone pillar was “not a verdict to be celebrated,” as it merely affirmed the right of worship for devotees of Lord Murugan.
+
+Noting that Muslims visit the dargah on the hill while Hindu devotees light the lamp at the stone pillar, he said the matter should end there and warned that repeatedly dragging it out would only lead to unnecessary untoward consequences.
+
+Mr. Annamalai described the conduct of the event under Central Reserve Police Force (CRPF) security as a bad precedent that should not have occurred, blaming the State Government and urging it to introspect.
+
+Following the Karthigai lamp lighting at ‘deepathoon’, devotees were seen to be thanking the CRPF personnel outside the Thirupparankundram temple.
+
+Amid tight security by armed CRPF personnel and chants of ‘Vetrivel, Veeravel,’ (Victory to Lord Muruga’s spear, Hail the valourous spear of the lord), the lamp was lit.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Thirupparankundram row LIVE: Karthigai lamp lit at 'deepathoon'; Supreme Court appointed retired Judges oversee the ceremony.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 207,
+    title: `सुप्रीम कोर्ट ने तिरुपरनकुंद्रम पहाड़ी पर दीप जलाने का दिया आदेश, क्या है तमिलनाडु में इस विवाद की वजह`,
+    slug: `politics-breaking-report-66576-207-2026`,
+    original_title: `सुप्रीम कोर्ट ने तिरुपरनकुंद्रम पहाड़ी पर दीप जलाने का दिया आदेश, क्या है तमिलनाडु में इस विवाद की वजह`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:23:33Z`,
+    updated_at: `2026-11-28T13:23:33Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/ckx289r5qerzo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/politics-breaking-report-66576-207-2026.jpg`,
+    image_alt: `सुप्रीम कोर्ट ने तिरुपरनकुंद्रम पहाड़ी पर दीप जलाने का दिया आदेश, क्या है तमिलनाडु में इस विवाद की वजह`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `सुप्रीम कोर्ट के आदेश के मुताबिक़ तमिलनाडु के मदुरै स्थित तिरुपरनकुंद्रम पहाड़ी पर शनिवार शाम कार्तिगई दीपम प्रज्ज्वलित किया गया.`,
+    content: `सुप्रीम कोर्ट के आदेश के मुताबिक़ तमिलनाडु के मदुरै स्थित तिरुपरनकुंद्रम पहाड़ी पर शनिवार शाम कार्तिगई दीपम प्रज्ज्वलित किया गया.
+
+यह कार्यक्रम सुप्रीम कोर्ट की ओर से नियुक्त सेवानिवृत्त न्यायाधीशों की प्रशासनिक समिति की निगरानी में आयोजित किया गया.
+
+बीबीसी तमिल के मुताबिक़, समिति ने पहले घोषणा की थी कि 28 नवंबर को शाम 5 बजे पहाड़ी की चोटी पर स्थित पत्थर के स्तंभ पर दीप प्रज्ज्वलित किया जाएगा. सुप्रीम कोर्ट के निर्देशों के अनुसार इसके लिए विशेष तैयारियां की गई थीं.
+
+सुरक्षा व्यवस्था के तहत तिरुपरनकुंद्रम मंदिर और पहाड़ी क्षेत्र में केंद्रीय रिज़र्व पुलिस बल (सीआरपीएफ़) की तैनाती की गई थी.
+
+कार्यक्रम से पहले सुप्रीम कोर्ट की ओर से नियुक्त सेवानिवृत्त न्यायाधीश एस. वैद्यनाथन और वी. पार्थिबन ने तिरुपरनकुंद्रम सुब्रमण्य स्वामी मंदिर पहुंचकर व्यवस्थाओं का निरीक्षण किया.
+
+इसके बाद दोनों न्यायाधीश दीप प्रज्ज्वलन के लिए आवश्यक सामग्री के साथ पहाड़ी मार्ग से ऊपर गए.
+
+उधर, पहाड़ी पर स्थित सिकंदर दरगाह में भी विशेष दुआ और प्रार्थना का आयोजन किया गया. इस कार्यक्रम को लेकर क्षेत्र में विशेष सतर्कता बरती गई थी.
+
+स्थानीय लोगों ने उम्मीद जताई थी कि पूरे कार्यक्रम का आयोजन शांतिपूर्वक संपन्न होगा.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+दीप प्रज्ज्वलित होने के साथ ही कार्तिगई दीपम का यह आयोजन बिना किसी अप्रिय घटना के संपन्न हुआ.
+
+प्रशासन और सुरक्षा एजेंसियां पूरे क्षेत्र में निगरानी बनाए हुए हैं.
+
+तमिलनाडु के मदुरै में स्थित तिरुपरनकुंद्रम पहाड़ी हिन्दुओं और मुसलमानों, दोनों के लिए धार्मिक महत्व रखती है. पहाड़ी पर एक ओर प्रसिद्ध तिरुपरनकुंद्रम सुब्रमण्य स्वामी मंदिर है, जो भगवान मुरुगन के छह प्रमुख तीर्थस्थलों (आरुपडई वीडु) में से एक माना जाता है. वहीं पहाड़ी पर सिकंदर दरगाह भी स्थित है, जहां मुस्लिम श्रद्धालु जाते हैं.
+
+पिछले साल मद्रास हाई कोर्ट ने इसी मामले में आदेश दिया था, लेकिन तमिलनाडु सरकार ने उसे लागू नहीं किया था.
+
+इस काम को सुनिश्चित करने के लिए सुप्रीम कोर्ट ने रिटायर्ड जजों को रिसीवर नियुक्त करते हुए तिरुपरनकुंद्रम मंदिर के ट्रस्टियों के बोर्ड को निलंबित कर दिया था.
+
+सुप्रीम कोर्ट ने कार्तिगई दीपम दिवस (24 नवंबर) पर तिरुपरनकुंद्रम पहाड़ी की चोटी पर स्थित पत्थर के स्तंभ पर एक बार दीपक जलाने की अनुमति दी थी, लेकिन उस दिन हमेशा की तरह उचिपिल्लैयार मंदिर के पास स्थित दीपम मंडपम में ही दीपक जलाया गया.
+
+हालांकि, इस बार सरकार के लिए सुप्रीम कोर्ट के आदेश को लागू करने से बचना मुश्किल हो गया था. कोर्ट ने चेतावनी दी थी कि आदेश का पालन नहीं करने पर गंभीर नतीजे भुगतने पड़ सकते हैं.
+
+इस मामले में तमिलनाडु के मुख्य सचिव समेत वरिष्ठ अधिकारियों को अदालत की अवमानना का नोटिस भी भेजा गया था.
+
+पिछले साल यह मामला मद्रास हाई कोर्ट की मदुरै पीठ पहुंचा था. उस समय न्यायाधीश जीआर स्वामीनाथन ने आदेश दिया था कि परंपरागत जगह उचि पिल्लैयार मंडपम के साथ-साथ पहाड़ की चोटी पर बने पत्थर के खंभे पर भी दीपम जलाया जाए.
+
+बाद में हाई कोर्ट की एक खंडपीठ ने भी इस आदेश को बरकरार रखा था.
+
+हालांकि, ज़िला प्रशासन ने कानून-व्यवस्था की समस्या पैदा होने की आशंका जताते हुए इस आदेश को लागू नहीं किया था.
+
+दीपक सिर्फ परंपरागत जगह उचि पिल्लैयार मंडपम में ही जलाया गया. इसके बाद आरोप लगा कि सरकार ने अदालत के आदेश का पालन नहीं किया.
+
+इधर मामले की सुनवाई के दौरान सुप्रीम कोर्ट में भारतीय पुरातत्व सर्वेक्षण (आर्कियोलॉजिकल सर्वे ऑफ़ इंडिया-एएसआई) की ओर से पेश वकील ने दलील दी कि तमिलनाडु पुलिस ने उसके अधिकारियों को तिरुपरनकुंद्रम स्थित दीपथून का निरीक्षण करने से रोक दिया.
+
+एएसआई ने बताया कि उसके अधिकारी, 24 नवंबर को दोपहर करीब 3:15 बजे परिसर पहुंचे थे, लेकिन वहां ड्यूटी पर तैनात वरिष्ठ पुलिस अधिकारियों ने उन्हें आगे जाने की अनुमति नहीं दी थी.
+
+एएसआई ने आरोप लगाया कि मद्रास हाई कोर्ट के आदेश के बावजूद उसे दीपथून का निरीक्षण करने से रोका गया.
+
+उसने तिरुपरनकुंद्रम मामले में तमिलनाडु सरकार की इस कार्रवाई को प्रशासनिक अधिकारों का अतिक्रमण बताया था.
+
+एएसआई ने सुप्रीम कोर्ट से आग्रह किया था कि उसके आदेश को लागू करने में विफल रहे अधिकारियों के ख़िलाफ़ आपराधिक कार्यवाही शुरू की जाए.
+
+साथ ही, अदालत की निगरानी में तमिलनाडु सरकार की ओर से आदेश का पालन सुनिश्चित करने के लिए एक निगरानी समिति गठित की जाए.
+
+एएसआई ने साफ़ तौर पर मांग की थी कि तमिलनाडु पुलिस इस मामले के किसी भी पहलू में हस्तक्षेप न करे, जिसमें सुरक्षा व्यवस्था भी शामिल है.
+
+उसने यह भी मांग की थी कि सभी गतिविधियों की निगरानी के लिए एक बाहरी टीम तैनात की जाए.
+
+### 'बोर्ड ऑफ ट्रस्टीज़ ने आदेश का उल्लंघन किया'
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ckx289r5qerzo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `सुप्रीम कोर्ट ने तिरुपरनकुंद्रम पहाड़ी पर दीप जलाने का दिया आदेश, क्या है तमिलनाडु में इस विवाद की वजह`,
+    summary_hi: `सुप्रीम कोर्ट के आदेश के मुताबिक़ तमिलनाडु के मदुरै स्थित तिरुपरनकुंद्रम पहाड़ी पर शनिवार शाम कार्तिगई दीपम प्रज्ज्वलित किया गया.`,
+    content_hi: `सुप्रीम कोर्ट के आदेश के मुताबिक़ तमिलनाडु के मदुरै स्थित तिरुपरनकुंद्रम पहाड़ी पर शनिवार शाम कार्तिगई दीपम प्रज्ज्वलित किया गया.
+
+यह कार्यक्रम सुप्रीम कोर्ट की ओर से नियुक्त सेवानिवृत्त न्यायाधीशों की प्रशासनिक समिति की निगरानी में आयोजित किया गया.
+
+बीबीसी तमिल के मुताबिक़, समिति ने पहले घोषणा की थी कि 28 नवंबर को शाम 5 बजे पहाड़ी की चोटी पर स्थित पत्थर के स्तंभ पर दीप प्रज्ज्वलित किया जाएगा. सुप्रीम कोर्ट के निर्देशों के अनुसार इसके लिए विशेष तैयारियां की गई थीं.
+
+सुरक्षा व्यवस्था के तहत तिरुपरनकुंद्रम मंदिर और पहाड़ी क्षेत्र में केंद्रीय रिज़र्व पुलिस बल (सीआरपीएफ़) की तैनाती की गई थी.
+
+कार्यक्रम से पहले सुप्रीम कोर्ट की ओर से नियुक्त सेवानिवृत्त न्यायाधीश एस. वैद्यनाथन और वी. पार्थिबन ने तिरुपरनकुंद्रम सुब्रमण्य स्वामी मंदिर पहुंचकर व्यवस्थाओं का निरीक्षण किया.
+
+इसके बाद दोनों न्यायाधीश दीप प्रज्ज्वलन के लिए आवश्यक सामग्री के साथ पहाड़ी मार्ग से ऊपर गए.
+
+उधर, पहाड़ी पर स्थित सिकंदर दरगाह में भी विशेष दुआ और प्रार्थना का आयोजन किया गया. इस कार्यक्रम को लेकर क्षेत्र में विशेष सतर्कता बरती गई थी.
+
+स्थानीय लोगों ने उम्मीद जताई थी कि पूरे कार्यक्रम का आयोजन शांतिपूर्वक संपन्न होगा.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+दीप प्रज्ज्वलित होने के साथ ही कार्तिगई दीपम का यह आयोजन बिना किसी अप्रिय घटना के संपन्न हुआ.
+
+प्रशासन और सुरक्षा एजेंसियां पूरे क्षेत्र में निगरानी बनाए हुए हैं.
+
+तमिलनाडु के मदुरै में स्थित तिरुपरनकुंद्रम पहाड़ी हिन्दुओं और मुसलमानों, दोनों के लिए धार्मिक महत्व रखती है. पहाड़ी पर एक ओर प्रसिद्ध तिरुपरनकुंद्रम सुब्रमण्य स्वामी मंदिर है, जो भगवान मुरुगन के छह प्रमुख तीर्थस्थलों (आरुपडई वीडु) में से एक माना जाता है. वहीं पहाड़ी पर सिकंदर दरगाह भी स्थित है, जहां मुस्लिम श्रद्धालु जाते हैं.
+
+पिछले साल मद्रास हाई कोर्ट ने इसी मामले में आदेश दिया था, लेकिन तमिलनाडु सरकार ने उसे लागू नहीं किया था.
+
+इस काम को सुनिश्चित करने के लिए सुप्रीम कोर्ट ने रिटायर्ड जजों को रिसीवर नियुक्त करते हुए तिरुपरनकुंद्रम मंदिर के ट्रस्टियों के बोर्ड को निलंबित कर दिया था.
+
+सुप्रीम कोर्ट ने कार्तिगई दीपम दिवस (24 नवंबर) पर तिरुपरनकुंद्रम पहाड़ी की चोटी पर स्थित पत्थर के स्तंभ पर एक बार दीपक जलाने की अनुमति दी थी, लेकिन उस दिन हमेशा की तरह उचिपिल्लैयार मंदिर के पास स्थित दीपम मंडपम में ही दीपक जलाया गया.
+
+हालांकि, इस बार सरकार के लिए सुप्रीम कोर्ट के आदेश को लागू करने से बचना मुश्किल हो गया था. कोर्ट ने चेतावनी दी थी कि आदेश का पालन नहीं करने पर गंभीर नतीजे भुगतने पड़ सकते हैं.
+
+इस मामले में तमिलनाडु के मुख्य सचिव समेत वरिष्ठ अधिकारियों को अदालत की अवमानना का नोटिस भी भेजा गया था.
+
+पिछले साल यह मामला मद्रास हाई कोर्ट की मदुरै पीठ पहुंचा था. उस समय न्यायाधीश जीआर स्वामीनाथन ने आदेश दिया था कि परंपरागत जगह उचि पिल्लैयार मंडपम के साथ-साथ पहाड़ की चोटी पर बने पत्थर के खंभे पर भी दीपम जलाया जाए.
+
+बाद में हाई कोर्ट की एक खंडपीठ ने भी इस आदेश को बरकरार रखा था.
+
+हालांकि, ज़िला प्रशासन ने कानून-व्यवस्था की समस्या पैदा होने की आशंका जताते हुए इस आदेश को लागू नहीं किया था.
+
+दीपक सिर्फ परंपरागत जगह उचि पिल्लैयार मंडपम में ही जलाया गया. इसके बाद आरोप लगा कि सरकार ने अदालत के आदेश का पालन नहीं किया.
+
+इधर मामले की सुनवाई के दौरान सुप्रीम कोर्ट में भारतीय पुरातत्व सर्वेक्षण (आर्कियोलॉजिकल सर्वे ऑफ़ इंडिया-एएसआई) की ओर से पेश वकील ने दलील दी कि तमिलनाडु पुलिस ने उसके अधिकारियों को तिरुपरनकुंद्रम स्थित दीपथून का निरीक्षण करने से रोक दिया.
+
+एएसआई ने बताया कि उसके अधिकारी, 24 नवंबर को दोपहर करीब 3:15 बजे परिसर पहुंचे थे, लेकिन वहां ड्यूटी पर तैनात वरिष्ठ पुलिस अधिकारियों ने उन्हें आगे जाने की अनुमति नहीं दी थी.
+
+एएसआई ने आरोप लगाया कि मद्रास हाई कोर्ट के आदेश के बावजूद उसे दीपथून का निरीक्षण करने से रोका गया.
+
+उसने तिरुपरनकुंद्रम मामले में तमिलनाडु सरकार की इस कार्रवाई को प्रशासनिक अधिकारों का अतिक्रमण बताया था.
+
+एएसआई ने सुप्रीम कोर्ट से आग्रह किया था कि उसके आदेश को लागू करने में विफल रहे अधिकारियों के ख़िलाफ़ आपराधिक कार्यवाही शुरू की जाए.
+
+साथ ही, अदालत की निगरानी में तमिलनाडु सरकार की ओर से आदेश का पालन सुनिश्चित करने के लिए एक निगरानी समिति गठित की जाए.
+
+एएसआई ने साफ़ तौर पर मांग की थी कि तमिलनाडु पुलिस इस मामले के किसी भी पहलू में हस्तक्षेप न करे, जिसमें सुरक्षा व्यवस्था भी शामिल है.
+
+उसने यह भी मांग की थी कि सभी गतिविधियों की निगरानी के लिए एक बाहरी टीम तैनात की जाए.
+
+### 'बोर्ड ऑफ ट्रस्टीज़ ने आदेश का उल्लंघन किया'
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ckx289r5qerzo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक सुप्रीम कोर्ट ने तिरुपरनकुंद्रम पहाड़ी पर दीप जलाने का दिया आदेश, क्या है तमिलनाडु में इस विवाद की वजह से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 208,
+    title: `8th Pay Commission: JPMorgan estimates 1.83 fitment factor, ₹7.2 lakh crore payout, including ₹4 lakh crore arrears - Livemint`,
+    slug: `8th-pay-commission-jpmorgan-estimates-183-fitment-factor-72-lakh-crore-2026`,
+    original_title: `8th Pay Commission: JPMorgan estimates 1.83 fitment factor, ₹7.2 lakh crore payout, including ₹4 lakh crore arrears - Livemint`,
+    category: `markets`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:23:35Z`,
+    updated_at: `2026-11-28T13:23:35Z`,
+    source_name: `Livemint`,
+    source_url: `https://www.livemint.com/money/personal-finance/8th-pay-commission-jpmorgan-estimates-1-83-fitment-factor-7-2-lakh-crore-payout-including-4-lakh-crore-arrears-11795838064732.html`,
+    source_courtesy: `Source: Livemint`,
+    image_url: `https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `8th Pay Commission: JPMorgan estimates 1.83 fitment factor, ₹7.2 lakh crore payout, including ₹4 lakh crore arrears - Livemint`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Markets, News, India`,
+    summary: `8th Pay Commission: JPMorgan estimates 1.83 fitment factor, ₹7.2 lakh crore payout, including ₹4 lakh crore arrears Livemint India’s salary review to exacerbate fiscal strains, analysts say BusinessLine 8th Pay Commission could add at least`,
+    content: `### The 8th Pay Commission could deliver a 14% gross salary increase with a 1.83 fitment factor, according to JPMorgan. Its estimates project a ₹ 7.2 lakh crore payout, including substantial arrears, across FY28 and FY29.
+
+The implementation of the 8th Pay Commission could lead to a significant increase in salaries and pensions for central government employees and pensioners. Still, the revision will also substantially increase the central government’s expenditure bill.
+
+As per estimates from JPMorgan, the proposed pay revision could cost the government around ₹ 7.2 lakh crore, including nearly ₹ 4 lakh crore in arrears, depending on factors such as the implementation date and how arrears are treated.
+
+Furthermore, it is essential to note that the estimates cover approximately 1.2 crore central government employees and pensioners. Keeping these fundamentals in view, let us discuss the key projections from the report and what they could mean for serving central government employees, pensioners, and associated stakeholders.
+
+### 8th Pay Commission: What fitment factor and salary hike does JP Morgan expect?
+
+JPMorgan expects a fitment factor multiplier of around 1.83. This will subsequently translate into an estimated 14-15% increase in gross pay. The figures are in line with and broadly comparable to the salary growth delivered by the 7th Pay Commission, whose term officially ended on 31 December 2025.
+
+The calculations presented by JPMorgan factor in 60% dearness allowance (DA) and an assumed 14% increase in gross pay. The basic details of the same are as follows:
+
+### JPMorgan’s estimates that central government employees should know
+
+It is essential to keep in mind that the report's fitment factor estimates are considerably lower than the factors of up to 4.38 sought by prominent employee unions such as the Indian Railways Technical Supervisors Association (IRTSA). Along with similar higher figures such as 4 and 3.833 proposed by Bharatiya Pratiraksha Mazdoor Sangh (BPMS) and National Council (Joint Consultative Machinery), or NC-JCM, respectively.
+
+### ₹ 7.2 lakh crore cost: How much could the Centre spend?
+
+JPMorgan estimates that the 8th Pay Commission could result in an additional payout of ₹ 7.2 lakh crore over FY28 and FY29.
+
+### Details of expenditure figures as per financial year
+
+The report by JPMorgan explains how arrears might end up accounting for a substantial part of this expenditure. Furthermore, if the revised pay structure is made effective starting from 1 January 2026, the estimated arrears might reach ₹ 4 lakh crore. Still, shifting the effective date to 1 January 2027 could bring this down to about ₹ 1.8 lakh crore.
+
+JPMorgan expects the implementation of the 8th Pay Commission from November 2027, i.e., about 1 year from now. These are just projections; they are not confirmed government decisions. The actual revision of salaries, effective date of implementation and arrears are going to be dependent on the commission’s recommendations and the central government’s approval.
+
+Disclaimer: The figures mentioned are projections based on JPMorgan's estimates and should not be treated as confirmed government decisions. The actual salary revision, implementation date and arrears will depend on the 8th Pay Commission's recommendations and the Centre's approval.
+
+Shivam writes on personal finance, equity markets, and mutual funds. He has previously contributed to several leading publications, including Moneycontrol. He can be reached at shivam.shukla@htdigital.in
+
+Catch all the Instant Personal Loan , Business Loan , Business News , Money news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+
+Log in to our website to save your bookmarks. It'll just take a moment.
+
+Oops! Looks like you have exceeded the limit to bookmark the image. Remove some to bookmark this image.
+
+---
+
+**Original Source:** [Livemint](https://www.livemint.com/money/personal-finance/8th-pay-commission-jpmorgan-estimates-1-83-fitment-factor-7-2-lakh-crore-payout-including-4-lakh-crore-arrears-11795838064732.html)`,
+    title_en: `8th Pay Commission: JPMorgan estimates 1.83 fitment factor, ₹7.2 lakh crore payout, including ₹4 lakh crore arrears - Livemint`,
+    summary_en: `8th Pay Commission: JPMorgan estimates 1.83 fitment factor, ₹7.2 lakh crore payout, including ₹4 lakh crore arrears Livemint India’s salary review to exacerbate fiscal strains, analysts say BusinessLine 8th Pay Commission could add at least`,
+    content_en: `### The 8th Pay Commission could deliver a 14% gross salary increase with a 1.83 fitment factor, according to JPMorgan. Its estimates project a ₹ 7.2 lakh crore payout, including substantial arrears, across FY28 and FY29.
+
+The implementation of the 8th Pay Commission could lead to a significant increase in salaries and pensions for central government employees and pensioners. Still, the revision will also substantially increase the central government’s expenditure bill.
+
+As per estimates from JPMorgan, the proposed pay revision could cost the government around ₹ 7.2 lakh crore, including nearly ₹ 4 lakh crore in arrears, depending on factors such as the implementation date and how arrears are treated.
+
+Furthermore, it is essential to note that the estimates cover approximately 1.2 crore central government employees and pensioners. Keeping these fundamentals in view, let us discuss the key projections from the report and what they could mean for serving central government employees, pensioners, and associated stakeholders.
+
+### 8th Pay Commission: What fitment factor and salary hike does JP Morgan expect?
+
+JPMorgan expects a fitment factor multiplier of around 1.83. This will subsequently translate into an estimated 14-15% increase in gross pay. The figures are in line with and broadly comparable to the salary growth delivered by the 7th Pay Commission, whose term officially ended on 31 December 2025.
+
+The calculations presented by JPMorgan factor in 60% dearness allowance (DA) and an assumed 14% increase in gross pay. The basic details of the same are as follows:
+
+### JPMorgan’s estimates that central government employees should know
+
+It is essential to keep in mind that the report's fitment factor estimates are considerably lower than the factors of up to 4.38 sought by prominent employee unions such as the Indian Railways Technical Supervisors Association (IRTSA). Along with similar higher figures such as 4 and 3.833 proposed by Bharatiya Pratiraksha Mazdoor Sangh (BPMS) and National Council (Joint Consultative Machinery), or NC-JCM, respectively.
+
+### ₹ 7.2 lakh crore cost: How much could the Centre spend?
+
+JPMorgan estimates that the 8th Pay Commission could result in an additional payout of ₹ 7.2 lakh crore over FY28 and FY29.
+
+### Details of expenditure figures as per financial year
+
+The report by JPMorgan explains how arrears might end up accounting for a substantial part of this expenditure. Furthermore, if the revised pay structure is made effective starting from 1 January 2026, the estimated arrears might reach ₹ 4 lakh crore. Still, shifting the effective date to 1 January 2027 could bring this down to about ₹ 1.8 lakh crore.
+
+JPMorgan expects the implementation of the 8th Pay Commission from November 2027, i.e., about 1 year from now. These are just projections; they are not confirmed government decisions. The actual revision of salaries, effective date of implementation and arrears are going to be dependent on the commission’s recommendations and the central government’s approval.
+
+Disclaimer: The figures mentioned are projections based on JPMorgan's estimates and should not be treated as confirmed government decisions. The actual salary revision, implementation date and arrears will depend on the 8th Pay Commission's recommendations and the Centre's approval.
+
+Shivam writes on personal finance, equity markets, and mutual funds. He has previously contributed to several leading publications, including Moneycontrol. He can be reached at shivam.shukla@htdigital.in
+
+Catch all the Instant Personal Loan , Business Loan , Business News , Money news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+
+Log in to our website to save your bookmarks. It'll just take a moment.
+
+Oops! Looks like you have exceeded the limit to bookmark the image. Remove some to bookmark this image.
+
+---
+
+**Original Source:** [Livemint](https://www.livemint.com/money/personal-finance/8th-pay-commission-jpmorgan-estimates-1-83-fitment-factor-7-2-lakh-crore-payout-including-4-lakh-crore-arrears-11795838064732.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Livemint.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for 8th Pay Commission: JPMorgan estimates 1.83 fitment factor, ₹7.2 lakh crore payout, including ₹4 lakh crore arrears - Livemint.`,
+    primary_source: `Livemint`,
+  },
+  {
+    id: 209,
+    title: `Gold-Silver Price: सोने और चांदी की कीमतों में हलचल, जानें 28 नवंबर को देश के प्रमुख शहरों का ताजा भाव - Navbharat Live`,
+    slug: `gold-silver-price-28-navbharat-live-2026`,
+    original_title: `Gold-Silver Price: सोने और चांदी की कीमतों में हलचल, जानें 28 नवंबर को देश के प्रमुख शहरों का ताजा भाव - Navbharat Live`,
+    category: `markets`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:23:36Z`,
+    updated_at: `2026-11-28T13:23:36Z`,
+    source_name: `Navbharat Live`,
+    source_url: `https://navbharatlive.com/business/gold-silver-price-today-28-november-2026-city-wise-rates-india-ags10`,
+    source_courtesy: `Source: Navbharat Live`,
+    image_url: `/images/articles/gold-silver-price-28-navbharat-live-2026.jpg`,
+    image_alt: `Gold-Silver Price: सोने और चांदी की कीमतों में हलचल, जानें 28 नवंबर को देश के प्रमुख शहरों का ताजा भाव - Navbharat Live`,
+    image_courtesy: `Image: Navbharat Live (External Source Attribution)`,
+    image_photographer: `Navbharat Live`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Markets, News, India`,
+    summary: `Highlights:28 नवंबर को 24 कैरेट गोल्ड 12,655 रुपये प्रति ग्राम पर पहुंचा22 कैरेट सोने का भाव 11,540 रुपये प्रति ग्राम28 नवंबर को भारत में चांदी की कीमत 1.70 लाख रुपये प्रति किलोग्रामडॉलर की चाल, वैश्विक मांग और औद्योगिक जरूरतों से तय हो रहे`,
+    content: `Highlights:28 नवंबर को 24 कैरेट गोल्ड 12,655 रुपये प्रति ग्राम पर पहुंचा22 कैरेट सोने का भाव 11,540 रुपये प्रति ग्राम28 नवंबर को भारत में चांदी की कीमत 1.70 लाख रुपये प्रति किलोग्रामडॉलर की चाल, वैश्विक मांग और औद्योगिक जरूरतों से तय हो रहे सोने-चांदी के भाव.Gold Silver Rate Today 28 November 2026: देश में सोने और चांदी की कीमतों में उतार-चढ़ाव का दौर जारी है।
+
+28 नवंबर 2026 को भारतीय सर्राफा बाजार में सोने के भाव में मामूली तेजी देखने को मिली है। शादी-विवाह के सीजन और त्योहारी मांग के बीच सोने की कीमतों पर घरेलू और अंतरराष्ट्रीय बाजार की गतिविधियों का असर बना हुआ है। ऐसे में अगर आप आज सोना या चांदी खरीदने की योजना बना रहे हैं तो बाजार के ताजा भाव जानना आपके लिए जरूरी है।.आज सोने का भाव28 नवंबर को भारत में 24 कैरेट सोने की कीमत 12,655 रुपये प्रति ग्राम दर्ज की गई है।
+
+वहीं, 22 कैरेट सोने का भाव 11,540 रुपये प्रति ग्राम है। 24 कैरेट सोना सबसे शुद्ध माना जाता है, जबकि 22 कैरेट सोने में लगभग 91.67 प्रतिशत शुद्धता होती है। इसी वजह से आभूषण बनाने के लिए आमतौर पर 22 कैरेट सोने का इस्तेमाल किया जाता है।सोने की कीमतों में होने वाले बदलाव के पीछे कई कारण हैं।
+
+अंतरराष्ट्रीय बाजार में सोने की मांग, अमेरिकी डॉलर की स्थिति, रुपये की विनिमय दर और महंगाई जैसे कारक इसकी कीमतों को प्रभावित करते हैं। इसके अलावा शादी-विवाह और त्योहारों के दौरान आभूषणों की मांग बढ़ने से भी घरेलू बाजार में सोने के भाव पर असर पड़ता है।.Share Market: शेयर बाजार में कोहराम!
+
+हफ्ते के आखिरी दिन 989 अंक टूटा सेंसेक्स, निफ्टी 25,650 के नीचे फिसला.आज चांदी का भावसोने के साथ-साथ चांदी की कीमतों पर भी निवेशकों और खरीदारों की नजर बनी हुई है। 28 नवंबर 2026 को भारत में चांदी का भाव करीब 1,70,000 रुपये प्रति किलोग्राम है। वहीं, 925 शुद्धता वाली स्टर्लिंग सिल्वर की कीमत लगभग 1,69,900 रुपये प्रति किलोग्राम बताई गई है।चांदी का इस्तेमाल केवल आभूषण बनाने तक सीमित नहीं है।
+
+इलेक्ट्रॉनिक्स, सौर ऊर्जा और कई औद्योगिक क्षेत्रों में भी इसकी बड़ी भूमिका है। यही वजह है कि चांदी की कीमतों पर औद्योगिक मांग का भी सीधा असर पड़ता है।.8th Pay Commission: 2026 से पहले रिटायर पेंशनर्स को नहीं मिलेगा लाभ? संगठनों का विरोध, PM मोदी से दखल की मांग.सोना-चांदी खरीदने से पहले इन बातों का रखें ध्यानसोने और चांदी के भाव अलग-अलग शहरों में स्थानीय टैक्स, परिवहन लागत और बाजार की मांग के कारण अलग हो सकते हैं।
+
+इसके अलावा आभूषण खरीदते समय जीएसटी और मेकिंग चार्ज भी चुकाना पड़ता है। इसलिए खरीदारी से पहले अपने शहर के सर्राफा बाजार में कीमत की पुष्टि जरूर करें। सोने के आभूषण खरीदते समय हॉलमार्क और HUID नंबर की जांच करना भी जरूरी है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/business/gold-silver-price-today-28-november-2026-city-wise-rates-india-ags10)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Gold-Silver Price: सोने और चांदी की कीमतों में हलचल, जानें 28 नवंबर को देश के प्रमुख शहरों का ताजा भाव - Navbharat Live`,
+    summary_hi: `Highlights:28 नवंबर को 24 कैरेट गोल्ड 12,655 रुपये प्रति ग्राम पर पहुंचा22 कैरेट सोने का भाव 11,540 रुपये प्रति ग्राम28 नवंबर को भारत में चांदी की कीमत 1.70 लाख रुपये प्रति किलोग्रामडॉलर की चाल, वैश्विक मांग और औद्योगिक जरूरतों से तय हो रहे`,
+    content_hi: `Highlights:28 नवंबर को 24 कैरेट गोल्ड 12,655 रुपये प्रति ग्राम पर पहुंचा22 कैरेट सोने का भाव 11,540 रुपये प्रति ग्राम28 नवंबर को भारत में चांदी की कीमत 1.70 लाख रुपये प्रति किलोग्रामडॉलर की चाल, वैश्विक मांग और औद्योगिक जरूरतों से तय हो रहे सोने-चांदी के भाव.Gold Silver Rate Today 28 November 2026: देश में सोने और चांदी की कीमतों में उतार-चढ़ाव का दौर जारी है।
+
+28 नवंबर 2026 को भारतीय सर्राफा बाजार में सोने के भाव में मामूली तेजी देखने को मिली है। शादी-विवाह के सीजन और त्योहारी मांग के बीच सोने की कीमतों पर घरेलू और अंतरराष्ट्रीय बाजार की गतिविधियों का असर बना हुआ है। ऐसे में अगर आप आज सोना या चांदी खरीदने की योजना बना रहे हैं तो बाजार के ताजा भाव जानना आपके लिए जरूरी है।.आज सोने का भाव28 नवंबर को भारत में 24 कैरेट सोने की कीमत 12,655 रुपये प्रति ग्राम दर्ज की गई है।
+
+वहीं, 22 कैरेट सोने का भाव 11,540 रुपये प्रति ग्राम है। 24 कैरेट सोना सबसे शुद्ध माना जाता है, जबकि 22 कैरेट सोने में लगभग 91.67 प्रतिशत शुद्धता होती है। इसी वजह से आभूषण बनाने के लिए आमतौर पर 22 कैरेट सोने का इस्तेमाल किया जाता है।सोने की कीमतों में होने वाले बदलाव के पीछे कई कारण हैं।
+
+अंतरराष्ट्रीय बाजार में सोने की मांग, अमेरिकी डॉलर की स्थिति, रुपये की विनिमय दर और महंगाई जैसे कारक इसकी कीमतों को प्रभावित करते हैं। इसके अलावा शादी-विवाह और त्योहारों के दौरान आभूषणों की मांग बढ़ने से भी घरेलू बाजार में सोने के भाव पर असर पड़ता है।.Share Market: शेयर बाजार में कोहराम!
+
+हफ्ते के आखिरी दिन 989 अंक टूटा सेंसेक्स, निफ्टी 25,650 के नीचे फिसला.आज चांदी का भावसोने के साथ-साथ चांदी की कीमतों पर भी निवेशकों और खरीदारों की नजर बनी हुई है। 28 नवंबर 2026 को भारत में चांदी का भाव करीब 1,70,000 रुपये प्रति किलोग्राम है। वहीं, 925 शुद्धता वाली स्टर्लिंग सिल्वर की कीमत लगभग 1,69,900 रुपये प्रति किलोग्राम बताई गई है।चांदी का इस्तेमाल केवल आभूषण बनाने तक सीमित नहीं है।
+
+इलेक्ट्रॉनिक्स, सौर ऊर्जा और कई औद्योगिक क्षेत्रों में भी इसकी बड़ी भूमिका है। यही वजह है कि चांदी की कीमतों पर औद्योगिक मांग का भी सीधा असर पड़ता है।.8th Pay Commission: 2026 से पहले रिटायर पेंशनर्स को नहीं मिलेगा लाभ? संगठनों का विरोध, PM मोदी से दखल की मांग.सोना-चांदी खरीदने से पहले इन बातों का रखें ध्यानसोने और चांदी के भाव अलग-अलग शहरों में स्थानीय टैक्स, परिवहन लागत और बाजार की मांग के कारण अलग हो सकते हैं।
+
+इसके अलावा आभूषण खरीदते समय जीएसटी और मेकिंग चार्ज भी चुकाना पड़ता है। इसलिए खरीदारी से पहले अपने शहर के सर्राफा बाजार में कीमत की पुष्टि जरूर करें। सोने के आभूषण खरीदते समय हॉलमार्क और HUID नंबर की जांच करना भी जरूरी है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/business/gold-silver-price-today-28-november-2026-city-wise-rates-india-ags10)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Markets श्रेणी से जुड़ी यह रिपोर्ट Navbharat Live के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Gold-Silver Price: सोने और चांदी की कीमतों में हलचल, जानें 28 नवंबर को देश के प्रमुख शहरों का ताजा भाव - Navbharat Live से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Navbharat Live`,
+  },
+  {
+    id: 210,
+    title: `Last-Gen iPhone 17 Pro at ₹79,443: What the Flipkart Deal Needs - shattered.io`,
+    slug: `last-gen-iphone-17-pro-at-79443-what-the-flipkart-deal-needs-shattered-2026`,
+    original_title: `Last-Gen iPhone 17 Pro at ₹79,443: What the Flipkart Deal Needs - shattered.io`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `8 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:23:38Z`,
+    updated_at: `2026-11-28T13:23:38Z`,
+    source_name: `shattered.io`,
+    source_url: `https://shattered.io/iphone-17-pro-79443-flipkart-under-80000-exchange-bank-offer-nov-28/`,
+    source_courtesy: `Source: shattered.io`,
+    image_url: `/images/articles/last-gen-iphone-17-pro-at-79443-what-the-flipkart-deal-needs-shattered-2026.webp`,
+    image_alt: `Last-Gen iPhone 17 Pro at ₹79,443: What the Flipkart Deal Needs - shattered.io`,
+    image_courtesy: `Image: shattered.io (External Source Attribution)`,
+    image_photographer: `shattered.io`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `The iPhone 17 Pro price in India slipped below ₹80,000 on November 26, 2026, but only for buyers who stack a phone trade-in and a bank card on top of Flipkart’s listing. Moneycontrol reported that the 256GB model, listed at ₹1,30,900, falls`,
+    content: `The iPhone 17 Pro price in India slipped below ₹80,000 on November 26, 2026, but only for buyers who stack a phone trade-in and a bank card on top of Flipkart’s listing. Moneycontrol reported that the 256GB model, listed at ₹1,30,900, falls to an effective ₹79,443 once a ₹47,450 exchange discount and a ₹4,000 ICICI Bank offer apply.
+
+The ₹79,443 figure sits far below both the ₹1,30,900 Flipkart listing and Apple’s ₹1,34,900 list price for the 256GB iPhone 17 Pro. The number is real, but it is a ceiling on what a perfect buyer pays, not a price tag any shopper can walk up to. For a view of how Apple fares in other big markets right now, see our report on Apple’s 57% share of US smartphone shipments in Q3 .
+
+Headlines across Indian tech media framed the story as an iPhone 17 Pro under ₹80,000, and search interest followed, even though Apple’s newest Pro phones are now the iPhone 18 Pro and iPhone 18 Pro Max, which makes the iPhone 17 Pro the previous Pro generation. This analysis breaks the offer into its parts, tests how fragile the sub-₹80,000 claim is, compares the Flipkart route with Apple’s own, and lists what no outlet has confirmed. It sits in our hardware coverage because the story is about what a flagship phone really costs once the marketing math is stripped out.
+
+Don't miss new tech stories on Google
+
+Add Shattered once in the Google app and our stories show up in your news suggestions.
+
+### What Flipkart is offering on the iPhone 17 Pro
+
+The reported deal centers on the Apple iPhone 17 Pro in 256GB, in the Deep Blue colour. Flipkart lists the phone at ₹1,30,900. Two discounts bring that figure down. The first is an exchange discount of up to ₹47,450. The second is a ₹4,000 bank offer for buyers who pay with an ICICI Bank card. Reports also mention a ₹7 SuperCoin benefit, a tiny line item that matters for the arithmetic, as the next section shows.
+
+Add it up and the effective price is ₹79,443. The offer was reported on November 26, 2026, two days before this article. Firstpost ran the story under a headline that puts “deals, discounts, bank offers” front and center, and RS Web Solutions, Udaipur Kiran and News Minimalist carried versions of it as well. Digg’s aggregation headline gave the sharpest practical advice of the lot: bring the right bank card.
+
+Three words in the coverage carry most of the weight: “up to,” “effective” and “combined.” The exchange figure is a maximum. The final price is an effective number, not a sticker price. And the headline only works when both offers combine. Strip any one of them out and the phone climbs back above ₹80,000. Readers who treat the headline as a price drop on the product itself will be disappointed at checkout.
+
+### How the ₹79,443 price is built, line by line
+
+The reported components fit together with almost no slack. Start at the listing and subtract each benefit in turn.
+
+The table is my arithmetic on the reported figures. The outlets give the components and the final number, and they do not publish a step-by-step ledger.
+
+The ₹7 SuperCoin detail looks trivial, yet it explains the odd ending on ₹79,443. Without it, the same math gives ₹79,450. The ₹7 gap suggests the reported final price counts the SuperCoin benefit as a deduction. The coverage I reviewed does not spell out that mechanic, so treat it as the most likely reading rather than a confirmed one. The practical point is small: you cannot spend ₹7 of coins on anything meaningful, and the real action sits in the other two lines.
+
+The exchange covers ₹47,450, or 36.3% of the listed price. The ICICI offer covers ₹4,000, or 3.1%. That split matters. About 92% of the total reduction comes from the trade-in, which means this is chiefly an exchange promotion with a bank sweetener, not a retailer markdown. Anyone without a qualifying phone to hand over sees a very different deal.
+
+### The ₹557 margin: why the under-₹80,000 claim is fragile
+
+The effective price clears the ₹80,000 line by ₹557. That is 0.7% of the threshold. If the exchange value falls by just ₹558 from the maximum, which is about 1.2% of ₹47,450, the phone crosses back over ₹80,000. Pricing teams love round-number thresholds because they make better headlines, and this one sits right on the edge.
+
+The next table shows how fast the price moves as the exchange value changes. It keeps the reported list price, the ₹4,000 ICICI offer and the ₹7 SuperCoin benefit fixed, and it varies only the trade-in. These are illustrative calculations, not quotes from Flipkart.
+
+Read the table from the bottom up. With no trade-in, the ICICI card alone leaves the phone at roughly ₹1,26,893 on these assumptions. Every ₹10,000 of lost exchange value adds ₹10,000 to the final bill, one for one. To land under ₹80,000, a buyer needs an exchange value of about ₹46,900 or more. That sits within a hair of the best case.
+
+### Exchange value: why the iPhone 15 Pro Max sets the ceiling
+
+Reports tie the ₹47,450 maximum to an Apple iPhone 15 Pro Max, and they say the actual figure depends on the condition of the device you hand over. That one sentence decides who gets the headline price. The maximum is the number Flipkart can show for the best-case trade-in, and a scratched screen, a worn battery or a missing accessory can pull the offer down.
+
+The coverage does not publish a table of exchange values for other phones, and it does not say what a 14-series or 13-series iPhone fetches. Any figure someone quotes for those models comes from outside the reporting I verified, so I won’t repeat one here. The honest summary: a buyer holding an iPhone 15 Pro Max in excellent shape sits in the sweet spot, and everyone else should expect a higher final price and should check it before committing.
+
+### What the exchange structure implies for Apple
+
+An exchange-heavy deal does something useful for Apple. It pulls a recent-generation iPhone off a user’s hands and puts an iPhone 17 Pro, the previous Pro generation, in its place, while iPhone 18 Pro is Apple’s current Pro. Apple loses nothing on its published list price because Flipkart funds the promotion through its own offer structure. How the cost splits between Flipkart, the exchange partner and the card issuer is not in the reporting, so I will not guess at the shares.
+
+### Bank offers: ICICI on Flipkart versus Apple’s own cashback
+
+The Flipkart route uses a ₹4,000 discount tied to ICICI Bank. Apple’s official India page runs a separate bank program. It lists instant cashback with qualifying American Express, Axis Bank and ICICI Bank cards, and it sets a minimum transaction value of ₹10,001. The page, as reported, does not put a rupee figure on that cashback in the material I reviewed, so no comparison of the two bank offers by amount is possible.
+
+One thing is clear. ICICI appears on both routes, which makes an ICICI card the most flexible card to hold this week. American Express and Axis Bank cards appear only on Apple’s list. A shopper with an Axis card should price the Apple route before assuming Flipkart wins. A shopper with an ICICI card has options in both places and can compare the final checkout totals side by side.
+
+Card-linked offers also come with the usual fine print: eligible card types, per-transaction caps and payment-mode rules. None of that detail appears in the reports I verified, so check the offer terms on the checkout page itself. If you want a sense of how another bank-financed phone promotion reads once the terms are on the table, our piece on the Galaxy A27 5G 24-month installment offer shows the pattern.
+
+### Apple’s ₹99,900 India price and the unexplained ₹31,000 gap
+
+Here is the number that needs context. Apple’s India list price for the 256GB iPhone 17 Pro is ₹1,34,900. Flipkart’s listing for the 256GB model sits at ₹1,30,900, and the effective ₹79,443 only appears after exchange and bank benefits. The reports I reviewed do not break down the full gap.
+
+The simplest reading is that “from ₹99,900” refers to a different configuration, because a “from” price often points to an entry configuration. The reporting does not say which tier carries the ₹99,900 figure, so I cannot confirm that. A second possibility is that the two prices rest on different bases, for example a list price against a price that already includes some benefit. That, too, is speculation, and I flag it as such. A third possibility is that the “from” figure belongs to another model: Apple India’s iPhone page reportedly lists the iPhone 17 from ₹99,900, while the reported original India launch price of the 256GB iPhone 17 Pro is ₹1,34,900, which was still the official list price reported on November 27, 2026. Readers should open both pages, match the storage and colour, and compare like with like before they trust either number.
+
+---
+
+**Original Source:** [shattered.io](https://shattered.io/iphone-17-pro-79443-flipkart-under-80000-exchange-bank-offer-nov-28/)`,
+    title_en: `Last-Gen iPhone 17 Pro at ₹79,443: What the Flipkart Deal Needs - shattered.io`,
+    summary_en: `The iPhone 17 Pro price in India slipped below ₹80,000 on November 26, 2026, but only for buyers who stack a phone trade-in and a bank card on top of Flipkart’s listing. Moneycontrol reported that the 256GB model, listed at ₹1,30,900, falls`,
+    content_en: `The iPhone 17 Pro price in India slipped below ₹80,000 on November 26, 2026, but only for buyers who stack a phone trade-in and a bank card on top of Flipkart’s listing. Moneycontrol reported that the 256GB model, listed at ₹1,30,900, falls to an effective ₹79,443 once a ₹47,450 exchange discount and a ₹4,000 ICICI Bank offer apply.
+
+The ₹79,443 figure sits far below both the ₹1,30,900 Flipkart listing and Apple’s ₹1,34,900 list price for the 256GB iPhone 17 Pro. The number is real, but it is a ceiling on what a perfect buyer pays, not a price tag any shopper can walk up to. For a view of how Apple fares in other big markets right now, see our report on Apple’s 57% share of US smartphone shipments in Q3 .
+
+Headlines across Indian tech media framed the story as an iPhone 17 Pro under ₹80,000, and search interest followed, even though Apple’s newest Pro phones are now the iPhone 18 Pro and iPhone 18 Pro Max, which makes the iPhone 17 Pro the previous Pro generation. This analysis breaks the offer into its parts, tests how fragile the sub-₹80,000 claim is, compares the Flipkart route with Apple’s own, and lists what no outlet has confirmed. It sits in our hardware coverage because the story is about what a flagship phone really costs once the marketing math is stripped out.
+
+Don't miss new tech stories on Google
+
+Add Shattered once in the Google app and our stories show up in your news suggestions.
+
+### What Flipkart is offering on the iPhone 17 Pro
+
+The reported deal centers on the Apple iPhone 17 Pro in 256GB, in the Deep Blue colour. Flipkart lists the phone at ₹1,30,900. Two discounts bring that figure down. The first is an exchange discount of up to ₹47,450. The second is a ₹4,000 bank offer for buyers who pay with an ICICI Bank card. Reports also mention a ₹7 SuperCoin benefit, a tiny line item that matters for the arithmetic, as the next section shows.
+
+Add it up and the effective price is ₹79,443. The offer was reported on November 26, 2026, two days before this article. Firstpost ran the story under a headline that puts “deals, discounts, bank offers” front and center, and RS Web Solutions, Udaipur Kiran and News Minimalist carried versions of it as well. Digg’s aggregation headline gave the sharpest practical advice of the lot: bring the right bank card.
+
+Three words in the coverage carry most of the weight: “up to,” “effective” and “combined.” The exchange figure is a maximum. The final price is an effective number, not a sticker price. And the headline only works when both offers combine. Strip any one of them out and the phone climbs back above ₹80,000. Readers who treat the headline as a price drop on the product itself will be disappointed at checkout.
+
+### How the ₹79,443 price is built, line by line
+
+The reported components fit together with almost no slack. Start at the listing and subtract each benefit in turn.
+
+The table is my arithmetic on the reported figures. The outlets give the components and the final number, and they do not publish a step-by-step ledger.
+
+The ₹7 SuperCoin detail looks trivial, yet it explains the odd ending on ₹79,443. Without it, the same math gives ₹79,450. The ₹7 gap suggests the reported final price counts the SuperCoin benefit as a deduction. The coverage I reviewed does not spell out that mechanic, so treat it as the most likely reading rather than a confirmed one. The practical point is small: you cannot spend ₹7 of coins on anything meaningful, and the real action sits in the other two lines.
+
+The exchange covers ₹47,450, or 36.3% of the listed price. The ICICI offer covers ₹4,000, or 3.1%. That split matters. About 92% of the total reduction comes from the trade-in, which means this is chiefly an exchange promotion with a bank sweetener, not a retailer markdown. Anyone without a qualifying phone to hand over sees a very different deal.
+
+### The ₹557 margin: why the under-₹80,000 claim is fragile
+
+The effective price clears the ₹80,000 line by ₹557. That is 0.7% of the threshold. If the exchange value falls by just ₹558 from the maximum, which is about 1.2% of ₹47,450, the phone crosses back over ₹80,000. Pricing teams love round-number thresholds because they make better headlines, and this one sits right on the edge.
+
+The next table shows how fast the price moves as the exchange value changes. It keeps the reported list price, the ₹4,000 ICICI offer and the ₹7 SuperCoin benefit fixed, and it varies only the trade-in. These are illustrative calculations, not quotes from Flipkart.
+
+Read the table from the bottom up. With no trade-in, the ICICI card alone leaves the phone at roughly ₹1,26,893 on these assumptions. Every ₹10,000 of lost exchange value adds ₹10,000 to the final bill, one for one. To land under ₹80,000, a buyer needs an exchange value of about ₹46,900 or more. That sits within a hair of the best case.
+
+### Exchange value: why the iPhone 15 Pro Max sets the ceiling
+
+Reports tie the ₹47,450 maximum to an Apple iPhone 15 Pro Max, and they say the actual figure depends on the condition of the device you hand over. That one sentence decides who gets the headline price. The maximum is the number Flipkart can show for the best-case trade-in, and a scratched screen, a worn battery or a missing accessory can pull the offer down.
+
+The coverage does not publish a table of exchange values for other phones, and it does not say what a 14-series or 13-series iPhone fetches. Any figure someone quotes for those models comes from outside the reporting I verified, so I won’t repeat one here. The honest summary: a buyer holding an iPhone 15 Pro Max in excellent shape sits in the sweet spot, and everyone else should expect a higher final price and should check it before committing.
+
+### What the exchange structure implies for Apple
+
+An exchange-heavy deal does something useful for Apple. It pulls a recent-generation iPhone off a user’s hands and puts an iPhone 17 Pro, the previous Pro generation, in its place, while iPhone 18 Pro is Apple’s current Pro. Apple loses nothing on its published list price because Flipkart funds the promotion through its own offer structure. How the cost splits between Flipkart, the exchange partner and the card issuer is not in the reporting, so I will not guess at the shares.
+
+### Bank offers: ICICI on Flipkart versus Apple’s own cashback
+
+The Flipkart route uses a ₹4,000 discount tied to ICICI Bank. Apple’s official India page runs a separate bank program. It lists instant cashback with qualifying American Express, Axis Bank and ICICI Bank cards, and it sets a minimum transaction value of ₹10,001. The page, as reported, does not put a rupee figure on that cashback in the material I reviewed, so no comparison of the two bank offers by amount is possible.
+
+One thing is clear. ICICI appears on both routes, which makes an ICICI card the most flexible card to hold this week. American Express and Axis Bank cards appear only on Apple’s list. A shopper with an Axis card should price the Apple route before assuming Flipkart wins. A shopper with an ICICI card has options in both places and can compare the final checkout totals side by side.
+
+Card-linked offers also come with the usual fine print: eligible card types, per-transaction caps and payment-mode rules. None of that detail appears in the reports I verified, so check the offer terms on the checkout page itself. If you want a sense of how another bank-financed phone promotion reads once the terms are on the table, our piece on the Galaxy A27 5G 24-month installment offer shows the pattern.
+
+### Apple’s ₹99,900 India price and the unexplained ₹31,000 gap
+
+Here is the number that needs context. Apple’s India list price for the 256GB iPhone 17 Pro is ₹1,34,900. Flipkart’s listing for the 256GB model sits at ₹1,30,900, and the effective ₹79,443 only appears after exchange and bank benefits. The reports I reviewed do not break down the full gap.
+
+The simplest reading is that “from ₹99,900” refers to a different configuration, because a “from” price often points to an entry configuration. The reporting does not say which tier carries the ₹99,900 figure, so I cannot confirm that. A second possibility is that the two prices rest on different bases, for example a list price against a price that already includes some benefit. That, too, is speculation, and I flag it as such. A third possibility is that the “from” figure belongs to another model: Apple India’s iPhone page reportedly lists the iPhone 17 from ₹99,900, while the reported original India launch price of the 256GB iPhone 17 Pro is ₹1,34,900, which was still the official list price reported on November 27, 2026. Readers should open both pages, match the storage and colour, and compare like with like before they trust either number.
+
+---
+
+**Original Source:** [shattered.io](https://shattered.io/iphone-17-pro-79443-flipkart-under-80000-exchange-bank-offer-nov-28/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to shattered.io.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Last-Gen iPhone 17 Pro at ₹79,443: What the Flipkart Deal Needs - shattered.io.`,
+    primary_source: `shattered.io`,
+  },
+  {
+    id: 211,
+    title: `भारत में जल्द लॉन्च हो सकता है OnePlus Pad Go 2r टैबलेट, सामने आया लॉन्च टाइमलाइन - Jagran`,
+    slug: `oneplus-pad-go-2r-jagran-2026`,
+    original_title: `भारत में जल्द लॉन्च हो सकता है OnePlus Pad Go 2r टैबलेट, सामने आया लॉन्च टाइमलाइन - Jagran`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:23:41Z`,
+    updated_at: `2026-11-28T13:23:41Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/technology/tech-news-oneplus-tipped-to-launch-new-pad-go-2r-tablet-in-india-early-next-month-40451427.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/oneplus-pad-go-2r-jagran-2026.webp`,
+    image_alt: `भारत में जल्द लॉन्च हो सकता है OnePlus Pad Go 2r टैबलेट, सामने आया लॉन्च टाइमलाइन - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `OnePlus कथित तौर पर जल्द ही भारतीय बाजार में अपना नया टैबलेट OnePlus Pad Go 2r लॉन्च करने की तैयारी कर रहा है। हालांकि, कंपनी ने अभी तक इसके नाम या लॉन्च पर कोई आधिकारिक बयान नहीं दिया है।`,
+    content: `OnePlus कथित तौर पर जल्द ही भारतीय बाजार में अपना नया टैबलेट OnePlus Pad Go 2r लॉन्च करने की तैयारी कर रहा है। हालांकि, कंपनी ने अभी तक इसके नाम या लॉन्च पर कोई आधिकारिक बयान नहीं दिया है।
+
+OnePlus Pad Go 2 के बाद अब 2r की बारी! Photo- OnePlus Pad Go 2.
+
+टेक्नोलॉजी डेस्क, नई दिल्ली। OnePlus भारतीय मार्केट के लिए एक नए टैबलेट, OnePlus Pad Go 2r पर काम कर रहा है। ये जानकारी रिपोर्ट्स से मिली है। जहां एक तरफ OnePlus इसके होने की खबर पर पूरी तरह खामोश है, वहीं दूसरी तरफ इसकी संभावित लॉन्च टाइमलाइन ऑनलाइन लीक हो गई है। लीक से पता चलता है कि ये टैबलेट अगले महीने की शुरुआत में देश में आ जाएगा। भारत में कंपनी का लेटेस्ट टैबलेट फ्लैगशिप OnePlus Pad 4 है। अब ये देखना बाकी है कि अपकमिंग OnePlus Pad Go 2r पिछले साल लॉन्च हुए OnePlus Pad Go 2 के साथ कोई हार्डवेयर फीचर्स शेयर करेगा या नहीं।
+
+सोशल मीडिया प्लेटफॉर्म X पर एक पोस्ट में टिप्स्टर योगेश बरार (@heyitsyogesh) ने दावा किया है कि OnePlus Pad Go 2r भारत में 9 दिसंबर को लॉन्च होगा। हालांकि, टिप्स्टर ने इस टैबलेट के बारे में कोई और जानकारी शेयर नहीं की है।
+
+OnePlus ने भी अभी तक इस डिवाइस के नाम या लॉन्च डेट को ऑफिशियली कन्फर्म नहीं किया है। हम उम्मीद कर सकते हैं कि इसे भारतीय मार्केट में कंपनी की Pad Go सीरीज के तहत ही पोजिशन किया जाएगा। इस साल मई में Snapdragon 8 Elite Gen 5 प्रोसेसर के साथ लॉन्च हुआ OnePlus Pad 4 कंपनी का लेटेस्ट टैबलेट है। इसके 8GB RAM और 256GB ऑनबोर्ड स्टोरेज वेरिएंट की कीमत 59,999 रुपये है।
+
+OnePlus has a new tablet coming soon to India OnePlus Pad Go 2r - December 9th
+
+OnePlus Pad Go 2 दिसंबर 2025 में आया था और ये Lavender Drift और Shadow Black कलर्स में 39,499 रुपये की शुरुआती कीमत पर खरीदने के लिए अवेलेबल है। इसमें 120Hz तक के रिफ्रेश रेट वाला 12.1-इंच का 2.8K LCD डिस्प्ले मिलता है। दावा है कि ये डिस्प्ले 600 निट्स की पीक ब्राइटनेस देता है। ये MediaTek Dimensity 7300-Ultra चिपसेट पर चलता है और इसमें 33W वायर्ड फास्ट चार्जिंग सपोर्ट के साथ 10,050mAh की बैटरी पैक की गई है।
+
+ये टैबलेट चुनिंदा वेरिएंट्स पर 5G कनेक्टिविटी को भी सपोर्ट करता है और इसमें कंपनी का Open Canvas मल्टीटास्किंग सॉफ्टवेयर मिलता है। ये OnePlus Pad Go 2 Stylo को भी सपोर्ट करता है। इसमें पीछे की तरफ सिंगल 8-मेगापिक्सल कैमरा दिया गया है। वहीं, फ्रंट में वीडियो कॉलिंग और सेल्फी के लिए 8-मेगापिक्सल का फ्रंट-फेसिंग कैमरा मिलता है। इसमें चार स्पीकर्स, 8GB LPDDR5x RAM और 256GB तक की UFS 3.1 स्टोरेज दी गई है।
+
+यह भी पढ़ें: OnePlus भारत में लॉन्च करेगा सस्ता स्मार्टफोन, फ्लैट पैनल और ट्रिपल रियर कैमरा सेटअप से होगा लैस
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/technology/tech-news-oneplus-tipped-to-launch-new-pad-go-2r-tablet-in-india-early-next-month-40451427.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `भारत में जल्द लॉन्च हो सकता है OnePlus Pad Go 2r टैबलेट, सामने आया लॉन्च टाइमलाइन - Jagran`,
+    summary_hi: `OnePlus कथित तौर पर जल्द ही भारतीय बाजार में अपना नया टैबलेट OnePlus Pad Go 2r लॉन्च करने की तैयारी कर रहा है। हालांकि, कंपनी ने अभी तक इसके नाम या लॉन्च पर कोई आधिकारिक बयान नहीं दिया है।`,
+    content_hi: `OnePlus कथित तौर पर जल्द ही भारतीय बाजार में अपना नया टैबलेट OnePlus Pad Go 2r लॉन्च करने की तैयारी कर रहा है। हालांकि, कंपनी ने अभी तक इसके नाम या लॉन्च पर कोई आधिकारिक बयान नहीं दिया है।
+
+OnePlus Pad Go 2 के बाद अब 2r की बारी! Photo- OnePlus Pad Go 2.
+
+टेक्नोलॉजी डेस्क, नई दिल्ली। OnePlus भारतीय मार्केट के लिए एक नए टैबलेट, OnePlus Pad Go 2r पर काम कर रहा है। ये जानकारी रिपोर्ट्स से मिली है। जहां एक तरफ OnePlus इसके होने की खबर पर पूरी तरह खामोश है, वहीं दूसरी तरफ इसकी संभावित लॉन्च टाइमलाइन ऑनलाइन लीक हो गई है। लीक से पता चलता है कि ये टैबलेट अगले महीने की शुरुआत में देश में आ जाएगा। भारत में कंपनी का लेटेस्ट टैबलेट फ्लैगशिप OnePlus Pad 4 है। अब ये देखना बाकी है कि अपकमिंग OnePlus Pad Go 2r पिछले साल लॉन्च हुए OnePlus Pad Go 2 के साथ कोई हार्डवेयर फीचर्स शेयर करेगा या नहीं।
+
+सोशल मीडिया प्लेटफॉर्म X पर एक पोस्ट में टिप्स्टर योगेश बरार (@heyitsyogesh) ने दावा किया है कि OnePlus Pad Go 2r भारत में 9 दिसंबर को लॉन्च होगा। हालांकि, टिप्स्टर ने इस टैबलेट के बारे में कोई और जानकारी शेयर नहीं की है।
+
+OnePlus ने भी अभी तक इस डिवाइस के नाम या लॉन्च डेट को ऑफिशियली कन्फर्म नहीं किया है। हम उम्मीद कर सकते हैं कि इसे भारतीय मार्केट में कंपनी की Pad Go सीरीज के तहत ही पोजिशन किया जाएगा। इस साल मई में Snapdragon 8 Elite Gen 5 प्रोसेसर के साथ लॉन्च हुआ OnePlus Pad 4 कंपनी का लेटेस्ट टैबलेट है। इसके 8GB RAM और 256GB ऑनबोर्ड स्टोरेज वेरिएंट की कीमत 59,999 रुपये है।
+
+OnePlus has a new tablet coming soon to India OnePlus Pad Go 2r - December 9th
+
+OnePlus Pad Go 2 दिसंबर 2025 में आया था और ये Lavender Drift और Shadow Black कलर्स में 39,499 रुपये की शुरुआती कीमत पर खरीदने के लिए अवेलेबल है। इसमें 120Hz तक के रिफ्रेश रेट वाला 12.1-इंच का 2.8K LCD डिस्प्ले मिलता है। दावा है कि ये डिस्प्ले 600 निट्स की पीक ब्राइटनेस देता है। ये MediaTek Dimensity 7300-Ultra चिपसेट पर चलता है और इसमें 33W वायर्ड फास्ट चार्जिंग सपोर्ट के साथ 10,050mAh की बैटरी पैक की गई है।
+
+ये टैबलेट चुनिंदा वेरिएंट्स पर 5G कनेक्टिविटी को भी सपोर्ट करता है और इसमें कंपनी का Open Canvas मल्टीटास्किंग सॉफ्टवेयर मिलता है। ये OnePlus Pad Go 2 Stylo को भी सपोर्ट करता है। इसमें पीछे की तरफ सिंगल 8-मेगापिक्सल कैमरा दिया गया है। वहीं, फ्रंट में वीडियो कॉलिंग और सेल्फी के लिए 8-मेगापिक्सल का फ्रंट-फेसिंग कैमरा मिलता है। इसमें चार स्पीकर्स, 8GB LPDDR5x RAM और 256GB तक की UFS 3.1 स्टोरेज दी गई है।
+
+यह भी पढ़ें: OnePlus भारत में लॉन्च करेगा सस्ता स्मार्टफोन, फ्लैट पैनल और ट्रिपल रियर कैमरा सेटअप से होगा लैस
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/technology/tech-news-oneplus-tipped-to-launch-new-pad-go-2r-tablet-in-india-early-next-month-40451427.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक भारत में जल्द लॉन्च हो सकता है OnePlus Pad Go 2r टैबलेट, सामने आया लॉन्च टाइमलाइन - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+  {
+    id: 212,
+    title: `Seven students killed and nearly 100 injured in explosion in Afghanistan, official says`,
+    slug: `seven-students-killed-and-nearly-100-injured-in-explosion-in-afghanist-2026`,
+    original_title: `Seven students killed and nearly 100 injured in explosion in Afghanistan, official says`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:23:42Z`,
+    updated_at: `2026-11-28T13:23:42Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/news/articles/ckp80jyz6dl8o`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/seven-students-killed-and-nearly-100-injured-in-explosion-in-afghanist-2026.jpg`,
+    image_alt: `Seven students killed and nearly 100 injured in explosion in Afghanistan, official says`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `At least 10 students have been killed and 110 others have been injured following an explosion near a school in Afghanistan, a spokesperson has told the BBC.`,
+    content: `At least 10 students have been killed and 110 others have been injured following an explosion near a school in Afghanistan, a spokesperson has told the BBC.
+
+The incident happened on Saturday morning in the Anderseir area of Asadabad, the capital of Kunar province, the spokesperson for the Taliban government's interior ministry said.
+
+Posting on X, Abdul Mateen Qani said that according to initial investigations, the blast was caused by "negligence and carelessness" at an explosives depot belonging to nearby mining companies.
+
+An investigation into the incident was ongoing, he added.
+
+The province's culture and information director Sami ul Haq Bayan said the blast took place in a house near Shagai Middle School in Asadabad as explosives were being prepared for mining and blasting rock, reports AFP.
+
+The Associated Press also cites the official saying up to 15 wounded people remain in hospital, while the rest have been discharged after treatment.
+
+Pictures from inside a damaged classroom show shattered glass and debris surrounding abandoned shoes and school bags.
+
+Footage shared on social media showed several wounded children being taken out of cars and carried into the emergency department at a hospital in Asadabad as a large crowd watched on.
+
+Photos from inside the hospital also show children lying next to each other in hospital beds with bandages strapped around their heads.
+
+Mining is a major industry in Afghanistan but safety standards are often poor, leading to accidents.
+
+### Afghan women with UK university offers 'heartbroken' after visas stopped
+
+### BBC FM radio transmissions suspended in Afghanistan
+
+---
+
+**Original Source:** [BBC](https://www.bbc.com/news/articles/ckp80jyz6dl8o)`,
+    title_en: `Seven students killed and nearly 100 injured in explosion in Afghanistan, official says`,
+    summary_en: `At least 10 students have been killed and 110 others have been injured following an explosion near a school in Afghanistan, a spokesperson has told the BBC.`,
+    content_en: `At least 10 students have been killed and 110 others have been injured following an explosion near a school in Afghanistan, a spokesperson has told the BBC.
+
+The incident happened on Saturday morning in the Anderseir area of Asadabad, the capital of Kunar province, the spokesperson for the Taliban government's interior ministry said.
+
+Posting on X, Abdul Mateen Qani said that according to initial investigations, the blast was caused by "negligence and carelessness" at an explosives depot belonging to nearby mining companies.
+
+An investigation into the incident was ongoing, he added.
+
+The province's culture and information director Sami ul Haq Bayan said the blast took place in a house near Shagai Middle School in Asadabad as explosives were being prepared for mining and blasting rock, reports AFP.
+
+The Associated Press also cites the official saying up to 15 wounded people remain in hospital, while the rest have been discharged after treatment.
+
+Pictures from inside a damaged classroom show shattered glass and debris surrounding abandoned shoes and school bags.
+
+Footage shared on social media showed several wounded children being taken out of cars and carried into the emergency department at a hospital in Asadabad as a large crowd watched on.
+
+Photos from inside the hospital also show children lying next to each other in hospital beds with bandages strapped around their heads.
+
+Mining is a major industry in Afghanistan but safety standards are often poor, leading to accidents.
+
+### Afghan women with UK university offers 'heartbroken' after visas stopped
+
+### BBC FM radio transmissions suspended in Afghanistan
+
+---
+
+**Original Source:** [BBC](https://www.bbc.com/news/articles/ckp80jyz6dl8o)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to BBC.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Seven students killed and nearly 100 injured in explosion in Afghanistan, official says.`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 213,
+    title: `सरकार बनाने की खींचतान के बीच नेतन्याहू का बड़ा दांव, आइजनकोट को पीएम पद देने को हुए तैयार - AajTak`,
+    slug: `world-breaking-report-78434-213-2026`,
+    original_title: `सरकार बनाने की खींचतान के बीच नेतन्याहू का बड़ा दांव, आइजनकोट को पीएम पद देने को हुए तैयार - AajTak`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:23:50Z`,
+    updated_at: `2026-11-28T13:23:50Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/world/story/israel-political-deadlock-benjamin-netanyahu-offers-rotating-pm-post-to-rival-gadi-eisenkot-ntc-apdy-dskc-2708517-2026-11-28`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0a76b6acd8b-gadi-eisenkot-and-benjamin-netanyahu-283741476.jpg`,
+    image_alt: `सरकार बनाने की खींचतान के बीच नेतन्याहू का बड़ा दांव, आइजनकोट को पीएम पद देने को हुए तैयार - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `इजरायल में नई सरकार बनाने को लेकर गतिरोध जारी है. इस बीच प्रधानमंत्री बेंजामिन नेतन्याहू ने अपने राजनीतिक प्रतिद्वंद्वी गादी आइजेनकोट को प्रधानमंत्री पद देने का प्रस्ताव रखा है. इसके तहत दोनों नेता बारी-बारी से प्रधानमंत्री बन सकते हैं. रिप`,
+    content: `इजरायल में नई सरकार बनाने को लेकर गतिरोध जारी है. इस बीच प्रधानमंत्री बेंजामिन नेतन्याहू ने अपने राजनीतिक प्रतिद्वंद्वी गादी आइजेनकोट को प्रधानमंत्री पद देने का प्रस्ताव रखा है. इसके तहत दोनों नेता बारी-बारी से प्रधानमंत्री बन सकते हैं. रिपोर्ट के मुताबिक, नेतन्याहू खुद दूसरे चरण में प्रधानमंत्री बनने के लिए तैयार हैं.
+
+और पढ़ेंअगर यह प्रस्ताव मंजूर होता है तो इसे नेतन्याहू की ओर से बड़ा राजनीतिक समझौता माना जाएगा. दरअसल, नेतन्याहू के नेतृत्व वाला दक्षिणपंथी गठबंधन बहुमत हासिल करने में नाकाम रहा है. ऐसे में सत्ता में बने रहने के लिए उन्होंने यह प्रस्ताव दिया है. हालांकि, नेतन्याहू के करीबी लोगों में भी इस फैसले को लेकर पूरी सहमति नहीं है.
+
+चैनल 13 के मुताबिक, आइजेनकोट को यह प्रस्ताव अनौपचारिक माध्यम से दिया गया है.27 अक्टूबर को हुए इजरायल के चुनाव में किसी भी गठबंधन को सरकार बनाने के लिए जरूरी बहुमत नहीं मिला. यह चुनाव हमास के हमले और ईरान के साथ संघर्ष के बाद पहला चुनाव था.किसकी कितनी सीटेंनेतन्याहू के नेतृत्व वाले गठबंधन को 53 सीटें मिलीं, जबकि सरकार बनाने के लिए 120 सदस्यीय संसद में 61 सीटों की जरूरत है.
+
+वहीं, आइजेनकोट के गठबंधन को 48 सीटें मिलीं. अरब पार्टियों राम और जॉइंट लिस्ट ने 19 सीटें जीतीं, जिससे सरकार बनाने में उनकी भूमिका अहम हो गई है. हालांकि, नेतन्याहू और आइजेनकोट दोनों पहले ही अरब पार्टियों के साथ गठबंधन करने से इनकार कर चुके हैं. Advertisement        इजरायल के राष्ट्रपति इसाक हर्जोग ने इस महीने की शुरुआत में आइजेनकोट को सरकार बनाने की जिम्मेदारी दी थी.
+
+उन्हें बहुमत जुटाने के लिए 6 दिसंबर तक का समय दिया गया है. अगर आइजेनकोट सरकार बनाने में नाकाम रहते हैं, तो हर्जोग नेतन्याहू को सरकार बनाने का मौका दे सकते हैं.अगर दोनों नेता सरकार बनाने में नाकाम रहते हैं तो इजरायल में फिर से चुनाव हो सकते हैं. ऐसे में नेतन्याहू और आइजेनकोट दोनों के लिए सरकार बनाने का रास्ता निकालना जरूरी है.आइजेनकोट के सामने क्या है चुनौती?आइजेनकोट नेतन्याहू के प्रस्ताव को लेकर अभी भी काफी सावधान हैं.
+
+उन्होंने अपने गठबंधन के सहयोगियों यायर गोलान और यिसरेल बेइतेनु प्रमुख एविगडोर लिबरमैन से वादा किया है कि उनकी मंजूरी के बिना वह नेतन्याहू के साथ मिलकर सरकार नहीं बनाएंगे. वहीं, उनके एक अन्य सहयोगी नफ्ताली बेनेट सार्वजनिक रूप से नेतन्याहू की लिकुड पार्टी के साथ एकता सरकार बनाने का समर्थन कर चुके हैं.लिबरमैन ने इसी हफ्ते पहले ही अंदेशा जताया था कि नेतन्याहू ऐसा प्रस्ताव दे सकते हैं.
+
+उन्होंने इसे सरकार बनने की प्रक्रिया को रोकने की कोशिश बताया. उनका कहना है कि भ्रष्टाचार के कई मामलों का सामना कर रहे नेतन्याहू बातचीत को आखिरी समय तक खींच सकते हैं और फिर इसे छोड़कर इजरायल को एक और चुनाव की ओर ले जा सकते हैं. ---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/israel-political-deadlock-benjamin-netanyahu-offers-rotating-pm-post-to-rival-gadi-eisenkot-ntc-apdy-dskc-2708517-2026-11-28)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `सरकार बनाने की खींचतान के बीच नेतन्याहू का बड़ा दांव, आइजनकोट को पीएम पद देने को हुए तैयार - AajTak`,
+    summary_hi: `इजरायल में नई सरकार बनाने को लेकर गतिरोध जारी है. इस बीच प्रधानमंत्री बेंजामिन नेतन्याहू ने अपने राजनीतिक प्रतिद्वंद्वी गादी आइजेनकोट को प्रधानमंत्री पद देने का प्रस्ताव रखा है. इसके तहत दोनों नेता बारी-बारी से प्रधानमंत्री बन सकते हैं. रिप`,
+    content_hi: `इजरायल में नई सरकार बनाने को लेकर गतिरोध जारी है. इस बीच प्रधानमंत्री बेंजामिन नेतन्याहू ने अपने राजनीतिक प्रतिद्वंद्वी गादी आइजेनकोट को प्रधानमंत्री पद देने का प्रस्ताव रखा है. इसके तहत दोनों नेता बारी-बारी से प्रधानमंत्री बन सकते हैं. रिपोर्ट के मुताबिक, नेतन्याहू खुद दूसरे चरण में प्रधानमंत्री बनने के लिए तैयार हैं.
+
+और पढ़ेंअगर यह प्रस्ताव मंजूर होता है तो इसे नेतन्याहू की ओर से बड़ा राजनीतिक समझौता माना जाएगा. दरअसल, नेतन्याहू के नेतृत्व वाला दक्षिणपंथी गठबंधन बहुमत हासिल करने में नाकाम रहा है. ऐसे में सत्ता में बने रहने के लिए उन्होंने यह प्रस्ताव दिया है. हालांकि, नेतन्याहू के करीबी लोगों में भी इस फैसले को लेकर पूरी सहमति नहीं है.
+
+चैनल 13 के मुताबिक, आइजेनकोट को यह प्रस्ताव अनौपचारिक माध्यम से दिया गया है.27 अक्टूबर को हुए इजरायल के चुनाव में किसी भी गठबंधन को सरकार बनाने के लिए जरूरी बहुमत नहीं मिला. यह चुनाव हमास के हमले और ईरान के साथ संघर्ष के बाद पहला चुनाव था.किसकी कितनी सीटेंनेतन्याहू के नेतृत्व वाले गठबंधन को 53 सीटें मिलीं, जबकि सरकार बनाने के लिए 120 सदस्यीय संसद में 61 सीटों की जरूरत है.
+
+वहीं, आइजेनकोट के गठबंधन को 48 सीटें मिलीं. अरब पार्टियों राम और जॉइंट लिस्ट ने 19 सीटें जीतीं, जिससे सरकार बनाने में उनकी भूमिका अहम हो गई है. हालांकि, नेतन्याहू और आइजेनकोट दोनों पहले ही अरब पार्टियों के साथ गठबंधन करने से इनकार कर चुके हैं. Advertisement        इजरायल के राष्ट्रपति इसाक हर्जोग ने इस महीने की शुरुआत में आइजेनकोट को सरकार बनाने की जिम्मेदारी दी थी.
+
+उन्हें बहुमत जुटाने के लिए 6 दिसंबर तक का समय दिया गया है. अगर आइजेनकोट सरकार बनाने में नाकाम रहते हैं, तो हर्जोग नेतन्याहू को सरकार बनाने का मौका दे सकते हैं.अगर दोनों नेता सरकार बनाने में नाकाम रहते हैं तो इजरायल में फिर से चुनाव हो सकते हैं. ऐसे में नेतन्याहू और आइजेनकोट दोनों के लिए सरकार बनाने का रास्ता निकालना जरूरी है.आइजेनकोट के सामने क्या है चुनौती?आइजेनकोट नेतन्याहू के प्रस्ताव को लेकर अभी भी काफी सावधान हैं.
+
+उन्होंने अपने गठबंधन के सहयोगियों यायर गोलान और यिसरेल बेइतेनु प्रमुख एविगडोर लिबरमैन से वादा किया है कि उनकी मंजूरी के बिना वह नेतन्याहू के साथ मिलकर सरकार नहीं बनाएंगे. वहीं, उनके एक अन्य सहयोगी नफ्ताली बेनेट सार्वजनिक रूप से नेतन्याहू की लिकुड पार्टी के साथ एकता सरकार बनाने का समर्थन कर चुके हैं.लिबरमैन ने इसी हफ्ते पहले ही अंदेशा जताया था कि नेतन्याहू ऐसा प्रस्ताव दे सकते हैं.
+
+उन्होंने इसे सरकार बनने की प्रक्रिया को रोकने की कोशिश बताया. उनका कहना है कि भ्रष्टाचार के कई मामलों का सामना कर रहे नेतन्याहू बातचीत को आखिरी समय तक खींच सकते हैं और फिर इसे छोड़कर इजरायल को एक और चुनाव की ओर ले जा सकते हैं. ---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/israel-political-deadlock-benjamin-netanyahu-offers-rotating-pm-post-to-rival-gadi-eisenkot-ntc-apdy-dskc-2708517-2026-11-28)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक सरकार बनाने की खींचतान के बीच नेतन्याहू का बड़ा दांव, आइजनकोट को पीएम पद देने को हुए तैयार - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 214,
+    title: `India tour of New Zealand 2nd Test Day 2 Sairaj Bahutule rues lack of partnerships as India land on thin ice - Cricbuzz`,
+    slug: `india-tour-of-new-zealand-2nd-test-day-2-sairaj-bahutule-rues-lack-of-2026`,
+    original_title: `India tour of New Zealand 2nd Test Day 2 Sairaj Bahutule rues lack of partnerships as India land on thin ice - Cricbuzz`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:23:53Z`,
+    updated_at: `2026-11-28T13:23:53Z`,
+    source_name: `Cricbuzz`,
+    source_url: `https://www.cricbuzz.com/cricket-news/141095/sairaj-bahutule-rues-lack-of-partnerships-as-india-land-on-thin-ice`,
+    source_courtesy: `Source: Cricbuzz`,
+    image_url: `/images/articles/india-tour-of-new-zealand-2nd-test-day-2-sairaj-bahutule-rues-lack-of-2026.webp`,
+    image_alt: `India tour of New Zealand 2nd Test Day 2 Sairaj Bahutule rues lack of partnerships as India land on thin ice - Cricbuzz`,
+    image_courtesy: `Image: Cricbuzz (External Source Attribution)`,
+    image_photographer: `Cricbuzz`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `After a humbling day in Christchurch, India find themselves in the 'could've/should've' chasm. In response to New Zealand's 356, the visitors ended the day on 116/6, trailing by a massive 240 runs. India came into this Test on the back of a`,
+    content: `After a humbling day in Christchurch, India find themselves in the 'could've/should've' chasm. In response to New Zealand's 356, the visitors ended the day on 116/6, trailing by a massive 240 runs. India came into this Test on the back of a strong batting performance last week in Wellington but didn't carry most of those habits in visibly better conditions for the bowlers.
+
+"Definitely a disappointing day," India's spin bowling coach Sairaj Bahutule said. "We couldn't build up partnerships. I think all the batters got starts, it's just that we couldn't convert it into big scores. And I think partnerships on wickets like these are very crucial. And that's what I think was a little bit where we could have just done better." India have also faced bowling troubles in this Test.
+
+New Zealand began Day 2 on 246/5 and despite losing Glenn Phillips early, they managed a few small and nagging partnerships that lasted a little past the morning session. Akash Deep finished with a five-fer but not before the home side added 100-plus to their overnight total. India also struggled with catches, dropping Matt Henry thrice to add to their frustrations.
+
+Bahutule lamented that outcome and also felt his bowlers could've bowled tighter lines on Day 1 when there was a lot of seam movement on offer. "To be honest, the first morning, we could have bowled tighter lines, which didn't happen. The pitch had a lot of seam movement in terms of creating that doubt in the batter's mind.
+
+It's just that the lines were slightly wider. But as the game progressed, we did bowl really well into the right areas, created those opportunities. "I thought we did really well to get those five wickets this morning, in those 110 runs. But I think, you know, we didn't take our catches.
+
+Whatever chances came our way, we didn't capitalize on that. And that hurt us. So this is where we are at the moment. We know the score. We just had a bad day batting-wise. But again, you know, three days, more to go. Anything is possible," Bahutule offered. India will be on thin ice when they walk out to resume their first innings on Day 3.
+
+They have Dhruv Jurel and just the pacers left to surmount the deficit of 240 runs in conditions that have already proven to be better for the bowlers. But Bahutule is anticipating a shift. "I think there is a little bit more here [Christchurch] than in Wellington, for sure. The bounce is more.
+
+The pace also. I think as the pitch has got drier, the bounce, the pace has gone up. Maybe as the sun beats down tomorrow, day after, there's a chance that it might just be better for batting. But again, we've got to, you know, just see how it operates. But I think it's been a pitch ideal for Test match cricket where all the skills are tested," he said.
+
+For New Zealand's Jacob Duffy, the shift in venues has been a welcome change. He went for 201 runs in 33 overs at an economy rate of 6.10 in Wellington as India piled on 720 runs. In Christchurch, he walked off Day 2 with 2-21 in eight overs. He revealed the technical work he put in heading into this fixture.
+
+"Obviously last week didn't go as planned. I was just battling a little bit with rhythm, technique... just a whole bunch of white-ball games probably hasn't been the best for my bowling action, personally. So, just spent a lot of time working on a few technical things in between times and trying to get on top of that," Duffy said.
+
+"But it's still like, that's just mother cricket. You get a little bit lucky sometimes. KL's wicket wasn't my best ball and Rishabh hits one up. So that helps you get into the game a little bit more and I think we started a little bit better than we did last week," he opined. Duffy bowled a full and wide ball to Rahul and got the otherwise stoic Indian batter to play rash - chasing it away from his body and nicking to Devon Conway.
+
+It took a few seconds for Rahul to realise what he'd just done: the sheer disbelief of getting out to an innocuous delivery. That came just four overs after Duffy saw the back of another Wellington centurion in Rishabh Pant. As is his wont, Pant gave Duffy the charge to throw him off his lengths but ended up slicing a good length ball in the air, which Kyle Jamieson caught at point.
+
+"With Rishabh, when he's obviously coming down the track and having a slog every now and then... it's just not getting stressed about that I guess. Sometimes it's going to come off and sometimes it's not. I guess for us it's still like not letting him hit you off your length. Sometimes when guys do that and the bowler reacts and it changes their length, that's exactly what he wants.
+
+So it's [about] not getting deterred by that. And obviously using short balls is still pretty important, no matter if it's Rishabh or anyone else," Duffy offered.
+
+---
+
+**Original Source:** [Cricbuzz](https://www.cricbuzz.com/cricket-news/141095/sairaj-bahutule-rues-lack-of-partnerships-as-india-land-on-thin-ice)`,
+    title_en: `India tour of New Zealand 2nd Test Day 2 Sairaj Bahutule rues lack of partnerships as India land on thin ice - Cricbuzz`,
+    summary_en: `After a humbling day in Christchurch, India find themselves in the 'could've/should've' chasm. In response to New Zealand's 356, the visitors ended the day on 116/6, trailing by a massive 240 runs. India came into this Test on the back of a`,
+    content_en: `After a humbling day in Christchurch, India find themselves in the 'could've/should've' chasm. In response to New Zealand's 356, the visitors ended the day on 116/6, trailing by a massive 240 runs. India came into this Test on the back of a strong batting performance last week in Wellington but didn't carry most of those habits in visibly better conditions for the bowlers.
+
+"Definitely a disappointing day," India's spin bowling coach Sairaj Bahutule said. "We couldn't build up partnerships. I think all the batters got starts, it's just that we couldn't convert it into big scores. And I think partnerships on wickets like these are very crucial. And that's what I think was a little bit where we could have just done better." India have also faced bowling troubles in this Test.
+
+New Zealand began Day 2 on 246/5 and despite losing Glenn Phillips early, they managed a few small and nagging partnerships that lasted a little past the morning session. Akash Deep finished with a five-fer but not before the home side added 100-plus to their overnight total. India also struggled with catches, dropping Matt Henry thrice to add to their frustrations.
+
+Bahutule lamented that outcome and also felt his bowlers could've bowled tighter lines on Day 1 when there was a lot of seam movement on offer. "To be honest, the first morning, we could have bowled tighter lines, which didn't happen. The pitch had a lot of seam movement in terms of creating that doubt in the batter's mind.
+
+It's just that the lines were slightly wider. But as the game progressed, we did bowl really well into the right areas, created those opportunities. "I thought we did really well to get those five wickets this morning, in those 110 runs. But I think, you know, we didn't take our catches.
+
+Whatever chances came our way, we didn't capitalize on that. And that hurt us. So this is where we are at the moment. We know the score. We just had a bad day batting-wise. But again, you know, three days, more to go. Anything is possible," Bahutule offered. India will be on thin ice when they walk out to resume their first innings on Day 3.
+
+They have Dhruv Jurel and just the pacers left to surmount the deficit of 240 runs in conditions that have already proven to be better for the bowlers. But Bahutule is anticipating a shift. "I think there is a little bit more here [Christchurch] than in Wellington, for sure. The bounce is more.
+
+The pace also. I think as the pitch has got drier, the bounce, the pace has gone up. Maybe as the sun beats down tomorrow, day after, there's a chance that it might just be better for batting. But again, we've got to, you know, just see how it operates. But I think it's been a pitch ideal for Test match cricket where all the skills are tested," he said.
+
+For New Zealand's Jacob Duffy, the shift in venues has been a welcome change. He went for 201 runs in 33 overs at an economy rate of 6.10 in Wellington as India piled on 720 runs. In Christchurch, he walked off Day 2 with 2-21 in eight overs. He revealed the technical work he put in heading into this fixture.
+
+"Obviously last week didn't go as planned. I was just battling a little bit with rhythm, technique... just a whole bunch of white-ball games probably hasn't been the best for my bowling action, personally. So, just spent a lot of time working on a few technical things in between times and trying to get on top of that," Duffy said.
+
+"But it's still like, that's just mother cricket. You get a little bit lucky sometimes. KL's wicket wasn't my best ball and Rishabh hits one up. So that helps you get into the game a little bit more and I think we started a little bit better than we did last week," he opined. Duffy bowled a full and wide ball to Rahul and got the otherwise stoic Indian batter to play rash - chasing it away from his body and nicking to Devon Conway.
+
+It took a few seconds for Rahul to realise what he'd just done: the sheer disbelief of getting out to an innocuous delivery. That came just four overs after Duffy saw the back of another Wellington centurion in Rishabh Pant. As is his wont, Pant gave Duffy the charge to throw him off his lengths but ended up slicing a good length ball in the air, which Kyle Jamieson caught at point.
+
+"With Rishabh, when he's obviously coming down the track and having a slog every now and then... it's just not getting stressed about that I guess. Sometimes it's going to come off and sometimes it's not. I guess for us it's still like not letting him hit you off your length. Sometimes when guys do that and the bowler reacts and it changes their length, that's exactly what he wants.
+
+So it's [about] not getting deterred by that. And obviously using short balls is still pretty important, no matter if it's Rishabh or anyone else," Duffy offered.
+
+---
+
+**Original Source:** [Cricbuzz](https://www.cricbuzz.com/cricket-news/141095/sairaj-bahutule-rues-lack-of-partnerships-as-india-land-on-thin-ice)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Cricbuzz.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for India tour of New Zealand 2nd Test Day 2 Sairaj Bahutule rues lack of partnerships as India land on thin ice - Cricbuzz.`,
+    primary_source: `Cricbuzz`,
+  },
+  {
+    id: 215,
+    title: `कहीं पर पैर, कहीं पहुंचे हाथ... ऋषभ पंत ने छोड़ा कैच तो रविचंद्रन अश्विन ने निकाल दी बड़ी कमी, बिगड़ा हुआ था संतुलन - Navbharat Times`,
+    slug: `navbharat-times-2026`,
+    original_title: `कहीं पर पैर, कहीं पहुंचे हाथ... ऋषभ पंत ने छोड़ा कैच तो रविचंद्रन अश्विन ने निकाल दी बड़ी कमी, बिगड़ा हुआ था संतुलन - Navbharat Times`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:23:56Z`,
+    updated_at: `2026-11-28T13:23:56Z`,
+    source_name: `Navbharat Times`,
+    source_url: `https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/ravichandran-ashwin-picks-major-problem-in-rishabh-pant-wicketkeeping-when-he-drops-daryl-mitchell-catch-in-2nd-test/articleshow/136221089.cms`,
+    source_courtesy: `Source: Navbharat Times`,
+    image_url: `/images/articles/navbharat-times-2026.jpg`,
+    image_alt: `कहीं पर पैर, कहीं पहुंचे हाथ... ऋषभ पंत ने छोड़ा कैच तो रविचंद्रन अश्विन ने निकाल दी बड़ी कमी, बिगड़ा हुआ था संतुलन - Navbharat Times`,
+    image_courtesy: `Image: Navbharat Times (External Source Attribution)`,
+    image_photographer: `Navbharat Times`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `नई दिल्ली: क्राइस्टचर्च के हेग्ले ओवल में न्यूजीलैंड के खिलाफ दूसरे टेस्ट के पहले दिन से जुड़ी एक अहम तकनीकी बारीकी पर पूर्व भारतीय ऑलराउंडर रविचंद्रन अश्विन ने ध्यान खींचा है। न्यूजीलैंड की पारी के 56वें ओवर की पहली गेंद पर जसप्रीत बुमराह `,
+    content: `नई दिल्ली: क्राइस्टचर्च के हेग्ले ओवल में न्यूजीलैंड के खिलाफ दूसरे टेस्ट के पहले दिन से जुड़ी एक अहम तकनीकी बारीकी पर पूर्व भारतीय ऑलराउंडर रविचंद्रन अश्विन ने ध्यान खींचा है। न्यूजीलैंड की पारी के 56वें ओवर की पहली गेंद पर जसप्रीत बुमराह के खिलाफ डेरिल मिचेल को जीवनदान मिलने का एक दृश्य साझा करते हुए अश्विन ने विकेटकीपिंग पर चर्चा की।ऋषभ पंत से छूट गया कैचमिचेल ने लेग साइड दिशा में पुल शॉट खेलने की कोशिश की थी, लेकिन गेंद दस्तानों को छूकर विकेट के पीछे गई और विकेटकीपर ऋषभ पंत उस मौके को भुना नहीं सके।
+
+हालांकि यह आसान कैच नहीं था और पंत को गेंद तक पहुंचने के लिए हवा में छलांग लगानी पड़ी थी, लेकिन अश्विन ने उनको लेकर एक बड़ा बयान दिया है।कमेंटेटर्स ने पकड़ी थी पंत की कमीउनके मुताबिक तमिल कमेंटेटरों ने इस घटना के पीछे की मूलभूत तकनीकी कमी यानी विकेटकीपर की पोजिशनिंग पर सटीक टिप्पणी की।
+
+अश्विन ने यह भी स्पष्ट किया कि उनका मकसद किसी खिलाड़ी को निशाना बनाना नहीं बल्कि खेल की तकनीकी समझ और कमेंट्री की गहराई को सामने लाना है।ऋषभ पंत की विकेटकीपिंग में कमीसोशल मीडिया प्लेटफॉर्म एक्स पर अपनी राय रखते हुए अश्विन ने लिखा, 'तमिल कमेंट्री पर शानदार विश्लेषण। इससे पहले कि लोग इसे किसी व्यक्ति से जोड़ें, यह विषय मूलभूत बातों की कमी का है।
+
+इस फ्रेम को देखिए जहां गेंदबाज के गेंद छोड़ने से पहले कीपर संतुलित स्थिति में नहीं आ पाया है, इसलिए जब उसे कैच के लिए छलांग लगानी पड़ी तो वह असंतुलित था। इस स्तर पर ये चीजें समझौता करने लायक नहीं होतीं।'बिगड़ा हुआ था पंत का तालमेलतमिल कमेंटेटरों की बात को आगे बढ़ाते हुए अश्विन ने यह भी जिक्र किया कि बुमराह के गेंद फेंकने के ठीक पहले पंत की लय और कदमों की गति में हल्का तालमेल बिगड़ा हुआ था।
+
+हालांकि इस छूटे मौके के बाद भारत ने वापसी भी की और 65वें ओवर में लेग स्लिप की रणनीति काम आई जहां ध्रुव जुरेल ने शानदार कैच लपककर मिचेल को पवेलियन भेज दिया।एक समय 184/5 पर सिमटने के बाद न्यूजीलैंड ने दिन के अंत तक खुद को संभाल लिया। टॉम ब्लंडेल (नाबाद 53) और ग्लेन फिलिप्स (नाबाद 36) ने छठे विकेट के लिए 62 रनों की अटूट साझेदारी की जिससे मेजबान टीम ने पहले दिन का खेल समाप्त होने तक 5 विकेट पर 246 रन बना लिए।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Times](https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/ravichandran-ashwin-picks-major-problem-in-rishabh-pant-wicketkeeping-when-he-drops-daryl-mitchell-catch-in-2nd-test/articleshow/136221089.cms)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `कहीं पर पैर, कहीं पहुंचे हाथ... ऋषभ पंत ने छोड़ा कैच तो रविचंद्रन अश्विन ने निकाल दी बड़ी कमी, बिगड़ा हुआ था संतुलन - Navbharat Times`,
+    summary_hi: `नई दिल्ली: क्राइस्टचर्च के हेग्ले ओवल में न्यूजीलैंड के खिलाफ दूसरे टेस्ट के पहले दिन से जुड़ी एक अहम तकनीकी बारीकी पर पूर्व भारतीय ऑलराउंडर रविचंद्रन अश्विन ने ध्यान खींचा है। न्यूजीलैंड की पारी के 56वें ओवर की पहली गेंद पर जसप्रीत बुमराह `,
+    content_hi: `नई दिल्ली: क्राइस्टचर्च के हेग्ले ओवल में न्यूजीलैंड के खिलाफ दूसरे टेस्ट के पहले दिन से जुड़ी एक अहम तकनीकी बारीकी पर पूर्व भारतीय ऑलराउंडर रविचंद्रन अश्विन ने ध्यान खींचा है। न्यूजीलैंड की पारी के 56वें ओवर की पहली गेंद पर जसप्रीत बुमराह के खिलाफ डेरिल मिचेल को जीवनदान मिलने का एक दृश्य साझा करते हुए अश्विन ने विकेटकीपिंग पर चर्चा की।ऋषभ पंत से छूट गया कैचमिचेल ने लेग साइड दिशा में पुल शॉट खेलने की कोशिश की थी, लेकिन गेंद दस्तानों को छूकर विकेट के पीछे गई और विकेटकीपर ऋषभ पंत उस मौके को भुना नहीं सके।
+
+हालांकि यह आसान कैच नहीं था और पंत को गेंद तक पहुंचने के लिए हवा में छलांग लगानी पड़ी थी, लेकिन अश्विन ने उनको लेकर एक बड़ा बयान दिया है।कमेंटेटर्स ने पकड़ी थी पंत की कमीउनके मुताबिक तमिल कमेंटेटरों ने इस घटना के पीछे की मूलभूत तकनीकी कमी यानी विकेटकीपर की पोजिशनिंग पर सटीक टिप्पणी की।
+
+अश्विन ने यह भी स्पष्ट किया कि उनका मकसद किसी खिलाड़ी को निशाना बनाना नहीं बल्कि खेल की तकनीकी समझ और कमेंट्री की गहराई को सामने लाना है।ऋषभ पंत की विकेटकीपिंग में कमीसोशल मीडिया प्लेटफॉर्म एक्स पर अपनी राय रखते हुए अश्विन ने लिखा, 'तमिल कमेंट्री पर शानदार विश्लेषण। इससे पहले कि लोग इसे किसी व्यक्ति से जोड़ें, यह विषय मूलभूत बातों की कमी का है।
+
+इस फ्रेम को देखिए जहां गेंदबाज के गेंद छोड़ने से पहले कीपर संतुलित स्थिति में नहीं आ पाया है, इसलिए जब उसे कैच के लिए छलांग लगानी पड़ी तो वह असंतुलित था। इस स्तर पर ये चीजें समझौता करने लायक नहीं होतीं।'बिगड़ा हुआ था पंत का तालमेलतमिल कमेंटेटरों की बात को आगे बढ़ाते हुए अश्विन ने यह भी जिक्र किया कि बुमराह के गेंद फेंकने के ठीक पहले पंत की लय और कदमों की गति में हल्का तालमेल बिगड़ा हुआ था।
+
+हालांकि इस छूटे मौके के बाद भारत ने वापसी भी की और 65वें ओवर में लेग स्लिप की रणनीति काम आई जहां ध्रुव जुरेल ने शानदार कैच लपककर मिचेल को पवेलियन भेज दिया।एक समय 184/5 पर सिमटने के बाद न्यूजीलैंड ने दिन के अंत तक खुद को संभाल लिया। टॉम ब्लंडेल (नाबाद 53) और ग्लेन फिलिप्स (नाबाद 36) ने छठे विकेट के लिए 62 रनों की अटूट साझेदारी की जिससे मेजबान टीम ने पहले दिन का खेल समाप्त होने तक 5 विकेट पर 246 रन बना लिए।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Times](https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/ravichandran-ashwin-picks-major-problem-in-rishabh-pant-wicketkeeping-when-he-drops-daryl-mitchell-catch-in-2nd-test/articleshow/136221089.cms)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट Navbharat Times के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक कहीं पर पैर, कहीं पहुंचे हाथ... ऋषभ पंत ने छोड़ा कैच तो रविचंद्रन अश्विन ने निकाल दी बड़ी कमी, बिगड़ा हुआ था संतुलन - Navbharat Times से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Navbharat Times`,
+  },
+  {
+    id: 216,
+    title: `If you are not afraid...': Diljit Dosanjh thanks fans after bomb threat`,
+    slug: `if-you-are-not-afraid-diljit-dosanjh-thanks-fans-after-bomb-threat-2026`,
+    original_title: `If you are not afraid...': Diljit Dosanjh thanks fans after bomb threat`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:24:00Z`,
+    updated_at: `2026-11-28T13:24:00Z`,
+    source_name: `Rediff.com`,
+    source_url: `https://m.rediff.com/news/report/if-you-are-not-afraid-diljit-dosanjh-thanks-fans-after-bomb-threat/20261128.htm`,
+    source_courtesy: `Source: Rediff.com`,
+    image_url: `/images/articles/if-you-are-not-afraid-diljit-dosanjh-thanks-fans-after-bomb-threat-2026.webp`,
+    image_alt: `If you are not afraid...': Diljit Dosanjh thanks fans after bomb threat`,
+    image_courtesy: `Image: Rediff.com (External Source Attribution)`,
+    image_photographer: `Rediff.com`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Discover how actor-singer Diljit Dosanjh bravely performed his Mumbai concert, defying a serious bomb threat, and how the unwavering support of his fans and robust police security ensured a successful and memorable event.FILE IMAGE: Punjabi`,
+    content: `Discover how actor-singer Diljit Dosanjh bravely performed his Mumbai concert, defying a serious bomb threat, and how the unwavering support of his fans and robust police security ensured a successful and memorable event.FILE IMAGE: Punjabi singer Diljit Dosanjh.Photograph: @diljitdosanjh/X/ANI PhotoKey PointsDiljit Dosanjh performed his Mumbai concert on Friday despite receiving a bomb threat, crediting fans fearlessness for his courage.Over 500 Mumbai police personnel were deployed at the Mahalaxmi Racecourse following a threat email received on Thursday, the 18th anniversary of the 26/11 terror attacks.Dosanjh thanked Mumbai Police for extensive security arrangements and expressed gratitude to fans for not succumbing to intimidation, highlighting the threats objective to disrupt his events.The concert featured hit songs and a memorable moment with actor Sanya Malhotra, concluding with fireworks and a massive sing-along.The concert is part of Dosanjhs AURA India Tour 2026, with a subsequent performance scheduled in Bengaluru on November 29, 2026.Actor-singer Diljit Dosanjh on Friday thanked fans for attending his Mumbai concert despite a bomb threat and said that their fearlessness gave him the courage to perform.Addressing fans at the Mahalaxmi Racecourse in South Mumbai, the singer talked about the challenges that he continues to face in his concerts.&nbsp;Diljit Dosanjh Addresses Concert ChallengesWhen I performed in 2024, I felt I was being troubled quite a bit.
+
+I was asked not to sing this song or that song, and so on. But those were only small things. At this point in 2026, simply managing to hold my show is a cause for stress in itself.&nbsp;We will blow up Diljit with a bomb, wow, wow, wow. If you people are not afraid, can I afford to be afraid?
+
+Hats off to all of you. Even if I were to take my heart out and place it before you, it would not be enough, Dosanjh said to his fans midway through the concert.Security Measures Amidst Bomb ThreatMore than 500 Mumbai police personnel were deployed for the concert following a threat email warning of possible attacks on the venue and Metro stations, officials said earlier in the day.An email threatening blasts, grenade attacks and planting of IEDs at the mayors office, metro rail stations and Dosanjhs concert was received on Thursday, the 18th anniversary of the 26/11 terror attacks.Bomb Detection and Disposal Squad (BDDS) teams have swept the venue, a police official said, adding that entry checks will be carried out across all five gates instead of three.
+
+Besides, private security personnel were also roped in to assist police, an official said.Dosanjh thanked the Mumbai Police for the adequate safety arrangements.I know that as many people are here inside, there are that many people stranded outside. The police personnel are helpless too; they are checking everyone before allowing them in.
+
+My heartfelt thanks to the Mumbai police, he said.Dosanjh Praises Fans ResilienceExpressing gratitude to his fans for refusing to bow down to intimidation, the 42-year-old singer said that the objective behind the threats was to intimidate concert goers and disrupt his events.Their only objective is to ensure that people do not attend Diljits show, to frighten them, threaten them and stop them by any means possible.I dont know why this is happening to me, day after day.
+
+From my side, there is only love for you, even if you throw bombs, Dosanjh said before reciting a couplet about the atmosphere of fear in cities and urging people to move towards the countryside.Concert Highlights and Future Tour DatesThe concert began at around 8:00 PM and through a course of two hours, Dosanjh belted out several hit songs like Clash, Hass Hass, Vibe, Pokito, Kinni Kinni&nbsp;and fan favourites like Saanson ki Maala, Ikk Kudi&nbsp;and Bhool Bhulaiyya.The fans sang in unison and broke into bhangra and danced their hearts out.
+
+Dosanjh said his songs carried the fragrance of village life.The songs I sing are about villages, and I come from a village myself. Even if you do not understand my songs, you will surely sense the fragrance of the soil, he said.One of the evenings memorable moments came when actor Sanya Malhotra joined him on stage as they grooved to the song Water.
+
+Dosanjh thanked Malhotra for popularising the song through her reels.As the evening drew to a close, Dosanjh performed Main Hoon Punjab, bringing thousands of fans together for one final sing along.With fireworks lighting up the venue and the audience cheering, dancing and singing along, the night ended on a high.The show was co-produced and promoted by BookMyShow Live and Live Nation.In order to ensure safety and security of people, BMS had issued a list of permitted and prohibited items for the concert.
+
+Flags, banners, posters, deodorants, makeup products, pens, knives, blades and sharp jewellery, along with lighters and laser pointers, were prohibited.Concertgoers were also prohibited from carrying items such as water balloons, eggs, empty bottles, umbrellas, professional cameras, tripods, selfie sticks, drones and recording equipment.The concert is part of Dosanjhs AURA India Tour 2026.
+
+Following Mumbai, the singer is set to perform in Bengaluru on November 29, 2026.
+
+---
+
+**Original Source:** [Rediff.com](https://m.rediff.com/news/report/if-you-are-not-afraid-diljit-dosanjh-thanks-fans-after-bomb-threat/20261128.htm)`,
+    title_en: `If you are not afraid...': Diljit Dosanjh thanks fans after bomb threat`,
+    summary_en: `Discover how actor-singer Diljit Dosanjh bravely performed his Mumbai concert, defying a serious bomb threat, and how the unwavering support of his fans and robust police security ensured a successful and memorable event.FILE IMAGE: Punjabi`,
+    content_en: `Discover how actor-singer Diljit Dosanjh bravely performed his Mumbai concert, defying a serious bomb threat, and how the unwavering support of his fans and robust police security ensured a successful and memorable event.FILE IMAGE: Punjabi singer Diljit Dosanjh.Photograph: @diljitdosanjh/X/ANI PhotoKey PointsDiljit Dosanjh performed his Mumbai concert on Friday despite receiving a bomb threat, crediting fans fearlessness for his courage.Over 500 Mumbai police personnel were deployed at the Mahalaxmi Racecourse following a threat email received on Thursday, the 18th anniversary of the 26/11 terror attacks.Dosanjh thanked Mumbai Police for extensive security arrangements and expressed gratitude to fans for not succumbing to intimidation, highlighting the threats objective to disrupt his events.The concert featured hit songs and a memorable moment with actor Sanya Malhotra, concluding with fireworks and a massive sing-along.The concert is part of Dosanjhs AURA India Tour 2026, with a subsequent performance scheduled in Bengaluru on November 29, 2026.Actor-singer Diljit Dosanjh on Friday thanked fans for attending his Mumbai concert despite a bomb threat and said that their fearlessness gave him the courage to perform.Addressing fans at the Mahalaxmi Racecourse in South Mumbai, the singer talked about the challenges that he continues to face in his concerts.&nbsp;Diljit Dosanjh Addresses Concert ChallengesWhen I performed in 2024, I felt I was being troubled quite a bit.
+
+I was asked not to sing this song or that song, and so on. But those were only small things. At this point in 2026, simply managing to hold my show is a cause for stress in itself.&nbsp;We will blow up Diljit with a bomb, wow, wow, wow. If you people are not afraid, can I afford to be afraid?
+
+Hats off to all of you. Even if I were to take my heart out and place it before you, it would not be enough, Dosanjh said to his fans midway through the concert.Security Measures Amidst Bomb ThreatMore than 500 Mumbai police personnel were deployed for the concert following a threat email warning of possible attacks on the venue and Metro stations, officials said earlier in the day.An email threatening blasts, grenade attacks and planting of IEDs at the mayors office, metro rail stations and Dosanjhs concert was received on Thursday, the 18th anniversary of the 26/11 terror attacks.Bomb Detection and Disposal Squad (BDDS) teams have swept the venue, a police official said, adding that entry checks will be carried out across all five gates instead of three.
+
+Besides, private security personnel were also roped in to assist police, an official said.Dosanjh thanked the Mumbai Police for the adequate safety arrangements.I know that as many people are here inside, there are that many people stranded outside. The police personnel are helpless too; they are checking everyone before allowing them in.
+
+My heartfelt thanks to the Mumbai police, he said.Dosanjh Praises Fans ResilienceExpressing gratitude to his fans for refusing to bow down to intimidation, the 42-year-old singer said that the objective behind the threats was to intimidate concert goers and disrupt his events.Their only objective is to ensure that people do not attend Diljits show, to frighten them, threaten them and stop them by any means possible.I dont know why this is happening to me, day after day.
+
+From my side, there is only love for you, even if you throw bombs, Dosanjh said before reciting a couplet about the atmosphere of fear in cities and urging people to move towards the countryside.Concert Highlights and Future Tour DatesThe concert began at around 8:00 PM and through a course of two hours, Dosanjh belted out several hit songs like Clash, Hass Hass, Vibe, Pokito, Kinni Kinni&nbsp;and fan favourites like Saanson ki Maala, Ikk Kudi&nbsp;and Bhool Bhulaiyya.The fans sang in unison and broke into bhangra and danced their hearts out.
+
+Dosanjh said his songs carried the fragrance of village life.The songs I sing are about villages, and I come from a village myself. Even if you do not understand my songs, you will surely sense the fragrance of the soil, he said.One of the evenings memorable moments came when actor Sanya Malhotra joined him on stage as they grooved to the song Water.
+
+Dosanjh thanked Malhotra for popularising the song through her reels.As the evening drew to a close, Dosanjh performed Main Hoon Punjab, bringing thousands of fans together for one final sing along.With fireworks lighting up the venue and the audience cheering, dancing and singing along, the night ended on a high.The show was co-produced and promoted by BookMyShow Live and Live Nation.In order to ensure safety and security of people, BMS had issued a list of permitted and prohibited items for the concert.
+
+Flags, banners, posters, deodorants, makeup products, pens, knives, blades and sharp jewellery, along with lighters and laser pointers, were prohibited.Concertgoers were also prohibited from carrying items such as water balloons, eggs, empty bottles, umbrellas, professional cameras, tripods, selfie sticks, drones and recording equipment.The concert is part of Dosanjhs AURA India Tour 2026.
+
+Following Mumbai, the singer is set to perform in Bengaluru on November 29, 2026.
+
+---
+
+**Original Source:** [Rediff.com](https://m.rediff.com/news/report/if-you-are-not-afraid-diljit-dosanjh-thanks-fans-after-bomb-threat/20261128.htm)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Rediff.com.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for If you are not afraid...': Diljit Dosanjh thanks fans after bomb threat.`,
+    primary_source: `Rediff.com`,
+  },
+  {
+    id: 217,
+    title: `यामी गौतम @38: सवाल पूछने पर शो से निकाली गईं: हिट फिल्म के बाद भी सताया काम खोने का डर, नेशनल अवॉर्ड ने बद... - Dainik Bhaskar`,
+    slug: `38-dainik-bhaskar-2026`,
+    original_title: `यामी गौतम @38: सवाल पूछने पर शो से निकाली गईं: हिट फिल्म के बाद भी सताया काम खोने का डर, नेशनल अवॉर्ड ने बद... - Dainik Bhaskar`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:24:02Z`,
+    updated_at: `2026-11-28T13:24:02Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/g/entertainment/bollywood/news/yami-gautam-birthday-career-struggle-national-award-journey-139795022.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/38-dainik-bhaskar-2026.jpg`,
+    image_alt: `यामी गौतम @38: सवाल पूछने पर शो से निकाली गईं: हिट फिल्म के बाद भी सताया काम खोने का डर, नेशनल अवॉर्ड ने बद... - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `यामी गौतम ने करियर में कई उतार-चढ़ाव देखे हैं। सेट पर सवाल पूछने की वजह से उन्हें टीवी शो से बाहर कर दिया गया, तो डेब्यू फिल्म 'विक्की डोनर' हिट होने के बावजूद उन्हें काम खोने का डर सताता रहा। एक वक्त उन्होंने एक्टिंग छोड़कर हिमाचल लौटने और`,
+    content: `यामी गौतम ने करियर में कई उतार-चढ़ाव देखे हैं। सेट पर सवाल पूछने की वजह से उन्हें टीवी शो से बाहर कर दिया गया, तो डेब्यू फिल्म 'विक्की डोनर' हिट होने के बावजूद उन्हें काम खोने का डर सताता रहा। एक वक्त उन्होंने एक्टिंग छोड़कर हिमाचल लौटने और खेती करने का मन बना लिया था। हालांकि, 'उरी: द सर्जिकल स्ट्राइक' और 'बाला' ने उनके करियर को नई दिशा दी। अब 'आर्टिकल 370' के लिए नेशनल अवॉर्ड मिलने के बाद उनका नजरिया बदल चुका है। यामी गौतम आज अपना 38वां जन्मदिन मना रही हैं। इस मौके पर जानते हैं उनके करियर से जुड़ी कुछ खास बातें।
+
+IAS अफसर बनना चाहती थीं, एक ऑडिशन ने बदल दी जिंदगी
+
+यामी गौतम का जन्म 28 नवंबर 1988 को हिमाचल प्रदेश के बिलासपुर में हुआ था। उनके पिता मुकेश गौतम पंजाबी फिल्मों के निर्देशक हैं। फिल्मी माहौल से परिचित होने के बावजूद यामी ने फिल्मों में आने का सपना नहीं देखा था। पढ़ाई में अच्छी यामी की दिलचस्पी सिविल सर्विस में थी। वह आईएएस अफसर बनना चाहती थीं।
+
+यामी ने चंडीगढ़ में पढ़ाई की और पंजाब यूनिवर्सिटी से लॉ ऑनर्स की पढ़ाई शुरू की। इसी दौरान उनके एक अंकल ने घर पर खींची गईं उनकी तस्वीरें एक टीवी प्रोडक्शन हाउस तक पहुंचाईं। इसके बाद उन्हें टीवी शो 'चांद के पार चलो' के ऑडिशन का मौका मिला।
+
+यामी ने ऑडिशन की कुछ लाइनें रिकॉर्ड करके भेजीं और उनका चयन हो गया। उस वक्त वह पढ़ाई छोड़कर एक्टिंग में आने को लेकर असमंजस में थीं। कॉलेज के डिपार्टमेंट डायरेक्टर भी उनके फैसले से हैरान थे। यामी ने एक इंटरव्यू में बताया था कि उनके डायरेक्टर उन्हें कॉलेज छोड़ने का सर्टिफिकेट नहीं देना चाहते थे, क्योंकि वह अच्छी स्टूडेंट थीं। आखिरकार उन्होंने मुंबई आने का फैसला किया।
+
+पहले ही दिन सवाल पूछने पर शो से निकाल दिया गया
+
+यामी के करियर का एक कम चर्चित किस्सा शुरुआती टीवी दिनों से जुड़ा है। एक इंटरव्यू में उन्होंने बताया था कि टीवी शो की शूटिंग के पहले ही दिन एक सीन को लेकर उन्होंने सवाल पूछा था। उन्हें लगा था कि कलाकार होने के नाते सीन समझना और उसके बारे में सवाल करना सामान्य बात है।
+
+सेट पर उनका सवाल करना कुछ लोगों को पसंद नहीं आया। अगले दिन सेट पर स्क्रिप्ट पढ़ते समय एक व्यक्ति उनके पास आया और कहा कि वह घर जा सकती हैं। यानी उन्हें शो से हटा दिया गया था।
+
+यामी ने बताया था कि उस वक्त उन्हें बहुत बुरा लगा था। इस घटना ने उन्हें काम को लेकर और गंभीर बनाया। उनके मुताबिक, ऐसे अनुभव भी आगे बढ़ने की प्रेरणा देते हैं। आईएएस बनने का सपना देखने वाली यामी के लिए यह फिल्म इंडस्ट्री की पहली बड़ी सीख थी।
+
+'विक्की डोनर' हिट हुई, लेकिन काम खोने का डर बना रहा
+
+टीवी के बाद यामी ने अलग-अलग भाषाओं की फिल्मों में काम किया। 2012 में शूजित सरकार की 'विक्की डोनर' से उन्होंने बॉलीवुड में कदम रखा। आयुष्मान खुराना के साथ उनकी जोड़ी दर्शकों को पसंद आई और फिल्म बॉक्स ऑफिस पर सफल रही। इससे यामी को रातोंरात पहचान मिली।
+
+सफलता के बावजूद यामी के मन में असुरक्षा बनी रही। उन्हें डर था कि कहीं आगे काम न मिले। वह फिल्म की सफलता का खुलकर जश्न भी नहीं मना पाईं। इंडस्ट्री में अपनी जगह बनाए रखने की चिंता उन्हें सताती रही।
+
+'विक्की डोनर' के बाद उन्होंने 'टोटल सियापा', 'एक्शन जैक्सन' और 'सनम रे' जैसी फिल्मों में काम किया। 'बदलापुर' और 'काबिल' में भी उनके काम को नोटिस किया गया, लेकिन सफल डेब्यू के बाद जैसी लगातार सफलता की उम्मीद थी, वैसी उन्हें नहीं मिली।
+
+2023 में इंडियन एक्सप्रेस को दिए इंटरव्यू में यामी ने स्वीकार किया था कि एक दौर में वह सिर्फ काम पाने की कोशिश करती थीं। पहले वह ऐसी स्क्रिप्ट तलाशती थीं, जिससे काम मिल सके। बाद में उनका नजरिया बदला और वह अच्छी स्क्रिप्ट चुनने लगीं।
+
+2018 में एक्टिंग छोड़कर हिमाचल लौटने का बना लिया था मन
+
+यामी की जिंदगी का बड़ा टर्निंग पॉइंट 2019 में आया। इससे पहले वह इंडस्ट्री में अपने भविष्य को लेकर निराश थीं। 2026 में फिल्मफेयर को दिए इंटरव्यू में उन्होंने बताया कि 'उरी: द सर्जिकल स्ट्राइक' और 'बाला' से पहले वह एक्टिंग छोड़ने का फैसला कर चुकी थीं।
+
+उन्होंने हिमाचल लौटकर नई जिंदगी शुरू करने के बारे में सोचा था। खेती-किसानी में उनकी दिलचस्पी बढ़ रही थी और उन्हें लगने लगा था कि फिल्मों में उनका सफर शायद आगे नहीं बढ़ पाएगा।
+
+2019 में रिलीज हुई 'उरी: द सर्जिकल स्ट्राइक' और 'बाला' ने उनकी किस्मत बदल दी। 'उरी' में उन्होंने इंटेलिजेंस ऑफिसर का गंभीर किरदार निभाया, जबकि 'बाला' में छोटे शहर की महत्वाकांक्षी लड़की परी मिश्रा के रूप में कॉमिक अंदाज दिखाया।
+
+दोनों फिल्मों की सफलता ने यामी को भरोसा दिलाया कि वह सिर्फ रोमांटिक या ग्लैमरस किरदारों तक सीमित नहीं हैं। फिल्मफेयर को दिए इंटरव्यू में उन्होंने कहा था कि अब वह इंडस्ट्री से गायब होने के डर से फिल्में साइन नहीं करतीं। वह भरोसेमंद कहानियों और फिल्मकारों के साथ काम करना चाहती हैं।
+
+'आर्टिकल 370' के लिए मिली जिंदगी की सबसे बड़ी पहचान
+
+'उरी' के बाद यामी ने 'ए थर्सडे', 'दसवीं', 'चोर निकल के भागा', 'लॉस्ट' और 'ओएमजी 2' जैसी फिल्मों में अलग-अलग तरह के किरदार निभाए। उन्होंने ऐसी कहानियां चुनीं, जिनमें अभिनय दिखाने का मौका था।
+
+2024 में रिलीज हुई 'आर्टिकल 370' उनके करियर की महत्वपूर्ण फिल्मों में शामिल हो गई। इसमें उन्होंने खुफिया अधिकारी जूनी हक्सर का किरदार निभाया। उनका एक्शन अवतार, गंभीर अभिनय और स्क्रीन प्रेजेंस दर्शकों को पसंद आए।
+
+इस फिल्म से यामी का जुड़ाव सिर्फ अभिनेत्री के तौर पर नहीं था। यह उनके पति आदित्य धर के प्रोडक्शन हाउस B62 स्टूडियोज की शुरुआती फिल्मों में से एक थी। आदित्य ने इसे प्रोड्यूस किया था। यामी ने एक इंटरव्यू में बताया था कि उन्हें फिल्म की कहानी और किरदार पर शुरुआत से भरोसा था।
+
+उनका मानना था कि दर्शक अच्छी कहानियां देखना चाहते हैं। फिल्म में दो महिलाओं को केंद्र में रखकर एक्शन ड्रामा बनाया गया था। यामी ने कहा था कि कास्टिंग में पारंपरिक स्टार वैल्यू के बजाय किरदार को प्राथमिकता दी गई।
+
+नेशनल अवॉर्ड के बाद बदला करियर का नजरिया?
+
+यामी गौतम को 'आर्टिकल 370' में शानदार अभिनय के लिए 72वें नेशनल फिल्म अवॉर्ड्स में बेस्ट एक्ट्रेस का पुरस्कार मिला। 2026 में मिला यह सम्मान उनके करीब 14 साल के फिल्मी सफर की बड़ी उपलब्धि है।
+
+नेशनल अवॉर्ड मिलने के बाद यामी ने कहा कि 14 साल तक उन्होंने काम के प्रति ईमानदार रहने और अभिनय को अपनी पहचान बनाने की कोशिश की। उनके मुताबिक, यह सम्मान उम्मीद, धैर्य, संघर्ष और सिनेमा के प्रति प्यार से भरे सफर का नतीजा है।
+
+उन्होंने कहा कि 'आर्टिकल 370' उनके लिए सिर्फ एक फिल्म नहीं थी, बल्कि ऐसी कहानी थी, जिस पर उन्हें दिल से विश्वास था। यह सम्मान इसलिए भी खास है, क्योंकि फिल्म उनके परिवार के प्रोडक्शन हाउस से जुड़ी थी।
+
+इस अवॉर्ड के बाद इंडस्ट्री में यामी की पहचान और मजबूत हुई है। अब उन्हें सफल अभिनेत्री के साथ दमदार परफॉर्मेंस देने वाली कलाकार के रूप में भी देखा जा रहा है। यामी के लिए अवॉर्ड से ज्यादा अहम अच्छी कहानियों का हिस्सा बनना है। हालिया इंटरव्यू में उन्होंने बताया कि वह करियर की रफ्तार से ज्यादा काम की गुणवत्ता को महत्व देती हैं।
+
+'आर्टिकल 370' की शूटिंग के दौरान प्रेग्नेंसी, सेट पर निभाईं दो जिम्मेदारियां
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/entertainment/bollywood/news/yami-gautam-birthday-career-struggle-national-award-journey-139795022.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `यामी गौतम @38: सवाल पूछने पर शो से निकाली गईं: हिट फिल्म के बाद भी सताया काम खोने का डर, नेशनल अवॉर्ड ने बद... - Dainik Bhaskar`,
+    summary_hi: `यामी गौतम ने करियर में कई उतार-चढ़ाव देखे हैं। सेट पर सवाल पूछने की वजह से उन्हें टीवी शो से बाहर कर दिया गया, तो डेब्यू फिल्म 'विक्की डोनर' हिट होने के बावजूद उन्हें काम खोने का डर सताता रहा। एक वक्त उन्होंने एक्टिंग छोड़कर हिमाचल लौटने और`,
+    content_hi: `यामी गौतम ने करियर में कई उतार-चढ़ाव देखे हैं। सेट पर सवाल पूछने की वजह से उन्हें टीवी शो से बाहर कर दिया गया, तो डेब्यू फिल्म 'विक्की डोनर' हिट होने के बावजूद उन्हें काम खोने का डर सताता रहा। एक वक्त उन्होंने एक्टिंग छोड़कर हिमाचल लौटने और खेती करने का मन बना लिया था। हालांकि, 'उरी: द सर्जिकल स्ट्राइक' और 'बाला' ने उनके करियर को नई दिशा दी। अब 'आर्टिकल 370' के लिए नेशनल अवॉर्ड मिलने के बाद उनका नजरिया बदल चुका है। यामी गौतम आज अपना 38वां जन्मदिन मना रही हैं। इस मौके पर जानते हैं उनके करियर से जुड़ी कुछ खास बातें।
+
+IAS अफसर बनना चाहती थीं, एक ऑडिशन ने बदल दी जिंदगी
+
+यामी गौतम का जन्म 28 नवंबर 1988 को हिमाचल प्रदेश के बिलासपुर में हुआ था। उनके पिता मुकेश गौतम पंजाबी फिल्मों के निर्देशक हैं। फिल्मी माहौल से परिचित होने के बावजूद यामी ने फिल्मों में आने का सपना नहीं देखा था। पढ़ाई में अच्छी यामी की दिलचस्पी सिविल सर्विस में थी। वह आईएएस अफसर बनना चाहती थीं।
+
+यामी ने चंडीगढ़ में पढ़ाई की और पंजाब यूनिवर्सिटी से लॉ ऑनर्स की पढ़ाई शुरू की। इसी दौरान उनके एक अंकल ने घर पर खींची गईं उनकी तस्वीरें एक टीवी प्रोडक्शन हाउस तक पहुंचाईं। इसके बाद उन्हें टीवी शो 'चांद के पार चलो' के ऑडिशन का मौका मिला।
+
+यामी ने ऑडिशन की कुछ लाइनें रिकॉर्ड करके भेजीं और उनका चयन हो गया। उस वक्त वह पढ़ाई छोड़कर एक्टिंग में आने को लेकर असमंजस में थीं। कॉलेज के डिपार्टमेंट डायरेक्टर भी उनके फैसले से हैरान थे। यामी ने एक इंटरव्यू में बताया था कि उनके डायरेक्टर उन्हें कॉलेज छोड़ने का सर्टिफिकेट नहीं देना चाहते थे, क्योंकि वह अच्छी स्टूडेंट थीं। आखिरकार उन्होंने मुंबई आने का फैसला किया।
+
+पहले ही दिन सवाल पूछने पर शो से निकाल दिया गया
+
+यामी के करियर का एक कम चर्चित किस्सा शुरुआती टीवी दिनों से जुड़ा है। एक इंटरव्यू में उन्होंने बताया था कि टीवी शो की शूटिंग के पहले ही दिन एक सीन को लेकर उन्होंने सवाल पूछा था। उन्हें लगा था कि कलाकार होने के नाते सीन समझना और उसके बारे में सवाल करना सामान्य बात है।
+
+सेट पर उनका सवाल करना कुछ लोगों को पसंद नहीं आया। अगले दिन सेट पर स्क्रिप्ट पढ़ते समय एक व्यक्ति उनके पास आया और कहा कि वह घर जा सकती हैं। यानी उन्हें शो से हटा दिया गया था।
+
+यामी ने बताया था कि उस वक्त उन्हें बहुत बुरा लगा था। इस घटना ने उन्हें काम को लेकर और गंभीर बनाया। उनके मुताबिक, ऐसे अनुभव भी आगे बढ़ने की प्रेरणा देते हैं। आईएएस बनने का सपना देखने वाली यामी के लिए यह फिल्म इंडस्ट्री की पहली बड़ी सीख थी।
+
+'विक्की डोनर' हिट हुई, लेकिन काम खोने का डर बना रहा
+
+टीवी के बाद यामी ने अलग-अलग भाषाओं की फिल्मों में काम किया। 2012 में शूजित सरकार की 'विक्की डोनर' से उन्होंने बॉलीवुड में कदम रखा। आयुष्मान खुराना के साथ उनकी जोड़ी दर्शकों को पसंद आई और फिल्म बॉक्स ऑफिस पर सफल रही। इससे यामी को रातोंरात पहचान मिली।
+
+सफलता के बावजूद यामी के मन में असुरक्षा बनी रही। उन्हें डर था कि कहीं आगे काम न मिले। वह फिल्म की सफलता का खुलकर जश्न भी नहीं मना पाईं। इंडस्ट्री में अपनी जगह बनाए रखने की चिंता उन्हें सताती रही।
+
+'विक्की डोनर' के बाद उन्होंने 'टोटल सियापा', 'एक्शन जैक्सन' और 'सनम रे' जैसी फिल्मों में काम किया। 'बदलापुर' और 'काबिल' में भी उनके काम को नोटिस किया गया, लेकिन सफल डेब्यू के बाद जैसी लगातार सफलता की उम्मीद थी, वैसी उन्हें नहीं मिली।
+
+2023 में इंडियन एक्सप्रेस को दिए इंटरव्यू में यामी ने स्वीकार किया था कि एक दौर में वह सिर्फ काम पाने की कोशिश करती थीं। पहले वह ऐसी स्क्रिप्ट तलाशती थीं, जिससे काम मिल सके। बाद में उनका नजरिया बदला और वह अच्छी स्क्रिप्ट चुनने लगीं।
+
+2018 में एक्टिंग छोड़कर हिमाचल लौटने का बना लिया था मन
+
+यामी की जिंदगी का बड़ा टर्निंग पॉइंट 2019 में आया। इससे पहले वह इंडस्ट्री में अपने भविष्य को लेकर निराश थीं। 2026 में फिल्मफेयर को दिए इंटरव्यू में उन्होंने बताया कि 'उरी: द सर्जिकल स्ट्राइक' और 'बाला' से पहले वह एक्टिंग छोड़ने का फैसला कर चुकी थीं।
+
+उन्होंने हिमाचल लौटकर नई जिंदगी शुरू करने के बारे में सोचा था। खेती-किसानी में उनकी दिलचस्पी बढ़ रही थी और उन्हें लगने लगा था कि फिल्मों में उनका सफर शायद आगे नहीं बढ़ पाएगा।
+
+2019 में रिलीज हुई 'उरी: द सर्जिकल स्ट्राइक' और 'बाला' ने उनकी किस्मत बदल दी। 'उरी' में उन्होंने इंटेलिजेंस ऑफिसर का गंभीर किरदार निभाया, जबकि 'बाला' में छोटे शहर की महत्वाकांक्षी लड़की परी मिश्रा के रूप में कॉमिक अंदाज दिखाया।
+
+दोनों फिल्मों की सफलता ने यामी को भरोसा दिलाया कि वह सिर्फ रोमांटिक या ग्लैमरस किरदारों तक सीमित नहीं हैं। फिल्मफेयर को दिए इंटरव्यू में उन्होंने कहा था कि अब वह इंडस्ट्री से गायब होने के डर से फिल्में साइन नहीं करतीं। वह भरोसेमंद कहानियों और फिल्मकारों के साथ काम करना चाहती हैं।
+
+'आर्टिकल 370' के लिए मिली जिंदगी की सबसे बड़ी पहचान
+
+'उरी' के बाद यामी ने 'ए थर्सडे', 'दसवीं', 'चोर निकल के भागा', 'लॉस्ट' और 'ओएमजी 2' जैसी फिल्मों में अलग-अलग तरह के किरदार निभाए। उन्होंने ऐसी कहानियां चुनीं, जिनमें अभिनय दिखाने का मौका था।
+
+2024 में रिलीज हुई 'आर्टिकल 370' उनके करियर की महत्वपूर्ण फिल्मों में शामिल हो गई। इसमें उन्होंने खुफिया अधिकारी जूनी हक्सर का किरदार निभाया। उनका एक्शन अवतार, गंभीर अभिनय और स्क्रीन प्रेजेंस दर्शकों को पसंद आए।
+
+इस फिल्म से यामी का जुड़ाव सिर्फ अभिनेत्री के तौर पर नहीं था। यह उनके पति आदित्य धर के प्रोडक्शन हाउस B62 स्टूडियोज की शुरुआती फिल्मों में से एक थी। आदित्य ने इसे प्रोड्यूस किया था। यामी ने एक इंटरव्यू में बताया था कि उन्हें फिल्म की कहानी और किरदार पर शुरुआत से भरोसा था।
+
+उनका मानना था कि दर्शक अच्छी कहानियां देखना चाहते हैं। फिल्म में दो महिलाओं को केंद्र में रखकर एक्शन ड्रामा बनाया गया था। यामी ने कहा था कि कास्टिंग में पारंपरिक स्टार वैल्यू के बजाय किरदार को प्राथमिकता दी गई।
+
+नेशनल अवॉर्ड के बाद बदला करियर का नजरिया?
+
+यामी गौतम को 'आर्टिकल 370' में शानदार अभिनय के लिए 72वें नेशनल फिल्म अवॉर्ड्स में बेस्ट एक्ट्रेस का पुरस्कार मिला। 2026 में मिला यह सम्मान उनके करीब 14 साल के फिल्मी सफर की बड़ी उपलब्धि है।
+
+नेशनल अवॉर्ड मिलने के बाद यामी ने कहा कि 14 साल तक उन्होंने काम के प्रति ईमानदार रहने और अभिनय को अपनी पहचान बनाने की कोशिश की। उनके मुताबिक, यह सम्मान उम्मीद, धैर्य, संघर्ष और सिनेमा के प्रति प्यार से भरे सफर का नतीजा है।
+
+उन्होंने कहा कि 'आर्टिकल 370' उनके लिए सिर्फ एक फिल्म नहीं थी, बल्कि ऐसी कहानी थी, जिस पर उन्हें दिल से विश्वास था। यह सम्मान इसलिए भी खास है, क्योंकि फिल्म उनके परिवार के प्रोडक्शन हाउस से जुड़ी थी।
+
+इस अवॉर्ड के बाद इंडस्ट्री में यामी की पहचान और मजबूत हुई है। अब उन्हें सफल अभिनेत्री के साथ दमदार परफॉर्मेंस देने वाली कलाकार के रूप में भी देखा जा रहा है। यामी के लिए अवॉर्ड से ज्यादा अहम अच्छी कहानियों का हिस्सा बनना है। हालिया इंटरव्यू में उन्होंने बताया कि वह करियर की रफ्तार से ज्यादा काम की गुणवत्ता को महत्व देती हैं।
+
+'आर्टिकल 370' की शूटिंग के दौरान प्रेग्नेंसी, सेट पर निभाईं दो जिम्मेदारियां
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/entertainment/bollywood/news/yami-gautam-birthday-career-struggle-national-award-journey-139795022.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक यामी गौतम @38: सवाल पूछने पर शो से निकाली गईं: हिट फिल्म के बाद भी सताया काम खोने का डर, नेशनल अवॉर्ड ने बद... - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+  {
+    id: 218,
+    title: `India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM`,
+    slug: `india-laos-relationship-rooted-in-common-heritage-of-buddhism-ramayana-2026`,
+    original_title: `India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:24:06Z`,
+    updated_at: `2026-11-28T13:24:06Z`,
+    source_name: `DD News`,
+    source_url: `https://ddnews.gov.in/en/india-laos-relationship-rooted-in-common-heritage-of-buddhism-ramayana-eam/`,
+    source_courtesy: `Source: DD News`,
+    image_url: `https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM DD News`,
+    content: `### India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM
+
+Highlighting the deep-rooted civilisational ties between India and Laos, reflected in the shared Buddhist heritage and enduring legacy of the Ramayana, External Affairs Minister (EAM) S Jaishankar on Wednesday said that the bilateral partnership is anchored in longstanding cultural and people-to-people connections.
+
+In his opening remarks during the 10th India-Lao PDR Joint Commission Meeting with Laos Deputy Prime Minister and Foreign Minister Thongsavanh Phomvihane in New Delhi, the EAM said, “Our two countries have close civilisational ties reflected in the common heritage of Buddhism and Ramayana. Our relations go back in history based on deep cultural and people-to-people linkages.”
+
+“I fondly remember my own visit to your beautiful country during your ASEAN chairship in 2024. I also had at that time an opportunity to call on the Prime Minister during my visit,” he added.
+
+EAM Jaishankar also recalled PM Narendra Modi’s visit to Laos in 2024, during which several agreements and MOUs were signed.
+
+“Today we have an opportunity to review them to explore a wide-ranging agenda, to look at our political cooperation, economic ties, defense, development partnerships, education, culture to culture, and of course, our multilateral cooperation. I’m very confident that our discussions today will be very productive,” he noted.
+
+The EAM also congratulated his counterpart Phomvihane on the successful conduct of Laos’ National Assembly elections earlier this year and his elevation as Deputy Prime Minister and Minister of Foreign Affairs.
+
+Phomvihane arrived in India on Monday to co-chair the 10th India–Lao PDR Joint Commission Meeting.
+
+“A warm welcome to DPM and FM Thongsavan Phomvihane of Lao PDR on his first visit to India to co-chair the 10th India–Lao PDR Joint Commission Meeting with EAM S. Jaishankar,” Ministry of External Affairs (MEA) posted on X.
+
+“India and Lao PDR are celebrating 70 years of diplomatic ties. The visit will add momentum to the longstanding partnership between India and Lao and further deepen cooperation across areas of mutual interest,” it added.
+
+### Green Strategic Partnership gives India-Denmark ties ‘very distinctive character’: EAM Jaishankar
+
+External Affairs Minister (EAM) S Jaishankar on Saturday highlighted the significance of the Green Strategic Partnership (GSP) in strengthening India-Denmark ties, describing it as a defining feature of the bilateral relationship.
+In his opening rem...
+
+### National Overseas Scholarship Scheme: How ST students can pursue higher education abroad with government support
+
+The National Overseas Scholarship (NOS) Scheme for Scheduled Tribe (ST) students provides financial assistance to meritorious tribal students seeking Master's and PhD degrees at reputed universities abroad. With 20 fresh scholarships offered every ye...
+
+### Lightning could get up to 140 pc more common in future of high emissions: Study
+
+Globally, lightning could get 76 per cent to 140 per cent more common by the end of the century than between 1995 and 2014 -- roughly 30 per cent more lightning per degree of global warming, new research reveals.
+Cloud-to-ground lightning -- dangero...
+
+---
+
+**Original Source:** [DD News](https://ddnews.gov.in/en/india-laos-relationship-rooted-in-common-heritage-of-buddhism-ramayana-eam/)`,
+    title_en: `India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM`,
+    summary_en: `India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM DD News`,
+    content_en: `### India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM
+
+Highlighting the deep-rooted civilisational ties between India and Laos, reflected in the shared Buddhist heritage and enduring legacy of the Ramayana, External Affairs Minister (EAM) S Jaishankar on Wednesday said that the bilateral partnership is anchored in longstanding cultural and people-to-people connections.
+
+In his opening remarks during the 10th India-Lao PDR Joint Commission Meeting with Laos Deputy Prime Minister and Foreign Minister Thongsavanh Phomvihane in New Delhi, the EAM said, “Our two countries have close civilisational ties reflected in the common heritage of Buddhism and Ramayana. Our relations go back in history based on deep cultural and people-to-people linkages.”
+
+“I fondly remember my own visit to your beautiful country during your ASEAN chairship in 2024. I also had at that time an opportunity to call on the Prime Minister during my visit,” he added.
+
+EAM Jaishankar also recalled PM Narendra Modi’s visit to Laos in 2024, during which several agreements and MOUs were signed.
+
+“Today we have an opportunity to review them to explore a wide-ranging agenda, to look at our political cooperation, economic ties, defense, development partnerships, education, culture to culture, and of course, our multilateral cooperation. I’m very confident that our discussions today will be very productive,” he noted.
+
+The EAM also congratulated his counterpart Phomvihane on the successful conduct of Laos’ National Assembly elections earlier this year and his elevation as Deputy Prime Minister and Minister of Foreign Affairs.
+
+Phomvihane arrived in India on Monday to co-chair the 10th India–Lao PDR Joint Commission Meeting.
+
+“A warm welcome to DPM and FM Thongsavan Phomvihane of Lao PDR on his first visit to India to co-chair the 10th India–Lao PDR Joint Commission Meeting with EAM S. Jaishankar,” Ministry of External Affairs (MEA) posted on X.
+
+“India and Lao PDR are celebrating 70 years of diplomatic ties. The visit will add momentum to the longstanding partnership between India and Lao and further deepen cooperation across areas of mutual interest,” it added.
+
+### Green Strategic Partnership gives India-Denmark ties ‘very distinctive character’: EAM Jaishankar
+
+External Affairs Minister (EAM) S Jaishankar on Saturday highlighted the significance of the Green Strategic Partnership (GSP) in strengthening India-Denmark ties, describing it as a defining feature of the bilateral relationship.
+In his opening rem...
+
+### National Overseas Scholarship Scheme: How ST students can pursue higher education abroad with government support
+
+The National Overseas Scholarship (NOS) Scheme for Scheduled Tribe (ST) students provides financial assistance to meritorious tribal students seeking Master's and PhD degrees at reputed universities abroad. With 20 fresh scholarships offered every ye...
+
+### Lightning could get up to 140 pc more common in future of high emissions: Study
+
+Globally, lightning could get 76 per cent to 140 per cent more common by the end of the century than between 1995 and 2014 -- roughly 30 per cent more lightning per degree of global warming, new research reveals.
+Cloud-to-ground lightning -- dangero...
+
+---
+
+**Original Source:** [DD News](https://ddnews.gov.in/en/india-laos-relationship-rooted-in-common-heritage-of-buddhism-ramayana-eam/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to DD News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM.`,
+    primary_source: `DD News`,
+  },
+  {
+    id: 219,
+    title: `Sai Pallavi Sita Controversy: 1700 करोड़ कमा चुकी रामायण में योद्धा क्यों है सीता? - AajTak`,
+    slug: `sai-pallavi-sita-controversy-1700-aajtak-2026`,
+    original_title: `Sai Pallavi Sita Controversy: 1700 करोड़ कमा चुकी रामायण में योद्धा क्यों है सीता? - AajTak`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T13:24:16Z`,
+    updated_at: `2026-11-28T13:24:16Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/entertainment/bollywood-news/story/author-amish-tripathi-defends-sai-pallavi-warrior-sita-ramayana-ranbir-kapoor-yash-1700-crore-box-office-tmovj-dskc-2707448-2026-11-27`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b091727cebd1-sai-pallavi-warrior-sita-controversy-273742811.jpg`,
+    image_alt: `Sai Pallavi Sita Controversy: 1700 करोड़ कमा चुकी रामायण में योद्धा क्यों है सीता? - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `नमित मल्होत्रा की फिल्म रामायण का पहला पार्ट सिनेमाघरों में रिलीज हुए तीन हफ्ते बीत चुके हैं. इसे अधिकतर लोगों ने देख लिया, और मूवी में दिखाई गई कहानी पर सबकी अलग-अलग राय बनी. कई लोगों को फिल्म पंसद आई, तो कइयों ने इसमें किरदारों के चित्रण `,
+    content: `नमित मल्होत्रा की फिल्म रामायण का पहला पार्ट सिनेमाघरों में रिलीज हुए तीन हफ्ते बीत चुके हैं. इसे अधिकतर लोगों ने देख लिया, और मूवी में दिखाई गई कहानी पर सबकी अलग-अलग राय बनी. कई लोगों को फिल्म पंसद आई, तो कइयों ने इसमें किरदारों के चित्रण पर सवाल उठाए. सबसे ज्यादा सवाल साई पल्लवी के किरदार माता सीता पर उठे, क्योंकि उन्हें फिल्म में एक योद्धा की तरह लड़ते हुए दिखाया गया.
+
+और पढ़ेंसीता माता के किरदार पर क्यों हुआ बवाल?फिल्म रामायण महर्षि वाल्मीकि द्वारा लिखी गई रामायण के अनुसार बनाई गई जिसमें माता सीता को इस रूप में नहीं बताया गया है. हालांकि मेकर्स ने रिलीज से पहले ही साफ किया था कि उन्होंने वाल्मीकि के अलावा अन्य ग्रंथों से भी रामायण के कुछ-कुछ हिस्से लिए हैं.
+
+इन्हीं में से एक रामायण में माता सीता को योद्धा बताया गया, जिसे फिल्म में दिखाया गया और फिर विवाद हुआ. अब साई पल्लवी को मशहूर राइटर अमीश त्रिपाठी का साथ मिला है, जो एक जाने-माने माइथोलॉजिकल राइटर हैं. अमीश खुद भी रामायण से जुड़ी कहानियों पर किताब लिख चुके हैं. उनकी किताब &#039;सीता: वॉरियर ऑफ मिथिला&#039; में भी माता सीता को एक योद्धा के रूप में दिखाया गया है.
+
+ऐसे में वो फिल्म में साई पल्लवी के किरदार को लेकर उठ रहे सवालों से सहमत नहीं हैं. Advertisement        स्क्रीन से बातचीत में अमीश त्रिपाठी ने कहा कि लोगों को रामायण के सभी रूपों के बारे में जानकारी नहीं है. उन्होंने कहा- हमारे एजुकेशन सिस्टम में रामायण और महाभारत को ठीक से नहीं पढ़ाया जाता.
+
+इसी वजह से हमें इनके अलग-अलग रूपों के बारे में पता नहीं है. अद्भुत रामायण में सीता ने रावण के एक ज्यादा ताकतवर और बड़े रूप का वध किया था. उस कहानी में सीता एक योद्धा थीं. ये कोई नई कहानी नहीं है, बल्कि वाल्मीकि से जुड़ा एक प्राचीन रूप है.रामायण और महाभारत पर अमीश क्या बोले?अमीश ने रामायण और महाभारत जैसी कहानियों को समझने के तरीके पर भी बात की.
+
+उन्होंने कहा कि समय के साथ इन महाकाव्यों को लेकर हमारी समझ बढ़ती है. परेशानी तब होती है, जब लोग इनके सिर्फ एक ही रूप को जानते हैं और बाकी कहानियों के बारे में उन्हें जानकारी नहीं होती.अपनी बात समझाने के लिए उन्होंने ग्रीक कहानी &#039;ओडिसी&#039; का उदाहरण दिया. अमीश ने बताया कि एक समय ऐसा था, जब लोग होमर की &#039;ओडिसी&#039; को सिर्फ काल्पनिक कहानी मानते थे.
+
+लेकिन 19वीं सदी में यूरोप में ट्रॉय शहर की खोज हुई. इसके बाद ये सामने आया कि ट्रोजन युद्ध की कहानी के पीछे कुछ असली घटनाएं भी थीं. हालांकि, समय के साथ इसमें कुछ काल्पनिक चीजें भी जुड़ गई होंगी. Advertisement        बता दें कि फिल्म रामायण के पहले पार्ट को नितेश तिवारी ने डायरेक्ट किया है.
+
+अब वो इसके दूसरे पार्ट पर काम कर रहे हैं, जिसे दिवाली 2028 पर रिलीज करने का ऐलान किया गया है. पहले पार्ट में कहानी माता सीता के हरण से रावण-जटायु के युद्ध तक खत्म होती है. अगले पार्ट में हनुमान जी और भगवान राम-रावण के युद्ध को दिखाया जाएगा. उस पार्ट में सनी देओल भी दिखाई देंगे.बात करें रामायण की कमाई की, तो वर्ल्डवाइड फिल्म 1700 करोड़ से ज्यादा कमा चुकी है.
+
+अब इसकी नजर 1800 करोड़ क्लब में एंट्री पर है, जो 23वें दिन पूरी होने की संभावना है. ---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/author-amish-tripathi-defends-sai-pallavi-warrior-sita-ramayana-ranbir-kapoor-yash-1700-crore-box-office-tmovj-dskc-2707448-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Sai Pallavi Sita Controversy: 1700 करोड़ कमा चुकी रामायण में योद्धा क्यों है सीता? - AajTak`,
+    summary_hi: `नमित मल्होत्रा की फिल्म रामायण का पहला पार्ट सिनेमाघरों में रिलीज हुए तीन हफ्ते बीत चुके हैं. इसे अधिकतर लोगों ने देख लिया, और मूवी में दिखाई गई कहानी पर सबकी अलग-अलग राय बनी. कई लोगों को फिल्म पंसद आई, तो कइयों ने इसमें किरदारों के चित्रण `,
+    content_hi: `नमित मल्होत्रा की फिल्म रामायण का पहला पार्ट सिनेमाघरों में रिलीज हुए तीन हफ्ते बीत चुके हैं. इसे अधिकतर लोगों ने देख लिया, और मूवी में दिखाई गई कहानी पर सबकी अलग-अलग राय बनी. कई लोगों को फिल्म पंसद आई, तो कइयों ने इसमें किरदारों के चित्रण पर सवाल उठाए. सबसे ज्यादा सवाल साई पल्लवी के किरदार माता सीता पर उठे, क्योंकि उन्हें फिल्म में एक योद्धा की तरह लड़ते हुए दिखाया गया.
+
+और पढ़ेंसीता माता के किरदार पर क्यों हुआ बवाल?फिल्म रामायण महर्षि वाल्मीकि द्वारा लिखी गई रामायण के अनुसार बनाई गई जिसमें माता सीता को इस रूप में नहीं बताया गया है. हालांकि मेकर्स ने रिलीज से पहले ही साफ किया था कि उन्होंने वाल्मीकि के अलावा अन्य ग्रंथों से भी रामायण के कुछ-कुछ हिस्से लिए हैं.
+
+इन्हीं में से एक रामायण में माता सीता को योद्धा बताया गया, जिसे फिल्म में दिखाया गया और फिर विवाद हुआ. अब साई पल्लवी को मशहूर राइटर अमीश त्रिपाठी का साथ मिला है, जो एक जाने-माने माइथोलॉजिकल राइटर हैं. अमीश खुद भी रामायण से जुड़ी कहानियों पर किताब लिख चुके हैं. उनकी किताब &#039;सीता: वॉरियर ऑफ मिथिला&#039; में भी माता सीता को एक योद्धा के रूप में दिखाया गया है.
+
+ऐसे में वो फिल्म में साई पल्लवी के किरदार को लेकर उठ रहे सवालों से सहमत नहीं हैं. Advertisement        स्क्रीन से बातचीत में अमीश त्रिपाठी ने कहा कि लोगों को रामायण के सभी रूपों के बारे में जानकारी नहीं है. उन्होंने कहा- हमारे एजुकेशन सिस्टम में रामायण और महाभारत को ठीक से नहीं पढ़ाया जाता.
+
+इसी वजह से हमें इनके अलग-अलग रूपों के बारे में पता नहीं है. अद्भुत रामायण में सीता ने रावण के एक ज्यादा ताकतवर और बड़े रूप का वध किया था. उस कहानी में सीता एक योद्धा थीं. ये कोई नई कहानी नहीं है, बल्कि वाल्मीकि से जुड़ा एक प्राचीन रूप है.रामायण और महाभारत पर अमीश क्या बोले?अमीश ने रामायण और महाभारत जैसी कहानियों को समझने के तरीके पर भी बात की.
+
+उन्होंने कहा कि समय के साथ इन महाकाव्यों को लेकर हमारी समझ बढ़ती है. परेशानी तब होती है, जब लोग इनके सिर्फ एक ही रूप को जानते हैं और बाकी कहानियों के बारे में उन्हें जानकारी नहीं होती.अपनी बात समझाने के लिए उन्होंने ग्रीक कहानी &#039;ओडिसी&#039; का उदाहरण दिया. अमीश ने बताया कि एक समय ऐसा था, जब लोग होमर की &#039;ओडिसी&#039; को सिर्फ काल्पनिक कहानी मानते थे.
+
+लेकिन 19वीं सदी में यूरोप में ट्रॉय शहर की खोज हुई. इसके बाद ये सामने आया कि ट्रोजन युद्ध की कहानी के पीछे कुछ असली घटनाएं भी थीं. हालांकि, समय के साथ इसमें कुछ काल्पनिक चीजें भी जुड़ गई होंगी. Advertisement        बता दें कि फिल्म रामायण के पहले पार्ट को नितेश तिवारी ने डायरेक्ट किया है.
+
+अब वो इसके दूसरे पार्ट पर काम कर रहे हैं, जिसे दिवाली 2028 पर रिलीज करने का ऐलान किया गया है. पहले पार्ट में कहानी माता सीता के हरण से रावण-जटायु के युद्ध तक खत्म होती है. अगले पार्ट में हनुमान जी और भगवान राम-रावण के युद्ध को दिखाया जाएगा. उस पार्ट में सनी देओल भी दिखाई देंगे.बात करें रामायण की कमाई की, तो वर्ल्डवाइड फिल्म 1700 करोड़ से ज्यादा कमा चुकी है.
+
+अब इसकी नजर 1800 करोड़ क्लब में एंट्री पर है, जो 23वें दिन पूरी होने की संभावना है. ---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/author-amish-tripathi-defends-sai-pallavi-warrior-sita-ramayana-ranbir-kapoor-yash-1700-crore-box-office-tmovj-dskc-2707448-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Sai Pallavi Sita Controversy: 1700 करोड़ कमा चुकी रामायण में योद्धा क्यों है सीता? - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+{
     id: 202,
     title: `Rohit Sharma: Mumbai Indians 'needs a direction' right now`,
     slug: `rohit-sharma-mumbai-indians-needs-a-direction-right-now-2026`,
