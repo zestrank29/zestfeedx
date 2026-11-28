@@ -10,7 +10,1727 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+  
+  
   {
+    id: 202,
+    title: `Rohit Sharma: Mumbai Indians 'needs a direction' right now`,
+    slug: `rohit-sharma-mumbai-indians-needs-a-direction-right-now-2026`,
+    original_title: `Rohit Sharma: Mumbai Indians 'needs a direction' right now`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:15:12Z`,
+    updated_at: `2026-11-28T08:15:12Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564519.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Rohit Sharma: Mumbai Indians 'needs a direction' right now`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `The new Mumbai Indians captain says he hesitated when he was first offered the job, but is now determined to make the team what it used to be`,
+    content: `The new Mumbai Indians captain says he hesitated when he was first offered the job, but is now determined to make the team what it used to be
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564519.html?ex_cid=OTC-RSS)`,
+    title_en: `Rohit Sharma: Mumbai Indians 'needs a direction' right now`,
+    summary_en: `The new Mumbai Indians captain says he hesitated when he was first offered the job, but is now determined to make the team what it used to be`,
+    content_en: `The new Mumbai Indians captain says he hesitated when he was first offered the job, but is now determined to make the team what it used to be
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564519.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-202`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Session Break`,
+    score_verified_at: `2026-11-28 13:45:12 IST`,
+    detected_at: `2026-11-28T08:15:12Z`,
+    verified_at: `2026-11-28T08:15:12Z`,
+    approved_at: `2026-11-28T08:15:12Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Rohit Sharma: Mumbai Indians 'needs a direction' right now.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 203,
+    title: `Bancroft leads WA's late charge in thrilling Tasmania draw`,
+    slug: `bancroft-leads-was-late-charge-in-thrilling-tasmania-draw-2026`,
+    original_title: `Bancroft leads WA's late charge in thrilling Tasmania draw`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:15:12Z`,
+    updated_at: `2026-11-28T08:15:12Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564286.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Bancroft leads WA's late charge in thrilling Tasmania draw`,
+    image_courtesy: `Photo: Stadium Photography Wire (Unsplash License)`,
+    image_photographer: `Stadium Photography Wire`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `Chasing a fourth innings target of 142 runs off 13 overs, WA fell agonisingly short at 137 for 6 with Bancroft finishing 57 not out from 36 balls`,
+    content: `Chasing a fourth innings target of 142 runs off 13 overs, WA fell agonisingly short at 137 for 6 with Bancroft finishing 57 not out from 36 balls
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564286.html?ex_cid=OTC-RSS)`,
+    title_en: `Bancroft leads WA's late charge in thrilling Tasmania draw`,
+    summary_en: `Chasing a fourth innings target of 142 runs off 13 overs, WA fell agonisingly short at 137 for 6 with Bancroft finishing 57 not out from 36 balls`,
+    content_en: `Chasing a fourth innings target of 142 runs off 13 overs, WA fell agonisingly short at 137 for 6 with Bancroft finishing 57 not out from 36 balls
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564286.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-203`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-28 13:45:12 IST`,
+    detected_at: `2026-11-28T08:15:12Z`,
+    verified_at: `2026-11-28T08:15:12Z`,
+    approved_at: `2026-11-28T08:15:12Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Bancroft leads WA's late charge in thrilling Tasmania draw.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 186,
+    title: `56% of Indian women of reproductive age anaemic, finds ICMR survey - CNBC TV18`,
+    slug: `56-of-indian-women-of-reproductive-age-anaemic-finds-icmr-survey-cnbc-2026`,
+    original_title: `56% of Indian women of reproductive age anaemic, finds ICMR survey - CNBC TV18`,
+    category: `health`,
+    topic: `womens-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:14:32Z`,
+    updated_at: `2026-11-28T08:14:32Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://www.cnbctv18.com/lifestyle/healthcare/56-of-indian-women-of-reproductive-age-anaemic-finds-icmr-survey-20042903.htm/amp`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/56-of-indian-women-of-reproductive-age-anaemic-finds-icmr-survey-cnbc-2026.jpg`,
+    image_alt: `56% of Indian women of reproductive age anaemic, finds ICMR survey - CNBC TV18`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `More than half of women of reproductive age in India are anaemic, according to a new national survey conducted by the Indian Council of Medical Research .The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropo`,
+    content: `More than half of women of reproductive age in India are anaemic, according to a new national survey conducted by the Indian Council of Medical Research .The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry , conducted between 2023 and 2025, found that 56% of women of reproductive age have anaemia.The survey also found that 42% of children aged 12-59 months are anaemic.
+
+Among adolescents, 46% of girls aged 10-19 years have anaemia, while the figure is lower at 22-23% among boys in the same age group and men aged 20-59 years.The SAMPADA survey covered more than 2 lakh people from over 81,000 households across 183 districts in 35 states and Union Territories.
+
+Researchers analysed more than 1.7 lakh blood samples to check haemoglobin levels.The survey studied iron, vitamin B12 and folate levels in some participants to understand the possible reasons behind anaemia.The survey found that most people with anaemia have mild anaemia. About half of the women, including pregnant and breastfeeding women, adolescent girls and children with anaemia, had mild cases.Among men and adolescent boys, nearly three-fourths of anaemia cases were mild.
+
+The survey found that severe anaemia affected less than 2% of people in most age groups. It also found that iron deficiency is responsible for about half of anaemia cases among women, adolescent girls and children.Iron deficiency is not the only reason behind anaemia. Infections, inherited blood disorders called haemoglobinopathies and inflammation caused by long-term health conditions can also contribute to it.The researchers found that vitamin B12 and folate deficiencies were seen at similar levels among people with and without anaemia.Iron deficiency was more common among children below five years, adolescent girls and women of reproductive age.
+
+It was less common among adolescent boys, adult men and older people. The survey also found that people with moderate or severe anaemia were more likely to have iron deficiency.Dr Rajiv Bahl, Secretary of the Department of Health Research and Director General of ICMR, said the survey provides national-level information on anaemia across different age groups, including children, adolescents, adults, pregnant women, breastfeeding women and older people."It is encouraging that prevalence of anaemia is lower in SAMPADA compared to previous national surveys," he said.Dr Bharati Kulkarni, Director of ICMR-NIN, said the findings would help develop better strategies to prevent and manage anaemia among different population groups.The findings will help strengthen Anaemia Mukt Bharat, the government's programme to reduce anaemia across the country through prevention, testing and treatment.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.cnbctv18.com/lifestyle/healthcare/56-of-indian-women-of-reproductive-age-anaemic-finds-icmr-survey-20042903.htm/amp)`,
+    title_en: `56% of Indian women of reproductive age anaemic, finds ICMR survey - CNBC TV18`,
+    summary_en: `More than half of women of reproductive age in India are anaemic, according to a new national survey conducted by the Indian Council of Medical Research .The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropo`,
+    content_en: `More than half of women of reproductive age in India are anaemic, according to a new national survey conducted by the Indian Council of Medical Research .The Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry , conducted between 2023 and 2025, found that 56% of women of reproductive age have anaemia.The survey also found that 42% of children aged 12-59 months are anaemic.
+
+Among adolescents, 46% of girls aged 10-19 years have anaemia, while the figure is lower at 22-23% among boys in the same age group and men aged 20-59 years.The SAMPADA survey covered more than 2 lakh people from over 81,000 households across 183 districts in 35 states and Union Territories.
+
+Researchers analysed more than 1.7 lakh blood samples to check haemoglobin levels.The survey studied iron, vitamin B12 and folate levels in some participants to understand the possible reasons behind anaemia.The survey found that most people with anaemia have mild anaemia. About half of the women, including pregnant and breastfeeding women, adolescent girls and children with anaemia, had mild cases.Among men and adolescent boys, nearly three-fourths of anaemia cases were mild.
+
+The survey found that severe anaemia affected less than 2% of people in most age groups. It also found that iron deficiency is responsible for about half of anaemia cases among women, adolescent girls and children.Iron deficiency is not the only reason behind anaemia. Infections, inherited blood disorders called haemoglobinopathies and inflammation caused by long-term health conditions can also contribute to it.The researchers found that vitamin B12 and folate deficiencies were seen at similar levels among people with and without anaemia.Iron deficiency was more common among children below five years, adolescent girls and women of reproductive age.
+
+It was less common among adolescent boys, adult men and older people. The survey also found that people with moderate or severe anaemia were more likely to have iron deficiency.Dr Rajiv Bahl, Secretary of the Department of Health Research and Director General of ICMR, said the survey provides national-level information on anaemia across different age groups, including children, adolescents, adults, pregnant women, breastfeeding women and older people."It is encouraging that prevalence of anaemia is lower in SAMPADA compared to previous national surveys," he said.Dr Bharati Kulkarni, Director of ICMR-NIN, said the findings would help develop better strategies to prevent and manage anaemia among different population groups.The findings will help strengthen Anaemia Mukt Bharat, the government's programme to reduce anaemia across the country through prevention, testing and treatment.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.cnbctv18.com/lifestyle/healthcare/56-of-indian-women-of-reproductive-age-anaemic-finds-icmr-survey-20042903.htm/amp)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for 56% of Indian women of reproductive age anaemic, finds ICMR survey - CNBC TV18.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 187,
+    title: `अल्मोड़ा में विटामिन डी की कमी से जूझ रहे लोग, धूप और खानपान की आदतें बिगाड़ रही सेहत - Jagran`,
+    slug: `health-breaking-report-260-187-2026`,
+    original_title: `अल्मोड़ा में विटामिन डी की कमी से जूझ रहे लोग, धूप और खानपान की आदतें बिगाड़ रही सेहत - Jagran`,
+    category: `health`,
+    topic: `nutrition`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:14:36Z`,
+    updated_at: `2026-11-28T08:14:36Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/uttarakhand/almora-almora-1-in-5-suffers-from-vitamin-d-deficiency-despite-sun-40449574.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/health-breaking-report-260-187-2026.webp`,
+    image_alt: `अल्मोड़ा में विटामिन डी की कमी से जूझ रहे लोग, धूप और खानपान की आदतें बिगाड़ रही सेहत - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `अल्मोड़ा में एक साल में हुई 1180 विटामिन डी जांचों में से हर पांचवें व्यक्ति में इसकी कमी पाई गई है।`,
+    content: `अल्मोड़ा में एक साल में हुई 1180 विटामिन डी जांचों में से हर पांचवें व्यक्ति में इसकी कमी पाई गई है।
+
+जानिए मुख्य बातें और खबर का सार एक नजर में
+
+हेमंत बिष्ट, जागरण, अल्मोड़ा। धूप से दूरी और खानपान की बिगड़ती आदतें लोगों की हड्डियों संबंधित बीमारियों की चपेट में ला रही हैं। जनपद में सालभर पर्याप्त धूप मिलने के बावजूद लोग विटामिन डी की कमी से जूझ रहे हैं।
+
+जिला अस्पताल में एक साल के दौरान विटामिन डी की 1180 जांच की गईं, जिनमें 236 लोगों में इसकी कमी की पुष्टि हुई है। यानी जांच कराने वाले हर पांच में से एक व्यक्ति में विटामिन डी का स्तर कम पाया गया।
+
+विटामिन डी की कमी के चलते लोगों में कमर, घुटने और जोड़ों में दर्द के साथ मांसपेशियों में खिंचाव जैसी शिकायतें सामने आ रही हैं। युवाओं और महिलाओं में भी इस तरह की समस्याएं देखने को मिल रही हैं।
+
+चिकित्सकों के अनुसार, शरीर में विटामिन डी की कमी का प्रमुख कारण पर्याप्त धूप नहीं लेना और खानपान में विटामिन डी युक्त खाद्य पदार्थों का अभाव है। जिला अस्पताल की फिजिशियन डॉ. ऋतु खनी ने बताया कि सूर्य की पराबैंगनी किरणें त्वचा पर पड़ने से शरीर में प्राकृतिक रूप से विटामिन डी का निर्माण होता है।
+
+इसके अलावा कुछ खाद्य पदार्थों से भी इसकी पूर्ति की जा सकती है। शरीर में विटामिन डी की पर्याप्त मात्रा हड्डियों को मजबूत रखने और कैल्शियम के अवशोषण के लिए जरूरी है।
+
+सितंबर में सबसे अधिक हुई विटामिन डी की जांच
+
+जिला अस्पताल में मुख्यालय के साथ ग्रामीण क्षेत्रों से भी मरीज विटामिन डी की जांच कराने पहुंच रहे हैं। सितंबर में सबसे अधिक 197 जांच हुईं। अगस्त में 169, जून में 178, जुलाई में 153, मई में 138 और अप्रैल में 111 लोगों की जांच की गई। वहीं अक्टूबर में 89, मार्च में 60, फरवरी में 20 और जनवरी में 93 जांच हुईं।
+
+ग्रामीण क्षेत्रों में भी जागरूकता के निर्देश
+
+विटामिन डी की कमी को लेकर स्वास्थ्य विभाग की ओर से ग्रामीण क्षेत्रों में भी जागरूकता बढ़ाने पर जोर दिया जा रहा है। इसके लिए सामुदायिक स्वास्थ्य अधिकारियों (सीएचओ) और एएनएम को विशेष निर्देश दिए गए हैं, ताकि लोगों को विटामिन डी के महत्व, इसकी कमी के लक्षणों और बचाव के उपायों के प्रति जागरूक किया जा सके।
+
+शारीरिक गतिविधियां कम होने और वजन बढ़ने से भी हड्डियों और मांसपेशियों पर असर पड़ता है। ऐसे में संतुलित खानपान के साथ नियमित शारीरिक गतिविधियां जरूरी हैं। डा. रंजन तिवारी, अपर जिला चिकित्साधिकारी, अल्मोड़ा।
+
+यह भी पढ़ें- अल्मोड़ा के द्वाराहाट में पंचायत प्रतिनिधियों का फूटा गुस्सा तहसीलदार व कर्मचारियों को बनाया बंधक
+
+यह भी पढ़ें- Uttarakhand Weather: अल्मोड़ा में कोहरे ने बढ़ाई ठिठुरन, अलाव का सहारा ले रहे लोग
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/uttarakhand/almora-almora-1-in-5-suffers-from-vitamin-d-deficiency-despite-sun-40449574.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अल्मोड़ा में विटामिन डी की कमी से जूझ रहे लोग, धूप और खानपान की आदतें बिगाड़ रही सेहत - Jagran`,
+    summary_hi: `अल्मोड़ा में एक साल में हुई 1180 विटामिन डी जांचों में से हर पांचवें व्यक्ति में इसकी कमी पाई गई है।`,
+    content_hi: `अल्मोड़ा में एक साल में हुई 1180 विटामिन डी जांचों में से हर पांचवें व्यक्ति में इसकी कमी पाई गई है।
+
+जानिए मुख्य बातें और खबर का सार एक नजर में
+
+हेमंत बिष्ट, जागरण, अल्मोड़ा। धूप से दूरी और खानपान की बिगड़ती आदतें लोगों की हड्डियों संबंधित बीमारियों की चपेट में ला रही हैं। जनपद में सालभर पर्याप्त धूप मिलने के बावजूद लोग विटामिन डी की कमी से जूझ रहे हैं।
+
+जिला अस्पताल में एक साल के दौरान विटामिन डी की 1180 जांच की गईं, जिनमें 236 लोगों में इसकी कमी की पुष्टि हुई है। यानी जांच कराने वाले हर पांच में से एक व्यक्ति में विटामिन डी का स्तर कम पाया गया।
+
+विटामिन डी की कमी के चलते लोगों में कमर, घुटने और जोड़ों में दर्द के साथ मांसपेशियों में खिंचाव जैसी शिकायतें सामने आ रही हैं। युवाओं और महिलाओं में भी इस तरह की समस्याएं देखने को मिल रही हैं।
+
+चिकित्सकों के अनुसार, शरीर में विटामिन डी की कमी का प्रमुख कारण पर्याप्त धूप नहीं लेना और खानपान में विटामिन डी युक्त खाद्य पदार्थों का अभाव है। जिला अस्पताल की फिजिशियन डॉ. ऋतु खनी ने बताया कि सूर्य की पराबैंगनी किरणें त्वचा पर पड़ने से शरीर में प्राकृतिक रूप से विटामिन डी का निर्माण होता है।
+
+इसके अलावा कुछ खाद्य पदार्थों से भी इसकी पूर्ति की जा सकती है। शरीर में विटामिन डी की पर्याप्त मात्रा हड्डियों को मजबूत रखने और कैल्शियम के अवशोषण के लिए जरूरी है।
+
+सितंबर में सबसे अधिक हुई विटामिन डी की जांच
+
+जिला अस्पताल में मुख्यालय के साथ ग्रामीण क्षेत्रों से भी मरीज विटामिन डी की जांच कराने पहुंच रहे हैं। सितंबर में सबसे अधिक 197 जांच हुईं। अगस्त में 169, जून में 178, जुलाई में 153, मई में 138 और अप्रैल में 111 लोगों की जांच की गई। वहीं अक्टूबर में 89, मार्च में 60, फरवरी में 20 और जनवरी में 93 जांच हुईं।
+
+ग्रामीण क्षेत्रों में भी जागरूकता के निर्देश
+
+विटामिन डी की कमी को लेकर स्वास्थ्य विभाग की ओर से ग्रामीण क्षेत्रों में भी जागरूकता बढ़ाने पर जोर दिया जा रहा है। इसके लिए सामुदायिक स्वास्थ्य अधिकारियों (सीएचओ) और एएनएम को विशेष निर्देश दिए गए हैं, ताकि लोगों को विटामिन डी के महत्व, इसकी कमी के लक्षणों और बचाव के उपायों के प्रति जागरूक किया जा सके।
+
+शारीरिक गतिविधियां कम होने और वजन बढ़ने से भी हड्डियों और मांसपेशियों पर असर पड़ता है। ऐसे में संतुलित खानपान के साथ नियमित शारीरिक गतिविधियां जरूरी हैं। डा. रंजन तिवारी, अपर जिला चिकित्साधिकारी, अल्मोड़ा।
+
+यह भी पढ़ें- अल्मोड़ा के द्वाराहाट में पंचायत प्रतिनिधियों का फूटा गुस्सा तहसीलदार व कर्मचारियों को बनाया बंधक
+
+यह भी पढ़ें- Uttarakhand Weather: अल्मोड़ा में कोहरे ने बढ़ाई ठिठुरन, अलाव का सहारा ले रहे लोग
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/uttarakhand/almora-almora-1-in-5-suffers-from-vitamin-d-deficiency-despite-sun-40449574.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक अल्मोड़ा में विटामिन डी की कमी से जूझ रहे लोग, धूप और खानपान की आदतें बिगाड़ रही सेहत - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+  {
+    id: 188,
+    title: `Thirupparankundram row: SC-appointed receivers arrive to oversee 'Deepathoon' ritual`,
+    slug: `thirupparankundram-row-sc-appointed-receivers-arrive-to-oversee-deepat-2026`,
+    original_title: `Thirupparankundram row: SC-appointed receivers arrive to oversee 'Deepathoon' ritual`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:14:37Z`,
+    updated_at: `2026-11-28T08:14:37Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/thirupparankundram-row-sc-appointed-receivers-arrive-to-oversee-deepat-2026.jpg`,
+    image_alt: `Thirupparankundram row: SC-appointed receivers arrive to oversee 'Deepathoon' ritual`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `You don’t have any Active Subscription.`,
+    content: `You don’t have any Active Subscription.
+
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
+
+Weather News November 28, 2026 e-Paper
+
+The View From India Looking at World Affairs from the Indian perspective.
+
+First Day First Show News and reviews from the world of cinema and streaming.
+
+Today's Cache Your download of the top 5 technology stories of the day.
+
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
+
+Data Point Decoding the headlines with facts, figures, and numbers
+
+THEdge At the cutting edge of education and careers
+
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
+
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram
+
+Updated - November 28, 2026 01:32 pm IST
+
+Workers construct a temporary platform as preparations are underway ahead of the ceremonial lighting of the Karthigai Deepam at the Deepathoon stone pillar on November 28, 2026
+                                                  | Photo Credit:  
+                          PTI
+
+T he ‘ Deepathoon ’ atop Thiruparankundram Hill is expected to be lit around 5:00 p.m. The Supreme Court appointed receivers overseeing the arrangements said only 20-25 people selected by them would be allowed to witness the ceremony, while a decision on permitting media personnel to access the hilltop is under review. Temporary platforms and scaffolding are being erected around the Deepathoon stone pillar ahead of Saturday’s (November 28, 2026) lamp lighting. The work is being carried out under CRPF security, while BJP and Hindu Munnani leaders are also expected to visit the hill for the ceremony.
+
+Supreme Court-appointed receivers Justice S. Vaidyanathan and Justice V. Parthiban arrived at the Sri Subramaniya Swamy Temple, accompanied by CRPF personnel. They are set to proceed to the Deepathoon site to oversee the court-directed proceedings.
+
+The Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram hill. Hearing the contempt petitions on Friday (November 27, 2026), the court accused the authorities and the Board of Trustees of having acted “according to their political bosses”.
+
+The Supreme Court directed the temple receivers to light the Karthigai Deepam at the stone pillar -- ‘deepathoon’ -- on Saturday (November 28, 2026) after consultations with the priests.
+
+This year’s festival might be over, but the long-standing issue is far from resolved. Disagreements over the use of the hill by the Muslim and Hindu communities, its ownership and traditional practices have existed since 1915. Now, with the apex Court’s order being a temporary arrangement, legal closure is yet to come.
+
+Police officer Rajendiran and CRPF personnel brief protesters on the procedure to be followed for gaining access to Thiruparankundram Hill amid security arrangements for the ‘Deepathoon’ lamp-lighting ceremony.
+
+A verbal altercation broke out between BJP workers and police personnel over access to Thiruparankundram Hill amid heightened security arrangements for the ‘Deepathoon’ lamp-lighting ceremony.
+
+BJP workers burst firecrackers and distributed sweets to the public in Devakottai, Sivaganga district, celebrating the Supreme Court’s order permitting the lighting of Karthigai Deepam at ‘Deepathoon.’
+
+The Supreme Court appointed receivers overseeing the arrangements reportedly said the Karthigai Deepam would be lit around 5:00 p.m. Only 20-25 people selected by them will be allowed to witness the ceremony. They will also review whether media personnel can be permitted to climb the hill.
+
+CRPF Inspector General Vikram says arrangements are being made to ensure the peaceful lighting of Karthigai Deepam at ‘Deepathoon’ atop Thiruparankundram Hill.
+
+Devotees and Hindu outfit members attempted to breach barricades and climb Thiruparankundram Hill to reach the ‘Deepathoon’ site. They were earlier stopped by CRPF personnel.
+
+Devotees and priests make their way towards Thiruparankundram Hill where the ceremonial lamp will be lit at the ‘Deepathoon’ stone pillar today.
+
+Temple authorities carrying essential materials make their way up Thiruparankundram Hill for the ceremonial lighting of the Karthigai Deepam at the Deepathoon stone pillar.
+
+Supreme Court-appointed receivers Justice S. Vaidyanathan and Justice V. Parthiban arrived at the Sri Subramaniya Swamy Temple in. Accompanied by CRPF personnel, the receivers are set to proceed to the Deepathoon site.
+
+A devotee at Thiruparankundram welcomes the Supreme Court’s verdict.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece)`,
+    title_en: `Thirupparankundram row: SC-appointed receivers arrive to oversee 'Deepathoon' ritual`,
+    summary_en: `You don’t have any Active Subscription.`,
+    content_en: `You don’t have any Active Subscription.
+
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
+
+Weather News November 28, 2026 e-Paper
+
+The View From India Looking at World Affairs from the Indian perspective.
+
+First Day First Show News and reviews from the world of cinema and streaming.
+
+Today's Cache Your download of the top 5 technology stories of the day.
+
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
+
+Data Point Decoding the headlines with facts, figures, and numbers
+
+THEdge At the cutting edge of education and careers
+
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
+
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram
+
+Updated - November 28, 2026 01:32 pm IST
+
+Workers construct a temporary platform as preparations are underway ahead of the ceremonial lighting of the Karthigai Deepam at the Deepathoon stone pillar on November 28, 2026
+                                                  | Photo Credit:  
+                          PTI
+
+T he ‘ Deepathoon ’ atop Thiruparankundram Hill is expected to be lit around 5:00 p.m. The Supreme Court appointed receivers overseeing the arrangements said only 20-25 people selected by them would be allowed to witness the ceremony, while a decision on permitting media personnel to access the hilltop is under review. Temporary platforms and scaffolding are being erected around the Deepathoon stone pillar ahead of Saturday’s (November 28, 2026) lamp lighting. The work is being carried out under CRPF security, while BJP and Hindu Munnani leaders are also expected to visit the hill for the ceremony.
+
+Supreme Court-appointed receivers Justice S. Vaidyanathan and Justice V. Parthiban arrived at the Sri Subramaniya Swamy Temple, accompanied by CRPF personnel. They are set to proceed to the Deepathoon site to oversee the court-directed proceedings.
+
+The Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram hill. Hearing the contempt petitions on Friday (November 27, 2026), the court accused the authorities and the Board of Trustees of having acted “according to their political bosses”.
+
+The Supreme Court directed the temple receivers to light the Karthigai Deepam at the stone pillar -- ‘deepathoon’ -- on Saturday (November 28, 2026) after consultations with the priests.
+
+This year’s festival might be over, but the long-standing issue is far from resolved. Disagreements over the use of the hill by the Muslim and Hindu communities, its ownership and traditional practices have existed since 1915. Now, with the apex Court’s order being a temporary arrangement, legal closure is yet to come.
+
+Police officer Rajendiran and CRPF personnel brief protesters on the procedure to be followed for gaining access to Thiruparankundram Hill amid security arrangements for the ‘Deepathoon’ lamp-lighting ceremony.
+
+A verbal altercation broke out between BJP workers and police personnel over access to Thiruparankundram Hill amid heightened security arrangements for the ‘Deepathoon’ lamp-lighting ceremony.
+
+BJP workers burst firecrackers and distributed sweets to the public in Devakottai, Sivaganga district, celebrating the Supreme Court’s order permitting the lighting of Karthigai Deepam at ‘Deepathoon.’
+
+The Supreme Court appointed receivers overseeing the arrangements reportedly said the Karthigai Deepam would be lit around 5:00 p.m. Only 20-25 people selected by them will be allowed to witness the ceremony. They will also review whether media personnel can be permitted to climb the hill.
+
+CRPF Inspector General Vikram says arrangements are being made to ensure the peaceful lighting of Karthigai Deepam at ‘Deepathoon’ atop Thiruparankundram Hill.
+
+Devotees and Hindu outfit members attempted to breach barricades and climb Thiruparankundram Hill to reach the ‘Deepathoon’ site. They were earlier stopped by CRPF personnel.
+
+Devotees and priests make their way towards Thiruparankundram Hill where the ceremonial lamp will be lit at the ‘Deepathoon’ stone pillar today.
+
+Temple authorities carrying essential materials make their way up Thiruparankundram Hill for the ceremonial lighting of the Karthigai Deepam at the Deepathoon stone pillar.
+
+Supreme Court-appointed receivers Justice S. Vaidyanathan and Justice V. Parthiban arrived at the Sri Subramaniya Swamy Temple in. Accompanied by CRPF personnel, the receivers are set to proceed to the Deepathoon site.
+
+A devotee at Thiruparankundram welcomes the Supreme Court’s verdict.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Thirupparankundram row: SC-appointed receivers arrive to oversee 'Deepathoon' ritual.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 189,
+    title: `परिसीमन बिल पास हुआ तो ज्ञानेश कुमार..., CJP प्रवक्ता आशुतोष रांका का बड़ा बयान - ABP News`,
+    slug: `cjp-abp-news-2026`,
+    original_title: `परिसीमन बिल पास हुआ तो ज्ञानेश कुमार..., CJP प्रवक्ता आशुतोष रांका का बड़ा बयान - ABP News`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:14:38Z`,
+    updated_at: `2026-11-28T08:14:38Z`,
+    source_name: `ABP News`,
+    source_url: `https://www.abplive.com/news/india/cjp-spokesperson-ashutosh-ranka-targets-cec-gyanesh-kumar-delimitation-bill-3220419`,
+    source_courtesy: `Source: ABP News`,
+    image_url: `/images/articles/cjp-abp-news-2026.jpg`,
+    image_alt: `परिसीमन बिल पास हुआ तो ज्ञानेश कुमार..., CJP प्रवक्ता आशुतोष रांका का बड़ा बयान - ABP News`,
+    image_courtesy: `Image: ABP News (External Source Attribution)`,
+    image_photographer: `ABP News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `कॉकरोच जनता पार्टी (CJP) के प्रवक्ता आशुतोष रांका ने परिसीमन बिल को लेकर मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर निशाना साधा है. उन्होंने एक्स पर पोस्ट कर लिखा कि अगर परिसीमन विधेयक पास हो जाता है तो ज्ञानेश कुमार पूरे भारत की चुनावी सीमाओं को `,
+    content: `कॉकरोच जनता पार्टी (CJP) के प्रवक्ता आशुतोष रांका ने परिसीमन बिल को लेकर मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर निशाना साधा है. उन्होंने एक्स पर पोस्ट कर लिखा कि अगर परिसीमन विधेयक पास हो जाता है तो ज्ञानेश कुमार पूरे भारत की चुनावी सीमाओं को फिर से तय करेंगे. क्या कोई निष्पक्ष परिसीमन की बात करेगा?
+
+CJP लगातार चुनाव आयुक्त के खिलाफ वोट चोरी को लेकर निशाना साधता रहा है. इस वजह से CJP मुख्य चुनाव आयुक्त ज्ञानेश कुमार की इस्तीफे की मांग कर रही है. अब परिसीमन बिल को लेकर चुनाव आयुक्त को घेरने की कोशिश कर रही है. CJP आरोप लगाया है कि SIR के दौरान 30 राज्यों और केंद्र शासित प्रदेशों में मसौदा मतदाता सूची से 13 करोड़ से अधिक नाम बाहर कर दिए गए थे.
+
+If the delimitation bill goes through, Gyanesh Kumar will be redrawing entire India&rsquo;s electoral boundaries. &ldquo;Fair Delimitation&rdquo;, anyone? &mdash; Ashutosh Ranka (@AshutoshRanka) November 28, 2026
+
+
+
+परिसीमन को लेकर छिड़ गई बहस
+लोकसभा के प्रस्तावित विस्तार और निर्वाचन क्षेत्रों के परिसीमन ने राज्यों के प्रतिनिधित्व को लेकर एक व्यापक बहस छेड़ दी है.
+
+एक तरफ उत्तर-दक्षिण के बीच की खाई और चौड़ी होने की आशंका जताई जा रही है, वहीं दूसरी तरफ यह तर्क दिया जा रहा है कि अधिक सीट का मतलब छोटे निर्वाचन क्षेत्र होंगे, जिससे सांसदों तक आम जनता की पहुंच और अधिक आसान हो जाएगी. जहां एक ओर सरकार ने लोकसभा की सदस्य संख्या बढ़ाने और 2029 में महिला आरक्षण लागू करने का मार्ग प्रशस्त करने के पक्ष में तर्क दिया है, वहीं इसके आलोचकों ने इस व्यापक विस्तार की आवश्यकता पर सवाल उठाए हैं.
+
+लोकसभा का विस्तार क्यों?&nbsp;
+राज्यों के बीच लोकसभा सीट का मौजूदा आवंटन मोटे तौर पर 1971 की जनगणना पर आधारित है, जब भारत की आबादी लगभग 55 करोड़ थी. तब से देश की जनसंख्या लगभग तीन गुनी हो चुकी है, लेकिन लोकसभा की सदस्य संख्या में इसके अनुरूप कोई वृद्धि नहीं हुई है. मई 2026 में कार्नेगी एंडोमेंट फॉर इंटरनेशनल पीस की तरफ से प्रकाशित एक शोधपत्र के अनुसार, लोकसभा के सांसद दुनिया के किसी भी अन्य देश की विधायिका के निचले सदन के अपने समकक्षों की तुलना में औसतन कहीं अधिक लोगों का प्रतिनिधित्व करते हैं.
+
+एक औसत लोकसभा क्षेत्र की जनसंख्या लगभग 27 लाख है. लोकसभा के आकार में लगभग 50 प्रतिशत के विस्तार से यह आंकड़ा घटकर लगभग 18 लाख रह जाएगा. शोधपत्र में कहा गया है कि इस तरह के विस्तार के बाद भी भारत में एक औसत संसदीय क्षेत्र की जनसंख्या अमेरिका के एक कांग्रेसनल डिस्ट्रिक्ट (संसदीय क्षेत्र) की आबादी से दोगुनी से भी अधिक होगी.&nbsp;
+&nbsp;
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/news/india/cjp-spokesperson-ashutosh-ranka-targets-cec-gyanesh-kumar-delimitation-bill-3220419)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `परिसीमन बिल पास हुआ तो ज्ञानेश कुमार..., CJP प्रवक्ता आशुतोष रांका का बड़ा बयान - ABP News`,
+    summary_hi: `कॉकरोच जनता पार्टी (CJP) के प्रवक्ता आशुतोष रांका ने परिसीमन बिल को लेकर मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर निशाना साधा है. उन्होंने एक्स पर पोस्ट कर लिखा कि अगर परिसीमन विधेयक पास हो जाता है तो ज्ञानेश कुमार पूरे भारत की चुनावी सीमाओं को `,
+    content_hi: `कॉकरोच जनता पार्टी (CJP) के प्रवक्ता आशुतोष रांका ने परिसीमन बिल को लेकर मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर निशाना साधा है. उन्होंने एक्स पर पोस्ट कर लिखा कि अगर परिसीमन विधेयक पास हो जाता है तो ज्ञानेश कुमार पूरे भारत की चुनावी सीमाओं को फिर से तय करेंगे. क्या कोई निष्पक्ष परिसीमन की बात करेगा?
+
+CJP लगातार चुनाव आयुक्त के खिलाफ वोट चोरी को लेकर निशाना साधता रहा है. इस वजह से CJP मुख्य चुनाव आयुक्त ज्ञानेश कुमार की इस्तीफे की मांग कर रही है. अब परिसीमन बिल को लेकर चुनाव आयुक्त को घेरने की कोशिश कर रही है. CJP आरोप लगाया है कि SIR के दौरान 30 राज्यों और केंद्र शासित प्रदेशों में मसौदा मतदाता सूची से 13 करोड़ से अधिक नाम बाहर कर दिए गए थे.
+
+If the delimitation bill goes through, Gyanesh Kumar will be redrawing entire India&rsquo;s electoral boundaries. &ldquo;Fair Delimitation&rdquo;, anyone? &mdash; Ashutosh Ranka (@AshutoshRanka) November 28, 2026
+
+
+
+परिसीमन को लेकर छिड़ गई बहस
+लोकसभा के प्रस्तावित विस्तार और निर्वाचन क्षेत्रों के परिसीमन ने राज्यों के प्रतिनिधित्व को लेकर एक व्यापक बहस छेड़ दी है.
+
+एक तरफ उत्तर-दक्षिण के बीच की खाई और चौड़ी होने की आशंका जताई जा रही है, वहीं दूसरी तरफ यह तर्क दिया जा रहा है कि अधिक सीट का मतलब छोटे निर्वाचन क्षेत्र होंगे, जिससे सांसदों तक आम जनता की पहुंच और अधिक आसान हो जाएगी. जहां एक ओर सरकार ने लोकसभा की सदस्य संख्या बढ़ाने और 2029 में महिला आरक्षण लागू करने का मार्ग प्रशस्त करने के पक्ष में तर्क दिया है, वहीं इसके आलोचकों ने इस व्यापक विस्तार की आवश्यकता पर सवाल उठाए हैं.
+
+लोकसभा का विस्तार क्यों?&nbsp;
+राज्यों के बीच लोकसभा सीट का मौजूदा आवंटन मोटे तौर पर 1971 की जनगणना पर आधारित है, जब भारत की आबादी लगभग 55 करोड़ थी. तब से देश की जनसंख्या लगभग तीन गुनी हो चुकी है, लेकिन लोकसभा की सदस्य संख्या में इसके अनुरूप कोई वृद्धि नहीं हुई है. मई 2026 में कार्नेगी एंडोमेंट फॉर इंटरनेशनल पीस की तरफ से प्रकाशित एक शोधपत्र के अनुसार, लोकसभा के सांसद दुनिया के किसी भी अन्य देश की विधायिका के निचले सदन के अपने समकक्षों की तुलना में औसतन कहीं अधिक लोगों का प्रतिनिधित्व करते हैं.
+
+एक औसत लोकसभा क्षेत्र की जनसंख्या लगभग 27 लाख है. लोकसभा के आकार में लगभग 50 प्रतिशत के विस्तार से यह आंकड़ा घटकर लगभग 18 लाख रह जाएगा. शोधपत्र में कहा गया है कि इस तरह के विस्तार के बाद भी भारत में एक औसत संसदीय क्षेत्र की जनसंख्या अमेरिका के एक कांग्रेसनल डिस्ट्रिक्ट (संसदीय क्षेत्र) की आबादी से दोगुनी से भी अधिक होगी.&nbsp;
+&nbsp;
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/news/india/cjp-spokesperson-ashutosh-ranka-targets-cec-gyanesh-kumar-delimitation-bill-3220419)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट ABP News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक परिसीमन बिल पास हुआ तो ज्ञानेश कुमार..., CJP प्रवक्ता आशुतोष रांका का बड़ा बयान - ABP News से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `ABP News`,
+  },
+  {
+    id: 190,
+    title: `As GenAI enters the fast lane, Instamart plans 340 job cuts - People Matters - HR News`,
+    slug: `as-genai-enters-the-fast-lane-instamart-plans-340-job-cuts-people-matt-2026`,
+    original_title: `As GenAI enters the fast lane, Instamart plans 340 job cuts - People Matters - HR News`,
+    category: `markets`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:14:41Z`,
+    updated_at: `2026-11-28T08:14:41Z`,
+    source_name: `People Matters - HR News`,
+    source_url: `https://www.peoplematters.in/news/strategic-hr/as-genai-enters-the-fast-lane-instamart-plans-340-job-cuts-53611`,
+    source_courtesy: `Source: People Matters - HR News`,
+    image_url: `/images/articles/as-genai-enters-the-fast-lane-instamart-plans-340-job-cuts-people-matt-2026.jpg`,
+    image_alt: `As GenAI enters the fast lane, Instamart plans 340 job cuts - People Matters - HR News`,
+    image_courtesy: `Image: People Matters - HR News (External Source Attribution)`,
+    image_photographer: `People Matters - HR News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Markets, News, India`,
+    summary: `​​​​​​​​​​​​​​Swiggy’s quick commerce arm Instamart is set to cut around 340 jobs as it restructures operations and increases the adoption of generative artificial intelligence (GenAI).&nbsp;The workforce reduction is part of a broader effo`,
+    content: `​​​​​​​​​​​​​​Swiggy’s quick commerce arm Instamart is set to cut around 340 jobs as it restructures operations and increases the adoption of generative artificial intelligence (GenAI).&nbsp;The workforce reduction is part of a broader effort to streamline teams, improve efficiency and prepare the business for its next phase of growth, according to a report by India Today.The proposed layoffs are expected to primarily affect corporate and support functions.
+
+The restructuring comes as Instamart faces mounting competition and continued financial pressure in India's quick commerce market.The company plans to eliminate overlapping roles, strengthen accountability and speed up decision-making.Employees affected by the cuts will receive severance payments over and above statutory payouts.
+
+Swiggy will also accelerate ESOP vesting until their last working day and extend health insurance and wellness subscriptions until May 2027. The support package includes relocation assistance for eligible employees and outplacement support, along with three months of premium access to career and networking platforms.Instamart restructures operations as competition intensifiesInstamart faces growing competition from Eternal-owned Blinkit, Zepto, Flipkart Minutes and Amazon Now as players expand their quick commerce networks.The company is looking to drive more business from existing customers.
+
+It added 1.2 million monthly transacting users (MTUs) in Q2 FY27, its highest quarterly addition so far.Instamart's gross order value (GOV) grew 16.7% sequentially to Rs 9,230 crore during the quarter. Its contribution margin also improved by 157 basis points year-on-year to -1% of GOV.The company is relying on its Switch strategy to improve customer retention, order frequency and average transaction value.Rising losses keep profitability in focusSwiggy's consolidated net loss narrowed 15.6% year-on-year to Rs 922 crore in Q2 FY27, compared with Rs 1,092 crore in the corresponding period last year.
+
+However, losses increased from Rs 791 crore in the previous quarter.The company had cash and cash equivalents of around Rs 13,500 crore as of Q2 FY27.Meanwhile, Swiggy's food delivery business reported its highest-ever contribution margin, while its out-of-home consumption business remained profitable for seven consecutive quarters.
+
+Its newer offering, Toing, is also aimed at expanding its food delivery customer base.GenAI adoption reshapes workforce strategyThe restructuring signals a shift in Instamart's operating model as it looks to integrate GenAI into workflows and reduce duplication across teams.However, the extent to which AI adoption has directly contributed to the proposed layoffs has not been specified.Swiggy is expected to continue investing in dark stores, supply chain operations and frontline employees as it looks to balance expansion with operational efficiency and profitability.
+
+---
+
+**Original Source:** [People Matters - HR News](https://www.peoplematters.in/news/strategic-hr/as-genai-enters-the-fast-lane-instamart-plans-340-job-cuts-53611)`,
+    title_en: `As GenAI enters the fast lane, Instamart plans 340 job cuts - People Matters - HR News`,
+    summary_en: `​​​​​​​​​​​​​​Swiggy’s quick commerce arm Instamart is set to cut around 340 jobs as it restructures operations and increases the adoption of generative artificial intelligence (GenAI).&nbsp;The workforce reduction is part of a broader effo`,
+    content_en: `​​​​​​​​​​​​​​Swiggy’s quick commerce arm Instamart is set to cut around 340 jobs as it restructures operations and increases the adoption of generative artificial intelligence (GenAI).&nbsp;The workforce reduction is part of a broader effort to streamline teams, improve efficiency and prepare the business for its next phase of growth, according to a report by India Today.The proposed layoffs are expected to primarily affect corporate and support functions.
+
+The restructuring comes as Instamart faces mounting competition and continued financial pressure in India's quick commerce market.The company plans to eliminate overlapping roles, strengthen accountability and speed up decision-making.Employees affected by the cuts will receive severance payments over and above statutory payouts.
+
+Swiggy will also accelerate ESOP vesting until their last working day and extend health insurance and wellness subscriptions until May 2027. The support package includes relocation assistance for eligible employees and outplacement support, along with three months of premium access to career and networking platforms.Instamart restructures operations as competition intensifiesInstamart faces growing competition from Eternal-owned Blinkit, Zepto, Flipkart Minutes and Amazon Now as players expand their quick commerce networks.The company is looking to drive more business from existing customers.
+
+It added 1.2 million monthly transacting users (MTUs) in Q2 FY27, its highest quarterly addition so far.Instamart's gross order value (GOV) grew 16.7% sequentially to Rs 9,230 crore during the quarter. Its contribution margin also improved by 157 basis points year-on-year to -1% of GOV.The company is relying on its Switch strategy to improve customer retention, order frequency and average transaction value.Rising losses keep profitability in focusSwiggy's consolidated net loss narrowed 15.6% year-on-year to Rs 922 crore in Q2 FY27, compared with Rs 1,092 crore in the corresponding period last year.
+
+However, losses increased from Rs 791 crore in the previous quarter.The company had cash and cash equivalents of around Rs 13,500 crore as of Q2 FY27.Meanwhile, Swiggy's food delivery business reported its highest-ever contribution margin, while its out-of-home consumption business remained profitable for seven consecutive quarters.
+
+Its newer offering, Toing, is also aimed at expanding its food delivery customer base.GenAI adoption reshapes workforce strategyThe restructuring signals a shift in Instamart's operating model as it looks to integrate GenAI into workflows and reduce duplication across teams.However, the extent to which AI adoption has directly contributed to the proposed layoffs has not been specified.Swiggy is expected to continue investing in dark stores, supply chain operations and frontline employees as it looks to balance expansion with operational efficiency and profitability.
+
+---
+
+**Original Source:** [People Matters - HR News](https://www.peoplematters.in/news/strategic-hr/as-genai-enters-the-fast-lane-instamart-plans-340-job-cuts-53611)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to People Matters - HR News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for As GenAI enters the fast lane, Instamart plans 340 job cuts - People Matters - HR News.`,
+    primary_source: `People Matters - HR News`,
+  },
+  {
+    id: 191,
+    title: `Zee Entertainment का ₹600 करोड़ का शेयर बायबैक 1 दिसंबर से, कौन से शेयरहोल्डर ले सकेंगे हिस्सा? - Moneycontrol Hindi`,
+    slug: `zee-entertainment-600-1-moneycontrol-hindi-2026`,
+    original_title: `Zee Entertainment का ₹600 करोड़ का शेयर बायबैक 1 दिसंबर से, कौन से शेयरहोल्डर ले सकेंगे हिस्सा? - Moneycontrol Hindi`,
+    category: `markets`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:14:45Z`,
+    updated_at: `2026-11-28T08:14:45Z`,
+    source_name: `Moneycontrol Hindi`,
+    source_url: `https://hindi.moneycontrol.com/news/markets/zee-entertainment-enterprises-share-buyback-will-start-from-december-1-company-will-repurchase-up-to-rs-600-crore-shares-2476044.html`,
+    source_courtesy: `Source: Moneycontrol Hindi`,
+    image_url: `/images/articles/zee-entertainment-600-1-moneycontrol-hindi-2026.webp`,
+    image_alt: `Zee Entertainment का ₹600 करोड़ का शेयर बायबैक 1 दिसंबर से, कौन से शेयरहोल्डर ले सकेंगे हिस्सा? - Moneycontrol Hindi`,
+    image_courtesy: `Image: Moneycontrol Hindi (External Source Attribution)`,
+    image_photographer: `Moneycontrol Hindi`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Markets, News, India`,
+    summary: `जी एंटरटेनमेंट एंटरप्राइजेज लिमिटेड (ZEEL) 1 दिसंबर से शेयर बायबैक शुरू करने वाली है। यह ₹600 करोड़ तक का है। कंपनी 6.59 करोड़ तक के फुली पेड अप इक्विटी शेयर, शेयरहोल्डर्स से वापस खरीदेगी। बायबैक प्राइस ₹91 प्रति शेयर तय किया गया है। यह ऑफर`,
+    content: `जी एंटरटेनमेंट एंटरप्राइजेज लिमिटेड (ZEEL) 1 दिसंबर से शेयर बायबैक शुरू करने वाली है। यह ₹600 करोड़ तक का है। कंपनी 6.59 करोड़ तक के फुली पेड अप इक्विटी शेयर, शेयरहोल्डर्स से वापस खरीदेगी। बायबैक प्राइस ₹91 प्रति शेयर तय किया गया है। यह ऑफर उन शेयरधारकों के लिए है, जिनके पास 25 नवंबर, 2026 तक जी एंटरटेनमेंट के शेयर थे।
+
+कंपनी का कहना है कि इस बायबैक से पात्र शेयरधारकों को अपने शेयर मौजूदा बाजार कीमत से अधिक पर बेचने का मौका मिलेगा।बायबैक ऑफर की क्लोजिंग 7 दिसंबर को होगी। स्टॉक एक्सचेंज पर बोलियों का सेटलमेंट 14 दिसंबर तक पूरा होने की उम्मीद है। पात्र शेयरधारक रिकॉर्ड डेट पर अपने पास मौजूद हर 14 शेयरों के बदले लगभग 1 शेयर टेंडर कर सकते हैं, यानि कि बेचने के लिए पेश कर सकते हैं।जी एंटरटेनमेंट एंटरप्राइजेज का कहना है कि शेयर बायबैक का उसके मुनाफे या कमाई पर कोई खास असर पड़ने की उम्मीद नहीं है।
+
+इसकी वजह है कि कंपनी को आंतरिक स्रोतों से फंड मिलने की उम्मीद है। कंपनी ने यह भी कहा है कि बायबैक से उसके ग्रोथ के अवसरों पर कोई असर नहीं पड़ेगा। कंपनी ने बायबैक के लिए अपने मौजूदा सरप्लस, कैश बैलेंस, निवेश और अन्य आंतरिक स्रोतों से पर्याप्त फंड अलग रखा है। स्पष्ट किया है कि इसके लिए उधार लिए गए फंड का इस्तेमाल नहीं किया जाएगा।ZEEL के प्रमोटर बायबैक में नहीं लेंगे हिस्साजी एंटरटेनमेंट के प्रमोटर्स और प्रमोटर समूह ने इस बायबैक ऑफर में हिस्सा न लेने का फैसला किया है।
+
+अगर सभी पात्र शेयरधारक अपनी पात्रता के अनुसार अपने शेयर पेश करते हैं और बायबैक पूरी तरह से स्वीकार कर लिया जाता है, तो प्रमोटर और प्रमोटर समूह की हिस्सेदारी बढ़कर 4.28 प्रतिशत हो सकती है। कंपनी में सितंबर 2026 के आखिर तक प्रमोटर्स के पास 3.99 प्रतिशत और पब्लिक शेयरहोल्डर्स के पास 96.01 प्रतिशत हिस्सेदारी थी।Bosch Ltd: हर शेयर पर 3 नए शेयर मिलेंगे फ्री, स्प्लिट भी होगा स्टॉक; रिकॉर्ड डेट 23 दिसंबर तयशेयर 3 साल में 73 प्रतिशत टूटाZee Entertainment Enterprises का शेयर शुक्रवार, 27 नवंबर को BSE पर 67.05 रुपये पर बंद हुआ।
+
+कंपनी का मार्केट कैप 6400 करोड़ रुपये से ज्यादा है। शेयर की फेस वैल्यू 1 रुपये है। यह 3 महीनों में 35 प्रतिशत नीचे आया है। 3 साल में 73 प्रतिशत कमजोर हुआ है। शेयर का BSE पर 52 सप्ताह का एडजस्टेड हाई 118.40 रुपये और एडजस्टेड लो 60.63 रुपये है।जुलाई-सितंबर 2026 तिमाही में ZEEL का कंसोलिडेटेड नेट प्रॉफिट (कंपनी के मालिकों के लिए) सालाना आधार पर 37.5 प्रतिशत घटकर 47.8 करोड़ रुपये रह गया।
+
+कुल कंसोलिडेटेड आय 12.6 प्रतिशत बढ़कर 2,247.2 करोड़ रुपये हो गई। कुल खर्च एक साल पहले के मुकाबले 16.15 प्रतिशत बढ़कर 2,184.1 करोड़ रुपये के रहे।Disclaimer: यहां मुहैया जानकारी सिर्फ सूचना के लिए दी जा रही है। यहां बताना जरूरी है कि मार्केट में निवेश बाजार जोखिमों के अधीन है। निवेशक के तौर पर पैसा लगाने से पहले हमेशा एक्सपर्ट से सलाह लें।
+
+मनीकंट्रोल की तरफ से किसी को भी पैसा लगाने की यहां कभी भी सलाह नहीं दी जाती है।
+
+---
+
+**मूल स्रोत (Original Source):** [Moneycontrol Hindi](https://hindi.moneycontrol.com/news/markets/zee-entertainment-enterprises-share-buyback-will-start-from-december-1-company-will-repurchase-up-to-rs-600-crore-shares-2476044.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Zee Entertainment का ₹600 करोड़ का शेयर बायबैक 1 दिसंबर से, कौन से शेयरहोल्डर ले सकेंगे हिस्सा? - Moneycontrol Hindi`,
+    summary_hi: `जी एंटरटेनमेंट एंटरप्राइजेज लिमिटेड (ZEEL) 1 दिसंबर से शेयर बायबैक शुरू करने वाली है। यह ₹600 करोड़ तक का है। कंपनी 6.59 करोड़ तक के फुली पेड अप इक्विटी शेयर, शेयरहोल्डर्स से वापस खरीदेगी। बायबैक प्राइस ₹91 प्रति शेयर तय किया गया है। यह ऑफर`,
+    content_hi: `जी एंटरटेनमेंट एंटरप्राइजेज लिमिटेड (ZEEL) 1 दिसंबर से शेयर बायबैक शुरू करने वाली है। यह ₹600 करोड़ तक का है। कंपनी 6.59 करोड़ तक के फुली पेड अप इक्विटी शेयर, शेयरहोल्डर्स से वापस खरीदेगी। बायबैक प्राइस ₹91 प्रति शेयर तय किया गया है। यह ऑफर उन शेयरधारकों के लिए है, जिनके पास 25 नवंबर, 2026 तक जी एंटरटेनमेंट के शेयर थे।
+
+कंपनी का कहना है कि इस बायबैक से पात्र शेयरधारकों को अपने शेयर मौजूदा बाजार कीमत से अधिक पर बेचने का मौका मिलेगा।बायबैक ऑफर की क्लोजिंग 7 दिसंबर को होगी। स्टॉक एक्सचेंज पर बोलियों का सेटलमेंट 14 दिसंबर तक पूरा होने की उम्मीद है। पात्र शेयरधारक रिकॉर्ड डेट पर अपने पास मौजूद हर 14 शेयरों के बदले लगभग 1 शेयर टेंडर कर सकते हैं, यानि कि बेचने के लिए पेश कर सकते हैं।जी एंटरटेनमेंट एंटरप्राइजेज का कहना है कि शेयर बायबैक का उसके मुनाफे या कमाई पर कोई खास असर पड़ने की उम्मीद नहीं है।
+
+इसकी वजह है कि कंपनी को आंतरिक स्रोतों से फंड मिलने की उम्मीद है। कंपनी ने यह भी कहा है कि बायबैक से उसके ग्रोथ के अवसरों पर कोई असर नहीं पड़ेगा। कंपनी ने बायबैक के लिए अपने मौजूदा सरप्लस, कैश बैलेंस, निवेश और अन्य आंतरिक स्रोतों से पर्याप्त फंड अलग रखा है। स्पष्ट किया है कि इसके लिए उधार लिए गए फंड का इस्तेमाल नहीं किया जाएगा।ZEEL के प्रमोटर बायबैक में नहीं लेंगे हिस्साजी एंटरटेनमेंट के प्रमोटर्स और प्रमोटर समूह ने इस बायबैक ऑफर में हिस्सा न लेने का फैसला किया है।
+
+अगर सभी पात्र शेयरधारक अपनी पात्रता के अनुसार अपने शेयर पेश करते हैं और बायबैक पूरी तरह से स्वीकार कर लिया जाता है, तो प्रमोटर और प्रमोटर समूह की हिस्सेदारी बढ़कर 4.28 प्रतिशत हो सकती है। कंपनी में सितंबर 2026 के आखिर तक प्रमोटर्स के पास 3.99 प्रतिशत और पब्लिक शेयरहोल्डर्स के पास 96.01 प्रतिशत हिस्सेदारी थी।Bosch Ltd: हर शेयर पर 3 नए शेयर मिलेंगे फ्री, स्प्लिट भी होगा स्टॉक; रिकॉर्ड डेट 23 दिसंबर तयशेयर 3 साल में 73 प्रतिशत टूटाZee Entertainment Enterprises का शेयर शुक्रवार, 27 नवंबर को BSE पर 67.05 रुपये पर बंद हुआ।
+
+कंपनी का मार्केट कैप 6400 करोड़ रुपये से ज्यादा है। शेयर की फेस वैल्यू 1 रुपये है। यह 3 महीनों में 35 प्रतिशत नीचे आया है। 3 साल में 73 प्रतिशत कमजोर हुआ है। शेयर का BSE पर 52 सप्ताह का एडजस्टेड हाई 118.40 रुपये और एडजस्टेड लो 60.63 रुपये है।जुलाई-सितंबर 2026 तिमाही में ZEEL का कंसोलिडेटेड नेट प्रॉफिट (कंपनी के मालिकों के लिए) सालाना आधार पर 37.5 प्रतिशत घटकर 47.8 करोड़ रुपये रह गया।
+
+कुल कंसोलिडेटेड आय 12.6 प्रतिशत बढ़कर 2,247.2 करोड़ रुपये हो गई। कुल खर्च एक साल पहले के मुकाबले 16.15 प्रतिशत बढ़कर 2,184.1 करोड़ रुपये के रहे।Disclaimer: यहां मुहैया जानकारी सिर्फ सूचना के लिए दी जा रही है। यहां बताना जरूरी है कि मार्केट में निवेश बाजार जोखिमों के अधीन है। निवेशक के तौर पर पैसा लगाने से पहले हमेशा एक्सपर्ट से सलाह लें।
+
+मनीकंट्रोल की तरफ से किसी को भी पैसा लगाने की यहां कभी भी सलाह नहीं दी जाती है।
+
+---
+
+**मूल स्रोत (Original Source):** [Moneycontrol Hindi](https://hindi.moneycontrol.com/news/markets/zee-entertainment-enterprises-share-buyback-will-start-from-december-1-company-will-repurchase-up-to-rs-600-crore-shares-2476044.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Markets श्रेणी से जुड़ी यह रिपोर्ट Moneycontrol Hindi के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Zee Entertainment का ₹600 करोड़ का शेयर बायबैक 1 दिसंबर से, कौन से शेयरहोल्डर ले सकेंगे हिस्सा? - Moneycontrol Hindi से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Moneycontrol Hindi`,
+  },
+  {
+    id: 192,
+    title: `Merci, Paris: my Wikimania 2026 - Wikimedia.org`,
+    slug: `merci-paris-my-wikimania-2026-wikimediaorg-2026`,
+    original_title: `Merci, Paris: my Wikimania 2026 - Wikimedia.org`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `7 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:14:47Z`,
+    updated_at: `2026-11-28T08:14:47Z`,
+    source_name: `Wikimedia.org`,
+    source_url: `https://diff.wikimedia.org/2026/11/28/merci-paris-my-wikimania-2026/`,
+    source_courtesy: `Source: Wikimedia.org`,
+    image_url: `/images/articles/merci-paris-my-wikimania-2026-wikimediaorg-2026.webp`,
+    image_alt: `Merci, Paris: my Wikimania 2026 - Wikimedia.org`,
+    image_courtesy: `Image: Wikimedia.org (External Source Attribution)`,
+    image_photographer: `Wikimedia.org`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Some events you attend. A few stay with you for a long time. Wikimania 2026 in Paris, held in the year Wikipedia turned 25, is the second kind for me.`,
+    content: `Some events you attend. A few stay with you for a long time. Wikimania 2026 in Paris, held in the year Wikipedia turned 25, is the second kind for me.
+
+I travelled from India to Wikimania 2026 as a full scholarship recipient. Across five days at the Cité des sciences et de l’industrie, under the theme Liberté, Équité, Fiabilité , I mentored a Team Challenges team, spoke at the Wiki AI pre-conference, gave a lightning talk, stood beside a research poster and volunteered as a room assistant. Above all, I met in person many people I had only known as usernames, and that is the part I treasure most.
+
+My Wikimania began online. In the Wikimania 2026 Team Challenges I served as a mentor for Team 09E Asie 2 , together with fellow mentor Benny Lin from Indonesia and our coach Marc Maillard from Wikimedia Sverige. Our team members were Gyana from India, Micheal Kaluba from Uganda, Oliver Samson and Robert Sim, a mix of long-time Wikimedians and newer faces from three continents.
+
+Our challenge was called Explore knowledge : prototype new, visual and interactive ways to experience Wikimedia content on the modern web, without changing how the projects work inside. In our first video call we introduced ourselves across time zones and shared what each of us had worked on. We then moved to a Telegram group, where three proposals took shape. After a few rounds of discussion we voted on a name, Magistral , and voted to build Gyana’s idea: a reading and discovery companion for any Wikipedia article.
+
+“We write no new text and use no AI to summarise.” The promise at the heart of our project, from the Team Magistral page
+
+The final sprint took place in Paris on the two days before the main conference. Four of us were on site. Gyana opened the first morning with a working draft of his prototype, which gave the rest of us something real to react to. We spent those two days testing it on articles, deciding what to show at the showcase and brainstorming features for the future.
+
+The result was WikiGlance , a user script that offers four ways into the same article: Glance for a ten-second snapshot of the main image, key facts, a map and a timeline; Skeleton for headings and first lines; the Full article , unchanged; and Explore for related people, places and events plus a small trivia game. It only re-shows facts and media that already exist in Wikipedia and Wikidata. You can watch the desktop demo and the mobile demo , and follow the work on Phabricator T432680 .
+
+Mentoring taught me as much as it taught anyone. My job was less about writing code and more about asking the right question at the right moment, helping newer members find their footing and keeping the scope small enough to finish. Seeing a team that met as strangers on a video call present a working tool together in Paris was one of the proudest moments of my week.
+
+On the opening day I spoke at the 2026 Wiki AI pre-conference about what AI tools mean for smaller language Wikipedias, where a handful of editors look after an entire project. The room was full of people who build and use these tools, and the questions afterwards shaped my thinking for months. The slides are on Commons , and I later expanded the talk into a Diff post, Small wikis in the age of AI: what breaks, what works and what comes next .
+
+My lightning talk, How We Judge: Building Trust in Wikimedia Campaign Evaluation , was part of the Community Lightning talk series I. Every year we celebrate the winning photos of campaigns like Wiki Loves Monuments, Wiki Loves Folklore and Wiki Science Competition, but we rarely talk about how volunteer juries choose them. Drawing on my own jury work, I shared ideas for making that process clear and fair for every participant. The slides and the session recording are both on Commons.
+
+At the poster session I presented Mapping Toolforge: A Visual Ecosystem of Wikimedia Tools and Use Cases . Toolforge hosts thousands of community tools, and the poster grouped them by what people actually want to do. Some of the best conversations of the week happened in front of it, with toolmakers who pointed me to tools I had never seen and editors who told me which ones they rely on every day. That feedback went straight into WhichTool , my tool-discovery project.
+
+### Room assistant at the Fireside Chat
+
+On the second day of the main conference I volunteered as a room assistant in the Est room. My shift covered the Fireside Chat with the Wikimedia Foundation Executives , where the Foundation leadership sat down with the community for an open conversation. Carrying the microphone across the room meant I heard every question up close, and it was a good reminder of how much volunteers care about where the movement is heading.
+
+Later that afternoon I stayed on in the same room for Asaf Bartov’s workshop Building a Wikimedia tool with agentic AI , where he walked the room through building a working Wikimedia tool with an AI coding assistant. As someone who builds Toolforge tools myself, it was one of the most practical sessions of my week, and it was a joy to finally meet him in person.
+
+Wikimania is also where you get to say thank you in person. I met Jimmy Wales, the founder of Wikipedia, and Bernadette Meehan, the CEO of the Wikimedia Foundation. Both made time for every volunteer who stopped them in the corridors, and I was happy to be one of them.
+
+Wikimania is the one place where the whole movement fits in a single building. I caught up with friends from India and met Wikimedians from every region, from organisers I had worked with on campaigns to people whose tools I use every day. Every hallway conversation ended with a new idea or a new contact.
+
+As a long-time juror for Wiki Loves Folklore , I was especially happy to join its meetup and finally meet the team behind the campaign in person.
+
+Some of my favourite memories are from the spaces between sessions: the Wiki car parked at the venue, hundreds of people solving a giant Wikipedia jigsaw puzzle on the plaza, the opening party at the Philharmonie de Paris with the sun going down over the city, the closing party on the last night, and evenings walking past Sacré-Cœur and the Louvre with new friends.
+
+The closing ceremony brought everything together: music from the WikiChoir, Baby Globe on stage once more, and the handover to Wikimania 2027 in Santiago, Chile. Before leaving the hall, the South Asian Wikimedians gathered for a group photo, a small picture of how far our region has come in this movement.
+
+One more souvenir found its way home to India. I won the Wikimania raffle for the limited edition Wikipedia 3D globe puzzle by Ravensburger. Only 250 were made in the whole world, and I am lucky to hold one of them.
+
+I came back with a list of things to do: continue helping WikiGlance grow, keep improving the Toolforge map and WhichTool with the feedback from Paris, and share what I learned with communities in India through talks and workshops. I hope to see many of these friends again in Santiago.
+
+Paris gave me a week I will remember for the rest of my wiki life. Merci.
+
+My heartfelt thanks to the Wikimedia Foundation scholarship programme, the Wikimania 2026 Core Organizing Team, Wikimédia France and every volunteer who made Paris possible, the Team Challenges organisers, and my teammates in Team Magistral. More of my photos from the week are in Category:Dev Jadiya at Wikimania 2026 on Commons.
+
+### Can you help us translate this article?
+
+In order for this article to reach as many people as possible we would like your help. Can you translate this article to get the message out?
+
+---
+
+**Original Source:** [Wikimedia.org](https://diff.wikimedia.org/2026/11/28/merci-paris-my-wikimania-2026/)`,
+    title_en: `Merci, Paris: my Wikimania 2026 - Wikimedia.org`,
+    summary_en: `Some events you attend. A few stay with you for a long time. Wikimania 2026 in Paris, held in the year Wikipedia turned 25, is the second kind for me.`,
+    content_en: `Some events you attend. A few stay with you for a long time. Wikimania 2026 in Paris, held in the year Wikipedia turned 25, is the second kind for me.
+
+I travelled from India to Wikimania 2026 as a full scholarship recipient. Across five days at the Cité des sciences et de l’industrie, under the theme Liberté, Équité, Fiabilité , I mentored a Team Challenges team, spoke at the Wiki AI pre-conference, gave a lightning talk, stood beside a research poster and volunteered as a room assistant. Above all, I met in person many people I had only known as usernames, and that is the part I treasure most.
+
+My Wikimania began online. In the Wikimania 2026 Team Challenges I served as a mentor for Team 09E Asie 2 , together with fellow mentor Benny Lin from Indonesia and our coach Marc Maillard from Wikimedia Sverige. Our team members were Gyana from India, Micheal Kaluba from Uganda, Oliver Samson and Robert Sim, a mix of long-time Wikimedians and newer faces from three continents.
+
+Our challenge was called Explore knowledge : prototype new, visual and interactive ways to experience Wikimedia content on the modern web, without changing how the projects work inside. In our first video call we introduced ourselves across time zones and shared what each of us had worked on. We then moved to a Telegram group, where three proposals took shape. After a few rounds of discussion we voted on a name, Magistral , and voted to build Gyana’s idea: a reading and discovery companion for any Wikipedia article.
+
+“We write no new text and use no AI to summarise.” The promise at the heart of our project, from the Team Magistral page
+
+The final sprint took place in Paris on the two days before the main conference. Four of us were on site. Gyana opened the first morning with a working draft of his prototype, which gave the rest of us something real to react to. We spent those two days testing it on articles, deciding what to show at the showcase and brainstorming features for the future.
+
+The result was WikiGlance , a user script that offers four ways into the same article: Glance for a ten-second snapshot of the main image, key facts, a map and a timeline; Skeleton for headings and first lines; the Full article , unchanged; and Explore for related people, places and events plus a small trivia game. It only re-shows facts and media that already exist in Wikipedia and Wikidata. You can watch the desktop demo and the mobile demo , and follow the work on Phabricator T432680 .
+
+Mentoring taught me as much as it taught anyone. My job was less about writing code and more about asking the right question at the right moment, helping newer members find their footing and keeping the scope small enough to finish. Seeing a team that met as strangers on a video call present a working tool together in Paris was one of the proudest moments of my week.
+
+On the opening day I spoke at the 2026 Wiki AI pre-conference about what AI tools mean for smaller language Wikipedias, where a handful of editors look after an entire project. The room was full of people who build and use these tools, and the questions afterwards shaped my thinking for months. The slides are on Commons , and I later expanded the talk into a Diff post, Small wikis in the age of AI: what breaks, what works and what comes next .
+
+My lightning talk, How We Judge: Building Trust in Wikimedia Campaign Evaluation , was part of the Community Lightning talk series I. Every year we celebrate the winning photos of campaigns like Wiki Loves Monuments, Wiki Loves Folklore and Wiki Science Competition, but we rarely talk about how volunteer juries choose them. Drawing on my own jury work, I shared ideas for making that process clear and fair for every participant. The slides and the session recording are both on Commons.
+
+At the poster session I presented Mapping Toolforge: A Visual Ecosystem of Wikimedia Tools and Use Cases . Toolforge hosts thousands of community tools, and the poster grouped them by what people actually want to do. Some of the best conversations of the week happened in front of it, with toolmakers who pointed me to tools I had never seen and editors who told me which ones they rely on every day. That feedback went straight into WhichTool , my tool-discovery project.
+
+### Room assistant at the Fireside Chat
+
+On the second day of the main conference I volunteered as a room assistant in the Est room. My shift covered the Fireside Chat with the Wikimedia Foundation Executives , where the Foundation leadership sat down with the community for an open conversation. Carrying the microphone across the room meant I heard every question up close, and it was a good reminder of how much volunteers care about where the movement is heading.
+
+Later that afternoon I stayed on in the same room for Asaf Bartov’s workshop Building a Wikimedia tool with agentic AI , where he walked the room through building a working Wikimedia tool with an AI coding assistant. As someone who builds Toolforge tools myself, it was one of the most practical sessions of my week, and it was a joy to finally meet him in person.
+
+Wikimania is also where you get to say thank you in person. I met Jimmy Wales, the founder of Wikipedia, and Bernadette Meehan, the CEO of the Wikimedia Foundation. Both made time for every volunteer who stopped them in the corridors, and I was happy to be one of them.
+
+Wikimania is the one place where the whole movement fits in a single building. I caught up with friends from India and met Wikimedians from every region, from organisers I had worked with on campaigns to people whose tools I use every day. Every hallway conversation ended with a new idea or a new contact.
+
+As a long-time juror for Wiki Loves Folklore , I was especially happy to join its meetup and finally meet the team behind the campaign in person.
+
+Some of my favourite memories are from the spaces between sessions: the Wiki car parked at the venue, hundreds of people solving a giant Wikipedia jigsaw puzzle on the plaza, the opening party at the Philharmonie de Paris with the sun going down over the city, the closing party on the last night, and evenings walking past Sacré-Cœur and the Louvre with new friends.
+
+The closing ceremony brought everything together: music from the WikiChoir, Baby Globe on stage once more, and the handover to Wikimania 2027 in Santiago, Chile. Before leaving the hall, the South Asian Wikimedians gathered for a group photo, a small picture of how far our region has come in this movement.
+
+One more souvenir found its way home to India. I won the Wikimania raffle for the limited edition Wikipedia 3D globe puzzle by Ravensburger. Only 250 were made in the whole world, and I am lucky to hold one of them.
+
+I came back with a list of things to do: continue helping WikiGlance grow, keep improving the Toolforge map and WhichTool with the feedback from Paris, and share what I learned with communities in India through talks and workshops. I hope to see many of these friends again in Santiago.
+
+Paris gave me a week I will remember for the rest of my wiki life. Merci.
+
+My heartfelt thanks to the Wikimedia Foundation scholarship programme, the Wikimania 2026 Core Organizing Team, Wikimédia France and every volunteer who made Paris possible, the Team Challenges organisers, and my teammates in Team Magistral. More of my photos from the week are in Category:Dev Jadiya at Wikimania 2026 on Commons.
+
+### Can you help us translate this article?
+
+In order for this article to reach as many people as possible we would like your help. Can you translate this article to get the message out?
+
+---
+
+**Original Source:** [Wikimedia.org](https://diff.wikimedia.org/2026/11/28/merci-paris-my-wikimania-2026/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Wikimedia.org.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Merci, Paris: my Wikimania 2026 - Wikimedia.org.`,
+    primary_source: `Wikimedia.org`,
+  },
+  {
+    id: 193,
+    title: `Google Chrome पर कैसे बदलें बैकग्राउंड थीम, जान लीजिए प्रोसेस? - ABP News`,
+    slug: `google-chrome-abp-news-2026`,
+    original_title: `Google Chrome पर कैसे बदलें बैकग्राउंड थीम, जान लीजिए प्रोसेस? - ABP News`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:14:49Z`,
+    updated_at: `2026-11-28T08:14:49Z`,
+    source_name: `ABP News`,
+    source_url: `https://www.abplive.com/technology/google-chrome-background-theme-changing-know-the-process-of-it-3220424`,
+    source_courtesy: `Source: ABP News`,
+    image_url: `/images/articles/google-chrome-abp-news-2026.webp`,
+    image_alt: `Google Chrome पर कैसे बदलें बैकग्राउंड थीम, जान लीजिए प्रोसेस? - ABP News`,
+    image_courtesy: `Image: ABP News (External Source Attribution)`,
+    image_photographer: `ABP News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Google Chrome Theme Change: आज के दौर में ऑफिस का काम हो या पढ़ा ज्यादातर लोगों का आधा दिन Google Chrome पर ही गुजरता है. जब रोज-रोज काम करते हैं तो कई बार कुछ चीजें बदलने का मन तो करता ही है. रोजाना कंप्यूटर में क्रोम ही एक ही सफेद स्क्रीन`,
+    content: `Google Chrome Theme Change: आज के दौर में ऑफिस का काम हो या पढ़ा ज्यादातर लोगों का आधा दिन Google Chrome पर ही गुजरता है. जब रोज-रोज काम करते हैं तो कई बार कुछ चीजें बदलने का मन तो करता ही है. रोजाना कंप्यूटर में क्रोम ही एक ही सफेद स्क्रीन और इंटरफेस देखकर कई बार दिमाग थोड़ा थक सा जाता है.
+
+लेकिन आपको बताते दें कि आप अपने क्रोम ब्राउज़र को एकदम नया और स्टाइलिश लुक दे सकते हैं.&nbsp;
+गूगल क्रोम में बैकग्राउंड थीम और वॉलपेपर बदलने की प्रोसेस काफी आसान है. इससे न सिर्फ आपके ब्राउज़र की वाइब बदलती है बल्कि काम करने में भी एक फ्रेशनेस महसूस होती है. आप अपनी पसंद के हिसाब से डार्क थीम, नेचर वॉलपेपर या फिर अपनी खुद की कोई फोटो भी होमपेज पर सेट कर सकते हैं.
+
+चलिए आपको बताते हैं इसका पूरा प्रोसेस. होमपेज के कस्टमाइज फीचर से ऐसे बदलें लुक
+क्रोम का बैकग्राउंड बदलने का सबसे आसान और तेज तरीका इसके होमपेज पर ही होता है. इसके लिए सबसे पहले अपने लैपटॉप या कंप्यूटर पर गूगल क्रोम ओपन करें और एक नया टैब खोलें. अब स्क्रीन के सबसे नीचे दाईं ओर यानी बॉटम राइट कॉर्नर में देखें.
+
+यहां आपको एक छोटा सा पेंसिल का आइकन दिखेगा, जिस पर Customize Chrome लिखा होता है. इस ऑप्शन पर क्लिक करते ही आपकी स्क्रीन के साइड में एक नया पैनल खुल जाएगा. यहां आपको Change theme का ऑप्शन मिलेगा जिस पर क्लिक करने के बाद गूगल की तरफ से दिए गए कई शानदार कलेक्शन दिखेंगे. इनमें नेचर, लैंडस्केप, आर्ट और सॉलिड कलर्स जैसे कई ऑप्शन मौजूद हैं.
+
+आपको जो भी थीम पसंद आए उस पर क्लिक करें और तुरंत आपके क्रोम का बैकग्राउंड बदल जाएगा. आप चाहें तो Refresh daily को ऑन करके रोज नया वॉलपेपर भी हासिल कर सकते हैं. अपनी पसंदीदा फोटो को बनाएं क्रोम का वॉलपेपर
+अगर आपको गूगल के डिफॉल्ट वॉलपेपर पसंद नहीं आ रहे हैं तो परेशान होने की कोई बात नहीं है.
+
+क्रोम आपको अपनी गैलरी से कोई भी पर्सनल फोटो बैकग्राउंड में लगा सकते है. इसके लिए फिर से नए टैब पर जाकर नीचे दाईं तरफ मौजूद Customize Chrome वाले पेंसिल आइकन पर क्लिक करें. इसके बाद Change theme में जाएं जहां आपको सबसे ऊपर Upload an image का ऑप्शन दिखाई देगा.&nbsp;
+इस पर क्लिक करते ही आपके कंप्यूटर की फाइल या गैलरी खुल जाएगी.
+
+अब अपनी पसंद की कोई भी हाई-क्वालिटी फोटो, फैमिली पिक्चर या कोई कूल ग्राफिक चुनें और Open पर क्लिक कर दें. तुरंत ही आपकी चुनी हुई फोटो क्रोम के होमपेज पर सेट हो जाएगी.&nbsp;
+
+यह भी पढ़ें: Winter Battery Saving Tips: सर्दियों में फोन की बैटरी पर पड़ता है ठंड का असर, ऐसे बढ़ाएं बैकअप
+क्रोम वेब स्टोर से डाउनलोड करें प्रोफेशनल थीम्स
+अगर आप सिर्फ बैकग्राउंड फोटो नहीं बल्कि पूरे ब्राउज़र के ऊपर वाले टैब्स और सर्च बार का रंग-रूप भी बदलना चाहते हैं तो Chrome Web Store आपके बड़े काम आ सकता है.
+
+इसके लिए ब्राउज़र में क्रोम वेब स्टोर ओपन करें और बाईं तरफ दिए गए मेन्यू में से Themes वाले सेक्शन पर क्लिक करें. यहां आपको दुनिया भर के डिजाइनर्स की बनाई हुई हजारों फ्री और पेड थीम्स मिल जाएंगी.&nbsp;
+इनमें डार्क मोड, एनीमे, मिनिमलिस्ट और स्पेस थीम काफी पॉपुलर हैं. आपको जो भी थीम अच्छी लगे, उस पर क्लिक करें और फिर Add to Chrome बटन दबा दें.
+
+कुछ ही सेकंड में थीम डाउनलोड होकर अपने आप अप्लाई हो जाएगी. अगर भविष्य में आपको यह थीम पसंद न आए और आप पुराना लुक वापस चाहें तो क्रोम की सेटिंग्स में जाकर Appearance सेक्शन से Reset to default पर क्लिक कर सकते हैं. यह भी पढ़ें: TRAI New Rules: Jio, Airtel और Vi के ग्राहक ध्यान दें!
+
+नए साल से बदलेंगे टेलीकॉम के नियम
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/technology/google-chrome-background-theme-changing-know-the-process-of-it-3220424)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Google Chrome पर कैसे बदलें बैकग्राउंड थीम, जान लीजिए प्रोसेस? - ABP News`,
+    summary_hi: `Google Chrome Theme Change: आज के दौर में ऑफिस का काम हो या पढ़ा ज्यादातर लोगों का आधा दिन Google Chrome पर ही गुजरता है. जब रोज-रोज काम करते हैं तो कई बार कुछ चीजें बदलने का मन तो करता ही है. रोजाना कंप्यूटर में क्रोम ही एक ही सफेद स्क्रीन`,
+    content_hi: `Google Chrome Theme Change: आज के दौर में ऑफिस का काम हो या पढ़ा ज्यादातर लोगों का आधा दिन Google Chrome पर ही गुजरता है. जब रोज-रोज काम करते हैं तो कई बार कुछ चीजें बदलने का मन तो करता ही है. रोजाना कंप्यूटर में क्रोम ही एक ही सफेद स्क्रीन और इंटरफेस देखकर कई बार दिमाग थोड़ा थक सा जाता है.
+
+लेकिन आपको बताते दें कि आप अपने क्रोम ब्राउज़र को एकदम नया और स्टाइलिश लुक दे सकते हैं.&nbsp;
+गूगल क्रोम में बैकग्राउंड थीम और वॉलपेपर बदलने की प्रोसेस काफी आसान है. इससे न सिर्फ आपके ब्राउज़र की वाइब बदलती है बल्कि काम करने में भी एक फ्रेशनेस महसूस होती है. आप अपनी पसंद के हिसाब से डार्क थीम, नेचर वॉलपेपर या फिर अपनी खुद की कोई फोटो भी होमपेज पर सेट कर सकते हैं.
+
+चलिए आपको बताते हैं इसका पूरा प्रोसेस. होमपेज के कस्टमाइज फीचर से ऐसे बदलें लुक
+क्रोम का बैकग्राउंड बदलने का सबसे आसान और तेज तरीका इसके होमपेज पर ही होता है. इसके लिए सबसे पहले अपने लैपटॉप या कंप्यूटर पर गूगल क्रोम ओपन करें और एक नया टैब खोलें. अब स्क्रीन के सबसे नीचे दाईं ओर यानी बॉटम राइट कॉर्नर में देखें.
+
+यहां आपको एक छोटा सा पेंसिल का आइकन दिखेगा, जिस पर Customize Chrome लिखा होता है. इस ऑप्शन पर क्लिक करते ही आपकी स्क्रीन के साइड में एक नया पैनल खुल जाएगा. यहां आपको Change theme का ऑप्शन मिलेगा जिस पर क्लिक करने के बाद गूगल की तरफ से दिए गए कई शानदार कलेक्शन दिखेंगे. इनमें नेचर, लैंडस्केप, आर्ट और सॉलिड कलर्स जैसे कई ऑप्शन मौजूद हैं.
+
+आपको जो भी थीम पसंद आए उस पर क्लिक करें और तुरंत आपके क्रोम का बैकग्राउंड बदल जाएगा. आप चाहें तो Refresh daily को ऑन करके रोज नया वॉलपेपर भी हासिल कर सकते हैं. अपनी पसंदीदा फोटो को बनाएं क्रोम का वॉलपेपर
+अगर आपको गूगल के डिफॉल्ट वॉलपेपर पसंद नहीं आ रहे हैं तो परेशान होने की कोई बात नहीं है.
+
+क्रोम आपको अपनी गैलरी से कोई भी पर्सनल फोटो बैकग्राउंड में लगा सकते है. इसके लिए फिर से नए टैब पर जाकर नीचे दाईं तरफ मौजूद Customize Chrome वाले पेंसिल आइकन पर क्लिक करें. इसके बाद Change theme में जाएं जहां आपको सबसे ऊपर Upload an image का ऑप्शन दिखाई देगा.&nbsp;
+इस पर क्लिक करते ही आपके कंप्यूटर की फाइल या गैलरी खुल जाएगी.
+
+अब अपनी पसंद की कोई भी हाई-क्वालिटी फोटो, फैमिली पिक्चर या कोई कूल ग्राफिक चुनें और Open पर क्लिक कर दें. तुरंत ही आपकी चुनी हुई फोटो क्रोम के होमपेज पर सेट हो जाएगी.&nbsp;
+
+यह भी पढ़ें: Winter Battery Saving Tips: सर्दियों में फोन की बैटरी पर पड़ता है ठंड का असर, ऐसे बढ़ाएं बैकअप
+क्रोम वेब स्टोर से डाउनलोड करें प्रोफेशनल थीम्स
+अगर आप सिर्फ बैकग्राउंड फोटो नहीं बल्कि पूरे ब्राउज़र के ऊपर वाले टैब्स और सर्च बार का रंग-रूप भी बदलना चाहते हैं तो Chrome Web Store आपके बड़े काम आ सकता है.
+
+इसके लिए ब्राउज़र में क्रोम वेब स्टोर ओपन करें और बाईं तरफ दिए गए मेन्यू में से Themes वाले सेक्शन पर क्लिक करें. यहां आपको दुनिया भर के डिजाइनर्स की बनाई हुई हजारों फ्री और पेड थीम्स मिल जाएंगी.&nbsp;
+इनमें डार्क मोड, एनीमे, मिनिमलिस्ट और स्पेस थीम काफी पॉपुलर हैं. आपको जो भी थीम अच्छी लगे, उस पर क्लिक करें और फिर Add to Chrome बटन दबा दें.
+
+कुछ ही सेकंड में थीम डाउनलोड होकर अपने आप अप्लाई हो जाएगी. अगर भविष्य में आपको यह थीम पसंद न आए और आप पुराना लुक वापस चाहें तो क्रोम की सेटिंग्स में जाकर Appearance सेक्शन से Reset to default पर क्लिक कर सकते हैं. यह भी पढ़ें: TRAI New Rules: Jio, Airtel और Vi के ग्राहक ध्यान दें!
+
+नए साल से बदलेंगे टेलीकॉम के नियम
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/technology/google-chrome-background-theme-changing-know-the-process-of-it-3220424)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट ABP News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Google Chrome पर कैसे बदलें बैकग्राउंड थीम, जान लीजिए प्रोसेस? - ABP News से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `ABP News`,
+  },
+  {
+    id: 194,
+    title: `US military strikes cargo ship from Bandar Abbas in Gulf of Oman, says it tried to breach blockade - The Jerusalem Post`,
+    slug: `us-military-strikes-cargo-ship-from-bandar-abbas-in-gulf-of-oman-says-2026`,
+    original_title: `US military strikes cargo ship from Bandar Abbas in Gulf of Oman, says it tried to breach blockade - The Jerusalem Post`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:14:50Z`,
+    updated_at: `2026-11-28T08:14:50Z`,
+    source_name: `The Jerusalem Post`,
+    source_url: `https://www.jpost.com/middle-east/iran-news/article-916339`,
+    source_courtesy: `Source: The Jerusalem Post`,
+    image_url: `/images/articles/us-military-strikes-cargo-ship-from-bandar-abbas-in-gulf-of-oman-says-2026.webp`,
+    image_alt: `US military strikes cargo ship from Bandar Abbas in Gulf of Oman, says it tried to breach blockade - The Jerusalem Post`,
+    image_courtesy: `Image: The Jerusalem Post (External Source Attribution)`,
+    image_photographer: `The Jerusalem Post`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `A US military aircraft struck and disabled a commercial cargo ship in the Gulf of Oman on Thursday after its crew attempted to breach the US naval blockade of Iran, US Central Command (CENTCOM) said on Friday.CENTCOM identified the ship as `,
+    content: `A US military aircraft struck and disabled a commercial cargo ship in the Gulf of Oman on Thursday after its crew attempted to breach the US naval blockade of Iran, US Central Command (CENTCOM) said on Friday.CENTCOM identified the ship as the Pacific Archer, a Palau-flagged vessel that had departed from the Iranian port of Bandar Abbas.
+
+The command said the crew received multiple warnings before the aircraft struck the ship's stern, disabling its propulsion. The civilian crew was unharmed, according to CENTCOM, which released a brief video of the operation.CENTCOM disabled a commercial vessel in the Gulf of Oman, Nov.
+
+26, after the crew attempted to run the U.S. naval blockade, despite multiple warnings, following departure from Bandar Abbas. A U.S. military aircraft launched precision munitions that struck the stern of Palau-flagged M/V Pacific Archer. The ship's propulsion was ultimately disabled and the civilian crew was unharmed.
+
+Read the full release online: https://t.co/4CAaN4gDvW— U.S. Central Command (@CENTCOM) November 27, 2026CENTCOM did not identify the ship's cargo or intended destination, or say whether the vessel was towed after the strike. The ClassNK ship register lists the Pacific Archer as a bulk carrier, not an oil tanker.US expands enforcement of blockade on IranThe strike came just over a week after the US military widened the scope of its blockade enforcement.
+
+A November 18 maritime advisory said vessels could be treated as attempting to evade the blockade if they accepted cargo at sea that had originally been loaded in Iran, even if they had not called at an Iranian port. CENTCOM did not allege that the Pacific Archer had taken part in such a transfer.On November 7, US forces disabled another merchant vessel, the Huda, in the Gulf of Oman after its crew ignored repeated warnings, according to CENTCOM.
+
+The US resumed enforcement of the blockade on July 14, according to the Joint Maritime Information Center. In an assessment published Thursday, the center said commercial traffic through the Strait of Hormuz remained below 2025 levels.Speaking to US service members on Thanksgiving, President Donald Trump defended the blockade, calling it what he believed to be the most successful naval blockade in history.
+
+---
+
+**Original Source:** [The Jerusalem Post](https://www.jpost.com/middle-east/iran-news/article-916339)`,
+    title_en: `US military strikes cargo ship from Bandar Abbas in Gulf of Oman, says it tried to breach blockade - The Jerusalem Post`,
+    summary_en: `A US military aircraft struck and disabled a commercial cargo ship in the Gulf of Oman on Thursday after its crew attempted to breach the US naval blockade of Iran, US Central Command (CENTCOM) said on Friday.CENTCOM identified the ship as `,
+    content_en: `A US military aircraft struck and disabled a commercial cargo ship in the Gulf of Oman on Thursday after its crew attempted to breach the US naval blockade of Iran, US Central Command (CENTCOM) said on Friday.CENTCOM identified the ship as the Pacific Archer, a Palau-flagged vessel that had departed from the Iranian port of Bandar Abbas.
+
+The command said the crew received multiple warnings before the aircraft struck the ship's stern, disabling its propulsion. The civilian crew was unharmed, according to CENTCOM, which released a brief video of the operation.CENTCOM disabled a commercial vessel in the Gulf of Oman, Nov.
+
+26, after the crew attempted to run the U.S. naval blockade, despite multiple warnings, following departure from Bandar Abbas. A U.S. military aircraft launched precision munitions that struck the stern of Palau-flagged M/V Pacific Archer. The ship's propulsion was ultimately disabled and the civilian crew was unharmed.
+
+Read the full release online: https://t.co/4CAaN4gDvW— U.S. Central Command (@CENTCOM) November 27, 2026CENTCOM did not identify the ship's cargo or intended destination, or say whether the vessel was towed after the strike. The ClassNK ship register lists the Pacific Archer as a bulk carrier, not an oil tanker.US expands enforcement of blockade on IranThe strike came just over a week after the US military widened the scope of its blockade enforcement.
+
+A November 18 maritime advisory said vessels could be treated as attempting to evade the blockade if they accepted cargo at sea that had originally been loaded in Iran, even if they had not called at an Iranian port. CENTCOM did not allege that the Pacific Archer had taken part in such a transfer.On November 7, US forces disabled another merchant vessel, the Huda, in the Gulf of Oman after its crew ignored repeated warnings, according to CENTCOM.
+
+The US resumed enforcement of the blockade on July 14, according to the Joint Maritime Information Center. In an assessment published Thursday, the center said commercial traffic through the Strait of Hormuz remained below 2025 levels.Speaking to US service members on Thanksgiving, President Donald Trump defended the blockade, calling it what he believed to be the most successful naval blockade in history.
+
+---
+
+**Original Source:** [The Jerusalem Post](https://www.jpost.com/middle-east/iran-news/article-916339)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Jerusalem Post.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for US military strikes cargo ship from Bandar Abbas in Gulf of Oman, says it tried to breach blockade - The Jerusalem Post.`,
+    primary_source: `The Jerusalem Post`,
+  },
+  {
+    id: 195,
+    title: `इजराइल की अरब पार्टी हमास को आतंकी संगठन मानेगी: आइजनकोट सरकार में शामिल होने के लिए बदलेगी रुख; नेता बोले-... - Dainik Bhaskar`,
+    slug: `world-breaking-report-46820-195-2026`,
+    original_title: `इजराइल की अरब पार्टी हमास को आतंकी संगठन मानेगी: आइजनकोट सरकार में शामिल होने के लिए बदलेगी रुख; नेता बोले-... - Dainik Bhaskar`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:14:51Z`,
+    updated_at: `2026-11-28T08:14:51Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/g/international/news/israel-mansour-abbas-hamas-terrorist-gadi-eizenkot-government-news-139814280.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/world-breaking-report-46820-195-2026.jpg`,
+    image_alt: `इजराइल की अरब पार्टी हमास को आतंकी संगठन मानेगी: आइजनकोट सरकार में शामिल होने के लिए बदलेगी रुख; नेता बोले-... - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `इजराइल की राअम पार्टी के प्रमुख मंसूर अब्बास शनिवार रात हमास को आतंकवादी संगठन मानने का ऐलान कर सकते हैं। वह चैनल 12 पर पत्रकार डाना वाइस को दिए इंटरव्यू में अपना रुख साफ करेंगे।`,
+    content: `इजराइल की राअम पार्टी के प्रमुख मंसूर अब्बास शनिवार रात हमास को आतंकवादी संगठन मानने का ऐलान कर सकते हैं। वह चैनल 12 पर पत्रकार डाना वाइस को दिए इंटरव्यू में अपना रुख साफ करेंगे।
+
+अब्बास के इस बयान से गादी आइजनकोट की अगुवाई वाली नई सरकार में राअम पार्टी के शामिल होने का रास्ता खुल सकता है। आइजनकोट के पास सरकार बनाने के लिए अब सिर्फ 9 दिन बचे हैं। उन्होंने गठबंधन में शामिल होने वाली हर अरब पार्टी से कहा है कि वह हमास को आतंकवादी संगठन माने और उसके खात्मे का संकल्प ले।
+
+अगर अब्बास ऐसा करते हैं, तो नेतन्याहू को सत्ता से हटाने के लिए बहुमत जुटाने में मदद मिल सकती है। इंटरव्यू के प्रोमो में उन्होंने कहा कि ऐसा करने पर उनकी जान भी जा सकती है।
+
+हमास को आतंकवादी कहने से बदलेगा पुराना रुख
+
+अब्बास 2021 से 2022 तक इजराइल की गठबंधन सरकार में शामिल रहे थे। अब्बास ने 7 अक्टूबर 2023 को इजराइल पर हुए हमले की भी आलोचना की थी। लेकिन उन्होंने कभी खुले तौर पर हमास को आतंकवादी संगठन नहीं कहा।
+
+उनका कहना था कि अगर वह हमास को आतंकवादी संगठन कहते हैं, तो अरब और यहूदी समुदायों के बीच बातचीत का रास्ता बंद हो सकता है।
+
+अब्बास खुद को दोनों समुदायों के बीच बातचीत कराने वाले नेता के तौर पर पेश करते रहे हैं। उन्होंने यह भी कहा था कि ऐसा बयान देने से उनके परिवार की सुरक्षा को खतरा हो सकता है।
+
+इजराइल में अरब समुदाय से जुड़ी 4 पार्टियां हैं
+
+इजराइल में अरब समुदाय से जुड़ी 4 प्रमुख राजनीतिक पार्टियां हैं। इस साल चुनाव में ये दो गठबंधनों में चुनाव लड़ी थीं।
+
+1. जॉइंट लिस्ट: हदाश, ताअल और बलद मिलकर चुनाव लड़ीं। इसे हदाश पार्टी के यूसुफ जबरीन ने लीड किया।
+
+2. राअम: मंसूर अब्बास के नेतृत्व में अलग चुनाव लड़ी।
+
+जॉइंट लिस्ट को 11 और राआम को 8 सीटें मिलीं। यानी अरब बहुल पार्टियों के पास कुल 19 सीटें हैं।
+
+राअम का समर्थन मिला तो सरकार बनाएंगे आइजनकोट
+
+6 दिसंबर तक का वक्त, नहीं बनी सरकार तो फिर नेतन्याहू की बारी
+
+राष्ट्रपति इसाक हर्जोग ने 8 नवंबर को आइजनकोट को सरकार बनाने की जिम्मेदारी सौंपी थी। उन्हें 6 दिसंबर तक बहुमत जुटाना है। जरूरत पड़ने पर राष्ट्रपति यह समयसीमा 14 दिन और बढ़ा सकते हैं।
+
+आइजनकोट के लिए यह तारीख निजी तौर पर भी अहम है। 7 दिसंबर को उनके बेटे गाल की मौत की तीसरी बरसी है। 25 साल के गाल की मौत गाजा में लड़ाई के दौरान हुई थी।
+
+अगर आइजनकोट तय समय में सरकार नहीं बना पाए, तो राष्ट्रपति दोबारा नेतन्याहू को मौका दे सकते हैं। नेतन्याहू भी बहुमत नहीं जुटा पाए, तो इजराइल में फिर से चुनाव कराने पड़ सकते हैं। फिलहाल नेतन्याहू के लिए सबसे बड़ी चिंता यह है कि जिन पार्टियों के सहारे उनकी सरकार टिकी है, उनमें ही टूट की आशंका बढ़ रही है।
+
+नेतन्याहू सत्ता फिसलती देख ईरान पर हमले कर सकते हैं
+
+आइजनकोट के सरकार बनाने से पहले संभावना है कि नेतन्याहू ईरान पर फिर हमले का आदेश दे सकते हैं। वे ईरान के साथ बढ़ते तनाव को देश की सुरक्षा से जोड़कर राजनीतिक दलों पर एकजुट होकर सरकार बनाने का दबाव बना सकते हैं। इससे आइजनकोट की सरकार बनाने की कोशिशों में देरी हो सकती है।
+
+हालांकि, नेतन्याहू अब तक ईरान पर तुरंत हमले के लिए अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प को राजी नहीं कर पाए हैं। इजराइली रक्षा बलों के प्रवक्ता एफी डेफ्रिन ने गुरुवार को कहा कि इजराइल किसी भी समय यहां तक कि अमेरिका के बिना भी ईरान पर हमलें के लिए तैयार है।
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/international/news/israel-mansour-abbas-hamas-terrorist-gadi-eizenkot-government-news-139814280.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `इजराइल की अरब पार्टी हमास को आतंकी संगठन मानेगी: आइजनकोट सरकार में शामिल होने के लिए बदलेगी रुख; नेता बोले-... - Dainik Bhaskar`,
+    summary_hi: `इजराइल की राअम पार्टी के प्रमुख मंसूर अब्बास शनिवार रात हमास को आतंकवादी संगठन मानने का ऐलान कर सकते हैं। वह चैनल 12 पर पत्रकार डाना वाइस को दिए इंटरव्यू में अपना रुख साफ करेंगे।`,
+    content_hi: `इजराइल की राअम पार्टी के प्रमुख मंसूर अब्बास शनिवार रात हमास को आतंकवादी संगठन मानने का ऐलान कर सकते हैं। वह चैनल 12 पर पत्रकार डाना वाइस को दिए इंटरव्यू में अपना रुख साफ करेंगे।
+
+अब्बास के इस बयान से गादी आइजनकोट की अगुवाई वाली नई सरकार में राअम पार्टी के शामिल होने का रास्ता खुल सकता है। आइजनकोट के पास सरकार बनाने के लिए अब सिर्फ 9 दिन बचे हैं। उन्होंने गठबंधन में शामिल होने वाली हर अरब पार्टी से कहा है कि वह हमास को आतंकवादी संगठन माने और उसके खात्मे का संकल्प ले।
+
+अगर अब्बास ऐसा करते हैं, तो नेतन्याहू को सत्ता से हटाने के लिए बहुमत जुटाने में मदद मिल सकती है। इंटरव्यू के प्रोमो में उन्होंने कहा कि ऐसा करने पर उनकी जान भी जा सकती है।
+
+हमास को आतंकवादी कहने से बदलेगा पुराना रुख
+
+अब्बास 2021 से 2022 तक इजराइल की गठबंधन सरकार में शामिल रहे थे। अब्बास ने 7 अक्टूबर 2023 को इजराइल पर हुए हमले की भी आलोचना की थी। लेकिन उन्होंने कभी खुले तौर पर हमास को आतंकवादी संगठन नहीं कहा।
+
+उनका कहना था कि अगर वह हमास को आतंकवादी संगठन कहते हैं, तो अरब और यहूदी समुदायों के बीच बातचीत का रास्ता बंद हो सकता है।
+
+अब्बास खुद को दोनों समुदायों के बीच बातचीत कराने वाले नेता के तौर पर पेश करते रहे हैं। उन्होंने यह भी कहा था कि ऐसा बयान देने से उनके परिवार की सुरक्षा को खतरा हो सकता है।
+
+इजराइल में अरब समुदाय से जुड़ी 4 पार्टियां हैं
+
+इजराइल में अरब समुदाय से जुड़ी 4 प्रमुख राजनीतिक पार्टियां हैं। इस साल चुनाव में ये दो गठबंधनों में चुनाव लड़ी थीं।
+
+1. जॉइंट लिस्ट: हदाश, ताअल और बलद मिलकर चुनाव लड़ीं। इसे हदाश पार्टी के यूसुफ जबरीन ने लीड किया।
+
+2. राअम: मंसूर अब्बास के नेतृत्व में अलग चुनाव लड़ी।
+
+जॉइंट लिस्ट को 11 और राआम को 8 सीटें मिलीं। यानी अरब बहुल पार्टियों के पास कुल 19 सीटें हैं।
+
+राअम का समर्थन मिला तो सरकार बनाएंगे आइजनकोट
+
+6 दिसंबर तक का वक्त, नहीं बनी सरकार तो फिर नेतन्याहू की बारी
+
+राष्ट्रपति इसाक हर्जोग ने 8 नवंबर को आइजनकोट को सरकार बनाने की जिम्मेदारी सौंपी थी। उन्हें 6 दिसंबर तक बहुमत जुटाना है। जरूरत पड़ने पर राष्ट्रपति यह समयसीमा 14 दिन और बढ़ा सकते हैं।
+
+आइजनकोट के लिए यह तारीख निजी तौर पर भी अहम है। 7 दिसंबर को उनके बेटे गाल की मौत की तीसरी बरसी है। 25 साल के गाल की मौत गाजा में लड़ाई के दौरान हुई थी।
+
+अगर आइजनकोट तय समय में सरकार नहीं बना पाए, तो राष्ट्रपति दोबारा नेतन्याहू को मौका दे सकते हैं। नेतन्याहू भी बहुमत नहीं जुटा पाए, तो इजराइल में फिर से चुनाव कराने पड़ सकते हैं। फिलहाल नेतन्याहू के लिए सबसे बड़ी चिंता यह है कि जिन पार्टियों के सहारे उनकी सरकार टिकी है, उनमें ही टूट की आशंका बढ़ रही है।
+
+नेतन्याहू सत्ता फिसलती देख ईरान पर हमले कर सकते हैं
+
+आइजनकोट के सरकार बनाने से पहले संभावना है कि नेतन्याहू ईरान पर फिर हमले का आदेश दे सकते हैं। वे ईरान के साथ बढ़ते तनाव को देश की सुरक्षा से जोड़कर राजनीतिक दलों पर एकजुट होकर सरकार बनाने का दबाव बना सकते हैं। इससे आइजनकोट की सरकार बनाने की कोशिशों में देरी हो सकती है।
+
+हालांकि, नेतन्याहू अब तक ईरान पर तुरंत हमले के लिए अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प को राजी नहीं कर पाए हैं। इजराइली रक्षा बलों के प्रवक्ता एफी डेफ्रिन ने गुरुवार को कहा कि इजराइल किसी भी समय यहां तक कि अमेरिका के बिना भी ईरान पर हमलें के लिए तैयार है।
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/international/news/israel-mansour-abbas-hamas-terrorist-gadi-eizenkot-government-news-139814280.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक इजराइल की अरब पार्टी हमास को आतंकी संगठन मानेगी: आइजनकोट सरकार में शामिल होने के लिए बदलेगी रुख; नेता बोले-... - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+  {
+    id: 196,
+    title: `Rishabh Pant surpasses Ben Stokes to become leading six-hitter in WTC history`,
+    slug: `rishabh-pant-surpasses-ben-stokes-to-become-leading-six-hitter-in-wtc-2026`,
+    original_title: `Rishabh Pant surpasses Ben Stokes to become leading six-hitter in WTC history`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:14:57Z`,
+    updated_at: `2026-11-28T08:14:57Z`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rishabh-pant-surpasses-ben-stokes-to-become-leading-six-hitter-in-wtc-history/articleshow/136240428.cms`,
+    source_courtesy: `Source: The Times of India`,
+    image_url: `/images/articles/rishabh-pant-surpasses-ben-stokes-to-become-leading-six-hitter-in-wtc-2026.jpg`,
+    image_alt: `Rishabh Pant surpasses Ben Stokes to become leading six-hitter in WTC history`,
+    image_courtesy: `Image: The Times of India (External Source Attribution)`,
+    image_photographer: `The Times of India`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `Rishabh Pant added another record to his name during the second Test against New Zealand in Christchurch on Saturday. The Indian wicketkeeper-batter moved past Ben Stokes to become the player with the most sixes in the history of the World `,
+    content: `Rishabh Pant added another record to his name during the second Test against New Zealand in Christchurch on Saturday. The Indian wicketkeeper-batter moved past Ben Stokes to become the player with the most sixes in the history of the World Test Championship (WTC).Pant reached the landmark on Day 2 of the ongoing Test when he hit New Zealand pacer Jacob Duffy for a six during India's first innings.
+
+He now has 89 sixes in 44 WTC matches, having played 76 innings.Stokes, who has retired from international cricket, finished his WTC career with 88 sixes in 64 matches and 117 innings for England.Pant goes past Ben StokesPant needed just one six to move ahead of Stokes and achieved the feat in the 25th over of India's innings.
+
+He sent Duffy's delivery over long-on to take his tally to 89.Rohit Sharma is third on the list with 56 sixes, followed by Shubman Gill (48) and Yashasvi Jaiswal (45).Most sixes in World Test Championship historyPlayerTeamMatchesRuns100s50s4s6sRishabh PantIND44*3,09971833189Ben StokesENG643,85781939588Rohit SharmaIND402,7169832256Shubman GillIND44*3,032101033948Yashasvi JaiswalIND32*2,67371434245Harry BrookENG373,21491734244Ravindra JadejaIND502,67551825442Travis HeadAUS624,200121552840Daryl MitchellNZ34*2,20861221839Steve SmithAUS634,804142151135Pant fails to make big scoreDespite achieving the milestone, Pant could not stay at the crease for long.
+
+He scored 23 off 39 balls, hitting one four and one six.The left-hander took time to get going and went 25 deliveries without hitting a boundary. After reaching the milestone against Duffy, he struck Nathan Smith for a four in the following over.However, his innings ended in the 27th over.
+
+Pant stepped out to attack Duffy but missed the delivery, allowing wicketkeeper Kyle Jamieson to complete the catch.Pant second on overall Test sixes listPant has also been among the most successful six-hitters in Test cricket. He has struck 109 sixes in 54 Tests and 92 innings, making him the second-highest six-hitter in the format.Stokes leads the list with 138 sixes from 220 innings.India lose wickets after New Zealand post 356India were under pressure in their first innings after New Zealand were bowled out for 356.
+
+The visitors lost five wickets for 104 runs.Yashasvi Jaiswal fell for a duck, while Devdutt Padikkal made 21. Captain Shubman Gill scored 17 before edging a delivery to the slips shortly before the tea break.Pant and KL Rahul then put together a 37-run partnership for the fourth wicket to steady the innings.
+
+Rahul scored 25 off 80 balls, including three boundaries, before being dismissed.Get the latest Sports News and Live updates. Download the TOI app.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rishabh-pant-surpasses-ben-stokes-to-become-leading-six-hitter-in-wtc-history/articleshow/136240428.cms)`,
+    title_en: `Rishabh Pant surpasses Ben Stokes to become leading six-hitter in WTC history`,
+    summary_en: `Rishabh Pant added another record to his name during the second Test against New Zealand in Christchurch on Saturday. The Indian wicketkeeper-batter moved past Ben Stokes to become the player with the most sixes in the history of the World `,
+    content_en: `Rishabh Pant added another record to his name during the second Test against New Zealand in Christchurch on Saturday. The Indian wicketkeeper-batter moved past Ben Stokes to become the player with the most sixes in the history of the World Test Championship (WTC).Pant reached the landmark on Day 2 of the ongoing Test when he hit New Zealand pacer Jacob Duffy for a six during India's first innings.
+
+He now has 89 sixes in 44 WTC matches, having played 76 innings.Stokes, who has retired from international cricket, finished his WTC career with 88 sixes in 64 matches and 117 innings for England.Pant goes past Ben StokesPant needed just one six to move ahead of Stokes and achieved the feat in the 25th over of India's innings.
+
+He sent Duffy's delivery over long-on to take his tally to 89.Rohit Sharma is third on the list with 56 sixes, followed by Shubman Gill (48) and Yashasvi Jaiswal (45).Most sixes in World Test Championship historyPlayerTeamMatchesRuns100s50s4s6sRishabh PantIND44*3,09971833189Ben StokesENG643,85781939588Rohit SharmaIND402,7169832256Shubman GillIND44*3,032101033948Yashasvi JaiswalIND32*2,67371434245Harry BrookENG373,21491734244Ravindra JadejaIND502,67551825442Travis HeadAUS624,200121552840Daryl MitchellNZ34*2,20861221839Steve SmithAUS634,804142151135Pant fails to make big scoreDespite achieving the milestone, Pant could not stay at the crease for long.
+
+He scored 23 off 39 balls, hitting one four and one six.The left-hander took time to get going and went 25 deliveries without hitting a boundary. After reaching the milestone against Duffy, he struck Nathan Smith for a four in the following over.However, his innings ended in the 27th over.
+
+Pant stepped out to attack Duffy but missed the delivery, allowing wicketkeeper Kyle Jamieson to complete the catch.Pant second on overall Test sixes listPant has also been among the most successful six-hitters in Test cricket. He has struck 109 sixes in 54 Tests and 92 innings, making him the second-highest six-hitter in the format.Stokes leads the list with 138 sixes from 220 innings.India lose wickets after New Zealand post 356India were under pressure in their first innings after New Zealand were bowled out for 356.
+
+The visitors lost five wickets for 104 runs.Yashasvi Jaiswal fell for a duck, while Devdutt Padikkal made 21. Captain Shubman Gill scored 17 before edging a delivery to the slips shortly before the tea break.Pant and KL Rahul then put together a 37-run partnership for the fourth wicket to steady the innings.
+
+Rahul scored 25 off 80 balls, including three boundaries, before being dismissed.Get the latest Sports News and Live updates. Download the TOI app.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rishabh-pant-surpasses-ben-stokes-to-become-leading-six-hitter-in-wtc-history/articleshow/136240428.cms)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Times of India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Rishabh Pant surpasses Ben Stokes to become leading six-hitter in WTC history.`,
+    primary_source: `The Times of India`,
+  },
+  {
+    id: 197,
+    title: `रोहित शर्मा बने मुंबई इंडियंस के कप्तान - Mumbai Indians | Official website`,
+    slug: `mumbai-indians-official-website-2026`,
+    original_title: `रोहित शर्मा बने मुंबई इंडियंस के कप्तान - Mumbai Indians | Official website`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:15:02Z`,
+    updated_at: `2026-11-28T08:15:02Z`,
+    source_name: `Mumbai Indians | Official website`,
+    source_url: `https://www.mumbaiindians.com/hindi/news/rohit-sharma-mumbai-indians-captain-ipl-2027-hi`,
+    source_courtesy: `Source: Mumbai Indians | Official website`,
+    image_url: `/images/articles/mumbai-indians-official-website-2026.webp`,
+    image_alt: `रोहित शर्मा बने मुंबई इंडियंस के कप्तान - Mumbai Indians | Official website`,
+    image_courtesy: `Image: Mumbai Indians | Official website (External Source Attribution)`,
+    image_photographer: `Mumbai Indians | Official website`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `रोहित शर्मा बने मुंबई इंडियंस के कप्तान Mumbai Indians | Official website Rohit Sharma IPL Captaincy: मुंबई इंडियंस में फिर लौटा रोहित शर्मा का युग, 2027 सीजन के लिए बने टीम के कप्तान AajTak मुंबई इंडियंस का बड़ा ऐलान, रोहित शर्मा फिर बने क`,
+    content: `### रोहित शर्मा बने मुंबई इंडियंस के कप्तान
+
+मुंबई, 27 नवंबर 2026 : मुंबई इंडियंस ने आज घोषणा की कि रोहित शर्मा IPL 2027 सीजन में टीम की कप्तानी करेंगे। फ्रेंचाइजी अपने 20वें सीजन का जश्न मनाने की तैयारी कर रही है। ऐसे में टीम के सबसे लोकप्रिय और सफल कप्तानों में से एक रोहित शर्मा ब्लू एंड गोल्ड टीम को एक नए और रोमांचक सफर पर आगे ले जाएंगे। मुंबई इंडियंस के साथ रोहित का सफर बेहद खास रहा है। 2011 में फ्रेंचाइजी से जुड़ने के बाद से वह टीम की कई बड़ी उपलब्धियों का हिस्सा रहे हैं। उनकी कप्तानी में MI ने पांच IPL खिताब जीते और टीम को मजबूत करने में अहम भूमिका निभाई। युवा खिलाड़ियों पर उनका भरोसा, नेतृत्व क्षमता और पलटन के साथ उनका गहरा जुड़ाव उन्हें मुंबई इंडियंस की कहानी का एक अहम हिस्सा बनाता है। श्रीमती नीता एम. अंबानी ने कहा: “हमने 2011 में रोहित के लिए बोली लगाई थी और उसी पल से वह मुंबई इंडियंस परिवार का हिस्सा बन गए। मुझे आज भी वह युवा रोहित याद हैं, जो हमारी टीम से जुड़े थे। पिछले कुछ वर्षों में एक क्रिकेटर, चैंपियन, कप्तान और एक बेहतरीन पारिवारिक व्यक्ति के रूप में उन्हें आगे बढ़ते देखना हमारे लिए बेहद खुशी और सम्मान की बात रही है। मुंबई इंडियंस के 20वें सीजन का जश्न मनाते हुए रोहित को एक बार फिर टीम की कप्तानी करते देखना हम सभी के लिए बेहद खास पल है। उन्होंने पिछले कुछ वर्षों में हमें कई यादगार पल दिए हैं और मैं जानती हूं कि वह हमारी पलटन के लिए कितने मायने रखते हैं। मुझे उम्मीद है कि यह नया अध्याय उनके, हमारी टीम और मुंबई इंडियंस से प्यार करने वाले लाखों प्रशंसकों के लिए गर्व के कई और पल लेकर आएगा। रोहित, हम सभी आपके साथ हैं और आपका हौसला बढ़ा रहे हैं!” श्री आकाश अंबानी ने कहा: “मुंबई इंडियंस के 20वें ऐतिहासिक सीजन में रोहित को ब्लू एंड गोल्ड टीम की कप्तानी करते देखना मेरे लिए खुशी की बात है। रोहित का मुंबई इंडियंस और हमारी पलटन के साथ रिश्ता बेहद खास है। आगामी सीजन को लेकर हमारी बातचीत में इस बात को लेकर उत्साह और महत्वाकांक्षा साफ नजर आई कि हम मिलकर क्या हासिल कर सकते हैं। रोहित के अनुभव और नेतृत्व क्षमता के साथ-साथ जिस शानदार टीम को हम तैयार कर रहे हैं, उसे देखते हुए आगे बहुत कुछ खास होने की उम्मीद है। हमारा लक्ष्य ऐसा क्रिकेट खेलना है, जिससे हमारी पलटन को गर्व हो और हम सब मिलकर कई और यादगार पल बना सकें।” मुंबई इंडियंस के कप्तान रोहित शर्मा ने कहा: “मुंबई इंडियंस मेरी जिंदगी का एक अहम हिस्सा रहा है और इस टीम की कप्तानी करना हमेशा मेरे लिए गर्व की बात रही है। आगामी सीजन को लेकर नीता भाभी और आकाश के साथ हुई बातचीत काफी उत्साहजनक रही है। मुझे पूरा भरोसा है कि हम मिलकर बहुत कुछ हासिल कर सकते हैं। मैं 20वें सीजन और आगे आने वाली चुनौतियों के लिए पूरी तरह तैयार हूं। मैं अपनी पलटन को जश्न मनाने के कई और मौके देना चाहता हूं। हमारा ध्यान अपने अंदाज का क्रिकेट खेलने, एक टीम के रूप में मिलकर मुकाबला करने और खेल का आनंद लेने पर रहेगा।” रोहित की कप्तानी में मुंबई इंडियंस अपने 20वें सीजन में कदम रखेगी। टीम 2027 के सीजन में नए उत्साह, बड़े लक्ष्यों और पलटन के अटूट समर्थन के साथ उतरने के लिए तैयार है।
+
+मुंबई, 27 नवंबर 2026 : मुंबई इंडियंस ने आज घोषणा की कि रोहित शर्मा IPL 2027 सीजन में टीम की कप्तानी करेंगे। फ्रेंचाइजी अपने 20वें सीजन का जश्न मनाने की तैयारी कर रही है। ऐसे में टीम के सबसे लोकप्रिय और सफल कप्तानों में से एक रोहित शर्मा ब्लू एंड गोल्ड टीम को एक नए और रोमांचक सफर पर आगे ले जाएंगे।
+
+मुंबई इंडियंस के साथ रोहित का सफर बेहद खास रहा है। 2011 में फ्रेंचाइजी से जुड़ने के बाद से वह टीम की कई बड़ी उपलब्धियों का हिस्सा रहे हैं। उनकी कप्तानी में MI ने पांच IPL खिताब जीते और टीम को मजबूत करने में अहम भूमिका निभाई। युवा खिलाड़ियों पर उनका भरोसा, नेतृत्व क्षमता और पलटन के साथ उनका गहरा जुड़ाव उन्हें मुंबई इंडियंस की कहानी का एक अहम हिस्सा बनाता है।
+
+श्रीमती नीता एम. अंबानी ने कहा: “हमने 2011 में रोहित के लिए बोली लगाई थी और उसी पल से वह मुंबई इंडियंस परिवार का हिस्सा बन गए। मुझे आज भी वह युवा रोहित याद हैं, जो हमारी टीम से जुड़े थे। पिछले कुछ वर्षों में एक क्रिकेटर, चैंपियन, कप्तान और एक बेहतरीन पारिवारिक व्यक्ति के रूप में उन्हें आगे बढ़ते देखना हमारे लिए बेहद खुशी और सम्मान की बात रही है।
+
+मुंबई इंडियंस के 20वें सीजन का जश्न मनाते हुए रोहित को एक बार फिर टीम की कप्तानी करते देखना हम सभी के लिए बेहद खास पल है। उन्होंने पिछले कुछ वर्षों में हमें कई यादगार पल दिए हैं और मैं जानती हूं कि वह हमारी पलटन के लिए कितने मायने रखते हैं। मुझे उम्मीद है कि यह नया अध्याय उनके, हमारी टीम और मुंबई इंडियंस से प्यार करने वाले लाखों प्रशंसकों के लिए गर्व के कई और पल लेकर आएगा। रोहित, हम सभी आपके साथ हैं और आपका हौसला बढ़ा रहे हैं!”
+
+श्री आकाश अंबानी ने कहा: “मुंबई इंडियंस के 20वें ऐतिहासिक सीजन में रोहित को ब्लू एंड गोल्ड टीम की कप्तानी करते देखना मेरे लिए खुशी की बात है। रोहित का मुंबई इंडियंस और हमारी पलटन के साथ रिश्ता बेहद खास है। आगामी सीजन को लेकर हमारी बातचीत में इस बात को लेकर उत्साह और महत्वाकांक्षा साफ नजर आई कि हम मिलकर क्या हासिल कर सकते हैं।
+
+रोहित के अनुभव और नेतृत्व क्षमता के साथ-साथ जिस शानदार टीम को हम तैयार कर रहे हैं, उसे देखते हुए आगे बहुत कुछ खास होने की उम्मीद है। हमारा लक्ष्य ऐसा क्रिकेट खेलना है, जिससे हमारी पलटन को गर्व हो और हम सब मिलकर कई और यादगार पल बना सकें।”
+
+मुंबई इंडियंस के कप्तान रोहित शर्मा ने कहा: “मुंबई इंडियंस मेरी जिंदगी का एक अहम हिस्सा रहा है और इस टीम की कप्तानी करना हमेशा मेरे लिए गर्व की बात रही है। आगामी सीजन को लेकर नीता भाभी और आकाश के साथ हुई बातचीत काफी उत्साहजनक रही है। मुझे पूरा भरोसा है कि हम मिलकर बहुत कुछ हासिल कर सकते हैं।
+
+मैं 20वें सीजन और आगे आने वाली चुनौतियों के लिए पूरी तरह तैयार हूं। मैं अपनी पलटन को जश्न मनाने के कई और मौके देना चाहता हूं। हमारा ध्यान अपने अंदाज का क्रिकेट खेलने, एक टीम के रूप में मिलकर मुकाबला करने और खेल का आनंद लेने पर रहेगा।”
+
+रोहित की कप्तानी में मुंबई इंडियंस अपने 20वें सीजन में कदम रखेगी। टीम 2027 के सीजन में नए उत्साह, बड़े लक्ष्यों और पलटन के अटूट समर्थन के साथ उतरने के लिए तैयार है।
+
+---
+
+**मूल स्रोत (Original Source):** [Mumbai Indians | Official website](https://www.mumbaiindians.com/hindi/news/rohit-sharma-mumbai-indians-captain-ipl-2027-hi)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `रोहित शर्मा बने मुंबई इंडियंस के कप्तान - Mumbai Indians | Official website`,
+    summary_hi: `रोहित शर्मा बने मुंबई इंडियंस के कप्तान Mumbai Indians | Official website Rohit Sharma IPL Captaincy: मुंबई इंडियंस में फिर लौटा रोहित शर्मा का युग, 2027 सीजन के लिए बने टीम के कप्तान AajTak मुंबई इंडियंस का बड़ा ऐलान, रोहित शर्मा फिर बने क`,
+    content_hi: `### रोहित शर्मा बने मुंबई इंडियंस के कप्तान
+
+मुंबई, 27 नवंबर 2026 : मुंबई इंडियंस ने आज घोषणा की कि रोहित शर्मा IPL 2027 सीजन में टीम की कप्तानी करेंगे। फ्रेंचाइजी अपने 20वें सीजन का जश्न मनाने की तैयारी कर रही है। ऐसे में टीम के सबसे लोकप्रिय और सफल कप्तानों में से एक रोहित शर्मा ब्लू एंड गोल्ड टीम को एक नए और रोमांचक सफर पर आगे ले जाएंगे। मुंबई इंडियंस के साथ रोहित का सफर बेहद खास रहा है। 2011 में फ्रेंचाइजी से जुड़ने के बाद से वह टीम की कई बड़ी उपलब्धियों का हिस्सा रहे हैं। उनकी कप्तानी में MI ने पांच IPL खिताब जीते और टीम को मजबूत करने में अहम भूमिका निभाई। युवा खिलाड़ियों पर उनका भरोसा, नेतृत्व क्षमता और पलटन के साथ उनका गहरा जुड़ाव उन्हें मुंबई इंडियंस की कहानी का एक अहम हिस्सा बनाता है। श्रीमती नीता एम. अंबानी ने कहा: “हमने 2011 में रोहित के लिए बोली लगाई थी और उसी पल से वह मुंबई इंडियंस परिवार का हिस्सा बन गए। मुझे आज भी वह युवा रोहित याद हैं, जो हमारी टीम से जुड़े थे। पिछले कुछ वर्षों में एक क्रिकेटर, चैंपियन, कप्तान और एक बेहतरीन पारिवारिक व्यक्ति के रूप में उन्हें आगे बढ़ते देखना हमारे लिए बेहद खुशी और सम्मान की बात रही है। मुंबई इंडियंस के 20वें सीजन का जश्न मनाते हुए रोहित को एक बार फिर टीम की कप्तानी करते देखना हम सभी के लिए बेहद खास पल है। उन्होंने पिछले कुछ वर्षों में हमें कई यादगार पल दिए हैं और मैं जानती हूं कि वह हमारी पलटन के लिए कितने मायने रखते हैं। मुझे उम्मीद है कि यह नया अध्याय उनके, हमारी टीम और मुंबई इंडियंस से प्यार करने वाले लाखों प्रशंसकों के लिए गर्व के कई और पल लेकर आएगा। रोहित, हम सभी आपके साथ हैं और आपका हौसला बढ़ा रहे हैं!” श्री आकाश अंबानी ने कहा: “मुंबई इंडियंस के 20वें ऐतिहासिक सीजन में रोहित को ब्लू एंड गोल्ड टीम की कप्तानी करते देखना मेरे लिए खुशी की बात है। रोहित का मुंबई इंडियंस और हमारी पलटन के साथ रिश्ता बेहद खास है। आगामी सीजन को लेकर हमारी बातचीत में इस बात को लेकर उत्साह और महत्वाकांक्षा साफ नजर आई कि हम मिलकर क्या हासिल कर सकते हैं। रोहित के अनुभव और नेतृत्व क्षमता के साथ-साथ जिस शानदार टीम को हम तैयार कर रहे हैं, उसे देखते हुए आगे बहुत कुछ खास होने की उम्मीद है। हमारा लक्ष्य ऐसा क्रिकेट खेलना है, जिससे हमारी पलटन को गर्व हो और हम सब मिलकर कई और यादगार पल बना सकें।” मुंबई इंडियंस के कप्तान रोहित शर्मा ने कहा: “मुंबई इंडियंस मेरी जिंदगी का एक अहम हिस्सा रहा है और इस टीम की कप्तानी करना हमेशा मेरे लिए गर्व की बात रही है। आगामी सीजन को लेकर नीता भाभी और आकाश के साथ हुई बातचीत काफी उत्साहजनक रही है। मुझे पूरा भरोसा है कि हम मिलकर बहुत कुछ हासिल कर सकते हैं। मैं 20वें सीजन और आगे आने वाली चुनौतियों के लिए पूरी तरह तैयार हूं। मैं अपनी पलटन को जश्न मनाने के कई और मौके देना चाहता हूं। हमारा ध्यान अपने अंदाज का क्रिकेट खेलने, एक टीम के रूप में मिलकर मुकाबला करने और खेल का आनंद लेने पर रहेगा।” रोहित की कप्तानी में मुंबई इंडियंस अपने 20वें सीजन में कदम रखेगी। टीम 2027 के सीजन में नए उत्साह, बड़े लक्ष्यों और पलटन के अटूट समर्थन के साथ उतरने के लिए तैयार है।
+
+मुंबई, 27 नवंबर 2026 : मुंबई इंडियंस ने आज घोषणा की कि रोहित शर्मा IPL 2027 सीजन में टीम की कप्तानी करेंगे। फ्रेंचाइजी अपने 20वें सीजन का जश्न मनाने की तैयारी कर रही है। ऐसे में टीम के सबसे लोकप्रिय और सफल कप्तानों में से एक रोहित शर्मा ब्लू एंड गोल्ड टीम को एक नए और रोमांचक सफर पर आगे ले जाएंगे।
+
+मुंबई इंडियंस के साथ रोहित का सफर बेहद खास रहा है। 2011 में फ्रेंचाइजी से जुड़ने के बाद से वह टीम की कई बड़ी उपलब्धियों का हिस्सा रहे हैं। उनकी कप्तानी में MI ने पांच IPL खिताब जीते और टीम को मजबूत करने में अहम भूमिका निभाई। युवा खिलाड़ियों पर उनका भरोसा, नेतृत्व क्षमता और पलटन के साथ उनका गहरा जुड़ाव उन्हें मुंबई इंडियंस की कहानी का एक अहम हिस्सा बनाता है।
+
+श्रीमती नीता एम. अंबानी ने कहा: “हमने 2011 में रोहित के लिए बोली लगाई थी और उसी पल से वह मुंबई इंडियंस परिवार का हिस्सा बन गए। मुझे आज भी वह युवा रोहित याद हैं, जो हमारी टीम से जुड़े थे। पिछले कुछ वर्षों में एक क्रिकेटर, चैंपियन, कप्तान और एक बेहतरीन पारिवारिक व्यक्ति के रूप में उन्हें आगे बढ़ते देखना हमारे लिए बेहद खुशी और सम्मान की बात रही है।
+
+मुंबई इंडियंस के 20वें सीजन का जश्न मनाते हुए रोहित को एक बार फिर टीम की कप्तानी करते देखना हम सभी के लिए बेहद खास पल है। उन्होंने पिछले कुछ वर्षों में हमें कई यादगार पल दिए हैं और मैं जानती हूं कि वह हमारी पलटन के लिए कितने मायने रखते हैं। मुझे उम्मीद है कि यह नया अध्याय उनके, हमारी टीम और मुंबई इंडियंस से प्यार करने वाले लाखों प्रशंसकों के लिए गर्व के कई और पल लेकर आएगा। रोहित, हम सभी आपके साथ हैं और आपका हौसला बढ़ा रहे हैं!”
+
+श्री आकाश अंबानी ने कहा: “मुंबई इंडियंस के 20वें ऐतिहासिक सीजन में रोहित को ब्लू एंड गोल्ड टीम की कप्तानी करते देखना मेरे लिए खुशी की बात है। रोहित का मुंबई इंडियंस और हमारी पलटन के साथ रिश्ता बेहद खास है। आगामी सीजन को लेकर हमारी बातचीत में इस बात को लेकर उत्साह और महत्वाकांक्षा साफ नजर आई कि हम मिलकर क्या हासिल कर सकते हैं।
+
+रोहित के अनुभव और नेतृत्व क्षमता के साथ-साथ जिस शानदार टीम को हम तैयार कर रहे हैं, उसे देखते हुए आगे बहुत कुछ खास होने की उम्मीद है। हमारा लक्ष्य ऐसा क्रिकेट खेलना है, जिससे हमारी पलटन को गर्व हो और हम सब मिलकर कई और यादगार पल बना सकें।”
+
+मुंबई इंडियंस के कप्तान रोहित शर्मा ने कहा: “मुंबई इंडियंस मेरी जिंदगी का एक अहम हिस्सा रहा है और इस टीम की कप्तानी करना हमेशा मेरे लिए गर्व की बात रही है। आगामी सीजन को लेकर नीता भाभी और आकाश के साथ हुई बातचीत काफी उत्साहजनक रही है। मुझे पूरा भरोसा है कि हम मिलकर बहुत कुछ हासिल कर सकते हैं।
+
+मैं 20वें सीजन और आगे आने वाली चुनौतियों के लिए पूरी तरह तैयार हूं। मैं अपनी पलटन को जश्न मनाने के कई और मौके देना चाहता हूं। हमारा ध्यान अपने अंदाज का क्रिकेट खेलने, एक टीम के रूप में मिलकर मुकाबला करने और खेल का आनंद लेने पर रहेगा।”
+
+रोहित की कप्तानी में मुंबई इंडियंस अपने 20वें सीजन में कदम रखेगी। टीम 2027 के सीजन में नए उत्साह, बड़े लक्ष्यों और पलटन के अटूट समर्थन के साथ उतरने के लिए तैयार है।
+
+---
+
+**मूल स्रोत (Original Source):** [Mumbai Indians | Official website](https://www.mumbaiindians.com/hindi/news/rohit-sharma-mumbai-indians-captain-ipl-2027-hi)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट Mumbai Indians | Official website के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक रोहित शर्मा बने मुंबई इंडियंस के कप्तान - Mumbai Indians | Official website से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Mumbai Indians | Official website`,
+  },
+  {
+    id: 198,
+    title: `Denis Villeneuve is ‘deeply disappointed’ about Avengers Doomsday clashing with his Dune Part Three, compares Marvel film to T Rex | Hollywood - Hindustan Times`,
+    slug: `denis-villeneuve-is-deeply-disappointed-about-avengers-doomsday-clashi-2026`,
+    original_title: `Denis Villeneuve is ‘deeply disappointed’ about Avengers Doomsday clashing with his Dune Part Three, compares Marvel film to T Rex | Hollywood - Hindustan Times`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:15:03Z`,
+    updated_at: `2026-11-28T08:15:03Z`,
+    source_name: `Hindustan Times`,
+    source_url: `https://www.hindustantimes.com/entertainment/hollywood/denis-villeneuve-is-deeply-disappointed-about-marvel-avengers-doomsday-clashing-with-his-dune-part-three-101795835584488.html`,
+    source_courtesy: `Source: Hindustan Times`,
+    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Denis Villeneuve is ‘deeply disappointed’ about Avengers Doomsday clashing with his Dune Part Three, compares Marvel film to T Rex | Hollywood - Hindustan Times`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Two years after the Barbenheimer in 2023, Marvel’s Avengers: Doomsday is all set to clash with Denis Villeneuve’s Dune: Part Three this December. Doomsday is hitting screens on December 17 and Dune 3 on December 18. Denis, who did not have `,
+    content: `Two years after the Barbenheimer in 2023, Marvel’s Avengers: Doomsday is all set to clash with Denis Villeneuve’s Dune: Part Three this December. Doomsday is hitting screens on December 17 and Dune 3 on December 18. Denis, who did not have the pandemic or writers’ strike to contend with the third time, is ‘deeply disappointed’ his film will now have to battle a juggernaut at the box office.Denis Villeneuve on Dune 3-Doomsday clashDenis spoke to TIME about the clash between Dune 3 and Doomsday.
+
+He mentioned that the first Dune film came out towards the end of the COVID-19 pandemic, and that they had ‘great box office in a very rough environment’. The second film, which was supposed to be released that fall, was pushed to the end of winter due to the Hollywood strikes. While it was successful, Denis says it was not easy.
+
+“The third time, I said to myself, “Finally, there is no pandemic, no strike in sight. We will have a normal release.” Then Disney put the biggest franchise of all time against us. I’m no fool. Those movies are a mammoth,” he said. The filmmaker said it was impossible to reschedule his date after Doomsday was announced.
+
+He also hopes that Dune 3 survives the clash, “So I was deeply disappointed. But we had committed to this date, to IMAX. It was impossible to move. So I accepted my fate, praying to the gods of cinema. Dune is not a mammoth like the Avengers, but it’s a sexy little animal that has a lot of firepower, and I hope we will survive.
+
+It could be one of the biggest box-office weekends of all time because of both movies. Am I in competition with the Avengers? Absolutely not. It’s a T. rex. But I stand proud because I think the film delivers.” About Dune 3 and Avengers DoomsdayDune: Part Three is directed by Denis Villeneuve, based on a screenplay he co-wrote with Brian K.
+
+Vaughan. Timothée Chalamet leads an ensemble cast as Paul Atreides, the Emperor of the Known Universe. Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson, Anya Taylor-Joy, and Robert Pattinson also star. Avengers: Doomsday is directed by Anthony and Joe Russo, and written by Stephen McFeely and Michael Waldron.
+
+It features an ensemble cast led by Robert Downey Jr as Doctor Doom. The Avengers, Wakandans, New Avengers, Fantastic Four, and the X-Men will converge from different universes to face Doom amidst the collapse of the multiverse.
+
+---
+
+**Original Source:** [Hindustan Times](https://www.hindustantimes.com/entertainment/hollywood/denis-villeneuve-is-deeply-disappointed-about-marvel-avengers-doomsday-clashing-with-his-dune-part-three-101795835584488.html)`,
+    title_en: `Denis Villeneuve is ‘deeply disappointed’ about Avengers Doomsday clashing with his Dune Part Three, compares Marvel film to T Rex | Hollywood - Hindustan Times`,
+    summary_en: `Two years after the Barbenheimer in 2023, Marvel’s Avengers: Doomsday is all set to clash with Denis Villeneuve’s Dune: Part Three this December. Doomsday is hitting screens on December 17 and Dune 3 on December 18. Denis, who did not have `,
+    content_en: `Two years after the Barbenheimer in 2023, Marvel’s Avengers: Doomsday is all set to clash with Denis Villeneuve’s Dune: Part Three this December. Doomsday is hitting screens on December 17 and Dune 3 on December 18. Denis, who did not have the pandemic or writers’ strike to contend with the third time, is ‘deeply disappointed’ his film will now have to battle a juggernaut at the box office.Denis Villeneuve on Dune 3-Doomsday clashDenis spoke to TIME about the clash between Dune 3 and Doomsday.
+
+He mentioned that the first Dune film came out towards the end of the COVID-19 pandemic, and that they had ‘great box office in a very rough environment’. The second film, which was supposed to be released that fall, was pushed to the end of winter due to the Hollywood strikes. While it was successful, Denis says it was not easy.
+
+“The third time, I said to myself, “Finally, there is no pandemic, no strike in sight. We will have a normal release.” Then Disney put the biggest franchise of all time against us. I’m no fool. Those movies are a mammoth,” he said. The filmmaker said it was impossible to reschedule his date after Doomsday was announced.
+
+He also hopes that Dune 3 survives the clash, “So I was deeply disappointed. But we had committed to this date, to IMAX. It was impossible to move. So I accepted my fate, praying to the gods of cinema. Dune is not a mammoth like the Avengers, but it’s a sexy little animal that has a lot of firepower, and I hope we will survive.
+
+It could be one of the biggest box-office weekends of all time because of both movies. Am I in competition with the Avengers? Absolutely not. It’s a T. rex. But I stand proud because I think the film delivers.” About Dune 3 and Avengers DoomsdayDune: Part Three is directed by Denis Villeneuve, based on a screenplay he co-wrote with Brian K.
+
+Vaughan. Timothée Chalamet leads an ensemble cast as Paul Atreides, the Emperor of the Known Universe. Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson, Anya Taylor-Joy, and Robert Pattinson also star. Avengers: Doomsday is directed by Anthony and Joe Russo, and written by Stephen McFeely and Michael Waldron.
+
+It features an ensemble cast led by Robert Downey Jr as Doctor Doom. The Avengers, Wakandans, New Avengers, Fantastic Four, and the X-Men will converge from different universes to face Doom amidst the collapse of the multiverse.
+
+---
+
+**Original Source:** [Hindustan Times](https://www.hindustantimes.com/entertainment/hollywood/denis-villeneuve-is-deeply-disappointed-about-marvel-avengers-doomsday-clashing-with-his-dune-part-three-101795835584488.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Hindustan Times.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Denis Villeneuve is ‘deeply disappointed’ about Avengers Doomsday clashing with his Dune Part Three, compares Marvel film to T Rex | Hollywood - Hindustan Times.`,
+    primary_source: `Hindustan Times`,
+  },
+  {
+    id: 199,
+    title: `भारत में ₹1000 करोड़+ कमाने वाली 'रामायण' दूसरी बॉलीवुड मूवी: 23वें दिन वर्ल्डवाइड कलेक्शन ₹1,790 करोड़; कल... - Dainik Bhaskar`,
+    slug: `1000-23-1790-dainik-bhaskar-2026`,
+    original_title: `भारत में ₹1000 करोड़+ कमाने वाली 'रामायण' दूसरी बॉलीवुड मूवी: 23वें दिन वर्ल्डवाइड कलेक्शन ₹1,790 करोड़; कल... - Dainik Bhaskar`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:15:04Z`,
+    updated_at: `2026-11-28T08:15:04Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/g/entertainment/bollywood/news/ramayan-movie-box-office-collection-ranbir-kapoor-yash-record-139821524.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/1000-23-1790-dainik-bhaskar-2026.jpg`,
+    image_alt: `भारत में ₹1000 करोड़+ कमाने वाली 'रामायण' दूसरी बॉलीवुड मूवी: 23वें दिन वर्ल्डवाइड कलेक्शन ₹1,790 करोड़; कल... - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `रणबीर कपूर, यश और साई पल्लवी स्टारर फिल्म 'रामायण' ने बॉक्स ऑफिस पर नया इतिहास रच दिया है। रिलीज के 23 दिन में भारत में ₹1,000 करोड़ नेट कलेक्शन का आंकड़ा पार कर लिया है।`,
+    content: `रणबीर कपूर, यश और साई पल्लवी स्टारर फिल्म 'रामायण' ने बॉक्स ऑफिस पर नया इतिहास रच दिया है। रिलीज के 23 दिन में भारत में ₹1,000 करोड़ नेट कलेक्शन का आंकड़ा पार कर लिया है।
+
+इसके साथ ही यह भारत में सबसे ज्यादा कमाई करने वाली दूसरी बॉलीवुड फिल्म बन गई है। हालांकि, सभी भारतीय फिल्मों की कमाई के मामले में यह चौथे नंबर पर है।
+
+सैकनिल्क के मुताबिक, फिल्म ने 23वें दिन भारत में ₹8.45 करोड़ का नेट कलेक्शन किया। इसके साथ ही भारत में फिल्म की कुल कमाई ₹1,000.55 करोड़ हो गई है।
+
+बॉक्स ऑफिस पर 23 दिन के बाद फिल्म का इंडिया ग्रॉस कलेक्शन ₹1,195.10 करोड़ पहुंच गया है। वहीं, वर्ल्डवाइड ग्रॉस कलेक्शन ₹1,790.10 करोड़ हो गया है।
+
+'रामायणः पार्ट-1' ने बनाए ये बड़े रिकॉर्ड
+
+1. इंडिया में 1000 करोड़ नेट कमाने वाली दूसरी बॉलीवुड फिल्म
+
+'रामायण' भारत में 1000 करोड़ रुपए का नेट कलेक्शन करने वाली दूसरी बॉलीवुड फिल्म बन गई है। इससे पहले रणवीर सिंह स्टारर 'धुरंधर 2' ने यह रिकॉर्ड बनाया था। वहीं, सभी इंडियन फिल्मों की बात करें तो 'रामायण' इस आंकड़े तक पहुंचने वाली चौथी फिल्म है। इससे पहले 'बाहुबली 2', 'पुष्पा 2' और 'धुरंधर 2' यह उपलब्धि हासिल कर चुकी हैं।
+
+2. पुष्पा-2 को पछाड़ा, सबसे ज्यादा कमाई करने वाली तीसरी भारतीय
+
+रामायणः पार्ट-1 ने 23वें दिन वर्ल्डवाइड 1790 करोड़ का कलेक्शन कर लिया है। ये फिल्म अब सबसे ज्यादा कमाई करने वाली तीसरी भारतीय फिल्म बन चुकी है। इसने पुष्पा 2 (1742 करोड़) और बाहुबली 2 (1788 करोड़) का भी रिकॉर्ड तोड़ दिया है। हालांकि, दंगल और धुरंधर 2 अब भी इससे आगे हैं।
+
+3. 2026 की सबसे ज्यादा कमाई करने वाली दूसरी बनी
+
+रामायणः पार्ट- 1, इस साल की दूसरी सबसे ज्यादा कमाई करने वाली फिल्म भी बन चुकी है। इसने पहले वीकेंड के कलेक्शन से ही अजय देवगन की दृष्यम-3 के 577 करोड़ कलेक्शन को पीछे कर दिया था।
+
+4. पांचवें दिन सबसे ज्यादा कमाई करने वाली फिल्म
+
+फिल्म ने रिलीज के पांचवें दिन यानी 9 नवंबर को ₹107.50 करोड़ का नेट कलेक्शन किया था। सैकनिल्क के मुताबिक, यह भारतीय बॉक्स ऑफिस पर किसी भी फिल्म का अब तक का सबसे बड़ा पांचवें दिन का कलेक्शन है। इसने 'धुरंधर 2' के ₹65 करोड़ के रिकॉर्ड को पीछे छोड़ दिया।
+
+5. हिंदी में 700 करोड़ क्लब तक पहुंचने वाली दूसरी सबसे तेज फिल्म
+
+सैकनिल्क के रिकॉर्ड के मुताबिक, फिल्म ने 18 दिनों में हिंदी वर्जन से ₹700 करोड़ का नेट कलेक्शन कर लिया था। ऐसा करने वाली यह दूसरी सबसे तेज हिंदी फिल्म बनी। इस मामले में 'धुरंधर 2' पहले नंबर पर है।
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/entertainment/bollywood/news/ramayan-movie-box-office-collection-ranbir-kapoor-yash-record-139821524.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `भारत में ₹1000 करोड़+ कमाने वाली 'रामायण' दूसरी बॉलीवुड मूवी: 23वें दिन वर्ल्डवाइड कलेक्शन ₹1,790 करोड़; कल... - Dainik Bhaskar`,
+    summary_hi: `रणबीर कपूर, यश और साई पल्लवी स्टारर फिल्म 'रामायण' ने बॉक्स ऑफिस पर नया इतिहास रच दिया है। रिलीज के 23 दिन में भारत में ₹1,000 करोड़ नेट कलेक्शन का आंकड़ा पार कर लिया है।`,
+    content_hi: `रणबीर कपूर, यश और साई पल्लवी स्टारर फिल्म 'रामायण' ने बॉक्स ऑफिस पर नया इतिहास रच दिया है। रिलीज के 23 दिन में भारत में ₹1,000 करोड़ नेट कलेक्शन का आंकड़ा पार कर लिया है।
+
+इसके साथ ही यह भारत में सबसे ज्यादा कमाई करने वाली दूसरी बॉलीवुड फिल्म बन गई है। हालांकि, सभी भारतीय फिल्मों की कमाई के मामले में यह चौथे नंबर पर है।
+
+सैकनिल्क के मुताबिक, फिल्म ने 23वें दिन भारत में ₹8.45 करोड़ का नेट कलेक्शन किया। इसके साथ ही भारत में फिल्म की कुल कमाई ₹1,000.55 करोड़ हो गई है।
+
+बॉक्स ऑफिस पर 23 दिन के बाद फिल्म का इंडिया ग्रॉस कलेक्शन ₹1,195.10 करोड़ पहुंच गया है। वहीं, वर्ल्डवाइड ग्रॉस कलेक्शन ₹1,790.10 करोड़ हो गया है।
+
+'रामायणः पार्ट-1' ने बनाए ये बड़े रिकॉर्ड
+
+1. इंडिया में 1000 करोड़ नेट कमाने वाली दूसरी बॉलीवुड फिल्म
+
+'रामायण' भारत में 1000 करोड़ रुपए का नेट कलेक्शन करने वाली दूसरी बॉलीवुड फिल्म बन गई है। इससे पहले रणवीर सिंह स्टारर 'धुरंधर 2' ने यह रिकॉर्ड बनाया था। वहीं, सभी इंडियन फिल्मों की बात करें तो 'रामायण' इस आंकड़े तक पहुंचने वाली चौथी फिल्म है। इससे पहले 'बाहुबली 2', 'पुष्पा 2' और 'धुरंधर 2' यह उपलब्धि हासिल कर चुकी हैं।
+
+2. पुष्पा-2 को पछाड़ा, सबसे ज्यादा कमाई करने वाली तीसरी भारतीय
+
+रामायणः पार्ट-1 ने 23वें दिन वर्ल्डवाइड 1790 करोड़ का कलेक्शन कर लिया है। ये फिल्म अब सबसे ज्यादा कमाई करने वाली तीसरी भारतीय फिल्म बन चुकी है। इसने पुष्पा 2 (1742 करोड़) और बाहुबली 2 (1788 करोड़) का भी रिकॉर्ड तोड़ दिया है। हालांकि, दंगल और धुरंधर 2 अब भी इससे आगे हैं।
+
+3. 2026 की सबसे ज्यादा कमाई करने वाली दूसरी बनी
+
+रामायणः पार्ट- 1, इस साल की दूसरी सबसे ज्यादा कमाई करने वाली फिल्म भी बन चुकी है। इसने पहले वीकेंड के कलेक्शन से ही अजय देवगन की दृष्यम-3 के 577 करोड़ कलेक्शन को पीछे कर दिया था।
+
+4. पांचवें दिन सबसे ज्यादा कमाई करने वाली फिल्म
+
+फिल्म ने रिलीज के पांचवें दिन यानी 9 नवंबर को ₹107.50 करोड़ का नेट कलेक्शन किया था। सैकनिल्क के मुताबिक, यह भारतीय बॉक्स ऑफिस पर किसी भी फिल्म का अब तक का सबसे बड़ा पांचवें दिन का कलेक्शन है। इसने 'धुरंधर 2' के ₹65 करोड़ के रिकॉर्ड को पीछे छोड़ दिया।
+
+5. हिंदी में 700 करोड़ क्लब तक पहुंचने वाली दूसरी सबसे तेज फिल्म
+
+सैकनिल्क के रिकॉर्ड के मुताबिक, फिल्म ने 18 दिनों में हिंदी वर्जन से ₹700 करोड़ का नेट कलेक्शन कर लिया था। ऐसा करने वाली यह दूसरी सबसे तेज हिंदी फिल्म बनी। इस मामले में 'धुरंधर 2' पहले नंबर पर है।
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/entertainment/bollywood/news/ramayan-movie-box-office-collection-ranbir-kapoor-yash-record-139821524.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक भारत में ₹1000 करोड़+ कमाने वाली 'रामायण' दूसरी बॉलीवुड मूवी: 23वें दिन वर्ल्डवाइड कलेक्शन ₹1,790 करोड़; कल... - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+  {
+    id: 200,
+    title: `From ‘Ramayana’ to ‘Suzume’: How Indian cinephiles are embracing Japanese cinema`,
+    slug: `from-ramayana-to-suzume-how-indian-cinephiles-are-embracing-japanese-c-2026`,
+    original_title: `From ‘Ramayana’ to ‘Suzume’: How Indian cinephiles are embracing Japanese cinema`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `10 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:15:06Z`,
+    updated_at: `2026-11-28T08:15:06Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/entertainment/movies/ramayana-suzume-japanese-film-festival-japan-foundation-chennai-jff-2026/article71734816.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/from-ramayana-to-suzume-how-indian-cinephiles-are-embracing-japanese-c-2026.jpg`,
+    image_alt: `From ‘Ramayana’ to ‘Suzume’: How Indian cinephiles are embracing Japanese cinema`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `“I wish more people watched anime in India; I hate that many liken the genre to cartoons meant for children” — this sentiment, expressed by a friend back in 2018, came back to me this weekend as I witnessed first-hand the enthusiasm with wh`,
+    content: `“I wish more people watched anime in India; I hate that many liken the genre to cartoons meant for children” — this sentiment, expressed by a friend back in 2018, came back to me this weekend as I witnessed first-hand the enthusiasm with which a Chennai audience embraced Japanese cinema.
+
+The Chennai edition of The Japan Foundation’s Japanese Film Festival was yet another reminder that Indian audiences are increasingly looking beyond their familiar cinematic borders. https://www.thehindu.com/news/cities/chennai/ story Here’s where you can watch Japanese movies on a big screen in Chennai  The JFF — held on November 21 and 22 at the PVR INOX theatre in Express Avenue mMall — is evidence that this East Asian wave isn’t stopping anytime soon.
+
+Over the years, appetite for Japanese anime has risen in India, with streaming platforms like Netflix and Crunchyroll bringing the world of anime a little closer. Kurumi Otake, director, of Arts and Culture (Arts and Cultural Exchange) at The Japan Foundation, New Delhi, believes the shift in consumer behaviour during the COVID-19 lockdown played a major role.
+
+“People started watching movies on streaming platforms and eventually discovered anime series. They discovered the sheer variety of content out there — not just older, established anime, but also newer series made for the next generation. And when these films began arriving in theatres, audiences started turning up for them as well,” she says.
+
+The 28-year-old Chennai-based dentist Ananya Rai, 28, believes this has been true of Asian cinema as a whole. “I picked up anime much earlier in my childhood due to the shows on Cartoon Network. But ever since Korean dramas became popular, Asian cinema started picking up speed,” she says.
+
+Chennai-based cosplayer Lux has found a home in anime. “I love the story-building, and I feel animation lends more scope to filmmakers to portray what they think. I feel more connected with the characters,” she says. ‘Godzilla Minus Zero’ movie review: A stupendous Second Coming for the greatest to ever do it ‘Godzilla Minus Zero’ movie review: A stupendous Second Coming for the greatest to ever do it Takashi Yamazaki’s earth-shattering sequel doubles the nuclear reckoning and gives it straight back to Oppenheimer, wrapped in godlike spectacle and searing anti-imperial commentary ‘Godzilla Minus Zero’ movie review: A stupendous Second Coming for the greatest to ever do it storyline 1 Today, anime is one of the most popular international genres on streaming platforms and in theatres.
+
+Just last year, Demon Slayer: Kimetsu no Yaiba – Infinity Castle became the highest-grossing anime film in India, reportedly collecting ₹75 crore. Several pop-culture events have also sprung up over the last two years, with successive Comic Con editions reflecting the growing fanfare for anime.
+
+“The number of pop-culture-related events has doubled or tripled over the past few years, and a lot of this growth has been community-driven,” says Kurumi. Stars like Rajinikanth enjoy tremendous fan following in Japan. So, is there something more to this mutual admiration? Kurumi believes both Indian and Japanese audiences are driven by fandoms.
+
+“I wouldn’t say the connection is quite as strong as it is in India, but Japan, too, has this sense of community built around cinema.” She also wonders if Indian audiences might find an unlikely familiarity in the heightened emotionality of some Japanese films. “Japanese films sometimes take a considerable amount of time to express a single emotion.
+
+Your Name, by Makoto Shinkai, is a good example. I remember an Indian audience member telling me that the film felt like an Indian film, particularly in the way the story unfolded. It takes its time, but there’s something grand about how it builds towards and expresses a single emotion.
+
+Perhaps it’s not something an Indian audience consciously recognises, but there’s a similarity that resonates somewhere deep inside,” she says. Love and time: Here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watch list storyline 1 Otakus, assemble: How anime is witnessing a cultural revolution in India Otakus, assemble: How anime is witnessing a cultural revolution in India  With a plethora of streaming platforms offering a smorgasbord of anime, as well as a growing grassroots movement bringing major anime titles to the big screen, the barrier to entry has never been lower for aspiring otakus in India Otakus, assemble: How anime is witnessing a cultural revolution in India  storyline 1 The story is quite different with Japanese live-action films.
+
+Kurumi says a distribution channel for Japanese live-action cinema hasn’t been established yet. “Japanese are very cautious about bringing their cinema abroad because, firstly, they are mostly made for Japanese audiences, and secondly, they are concerned about piracy.” Japanese studios are aware of Indian audiences having access to films that weren’t officially distributed in the country, she adds.
+
+“Piracy may not originate from India, but then it spreads quite easily. So they are afraid.” While several Western countries have licences to distribute Japanese films, India is yet to open up fully to foreign cinema, says Kurumi. “Indians people aren’t used to watching international films.
+
+Even Hollywood films are less popular because the Indian film industry is too huge.”” Rashmika Mandanna interview: On the Crunchyroll Anime Awards 2026, growing up with Naruto and learning emotion through anime Rashmika Mandanna interview: On the Crunchyroll Anime Awards 2026, growing up with Naruto and learning emotion through anime Returning to the Crunchyroll Anime Awards 2026 in Tokyo, the actor traces her anime journey from learning life lessons through ‘Naruto: Shippuden’, to trying to convert Vijay Deverakonda into a weeb Rashmika Mandanna interview: On the Crunchyroll Anime Awards 2026, growing up with Naruto and learning emotion through anime storyline 1 ‘Ramayana’ and Makoto Shinkai’s films shine at JFF Chennai The festival’s biggest crowd-puller was Ramayana: The Legend of Prince Rama, the 1993 Indo-Japanese adaptation of the Ramayana.
+
+The anime film, directed by Yugo Sako (who co-directed with Koichi Sasaki and Ram Mohan), has attracted a cult following over the years — so much so that comparisons were made when producer Namit Malhotra’s recent ₹4,000-crore magnum opus was released in theatres. A fan sitting alongside me seemed eager to introduce his childhood favourite to his young son.
+
+“It’s his first film in a theatre,” I overheard him saying. The loud cheers that greeted lord Ram and Hanuman were reminiscent of the reception reserved for modern-day live-action superstars.” And I could see the appeal; the beauty of those hand-drawn outlines is bound to outlast everyone in the audience.
+
+It struck me how, for those two hours, lord Ram looked lighter, almost ethereal, shedding the weight of what he is increasingly made to represent in today’s heavily politicised Hindutva discourse. A monologue by Lord Ram about the value of human life and why one must respect even one’s enemies could tear through the clouds of politicised hatred that have smudged his memory in modern times.
+
+‘Ramayana: Part 1’ movie review: Ranbir Kapoor and Yash excel as Ravana outshines Rama on screen storyline 1 ‘Ramayana’ crosses Rs 1000 crore at domestic box office, earns over Rs 1600 crore globally ‘Ramayana’ crosses Rs 1000 crore at domestic box office, earns over Rs 1600 crore globally The film is directed by Nitesh Tiwari and is produced by Namit Malhotra's Prime Focus Studios in collaboration with DNEG and Yash's Monster Mind Creations.
+
+‘Ramayana’ crosses Rs 1000 crore at domestic box office, earns over Rs 1600 crore globally storyline 1 Other big draws of the weekend were two fan-favourite anime films directed by Japanese filmmaker Makoto Shinkai — The Place Promised in Our Early Days and Suzume. The reception for 2022’s Suzume wasn’t a surprise — tickets for the screening sold out in a mad rush — but Shinkai’s 2004 debut film proved to be an unexpected draw.
+
+Many, like Ananya, walked in blindly and were visibly rewarded. “I thought it was a romance film, based on the poster, but I didn’t expect the sci-fi element,” says Ananya, adding that the themes of parallel universes and shared trauma touched her. In this Shinkai dreamscape, a reality-altering tower becomes a monolithic symbol of how what one seeks to escape from can also become a part of who they are.
+
+The film takes the viewer into a world shaped by an alternate historical event — what if the Soviet Union had managed to occupy the island of Hokkaido during the Soviet–Japanese War in 1945? And what if a tower built by the Union threatened to replace matter around it with matter from other universes?
+
+We follow two childhood friends — Hiroki Fujisawa and Takuya Shirakawa — who must reunite to save their mutual friend, Sayuri Sawatari, who might hold the key to saving their universe from eternal doom. As Ananya puts it, “They haven’t been able to rescue her (Sayuri) because they were running away from the thing that brought them together in the first place; that hit me.” The Makoto Shinkai interview: On ‘Suzume’ and the universal language of his films storyline 1 ‘Suzume’ movie review: Makoto Shinkai explores love and loss in breathless road trip anime video 1 Watch | In conversation with director Makoto Shinkai Watch | In conversation with director Makoto Shinkai The legendary Japanese director, behind blockbuster anime features like ‘Your Name’ and ‘Weathering with You,’ talks about his latest film that is inspired by the 2011 Tōhoku earthquake and tsunami The Makoto Shinkai interview: On ‘Suzume’ and the universal language of his films storyline 1 Suzume, as expected, left many weeping with its spectacularly human core.
+
+In the film, 17-year-old Suzume’s high school life takes an unexpected detour when she crosses paths with Souta, a mysterious young man tasked with shutting supernatural doors scattered across Japan. It’s a breathtakingly beautiful journey through abandoned landscapes, repressed emotions, and the ghosts of her own past.
+
+“Suzume connected to my childhood. I teared up at the ending, where she gets to hug her childhood self,” says Lux (who cosplayed as the titular character, armed with a prop of the iconic three-legged chair from the film), adding that she liked how the film portrayed the people of Japan coping with natural calamities and grieving the lives lost.
+
+Love and time: Here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watch list Love and time: Here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watch list What temporal dislocation and inherited grief tell us about manifesting intimacy — here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watchlist Ctrl+Alt+Cinema Love and time: Here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watch list storyline 1 While all these films were bound to attract crowds, the real surprise of the weekend was the 2025 live-action adaptation of the horror-comedy anime series, Mieruko-chan (The Girl Who Sees).
+
+The film is a hoot. It stars Suzume voice actor Nanoka Hara as a high school student who gains the supernatural ability to see spirits. The riotous horror film is funny and emotional. Ananya hopes more J-Horror films make their way to Indian theatres. “The Japanese make the best horror movies, that’s all I’ll say.
+
+I am not sure the Indian censor board will allow many of those horror films to be released in theatres, but if there is an opportunity to exhibit them, I feel people will really love them,” says Ananya. The two-day festival also saw several city-based cinephile clubs — like Chennai Anime Club, Chennai Film Club, Asia Culture Club and AniSync — helping the Japan Foundation connect with anime and film enthusiasts and assisting with on-field activities.
+
+The festival, which kicked off this year in New Delhi, will travel to Bengaluru next week, with audiences in Mumbai, Ahmedabad and Chandigarh set to experience it in successive weeks in December. My biggest takeaway from the weekend was that Japanese cinema no longer needs to be introduced to Chennai audiences as a niche interest.
+
+There is, clearly, an audience here willing to embrace stories from halfway across the world, provided they get to experience them on the big screen. Fans of Japanese cinema can watch films on JFF Theater, a global online streaming platform launched by The Japan Foundation to make Japanese cinema accessible to audiences around the world.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/entertainment/movies/ramayana-suzume-japanese-film-festival-japan-foundation-chennai-jff-2026/article71734816.ece)`,
+    title_en: `From ‘Ramayana’ to ‘Suzume’: How Indian cinephiles are embracing Japanese cinema`,
+    summary_en: `“I wish more people watched anime in India; I hate that many liken the genre to cartoons meant for children” — this sentiment, expressed by a friend back in 2018, came back to me this weekend as I witnessed first-hand the enthusiasm with wh`,
+    content_en: `“I wish more people watched anime in India; I hate that many liken the genre to cartoons meant for children” — this sentiment, expressed by a friend back in 2018, came back to me this weekend as I witnessed first-hand the enthusiasm with which a Chennai audience embraced Japanese cinema.
+
+The Chennai edition of The Japan Foundation’s Japanese Film Festival was yet another reminder that Indian audiences are increasingly looking beyond their familiar cinematic borders. https://www.thehindu.com/news/cities/chennai/ story Here’s where you can watch Japanese movies on a big screen in Chennai  The JFF — held on November 21 and 22 at the PVR INOX theatre in Express Avenue mMall — is evidence that this East Asian wave isn’t stopping anytime soon.
+
+Over the years, appetite for Japanese anime has risen in India, with streaming platforms like Netflix and Crunchyroll bringing the world of anime a little closer. Kurumi Otake, director, of Arts and Culture (Arts and Cultural Exchange) at The Japan Foundation, New Delhi, believes the shift in consumer behaviour during the COVID-19 lockdown played a major role.
+
+“People started watching movies on streaming platforms and eventually discovered anime series. They discovered the sheer variety of content out there — not just older, established anime, but also newer series made for the next generation. And when these films began arriving in theatres, audiences started turning up for them as well,” she says.
+
+The 28-year-old Chennai-based dentist Ananya Rai, 28, believes this has been true of Asian cinema as a whole. “I picked up anime much earlier in my childhood due to the shows on Cartoon Network. But ever since Korean dramas became popular, Asian cinema started picking up speed,” she says.
+
+Chennai-based cosplayer Lux has found a home in anime. “I love the story-building, and I feel animation lends more scope to filmmakers to portray what they think. I feel more connected with the characters,” she says. ‘Godzilla Minus Zero’ movie review: A stupendous Second Coming for the greatest to ever do it ‘Godzilla Minus Zero’ movie review: A stupendous Second Coming for the greatest to ever do it Takashi Yamazaki’s earth-shattering sequel doubles the nuclear reckoning and gives it straight back to Oppenheimer, wrapped in godlike spectacle and searing anti-imperial commentary ‘Godzilla Minus Zero’ movie review: A stupendous Second Coming for the greatest to ever do it storyline 1 Today, anime is one of the most popular international genres on streaming platforms and in theatres.
+
+Just last year, Demon Slayer: Kimetsu no Yaiba – Infinity Castle became the highest-grossing anime film in India, reportedly collecting ₹75 crore. Several pop-culture events have also sprung up over the last two years, with successive Comic Con editions reflecting the growing fanfare for anime.
+
+“The number of pop-culture-related events has doubled or tripled over the past few years, and a lot of this growth has been community-driven,” says Kurumi. Stars like Rajinikanth enjoy tremendous fan following in Japan. So, is there something more to this mutual admiration? Kurumi believes both Indian and Japanese audiences are driven by fandoms.
+
+“I wouldn’t say the connection is quite as strong as it is in India, but Japan, too, has this sense of community built around cinema.” She also wonders if Indian audiences might find an unlikely familiarity in the heightened emotionality of some Japanese films. “Japanese films sometimes take a considerable amount of time to express a single emotion.
+
+Your Name, by Makoto Shinkai, is a good example. I remember an Indian audience member telling me that the film felt like an Indian film, particularly in the way the story unfolded. It takes its time, but there’s something grand about how it builds towards and expresses a single emotion.
+
+Perhaps it’s not something an Indian audience consciously recognises, but there’s a similarity that resonates somewhere deep inside,” she says. Love and time: Here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watch list storyline 1 Otakus, assemble: How anime is witnessing a cultural revolution in India Otakus, assemble: How anime is witnessing a cultural revolution in India  With a plethora of streaming platforms offering a smorgasbord of anime, as well as a growing grassroots movement bringing major anime titles to the big screen, the barrier to entry has never been lower for aspiring otakus in India Otakus, assemble: How anime is witnessing a cultural revolution in India  storyline 1 The story is quite different with Japanese live-action films.
+
+Kurumi says a distribution channel for Japanese live-action cinema hasn’t been established yet. “Japanese are very cautious about bringing their cinema abroad because, firstly, they are mostly made for Japanese audiences, and secondly, they are concerned about piracy.” Japanese studios are aware of Indian audiences having access to films that weren’t officially distributed in the country, she adds.
+
+“Piracy may not originate from India, but then it spreads quite easily. So they are afraid.” While several Western countries have licences to distribute Japanese films, India is yet to open up fully to foreign cinema, says Kurumi. “Indians people aren’t used to watching international films.
+
+Even Hollywood films are less popular because the Indian film industry is too huge.”” Rashmika Mandanna interview: On the Crunchyroll Anime Awards 2026, growing up with Naruto and learning emotion through anime Rashmika Mandanna interview: On the Crunchyroll Anime Awards 2026, growing up with Naruto and learning emotion through anime Returning to the Crunchyroll Anime Awards 2026 in Tokyo, the actor traces her anime journey from learning life lessons through ‘Naruto: Shippuden’, to trying to convert Vijay Deverakonda into a weeb Rashmika Mandanna interview: On the Crunchyroll Anime Awards 2026, growing up with Naruto and learning emotion through anime storyline 1 ‘Ramayana’ and Makoto Shinkai’s films shine at JFF Chennai The festival’s biggest crowd-puller was Ramayana: The Legend of Prince Rama, the 1993 Indo-Japanese adaptation of the Ramayana.
+
+The anime film, directed by Yugo Sako (who co-directed with Koichi Sasaki and Ram Mohan), has attracted a cult following over the years — so much so that comparisons were made when producer Namit Malhotra’s recent ₹4,000-crore magnum opus was released in theatres. A fan sitting alongside me seemed eager to introduce his childhood favourite to his young son.
+
+“It’s his first film in a theatre,” I overheard him saying. The loud cheers that greeted lord Ram and Hanuman were reminiscent of the reception reserved for modern-day live-action superstars.” And I could see the appeal; the beauty of those hand-drawn outlines is bound to outlast everyone in the audience.
+
+It struck me how, for those two hours, lord Ram looked lighter, almost ethereal, shedding the weight of what he is increasingly made to represent in today’s heavily politicised Hindutva discourse. A monologue by Lord Ram about the value of human life and why one must respect even one’s enemies could tear through the clouds of politicised hatred that have smudged his memory in modern times.
+
+‘Ramayana: Part 1’ movie review: Ranbir Kapoor and Yash excel as Ravana outshines Rama on screen storyline 1 ‘Ramayana’ crosses Rs 1000 crore at domestic box office, earns over Rs 1600 crore globally ‘Ramayana’ crosses Rs 1000 crore at domestic box office, earns over Rs 1600 crore globally The film is directed by Nitesh Tiwari and is produced by Namit Malhotra's Prime Focus Studios in collaboration with DNEG and Yash's Monster Mind Creations.
+
+‘Ramayana’ crosses Rs 1000 crore at domestic box office, earns over Rs 1600 crore globally storyline 1 Other big draws of the weekend were two fan-favourite anime films directed by Japanese filmmaker Makoto Shinkai — The Place Promised in Our Early Days and Suzume. The reception for 2022’s Suzume wasn’t a surprise — tickets for the screening sold out in a mad rush — but Shinkai’s 2004 debut film proved to be an unexpected draw.
+
+Many, like Ananya, walked in blindly and were visibly rewarded. “I thought it was a romance film, based on the poster, but I didn’t expect the sci-fi element,” says Ananya, adding that the themes of parallel universes and shared trauma touched her. In this Shinkai dreamscape, a reality-altering tower becomes a monolithic symbol of how what one seeks to escape from can also become a part of who they are.
+
+The film takes the viewer into a world shaped by an alternate historical event — what if the Soviet Union had managed to occupy the island of Hokkaido during the Soviet–Japanese War in 1945? And what if a tower built by the Union threatened to replace matter around it with matter from other universes?
+
+We follow two childhood friends — Hiroki Fujisawa and Takuya Shirakawa — who must reunite to save their mutual friend, Sayuri Sawatari, who might hold the key to saving their universe from eternal doom. As Ananya puts it, “They haven’t been able to rescue her (Sayuri) because they were running away from the thing that brought them together in the first place; that hit me.” The Makoto Shinkai interview: On ‘Suzume’ and the universal language of his films storyline 1 ‘Suzume’ movie review: Makoto Shinkai explores love and loss in breathless road trip anime video 1 Watch | In conversation with director Makoto Shinkai Watch | In conversation with director Makoto Shinkai The legendary Japanese director, behind blockbuster anime features like ‘Your Name’ and ‘Weathering with You,’ talks about his latest film that is inspired by the 2011 Tōhoku earthquake and tsunami The Makoto Shinkai interview: On ‘Suzume’ and the universal language of his films storyline 1 Suzume, as expected, left many weeping with its spectacularly human core.
+
+In the film, 17-year-old Suzume’s high school life takes an unexpected detour when she crosses paths with Souta, a mysterious young man tasked with shutting supernatural doors scattered across Japan. It’s a breathtakingly beautiful journey through abandoned landscapes, repressed emotions, and the ghosts of her own past.
+
+“Suzume connected to my childhood. I teared up at the ending, where she gets to hug her childhood self,” says Lux (who cosplayed as the titular character, armed with a prop of the iconic three-legged chair from the film), adding that she liked how the film portrayed the people of Japan coping with natural calamities and grieving the lives lost.
+
+Love and time: Here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watch list Love and time: Here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watch list What temporal dislocation and inherited grief tell us about manifesting intimacy — here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watchlist Ctrl+Alt+Cinema Love and time: Here’s why ‘Your Name’ and ‘Petite Maman’ should be on your watch list storyline 1 While all these films were bound to attract crowds, the real surprise of the weekend was the 2025 live-action adaptation of the horror-comedy anime series, Mieruko-chan (The Girl Who Sees).
+
+The film is a hoot. It stars Suzume voice actor Nanoka Hara as a high school student who gains the supernatural ability to see spirits. The riotous horror film is funny and emotional. Ananya hopes more J-Horror films make their way to Indian theatres. “The Japanese make the best horror movies, that’s all I’ll say.
+
+I am not sure the Indian censor board will allow many of those horror films to be released in theatres, but if there is an opportunity to exhibit them, I feel people will really love them,” says Ananya. The two-day festival also saw several city-based cinephile clubs — like Chennai Anime Club, Chennai Film Club, Asia Culture Club and AniSync — helping the Japan Foundation connect with anime and film enthusiasts and assisting with on-field activities.
+
+The festival, which kicked off this year in New Delhi, will travel to Bengaluru next week, with audiences in Mumbai, Ahmedabad and Chandigarh set to experience it in successive weeks in December. My biggest takeaway from the weekend was that Japanese cinema no longer needs to be introduced to Chennai audiences as a niche interest.
+
+There is, clearly, an audience here willing to embrace stories from halfway across the world, provided they get to experience them on the big screen. Fans of Japanese cinema can watch films on JFF Theater, a global online streaming platform launched by The Japan Foundation to make Japanese cinema accessible to audiences around the world.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/entertainment/movies/ramayana-suzume-japanese-film-festival-japan-foundation-chennai-jff-2026/article71734816.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for From ‘Ramayana’ to ‘Suzume’: How Indian cinephiles are embracing Japanese cinema.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 201,
+    title: `बाहुबली 2' का नौ साल पुराना रिकॉर्ड तोड़ेगी 'रामायण'! | The Lallantop - The Lallantop`,
+    slug: `2-the-lallantop-the-lallantop-2026`,
+    original_title: `बाहुबली 2' का नौ साल पुराना रिकॉर्ड तोड़ेगी 'रामायण'! | The Lallantop - The Lallantop`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T08:15:11Z`,
+    updated_at: `2026-11-28T08:15:11Z`,
+    source_name: `The Lallantop`,
+    source_url: `https://www.thelallantop.com/entertainment/post/ramayana-set-to-end-baahubali-2-nine-year-reign-at-the-box-office`,
+    source_courtesy: `Source: The Lallantop`,
+    image_url: `/images/articles/2-the-lallantop-the-lallantop-2026.webp`,
+    image_alt: `बाहुबली 2' का नौ साल पुराना रिकॉर्ड तोड़ेगी 'रामायण'! | The Lallantop - The Lallantop`,
+    image_courtesy: `Image: The Lallantop (External Source Attribution)`,
+    image_photographer: `The Lallantop`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `Ramayana क्या Baahubali 2 की नौ साल पुरानी बादशाहत खत्म करने वाली है? FarhanAkhtar ने किस फिल्म की शूटिंग शुरू कर दी? क्या Dhanush और Anand L Rai फिर से साथफिल्म बना रहे हैं? सिनेमा से जुड़ी ऐसी ही खबरों के लिए नीचे स्क्रॉल करें.# 'बाहुबली `,
+    content: `Ramayana क्या Baahubali 2 की नौ साल पुरानी बादशाहत खत्म करने वाली है? FarhanAkhtar ने किस फिल्म की शूटिंग शुरू कर दी? क्या Dhanush और Anand L Rai फिर से साथफिल्म बना रहे हैं? सिनेमा से जुड़ी ऐसी ही खबरों के लिए नीचे स्क्रॉल करें.# 'बाहुबली 2' की बादशाहत खत्म करेगी 'रामायण''रामायण' बॉक्स ऑफिस पर एक और इतिहास रचने से सिर्फ 11.06 करोड़ रुपए दूर है.सैकनिल्क की रिपोर्ट के मुताबिक, फिल्म ने रिलीज़ के 22 दिनों में वर्ल्डवाइड 1777करोड़ रुपए कमा लिए हैं.
+
+जबकि SS राजामौली की 'बाहुबली 2' का लाइफटाइम कलेक्शन1788.06 करोड़ रुपए था. यानी 23वें दिन 'रामायण' इस आंकड़े को पार कर सकती है. ऐसाकरते ही ये वर्ल्डवाइड सबसे ज्यादा कमाई करने वाली भारतीय फिल्मों की लिस्ट मेंतीसरे नंबर पर पहुंच जाएगी. फिलहाल इससे आगे 'धुरंधर 2' और 'दंगल' हैं.# सुकेश चंद्रशेखर पर बनेगी डॉक्यूमेंट्रीकॉनमैन सुकेश चंद्रशेखर की करोड़ों की ठगी और बॉलीवुड कनेक्शन की पूरी कहानी अबनेटफ्लिक्स पर देखने को मिलेगी.
+
+प्लेटफ़ॉर्म ने अपनी नई डॉक्यूमेंट्री 'लव, स्कैम औरधोखा: द सुकेश चंद्रशेखर स्टोरी' अनाउंस कर दी है. इंडिया टुडे ओरिजिनल्स केप्रोडक्शन में बनी इस डॉक्यूमेंट्री को मौमिता सेन और नियंथा शेखर ने डायरेक्ट कियाहै. इसे 18 दिसंबर को रिलीज़ किया जाएगा.View this post on InstagramA post shared by Netflix India (@netflix_in)# दिग्गज प्रोड्यूसर जेराल्ड आर मोलेन का निधनहॉलीवुड के दिग्गज प्रोड्यूसर जेराल्ड आर मोलेन का 91 साल की उम्र में निधन हो गया.उन्होंने 23 नवंबर 2026 को अंतिम सांस ली.
+
+मोलेन को स्टीवन स्पीलबर्ग की ऑस्करविनिंग फिल्म 'शिंडलर्स लिस्ट' को प्रोड्यूस करने के लिए जाना जाता है. उसके लिएउन्हें बेस्ट पिक्चर का ऑस्कर मिला था.# फरहान अख्तर ने शुरू की आरडी बर्मन की बायोपिकफरहान अख्तर की आरडी बर्मन वाली बायोपिक की शूटिंग शुरू हो गई है. नीरज पांडे केडायरेक्शन में बन रही इस फिल्म की शुरुआत मुंबई में एक बड़े गाने की शूटिंग के साथहुई है.
+
+इस गाने को गणेश आचार्य कोरियोग्राफ कर रहे हैं. शूटिंग का मौजूदा शेड्यूलदिसंबर के आखिर तक चलेगा. फिल्म में फरहान, दिग्गज संगीतकार आरडी बर्मन यानी पंचमदा का रोल कर रहे हैं. इससे पहले खबर आई थी कि अक्षय कुमार इसमें सुपरस्टार राजेशखन्ना के रोल में नज़र आएंगे.# नवाज़ुद्दीन की 'डॉक्टर हसन' का ट्रेलर रिलीज़नवाज़ुद्दीन सिद्दीकी की वेब सीरीज 'डॉक्टर हसन' का ट्रेलर रिलीज़ हो गया है.
+
+येअमेरिकन मेडिकल ड्रामा 'हाउस' का इंडियन अडेप्टेशन है. इसमें नवाज़ एक ऐसे मेडिकलजीनियस का किरदार निभा रहे, जो उन बीमारियों की पहचान कर लेते हैं जिन्हें बाकीडॉक्टर समझ नहीं पाते. लेकिन उनका अजीबोगरीब अंदाज अस्पताल में उनके साथियों के लिएमुसीबत बन जाता है. सीरीज़ में उनके साथ दीया मिर्ज़ा भी नज़र आएंगी.
+
+रोहन सिप्पी केडायरेक्शन में बना ये शो 11 दिसंबर से जियो हॉटस्टार पर देखा जा सकेगा.# धनुष और आनंद एल राय बनाएंगे पीरियड एक्शन फिल्मआनंद एल राय और धनुष एक बार फिर साथ काम करने जा रहे हैं. वैरायटी इंडिया कीरिपोर्ट के मुताबिक, दोनों एक लार्ज स्केल रोमैंटिक पीरियड एक्शन ड्रामा मूवी केलिए चौथी बार साथ आ रहे.
+
+इससे पहले ये जोड़ी 'रांझणा', 'अतरंगी रे' और 'तेरे इश्कमें' जैसी फिल्में बना चुकी है. इस नई मूवी की शूटिंग 2027 के मिड से शुरू होने कीउम्मीद है. इसमें जर्मन एक्शन डायरेक्टर स्टीफन रिचर भी योगदान देंगे. फिलहाल इसकीकास्ट और कहानी का खुलासा नहीं हुआ है.
+
+---
+
+**मूल स्रोत (Original Source):** [The Lallantop](https://www.thelallantop.com/entertainment/post/ramayana-set-to-end-baahubali-2-nine-year-reign-at-the-box-office)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `बाहुबली 2' का नौ साल पुराना रिकॉर्ड तोड़ेगी 'रामायण'! | The Lallantop - The Lallantop`,
+    summary_hi: `Ramayana क्या Baahubali 2 की नौ साल पुरानी बादशाहत खत्म करने वाली है? FarhanAkhtar ने किस फिल्म की शूटिंग शुरू कर दी? क्या Dhanush और Anand L Rai फिर से साथफिल्म बना रहे हैं? सिनेमा से जुड़ी ऐसी ही खबरों के लिए नीचे स्क्रॉल करें.# 'बाहुबली `,
+    content_hi: `Ramayana क्या Baahubali 2 की नौ साल पुरानी बादशाहत खत्म करने वाली है? FarhanAkhtar ने किस फिल्म की शूटिंग शुरू कर दी? क्या Dhanush और Anand L Rai फिर से साथफिल्म बना रहे हैं? सिनेमा से जुड़ी ऐसी ही खबरों के लिए नीचे स्क्रॉल करें.# 'बाहुबली 2' की बादशाहत खत्म करेगी 'रामायण''रामायण' बॉक्स ऑफिस पर एक और इतिहास रचने से सिर्फ 11.06 करोड़ रुपए दूर है.सैकनिल्क की रिपोर्ट के मुताबिक, फिल्म ने रिलीज़ के 22 दिनों में वर्ल्डवाइड 1777करोड़ रुपए कमा लिए हैं.
+
+जबकि SS राजामौली की 'बाहुबली 2' का लाइफटाइम कलेक्शन1788.06 करोड़ रुपए था. यानी 23वें दिन 'रामायण' इस आंकड़े को पार कर सकती है. ऐसाकरते ही ये वर्ल्डवाइड सबसे ज्यादा कमाई करने वाली भारतीय फिल्मों की लिस्ट मेंतीसरे नंबर पर पहुंच जाएगी. फिलहाल इससे आगे 'धुरंधर 2' और 'दंगल' हैं.# सुकेश चंद्रशेखर पर बनेगी डॉक्यूमेंट्रीकॉनमैन सुकेश चंद्रशेखर की करोड़ों की ठगी और बॉलीवुड कनेक्शन की पूरी कहानी अबनेटफ्लिक्स पर देखने को मिलेगी.
+
+प्लेटफ़ॉर्म ने अपनी नई डॉक्यूमेंट्री 'लव, स्कैम औरधोखा: द सुकेश चंद्रशेखर स्टोरी' अनाउंस कर दी है. इंडिया टुडे ओरिजिनल्स केप्रोडक्शन में बनी इस डॉक्यूमेंट्री को मौमिता सेन और नियंथा शेखर ने डायरेक्ट कियाहै. इसे 18 दिसंबर को रिलीज़ किया जाएगा.View this post on InstagramA post shared by Netflix India (@netflix_in)# दिग्गज प्रोड्यूसर जेराल्ड आर मोलेन का निधनहॉलीवुड के दिग्गज प्रोड्यूसर जेराल्ड आर मोलेन का 91 साल की उम्र में निधन हो गया.उन्होंने 23 नवंबर 2026 को अंतिम सांस ली.
+
+मोलेन को स्टीवन स्पीलबर्ग की ऑस्करविनिंग फिल्म 'शिंडलर्स लिस्ट' को प्रोड्यूस करने के लिए जाना जाता है. उसके लिएउन्हें बेस्ट पिक्चर का ऑस्कर मिला था.# फरहान अख्तर ने शुरू की आरडी बर्मन की बायोपिकफरहान अख्तर की आरडी बर्मन वाली बायोपिक की शूटिंग शुरू हो गई है. नीरज पांडे केडायरेक्शन में बन रही इस फिल्म की शुरुआत मुंबई में एक बड़े गाने की शूटिंग के साथहुई है.
+
+इस गाने को गणेश आचार्य कोरियोग्राफ कर रहे हैं. शूटिंग का मौजूदा शेड्यूलदिसंबर के आखिर तक चलेगा. फिल्म में फरहान, दिग्गज संगीतकार आरडी बर्मन यानी पंचमदा का रोल कर रहे हैं. इससे पहले खबर आई थी कि अक्षय कुमार इसमें सुपरस्टार राजेशखन्ना के रोल में नज़र आएंगे.# नवाज़ुद्दीन की 'डॉक्टर हसन' का ट्रेलर रिलीज़नवाज़ुद्दीन सिद्दीकी की वेब सीरीज 'डॉक्टर हसन' का ट्रेलर रिलीज़ हो गया है.
+
+येअमेरिकन मेडिकल ड्रामा 'हाउस' का इंडियन अडेप्टेशन है. इसमें नवाज़ एक ऐसे मेडिकलजीनियस का किरदार निभा रहे, जो उन बीमारियों की पहचान कर लेते हैं जिन्हें बाकीडॉक्टर समझ नहीं पाते. लेकिन उनका अजीबोगरीब अंदाज अस्पताल में उनके साथियों के लिएमुसीबत बन जाता है. सीरीज़ में उनके साथ दीया मिर्ज़ा भी नज़र आएंगी.
+
+रोहन सिप्पी केडायरेक्शन में बना ये शो 11 दिसंबर से जियो हॉटस्टार पर देखा जा सकेगा.# धनुष और आनंद एल राय बनाएंगे पीरियड एक्शन फिल्मआनंद एल राय और धनुष एक बार फिर साथ काम करने जा रहे हैं. वैरायटी इंडिया कीरिपोर्ट के मुताबिक, दोनों एक लार्ज स्केल रोमैंटिक पीरियड एक्शन ड्रामा मूवी केलिए चौथी बार साथ आ रहे.
+
+इससे पहले ये जोड़ी 'रांझणा', 'अतरंगी रे' और 'तेरे इश्कमें' जैसी फिल्में बना चुकी है. इस नई मूवी की शूटिंग 2027 के मिड से शुरू होने कीउम्मीद है. इसमें जर्मन एक्शन डायरेक्टर स्टीफन रिचर भी योगदान देंगे. फिलहाल इसकीकास्ट और कहानी का खुलासा नहीं हुआ है.
+
+---
+
+**मूल स्रोत (Original Source):** [The Lallantop](https://www.thelallantop.com/entertainment/post/ramayana-set-to-end-baahubali-2-nine-year-reign-at-the-box-office)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट The Lallantop के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक बाहुबली 2' का नौ साल पुराना रिकॉर्ड तोड़ेगी 'रामायण'! | The Lallantop - The Lallantop से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `The Lallantop`,
+  },
+{
     id: 184,
     title: `2027 World Cup venue at Victoria Falls stages first official match`,
     slug: `2027-world-cup-venue-at-victoria-falls-stages-first-official-matc-2026`,
