@@ -2,7 +2,1438 @@ import { Article } from "../types/news";
 
 export const SEED_ARTICLES: Article[] = [
 
+  
+  
   {
+    id: 130,
+    title: `New Zealand pacers run riot as India stumble on second day`,
+    slug: `new-zealand-pacers-run-riot-as-india-stumble-on-second-day-2026`,
+    original_title: `New Zealand pacers run riot as India stumble on second day`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:02:36Z`,
+    updated_at: `2026-11-28T06:02:36Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564515.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `New Zealand pacers run riot as India stumble on second day`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `Akash Deep took five wickets to bowl New Zealand out for 356 but India are still 240 runs adrift`,
+    content: `Akash Deep took five wickets to bowl New Zealand out for 356 but India are still 240 runs adrift
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564515.html?ex_cid=OTC-RSS)`,
+    title_en: `New Zealand pacers run riot as India stumble on second day`,
+    summary_en: `Akash Deep took five wickets to bowl New Zealand out for 356 but India are still 240 runs adrift`,
+    content_en: `Akash Deep took five wickets to bowl New Zealand out for 356 but India are still 240 runs adrift
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564515.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-india-vs-new-zealand-2026`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-28 11:32:36 IST`,
+    detected_at: `2026-11-28T06:02:35Z`,
+    verified_at: `2026-11-28T06:02:36Z`,
+    approved_at: `2026-11-28T06:02:36Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding New Zealand pacers run riot as India stumble on second day.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 131,
+    title: `Clayton and Rocchiccioli named in Australia Test squad for New Zealand series`,
+    slug: `clayton-and-rocchiccioli-named-in-australia-test-squad-for-new-ze-2026`,
+    original_title: `Clayton and Rocchiccioli named in Australia Test squad for New Zealand series`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:02:36Z`,
+    updated_at: `2026-11-28T06:02:36Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564482.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1517649763962-0c623266ddc0?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Clayton and Rocchiccioli named in Australia Test squad for New Zealand series`,
+    image_courtesy: `Photo: Stadium Photography Wire (Unsplash License)`,
+    image_photographer: `Stadium Photography Wire`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `The selectors have left one spot open to be filled after the next round of Sheffield Shield matches`,
+    content: `The selectors have left one spot open to be filled after the next round of Sheffield Shield matches
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564482.html?ex_cid=OTC-RSS)`,
+    title_en: `Clayton and Rocchiccioli named in Australia Test squad for New Zealand series`,
+    summary_en: `The selectors have left one spot open to be filled after the next round of Sheffield Shield matches`,
+    content_en: `The selectors have left one spot open to be filled after the next round of Sheffield Shield matches
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564482.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-australia-vs-new-zealand-2026`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Official Squad Announcement`,
+    score_verified_at: `2026-11-28 11:32:36 IST`,
+    detected_at: `2026-11-28T06:02:35Z`,
+    verified_at: `2026-11-28T06:02:36Z`,
+    approved_at: `2026-11-28T06:02:36Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Clayton and Rocchiccioli named in Australia Test squad for New Zealand series.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 117,
+    title: `Two-thirds of Indian adolescents have vitamin B12 deficiency: ICMR survey`,
+    slug: `two-thirds-of-indian-adolescents-have-vitamin-b12-deficiency-icmr-surv-2026`,
+    original_title: `Two-thirds of Indian adolescents have vitamin B12 deficiency: ICMR survey`,
+    category: `health`,
+    topic: `nutrition`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:02:14Z`,
+    updated_at: `2026-11-28T06:02:14Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://www.business-standard.com/amp/health/two-thirds-of-indian-adolescents-have-vitamin-b12-deficiency-icmr-survey-126112700664_1.html`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/two-thirds-of-indian-adolescents-have-vitamin-b12-deficiency-icmr-surv-2026.jpg`,
+    image_alt: `Two-thirds of Indian adolescents have vitamin B12 deficiency: ICMR survey`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `Nearly two-thirds of Indian adolescents have vitamin B12 deficiency, with the prevalence marginally higher among boys than girls, according to findings of a national survey conducted by the ICMR-National Institute of Nutrition (ICMR-NIN).Th`,
+    content: `Nearly two-thirds of Indian adolescents have vitamin B12 deficiency, with the prevalence marginally higher among boys than girls, according to findings of a national survey conducted by the ICMR-National Institute of Nutrition (ICMR-NIN).The survey found vitamin B12 deficiency in 66.1 per cent of adolescent boys aged 10-19 years and 65.4 per cent of girls in the same age group.
+
+Deficiency was defined as a serum vitamin B12 level below 203 pg/mL.The findings are part of the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA), conducted during 2023-25 to generate national estimates of anaemia and micronutrient deficiencies across different stages of life.The survey covered more than 200,000 people across 183 districts in 35 states and Union Territories and over 81,000 households.
+
+More than 170,000 blood samples were analysed, according to the ICMR-NIN factsheet.Among adolescent girls, vitamin B12 deficiency was more prevalent than iron or folate deficiency. While 65.4 per cent had low vitamin B12 levels, 36.3 per cent had iron deficiency, and 8.6 per cent had folate deficiency.Among adolescent boys, 66.1 per cent had vitamin B12 deficiency, compared with 10 per cent with iron deficiency and 6.3 per cent with folate deficiency.The survey found that vitamin B12 deficiency was not limited to adolescents.
+
+It was reported in 55.2 per cent of non-pregnant, non-lactating women aged 20-59 years and 57.4 per cent among women of reproductive age (15-49 years).Among adult men aged 20-59 years, the prevalence stood at 60.4 per cent. It was 41.2 per cent among women aged 60 years and above and 46.8 per cent among men in the same age group.Vitamin B12 deficiency was also recorded in 63.1 per cent of pregnant women and 51.8 per cent of lactating women.The survey indicated that the problem begins early in life, with vitamin B12 deficiency reported in 37.3 per cent of children aged 12-59 months and 46.5 per cent of those aged 5-9 years.The findings also highlighted the difference between micronutrient deficiencies and anaemia.
+
+Among adolescent girls, anaemia was reported in 46.3 per cent, while vitamin B12 deficiency affected 65.4 per cent. Among boys, the prevalence of anaemia was 22.8 per cent, compared with 66.1 per cent having vitamin B12 deficiency.The ICMR-NIN factsheet said SAMPADA provides nationally representative estimates of micronutrient deficiencies across the life course and can help identify nutritional gaps and priority groups for targeted interventions.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.business-standard.com/amp/health/two-thirds-of-indian-adolescents-have-vitamin-b12-deficiency-icmr-survey-126112700664_1.html)`,
+    title_en: `Two-thirds of Indian adolescents have vitamin B12 deficiency: ICMR survey`,
+    summary_en: `Nearly two-thirds of Indian adolescents have vitamin B12 deficiency, with the prevalence marginally higher among boys than girls, according to findings of a national survey conducted by the ICMR-National Institute of Nutrition (ICMR-NIN).Th`,
+    content_en: `Nearly two-thirds of Indian adolescents have vitamin B12 deficiency, with the prevalence marginally higher among boys than girls, according to findings of a national survey conducted by the ICMR-National Institute of Nutrition (ICMR-NIN).The survey found vitamin B12 deficiency in 66.1 per cent of adolescent boys aged 10-19 years and 65.4 per cent of girls in the same age group.
+
+Deficiency was defined as a serum vitamin B12 level below 203 pg/mL.The findings are part of the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA), conducted during 2023-25 to generate national estimates of anaemia and micronutrient deficiencies across different stages of life.The survey covered more than 200,000 people across 183 districts in 35 states and Union Territories and over 81,000 households.
+
+More than 170,000 blood samples were analysed, according to the ICMR-NIN factsheet.Among adolescent girls, vitamin B12 deficiency was more prevalent than iron or folate deficiency. While 65.4 per cent had low vitamin B12 levels, 36.3 per cent had iron deficiency, and 8.6 per cent had folate deficiency.Among adolescent boys, 66.1 per cent had vitamin B12 deficiency, compared with 10 per cent with iron deficiency and 6.3 per cent with folate deficiency.The survey found that vitamin B12 deficiency was not limited to adolescents.
+
+It was reported in 55.2 per cent of non-pregnant, non-lactating women aged 20-59 years and 57.4 per cent among women of reproductive age (15-49 years).Among adult men aged 20-59 years, the prevalence stood at 60.4 per cent. It was 41.2 per cent among women aged 60 years and above and 46.8 per cent among men in the same age group.Vitamin B12 deficiency was also recorded in 63.1 per cent of pregnant women and 51.8 per cent of lactating women.The survey indicated that the problem begins early in life, with vitamin B12 deficiency reported in 37.3 per cent of children aged 12-59 months and 46.5 per cent of those aged 5-9 years.The findings also highlighted the difference between micronutrient deficiencies and anaemia.
+
+Among adolescent girls, anaemia was reported in 46.3 per cent, while vitamin B12 deficiency affected 65.4 per cent. Among boys, the prevalence of anaemia was 22.8 per cent, compared with 66.1 per cent having vitamin B12 deficiency.The ICMR-NIN factsheet said SAMPADA provides nationally representative estimates of micronutrient deficiencies across the life course and can help identify nutritional gaps and priority groups for targeted interventions.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.business-standard.com/amp/health/two-thirds-of-indian-adolescents-have-vitamin-b12-deficiency-icmr-survey-126112700664_1.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Two-thirds of Indian adolescents have vitamin B12 deficiency: ICMR survey.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 118,
+    title: `Thirupparankundram row: Supreme Court-appointed former Judges leave for Madurai`,
+    slug: `thirupparankundram-row-supreme-court-appointed-former-judges-leave-for-2026`,
+    original_title: `Thirupparankundram row: Supreme Court-appointed former Judges leave for Madurai`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:02:15Z`,
+    updated_at: `2026-11-28T06:02:15Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/thirupparankundram-row-supreme-court-appointed-former-judges-leave-for-2026.jpg`,
+    image_alt: `Thirupparankundram row: Supreme Court-appointed former Judges leave for Madurai`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `You don’t have any Active Subscription.`,
+    content: `You don’t have any Active Subscription.
+
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
+
+Weather News November 28, 2026 e-Paper
+
+The View From India Looking at World Affairs from the Indian perspective.
+
+First Day First Show News and reviews from the world of cinema and streaming.
+
+Today's Cache Your download of the top 5 technology stories of the day.
+
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
+
+Data Point Decoding the headlines with facts, figures, and numbers
+
+THEdge At the cutting edge of education and careers
+
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
+
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram
+
+Updated - November 28, 2026 11:18 am IST
+
+Temporary platform and scaffolding erected around Deepathoon pillar on November 28, 2026
+                                                  | Photo Credit:  
+                          ANI
+
+T emporary platforms and scaffolding are being erected around the ‘ Deepathoon ’ stone pillar atop Thiruparankundram Hill ahead of Saturday’s (November 28, 2026) lamp lighting. The work is being carried out under CRPF security, while BJP and Hindu Munnani leaders are also expected to visit the hill for the ceremony.
+
+Supreme Court-appointed receivers Justice S. Vaidyanathan and Justice V. Parthiban arrived at Madurai airport to oversee the court-directed lamp lighting at ‘Deepathoon’. The former judges declined to comment on the matter, saying they would first discuss the issues before making any public statement.
+
+The Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram hill. Hearing the contempt petitions on Friday (November 27, 2026), the court accused the authorities and the Board of Trustees of having acted “according to their political bosses”.
+
+The Supreme Court directed the temple receivers to light the Karthigai Deepam at the stone pillar -- ‘deepathoon’ -- on Saturday (November 28, 2026) after consultations with the priests.
+
+This year’s festival might be over, but the long-standing issue is far from resolved. Disagreements over the use of the hill by the Muslim and Hindu communities, its ownership and traditional practices have existed since 1915. Now, with the apex Court’s order being a temporary arrangement, legal closure is yet to come.
+
+DMK MP P. Wilson says the Tamil Nadu government failed to present a consistent position before the Supreme Court on the Karthigai Deepam dispute. He argues that the state’s differing stands in the review and contempt proceedings led the court to issue its latest direction on lighting the lamp at Deepathoon.
+
+Supreme Court-appointed receivers Justice S. Vaidyanathan and Justice V. Parthiban arrived at Madurai airport on to oversee the court-directed lamp lighting at ‘Deepathoon.’
+
+Work on a temporary platform and scaffolding has begun around the Deepathoon stone pillar atop Thiruparankundram Hill ahead of the lamp lighting. The preparations are underway under CRPF security, with BJP and Hindu Munnani leaders also scheduled to visit the hill.
+
+CRPF personnel assumed full security and surveillance control of Thiruparankundram Hill early Saturday, following a Supreme Court directive. The troops received a warm welcome from local residents and devotees, who showered them and their vehicles with flower petals.
+
+Special prayers were held at Sikandar Dargah atop Thiruparankundram Hill, with Muslim devotees allowed to enter after security checks amid heightened security over the ‘Deepathoon’ dispute.
+
+DMK spokesperson TKS Elangovan questions the move to light the Karthigai Deepam at the ‘Deepathoon’ stone pillar, arguing that it goes against a century-old tradition.
+
+CRPF personnel were seen moving towards Thiruparankundram Hill ahead of the lighting of the ‘Deepathoon’ today.
+
+Scores of Hindu and Muslim devotees began arriving at the foothills of Thiruparankundram hill early Saturday morning, November 28, following the Supreme Court’s directive permitting the lighting of the Karthigai Deepam atop the Deepathoon stone pillar.
+
+Amid heightened security and coordinated crowd-management measures, worshippers gathered peacefully to ascend the hill to visit the Kasi Vishwanathar temple and the Hazrat Sultan Sikandar Badusha Auliya Dargah.
+
+In strict compliance with the apex court’s Friday order, personnel from the Central Reserve Police Force (CRPF) have taken over security and surveillance responsibilities across the hill.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece)`,
+    title_en: `Thirupparankundram row: Supreme Court-appointed former Judges leave for Madurai`,
+    summary_en: `You don’t have any Active Subscription.`,
+    content_en: `You don’t have any Active Subscription.
+
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
+
+Weather News November 28, 2026 e-Paper
+
+The View From India Looking at World Affairs from the Indian perspective.
+
+First Day First Show News and reviews from the world of cinema and streaming.
+
+Today's Cache Your download of the top 5 technology stories of the day.
+
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
+
+Data Point Decoding the headlines with facts, figures, and numbers
+
+THEdge At the cutting edge of education and careers
+
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
+
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram
+
+Updated - November 28, 2026 11:18 am IST
+
+Temporary platform and scaffolding erected around Deepathoon pillar on November 28, 2026
+                                                  | Photo Credit:  
+                          ANI
+
+T emporary platforms and scaffolding are being erected around the ‘ Deepathoon ’ stone pillar atop Thiruparankundram Hill ahead of Saturday’s (November 28, 2026) lamp lighting. The work is being carried out under CRPF security, while BJP and Hindu Munnani leaders are also expected to visit the hill for the ceremony.
+
+Supreme Court-appointed receivers Justice S. Vaidyanathan and Justice V. Parthiban arrived at Madurai airport to oversee the court-directed lamp lighting at ‘Deepathoon’. The former judges declined to comment on the matter, saying they would first discuss the issues before making any public statement.
+
+The Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram hill. Hearing the contempt petitions on Friday (November 27, 2026), the court accused the authorities and the Board of Trustees of having acted “according to their political bosses”.
+
+The Supreme Court directed the temple receivers to light the Karthigai Deepam at the stone pillar -- ‘deepathoon’ -- on Saturday (November 28, 2026) after consultations with the priests.
+
+This year’s festival might be over, but the long-standing issue is far from resolved. Disagreements over the use of the hill by the Muslim and Hindu communities, its ownership and traditional practices have existed since 1915. Now, with the apex Court’s order being a temporary arrangement, legal closure is yet to come.
+
+DMK MP P. Wilson says the Tamil Nadu government failed to present a consistent position before the Supreme Court on the Karthigai Deepam dispute. He argues that the state’s differing stands in the review and contempt proceedings led the court to issue its latest direction on lighting the lamp at Deepathoon.
+
+Supreme Court-appointed receivers Justice S. Vaidyanathan and Justice V. Parthiban arrived at Madurai airport on to oversee the court-directed lamp lighting at ‘Deepathoon.’
+
+Work on a temporary platform and scaffolding has begun around the Deepathoon stone pillar atop Thiruparankundram Hill ahead of the lamp lighting. The preparations are underway under CRPF security, with BJP and Hindu Munnani leaders also scheduled to visit the hill.
+
+CRPF personnel assumed full security and surveillance control of Thiruparankundram Hill early Saturday, following a Supreme Court directive. The troops received a warm welcome from local residents and devotees, who showered them and their vehicles with flower petals.
+
+Special prayers were held at Sikandar Dargah atop Thiruparankundram Hill, with Muslim devotees allowed to enter after security checks amid heightened security over the ‘Deepathoon’ dispute.
+
+DMK spokesperson TKS Elangovan questions the move to light the Karthigai Deepam at the ‘Deepathoon’ stone pillar, arguing that it goes against a century-old tradition.
+
+CRPF personnel were seen moving towards Thiruparankundram Hill ahead of the lighting of the ‘Deepathoon’ today.
+
+Scores of Hindu and Muslim devotees began arriving at the foothills of Thiruparankundram hill early Saturday morning, November 28, following the Supreme Court’s directive permitting the lighting of the Karthigai Deepam atop the Deepathoon stone pillar.
+
+Amid heightened security and coordinated crowd-management measures, worshippers gathered peacefully to ascend the hill to visit the Kasi Vishwanathar temple and the Hazrat Sultan Sikandar Badusha Auliya Dargah.
+
+In strict compliance with the apex court’s Friday order, personnel from the Central Reserve Police Force (CRPF) have taken over security and surveillance responsibilities across the hill.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Thirupparankundram row: Supreme Court-appointed former Judges leave for Madurai.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 119,
+    title: `दावा-NCP परिसीमन बिल के समर्थन में, सुप्रिया केंद्रीय मंत्री बनेंगी: 24 दिन पहले खबर आई कि PM ने पवार से कह... - Dainik Bhaskar`,
+    slug: `ncp-24-pm-dainik-bhaskar-2026`,
+    original_title: `दावा-NCP परिसीमन बिल के समर्थन में, सुप्रिया केंद्रीय मंत्री बनेंगी: 24 दिन पहले खबर आई कि PM ने पवार से कह... - Dainik Bhaskar`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:02:16Z`,
+    updated_at: `2026-11-28T06:02:16Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/g/national/news/supriya-sule-ncp-sharad-pawar-cabinet-minister-delhi-politics-139821441.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/ncp-24-pm-dainik-bhaskar-2026.jpg`,
+    image_alt: `दावा-NCP परिसीमन बिल के समर्थन में, सुप्रिया केंद्रीय मंत्री बनेंगी: 24 दिन पहले खबर आई कि PM ने पवार से कह... - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `शरद पवार की पार्टी NCP (SP) परिसीमन बिल पर केंद्र सरकार का समर्थन करेगी, इसके बदले पार्टी की सांसद सुप्रिया सुले को केंद्र में मंत्री बनाया जा सकता है। NDTV ने सूत्रों के हवाले से यह खबर दी। पार्टी ने महाराष्ट्र सरकार में एक कैबिनेट और दो र`,
+    content: `शरद पवार की पार्टी NCP (SP) परिसीमन बिल पर केंद्र सरकार का समर्थन करेगी, इसके बदले पार्टी की सांसद सुप्रिया सुले को केंद्र में मंत्री बनाया जा सकता है। NDTV ने सूत्रों के हवाले से यह खबर दी। पार्टी ने महाराष्ट्र सरकार में एक कैबिनेट और दो राज्य मंत्री पद भी मांगे हैं।
+
+पार्टी विधायक जितेंद्र आव्हाड ने शुक्रवार को कहा था कि शरद पवार से चर्चा के बाद परिसीमन बिल का समर्थन करने का फैसला लिया गया है। हालांकि, सुप्रिया सुले ने इस पर बिल का ड्राफ्ट देखने और पार्टी में अंदरूनी चर्चा करने के बाद फैसला लेने की बात कही थी।
+
+करीब 24 दिन पहले खबर आई थी कि PM मोदी ने अस्पताल में भर्ती शरद पवार को फोन किया था। उन्होंने कहा था, 'सुप्रिया अब तैयार हैं। हम दोनों मिलकर देश संभालेंगे। आप आराम कीजिए।' यह जानकारी पवार के करीबी विट्ठल मनियार ने दी थी।
+
+दरअसल, NCP (SP) के महाराष्ट्र विधानसभा में 10 विधायक और लोकसभा में 8 सांसद हैं। संसद का विशेष सत्र 30 नवंबर से लोकसभा और 2 दिसंबर से राज्यसभा में शुरू होगा।
+
+कांग्रेस की नाराजगी से दावा और पुख्ता, बोली- आपके लिए राज्यसभा सीट छोड़ी थी
+
+महाराष्ट्र कांग्रेस ने शरद पवार की पार्टी के फैसले पर नाराजगी जताई है। पार्टी ने X पर पोस्ट कर कहा कि इसी साल राज्यसभा चुनाव में शरद पवार को जिताने के लिए उसने अपनी सीट पर दावा छोड़ दिया था। उस समय NCP-SP के पास सिर्फ 10 विधायक थे, जबकि एक राज्यसभा सीट जीतने के लिए 36 वोट चाहिए थे।
+
+कांग्रेस के मुताबिक, सुप्रिया सुले ने राहुल गांधी और मल्लिकार्जुन खड़गे से अपने पिता के लिए समर्थन मांगा था। इसके बाद महाविकास अघाड़ी ने सर्वसम्मति से पवार की उम्मीदवारी का समर्थन किया था।
+
+कांग्रेस ने सवाल उठाया कि अब वही शरद पवार और उनकी पार्टी भाजपा सरकार के परिसीमन बिल का समर्थन क्यों कर रहे हैं।
+
+परिसीमन बिल पास हुआ तो सीटें 50% बढ़ जाएंगी
+
+लोकसभा और विधानसभा सीटों में 50% बढ़ोतरी के प्रस्ताव शुक्रवार को कैबिनेट ने मंजूर कर दिया। लोकसभा में अभी 543 सीटें हैं। 50% बढ़ोतरी के बाद ये 815 हो जाएंगी। यानी 272 सीटें बढ़ेंगी।
+
+सीटों की संख्या का निर्धारण 1971 की जनगणना से और संसदीय क्षेत्रों की सीमाओं का परिसीमन 2011 के जनगणना के आधार पर होगा।
+
+कई राज्यों में 50% के हिसाब से आधी सीट बढ़ रही है। ऐसे में अगली सीट पूरी गिनी जा सकती है। तब बढ़ने वाली सीटें 281 होंगी और कुल सीटें 824 हो जाएंगी। कुल सीटों की यह संख्या अगले 25 साल तक नहीं बदलेगी।
+
+सरकार परिसीमन के बिल को 30 नवंबर से शुरू हो रहे संसद के विशेष सत्र में पास कराना चाहती है। यह सत्र 3 दिसंबर तक चलेगा।
+
+16, 17 अप्रैल को संसद में जो बिल पास नहीं हो सका था, उसमें जनसंख्या आधारित परिसीमन के जरिए सीटों की संख्या बढ़ाने की योजना थी, जिससे राज्यों के बीच प्रतिनिधित्व का अनुपात बदलने की आशंका थी।
+
+अब नए बिल में सभी राज्यों की मौजूदा सीटों में 50% बढ़ोतरी और 2051 तक राज्यों के बीच मौजूदा सीट अनुपात बनाए रखने की योजना है। यानी नए प्रस्ताव का मुख्य बदलाव यह है कि लोकसभा में सीटें तो बढ़ेंगी, लेकिन किसी राज्य की दूसरे राज्य के मुकाबले मौजूदा आनुपातिक हिस्सेदारी कम नहीं होगी।
+
+सीटें बढ़ाने का नया बिल, पुराने बिल से कितना अलग
+
+लोकसभा में 40, राज्यसभा में 11 सांसदों की जरूरत
+
+लोकसभा में NDA के साथ 320 सांसद हैं। फिलहाल 3 लोकसभा सीटें खाली हैं। यानी लोकसभा में अधिकतम 540 सांसद बिल पर वोटिंग करेंगे। इस हिसाब से लोकसभा में बिल पास कराने के लिए दो-तिहाई के 360 के आंकड़े से NDA अभी 40 वोट पीछे हैं।
+
+राज्यसभा में NDA के साथ 151 सांसद हैं। राज्यसभा में 243 सांसद वोट करेंगे। इस हिसाब से राज्यसभा में बिल पास कराने के लिए दो-तिहाई के 162 के आंकड़े से NDA अभी 11 वोट पीछे हैं।
+
+सरकार संसद में संशोधन बिल कैसे पास कराएगी
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/national/news/supriya-sule-ncp-sharad-pawar-cabinet-minister-delhi-politics-139821441.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `दावा-NCP परिसीमन बिल के समर्थन में, सुप्रिया केंद्रीय मंत्री बनेंगी: 24 दिन पहले खबर आई कि PM ने पवार से कह... - Dainik Bhaskar`,
+    summary_hi: `शरद पवार की पार्टी NCP (SP) परिसीमन बिल पर केंद्र सरकार का समर्थन करेगी, इसके बदले पार्टी की सांसद सुप्रिया सुले को केंद्र में मंत्री बनाया जा सकता है। NDTV ने सूत्रों के हवाले से यह खबर दी। पार्टी ने महाराष्ट्र सरकार में एक कैबिनेट और दो र`,
+    content_hi: `शरद पवार की पार्टी NCP (SP) परिसीमन बिल पर केंद्र सरकार का समर्थन करेगी, इसके बदले पार्टी की सांसद सुप्रिया सुले को केंद्र में मंत्री बनाया जा सकता है। NDTV ने सूत्रों के हवाले से यह खबर दी। पार्टी ने महाराष्ट्र सरकार में एक कैबिनेट और दो राज्य मंत्री पद भी मांगे हैं।
+
+पार्टी विधायक जितेंद्र आव्हाड ने शुक्रवार को कहा था कि शरद पवार से चर्चा के बाद परिसीमन बिल का समर्थन करने का फैसला लिया गया है। हालांकि, सुप्रिया सुले ने इस पर बिल का ड्राफ्ट देखने और पार्टी में अंदरूनी चर्चा करने के बाद फैसला लेने की बात कही थी।
+
+करीब 24 दिन पहले खबर आई थी कि PM मोदी ने अस्पताल में भर्ती शरद पवार को फोन किया था। उन्होंने कहा था, 'सुप्रिया अब तैयार हैं। हम दोनों मिलकर देश संभालेंगे। आप आराम कीजिए।' यह जानकारी पवार के करीबी विट्ठल मनियार ने दी थी।
+
+दरअसल, NCP (SP) के महाराष्ट्र विधानसभा में 10 विधायक और लोकसभा में 8 सांसद हैं। संसद का विशेष सत्र 30 नवंबर से लोकसभा और 2 दिसंबर से राज्यसभा में शुरू होगा।
+
+कांग्रेस की नाराजगी से दावा और पुख्ता, बोली- आपके लिए राज्यसभा सीट छोड़ी थी
+
+महाराष्ट्र कांग्रेस ने शरद पवार की पार्टी के फैसले पर नाराजगी जताई है। पार्टी ने X पर पोस्ट कर कहा कि इसी साल राज्यसभा चुनाव में शरद पवार को जिताने के लिए उसने अपनी सीट पर दावा छोड़ दिया था। उस समय NCP-SP के पास सिर्फ 10 विधायक थे, जबकि एक राज्यसभा सीट जीतने के लिए 36 वोट चाहिए थे।
+
+कांग्रेस के मुताबिक, सुप्रिया सुले ने राहुल गांधी और मल्लिकार्जुन खड़गे से अपने पिता के लिए समर्थन मांगा था। इसके बाद महाविकास अघाड़ी ने सर्वसम्मति से पवार की उम्मीदवारी का समर्थन किया था।
+
+कांग्रेस ने सवाल उठाया कि अब वही शरद पवार और उनकी पार्टी भाजपा सरकार के परिसीमन बिल का समर्थन क्यों कर रहे हैं।
+
+परिसीमन बिल पास हुआ तो सीटें 50% बढ़ जाएंगी
+
+लोकसभा और विधानसभा सीटों में 50% बढ़ोतरी के प्रस्ताव शुक्रवार को कैबिनेट ने मंजूर कर दिया। लोकसभा में अभी 543 सीटें हैं। 50% बढ़ोतरी के बाद ये 815 हो जाएंगी। यानी 272 सीटें बढ़ेंगी।
+
+सीटों की संख्या का निर्धारण 1971 की जनगणना से और संसदीय क्षेत्रों की सीमाओं का परिसीमन 2011 के जनगणना के आधार पर होगा।
+
+कई राज्यों में 50% के हिसाब से आधी सीट बढ़ रही है। ऐसे में अगली सीट पूरी गिनी जा सकती है। तब बढ़ने वाली सीटें 281 होंगी और कुल सीटें 824 हो जाएंगी। कुल सीटों की यह संख्या अगले 25 साल तक नहीं बदलेगी।
+
+सरकार परिसीमन के बिल को 30 नवंबर से शुरू हो रहे संसद के विशेष सत्र में पास कराना चाहती है। यह सत्र 3 दिसंबर तक चलेगा।
+
+16, 17 अप्रैल को संसद में जो बिल पास नहीं हो सका था, उसमें जनसंख्या आधारित परिसीमन के जरिए सीटों की संख्या बढ़ाने की योजना थी, जिससे राज्यों के बीच प्रतिनिधित्व का अनुपात बदलने की आशंका थी।
+
+अब नए बिल में सभी राज्यों की मौजूदा सीटों में 50% बढ़ोतरी और 2051 तक राज्यों के बीच मौजूदा सीट अनुपात बनाए रखने की योजना है। यानी नए प्रस्ताव का मुख्य बदलाव यह है कि लोकसभा में सीटें तो बढ़ेंगी, लेकिन किसी राज्य की दूसरे राज्य के मुकाबले मौजूदा आनुपातिक हिस्सेदारी कम नहीं होगी।
+
+सीटें बढ़ाने का नया बिल, पुराने बिल से कितना अलग
+
+लोकसभा में 40, राज्यसभा में 11 सांसदों की जरूरत
+
+लोकसभा में NDA के साथ 320 सांसद हैं। फिलहाल 3 लोकसभा सीटें खाली हैं। यानी लोकसभा में अधिकतम 540 सांसद बिल पर वोटिंग करेंगे। इस हिसाब से लोकसभा में बिल पास कराने के लिए दो-तिहाई के 360 के आंकड़े से NDA अभी 40 वोट पीछे हैं।
+
+राज्यसभा में NDA के साथ 151 सांसद हैं। राज्यसभा में 243 सांसद वोट करेंगे। इस हिसाब से राज्यसभा में बिल पास कराने के लिए दो-तिहाई के 162 के आंकड़े से NDA अभी 11 वोट पीछे हैं।
+
+सरकार संसद में संशोधन बिल कैसे पास कराएगी
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/national/news/supriya-sule-ncp-sharad-pawar-cabinet-minister-delhi-politics-139821441.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक दावा-NCP परिसीमन बिल के समर्थन में, सुप्रिया केंद्रीय मंत्री बनेंगी: 24 दिन पहले खबर आई कि PM ने पवार से कह... - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+  {
+    id: 120,
+    title: `OpenAI countersues Apple over trade secrets as AI race heats up - Al Jazeera`,
+    slug: `openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up-al-jaz-2026`,
+    original_title: `OpenAI countersues Apple over trade secrets as AI race heats up - Al Jazeera`,
+    category: `markets`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:02:17Z`,
+    updated_at: `2026-11-28T06:02:17Z`,
+    source_name: `Al Jazeera`,
+    source_url: `https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up`,
+    source_courtesy: `Source: Al Jazeera`,
+    image_url: `/images/articles/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up-al-jaz-2026.webp`,
+    image_alt: `OpenAI countersues Apple over trade secrets as AI race heats up - Al Jazeera`,
+    image_courtesy: `Image: Al Jazeera (External Source Attribution)`,
+    image_photographer: `Al Jazeera`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Markets, News, India`,
+    summary: `Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.`,
+    content: `Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.
+
+OpenAI has sued Apple, accusing the Big Tech giant of stealing its trade secrets and blocking its access to hardware suppliers after Apple sued OpenAI for allegedly poaching its employees to gain access to its technology.
+
+The ChatGPT maker filed counterclaims in California federal court on Friday, saying that Apple’s employment practices were designed to “trap” employees and prevent them from working on competitors’ technology.
+
+OpenAI is developing artificial intelligence-enabled personal electronic devices that threaten to “outcompete Apple on what Apple views as its own turf,” the company said in its Friday court filing.
+
+OpenAI said in the filing that Apple gained confidential information by re-hiring a former employee who worked at OpenAI for six months. In that time, the employee gained access to specific information on a new device as well as OpenAI’s roadmap for future hardware products.
+
+“Given the timing, it now appears that stealing those documents may have been his reason for joining OpenAI in the first place,” OpenAI said.
+
+Apple and OpenAI did not immediately respond to requests for comment from Reuters.
+
+Tensions between the two tech companies have escalated as the intensifying race to develop AI products fuels competition for talent and proprietary technology.
+
+In July, Apple sued OpenAI and two former employees, alleging misappropriation of its trade secrets to benefit the ChatGPT owner’s foray into consumer hardware. OpenAI has denied those allegations.
+
+The litigation sets up a battle over who will control future AI devices that may not use traditional apps or operating systems — devices which, if successful, would direct consumer attention away from Apple’s best-selling iPhone. Analysts believe OpenAI is working on a phone or other device of its own.
+
+In Friday’s filing, OpenAI criticised Apple for encouraging employees to do work on their personal Apple devices and accounts, then preventing those employees from an orderly separation of work and personal accounts when they leave for new jobs.
+
+OpenAI said that Apple continues to access former employees’ personal devices and accounts after they leave the company, enabling Apple to “monitor and ensnare departing employees” when they leave for competitors.
+
+OpenAI said that 400 employees have left Apple for OpenAI so far, and Apple wants to intimidate other employees from leaving to find other tech companies.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up)`,
+    title_en: `OpenAI countersues Apple over trade secrets as AI race heats up - Al Jazeera`,
+    summary_en: `Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.`,
+    content_en: `Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.
+
+OpenAI has sued Apple, accusing the Big Tech giant of stealing its trade secrets and blocking its access to hardware suppliers after Apple sued OpenAI for allegedly poaching its employees to gain access to its technology.
+
+The ChatGPT maker filed counterclaims in California federal court on Friday, saying that Apple’s employment practices were designed to “trap” employees and prevent them from working on competitors’ technology.
+
+OpenAI is developing artificial intelligence-enabled personal electronic devices that threaten to “outcompete Apple on what Apple views as its own turf,” the company said in its Friday court filing.
+
+OpenAI said in the filing that Apple gained confidential information by re-hiring a former employee who worked at OpenAI for six months. In that time, the employee gained access to specific information on a new device as well as OpenAI’s roadmap for future hardware products.
+
+“Given the timing, it now appears that stealing those documents may have been his reason for joining OpenAI in the first place,” OpenAI said.
+
+Apple and OpenAI did not immediately respond to requests for comment from Reuters.
+
+Tensions between the two tech companies have escalated as the intensifying race to develop AI products fuels competition for talent and proprietary technology.
+
+In July, Apple sued OpenAI and two former employees, alleging misappropriation of its trade secrets to benefit the ChatGPT owner’s foray into consumer hardware. OpenAI has denied those allegations.
+
+The litigation sets up a battle over who will control future AI devices that may not use traditional apps or operating systems — devices which, if successful, would direct consumer attention away from Apple’s best-selling iPhone. Analysts believe OpenAI is working on a phone or other device of its own.
+
+In Friday’s filing, OpenAI criticised Apple for encouraging employees to do work on their personal Apple devices and accounts, then preventing those employees from an orderly separation of work and personal accounts when they leave for new jobs.
+
+OpenAI said that Apple continues to access former employees’ personal devices and accounts after they leave the company, enabling Apple to “monitor and ensnare departing employees” when they leave for competitors.
+
+OpenAI said that 400 employees have left Apple for OpenAI so far, and Apple wants to intimidate other employees from leaving to find other tech companies.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Al Jazeera.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for OpenAI countersues Apple over trade secrets as AI race heats up - Al Jazeera.`,
+    primary_source: `Al Jazeera`,
+  },
+  {
+    id: 121,
+    title: `Google introduces new anti-theft features for Android devices`,
+    slug: `google-introduces-new-anti-theft-features-for-android-devices-2026`,
+    original_title: `Google introduces new anti-theft features for Android devices`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:02:19Z`,
+    updated_at: `2026-11-28T06:02:19Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/google-introduces-new-anti-theft-features-for-android-devices20241006234204/`,
+    source_courtesy: `Source: ANI News`,
+    image_url: `/images/articles/google-introduces-new-anti-theft-features-for-android-devices-2026.jpg`,
+    image_alt: `Google introduces new anti-theft features for Android devices`,
+    image_courtesy: `Image: ANI News (External Source Attribution)`,
+    image_photographer: `ANI News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `ANI | Updated: Oct 06, 2024 23:42 IST`,
+    content: `ANI | Updated: Oct 06, 2024 23:42 IST
+
+Washington [US], October 6 (ANI): Google is enhancing security for Android users by introducing new anti-theft features aimed at protecting personal data in the event of a stolen device. According to GSM Arena, the updates include the Theft Detection Lock, Offline Device Lock, and an improved Remote Lock function, with the first two being new functionalities announced earlier this year. The Theft Detection Lock utilizes artificial intelligence along with the device's sensors to identify common theft-related motions. For instance, if someone snatches the phone from a user's hand and attempts to flee, the feature will automatically lock the device, restricting access to all applications and data.
+
+Additionally, it can recognize movements typically associated with theft while riding a bike or in a car, as per GSM Arena. The Offline Device Lock feature further enhances security by locking the device if a thief tries to keep it disconnected from the internet for an extended period. This ensures that even in offline scenarios, the device remains secure. Meanwhile, the Remote Lock functionality allows users to lock their phones remotely using their phone number, especially useful if the Find My Device option is disabled or if they cannot access their Google account. While it remains unclear which specific Android devices will receive these updates, users are advised to check that they have the latest version of Google Play Services installed to take advantage of these new security measures, as per GSM Arena. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/google-introduces-new-anti-theft-features-for-android-devices20241006234204/)`,
+    title_en: `Google introduces new anti-theft features for Android devices`,
+    summary_en: `ANI | Updated: Oct 06, 2024 23:42 IST`,
+    content_en: `ANI | Updated: Oct 06, 2024 23:42 IST
+
+Washington [US], October 6 (ANI): Google is enhancing security for Android users by introducing new anti-theft features aimed at protecting personal data in the event of a stolen device. According to GSM Arena, the updates include the Theft Detection Lock, Offline Device Lock, and an improved Remote Lock function, with the first two being new functionalities announced earlier this year. The Theft Detection Lock utilizes artificial intelligence along with the device's sensors to identify common theft-related motions. For instance, if someone snatches the phone from a user's hand and attempts to flee, the feature will automatically lock the device, restricting access to all applications and data.
+
+Additionally, it can recognize movements typically associated with theft while riding a bike or in a car, as per GSM Arena. The Offline Device Lock feature further enhances security by locking the device if a thief tries to keep it disconnected from the internet for an extended period. This ensures that even in offline scenarios, the device remains secure. Meanwhile, the Remote Lock functionality allows users to lock their phones remotely using their phone number, especially useful if the Find My Device option is disabled or if they cannot access their Google account. While it remains unclear which specific Android devices will receive these updates, users are advised to check that they have the latest version of Google Play Services installed to take advantage of these new security measures, as per GSM Arena. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/google-introduces-new-anti-theft-features-for-android-devices20241006234204/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to ANI News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Google introduces new anti-theft features for Android devices.`,
+    primary_source: `ANI News`,
+  },
+  {
+    id: 122,
+    title: `विंडोज 11 लगभग 900 एमबी रैम खाली कर देता है, जिससे 8 जीबी वाले कंप्यूटरों को और अधिक उम्मीद मिलती है। - Vietnam.vn`,
+    slug: `11-900-8-vietnamvn-2026`,
+    original_title: `विंडोज 11 लगभग 900 एमबी रैम खाली कर देता है, जिससे 8 जीबी वाले कंप्यूटरों को और अधिक उम्मीद मिलती है। - Vietnam.vn`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:02:21Z`,
+    updated_at: `2026-11-28T06:02:21Z`,
+    source_name: `Vietnam.vn`,
+    source_url: `https://www.vietnam.vn/hi/windows-11-giai-phong-gan-900-mb-ram-may-tinh-8-gb-co-them-hy-vong`,
+    source_courtesy: `Source: Vietnam.vn`,
+    image_url: `/images/articles/11-900-8-vietnamvn-2026.webp`,
+    image_alt: `विंडोज 11 लगभग 900 एमबी रैम खाली कर देता है, जिससे 8 जीबी वाले कंप्यूटरों को और अधिक उम्मीद मिलती है। - Vietnam.vn`,
+    image_courtesy: `Image: Vietnam.vn (External Source Attribution)`,
+    image_photographer: `Vietnam.vn`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `माइक्रोसॉफ्ट का कहना है कि विंडोज 11 ने रैम की खपत को काफी कम कर दिया है, जिससे 8GB रैम वाले कंप्यूटर कई कार्यों में बेहतर प्रदर्शन कर पाते हैं।`,
+    content: `माइक्रोसॉफ्ट का कहना है कि विंडोज 11 ने रैम की खपत को काफी कम कर दिया है, जिससे 8GB रैम वाले कंप्यूटर कई कार्यों में बेहतर प्रदर्शन कर पाते हैं।
+
+विंडोज़ लेटेस्ट के अनुसार, कई उपयोगकर्ताओं ने पाया है कि हाल ही में विंडोज़ 11 का अनुभव पहले से अधिक सुगम हो गया है। यह ऑपरेटिंग सिस्टम पर रैम के बेहतर उपयोग के लिए माइक्रोसॉफ्ट द्वारा किए गए प्रयासों का परिणाम है।
+
+माइक्रोसॉफ्ट ने स्वीकार किया है कि विंडोज 11 में उसके अपने बैकग्राउंड एप्लिकेशन और सेवाएं लगभग 900 एमबी सिस्टम मेमोरी का उपयोग करती हैं। 32 जीबी रैम वाले सिस्टम पर यह समस्या नगण्य रूप से प्रभावित करती है, लेकिन 8 जीबी रैम वाले सिस्टम पर यह स्पष्ट रूप से दिखाई देने लगती है।
+
+माइक्रोसॉफ्ट विंडोज 11 पर रैम के उपयोग में काफी सुधार कर रहा है।
+
+पिछले सप्ताह आयोजित इग्नाइट 2026 कार्यक्रम में, माइक्रोसॉफ्ट ने कहा कि कंपनी को उम्मीद है कि विंडोज के निरंतर अपग्रेड के साथ मौजूदा उपकरणों पर उपयोगकर्ता अनुभव में सुधार होगा। मेमोरी की मौजूदा उच्च लागत के कारण, कंपनी मेमोरी प्रदर्शन को अनुकूलित करने में भारी निवेश कर रही है, विशेष रूप से 8GB और 16GB रैम वाले उपकरणों के लिए।
+
+विशेष रूप से, Microsoft 365 ऐप अब पहले की तुलना में 360 MB कम मेमोरी का उपयोग करता है, जबकि डिफेंडर, परव्यू और वनड्राइव जैसी सेवाओं ने अपनी कुल मेमोरी खपत में 500 MB से अधिक की कमी की है। इस ऑप्टिमाइजेशन के बदौलत कुल मिलाकर लगभग 900 MB मेमोरी की बचत हुई है, जो एक प्रभावशाली आंकड़ा है।
+
+इसके अलावा, माइक्रोसॉफ्ट ने घोषणा की कि अक्टूबर 2026 के अपडेट के बाद, विंडोज 11 की रिस्पॉन्सिवनेस में 20% तक सुधार हो सकता है। आधिकारिक परीक्षणों से पता चला कि 8 जीबी रैम वाले कंप्यूटर पर ऑफिस का प्रदर्शन, टीम्स कॉल सिमुलेशन, 4K वीडियो प्लेबैक और 20 एज और आउटलुक टैब खोलने जैसे उच्च-लोड वाले परिदृश्यों में, जनवरी के अपडेट की तुलना में लगभग 21% तेज था।
+
+विंडोज 11 के 25H2 और 26H2 अपडेट के साथ, रीस्टार्ट के बाद 8 जीबी रैम वाले लैपटॉप पर मेमोरी का उपयोग।
+
+अंतर्राष्ट्रीय मीडिया संस्थानों ने 8 जीबी रैम वाले एक पुराने लैपटॉप पर भी परीक्षण किए। विंडोज 11 25H2 से 26H2 में अपग्रेड करने के बाद, रीस्टार्ट के बाद मेमोरी का उपयोग लगभग 5 जीबी से घटकर 3.3 जीबी हो गया, जबकि उपलब्ध मेमोरी 2.9 जीबी से बढ़कर 4.6 जीबी हो गई। 8 जीबी रैम वाली एक अन्य वर्चुअल मशीन में भी मेमोरी का उपयोग 4.1 जीबी से घटकर लगभग 2.8 जीबी और फिर 3.2 जीबी हो गया, जो एक महत्वपूर्ण सुधार दर्शाता है।
+
+इन सुधारों से भविष्य में विंडोज 11 उपयोगकर्ताओं को बेहतर अनुभव मिलने की उम्मीद है।
+
+### एप्पल के बड़े स्क्रीन वाले फोल्डेबल आईपैड की लॉन्चिंग में 2029 तक देरी हो सकती है, जिसकी अनुमानित कीमत 132 मिलियन वीएनडी तक हो सकती है।
+
+### इंटरनेट सेवा प्रदाता का उपकरण वियतनामी भाषा को "समझता है", और स्वचालित रूप से नेटवर्क को अनुकूलित और सुरक्षित करता है।
+
+### वन यूआई 9.5 की बदौलत सैमसंग गैलेक्सी फोन को और भी नए फीचर्स मिलने वाले हैं।
+
+### विश्व के कौन-कौन से अग्रणी वैज्ञानिक विनफ्यूचर वीक 2026 में भाग लेंगे?
+
+### 5 दिसंबर को हनोई में जेबीएल फेस्ट 2026: डेन वाउ, फुंग खान लिन्ह और 6 ऑडियो अनुभव स्टेशन।
+
+### हेलमेट के एयरबैग के खुलने और मोटरसाइकिल सवार को पूरी तरह से घेर लेने के वायरल वीडियो के पीछे की सच्चाई।
+
+---
+
+**मूल स्रोत (Original Source):** [Vietnam.vn](https://www.vietnam.vn/hi/windows-11-giai-phong-gan-900-mb-ram-may-tinh-8-gb-co-them-hy-vong)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `विंडोज 11 लगभग 900 एमबी रैम खाली कर देता है, जिससे 8 जीबी वाले कंप्यूटरों को और अधिक उम्मीद मिलती है। - Vietnam.vn`,
+    summary_hi: `माइक्रोसॉफ्ट का कहना है कि विंडोज 11 ने रैम की खपत को काफी कम कर दिया है, जिससे 8GB रैम वाले कंप्यूटर कई कार्यों में बेहतर प्रदर्शन कर पाते हैं।`,
+    content_hi: `माइक्रोसॉफ्ट का कहना है कि विंडोज 11 ने रैम की खपत को काफी कम कर दिया है, जिससे 8GB रैम वाले कंप्यूटर कई कार्यों में बेहतर प्रदर्शन कर पाते हैं।
+
+विंडोज़ लेटेस्ट के अनुसार, कई उपयोगकर्ताओं ने पाया है कि हाल ही में विंडोज़ 11 का अनुभव पहले से अधिक सुगम हो गया है। यह ऑपरेटिंग सिस्टम पर रैम के बेहतर उपयोग के लिए माइक्रोसॉफ्ट द्वारा किए गए प्रयासों का परिणाम है।
+
+माइक्रोसॉफ्ट ने स्वीकार किया है कि विंडोज 11 में उसके अपने बैकग्राउंड एप्लिकेशन और सेवाएं लगभग 900 एमबी सिस्टम मेमोरी का उपयोग करती हैं। 32 जीबी रैम वाले सिस्टम पर यह समस्या नगण्य रूप से प्रभावित करती है, लेकिन 8 जीबी रैम वाले सिस्टम पर यह स्पष्ट रूप से दिखाई देने लगती है।
+
+माइक्रोसॉफ्ट विंडोज 11 पर रैम के उपयोग में काफी सुधार कर रहा है।
+
+पिछले सप्ताह आयोजित इग्नाइट 2026 कार्यक्रम में, माइक्रोसॉफ्ट ने कहा कि कंपनी को उम्मीद है कि विंडोज के निरंतर अपग्रेड के साथ मौजूदा उपकरणों पर उपयोगकर्ता अनुभव में सुधार होगा। मेमोरी की मौजूदा उच्च लागत के कारण, कंपनी मेमोरी प्रदर्शन को अनुकूलित करने में भारी निवेश कर रही है, विशेष रूप से 8GB और 16GB रैम वाले उपकरणों के लिए।
+
+विशेष रूप से, Microsoft 365 ऐप अब पहले की तुलना में 360 MB कम मेमोरी का उपयोग करता है, जबकि डिफेंडर, परव्यू और वनड्राइव जैसी सेवाओं ने अपनी कुल मेमोरी खपत में 500 MB से अधिक की कमी की है। इस ऑप्टिमाइजेशन के बदौलत कुल मिलाकर लगभग 900 MB मेमोरी की बचत हुई है, जो एक प्रभावशाली आंकड़ा है।
+
+इसके अलावा, माइक्रोसॉफ्ट ने घोषणा की कि अक्टूबर 2026 के अपडेट के बाद, विंडोज 11 की रिस्पॉन्सिवनेस में 20% तक सुधार हो सकता है। आधिकारिक परीक्षणों से पता चला कि 8 जीबी रैम वाले कंप्यूटर पर ऑफिस का प्रदर्शन, टीम्स कॉल सिमुलेशन, 4K वीडियो प्लेबैक और 20 एज और आउटलुक टैब खोलने जैसे उच्च-लोड वाले परिदृश्यों में, जनवरी के अपडेट की तुलना में लगभग 21% तेज था।
+
+विंडोज 11 के 25H2 और 26H2 अपडेट के साथ, रीस्टार्ट के बाद 8 जीबी रैम वाले लैपटॉप पर मेमोरी का उपयोग।
+
+अंतर्राष्ट्रीय मीडिया संस्थानों ने 8 जीबी रैम वाले एक पुराने लैपटॉप पर भी परीक्षण किए। विंडोज 11 25H2 से 26H2 में अपग्रेड करने के बाद, रीस्टार्ट के बाद मेमोरी का उपयोग लगभग 5 जीबी से घटकर 3.3 जीबी हो गया, जबकि उपलब्ध मेमोरी 2.9 जीबी से बढ़कर 4.6 जीबी हो गई। 8 जीबी रैम वाली एक अन्य वर्चुअल मशीन में भी मेमोरी का उपयोग 4.1 जीबी से घटकर लगभग 2.8 जीबी और फिर 3.2 जीबी हो गया, जो एक महत्वपूर्ण सुधार दर्शाता है।
+
+इन सुधारों से भविष्य में विंडोज 11 उपयोगकर्ताओं को बेहतर अनुभव मिलने की उम्मीद है।
+
+### एप्पल के बड़े स्क्रीन वाले फोल्डेबल आईपैड की लॉन्चिंग में 2029 तक देरी हो सकती है, जिसकी अनुमानित कीमत 132 मिलियन वीएनडी तक हो सकती है।
+
+### इंटरनेट सेवा प्रदाता का उपकरण वियतनामी भाषा को "समझता है", और स्वचालित रूप से नेटवर्क को अनुकूलित और सुरक्षित करता है।
+
+### वन यूआई 9.5 की बदौलत सैमसंग गैलेक्सी फोन को और भी नए फीचर्स मिलने वाले हैं।
+
+### विश्व के कौन-कौन से अग्रणी वैज्ञानिक विनफ्यूचर वीक 2026 में भाग लेंगे?
+
+### 5 दिसंबर को हनोई में जेबीएल फेस्ट 2026: डेन वाउ, फुंग खान लिन्ह और 6 ऑडियो अनुभव स्टेशन।
+
+### हेलमेट के एयरबैग के खुलने और मोटरसाइकिल सवार को पूरी तरह से घेर लेने के वायरल वीडियो के पीछे की सच्चाई।
+
+---
+
+**मूल स्रोत (Original Source):** [Vietnam.vn](https://www.vietnam.vn/hi/windows-11-giai-phong-gan-900-mb-ram-may-tinh-8-gb-co-them-hy-vong)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट Vietnam.vn के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक विंडोज 11 लगभग 900 एमबी रैम खाली कर देता है, जिससे 8 जीबी वाले कंप्यूटरों को और अधिक उम्मीद मिलती है। - Vietnam.vn से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Vietnam.vn`,
+  },
+  {
+    id: 123,
+    title: `PM Narendra Modi welcomed with 'Krishna Bhajan' upon his arrival at Hotel Korston in Kazan`,
+    slug: `pm-narendra-modi-welcomed-with-krishna-bhajan-upon-his-arrival-at-hote-2026`,
+    original_title: `PM Narendra Modi welcomed with 'Krishna Bhajan' upon his arrival at Hotel Korston in Kazan`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:02:22Z`,
+    updated_at: `2026-11-28T06:02:22Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/pm-narendra-modi-welcomed-with-krishna-bhajan-upon-his-arrival-at-hotel-korston-in-kazan20241022150720/`,
+    source_courtesy: `Source: ANI News`,
+    image_url: `/images/articles/pm-narendra-modi-welcomed-with-krishna-bhajan-upon-his-arrival-at-hote-2026.jpg`,
+    image_alt: `PM Narendra Modi welcomed with 'Krishna Bhajan' upon his arrival at Hotel Korston in Kazan`,
+    image_courtesy: `Image: ANI News (External Source Attribution)`,
+    image_photographer: `ANI News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `ANI | Updated: Oct 22, 2024 15:07 IST`,
+    content: `ANI | Updated: Oct 22, 2024 15:07 IST
+
+Kazan [Russia], October 22 (ANI): As Prime Minister Narendra Modi arrived at Hotel Korston in Kazan, Russian nationals warmly welcomed PM Modi, by singing Krishna Bhajan. PM Modi was seen listening to the Krishna Bhajan performed by the Russian nationals. PM Modi also greeted and interacted with members of the Indian diaspora as he arrived at Hotel Korston. He is here to attend the 16th BRICS Summit, being held under the Chairmanship of Russia. The Prime Minister is also expected to hold bilateral meetings with his counterparts from BRICS member countries. Notably, Prime Minister Narendra Modi on Tuesday touched down in Kazan city of Russia to participate in the 16th BRICS Summit. Upon arrival, PM Modi also witnessed a dance performance by the artists of the Russian community at Hotel Korston in Kazan. A Russian artist who performed along with her team, while speaking with ANI, said, "We were so excited and nervous, we rehearsed for this dance for nearly three months...The people really like PM Modi. He (PM Modi) said that we are exciting dancers." Meanwhile, PM Modi shared a post on X about his arrival in Kazan and said, "Landed in Kazan for the BRICS Summit. This is an important Summit, and the discussions here will contribute to a better planet."
+
+Landed in Kazan for the BRICS Summit. This is an important Summit, and the discussions here will contribute to a better planet. pic.twitter.com/miELPu2OJ9
+
+Randhir Jaiswal, official spokesperson of the Ministry of External Affairs also shared a post on X and said, "PM @narendramodi lands in the heritage city of Kazan, Russia. On arrival, PM was warmly received by the Head of the Republic of Tatarstan Rustam Minnikhanov."
+
+PM @narendramodi lands in the heritage city of Kazan, Russia. On arrival, PM was warmly received by the Head of the Republic of Tatarstan Rustam Minnikhanov. pic.twitter.com/BEP3G90ujr
+
+The 16th BRICS Summit in Kazan is being held under the chairmanship of Russia from October 22-24. During his visit, PM Modi is also expected to hold bilateral meetings with his counterparts from BRICS member countries and invited leaders in Kazan. The Ministry of External Affairs (MEA) said, "The Summit, themed 'Strengthening Multilateralism for Just Global Development and Security,' will provide an important platform for leaders to discuss key global issues." It further said, "The Summit will offer a valuable opportunity to assess the progress of initiatives launched by BRICS and to identify potential areas for future collaboration." This visit marks, PM Modi's second visit to Russia this year. He travelled to Moscow in July to attend the 22nd India-Russia Annual Summit where he held a bilateral meeting with President Putin. He was also conferred with Russia's highest civilian award, the Order of St. Andrew the Apostle at the Kremlin in Moscow. BRIC, as a formal grouping, started after the meeting of the Leaders of Russia, India and China in St Petersburg on the margins of G8 Outreach Summit in 2006. The grouping was formalized during the first meeting of BRIC Foreign Ministers on the margins of UNGA in New York in 2006. The first BRIC Summit was held in Russia's Yekaterinburg in 2009. It was agreed to expand BRIC into BRICS with the inclusion of South Africa at the BRIC Foreign Ministers' meeting in New York in 2010. South Africa attended the 3rd BRICS Summit in Sanya in 2011. A further expansion of BRICS took place in 2024 with five new members - Egypt, Ethiopia, Iran, Saudi Arabia, and the United Arab Emirates. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/pm-narendra-modi-welcomed-with-krishna-bhajan-upon-his-arrival-at-hotel-korston-in-kazan20241022150720/)`,
+    title_en: `PM Narendra Modi welcomed with 'Krishna Bhajan' upon his arrival at Hotel Korston in Kazan`,
+    summary_en: `ANI | Updated: Oct 22, 2024 15:07 IST`,
+    content_en: `ANI | Updated: Oct 22, 2024 15:07 IST
+
+Kazan [Russia], October 22 (ANI): As Prime Minister Narendra Modi arrived at Hotel Korston in Kazan, Russian nationals warmly welcomed PM Modi, by singing Krishna Bhajan. PM Modi was seen listening to the Krishna Bhajan performed by the Russian nationals. PM Modi also greeted and interacted with members of the Indian diaspora as he arrived at Hotel Korston. He is here to attend the 16th BRICS Summit, being held under the Chairmanship of Russia. The Prime Minister is also expected to hold bilateral meetings with his counterparts from BRICS member countries. Notably, Prime Minister Narendra Modi on Tuesday touched down in Kazan city of Russia to participate in the 16th BRICS Summit. Upon arrival, PM Modi also witnessed a dance performance by the artists of the Russian community at Hotel Korston in Kazan. A Russian artist who performed along with her team, while speaking with ANI, said, "We were so excited and nervous, we rehearsed for this dance for nearly three months...The people really like PM Modi. He (PM Modi) said that we are exciting dancers." Meanwhile, PM Modi shared a post on X about his arrival in Kazan and said, "Landed in Kazan for the BRICS Summit. This is an important Summit, and the discussions here will contribute to a better planet."
+
+Landed in Kazan for the BRICS Summit. This is an important Summit, and the discussions here will contribute to a better planet. pic.twitter.com/miELPu2OJ9
+
+Randhir Jaiswal, official spokesperson of the Ministry of External Affairs also shared a post on X and said, "PM @narendramodi lands in the heritage city of Kazan, Russia. On arrival, PM was warmly received by the Head of the Republic of Tatarstan Rustam Minnikhanov."
+
+PM @narendramodi lands in the heritage city of Kazan, Russia. On arrival, PM was warmly received by the Head of the Republic of Tatarstan Rustam Minnikhanov. pic.twitter.com/BEP3G90ujr
+
+The 16th BRICS Summit in Kazan is being held under the chairmanship of Russia from October 22-24. During his visit, PM Modi is also expected to hold bilateral meetings with his counterparts from BRICS member countries and invited leaders in Kazan. The Ministry of External Affairs (MEA) said, "The Summit, themed 'Strengthening Multilateralism for Just Global Development and Security,' will provide an important platform for leaders to discuss key global issues." It further said, "The Summit will offer a valuable opportunity to assess the progress of initiatives launched by BRICS and to identify potential areas for future collaboration." This visit marks, PM Modi's second visit to Russia this year. He travelled to Moscow in July to attend the 22nd India-Russia Annual Summit where he held a bilateral meeting with President Putin. He was also conferred with Russia's highest civilian award, the Order of St. Andrew the Apostle at the Kremlin in Moscow. BRIC, as a formal grouping, started after the meeting of the Leaders of Russia, India and China in St Petersburg on the margins of G8 Outreach Summit in 2006. The grouping was formalized during the first meeting of BRIC Foreign Ministers on the margins of UNGA in New York in 2006. The first BRIC Summit was held in Russia's Yekaterinburg in 2009. It was agreed to expand BRIC into BRICS with the inclusion of South Africa at the BRIC Foreign Ministers' meeting in New York in 2010. South Africa attended the 3rd BRICS Summit in Sanya in 2011. A further expansion of BRICS took place in 2024 with five new members - Egypt, Ethiopia, Iran, Saudi Arabia, and the United Arab Emirates. (ANI)
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/pm-narendra-modi-welcomed-with-krishna-bhajan-upon-his-arrival-at-hotel-korston-in-kazan20241022150720/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to ANI News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for PM Narendra Modi welcomed with 'Krishna Bhajan' upon his arrival at Hotel Korston in Kazan.`,
+    primary_source: `ANI News`,
+  },
+  {
+    id: 124,
+    title: `अमेरिका में तूफान से 10 लाख घरों की बिजली गुल: 2500 फ्लाइट्स लेट, 450 रद्द; 14 साल में पानी सबसे ऊंचे लेवल ... - Dainik Bhaskar`,
+    slug: `10-2500-450-14-dainik-bhaskar-2026`,
+    original_title: `अमेरिका में तूफान से 10 लाख घरों की बिजली गुल: 2500 फ्लाइट्स लेट, 450 रद्द; 14 साल में पानी सबसे ऊंचे लेवल ... - Dainik Bhaskar`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:02:24Z`,
+    updated_at: `2026-11-28T06:02:24Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/g/international/news/usa-storm-flights-cancelled-coastal-flooding-alert-latest-updates-139811926.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/10-2500-450-14-dainik-bhaskar-2026.jpg`,
+    image_alt: `अमेरिका में तूफान से 10 लाख घरों की बिजली गुल: 2500 फ्लाइट्स लेट, 450 रद्द; 14 साल में पानी सबसे ऊंचे लेवल ... - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `अमेरिका में तूफान से तेज हवाओं और भारी बारिश के कारण 10 लाख से ज्यादा घरों की बिजली गुल हो गई। वहीं, 2500 से ज्यादा फ्लाइट्स लेट हुईं और 450 से ज्यादा उड़ानें रद्द करनी पड़ीं।`,
+    content: `अमेरिका में तूफान से तेज हवाओं और भारी बारिश के कारण 10 लाख से ज्यादा घरों की बिजली गुल हो गई। वहीं, 2500 से ज्यादा फ्लाइट्स लेट हुईं और 450 से ज्यादा उड़ानें रद्द करनी पड़ीं।
+
+मौसम विभाग ने चेतावनी दी है कि समुद्र का जलस्तर 14 साल के सबसे ऊंचे स्तर पर पहुंच सकता है। इससे न्यूयॉर्क, न्यू जर्सी और फिलाडेल्फिया समेत कई तटीय इलाकों में बाढ़ का खतरा बढ़ गया है।
+
+पूर्वी तट की ओर बढ़ रहे इस तूफान को 'नॉरईस्टर' कहा जाता है। यह तूफान तेज हवाओं, भारी बारिश और समुद्र में ऊंची लहरों के लिए जाना जाता है।
+
+थैंक्सगिविंग के लिए यात्रा कर रहे लोगों की परेशानी बढ़ी
+
+खराब मौसम के कारण लाखों लोगों की यात्रा प्रभावित हो रही है। थैंक्सगिविंग अमेरिका का बड़ा त्योहार है। इस दौरान लोग अपने परिवार और दोस्तों के साथ समय बिताने के लिए दूसरे शहरों में जाते हैं। ऐसे में हवाई सफर में देरी से यात्रियों की परेशानी बढ़ गई है।
+
+इसका असर सिर्फ हवाई सफर पर ही नहीं, बल्कि त्योहार के कार्यक्रमों पर भी पड़ा है। न्यूयॉर्क में होने वाली मशहूर थैंक्सगिविंग डे परेड को शनिवार तक के लिए टाल दिया गया है। यह परेड का 100वां साल है और इसके इतिहास में पहली बार इसे टालना पड़ा है।
+
+न्यूयॉर्क के मेयर जोहरान ममदानी ने तूफान के खतरे को देखते हुए यह फैसला लिया है। परेड की आयोजक कंपनी मैसीज ने कहा कि लोगों की सुरक्षा उसकी सबसे बड़ी प्राथमिकता है।
+
+अमेरिका के पश्चिमी तट पर समुद्र में उठ रही तेज लहरों ने किनारे बने कई ढांचों को नुकसान पहुंचाया है। सैन डिएगो के आसपास समुद्र का पानी पुराने रिकॉर्ड से भी ऊपर पहुंच गया। इससे आसपास के निचले इलाकों में पानी भरने का खतरा बढ़ गया है।
+
+वहीं, पूर्वी तट पर 2012 में आए सुपरस्टॉर्म सैंडी के बाद समुद्र का जलस्तर सबसे ज्यादा होने का अनुमान है। डेलावेयर और न्यू जर्सी के कुछ इलाकों में तेज हवाओं के कारण बिजली की लाइनें टूटने और सप्लाई बंद होने का खतरा बना हुआ है।
+
+मध्य अमेरिका में बारिश और बर्फबारी का अनुमान
+
+मौसम का असर सिर्फ तटीय इलाकों तक सीमित नहीं है। अमेरिका के मध्य हिस्सों में बुधवार से शुक्रवार तक बारिश और बर्फबारी होने का अनुमान है। इससे कई इलाकों में ठंड और बढ़ सकती है।
+
+इसके अलावा पैसिफिक नॉर्थवेस्ट इलाके में बुधवार रात से बारिश और तेज हवाओं का एक और दौर शुरू होने की आशंका है। यानी देश के अलग-अलग हिस्सों में लोगों को अभी खराब मौसम से राहत मिलने की उम्मीद कम है।
+
+नॉरईस्टर अमेरिका के पूर्वी तट पर आने वाला तेज तूफान है। इसका नाम इसलिए पड़ा क्योंकि इस दौरान हवाएं उत्तर-पूर्व दिशा से चलती हैं। यह तूफान साल के किसी भी समय आ सकता है, लेकिन सितंबर से अप्रैल के बीच ज्यादा आता है। इस दौरान इसकी ताकत भी ज्यादा होती है।
+
+अमेरिका के पूर्वी तट पर इस तूफान के बनने की खास वजह ठंडी और गर्म हवाओं का मिलना है। सर्दियों में आर्कटिक की ठंडी हवाएं कनाडा और अमेरिका से होते हुए अटलांटिक महासागर की ओर बढ़ती हैं। वहीं, मैक्सिको की खाड़ी और अटलांटिक महासागर से गर्म हवाएं उत्तर की तरफ आती हैं।
+
+गल्फ स्ट्रीम नाम की गर्म समुद्री धारा की वजह से सर्दियों में भी समुद्र का पानी गर्म रहता है। इससे समुद्र के ऊपर की हवा भी गर्म हो जाती है। जब समुद्र की गर्म हवा और जमीन की ठंडी हवा आपस में मिलती हैं, तो नॉरईस्टर तूफान बनता है और उसे ताकत मिलती है।
+
+मौसम वैज्ञानिक ब्रायन एडवर्ड्स के मुताबिक, अमेरिका में हर साल औसतन 3 नॉरईस्टर तूफान आते हैं। इनका असर खासतौर पर वॉशिंगटन डीसी, फिलाडेल्फिया, न्यूयॉर्क और बोस्टन जैसे शहरों में देखने को मिलता है। यहां भारी बारिश या बर्फबारी होती है।
+
+अमेरिकी थैंक्सगिविंग तूफान गूगल पर ट्रेंड कर रहा है…
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/international/news/usa-storm-flights-cancelled-coastal-flooding-alert-latest-updates-139811926.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अमेरिका में तूफान से 10 लाख घरों की बिजली गुल: 2500 फ्लाइट्स लेट, 450 रद्द; 14 साल में पानी सबसे ऊंचे लेवल ... - Dainik Bhaskar`,
+    summary_hi: `अमेरिका में तूफान से तेज हवाओं और भारी बारिश के कारण 10 लाख से ज्यादा घरों की बिजली गुल हो गई। वहीं, 2500 से ज्यादा फ्लाइट्स लेट हुईं और 450 से ज्यादा उड़ानें रद्द करनी पड़ीं।`,
+    content_hi: `अमेरिका में तूफान से तेज हवाओं और भारी बारिश के कारण 10 लाख से ज्यादा घरों की बिजली गुल हो गई। वहीं, 2500 से ज्यादा फ्लाइट्स लेट हुईं और 450 से ज्यादा उड़ानें रद्द करनी पड़ीं।
+
+मौसम विभाग ने चेतावनी दी है कि समुद्र का जलस्तर 14 साल के सबसे ऊंचे स्तर पर पहुंच सकता है। इससे न्यूयॉर्क, न्यू जर्सी और फिलाडेल्फिया समेत कई तटीय इलाकों में बाढ़ का खतरा बढ़ गया है।
+
+पूर्वी तट की ओर बढ़ रहे इस तूफान को 'नॉरईस्टर' कहा जाता है। यह तूफान तेज हवाओं, भारी बारिश और समुद्र में ऊंची लहरों के लिए जाना जाता है।
+
+थैंक्सगिविंग के लिए यात्रा कर रहे लोगों की परेशानी बढ़ी
+
+खराब मौसम के कारण लाखों लोगों की यात्रा प्रभावित हो रही है। थैंक्सगिविंग अमेरिका का बड़ा त्योहार है। इस दौरान लोग अपने परिवार और दोस्तों के साथ समय बिताने के लिए दूसरे शहरों में जाते हैं। ऐसे में हवाई सफर में देरी से यात्रियों की परेशानी बढ़ गई है।
+
+इसका असर सिर्फ हवाई सफर पर ही नहीं, बल्कि त्योहार के कार्यक्रमों पर भी पड़ा है। न्यूयॉर्क में होने वाली मशहूर थैंक्सगिविंग डे परेड को शनिवार तक के लिए टाल दिया गया है। यह परेड का 100वां साल है और इसके इतिहास में पहली बार इसे टालना पड़ा है।
+
+न्यूयॉर्क के मेयर जोहरान ममदानी ने तूफान के खतरे को देखते हुए यह फैसला लिया है। परेड की आयोजक कंपनी मैसीज ने कहा कि लोगों की सुरक्षा उसकी सबसे बड़ी प्राथमिकता है।
+
+अमेरिका के पश्चिमी तट पर समुद्र में उठ रही तेज लहरों ने किनारे बने कई ढांचों को नुकसान पहुंचाया है। सैन डिएगो के आसपास समुद्र का पानी पुराने रिकॉर्ड से भी ऊपर पहुंच गया। इससे आसपास के निचले इलाकों में पानी भरने का खतरा बढ़ गया है।
+
+वहीं, पूर्वी तट पर 2012 में आए सुपरस्टॉर्म सैंडी के बाद समुद्र का जलस्तर सबसे ज्यादा होने का अनुमान है। डेलावेयर और न्यू जर्सी के कुछ इलाकों में तेज हवाओं के कारण बिजली की लाइनें टूटने और सप्लाई बंद होने का खतरा बना हुआ है।
+
+मध्य अमेरिका में बारिश और बर्फबारी का अनुमान
+
+मौसम का असर सिर्फ तटीय इलाकों तक सीमित नहीं है। अमेरिका के मध्य हिस्सों में बुधवार से शुक्रवार तक बारिश और बर्फबारी होने का अनुमान है। इससे कई इलाकों में ठंड और बढ़ सकती है।
+
+इसके अलावा पैसिफिक नॉर्थवेस्ट इलाके में बुधवार रात से बारिश और तेज हवाओं का एक और दौर शुरू होने की आशंका है। यानी देश के अलग-अलग हिस्सों में लोगों को अभी खराब मौसम से राहत मिलने की उम्मीद कम है।
+
+नॉरईस्टर अमेरिका के पूर्वी तट पर आने वाला तेज तूफान है। इसका नाम इसलिए पड़ा क्योंकि इस दौरान हवाएं उत्तर-पूर्व दिशा से चलती हैं। यह तूफान साल के किसी भी समय आ सकता है, लेकिन सितंबर से अप्रैल के बीच ज्यादा आता है। इस दौरान इसकी ताकत भी ज्यादा होती है।
+
+अमेरिका के पूर्वी तट पर इस तूफान के बनने की खास वजह ठंडी और गर्म हवाओं का मिलना है। सर्दियों में आर्कटिक की ठंडी हवाएं कनाडा और अमेरिका से होते हुए अटलांटिक महासागर की ओर बढ़ती हैं। वहीं, मैक्सिको की खाड़ी और अटलांटिक महासागर से गर्म हवाएं उत्तर की तरफ आती हैं।
+
+गल्फ स्ट्रीम नाम की गर्म समुद्री धारा की वजह से सर्दियों में भी समुद्र का पानी गर्म रहता है। इससे समुद्र के ऊपर की हवा भी गर्म हो जाती है। जब समुद्र की गर्म हवा और जमीन की ठंडी हवा आपस में मिलती हैं, तो नॉरईस्टर तूफान बनता है और उसे ताकत मिलती है।
+
+मौसम वैज्ञानिक ब्रायन एडवर्ड्स के मुताबिक, अमेरिका में हर साल औसतन 3 नॉरईस्टर तूफान आते हैं। इनका असर खासतौर पर वॉशिंगटन डीसी, फिलाडेल्फिया, न्यूयॉर्क और बोस्टन जैसे शहरों में देखने को मिलता है। यहां भारी बारिश या बर्फबारी होती है।
+
+अमेरिकी थैंक्सगिविंग तूफान गूगल पर ट्रेंड कर रहा है…
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/international/news/usa-storm-flights-cancelled-coastal-flooding-alert-latest-updates-139811926.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक अमेरिका में तूफान से 10 लाख घरों की बिजली गुल: 2500 फ्लाइट्स लेट, 450 रद्द; 14 साल में पानी सबसे ऊंचे लेवल ... - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+  {
+    id: 125,
+    title: `Cricket not to be part of Commowealth Games 2026`,
+    slug: `cricket-not-to-be-part-of-commowealth-games-2026-2026`,
+    original_title: `Cricket not to be part of Commowealth Games 2026`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:02:26Z`,
+    updated_at: `2026-11-28T06:02:26Z`,
+    source_name: `ANI News`,
+    source_url: `http://www.aninews.in/news/cricket-not-to-be-part-of-commowealth-games-202620241022150625/`,
+    source_courtesy: `Source: ANI News`,
+    image_url: `/images/articles/cricket-not-to-be-part-of-commowealth-games-2026-2026.jpg`,
+    image_alt: `Cricket not to be part of Commowealth Games 2026`,
+    image_courtesy: `Image: ANI News (External Source Attribution)`,
+    image_photographer: `ANI News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `ANI | Updated: Oct 22, 2024 15:06 IST`,
+    content: `ANI | Updated: Oct 22, 2024 15:06 IST
+
+New Delhi [India], October 22 (ANI): Cricket will not be part of Commonwealth Games in Glasgow, which will take place from July 23 to August 2, 2026, according to ESPNCricinfo. Only ten disciplines will feature in the competition this time and Cricket, which made its return during the 2022 Commonwealth Games in Birmingham through a women's T20 tournament after its last appearance in 1998 Kuala Lumpur CWG, is not in schedule. Australia had won the tournament, beating Harmanpreet Kaur-led India narrowly in the final. Australian women's team was led by legendary, multi-time World Cup-winning captain Meg Lanning. There are no specific reasons given yet for the scrapping of the sport from the schedule along with field hockey, badminton, shooting and wrestling, among others. "The 2026 Games will be a bridge to the Commonwealth Games of tomorrow - an exciting first step in our journey to reset and redefine the Games as a truly collaborative, flexible and sustainable model for the future that minimises costs, reduces the environmental footprint, and enhances social impact - in doing so increasing the scope of countries capable of hosting," CWG CEO Katie Sadleir said, according to ESPNCricinfo, Budgets, it would appear, is the reason for a much-more trimmed down CWG 2026. This comes when cricket is all set for its return to Olympics, in the 2028 Los Angeles edition, after 128 years. Cricket was a part of Olympics back in 1900 and will now feature in T20 format in the LA Olympics. Great Britain had won the cricket gold medal in 1900, beating France in the final. Cricket was also brought back to the Asian Games in Hangzhou last year after 2014, with a multi-nation T20 tournament for men's and women's teams. India secured both the top prizes, with Afghanistan and Bangladesh winning silver and bronze respectively among the men, and Sri Lanka and Bangladesh getting silver and bronze in the women's category. The decision to add cricket to the Olympics 2028 was taken at the 141st International Olympic Committee (IOC) session held in Mumbai during October last year. "Some of you might be wondering why [cricket] in LA," Niccolo Campriani, director of the LA2028 local organising committee, had said back then announcing the sport's return. "Well, the commitment to grow cricket in the US is real, and it has already happening with the launch of the very first Major League Cricket season earlier this year, which exceeded all expectations. And the [men's] T20 World Cup in 2024 coming to US and West Indies," he concluded. (ANI)
+
+cricket removed commonwealth games 2026
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/cricket-not-to-be-part-of-commowealth-games-202620241022150625/)`,
+    title_en: `Cricket not to be part of Commowealth Games 2026`,
+    summary_en: `ANI | Updated: Oct 22, 2024 15:06 IST`,
+    content_en: `ANI | Updated: Oct 22, 2024 15:06 IST
+
+New Delhi [India], October 22 (ANI): Cricket will not be part of Commonwealth Games in Glasgow, which will take place from July 23 to August 2, 2026, according to ESPNCricinfo. Only ten disciplines will feature in the competition this time and Cricket, which made its return during the 2022 Commonwealth Games in Birmingham through a women's T20 tournament after its last appearance in 1998 Kuala Lumpur CWG, is not in schedule. Australia had won the tournament, beating Harmanpreet Kaur-led India narrowly in the final. Australian women's team was led by legendary, multi-time World Cup-winning captain Meg Lanning. There are no specific reasons given yet for the scrapping of the sport from the schedule along with field hockey, badminton, shooting and wrestling, among others. "The 2026 Games will be a bridge to the Commonwealth Games of tomorrow - an exciting first step in our journey to reset and redefine the Games as a truly collaborative, flexible and sustainable model for the future that minimises costs, reduces the environmental footprint, and enhances social impact - in doing so increasing the scope of countries capable of hosting," CWG CEO Katie Sadleir said, according to ESPNCricinfo, Budgets, it would appear, is the reason for a much-more trimmed down CWG 2026. This comes when cricket is all set for its return to Olympics, in the 2028 Los Angeles edition, after 128 years. Cricket was a part of Olympics back in 1900 and will now feature in T20 format in the LA Olympics. Great Britain had won the cricket gold medal in 1900, beating France in the final. Cricket was also brought back to the Asian Games in Hangzhou last year after 2014, with a multi-nation T20 tournament for men's and women's teams. India secured both the top prizes, with Afghanistan and Bangladesh winning silver and bronze respectively among the men, and Sri Lanka and Bangladesh getting silver and bronze in the women's category. The decision to add cricket to the Olympics 2028 was taken at the 141st International Olympic Committee (IOC) session held in Mumbai during October last year. "Some of you might be wondering why [cricket] in LA," Niccolo Campriani, director of the LA2028 local organising committee, had said back then announcing the sport's return. "Well, the commitment to grow cricket in the US is real, and it has already happening with the launch of the very first Major League Cricket season earlier this year, which exceeded all expectations. And the [men's] T20 World Cup in 2024 coming to US and West Indies," he concluded. (ANI)
+
+cricket removed commonwealth games 2026
+
+---
+
+**Original Source:** [ANI News](http://www.aninews.in/news/cricket-not-to-be-part-of-commowealth-games-202620241022150625/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to ANI News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Cricket not to be part of Commowealth Games 2026.`,
+    primary_source: `ANI News`,
+  },
+  {
+    id: 126,
+    title: `O.M Operation Mole Box Office Collection Day 9 - Sacnilk`,
+    slug: `om-operation-mole-box-office-collection-day-9-sacnilk-2026`,
+    original_title: `O.M Operation Mole Box Office Collection Day 9 - Sacnilk`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:02:27Z`,
+    updated_at: `2026-11-28T06:02:27Z`,
+    source_name: `Sacnilk`,
+    source_url: `https://www.sacnilk.com/quicknews/OM_Chapter_1_Udhiram_2026_Box_Office_Collection_Day_9`,
+    source_courtesy: `Source: Sacnilk`,
+    image_url: `/images/articles/om-operation-mole-box-office-collection-day-9-sacnilk-2026.jpg`,
+    image_alt: `O.M Operation Mole Box Office Collection Day 9 - Sacnilk`,
+    image_courtesy: `Image: Sacnilk (External Source Attribution)`,
+    image_photographer: `Sacnilk`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `As of Day 9,
+                            O.M Operation Mole                                                            is currently running across 641                                    shows and has collected a net of ₹39 L today — Tamil (`,
+    content: `As of Day 9,
+                            O.M Operation Mole                                                            is currently running across 641                                    shows and has collected a net of ₹39 L today — Tamil (Day 9) ₹31 L from 490 shows and Telugu (Day 9) ₹8 L from 151 shows.
+                                This brings total India gross collections to ₹83.34 Cr and total India net to ₹71.89 Cr so far, with India final
+                                collections yet to be reported.
+
+The Day 9 figure for O.M Operation Mole is a running estimate from 641 shows tracked so far; the final count comes in the night.
+
+Live Data: The following collection figures are being
+                                                    updated in real-time as reports come in.
+                                                    Complete and final box office numbers will be available later tonight.
+
+PVR · INOX · Cinepolis split: free with a Sacnilk login
+
+### O.M Operation Mole · Box Office Summary
+
+Tamil led O.M Operation Mole's Day 9 with ₹31 L , 79.5% of the day's ₹39 L ; Telugu followed with ₹8 L .
+
+### Dhanush's OM Box Office Recovers Just 53% of Reported Tamil Nadu Rights Value as Overseas Business Slows Down
+
+By Christa Lincy · 26 Nov 2026, 10:29 AM IST
+
+Chennai, November 26, 2026: When the theatrical business of Dhanush's OM Chapter 1: Udhiram was being negotiated, much of the confidence surrounding the film came from Rajkumar Periasamy's phenomenal success with Amaran. Despite Dhanush's relatively modest returns in Tamil Nadu with some of his recent releases, the director's track record, a strong ensemble cast and the film's scale encouraged distributors to invest considerably. While OM has gone on to deliver the biggest worldwide opening weekend of Dhanush's career, its performance over the weekdays presents a different picture from a business perspective.
+
+The action thriller, also starring Mammootty and Sai Pallavi, has collected ₹76 crore gross in India after six days. With overseas collections standing at an estimated ₹30.25 crore, its worldwide gross stands at an estimated ₹106.25 crore , subject to revision. However, the commercial expectations attached to its theatrical rights suggest that entering the ₹100 crore club may not be enough to ensure a profitable venture for its distributors.
+
+Day 9 occupancy will appear here as shows start.
+
+Advance booking for Day 10 (Sun 29 Nov) of O.M Operation Mole stands at ₹1.49 Cr gross as of 11:00 AM IST, 28 Nov.
+
+Releasing a film? Reach 10M+ movie fans → Advertise with Sacnilk
+
+O.M Operation Mole An emotional drama set in a gritty world ruled by lawbreakers and law-enforcers in close proximity, where Greed, Power and Poverty unleashes cruelty, criminality, violence and bloodshed.
+
+### O.M Operation Mole Box Office Collection | All Language | Day Wise | Worldwide
+
+Here is the Tamil movie OM Chapter 1: Udhiram box office collection which is an Action Thriller film. This film is directed by Rajkumar Peri...
+
+Chennai, November 26, 2026: When the theatrical business of Dhanush's OM Chapter 1: Udhiram was being negotiated, much of the confidence sur...
+
+### OM Box Office Day 5 Advance Booking and Prediction: Dhanush Eyes His Fastest ₹100 Crore Worldwide Grosser
+
+Chennai, November 24, 2026: After delivering the biggest opening weekend of Dhanush's career, OM Chapter 1: Udhiram is approaching a milesto...
+
+### OM Chapter 1 Udhiram Opening Weekend Box Office Becomes Dhanush’s Career Best With ₹85 Crore Worldwide
+
+Chennai, November 23, 2026: Dhanush's latest release, OM Chapter 1: Udhiram, has delivered a career-best opening weekend at the worldwide bo...
+
+### OM Box Office Day 2 Beats Kuberaa's Over ₹54 Crore Two-Day Worldwide Gross to Set Dhanush's New Career Record
+
+Chennai, November 22, 2026: Dhanush has experienced contrasting fortunes at the box office in recent years. Raayan emerged as one of his big...
+
+### OM Twitter Reviews: Dhanush and Mammootty's Spy Thriller Wins Praise, but Is It Worth Watching?
+
+Chennai, November 20, 2026: Dhanush returns to theatres with OM Chapter 1: Udhiram at a time when his Tamil Nadu box office performance has ...
+
+### O.M Operation Mole Box Office Collection Day 9
+
+### O.M Operation Mole Box Office Collection Day 8
+
+### O.M Operation Mole Tenth Day Advance Booking Report
+
+### O.M Operation Mole Ninth Day Advance Booking Report
+
+### O.M Operation Mole Eighth Day Advance Booking Report
+
+---
+
+**Original Source:** [Sacnilk](https://www.sacnilk.com/quicknews/OM_Chapter_1_Udhiram_2026_Box_Office_Collection_Day_9)`,
+    title_en: `O.M Operation Mole Box Office Collection Day 9 - Sacnilk`,
+    summary_en: `As of Day 9,
+                            O.M Operation Mole                                                            is currently running across 641                                    shows and has collected a net of ₹39 L today — Tamil (`,
+    content_en: `As of Day 9,
+                            O.M Operation Mole                                                            is currently running across 641                                    shows and has collected a net of ₹39 L today — Tamil (Day 9) ₹31 L from 490 shows and Telugu (Day 9) ₹8 L from 151 shows.
+                                This brings total India gross collections to ₹83.34 Cr and total India net to ₹71.89 Cr so far, with India final
+                                collections yet to be reported.
+
+The Day 9 figure for O.M Operation Mole is a running estimate from 641 shows tracked so far; the final count comes in the night.
+
+Live Data: The following collection figures are being
+                                                    updated in real-time as reports come in.
+                                                    Complete and final box office numbers will be available later tonight.
+
+PVR · INOX · Cinepolis split: free with a Sacnilk login
+
+### O.M Operation Mole · Box Office Summary
+
+Tamil led O.M Operation Mole's Day 9 with ₹31 L , 79.5% of the day's ₹39 L ; Telugu followed with ₹8 L .
+
+### Dhanush's OM Box Office Recovers Just 53% of Reported Tamil Nadu Rights Value as Overseas Business Slows Down
+
+By Christa Lincy · 26 Nov 2026, 10:29 AM IST
+
+Chennai, November 26, 2026: When the theatrical business of Dhanush's OM Chapter 1: Udhiram was being negotiated, much of the confidence surrounding the film came from Rajkumar Periasamy's phenomenal success with Amaran. Despite Dhanush's relatively modest returns in Tamil Nadu with some of his recent releases, the director's track record, a strong ensemble cast and the film's scale encouraged distributors to invest considerably. While OM has gone on to deliver the biggest worldwide opening weekend of Dhanush's career, its performance over the weekdays presents a different picture from a business perspective.
+
+The action thriller, also starring Mammootty and Sai Pallavi, has collected ₹76 crore gross in India after six days. With overseas collections standing at an estimated ₹30.25 crore, its worldwide gross stands at an estimated ₹106.25 crore , subject to revision. However, the commercial expectations attached to its theatrical rights suggest that entering the ₹100 crore club may not be enough to ensure a profitable venture for its distributors.
+
+Day 9 occupancy will appear here as shows start.
+
+Advance booking for Day 10 (Sun 29 Nov) of O.M Operation Mole stands at ₹1.49 Cr gross as of 11:00 AM IST, 28 Nov.
+
+Releasing a film? Reach 10M+ movie fans → Advertise with Sacnilk
+
+O.M Operation Mole An emotional drama set in a gritty world ruled by lawbreakers and law-enforcers in close proximity, where Greed, Power and Poverty unleashes cruelty, criminality, violence and bloodshed.
+
+### O.M Operation Mole Box Office Collection | All Language | Day Wise | Worldwide
+
+Here is the Tamil movie OM Chapter 1: Udhiram box office collection which is an Action Thriller film. This film is directed by Rajkumar Peri...
+
+Chennai, November 26, 2026: When the theatrical business of Dhanush's OM Chapter 1: Udhiram was being negotiated, much of the confidence sur...
+
+### OM Box Office Day 5 Advance Booking and Prediction: Dhanush Eyes His Fastest ₹100 Crore Worldwide Grosser
+
+Chennai, November 24, 2026: After delivering the biggest opening weekend of Dhanush's career, OM Chapter 1: Udhiram is approaching a milesto...
+
+### OM Chapter 1 Udhiram Opening Weekend Box Office Becomes Dhanush’s Career Best With ₹85 Crore Worldwide
+
+Chennai, November 23, 2026: Dhanush's latest release, OM Chapter 1: Udhiram, has delivered a career-best opening weekend at the worldwide bo...
+
+### OM Box Office Day 2 Beats Kuberaa's Over ₹54 Crore Two-Day Worldwide Gross to Set Dhanush's New Career Record
+
+Chennai, November 22, 2026: Dhanush has experienced contrasting fortunes at the box office in recent years. Raayan emerged as one of his big...
+
+### OM Twitter Reviews: Dhanush and Mammootty's Spy Thriller Wins Praise, but Is It Worth Watching?
+
+Chennai, November 20, 2026: Dhanush returns to theatres with OM Chapter 1: Udhiram at a time when his Tamil Nadu box office performance has ...
+
+### O.M Operation Mole Box Office Collection Day 9
+
+### O.M Operation Mole Box Office Collection Day 8
+
+### O.M Operation Mole Tenth Day Advance Booking Report
+
+### O.M Operation Mole Ninth Day Advance Booking Report
+
+### O.M Operation Mole Eighth Day Advance Booking Report
+
+---
+
+**Original Source:** [Sacnilk](https://www.sacnilk.com/quicknews/OM_Chapter_1_Udhiram_2026_Box_Office_Collection_Day_9)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Sacnilk.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for O.M Operation Mole Box Office Collection Day 9 - Sacnilk.`,
+    primary_source: `Sacnilk`,
+  },
+  {
+    id: 127,
+    title: `रात के 3 बजे घर बुलाया', काम के बदले बूढ़े शख्स ने की डिमांड, चौंकी एक्ट्रेस, किया ब्लॉक - AajTak`,
+    slug: `3-aajtak-2026`,
+    original_title: `रात के 3 बजे घर बुलाया', काम के बदले बूढ़े शख्स ने की डिमांड, चौंकी एक्ट्रेस, किया ब्लॉक - AajTak`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:02:31Z`,
+    updated_at: `2026-11-28T06:02:31Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/entertainment/news/photo/manisha-rani-casting-couch-old-man-called-her-midnight-demands-favor-bihari-girl-shocked-tmovf-2708151-2026-11-28`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6b09bfc0383b6-manisha-rani-casting-couch-273703121.jpg`,
+    image_alt: `रात के 3 बजे घर बुलाया', काम के बदले बूढ़े शख्स ने की डिमांड, चौंकी एक्ट्रेस, किया ब्लॉक - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `मनीषा रानी ने बिहार के गांव से निकलकर इंडस्ट्री में अपना बड़ा नाम कमाया है. मनीषा सोशल मीडिया के साथ टीवी इंडस्ट्री की भी स्टार बन चुकी हैं.`,
+    content: `मनीषा रानी ने बिहार के गांव से निकलकर इंडस्ट्री में अपना बड़ा नाम कमाया है. मनीषा सोशल मीडिया के साथ टीवी इंडस्ट्री की भी स्टार बन चुकी हैं.
+
+लेकिन करियर में इस मुकाम तक पहुंचना मनीषा रानी के लिए आसान नहीं था. उन्होंने काफी मेहनत की और कई मुश्किलें भी झेलीं.
+
+मनीषा करियर में कास्टिंग काउच का भी सामना कर चुकी हैं. Galatta India संग अपने एक पुराने इंटरव्यू में उन्होंने अपने साथ हुए एक खराब एक्सपीरियंस पर बात की थी.
+
+मनीषा से पूछा गया था कि क्या कभी कुछ लोगों ने उनसे काम के बदले फेवर मांगे हैं? इसपर मनीषा ने हामी भरी थी.
+
+एक्ट्रेस ने कहा था- एक शख्स था, उसने मेरे कई वीडियोज देखे और मुझे कॉन्फिडेंस दिया कि तुम तो हो जाओगी सेलेक्ट.उसके बाद एक गंजा बूढ़ा था करीब 45-50 साल का...उसने काम को लेकर मुझे काफी उम्मीदें दीं.. जब मैं बिहार में थी.
+
+'फिर जब मैं मुंबई आई, तो वो शख्स तब से मुझे मिलने के लिए बोल रहा था. फिर एक बार रात के तीन बजे कॉल करके मिलने के लिए बुलाने लगा. कहता मेरे घर आ जाओ.'
+
+'मैंने मना कर दिया कि घर तो नहीं आ सकती, तो फिर वो मुझसे रूडली बात करने लगा. कहने लगा- तुमने कैसे मुझे बोला कि तुम नहीं आओगी.
+
+'तुम्हें इंडस्ट्री में टिकने नहीं दूंगा. ये सब बोलकर उसने फोन काट दिया. उसके बाद मैंने उसे तभी ब्लॉक कर दिया. मुझे समझ आ गया था कि ये कोई काम-वाम तो दिलवाएगा नहीं.'
+
+खैर, मनीषा रानी आज एक बड़ी स्टार बन चुकी हैं. उनकी तगड़ी फैन फॉलोइंग हैं. मनीषा फैंस के दिलों पर राज करती हैं.
+
+(Photos: Instagram @manisharani002)
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/news/photo/manisha-rani-casting-couch-old-man-called-her-midnight-demands-favor-bihari-girl-shocked-tmovf-2708151-2026-11-28)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `रात के 3 बजे घर बुलाया', काम के बदले बूढ़े शख्स ने की डिमांड, चौंकी एक्ट्रेस, किया ब्लॉक - AajTak`,
+    summary_hi: `मनीषा रानी ने बिहार के गांव से निकलकर इंडस्ट्री में अपना बड़ा नाम कमाया है. मनीषा सोशल मीडिया के साथ टीवी इंडस्ट्री की भी स्टार बन चुकी हैं.`,
+    content_hi: `मनीषा रानी ने बिहार के गांव से निकलकर इंडस्ट्री में अपना बड़ा नाम कमाया है. मनीषा सोशल मीडिया के साथ टीवी इंडस्ट्री की भी स्टार बन चुकी हैं.
+
+लेकिन करियर में इस मुकाम तक पहुंचना मनीषा रानी के लिए आसान नहीं था. उन्होंने काफी मेहनत की और कई मुश्किलें भी झेलीं.
+
+मनीषा करियर में कास्टिंग काउच का भी सामना कर चुकी हैं. Galatta India संग अपने एक पुराने इंटरव्यू में उन्होंने अपने साथ हुए एक खराब एक्सपीरियंस पर बात की थी.
+
+मनीषा से पूछा गया था कि क्या कभी कुछ लोगों ने उनसे काम के बदले फेवर मांगे हैं? इसपर मनीषा ने हामी भरी थी.
+
+एक्ट्रेस ने कहा था- एक शख्स था, उसने मेरे कई वीडियोज देखे और मुझे कॉन्फिडेंस दिया कि तुम तो हो जाओगी सेलेक्ट.उसके बाद एक गंजा बूढ़ा था करीब 45-50 साल का...उसने काम को लेकर मुझे काफी उम्मीदें दीं.. जब मैं बिहार में थी.
+
+'फिर जब मैं मुंबई आई, तो वो शख्स तब से मुझे मिलने के लिए बोल रहा था. फिर एक बार रात के तीन बजे कॉल करके मिलने के लिए बुलाने लगा. कहता मेरे घर आ जाओ.'
+
+'मैंने मना कर दिया कि घर तो नहीं आ सकती, तो फिर वो मुझसे रूडली बात करने लगा. कहने लगा- तुमने कैसे मुझे बोला कि तुम नहीं आओगी.
+
+'तुम्हें इंडस्ट्री में टिकने नहीं दूंगा. ये सब बोलकर उसने फोन काट दिया. उसके बाद मैंने उसे तभी ब्लॉक कर दिया. मुझे समझ आ गया था कि ये कोई काम-वाम तो दिलवाएगा नहीं.'
+
+खैर, मनीषा रानी आज एक बड़ी स्टार बन चुकी हैं. उनकी तगड़ी फैन फॉलोइंग हैं. मनीषा फैंस के दिलों पर राज करती हैं.
+
+(Photos: Instagram @manisharani002)
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/news/photo/manisha-rani-casting-couch-old-man-called-her-midnight-demands-favor-bihari-girl-shocked-tmovf-2708151-2026-11-28)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक रात के 3 बजे घर बुलाया', काम के बदले बूढ़े शख्स ने की डिमांड, चौंकी एक्ट्रेस, किया ब्लॉक - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 128,
+    title: `India, Nepal Prime Ministers Flag-Off Ayodhya-Janakpur Train; Boost to Ramayana Circuit - PGurus`,
+    slug: `india-nepal-prime-ministers-flag-off-ayodhya-janakpur-train-boost-to-r-2026`,
+    original_title: `India, Nepal Prime Ministers Flag-Off Ayodhya-Janakpur Train; Boost to Ramayana Circuit - PGurus`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:02:34Z`,
+    updated_at: `2026-11-28T06:02:34Z`,
+    source_name: `PGurus`,
+    source_url: `https://www.pgurus.com/india-nepal-prime-ministers-flag-off-ayodhya-janakpur-train-boost-to-ramayana-circuit/`,
+    source_courtesy: `Source: PGurus`,
+    image_url: `/images/articles/india-nepal-prime-ministers-flag-off-ayodhya-janakpur-train-boost-to-r-2026.jpg`,
+    image_alt: `India, Nepal Prime Ministers Flag-Off Ayodhya-Janakpur Train; Boost to Ramayana Circuit - PGurus`,
+    image_courtesy: `Image: PGurus (External Source Attribution)`,
+    image_photographer: `PGurus`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `Ram meets Janaki: Modi, Balendra Shah launch Ayodhya–Janakpur Express  Prime Minister Narendra Modi and his Nepalese counterpart, Balendra Shah, virtually flagged off the Saryu-Kamala Express on Monday, linking Ayodhya in Uttar Pradesh and `,
+    content: `Ram meets Janaki: Modi, Balendra Shah launch Ayodhya–Janakpur Express  Prime Minister Narendra Modi and his Nepalese counterpart, Balendra Shah, virtually flagged off the Saryu-Kamala Express on Monday, linking Ayodhya in Uttar Pradesh and Janakpur Dham in Nepal, two holy places associated with Lord Ram and Mata Sita, expected to give a fillip to religious and cultural tourism on the Ramayana Circuit.
+
+"Nepal and India have been bound by historical, cultural and civilisational ties since the sacred era of Lord Ram and Mata Janaki. Today we have inaugurated rail connectivity to make this bond even more vibrant," Shah, who is on his first state visit, said in Delhi. Hindu devotees consider the temple town of Ayodhya to be the birthplace of Lord Ram -- 'Ramjanmabhoomi -- and it is also the site of a grand new Ram Mandir built over the past few years, which attracts devotees every day from across the country and abroad.
+
+The birthplace of Mata Sita, or Mata Janaki, is believed to be Janakpur Dham in today's Nepal, while another tradition holds that she was born in Sitamarhi, a place in today's north Bihar near the India-Nepal border. Modi and Shah, who arrived in India on Sunday, held wide-ranging talks at the Hyderabad House in Delhi that produced several key outcomes to further solidify the bilateral ties.
+
+India-Nepal relationship is not merely that of neighbours, but it is reflective of unbreakable trust and friendship, Modi said in his remarks. Shah said that the ties between India and Nepal "stand as firm as the Himalayas and as vast as the oceans". The two leaders virtually laid the foundation of several India-assisted projects in Nepal and flagged off the cross-border passenger rail link between Ayodhya and Janakpur Dham.
+
+The weekly express train will take about 19 hours to cover the 604-km distance between Ayodhya Cantt and Janakpur Dham stations. Passengers will not need to change trains during the journey, the Uttar Pradesh government had said in a statement earlier this month. Uttar Pradesh Chief Minister Yogi Adityanath said the train service represents the "sacred confluence of two cultures" and would further strengthen the centuries-old relationship between India and Nepal.
+
+"The launch of this rail service will enable devotees from Nepal to directly visit Ram Lalla, while devotees from India will be able to visit Janakpur Dham and seek the blessings of Mata Janaki," he said. The service will operate once a week, departing from Ayodhya Cantt every Monday at 5.50 pm and reaching Janakpur Dham at 12.40 pm (Nepalese time) on Tuesdays.
+
+It will pass through Mankapur, Basti, Gorakhpur, Narkatiaganj, Raxaul, Sitamarhi, Shisho, Madhubani, and Jaynagar. On its return leg, it will leave Janakpur Dham at 1.10 pm (Nepalese time) every Saturday and reach Ayodhya Cantt at 8.10 am on Sundays, it said. Samajwadi Party MP from Faizabad Awadhesh Prasad welcomed the initiative and congratulated the prime ministers of India and Nepal on the launch of the train service.
+
+He, however, expressed unhappiness over not being invited to the train launch in Ayodhya despite being the local MP. Prasad said he was neither informed over the phone nor sent an invitation card for the event, despite the significance of the project connecting Ayodhya Dham with Janakpur.
+
+Walls at the Janakpur Dham station bear decorative murals -- Mithila paintings, a celebrated art of the region. Priyanka Gupta, a passenger, said she felt privileged to be part of the journey. "We know so much about Lord Ram... It will now allow us to go to Mata Sita's place associated with her childhood and learn about her," she told PTI Videos.
+
+Gupta and many other passengers, some of whom came to Ayodhya after travelling long distances from Kolkata, Bengaluru and other places, hailed the decision of the governments of India and Nepal to run this "special train". "I am sure people of Nepal will be equally excited to travel to India, and the way we are delighted to go to Nepal, they too, I am sure, will be happy to board the train on its return journey," she added.
+
+Other passengers waiting at Ayodhya Cantt station said the train will allow people from both sides to explore new areas. Dixit, another passenger of the inaugural run, said, "I have come from Bengaluru, and I will do the Ayodhya-to-Nepal journey. "This is a direct train, so it is a good initiative, and we will undertake a train journey from Sita Mata's 'sasural' (in-laws' place) to her 'maika' (parents' place).
+
+I am very excited."    Sita, after spending her childhood in Jankapur, had come to Ayodhya as a bride of Lord Ram, and folk songs in both India and Nepal celebrate the story of their union. On the Pran Pratishtha -- the consecration ceremony of the then under-construction Ram temple-- held in Ayodhya in January 2024, and days ahead of it, a large number of people from Nepal had flocked to the temple town bearing gifts ('bhaar') for the occasion, signifying the historic tie between the two neighbouring countries.
+
+For all the latest updates, download PGurus App.
+
+---
+
+**Original Source:** [PGurus](https://www.pgurus.com/india-nepal-prime-ministers-flag-off-ayodhya-janakpur-train-boost-to-ramayana-circuit/)`,
+    title_en: `India, Nepal Prime Ministers Flag-Off Ayodhya-Janakpur Train; Boost to Ramayana Circuit - PGurus`,
+    summary_en: `Ram meets Janaki: Modi, Balendra Shah launch Ayodhya–Janakpur Express  Prime Minister Narendra Modi and his Nepalese counterpart, Balendra Shah, virtually flagged off the Saryu-Kamala Express on Monday, linking Ayodhya in Uttar Pradesh and `,
+    content_en: `Ram meets Janaki: Modi, Balendra Shah launch Ayodhya–Janakpur Express  Prime Minister Narendra Modi and his Nepalese counterpart, Balendra Shah, virtually flagged off the Saryu-Kamala Express on Monday, linking Ayodhya in Uttar Pradesh and Janakpur Dham in Nepal, two holy places associated with Lord Ram and Mata Sita, expected to give a fillip to religious and cultural tourism on the Ramayana Circuit.
+
+"Nepal and India have been bound by historical, cultural and civilisational ties since the sacred era of Lord Ram and Mata Janaki. Today we have inaugurated rail connectivity to make this bond even more vibrant," Shah, who is on his first state visit, said in Delhi. Hindu devotees consider the temple town of Ayodhya to be the birthplace of Lord Ram -- 'Ramjanmabhoomi -- and it is also the site of a grand new Ram Mandir built over the past few years, which attracts devotees every day from across the country and abroad.
+
+The birthplace of Mata Sita, or Mata Janaki, is believed to be Janakpur Dham in today's Nepal, while another tradition holds that she was born in Sitamarhi, a place in today's north Bihar near the India-Nepal border. Modi and Shah, who arrived in India on Sunday, held wide-ranging talks at the Hyderabad House in Delhi that produced several key outcomes to further solidify the bilateral ties.
+
+India-Nepal relationship is not merely that of neighbours, but it is reflective of unbreakable trust and friendship, Modi said in his remarks. Shah said that the ties between India and Nepal "stand as firm as the Himalayas and as vast as the oceans". The two leaders virtually laid the foundation of several India-assisted projects in Nepal and flagged off the cross-border passenger rail link between Ayodhya and Janakpur Dham.
+
+The weekly express train will take about 19 hours to cover the 604-km distance between Ayodhya Cantt and Janakpur Dham stations. Passengers will not need to change trains during the journey, the Uttar Pradesh government had said in a statement earlier this month. Uttar Pradesh Chief Minister Yogi Adityanath said the train service represents the "sacred confluence of two cultures" and would further strengthen the centuries-old relationship between India and Nepal.
+
+"The launch of this rail service will enable devotees from Nepal to directly visit Ram Lalla, while devotees from India will be able to visit Janakpur Dham and seek the blessings of Mata Janaki," he said. The service will operate once a week, departing from Ayodhya Cantt every Monday at 5.50 pm and reaching Janakpur Dham at 12.40 pm (Nepalese time) on Tuesdays.
+
+It will pass through Mankapur, Basti, Gorakhpur, Narkatiaganj, Raxaul, Sitamarhi, Shisho, Madhubani, and Jaynagar. On its return leg, it will leave Janakpur Dham at 1.10 pm (Nepalese time) every Saturday and reach Ayodhya Cantt at 8.10 am on Sundays, it said. Samajwadi Party MP from Faizabad Awadhesh Prasad welcomed the initiative and congratulated the prime ministers of India and Nepal on the launch of the train service.
+
+He, however, expressed unhappiness over not being invited to the train launch in Ayodhya despite being the local MP. Prasad said he was neither informed over the phone nor sent an invitation card for the event, despite the significance of the project connecting Ayodhya Dham with Janakpur.
+
+Walls at the Janakpur Dham station bear decorative murals -- Mithila paintings, a celebrated art of the region. Priyanka Gupta, a passenger, said she felt privileged to be part of the journey. "We know so much about Lord Ram... It will now allow us to go to Mata Sita's place associated with her childhood and learn about her," she told PTI Videos.
+
+Gupta and many other passengers, some of whom came to Ayodhya after travelling long distances from Kolkata, Bengaluru and other places, hailed the decision of the governments of India and Nepal to run this "special train". "I am sure people of Nepal will be equally excited to travel to India, and the way we are delighted to go to Nepal, they too, I am sure, will be happy to board the train on its return journey," she added.
+
+Other passengers waiting at Ayodhya Cantt station said the train will allow people from both sides to explore new areas. Dixit, another passenger of the inaugural run, said, "I have come from Bengaluru, and I will do the Ayodhya-to-Nepal journey. "This is a direct train, so it is a good initiative, and we will undertake a train journey from Sita Mata's 'sasural' (in-laws' place) to her 'maika' (parents' place).
+
+I am very excited."    Sita, after spending her childhood in Jankapur, had come to Ayodhya as a bride of Lord Ram, and folk songs in both India and Nepal celebrate the story of their union. On the Pran Pratishtha -- the consecration ceremony of the then under-construction Ram temple-- held in Ayodhya in January 2024, and days ahead of it, a large number of people from Nepal had flocked to the temple town bearing gifts ('bhaar') for the occasion, signifying the historic tie between the two neighbouring countries.
+
+For all the latest updates, download PGurus App.
+
+---
+
+**Original Source:** [PGurus](https://www.pgurus.com/india-nepal-prime-ministers-flag-off-ayodhya-janakpur-train-boost-to-ramayana-circuit/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to PGurus.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for India, Nepal Prime Ministers Flag-Off Ayodhya-Janakpur Train; Boost to Ramayana Circuit - PGurus.`,
+    primary_source: `PGurus`,
+  },
+  {
+    id: 129,
+    title: `त्याग की रामायण बनाम स्वार्थ का महाभारत! रोहित पवार की पोस्ट से महाराष्ट्र में सियासी हलचल तेज - Navbharat Live`,
+    slug: `navbharat-live-2026`,
+    original_title: `त्याग की रामायण बनाम स्वार्थ का महाभारत! रोहित पवार की पोस्ट से महाराष्ट्र में सियासी हलचल तेज - Navbharat Live`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:02:35Z`,
+    updated_at: `2026-11-28T06:02:35Z`,
+    source_name: `Navbharat Live`,
+    source_url: `https://navbharatlive.com/maharashtra/mumbai/rohit-pawar-post-ramayan-mahabharat-tyag-swarth-maharashtra-politics-gsp26`,
+    source_courtesy: `Source: Navbharat Live`,
+    image_url: `/images/articles/navbharat-live-2026.jpg`,
+    image_alt: `त्याग की रामायण बनाम स्वार्थ का महाभारत! रोहित पवार की पोस्ट से महाराष्ट्र में सियासी हलचल तेज - Navbharat Live`,
+    image_courtesy: `Image: Navbharat Live (External Source Attribution)`,
+    image_photographer: `Navbharat Live`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `Highlightsरोहित पवार ने नई फिल्म 'रामायण' देखने के बाद सोशल मीडिया पर पोस्ट की।राजा दशरथ के वचन और प्रभु श्रीराम के त्याग का किया जिक्र।आज के दौर में स्वार्थ की बुनियाद पर महाभारत होने की बात कही।पोस्ट में किसी नेता या राजनीतिक दल का नाम नह`,
+    content: `Highlightsरोहित पवार ने नई फिल्म 'रामायण' देखने के बाद सोशल मीडिया पर पोस्ट की।राजा दशरथ के वचन और प्रभु श्रीराम के त्याग का किया जिक्र।आज के दौर में स्वार्थ की बुनियाद पर महाभारत होने की बात कही।पोस्ट में किसी नेता या राजनीतिक दल का नाम नहीं लिया।परिसीमन बिल पर शरद पवार गुट के समर्थन के बीच पोस्ट ने बढ़ाई राजनीतिक चर्चा।.Sharad Pawar NCP SP Delimitation Bill Support: महाराष्ट्र की राजनीति में इन दिनों परिसीमन बिल को लेकर हलचल तेज है।
+
+इसी बीच NCP (शरदचंद्र पवार) के विधायक रोहित पवार की एक सोशल मीडिया पोस्ट ने नई राजनीतिक चर्चा छेड़ दी है। रोहित पवार ने फिल्म रामायण देखने के बाद प्रभु श्रीराम के त्याग और आज के दौर में दिखाई देने वाले स्वार्थ की तुलना की है। उन्होंने लिखा कि वास्तविक जीवन में कई बार रामायण के त्याग के बजाय स्वार्थ की बुनियाद पर खड़ा महाभारत देखने को मिलता है।
+
+खास बात यह है कि उनकी यह पोस्ट ऐसे समय आई है, जब शरद पवार गुट की ओर से परिसीमन बिल को समर्थन देने की बात सामने आई है।.रामायण देखकर क्या बोले रोहित पवार?रोहित पवार ने अपनी पोस्ट में लिखा कि रोजमर्रा की भागदौड़ भरी जिंदगी से थोड़ा समय निकालकर उन्हें नई आई फिल्म 'रामायण' देखने का मौका मिला।
+
+फिल्म में राजा दशरथ द्वारा दिए गए वचन और उस वचन को निभाने के लिए प्रभु श्रीराम द्वारा नैतिकता के रास्ते पर चलते हुए किए गए सर्वस्व त्याग ने उन्हें प्रभावित किया।उन्होंने आगे लिखा कि प्रभु श्रीराम का त्याग हमेशा की तरह उन्हें बहुत प्रभावित कर गया। लेकिन वास्तविक जिंदगी में कई लोगों के व्यवहार में इसके ठीक उलट देखने को मिलता है।
+
+यहां त्याग की भावना के बजाय स्वार्थ को प्राथमिकता दी जाती है।.परिसीमन बिल पर शरद पवार गुट का बड़ा फैसला, समर्थन करेगा NCP (SP); जितेंद्र आव्हाड ने दी जानकारी.त्याग की रामायण नहीं, स्वार्थ का महाभारतरोहित पवार ने अपनी पोस्ट में लिखा कि अगर इतिहास का उदाहरण देना हो, तो आज कई जगह त्याग की रामायण के बजाय स्वार्थ की बुनियाद पर खड़ा महाभारत घटित होता दिखाई देता है।
+
+उन्होंने इस स्थिति पर गहरा दुख और पीड़ा जताई।उनकी पोस्ट में किसी नेता, पार्टी या राजनीतिक घटनाक्रम का सीधे तौर पर उल्लेख नहीं है। हालांकि, मौजूदा राजनीतिक परिस्थितियों के बीच इस पोस्ट को अलग-अलग नजरिए से देखा जा रहा है। खासकर परिसीमन बिल पर शरद पवार गुट के समर्थन की चर्चा के बाद इसके राजनीतिक मायने तलाशे जा रहे हैं।.INDIA ब्लॉक की बैठक में शामिल नहीं होंगी सुप्रिया सुले, डिलिमिटेशन बिल पर विपक्ष में रार!.परिसीमन बिल के समर्थन के बीच पोस्ट क्यों अहम?हाल ही में जितेंद्र आव्हाड ने शरद पवार से ब्रीच कैंडी अस्पताल में मुलाकात के बाद परिसीमन बिल पर पार्टी के समर्थन की जानकारी दी थी।
+
+वहीं, रोहित पवार ने भी संसद के विशेष सत्र को लेकर कहा था कि विधेयक का मसौदा सामने आने के बाद पार्टी के सांसद उसका अध्ययन करेंगे और उचित रुख तय करेंगे।ऐसे में रोहित पवार की ताजा पोस्ट ने राजनीतिक चर्चाओं को और हवा दी है। क्या यह केवल फिल्म देखने के बाद मन में आए विचारों की अभिव्यक्ति है या इसके पीछे कोई राजनीतिक संदेश भी छिपा है?
+
+फिलहाल उन्होंने इस बारे में कोई स्पष्टीकरण नहीं दिया है।इतना जरूर है कि महाराष्ट्र की मौजूदा सियासत में 'त्याग की रामायण' और 'स्वार्थ का महाभारत' वाली उनकी टिप्पणी चर्चा का विषय बन गई है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/maharashtra/mumbai/rohit-pawar-post-ramayan-mahabharat-tyag-swarth-maharashtra-politics-gsp26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `त्याग की रामायण बनाम स्वार्थ का महाभारत! रोहित पवार की पोस्ट से महाराष्ट्र में सियासी हलचल तेज - Navbharat Live`,
+    summary_hi: `Highlightsरोहित पवार ने नई फिल्म 'रामायण' देखने के बाद सोशल मीडिया पर पोस्ट की।राजा दशरथ के वचन और प्रभु श्रीराम के त्याग का किया जिक्र।आज के दौर में स्वार्थ की बुनियाद पर महाभारत होने की बात कही।पोस्ट में किसी नेता या राजनीतिक दल का नाम नह`,
+    content_hi: `Highlightsरोहित पवार ने नई फिल्म 'रामायण' देखने के बाद सोशल मीडिया पर पोस्ट की।राजा दशरथ के वचन और प्रभु श्रीराम के त्याग का किया जिक्र।आज के दौर में स्वार्थ की बुनियाद पर महाभारत होने की बात कही।पोस्ट में किसी नेता या राजनीतिक दल का नाम नहीं लिया।परिसीमन बिल पर शरद पवार गुट के समर्थन के बीच पोस्ट ने बढ़ाई राजनीतिक चर्चा।.Sharad Pawar NCP SP Delimitation Bill Support: महाराष्ट्र की राजनीति में इन दिनों परिसीमन बिल को लेकर हलचल तेज है।
+
+इसी बीच NCP (शरदचंद्र पवार) के विधायक रोहित पवार की एक सोशल मीडिया पोस्ट ने नई राजनीतिक चर्चा छेड़ दी है। रोहित पवार ने फिल्म रामायण देखने के बाद प्रभु श्रीराम के त्याग और आज के दौर में दिखाई देने वाले स्वार्थ की तुलना की है। उन्होंने लिखा कि वास्तविक जीवन में कई बार रामायण के त्याग के बजाय स्वार्थ की बुनियाद पर खड़ा महाभारत देखने को मिलता है।
+
+खास बात यह है कि उनकी यह पोस्ट ऐसे समय आई है, जब शरद पवार गुट की ओर से परिसीमन बिल को समर्थन देने की बात सामने आई है।.रामायण देखकर क्या बोले रोहित पवार?रोहित पवार ने अपनी पोस्ट में लिखा कि रोजमर्रा की भागदौड़ भरी जिंदगी से थोड़ा समय निकालकर उन्हें नई आई फिल्म 'रामायण' देखने का मौका मिला।
+
+फिल्म में राजा दशरथ द्वारा दिए गए वचन और उस वचन को निभाने के लिए प्रभु श्रीराम द्वारा नैतिकता के रास्ते पर चलते हुए किए गए सर्वस्व त्याग ने उन्हें प्रभावित किया।उन्होंने आगे लिखा कि प्रभु श्रीराम का त्याग हमेशा की तरह उन्हें बहुत प्रभावित कर गया। लेकिन वास्तविक जिंदगी में कई लोगों के व्यवहार में इसके ठीक उलट देखने को मिलता है।
+
+यहां त्याग की भावना के बजाय स्वार्थ को प्राथमिकता दी जाती है।.परिसीमन बिल पर शरद पवार गुट का बड़ा फैसला, समर्थन करेगा NCP (SP); जितेंद्र आव्हाड ने दी जानकारी.त्याग की रामायण नहीं, स्वार्थ का महाभारतरोहित पवार ने अपनी पोस्ट में लिखा कि अगर इतिहास का उदाहरण देना हो, तो आज कई जगह त्याग की रामायण के बजाय स्वार्थ की बुनियाद पर खड़ा महाभारत घटित होता दिखाई देता है।
+
+उन्होंने इस स्थिति पर गहरा दुख और पीड़ा जताई।उनकी पोस्ट में किसी नेता, पार्टी या राजनीतिक घटनाक्रम का सीधे तौर पर उल्लेख नहीं है। हालांकि, मौजूदा राजनीतिक परिस्थितियों के बीच इस पोस्ट को अलग-अलग नजरिए से देखा जा रहा है। खासकर परिसीमन बिल पर शरद पवार गुट के समर्थन की चर्चा के बाद इसके राजनीतिक मायने तलाशे जा रहे हैं।.INDIA ब्लॉक की बैठक में शामिल नहीं होंगी सुप्रिया सुले, डिलिमिटेशन बिल पर विपक्ष में रार!.परिसीमन बिल के समर्थन के बीच पोस्ट क्यों अहम?हाल ही में जितेंद्र आव्हाड ने शरद पवार से ब्रीच कैंडी अस्पताल में मुलाकात के बाद परिसीमन बिल पर पार्टी के समर्थन की जानकारी दी थी।
+
+वहीं, रोहित पवार ने भी संसद के विशेष सत्र को लेकर कहा था कि विधेयक का मसौदा सामने आने के बाद पार्टी के सांसद उसका अध्ययन करेंगे और उचित रुख तय करेंगे।ऐसे में रोहित पवार की ताजा पोस्ट ने राजनीतिक चर्चाओं को और हवा दी है। क्या यह केवल फिल्म देखने के बाद मन में आए विचारों की अभिव्यक्ति है या इसके पीछे कोई राजनीतिक संदेश भी छिपा है?
+
+फिलहाल उन्होंने इस बारे में कोई स्पष्टीकरण नहीं दिया है।इतना जरूर है कि महाराष्ट्र की मौजूदा सियासत में 'त्याग की रामायण' और 'स्वार्थ का महाभारत' वाली उनकी टिप्पणी चर्चा का विषय बन गई है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/maharashtra/mumbai/rohit-pawar-post-ramayan-mahabharat-tyag-swarth-maharashtra-politics-gsp26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट Navbharat Live के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक त्याग की रामायण बनाम स्वार्थ का महाभारत! रोहित पवार की पोस्ट से महाराष्ट्र में सियासी हलचल तेज - Navbharat Live से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Navbharat Live`,
+  },
+{
     id: 101,
     title: `Two-thirds of adolescents in India are deficient in vitamin B12: ICMR survey`,
     slug: `two-thirds-of-adolescents-in-india-are-deficient-in-vitamin-b12-icmr-s-2026`,
