@@ -155,11 +155,22 @@ FEEDS = {
     },
     "politics": {
         "en": [
+            "https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en",
             "https://news.google.com/rss/headlines/section/topic/NATION?hl=en-IN&gl=IN&ceid=IN:en",
             "https://aninews.in/rss/feed/category/national.xml",
         ],
         "hi": [
+            "https://news.google.com/rss?hl=hi&gl=IN&ceid=IN:hi",
             "https://news.google.com/rss/headlines/section/topic/NATION?hl=hi&gl=IN&ceid=IN:hi",
+        ],
+    },
+    "markets": {
+        "en": [
+            "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-IN&gl=IN&ceid=IN:en",
+            "https://aninews.in/rss/feed/category/business.xml",
+        ],
+        "hi": [
+            "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=hi&gl=IN&ceid=IN:hi",
         ],
     },
     "tech": {

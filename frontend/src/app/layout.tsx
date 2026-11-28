@@ -54,7 +54,6 @@ export const metadata: Metadata = {
   creator: "Pankhudi Sharma",
   publisher: "ZestFeedX",
   alternates: {
-    canonical: "https://zestfeedx.com/",
     languages: {
       "en-IN": "https://zestfeedx.com/",
       "hi-IN": "https://zestfeedx.com/hi/",
@@ -110,7 +109,7 @@ export default function RootLayout({
         url: "https://zestfeedx.com/",
         logo: {
           "@type": "ImageObject",
-          url: "https://zestfeedx.com/favicon.ico",
+          url: "https://zestfeedx.com/google-news/square-logo-512.png",
           width: 512,
           height: 512,
         },

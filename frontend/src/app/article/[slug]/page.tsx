@@ -86,6 +86,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const canonicalUrl = `https://zestfeedx.com/article/${article.slug}/`;
   const seoTitle = formatSeoTitle(article.title);
   const seoDesc = formatSeoDescription(article.deck, article.title);
+  const absImage = article.hero_image?.startsWith("http")
+    ? article.hero_image
+    : `https://zestfeedx.com${article.hero_image?.startsWith("/") ? "" : "/"}${article.hero_image || "google-news/square-logo-512.png"}`;
 
   return {
     title: {
@@ -105,7 +108,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       authors: [article.author.name],
       images: [
         {
-          url: article.hero_image,
+          url: absImage,
           width: 1200,
           height: 630,
           alt: article.title,
@@ -116,7 +119,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       card: "summary_large_image",
       title: article.title,
       description: seoDesc,
-      images: [article.hero_image],
+      images: [absImage],
     },
     robots: {
       index: true,
@@ -159,14 +162,22 @@ export default async function ArticlePage({ params }: Props) {
     Boolean(article.published_at) &&
     new Date(article.updated_at!).getTime() - new Date(article.published_at).getTime() > 15 * 60 * 1000;
 
+  const isHindi = article.language === "hi" || /[\u0900-\u097F]/.test(article.title);
+  const absHeroImage = article.hero_image?.startsWith("http")
+    ? article.hero_image
+    : `https://zestfeedx.com${article.hero_image?.startsWith("/") ? "" : "/"}${article.hero_image || "google-news/square-logo-512.png"}`;
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "NewsArticle",
     headline: article.title,
     description: article.deck,
-    image: [article.hero_image],
+    image: [absHeroImage],
     datePublished: article.published_at,
     dateModified: hasSubstantiveUpdate ? article.updated_at : article.published_at,
+    inLanguage: isHindi ? "hi-IN" : "en-IN",
+    articleSection: article.category,
+    isAccessibleForFree: true,
     author: {
       "@type": "Person",
       name: article.author.name,
@@ -179,18 +190,26 @@ export default async function ArticlePage({ params }: Props) {
       url: "https://zestfeedx.com/",
       logo: {
         "@type": "ImageObject",
-        url: "https://zestfeedx.com/favicon.ico",
+        url: "https://zestfeedx.com/google-news/square-logo-512.png",
         width: 512,
         height: 512,
       },
     },
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://zestfeedx.com/article/${article.slug}`,
+      "@id": `https://zestfeedx.com/article/${article.slug}/`,
     },
   };
 
-  const isHindi = article.language === "hi" || /[\u0900-\u097F]/.test(article.title);
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://zestfeedx.com/" },
+      { "@type": "ListItem", position: 2, name: article.category, item: `https://zestfeedx.com/category/${article.category}/` },
+      { "@type": "ListItem", position: 3, name: article.title, item: `https://zestfeedx.com/article/${article.slug}/` },
+    ],
+  };
 
   return (
     <div className={`min-h-screen flex flex-col bg-[#FAF8F4] dark:bg-[#080C16] text-[#0B1020] dark:text-[#F1F5F9] transition-colors ${isHindi ? "font-hindi" : ""}`}>
@@ -201,6 +220,10 @@ export default async function ArticlePage({ params }: Props) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
 
       {/* Main Article Container */}
