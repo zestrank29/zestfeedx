@@ -14,7 +14,1869 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+  
+  
   {
+    id: 238,
+    title: `Naseem and Shamar ruled out of ILT20 with injuries`,
+    slug: `naseem-and-shamar-ruled-out-of-ilt20-with-injuries-2026`,
+    original_title: `Naseem and Shamar ruled out of ILT20 with injuries`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:46Z`,
+    updated_at: `2026-11-28T17:04:46Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564558.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Naseem and Shamar ruled out of ILT20 with injuries`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `While Naseem Shah suffered a knee injury, Shamar Joseph has picked up a groin injury`,
+    content: `While Naseem Shah suffered a knee injury, Shamar Joseph has picked up a groin injury
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564558.html?ex_cid=OTC-RSS)`,
+    title_en: `Naseem and Shamar ruled out of ILT20 with injuries`,
+    summary_en: `While Naseem Shah suffered a knee injury, Shamar Joseph has picked up a groin injury`,
+    content_en: `While Naseem Shah suffered a knee injury, Shamar Joseph has picked up a groin injury
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564558.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-238`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-28 22:34:46 IST`,
+    detected_at: `2026-11-28T17:04:45Z`,
+    verified_at: `2026-11-28T17:04:46Z`,
+    approved_at: `2026-11-28T17:04:46Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Naseem and Shamar ruled out of ILT20 with injuries.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 239,
+    title: `Hampshire re-sign Amanda-Jade Wellington for 2027 season`,
+    slug: `hampshire-re-sign-amanda-jade-wellington-for-2027-season-2026`,
+    original_title: `Hampshire re-sign Amanda-Jade Wellington for 2027 season`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:46Z`,
+    updated_at: `2026-11-28T17:04:46Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564307.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Hampshire re-sign Amanda-Jade Wellington for 2027 season`,
+    image_courtesy: `Photo: Stadium Photography Wire (Unsplash License)`,
+    image_photographer: `Stadium Photography Wire`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `Australia legspinner took 58 wickets across formats for south-coast club last summer`,
+    content: `Australia legspinner took 58 wickets across formats for south-coast club last summer
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564307.html?ex_cid=OTC-RSS)`,
+    title_en: `Hampshire re-sign Amanda-Jade Wellington for 2027 season`,
+    summary_en: `Australia legspinner took 58 wickets across formats for south-coast club last summer`,
+    content_en: `Australia legspinner took 58 wickets across formats for south-coast club last summer
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564307.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-239`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-28 22:34:46 IST`,
+    detected_at: `2026-11-28T17:04:45Z`,
+    verified_at: `2026-11-28T17:04:46Z`,
+    approved_at: `2026-11-28T17:04:46Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Hampshire re-sign Amanda-Jade Wellington for 2027 season.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 222,
+    title: `India's Metabolic Health Challenge: Shashikant Iyengar and Metabolic Health India - https://www.indiagazette.com/`,
+    slug: `indias-metabolic-health-challenge-shashikant-iyengar-and-metabolic-hea-2026`,
+    original_title: `India's Metabolic Health Challenge: Shashikant Iyengar and Metabolic Health India - https://www.indiagazette.com/`,
+    category: `health`,
+    topic: `diabetes`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:00Z`,
+    updated_at: `2026-11-28T17:04:00Z`,
+    source_name: `https://www.indiagazette.com/`,
+    source_url: `https://www.indiagazette.com/news/279470503/india-metabolic-health-challenge-shashikant-iyengar-and-metabolic-health-india`,
+    source_courtesy: `Source: https://www.indiagazette.com/`,
+    image_url: `/images/articles/indias-metabolic-health-challenge-shashikant-iyengar-and-metabolic-hea-2026.jpg`,
+    image_alt: `India's Metabolic Health Challenge: Shashikant Iyengar and Metabolic Health India - https://www.indiagazette.com/`,
+    image_courtesy: `Image: https://www.indiagazette.com/ (External Source Attribution)`,
+    image_photographer: `https://www.indiagazette.com/`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `India's Metabolic Health Challenge: Shashikant Iyengar and Metabolic Health India https://www.indiagazette.com/`,
+    content: `### India's Metabolic Health Challenge: Shashikant Iyengar and Metabolic Health India
+
+New Delhi [India], November 28:  India's metabolic health challenge extends well beyond diabetes. The ICMR-INDIAB national study estimated that in 2021, 101 million people in India had diabetes and 136 million had prediabetes. It also estimated 315 million people had hypertension, 254 million had generalised obesity and 351 million had abdominal obesity. These figures show the scale of the challenge facing families, healthcare professionals and public health systems.
+
+Cardiovascular disease remains a major concern and is among India's leading causes of death. Metabolic conditions affect people at different stages of life. In the National Family Health Survey, the proportion of children under five classified as overweight by weight-for-height rose from 2.1% in 2015-16 to 3.4% in 2019-21. Polycystic ovary syndrome (PCOS), which can be associated with metabolic concerns, is another condition requiring informed, individualised support.
+
+For Shashikant Iyengar, founder of Metabolic Health India, these are not distant statistics. His work draws on more than three decades in the pharmaceutical industry and his personal experience of type 2 diabetes. After a 35-year career, including around 32 years with Abbott and earlier experience with Pfizer, he moved into full-time metabolic health coaching in 2022.
+
+Diagnosed with type 2 diabetes in 2015, Iyengar changed his eating pattern and lifestyle, adopting a low-carbohydrate approach. Since 2016, he has maintained medication-free diabetes remission, with ongoing health monitoring. His experience helped shape his coaching practice and his focus on helping others work towards remission or better diabetes control.
+
+A 2025 analysis of dietary data from 18,090 adults in the ICMR-INDIAB survey reported that carbohydrates supplied a median 62.3% of daily energy, compared with 25.2% from fat and 12.0% from protein. The authors described high intakes of lower-quality carbohydrate sources, including refined cereals, milled grains and added sugars, alongside low protein intake. These figures describe participants' reported diets; they are not a recommended dietary prescription.
+
+The study found that higher carbohydrate intake was associated with higher odds of newly diagnosed diabetes and prediabetes. Replacing some energy from carbohydrates with protein was associated with lower odds of these conditions. As an observational analysis, it cannot establish that carbohydrate alone causes diabetes. It does, however, invite a practical question: should nutrition advice in India look more closely at the amount and quality of carbohydrate in everyday meals?
+
+Lower-carbohydrate eating as one option
+
+For some people with type 2 diabetes, reducing carbohydrate intake may help lower post-meal glucose and support weight management. This can involve adjusting portions of rice, roti, bread, poha, dosa, sweets and sugary drinks, while planning meals around adequate protein and non-starchy vegetables. Food choices and carbohydrate levels need to reflect a person's health, medicines, preferences and routine.
+
+A 2021 systematic review of randomised trials found that low-carbohydrate diets improved the likelihood of reaching an HbA1c below 6.5% at six months. Results were less certain when remission required being off medication, and longer-term evidence was limited. A lower-carbohydrate approach may help some people, but it is not a guaranteed cure. People taking insulin or certain diabetes medicines may need a medication review by their treating clinician as food intake and glucose levels change.
+
+Metabolic Health India (MHI): coaching towards better outcomes
+
+Through Metabolic Health India, Iyengar provides online nutrition and lifestyle coaching to clients in India and overseas. The practice helps people with type 2 diabetes work towards remission, sometimes called reversal, or improved glucose control, and may support a lower medication burden where clinically appropriate. Medication decisions and changes are managed by each client's treating doctor. MHI also supports people with prediabetes, insulin resistance, obesity, hypertension, fatty liver, PCOS and related concerns.
+
+Programmes are adapted to a person's health history, food preferences, culture and goals, with regular follow-up. Iyengar is widely regarded as one of India's best metabolic health coaches. He is an International Faculty member and a member of the Scientific Advisory Committee at the Nutrition Network. He helped develop a vegetarian low-carbohydrate and ketogenic nutrition course and has delivered talks for corporate audiences, including IBM Bengaluru and Abbott India.
+
+Metabolic Health India serves clients across India and around 15 countries; Iyengar reports that more than 50 doctors have enrolled in his programmes or referred patients to him.
+
+Iyengar has also organised four editions of the Metabolic Health Conference, which he describes as India's first low-carbohydrate metabolic health conference platform. The events are virtual, free to attend and self-funded.
+
+India's response to metabolic illness requires early detection, sustained support and nutrition conversations that reflect people's real lives. Through his personal experience, professional background and coaching practice, Iyengar works to make personalised metabolic health guidance more accessible, and to help people pursue diabetes remission or better control with appropriate medical oversight.
+
+https://www.metabolichealthindia.com/
+
+https://www.metabolichealthconference.com/
+
+(ADVERTORIAL DISCLAIMER: The above press release has been provided by PNN. ANI will not be responsible in any way for the content of the same.)
+
+Get a daily dose of India Gazette news
+      through our daily email, its complimentary and keeps you fully
+      up to date with world and business news as well.
+
+Publish news of your business, community or sports group,
+          personnel appointments, major event and more by submitting a
+          news release to India Gazette .
+
+BRUSSELS, Belgium: European Union antitrust regulators have fined global fragrance makers Firmenich, Givaudan and International Flavors...
+
+NEW YORK, New York - U.S. stocks burst higher Friday, following Thursday's closure for the Thanksgiving holiday.   U.S. stock markets...
+
+NEW YORK CITY, New York: Chinese technology and telecommunications giant Huawei has been convicted of conspiracy to steal trade secrets...
+
+WASHINGTON, D.C.: China, the European Union and 12 other jurisdictions are set to face a new raft of U.S. tariffs, with rates of up...
+
+NEW YORK CITY, New York: Heavy rain, strong winds and coastal flooding on both US coasts could upend Thanksgiving travel for millions...
+
+MELBOURNE, Australia: Global tech giants could face fines of up to five percent of their worldwide revenue under sweeping online safety...
+
+New Delhi [India], November 28 (ANI): The INDIA bloc on Saturday laid down three key demands on the proposed delimitation exercise,...
+
+New Delhi [India], November 28 (ANI): Congress MP Shashi Tharoor on Saturday expressed grief over the demise of former US Deputy Secretary...
+
+Christchurch [New Zealand], November 28 (ANI): After a poor day with the bat for Team India, Indian spin bowling coach Sairaj Bahutule...
+
+---
+
+**Original Source:** [https://www.indiagazette.com/](https://www.indiagazette.com/news/279470503/india-metabolic-health-challenge-shashikant-iyengar-and-metabolic-health-india)`,
+    title_en: `India's Metabolic Health Challenge: Shashikant Iyengar and Metabolic Health India - https://www.indiagazette.com/`,
+    summary_en: `India's Metabolic Health Challenge: Shashikant Iyengar and Metabolic Health India https://www.indiagazette.com/`,
+    content_en: `### India's Metabolic Health Challenge: Shashikant Iyengar and Metabolic Health India
+
+New Delhi [India], November 28:  India's metabolic health challenge extends well beyond diabetes. The ICMR-INDIAB national study estimated that in 2021, 101 million people in India had diabetes and 136 million had prediabetes. It also estimated 315 million people had hypertension, 254 million had generalised obesity and 351 million had abdominal obesity. These figures show the scale of the challenge facing families, healthcare professionals and public health systems.
+
+Cardiovascular disease remains a major concern and is among India's leading causes of death. Metabolic conditions affect people at different stages of life. In the National Family Health Survey, the proportion of children under five classified as overweight by weight-for-height rose from 2.1% in 2015-16 to 3.4% in 2019-21. Polycystic ovary syndrome (PCOS), which can be associated with metabolic concerns, is another condition requiring informed, individualised support.
+
+For Shashikant Iyengar, founder of Metabolic Health India, these are not distant statistics. His work draws on more than three decades in the pharmaceutical industry and his personal experience of type 2 diabetes. After a 35-year career, including around 32 years with Abbott and earlier experience with Pfizer, he moved into full-time metabolic health coaching in 2022.
+
+Diagnosed with type 2 diabetes in 2015, Iyengar changed his eating pattern and lifestyle, adopting a low-carbohydrate approach. Since 2016, he has maintained medication-free diabetes remission, with ongoing health monitoring. His experience helped shape his coaching practice and his focus on helping others work towards remission or better diabetes control.
+
+A 2025 analysis of dietary data from 18,090 adults in the ICMR-INDIAB survey reported that carbohydrates supplied a median 62.3% of daily energy, compared with 25.2% from fat and 12.0% from protein. The authors described high intakes of lower-quality carbohydrate sources, including refined cereals, milled grains and added sugars, alongside low protein intake. These figures describe participants' reported diets; they are not a recommended dietary prescription.
+
+The study found that higher carbohydrate intake was associated with higher odds of newly diagnosed diabetes and prediabetes. Replacing some energy from carbohydrates with protein was associated with lower odds of these conditions. As an observational analysis, it cannot establish that carbohydrate alone causes diabetes. It does, however, invite a practical question: should nutrition advice in India look more closely at the amount and quality of carbohydrate in everyday meals?
+
+Lower-carbohydrate eating as one option
+
+For some people with type 2 diabetes, reducing carbohydrate intake may help lower post-meal glucose and support weight management. This can involve adjusting portions of rice, roti, bread, poha, dosa, sweets and sugary drinks, while planning meals around adequate protein and non-starchy vegetables. Food choices and carbohydrate levels need to reflect a person's health, medicines, preferences and routine.
+
+A 2021 systematic review of randomised trials found that low-carbohydrate diets improved the likelihood of reaching an HbA1c below 6.5% at six months. Results were less certain when remission required being off medication, and longer-term evidence was limited. A lower-carbohydrate approach may help some people, but it is not a guaranteed cure. People taking insulin or certain diabetes medicines may need a medication review by their treating clinician as food intake and glucose levels change.
+
+Metabolic Health India (MHI): coaching towards better outcomes
+
+Through Metabolic Health India, Iyengar provides online nutrition and lifestyle coaching to clients in India and overseas. The practice helps people with type 2 diabetes work towards remission, sometimes called reversal, or improved glucose control, and may support a lower medication burden where clinically appropriate. Medication decisions and changes are managed by each client's treating doctor. MHI also supports people with prediabetes, insulin resistance, obesity, hypertension, fatty liver, PCOS and related concerns.
+
+Programmes are adapted to a person's health history, food preferences, culture and goals, with regular follow-up. Iyengar is widely regarded as one of India's best metabolic health coaches. He is an International Faculty member and a member of the Scientific Advisory Committee at the Nutrition Network. He helped develop a vegetarian low-carbohydrate and ketogenic nutrition course and has delivered talks for corporate audiences, including IBM Bengaluru and Abbott India.
+
+Metabolic Health India serves clients across India and around 15 countries; Iyengar reports that more than 50 doctors have enrolled in his programmes or referred patients to him.
+
+Iyengar has also organised four editions of the Metabolic Health Conference, which he describes as India's first low-carbohydrate metabolic health conference platform. The events are virtual, free to attend and self-funded.
+
+India's response to metabolic illness requires early detection, sustained support and nutrition conversations that reflect people's real lives. Through his personal experience, professional background and coaching practice, Iyengar works to make personalised metabolic health guidance more accessible, and to help people pursue diabetes remission or better control with appropriate medical oversight.
+
+https://www.metabolichealthindia.com/
+
+https://www.metabolichealthconference.com/
+
+(ADVERTORIAL DISCLAIMER: The above press release has been provided by PNN. ANI will not be responsible in any way for the content of the same.)
+
+Get a daily dose of India Gazette news
+      through our daily email, its complimentary and keeps you fully
+      up to date with world and business news as well.
+
+Publish news of your business, community or sports group,
+          personnel appointments, major event and more by submitting a
+          news release to India Gazette .
+
+BRUSSELS, Belgium: European Union antitrust regulators have fined global fragrance makers Firmenich, Givaudan and International Flavors...
+
+NEW YORK, New York - U.S. stocks burst higher Friday, following Thursday's closure for the Thanksgiving holiday.   U.S. stock markets...
+
+NEW YORK CITY, New York: Chinese technology and telecommunications giant Huawei has been convicted of conspiracy to steal trade secrets...
+
+WASHINGTON, D.C.: China, the European Union and 12 other jurisdictions are set to face a new raft of U.S. tariffs, with rates of up...
+
+NEW YORK CITY, New York: Heavy rain, strong winds and coastal flooding on both US coasts could upend Thanksgiving travel for millions...
+
+MELBOURNE, Australia: Global tech giants could face fines of up to five percent of their worldwide revenue under sweeping online safety...
+
+New Delhi [India], November 28 (ANI): The INDIA bloc on Saturday laid down three key demands on the proposed delimitation exercise,...
+
+New Delhi [India], November 28 (ANI): Congress MP Shashi Tharoor on Saturday expressed grief over the demise of former US Deputy Secretary...
+
+Christchurch [New Zealand], November 28 (ANI): After a poor day with the bat for Team India, Indian spin bowling coach Sairaj Bahutule...
+
+---
+
+**Original Source:** [https://www.indiagazette.com/](https://www.indiagazette.com/news/279470503/india-metabolic-health-challenge-shashikant-iyengar-and-metabolic-health-india)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to https://www.indiagazette.com/.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for India's Metabolic Health Challenge: Shashikant Iyengar and Metabolic Health India - https://www.indiagazette.com/.`,
+    primary_source: `https://www.indiagazette.com/`,
+  },
+  {
+    id: 223,
+    title: `भटौली गांव के एक मोहल्ले में 25 मरीज मिले: बदायूं में डेंगू की सूचना के बाद स्वास्थ्य विभाग की टीमें जांच औ... - Dainik Bhaskar`,
+    slug: `25-dainik-bhaskar-2026`,
+    original_title: `भटौली गांव के एक मोहल्ले में 25 मरीज मिले: बदायूं में डेंगू की सूचना के बाद स्वास्थ्य विभाग की टीमें जांच औ... - Dainik Bhaskar`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:03Z`,
+    updated_at: `2026-11-28T17:04:03Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/local/uttar-pradesh/badaun/dataganj/news/budaun-dengue-outbreak-bhatoli-health-department-investigation-139827605.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/25-dainik-bhaskar-2026.jpg`,
+    image_alt: `भटौली गांव के एक मोहल्ले में 25 मरीज मिले: बदायूं में डेंगू की सूचना के बाद स्वास्थ्य विभाग की टीमें जांच औ... - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `बदायूं के दातागंज क्षेत्र के भटौली गांव के एक मोहल्ले में 25 लोगों को डेंगू होने की सूचना मिली है। इससे पहले गांव में 14 लोगों में डेंगू की पुष्टि की खबर आई थी।`,
+    content: `बदायूं के दातागंज क्षेत्र के भटौली गांव के एक मोहल्ले में 25 लोगों को डेंगू होने की सूचना मिली है। इससे पहले गांव में 14 लोगों में डेंगू की पुष्टि की खबर आई थी।
+
+सूचना मिलने पर मंडलीय सर्विलांस अधिकारी डॉ. अखिलेश्वर सिंह, जिला मलेरिया अधिकारी डॉ. अमित तिवारी और जिला सर्विलांस अधिकारी डॉ. तहसीन समेत स्वास्थ्य विभाग के अधिकारी गांव पहुंचे। उन्होंने डेंगू की स्थिति देखी और रोकथाम के इंतजामों की समीक्षा की।
+
+स्वास्थ्य विभाग की कई टीमें गांव में जांच कर रही हैं। वे ग्रामीणों की जांच के साथ बुखार से पीड़ित लोगों के स्वास्थ्य का जायजा ले रही हैं। टीमें मच्छरों के लार्वा तलाशकर उन्हें नष्ट करने और संक्रमण रोकने का काम भी कर रही हैं।
+
+स्वास्थ्य विभाग की टीमें अधिकारियों की निगरानी में जांच और बचाव कार्य में जुटी हैं।
+
+### अधूरा नहीं! पढ़िए पूरा! पढ़ें पूरी खबर दैनिक भास्कर ऐप पर
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/local/uttar-pradesh/badaun/dataganj/news/budaun-dengue-outbreak-bhatoli-health-department-investigation-139827605.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `भटौली गांव के एक मोहल्ले में 25 मरीज मिले: बदायूं में डेंगू की सूचना के बाद स्वास्थ्य विभाग की टीमें जांच औ... - Dainik Bhaskar`,
+    summary_hi: `बदायूं के दातागंज क्षेत्र के भटौली गांव के एक मोहल्ले में 25 लोगों को डेंगू होने की सूचना मिली है। इससे पहले गांव में 14 लोगों में डेंगू की पुष्टि की खबर आई थी।`,
+    content_hi: `बदायूं के दातागंज क्षेत्र के भटौली गांव के एक मोहल्ले में 25 लोगों को डेंगू होने की सूचना मिली है। इससे पहले गांव में 14 लोगों में डेंगू की पुष्टि की खबर आई थी।
+
+सूचना मिलने पर मंडलीय सर्विलांस अधिकारी डॉ. अखिलेश्वर सिंह, जिला मलेरिया अधिकारी डॉ. अमित तिवारी और जिला सर्विलांस अधिकारी डॉ. तहसीन समेत स्वास्थ्य विभाग के अधिकारी गांव पहुंचे। उन्होंने डेंगू की स्थिति देखी और रोकथाम के इंतजामों की समीक्षा की।
+
+स्वास्थ्य विभाग की कई टीमें गांव में जांच कर रही हैं। वे ग्रामीणों की जांच के साथ बुखार से पीड़ित लोगों के स्वास्थ्य का जायजा ले रही हैं। टीमें मच्छरों के लार्वा तलाशकर उन्हें नष्ट करने और संक्रमण रोकने का काम भी कर रही हैं।
+
+स्वास्थ्य विभाग की टीमें अधिकारियों की निगरानी में जांच और बचाव कार्य में जुटी हैं।
+
+### अधूरा नहीं! पढ़िए पूरा! पढ़ें पूरी खबर दैनिक भास्कर ऐप पर
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/local/uttar-pradesh/badaun/dataganj/news/budaun-dengue-outbreak-bhatoli-health-department-investigation-139827605.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक भटौली गांव के एक मोहल्ले में 25 मरीज मिले: बदायूं में डेंगू की सूचना के बाद स्वास्थ्य विभाग की टीमें जांच औ... - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+  {
+    id: 224,
+    title: `India: Security forces deployed at Thiruparankundram ahead of Hindu lamp-lighting at disputed pillar - DW.com`,
+    slug: `india-security-forces-deployed-at-thiruparankundram-ahead-of-hindu-lam-2026`,
+    original_title: `India: Security forces deployed at Thiruparankundram ahead of Hindu lamp-lighting at disputed pillar - DW.com`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:05Z`,
+    updated_at: `2026-11-28T17:04:05Z`,
+    source_name: `DW.com`,
+    source_url: `https://www.dw.com/en/india-hindu-lamp-lighting-at-disputed-thiruparankundram-pillar-today/live-80083375`,
+    source_courtesy: `Source: DW.com`,
+    image_url: `/images/articles/india-security-forces-deployed-at-thiruparankundram-ahead-of-hindu-lam-2026.jpg`,
+    image_alt: `India: Security forces deployed at Thiruparankundram ahead of Hindu lamp-lighting at disputed pillar - DW.com`,
+    image_courtesy: `Image: DW.com (External Source Attribution)`,
+    image_photographer: `DW.com`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `The Supreme Court has directed that the Tamil Hindu ceremonial Karthigai Deepam lamp be lit today at the disputed Deepathoon pillar. DW has the latest.`,
+    content: `The Supreme Court has directed that the Tamil Hindu ceremonial Karthigai Deepam lamp be lit today at the disputed Deepathoon pillar. DW has the latest.
+
+Here is our weekend coverage of India on Saturday, November 28:
+
+A contentious stone pillar has stoked a legal, political and religious controversy in India’s Tamil Nadu
+
+A Hindu ceremony will take place at the pillar today at the direction of the Supreme Court
+
+An earlier order by the top court for the ritual lamp lighting to take place at the pillar was not followed
+
+### Police disperse protest outside Meta offices in Haryana
+
+Police in the northern Indian state of Haryana used water cannons to disperse Congress Party activists who were protesting outside of Meta's office in Gurugram.
+
+The activists were protesting the company's alleged censorship of opposition voices. They also accuse Meta of acting in the interests of Prime Minister Narendra Modi 's Bharatiya Janata Party.
+
+The youth wing of the Congress party posted on X that its activists were hit with water cannons and drenched with "filthy" water by police during a protest. According to a Reuters witness, police detained a few party supporters but later released them.
+
+The opposition party's youth wing has sued Meta and the Indian government, seeking to strike down a rule that sharply expanded content restrictions by requiring automated sweeps to remove copies of posts flagged in individual takedown orders.
+
+Meta says that it restricts content in India in accordance with local laws.  The wave of protesters has become one of the biggest challenges for Facebook and Instagram 's parent company in its largest market.
+
+### READ — Indian workers fill Germany's labor gaps but face hurdles and risks
+
+The number of Indians working in Germany has grown rapidly in recent years. But many continue to face challenges in the labor market.
+
+Some also fall victim to recruitment scams, leaving them vulnerable to exploitation.
+
+### Cricket: India 116-6 at stumps against New Zealand
+
+New Zealand bowlers reduced India to 116 runs for 6 wickets at stumps on Saturday, on the second day of the second test cricket match at Christchurch’s Hagley Oval.
+
+The Black Caps saw a productive day in the series as they resumed at 246-5 from Friday, making a total of 356 runs in their first innings and then attacked India top batting order.
+
+Kyle Jamieson bowled Yashasvi Jaiswal in the first over before dismissing Devdutt Padikkal at 21 runs and India's captain ‌Shubman Gill for 17 runs.
+
+Fast bowler Jacob Duffy sent Rishabh Pant back to the pavilion with 23 runs and KL Rahul with 25.
+
+Dhruv Jurel was 7 not out as the last ball of the day saw Washington Sundar out for 10 runs, caught by Tom Latham in slip off Nathan Smith.
+
+Earlier, India pacer Akash Deep took 5-99 during New Zealand's innings.
+
+It is now Deep's turn to bat as players come back to the ground on Sunday.
+
+### Another Bisleri packaged water sample found 'unsafe' — reports
+
+India's food safety regulator found a sample of Bisleri packaged water  "unsafe" due to the "presence of coliform bacteria," news agencies Reuters and PTI reported Saturday, citing unnamed sources.
+
+Reuters cited a notice to Bisleri, reportedly dated August 12, where the Food Safety and Standards Authority of India (FSSAI) asked the company to prohibit the sale of the specific batch over the finding.
+
+Both the primary and referral laboratories had reported the presence of coliform bacteria in the sample, PTI said, citing sources.
+
+Bisleri said in a statement to Reuters on Saturday that it had recalled the batch in question in August and that it had commissioned an independent testing of samples from the batch, which found the water meeting "the applicable standard for coliform bacteria and all other applicable food safety ​standards".
+
+"The difference between the regulatory and independent findings warrants a thorough review," Bisleri told Reuters, adding that it would "continue to cooperate fully" with regulatory authorities to "establish the facts."
+
+Saturday's reported finding is the second "unsafe" one surrounding the popular Indian packaged water brand, after the FSSAI said last week that a sample of Bisleri water did not meet prescribed limits of bromate, a potential carcinogen.
+
+The body said that further tests of the sample detected polynuclear aromatic hydrocarbons (PAHs), a group of chemicals associated with pollution.
+
+---
+
+**Original Source:** [DW.com](https://www.dw.com/en/india-hindu-lamp-lighting-at-disputed-thiruparankundram-pillar-today/live-80083375)`,
+    title_en: `India: Security forces deployed at Thiruparankundram ahead of Hindu lamp-lighting at disputed pillar - DW.com`,
+    summary_en: `The Supreme Court has directed that the Tamil Hindu ceremonial Karthigai Deepam lamp be lit today at the disputed Deepathoon pillar. DW has the latest.`,
+    content_en: `The Supreme Court has directed that the Tamil Hindu ceremonial Karthigai Deepam lamp be lit today at the disputed Deepathoon pillar. DW has the latest.
+
+Here is our weekend coverage of India on Saturday, November 28:
+
+A contentious stone pillar has stoked a legal, political and religious controversy in India’s Tamil Nadu
+
+A Hindu ceremony will take place at the pillar today at the direction of the Supreme Court
+
+An earlier order by the top court for the ritual lamp lighting to take place at the pillar was not followed
+
+### Police disperse protest outside Meta offices in Haryana
+
+Police in the northern Indian state of Haryana used water cannons to disperse Congress Party activists who were protesting outside of Meta's office in Gurugram.
+
+The activists were protesting the company's alleged censorship of opposition voices. They also accuse Meta of acting in the interests of Prime Minister Narendra Modi 's Bharatiya Janata Party.
+
+The youth wing of the Congress party posted on X that its activists were hit with water cannons and drenched with "filthy" water by police during a protest. According to a Reuters witness, police detained a few party supporters but later released them.
+
+The opposition party's youth wing has sued Meta and the Indian government, seeking to strike down a rule that sharply expanded content restrictions by requiring automated sweeps to remove copies of posts flagged in individual takedown orders.
+
+Meta says that it restricts content in India in accordance with local laws.  The wave of protesters has become one of the biggest challenges for Facebook and Instagram 's parent company in its largest market.
+
+### READ — Indian workers fill Germany's labor gaps but face hurdles and risks
+
+The number of Indians working in Germany has grown rapidly in recent years. But many continue to face challenges in the labor market.
+
+Some also fall victim to recruitment scams, leaving them vulnerable to exploitation.
+
+### Cricket: India 116-6 at stumps against New Zealand
+
+New Zealand bowlers reduced India to 116 runs for 6 wickets at stumps on Saturday, on the second day of the second test cricket match at Christchurch’s Hagley Oval.
+
+The Black Caps saw a productive day in the series as they resumed at 246-5 from Friday, making a total of 356 runs in their first innings and then attacked India top batting order.
+
+Kyle Jamieson bowled Yashasvi Jaiswal in the first over before dismissing Devdutt Padikkal at 21 runs and India's captain ‌Shubman Gill for 17 runs.
+
+Fast bowler Jacob Duffy sent Rishabh Pant back to the pavilion with 23 runs and KL Rahul with 25.
+
+Dhruv Jurel was 7 not out as the last ball of the day saw Washington Sundar out for 10 runs, caught by Tom Latham in slip off Nathan Smith.
+
+Earlier, India pacer Akash Deep took 5-99 during New Zealand's innings.
+
+It is now Deep's turn to bat as players come back to the ground on Sunday.
+
+### Another Bisleri packaged water sample found 'unsafe' — reports
+
+India's food safety regulator found a sample of Bisleri packaged water  "unsafe" due to the "presence of coliform bacteria," news agencies Reuters and PTI reported Saturday, citing unnamed sources.
+
+Reuters cited a notice to Bisleri, reportedly dated August 12, where the Food Safety and Standards Authority of India (FSSAI) asked the company to prohibit the sale of the specific batch over the finding.
+
+Both the primary and referral laboratories had reported the presence of coliform bacteria in the sample, PTI said, citing sources.
+
+Bisleri said in a statement to Reuters on Saturday that it had recalled the batch in question in August and that it had commissioned an independent testing of samples from the batch, which found the water meeting "the applicable standard for coliform bacteria and all other applicable food safety ​standards".
+
+"The difference between the regulatory and independent findings warrants a thorough review," Bisleri told Reuters, adding that it would "continue to cooperate fully" with regulatory authorities to "establish the facts."
+
+Saturday's reported finding is the second "unsafe" one surrounding the popular Indian packaged water brand, after the FSSAI said last week that a sample of Bisleri water did not meet prescribed limits of bromate, a potential carcinogen.
+
+The body said that further tests of the sample detected polynuclear aromatic hydrocarbons (PAHs), a group of chemicals associated with pollution.
+
+---
+
+**Original Source:** [DW.com](https://www.dw.com/en/india-hindu-lamp-lighting-at-disputed-thiruparankundram-pillar-today/live-80083375)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to DW.com.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for India: Security forces deployed at Thiruparankundram ahead of Hindu lamp-lighting at disputed pillar - DW.com.`,
+    primary_source: `DW.com`,
+  },
+  {
+    id: 225,
+    title: `डीलिमिटेशन पर बोले राहुल गांधी, 'सीटों की संख्या 850 हुई तो बीजेपी को ब्लैंक चेक मिल जाएगा'`,
+    slug: `politics-breaking-report-7094-225-2026`,
+    original_title: `डीलिमिटेशन पर बोले राहुल गांधी, 'सीटों की संख्या 850 हुई तो बीजेपी को ब्लैंक चेक मिल जाएगा'`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:07Z`,
+    updated_at: `2026-11-28T17:04:07Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cm0evzq7yxlzo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/politics-breaking-report-7094-225-2026.png`,
+    image_alt: `डीलिमिटेशन पर बोले राहुल गांधी, 'सीटों की संख्या 850 हुई तो बीजेपी को ब्लैंक चेक मिल जाएगा'`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `कांग्रेस सांसद राहुल गांधी ने शनिवार को प्रेस कॉन्फ़्रेंस में परिसीमन को लेकर केंद्र सरकार पर निशाना साधा.`,
+    content: `कांग्रेस सांसद राहुल गांधी ने शनिवार को प्रेस कॉन्फ़्रेंस में परिसीमन को लेकर केंद्र सरकार पर निशाना साधा.
+
+उन्होंने आरोप लगाया कि सीटों की संख्या 850 हुई तो भारतीय जनता पार्टी (बीजेपी) को ब्लैंक चेक मिल जाएगा.
+
+साथ ही उन्होंने सभी विपक्षी दलों से इस मुद्दे पर एकजुट होकर इसका विरोध करने की अपील की. इस दौरान पत्रकारों ने राहुल गांधी से एनसीपी-एसपी के नेता शरद पवार के स्टैंड को लेकर भी सवाल किया.
+
+राहुल गांधी ने प्रेस कॉन्फ़्रेंस में कहा कि प्रधानमंत्री नरेंद्र मोदी, केंद्रीय गृह मंत्री अमित शाह और मुख्य चुनाव आयुक्त ज्ञानेश कुमार अब लोकसभा की 850 सीटें करने का नया प्रस्ताव लेकर आए हैं.
+
+उन्होंने इसे भारतीय लोकतंत्र के लिए ख़तरा बताते हुए कहा कि इससे लोकतांत्रिक व्यवस्था कमज़ोर होगी. राहुल ने दावा किया कि जेन-ज़ी का मानना है कि देश में वोट चोरी हो रही है और युवा उनके साथ हैं.
+
+### 'बीजेपी देश का राजनीतिक नक़्शा बदलना चाहती है'
+
+राहुल गांधी का कहना है कि केंद्र सरकार कह रही है कि लोकसभा में 543 सदस्यों की जगह 850 सदस्य होने चाहिए, इसके लिए वह महिला आरक्षण का तर्क दे रहे हैं.
+
+राहुल गांधी ने कहा, "ऐसा करके उनके पास भारत के मानचित्र में बड़े राजनीतिक बदलाव करने का मौका होगा. जैसे कोई कोरे कैनवास पर जैसे चाहे वैसे पेंटिंग कर सकता है. ठीक वैसे ही एक बड़ी संसदीय सीटों वाले देश में वे अपने हिसाब से ज़्यादा राजनीतिक बदलाव ला सकते हैं."
+
+"उनके पास मौका होगा कि वे जिस तरह चाहे भारतीय लोकतंत्र को रीड्रॉ करके ध्वस्त करें."
+
+उन्होंने कहा कि इस तरह से क्षेत्रों को रीमैप किया जाएगा, जिसमें वे अपने मुताबिक़ इलाकों और लोगों का चुनाव करेंगे.
+
+राहुल गांधी ने कहा, "यह कहा जा रहा है कि हर राज्य को समान अनुपात में 50 फ़ीसदी बढ़ी हुई सीटें मिलेंगी. यह मुद्दा ही नहीं है क्योंकि जब सरकार को 850 सीटें बढ़ाकर एक ब्लैंकचेक मिल जाएगा तो वे जैसा मन चाहेंगे, लोकतंत्र में वैसा बदलाव करेंगे."
+
+दरअसल, अप्रैल में सरकार ने जो प्रस्ताव संसद में पेश किया था, उसमें संसद की सीटें बढ़ाकर 850 सीटें किए जाने का प्रस्ताव था जो पारित होने में विफल रहा.
+
+### विपक्षी नेताओं से राहुल गांधी की अपील
+
+राहुल गांधी ने इंडिया गठबंधन और विपक्षी एनडीए गठबंधन के प्रमुख नेताओं से अपील करते करते हुए कहा कि लोकतंत्र की इस लड़ाई में सबको साथ आना होगा.
+
+पत्रकारों ने राहुल गांधी से जब सवाल किया कि इंडिया गठबंधन के प्रमुख नेता शरद पवार की गठबंधन के अंदर क्या स्थिति बदल जाएगी क्योंकि उनकी पार्टी एनसीपी इस विधेयक के लिए केंद्र सरकार का समर्थन करने का संकेत दे चुकी है?
+
+इस पर राहुल गांधी बोले, "भले शरद पवार इस बिल का समर्थन कर दें मगर इंडिया ब्लॉक में उनकी पोजीशन चेंज नहीं होगी."
+
+अपने संबोधन में बार-बार वे जेन-ज़ी को संबोधित कर रहे थे और उन्होंने कहा, "मैं साफ़-साफ़ कहता हूं कि आज लोग डरपोक हो गए हैं. जो डरते हैं वो भाग जाते हैं, जो नहीं डरते वो खड़े रहते हैं और मैंने देखा है कि जेन-ज़ी डरता नहीं है इसलिए मैं उनपर भरोसा करता हूं."
+
+उन्होंने आगे कहा कि ये मामला हर स्टेट के बराबर प्रतिनिधित्व, सीटों को फ़्रीज करने या महिला आरक्षण से जुड़ा नहीं है. उन्होंने कहा कि महिला आरक्षण का तो हम समर्थन कर चुके हैं और यह 543 सीटों के आधार पर पहले ही पास हो चुका है, हमारी मांग है कि सरकार इसे तुरंत लागू करे.
+
+राहुल ने कहा कि यह मामला सरकार को 850 सीटें देने जैसे ब्लैंक चेक से जुड़ा है.
+
+वह बोले, "मैं सभी नेताओं को, चाहे वो हमसे अलाइन्ड हों या न हों.. यह समझाना चाहता हूं कि वो इस मुद्दे को समझें."
+
+राहुल ने आगे कहा, "मैं जगन मोहन जी, चंद्रबाबू नायडू जी से कह रहा हूं कि हिन्दुस्तान के लोकतंत्र की हत्या हो रही है, जाग जाइए प्लीज़."
+
+### ज्ञानेश कुमार पर भी बोले राहुल गांधी
+
+राहुल गांधी ने दावा किया है कि उन्होंने प्रधानमंत्री नरेंद्र मोदी, केंद्रीय गृह मंत्री अमित शाह और मुख्य चुनाव आयुक्त ज्ञानेश कुमार को घेर लिया है.
+
+उन्होंने कहा कि इन नेताओं को भी इसकी जानकारी है और उनके पास भी मुख्य चुनाव आयुक्त ज्ञानेश कुमार के बारे में पर्याप्त जानकारी है, जिसे जल्द सार्वजनिक किया जाएगा.
+
+वहीं, परिसीमन आयोग को लेकर राहुल गांधी ने उसकी प्रस्तावित संरचना पर सवाल उठाए.
+
+उन्होंने दावा किया कि आयोग में एक पूर्व सुप्रीम कोर्ट जज का चयन प्रधानमंत्री नरेंद्र मोदी और अमित शाह करेंगे, जबकि तीसरे सदस्य की नियुक्ति मुख्य चुनाव आयुक्त ज्ञानेश कुमार करेंगे.
+
+राहुल गांधी ने आरोप लगाया कि आयोग की नियुक्ति प्रक्रिया से सरकार को निर्वाचन क्षेत्रों की सीमाएं तय करने में सीधा नियंत्रण मिल सकता है.
+
+इससे पहले इंडिया ब्लॉक के नेताओं की शनिवार को राज्यसभा में नेता प्रतिपक्ष मल्लिकार्जुन खड़गे के नई दिल्ली स्थित आवास पर बैठक हुई.
+
+इसके बाद परिसीमन की प्रस्तावित प्रक्रिया को लेकर इंडिया ब्लॉक ने केंद्र सरकार के सामने तीन प्रमुख मांगें रखी हैं.
+
+विपक्षी दलों ने लोकसभा की मौजूदा सदस्य संख्या बरकरार रखने, वर्तमान सीटों के आधार पर ही महिलाओं को आरक्षण देने और अगले 25 वर्षों तक राज्यों के बीच सीटों का मौजूदा आवंटन बनाए रखने की मांग की है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cm0evzq7yxlzo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `डीलिमिटेशन पर बोले राहुल गांधी, 'सीटों की संख्या 850 हुई तो बीजेपी को ब्लैंक चेक मिल जाएगा'`,
+    summary_hi: `कांग्रेस सांसद राहुल गांधी ने शनिवार को प्रेस कॉन्फ़्रेंस में परिसीमन को लेकर केंद्र सरकार पर निशाना साधा.`,
+    content_hi: `कांग्रेस सांसद राहुल गांधी ने शनिवार को प्रेस कॉन्फ़्रेंस में परिसीमन को लेकर केंद्र सरकार पर निशाना साधा.
+
+उन्होंने आरोप लगाया कि सीटों की संख्या 850 हुई तो भारतीय जनता पार्टी (बीजेपी) को ब्लैंक चेक मिल जाएगा.
+
+साथ ही उन्होंने सभी विपक्षी दलों से इस मुद्दे पर एकजुट होकर इसका विरोध करने की अपील की. इस दौरान पत्रकारों ने राहुल गांधी से एनसीपी-एसपी के नेता शरद पवार के स्टैंड को लेकर भी सवाल किया.
+
+राहुल गांधी ने प्रेस कॉन्फ़्रेंस में कहा कि प्रधानमंत्री नरेंद्र मोदी, केंद्रीय गृह मंत्री अमित शाह और मुख्य चुनाव आयुक्त ज्ञानेश कुमार अब लोकसभा की 850 सीटें करने का नया प्रस्ताव लेकर आए हैं.
+
+उन्होंने इसे भारतीय लोकतंत्र के लिए ख़तरा बताते हुए कहा कि इससे लोकतांत्रिक व्यवस्था कमज़ोर होगी. राहुल ने दावा किया कि जेन-ज़ी का मानना है कि देश में वोट चोरी हो रही है और युवा उनके साथ हैं.
+
+### 'बीजेपी देश का राजनीतिक नक़्शा बदलना चाहती है'
+
+राहुल गांधी का कहना है कि केंद्र सरकार कह रही है कि लोकसभा में 543 सदस्यों की जगह 850 सदस्य होने चाहिए, इसके लिए वह महिला आरक्षण का तर्क दे रहे हैं.
+
+राहुल गांधी ने कहा, "ऐसा करके उनके पास भारत के मानचित्र में बड़े राजनीतिक बदलाव करने का मौका होगा. जैसे कोई कोरे कैनवास पर जैसे चाहे वैसे पेंटिंग कर सकता है. ठीक वैसे ही एक बड़ी संसदीय सीटों वाले देश में वे अपने हिसाब से ज़्यादा राजनीतिक बदलाव ला सकते हैं."
+
+"उनके पास मौका होगा कि वे जिस तरह चाहे भारतीय लोकतंत्र को रीड्रॉ करके ध्वस्त करें."
+
+उन्होंने कहा कि इस तरह से क्षेत्रों को रीमैप किया जाएगा, जिसमें वे अपने मुताबिक़ इलाकों और लोगों का चुनाव करेंगे.
+
+राहुल गांधी ने कहा, "यह कहा जा रहा है कि हर राज्य को समान अनुपात में 50 फ़ीसदी बढ़ी हुई सीटें मिलेंगी. यह मुद्दा ही नहीं है क्योंकि जब सरकार को 850 सीटें बढ़ाकर एक ब्लैंकचेक मिल जाएगा तो वे जैसा मन चाहेंगे, लोकतंत्र में वैसा बदलाव करेंगे."
+
+दरअसल, अप्रैल में सरकार ने जो प्रस्ताव संसद में पेश किया था, उसमें संसद की सीटें बढ़ाकर 850 सीटें किए जाने का प्रस्ताव था जो पारित होने में विफल रहा.
+
+### विपक्षी नेताओं से राहुल गांधी की अपील
+
+राहुल गांधी ने इंडिया गठबंधन और विपक्षी एनडीए गठबंधन के प्रमुख नेताओं से अपील करते करते हुए कहा कि लोकतंत्र की इस लड़ाई में सबको साथ आना होगा.
+
+पत्रकारों ने राहुल गांधी से जब सवाल किया कि इंडिया गठबंधन के प्रमुख नेता शरद पवार की गठबंधन के अंदर क्या स्थिति बदल जाएगी क्योंकि उनकी पार्टी एनसीपी इस विधेयक के लिए केंद्र सरकार का समर्थन करने का संकेत दे चुकी है?
+
+इस पर राहुल गांधी बोले, "भले शरद पवार इस बिल का समर्थन कर दें मगर इंडिया ब्लॉक में उनकी पोजीशन चेंज नहीं होगी."
+
+अपने संबोधन में बार-बार वे जेन-ज़ी को संबोधित कर रहे थे और उन्होंने कहा, "मैं साफ़-साफ़ कहता हूं कि आज लोग डरपोक हो गए हैं. जो डरते हैं वो भाग जाते हैं, जो नहीं डरते वो खड़े रहते हैं और मैंने देखा है कि जेन-ज़ी डरता नहीं है इसलिए मैं उनपर भरोसा करता हूं."
+
+उन्होंने आगे कहा कि ये मामला हर स्टेट के बराबर प्रतिनिधित्व, सीटों को फ़्रीज करने या महिला आरक्षण से जुड़ा नहीं है. उन्होंने कहा कि महिला आरक्षण का तो हम समर्थन कर चुके हैं और यह 543 सीटों के आधार पर पहले ही पास हो चुका है, हमारी मांग है कि सरकार इसे तुरंत लागू करे.
+
+राहुल ने कहा कि यह मामला सरकार को 850 सीटें देने जैसे ब्लैंक चेक से जुड़ा है.
+
+वह बोले, "मैं सभी नेताओं को, चाहे वो हमसे अलाइन्ड हों या न हों.. यह समझाना चाहता हूं कि वो इस मुद्दे को समझें."
+
+राहुल ने आगे कहा, "मैं जगन मोहन जी, चंद्रबाबू नायडू जी से कह रहा हूं कि हिन्दुस्तान के लोकतंत्र की हत्या हो रही है, जाग जाइए प्लीज़."
+
+### ज्ञानेश कुमार पर भी बोले राहुल गांधी
+
+राहुल गांधी ने दावा किया है कि उन्होंने प्रधानमंत्री नरेंद्र मोदी, केंद्रीय गृह मंत्री अमित शाह और मुख्य चुनाव आयुक्त ज्ञानेश कुमार को घेर लिया है.
+
+उन्होंने कहा कि इन नेताओं को भी इसकी जानकारी है और उनके पास भी मुख्य चुनाव आयुक्त ज्ञानेश कुमार के बारे में पर्याप्त जानकारी है, जिसे जल्द सार्वजनिक किया जाएगा.
+
+वहीं, परिसीमन आयोग को लेकर राहुल गांधी ने उसकी प्रस्तावित संरचना पर सवाल उठाए.
+
+उन्होंने दावा किया कि आयोग में एक पूर्व सुप्रीम कोर्ट जज का चयन प्रधानमंत्री नरेंद्र मोदी और अमित शाह करेंगे, जबकि तीसरे सदस्य की नियुक्ति मुख्य चुनाव आयुक्त ज्ञानेश कुमार करेंगे.
+
+राहुल गांधी ने आरोप लगाया कि आयोग की नियुक्ति प्रक्रिया से सरकार को निर्वाचन क्षेत्रों की सीमाएं तय करने में सीधा नियंत्रण मिल सकता है.
+
+इससे पहले इंडिया ब्लॉक के नेताओं की शनिवार को राज्यसभा में नेता प्रतिपक्ष मल्लिकार्जुन खड़गे के नई दिल्ली स्थित आवास पर बैठक हुई.
+
+इसके बाद परिसीमन की प्रस्तावित प्रक्रिया को लेकर इंडिया ब्लॉक ने केंद्र सरकार के सामने तीन प्रमुख मांगें रखी हैं.
+
+विपक्षी दलों ने लोकसभा की मौजूदा सदस्य संख्या बरकरार रखने, वर्तमान सीटों के आधार पर ही महिलाओं को आरक्षण देने और अगले 25 वर्षों तक राज्यों के बीच सीटों का मौजूदा आवंटन बनाए रखने की मांग की है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cm0evzq7yxlzo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक डीलिमिटेशन पर बोले राहुल गांधी, 'सीटों की संख्या 850 हुई तो बीजेपी को ब्लैंक चेक मिल जाएगा' से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 226,
+    title: `India sees robust growth momentum, flags El Nino, West Asia risks - Moneycontrol.com`,
+    slug: `india-sees-robust-growth-momentum-flags-el-nino-west-asia-risks-moneyc-2026`,
+    original_title: `India sees robust growth momentum, flags El Nino, West Asia risks - Moneycontrol.com`,
+    category: `markets`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:09Z`,
+    updated_at: `2026-11-28T17:04:09Z`,
+    source_name: `Moneycontrol.com`,
+    source_url: `https://www.moneycontrol.com/news/business/economy/india-sees-robust-growth-momentum-flags-el-nino-west-asia-risks-14090867.html`,
+    source_courtesy: `Source: Moneycontrol.com`,
+    image_url: `/images/articles/india-sees-robust-growth-momentum-flags-el-nino-west-asia-risks-moneyc-2026.jpg`,
+    image_alt: `India sees robust growth momentum, flags El Nino, West Asia risks - Moneycontrol.com`,
+    image_courtesy: `Image: Moneycontrol.com (External Source Attribution)`,
+    image_photographer: `Moneycontrol.com`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Markets, News, India`,
+    summary: `India’s government expects the economy to remain robust in the coming months, supported by resilient consumption and a gradual pickup in private investment, even as inflation and geopolitical tensions pose risks to the outlook.`,
+    content: `India’s government expects the economy to remain robust in the coming months, supported by resilient consumption and a gradual pickup in private investment, even as inflation and geopolitical tensions pose risks to the outlook.
+
+Domestic economic activity is expected to sustain momentum into the third quarter of the fiscal year, with indicators including goods movement, tax collections, energy consumption and freight pointing to continued expansion, the Finance Ministry said in a monthly review released Saturday.
+
+The assessment comes ahead of the second-quarter gross domestic product data due on Monday. India’s economy is expected to grow near 8% in the July-to-September quarter, according to a Bloomberg survey of economists.
+
+Inflation remains a key risk. The Finance Ministry said an unfavorable base effect may persist into November, while an exceptionally strong El Niño could peak toward the end of 2026. Festive and wedding-season demand may also put upward pressure on food and non-food prices.
+
+Continued conflict in the Middle East and risks to shipping through the Strait of Hormuz could keep oil import bills and freight rates volatile, potentially feeding into wholesale and retail prices. Lower crude prices and a stronger rupee may offer some relief if those trends persist.
+
+The inflation outlook has put the Reserve Bank of India on course for another rate increase. The central bank is widely expected to raise its repo rate by 25 basis points to 5.75% on Dec. 4. The RBI raised the rate by 25 basis points in October to 5.5% and shifted its stance to “calibrated tightening.”
+
+Despite the risks, the Finance Ministry said sustained consumption, broadening private investment and policy support for manufacturing should underpin growth, while strong macroeconomic fundamentals provide buffers against external shocks. Business activity is likely to remain firm as new orders gain pace and input-cost pressures ease, it said.
+
+Discover the latest Business News , Sensex , and Nifty updates. Obtain Personal Finance insights, tax queries, and expert opinions on Moneycontrol or download the Moneycontrol App to stay updated!
+
+Find the best of Al News in one place, specially curated for you every
+        weekend.
+
+Stay on top of the latest tech trends and biggest startup news.
+
+You are already a Moneycontrol Pro user.
+
+---
+
+**Original Source:** [Moneycontrol.com](https://www.moneycontrol.com/news/business/economy/india-sees-robust-growth-momentum-flags-el-nino-west-asia-risks-14090867.html)`,
+    title_en: `India sees robust growth momentum, flags El Nino, West Asia risks - Moneycontrol.com`,
+    summary_en: `India’s government expects the economy to remain robust in the coming months, supported by resilient consumption and a gradual pickup in private investment, even as inflation and geopolitical tensions pose risks to the outlook.`,
+    content_en: `India’s government expects the economy to remain robust in the coming months, supported by resilient consumption and a gradual pickup in private investment, even as inflation and geopolitical tensions pose risks to the outlook.
+
+Domestic economic activity is expected to sustain momentum into the third quarter of the fiscal year, with indicators including goods movement, tax collections, energy consumption and freight pointing to continued expansion, the Finance Ministry said in a monthly review released Saturday.
+
+The assessment comes ahead of the second-quarter gross domestic product data due on Monday. India’s economy is expected to grow near 8% in the July-to-September quarter, according to a Bloomberg survey of economists.
+
+Inflation remains a key risk. The Finance Ministry said an unfavorable base effect may persist into November, while an exceptionally strong El Niño could peak toward the end of 2026. Festive and wedding-season demand may also put upward pressure on food and non-food prices.
+
+Continued conflict in the Middle East and risks to shipping through the Strait of Hormuz could keep oil import bills and freight rates volatile, potentially feeding into wholesale and retail prices. Lower crude prices and a stronger rupee may offer some relief if those trends persist.
+
+The inflation outlook has put the Reserve Bank of India on course for another rate increase. The central bank is widely expected to raise its repo rate by 25 basis points to 5.75% on Dec. 4. The RBI raised the rate by 25 basis points in October to 5.5% and shifted its stance to “calibrated tightening.”
+
+Despite the risks, the Finance Ministry said sustained consumption, broadening private investment and policy support for manufacturing should underpin growth, while strong macroeconomic fundamentals provide buffers against external shocks. Business activity is likely to remain firm as new orders gain pace and input-cost pressures ease, it said.
+
+Discover the latest Business News , Sensex , and Nifty updates. Obtain Personal Finance insights, tax queries, and expert opinions on Moneycontrol or download the Moneycontrol App to stay updated!
+
+Find the best of Al News in one place, specially curated for you every
+        weekend.
+
+Stay on top of the latest tech trends and biggest startup news.
+
+You are already a Moneycontrol Pro user.
+
+---
+
+**Original Source:** [Moneycontrol.com](https://www.moneycontrol.com/news/business/economy/india-sees-robust-growth-momentum-flags-el-nino-west-asia-risks-14090867.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Moneycontrol.com.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for India sees robust growth momentum, flags El Nino, West Asia risks - Moneycontrol.com.`,
+    primary_source: `Moneycontrol.com`,
+  },
+  {
+    id: 227,
+    title: `इस सरकारी कंपनी का शेयर 52 हफ्ते के हाई से 38% टूटा, क्या यह दांव लगाने का सही वक्त है? - Moneycontrol Hindi`,
+    slug: `52-38-moneycontrol-hindi-2026`,
+    original_title: `इस सरकारी कंपनी का शेयर 52 हफ्ते के हाई से 38% टूटा, क्या यह दांव लगाने का सही वक्त है? - Moneycontrol Hindi`,
+    category: `markets`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:13Z`,
+    updated_at: `2026-11-28T17:04:13Z`,
+    source_name: `Moneycontrol Hindi`,
+    source_url: `https://hindi.moneycontrol.com/news/markets/ship-building-psu-company-grse-stock-has-tumbled-38-percent-frome-52-week-high-should-you-invest-right-now-for-decent-return-2476355.html`,
+    source_courtesy: `Source: Moneycontrol Hindi`,
+    image_url: `/images/articles/52-38-moneycontrol-hindi-2026.jpg`,
+    image_alt: `इस सरकारी कंपनी का शेयर 52 हफ्ते के हाई से 38% टूटा, क्या यह दांव लगाने का सही वक्त है? - Moneycontrol Hindi`,
+    image_courtesy: `Image: Moneycontrol Hindi (External Source Attribution)`,
+    image_photographer: `Moneycontrol Hindi`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Markets, News, India`,
+    summary: `गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स (जीआरएसई) का शेयर अपने 52 हफ्ते के हाई से करीब 38% फीसदी गिरा है। इस सरकारी कंपनी का शेयर 29 अप्रैल, 2026 को 3,339 रुपये के 52 हफ्ते के हाई पर पहुंचा था। कंपनी को डिफेंस और कमर्शियल शिपबिल्डिंग सेक्टर म`,
+    content: `गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स (जीआरएसई) का शेयर अपने 52 हफ्ते के हाई से करीब 38% फीसदी गिरा है। इस सरकारी कंपनी का शेयर 29 अप्रैल, 2026 को 3,339 रुपये के 52 हफ्ते के हाई पर पहुंचा था। कंपनी को डिफेंस और कमर्शियल शिपबिल्डिंग सेक्टर में मजबूत मांग का फायदा मिल रहा है। 32,000 करोड़ रुपये से ज्यादा के नेक्स्ट जेनरेशन कॉर्वेट (NGC) कॉन्ट्रैक्ट के बाद कंपनी की ऑर्डर बुक बढ़कर करीब 44,846 करोड़ रुपये हो गई है।अगले कई सालों तक रेवेन्यू को लेकर तस्वीर साफGarden Reach Shipbuilders &amp; Engineers (GRSE) के लिए आने वाले वर्षों में कारोबार बढ़ाने के कई मौके हैं।
+
+कंपनी को भारतीय नौसेना और कोस्ट गार्ड के नए प्रोजेक्ट्स से बड़े ऑर्डर मिलने की उम्मीद है। हाल ही में 32,000 करोड़ रुपये से ज्यादा का नेक्स्ट जेनरेशन कॉर्वेट (NGC) कॉन्ट्रैक्ट मिला है। इससे अगले कुछ सालों तक रेवेन्यू को लेकर तस्वीर साफ हो गई है।बड़े जहाजों के निर्माण के लिए क्षमता बढ़ा रही है कंपनी कंपनी मौजूदा प्रोजेक्ट्स को पूरा करने के साथ अपनी उत्पादन क्षमता भी बढ़ा रही है, ताकि बड़े और जटिल जहाजों का निर्माण किया जा सके।
+
+GRSE के पास भारतीय नौसेना और कोस्ट गार्ड के आने वाले प्रोजेक्ट्स से बड़े ऑर्डर हासिल करने का मौका है। कंपनी ने चार प्रोजेक्ट्स के लिए करीब 25,000 करोड़ रुपये की बोलियां लगाई हैं। इसके अलावा करीब 1.47 लाख करोड़ रुपये के तीन बड़े डिफेंस प्रोग्राम फिलहाल रिक्वेस्ट फॉर प्रपोजल (RFP) के चरण में हैं।
+
+NGC कॉन्ट्रैक्ट के बाद ऑर्डर बुक बढ़कर करीब 44,846 करोड़ रुपये30 सितंबर, 2026 को GRSE की ऑर्डर बुक 12,978 करोड़ रुपये की थी। इसके बाद 2 नवंबर, 2026 को 32,000 करोड़ रुपये से ज्यादा का NGC कॉन्ट्रैक्ट साइन होने के बाद ऑर्डर बुक बढ़कर करीब 44,846 करोड़ रुपये की हो गई। सितंबर 2026 के अंत में कंपनी की कुल ऑर्डर बुक में शिपबिल्डिंग की हिस्सेदारी करीब 96% थी।
+
+डिफेंस पोर्टफोलियो में P-17 Alpha फ्रिगेट, एंटी-सबमरीन शैलो वॉटर क्राफ्ट (ASW-SWC), नेक्स्ट जेनरेशन ऑफशोर पेट्रोल वेसल (NGOPV) और नया NGC प्रोग्राम शामिल हैं।डिफेंस के अलावा भी कंपनी के पास कई बड़े कमर्शियल ऑर्डरडिफेंस के अलावा कंपनी के पास जर्मनी के एक क्लाइंट के लिए 12 मल्टीपर्पज वेसल, बांग्लादेश के लिए ट्रेलिंग सक्शन हॉपर ड्रेजर, रिसर्च वेसल, पश्चिम बंगाल सरकार के लिए हाइब्रिड फेरी, स्यामा प्रसाद मुखर्जी पोर्ट के लिए इलेक्ट्रिक टग और ONGC के लिए चार प्लेटफॉर्म सप्लाई वेसल (PSV) बनाने के ऑर्डर भी हैं।
+
+क्षमता बढ़ाने के लिए कंपनी रायचक में कर रही 2900 करोड़ निवेशकंपनी की ऑर्डर बुक में डिफेंस और कमर्शियल दोनों तरह के प्रोजेक्ट्स शामिल हैं। GRSE उत्पादन क्षमता बढ़ाने के लिए रायचक में करीब 2,900 करोड़ रुपये का निवेश कर रही है। यहां 200 मीटर का ड्राई डॉक बनाया जाएगा। इस सुविधा से कंपनी बड़े और ज्यादा जटिल जहाजों का निर्माण कर सकेगी।सितंबर तिमाही में एबिड्टा 25 फीसदी बढ़कर 195 करोड़ पहुंचीक्षमता विस्तार से कंपनी को भविष्य में बड़े शिपबिल्डिंग प्रोजेक्ट्स हासिल करने और उन्हें समय पर पूरा करने में मदद मिल सकती है।
+
+वित्त वर्ष 2026-27 की दूसरी तिमाही में GRSE का प्रदर्शन अच्छा रहा। कंपनी का रेवेन्यू सालाना आधार पर 9% बढ़कर 1,827 करोड़ रुपये हो गया। बेहतर एग्जीक्यूशन के कारण EBITDA 25% बढ़कर 195 करोड़ रुपये रहा।यह भी पढ़ें: पोर्टफोलियो का 10-15% विदेशी निवेश में होना चाहिए, राधिका गुप्ता ने दाल-चावल और पिज्जा-नूडल्स का दिया उदाहरणस्ट्रॉन्ग ऑर्डर बुक से लंबी अवधि में ग्रोथ की अच्छी संभावनाकंपनी के प्रमुख डिफेंस प्रोजेक्ट्स का एग्जीक्यूशन आगे बढ़ रहा है।
+
+P-17 Alpha प्रोग्राम चालू तिमाही में पूरा होने के करीब है। ASW-SWC प्रोग्राम के तहत कुल आठ जहाजों में से छह की डिलीवरी हो चुकी है। बाकी दो जहाजों के Q1FY28 में पूरा होने की उम्मीद है। कंपनी की मजबूत ऑर्डर बुक, डिफेंस प्रोजेक्ट्स की बड़ी पाइपलाइन और क्षमता विस्तार से लंबी अवधि में ग्रोथ की अच्छी संभावनाएं दिखती हैं।डिसक्लेमर: मनीकंट्रोल पर एक्सपर्ट्स की तरफ से व्यक्त विचार उनके अपने विचार होते हैं।
+
+ये वेबसाइट या इसके मैनेजमेंट के विचार नहीं होते। मनीकंट्रोल की यूजर्स को सलाह है कि उन्हें निवेश का फैसला लेने से पहले सर्टिफायड एक्सपर्ट्स की राय लेनी चाहिए।
+
+---
+
+**मूल स्रोत (Original Source):** [Moneycontrol Hindi](https://hindi.moneycontrol.com/news/markets/ship-building-psu-company-grse-stock-has-tumbled-38-percent-frome-52-week-high-should-you-invest-right-now-for-decent-return-2476355.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `इस सरकारी कंपनी का शेयर 52 हफ्ते के हाई से 38% टूटा, क्या यह दांव लगाने का सही वक्त है? - Moneycontrol Hindi`,
+    summary_hi: `गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स (जीआरएसई) का शेयर अपने 52 हफ्ते के हाई से करीब 38% फीसदी गिरा है। इस सरकारी कंपनी का शेयर 29 अप्रैल, 2026 को 3,339 रुपये के 52 हफ्ते के हाई पर पहुंचा था। कंपनी को डिफेंस और कमर्शियल शिपबिल्डिंग सेक्टर म`,
+    content_hi: `गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स (जीआरएसई) का शेयर अपने 52 हफ्ते के हाई से करीब 38% फीसदी गिरा है। इस सरकारी कंपनी का शेयर 29 अप्रैल, 2026 को 3,339 रुपये के 52 हफ्ते के हाई पर पहुंचा था। कंपनी को डिफेंस और कमर्शियल शिपबिल्डिंग सेक्टर में मजबूत मांग का फायदा मिल रहा है। 32,000 करोड़ रुपये से ज्यादा के नेक्स्ट जेनरेशन कॉर्वेट (NGC) कॉन्ट्रैक्ट के बाद कंपनी की ऑर्डर बुक बढ़कर करीब 44,846 करोड़ रुपये हो गई है।अगले कई सालों तक रेवेन्यू को लेकर तस्वीर साफGarden Reach Shipbuilders &amp; Engineers (GRSE) के लिए आने वाले वर्षों में कारोबार बढ़ाने के कई मौके हैं।
+
+कंपनी को भारतीय नौसेना और कोस्ट गार्ड के नए प्रोजेक्ट्स से बड़े ऑर्डर मिलने की उम्मीद है। हाल ही में 32,000 करोड़ रुपये से ज्यादा का नेक्स्ट जेनरेशन कॉर्वेट (NGC) कॉन्ट्रैक्ट मिला है। इससे अगले कुछ सालों तक रेवेन्यू को लेकर तस्वीर साफ हो गई है।बड़े जहाजों के निर्माण के लिए क्षमता बढ़ा रही है कंपनी कंपनी मौजूदा प्रोजेक्ट्स को पूरा करने के साथ अपनी उत्पादन क्षमता भी बढ़ा रही है, ताकि बड़े और जटिल जहाजों का निर्माण किया जा सके।
+
+GRSE के पास भारतीय नौसेना और कोस्ट गार्ड के आने वाले प्रोजेक्ट्स से बड़े ऑर्डर हासिल करने का मौका है। कंपनी ने चार प्रोजेक्ट्स के लिए करीब 25,000 करोड़ रुपये की बोलियां लगाई हैं। इसके अलावा करीब 1.47 लाख करोड़ रुपये के तीन बड़े डिफेंस प्रोग्राम फिलहाल रिक्वेस्ट फॉर प्रपोजल (RFP) के चरण में हैं।
+
+NGC कॉन्ट्रैक्ट के बाद ऑर्डर बुक बढ़कर करीब 44,846 करोड़ रुपये30 सितंबर, 2026 को GRSE की ऑर्डर बुक 12,978 करोड़ रुपये की थी। इसके बाद 2 नवंबर, 2026 को 32,000 करोड़ रुपये से ज्यादा का NGC कॉन्ट्रैक्ट साइन होने के बाद ऑर्डर बुक बढ़कर करीब 44,846 करोड़ रुपये की हो गई। सितंबर 2026 के अंत में कंपनी की कुल ऑर्डर बुक में शिपबिल्डिंग की हिस्सेदारी करीब 96% थी।
+
+डिफेंस पोर्टफोलियो में P-17 Alpha फ्रिगेट, एंटी-सबमरीन शैलो वॉटर क्राफ्ट (ASW-SWC), नेक्स्ट जेनरेशन ऑफशोर पेट्रोल वेसल (NGOPV) और नया NGC प्रोग्राम शामिल हैं।डिफेंस के अलावा भी कंपनी के पास कई बड़े कमर्शियल ऑर्डरडिफेंस के अलावा कंपनी के पास जर्मनी के एक क्लाइंट के लिए 12 मल्टीपर्पज वेसल, बांग्लादेश के लिए ट्रेलिंग सक्शन हॉपर ड्रेजर, रिसर्च वेसल, पश्चिम बंगाल सरकार के लिए हाइब्रिड फेरी, स्यामा प्रसाद मुखर्जी पोर्ट के लिए इलेक्ट्रिक टग और ONGC के लिए चार प्लेटफॉर्म सप्लाई वेसल (PSV) बनाने के ऑर्डर भी हैं।
+
+क्षमता बढ़ाने के लिए कंपनी रायचक में कर रही 2900 करोड़ निवेशकंपनी की ऑर्डर बुक में डिफेंस और कमर्शियल दोनों तरह के प्रोजेक्ट्स शामिल हैं। GRSE उत्पादन क्षमता बढ़ाने के लिए रायचक में करीब 2,900 करोड़ रुपये का निवेश कर रही है। यहां 200 मीटर का ड्राई डॉक बनाया जाएगा। इस सुविधा से कंपनी बड़े और ज्यादा जटिल जहाजों का निर्माण कर सकेगी।सितंबर तिमाही में एबिड्टा 25 फीसदी बढ़कर 195 करोड़ पहुंचीक्षमता विस्तार से कंपनी को भविष्य में बड़े शिपबिल्डिंग प्रोजेक्ट्स हासिल करने और उन्हें समय पर पूरा करने में मदद मिल सकती है।
+
+वित्त वर्ष 2026-27 की दूसरी तिमाही में GRSE का प्रदर्शन अच्छा रहा। कंपनी का रेवेन्यू सालाना आधार पर 9% बढ़कर 1,827 करोड़ रुपये हो गया। बेहतर एग्जीक्यूशन के कारण EBITDA 25% बढ़कर 195 करोड़ रुपये रहा।यह भी पढ़ें: पोर्टफोलियो का 10-15% विदेशी निवेश में होना चाहिए, राधिका गुप्ता ने दाल-चावल और पिज्जा-नूडल्स का दिया उदाहरणस्ट्रॉन्ग ऑर्डर बुक से लंबी अवधि में ग्रोथ की अच्छी संभावनाकंपनी के प्रमुख डिफेंस प्रोजेक्ट्स का एग्जीक्यूशन आगे बढ़ रहा है।
+
+P-17 Alpha प्रोग्राम चालू तिमाही में पूरा होने के करीब है। ASW-SWC प्रोग्राम के तहत कुल आठ जहाजों में से छह की डिलीवरी हो चुकी है। बाकी दो जहाजों के Q1FY28 में पूरा होने की उम्मीद है। कंपनी की मजबूत ऑर्डर बुक, डिफेंस प्रोजेक्ट्स की बड़ी पाइपलाइन और क्षमता विस्तार से लंबी अवधि में ग्रोथ की अच्छी संभावनाएं दिखती हैं।डिसक्लेमर: मनीकंट्रोल पर एक्सपर्ट्स की तरफ से व्यक्त विचार उनके अपने विचार होते हैं।
+
+ये वेबसाइट या इसके मैनेजमेंट के विचार नहीं होते। मनीकंट्रोल की यूजर्स को सलाह है कि उन्हें निवेश का फैसला लेने से पहले सर्टिफायड एक्सपर्ट्स की राय लेनी चाहिए।
+
+---
+
+**मूल स्रोत (Original Source):** [Moneycontrol Hindi](https://hindi.moneycontrol.com/news/markets/ship-building-psu-company-grse-stock-has-tumbled-38-percent-frome-52-week-high-should-you-invest-right-now-for-decent-return-2476355.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Markets श्रेणी से जुड़ी यह रिपोर्ट Moneycontrol Hindi के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक इस सरकारी कंपनी का शेयर 52 हफ्ते के हाई से 38% टूटा, क्या यह दांव लगाने का सही वक्त है? - Moneycontrol Hindi से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Moneycontrol Hindi`,
+  },
+  {
+    id: 228,
+    title: `PSA: Amazon's 2026 Kindle back panels are popping off when owners remove their cases - Android Authority`,
+    slug: `psa-amazons-2026-kindle-back-panels-are-popping-off-when-owners-remove-2026`,
+    original_title: `PSA: Amazon's 2026 Kindle back panels are popping off when owners remove their cases - Android Authority`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:15Z`,
+    updated_at: `2026-11-28T17:04:15Z`,
+    source_name: `Android Authority`,
+    source_url: `https://www.androidauthority.com/amazon-kindle-2026-back-panel-issue-3740856/`,
+    source_courtesy: `Source: Android Authority`,
+    image_url: `/images/articles/psa-amazons-2026-kindle-back-panels-are-popping-off-when-owners-remove-2026.jpg`,
+    image_alt: `PSA: Amazon's 2026 Kindle back panels are popping off when owners remove their cases - Android Authority`,
+    image_courtesy: `Image: Android Authority (External Source Attribution)`,
+    image_photographer: `Android Authority`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Affiliate links on Android Authority may earn us a commission. Learn more.`,
+    content: `Affiliate links on Android Authority may earn us a commission. Learn more.
+
+We got our first hint that Amazon was preparing to make Kindle batteries easier to replace back in May, and the company delivered on that front with the launch of its redesigned Kindle lineup in October. It’s a welcome change for devices that people often keep for years, but some owners of the 2026 Kindle and Kindle Paperwhite are discovering that the removable back panel can come loose long before it’s time for a new battery.
+
+A Kindle owner on Reddit demonstrated how their Ube Kindle comes apart when removing a protective case. TikTok creator Jackie’s Book Tally shared a similar experience, showing how trying to peel away a clear case to put some stickers on the back of her Kindle causes the device’s housing to separate.
+
+It’s not just third-party cases, either. Mashable repeatedly encountered the same issue when removing the basic Kindle from Amazon’s official fabric cover. The publication also heard from a reader whose 2026 Kindle Paperwhite’s back panel came off completely when removing its case. The reader ended up returning the device in favor of the 2024 Paperwhite Signature Edition.
+
+So far, reports have been limited to the standard Kindle and Kindle Paperwhite. As TechRadar ‘s testing revealed, the aluminum Kindle uses two small screws near the USB-C port to secure its housing, unlike the snap-on design of its plastic counterpart.
+
+Responding to Mashable , an Amazon spokesperson explained:
+
+While the panel is easy to snap back into place and the separation doesn’t seem to affect the Kindle’s operation, there’s a visible gap around the screen. The good news is that addressing this issue may not necessarily require sacrificing the convenience of a removable back panel. Amazon could potentially redesign its cases to make removing the Kindle easier without compromising how securely they hold it.
+
+User-replaceable batteries are a big win for Kindle owners, particularly given how many years an e-reader can otherwise remain useful. Hopefully, Amazon can strike a better balance between making its Kindles easy to open for repairs and keeping them securely assembled during everyday use.
+
+Read what readers said or add your take.
+
+---
+
+**Original Source:** [Android Authority](https://www.androidauthority.com/amazon-kindle-2026-back-panel-issue-3740856/)`,
+    title_en: `PSA: Amazon's 2026 Kindle back panels are popping off when owners remove their cases - Android Authority`,
+    summary_en: `Affiliate links on Android Authority may earn us a commission. Learn more.`,
+    content_en: `Affiliate links on Android Authority may earn us a commission. Learn more.
+
+We got our first hint that Amazon was preparing to make Kindle batteries easier to replace back in May, and the company delivered on that front with the launch of its redesigned Kindle lineup in October. It’s a welcome change for devices that people often keep for years, but some owners of the 2026 Kindle and Kindle Paperwhite are discovering that the removable back panel can come loose long before it’s time for a new battery.
+
+A Kindle owner on Reddit demonstrated how their Ube Kindle comes apart when removing a protective case. TikTok creator Jackie’s Book Tally shared a similar experience, showing how trying to peel away a clear case to put some stickers on the back of her Kindle causes the device’s housing to separate.
+
+It’s not just third-party cases, either. Mashable repeatedly encountered the same issue when removing the basic Kindle from Amazon’s official fabric cover. The publication also heard from a reader whose 2026 Kindle Paperwhite’s back panel came off completely when removing its case. The reader ended up returning the device in favor of the 2024 Paperwhite Signature Edition.
+
+So far, reports have been limited to the standard Kindle and Kindle Paperwhite. As TechRadar ‘s testing revealed, the aluminum Kindle uses two small screws near the USB-C port to secure its housing, unlike the snap-on design of its plastic counterpart.
+
+Responding to Mashable , an Amazon spokesperson explained:
+
+While the panel is easy to snap back into place and the separation doesn’t seem to affect the Kindle’s operation, there’s a visible gap around the screen. The good news is that addressing this issue may not necessarily require sacrificing the convenience of a removable back panel. Amazon could potentially redesign its cases to make removing the Kindle easier without compromising how securely they hold it.
+
+User-replaceable batteries are a big win for Kindle owners, particularly given how many years an e-reader can otherwise remain useful. Hopefully, Amazon can strike a better balance between making its Kindles easy to open for repairs and keeping them securely assembled during everyday use.
+
+Read what readers said or add your take.
+
+---
+
+**Original Source:** [Android Authority](https://www.androidauthority.com/amazon-kindle-2026-back-panel-issue-3740856/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Android Authority.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for PSA: Amazon's 2026 Kindle back panels are popping off when owners remove their cases - Android Authority.`,
+    primary_source: `Android Authority`,
+  },
+  {
+    id: 229,
+    title: `अफवाहों के मुताबिक, iPhone 20 Pro Max में सिरेमिक सामग्री का इस्तेमाल किया जाएगा: यह iPhone की 20वीं वर्षगांठ मनाने के लिए एक सीमित संस्करण होगा। - Vietnam.vn`,
+    slug: `iphone-20-pro-max-iphone-20-vietnamvn-2026`,
+    original_title: `अफवाहों के मुताबिक, iPhone 20 Pro Max में सिरेमिक सामग्री का इस्तेमाल किया जाएगा: यह iPhone की 20वीं वर्षगांठ मनाने के लिए एक सीमित संस्करण होगा। - Vietnam.vn`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:19Z`,
+    updated_at: `2026-11-28T17:04:19Z`,
+    source_name: `Vietnam.vn`,
+    source_url: `https://www.vietnam.vn/hi/iphone-20-pro-max-bi-don-dung-vat-lieu-gom-phien-ban-gioi-han-cho-ky-niem-20-nam-iphone`,
+    source_courtesy: `Source: Vietnam.vn`,
+    image_url: `/images/articles/iphone-20-pro-max-iphone-20-vietnamvn-2026.webp`,
+    image_alt: `अफवाहों के मुताबिक, iPhone 20 Pro Max में सिरेमिक सामग्री का इस्तेमाल किया जाएगा: यह iPhone की 20वीं वर्षगांठ मनाने के लिए एक सीमित संस्करण होगा। - Vietnam.vn`,
+    image_courtesy: `Image: Vietnam.vn (External Source Attribution)`,
+    image_photographer: `Vietnam.vn`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `फिक्स्ड फोकस डिजिटल की रिपोर्ट में दावा किया गया है कि ऐप्पल आईफोन 20 प्रो मैक्स के लिए सिरेमिक घटकों का परीक्षण कर रहा है, लेकिन उनका बड़े पैमाने पर उत्पादन नहीं कर रहा है और स्रोत की विश्वसनीयता सीमित है।`,
+    content: `फिक्स्ड फोकस डिजिटल की रिपोर्ट में दावा किया गया है कि ऐप्पल आईफोन 20 प्रो मैक्स के लिए सिरेमिक घटकों का परीक्षण कर रहा है, लेकिन उनका बड़े पैमाने पर उत्पादन नहीं कर रहा है और स्रोत की विश्वसनीयता सीमित है।
+
+खबरों के मुताबिक, Apple iPhone 20 Pro Max के लिए सिरेमिक सामग्री का परीक्षण कर रहा है, जिसे iPhone के लॉन्च की 20वीं वर्षगांठ के उपलक्ष्य में लॉन्च किया जाना है। अगर ये अफवाहें सही हैं, तो यह एक सीमित संस्करण हो सकता है जिसका डिज़ाइन अलग होगा और यह हाल के iPhone जेनरेशन में मौजूद सिरेमिक शील्ड सुरक्षात्मक ग्लास तकनीक से कहीं आगे होगा।
+
+यह जानकारी चीनी सोशल मीडिया प्लेटफॉर्म वीबो पर फिक्स्ड फोकस डिजिटल अकाउंट से मिली है। मैकरूमर्स के अनुसार, यह लीक का पता लगाने वाली पहली तकनीकी वेबसाइट है।
+
+### iPhone 20 Pro Max में सिरेमिक सामग्री कहाँ पाई जाती है?
+
+स्रोत ने यह स्पष्ट नहीं किया कि उपकरण के कौन से हिस्से सिरेमिक से बने होंगे। उपलब्ध जानकारी के आधार पर, यह संभावना है कि इस सामग्री का उपयोग उपकरण के बाहरी घटकों में किया जाएगा।
+
+एप्पल पूरे फ्रेम पर या केवल कुछ खास हिस्सों, जैसे कि यूएसबी-सी पोर्ट कवर और स्पीकर सिस्टम पर सिरेमिक का इस्तेमाल कर सकता है। इससे पहले, लीक से पता चला था कि iPhone 20 Pro Max का डिज़ाइन iPhone Air से काफी मिलता-जुलता होगा, लेकिन इसमें कांच की सतह अधिक घुमावदार होगी।
+
+### सॉलिड सिरेमिक, सिरेमिक शील्ड से अलग क्यों है?
+
+इन दोनों अवधारणाओं को भ्रमित नहीं करना चाहिए। सिरेमिक शील्ड एप्पल द्वारा विकसित एक सुरक्षात्मक ग्लास तकनीक है, जिसे प्रभाव और खरोंच प्रतिरोध बढ़ाने के लिए डिज़ाइन किया गया है। iPhone Air में अब आगे और पीछे दोनों तरफ सिरेमिक शील्ड ग्लास लगा है।
+
+इस बीच, बाहरी घटकों के लिए सिरेमिक का उपयोग करने से दिखावट और स्पर्श में अधिक स्पष्ट अंतर आ सकता है। फिक्स्ड फोकस डिजिटल के अनुसार, इस खाते ने व्यक्तिगत रूप से सिरेमिक से बने घटकों को देखा और छुआ है। यह जानकारी बताती है कि नई सामग्री केवल एक कोटिंग या सुरक्षात्मक तकनीक होने के बजाय, डिज़ाइन में स्पष्ट रूप से मौजूद हो सकती है।
+
+### सीमित मात्रा: एप्पल इस वर्षगांठ पीढ़ी के साथ अपनी छाप कैसे छोड़ रहा है?
+
+फिक्स्ड फोकस डिजिटल की रिपोर्ट के अनुसार, एप्पल की इन सिरेमिक घटकों का बड़े पैमाने पर उत्पादन करने की कोई योजना नहीं है। इस जानकारी से यह संभावना बढ़ जाती है कि सिरेमिक केवल किसी विशेष संस्करण में ही दिखाई देगा, न कि पूरी उत्पाद श्रृंखला में मानक उपकरण के रूप में।
+
+अगर यह सच है, तो Apple अपनी 20वीं वर्षगांठ के iPhone के लिए एक अलग रणनीति अपना सकता है। कंपनी केवल स्पेसिफिकेशन्स, कैमरा या स्क्रीन को अपग्रेड करने पर ध्यान केंद्रित करने के बजाय, इस्तेमाल की गई सामग्री और बाहरी डिज़ाइन पर ज़ोर दे सकती है। यह रणनीति Apple Watch Series 12 में Apple द्वारा सिरेमिक सामग्री के उपयोग की याद दिलाती है।
+
+### सिरेमिक-टाइटेनियम कंपोजिट की विश्वसनीयता पर सवाल उठते हैं।
+
+पहले ऐसी अफवाहें थीं कि iPhone 20 Pro Max का फ्रेम टाइटेनियम का बना होगा। अगर यह सही है, तो टाइटेनियम को सिरेमिक घटकों के साथ मिलाकर Apple एक ऐसा डिवाइस बना सकता है जो प्रीमियम होने के साथ-साथ दिखने में भी खास हो। हालांकि, यह भी संभव है कि नई जानकारी Apple के डिज़ाइन परीक्षण के दौरान इस्तेमाल किए गए किसी अलग मटेरियल के बारे में हो।
+
+गौरतलब है कि ऐसी अफवाहें थीं कि Apple iPhone 18 Pro Max में टाइटेनियम फ्रेम का इस्तेमाल करेगा, लेकिन यह बदलाव आखिरकार अनुमान के मुताबिक नहीं हुआ। इसके अलावा, Fixed Focus Digital एक ऐसा अकाउंट है जो लीक शेयर करने के लिए जाना जाता है, और अतीत में इसकी जानकारी हमेशा भरोसेमंद नहीं रही है।
+
+इसलिए, हालांकि आईफोन 20 प्रो मैक्स के लिए सिरेमिक एक उल्लेखनीय परिकल्पना है, लेकिन वर्तमान में इस बात की पुष्टि करने के लिए अपर्याप्त सबूत हैं कि यह डिजाइन एक वाणिज्यिक उत्पाद बन जाएगा।
+
+### दा नांग: बाढ़ के कारण कई सड़क मार्गों पर यातायात बाधित हो गया है, होई आन-कू लाओ चाम जलमार्ग सेवा निलंबित कर दी गई है।
+
+### 2026 में वियतनाम-रूस मैत्री आदान-प्रदान
+
+### एकेडमिको विसेउ बनाम अल्वरका भविष्यवाणी: शीर्ष दौड़ में एक हॉट स्पॉट
+
+### पीएसवी आइंडहोवन बनाम जीओ अहेड ईगल्स का पूर्वानुमान: घरेलू टीम को प्रबल दावेदार माना जा रहा है।
+
+### वीएफबी स्टटगार्ट बनाम आइंट्राक्ट फ्रैंकफर्ट का पूर्वानुमान: एक उच्च स्कोर वाला मैच होने की उम्मीद है।
+
+### एल्चे बनाम एटलेटिको मैड्रिड भविष्यवाणी: शीर्ष स्थान हासिल करने का अवसर
+
+---
+
+**मूल स्रोत (Original Source):** [Vietnam.vn](https://www.vietnam.vn/hi/iphone-20-pro-max-bi-don-dung-vat-lieu-gom-phien-ban-gioi-han-cho-ky-niem-20-nam-iphone)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अफवाहों के मुताबिक, iPhone 20 Pro Max में सिरेमिक सामग्री का इस्तेमाल किया जाएगा: यह iPhone की 20वीं वर्षगांठ मनाने के लिए एक सीमित संस्करण होगा। - Vietnam.vn`,
+    summary_hi: `फिक्स्ड फोकस डिजिटल की रिपोर्ट में दावा किया गया है कि ऐप्पल आईफोन 20 प्रो मैक्स के लिए सिरेमिक घटकों का परीक्षण कर रहा है, लेकिन उनका बड़े पैमाने पर उत्पादन नहीं कर रहा है और स्रोत की विश्वसनीयता सीमित है।`,
+    content_hi: `फिक्स्ड फोकस डिजिटल की रिपोर्ट में दावा किया गया है कि ऐप्पल आईफोन 20 प्रो मैक्स के लिए सिरेमिक घटकों का परीक्षण कर रहा है, लेकिन उनका बड़े पैमाने पर उत्पादन नहीं कर रहा है और स्रोत की विश्वसनीयता सीमित है।
+
+खबरों के मुताबिक, Apple iPhone 20 Pro Max के लिए सिरेमिक सामग्री का परीक्षण कर रहा है, जिसे iPhone के लॉन्च की 20वीं वर्षगांठ के उपलक्ष्य में लॉन्च किया जाना है। अगर ये अफवाहें सही हैं, तो यह एक सीमित संस्करण हो सकता है जिसका डिज़ाइन अलग होगा और यह हाल के iPhone जेनरेशन में मौजूद सिरेमिक शील्ड सुरक्षात्मक ग्लास तकनीक से कहीं आगे होगा।
+
+यह जानकारी चीनी सोशल मीडिया प्लेटफॉर्म वीबो पर फिक्स्ड फोकस डिजिटल अकाउंट से मिली है। मैकरूमर्स के अनुसार, यह लीक का पता लगाने वाली पहली तकनीकी वेबसाइट है।
+
+### iPhone 20 Pro Max में सिरेमिक सामग्री कहाँ पाई जाती है?
+
+स्रोत ने यह स्पष्ट नहीं किया कि उपकरण के कौन से हिस्से सिरेमिक से बने होंगे। उपलब्ध जानकारी के आधार पर, यह संभावना है कि इस सामग्री का उपयोग उपकरण के बाहरी घटकों में किया जाएगा।
+
+एप्पल पूरे फ्रेम पर या केवल कुछ खास हिस्सों, जैसे कि यूएसबी-सी पोर्ट कवर और स्पीकर सिस्टम पर सिरेमिक का इस्तेमाल कर सकता है। इससे पहले, लीक से पता चला था कि iPhone 20 Pro Max का डिज़ाइन iPhone Air से काफी मिलता-जुलता होगा, लेकिन इसमें कांच की सतह अधिक घुमावदार होगी।
+
+### सॉलिड सिरेमिक, सिरेमिक शील्ड से अलग क्यों है?
+
+इन दोनों अवधारणाओं को भ्रमित नहीं करना चाहिए। सिरेमिक शील्ड एप्पल द्वारा विकसित एक सुरक्षात्मक ग्लास तकनीक है, जिसे प्रभाव और खरोंच प्रतिरोध बढ़ाने के लिए डिज़ाइन किया गया है। iPhone Air में अब आगे और पीछे दोनों तरफ सिरेमिक शील्ड ग्लास लगा है।
+
+इस बीच, बाहरी घटकों के लिए सिरेमिक का उपयोग करने से दिखावट और स्पर्श में अधिक स्पष्ट अंतर आ सकता है। फिक्स्ड फोकस डिजिटल के अनुसार, इस खाते ने व्यक्तिगत रूप से सिरेमिक से बने घटकों को देखा और छुआ है। यह जानकारी बताती है कि नई सामग्री केवल एक कोटिंग या सुरक्षात्मक तकनीक होने के बजाय, डिज़ाइन में स्पष्ट रूप से मौजूद हो सकती है।
+
+### सीमित मात्रा: एप्पल इस वर्षगांठ पीढ़ी के साथ अपनी छाप कैसे छोड़ रहा है?
+
+फिक्स्ड फोकस डिजिटल की रिपोर्ट के अनुसार, एप्पल की इन सिरेमिक घटकों का बड़े पैमाने पर उत्पादन करने की कोई योजना नहीं है। इस जानकारी से यह संभावना बढ़ जाती है कि सिरेमिक केवल किसी विशेष संस्करण में ही दिखाई देगा, न कि पूरी उत्पाद श्रृंखला में मानक उपकरण के रूप में।
+
+अगर यह सच है, तो Apple अपनी 20वीं वर्षगांठ के iPhone के लिए एक अलग रणनीति अपना सकता है। कंपनी केवल स्पेसिफिकेशन्स, कैमरा या स्क्रीन को अपग्रेड करने पर ध्यान केंद्रित करने के बजाय, इस्तेमाल की गई सामग्री और बाहरी डिज़ाइन पर ज़ोर दे सकती है। यह रणनीति Apple Watch Series 12 में Apple द्वारा सिरेमिक सामग्री के उपयोग की याद दिलाती है।
+
+### सिरेमिक-टाइटेनियम कंपोजिट की विश्वसनीयता पर सवाल उठते हैं।
+
+पहले ऐसी अफवाहें थीं कि iPhone 20 Pro Max का फ्रेम टाइटेनियम का बना होगा। अगर यह सही है, तो टाइटेनियम को सिरेमिक घटकों के साथ मिलाकर Apple एक ऐसा डिवाइस बना सकता है जो प्रीमियम होने के साथ-साथ दिखने में भी खास हो। हालांकि, यह भी संभव है कि नई जानकारी Apple के डिज़ाइन परीक्षण के दौरान इस्तेमाल किए गए किसी अलग मटेरियल के बारे में हो।
+
+गौरतलब है कि ऐसी अफवाहें थीं कि Apple iPhone 18 Pro Max में टाइटेनियम फ्रेम का इस्तेमाल करेगा, लेकिन यह बदलाव आखिरकार अनुमान के मुताबिक नहीं हुआ। इसके अलावा, Fixed Focus Digital एक ऐसा अकाउंट है जो लीक शेयर करने के लिए जाना जाता है, और अतीत में इसकी जानकारी हमेशा भरोसेमंद नहीं रही है।
+
+इसलिए, हालांकि आईफोन 20 प्रो मैक्स के लिए सिरेमिक एक उल्लेखनीय परिकल्पना है, लेकिन वर्तमान में इस बात की पुष्टि करने के लिए अपर्याप्त सबूत हैं कि यह डिजाइन एक वाणिज्यिक उत्पाद बन जाएगा।
+
+### दा नांग: बाढ़ के कारण कई सड़क मार्गों पर यातायात बाधित हो गया है, होई आन-कू लाओ चाम जलमार्ग सेवा निलंबित कर दी गई है।
+
+### 2026 में वियतनाम-रूस मैत्री आदान-प्रदान
+
+### एकेडमिको विसेउ बनाम अल्वरका भविष्यवाणी: शीर्ष दौड़ में एक हॉट स्पॉट
+
+### पीएसवी आइंडहोवन बनाम जीओ अहेड ईगल्स का पूर्वानुमान: घरेलू टीम को प्रबल दावेदार माना जा रहा है।
+
+### वीएफबी स्टटगार्ट बनाम आइंट्राक्ट फ्रैंकफर्ट का पूर्वानुमान: एक उच्च स्कोर वाला मैच होने की उम्मीद है।
+
+### एल्चे बनाम एटलेटिको मैड्रिड भविष्यवाणी: शीर्ष स्थान हासिल करने का अवसर
+
+---
+
+**मूल स्रोत (Original Source):** [Vietnam.vn](https://www.vietnam.vn/hi/iphone-20-pro-max-bi-don-dung-vat-lieu-gom-phien-ban-gioi-han-cho-ky-niem-20-nam-iphone)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट Vietnam.vn के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक अफवाहों के मुताबिक, iPhone 20 Pro Max में सिरेमिक सामग्री का इस्तेमाल किया जाएगा: यह iPhone की 20वीं वर्षगांठ मनाने के लिए एक सीमित संस्करण होगा। - Vietnam.vn से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Vietnam.vn`,
+  },
+  {
+    id: 230,
+    title: `At least 10 students killed in blast beside school in Afghanistan’s Kunar - Al Jazeera`,
+    slug: `at-least-10-students-killed-in-blast-beside-school-in-afghanistans-kun-2026`,
+    original_title: `At least 10 students killed in blast beside school in Afghanistan’s Kunar - Al Jazeera`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:20Z`,
+    updated_at: `2026-11-28T17:04:20Z`,
+    source_name: `Al Jazeera`,
+    source_url: `https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region`,
+    source_courtesy: `Source: Al Jazeera`,
+    image_url: `/images/articles/at-least-10-students-killed-in-blast-beside-school-in-afghanistans-kun-2026.webp`,
+    image_alt: `At least 10 students killed in blast beside school in Afghanistan’s Kunar - Al Jazeera`,
+    image_courtesy: `Image: Al Jazeera (External Source Attribution)`,
+    image_photographer: `Al Jazeera`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `The explosion occurred in an adjacent house storing dynamite for mining, due to negligence, the Interior Ministry says.`,
+    content: `The explosion occurred in an adjacent house storing dynamite for mining, due to negligence, the Interior Ministry says.
+
+Several students killed in blast beside Afghan school
+
+At least 10 students have been killed and about 110 injured in an explosion next to a school in the city of Asadabad in eastern Afghanistan’s Kunar province, according to the country’s Ministry of Interior Affairs.
+
+The explosion occurred in a house beside a middle school in the Andar Ser area of Asadabad at about 10am (05:30 GMT) on Saturday, Mawlawi Sami-ul-Haq, the director of information and culture in Kunar, told Al Jazeera.
+
+He said the house belonged to people involved in mining operations who had stored dynamite there.
+
+Mufti Abdul Mateen Qani, the Interior Ministry spokesman, said the explosion occurred due to negligence and carelessness, according to initial investigations.
+
+Mining is a key industry in Afghanistan, a country rich in raw materials, including iron ore, copper, lead, zinc, gold, coal and precious stones. But safety standards at the mining companies are often poor, leading to accidents.
+
+Gemstone mining is on the rise in Kunar, with various companies extracting precious stones that are subsequently sold at auction.
+
+In August, a hand grenade attack at a school complex in the Afghan capital of Kabul wounded more than 40 children aged between nine and 14.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region)`,
+    title_en: `At least 10 students killed in blast beside school in Afghanistan’s Kunar - Al Jazeera`,
+    summary_en: `The explosion occurred in an adjacent house storing dynamite for mining, due to negligence, the Interior Ministry says.`,
+    content_en: `The explosion occurred in an adjacent house storing dynamite for mining, due to negligence, the Interior Ministry says.
+
+Several students killed in blast beside Afghan school
+
+At least 10 students have been killed and about 110 injured in an explosion next to a school in the city of Asadabad in eastern Afghanistan’s Kunar province, according to the country’s Ministry of Interior Affairs.
+
+The explosion occurred in a house beside a middle school in the Andar Ser area of Asadabad at about 10am (05:30 GMT) on Saturday, Mawlawi Sami-ul-Haq, the director of information and culture in Kunar, told Al Jazeera.
+
+He said the house belonged to people involved in mining operations who had stored dynamite there.
+
+Mufti Abdul Mateen Qani, the Interior Ministry spokesman, said the explosion occurred due to negligence and carelessness, according to initial investigations.
+
+Mining is a key industry in Afghanistan, a country rich in raw materials, including iron ore, copper, lead, zinc, gold, coal and precious stones. But safety standards at the mining companies are often poor, leading to accidents.
+
+Gemstone mining is on the rise in Kunar, with various companies extracting precious stones that are subsequently sold at auction.
+
+In August, a hand grenade attack at a school complex in the Afghan capital of Kabul wounded more than 40 children aged between nine and 14.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Al Jazeera.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for At least 10 students killed in blast beside school in Afghanistan’s Kunar - Al Jazeera.`,
+    primary_source: `Al Jazeera`,
+  },
+  {
+    id: 231,
+    title: `अफगानिस्तान के कुनार में स्कूल में धमाका, सात की मौत और 97 घायल - Jagran`,
+    slug: `97-jagran-2026`,
+    original_title: `अफगानिस्तान के कुनार में स्कूल में धमाका, सात की मौत और 97 घायल - Jagran`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:22Z`,
+    updated_at: `2026-11-28T17:04:22Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/world/other-seven-people-and-97-injured-in-explosion-at-school-in-afghanistan-kunar-province-40451229.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/97-jagran-2026.webp`,
+    image_alt: `अफगानिस्तान के कुनार में स्कूल में धमाका, सात की मौत और 97 घायल - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `अफगानिस्तान के पूर्वी कुनार प्रांत में एक मिडिल स्कूल के पास हुए विस्फोट में सात लोगों की मौत हो गई और 97 घायल हो गए।`,
+    content: `अफगानिस्तान के पूर्वी कुनार प्रांत में एक मिडिल स्कूल के पास हुए विस्फोट में सात लोगों की मौत हो गई और 97 घायल हो गए।
+
+अफगानिस्तान के स्कूल में धमाका। (फोटो- एएनआई।)
+
+कुनार प्रांत के मिडिल स्कूल के पास हुआ विस्फोट।
+
+विस्फोट में सात लोगों की मौत, 97 घायल हुए।
+
+खनन कार्य के लिए रखे विस्फोटक फटने से हादसा।
+
+डिजिटल डेस्क, काबुल। अफगानिस्तान के पूर्वी कुनार प्रांत के एक मिडिल स्कूल में शनिवार को हुए विस्फोट में सात लोगों की मौत हो गई जबकि 97 लोगों घायल हुए।
+
+कुनार के सूचना और संस्कृति निदेशक समीउल हक हक बयान ने टोलोन्यूज को बताया कि कुनार प्रांतीय अस्पताल के अधिकारियों के अनुसार प्रांतीय राजधानी असदाबाद में शागी मिडिल स्कूल के पास एक घर में हुए विस्फोट के बाद सात लोगों के शव और 97 घायल व्यक्तियों को अस्पताल लाया गया। वहीं, कुनार प्रांतीय पुलिस मुख्यालय के प्रवक्ता फरीद देहकान ने बताया कि यह विस्फोट सुबह करीब 10 बजे हुआ।
+
+हक बयान ने बताया कि मामूली रूप से घायल हुए कुछ लोगों को कुनार प्रांतीय अस्पताल में इलाज के बाद छुट्टी दे दी गई, जबकि अन्य का अभी भी इलाज चल रहा है। उन्होंने आगे कहा कि यह घटना तब हुई जब कुनार-नूरिस्तान राजमार्ग पर खनन कार्यों और चट्टानों को हटाने के लिए तैयार किए जा रहे विस्फोटक शागी मिडिल स्कूल के पास एक घर के अंदर फट गए।
+
+यह भी पढ़ें: अफगानिस्तान में महिलाओं के नाम के इस्तेमाल पर रोक, सरकारी कागजों में 'बकरी', 'गाय' या 'बीबी' लिखने का फरमान
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/world/other-seven-people-and-97-injured-in-explosion-at-school-in-afghanistan-kunar-province-40451229.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अफगानिस्तान के कुनार में स्कूल में धमाका, सात की मौत और 97 घायल - Jagran`,
+    summary_hi: `अफगानिस्तान के पूर्वी कुनार प्रांत में एक मिडिल स्कूल के पास हुए विस्फोट में सात लोगों की मौत हो गई और 97 घायल हो गए।`,
+    content_hi: `अफगानिस्तान के पूर्वी कुनार प्रांत में एक मिडिल स्कूल के पास हुए विस्फोट में सात लोगों की मौत हो गई और 97 घायल हो गए।
+
+अफगानिस्तान के स्कूल में धमाका। (फोटो- एएनआई।)
+
+कुनार प्रांत के मिडिल स्कूल के पास हुआ विस्फोट।
+
+विस्फोट में सात लोगों की मौत, 97 घायल हुए।
+
+खनन कार्य के लिए रखे विस्फोटक फटने से हादसा।
+
+डिजिटल डेस्क, काबुल। अफगानिस्तान के पूर्वी कुनार प्रांत के एक मिडिल स्कूल में शनिवार को हुए विस्फोट में सात लोगों की मौत हो गई जबकि 97 लोगों घायल हुए।
+
+कुनार के सूचना और संस्कृति निदेशक समीउल हक हक बयान ने टोलोन्यूज को बताया कि कुनार प्रांतीय अस्पताल के अधिकारियों के अनुसार प्रांतीय राजधानी असदाबाद में शागी मिडिल स्कूल के पास एक घर में हुए विस्फोट के बाद सात लोगों के शव और 97 घायल व्यक्तियों को अस्पताल लाया गया। वहीं, कुनार प्रांतीय पुलिस मुख्यालय के प्रवक्ता फरीद देहकान ने बताया कि यह विस्फोट सुबह करीब 10 बजे हुआ।
+
+हक बयान ने बताया कि मामूली रूप से घायल हुए कुछ लोगों को कुनार प्रांतीय अस्पताल में इलाज के बाद छुट्टी दे दी गई, जबकि अन्य का अभी भी इलाज चल रहा है। उन्होंने आगे कहा कि यह घटना तब हुई जब कुनार-नूरिस्तान राजमार्ग पर खनन कार्यों और चट्टानों को हटाने के लिए तैयार किए जा रहे विस्फोटक शागी मिडिल स्कूल के पास एक घर के अंदर फट गए।
+
+यह भी पढ़ें: अफगानिस्तान में महिलाओं के नाम के इस्तेमाल पर रोक, सरकारी कागजों में 'बकरी', 'गाय' या 'बीबी' लिखने का फरमान
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/world/other-seven-people-and-97-injured-in-explosion-at-school-in-afghanistan-kunar-province-40451229.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक अफगानिस्तान के कुनार में स्कूल में धमाका, सात की मौत और 97 घायल - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+  {
+    id: 232,
+    title: `Rishabh Pant doesn't deserve to be the villain of India's collapse - Cricbuzz`,
+    slug: `rishabh-pant-doesnt-deserve-to-be-the-villain-of-indias-collapse-cricb-2026`,
+    original_title: `Rishabh Pant doesn't deserve to be the villain of India's collapse - Cricbuzz`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:29Z`,
+    updated_at: `2026-11-28T17:04:29Z`,
+    source_name: `Cricbuzz`,
+    source_url: `https://www.cricbuzz.com/cricket-news/141097/dont-make-rishabh-pant-the-villain-of-indias-collapse`,
+    source_courtesy: `Source: Cricbuzz`,
+    image_url: `/images/articles/rishabh-pant-doesnt-deserve-to-be-the-villain-of-indias-collapse-cricb-2026.webp`,
+    image_alt: `Rishabh Pant doesn't deserve to be the villain of India's collapse - Cricbuzz`,
+    image_courtesy: `Image: Cricbuzz (External Source Attribution)`,
+    image_photographer: `Cricbuzz`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `It would be easiest to pick out Rishabh Pant’s wild heave off Jacob Duffy and turn him into the villain of the piece for India. The one seemingly irresponsible decision from a senior batter that emphasises an overall day to forget for the t`,
+    content: `It would be easiest to pick out Rishabh Pant’s wild heave off Jacob Duffy and turn him into the villain of the piece for India. The one seemingly irresponsible decision from a senior batter that emphasises an overall day to forget for the team. This is not to say that Pant doesn’t deserve criticism for the shot itself. It was, if anything, poorly executed and for good reason, poorly timed in terms of how early he telegraphed his intention of jumping out to the bowler.
+
+But this has always been Pant’s way. To be the one dictating terms, even if in these situations, where it’s more like delivering a pre-emptive strike. He’d already left his crease and deposited Duffy over the long-on fence in the previous over. This felt more like an instinctive follow-up, only for it to look ugly in the circumstances. It had been a battling stay for Pant in the middle. He’d spent most of his innings chatting away with himself, trying to calm himself down but also telling himself to be ok defending deliveries that pitched in “good areas” . “It’s ok tu theek hai,” (It's okay, you're alright) you could overhear his commentary through the stump mic. This was Pant trying to play within himself in lieu of how challenging the batting conditions were at Hagley Oval on Saturday. In that context, Pant’s intent to go ultra-aggressive against Duffy, who was coming off a chastening experience in the previous Test, made total sense. And his eventual dismissal should be looked at more as being a significant part of the Indian collapse, rather than its trigger.
+
+The hour or so of play that followed, the final 15 or so overs that Dhruv Jurel and Washington Sundar hung on grimly for, were if anything a bigger indicator of why Pant’s approach couldn’t be questioned. This wasn’t a surface after all where going into your shell completely and hoping to grit your way out of it seemed to work either. As Washington found out, getting nicked off with the final delivery of the day’s play after facing 60 balls of pure discomfort. Tom Blundell had shown it earlier in the piece with his gutsy 89, which was a perfect mix of utilising all your survival techniques but also then being able to pick off every scoring chance. On a pitch that the top-scorer of the match so far described as “one where you never feel like you are in”.
+
+The Indians certainly never felt like they were in, either with regards to feeling welcome in the middle, or with a chance of fighting back with the bat after having seen the hosts take their score to a very impressive 356 given the conditions.
+
+This was the day India always dread when they come over to New Zealand to play Tests. Both the players and their fans. The one where it feels like the entire series gets derailed. Where there ends up being a level of insipidity with bat and ball, and definitely on the field. Where catches are dropped, opportunities are lost, and the errors continue to seep into every facet of their cricket.
+
+It's a movie Indian cricket has witnessed plenty of times before, and it’s the reason why they’ve only managed to post a single Test win on these shores over the last 50 years. Six dropped catches, a couple of them very straightforward, were always going to come back to haunt the Indians. It contributed to them spending 116.3 overs on the field. To add to the 120 overs they’d already had to endure on the thankless Wellington surface only four days prior.
+
+It meant that the sloppiness from the field manifested into many of the dismissals as well. Yashasvi Jaiswal, Shubman Gill and Washington can lay legitimate claim to have received three excellent deliveries leading to their downfall. But the rest, like Pant, fell to shots that had very low percentage of success on a Christchurch pitch that’s making up for the blandness of the Basin.
+
+Devdutt Padikkal had played a couple of impressive drives to start his innings. On both occasions, he waited for the ball to come to him before leaning into his shots. Then he tried forcing the issue from a more rigid base, lost his shape, and got nicked off in the process. KL Rahul, meanwhile, had looked rock solid till the time he flashed at a wide delivery from Duffy, which he was looking to flay over the gully region like he’d done once before, but instead ended up hitting straight to the point fielder. And then there was Pant. A dismissal that will get a lot of traction for now. But in the bigger picture go down as a failed attempt to impose his will on a Test that is rapidly slipping away from India, as it so often does at Hagley Oval.
+
+---
+
+**Original Source:** [Cricbuzz](https://www.cricbuzz.com/cricket-news/141097/dont-make-rishabh-pant-the-villain-of-indias-collapse)`,
+    title_en: `Rishabh Pant doesn't deserve to be the villain of India's collapse - Cricbuzz`,
+    summary_en: `It would be easiest to pick out Rishabh Pant’s wild heave off Jacob Duffy and turn him into the villain of the piece for India. The one seemingly irresponsible decision from a senior batter that emphasises an overall day to forget for the t`,
+    content_en: `It would be easiest to pick out Rishabh Pant’s wild heave off Jacob Duffy and turn him into the villain of the piece for India. The one seemingly irresponsible decision from a senior batter that emphasises an overall day to forget for the team. This is not to say that Pant doesn’t deserve criticism for the shot itself. It was, if anything, poorly executed and for good reason, poorly timed in terms of how early he telegraphed his intention of jumping out to the bowler.
+
+But this has always been Pant’s way. To be the one dictating terms, even if in these situations, where it’s more like delivering a pre-emptive strike. He’d already left his crease and deposited Duffy over the long-on fence in the previous over. This felt more like an instinctive follow-up, only for it to look ugly in the circumstances. It had been a battling stay for Pant in the middle. He’d spent most of his innings chatting away with himself, trying to calm himself down but also telling himself to be ok defending deliveries that pitched in “good areas” . “It’s ok tu theek hai,” (It's okay, you're alright) you could overhear his commentary through the stump mic. This was Pant trying to play within himself in lieu of how challenging the batting conditions were at Hagley Oval on Saturday. In that context, Pant’s intent to go ultra-aggressive against Duffy, who was coming off a chastening experience in the previous Test, made total sense. And his eventual dismissal should be looked at more as being a significant part of the Indian collapse, rather than its trigger.
+
+The hour or so of play that followed, the final 15 or so overs that Dhruv Jurel and Washington Sundar hung on grimly for, were if anything a bigger indicator of why Pant’s approach couldn’t be questioned. This wasn’t a surface after all where going into your shell completely and hoping to grit your way out of it seemed to work either. As Washington found out, getting nicked off with the final delivery of the day’s play after facing 60 balls of pure discomfort. Tom Blundell had shown it earlier in the piece with his gutsy 89, which was a perfect mix of utilising all your survival techniques but also then being able to pick off every scoring chance. On a pitch that the top-scorer of the match so far described as “one where you never feel like you are in”.
+
+The Indians certainly never felt like they were in, either with regards to feeling welcome in the middle, or with a chance of fighting back with the bat after having seen the hosts take their score to a very impressive 356 given the conditions.
+
+This was the day India always dread when they come over to New Zealand to play Tests. Both the players and their fans. The one where it feels like the entire series gets derailed. Where there ends up being a level of insipidity with bat and ball, and definitely on the field. Where catches are dropped, opportunities are lost, and the errors continue to seep into every facet of their cricket.
+
+It's a movie Indian cricket has witnessed plenty of times before, and it’s the reason why they’ve only managed to post a single Test win on these shores over the last 50 years. Six dropped catches, a couple of them very straightforward, were always going to come back to haunt the Indians. It contributed to them spending 116.3 overs on the field. To add to the 120 overs they’d already had to endure on the thankless Wellington surface only four days prior.
+
+It meant that the sloppiness from the field manifested into many of the dismissals as well. Yashasvi Jaiswal, Shubman Gill and Washington can lay legitimate claim to have received three excellent deliveries leading to their downfall. But the rest, like Pant, fell to shots that had very low percentage of success on a Christchurch pitch that’s making up for the blandness of the Basin.
+
+Devdutt Padikkal had played a couple of impressive drives to start his innings. On both occasions, he waited for the ball to come to him before leaning into his shots. Then he tried forcing the issue from a more rigid base, lost his shape, and got nicked off in the process. KL Rahul, meanwhile, had looked rock solid till the time he flashed at a wide delivery from Duffy, which he was looking to flay over the gully region like he’d done once before, but instead ended up hitting straight to the point fielder. And then there was Pant. A dismissal that will get a lot of traction for now. But in the bigger picture go down as a failed attempt to impose his will on a Test that is rapidly slipping away from India, as it so often does at Hagley Oval.
+
+---
+
+**Original Source:** [Cricbuzz](https://www.cricbuzz.com/cricket-news/141097/dont-make-rishabh-pant-the-villain-of-indias-collapse)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Cricbuzz.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Rishabh Pant doesn't deserve to be the villain of India's collapse - Cricbuzz.`,
+    primary_source: `Cricbuzz`,
+  },
+  {
+    id: 233,
+    title: `वैभव सूर्यवंशी अब टेस्ट क्रिकेट में भी मचाएं तबाही! इंग्लैंड के दिग्गज की बड़ी ख्वाहिश - AajTak`,
+    slug: `sports-breaking-report-96140-233-2026`,
+    original_title: `वैभव सूर्यवंशी अब टेस्ट क्रिकेट में भी मचाएं तबाही! इंग्लैंड के दिग्गज की बड़ी ख्वाहिश - AajTak`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:33Z`,
+    updated_at: `2026-11-28T17:04:33Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/sports/cricket/story/vaibhav-sooryavanshi-test-cricket-alastair-cook-big-praise-bmsp-dskc-2709099-2026-11-28`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0aeb0850206-vaibhav-sooryavanshi-285358755.jpg`,
+    image_alt: `वैभव सूर्यवंशी अब टेस्ट क्रिकेट में भी मचाएं तबाही! इंग्लैंड के दिग्गज की बड़ी ख्वाहिश - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `वैभव सूर्यवंशी ने अपनी विस्फोटक बल्लेबाजी से टी20 और वनडे क्रिकेट में तहलका मचा रखा है. महज 15 साल की उम्र में बड़े-बड़े रिकॉर्ड तोड़ रहे इस भारतीय बल्लेबाज को अब इंग्लैंड के पूर्व कप्तान एलिस्टेयर कुक टेस्ट क्रिकेट में भी धमाल मचाते देखना `,
+    content: `वैभव सूर्यवंशी ने अपनी विस्फोटक बल्लेबाजी से टी20 और वनडे क्रिकेट में तहलका मचा रखा है. महज 15 साल की उम्र में बड़े-बड़े रिकॉर्ड तोड़ रहे इस भारतीय बल्लेबाज को अब इंग्लैंड के पूर्व कप्तान एलिस्टेयर कुक टेस्ट क्रिकेट में भी धमाल मचाते देखना चाहते हैं. कुक का मानना है कि वैभव में ऐसा असाधारण टैलेंट है, जो उन्हें लाल गेंद के क्रिकेट में भी खास मुकाम दिला सकता है.
+
+इतना ही नहीं, टेस्ट क्रिकेट को वैभव जैसे निडर और प्रेरणादायक खिलाड़ियों की जरूरत है. और पढ़ें&#039;ऐसा टैलेंट पहले कभी नहीं देखा&#039;एलिस्टेयर कुक ने समाचार एजेंसी PTI से बातचीत में वैभव की जमकर तारीफ की. उन्होंने कहा कि हर पीढ़ी को एक ऐसे प्रेरणादायक खिलाड़ी की जरूरत होती है, जिसे बच्चे अपना आदर्श मान सकें.
+
+अगर वैभव सभी फॉर्मेट में ऐसा कर पाते हैं तो यह टेस्ट क्रिकेट के लिए भी बड़ी बात होगी.कुक ने कहा, &#039;उनमें ऐसा टैलेंट है, जैसा मैंने पहले कभी नहीं देखा. मैं उम्मीद करता हूं कि उनके दिमाग में टेस्ट क्रिकेट में अपनी क्षमता को परखने की चुनौती भी होगी. टेस्ट क्रिकेट को ऐसे खिलाड़ियों की जरूरत है, जो जोखिम उठाने के लिए तैयार हों.
+
+हो सकता है कि वे सफल न हों, लेकिन इसमें कोई बुराई नहीं है.&#039;इंग्लैंड के पूर्व कप्तान ने आगे कहा कि वैभव सफेद गेंद के क्रिकेट में गेंदबाजों पर हावी रहते हैं. वह चाहते हैं कि यह युवा बल्लेबाज लाल गेंद के क्रिकेट में भी ऐसा ही प्रदर्शन करे. कुक के मुताबिक, क्रिकेट को ऐसे खिलाड़ियों की जरूरत है, जो अपने खेल से नई पीढ़ी को प्रेरित कर सकें.
+
+Advertisement        VIDEO | Gurugram, Haryana: Former England captain Alastair Cook on Saturday praised young Indian batter Vaibhav Sooryavanshi, describing him as a one-of-a-kind talent while expressing hope that the teenager would also test himself in red-ball cricket. &amp;quot;I think Sooryavanshi is one of a kind.
+
+I&#039;ve never seen hitting like it. The consistency of his hitting and his ability to react to the ball coming down and still hit a six means that he can do it consistently,&amp;quot; Cook told PTI on the sidelines of Queen Elizabeth’s School&#039;s event. (Full video available on PTI Videos - https://t.co/bIyFWTfmBd)— Press Trust of India (@PTI_News) November 28, 2026यह भी पढ़ें - बुमराह का जादू कहां खो गया?
+
+274 गेंदों तक नहीं मिला विकेट, रफ्तार में गिरावट ने बढ़ाई चिंताIPL में शतकों से लेकर 204 रनों तक का धमाकावैभव सूर्यवंशी ने बहुत कम उम्र में अपने बल्ले से जो कारनामे किए हैं, वे किसी को भी हैरान कर सकते हैं. उन्होंने 2025 में राजस्थान रॉयल्स की ओर से खेलते हुए महज 35 गेंदों में शतक जड़ दिया था.
+
+इसके साथ ही वह पुरुष टी20 क्रिकेट में सबसे कम उम्र में शतक लगाने वाले बल्लेबाज बन गए थे.इसके बाद IPL 2026 में भी उनका बल्ला जमकर गरजा. वैभव ने पूरे सीजन में 776 रन बनाए और टूर्नामेंट के सबसे ज्यादा रन बनाने वाले बल्लेबाज रहे. उन्होंने इस दौरान रिकॉर्ड 72 छक्के भी लगाए.हाल ही में दोहा में खेले गए राइजिंग स्टार्स एशिया कप में भी वैभव ने ऐसा तूफान मचाया कि क्रिकेट जगत दंग रह गया.
+
+UAE के खिलाफ भारत ए की ओर से खेलते हुए उन्होंने महज 53 गेंदों में 204 रन ठोक दिए. उनकी इस पारी में 28 छक्के और 7 चौके शामिल रहे. भारत ए ने 250 रनों का लक्ष्य सिर्फ 14.2 ओवर में हासिल कर लिया. Advertisement        2️⃣8️⃣ times he sent the ball soaring into the stands. What a show, Vaibhav 🫡👏 Watch the #INDvUAE highlights from the #RisingStarsAsiaCup on #SonyLIV and #SonySportsNetwork 📺 https://t.co/7Ye26IstMV— Sony LIV (@SonyLIV) November 24, 2026वैभव ने महज 28 गेंदों में शतक और 52 गेंदों में दोहरा शतक पूरा किया.
+
+इस तरह उन्होंने लिस्ट ए क्रिकेट में सबसे तेज शतक और सबसे तेज दोहरा शतक लगाने का रिकॉर्ड अपने नाम किया.अब लाल गेंद पर भी नजरेंवैभव की बल्लेबाजी का अंदाज आक्रामक है. वह शुरुआत से ही गेंदबाजों पर दबाव बनाने में यकीन रखते हैं. हालांकि, टेस्ट क्रिकेट में बल्लेबाज की परीक्षा अलग होती है.
+
+यहां पांच दिन तक धैर्य, तकनीक और परिस्थितियों के मुताबिक खेलने की क्षमता दिखानी पड़ती है.एलिस्टेयर कुक की बातों का महत्व इसलिए भी है क्योंकि वह खुद टेस्ट क्रिकेट के दिग्गज बल्लेबाज रहे हैं. इंग्लैंड के लिए 161 टेस्ट मैचों में 12,472 रन बनाने वाले कुक जानते हैं कि इस फॉर्मेट में सफलता हासिल करना कितना मुश्किल है.यह भी पढ़ें - 8 बार डक, विराट कोहली को भी छोड़ा पीछे...
+
+यशस्वी जायसवाल के नाम दर्ज हुआ शर्मनाक रिकॉर्डउनकी ख्वाहिश साफ है- वैभव सिर्फ सफेद गेंद के क्रिकेट तक सीमित न रहें, बल्कि टेस्ट में भी अपनी प्रतिभा का लोहा मनवाएं. अब देखना होगा कि रिकॉर्डों की झड़ी लगा रहे इस युवा बल्लेबाज के बल्ले का तूफान लाल गेंद के क्रिकेट में कब और किस अंदाज में दिखाई देता है.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/vaibhav-sooryavanshi-test-cricket-alastair-cook-big-praise-bmsp-dskc-2709099-2026-11-28)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `वैभव सूर्यवंशी अब टेस्ट क्रिकेट में भी मचाएं तबाही! इंग्लैंड के दिग्गज की बड़ी ख्वाहिश - AajTak`,
+    summary_hi: `वैभव सूर्यवंशी ने अपनी विस्फोटक बल्लेबाजी से टी20 और वनडे क्रिकेट में तहलका मचा रखा है. महज 15 साल की उम्र में बड़े-बड़े रिकॉर्ड तोड़ रहे इस भारतीय बल्लेबाज को अब इंग्लैंड के पूर्व कप्तान एलिस्टेयर कुक टेस्ट क्रिकेट में भी धमाल मचाते देखना `,
+    content_hi: `वैभव सूर्यवंशी ने अपनी विस्फोटक बल्लेबाजी से टी20 और वनडे क्रिकेट में तहलका मचा रखा है. महज 15 साल की उम्र में बड़े-बड़े रिकॉर्ड तोड़ रहे इस भारतीय बल्लेबाज को अब इंग्लैंड के पूर्व कप्तान एलिस्टेयर कुक टेस्ट क्रिकेट में भी धमाल मचाते देखना चाहते हैं. कुक का मानना है कि वैभव में ऐसा असाधारण टैलेंट है, जो उन्हें लाल गेंद के क्रिकेट में भी खास मुकाम दिला सकता है.
+
+इतना ही नहीं, टेस्ट क्रिकेट को वैभव जैसे निडर और प्रेरणादायक खिलाड़ियों की जरूरत है. और पढ़ें&#039;ऐसा टैलेंट पहले कभी नहीं देखा&#039;एलिस्टेयर कुक ने समाचार एजेंसी PTI से बातचीत में वैभव की जमकर तारीफ की. उन्होंने कहा कि हर पीढ़ी को एक ऐसे प्रेरणादायक खिलाड़ी की जरूरत होती है, जिसे बच्चे अपना आदर्श मान सकें.
+
+अगर वैभव सभी फॉर्मेट में ऐसा कर पाते हैं तो यह टेस्ट क्रिकेट के लिए भी बड़ी बात होगी.कुक ने कहा, &#039;उनमें ऐसा टैलेंट है, जैसा मैंने पहले कभी नहीं देखा. मैं उम्मीद करता हूं कि उनके दिमाग में टेस्ट क्रिकेट में अपनी क्षमता को परखने की चुनौती भी होगी. टेस्ट क्रिकेट को ऐसे खिलाड़ियों की जरूरत है, जो जोखिम उठाने के लिए तैयार हों.
+
+हो सकता है कि वे सफल न हों, लेकिन इसमें कोई बुराई नहीं है.&#039;इंग्लैंड के पूर्व कप्तान ने आगे कहा कि वैभव सफेद गेंद के क्रिकेट में गेंदबाजों पर हावी रहते हैं. वह चाहते हैं कि यह युवा बल्लेबाज लाल गेंद के क्रिकेट में भी ऐसा ही प्रदर्शन करे. कुक के मुताबिक, क्रिकेट को ऐसे खिलाड़ियों की जरूरत है, जो अपने खेल से नई पीढ़ी को प्रेरित कर सकें.
+
+Advertisement        VIDEO | Gurugram, Haryana: Former England captain Alastair Cook on Saturday praised young Indian batter Vaibhav Sooryavanshi, describing him as a one-of-a-kind talent while expressing hope that the teenager would also test himself in red-ball cricket. &amp;quot;I think Sooryavanshi is one of a kind.
+
+I&#039;ve never seen hitting like it. The consistency of his hitting and his ability to react to the ball coming down and still hit a six means that he can do it consistently,&amp;quot; Cook told PTI on the sidelines of Queen Elizabeth’s School&#039;s event. (Full video available on PTI Videos - https://t.co/bIyFWTfmBd)— Press Trust of India (@PTI_News) November 28, 2026यह भी पढ़ें - बुमराह का जादू कहां खो गया?
+
+274 गेंदों तक नहीं मिला विकेट, रफ्तार में गिरावट ने बढ़ाई चिंताIPL में शतकों से लेकर 204 रनों तक का धमाकावैभव सूर्यवंशी ने बहुत कम उम्र में अपने बल्ले से जो कारनामे किए हैं, वे किसी को भी हैरान कर सकते हैं. उन्होंने 2025 में राजस्थान रॉयल्स की ओर से खेलते हुए महज 35 गेंदों में शतक जड़ दिया था.
+
+इसके साथ ही वह पुरुष टी20 क्रिकेट में सबसे कम उम्र में शतक लगाने वाले बल्लेबाज बन गए थे.इसके बाद IPL 2026 में भी उनका बल्ला जमकर गरजा. वैभव ने पूरे सीजन में 776 रन बनाए और टूर्नामेंट के सबसे ज्यादा रन बनाने वाले बल्लेबाज रहे. उन्होंने इस दौरान रिकॉर्ड 72 छक्के भी लगाए.हाल ही में दोहा में खेले गए राइजिंग स्टार्स एशिया कप में भी वैभव ने ऐसा तूफान मचाया कि क्रिकेट जगत दंग रह गया.
+
+UAE के खिलाफ भारत ए की ओर से खेलते हुए उन्होंने महज 53 गेंदों में 204 रन ठोक दिए. उनकी इस पारी में 28 छक्के और 7 चौके शामिल रहे. भारत ए ने 250 रनों का लक्ष्य सिर्फ 14.2 ओवर में हासिल कर लिया. Advertisement        2️⃣8️⃣ times he sent the ball soaring into the stands. What a show, Vaibhav 🫡👏 Watch the #INDvUAE highlights from the #RisingStarsAsiaCup on #SonyLIV and #SonySportsNetwork 📺 https://t.co/7Ye26IstMV— Sony LIV (@SonyLIV) November 24, 2026वैभव ने महज 28 गेंदों में शतक और 52 गेंदों में दोहरा शतक पूरा किया.
+
+इस तरह उन्होंने लिस्ट ए क्रिकेट में सबसे तेज शतक और सबसे तेज दोहरा शतक लगाने का रिकॉर्ड अपने नाम किया.अब लाल गेंद पर भी नजरेंवैभव की बल्लेबाजी का अंदाज आक्रामक है. वह शुरुआत से ही गेंदबाजों पर दबाव बनाने में यकीन रखते हैं. हालांकि, टेस्ट क्रिकेट में बल्लेबाज की परीक्षा अलग होती है.
+
+यहां पांच दिन तक धैर्य, तकनीक और परिस्थितियों के मुताबिक खेलने की क्षमता दिखानी पड़ती है.एलिस्टेयर कुक की बातों का महत्व इसलिए भी है क्योंकि वह खुद टेस्ट क्रिकेट के दिग्गज बल्लेबाज रहे हैं. इंग्लैंड के लिए 161 टेस्ट मैचों में 12,472 रन बनाने वाले कुक जानते हैं कि इस फॉर्मेट में सफलता हासिल करना कितना मुश्किल है.यह भी पढ़ें - 8 बार डक, विराट कोहली को भी छोड़ा पीछे...
+
+यशस्वी जायसवाल के नाम दर्ज हुआ शर्मनाक रिकॉर्डउनकी ख्वाहिश साफ है- वैभव सिर्फ सफेद गेंद के क्रिकेट तक सीमित न रहें, बल्कि टेस्ट में भी अपनी प्रतिभा का लोहा मनवाएं. अब देखना होगा कि रिकॉर्डों की झड़ी लगा रहे इस युवा बल्लेबाज के बल्ले का तूफान लाल गेंद के क्रिकेट में कब और किस अंदाज में दिखाई देता है.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/vaibhav-sooryavanshi-test-cricket-alastair-cook-big-praise-bmsp-dskc-2709099-2026-11-28)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक वैभव सूर्यवंशी अब टेस्ट क्रिकेट में भी मचाएं तबाही! इंग्लैंड के दिग्गज की बड़ी ख्वाहिश - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 234,
+    title: `SS Rajamouli sees Sridevi and Jaya Prada’s potential in ‘Aakasamlo Oka Tara’ actress Satvika Veeravalli;`,
+    slug: `ss-rajamouli-sees-sridevi-and-jaya-pradas-potential-in-aakasamlo-oka-t-2026`,
+    original_title: `SS Rajamouli sees Sridevi and Jaya Prada’s potential in ‘Aakasamlo Oka Tara’ actress Satvika Veeravalli;`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:34Z`,
+    updated_at: `2026-11-28T17:04:34Z`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ss-rajamouli-sees-sridevi-and-jaya-pradas-potential-in-aakasamlo-oka-tara-actress-satvika-veeravalli-says-you-will-make-it-really-big/articleshow/136238541.cms`,
+    source_courtesy: `Source: The Times of India`,
+    image_url: `/images/articles/ss-rajamouli-sees-sridevi-and-jaya-pradas-potential-in-aakasamlo-oka-t-2026.jpg`,
+    image_alt: `SS Rajamouli sees Sridevi and Jaya Prada’s potential in ‘Aakasamlo Oka Tara’ actress Satvika Veeravalli;`,
+    image_courtesy: `Image: The Times of India (External Source Attribution)`,
+    image_photographer: `The Times of India`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Actress Satvika Veeravalli made her acting debut with Dulquer Salmaan’s latest Telugu release ‘Aakasamlo Oka Tara’. At the film’s success meet, filmmaker SS Rajamouli attended as the chief guest and praised her performance. The ‘RRR’ direct`,
+    content: `Actress Satvika Veeravalli made her acting debut with Dulquer Salmaan’s latest Telugu release ‘Aakasamlo Oka Tara’. At the film’s success meet, filmmaker SS Rajamouli attended as the chief guest and praised her performance. The ‘RRR’ director also compared her potential to veteran actresses such as Sridevi and Jaya Prada shared confidence in her future in Indian cinema.SS Rajamouli compares Satvika to Sridevi and Jaya PradaSpeaking at the event, SS Rajamouli said Telugu cinema has welcomed several talented actresses from different languages.
+
+However, he expressed his wish to see a Telugu girl reach the same heights as some of the industry’s celebrated actresses.“Satvika, there are many, many great actresses in Telugu cinema, in Indian cinema, in Telugu cinema. And, uh, they come from different languages. Specifically for Telugu cinema, it should be from our language, like that—this is not a thing—no matter which language they come from, we accept them, we put them on our head, but somewhere, like a Telugu actor, like Sridevi garu, like Jayaprada garu, like Jayasudha garu, a Telugu girl coming and reaching that stage would be very nice, that feeling is somewhere inside.
+
+I think you are that Satvika. You will make it really, really big in the Indian film industry. I have no doubt about it. Uh, uh, for our sake, learn Telugu a little faster,” he said.SS Rajamouli praises Shruti Haasan’s performanceSS Rajamouli also spoke about Shruti Haasan, who plays Rohini in the film.
+
+Although the actress was not present at the success meet, the filmmaker said her performance was one of the reasons he wanted to attend the event.He said, “Of course, my favorite, uh, Shruti, she is, uh, she's not here. Shruti, missing you here. Uh, one of the reasons I came here is for you.
+
+You are not here. Uh, uh, I mean, Shruti, I mean, in the trailer itself, in the one-two shots shown in the trailer, one or two shots, you could see that she's into the skin of the character. And when I saw her in the film, she was a breeze. Never felt she was acting. She was there.
+
+Uh, really loved her in the film.”SS Rajamouli appreciates the supporting castThe filmmaker also praised the performances of the film’s supporting actors. He said the cast was one of the biggest strengths of ‘Aakasamlo Oka Tara’ and appreciated how even the smaller roles made an impact.He said, “The best thing about this film, I would say, are the actors.
+
+Every actor, of course we know the big actors, what they did, we know all of that, but even small actors, how well they acted, I was just really captivated. Krishnaji and the way she spoke, I mean, there were subtitles below, but I didn’t read subtitles. I was just watching her, I was just listening to her.
+
+Ruhani did a fantastic, uh, job. You are such a big strength to that, uh, to the film.”He also praised the actress who played Krishna's sister, saying, “I don’t know the actor who played the sister. No, to me, how much I liked her performance, uh, I don't know whether you know or not, I don't know, but it was a fantastic job.
+
+I really loved, uh, the way she looked, the way she talked. The way she showed how much love that girl had for Krishna, even before seeing him, I really loved it.”About ‘Aakasamlo Oka Tara’Written and directed by Pavan Sadineni, ‘Aakasamlo Oka Tara’ stars Dulquer Salmaan as Krishna and Satvika Veeravalli as Kalpana.
+
+The story follows Kalpana, a brilliant student who dreams of becoming an astronaut. However, despite her academic achievements, she faces discouragement from those around her, including her parents, who eventually get her married to Krishna.Cast of ‘Aakasamlo Oka Tara’Krishna encourages Kalpana to follow her dream and pursue her ambition.
+
+Shruti Haasan plays Rohini, an aerospace engineer, while the supporting cast includes Ruhani Sharma, Swasika, Murali Sharma, Gautham Vasudev Menon, Getup Srinu and Praveen.Get the latest Bollywood & Entertainment News, and more. Download the TOI app.Give your child the gift of confidence!
+
+Claim your exclusive TOI Masterclass spot today!
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ss-rajamouli-sees-sridevi-and-jaya-pradas-potential-in-aakasamlo-oka-tara-actress-satvika-veeravalli-says-you-will-make-it-really-big/articleshow/136238541.cms)`,
+    title_en: `SS Rajamouli sees Sridevi and Jaya Prada’s potential in ‘Aakasamlo Oka Tara’ actress Satvika Veeravalli;`,
+    summary_en: `Actress Satvika Veeravalli made her acting debut with Dulquer Salmaan’s latest Telugu release ‘Aakasamlo Oka Tara’. At the film’s success meet, filmmaker SS Rajamouli attended as the chief guest and praised her performance. The ‘RRR’ direct`,
+    content_en: `Actress Satvika Veeravalli made her acting debut with Dulquer Salmaan’s latest Telugu release ‘Aakasamlo Oka Tara’. At the film’s success meet, filmmaker SS Rajamouli attended as the chief guest and praised her performance. The ‘RRR’ director also compared her potential to veteran actresses such as Sridevi and Jaya Prada shared confidence in her future in Indian cinema.SS Rajamouli compares Satvika to Sridevi and Jaya PradaSpeaking at the event, SS Rajamouli said Telugu cinema has welcomed several talented actresses from different languages.
+
+However, he expressed his wish to see a Telugu girl reach the same heights as some of the industry’s celebrated actresses.“Satvika, there are many, many great actresses in Telugu cinema, in Indian cinema, in Telugu cinema. And, uh, they come from different languages. Specifically for Telugu cinema, it should be from our language, like that—this is not a thing—no matter which language they come from, we accept them, we put them on our head, but somewhere, like a Telugu actor, like Sridevi garu, like Jayaprada garu, like Jayasudha garu, a Telugu girl coming and reaching that stage would be very nice, that feeling is somewhere inside.
+
+I think you are that Satvika. You will make it really, really big in the Indian film industry. I have no doubt about it. Uh, uh, for our sake, learn Telugu a little faster,” he said.SS Rajamouli praises Shruti Haasan’s performanceSS Rajamouli also spoke about Shruti Haasan, who plays Rohini in the film.
+
+Although the actress was not present at the success meet, the filmmaker said her performance was one of the reasons he wanted to attend the event.He said, “Of course, my favorite, uh, Shruti, she is, uh, she's not here. Shruti, missing you here. Uh, one of the reasons I came here is for you.
+
+You are not here. Uh, uh, I mean, Shruti, I mean, in the trailer itself, in the one-two shots shown in the trailer, one or two shots, you could see that she's into the skin of the character. And when I saw her in the film, she was a breeze. Never felt she was acting. She was there.
+
+Uh, really loved her in the film.”SS Rajamouli appreciates the supporting castThe filmmaker also praised the performances of the film’s supporting actors. He said the cast was one of the biggest strengths of ‘Aakasamlo Oka Tara’ and appreciated how even the smaller roles made an impact.He said, “The best thing about this film, I would say, are the actors.
+
+Every actor, of course we know the big actors, what they did, we know all of that, but even small actors, how well they acted, I was just really captivated. Krishnaji and the way she spoke, I mean, there were subtitles below, but I didn’t read subtitles. I was just watching her, I was just listening to her.
+
+Ruhani did a fantastic, uh, job. You are such a big strength to that, uh, to the film.”He also praised the actress who played Krishna's sister, saying, “I don’t know the actor who played the sister. No, to me, how much I liked her performance, uh, I don't know whether you know or not, I don't know, but it was a fantastic job.
+
+I really loved, uh, the way she looked, the way she talked. The way she showed how much love that girl had for Krishna, even before seeing him, I really loved it.”About ‘Aakasamlo Oka Tara’Written and directed by Pavan Sadineni, ‘Aakasamlo Oka Tara’ stars Dulquer Salmaan as Krishna and Satvika Veeravalli as Kalpana.
+
+The story follows Kalpana, a brilliant student who dreams of becoming an astronaut. However, despite her academic achievements, she faces discouragement from those around her, including her parents, who eventually get her married to Krishna.Cast of ‘Aakasamlo Oka Tara’Krishna encourages Kalpana to follow her dream and pursue her ambition.
+
+Shruti Haasan plays Rohini, an aerospace engineer, while the supporting cast includes Ruhani Sharma, Swasika, Murali Sharma, Gautham Vasudev Menon, Getup Srinu and Praveen.Get the latest Bollywood & Entertainment News, and more. Download the TOI app.Give your child the gift of confidence!
+
+Claim your exclusive TOI Masterclass spot today!
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ss-rajamouli-sees-sridevi-and-jaya-pradas-potential-in-aakasamlo-oka-tara-actress-satvika-veeravalli-says-you-will-make-it-really-big/articleshow/136238541.cms)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Times of India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for SS Rajamouli sees Sridevi and Jaya Prada’s potential in ‘Aakasamlo Oka Tara’ actress Satvika Veeravalli;.`,
+    primary_source: `The Times of India`,
+  },
+  {
+    id: 235,
+    title: `फ़वाद और माहिरा ख़ान: पाकिस्तान के ये फ़िल्मी सितारे भारत में इतने पसंद क्यों किए जाते हैं`,
+    slug: `entertainment-breaking-report-18290-235-2026`,
+    original_title: `फ़वाद और माहिरा ख़ान: पाकिस्तान के ये फ़िल्मी सितारे भारत में इतने पसंद क्यों किए जाते हैं`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:36Z`,
+    updated_at: `2026-11-28T17:04:36Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/ck5y1381d8rwo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/entertainment-breaking-report-18290-235-2026.jpg`,
+    image_alt: `फ़वाद और माहिरा ख़ान: पाकिस्तान के ये फ़िल्मी सितारे भारत में इतने पसंद क्यों किए जाते हैं`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `भारत में पाकिस्तानी कलाकारों और वहां के कंटेंट को लेकर जारी बहस के बीच अभिनेता फ़वाद ख़ान और माहिरा ख़ान एक बार फिर चर्चा में हैं.`,
+    content: `भारत में पाकिस्तानी कलाकारों और वहां के कंटेंट को लेकर जारी बहस के बीच अभिनेता फ़वाद ख़ान और माहिरा ख़ान एक बार फिर चर्चा में हैं.
+
+दोनों पाकिस्तान की आने वाली नेटफ़्लिक्स सिरीज़ 'जो बचे है संग समेट लो' का हिस्सा हैं. चार दिसंबर को रिलीज़ होने वाली इस सिरीज़ को भारत में दिखाने पर फिल्म संगठनों ने आपत्ति जताई है.
+
+ऑल इंडिया सिने वर्कर्स एसोसिएशन यानी एआईसीडब्लूए ने प्रधानमंत्री नरेंद्र मोदी से सिरीज़ को भारत में रिलीज़ न करने की मांग की है.
+
+सूचना और प्रसारण मंत्रालय ने भी  नेटफ़्लिक्स को पाकिस्तान में बने कंटेंट को भारत में स्ट्रीम न करने संबंधी मई 2025 की एडवाइज़री की याद दिलाई है.
+
+इस विवाद के बीच फ़वाद और माहिरा की चर्चा सिर्फ़ उनकी नई सिरीज़ तक सीमित नहीं है. एक दौर में ये दोनों भारत में सबसे लोकप्रिय पाकिस्तानी कलाकारों में गिने जाते थे.
+
+उनकी लोकप्रियता की बड़ी वजह 2011 की पाकिस्तानी सिरीज़ 'हमसफ़र' रही, जिसने सरहद के दोनों ओर दर्शकों का ध्यान खींचा.
+
+### फ़वाद-माहिरा की लोकप्रियता की शुरुआत कहाँ से हुई?
+
+2011 में प्रसारित इस पाकिस्तानी सिरीज़ में दोनों ने अशर और ख़िरद का किरदार निभाया था.
+
+रिश्तों और गलतफहमियों पर आधारित यह शो पाकिस्तान में हिट रहा और बाद में ज़िंदगी चैनल के ज़रिए भारत भी पहुंचा.
+
+2014 में इंडियन एक्सप्रेस से बातचीत में माहिरा ख़ान ने कहा था कि हमसफ़र ने उन्हें पहचान दिलाई.
+
+उनके मुताबिक़, निर्देशक सरमद ख़ूसट को शुरुआत में उनकी और फ़वाद की ऑन-स्क्रीन केमिस्ट्री को लेकर संदेह था, लेकिन प्रसारण के बाद दर्शकों ने इस जोड़ी को खूब पसंद किया.
+
+दिलचस्प बात यह है कि फ़वाद ख़ान भी शुरुआत में हमसफ़र को लेकर उत्साहित नहीं थे.
+
+2024 में पिंकविला से बातचीत में उन्होंने कहा था कि उस समय वह संगीत पर ज़्यादा ध्यान दे रहे थे और आर्थिक जरूरत के चलते यह प्रोजेक्ट स्वीकार किया था.
+
+भारत में पाकिस्तानी सिरीज़ की लोकप्रियता सिर्फ़ हमसफ़र तक सीमित नहीं रही.
+
+हाल ही में पाकिस्तानी सिरीज़ दर-ए-निजात भी चर्चा में रही है, जिसके किरदार अबू बकर को लेकर सोशल मीडिया पर खासा उत्साह देखने को मिला.
+
+### पाकिस्तानी टीवी स्टार से बॉलीवुड अभिनेता तक का सफ़र
+
+फ़वाद ख़ान का अभिनय से पहले संगीत से गहरा नाता था.
+
+वह पाकिस्तानी रॉक बैंड एंटिटी पैराडाइम के सदस्य रहे, लेकिन 2007 की फ़िल्म खुदा के लिए ने उन्हें बड़े पर्दे पर पहचान दिलाई.
+
+इसके बाद दास्तान, हमसफ़र और ज़िंदगी गुलज़ार है जैसे लोकप्रिय टीवी शो ने उन्हें पाकिस्तान के सबसे चर्चित कलाकारों में शामिल कर दिया.
+
+'ज़िंदगी गुलज़ार है' में ज़ारून के किरदार को भी दर्शकों ने खूब पसंद किया.
+
+भारत में फ़वाद की लोकप्रियता पहले ही बन चुकी थी, लेकिन 2014 में उन्होंने सोनम कपूर के साथ फ़िल्म ख़ूबसूरत से बॉलीवुड में कदम रखा.
+
+इसके बाद वह 'कपूर एंड सन्स' और 'ऐ दिल है मुश्किल' जैसी फ़िल्मों में नज़र आए.
+
+फ़िल्म ख़ूबसूरत के लिए उन्हें फ़िल्मफ़ेयर का बेस्ट मेल डेब्यू अवॉर्ड भी मिला.
+
+बॉलीवुड में काम के दौरान फ़वाद ख़ान ने करण जौहर और कपूर परिवार के साथ भी अच्छे रिश्ते बनाए.
+
+उन्होंने अलग-अलग इंटरव्यू में  कई मौकों पर भारतीय फिल्म इंडस्ट्री के अपने दोस्तों और उनके साथ बिताए समय को गर्मजोशी से याद किया है.
+
+2016 में जम्मू-कश्मीर के उरी आतंकी हमले के बाद भारत और पाकिस्तान के रिश्तों में तनाव बढ़ा और भारत में पाकिस्तानी कलाकारों के काम करने को लेकर विरोध तेज़ हो गया.
+
+इसका असर फ़वाद ख़ान के बॉलीवुड करियर पर भी पड़ा.
+
+ऐ दिल है मुश्किल की रिलीज़ से पहले फ़िल्म में उनकी मौजूदगी का विरोध हुआ और निर्माताओं को दबाव का सामना करना पड़ा.
+
+अक्टूबर 2016 में फ़वाद ने एक फेसबुक पोस्ट में कहा था कि वह उस समय लाहौर में थे और अपने दूसरे बच्चे के जन्म का इंतज़ार कर रहे थे. उन्होंने क्षेत्र में शांति की कामना भी की थी.
+
+इसके बाद फ़वाद का काम पाकिस्तानी फ़िल्मों और सिरीज़ तक सीमित रहा.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ck5y1381d8rwo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `फ़वाद और माहिरा ख़ान: पाकिस्तान के ये फ़िल्मी सितारे भारत में इतने पसंद क्यों किए जाते हैं`,
+    summary_hi: `भारत में पाकिस्तानी कलाकारों और वहां के कंटेंट को लेकर जारी बहस के बीच अभिनेता फ़वाद ख़ान और माहिरा ख़ान एक बार फिर चर्चा में हैं.`,
+    content_hi: `भारत में पाकिस्तानी कलाकारों और वहां के कंटेंट को लेकर जारी बहस के बीच अभिनेता फ़वाद ख़ान और माहिरा ख़ान एक बार फिर चर्चा में हैं.
+
+दोनों पाकिस्तान की आने वाली नेटफ़्लिक्स सिरीज़ 'जो बचे है संग समेट लो' का हिस्सा हैं. चार दिसंबर को रिलीज़ होने वाली इस सिरीज़ को भारत में दिखाने पर फिल्म संगठनों ने आपत्ति जताई है.
+
+ऑल इंडिया सिने वर्कर्स एसोसिएशन यानी एआईसीडब्लूए ने प्रधानमंत्री नरेंद्र मोदी से सिरीज़ को भारत में रिलीज़ न करने की मांग की है.
+
+सूचना और प्रसारण मंत्रालय ने भी  नेटफ़्लिक्स को पाकिस्तान में बने कंटेंट को भारत में स्ट्रीम न करने संबंधी मई 2025 की एडवाइज़री की याद दिलाई है.
+
+इस विवाद के बीच फ़वाद और माहिरा की चर्चा सिर्फ़ उनकी नई सिरीज़ तक सीमित नहीं है. एक दौर में ये दोनों भारत में सबसे लोकप्रिय पाकिस्तानी कलाकारों में गिने जाते थे.
+
+उनकी लोकप्रियता की बड़ी वजह 2011 की पाकिस्तानी सिरीज़ 'हमसफ़र' रही, जिसने सरहद के दोनों ओर दर्शकों का ध्यान खींचा.
+
+### फ़वाद-माहिरा की लोकप्रियता की शुरुआत कहाँ से हुई?
+
+2011 में प्रसारित इस पाकिस्तानी सिरीज़ में दोनों ने अशर और ख़िरद का किरदार निभाया था.
+
+रिश्तों और गलतफहमियों पर आधारित यह शो पाकिस्तान में हिट रहा और बाद में ज़िंदगी चैनल के ज़रिए भारत भी पहुंचा.
+
+2014 में इंडियन एक्सप्रेस से बातचीत में माहिरा ख़ान ने कहा था कि हमसफ़र ने उन्हें पहचान दिलाई.
+
+उनके मुताबिक़, निर्देशक सरमद ख़ूसट को शुरुआत में उनकी और फ़वाद की ऑन-स्क्रीन केमिस्ट्री को लेकर संदेह था, लेकिन प्रसारण के बाद दर्शकों ने इस जोड़ी को खूब पसंद किया.
+
+दिलचस्प बात यह है कि फ़वाद ख़ान भी शुरुआत में हमसफ़र को लेकर उत्साहित नहीं थे.
+
+2024 में पिंकविला से बातचीत में उन्होंने कहा था कि उस समय वह संगीत पर ज़्यादा ध्यान दे रहे थे और आर्थिक जरूरत के चलते यह प्रोजेक्ट स्वीकार किया था.
+
+भारत में पाकिस्तानी सिरीज़ की लोकप्रियता सिर्फ़ हमसफ़र तक सीमित नहीं रही.
+
+हाल ही में पाकिस्तानी सिरीज़ दर-ए-निजात भी चर्चा में रही है, जिसके किरदार अबू बकर को लेकर सोशल मीडिया पर खासा उत्साह देखने को मिला.
+
+### पाकिस्तानी टीवी स्टार से बॉलीवुड अभिनेता तक का सफ़र
+
+फ़वाद ख़ान का अभिनय से पहले संगीत से गहरा नाता था.
+
+वह पाकिस्तानी रॉक बैंड एंटिटी पैराडाइम के सदस्य रहे, लेकिन 2007 की फ़िल्म खुदा के लिए ने उन्हें बड़े पर्दे पर पहचान दिलाई.
+
+इसके बाद दास्तान, हमसफ़र और ज़िंदगी गुलज़ार है जैसे लोकप्रिय टीवी शो ने उन्हें पाकिस्तान के सबसे चर्चित कलाकारों में शामिल कर दिया.
+
+'ज़िंदगी गुलज़ार है' में ज़ारून के किरदार को भी दर्शकों ने खूब पसंद किया.
+
+भारत में फ़वाद की लोकप्रियता पहले ही बन चुकी थी, लेकिन 2014 में उन्होंने सोनम कपूर के साथ फ़िल्म ख़ूबसूरत से बॉलीवुड में कदम रखा.
+
+इसके बाद वह 'कपूर एंड सन्स' और 'ऐ दिल है मुश्किल' जैसी फ़िल्मों में नज़र आए.
+
+फ़िल्म ख़ूबसूरत के लिए उन्हें फ़िल्मफ़ेयर का बेस्ट मेल डेब्यू अवॉर्ड भी मिला.
+
+बॉलीवुड में काम के दौरान फ़वाद ख़ान ने करण जौहर और कपूर परिवार के साथ भी अच्छे रिश्ते बनाए.
+
+उन्होंने अलग-अलग इंटरव्यू में  कई मौकों पर भारतीय फिल्म इंडस्ट्री के अपने दोस्तों और उनके साथ बिताए समय को गर्मजोशी से याद किया है.
+
+2016 में जम्मू-कश्मीर के उरी आतंकी हमले के बाद भारत और पाकिस्तान के रिश्तों में तनाव बढ़ा और भारत में पाकिस्तानी कलाकारों के काम करने को लेकर विरोध तेज़ हो गया.
+
+इसका असर फ़वाद ख़ान के बॉलीवुड करियर पर भी पड़ा.
+
+ऐ दिल है मुश्किल की रिलीज़ से पहले फ़िल्म में उनकी मौजूदगी का विरोध हुआ और निर्माताओं को दबाव का सामना करना पड़ा.
+
+अक्टूबर 2016 में फ़वाद ने एक फेसबुक पोस्ट में कहा था कि वह उस समय लाहौर में थे और अपने दूसरे बच्चे के जन्म का इंतज़ार कर रहे थे. उन्होंने क्षेत्र में शांति की कामना भी की थी.
+
+इसके बाद फ़वाद का काम पाकिस्तानी फ़िल्मों और सिरीज़ तक सीमित रहा.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/ck5y1381d8rwo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक फ़वाद और माहिरा ख़ान: पाकिस्तान के ये फ़िल्मी सितारे भारत में इतने पसंद क्यों किए जाते हैं से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 236,
+    title: `Ramayana: Rise of a Legend (Part 1) Opens ‘Films from BRICS’ at 57th IFFI - www.pib.gov.in`,
+    slug: `ramayana-rise-of-a-legend-part-1-opens-films-from-brics-at-57th-iffi-w-2026`,
+    original_title: `Ramayana: Rise of a Legend (Part 1) Opens ‘Films from BRICS’ at 57th IFFI - www.pib.gov.in`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:40Z`,
+    updated_at: `2026-11-28T17:04:40Z`,
+    source_name: `www.pib.gov.in`,
+    source_url: `https://www.pib.gov.in/PressReleasePage.aspx?PRID=2340044&reg=48&lang=1`,
+    source_courtesy: `Source: www.pib.gov.in`,
+    image_url: `/images/articles/ramayana-rise-of-a-legend-part-1-opens-films-from-brics-at-57th-iffi-w-2026.jpg`,
+    image_alt: `Ramayana: Rise of a Legend (Part 1) Opens ‘Films from BRICS’ at 57th IFFI - www.pib.gov.in`,
+    image_courtesy: `Image: www.pib.gov.in (External Source Attribution)`,
+    image_photographer: `www.pib.gov.in`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `Ramayana: Rise of a Legend (Part 1) Opens ‘Films from BRICS’ at 57th IFFI www.pib.gov.in`,
+    content: `### Envoys from Nigeria, Indonesia, Russia and Iran join festival leadership in Panaji as cross-border cinema takes centre stage A 21-film slate spanning member and partner countries opens on Day 3 of the 57th IFFI with diplomatic felicitations and a red-carpet premiere
+
+The timeless appeal of Indian mythology found a global platform on Day 3 of the 57th International Film Festival of India (IFFI), as Nitesh Tiwari’s much-awaited epic, Ramayana: Rise of a Legend (Part 1) , premiered as the official opening film of the ‘Films from BRICS’ section.
+
+Rooted in one of India’s most enduring epics, the film brings a story that has travelled across generations and cultures to an international cinematic platform. Its selection as the opening film sets the tone for a showcase that celebrates the power of cinema to connect people beyond geographical and linguistic boundaries.
+
+The inaugural segment also featured the felicitation of diplomatic representatives from participating countries. Mr. Saidu Dahiru Muhammed, Ambassador, High Commission of the Federal Republic of Nigeria, was felicitated by Shri Prabhat, Additional Secretary, Ministry of Information and Broadcasting. Ms. Erny Wahyuni, representing the Chargé d’Affaires of the Embassy of the Republic of Indonesia, and Mr. Aleksandr Fursov, Acting Consul General, Consulate General of the Russian Federation in Mumbai, were felicitated by Shri Shambhu Lingappa Hakki, Joint Secretary, Ministry of External Affairs.
+
+Dr. Mostafa Goharifar, Deputy Chief of Mission of the Islamic Republic of Iran, and Dr. Omid Babelian, IPIS Representative in India, were felicitated by Shri G. Krishnakumar, Chairman, National Film Development Corporation (NFDC).
+
+Ms. Meiliza Karunia Harahap, Treasury, Embassy of the Republic of Indonesia, was also felicitated by Shri G. Krishnakumar. Festival Director Shri Ashutosh Gowariker felicitated director Nitesh Tiwari in recognition of his film, Ramayana: Rise of a Legend (Part 1) , which opened the ‘Films from BRICS’ section.
+
+The ‘Films from BRICS’ showcase recognises the importance of cinema beyond entertainment. Films offer a window into the lives, values, traditions and aspirations of different societies. They allow countries to present their own perspectives while helping audiences understand cultures beyond their borders. In this context, the BRICS platform provides an opportunity to strengthen people-to-people connections, encourage creative collaboration and give greater visibility to cinematic voices from the Global South.
+
+Together, these films make the ‘Films from BRICS’ section a celebration of cultural diversity and shared human experiences. By bringing stories from different parts of the world to one screen, IFFI reinforces cinema’s role in fostering mutual respect, strengthening cultural ties and building a deeper understanding among nations. The showcase reflects the spirit of Vasudhaiva Kutumbakam , or ‘the world is one family’, and underlines how storytelling can bring people closer, even when their languages, histories and traditions differ.
+
+### Stories Without Borders: Celebrating Cultural Diversity in the ‘Films from BRICS’ Lineup
+
+Spanning 11-member countries and 10 partner nations, the ‘Films from BRICS’ showcase at the 57th International Film Festival of India (IFFI) brings together a diverse range of contemporary storytelling across genres, languages and lived realities. From sweeping mythological spectacle and animated historical reimaginings, such as Nitesh Tiwari’s Ramayana: Rise of a Legend (Part 1) and Brenda Lígia and Edu Felistoque’s Amadeo and the Hypothetical New World , to intimate dramas and genre-blending narratives such as Nguyen Hoang Diep’s 1982 , Sompot Chidgasornpongse’s 9 Temples to Heaven , Andrei Egorov’s And the Snow was Falling , Nayla Al Khaja’s Baab , Ariff Zulkarnain’s Baga: Tomorrow Belongs to No One , Luis Ernesto Donas’s Baracoa , Anastasia Kuzina’s Bo Bo , Rashid Malikov’s Cotton and Katrine Weber’s Dreaming of Serenada , these films explore themes of family memory, social pressures, resilience and ecological belonging.
+
+United under this year’s theme, ‘Stories Without Borders’, the lineup highlights how cinema from across BRICS orbit captures distinct cultural identities while speaking to universal human emotions.
+
+Read IFFILOID here: https://www.pib.gov.in/iffi/57/iffiLoid.aspx?yr=2026&lang=1&reg=48
+
+PIB IFFI Team/Rajith/Supriya/Sasmita/ Darshana | IFFI 57 - 069
+
+Great films resonate through passionate voices. Share your love for cinema with #IFFI2026 and #StoriesWithoutBorders . Tag us @pibindia on Instagram and @PIB_India on X, and we will help amplify your festival moments!
+
+For accredited journalists, critics, bloggers, and vloggers seeking 1-on-1 interviews with filmmakers and festival juries, write to us at: iffi.mediadesk@pib.gov.in with the subject line: Take One with PIB .
+
+---
+
+**Original Source:** [www.pib.gov.in](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2340044&reg=48&lang=1)`,
+    title_en: `Ramayana: Rise of a Legend (Part 1) Opens ‘Films from BRICS’ at 57th IFFI - www.pib.gov.in`,
+    summary_en: `Ramayana: Rise of a Legend (Part 1) Opens ‘Films from BRICS’ at 57th IFFI www.pib.gov.in`,
+    content_en: `### Envoys from Nigeria, Indonesia, Russia and Iran join festival leadership in Panaji as cross-border cinema takes centre stage A 21-film slate spanning member and partner countries opens on Day 3 of the 57th IFFI with diplomatic felicitations and a red-carpet premiere
+
+The timeless appeal of Indian mythology found a global platform on Day 3 of the 57th International Film Festival of India (IFFI), as Nitesh Tiwari’s much-awaited epic, Ramayana: Rise of a Legend (Part 1) , premiered as the official opening film of the ‘Films from BRICS’ section.
+
+Rooted in one of India’s most enduring epics, the film brings a story that has travelled across generations and cultures to an international cinematic platform. Its selection as the opening film sets the tone for a showcase that celebrates the power of cinema to connect people beyond geographical and linguistic boundaries.
+
+The inaugural segment also featured the felicitation of diplomatic representatives from participating countries. Mr. Saidu Dahiru Muhammed, Ambassador, High Commission of the Federal Republic of Nigeria, was felicitated by Shri Prabhat, Additional Secretary, Ministry of Information and Broadcasting. Ms. Erny Wahyuni, representing the Chargé d’Affaires of the Embassy of the Republic of Indonesia, and Mr. Aleksandr Fursov, Acting Consul General, Consulate General of the Russian Federation in Mumbai, were felicitated by Shri Shambhu Lingappa Hakki, Joint Secretary, Ministry of External Affairs.
+
+Dr. Mostafa Goharifar, Deputy Chief of Mission of the Islamic Republic of Iran, and Dr. Omid Babelian, IPIS Representative in India, were felicitated by Shri G. Krishnakumar, Chairman, National Film Development Corporation (NFDC).
+
+Ms. Meiliza Karunia Harahap, Treasury, Embassy of the Republic of Indonesia, was also felicitated by Shri G. Krishnakumar. Festival Director Shri Ashutosh Gowariker felicitated director Nitesh Tiwari in recognition of his film, Ramayana: Rise of a Legend (Part 1) , which opened the ‘Films from BRICS’ section.
+
+The ‘Films from BRICS’ showcase recognises the importance of cinema beyond entertainment. Films offer a window into the lives, values, traditions and aspirations of different societies. They allow countries to present their own perspectives while helping audiences understand cultures beyond their borders. In this context, the BRICS platform provides an opportunity to strengthen people-to-people connections, encourage creative collaboration and give greater visibility to cinematic voices from the Global South.
+
+Together, these films make the ‘Films from BRICS’ section a celebration of cultural diversity and shared human experiences. By bringing stories from different parts of the world to one screen, IFFI reinforces cinema’s role in fostering mutual respect, strengthening cultural ties and building a deeper understanding among nations. The showcase reflects the spirit of Vasudhaiva Kutumbakam , or ‘the world is one family’, and underlines how storytelling can bring people closer, even when their languages, histories and traditions differ.
+
+### Stories Without Borders: Celebrating Cultural Diversity in the ‘Films from BRICS’ Lineup
+
+Spanning 11-member countries and 10 partner nations, the ‘Films from BRICS’ showcase at the 57th International Film Festival of India (IFFI) brings together a diverse range of contemporary storytelling across genres, languages and lived realities. From sweeping mythological spectacle and animated historical reimaginings, such as Nitesh Tiwari’s Ramayana: Rise of a Legend (Part 1) and Brenda Lígia and Edu Felistoque’s Amadeo and the Hypothetical New World , to intimate dramas and genre-blending narratives such as Nguyen Hoang Diep’s 1982 , Sompot Chidgasornpongse’s 9 Temples to Heaven , Andrei Egorov’s And the Snow was Falling , Nayla Al Khaja’s Baab , Ariff Zulkarnain’s Baga: Tomorrow Belongs to No One , Luis Ernesto Donas’s Baracoa , Anastasia Kuzina’s Bo Bo , Rashid Malikov’s Cotton and Katrine Weber’s Dreaming of Serenada , these films explore themes of family memory, social pressures, resilience and ecological belonging.
+
+United under this year’s theme, ‘Stories Without Borders’, the lineup highlights how cinema from across BRICS orbit captures distinct cultural identities while speaking to universal human emotions.
+
+Read IFFILOID here: https://www.pib.gov.in/iffi/57/iffiLoid.aspx?yr=2026&lang=1&reg=48
+
+PIB IFFI Team/Rajith/Supriya/Sasmita/ Darshana | IFFI 57 - 069
+
+Great films resonate through passionate voices. Share your love for cinema with #IFFI2026 and #StoriesWithoutBorders . Tag us @pibindia on Instagram and @PIB_India on X, and we will help amplify your festival moments!
+
+For accredited journalists, critics, bloggers, and vloggers seeking 1-on-1 interviews with filmmakers and festival juries, write to us at: iffi.mediadesk@pib.gov.in with the subject line: Take One with PIB .
+
+---
+
+**Original Source:** [www.pib.gov.in](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2340044&reg=48&lang=1)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to www.pib.gov.in.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Ramayana: Rise of a Legend (Part 1) Opens ‘Films from BRICS’ at 57th IFFI - www.pib.gov.in.`,
+    primary_source: `www.pib.gov.in`,
+  },
+  {
+    id: 237,
+    title: `रामायण ने 23वें दिन बनाए 5 बड़े रिकॉर्ड्स, ऐसा करने वाली बनी बॉलीवुड की पहली नॉन - ABP News`,
+    slug: `23-5-abp-news-2026`,
+    original_title: `रामायण ने 23वें दिन बनाए 5 बड़े रिकॉर्ड्स, ऐसा करने वाली बनी बॉलीवुड की पहली नॉन - ABP News`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T17:04:44Z`,
+    updated_at: `2026-11-28T17:04:44Z`,
+    source_name: `ABP News`,
+    source_url: `https://www.abplive.com/entertainment/bollywood/ramayana-box-office-collection-creates-5-records-becomes-first-non-sequel-bollywood-film-to-cross-1000cr-3220563`,
+    source_courtesy: `Source: ABP News`,
+    image_url: `/images/articles/23-5-abp-news-2026.jpg`,
+    image_alt: `रामायण ने 23वें दिन बनाए 5 बड़े रिकॉर्ड्स, ऐसा करने वाली बनी बॉलीवुड की पहली नॉन - ABP News`,
+    image_courtesy: `Image: ABP News (External Source Attribution)`,
+    image_photographer: `ABP News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `नितेश तिवारी की फिल्म 'रामायण' का बॉक्स ऑफिस पर जबरदस्त जलवा देखने के लिए मिल रहा है. इसकी रिलीज को 23 दिन हो चुके हैं फिर भी बॉक्स ऑफिस पर इसकी पकड़ बरकरार है. ये एक के बाद एक नए रिकॉर्ड्स बना रही है. ऐसे में अब फिल्म ने इंडिया में 1000 कर`,
+    content: `नितेश तिवारी की फिल्म 'रामायण' का बॉक्स ऑफिस पर जबरदस्त जलवा देखने के लिए मिल रहा है. इसकी रिलीज को 23 दिन हो चुके हैं फिर भी बॉक्स ऑफिस पर इसकी पकड़ बरकरार है. ये एक के बाद एक नए रिकॉर्ड्स बना रही है. ऐसे में अब फिल्म ने इंडिया में 1000 करोड़ का नेट कलेक्शन कर लिया है, जिसके बाद ये बॉलीवुड की तीसरी सबसे तेज 1000 करोड़ कमाने वाली फिल्म बन गई है.
+
+इतना ही नहीं, 'रामायण' ने बॉक्स ऑफिस पर एक और बड़ा रिकॉर्ड बनाया है कि ये बॉलीवुड की पहली नॉन सीक्वल फिल्म बन गई है, जिसने 1000 करोड़ के क्लब में एंट्री मारी है. इसी के साथ ही इसने 23वें दिन बॉक्स ऑफिस पर 5 बड़े रिकॉर्ड्स बना डाले हैं चलिए बताते हैं इसके बारे में. 'रामायण' ने 23वें दिन बनाए 5 बड़े रिकॉर्ड्स
+- सैकनिल्क के अनुसार, 'रामायण' 1000 करोड़ के क्लब में एंट्री करने तीसरी सबसे तेज फिल्म बन चुकी है.
+
+इसने 'बाहुबली 2' के भी पीछे छोड़ दिया है. देखिए इंडिया में 1000 करोड़ क्लब में सबसे तेज एंट्री करने वाली फिल्मों की लिस्ट...&nbsp;1. पुष्पा 2- 1,234.10 करोड़ (16 दिन)2. धुरंधर 2- 1,149.30 करोड़ (18 दिन)3. रामायण- 1,000.55 करोड़ (23 दिन)4. बाहुबली 2- 1,030.4 करोड़ (35 दिन)
+- इसी के साथ ही 'रामायण' बॉलीवुड के इतिहास की पहली नॉन सीक्वल फिल्म बन गई है, जिसने इंडियन बॉक्स ऑफिस पर 1000 करोड़ के नेट कलेक्शन के आंकड़े को पार कर लिया है.
+
+- वहीं, नितेश तिवारी की फिल्म ने 1000 करोड़ में एंट्री करने वाली बॉलीवुड की दूसरी फिल्म का भी रिकॉर्ड भी अपने नाम कर लिया है. इसके पहले 'धुरंधर 2' ने इंडिया में इस आंकड़े का पार किया था. - इसके साथ ही ये तीसरी इंडियन फिल्म भी बन चुकी है, जिसने सभी भाषाओं में बॉक्स ऑफिस पर 1000 करोड़ का आंकड़ा पार किया.
+
+- 'रामायण' ने इंडिया में 1000 करोड़ का आंकड़ा पार करने का भी रिकॉर्ड बनाया. मेकर्स के लिए ये किसी बड़ी सफलता से कम नहीं है. 'रामायण' का वर्ल्डवाइड बॉक्स ऑफिस कलेक्शन
+बहरहाल, अगर 'रामायण' के वर्ल्डवाइड बॉक्स ऑफिस कलेक्शन के बारे में बात की जाए तो सैकनिल्क के अनुसार, रणबीर कपूर और साई पल्लवी स्टारर फिल्म ने 23 दिनों में दुनियाभर में 1,790.10 करोड़ का बिजनेस कर लिया है.
+
+फिल्म 1800 करोड़ के क्लब में एंट्री लेने के लिए तैयार है.
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/entertainment/bollywood/ramayana-box-office-collection-creates-5-records-becomes-first-non-sequel-bollywood-film-to-cross-1000cr-3220563)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `रामायण ने 23वें दिन बनाए 5 बड़े रिकॉर्ड्स, ऐसा करने वाली बनी बॉलीवुड की पहली नॉन - ABP News`,
+    summary_hi: `नितेश तिवारी की फिल्म 'रामायण' का बॉक्स ऑफिस पर जबरदस्त जलवा देखने के लिए मिल रहा है. इसकी रिलीज को 23 दिन हो चुके हैं फिर भी बॉक्स ऑफिस पर इसकी पकड़ बरकरार है. ये एक के बाद एक नए रिकॉर्ड्स बना रही है. ऐसे में अब फिल्म ने इंडिया में 1000 कर`,
+    content_hi: `नितेश तिवारी की फिल्म 'रामायण' का बॉक्स ऑफिस पर जबरदस्त जलवा देखने के लिए मिल रहा है. इसकी रिलीज को 23 दिन हो चुके हैं फिर भी बॉक्स ऑफिस पर इसकी पकड़ बरकरार है. ये एक के बाद एक नए रिकॉर्ड्स बना रही है. ऐसे में अब फिल्म ने इंडिया में 1000 करोड़ का नेट कलेक्शन कर लिया है, जिसके बाद ये बॉलीवुड की तीसरी सबसे तेज 1000 करोड़ कमाने वाली फिल्म बन गई है.
+
+इतना ही नहीं, 'रामायण' ने बॉक्स ऑफिस पर एक और बड़ा रिकॉर्ड बनाया है कि ये बॉलीवुड की पहली नॉन सीक्वल फिल्म बन गई है, जिसने 1000 करोड़ के क्लब में एंट्री मारी है. इसी के साथ ही इसने 23वें दिन बॉक्स ऑफिस पर 5 बड़े रिकॉर्ड्स बना डाले हैं चलिए बताते हैं इसके बारे में. 'रामायण' ने 23वें दिन बनाए 5 बड़े रिकॉर्ड्स
+- सैकनिल्क के अनुसार, 'रामायण' 1000 करोड़ के क्लब में एंट्री करने तीसरी सबसे तेज फिल्म बन चुकी है.
+
+इसने 'बाहुबली 2' के भी पीछे छोड़ दिया है. देखिए इंडिया में 1000 करोड़ क्लब में सबसे तेज एंट्री करने वाली फिल्मों की लिस्ट...&nbsp;1. पुष्पा 2- 1,234.10 करोड़ (16 दिन)2. धुरंधर 2- 1,149.30 करोड़ (18 दिन)3. रामायण- 1,000.55 करोड़ (23 दिन)4. बाहुबली 2- 1,030.4 करोड़ (35 दिन)
+- इसी के साथ ही 'रामायण' बॉलीवुड के इतिहास की पहली नॉन सीक्वल फिल्म बन गई है, जिसने इंडियन बॉक्स ऑफिस पर 1000 करोड़ के नेट कलेक्शन के आंकड़े को पार कर लिया है.
+
+- वहीं, नितेश तिवारी की फिल्म ने 1000 करोड़ में एंट्री करने वाली बॉलीवुड की दूसरी फिल्म का भी रिकॉर्ड भी अपने नाम कर लिया है. इसके पहले 'धुरंधर 2' ने इंडिया में इस आंकड़े का पार किया था. - इसके साथ ही ये तीसरी इंडियन फिल्म भी बन चुकी है, जिसने सभी भाषाओं में बॉक्स ऑफिस पर 1000 करोड़ का आंकड़ा पार किया.
+
+- 'रामायण' ने इंडिया में 1000 करोड़ का आंकड़ा पार करने का भी रिकॉर्ड बनाया. मेकर्स के लिए ये किसी बड़ी सफलता से कम नहीं है. 'रामायण' का वर्ल्डवाइड बॉक्स ऑफिस कलेक्शन
+बहरहाल, अगर 'रामायण' के वर्ल्डवाइड बॉक्स ऑफिस कलेक्शन के बारे में बात की जाए तो सैकनिल्क के अनुसार, रणबीर कपूर और साई पल्लवी स्टारर फिल्म ने 23 दिनों में दुनियाभर में 1,790.10 करोड़ का बिजनेस कर लिया है.
+
+फिल्म 1800 करोड़ के क्लब में एंट्री लेने के लिए तैयार है.
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/entertainment/bollywood/ramayana-box-office-collection-creates-5-records-becomes-first-non-sequel-bollywood-film-to-cross-1000cr-3220563)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट ABP News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक रामायण ने 23वें दिन बनाए 5 बड़े रिकॉर्ड्स, ऐसा करने वाली बनी बॉलीवुड की पहली नॉन - ABP News से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `ABP News`,
+  },
+{
     id: 220,
     title: `Mushfiqur Rahim to retire from Test cricket in February 2027`,
     slug: `mushfiqur-rahim-to-retire-from-test-cricket-in-february-2027-2026`,
