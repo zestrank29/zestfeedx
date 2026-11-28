@@ -6,7 +6,1695 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+  
+  
   {
+    id: 166,
+    title: `Latham, Blundell fifties give NZ advantage after hard-fought opening day`,
+    slug: `latham-blundell-fifties-give-nz-advantage-after-hard-fought-openi-2026`,
+    original_title: `Latham, Blundell fifties give NZ advantage after hard-fought opening day`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:43Z`,
+    updated_at: `2026-11-28T06:14:43Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564389.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Latham, Blundell fifties give NZ advantage after hard-fought opening day`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `Bumrah went wicketless after India won the toss and inserted the hosts in Christchurch`,
+    content: `Bumrah went wicketless after India won the toss and inserted the hosts in Christchurch
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564389.html?ex_cid=OTC-RSS)`,
+    title_en: `Latham, Blundell fifties give NZ advantage after hard-fought opening day`,
+    summary_en: `Bumrah went wicketless after India won the toss and inserted the hosts in Christchurch`,
+    content_en: `Bumrah went wicketless after India won the toss and inserted the hosts in Christchurch
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564389.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-166`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-28 11:44:43 IST`,
+    detected_at: `2026-11-28T06:14:42Z`,
+    verified_at: `2026-11-28T06:14:43Z`,
+    approved_at: `2026-11-28T06:14:43Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Latham, Blundell fifties give NZ advantage after hard-fought opening day.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 167,
+    title: `England bowl, Owen and Stanlake come in for Australia`,
+    slug: `england-bowl-owen-and-stanlake-come-in-for-australia-2026`,
+    original_title: `England bowl, Owen and Stanlake come in for Australia`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:43Z`,
+    updated_at: `2026-11-28T06:14:43Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564420.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `England bowl, Owen and Stanlake come in for Australia`,
+    image_courtesy: `Photo: Stadium Photography Wire (Unsplash License)`,
+    image_photographer: `Stadium Photography Wire`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `Billy Stanlake plays first T20I in seven years as hosts look to bounce back from Carrara mauling`,
+    content: `Billy Stanlake plays first T20I in seven years as hosts look to bounce back from Carrara mauling
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564420.html?ex_cid=OTC-RSS)`,
+    title_en: `England bowl, Owen and Stanlake come in for Australia`,
+    summary_en: `Billy Stanlake plays first T20I in seven years as hosts look to bounce back from Carrara mauling`,
+    content_en: `Billy Stanlake plays first T20I in seven years as hosts look to bounce back from Carrara mauling
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564420.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-australia-vs-england-2026`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-28 11:44:43 IST`,
+    detected_at: `2026-11-28T06:14:42Z`,
+    verified_at: `2026-11-28T06:14:43Z`,
+    approved_at: `2026-11-28T06:14:43Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding England bowl, Owen and Stanlake come in for Australia.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 150,
+    title: `*The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor. - :: India News Calling ::`,
+    slug: `the-department-of-community-medicine-and-school-of-public-health-pgime-2026`,
+    original_title: `*The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor. - :: India News Calling ::`,
+    category: `health`,
+    topic: `public-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:13:57Z`,
+    updated_at: `2026-11-28T06:13:57Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://www.indianewscalling.com/news/193270-the-department-of-community-medicine-and-school-of-public-health-pgimer-chandigarh-is-undertakin.aspx`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/the-department-of-community-medicine-and-school-of-public-health-pgime-2026.jpg`,
+    image_alt: `*The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor. - :: India News Calling ::`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `*The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor. :: India News Calling ::`,
+    content: `### *The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor.
+
+CHANDIGARH-26-11-2026-The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor.
+
+The project, titled “Social Marketing Intervention for Adverse Child-Family Relationships, Alcohol Usage and Sexual-Health Issues Attributable to Social-Media Usage among Adolescents: A Multi-City Cluster Randomized Controlled Trial in North India,” aims to address the adverse effects of social media usage on adolescent well-being. As part of the project, the first-month intervention has been developed and delivered to students through educational posters. The intervention focuses on promoting healthy social media habits, strengthening parent-child and family relationships, preventing alcohol use, and encouraging awareness regarding sexual health. These educational initiatives aim to encourage informed and responsible choices among adolescents and promote their overall well-being.
+
+For further display of news in English with photographs in JPG file on "indianewscalling.com"
+
+CONTACT: M.M.Khanna, Web-Master cum Director
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.indianewscalling.com/news/193270-the-department-of-community-medicine-and-school-of-public-health-pgimer-chandigarh-is-undertakin.aspx)`,
+    title_en: `*The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor. - :: India News Calling ::`,
+    summary_en: `*The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor. :: India News Calling ::`,
+    content_en: `### *The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor.
+
+CHANDIGARH-26-11-2026-The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor.
+
+The project, titled “Social Marketing Intervention for Adverse Child-Family Relationships, Alcohol Usage and Sexual-Health Issues Attributable to Social-Media Usage among Adolescents: A Multi-City Cluster Randomized Controlled Trial in North India,” aims to address the adverse effects of social media usage on adolescent well-being. As part of the project, the first-month intervention has been developed and delivered to students through educational posters. The intervention focuses on promoting healthy social media habits, strengthening parent-child and family relationships, preventing alcohol use, and encouraging awareness regarding sexual health. These educational initiatives aim to encourage informed and responsible choices among adolescents and promote their overall well-being.
+
+For further display of news in English with photographs in JPG file on "indianewscalling.com"
+
+CONTACT: M.M.Khanna, Web-Master cum Director
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.indianewscalling.com/news/193270-the-department-of-community-medicine-and-school-of-public-health-pgimer-chandigarh-is-undertakin.aspx)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for *The Department of Community Medicine and School of Public Health, PGIMER, Chandigarh, is undertaking an ICMR-funded research project under the supervision of Dr. Tanvi Kiran, Associate Professor. - :: India News Calling ::.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 151,
+    title: `एड्स नियंत्रण: स्वास्थ्य कर्मियों का प्रशिक्षण - Prabhat Khabar`,
+    slug: `prabhat-khabar-2026`,
+    original_title: `एड्स नियंत्रण: स्वास्थ्य कर्मियों का प्रशिक्षण - Prabhat Khabar`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:01Z`,
+    updated_at: `2026-11-28T06:14:01Z`,
+    source_name: `Prabhat Khabar`,
+    source_url: `https://www.prabhatkhabar.com/state/bihar/jamui/district-level-aids-control-training`,
+    source_courtesy: `Source: Prabhat Khabar`,
+    image_url: `/images/articles/prabhat-khabar-2026.webp`,
+    image_alt: `एड्स नियंत्रण: स्वास्थ्य कर्मियों का प्रशिक्षण - Prabhat Khabar`,
+    image_courtesy: `Image: Prabhat Khabar (External Source Attribution)`,
+    image_photographer: `Prabhat Khabar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `HIV AIDS Control Jamui: जमुई में एचआइवी संक्रमण की रोकथाम और एड्स नियंत्रण कार्यक्रम को प्रभावी बनाने के लिए स्वास्थ्य विभाग ने अपनी तैयारियां तेज करने पर जोर दिया है. अब लक्ष्य केवल संक्रमण की पहचान करना नहीं, बल्कि संक्रमित लोगों को समय प`,
+    content: `HIV AIDS Control Jamui: जमुई में एचआइवी संक्रमण की रोकथाम और एड्स नियंत्रण कार्यक्रम को प्रभावी बनाने के लिए स्वास्थ्य विभाग ने अपनी तैयारियां तेज करने पर जोर दिया है. अब लक्ष्य केवल संक्रमण की पहचान करना नहीं, बल्कि संक्रमित लोगों को समय पर उपचार से जोड़ना और इलाज की निरंतरता बनाए रखना भी है.
+
+इसी उद्देश्य से शुक्रवार को मुख्य चिकित्सा पदाधिकारी कार्यालय के सभागार में जिला स्तरीय प्रशिक्षक संवेदीकरण कार्यशाला आयोजित की गई. इसमें जिला और प्रखंड स्तर के स्वास्थ्य अधिकारियों, चिकित्सकों तथा स्वास्थ्य कर्मियों को जांच, परामर्श, उपचार और मरीजों की नियमित निगरानी से जुड़ी विस्तृत जानकारी दी गई.राष्ट्रीय एड्स नियंत्रण संगठन के निर्देश पर बिहार राज्य एड्स नियंत्रण समिति और पब्लिक हेल्थ फाउंडेशन ऑफ इंडिया (पीएचएफआइ) के संयुक्त सहयोग से आयोजित इस कार्यशाला में राष्ट्रीय एड्स एवं एसटीडी नियंत्रण कार्यक्रम को जिले में बेहतर तरीके से लागू करने पर चर्चा हुई.
+
+प्रशिक्षण का उद्देश्य स्वास्थ्य कर्मियों की क्षमता बढ़ाने के साथ एचआइवी संक्रमित लोगों तक जरूरी स्वास्थ्य सेवाओं की पहुंच सुनिश्चित करना था.95-95-95 लक्ष्य से तय होगी एड्स नियंत्रण की दिशाकार्यशाला में एचआइवी नियंत्रण के वैश्विक 95-95-95 लक्ष्य को विशेष रूप से समझाया गया. इस लक्ष्य के तहत एचआइवी से संक्रमित 95 प्रतिशत लोगों को अपनी संक्रमण स्थिति की जानकारी होनी चाहिए.
+
+संक्रमण की पहचान हो चुके 95 प्रतिशत लोगों को एंटीरेट्रोवाइरल उपचार (एआरटी) मिलना चाहिए और उपचार करा रहे 95 प्रतिशत लोगों में वायरल लोड नियंत्रित होना चाहिए.इस लक्ष्य को हासिल करने के लिए समय पर जांच और संक्रमित लोगों की पहचान सबसे जरूरी कदम हैं. इसके बाद मरीजों को उपचार केंद्र तक पहुंचाना, नियमित दवा उपलब्ध कराना और समय-समय पर उनकी स्वास्थ्य स्थिति की निगरानी करना आवश्यक है.
+
+प्रशिक्षण में स्वास्थ्य कर्मियों को बताया गया कि जांच के बाद मरीज को उपचार से जोड़ने में किसी तरह की देरी नहीं होनी चाहिए.एसटीआई और टीबी-एचआइवी सह-संक्रमण की जांच पर भी जोरप्रशिक्षण के दौरान यौन संचारित संक्रमण (एसटीआई) की पहचान, स्क्रीनिंग, परामर्श और उपचार से जुड़े पहलुओं पर भी चर्चा हुई.
+
+स्वास्थ्य कर्मियों को सिफलिस सहित विभिन्न यौन संचारित संक्रमणों की जांच और उपचार प्रक्रिया की जानकारी दी गई.इसके साथ ही टीबी और एचआइवी के सह-संक्रमण, एआरटी, वायरल लोड जांच और मरीजों के नियमित फॉलोअप के महत्व को समझाया गया. प्रशिक्षकों ने बताया कि एचआइवी संक्रमित व्यक्ति के लिए समय पर दवा लेना और चिकित्सकीय परामर्श का पालन करना बेहद जरूरी है.
+
+इलाज के बीच में दवा छूटने या बंद होने से बचाना भी स्वास्थ्य कर्मियों की महत्वपूर्ण जिम्मेदारी है.संक्रमित लोगों की पहचान के साथ उनके अधिकारों की रक्षा भी जरूरीकार्यशाला में एचआइवी एवं एड्स (रोकथाम और नियंत्रण) अधिनियम, 2017 के प्रावधानों की जानकारी दी गई. इसमें संक्रमित लोगों के अधिकारों की रक्षा, स्वास्थ्य सेवाओं में समान व्यवहार और उनकी निजी जानकारी की गोपनीयता बनाए रखने पर विशेष जोर दिया गया.स्वास्थ्य अधिकारियों को बताया गया कि एचआइवी संक्रमित लोगों के साथ किसी भी तरह का भेदभाव नहीं होना चाहिए.
+
+उन्हें सम्मानजनक व्यवहार के साथ जांच, परामर्श और उपचार की सुविधा मिलनी चाहिए. उनकी स्वास्थ्य संबंधी जानकारी को गोपनीय रखना भी स्वास्थ्य सेवा से जुड़े कर्मियों की जिम्मेदारी है.केस स्टडी से समझायी मरीजों को उपचार से जोड़ने की प्रक्रियाकार्यशाला में केवल सैद्धांतिक जानकारी नहीं दी गई, बल्कि केस स्टडी, समूह चर्चा और व्यावहारिक गतिविधियों के जरिए भी प्रशिक्षण हुआ.
+
+इसमें जांच के बाद मरीजों को उपचार केंद्र तक रेफर करने, नियमित फॉलोअप रखने और अलग-अलग विभागों के बीच बेहतर समन्वय स्थापित करने की प्रक्रिया समझायी गई.प्रशिक्षण के अंत में पोस्ट-ट्रेनिंग असेसमेंट आयोजित किया गया. इसके माध्यम से प्रतिभागियों की समझ का आकलन किया गया. उनसे फीडबैक भी लिया गया, ताकि आगे होने वाले प्रशिक्षण कार्यक्रमों को और उपयोगी बनाया जा सके.जिला और प्रखंड स्तर के अधिकारियों ने लिया हिस्साकार्यशाला में मुख्य चिकित्सा पदाधिकारी डॉ अशोक कुमार सिंह, जिला एड्स नियंत्रण पदाधिकारी डॉ अरविंद कुमार, उपाधीक्षक डॉ थनीष कुमार, डीपीएम पवन कुमार, प्रभारी पर्यवेक्षक अखौरी मनीत कुमार और शमीम अख्तर सहित सभी प्रखंडों के प्रभारी चिकित्सा पदाधिकारी तथा अन्य स्वास्थ्य कर्मी शामिल हुए.प्रशिक्षक के रूप में दिल्ली के राजेश रेगन और सुदीप भारद्वाज तथा पीएचएफआइ, बिहार के विनील कुमार मौजूद रहे.
+
+प्रशिक्षकों ने स्वास्थ्य कर्मियों के साथ तकनीकी जानकारी साझा करने के अलावा व्यावहारिक अनुभव भी बताए.इस प्रशिक्षण के जरिए जिले में एचआइवी संक्रमण की रोकथाम, समय पर जांच, उपचार की निरंतरता और संक्रमित लोगों के अधिकारों की सुरक्षा को लेकर स्वास्थ्य कर्मियों की भूमिका मजबूत करने का प्रयास किया गया.
+
+अब इस प्रशिक्षण की उपयोगिता इस बात से भी आंकी जाएगी कि जिला और प्रखंड स्तर पर मिली जानकारी को रोजमर्रा की स्वास्थ्य सेवाओं में किस तरह लागू किया जाता है.फोटो - कार्यशाला में उपस्थित सीएस, डीएस व अन्य | Prabhat Khabar NetworkAlso Read: वाल्मीकिनगर से सोनपुर तक बनेगी सड़क, गंडक नदी के किनारे बाढ़ से बचाव के लिए मेगा प्रोजेक्ट
+
+---
+
+**मूल स्रोत (Original Source):** [Prabhat Khabar](https://www.prabhatkhabar.com/state/bihar/jamui/district-level-aids-control-training)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `एड्स नियंत्रण: स्वास्थ्य कर्मियों का प्रशिक्षण - Prabhat Khabar`,
+    summary_hi: `HIV AIDS Control Jamui: जमुई में एचआइवी संक्रमण की रोकथाम और एड्स नियंत्रण कार्यक्रम को प्रभावी बनाने के लिए स्वास्थ्य विभाग ने अपनी तैयारियां तेज करने पर जोर दिया है. अब लक्ष्य केवल संक्रमण की पहचान करना नहीं, बल्कि संक्रमित लोगों को समय प`,
+    content_hi: `HIV AIDS Control Jamui: जमुई में एचआइवी संक्रमण की रोकथाम और एड्स नियंत्रण कार्यक्रम को प्रभावी बनाने के लिए स्वास्थ्य विभाग ने अपनी तैयारियां तेज करने पर जोर दिया है. अब लक्ष्य केवल संक्रमण की पहचान करना नहीं, बल्कि संक्रमित लोगों को समय पर उपचार से जोड़ना और इलाज की निरंतरता बनाए रखना भी है.
+
+इसी उद्देश्य से शुक्रवार को मुख्य चिकित्सा पदाधिकारी कार्यालय के सभागार में जिला स्तरीय प्रशिक्षक संवेदीकरण कार्यशाला आयोजित की गई. इसमें जिला और प्रखंड स्तर के स्वास्थ्य अधिकारियों, चिकित्सकों तथा स्वास्थ्य कर्मियों को जांच, परामर्श, उपचार और मरीजों की नियमित निगरानी से जुड़ी विस्तृत जानकारी दी गई.राष्ट्रीय एड्स नियंत्रण संगठन के निर्देश पर बिहार राज्य एड्स नियंत्रण समिति और पब्लिक हेल्थ फाउंडेशन ऑफ इंडिया (पीएचएफआइ) के संयुक्त सहयोग से आयोजित इस कार्यशाला में राष्ट्रीय एड्स एवं एसटीडी नियंत्रण कार्यक्रम को जिले में बेहतर तरीके से लागू करने पर चर्चा हुई.
+
+प्रशिक्षण का उद्देश्य स्वास्थ्य कर्मियों की क्षमता बढ़ाने के साथ एचआइवी संक्रमित लोगों तक जरूरी स्वास्थ्य सेवाओं की पहुंच सुनिश्चित करना था.95-95-95 लक्ष्य से तय होगी एड्स नियंत्रण की दिशाकार्यशाला में एचआइवी नियंत्रण के वैश्विक 95-95-95 लक्ष्य को विशेष रूप से समझाया गया. इस लक्ष्य के तहत एचआइवी से संक्रमित 95 प्रतिशत लोगों को अपनी संक्रमण स्थिति की जानकारी होनी चाहिए.
+
+संक्रमण की पहचान हो चुके 95 प्रतिशत लोगों को एंटीरेट्रोवाइरल उपचार (एआरटी) मिलना चाहिए और उपचार करा रहे 95 प्रतिशत लोगों में वायरल लोड नियंत्रित होना चाहिए.इस लक्ष्य को हासिल करने के लिए समय पर जांच और संक्रमित लोगों की पहचान सबसे जरूरी कदम हैं. इसके बाद मरीजों को उपचार केंद्र तक पहुंचाना, नियमित दवा उपलब्ध कराना और समय-समय पर उनकी स्वास्थ्य स्थिति की निगरानी करना आवश्यक है.
+
+प्रशिक्षण में स्वास्थ्य कर्मियों को बताया गया कि जांच के बाद मरीज को उपचार से जोड़ने में किसी तरह की देरी नहीं होनी चाहिए.एसटीआई और टीबी-एचआइवी सह-संक्रमण की जांच पर भी जोरप्रशिक्षण के दौरान यौन संचारित संक्रमण (एसटीआई) की पहचान, स्क्रीनिंग, परामर्श और उपचार से जुड़े पहलुओं पर भी चर्चा हुई.
+
+स्वास्थ्य कर्मियों को सिफलिस सहित विभिन्न यौन संचारित संक्रमणों की जांच और उपचार प्रक्रिया की जानकारी दी गई.इसके साथ ही टीबी और एचआइवी के सह-संक्रमण, एआरटी, वायरल लोड जांच और मरीजों के नियमित फॉलोअप के महत्व को समझाया गया. प्रशिक्षकों ने बताया कि एचआइवी संक्रमित व्यक्ति के लिए समय पर दवा लेना और चिकित्सकीय परामर्श का पालन करना बेहद जरूरी है.
+
+इलाज के बीच में दवा छूटने या बंद होने से बचाना भी स्वास्थ्य कर्मियों की महत्वपूर्ण जिम्मेदारी है.संक्रमित लोगों की पहचान के साथ उनके अधिकारों की रक्षा भी जरूरीकार्यशाला में एचआइवी एवं एड्स (रोकथाम और नियंत्रण) अधिनियम, 2017 के प्रावधानों की जानकारी दी गई. इसमें संक्रमित लोगों के अधिकारों की रक्षा, स्वास्थ्य सेवाओं में समान व्यवहार और उनकी निजी जानकारी की गोपनीयता बनाए रखने पर विशेष जोर दिया गया.स्वास्थ्य अधिकारियों को बताया गया कि एचआइवी संक्रमित लोगों के साथ किसी भी तरह का भेदभाव नहीं होना चाहिए.
+
+उन्हें सम्मानजनक व्यवहार के साथ जांच, परामर्श और उपचार की सुविधा मिलनी चाहिए. उनकी स्वास्थ्य संबंधी जानकारी को गोपनीय रखना भी स्वास्थ्य सेवा से जुड़े कर्मियों की जिम्मेदारी है.केस स्टडी से समझायी मरीजों को उपचार से जोड़ने की प्रक्रियाकार्यशाला में केवल सैद्धांतिक जानकारी नहीं दी गई, बल्कि केस स्टडी, समूह चर्चा और व्यावहारिक गतिविधियों के जरिए भी प्रशिक्षण हुआ.
+
+इसमें जांच के बाद मरीजों को उपचार केंद्र तक रेफर करने, नियमित फॉलोअप रखने और अलग-अलग विभागों के बीच बेहतर समन्वय स्थापित करने की प्रक्रिया समझायी गई.प्रशिक्षण के अंत में पोस्ट-ट्रेनिंग असेसमेंट आयोजित किया गया. इसके माध्यम से प्रतिभागियों की समझ का आकलन किया गया. उनसे फीडबैक भी लिया गया, ताकि आगे होने वाले प्रशिक्षण कार्यक्रमों को और उपयोगी बनाया जा सके.जिला और प्रखंड स्तर के अधिकारियों ने लिया हिस्साकार्यशाला में मुख्य चिकित्सा पदाधिकारी डॉ अशोक कुमार सिंह, जिला एड्स नियंत्रण पदाधिकारी डॉ अरविंद कुमार, उपाधीक्षक डॉ थनीष कुमार, डीपीएम पवन कुमार, प्रभारी पर्यवेक्षक अखौरी मनीत कुमार और शमीम अख्तर सहित सभी प्रखंडों के प्रभारी चिकित्सा पदाधिकारी तथा अन्य स्वास्थ्य कर्मी शामिल हुए.प्रशिक्षक के रूप में दिल्ली के राजेश रेगन और सुदीप भारद्वाज तथा पीएचएफआइ, बिहार के विनील कुमार मौजूद रहे.
+
+प्रशिक्षकों ने स्वास्थ्य कर्मियों के साथ तकनीकी जानकारी साझा करने के अलावा व्यावहारिक अनुभव भी बताए.इस प्रशिक्षण के जरिए जिले में एचआइवी संक्रमण की रोकथाम, समय पर जांच, उपचार की निरंतरता और संक्रमित लोगों के अधिकारों की सुरक्षा को लेकर स्वास्थ्य कर्मियों की भूमिका मजबूत करने का प्रयास किया गया.
+
+अब इस प्रशिक्षण की उपयोगिता इस बात से भी आंकी जाएगी कि जिला और प्रखंड स्तर पर मिली जानकारी को रोजमर्रा की स्वास्थ्य सेवाओं में किस तरह लागू किया जाता है.फोटो - कार्यशाला में उपस्थित सीएस, डीएस व अन्य | Prabhat Khabar NetworkAlso Read: वाल्मीकिनगर से सोनपुर तक बनेगी सड़क, गंडक नदी के किनारे बाढ़ से बचाव के लिए मेगा प्रोजेक्ट
+
+---
+
+**मूल स्रोत (Original Source):** [Prabhat Khabar](https://www.prabhatkhabar.com/state/bihar/jamui/district-level-aids-control-training)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट Prabhat Khabar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक एड्स नियंत्रण: स्वास्थ्य कर्मियों का प्रशिक्षण - Prabhat Khabar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Prabhat Khabar`,
+  },
+  {
+    id: 152,
+    title: `Draft delimitation Bill released: 50% increase in seats, 850-seat Lok Sabha, freeze till 2051 - The News Minute`,
+    slug: `draft-delimitation-bill-released-50-increase-in-seats-850-seat-lok-sab-2026`,
+    original_title: `Draft delimitation Bill released: 50% increase in seats, 850-seat Lok Sabha, freeze till 2051 - The News Minute`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:02Z`,
+    updated_at: `2026-11-28T06:14:02Z`,
+    source_name: `The News Minute`,
+    source_url: `https://www.thenewsminute.com/news/draft-delimitation-bill-released-50-increase-in-seats-850-seat-lok-sabha-freeze-till-2051`,
+    source_courtesy: `Source: The News Minute`,
+    image_url: `/images/articles/draft-delimitation-bill-released-50-increase-in-seats-850-seat-lok-sab-2026.jpg`,
+    image_alt: `Draft delimitation Bill released: 50% increase in seats, 850-seat Lok Sabha, freeze till 2051 - The News Minute`,
+    image_courtesy: `Image: The News Minute (External Source Attribution)`,
+    image_photographer: `The News Minute`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `The Union government has released the draft Constitution (One Hundred and Thirty-Second&nbsp; Amendment) Bill, 2026, which proposes the delimitation of constituencies based on the latest Census. All states shall see a 50% increase in the nu`,
+    content: `The Union government has released the draft Constitution (One Hundred and Thirty-Second&nbsp; Amendment) Bill, 2026, which proposes the delimitation of constituencies based on the latest Census. All states shall see a 50% increase in the number of Lok Sabha and Legislative Assembly seats.&nbsp; According to the draft Bill, delimitation of Lok Sabha and Legislative Assembly constituencies’ boundaries will be done as per the latest Census figures, and will be frozen again until 2051.&nbsp; The Bill expands the maximum strength of the Lok Sabha from 550 to 850.
+
+Under Article 81 of the Constitution, the upper limit for total members representing constituencies from the states will be raised from 530 to 815. For union territories, the number will go up from 20 to 35.&nbsp;&nbsp; The composition of each state Assembly, previously capped at 500, has been proposed to go up to 650 MLAs.&nbsp; The Bill text frames delimitation as a constitutional requirement to implement 33% reservation for women in Lok Sabha and state Assemblies.
+
+It says, “The implementation of reservation&nbsp; of seats for women is linked to the constitutional scheme of readjustment in the allocation of seats in the House of the People and the Legislative Assemblies and re-drawing boundaries of territorial constituencies by the Delimitation Commission.” The Delimitation Commission, as defined in the Election Commission of India website, is a high power body whose orders have the force of law and cannot be called in question before any court.&nbsp;&nbsp; The Constitution Amendment Bill is to be tabled in the Lok Sabha on Monday, November 30, in a special sitting announced by the Union government on November 26..The BJP’s previous attempt to pass the delimitation Bill was defeated in the Lok Sabha in April.&nbsp; For a Constitution Amendment Bill to be passed, it requires a two-thirds majority among the members present and voting.
+
+The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026, was defeated with 211 out of 489 members who were present voting against it.&nbsp; This was during a special session convened while election campaigns were underway in several states. With the political atmosphere having changed since the election results were declared, the BJP hopes to get the required two-thirds majority of those present and voting.&nbsp; Back then, the Bill did not include a written provision to increase the seats for each state uniformly and not on the basis of population, but simply proposed increasing the total strength of the Lok Sabha to 850.
+
+Though Union Home Minister Amit Shah had given an oral assurance in this regard, MPs from multiple states objected, seeking the provision in writing.&nbsp; When asked for the reason behind expanding the Lok Sabha to 850 seats, Amit Shah had said that the idea was to expand the previous Lok Sabha by 50% so that when one-third of the seats set aside for women were accounted for, the remaining two-thirds strength would be similar to the original strength which are occupied predominantly by men.&nbsp; The DMK and NCP are likely to support the bill as 50% increase and a 25 year freeze are among their primary demands.
+
+With political defections of Members of Parliament from TMC, AAP and Shiv Sena (UBT), the NDA’s numbers have been bolstered..Follow TNM&#39;s WhatsApp channel for news updates and story links.
+
+---
+
+**Original Source:** [The News Minute](https://www.thenewsminute.com/news/draft-delimitation-bill-released-50-increase-in-seats-850-seat-lok-sabha-freeze-till-2051)`,
+    title_en: `Draft delimitation Bill released: 50% increase in seats, 850-seat Lok Sabha, freeze till 2051 - The News Minute`,
+    summary_en: `The Union government has released the draft Constitution (One Hundred and Thirty-Second&nbsp; Amendment) Bill, 2026, which proposes the delimitation of constituencies based on the latest Census. All states shall see a 50% increase in the nu`,
+    content_en: `The Union government has released the draft Constitution (One Hundred and Thirty-Second&nbsp; Amendment) Bill, 2026, which proposes the delimitation of constituencies based on the latest Census. All states shall see a 50% increase in the number of Lok Sabha and Legislative Assembly seats.&nbsp; According to the draft Bill, delimitation of Lok Sabha and Legislative Assembly constituencies’ boundaries will be done as per the latest Census figures, and will be frozen again until 2051.&nbsp; The Bill expands the maximum strength of the Lok Sabha from 550 to 850.
+
+Under Article 81 of the Constitution, the upper limit for total members representing constituencies from the states will be raised from 530 to 815. For union territories, the number will go up from 20 to 35.&nbsp;&nbsp; The composition of each state Assembly, previously capped at 500, has been proposed to go up to 650 MLAs.&nbsp; The Bill text frames delimitation as a constitutional requirement to implement 33% reservation for women in Lok Sabha and state Assemblies.
+
+It says, “The implementation of reservation&nbsp; of seats for women is linked to the constitutional scheme of readjustment in the allocation of seats in the House of the People and the Legislative Assemblies and re-drawing boundaries of territorial constituencies by the Delimitation Commission.” The Delimitation Commission, as defined in the Election Commission of India website, is a high power body whose orders have the force of law and cannot be called in question before any court.&nbsp;&nbsp; The Constitution Amendment Bill is to be tabled in the Lok Sabha on Monday, November 30, in a special sitting announced by the Union government on November 26..The BJP’s previous attempt to pass the delimitation Bill was defeated in the Lok Sabha in April.&nbsp; For a Constitution Amendment Bill to be passed, it requires a two-thirds majority among the members present and voting.
+
+The Constitution (One Hundred and Thirty-First Amendment) Bill, 2026, was defeated with 211 out of 489 members who were present voting against it.&nbsp; This was during a special session convened while election campaigns were underway in several states. With the political atmosphere having changed since the election results were declared, the BJP hopes to get the required two-thirds majority of those present and voting.&nbsp; Back then, the Bill did not include a written provision to increase the seats for each state uniformly and not on the basis of population, but simply proposed increasing the total strength of the Lok Sabha to 850.
+
+Though Union Home Minister Amit Shah had given an oral assurance in this regard, MPs from multiple states objected, seeking the provision in writing.&nbsp; When asked for the reason behind expanding the Lok Sabha to 850 seats, Amit Shah had said that the idea was to expand the previous Lok Sabha by 50% so that when one-third of the seats set aside for women were accounted for, the remaining two-thirds strength would be similar to the original strength which are occupied predominantly by men.&nbsp; The DMK and NCP are likely to support the bill as 50% increase and a 25 year freeze are among their primary demands.
+
+With political defections of Members of Parliament from TMC, AAP and Shiv Sena (UBT), the NDA’s numbers have been bolstered..Follow TNM&#39;s WhatsApp channel for news updates and story links.
+
+---
+
+**Original Source:** [The News Minute](https://www.thenewsminute.com/news/draft-delimitation-bill-released-50-increase-in-seats-850-seat-lok-sabha-freeze-till-2051)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The News Minute.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Draft delimitation Bill released: 50% increase in seats, 850-seat Lok Sabha, freeze till 2051 - The News Minute.`,
+    primary_source: `The News Minute`,
+  },
+  {
+    id: 153,
+    title: `अनंत सिंह की बेटी की शादी में उमड़ी भीड़ क्या बताती है?`,
+    slug: `politics-breaking-report-49178-153-2026`,
+    original_title: `अनंत सिंह की बेटी की शादी में उमड़ी भीड़ क्या बताती है?`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:03Z`,
+    updated_at: `2026-11-28T06:14:03Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cmy49dwl137yo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/politics-breaking-report-49178-153-2026.jpg`,
+    image_alt: `अनंत सिंह की बेटी की शादी में उमड़ी भीड़ क्या बताती है?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `खेत, सड़क, ओवरब्रिज, नेशनल हाईवे...जिधर देखिए उधर लोगों की भीड़.`,
+    content: `खेत, सड़क, ओवरब्रिज, नेशनल हाईवे...जिधर देखिए उधर लोगों की भीड़.
+
+महंगी गाड़ियों की कतारें, खेत में शादी में पहने जाने वाले फॉर्मल कोट पैंट को अपने साथ लेकर चलते लोग, बारीश के चलते खेत में दलदली हुई जमीन पर गिरते पड़ते लोग, चना, मसूर, धान, सरसों की फसल को शादी अटेंड करने की जल्दबाजी में रौंदते लोग.
+
+इस भीड़ में अपने धान के गट्ठर को बचाने में लगा तकरीबन 12 साल का बच्चा भी दिखता है.
+
+उस बच्चे से लोग बार बार हट जाने के लिए कह रहे हैं लेकिन वो अपने धान के गट्ठर के सामने सुरक्षा दीवार बन कर खड़ा है. वो कहता है, "हम हटेंगे तो मेरे धान को नुकसान होगा."
+
+कुछ नौजवान लड़के इस भीड़ में बार बार एक साथ चिल्ला रहे हैं, तो कुछ नौजवान अपने माता – पिता के शादी में नहीं जाने की हिदायत को याद कर रहे हैं.
+
+बीच-बीच में अनंत दा (अनंत सिंह) ज़िंदाबाद के नारे भी लग रहे हैं.
+
+इस भीड़ में महिलाएं ना के बराबर दिखती हैं. ये बीती 25 नवंबर को अनंत सिंह की बेटी शिवांगी सिंह की शादी की ओर जाने वाली भीड़ है.
+
+मोकामा बख़्तियारपुर एनएच 31 से बाएं तरफ़ जाने वाला स्टेट हाईवे 431 अनंत सिंह के पैतृक गांव नदवां जाने का रास्ता है.
+
+इस रास्ते पर लाइट की कोई व्यवस्था नहीं है. लोग गाड़ियों की रोशनी में ही आगे बढ़ रहे हैं.
+
+25 नवंबर को इस सड़क पर कई किलोमीटर लंबा जाम दोपहर से ही लग गया था.
+
+इस जाम में विधायक से लेकर बिहार विधानसभा अध्यक्ष प्रेम कुमार तक फंसे रहे.
+
+बिहार के मोकामा विधायक अनंत सिंह की बेटी शिवांगी सिंह की शादी तक़रीबन एक महीने के दौरान 'टॉकिंग प्वाइंट' बनी हुई थी.
+
+घुड़दौड़ प्रतियोगिता, उसमें मिलने वाली थार, चार लाख मेहमान से लेकर पाकिस्तान तक न्योता भेजने की बात.
+
+हाल के दशकों में शायद ही किसी शादी की इतनी ज्यादा चर्चा हुई हो. जैसा कि मुजफ़्फ़रपुर से बाइक चलाकर आए अंकित बीबीसी से कहते हैं, " अंबानी से ज्यादा दादा (अनंत सिंह) के यहां की शादी चर्चा में है." अंकित जैसे कई नौजवान बाइक, साइकिल, स्केट्स, पैदल और ट्रेन से लंबी – लंबी यात्रा करके इस शादी को देखने पहुंचे थे.''
+
+इनमें से कई ख़ुद को खुशकिस्मत मानते है क्योंकि उनकी मुलाक़ात अनंत सिंह से हो गई. राजू गुप्ता उनमें से एक हैं जो 150 किलोमीटर साइकिल चलाकर नदवां पहुंचे थे.
+
+वो कहते हैं, " दादा ने मुझसे कहा कि ट्रेन बंद हो गई थी जो तुम्हें साइकिल से आना पड़ा."
+
+लखीसराय से आए रूपेश कुमार तो मांग करते है कि अनंत सिंह का नाम गिनीज बुक में दर्ज होना चाहिए.
+
+वो कहते हैं, " हम सब दादा की मोहब्बत में यहां आए है इसलिए उनका नाम गिनीज बुक में डालना चाहिए."
+
+अनंत सिंह के यहां शादी में आई भीड़ सिर्फ़ बिहार के रोहतास, खगड़िया, भागलपुर, कैमूर, समस्तीपुर, जमुई, सीतामढ़ी तक ही सीमित नहीं थी बल्कि बीबीसी को कई ऐसे लोग मिले जो दूसरे प्रदेशों से अनंत सिंह के यहां हुई शादी के गवाह बनने आए थे.
+
+बनारस से आए कबीरपंथी जानकी दास उनमें से एक हैं.
+
+वो कहते हैं, " अनंत सिंह को नहीं जानते. लेकिन उनके बारे में अख़बार और सोशल मीडिया पर देखा तो चले आए शादी देखने."
+
+अनंत सिंह के यहां शादी में कितने लोग आए, इसका कोई पुख़्ता अनुमान लगाना मुश्किल है. लेकिन शादी में उमड़े लोग लाखों की संख्या में थे.
+
+साल 2005 से अनंत सिंह मोकामा सीट से लगातार विधायक हैं. कभी 30 हजार तो कभी 25 हजार के अंतर से जीतने वाले अनंत सिंह के यहां इतने लोग कैसे आ गए?  इस सवाल के कई जवाब है.
+
+सोशल मीडिया के जरिए शादी का बना हाइप, मीडिया की कवरेज, अपने वन लाइनर के लिए मशहुर अनंत सिंह, उन पर बनने वाले मीम, शादी में आने का 'यूनिवर्सल' (भारत से लेकर पाकिस्तान तक) न्योता और अनंत सिंह को लेकर एकतरफ़ा मोहब्बत.
+
+शादी में आने वाले मेहमानों की संख्या पर अनंत सिंह कहते रहे कि 4 लाख से स्टार्टिंग है और ये शादी कोई सिनेमा नहीं है जहां टिकट लगेगा.
+
+उन्होंने कहा, "शादी में जो चाहे आ सकता है. आप भी आइए और अपने दोस्त के दोस्त को भी लाइए."
+
+शादी में अगर बारात से आए और अनंत सिंह के अपने मेहमानों को छोड़ दें तो आम लोगों के लिए  बिहारी शादियों में मिलने वाला आम खाना ही बना था.
+
+शादी का खाना बनवाने वाले संजय कुमार ने बीबीसी को बताया था, " पूरी-कचौड़ी, चावल, दाल, सब्जी और चार तरह की मिठाई लाखों लोगों के लिए तैयार हो रही है. कुल आठ टेंट लगाए गए हैं जहां आम लोगों को खाना मिलेगा."
+
+लेकिन शादी के वायरल हो रहे वीडियो में लोगों की तरफ फेंकी जा रही पत्तलें, खाने के लिए घमासान, गत्ते में खाना लेकर खाते लोग से लेकर खाना नहीं मिलने की शिकायत करते लोग है.
+
+जैसा कि भागलपुर से आए सुरेश कुमार कहते हैं, " हमने सुना था कि 150 तरह के व्यंजन बन रहे हैं. भागलपुर से आए थे लेकिन यहां खाने तक को नहीं मिला."
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cmy49dwl137yo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अनंत सिंह की बेटी की शादी में उमड़ी भीड़ क्या बताती है?`,
+    summary_hi: `खेत, सड़क, ओवरब्रिज, नेशनल हाईवे...जिधर देखिए उधर लोगों की भीड़.`,
+    content_hi: `खेत, सड़क, ओवरब्रिज, नेशनल हाईवे...जिधर देखिए उधर लोगों की भीड़.
+
+महंगी गाड़ियों की कतारें, खेत में शादी में पहने जाने वाले फॉर्मल कोट पैंट को अपने साथ लेकर चलते लोग, बारीश के चलते खेत में दलदली हुई जमीन पर गिरते पड़ते लोग, चना, मसूर, धान, सरसों की फसल को शादी अटेंड करने की जल्दबाजी में रौंदते लोग.
+
+इस भीड़ में अपने धान के गट्ठर को बचाने में लगा तकरीबन 12 साल का बच्चा भी दिखता है.
+
+उस बच्चे से लोग बार बार हट जाने के लिए कह रहे हैं लेकिन वो अपने धान के गट्ठर के सामने सुरक्षा दीवार बन कर खड़ा है. वो कहता है, "हम हटेंगे तो मेरे धान को नुकसान होगा."
+
+कुछ नौजवान लड़के इस भीड़ में बार बार एक साथ चिल्ला रहे हैं, तो कुछ नौजवान अपने माता – पिता के शादी में नहीं जाने की हिदायत को याद कर रहे हैं.
+
+बीच-बीच में अनंत दा (अनंत सिंह) ज़िंदाबाद के नारे भी लग रहे हैं.
+
+इस भीड़ में महिलाएं ना के बराबर दिखती हैं. ये बीती 25 नवंबर को अनंत सिंह की बेटी शिवांगी सिंह की शादी की ओर जाने वाली भीड़ है.
+
+मोकामा बख़्तियारपुर एनएच 31 से बाएं तरफ़ जाने वाला स्टेट हाईवे 431 अनंत सिंह के पैतृक गांव नदवां जाने का रास्ता है.
+
+इस रास्ते पर लाइट की कोई व्यवस्था नहीं है. लोग गाड़ियों की रोशनी में ही आगे बढ़ रहे हैं.
+
+25 नवंबर को इस सड़क पर कई किलोमीटर लंबा जाम दोपहर से ही लग गया था.
+
+इस जाम में विधायक से लेकर बिहार विधानसभा अध्यक्ष प्रेम कुमार तक फंसे रहे.
+
+बिहार के मोकामा विधायक अनंत सिंह की बेटी शिवांगी सिंह की शादी तक़रीबन एक महीने के दौरान 'टॉकिंग प्वाइंट' बनी हुई थी.
+
+घुड़दौड़ प्रतियोगिता, उसमें मिलने वाली थार, चार लाख मेहमान से लेकर पाकिस्तान तक न्योता भेजने की बात.
+
+हाल के दशकों में शायद ही किसी शादी की इतनी ज्यादा चर्चा हुई हो. जैसा कि मुजफ़्फ़रपुर से बाइक चलाकर आए अंकित बीबीसी से कहते हैं, " अंबानी से ज्यादा दादा (अनंत सिंह) के यहां की शादी चर्चा में है." अंकित जैसे कई नौजवान बाइक, साइकिल, स्केट्स, पैदल और ट्रेन से लंबी – लंबी यात्रा करके इस शादी को देखने पहुंचे थे.''
+
+इनमें से कई ख़ुद को खुशकिस्मत मानते है क्योंकि उनकी मुलाक़ात अनंत सिंह से हो गई. राजू गुप्ता उनमें से एक हैं जो 150 किलोमीटर साइकिल चलाकर नदवां पहुंचे थे.
+
+वो कहते हैं, " दादा ने मुझसे कहा कि ट्रेन बंद हो गई थी जो तुम्हें साइकिल से आना पड़ा."
+
+लखीसराय से आए रूपेश कुमार तो मांग करते है कि अनंत सिंह का नाम गिनीज बुक में दर्ज होना चाहिए.
+
+वो कहते हैं, " हम सब दादा की मोहब्बत में यहां आए है इसलिए उनका नाम गिनीज बुक में डालना चाहिए."
+
+अनंत सिंह के यहां शादी में आई भीड़ सिर्फ़ बिहार के रोहतास, खगड़िया, भागलपुर, कैमूर, समस्तीपुर, जमुई, सीतामढ़ी तक ही सीमित नहीं थी बल्कि बीबीसी को कई ऐसे लोग मिले जो दूसरे प्रदेशों से अनंत सिंह के यहां हुई शादी के गवाह बनने आए थे.
+
+बनारस से आए कबीरपंथी जानकी दास उनमें से एक हैं.
+
+वो कहते हैं, " अनंत सिंह को नहीं जानते. लेकिन उनके बारे में अख़बार और सोशल मीडिया पर देखा तो चले आए शादी देखने."
+
+अनंत सिंह के यहां शादी में कितने लोग आए, इसका कोई पुख़्ता अनुमान लगाना मुश्किल है. लेकिन शादी में उमड़े लोग लाखों की संख्या में थे.
+
+साल 2005 से अनंत सिंह मोकामा सीट से लगातार विधायक हैं. कभी 30 हजार तो कभी 25 हजार के अंतर से जीतने वाले अनंत सिंह के यहां इतने लोग कैसे आ गए?  इस सवाल के कई जवाब है.
+
+सोशल मीडिया के जरिए शादी का बना हाइप, मीडिया की कवरेज, अपने वन लाइनर के लिए मशहुर अनंत सिंह, उन पर बनने वाले मीम, शादी में आने का 'यूनिवर्सल' (भारत से लेकर पाकिस्तान तक) न्योता और अनंत सिंह को लेकर एकतरफ़ा मोहब्बत.
+
+शादी में आने वाले मेहमानों की संख्या पर अनंत सिंह कहते रहे कि 4 लाख से स्टार्टिंग है और ये शादी कोई सिनेमा नहीं है जहां टिकट लगेगा.
+
+उन्होंने कहा, "शादी में जो चाहे आ सकता है. आप भी आइए और अपने दोस्त के दोस्त को भी लाइए."
+
+शादी में अगर बारात से आए और अनंत सिंह के अपने मेहमानों को छोड़ दें तो आम लोगों के लिए  बिहारी शादियों में मिलने वाला आम खाना ही बना था.
+
+शादी का खाना बनवाने वाले संजय कुमार ने बीबीसी को बताया था, " पूरी-कचौड़ी, चावल, दाल, सब्जी और चार तरह की मिठाई लाखों लोगों के लिए तैयार हो रही है. कुल आठ टेंट लगाए गए हैं जहां आम लोगों को खाना मिलेगा."
+
+लेकिन शादी के वायरल हो रहे वीडियो में लोगों की तरफ फेंकी जा रही पत्तलें, खाने के लिए घमासान, गत्ते में खाना लेकर खाते लोग से लेकर खाना नहीं मिलने की शिकायत करते लोग है.
+
+जैसा कि भागलपुर से आए सुरेश कुमार कहते हैं, " हमने सुना था कि 150 तरह के व्यंजन बन रहे हैं. भागलपुर से आए थे लेकिन यहां खाने तक को नहीं मिला."
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cmy49dwl137yo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक अनंत सिंह की बेटी की शादी में उमड़ी भीड़ क्या बताती है? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 154,
+    title: `Adani seeks government nod to invest in airlines, eyes bigger role in India's aviation market - The Economic Times`,
+    slug: `adani-seeks-government-nod-to-invest-in-airlines-eyes-bigger-role-in-i-2026`,
+    original_title: `Adani seeks government nod to invest in airlines, eyes bigger role in India's aviation market - The Economic Times`,
+    category: `markets`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:07Z`,
+    updated_at: `2026-11-28T06:14:07Z`,
+    source_name: `The Economic Times`,
+    source_url: `https://m.economictimes.com/industry/transportation/airlines-/-aviation/adani-seeks-government-nod-to-invest-in-airlines-eyes-bigger-role-in-indias-aviation-market/articleshow/136225277.cms`,
+    source_courtesy: `Source: The Economic Times`,
+    image_url: `/images/articles/adani-seeks-government-nod-to-invest-in-airlines-eyes-bigger-role-in-i-2026.jpg`,
+    image_alt: `Adani seeks government nod to invest in airlines, eyes bigger role in India's aviation market - The Economic Times`,
+    image_courtesy: `Image: The Economic Times (External Source Attribution)`,
+    image_photographer: `The Economic Times`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Markets, News, India`,
+    summary: `Adani Group has approached the government seeking permission to invest in the airline sector, signalling a possible expansion of its aviation interests beyond airport operations as it sees scope for a significant increase in India's air tra`,
+    content: `Adani Group has approached the government seeking permission to invest in the airline sector, signalling a possible expansion of its aviation interests beyond airport operations as it sees scope for a significant increase in India's air traffic capacity.Group chief financial officer Jugeshinder Robbie Singh said on Friday that India needs nearly 10 times its current daily flight capacity, to around 30,000 flights, to cater to the potential passenger base.
+
+And that's why we requested the government to at least allow us to invest, so that we can facilitate the development of airlines. Some fund, some other airline company and things like that...or an entrepreneur who wants to go into that space,  Singh told reporters on the sidelines of the India Debt Capital Market Summit.Adani sees room for more airlinesSingh said more than 60 crore people in India have the potential to fly, pointing to the need for greater airline capacity to accommodate the country's untapped aviation demand.The group's request comes amid calls for greater competition in India's airline industry, which has effectively become a duopoly dominated by Tata Group-owned Air India and Rahul Bhatia-led IndiGo.
+
+The two carriers together control around 90% of the domestic aviation market.Operational disruptions at IndiGo last year, which triggered thousands of flight cancellations, also fuelled demands for more airlines and greater competition in the sector.Earlier denials of airline ambitionsThe latest comments come despite the group's earlier indications that it was not looking to enter the airline business directly.In July this year, the Adani Group had said it was  not evaluating any proposal to enter the airlines business .
+
+On November 3, Adani Airport Holdings chief executive Arun Bansal had also ruled out an airline venture, arguing that competing with customers was never a good strategy.The group operates eight airports across India, including Mumbai, Navi Mumbai, Ahmedabad, Lucknow and Guwahati.
+
+Its airport network handles more than a fourth of the country's air passenger traffic, giving it a substantial presence in India's aviation infrastructure.Singh's remarks, however, suggest the group is seeking a broader role in the airline ecosystem, potentially by enabling investments in existing carriers, funds or entrepreneurs looking to enter the sector.
+
+---
+
+**Original Source:** [The Economic Times](https://m.economictimes.com/industry/transportation/airlines-/-aviation/adani-seeks-government-nod-to-invest-in-airlines-eyes-bigger-role-in-indias-aviation-market/articleshow/136225277.cms)`,
+    title_en: `Adani seeks government nod to invest in airlines, eyes bigger role in India's aviation market - The Economic Times`,
+    summary_en: `Adani Group has approached the government seeking permission to invest in the airline sector, signalling a possible expansion of its aviation interests beyond airport operations as it sees scope for a significant increase in India's air tra`,
+    content_en: `Adani Group has approached the government seeking permission to invest in the airline sector, signalling a possible expansion of its aviation interests beyond airport operations as it sees scope for a significant increase in India's air traffic capacity.Group chief financial officer Jugeshinder Robbie Singh said on Friday that India needs nearly 10 times its current daily flight capacity, to around 30,000 flights, to cater to the potential passenger base.
+
+And that's why we requested the government to at least allow us to invest, so that we can facilitate the development of airlines. Some fund, some other airline company and things like that...or an entrepreneur who wants to go into that space,  Singh told reporters on the sidelines of the India Debt Capital Market Summit.Adani sees room for more airlinesSingh said more than 60 crore people in India have the potential to fly, pointing to the need for greater airline capacity to accommodate the country's untapped aviation demand.The group's request comes amid calls for greater competition in India's airline industry, which has effectively become a duopoly dominated by Tata Group-owned Air India and Rahul Bhatia-led IndiGo.
+
+The two carriers together control around 90% of the domestic aviation market.Operational disruptions at IndiGo last year, which triggered thousands of flight cancellations, also fuelled demands for more airlines and greater competition in the sector.Earlier denials of airline ambitionsThe latest comments come despite the group's earlier indications that it was not looking to enter the airline business directly.In July this year, the Adani Group had said it was  not evaluating any proposal to enter the airlines business .
+
+On November 3, Adani Airport Holdings chief executive Arun Bansal had also ruled out an airline venture, arguing that competing with customers was never a good strategy.The group operates eight airports across India, including Mumbai, Navi Mumbai, Ahmedabad, Lucknow and Guwahati.
+
+Its airport network handles more than a fourth of the country's air passenger traffic, giving it a substantial presence in India's aviation infrastructure.Singh's remarks, however, suggest the group is seeking a broader role in the airline ecosystem, potentially by enabling investments in existing carriers, funds or entrepreneurs looking to enter the sector.
+
+---
+
+**Original Source:** [The Economic Times](https://m.economictimes.com/industry/transportation/airlines-/-aviation/adani-seeks-government-nod-to-invest-in-airlines-eyes-bigger-role-in-indias-aviation-market/articleshow/136225277.cms)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Economic Times.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Adani seeks government nod to invest in airlines, eyes bigger role in India's aviation market - The Economic Times.`,
+    primary_source: `The Economic Times`,
+  },
+  {
+    id: 155,
+    title: `गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार`,
+    slug: `markets-breaking-report-73070-155-2026`,
+    original_title: `गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार`,
+    category: `markets`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:10Z`,
+    updated_at: `2026-11-28T06:14:10Z`,
+    source_name: `DD News`,
+    source_url: `https://ddnews.gov.in/gold-and-silver-regain-their-shine-after-a-decline-silver-crosses-rs-1-54-lakh-mark/`,
+    source_courtesy: `Source: DD News`,
+    image_url: `https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Markets, News, India`,
+    summary: `27/11/26 | 1:21 pm							| bullion market | Commodity Market | Federal Reserve | Gold price | Gold Recovery | Short Covering | silver price | Silver Rally`,
+    content: `27/11/26 | 1:21 pm							| bullion market | Commodity Market | Federal Reserve | Gold price | Gold Recovery | Short Covering | silver price | Silver Rally
+
+### गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार
+
+पिछले कई कारोबारी सत्रों से जारी भारी गिरावट के बाद हफ्ते के आखिरी कारोबारी दिन शुक्रवार को सोने-चांदी की कीमतों में जोरदार रिकवरी देखने को मिली। निचले स्तरों पर खरीदारी और शॉर्ट कवरिंग के चलते दोनों कीमती धातुओं के दाम तेजी से उछले। हालांकि अमेरिकी अर्थव्यवस्था के मजबूत आंकड़े और फेडरल रिजर्व के सख्त रुख के कारण ब्याज दरों में संभावित बढ़ोतरी की आशंका अभी भी बनी हुई है, जिससे आगे की तेजी सीमित रह सकती है।
+
+एमसीएक्स पर दिसंबर डिलीवरी वाला सोना 2,028 रुपए की बढ़त के साथ 1,24,300 रुपए प्रति 10 ग्राम पर खुला। कारोबार के दौरान यह 3,100 रुपए या 2.6 प्रतिशत की तेजी के साथ 1,25,400 रुपए प्रति 10 ग्राम के आसपास कारोबार करता दिखाई दिया। हालांकि दिन के कारोबार में इसने 1,25,410 रुपए का हाई बनाया। इससे पहले पिछले सत्र में सोना 1,22,272 रुपए प्रति 10 ग्राम पर बंद हुआ था।
+
+हालिया गिरावट में सोना अपने रिकॉर्ड उच्च स्तर से काफी नीचे फिसल गया था, जिसके बाद निवेशकों ने निचले स्तरों पर खरीदारी शुरू कर दी।
+
+वहीं, चांदी में सोने की तुलना में अधिक मजबूती देखने को मिली। एमसीएक्स पर दिसंबर डिलीवरी वाली चांदी अपने पिछले बंद भाव 1,45,843 रुपए से 5,833 रुपए की छलांग के साथ 1,51,676 रुपए प्रति किलोग्राम पर खुली और बाद में यह 5.70 प्रतिशत यानी 8,300 रुपए की उछाल के साथ 1,54,150 रुपए प्रति किलोग्राम के आसपास कारोबार करती दिखी। वहीं, दिन के कारोबार में इसने 1,54,251 रुपए का हाई टच किया।
+
+हालिया बिकवाली में चांदी सोने से अधिक गिरी थी, इसलिए रिकवरी भी अधिक तेज रही।
+
+अंतरराष्ट्रीय बाजार में भी तेजी का माहौल रहा। कॉमेक्स पर सोना लगभग 3,659 डॉलर प्रति औंस और चांदी 44.10 डॉलर प्रति औंस के करीब कारोबार करती नजर आई। डॉलर में नरमी और तकनीकी शेयरों में सुधार से निवेशकों की जोखिम लेने की क्षमता बढ़ी, जिसका फायदा बुलियन बाजार को मिला।
+
+कीमती धातुओं में हालिया तेज गिरावट के बाद जिस तकनीकी रिकवरी की उम्मीद थी, वह अब दिखाई देने लगी है। दिसंबर में अमेरिकी फेडरल रिजर्व द्वारा ब्याज दरें बढ़ाने की संभावना बनी हुई है, जो आगे की तेजी पर दबाव डाल सकती है।
+
+इस बीच कच्चे तेल में भी तेजी देखने को मिली। मध्य पूर्व में आपूर्ति संबंधी चिंताओं के कारण ब्रेंट क्रूड और डब्ल्यूटीआई क्रूड दोनों ऊंचाई पर कारोबार कर रहे हैं। (इनपुट-आईएएनएस)
+
+### IFFI 2026 में फिल्मकारों ने ‘द केरल स्टोरी 2: गोज़ बियॉन्ड’ और ‘डेमोग्राफी इज़ डेस्टिनी’ के निर्माण से जुड़े अनुभव साझा किए
+
+38 mins ago | National Capital Region
+
+### दिल्ली-एनसीआर में ठंड की दस्तक, अधिकतम तापमान में भी गिरावट के आसार
+
+### IFFI 2026: फिल्म निर्माता कार्तिक सुब्बाराज अपनी फिल्म ‘डोरोथी’ पर की चर्चा, ‘अच्छे’ और ‘बुरे’ के बीच के पारंपरिक अंतर को चुनौती देती हैं उनकी फ़िल्में
+
+गोवा में आयोजित 57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (इफ्फी) में, जाने-माने फिल्म निर्माता ...
+
+---
+
+**मूल स्रोत (Original Source):** [DD News](https://ddnews.gov.in/gold-and-silver-regain-their-shine-after-a-decline-silver-crosses-rs-1-54-lakh-mark/)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार`,
+    summary_hi: `27/11/26 | 1:21 pm							| bullion market | Commodity Market | Federal Reserve | Gold price | Gold Recovery | Short Covering | silver price | Silver Rally`,
+    content_hi: `27/11/26 | 1:21 pm							| bullion market | Commodity Market | Federal Reserve | Gold price | Gold Recovery | Short Covering | silver price | Silver Rally
+
+### गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार
+
+पिछले कई कारोबारी सत्रों से जारी भारी गिरावट के बाद हफ्ते के आखिरी कारोबारी दिन शुक्रवार को सोने-चांदी की कीमतों में जोरदार रिकवरी देखने को मिली। निचले स्तरों पर खरीदारी और शॉर्ट कवरिंग के चलते दोनों कीमती धातुओं के दाम तेजी से उछले। हालांकि अमेरिकी अर्थव्यवस्था के मजबूत आंकड़े और फेडरल रिजर्व के सख्त रुख के कारण ब्याज दरों में संभावित बढ़ोतरी की आशंका अभी भी बनी हुई है, जिससे आगे की तेजी सीमित रह सकती है।
+
+एमसीएक्स पर दिसंबर डिलीवरी वाला सोना 2,028 रुपए की बढ़त के साथ 1,24,300 रुपए प्रति 10 ग्राम पर खुला। कारोबार के दौरान यह 3,100 रुपए या 2.6 प्रतिशत की तेजी के साथ 1,25,400 रुपए प्रति 10 ग्राम के आसपास कारोबार करता दिखाई दिया। हालांकि दिन के कारोबार में इसने 1,25,410 रुपए का हाई बनाया। इससे पहले पिछले सत्र में सोना 1,22,272 रुपए प्रति 10 ग्राम पर बंद हुआ था।
+
+हालिया गिरावट में सोना अपने रिकॉर्ड उच्च स्तर से काफी नीचे फिसल गया था, जिसके बाद निवेशकों ने निचले स्तरों पर खरीदारी शुरू कर दी।
+
+वहीं, चांदी में सोने की तुलना में अधिक मजबूती देखने को मिली। एमसीएक्स पर दिसंबर डिलीवरी वाली चांदी अपने पिछले बंद भाव 1,45,843 रुपए से 5,833 रुपए की छलांग के साथ 1,51,676 रुपए प्रति किलोग्राम पर खुली और बाद में यह 5.70 प्रतिशत यानी 8,300 रुपए की उछाल के साथ 1,54,150 रुपए प्रति किलोग्राम के आसपास कारोबार करती दिखी। वहीं, दिन के कारोबार में इसने 1,54,251 रुपए का हाई टच किया।
+
+हालिया बिकवाली में चांदी सोने से अधिक गिरी थी, इसलिए रिकवरी भी अधिक तेज रही।
+
+अंतरराष्ट्रीय बाजार में भी तेजी का माहौल रहा। कॉमेक्स पर सोना लगभग 3,659 डॉलर प्रति औंस और चांदी 44.10 डॉलर प्रति औंस के करीब कारोबार करती नजर आई। डॉलर में नरमी और तकनीकी शेयरों में सुधार से निवेशकों की जोखिम लेने की क्षमता बढ़ी, जिसका फायदा बुलियन बाजार को मिला।
+
+कीमती धातुओं में हालिया तेज गिरावट के बाद जिस तकनीकी रिकवरी की उम्मीद थी, वह अब दिखाई देने लगी है। दिसंबर में अमेरिकी फेडरल रिजर्व द्वारा ब्याज दरें बढ़ाने की संभावना बनी हुई है, जो आगे की तेजी पर दबाव डाल सकती है।
+
+इस बीच कच्चे तेल में भी तेजी देखने को मिली। मध्य पूर्व में आपूर्ति संबंधी चिंताओं के कारण ब्रेंट क्रूड और डब्ल्यूटीआई क्रूड दोनों ऊंचाई पर कारोबार कर रहे हैं। (इनपुट-आईएएनएस)
+
+### IFFI 2026 में फिल्मकारों ने ‘द केरल स्टोरी 2: गोज़ बियॉन्ड’ और ‘डेमोग्राफी इज़ डेस्टिनी’ के निर्माण से जुड़े अनुभव साझा किए
+
+38 mins ago | National Capital Region
+
+### दिल्ली-एनसीआर में ठंड की दस्तक, अधिकतम तापमान में भी गिरावट के आसार
+
+### IFFI 2026: फिल्म निर्माता कार्तिक सुब्बाराज अपनी फिल्म ‘डोरोथी’ पर की चर्चा, ‘अच्छे’ और ‘बुरे’ के बीच के पारंपरिक अंतर को चुनौती देती हैं उनकी फ़िल्में
+
+गोवा में आयोजित 57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (इफ्फी) में, जाने-माने फिल्म निर्माता ...
+
+---
+
+**मूल स्रोत (Original Source):** [DD News](https://ddnews.gov.in/gold-and-silver-regain-their-shine-after-a-decline-silver-crosses-rs-1-54-lakh-mark/)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Markets श्रेणी से जुड़ी यह रिपोर्ट DD News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `DD News`,
+  },
+  {
+    id: 156,
+    title: `Reliance Digitals Black Friday Sale: Enjoy Up to 50% Off on Smartphones, Laptops, TVs, Home Appliances and More - TheWire.in`,
+    slug: `reliance-digitals-black-friday-sale-enjoy-up-to-50-off-on-smartphones-2026`,
+    original_title: `Reliance Digitals Black Friday Sale: Enjoy Up to 50% Off on Smartphones, Laptops, TVs, Home Appliances and More - TheWire.in`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:13Z`,
+    updated_at: `2026-11-28T06:14:13Z`,
+    source_name: `TheWire.in`,
+    source_url: `https://m.thewire.in/article/ptiprnews/reliance-digitals-black-friday-sale-enjoy-up-to-50-off-on-smartphones-laptops-tvs-home-appliances-and-more`,
+    source_courtesy: `Source: TheWire.in`,
+    image_url: `https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Reliance Digitals Black Friday Sale: Enjoy Up to 50% Off on Smartphones, Laptops, TVs, Home Appliances and More - TheWire.in`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Customers can avail the Apple iPhone 17 Pro at an effective price of ₹54,990, AMD R3-powered laptops starting at ₹44,499, 55-inch Mini LED TVs starting at ₹37,990, Voltas 1.5 Ton 3-Star Inverter Split AC at ₹36,990 and LG 10 kg Front-Load W`,
+    content: `Customers can avail the Apple iPhone 17 Pro at an effective price of ₹54,990, AMD R3-powered laptops starting at ₹44,499, 55-inch Mini LED TVs starting at ₹37,990, Voltas 1.5 Ton 3-Star Inverter Split AC at ₹36,990 and LG 10 kg Front-Load Washing Machine at ₹39,990, along with up to 50% off on select electronics, bank discounts of up to ₹20,000 and exchange bonuses of up to ₹20,000 across Reliance Digital stores, reliancedigital.in and My Jio Stores.MUMBAI, India, Nov.
+
+26, 2026 /PRNewswire/ -- Reliance Digital today launched its Black Friday Sale, offering up to 50% off on select products across smartphones, laptops, TVs, home appliances and more. The sale runs from 26th to 30th November 2026 at all Reliance Digital stores, on reliancedigital.in, at My Jio Stores.
+
+Along with the sale prices, customers can get up to ₹20,000 discount on leading bank cards and paper finance, up to ₹20,000 exchange bonus, free delivery and fastest installation.The great deal is on the Apple iPhone 17 Pro (MRP ₹1,34,900), available at an effective price of ₹54,990 after in-store discount, exchange, exchange bonus and cashback.
+
+Laptops powered by AMD R3 are starting at ₹44,499, while the Apple iPad (A16, Wi-Fi, 128GB) is available at ₹43,405, including a ₹4,000 bank offer. Additionally, with iPad get Apple Pencil free with Rs.4990. The Apple Watch SE 3 (44mm) is priced at ₹25,999 and the Marshall Emberton 2 Bluetooth speaker at ₹10,999.For home entertainment, 55-inch Mini LED TV staring from of ₹37,990 with bank and finance offers, and the JBL PartyBox Stage 320 party speaker is priced at ₹44,999.Large appliances see strong savings too.
+
+The Voltas 1.5 ton 3 star inverter split AC is priced at ₹36,990, with an additional ₹2,000 bank offer. The LG 10 kg fully automatic front load washing machine is available at ₹39,990 with up to ₹9,000 cashback, and the Kelvinator 562L side-by-side refrigerator at ₹39,990. Customers who shop for ₹50,000 and above can also pick up the Dyson Big Ball vacuum cleaner, worth ₹32,900, at ₹14,990, or the Dyson Corrale straightener at ₹14,900.About Reliance Digital:Reliance Digital is India&#x27;s largest electronics retailer, present in over 800 cities with more than 700+ large-format Reliance Digital stores and 900+ My Jio stores, serving customers in every corner of the country and making the latest technology accessible to all.
+
+With over 300 international and national brands and more than 5,000 products at the best prices, Reliance Digital offers the largest selection of models to help customers find the right technology for their lifestyle. The trained and well-informed staff at every store are always ready to guide customers through every detail of each product.
+
+Importantly, Reliance Digital provides after-sales service for all its products through Reliance resQ, the service arm of the retailer and India&#x27;s only ISO 9001-certified electronics service brand. Reliance resQ is available all week and is fully equipped to provide end-to-end solutions.(Disclaimer: The above press release comes to you under an arrangement with PRNewswire and PTI takes no editorial responsibility for the same.).
+
+PTI PWR  PWRThis is an auto-published feed from PTI with no editorial input from The Wire.
+
+---
+
+**Original Source:** [TheWire.in](https://m.thewire.in/article/ptiprnews/reliance-digitals-black-friday-sale-enjoy-up-to-50-off-on-smartphones-laptops-tvs-home-appliances-and-more)`,
+    title_en: `Reliance Digitals Black Friday Sale: Enjoy Up to 50% Off on Smartphones, Laptops, TVs, Home Appliances and More - TheWire.in`,
+    summary_en: `Customers can avail the Apple iPhone 17 Pro at an effective price of ₹54,990, AMD R3-powered laptops starting at ₹44,499, 55-inch Mini LED TVs starting at ₹37,990, Voltas 1.5 Ton 3-Star Inverter Split AC at ₹36,990 and LG 10 kg Front-Load W`,
+    content_en: `Customers can avail the Apple iPhone 17 Pro at an effective price of ₹54,990, AMD R3-powered laptops starting at ₹44,499, 55-inch Mini LED TVs starting at ₹37,990, Voltas 1.5 Ton 3-Star Inverter Split AC at ₹36,990 and LG 10 kg Front-Load Washing Machine at ₹39,990, along with up to 50% off on select electronics, bank discounts of up to ₹20,000 and exchange bonuses of up to ₹20,000 across Reliance Digital stores, reliancedigital.in and My Jio Stores.MUMBAI, India, Nov.
+
+26, 2026 /PRNewswire/ -- Reliance Digital today launched its Black Friday Sale, offering up to 50% off on select products across smartphones, laptops, TVs, home appliances and more. The sale runs from 26th to 30th November 2026 at all Reliance Digital stores, on reliancedigital.in, at My Jio Stores.
+
+Along with the sale prices, customers can get up to ₹20,000 discount on leading bank cards and paper finance, up to ₹20,000 exchange bonus, free delivery and fastest installation.The great deal is on the Apple iPhone 17 Pro (MRP ₹1,34,900), available at an effective price of ₹54,990 after in-store discount, exchange, exchange bonus and cashback.
+
+Laptops powered by AMD R3 are starting at ₹44,499, while the Apple iPad (A16, Wi-Fi, 128GB) is available at ₹43,405, including a ₹4,000 bank offer. Additionally, with iPad get Apple Pencil free with Rs.4990. The Apple Watch SE 3 (44mm) is priced at ₹25,999 and the Marshall Emberton 2 Bluetooth speaker at ₹10,999.For home entertainment, 55-inch Mini LED TV staring from of ₹37,990 with bank and finance offers, and the JBL PartyBox Stage 320 party speaker is priced at ₹44,999.Large appliances see strong savings too.
+
+The Voltas 1.5 ton 3 star inverter split AC is priced at ₹36,990, with an additional ₹2,000 bank offer. The LG 10 kg fully automatic front load washing machine is available at ₹39,990 with up to ₹9,000 cashback, and the Kelvinator 562L side-by-side refrigerator at ₹39,990. Customers who shop for ₹50,000 and above can also pick up the Dyson Big Ball vacuum cleaner, worth ₹32,900, at ₹14,990, or the Dyson Corrale straightener at ₹14,900.About Reliance Digital:Reliance Digital is India&#x27;s largest electronics retailer, present in over 800 cities with more than 700+ large-format Reliance Digital stores and 900+ My Jio stores, serving customers in every corner of the country and making the latest technology accessible to all.
+
+With over 300 international and national brands and more than 5,000 products at the best prices, Reliance Digital offers the largest selection of models to help customers find the right technology for their lifestyle. The trained and well-informed staff at every store are always ready to guide customers through every detail of each product.
+
+Importantly, Reliance Digital provides after-sales service for all its products through Reliance resQ, the service arm of the retailer and India&#x27;s only ISO 9001-certified electronics service brand. Reliance resQ is available all week and is fully equipped to provide end-to-end solutions.(Disclaimer: The above press release comes to you under an arrangement with PRNewswire and PTI takes no editorial responsibility for the same.).
+
+PTI PWR  PWRThis is an auto-published feed from PTI with no editorial input from The Wire.
+
+---
+
+**Original Source:** [TheWire.in](https://m.thewire.in/article/ptiprnews/reliance-digitals-black-friday-sale-enjoy-up-to-50-off-on-smartphones-laptops-tvs-home-appliances-and-more)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to TheWire.in.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Reliance Digitals Black Friday Sale: Enjoy Up to 50% Off on Smartphones, Laptops, TVs, Home Appliances and More - TheWire.in.`,
+    primary_source: `TheWire.in`,
+  },
+  {
+    id: 157,
+    title: `JBL Tune Buds 3 Launch : ट्रांसपेरेंट लुक के साथ JBL ने उतारे नए ANC ईयरबड्स, जानें कीमत - ABP News`,
+    slug: `jbl-tune-buds-3-launch-jbl-anc-abp-news-2026`,
+    original_title: `JBL Tune Buds 3 Launch : ट्रांसपेरेंट लुक के साथ JBL ने उतारे नए ANC ईयरबड्स, जानें कीमत - ABP News`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:16Z`,
+    updated_at: `2026-11-28T06:14:16Z`,
+    source_name: `ABP News`,
+    source_url: `https://www.abplive.com/technology/jbl-tune-buds-3-launch-with-transparent-design-anc-support-know-price-and-features-3220167`,
+    source_courtesy: `Source: ABP News`,
+    image_url: `/images/articles/jbl-tune-buds-3-launch-jbl-anc-abp-news-2026.jpg`,
+    image_alt: `JBL Tune Buds 3 Launch : ट्रांसपेरेंट लुक के साथ JBL ने उतारे नए ANC ईयरबड्स, जानें कीमत - ABP News`,
+    image_courtesy: `Image: ABP News (External Source Attribution)`,
+    image_photographer: `ABP News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `JBL Tune Buds 3 Launch :&nbsp; JBL ने अपने फेमस Tune Buds 3 ईयरबड्स का नया ट्रांसपेरेंट वर्जन पेश किया है. इन ईयरबड्स की खास बात यह है कि इनके बाहरी हिस्से और चार्जिंग केस में ट्रांसपेरेंट डिजाइन दिया गया है, जिससे अंदर मौजूद कुछ हार्डवेयर `,
+    content: `JBL Tune Buds 3 Launch :&nbsp; JBL ने अपने फेमस Tune Buds 3 ईयरबड्स का नया ट्रांसपेरेंट वर्जन पेश किया है. इन ईयरबड्स की खास बात यह है कि इनके बाहरी हिस्से और चार्जिंग केस में ट्रांसपेरेंट डिजाइन दिया गया है, जिससे अंदर मौजूद कुछ हार्डवेयर भी दिखाई देता है, हालांकि नए वर्जन में मेन बदलाव डिजाइन को लेकर किया गया है.
+
+इनमें पहले की तरह एक्टिव नॉइज कैंसलेशन (ANC), Personi-Fi 3.0 और Bluetooth 6.0 जैसे फीचर्स मिलते हैं. कंपनी ने फिलहाल इन्हें चीन में बिक्री के लिए लिस्ट किया है और दिसंबर से इनकी बिक्री शुरू होगी. ऐसे में आइए जानते हैं कि इनकी कीमत क्या है.&nbsp;
+तीन कलर ऑप्शन में मिलेगा नया डिजाइन
+इन ईयरबड्स का सबसे बड़ा अट्रैक्शन इनका ट्रांसपेरेंट डिजाइन है.
+
+इनके बाहरी हिस्से में ट्रांसपेरेंट शेल दिया गया है, जिसके अंदर मौजूद कुछ हार्डवेयर दिखाई देते हैं. Jade कलर में ईयरबड्स और चार्जिंग केस दोनों को ट्रांसपेरेंट ग्रीन फिनिश दी गई है. वहीं Moon White वेरिएंट के चार्जिंग केस का ऊपरी हिस्सा ग्लॉसी फिनिश के साथ आता है. इनके अलावा Deep Black कलर का ऑप्शन भी दिया गया है.
+
+इन्हें IP54 रेटिंग भी मिली है, जो धूल और पानी से बचाव में मदद करती है.&nbsp;
+48 घंटे तक मिलेगा कुल प्लेबैक टाइम
+JBL Tune Buds 3 एक बार चार्ज करने पर 12 घंटे तक चल सकते हैं, हालांकि ANC चालू रहने पर इनका प्लेबैक टाइम घटकर 10 घंटे रह जाता है. चार्जिंग केस के साथ इन ईयरबड्स का कुल प्लेबैक टाइम 48 घंटे तक हो जाता है.
+
+कंपनी के अनुसार, सिर्फ 10 मिनट चार्ज करने पर ये 4 घंटे तक यूज किए जा सकते हैं. वहीं इन्हें पूरी तरह चार्ज होने में करीब 2 घंटे का समय लगता है. ANC और Personi-Fi 3.0 फीचर भी मौजूद
+ऑडियो के लिए JBL Tune Buds 3 में 10mm के डायनेमिक ड्राइवर्स दिए गए हैं. इनमें डुअल-लेयर कंपोजिट पॉलिमर डायफ्राम का यूज किया गया है.
+
+कंपनी ने Harman के साथ मिलकर इनका साउंड ट्यून किया है. JBL का दावा है कि ये ईयरबड्स संतुलित साउंड देते हैं और आवाज में ज्यादा डिस्टॉर्शन नहीं होने देते हैं. इसके अलावा Personi-Fi 3.0 फीचर की मदद से यूजर्स अपनी पसंद के मुताबिक ऑडियो सेटिंग्स को एडजस्ट कर सकते हैं. यह भी पढ़ें - WhatsApp Travel eSIM : विदेश में इंटरनेट चलाना होगा आसान, WhatsApp ला सकता है eSIM सपोर्ट
+चार माइक्रोफोन के साथ मिलता है नॉइज कैंसलेशन
+इन ईयरबड्स में चार माइक्रोफोन दिए गए हैं, जो ANC फीचर को सपोर्ट करते हैं.
+
+यह फीचर कम, मिडियम और ज्यादा फ्रीक्वेंसी वाली बाहरी आवाजों को कम करने के लिए डिजाइन किया गया है. हर माइक्रोफोन की सेंसिटिविटी 1kHz पर -38 dBV/Pa है. कनेक्टिविटी के लिए इनमें Bluetooth 6.0 का सपोर्ट भी दिया गया है. JBL Tune Buds 3 की कीमत&nbsp;
+JBL के नए ट्रांसपेरेंट Tune Buds 3 ईयरबड्स को चीन के ई-कॉमर्स प्लेटफॉर्म JD.com पर लिस्ट किया गया है.
+
+इनकी कीमत 729 चीनी युआन यानी करीब 10,100 रखी गई है. कंपनी के मुताबिक, इनकी बिक्री 3 दिसंबर से शुरू होगी. फिलहाल दूसरे देशों में इनकी लॉन्चिंग को लेकर कंपनी ने अभी कोई जानकारी नहीं दी है. यह भी पढ़ें - Vivo X500s की एंट्री की तैयारी, मिलेंगे ये फ्लैगशिप फीचर्स
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/technology/jbl-tune-buds-3-launch-with-transparent-design-anc-support-know-price-and-features-3220167)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `JBL Tune Buds 3 Launch : ट्रांसपेरेंट लुक के साथ JBL ने उतारे नए ANC ईयरबड्स, जानें कीमत - ABP News`,
+    summary_hi: `JBL Tune Buds 3 Launch :&nbsp; JBL ने अपने फेमस Tune Buds 3 ईयरबड्स का नया ट्रांसपेरेंट वर्जन पेश किया है. इन ईयरबड्स की खास बात यह है कि इनके बाहरी हिस्से और चार्जिंग केस में ट्रांसपेरेंट डिजाइन दिया गया है, जिससे अंदर मौजूद कुछ हार्डवेयर `,
+    content_hi: `JBL Tune Buds 3 Launch :&nbsp; JBL ने अपने फेमस Tune Buds 3 ईयरबड्स का नया ट्रांसपेरेंट वर्जन पेश किया है. इन ईयरबड्स की खास बात यह है कि इनके बाहरी हिस्से और चार्जिंग केस में ट्रांसपेरेंट डिजाइन दिया गया है, जिससे अंदर मौजूद कुछ हार्डवेयर भी दिखाई देता है, हालांकि नए वर्जन में मेन बदलाव डिजाइन को लेकर किया गया है.
+
+इनमें पहले की तरह एक्टिव नॉइज कैंसलेशन (ANC), Personi-Fi 3.0 और Bluetooth 6.0 जैसे फीचर्स मिलते हैं. कंपनी ने फिलहाल इन्हें चीन में बिक्री के लिए लिस्ट किया है और दिसंबर से इनकी बिक्री शुरू होगी. ऐसे में आइए जानते हैं कि इनकी कीमत क्या है.&nbsp;
+तीन कलर ऑप्शन में मिलेगा नया डिजाइन
+इन ईयरबड्स का सबसे बड़ा अट्रैक्शन इनका ट्रांसपेरेंट डिजाइन है.
+
+इनके बाहरी हिस्से में ट्रांसपेरेंट शेल दिया गया है, जिसके अंदर मौजूद कुछ हार्डवेयर दिखाई देते हैं. Jade कलर में ईयरबड्स और चार्जिंग केस दोनों को ट्रांसपेरेंट ग्रीन फिनिश दी गई है. वहीं Moon White वेरिएंट के चार्जिंग केस का ऊपरी हिस्सा ग्लॉसी फिनिश के साथ आता है. इनके अलावा Deep Black कलर का ऑप्शन भी दिया गया है.
+
+इन्हें IP54 रेटिंग भी मिली है, जो धूल और पानी से बचाव में मदद करती है.&nbsp;
+48 घंटे तक मिलेगा कुल प्लेबैक टाइम
+JBL Tune Buds 3 एक बार चार्ज करने पर 12 घंटे तक चल सकते हैं, हालांकि ANC चालू रहने पर इनका प्लेबैक टाइम घटकर 10 घंटे रह जाता है. चार्जिंग केस के साथ इन ईयरबड्स का कुल प्लेबैक टाइम 48 घंटे तक हो जाता है.
+
+कंपनी के अनुसार, सिर्फ 10 मिनट चार्ज करने पर ये 4 घंटे तक यूज किए जा सकते हैं. वहीं इन्हें पूरी तरह चार्ज होने में करीब 2 घंटे का समय लगता है. ANC और Personi-Fi 3.0 फीचर भी मौजूद
+ऑडियो के लिए JBL Tune Buds 3 में 10mm के डायनेमिक ड्राइवर्स दिए गए हैं. इनमें डुअल-लेयर कंपोजिट पॉलिमर डायफ्राम का यूज किया गया है.
+
+कंपनी ने Harman के साथ मिलकर इनका साउंड ट्यून किया है. JBL का दावा है कि ये ईयरबड्स संतुलित साउंड देते हैं और आवाज में ज्यादा डिस्टॉर्शन नहीं होने देते हैं. इसके अलावा Personi-Fi 3.0 फीचर की मदद से यूजर्स अपनी पसंद के मुताबिक ऑडियो सेटिंग्स को एडजस्ट कर सकते हैं. यह भी पढ़ें - WhatsApp Travel eSIM : विदेश में इंटरनेट चलाना होगा आसान, WhatsApp ला सकता है eSIM सपोर्ट
+चार माइक्रोफोन के साथ मिलता है नॉइज कैंसलेशन
+इन ईयरबड्स में चार माइक्रोफोन दिए गए हैं, जो ANC फीचर को सपोर्ट करते हैं.
+
+यह फीचर कम, मिडियम और ज्यादा फ्रीक्वेंसी वाली बाहरी आवाजों को कम करने के लिए डिजाइन किया गया है. हर माइक्रोफोन की सेंसिटिविटी 1kHz पर -38 dBV/Pa है. कनेक्टिविटी के लिए इनमें Bluetooth 6.0 का सपोर्ट भी दिया गया है. JBL Tune Buds 3 की कीमत&nbsp;
+JBL के नए ट्रांसपेरेंट Tune Buds 3 ईयरबड्स को चीन के ई-कॉमर्स प्लेटफॉर्म JD.com पर लिस्ट किया गया है.
+
+इनकी कीमत 729 चीनी युआन यानी करीब 10,100 रखी गई है. कंपनी के मुताबिक, इनकी बिक्री 3 दिसंबर से शुरू होगी. फिलहाल दूसरे देशों में इनकी लॉन्चिंग को लेकर कंपनी ने अभी कोई जानकारी नहीं दी है. यह भी पढ़ें - Vivo X500s की एंट्री की तैयारी, मिलेंगे ये फ्लैगशिप फीचर्स
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/technology/jbl-tune-buds-3-launch-with-transparent-design-anc-support-know-price-and-features-3220167)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट ABP News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक JBL Tune Buds 3 Launch : ट्रांसपेरेंट लुक के साथ JBL ने उतारे नए ANC ईयरबड्स, जानें कीमत - ABP News से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `ABP News`,
+  },
+  {
+    id: 158,
+    title: `Canada's Supreme Court largely upholds Quebec's 2019 law banning certain public workers from wearing reli`,
+    slug: `canadas-supreme-court-largely-upholds-quebecs-2019-law-banning-certain-2026`,
+    original_title: `Canada's Supreme Court largely upholds Quebec's 2019 law banning certain public workers from wearing reli`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `7 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:20Z`,
+    updated_at: `2026-11-28T06:14:20Z`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/world/rest-of-world/canadas-supreme-court-largely-upholds-quebecs-2019-law-banning-certain-public-workers-from-wearing-religious-symbols-at-work-including-sikh-turbans-muslim-hijabs-and-christian-crosses/articleshow/136232101.cms`,
+    source_courtesy: `Source: The Times of India`,
+    image_url: `/images/articles/canadas-supreme-court-largely-upholds-quebecs-2019-law-banning-certain-2026.jpg`,
+    image_alt: `Canada's Supreme Court largely upholds Quebec's 2019 law banning certain public workers from wearing reli`,
+    image_courtesy: `Image: The Times of India (External Source Attribution)`,
+    image_photographer: `The Times of India`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `Canada's Supreme Court has upheld most of Quebec's controversial Bill 21, which prevents certain public sector employees from wearing religious symbols while performing their jobs. The ruling, delivered on November 27, 2026, confirms that t`,
+    content: `Canada's Supreme Court has upheld most of Quebec's controversial Bill 21, which prevents certain public sector employees from wearing religious symbols while performing their jobs. The ruling, delivered on November 27, 2026, confirms that the province can enforce the restrictions despite challenges based on religious freedom, equality and minority rights.
+
+The decision means that public school teachers, police officers, government lawyers and other officials covered by the legislation must continue to follow the restrictions. Religious items affected include Sikh turbans, Muslim hijabs, Jewish kippahs and visible Christian crosses.However, the court identified a constitutional problem with one part of the law.
+
+It ruled that the requirement for members of Quebec's National Assembly to uncover their faces violates their democratic rights when it prevents elected representatives from taking part in legislative proceedings. In its judgment in English Montreal School Board v. Quebec (Attorney General), 2026 SCC 41, the Supreme Court also rejected the argument that Bill 21 violates the education rights of Quebec's English-speaking minority.
+
+This means English-language school boards will not receive the exemption sought in the case. The ruling follows years of legal challenges and confirms the Quebec government's ability to use Canada's constitutional notwithstanding clause to protect the legislation from certain Charter challenges.
+
+The Supreme Court's official summary states that the appeals were dismissed, along with the Quebec government's cross-appeal.The origins and implementation of Bill 21The Quebec government, led by Premier François Legault of the Coalition Avenir Québec party at the time, introduced and passed Bill 21 in June 2019.
+
+The legislation was presented as a way to protect state secularism, known in French as laïcité, and ensure that government representatives maintain religious neutrality while carrying out their duties. The law prohibits certain public employees in positions of authority from wearing religious symbols while working.
+
+Those covered include public school teachers, police officers, judges, prosecutors and prison guards.The Quebec government argued that people exercising state authority should not display religious beliefs while performing their official duties. Supporters said the legislation would help maintain a clear separation between religion and the state.
+
+The measure faced strong opposition from religious minority communities and civil liberties organisations. Critics argued that it forced people to choose between their religious beliefs and their careers, particularly those who wear visible religious clothing as part of their faith.The government also invoked the notwithstanding clause when passing the legislation.
+
+Section 33 of the Canadian Charter of Rights and Freedoms allows federal or provincial legislatures to keep certain laws in force despite some Charter protections, including fundamental freedoms and equality rights. Such an override lasts for up to five years and can be renewed. Quebec also invoked the relevant override provision in its own Charter of human rights and freedoms.
+
+This made it more difficult for opponents to have Bill 21 overturned through challenges based on the rights covered by those clauses. The Supreme Court has now confirmed that Quebec used these powers validly.Immediate opposition and legal challengesBill 21 prompted legal challenges from civil liberties groups, teachers' organisations and members of religious communities soon after it became law.
+
+The Canadian Civil Liberties Association (CCLA) and the National Council of Canadian Muslims (NCCM) were among the organisations involved in challenging the legislation. Opponents argued that the ban violated freedom of conscience and religion, as well as equality rights protected by the Canadian Charter.
+
+They also said its effects were particularly serious for religious minorities and women who wear religious clothing. Critics maintained that the restrictions created difficult choices for public employees. Teachers who wear hijabs, turbans or other religious symbols could be forced to leave their jobs, move elsewhere or stop following religious practices to continue working in the public education system.
+
+The debate also raised concerns about hostility towards visible religious minorities in Quebec.The case moved through the province's courts before reaching Canada's highest court. On February 29, 2024, the Quebec Court of Appeal upheld most of the earlier ruling and rejected the argument that Bill 21 violated the minority-language education rights of English-speaking communities.
+
+The Court of Appeal concluded that the legislation dealt with hiring practices rather than the language of instruction or the content of educational programmes. Several parties then appealed to the Supreme Court of Canada, which heard the case over four days, from March 23 to March 26, 2026.
+
+The hearing involved 51 interveners, including six provincial and territorial attorneys general.The Supreme Court's nuanced judgmentThe Supreme Court's decision addressed several constitutional questions, including the use of the notwithstanding clause, equality rights, minority-language education rights and the democratic rights of elected representatives.
+
+One of the main issues was whether Quebec had legally used the notwithstanding clause to protect Bill 21 from challenges based on certain Charter rights. The court confirmed that the provincial government had used the clause validly. It also ruled that courts retain the power to examine whether legislation conflicts with Charter rights, even when a government has invoked the override clause.
+
+A court can make a declaration that a law is inconsistent with those rights, although the Supreme Court did not make such a declaration in this case. The judges also considered Section 28 of the Canadian Charter, which states that the rights and freedoms guaranteed by the Charter apply equally to men and women.The court ruled that Section 28 does not create a separate right that can independently be used to challenge legislation.
+
+As a result, Bill 21 could not be struck down on that basis. Another important issue concerned Section 23, which protects the education rights of English-speaking and French-speaking minorities in Canada. The English Montreal School Board argued that Bill 21 interfered with its ability to recruit, retain, transfer and promote teachers who wear religious symbols.
+
+It said the restrictions affected the board's constitutional right to manage its schools and protect the interests of Quebec's English-speaking community.The Supreme Court acknowledged that the legislation could limit the board's ability to hire and retain certain employees. However, the majority found that there was not enough evidence to establish that these restrictions undermined the specific linguistic and cultural interests protected by Section 23.
+
+The court therefore rejected the request for an exemption. English-language public schools in Quebec must continue to follow the religious symbols ban. The judges did identify a separate problem involving Section 8 of Bill 21. This provision requires members of Quebec's National Assembly to keep their faces uncovered while carrying out their legislative duties.
+
+The court found that this requirement infringes Section 3 of the Canadian Charter, which protects citizens' democratic rights, including the right to seek election and participate in legislative proceedings. It ruled that elected representatives whose religious beliefs require them to wear face coverings cannot be prevented from taking part in the legislature because of that requirement.Reactions and future implicationsThe Supreme Court's ruling has drawn attention from supporters and opponents of Bill 21 across Canada.
+
+Quebec's supporters have welcomed the decision as confirmation that the province has the authority to protect its model of state secularism. The ruling also reinforces the government's ability to use the notwithstanding clause when passing legislation that it believes reflects the province's priorities.
+
+The English Montreal School Board expressed disappointment after losing its appeal. In a statement published on November 27, 2026, the board highlighted that the decision was reached by a narrow 4-3 majority on the constitutionality of Bill 21. The board also pointed out that three judges would have allowed its appeal on the basis that the law improperly infringed Section 28 of the Charter.
+
+Two judges would have found that the legislation violated Section 23, while another judge did not decide that issue after finding a breach of Section 28.Civil liberties organisations and religious minority advocates have continued to raise concerns about the effects of the legislation.
+
+Their objections centre on the restrictions placed on people who wish to work in public positions without giving up visible expressions of their religious beliefs. The ruling also has wider implications for Canadian constitutional law, particularly the use of the notwithstanding clause.
+
+By confirming that governments can invoke the provision without facing additional limits beyond those written into the clause, the Supreme Court has reinforced the power of provincial legislatures to protect certain laws from Charter challenges. At the same time, the decision confirms that courts can still examine whether legislation conflicts with constitutional rights, even when an override has been used.
+
+The November 27 judgment settles the main constitutional challenge to Quebec's Bill 21, leaving the religious symbols restrictions in place for covered public employees. The specific requirement that elected members of the National Assembly uncover their faces, however, has been found to violate their democratic rights.You use AI every day.
+
+Now get your AI Quotient. Take the AIQ test.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/world/rest-of-world/canadas-supreme-court-largely-upholds-quebecs-2019-law-banning-certain-public-workers-from-wearing-religious-symbols-at-work-including-sikh-turbans-muslim-hijabs-and-christian-crosses/articleshow/136232101.cms)`,
+    title_en: `Canada's Supreme Court largely upholds Quebec's 2019 law banning certain public workers from wearing reli`,
+    summary_en: `Canada's Supreme Court has upheld most of Quebec's controversial Bill 21, which prevents certain public sector employees from wearing religious symbols while performing their jobs. The ruling, delivered on November 27, 2026, confirms that t`,
+    content_en: `Canada's Supreme Court has upheld most of Quebec's controversial Bill 21, which prevents certain public sector employees from wearing religious symbols while performing their jobs. The ruling, delivered on November 27, 2026, confirms that the province can enforce the restrictions despite challenges based on religious freedom, equality and minority rights.
+
+The decision means that public school teachers, police officers, government lawyers and other officials covered by the legislation must continue to follow the restrictions. Religious items affected include Sikh turbans, Muslim hijabs, Jewish kippahs and visible Christian crosses.However, the court identified a constitutional problem with one part of the law.
+
+It ruled that the requirement for members of Quebec's National Assembly to uncover their faces violates their democratic rights when it prevents elected representatives from taking part in legislative proceedings. In its judgment in English Montreal School Board v. Quebec (Attorney General), 2026 SCC 41, the Supreme Court also rejected the argument that Bill 21 violates the education rights of Quebec's English-speaking minority.
+
+This means English-language school boards will not receive the exemption sought in the case. The ruling follows years of legal challenges and confirms the Quebec government's ability to use Canada's constitutional notwithstanding clause to protect the legislation from certain Charter challenges.
+
+The Supreme Court's official summary states that the appeals were dismissed, along with the Quebec government's cross-appeal.The origins and implementation of Bill 21The Quebec government, led by Premier François Legault of the Coalition Avenir Québec party at the time, introduced and passed Bill 21 in June 2019.
+
+The legislation was presented as a way to protect state secularism, known in French as laïcité, and ensure that government representatives maintain religious neutrality while carrying out their duties. The law prohibits certain public employees in positions of authority from wearing religious symbols while working.
+
+Those covered include public school teachers, police officers, judges, prosecutors and prison guards.The Quebec government argued that people exercising state authority should not display religious beliefs while performing their official duties. Supporters said the legislation would help maintain a clear separation between religion and the state.
+
+The measure faced strong opposition from religious minority communities and civil liberties organisations. Critics argued that it forced people to choose between their religious beliefs and their careers, particularly those who wear visible religious clothing as part of their faith.The government also invoked the notwithstanding clause when passing the legislation.
+
+Section 33 of the Canadian Charter of Rights and Freedoms allows federal or provincial legislatures to keep certain laws in force despite some Charter protections, including fundamental freedoms and equality rights. Such an override lasts for up to five years and can be renewed. Quebec also invoked the relevant override provision in its own Charter of human rights and freedoms.
+
+This made it more difficult for opponents to have Bill 21 overturned through challenges based on the rights covered by those clauses. The Supreme Court has now confirmed that Quebec used these powers validly.Immediate opposition and legal challengesBill 21 prompted legal challenges from civil liberties groups, teachers' organisations and members of religious communities soon after it became law.
+
+The Canadian Civil Liberties Association (CCLA) and the National Council of Canadian Muslims (NCCM) were among the organisations involved in challenging the legislation. Opponents argued that the ban violated freedom of conscience and religion, as well as equality rights protected by the Canadian Charter.
+
+They also said its effects were particularly serious for religious minorities and women who wear religious clothing. Critics maintained that the restrictions created difficult choices for public employees. Teachers who wear hijabs, turbans or other religious symbols could be forced to leave their jobs, move elsewhere or stop following religious practices to continue working in the public education system.
+
+The debate also raised concerns about hostility towards visible religious minorities in Quebec.The case moved through the province's courts before reaching Canada's highest court. On February 29, 2024, the Quebec Court of Appeal upheld most of the earlier ruling and rejected the argument that Bill 21 violated the minority-language education rights of English-speaking communities.
+
+The Court of Appeal concluded that the legislation dealt with hiring practices rather than the language of instruction or the content of educational programmes. Several parties then appealed to the Supreme Court of Canada, which heard the case over four days, from March 23 to March 26, 2026.
+
+The hearing involved 51 interveners, including six provincial and territorial attorneys general.The Supreme Court's nuanced judgmentThe Supreme Court's decision addressed several constitutional questions, including the use of the notwithstanding clause, equality rights, minority-language education rights and the democratic rights of elected representatives.
+
+One of the main issues was whether Quebec had legally used the notwithstanding clause to protect Bill 21 from challenges based on certain Charter rights. The court confirmed that the provincial government had used the clause validly. It also ruled that courts retain the power to examine whether legislation conflicts with Charter rights, even when a government has invoked the override clause.
+
+A court can make a declaration that a law is inconsistent with those rights, although the Supreme Court did not make such a declaration in this case. The judges also considered Section 28 of the Canadian Charter, which states that the rights and freedoms guaranteed by the Charter apply equally to men and women.The court ruled that Section 28 does not create a separate right that can independently be used to challenge legislation.
+
+As a result, Bill 21 could not be struck down on that basis. Another important issue concerned Section 23, which protects the education rights of English-speaking and French-speaking minorities in Canada. The English Montreal School Board argued that Bill 21 interfered with its ability to recruit, retain, transfer and promote teachers who wear religious symbols.
+
+It said the restrictions affected the board's constitutional right to manage its schools and protect the interests of Quebec's English-speaking community.The Supreme Court acknowledged that the legislation could limit the board's ability to hire and retain certain employees. However, the majority found that there was not enough evidence to establish that these restrictions undermined the specific linguistic and cultural interests protected by Section 23.
+
+The court therefore rejected the request for an exemption. English-language public schools in Quebec must continue to follow the religious symbols ban. The judges did identify a separate problem involving Section 8 of Bill 21. This provision requires members of Quebec's National Assembly to keep their faces uncovered while carrying out their legislative duties.
+
+The court found that this requirement infringes Section 3 of the Canadian Charter, which protects citizens' democratic rights, including the right to seek election and participate in legislative proceedings. It ruled that elected representatives whose religious beliefs require them to wear face coverings cannot be prevented from taking part in the legislature because of that requirement.Reactions and future implicationsThe Supreme Court's ruling has drawn attention from supporters and opponents of Bill 21 across Canada.
+
+Quebec's supporters have welcomed the decision as confirmation that the province has the authority to protect its model of state secularism. The ruling also reinforces the government's ability to use the notwithstanding clause when passing legislation that it believes reflects the province's priorities.
+
+The English Montreal School Board expressed disappointment after losing its appeal. In a statement published on November 27, 2026, the board highlighted that the decision was reached by a narrow 4-3 majority on the constitutionality of Bill 21. The board also pointed out that three judges would have allowed its appeal on the basis that the law improperly infringed Section 28 of the Charter.
+
+Two judges would have found that the legislation violated Section 23, while another judge did not decide that issue after finding a breach of Section 28.Civil liberties organisations and religious minority advocates have continued to raise concerns about the effects of the legislation.
+
+Their objections centre on the restrictions placed on people who wish to work in public positions without giving up visible expressions of their religious beliefs. The ruling also has wider implications for Canadian constitutional law, particularly the use of the notwithstanding clause.
+
+By confirming that governments can invoke the provision without facing additional limits beyond those written into the clause, the Supreme Court has reinforced the power of provincial legislatures to protect certain laws from Charter challenges. At the same time, the decision confirms that courts can still examine whether legislation conflicts with constitutional rights, even when an override has been used.
+
+The November 27 judgment settles the main constitutional challenge to Quebec's Bill 21, leaving the religious symbols restrictions in place for covered public employees. The specific requirement that elected members of the National Assembly uncover their faces, however, has been found to violate their democratic rights.You use AI every day.
+
+Now get your AI Quotient. Take the AIQ test.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/world/rest-of-world/canadas-supreme-court-largely-upholds-quebecs-2019-law-banning-certain-public-workers-from-wearing-religious-symbols-at-work-including-sikh-turbans-muslim-hijabs-and-christian-crosses/articleshow/136232101.cms)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Times of India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Canada's Supreme Court largely upholds Quebec's 2019 law banning certain public workers from wearing reli.`,
+    primary_source: `The Times of India`,
+  },
+  {
+    id: 159,
+    title: `ईरान का खौफ! रुबियो-बेसेंट समेत ट्रंप के कई सहयोगी सैन्य ठिकानों में किए गए शिफ्ट - AajTak`,
+    slug: `world-breaking-report-31872-159-2026`,
+    original_title: `ईरान का खौफ! रुबियो-बेसेंट समेत ट्रंप के कई सहयोगी सैन्य ठिकानों में किए गए शिफ्ट - AajTak`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:24Z`,
+    updated_at: `2026-11-28T06:14:24Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/world/story/marco-rubio-scott-bessent-among-trump-officials-moving-military-housing-ntc-rmxk-dskc-2708228-2026-11-28`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b09ec8fe67ae-marco-rubio-203018851.jpg`,
+    image_alt: `ईरान का खौफ! रुबियो-बेसेंट समेत ट्रंप के कई सहयोगी सैन्य ठिकानों में किए गए शिफ्ट - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `ईरान से तनातनी के बीच अमेरिका में ट्रंप के प्रशासन के करीब छह कैबिनेट सदस्य वॉशिंगटन डीसी में सुरक्षित सैन्य आवासों में रहने चले गए हैं. यह कदम घरेलू राजनीतिक हिंसा और विदेशी दुश्मनों, खासकर ईरान से मिल रही धमकियों के बीच उठाया गया है. और प`,
+    content: `ईरान से तनातनी के बीच अमेरिका में ट्रंप के प्रशासन के करीब छह कैबिनेट सदस्य वॉशिंगटन डीसी में सुरक्षित सैन्य आवासों में रहने चले गए हैं. यह कदम घरेलू राजनीतिक हिंसा और विदेशी दुश्मनों, खासकर ईरान से मिल रही धमकियों के बीच उठाया गया है. और पढ़ेंCNN की रिपोर्ट के मुताबिक, इस बदलाव के तहत ट्रंप सरकार के कई वरिष्ठ अधिकारियों भी को ऐसे सैन्य आवासों में शिफ्ट किया गया है.
+
+यह आमतौर पर सेना के वरिष्ठ अधिकारियों के लिए रिजर्व होते हैं. इनमें से कई मकान 100 साल से भी ज्यादा पुराने हैं. ये सैन्य परिसरों के भीतर हैं, जहां एंट्री के लिए कड़े सुरक्षा इंतजाम हैं.अमेरिकी वित्त मंत्री स्कॉट बेसेंट हाल ही में सैन्य आवास में शिफ्ट होने वाले वरिष्ठ अधिकारियों में शामिल हैं.
+
+उन्होंने जॉर्जटाउन स्थित अपनी आलीशान हवेली छोड़कर सुरक्षित सैन्य परिसर में रहना शुरू कर दिया है. बताया जा रहा है कि उन्हें जान से मारने की धमकियां मिली थीं.बेसेंट ट्रंप प्रशासन की उस रणनीति का नेतृत्व कर रहे हैं, जिसके तहत ईरान पर व्यापक आर्थिक प्रतिबंध लगाए जा रहे हैं. उन्होंने माना कि ईरान की ओर से उन्हें और कैबिनेट के अन्य सदस्यों को मिल रही धमकियों के कारण उन्हें यह कदम उठाना पड़ा.
+
+Advertisement        हालांकि बेसेंट ने कहा, &#039;मैं इन धमकियों से डरने वाला नहीं हूं. उन्होंने मुझे और कैबिनेट के अन्य सदस्यों को जान से मारने की धमकियां दी हैं. हम डरने वाले नहीं हैं&#039;.अमेरिकी अटॉर्नी जनरल टॉड ब्लैंच भी सुरक्षा चिंताओं के चलते हाल ही में एक सैन्य ठिकाने पर रहने चले गए हैं.
+
+विदेश मंत्री मार्को रुबियो और रक्षा मंत्री पीट हेगसेथ भी सैन्य आवासों में रहने वाले ट्रंप प्रशासन के वरिष्ठ सहयोगियों में शामिल हैं.वहीं, व्हाइट हाउस के चीफ ऑफ स्टाफ स्टीफन मिलर, उनकी पत्नी केटी और उनके चार बच्चे भी पिछले साल सैन्य आवास में शिफ्ट हो गए थे. स्टीफन मिलर का परिवार वर्जीनिया स्थित अपने घर से उस समय बाहर चला गया था, जब उनके आवास के बाहर विरोध प्रदर्शन हुए और उनके घर का पता लिखे पर्चे बांटे गए.यह फैसला ट्रंप प्रशासन के वरिष्ठ अधिकारियों को मिल रही धमकियों के बीच लिया गया है.
+
+खासकर ईरान के खिलाफ युद्ध के बाद सुरक्षा चिंताएं बढ़ी हैं. CNN ने पहले अपनी रिपोर्ट में दावा किया था कि ईरान ट्रंप प्रशासन के वरिष्ठ अधिकारियों को निशाना बनाने के लिए वॉशिंगटन में डर्टी बम या रासायनिक हथियारों से हमले की योजना तैयार कर रहा था.विदेशी दुश्मनों से मिल रही धमकियों के अलावा घरेलू राजनीतिक हिंसा भी अधिकारियों के सैन्य आवासों में शिफ्ट होने की बड़ी वजह है.
+
+Advertisement        इस बीच सैन्य आवासों में नागरिक राजनीतिक नियुक्तियों वाले अधिकारियों की बढ़ती संख्या पर डेमोक्रेटिक सांसदों ने सवाल उठाए हैं. खास तौर पर उन सैन्य आवासों के इस्तेमाल पर सवाल किए जा रहे हैं, जो परंपरागत रूप से सेना के वरिष्ठ अधिकारियों के लिए हैं.सैन्य आवासों पर होने वाले खर्च को लेकर भी पहले सवाल उठ चुके हैं.
+
+पिछले साल रक्षा मंत्री पीट हेगसेथ को आलोचनाओं का सामना करना पड़ा था, जब सांसदों को पता चला कि सेना फोर्ट मैकनेयर स्थित उनके आवास की मरम्मत पर 1,37,297 डॉलर खर्च करने की तैयारी कर रही थी.सैन्य आवासों में रहने वाले कैबिनेट अधिकारियों को किराया देना पड़ता है. यह किराया आम तौर पर आवास के प्रकार और सुविधाओं के आधार पर 4,500 डॉलर (करीब 4 लाख रुपये) प्रति माह से अधिक होता है.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/marco-rubio-scott-bessent-among-trump-officials-moving-military-housing-ntc-rmxk-dskc-2708228-2026-11-28)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `ईरान का खौफ! रुबियो-बेसेंट समेत ट्रंप के कई सहयोगी सैन्य ठिकानों में किए गए शिफ्ट - AajTak`,
+    summary_hi: `ईरान से तनातनी के बीच अमेरिका में ट्रंप के प्रशासन के करीब छह कैबिनेट सदस्य वॉशिंगटन डीसी में सुरक्षित सैन्य आवासों में रहने चले गए हैं. यह कदम घरेलू राजनीतिक हिंसा और विदेशी दुश्मनों, खासकर ईरान से मिल रही धमकियों के बीच उठाया गया है. और प`,
+    content_hi: `ईरान से तनातनी के बीच अमेरिका में ट्रंप के प्रशासन के करीब छह कैबिनेट सदस्य वॉशिंगटन डीसी में सुरक्षित सैन्य आवासों में रहने चले गए हैं. यह कदम घरेलू राजनीतिक हिंसा और विदेशी दुश्मनों, खासकर ईरान से मिल रही धमकियों के बीच उठाया गया है. और पढ़ेंCNN की रिपोर्ट के मुताबिक, इस बदलाव के तहत ट्रंप सरकार के कई वरिष्ठ अधिकारियों भी को ऐसे सैन्य आवासों में शिफ्ट किया गया है.
+
+यह आमतौर पर सेना के वरिष्ठ अधिकारियों के लिए रिजर्व होते हैं. इनमें से कई मकान 100 साल से भी ज्यादा पुराने हैं. ये सैन्य परिसरों के भीतर हैं, जहां एंट्री के लिए कड़े सुरक्षा इंतजाम हैं.अमेरिकी वित्त मंत्री स्कॉट बेसेंट हाल ही में सैन्य आवास में शिफ्ट होने वाले वरिष्ठ अधिकारियों में शामिल हैं.
+
+उन्होंने जॉर्जटाउन स्थित अपनी आलीशान हवेली छोड़कर सुरक्षित सैन्य परिसर में रहना शुरू कर दिया है. बताया जा रहा है कि उन्हें जान से मारने की धमकियां मिली थीं.बेसेंट ट्रंप प्रशासन की उस रणनीति का नेतृत्व कर रहे हैं, जिसके तहत ईरान पर व्यापक आर्थिक प्रतिबंध लगाए जा रहे हैं. उन्होंने माना कि ईरान की ओर से उन्हें और कैबिनेट के अन्य सदस्यों को मिल रही धमकियों के कारण उन्हें यह कदम उठाना पड़ा.
+
+Advertisement        हालांकि बेसेंट ने कहा, &#039;मैं इन धमकियों से डरने वाला नहीं हूं. उन्होंने मुझे और कैबिनेट के अन्य सदस्यों को जान से मारने की धमकियां दी हैं. हम डरने वाले नहीं हैं&#039;.अमेरिकी अटॉर्नी जनरल टॉड ब्लैंच भी सुरक्षा चिंताओं के चलते हाल ही में एक सैन्य ठिकाने पर रहने चले गए हैं.
+
+विदेश मंत्री मार्को रुबियो और रक्षा मंत्री पीट हेगसेथ भी सैन्य आवासों में रहने वाले ट्रंप प्रशासन के वरिष्ठ सहयोगियों में शामिल हैं.वहीं, व्हाइट हाउस के चीफ ऑफ स्टाफ स्टीफन मिलर, उनकी पत्नी केटी और उनके चार बच्चे भी पिछले साल सैन्य आवास में शिफ्ट हो गए थे. स्टीफन मिलर का परिवार वर्जीनिया स्थित अपने घर से उस समय बाहर चला गया था, जब उनके आवास के बाहर विरोध प्रदर्शन हुए और उनके घर का पता लिखे पर्चे बांटे गए.यह फैसला ट्रंप प्रशासन के वरिष्ठ अधिकारियों को मिल रही धमकियों के बीच लिया गया है.
+
+खासकर ईरान के खिलाफ युद्ध के बाद सुरक्षा चिंताएं बढ़ी हैं. CNN ने पहले अपनी रिपोर्ट में दावा किया था कि ईरान ट्रंप प्रशासन के वरिष्ठ अधिकारियों को निशाना बनाने के लिए वॉशिंगटन में डर्टी बम या रासायनिक हथियारों से हमले की योजना तैयार कर रहा था.विदेशी दुश्मनों से मिल रही धमकियों के अलावा घरेलू राजनीतिक हिंसा भी अधिकारियों के सैन्य आवासों में शिफ्ट होने की बड़ी वजह है.
+
+Advertisement        इस बीच सैन्य आवासों में नागरिक राजनीतिक नियुक्तियों वाले अधिकारियों की बढ़ती संख्या पर डेमोक्रेटिक सांसदों ने सवाल उठाए हैं. खास तौर पर उन सैन्य आवासों के इस्तेमाल पर सवाल किए जा रहे हैं, जो परंपरागत रूप से सेना के वरिष्ठ अधिकारियों के लिए हैं.सैन्य आवासों पर होने वाले खर्च को लेकर भी पहले सवाल उठ चुके हैं.
+
+पिछले साल रक्षा मंत्री पीट हेगसेथ को आलोचनाओं का सामना करना पड़ा था, जब सांसदों को पता चला कि सेना फोर्ट मैकनेयर स्थित उनके आवास की मरम्मत पर 1,37,297 डॉलर खर्च करने की तैयारी कर रही थी.सैन्य आवासों में रहने वाले कैबिनेट अधिकारियों को किराया देना पड़ता है. यह किराया आम तौर पर आवास के प्रकार और सुविधाओं के आधार पर 4,500 डॉलर (करीब 4 लाख रुपये) प्रति माह से अधिक होता है.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/marco-rubio-scott-bessent-among-trump-officials-moving-military-housing-ntc-rmxk-dskc-2708228-2026-11-28)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक ईरान का खौफ! रुबियो-बेसेंट समेत ट्रंप के कई सहयोगी सैन्य ठिकानों में किए गए शिफ्ट - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 160,
+    title: `How To Watch FIDE World Championship 2026 Game 4 - Chess.com`,
+    slug: `how-to-watch-fide-world-championship-2026-game-4-chesscom-2026`,
+    original_title: `How To Watch FIDE World Championship 2026 Game 4 - Chess.com`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:30Z`,
+    updated_at: `2026-11-28T06:14:30Z`,
+    source_name: `Chess.com`,
+    source_url: `https://www.chess.com/news/view/2026-fide-world-chess-championship-game-4`,
+    source_courtesy: `Source: Chess.com`,
+    image_url: `/images/articles/how-to-watch-fide-world-championship-2026-game-4-chesscom-2026.png`,
+    image_alt: `How To Watch FIDE World Championship 2026 Game 4 - Chess.com`,
+    image_courtesy: `Image: Chess.com (External Source Attribution)`,
+    image_photographer: `Chess.com`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov resumes after the rest day with game four on Saturday, November 28, at 9 a.m. ET / 15:00 CET /  7:30 p.m. IST `,
+    content: `The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov resumes after the rest day with game four on Saturday, November 28, at 9 a.m. ET / 15:00 CET /  7:30 p.m. IST .
+
+Gukesh will have the white pieces as the players hunt for a win after beginning with three draws. Don't miss all the action!
+
+The Salesforce FIDE World Championship 2026 in Geneva, Switzerland decides the next world champion. Uzbek Challenger Javokhir Sindarov plays Indian Defending Champion Gukesh Dommaraju in a 14-game match, with the winner the first to 7.5 points. The players have two hours for 40 moves, then 30 minutes to the end of the game, with 30 seconds added each move from move 41 onward. The prize fund is $2,500,000, with $200,000 for a win and the remaining money split equally. If tied 7-7, a playoff will take place, starting with four games of 15+10 rapid chess.
+
+### Watch The Salesforce FIDE World Chess Championship On Twitch To Earn Exclusive Flairs
+
+### New Classic Games App In Beta, Play And Learn 10 Incredible Games!
+
+---
+
+**Original Source:** [Chess.com](https://www.chess.com/news/view/2026-fide-world-chess-championship-game-4)`,
+    title_en: `How To Watch FIDE World Championship 2026 Game 4 - Chess.com`,
+    summary_en: `The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov resumes after the rest day with game four on Saturday, November 28, at 9 a.m. ET / 15:00 CET /  7:30 p.m. IST `,
+    content_en: `The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov resumes after the rest day with game four on Saturday, November 28, at 9 a.m. ET / 15:00 CET /  7:30 p.m. IST .
+
+Gukesh will have the white pieces as the players hunt for a win after beginning with three draws. Don't miss all the action!
+
+The Salesforce FIDE World Championship 2026 in Geneva, Switzerland decides the next world champion. Uzbek Challenger Javokhir Sindarov plays Indian Defending Champion Gukesh Dommaraju in a 14-game match, with the winner the first to 7.5 points. The players have two hours for 40 moves, then 30 minutes to the end of the game, with 30 seconds added each move from move 41 onward. The prize fund is $2,500,000, with $200,000 for a win and the remaining money split equally. If tied 7-7, a playoff will take place, starting with four games of 15+10 rapid chess.
+
+### Watch The Salesforce FIDE World Chess Championship On Twitch To Earn Exclusive Flairs
+
+### New Classic Games App In Beta, Play And Learn 10 Incredible Games!
+
+---
+
+**Original Source:** [Chess.com](https://www.chess.com/news/view/2026-fide-world-chess-championship-game-4)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Chess.com.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for How To Watch FIDE World Championship 2026 Game 4 - Chess.com.`,
+    primary_source: `Chess.com`,
+  },
+  {
+    id: 161,
+    title: `Pak A vs Ban A Highlights: बांग्लादेश को रौंद फाइनल में पहुंचा पाकिस्तान, श्रीलंका से होगा खिताबी मुकाबला - Navbharat Live`,
+    slug: `pak-a-vs-ban-a-highlights-navbharat-live-2026`,
+    original_title: `Pak A vs Ban A Highlights: बांग्लादेश को रौंद फाइनल में पहुंचा पाकिस्तान, श्रीलंका से होगा खिताबी मुकाबला - Navbharat Live`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:31Z`,
+    updated_at: `2026-11-28T06:14:31Z`,
+    source_name: `Navbharat Live`,
+    source_url: `https://navbharatlive.com/sports/cricket/pakistan-a-vs-bangladesh-a-live-score-emerging-asia-cup-2026-semifinal-ars24`,
+    source_courtesy: `Source: Navbharat Live`,
+    image_url: `/images/articles/pak-a-vs-ban-a-highlights-navbharat-live-2026.jpg`,
+    image_alt: `Pak A vs Ban A Highlights: बांग्लादेश को रौंद फाइनल में पहुंचा पाकिस्तान, श्रीलंका से होगा खिताबी मुकाबला - Navbharat Live`,
+    image_courtesy: `Image: Navbharat Live (External Source Attribution)`,
+    image_photographer: `Navbharat Live`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `PAK A vs BAN-A Highlights: एशिया कप राइजिंग स्टार्स 2026 के दूसरे सेमीफाइनल में पाकिस्तान-ए ने बांग्लादेश-ए को 5 विकेट से हराकर फाइनल में प्रवेश कर लिया है। दोहा में पहले बल्लेबाजी करते हुए बांग्लादेश-ए ने शहादत हुसैन दीपू (नाबाद 103) के शत`,
+    content: `PAK A vs BAN-A Highlights: एशिया कप राइजिंग स्टार्स 2026 के दूसरे सेमीफाइनल में पाकिस्तान-ए ने बांग्लादेश-ए को 5 विकेट से हराकर फाइनल में प्रवेश कर लिया है। दोहा में पहले बल्लेबाजी करते हुए बांग्लादेश-ए ने शहादत हुसैन दीपू (नाबाद 103) के शतक और माहिदुल इस्लाम (42) की पारी की बदौलत 50 ओवर में 232/8 रन बनाए।
+
+पाकिस्तान के लिए सुफियान मुकीम ने 3 विकेट झटके। लक्ष्य का पीछा करते हुए पाकिस्तान-ए ने हसन नवाज (62), शाहजैब खान (50), फरहान यूसुफ (46) और कप्तान अब्दुल समद (44) की उपयोगी पारियों की मदद से 45.2 ओवर में 233/5 रन बनाकर मैच जीत लिया। इस जीत के साथ ही पाकिस्तान-ए ने टूर्नामेंट के फाइनल में अपनी जगह पक्की कर ली है।
+
+खिताबी मुकाबले में उसका सामना रविवार को श्रीलंका-ए से होगा, जिसने पहले सेमीफाइनल में भारत-ए को 8 विकेट से हराकर फाइनल का टिकट कटाया था।.पाकिस्तान ए की प्लेइंग इलेवन: शमील हुसैन, माज़ सदाकत, शाहज़ेब खान, रोहेल नज़ीर (विकेटकीपर), हसन नवाज़, अब्दुल समद (कप्तान), फरहान यूसुफ, मोहम्मद इमरान रंधावा, अहमद दानियाल, सुफयान मोकिम और अली रज़ा।बांग्लादेश ए की प्लेइंग इलेवन: सैफ हसन (कप्तान), अफीफ हुसैन, शहादत हुसैन दीपू, महमुदुल हसन जॉय, सब्बीर रहमान, महिदुल इस्लाम अंकोन (विकेटकीपर), रकीबुल हसन, एसएम महेरोब, एमडी रूबेल, रिपन मोंडोल और इकबाल हुसैन एमोन।.पाकिस्तान ए के खिलाफ फाइनल मुकाबले में बांग्लादेश ए ने अपनी पारी की शुरुआत कर दी है।
+
+कप्तान सैफ हसन और महमुदुल हसन जॉय ओपनिंग करने क्रीज पर आए हैं, वहीं पाकिस्तान ए की ओर से अली रजा नई गेंद के साथ गेंदबाजी की शुरुआत कर रहे हैं। सेमीफाइनल जैसे अहम मैच में बांग्लादेश की कोशिश मजबूत शुरुआती साझेदारी बनाने की होगी।.बांग्लादेश ए की शुरुआत निराशाजनक रही, जहां टीम ने केवल 24 रन पर 2 विकेट खो दिए।
+
+तेज गेंदबाज अली रजा ने कप्तान सैफ हसन (2) और महमुदुल हसन जॉय (9) को आउट कर पाकिस्तान को बेहतरीन शुरुआत दिलाई। अब शहादत हुसैन दीपू और महिदुल इस्लाम टीम की पारी को संभालने का प्रयास कर रहे हैं।.शुरुआती दो विकेट गिरने के बाद शहादत हुसैन दीपू ने कुछ शानदार शॉट्स खेलकर बांग्लादेश की पारी को संभालने का प्रयास किया है।
+
+9 ओवर के बाद टीम का स्कोर 30/2 है, जबकि महिदुल इस्लाम 1 रन और दीपू 13 रन बनाकर क्रीज पर मौजूद हैं।.शुरुआती दो विकेट गिरने के बाद पारी को संभाला गया, 16 ओवर के बाद बांग्लादेश ए का स्कोर 54-2 है। महिदुल इस्लाम अंकन और शाहादत होसैन डिपू क्रीज पर टिके हुए हैं।.शुरुआती झटकों के बाद महिदुल इस्लाम अंकों और शहादत हुसैन दीपू ने बांग्लादेश ए की पारी को संभाल लिया है।
+
+20 ओवर के बाद टीम का स्कोर 76/2 है, जहां महिदुल 59 गेंदों पर 29 रन और दीपू 39 गेंदों पर 31 रन बनाकर क्रीज पर टिके हुए हैं। आखिरी ओवर में महिदुल ने दो चौके लगाकर रनगति बढ़ाने का संकेत दिया है।.सेमीपाइनल मुकाबले में शहादत हुसैन दीपू ने&nbsp;अर्धशतक जड़ दिया है। शुरुआती झटकों के बाद महिदुल इस्लाम अंकों और शहादत हुसैन दीपू ने बांग्लादेश ए की पारी को संभाल लिया है।
+
+27 ओवर के बाद टीम का स्कोर 110/2 है।.सुफियान मोकीम ने शानदार गेंदबाजी करते हुए महिदुल इस्लाम अंकन को पवेलियन भेज दिया। अंकन ऊंची गेंद पर लॉन्ग-ऑफ के ऊपर से शॉट खेलने की कोशिश करते हैं, लेकिन वहां माज़ सादकत को कैच थमा बैठते हैं। इसके साथ ही 95 रन की साझेदारी का अंत हो गया। अंकन 42 रन बनाकर आउट हुए।.Rohit Sharma MI Captain: रोहित शर्मा फिर बने मुंबई इंडियंस के कप्तान, IPL 2027 से पहले बड़ा ऐलान.एक समय जब बांग्लादेश ए 100 रन के बाद मजबूत स्थिति में था, सुफियान मुकीम ने खेल की दिशा पूरी तरह बदल दी।
+
+33 ओवर के बाद बांग्लादेश का स्कोर 128/5 है।.बांग्लादेश ए की पारी अब पूरी तरह से शहादत हुसैन दीपू पर निर्भर हो गई है। 47 ओवर के बाद टीम का स्कोर 198/8 है, और दीपू 109 गेंदों में 91 रन बनाकर शतक के करीब हैं। वहीं, पाकिस्तान के गेंदबाज लगातार विकेट लेकर बांग्लादेश को बड़े स्कोर तक पहुंचने से रोकने में सफल हो रहे हैं।.एक समय बांग्लादेश ए की टीम 118 रन पर 5 विकेट खोकर मुश्किल में थी, लेकिन शहादत हुसैन दीपू ने 118 गेंदों में नाबाद 103 रन बनाकर शानदार प्रदर्शन किया।
+
+उनकी शतकीय पारी और आखिरी ओवरों में रिपोन मंडोल (19)* की तेज बल्लेबाजी के चलते बांग्लादेश ए ने 50 ओवर में 232/8 का स्कोर बनाया।.बांग्लादेश ए को एक और महत्वपूर्ण सफलता मिली है। रिपोन मंडोल ने शामिल हुसैन (14) को सब्स्टीट्यूट फील्डर चौधरी मोहम्मद रिजवान के हाथों कैच कराकर आउट किया। कुछ ही गेंदों में दो विकेट गिरने के कारण पाकिस्तान ए दबाव में आ गया है और बांग्लादेश ने मैच में अपनी पकड़ मजबूत कर ली है।.बांग्लादेश ए फाइनल मुकाबले में कसी हुई गेंदबाजी कर रहा है।
+
+पाकिस्तान ए का 20 ओवर के बाद स्कोर 82-2 है।.बांग्लादेश के खिलाफ केवल 21 रन पर 2 विकेट गिरने के बाद पाकिस्तान की पारी ने स्थिरता प्राप्त की है। 26 ओवर के बाद स्कोर 111-2 है।.रुबेल ने बांग्लादेश ए के लिए बड़ा विकेट लिया और पाकिस्तान ए को बड़ा झटका दिया। हसन नवाज पवेलियन लौट रहे हैं।
+
+रुबेल ने ओवर द विकेट आकर मिडिल-लेग के आसपास लेंथ गेंद डाली, जो पिच से स्किड होकर आई। हसन पीछे हटकर लेग साइड में खेलने की कोशिश करते हैं, लेकिन गेंद उनके बल्ले के अंदरूनी किनारे से चूककर सीधे बैक पैड पर जा लगी।.शाहज़ैब अपनी हाफ सेंचुरी पूरी करने के बाद आउट हो गए। गेंद स्टंप्स पर थोड़ी छोटी लेंथ की थी, जिसमें अंदर की ओर स्पिन था।
+
+गेंद पिच पर पड़ने के बाद थोड़ी रुककर बल्लेबाज की ओर आई। शाहज़ैब ने अपना स्टांस खोला और इसे मिड-विकेट की दिशा में शॉर्ट पर खड़े रिजवान के दाईं ओर हवा में खेल दिया। रिजवान ने हवा में छलांग लगाकर शानदार कैच लपका।.40 ओवर के बाद पाकिस्तान ए का स्कोर 178/4 है। इस दबाव में अब क्रीज पर मौजूद फरहान यूसुफ (22 रन) और अब्दुल समद (16 रन) को अंतिम 10 ओवरों में तेजी से रन बनाने की चुनौती का सामना करना होगा।.एसीसी मेंस एशिया कप राइजिंग स्टार्स 2026 के दूसरे सेमीफाइनल मुकाबले में पाकिस्तान-ए ने बांग्लादेश-ए को 5 विकेट से शिकस्त देकर खिताबी मुकाबले में प्रवेश कर लिया है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/sports/cricket/pakistan-a-vs-bangladesh-a-live-score-emerging-asia-cup-2026-semifinal-ars24)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Pak A vs Ban A Highlights: बांग्लादेश को रौंद फाइनल में पहुंचा पाकिस्तान, श्रीलंका से होगा खिताबी मुकाबला - Navbharat Live`,
+    summary_hi: `PAK A vs BAN-A Highlights: एशिया कप राइजिंग स्टार्स 2026 के दूसरे सेमीफाइनल में पाकिस्तान-ए ने बांग्लादेश-ए को 5 विकेट से हराकर फाइनल में प्रवेश कर लिया है। दोहा में पहले बल्लेबाजी करते हुए बांग्लादेश-ए ने शहादत हुसैन दीपू (नाबाद 103) के शत`,
+    content_hi: `PAK A vs BAN-A Highlights: एशिया कप राइजिंग स्टार्स 2026 के दूसरे सेमीफाइनल में पाकिस्तान-ए ने बांग्लादेश-ए को 5 विकेट से हराकर फाइनल में प्रवेश कर लिया है। दोहा में पहले बल्लेबाजी करते हुए बांग्लादेश-ए ने शहादत हुसैन दीपू (नाबाद 103) के शतक और माहिदुल इस्लाम (42) की पारी की बदौलत 50 ओवर में 232/8 रन बनाए।
+
+पाकिस्तान के लिए सुफियान मुकीम ने 3 विकेट झटके। लक्ष्य का पीछा करते हुए पाकिस्तान-ए ने हसन नवाज (62), शाहजैब खान (50), फरहान यूसुफ (46) और कप्तान अब्दुल समद (44) की उपयोगी पारियों की मदद से 45.2 ओवर में 233/5 रन बनाकर मैच जीत लिया। इस जीत के साथ ही पाकिस्तान-ए ने टूर्नामेंट के फाइनल में अपनी जगह पक्की कर ली है।
+
+खिताबी मुकाबले में उसका सामना रविवार को श्रीलंका-ए से होगा, जिसने पहले सेमीफाइनल में भारत-ए को 8 विकेट से हराकर फाइनल का टिकट कटाया था।.पाकिस्तान ए की प्लेइंग इलेवन: शमील हुसैन, माज़ सदाकत, शाहज़ेब खान, रोहेल नज़ीर (विकेटकीपर), हसन नवाज़, अब्दुल समद (कप्तान), फरहान यूसुफ, मोहम्मद इमरान रंधावा, अहमद दानियाल, सुफयान मोकिम और अली रज़ा।बांग्लादेश ए की प्लेइंग इलेवन: सैफ हसन (कप्तान), अफीफ हुसैन, शहादत हुसैन दीपू, महमुदुल हसन जॉय, सब्बीर रहमान, महिदुल इस्लाम अंकोन (विकेटकीपर), रकीबुल हसन, एसएम महेरोब, एमडी रूबेल, रिपन मोंडोल और इकबाल हुसैन एमोन।.पाकिस्तान ए के खिलाफ फाइनल मुकाबले में बांग्लादेश ए ने अपनी पारी की शुरुआत कर दी है।
+
+कप्तान सैफ हसन और महमुदुल हसन जॉय ओपनिंग करने क्रीज पर आए हैं, वहीं पाकिस्तान ए की ओर से अली रजा नई गेंद के साथ गेंदबाजी की शुरुआत कर रहे हैं। सेमीफाइनल जैसे अहम मैच में बांग्लादेश की कोशिश मजबूत शुरुआती साझेदारी बनाने की होगी।.बांग्लादेश ए की शुरुआत निराशाजनक रही, जहां टीम ने केवल 24 रन पर 2 विकेट खो दिए।
+
+तेज गेंदबाज अली रजा ने कप्तान सैफ हसन (2) और महमुदुल हसन जॉय (9) को आउट कर पाकिस्तान को बेहतरीन शुरुआत दिलाई। अब शहादत हुसैन दीपू और महिदुल इस्लाम टीम की पारी को संभालने का प्रयास कर रहे हैं।.शुरुआती दो विकेट गिरने के बाद शहादत हुसैन दीपू ने कुछ शानदार शॉट्स खेलकर बांग्लादेश की पारी को संभालने का प्रयास किया है।
+
+9 ओवर के बाद टीम का स्कोर 30/2 है, जबकि महिदुल इस्लाम 1 रन और दीपू 13 रन बनाकर क्रीज पर मौजूद हैं।.शुरुआती दो विकेट गिरने के बाद पारी को संभाला गया, 16 ओवर के बाद बांग्लादेश ए का स्कोर 54-2 है। महिदुल इस्लाम अंकन और शाहादत होसैन डिपू क्रीज पर टिके हुए हैं।.शुरुआती झटकों के बाद महिदुल इस्लाम अंकों और शहादत हुसैन दीपू ने बांग्लादेश ए की पारी को संभाल लिया है।
+
+20 ओवर के बाद टीम का स्कोर 76/2 है, जहां महिदुल 59 गेंदों पर 29 रन और दीपू 39 गेंदों पर 31 रन बनाकर क्रीज पर टिके हुए हैं। आखिरी ओवर में महिदुल ने दो चौके लगाकर रनगति बढ़ाने का संकेत दिया है।.सेमीपाइनल मुकाबले में शहादत हुसैन दीपू ने&nbsp;अर्धशतक जड़ दिया है। शुरुआती झटकों के बाद महिदुल इस्लाम अंकों और शहादत हुसैन दीपू ने बांग्लादेश ए की पारी को संभाल लिया है।
+
+27 ओवर के बाद टीम का स्कोर 110/2 है।.सुफियान मोकीम ने शानदार गेंदबाजी करते हुए महिदुल इस्लाम अंकन को पवेलियन भेज दिया। अंकन ऊंची गेंद पर लॉन्ग-ऑफ के ऊपर से शॉट खेलने की कोशिश करते हैं, लेकिन वहां माज़ सादकत को कैच थमा बैठते हैं। इसके साथ ही 95 रन की साझेदारी का अंत हो गया। अंकन 42 रन बनाकर आउट हुए।.Rohit Sharma MI Captain: रोहित शर्मा फिर बने मुंबई इंडियंस के कप्तान, IPL 2027 से पहले बड़ा ऐलान.एक समय जब बांग्लादेश ए 100 रन के बाद मजबूत स्थिति में था, सुफियान मुकीम ने खेल की दिशा पूरी तरह बदल दी।
+
+33 ओवर के बाद बांग्लादेश का स्कोर 128/5 है।.बांग्लादेश ए की पारी अब पूरी तरह से शहादत हुसैन दीपू पर निर्भर हो गई है। 47 ओवर के बाद टीम का स्कोर 198/8 है, और दीपू 109 गेंदों में 91 रन बनाकर शतक के करीब हैं। वहीं, पाकिस्तान के गेंदबाज लगातार विकेट लेकर बांग्लादेश को बड़े स्कोर तक पहुंचने से रोकने में सफल हो रहे हैं।.एक समय बांग्लादेश ए की टीम 118 रन पर 5 विकेट खोकर मुश्किल में थी, लेकिन शहादत हुसैन दीपू ने 118 गेंदों में नाबाद 103 रन बनाकर शानदार प्रदर्शन किया।
+
+उनकी शतकीय पारी और आखिरी ओवरों में रिपोन मंडोल (19)* की तेज बल्लेबाजी के चलते बांग्लादेश ए ने 50 ओवर में 232/8 का स्कोर बनाया।.बांग्लादेश ए को एक और महत्वपूर्ण सफलता मिली है। रिपोन मंडोल ने शामिल हुसैन (14) को सब्स्टीट्यूट फील्डर चौधरी मोहम्मद रिजवान के हाथों कैच कराकर आउट किया। कुछ ही गेंदों में दो विकेट गिरने के कारण पाकिस्तान ए दबाव में आ गया है और बांग्लादेश ने मैच में अपनी पकड़ मजबूत कर ली है।.बांग्लादेश ए फाइनल मुकाबले में कसी हुई गेंदबाजी कर रहा है।
+
+पाकिस्तान ए का 20 ओवर के बाद स्कोर 82-2 है।.बांग्लादेश के खिलाफ केवल 21 रन पर 2 विकेट गिरने के बाद पाकिस्तान की पारी ने स्थिरता प्राप्त की है। 26 ओवर के बाद स्कोर 111-2 है।.रुबेल ने बांग्लादेश ए के लिए बड़ा विकेट लिया और पाकिस्तान ए को बड़ा झटका दिया। हसन नवाज पवेलियन लौट रहे हैं।
+
+रुबेल ने ओवर द विकेट आकर मिडिल-लेग के आसपास लेंथ गेंद डाली, जो पिच से स्किड होकर आई। हसन पीछे हटकर लेग साइड में खेलने की कोशिश करते हैं, लेकिन गेंद उनके बल्ले के अंदरूनी किनारे से चूककर सीधे बैक पैड पर जा लगी।.शाहज़ैब अपनी हाफ सेंचुरी पूरी करने के बाद आउट हो गए। गेंद स्टंप्स पर थोड़ी छोटी लेंथ की थी, जिसमें अंदर की ओर स्पिन था।
+
+गेंद पिच पर पड़ने के बाद थोड़ी रुककर बल्लेबाज की ओर आई। शाहज़ैब ने अपना स्टांस खोला और इसे मिड-विकेट की दिशा में शॉर्ट पर खड़े रिजवान के दाईं ओर हवा में खेल दिया। रिजवान ने हवा में छलांग लगाकर शानदार कैच लपका।.40 ओवर के बाद पाकिस्तान ए का स्कोर 178/4 है। इस दबाव में अब क्रीज पर मौजूद फरहान यूसुफ (22 रन) और अब्दुल समद (16 रन) को अंतिम 10 ओवरों में तेजी से रन बनाने की चुनौती का सामना करना होगा।.एसीसी मेंस एशिया कप राइजिंग स्टार्स 2026 के दूसरे सेमीफाइनल मुकाबले में पाकिस्तान-ए ने बांग्लादेश-ए को 5 विकेट से शिकस्त देकर खिताबी मुकाबले में प्रवेश कर लिया है।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/sports/cricket/pakistan-a-vs-bangladesh-a-live-score-emerging-asia-cup-2026-semifinal-ars24)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट Navbharat Live के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Pak A vs Ban A Highlights: बांग्लादेश को रौंद फाइनल में पहुंचा पाकिस्तान, श्रीलंका से होगा खिताबी मुकाबला - Navbharat Live से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Navbharat Live`,
+  },
+  {
+    id: 162,
+    title: `Yeh Prem Mol Liya Opening Day Box Office: Ayushmann Khurrana and Sharvari starrer takes DULL start, collects Rs. 3.50 crore on Day 1 - Pinkvilla`,
+    slug: `yeh-prem-mol-liya-opening-day-box-office-ayushmann-khurrana-and-sharva-2026`,
+    original_title: `Yeh Prem Mol Liya Opening Day Box Office: Ayushmann Khurrana and Sharvari starrer takes DULL start, collects Rs. 3.50 crore on Day 1 - Pinkvilla`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:33Z`,
+    updated_at: `2026-11-28T06:14:33Z`,
+    source_name: `Pinkvilla`,
+    source_url: `https://www.pinkvilla.com/entertainment/box-office/yeh-prem-mol-liya-opening-day-box-office-ayushmann-khurrana-and-sharvari-starrer-takes-dull-start-collects-rs-3-50-crore-on-day-1-1406679`,
+    source_courtesy: `Source: Pinkvilla`,
+    image_url: `/images/articles/yeh-prem-mol-liya-opening-day-box-office-ayushmann-khurrana-and-sharva-2026.webp`,
+    image_alt: `Yeh Prem Mol Liya Opening Day Box Office: Ayushmann Khurrana and Sharvari starrer takes DULL start, collects Rs. 3.50 crore on Day 1 - Pinkvilla`,
+    image_courtesy: `Image: Pinkvilla (External Source Attribution)`,
+    image_photographer: `Pinkvilla`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Yeh Prem Mol Liya, starring Ayushmann Khurrana and Sharvari in the lead roles, collected in the vicinity of Rs. 3.50 - 3.75 crore on its opening day. That&#39;s a low start for the film,&nbsp;similar to the range of previous Ayushmann Khurr`,
+    content: `Yeh Prem Mol Liya, starring Ayushmann Khurrana and Sharvari in the lead roles, collected in the vicinity of Rs. 3.50 - 3.75 crore on its opening day. That&#39;s a low start for the film,&nbsp;similar to the range of previous Ayushmann Khurrana&nbsp;films. For the record, Pati Patni Aur Woh Do and Udta Teer had a start of Rs.
+
+3.75 crore each on their opening days. The hope was that Sooraj Barjatya&#39;s name would bring in some additional money. And that seemed to be the case with advances, which suggested a potential Rs. 4-5 crore range opening. A song had also worked. However, the film had poor walk-up business, even worse than Gunmaaster G9, leaving it nowhere to go.
+
+The initial reports are okayish, so not much surge is expected either. The film has opened better overseas. The first day, including previews, is USD 500K, which can be termed a &quot;good&quot; opening. Let&#39;s see if it can turn the tables in its favor in the coming days or not.
+
+Box Office Collections of Yeh Prem Mol Liya&nbsp;are as follows:&nbsp;
+
+
+	
+		
+			Day
+			Nett
+		
+		
+			Friday
+			Rs. 3.50 crore&nbsp;
+		
+		
+			&nbsp;
+			&nbsp;
+		
+		
+			Total&nbsp;
+			Rs. 3.50 crore&nbsp;
+		
+	
+
+
+Stay tuned to Pinkvilla for more box office updates. DISCLAIMER: The box office figures, opening-day forecasts, and lifetime collection projections mentioned in this article are subjective trade estimates compiled from various commercial parameters, advance trends, and market sentiment.
+
+These are purely analytical tracking figures and do not constitute actual, finalised collections or certified accounting statements. Pinkvilla does not make any representation or warranty, express or implied, regarding the pinpoint accuracy or completeness of these projections. No statement in this article is intended to defame, harm, or malign any individual, production house, artist, or commercial entity involved in the making of the film.
+
+Download Pinkvilla Buzz now with one click:&nbsp;Pinkvilla Buzz
+ALSO READ: Gunmaaster G9 Box Office Collections: Emraan Hashmi and Genelia starrer records POOR opening, collects Rs 3 crore on Day 1
+
+---
+
+**Original Source:** [Pinkvilla](https://www.pinkvilla.com/entertainment/box-office/yeh-prem-mol-liya-opening-day-box-office-ayushmann-khurrana-and-sharvari-starrer-takes-dull-start-collects-rs-3-50-crore-on-day-1-1406679)`,
+    title_en: `Yeh Prem Mol Liya Opening Day Box Office: Ayushmann Khurrana and Sharvari starrer takes DULL start, collects Rs. 3.50 crore on Day 1 - Pinkvilla`,
+    summary_en: `Yeh Prem Mol Liya, starring Ayushmann Khurrana and Sharvari in the lead roles, collected in the vicinity of Rs. 3.50 - 3.75 crore on its opening day. That&#39;s a low start for the film,&nbsp;similar to the range of previous Ayushmann Khurr`,
+    content_en: `Yeh Prem Mol Liya, starring Ayushmann Khurrana and Sharvari in the lead roles, collected in the vicinity of Rs. 3.50 - 3.75 crore on its opening day. That&#39;s a low start for the film,&nbsp;similar to the range of previous Ayushmann Khurrana&nbsp;films. For the record, Pati Patni Aur Woh Do and Udta Teer had a start of Rs.
+
+3.75 crore each on their opening days. The hope was that Sooraj Barjatya&#39;s name would bring in some additional money. And that seemed to be the case with advances, which suggested a potential Rs. 4-5 crore range opening. A song had also worked. However, the film had poor walk-up business, even worse than Gunmaaster G9, leaving it nowhere to go.
+
+The initial reports are okayish, so not much surge is expected either. The film has opened better overseas. The first day, including previews, is USD 500K, which can be termed a &quot;good&quot; opening. Let&#39;s see if it can turn the tables in its favor in the coming days or not.
+
+Box Office Collections of Yeh Prem Mol Liya&nbsp;are as follows:&nbsp;
+
+
+	
+		
+			Day
+			Nett
+		
+		
+			Friday
+			Rs. 3.50 crore&nbsp;
+		
+		
+			&nbsp;
+			&nbsp;
+		
+		
+			Total&nbsp;
+			Rs. 3.50 crore&nbsp;
+		
+	
+
+
+Stay tuned to Pinkvilla for more box office updates. DISCLAIMER: The box office figures, opening-day forecasts, and lifetime collection projections mentioned in this article are subjective trade estimates compiled from various commercial parameters, advance trends, and market sentiment.
+
+These are purely analytical tracking figures and do not constitute actual, finalised collections or certified accounting statements. Pinkvilla does not make any representation or warranty, express or implied, regarding the pinpoint accuracy or completeness of these projections. No statement in this article is intended to defame, harm, or malign any individual, production house, artist, or commercial entity involved in the making of the film.
+
+Download Pinkvilla Buzz now with one click:&nbsp;Pinkvilla Buzz
+ALSO READ: Gunmaaster G9 Box Office Collections: Emraan Hashmi and Genelia starrer records POOR opening, collects Rs 3 crore on Day 1
+
+---
+
+**Original Source:** [Pinkvilla](https://www.pinkvilla.com/entertainment/box-office/yeh-prem-mol-liya-opening-day-box-office-ayushmann-khurrana-and-sharvari-starrer-takes-dull-start-collects-rs-3-50-crore-on-day-1-1406679)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Pinkvilla.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Yeh Prem Mol Liya Opening Day Box Office: Ayushmann Khurrana and Sharvari starrer takes DULL start, collects Rs. 3.50 crore on Day 1 - Pinkvilla.`,
+    primary_source: `Pinkvilla`,
+  },
+  {
+    id: 163,
+    title: `सूरज बड़जात्या की दूसरी हाईएस्ट ओपनर बन सकती है ये प्रेम मोल लिया, तोड़ पाएगी - ABP News`,
+    slug: `abp-news-2026`,
+    original_title: `सूरज बड़जात्या की दूसरी हाईएस्ट ओपनर बन सकती है ये प्रेम मोल लिया, तोड़ पाएगी - ABP News`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:36Z`,
+    updated_at: `2026-11-28T06:14:36Z`,
+    source_name: `ABP News`,
+    source_url: `https://www.abplive.com/entertainment/bollywood/yeh-prem-mol-liya-box-office-collection-set-to-be-sooraj-barjatya-second-highest-opener-on-day-1-prediction-advance-booking-3219825`,
+    source_courtesy: `Source: ABP News`,
+    image_url: `/images/articles/abp-news-2026.webp`,
+    image_alt: `सूरज बड़जात्या की दूसरी हाईएस्ट ओपनर बन सकती है ये प्रेम मोल लिया, तोड़ पाएगी - ABP News`,
+    image_courtesy: `Image: ABP News (External Source Attribution)`,
+    image_photographer: `ABP News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `सूरज बड़जात्या इन दिनों फिल्म 'ये प्रेम मोल लिया' को लेकर चर्चा में हैं. इस मूवी को लेकर दर्शकों और फैंस का इंतजार खत्म होने वाला है. इसके जरिए वो पहली बार आयुष्मान खुराना और शरवरी वाघ के साथ काम कर रहे हैं. वहीं, दोनों एक्टर्स की जोड़ी भी `,
+    content: `सूरज बड़जात्या इन दिनों फिल्म 'ये प्रेम मोल लिया' को लेकर चर्चा में हैं. इस मूवी को लेकर दर्शकों और फैंस का इंतजार खत्म होने वाला है. इसके जरिए वो पहली बार आयुष्मान खुराना और शरवरी वाघ के साथ काम कर रहे हैं. वहीं, दोनों एक्टर्स की जोड़ी भी फर्स्ट टाइम साथ में काम कर रही है. इसकी एडवांस बुकिंग भी शुरू हो चुकी है और इसे अच्छा खासा रिस्पांस मिल रहा है.&nbsp;
+सूरज बड़जात्या की फिल्म 'ये प्रेम मोल लिया' उनके करियर में बड़ा रिकॉर्ड बना सकती है.
+
+फिल्म के ओपनिंग डे बॉक्स ऑफिस प्रिडिक्शन को लेकर माना जा रहा है कि ये उनके करियर की दूसरी सबसे बड़ी ओपनर फिल्म हो सकती है. चलिए बताते हैं क्या कहते हैं प्रिडिक्शन और एडवांस बुकिंग के आंकड़े. पहले दिन कितनी कमाई कर सकती है 'ये प्रेम मोल लिया'? आयुष्मान खुराना और शरवरी वाघ की फिल्म 'ये प्रेम मोल लिया' का प्रिडिक्शन भी सामने आ गया है.
+
+कोईमोई के अनुसार, माना जा रहा है कि ये फिल्म 'रामायण' की लहर के बीच पहले दिन 5-7 करोड़ का बिजनेस पहले दिन कर सकती है. अच्छे खासे बज के बीच फिल्म को सिंगल डिजिट में ओपनिंग मिल रही है इसके पीछे की एक और वजह है कि इसके साथ इमरान हाशमी की फिल्म 'गनमास्टर जी9' को भी रिलीज किया जा रहा है, जो कि रोमांटिक और एक्शन ड्रामा है.
+
+सूरज बड़जात्या की दूसरी बिगेस्ट ओपनर बन सकती है 'ये प्रेम मोल लिया'
+बॉक्स ऑफिस प्रिडिक्शन की मानें तो अगर 'ये प्रेम मोल लिया' ने पहले दिन 5-7 करोड़ की कमाई के साथ ओपनिंग की तो ये सूरज बड़जात्या के करियर की दूसरी पहले दिन सबसे ज्यादा कमाई करने वाली फिल्म बन सकती है. सूरज बड़जात्या ने 34 साल के करियर में 7 फिल्में दी है और सभी हिट रहीं.
+
+लेकिन अगर इन फिल्मों के पहले दिन के बॉक्स ऑफिस कलेक्शन पर नजर डाली जाए तो इस लिहाज से 300-500% ज्यादा ओपनिंग कर सकती है. देखिए सूरज बड़जात्या की इंडिया में ओपनिंग डे पर हाईएस्ट कलेक्शन करने वाली फिल्मों की लिस्ट... 1. मैंने प्यार किया- 22 लाख2. हम आपके हैं कौन- 10 लाख3. हम साथ-साथ हैं- 1.14 करोड़4.
+
+मैं प्रेम की दीवानी हूं- 1.16 करोड़5. विवाह- 80 लाख6. प्रेम रतन धन पायो- 40.35 करोड़7. ऊंचाई- 1.81 करोड़&nbsp;
+(नोट- इन फिल्मों के बॉक्स ऑफिस आंकड़े सैकनिल्क से लिए गए हैं.)
+'ये प्रेम मोल लिया' की एडवांस बुकिंग
+बहरहाल, अगर 'ये प्रेम मोल लिया' की एडवांस बुकिंग के बारे में बात की जाए तो फिल्म को अच्छा खासा रिस्पांस मिल रहा है.
+
+इसके गाने पहले ही हिट हो चुके हैं. सैकनिल्क के अनुसार, शाम 7 बजे तक इस म्यूजिकल रोमांटिक ड्रामा फिल्म ने ब्लॉक सीट के साथ 6.45 करोड़ और बिना ब्लॉक सीट के साथ 3.46 करोड़ का बिजनेस कर लिया है. इसके 2.33 लाख टिकट भी बिक चुके हैं.
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/entertainment/bollywood/yeh-prem-mol-liya-box-office-collection-set-to-be-sooraj-barjatya-second-highest-opener-on-day-1-prediction-advance-booking-3219825)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `सूरज बड़जात्या की दूसरी हाईएस्ट ओपनर बन सकती है ये प्रेम मोल लिया, तोड़ पाएगी - ABP News`,
+    summary_hi: `सूरज बड़जात्या इन दिनों फिल्म 'ये प्रेम मोल लिया' को लेकर चर्चा में हैं. इस मूवी को लेकर दर्शकों और फैंस का इंतजार खत्म होने वाला है. इसके जरिए वो पहली बार आयुष्मान खुराना और शरवरी वाघ के साथ काम कर रहे हैं. वहीं, दोनों एक्टर्स की जोड़ी भी `,
+    content_hi: `सूरज बड़जात्या इन दिनों फिल्म 'ये प्रेम मोल लिया' को लेकर चर्चा में हैं. इस मूवी को लेकर दर्शकों और फैंस का इंतजार खत्म होने वाला है. इसके जरिए वो पहली बार आयुष्मान खुराना और शरवरी वाघ के साथ काम कर रहे हैं. वहीं, दोनों एक्टर्स की जोड़ी भी फर्स्ट टाइम साथ में काम कर रही है. इसकी एडवांस बुकिंग भी शुरू हो चुकी है और इसे अच्छा खासा रिस्पांस मिल रहा है.&nbsp;
+सूरज बड़जात्या की फिल्म 'ये प्रेम मोल लिया' उनके करियर में बड़ा रिकॉर्ड बना सकती है.
+
+फिल्म के ओपनिंग डे बॉक्स ऑफिस प्रिडिक्शन को लेकर माना जा रहा है कि ये उनके करियर की दूसरी सबसे बड़ी ओपनर फिल्म हो सकती है. चलिए बताते हैं क्या कहते हैं प्रिडिक्शन और एडवांस बुकिंग के आंकड़े. पहले दिन कितनी कमाई कर सकती है 'ये प्रेम मोल लिया'? आयुष्मान खुराना और शरवरी वाघ की फिल्म 'ये प्रेम मोल लिया' का प्रिडिक्शन भी सामने आ गया है.
+
+कोईमोई के अनुसार, माना जा रहा है कि ये फिल्म 'रामायण' की लहर के बीच पहले दिन 5-7 करोड़ का बिजनेस पहले दिन कर सकती है. अच्छे खासे बज के बीच फिल्म को सिंगल डिजिट में ओपनिंग मिल रही है इसके पीछे की एक और वजह है कि इसके साथ इमरान हाशमी की फिल्म 'गनमास्टर जी9' को भी रिलीज किया जा रहा है, जो कि रोमांटिक और एक्शन ड्रामा है.
+
+सूरज बड़जात्या की दूसरी बिगेस्ट ओपनर बन सकती है 'ये प्रेम मोल लिया'
+बॉक्स ऑफिस प्रिडिक्शन की मानें तो अगर 'ये प्रेम मोल लिया' ने पहले दिन 5-7 करोड़ की कमाई के साथ ओपनिंग की तो ये सूरज बड़जात्या के करियर की दूसरी पहले दिन सबसे ज्यादा कमाई करने वाली फिल्म बन सकती है. सूरज बड़जात्या ने 34 साल के करियर में 7 फिल्में दी है और सभी हिट रहीं.
+
+लेकिन अगर इन फिल्मों के पहले दिन के बॉक्स ऑफिस कलेक्शन पर नजर डाली जाए तो इस लिहाज से 300-500% ज्यादा ओपनिंग कर सकती है. देखिए सूरज बड़जात्या की इंडिया में ओपनिंग डे पर हाईएस्ट कलेक्शन करने वाली फिल्मों की लिस्ट... 1. मैंने प्यार किया- 22 लाख2. हम आपके हैं कौन- 10 लाख3. हम साथ-साथ हैं- 1.14 करोड़4.
+
+मैं प्रेम की दीवानी हूं- 1.16 करोड़5. विवाह- 80 लाख6. प्रेम रतन धन पायो- 40.35 करोड़7. ऊंचाई- 1.81 करोड़&nbsp;
+(नोट- इन फिल्मों के बॉक्स ऑफिस आंकड़े सैकनिल्क से लिए गए हैं.)
+'ये प्रेम मोल लिया' की एडवांस बुकिंग
+बहरहाल, अगर 'ये प्रेम मोल लिया' की एडवांस बुकिंग के बारे में बात की जाए तो फिल्म को अच्छा खासा रिस्पांस मिल रहा है.
+
+इसके गाने पहले ही हिट हो चुके हैं. सैकनिल्क के अनुसार, शाम 7 बजे तक इस म्यूजिकल रोमांटिक ड्रामा फिल्म ने ब्लॉक सीट के साथ 6.45 करोड़ और बिना ब्लॉक सीट के साथ 3.46 करोड़ का बिजनेस कर लिया है. इसके 2.33 लाख टिकट भी बिक चुके हैं.
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/entertainment/bollywood/yeh-prem-mol-liya-box-office-collection-set-to-be-sooraj-barjatya-second-highest-opener-on-day-1-prediction-advance-booking-3219825)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट ABP News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक सूरज बड़जात्या की दूसरी हाईएस्ट ओपनर बन सकती है ये प्रेम मोल लिया, तोड़ पाएगी - ABP News से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `ABP News`,
+  },
+  {
+    id: 164,
+    title: `Ramayana: Between Faith, Art and Commerce - Exchange4Media`,
+    slug: `ramayana-between-faith-art-and-commerce-exchange4media-2026`,
+    original_title: `Ramayana: Between Faith, Art and Commerce - Exchange4Media`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:38Z`,
+    updated_at: `2026-11-28T06:14:38Z`,
+    source_name: `Exchange4Media`,
+    source_url: `https://www.exchange4media.com/media-others-news/ramayana-between-faith-art-and-commerce-160548.html`,
+    source_courtesy: `Source: Exchange4Media`,
+    image_url: `/images/articles/ramayana-between-faith-art-and-commerce-exchange4media-2026.jpg`,
+    image_alt: `Ramayana: Between Faith, Art and Commerce - Exchange4Media`,
+    image_courtesy: `Image: Exchange4Media (External Source Attribution)`,
+    image_photographer: `Exchange4Media`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `In a podcast titled Whose Truth? Whose History?, Sanskrit scholar Nityanand Mishra makes an emphatic case against watching the new cinematic adaptation of the Ramayana. His objection is not to the use of creative imagination in interpreting`,
+    content: `In a podcast titled Whose Truth? Whose History?, Sanskrit scholar Nityanand Mishra makes an emphatic case against watching the new cinematic adaptation of the Ramayana. His objection is not to the use of creative imagination in interpreting an ancient epic, but to what he considers a serious failure of research and an unacceptable departure from the scriptural understanding of its principal characters.
+
+He is particularly disturbed by the portrayal of Ravana, whom he believes the film has sought to elevate at the expense of Rama. He also questions the film's depiction of Sita's response to her abduction and dialogue that appears to suggest that Ravana was not entirely evil. For Mishra, these are not minor cinematic liberties; they alter the moral character of a narrative that is sacred to millions.
+
+His refusal to watch the film is an expression of that conviction. His criticism raises a larger question that deserves consideration beyond the merits or shortcomings of any individual film: how does one translate a sacred epic into contemporary cinema without compromising the very essence that makes it sacred?
+
+Ramayana: Rise of a Legend, directed by Nitesh Tiwari, is arguably the most ambitious cinematic undertaking in the history of Indian cinema. With an unprecedented budget, an international production and distribution network, and music by A.R. Rahman and Hans Zimmer, the makers have clearly set their sights beyond the Indian market.
+
+The first instalment, released in November 2026, is only the beginning; the second is expected around Deepavali 2028. The ambition is to give an Indian epic a global cinematic presence, perhaps even create a franchise comparable to the great entertainment universes of Hollywood. Yet the Ramayana is no ordinary literary property waiting to be adapted.
+
+It is a living tradition, deeply embedded in the religious, cultural and emotional consciousness of millions. Valmiki's Sanskrit epic, Tulsidas's Ramcharitmanas, Kamban's Tamil retelling and countless regional and folk versions have given it different expressions. It has travelled beyond India into the cultural traditions of Thailand, Indonesia and Cambodia.
+
+Its characters are therefore not strangers to be introduced to an audience; they arrive with inherited meanings, beliefs and expectations. This makes the filmmaker's task particularly demanding. Creative freedom is indispensable, but it cannot be entirely divorced from an understanding of the source.
+
+The question is not whether every adaptation must reproduce one prescribed version, but whether it preserves the essential moral and spiritual character of the epic. The controversy surrounding Ravana illustrates this dilemma. His scholarship, devotion to Shiva, military prowess and formidable personality are part of the larger tradition.
+
+But these attributes cannot be considered in isolation from the arrogance, abduction of Sita and abuse of power that define his moral transgression. Mishra's objection is more fundamental. He questions the film's classification and characterisation of Ravana, arguing that presenting him as a morally respectable or essentially benevolent figure finds no justification in the scriptural tradition.
+
+His criticism of the suggestion that Ravana was not entirely bad, attributed to Sita in the film, is particularly pointed. Whether one agrees with every aspect of his interpretation or not, the underlying concern merits serious engagement. There is a difference between making an antagonist compelling and making him morally equivalent to the protagonist.
+
+Indeed, the magnitude of Rama's achievement derives partly from the formidable adversary he confronts. But the moral centre of the narrative cannot become blurred in the pursuit of dramatic effect. The portrayal of Rama presents an equally difficult challenge. Revered as Maryada Purushottam, he represents righteousness, restraint and adherence to dharma, even when personal sacrifice is demanded.
+
+His greatness is not simply that he defeats Ravana, but that he confronts adversity without abandoning his moral obligations. Popular cinema often seeks heroes with visible imperfections, emotional conflicts and dramatic transformations. Rama's moral composure may be less immediately amenable to such conventions.
+
+Yet the answer cannot be to diminish the ideal in order to make the hero more conventionally entertaining. The Ramayana offers abundant human drama through Dasharatha's anguish, Bharata's renunciation, Sita's courage, Lakshmana's loyalty and Hanuman's devotion. The challenge is to bring these dimensions alive without losing their moral depth.
+
+The debate is not confined to religious and scriptural criticism. Film critics, too, have questioned the balance of characterisation and the dominance of spectacle over storytelling. The Indian Express has drawn attention to Ravana's more elaborately developed screen presence, while international reviews have differed in their assessment of the film's visual achievement and narrative shortcomings.
+
+The Economist, in particular, has questioned whether the film's emphasis on spectacle, at the expense of character development and storytelling, will enable it to travel successfully beyond India. The filmmakers, on the other hand, have defended their ambition to present a more expansive and internationally accessible interpretation.
+
+The commercial dimension adds another layer to this debate. In a recent article in The Times of India, Neeraj Kaushal, Professor of Social Policy at Columbia University, argues that the overseas market for Indian films continues to depend substantially on the diaspora. For a film to become a genuine global commercial success, it must attract audiences in the West and China who have little or no cultural connection with India.
+
+This is a formidable challenge, even for a production of such scale. The Indian diaspora may provide an initial audience, but it cannot by itself sustain a global entertainment franchise. There is nothing objectionable about this ambition. The Ramayana's themes of duty, sacrifice, loyalty, the abuse of power and the conflict between good and evil have a universal resonance.
+
+But making the story accessible to the world should not mean making it conform to the expectations of Hollywood. Its cultural distinctiveness is not an impediment to its international appeal; it may well be its greatest asset. Ultimately, the film must be judged on more than its box-office performance.
+
+Commercial success, cinematic accomplishment and cultural significance are three different measures, and they need not necessarily coincide. A spectacular production may attract millions without deepening their understanding of the epic. Conversely, a film that stimulates curiosity about the Ramayana, its characters and its moral universe may leave a cultural legacy extending well beyond its theatrical run.
+
+It may be premature to pronounce a final verdict when the second instalment is yet to come. But one consideration should remain central. The Ramayana has survived not because one version has established an exclusive claim over it, but because successive generations and cultures have found new meanings in its characters and its moral universe.
+
+Its journey across centuries has been one of continuous renewal, without losing its essential identity. The challenge before its newest cinematic interpreters is therefore not merely to take the Ramayana to the world, but to ensure that, in the process, the world encounters the Ramayana itself—not simply a spectacular production carrying its name.
+
+That would be a far more enduring achievement than any box-office record or cinematic franchise.
+
+---
+
+**Original Source:** [Exchange4Media](https://www.exchange4media.com/media-others-news/ramayana-between-faith-art-and-commerce-160548.html)`,
+    title_en: `Ramayana: Between Faith, Art and Commerce - Exchange4Media`,
+    summary_en: `In a podcast titled Whose Truth? Whose History?, Sanskrit scholar Nityanand Mishra makes an emphatic case against watching the new cinematic adaptation of the Ramayana. His objection is not to the use of creative imagination in interpreting`,
+    content_en: `In a podcast titled Whose Truth? Whose History?, Sanskrit scholar Nityanand Mishra makes an emphatic case against watching the new cinematic adaptation of the Ramayana. His objection is not to the use of creative imagination in interpreting an ancient epic, but to what he considers a serious failure of research and an unacceptable departure from the scriptural understanding of its principal characters.
+
+He is particularly disturbed by the portrayal of Ravana, whom he believes the film has sought to elevate at the expense of Rama. He also questions the film's depiction of Sita's response to her abduction and dialogue that appears to suggest that Ravana was not entirely evil. For Mishra, these are not minor cinematic liberties; they alter the moral character of a narrative that is sacred to millions.
+
+His refusal to watch the film is an expression of that conviction. His criticism raises a larger question that deserves consideration beyond the merits or shortcomings of any individual film: how does one translate a sacred epic into contemporary cinema without compromising the very essence that makes it sacred?
+
+Ramayana: Rise of a Legend, directed by Nitesh Tiwari, is arguably the most ambitious cinematic undertaking in the history of Indian cinema. With an unprecedented budget, an international production and distribution network, and music by A.R. Rahman and Hans Zimmer, the makers have clearly set their sights beyond the Indian market.
+
+The first instalment, released in November 2026, is only the beginning; the second is expected around Deepavali 2028. The ambition is to give an Indian epic a global cinematic presence, perhaps even create a franchise comparable to the great entertainment universes of Hollywood. Yet the Ramayana is no ordinary literary property waiting to be adapted.
+
+It is a living tradition, deeply embedded in the religious, cultural and emotional consciousness of millions. Valmiki's Sanskrit epic, Tulsidas's Ramcharitmanas, Kamban's Tamil retelling and countless regional and folk versions have given it different expressions. It has travelled beyond India into the cultural traditions of Thailand, Indonesia and Cambodia.
+
+Its characters are therefore not strangers to be introduced to an audience; they arrive with inherited meanings, beliefs and expectations. This makes the filmmaker's task particularly demanding. Creative freedom is indispensable, but it cannot be entirely divorced from an understanding of the source.
+
+The question is not whether every adaptation must reproduce one prescribed version, but whether it preserves the essential moral and spiritual character of the epic. The controversy surrounding Ravana illustrates this dilemma. His scholarship, devotion to Shiva, military prowess and formidable personality are part of the larger tradition.
+
+But these attributes cannot be considered in isolation from the arrogance, abduction of Sita and abuse of power that define his moral transgression. Mishra's objection is more fundamental. He questions the film's classification and characterisation of Ravana, arguing that presenting him as a morally respectable or essentially benevolent figure finds no justification in the scriptural tradition.
+
+His criticism of the suggestion that Ravana was not entirely bad, attributed to Sita in the film, is particularly pointed. Whether one agrees with every aspect of his interpretation or not, the underlying concern merits serious engagement. There is a difference between making an antagonist compelling and making him morally equivalent to the protagonist.
+
+Indeed, the magnitude of Rama's achievement derives partly from the formidable adversary he confronts. But the moral centre of the narrative cannot become blurred in the pursuit of dramatic effect. The portrayal of Rama presents an equally difficult challenge. Revered as Maryada Purushottam, he represents righteousness, restraint and adherence to dharma, even when personal sacrifice is demanded.
+
+His greatness is not simply that he defeats Ravana, but that he confronts adversity without abandoning his moral obligations. Popular cinema often seeks heroes with visible imperfections, emotional conflicts and dramatic transformations. Rama's moral composure may be less immediately amenable to such conventions.
+
+Yet the answer cannot be to diminish the ideal in order to make the hero more conventionally entertaining. The Ramayana offers abundant human drama through Dasharatha's anguish, Bharata's renunciation, Sita's courage, Lakshmana's loyalty and Hanuman's devotion. The challenge is to bring these dimensions alive without losing their moral depth.
+
+The debate is not confined to religious and scriptural criticism. Film critics, too, have questioned the balance of characterisation and the dominance of spectacle over storytelling. The Indian Express has drawn attention to Ravana's more elaborately developed screen presence, while international reviews have differed in their assessment of the film's visual achievement and narrative shortcomings.
+
+The Economist, in particular, has questioned whether the film's emphasis on spectacle, at the expense of character development and storytelling, will enable it to travel successfully beyond India. The filmmakers, on the other hand, have defended their ambition to present a more expansive and internationally accessible interpretation.
+
+The commercial dimension adds another layer to this debate. In a recent article in The Times of India, Neeraj Kaushal, Professor of Social Policy at Columbia University, argues that the overseas market for Indian films continues to depend substantially on the diaspora. For a film to become a genuine global commercial success, it must attract audiences in the West and China who have little or no cultural connection with India.
+
+This is a formidable challenge, even for a production of such scale. The Indian diaspora may provide an initial audience, but it cannot by itself sustain a global entertainment franchise. There is nothing objectionable about this ambition. The Ramayana's themes of duty, sacrifice, loyalty, the abuse of power and the conflict between good and evil have a universal resonance.
+
+But making the story accessible to the world should not mean making it conform to the expectations of Hollywood. Its cultural distinctiveness is not an impediment to its international appeal; it may well be its greatest asset. Ultimately, the film must be judged on more than its box-office performance.
+
+Commercial success, cinematic accomplishment and cultural significance are three different measures, and they need not necessarily coincide. A spectacular production may attract millions without deepening their understanding of the epic. Conversely, a film that stimulates curiosity about the Ramayana, its characters and its moral universe may leave a cultural legacy extending well beyond its theatrical run.
+
+It may be premature to pronounce a final verdict when the second instalment is yet to come. But one consideration should remain central. The Ramayana has survived not because one version has established an exclusive claim over it, but because successive generations and cultures have found new meanings in its characters and its moral universe.
+
+Its journey across centuries has been one of continuous renewal, without losing its essential identity. The challenge before its newest cinematic interpreters is therefore not merely to take the Ramayana to the world, but to ensure that, in the process, the world encounters the Ramayana itself—not simply a spectacular production carrying its name.
+
+That would be a far more enduring achievement than any box-office record or cinematic franchise.
+
+---
+
+**Original Source:** [Exchange4Media](https://www.exchange4media.com/media-others-news/ramayana-between-faith-art-and-commerce-160548.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Exchange4Media.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Ramayana: Between Faith, Art and Commerce - Exchange4Media.`,
+    primary_source: `Exchange4Media`,
+  },
+  {
+    id: 165,
+    title: `अदालत का समय बर्बाद मत करो', रणबीर कपूर की 'रामायण' के खिलाफ याचिका पर तत्काल सुनवाई से SC का इनकार - Jagran`,
+    slug: `sc-jagran-2026`,
+    original_title: `अदालत का समय बर्बाद मत करो', रणबीर कपूर की 'रामायण' के खिलाफ याचिका पर तत्काल सुनवाई से SC का इनकार - Jagran`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:14:41Z`,
+    updated_at: `2026-11-28T06:14:41Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/news/national-supreem-court-refuses-urgent-hearing-on-petition-against-ranbir-kapoors-ramayana-40450074.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/sc-jagran-2026.webp`,
+    image_alt: `अदालत का समय बर्बाद मत करो', रणबीर कपूर की 'रामायण' के खिलाफ याचिका पर तत्काल सुनवाई से SC का इनकार - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `सुप्रीम कोर्ट ने रणबीर कपूर की फिल्म 'रामायण: राइज ऑफ ए लेजेंड' की रिलीज को चुनौती देने वाली याचिका पर तत्काल सुनवाई से इनकार कर दिया है।`,
+    content: `सुप्रीम कोर्ट ने रणबीर कपूर की फिल्म 'रामायण: राइज ऑफ ए लेजेंड' की रिलीज को चुनौती देने वाली याचिका पर तत्काल सुनवाई से इनकार कर दिया है।
+
+रणबीर कपूर की 'रामायण' के खिलाफ याचिका पर तत्काल सुनवाई से SC का इनकार(फाइल फोटो)
+
+जानिए मुख्य बातें और खबर का सार एक नजर में
+
+डिजिटल डेस्क, नई दिल्ली। सुप्रीम कोर्ट ने शुक्रवार को रणबीर कपूर की फिल्म रामायण: राइज ऑफ ए लेजेंड की रिलीज को चुनौती देने वाली याचिका पर तत्काल सुनवाई करने से इनकार कर दिया है।
+
+समाचार एजेंसी पीटीआई के अनुसार, कोर्ट ने सख्त टिप्पणी करते हुए कहा कि जिन्हें फिल्म में दिखाए गए महाकाव्य के नजरिए से असहमति है, वे अपना अलग नजरिया पेश करने के लिए खुद की फिल्म बनाने के लिए स्वतंत्र हैं।
+
+चीफ जस्टिस सूर्यकांत, जस्टिस जॉयमाल्या बागची और जस्टिस वी. मोहना की बेंच ने इस याचिका पर जल्द सुनवाई की जरूरत पर सवाल उठाए। बेंच ने कहा कि फिल्म पहले ही सिनेमाघरों में रिलीज हो चुकी है और जो लोग इसे देखना चाहते थे, वे देख चुके हैं।
+
+याचिकाकर्ता के वकील ने बेंच को बताया कि यह याचिका 23 नवंबर को दर्ज की गई थी, लेकिन अभी तक इसे सुनवाई के लिए सूचीबद्ध नहीं किया गया है। इस पर चीफ जस्टिस सूर्यकांत ने कहा कि फिल्म पहले ही रिलीज हो चुकी है। जिन्हें इसे देखना था, वे देख चुके हैं।
+
+याचिका में आरोप लगाया गया है कि फिल्म निर्माताओं ने रामायण के चित्रण में कई पौराणिक तथ्यों के साथ छेड़छाड़ की है।
+
+सुनवाई के दौरान जब वकील ने दलील दी कि फिल्म में कई तथ्यों को तोड़-मरोड़कर पेश किया गया है, तो जस्टिस बागची ने जवाब दिया कि उन्होंने अपनी समझ के हिसाब से फिल्म बनाई है, आप अपनी समझ के हिसाब से फिल्म बना लीजिए। कोर्ट का समय बर्बाद मत कीजिए।
+
+चीफ जस्टिस ने भी इस पर सहमति जताते हुए कहा की अगर महाकाव्य को लेकर आपका कोई अलग विचार या नजरिया है, तो आप उस पर फिल्म बनाइए। कोर्ट का समय बर्बाद मत कीजिए।
+
+वकील द्वारा जल्द सुनवाई के लिए बार-बार आग्रह करने पर बेंच ने स्पष्ट किया कि इस मामले को सामान्य प्रक्रिया के तहत तय समय पर ही सूचीबद्ध किया जाएगा।
+
+यह भी पढ़ें- रामायण फिल्म के दृश्यों पर आपत्ति, झारखंड हाई कोर्ट में रोक के लिए जनहित याचिका दायर; राम मंदिर ट्रस्ट को मिले मुआवजा
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/news/national-supreem-court-refuses-urgent-hearing-on-petition-against-ranbir-kapoors-ramayana-40450074.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अदालत का समय बर्बाद मत करो', रणबीर कपूर की 'रामायण' के खिलाफ याचिका पर तत्काल सुनवाई से SC का इनकार - Jagran`,
+    summary_hi: `सुप्रीम कोर्ट ने रणबीर कपूर की फिल्म 'रामायण: राइज ऑफ ए लेजेंड' की रिलीज को चुनौती देने वाली याचिका पर तत्काल सुनवाई से इनकार कर दिया है।`,
+    content_hi: `सुप्रीम कोर्ट ने रणबीर कपूर की फिल्म 'रामायण: राइज ऑफ ए लेजेंड' की रिलीज को चुनौती देने वाली याचिका पर तत्काल सुनवाई से इनकार कर दिया है।
+
+रणबीर कपूर की 'रामायण' के खिलाफ याचिका पर तत्काल सुनवाई से SC का इनकार(फाइल फोटो)
+
+जानिए मुख्य बातें और खबर का सार एक नजर में
+
+डिजिटल डेस्क, नई दिल्ली। सुप्रीम कोर्ट ने शुक्रवार को रणबीर कपूर की फिल्म रामायण: राइज ऑफ ए लेजेंड की रिलीज को चुनौती देने वाली याचिका पर तत्काल सुनवाई करने से इनकार कर दिया है।
+
+समाचार एजेंसी पीटीआई के अनुसार, कोर्ट ने सख्त टिप्पणी करते हुए कहा कि जिन्हें फिल्म में दिखाए गए महाकाव्य के नजरिए से असहमति है, वे अपना अलग नजरिया पेश करने के लिए खुद की फिल्म बनाने के लिए स्वतंत्र हैं।
+
+चीफ जस्टिस सूर्यकांत, जस्टिस जॉयमाल्या बागची और जस्टिस वी. मोहना की बेंच ने इस याचिका पर जल्द सुनवाई की जरूरत पर सवाल उठाए। बेंच ने कहा कि फिल्म पहले ही सिनेमाघरों में रिलीज हो चुकी है और जो लोग इसे देखना चाहते थे, वे देख चुके हैं।
+
+याचिकाकर्ता के वकील ने बेंच को बताया कि यह याचिका 23 नवंबर को दर्ज की गई थी, लेकिन अभी तक इसे सुनवाई के लिए सूचीबद्ध नहीं किया गया है। इस पर चीफ जस्टिस सूर्यकांत ने कहा कि फिल्म पहले ही रिलीज हो चुकी है। जिन्हें इसे देखना था, वे देख चुके हैं।
+
+याचिका में आरोप लगाया गया है कि फिल्म निर्माताओं ने रामायण के चित्रण में कई पौराणिक तथ्यों के साथ छेड़छाड़ की है।
+
+सुनवाई के दौरान जब वकील ने दलील दी कि फिल्म में कई तथ्यों को तोड़-मरोड़कर पेश किया गया है, तो जस्टिस बागची ने जवाब दिया कि उन्होंने अपनी समझ के हिसाब से फिल्म बनाई है, आप अपनी समझ के हिसाब से फिल्म बना लीजिए। कोर्ट का समय बर्बाद मत कीजिए।
+
+चीफ जस्टिस ने भी इस पर सहमति जताते हुए कहा की अगर महाकाव्य को लेकर आपका कोई अलग विचार या नजरिया है, तो आप उस पर फिल्म बनाइए। कोर्ट का समय बर्बाद मत कीजिए।
+
+वकील द्वारा जल्द सुनवाई के लिए बार-बार आग्रह करने पर बेंच ने स्पष्ट किया कि इस मामले को सामान्य प्रक्रिया के तहत तय समय पर ही सूचीबद्ध किया जाएगा।
+
+यह भी पढ़ें- रामायण फिल्म के दृश्यों पर आपत्ति, झारखंड हाई कोर्ट में रोक के लिए जनहित याचिका दायर; राम मंदिर ट्रस्ट को मिले मुआवजा
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/news/national-supreem-court-refuses-urgent-hearing-on-petition-against-ranbir-kapoors-ramayana-40450074.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक अदालत का समय बर्बाद मत करो', रणबीर कपूर की 'रामायण' के खिलाफ याचिका पर तत्काल सुनवाई से SC का इनकार - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+{
     id: 148,
     title: `CSA 4-day match in Newlands abandoned due to dangerous pitch`,
     slug: `csa-4-day-match-in-newlands-abandoned-due-to-dangerous-pitch-2026`,
