@@ -4,16 +4,17 @@ import json
 import re
 import time
 import urllib.request
+import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 import subprocess
 import io
 
-# Ensure UTF-8 output on all systems including Windows Task Scheduler
 if sys.platform == "win32":
     try:
-        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
-        sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
+        if hasattr(sys.stdout, "reconfigure"):
+            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
     except Exception:
         pass
 
@@ -237,6 +238,13 @@ try:
     from bs4 import BeautifulSoup
 except ImportError:
     BeautifulSoup = None
+
+if SCRIPTS_DIR not in sys.path:
+    sys.path.insert(0, SCRIPTS_DIR)
+try:
+    from gemini_drafter import gemini_drafter
+except Exception:
+    gemini_drafter = None
 
 def clean_html(text):
     if not text:
@@ -540,38 +548,83 @@ def build_complete_article(art_id, item, seen_images):
     body_text = "\n\n".join(extracted_paras) if extracted_paras else desc_text
     if len(extracted_paras) < 3 or len(body_text) < 400:
         return None
-    word_count = max(1, len(body_text.split()))
-    read_mins = max(1, round(word_count / 200))
 
-    if is_hindi:
-        why_it_matters = f"{category.capitalize()} श्रेणी से जुड़ी यह रिपोर्ट {source_name} के प्राथमिक समाचार बुलेटिन पर आधारित है।"
-        who_is_affected = "संबंधित पाठक, नागरिक एवं नीति-निर्माता।"
-        readers_searching = f"पाठक {clean_title} से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।"
-        content_markdown = f"""{body_text}
+    lang_code = "hi" if is_hindi else "en"
 
----
+    # Multi-source corroboration & Gemini Gap-Research Original Rewrite
+    researched_sources = [{"title": clean_title, "source_name": source_name, "source_url": source_url, "text": body_text}]
+    if gemini_drafter is not None and gemini_drafter.is_available()[0]:
+        try:
+            q = urllib.parse.quote(" ".join(clean_title.split()[:7]))
+            search_rss = (
+                f"https://news.google.com/rss/search?q={q}&hl=hi&gl=IN&ceid=IN:hi"
+                if is_hindi else
+                f"https://news.google.com/rss/search?q={q}&hl=en-IN&gl=IN&ceid=IN:en"
+            )
+            rel_items = fetch_feed_items(search_rss, category, [])
+            for ri in rel_items[:5]:
+                if len(researched_sources) >= 3:
+                    break
+                r_url = decode_source_url(ri.get("link", ""))
+                if not r_url or r_url == source_url or "news.google.com" in r_url:
+                    continue
+                _, r_paras = extract_source_content_and_image(r_url)
+                if len(r_paras) >= 3:
+                    researched_sources.append({
+                        "title": ri.get("title", ""),
+                        "source_name": ri.get("source_name", "News Source"),
+                        "source_url": r_url,
+                        "text": "\n\n".join(r_paras),
+                    })
+        except Exception:
+            pass
 
-**मूल स्रोत (Original Source):** [{source_name}]({source_url})"""
-        summary_text = (extracted_paras[0] if extracted_paras and not extracted_paras[0].startswith("###") else desc_text)[:240]
+    ai_draft = None
+    if gemini_drafter is not None and gemini_drafter.is_available()[0]:
+        ai_draft = gemini_drafter.draft_gap_researched_article(clean_title, category, lang_code, researched_sources)
+
+    sources_md_lines = "\n".join(
+        f"- [{s['source_name']}]({s['source_url']})" for s in researched_sources if s.get("source_url")
+    )
+
+    if ai_draft:
+        final_title = ai_draft["headline"].replace("\u2028", " ").replace("\u2029", " ").strip()
+        summary_text = ai_draft.get("summary", desc_text)[:240]
+        draft_body = ai_draft["body_markdown"].replace("\u2028", " ").replace("\u2029", " ").strip()
+        src_heading = "स्रोत एवं संदर्भ (Sources & References)" if is_hindi else "Sources & References"
+        content_markdown = f"{draft_body}\n\n---\n\n### {src_heading}\n\n{sources_md_lines}"
+        word_count = max(1, len(draft_body.split()))
+        read_mins = max(1, round(word_count / 200))
+        why_it_matters = ai_draft.get("why_it_matters_today") or summary_text
+        who_is_affected = ai_draft.get("who_is_affected") or ("संबंधित पाठक एवं नागरिक।" if is_hindi else "Readers following this beat across India.")
+        readers_searching = ai_draft.get("what_readers_are_searching_for") or final_title
+        tags_str = ai_draft.get("tags") or f"{category.title()}, News, India"
     else:
-        why_it_matters = f"Full report attributed to {source_name}."
-        who_is_affected = "Readers tracking verified news updates across India."
-        readers_searching = f"Complete coverage and source attribution for {clean_title}."
-        content_markdown = f"""{body_text}
-
----
-
-**Original Source:** [{source_name}]({source_url})"""
-        summary_text = (extracted_paras[0] if extracted_paras and not extracted_paras[0].startswith("###") else desc_text)[:240]
+        final_title = clean_title
+        word_count = max(1, len(body_text.split()))
+        read_mins = max(1, round(word_count / 200))
+        tags_str = f"{category.title()}, News, India"
+        if is_hindi:
+            why_it_matters = f"{category.capitalize()} श्रेणी से जुड़ी यह रिपोर्ट {source_name} के प्राथमिक समाचार बुलेटिन पर आधारित है।"
+            who_is_affected = "संबंधित पाठक, नागरिक एवं नीति-निर्माता।"
+            readers_searching = f"पाठक {clean_title} से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।"
+            content_markdown = f"{body_text}\n\n---\n\n**मूल स्रोत (Original Source):** [{source_name}]({source_url})"
+            summary_text = (extracted_paras[0] if extracted_paras and not extracted_paras[0].startswith("###") else desc_text)[:240]
+        else:
+            why_it_matters = f"Full report attributed to {source_name}."
+            who_is_affected = "Readers tracking verified news updates across India."
+            readers_searching = f"Complete coverage and source attribution for {clean_title}."
+            content_markdown = f"{body_text}\n\n---\n\n**Original Source:** [{source_name}]({source_url})"
+            summary_text = (extracted_paras[0] if extracted_paras and not extracted_paras[0].startswith("###") else desc_text)[:240]
 
     article_obj = {
         "id": art_id,
-        "title": clean_title,
+        "title": final_title,
         "slug": slug,
         "original_title": clean_title,
         "category": category,
         "topic": topic,
-        "language": "hi" if is_hindi else "en",
+        "language": lang_code,
         "fomo_badge": "स्वास्थ्य वायर" if (is_hindi and category == "health") else ("न्यूज़ वायर" if is_hindi else ("Health Wire" if category == "health" else "News Wire")),
         "read_time": f"{read_mins} min read",
         "views_count": 0,
@@ -582,18 +635,18 @@ def build_complete_article(art_id, item, seen_images):
         "source_url": source_url,
         "source_courtesy": f"Source: {source_name}",
         "image_url": img,
-        "image_alt": clean_title,
+        "image_alt": final_title,
         "image_courtesy": f"Image: {photographer} ({img_license})",
         "image_photographer": photographer,
         "image_license": img_license,
-        "fact_check_status": "Wire Summary — Attributed to Primary Source",
-        "tags": f"{category.title()}, News, India",
+        "fact_check_status": "Multi-Source Researched & Attributed" if ai_draft else "Wire Summary — Attributed to Primary Source",
+        "tags": tags_str,
         "summary": summary_text,
         "content": content_markdown,
-        "title_en": "" if is_hindi else clean_title,
+        "title_en": "" if is_hindi else final_title,
         "summary_en": "" if is_hindi else summary_text,
         "content_en": "" if is_hindi else content_markdown,
-        "title_hi": clean_title if is_hindi else "",
+        "title_hi": final_title if is_hindi else "",
         "summary_hi": summary_text if is_hindi else "",
         "content_hi": content_markdown if is_hindi else "",
         "author_name": "ZestFeedX न्यूज़ डेस्क" if is_hindi else "ZestFeedX Wire Desk",
@@ -702,9 +755,9 @@ def main():
                         lang_collected += 1
                         print(f"  ✓ Collected: [{cat.upper()}/{lang.upper()}] {art['title'][:60]}... ({art['source_name']})")
 
-                        if lang_collected >= 2:
+                        if lang_collected >= 1:
                             break
-                    if lang_collected >= 2:
+                    if lang_collected >= 1:
                         break
 
         # Step 2: Editorial Approval Pipeline

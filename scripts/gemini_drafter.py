@@ -52,7 +52,7 @@ def get_gemini_api_key():
 
 # Free Tier Usage Quota Guard (1500 requests per day max, 15 requests per minute max)
 FREE_TIER_DAILY_LIMIT = 1500
-FREE_TIER_MODEL = "gemini-1.5-flash"
+FREE_TIER_MODEL = "gemini-2.5-flash"
 
 def get_today_utc():
     return datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -287,6 +287,103 @@ The editorial desk will monitor subsequent gazette releases, technical advisorie
             "grounded_verified": True,
             "drafted_by": f"Deterministic Editorial Fallback ({note})"
         }
+
+    def draft_gap_researched_article(self, topic_title: str, category: str, language: str, sources: list) -> dict:
+        """
+        Multi-source gap-research & original AIO/GEO/SEO rewrite using Gemini.
+        Synthesizes 2-3 researched sources, identifies what other outlets missed,
+        and writes a complete original article with FAQs and source citations.
+        """
+        available, reason = self.is_available()
+        if not available or not sources:
+            return None
+
+        elapsed = time.time() - self.last_call_time
+        if elapsed < 12.5:
+            time.sleep(12.5 - elapsed)
+
+        lang_label = "Hindi (Devanagari script only)" if language == "hi" else "English"
+        src_blocks = []
+        for idx, s in enumerate(sources[:3], 1):
+            src_blocks.append(
+                f"SOURCE {idx}: {s.get('source_name', 'News Source')} ({s.get('source_url', '')})\n"
+                f"Title: {s.get('title', '')}\n"
+                f"Content:\n{s.get('text', '')[:1800]}"
+            )
+        joined_sources = "\n\n---\n\n".join(src_blocks)
+
+        prompt_text = f"""You are a senior investigative & SEO/GEO news editor at ZestFeedX.
+Write a 100% ORIGINAL, complete, deeply researched news article in {lang_label} about:
+TOPIC: {topic_title}
+CATEGORY: {category}
+
+Below are {len(sources[:3])} researched source reports. Analyze what they covered, identify any information gaps (missing context, background timeline, India/citizen impact, exact figures, or practical next steps), and synthesize a comprehensive, original article that fills those gaps using ONLY verified facts from these sources (do NOT invent quotes, statistics, or medical claims).
+
+{joined_sources}
+
+Requirements for AIO / GEO / SEO / Google News compliance:
+1. Write strictly in {lang_label}.
+2. Create a fresh, compelling, search-friendly headline (no clickbait, 55-80 chars).
+3. Write a crisp 140-155 character SEO meta summary.
+4. Structure `body_markdown` with `###` subheadings:
+   - Lead & Key Developments (what happened, when, where, who is involved)
+   - Deeper Context & What Other Reports Missed (timeline, numbers, comparisons, or policy/market impact)
+   - Key Facts at a Glance (a clean Markdown table)
+   - What Happens Next / Practical Takeaways for Readers
+   - `### Frequently Asked Questions` with 3 concise Q&A pairs formatted strictly as:
+     **Q: Question text?**
+     **A:** Direct factual answer.
+5. Do NOT copy sentences verbatim from the sources. Minimum 550 words.
+
+Respond strictly in valid JSON:
+{{
+  "headline": "...",
+  "summary": "...",
+  "body_markdown": "...",
+  "tags": "tag1, tag2, tag3, tag4",
+  "why_it_matters_today": "...",
+  "who_is_affected": "...",
+  "what_readers_are_searching_for": "..."
+}}"""
+
+        endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/{self.model}:generateContent?key={self.api_key}"
+        payload = {
+            "contents": [{"parts": [{"text": prompt_text}]}],
+            "generationConfig": {
+                "temperature": 0.3,
+                "topP": 0.85,
+                "responseMimeType": "application/json",
+            },
+        }
+
+        for attempt in range(3):
+            try:
+                self.last_call_time = time.time()
+                record_usage()
+                req = urllib.request.Request(
+                    endpoint,
+                    data=json.dumps(payload).encode("utf-8"),
+                    headers={"Content-Type": "application/json"},
+                    method="POST",
+                )
+                with urllib.request.urlopen(req, timeout=45) as resp:
+                    res_data = json.loads(resp.read().decode("utf-8"))
+                    candidates = res_data.get("candidates", [])
+                    if candidates:
+                        raw_text = candidates[0]["content"]["parts"][0]["text"]
+                        parsed = json.loads(raw_text, strict=False)
+                        if parsed.get("headline") and parsed.get("body_markdown"):
+                            return parsed
+            except urllib.error.HTTPError as e:
+                if e.code == 429 and attempt < 2:
+                    time.sleep(15 * (attempt + 1))
+                    continue
+                print(f"[Gemini Gap Drafter] HTTP {e.code}")
+                break
+            except Exception as e:
+                print(f"[Gemini Gap Drafter] Error: {e}")
+                break
+        return None
 
 gemini_drafter = GeminiDrafter()
 

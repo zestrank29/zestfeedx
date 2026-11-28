@@ -58,6 +58,8 @@ jobs:
           npm install
 
       - name: 🔄 Scrape Latest News & Generate Dispatches
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python scripts/auto_scrape_and_publish.py
           node scripts/generate_news_sitemap.js

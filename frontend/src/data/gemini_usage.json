@@ -1,11 +1,9 @@
 {
-  "date_utc": "2026-11-25",
-  "model": "gemini-1.5-flash",
-  "requests_today": 5,
+  "date_utc": "2026-11-28",
+  "model": "gemini-2.5-flash",
+  "requests_today": 45,
   "daily_limit": 1500,
-  "quota_remaining": 1495,
-  "rate_limit_rpm": 15,
-  "last_request_at": "2026-11-25T06:26:00Z",
-  "status": "active_free_tier",
-  "backoff_policy": "Exponential backoff on HTTP 429 (2s, 4s, 8s)"
+  "quota_remaining": 1455,
+  "last_request_at": "2026-11-28T06:00:00.068743+00:00",
+  "status": "active_free_tier"
 }

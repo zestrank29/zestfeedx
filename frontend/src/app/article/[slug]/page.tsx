@@ -211,6 +211,25 @@ export default async function ArticlePage({ params }: Props) {
     ],
   };
 
+  // Extract AIO/GEO FAQ pairs from markdown (**Q: ...** / **A: ...**) for FAQPage JSON-LD
+  const faqMatches = Array.from(
+    (article.content_markdown || "").matchAll(/\*\*Q\d*[:.]?\s*([^\n*]+)\*\*\s*\n+(?:\*\*A\d*[:.]?\*\*\s*)?([^\n]+(?:\n(?!\*\*Q)[^\n]+)*)/gi)
+  ).slice(0, 6);
+  const faqJsonLd = faqMatches.length > 0
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: faqMatches.map((m) => ({
+          "@type": "Question",
+          name: m[1].trim(),
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: m[2].replace(/\*\*/g, "").trim(),
+          },
+        })),
+      }
+    : null;
+
   return (
     <div className={`min-h-screen flex flex-col bg-[#FAF8F4] dark:bg-[#080C16] text-[#0B1020] dark:text-[#F1F5F9] transition-colors ${isHindi ? "font-hindi" : ""}`}>
       {/* Scroll Reading Progress Bar */}
@@ -225,6 +244,12 @@ export default async function ArticlePage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
+      {faqJsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        />
+      )}
 
       {/* Main Article Container */}
       <main className="flex-1 py-8">
