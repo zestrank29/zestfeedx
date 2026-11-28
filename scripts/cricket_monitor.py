@@ -82,16 +82,16 @@ CRICKET_HD_IMAGES = [
         "caption": "Cricket stadium and match play under floodlights."
     },
     {
-        "url": "https://images.unsplash.com/photo-1531415074868-036b1c57e329",
+        "url": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211",
         "photographer": "Athletics & Cricket Media Desk",
-        "license": "Official Editorial Wire Clearance",
-        "caption": "Cricket ball on turf pitch during tournament fixture."
+        "license": "Unsplash License",
+        "caption": "Cricket stadium and athletics turf."
     },
     {
-        "url": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0",
+        "url": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55",
         "photographer": "Stadium Photography Wire",
-        "license": "Unsplash Editorial Clearance",
-        "caption": "Spectators and fielders in international cricket arena."
+        "license": "Unsplash License",
+        "caption": "International sports arena."
     }
 ]
 

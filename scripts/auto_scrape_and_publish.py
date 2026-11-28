@@ -131,7 +131,7 @@ CATEGORY_HD_IMAGES = {
     ],
     "sports": [
         {"url": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"},
-        {"url": "https://images.unsplash.com/photo-1531415074868-036b1c57e329", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"}
+        {"url": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"}
     ],
     "entertainment": [
         {"url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba", "photographer": "Unsplash Stock Illustration", "license": "Unsplash License"}
@@ -413,25 +413,41 @@ def extract_source_content_and_image(url):
 def download_source_image_local(img_url, slug):
     if not img_url or not img_url.startswith("http"):
         return ""
+    images_dir = os.path.join(BASE_DIR, "frontend", "public", "images", "articles")
+    os.makedirs(images_dir, exist_ok=True)
+    safe_slug = re.sub(r'[^a-zA-Z0-9_-]', '', slug)[:80] or "article"
     try:
-        images_dir = os.path.join(BASE_DIR, "frontend", "public", "images", "articles")
-        os.makedirs(images_dir, exist_ok=True)
         req = urllib.request.Request(img_url, headers=ARTICLE_HEADERS)
         with urllib.request.urlopen(req, timeout=10) as resp:
             ctype = resp.headers.get("Content-Type", "").lower()
-            if resp.status != 200 or "image" not in ctype:
-                return ""
-            data = resp.read(5 * 1024 * 1024)
-            if len(data) < 5000:
-                return ""
-            ext = ".webp" if "webp" in ctype else (".png" if "png" in ctype else ".jpg")
-            safe_slug = re.sub(r'[^a-zA-Z0-9_-]', '', slug)[:80] or "article"
-            filename = f"{safe_slug}{ext}"
-            with open(os.path.join(images_dir, filename), "wb") as f:
-                f.write(data)
-            return f"/images/articles/{filename}"
+            if resp.status == 200 and "image" in ctype:
+                data = resp.read(5 * 1024 * 1024)
+                if len(data) >= 5000:
+                    ext = ".webp" if "webp" in ctype else (".png" if "png" in ctype else ".jpg")
+                    filename = f"{safe_slug}{ext}"
+                    with open(os.path.join(images_dir, filename), "wb") as f:
+                        f.write(data)
+                    return f"/images/articles/{filename}"
     except Exception:
-        return ""
+        pass
+    # Curl fallback for hotlink-protected CDNs
+    try:
+        ext = ".png" if ".png" in img_url.lower() else (".webp" if ".webp" in img_url.lower() else ".jpg")
+        filename = f"{safe_slug}{ext}"
+        out_path = os.path.join(images_dir, filename)
+        res = subprocess.run(
+            ["curl", "-sL", "-m", "12", "-A", ARTICLE_HEADERS["User-Agent"], "-o", out_path, img_url],
+            capture_output=True
+        )
+        if res.returncode == 0 and os.path.exists(out_path) and os.path.getsize(out_path) >= 5000:
+            with open(out_path, "rb") as f:
+                if not f.read(16).lstrip().startswith(b"<"):
+                    return f"/images/articles/{filename}"
+        if os.path.exists(out_path):
+            os.remove(out_path)
+    except Exception:
+        pass
+    return ""
 
 def get_existing_metadata():
     if not os.path.exists(SEED_FILE):
