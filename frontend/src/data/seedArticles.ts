@@ -24,7 +24,3153 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+  
+  
   {
+    id: 98151,
+    title: `Clayton and Rocchiccioli named in Australia Test squad for New Zealand series`,
+    slug: `clayton-and-rocchiccioli-named-in-australia-test-squad-for-new-ze-2026`,
+    original_title: `Clayton and Rocchiccioli named in Australia Test squad for New Zealand series`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:57Z`,
+    updated_at: `2026-11-28T00:10:57Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564482.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Clayton and Rocchiccioli named in Australia Test squad for New Zealand series`,
+    image_courtesy: `Photo: Action Sports Photography / Unsplash (Unsplash License)`,
+    image_photographer: `Action Sports Photography / Unsplash`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `The selectors have left one spot open to be filled after the next round of Sheffield Shield matches`,
+    content: `The selectors have left one spot open to be filled after the next round of Sheffield Shield matches
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564482.html?ex_cid=OTC-RSS)`,
+    title_en: `Clayton and Rocchiccioli named in Australia Test squad for New Zealand series`,
+    summary_en: `The selectors have left one spot open to be filled after the next round of Sheffield Shield matches`,
+    content_en: `The selectors have left one spot open to be filled after the next round of Sheffield Shield matches
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564482.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-australia-vs-new-zealand-2026`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Official Squad Announcement`,
+    score_verified_at: `2026-11-28 05:40:57 IST`,
+    detected_at: `2026-11-28T00:10:56Z`,
+    verified_at: `2026-11-28T00:10:57Z`,
+    approved_at: `2026-11-28T00:10:57Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Clayton and Rocchiccioli named in Australia Test squad for New Zealand series.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 98152,
+    title: `CSA 4-day match in Newlands abandoned due to dangerous pitch`,
+    slug: `csa-4-day-match-in-newlands-abandoned-due-to-dangerous-pitch-2026`,
+    original_title: `CSA 4-day match in Newlands abandoned due to dangerous pitch`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:57Z`,
+    updated_at: `2026-11-28T00:10:57Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564474.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `CSA 4-day match in Newlands abandoned due to dangerous pitch`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `The game between Western Province and Titans was abandoned on the second morning after 14 wickets fell on the opening day`,
+    content: `The game between Western Province and Titans was abandoned on the second morning after 14 wickets fell on the opening day
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564474.html?ex_cid=OTC-RSS)`,
+    title_en: `CSA 4-day match in Newlands abandoned due to dangerous pitch`,
+    summary_en: `The game between Western Province and Titans was abandoned on the second morning after 14 wickets fell on the opening day`,
+    content_en: `The game between Western Province and Titans was abandoned on the second morning after 14 wickets fell on the opening day
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564474.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-98152`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-28 05:40:57 IST`,
+    detected_at: `2026-11-28T00:10:56Z`,
+    verified_at: `2026-11-28T00:10:57Z`,
+    approved_at: `2026-11-28T00:10:57Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding CSA 4-day match in Newlands abandoned due to dangerous pitch.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 98123,
+    title: `Over 55% Of Indian Women Of Reproductive Age Are Anaemic, ICMR Survey Reveals - Times Now`,
+    slug: `over-55-of-indian-women-of-reproductive-age-are-anaemic-icmr-survey-re-2026`,
+    original_title: `Over 55% Of Indian Women Of Reproductive Age Are Anaemic, ICMR Survey Reveals - Times Now`,
+    category: `health`,
+    topic: `womens-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:09:33Z`,
+    updated_at: `2026-11-28T00:09:33Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://www.timesnownews.com/health/over-55-of-indian-women-of-reproductive-age-are-anaemic-icmr-survey-reveals-article-156563467`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/over-55-of-indian-women-of-reproductive-age-are-anaemic-icmr-survey-re-2026.webp`,
+    image_alt: `Over 55% Of Indian Women Of Reproductive Age Are Anaemic, ICMR Survey Reveals - Times Now`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `Anaemia remains one of India's most stubborn public health problems. Over half of women of reproductive age are anaemic, according to the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA), con`,
+    content: `Anaemia remains one of India's most stubborn public health problems. Over half of women of reproductive age are anaemic, according to the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA), conducted by the ICMR-National Institute of Nutrition between 2023 and 2025.
+
+The survey covered over 2 lakh people of all ages across 183 districts in 35 states and Union Territories, and more than 81,000 households. More than 1.7 lakh blood samples were analysed. Haemoglobin was measured from venous blood using automated analysers, which the institute describes as the gold standard.
+
+Earlier national surveys relied on point-of-care devices. Who is most affectedAnaemia affects 55.9 per cent of women aged 15 to 49 who are neither pregnant nor lactating. Among lactating women the figure is 58.1 per cent, and among pregnant women it is 43.6 per cent. Nearly 46.3 per cent of adolescent girls aged 10 to 19 are anaemic, compared with 22.8 per cent of adolescent boys.
+
+Among children, 41.8 per cent of those aged 12 to 59 months and 31.3 per cent of those aged 5 to 9 years are anaemic. Adult men aged 20 to 59 have a prevalence of 22 per cent, which rises to 44.7 per cent in men aged 60 and above. For women aged 60 and above it is 55.7 per cent. The report notes that these estimates are lower than those from earlier national surveys.
+
+It also finds that most cases are mild. About half of anaemic children, adolescent girls and women, including pregnant and lactating women, have mild anaemia, as do around three-fourths of anaemic adolescent boys, men and older adults. Severe anaemia is below 2 per cent in most age groups.
+
+Iron is not the only culpritIron deficiency was measured using inflammation-adjusted serum ferritin. It affects 36.3 per cent of adolescent girls, 34.1 per cent of women of reproductive age, 23 per cent of children aged 12 to 59 months and 17.6 per cent of children aged 5 to 9 years.
+
+It is relatively rare among adolescent boys (10 per cent) and adult men (3.4 per cent). Anaemia and iron deficiency together account for only a part of the overall burden. Only about 27 per cent of adolescent girls and of women of reproductive age had both, against overall anaemia rates of 46 per cent and 56 per cent respectively.
+
+The report says this points to the need to look beyond iron to the multiple nutritional and non-nutritional causes of anaemia. Vitamin B12 deficiency is far more common than iron deficiency. It affects 65.4 per cent of adolescent girls, 66.1 per cent of adolescent boys, 60.4 per cent of adult men and 63.1 per cent of pregnant women.
+
+Even among children aged 12 to 59 months, 37.3 per cent are deficient. Folate deficiency is much lower, ranging from 2.9 per cent among pregnant women to about 10 per cent among children and adolescent girls. B12 and folate deficiency were similar in anaemic and non-anaemic people.
+
+Iron deficiency, in contrast, was substantially higher among those with anaemia, and rose with severity. Among women of reproductive age with moderate or severe anaemia, 61 per cent were iron deficient, against 15.8 per cent of those without anaemia. A divided mapState-level figures show wide gaps.
+
+Anaemia among women of reproductive age is highest in the Andaman and Nicobar Islands (81.2 per cent), followed by Ladakh (77.1 per cent), West Bengal (72.4 per cent), Assam (71.9 per cent) and Chhattisgarh (71.5 per cent). Kerala has the lowest rate at 29.1 per cent, followed by Himachal Pradesh (31.3 per cent) and Uttarakhand (34 per cent).
+
+Delhi stands at 52.5 per cent.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.timesnownews.com/health/over-55-of-indian-women-of-reproductive-age-are-anaemic-icmr-survey-reveals-article-156563467)`,
+    title_en: `Over 55% Of Indian Women Of Reproductive Age Are Anaemic, ICMR Survey Reveals - Times Now`,
+    summary_en: `Anaemia remains one of India's most stubborn public health problems. Over half of women of reproductive age are anaemic, according to the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA), con`,
+    content_en: `Anaemia remains one of India's most stubborn public health problems. Over half of women of reproductive age are anaemic, according to the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA), conducted by the ICMR-National Institute of Nutrition between 2023 and 2025.
+
+The survey covered over 2 lakh people of all ages across 183 districts in 35 states and Union Territories, and more than 81,000 households. More than 1.7 lakh blood samples were analysed. Haemoglobin was measured from venous blood using automated analysers, which the institute describes as the gold standard.
+
+Earlier national surveys relied on point-of-care devices. Who is most affectedAnaemia affects 55.9 per cent of women aged 15 to 49 who are neither pregnant nor lactating. Among lactating women the figure is 58.1 per cent, and among pregnant women it is 43.6 per cent. Nearly 46.3 per cent of adolescent girls aged 10 to 19 are anaemic, compared with 22.8 per cent of adolescent boys.
+
+Among children, 41.8 per cent of those aged 12 to 59 months and 31.3 per cent of those aged 5 to 9 years are anaemic. Adult men aged 20 to 59 have a prevalence of 22 per cent, which rises to 44.7 per cent in men aged 60 and above. For women aged 60 and above it is 55.7 per cent. The report notes that these estimates are lower than those from earlier national surveys.
+
+It also finds that most cases are mild. About half of anaemic children, adolescent girls and women, including pregnant and lactating women, have mild anaemia, as do around three-fourths of anaemic adolescent boys, men and older adults. Severe anaemia is below 2 per cent in most age groups.
+
+Iron is not the only culpritIron deficiency was measured using inflammation-adjusted serum ferritin. It affects 36.3 per cent of adolescent girls, 34.1 per cent of women of reproductive age, 23 per cent of children aged 12 to 59 months and 17.6 per cent of children aged 5 to 9 years.
+
+It is relatively rare among adolescent boys (10 per cent) and adult men (3.4 per cent). Anaemia and iron deficiency together account for only a part of the overall burden. Only about 27 per cent of adolescent girls and of women of reproductive age had both, against overall anaemia rates of 46 per cent and 56 per cent respectively.
+
+The report says this points to the need to look beyond iron to the multiple nutritional and non-nutritional causes of anaemia. Vitamin B12 deficiency is far more common than iron deficiency. It affects 65.4 per cent of adolescent girls, 66.1 per cent of adolescent boys, 60.4 per cent of adult men and 63.1 per cent of pregnant women.
+
+Even among children aged 12 to 59 months, 37.3 per cent are deficient. Folate deficiency is much lower, ranging from 2.9 per cent among pregnant women to about 10 per cent among children and adolescent girls. B12 and folate deficiency were similar in anaemic and non-anaemic people.
+
+Iron deficiency, in contrast, was substantially higher among those with anaemia, and rose with severity. Among women of reproductive age with moderate or severe anaemia, 61 per cent were iron deficient, against 15.8 per cent of those without anaemia. A divided mapState-level figures show wide gaps.
+
+Anaemia among women of reproductive age is highest in the Andaman and Nicobar Islands (81.2 per cent), followed by Ladakh (77.1 per cent), West Bengal (72.4 per cent), Assam (71.9 per cent) and Chhattisgarh (71.5 per cent). Kerala has the lowest rate at 29.1 per cent, followed by Himachal Pradesh (31.3 per cent) and Uttarakhand (34 per cent).
+
+Delhi stands at 52.5 per cent.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.timesnownews.com/health/over-55-of-indian-women-of-reproductive-age-are-anaemic-icmr-survey-reveals-article-156563467)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Over 55% Of Indian Women Of Reproductive Age Are Anaemic, ICMR Survey Reveals - Times Now.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 98124,
+    title: `ICMR NIRWoH Project Technical Support III Recruitment 2026 – Apply Online - FreeJobAlert.Com`,
+    slug: `icmr-nirwoh-project-technical-support-iii-recruitment-2026-apply-onlin-2026`,
+    original_title: `ICMR NIRWoH Project Technical Support III Recruitment 2026 – Apply Online - FreeJobAlert.Com`,
+    category: `health`,
+    topic: `public-health`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:09:34Z`,
+    updated_at: `2026-11-28T00:09:34Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://www.freejobalert.com/articles/icmr-nirwoh-project-technical-support-iii-field-recruitment-2026-3085236`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/icmr-nirwoh-project-technical-support-iii-recruitment-2026-apply-onlin-2026.webp`,
+    image_alt: `ICMR NIRWoH Project Technical Support III Recruitment 2026 – Apply Online - FreeJobAlert.Com`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `A purely temporary, one-year Project Technical Support-III (Field Investigator) post, paying a consolidated Rs.30,800/- (Rs.28,000/- plus 10% HRA), is open at the Model Rural Health Research Unit (MRHRU), Vani, Taluka Dindori, District Nash`,
+    content: `A purely temporary, one-year Project Technical Support-III (Field Investigator) post, paying a consolidated Rs.30,800/- (Rs.28,000/- plus 10% HRA), is open at the Model Rural Health Research Unit (MRHRU), Vani, Taluka Dindori, District Nashik, Maharashtra. The post is under the "Central Sector Scheme for Establishment of Model Rural Health Research Unit (MRHRU)", funded by the Department of Health Research (DHR), Ministry of Health and Family Welfare, Government of India. ICMR-National Institute for Research on Women's Health has invited online applications for 1 vacancy through its outsourcing agency, M/s. GA Digital Web Word Pvt. Ltd., on or before 5 December 2026. The essential qualification is a three-year Graduate degree in Public Health / Community Health / Population Studies / Demography / Social Work / Life Sciences with three years of experience in the relevant field, or a Postgraduate degree in the same subjects. The age limit is 35 years.
+
+### ICMR-NIRWH Recruitment 2026 at a Glance
+
+The official notification does not specify the application fee.
+
+ICMR-National Institute for Research on Women's Health is located at Jehangir Merwanji Street, Parel, Mumbai 400012. This post is a project position at the Model Rural Health Research Unit (MRHRU), Vani, Taluka Dindori, District Nashik, Maharashtra, set up under a Central Sector Scheme funded by the Department of Health Research.
+
+The notice asks only candidates who meet the eligible qualification to apply. The essential qualification for Project Technical Support-III (Field Investigator) is one of the following:
+
+The age limit is 35 years. The notice prints no cut-off date for age and no age relaxation. Candidates should check the official notification for the discipline-specific eligibility of the post.
+
+The consolidated salary is Rs.30,800/-, printed as Rs.28,000/- plus 10% HRA. The duration is One Year, and the post is to be filled on a purely temporary basis.
+
+### ICMR-NIRWH Recruitment 2026 Job Description
+
+### How to Apply for ICMR-NIRWH Recruitment 2026
+
+Applications are invited online through the outsourcing agency, M/s. GA Digital Web Word Pvt. Ltd., on or before 5 December 2026. The link for submission of the application is https://gad-hrms.frevo.co.in/careers . The Job ID of this post is JOB-7DD6DCF90E52476E815A4A35000F7F84. The notice does not name any documents to upload.
+
+Applications received within the prescribed deadline will be screened on the eligibility criteria and relevant experience. Only shortlisted candidates will be called for an online interview and/or personal discussion, as decided by the Selection Committee. The date, time, mode and other details will be communicated to shortlisted candidates by email. The notice also says the interview may be physical or online.
+
+Save this job and get a last-date reminder plus admit card & result alerts by email - free.
+
+Have a question about this job? Ask about eligibility, fees or documents and get replies.
+
+### ICMR NIRWoH Project Technical Support III Recruitment 2026 - FAQs
+
+### Q1. How many vacancies are there in ICMR-NIRWoH Recruitment 2026?
+
+There is 1 vacancy, for Project Technical Support-III (Field Investigator).
+
+### Q2. What is the last date to apply?
+
+Applications must be submitted online on or before 5 December 2026.
+
+### Q3. What is the qualification for the Field Investigator post?
+
+A three-year Graduate degree in Public Health / Community Health / Population Studies / Demography / Social Work / Life Sciences with three years of experience in the relevant field, OR a Postgraduate degree in the same subjects.
+
+The age limit printed in the notice is 35 years.
+
+The consolidated salary is Rs.30,800/-, printed as Rs.28,000/- plus 10% HRA.
+
+Apply online through the outsourcing agency, M/s. GA Digital Web Word Pvt. Ltd., using the link https://gad-hrms.frevo.co.in/careers, quoting Job ID JOB-7DD6DCF90E52476E815A4A35000F7F84.
+
+Applications are screened on eligibility and relevant experience. Shortlisted candidates are called for an online interview and/or personal discussion as decided by the Selection Committee, and are informed by email.
+
+No. The post is to be filled on a purely temporary basis, and the duration is One Year.
+
+### Q9. Where will the Field Investigator be posted?
+
+The place of posting is the Model Rural Health Research Unit (MRHRU), Vani, Taluka Dindori, District Nashik, Maharashtra.
+
+### Q10. Is HRA paid in addition to the consolidated salary?
+
+The notice prints the consolidated salary of Rs.30,800/- as Rs.28,000/- plus 10% HRA, so the HRA is shown within the Rs.30,800/-. It mentions no other allowance.
+
+Banu is a Government Jobs Content Writer with 7+ months of experience specializing in public sector recruitment updates across India. She holds a B.A. degree from Delhi University and is dedicated to creating accurate and easy-to-understand content on government job opportunities, including vacancies, eligibility criteria, application processes, and recruitment notifications. Her goal is to help aspirants discover the latest career opportunities in central and state government organizations through timely and reliable information.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.freejobalert.com/articles/icmr-nirwoh-project-technical-support-iii-field-recruitment-2026-3085236)`,
+    title_en: `ICMR NIRWoH Project Technical Support III Recruitment 2026 – Apply Online - FreeJobAlert.Com`,
+    summary_en: `A purely temporary, one-year Project Technical Support-III (Field Investigator) post, paying a consolidated Rs.30,800/- (Rs.28,000/- plus 10% HRA), is open at the Model Rural Health Research Unit (MRHRU), Vani, Taluka Dindori, District Nash`,
+    content_en: `A purely temporary, one-year Project Technical Support-III (Field Investigator) post, paying a consolidated Rs.30,800/- (Rs.28,000/- plus 10% HRA), is open at the Model Rural Health Research Unit (MRHRU), Vani, Taluka Dindori, District Nashik, Maharashtra. The post is under the "Central Sector Scheme for Establishment of Model Rural Health Research Unit (MRHRU)", funded by the Department of Health Research (DHR), Ministry of Health and Family Welfare, Government of India. ICMR-National Institute for Research on Women's Health has invited online applications for 1 vacancy through its outsourcing agency, M/s. GA Digital Web Word Pvt. Ltd., on or before 5 December 2026. The essential qualification is a three-year Graduate degree in Public Health / Community Health / Population Studies / Demography / Social Work / Life Sciences with three years of experience in the relevant field, or a Postgraduate degree in the same subjects. The age limit is 35 years.
+
+### ICMR-NIRWH Recruitment 2026 at a Glance
+
+The official notification does not specify the application fee.
+
+ICMR-National Institute for Research on Women's Health is located at Jehangir Merwanji Street, Parel, Mumbai 400012. This post is a project position at the Model Rural Health Research Unit (MRHRU), Vani, Taluka Dindori, District Nashik, Maharashtra, set up under a Central Sector Scheme funded by the Department of Health Research.
+
+The notice asks only candidates who meet the eligible qualification to apply. The essential qualification for Project Technical Support-III (Field Investigator) is one of the following:
+
+The age limit is 35 years. The notice prints no cut-off date for age and no age relaxation. Candidates should check the official notification for the discipline-specific eligibility of the post.
+
+The consolidated salary is Rs.30,800/-, printed as Rs.28,000/- plus 10% HRA. The duration is One Year, and the post is to be filled on a purely temporary basis.
+
+### ICMR-NIRWH Recruitment 2026 Job Description
+
+### How to Apply for ICMR-NIRWH Recruitment 2026
+
+Applications are invited online through the outsourcing agency, M/s. GA Digital Web Word Pvt. Ltd., on or before 5 December 2026. The link for submission of the application is https://gad-hrms.frevo.co.in/careers . The Job ID of this post is JOB-7DD6DCF90E52476E815A4A35000F7F84. The notice does not name any documents to upload.
+
+Applications received within the prescribed deadline will be screened on the eligibility criteria and relevant experience. Only shortlisted candidates will be called for an online interview and/or personal discussion, as decided by the Selection Committee. The date, time, mode and other details will be communicated to shortlisted candidates by email. The notice also says the interview may be physical or online.
+
+Save this job and get a last-date reminder plus admit card & result alerts by email - free.
+
+Have a question about this job? Ask about eligibility, fees or documents and get replies.
+
+### ICMR NIRWoH Project Technical Support III Recruitment 2026 - FAQs
+
+### Q1. How many vacancies are there in ICMR-NIRWoH Recruitment 2026?
+
+There is 1 vacancy, for Project Technical Support-III (Field Investigator).
+
+### Q2. What is the last date to apply?
+
+Applications must be submitted online on or before 5 December 2026.
+
+### Q3. What is the qualification for the Field Investigator post?
+
+A three-year Graduate degree in Public Health / Community Health / Population Studies / Demography / Social Work / Life Sciences with three years of experience in the relevant field, OR a Postgraduate degree in the same subjects.
+
+The age limit printed in the notice is 35 years.
+
+The consolidated salary is Rs.30,800/-, printed as Rs.28,000/- plus 10% HRA.
+
+Apply online through the outsourcing agency, M/s. GA Digital Web Word Pvt. Ltd., using the link https://gad-hrms.frevo.co.in/careers, quoting Job ID JOB-7DD6DCF90E52476E815A4A35000F7F84.
+
+Applications are screened on eligibility and relevant experience. Shortlisted candidates are called for an online interview and/or personal discussion as decided by the Selection Committee, and are informed by email.
+
+No. The post is to be filled on a purely temporary basis, and the duration is One Year.
+
+### Q9. Where will the Field Investigator be posted?
+
+The place of posting is the Model Rural Health Research Unit (MRHRU), Vani, Taluka Dindori, District Nashik, Maharashtra.
+
+### Q10. Is HRA paid in addition to the consolidated salary?
+
+The notice prints the consolidated salary of Rs.30,800/- as Rs.28,000/- plus 10% HRA, so the HRA is shown within the Rs.30,800/-. It mentions no other allowance.
+
+Banu is a Government Jobs Content Writer with 7+ months of experience specializing in public sector recruitment updates across India. She holds a B.A. degree from Delhi University and is dedicated to creating accurate and easy-to-understand content on government job opportunities, including vacancies, eligibility criteria, application processes, and recruitment notifications. Her goal is to help aspirants discover the latest career opportunities in central and state government organizations through timely and reliable information.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.freejobalert.com/articles/icmr-nirwoh-project-technical-support-iii-field-recruitment-2026-3085236)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for ICMR NIRWoH Project Technical Support III Recruitment 2026 – Apply Online - FreeJobAlert.Com.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 98125,
+    title: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    slug: `health-breaking-report-4254-98125-2026`,
+    original_title: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:09:36Z`,
+    updated_at: `2026-11-28T00:09:36Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/c5m2lke8jdzzo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/health-breaking-report-4254-98125-2026.jpg`,
+    image_alt: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.`,
+    content: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.
+
+साल 2025 में भारत, पाकिस्तान, इंडोनेशिया, यूक्रेन, नाइजीरिया और इथियोपिया समेत 57 देशों में खसरे के बड़े प्रकोप दर्ज किए गए.
+
+विशेषज्ञों का कहना है कि मामलों में बढ़ोतरी का सीधा संबंध टीकाकरण की घटती दरों से है. विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) के मुताबिक़, साल 2019 में दुनियाभर के 86% बच्चों को खसरे के टीके की पहली खुराक दी गई थी, लेकिन साल 2025 तक यह आंकड़ा घटकर 84% हो गया.
+
+हालांकि ये दोनों आंकड़े भी उस 95% टीकाकरण कवरेज से काफ़ी कम हैं, जो किसी आबादी में खसरे के प्रसार को रोकने के लिए ज़रूरी है.
+
+टीकाकरण के प्रति हिचकिचाहट, टीकाकरण की कम दरों के पीछे एक प्रमुख कारण है. टीकों की सुरक्षा, उनके असर और उनके दुष्प्रभावों को लेकर चिंताएं ऑनलाइन ग़लत सूचनाओं के प्रसार से और बढ़ जाती हैं.
+
+लंदन स्कूल ऑफ़ हाइजीन एंड ट्रॉपिकल मेडिसिन में बाल स्वास्थ्य की प्रोफेसर हेलेन बेडफोर्ड कहती हैं, "इंटरनेट और मीडिया के इस दौर में टीकाकरण से जुड़े मिथक, अफ़वाहें और चिंताएं बहुत तेज़ी से दुनियाभर में फैल सकती हैं."
+
+हालांकि, ब्रिटेन की यूनिवर्सिटी ऑफ हडर्सफ़ील्ड में निवारक स्वास्थ्य की शोधकर्ता सुज़ाना कोला-पामर का कहना है कि टीकाकरण को लेकर हिचकिचाने वाले लोगों को तुरंत टीका-विरोधी नहीं मान लेना चाहिए.
+
+वह बीबीसी वर्ल्ड सर्विस से कहती हैं कि इसके बजाय, उनमें से कई लोग सिर्फ़ "आश्वासन चाहते हैं."
+
+तो वैज्ञानिक कैसे तय करते हैं कि कोई टीका सुरक्षित है और आप ऑनलाइन फैलाई जा रही ग़लत सूचनाओं की पहचान कैसे कर सकते हैं?
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+आज भी टीकों के विकास को चिकित्सा विज्ञान की सबसे बड़ी उपलब्धियों में से एक माना जाता है. डब्ल्यूएचओ का अनुमान है कि खसरा, टिटनेस, डिप्थीरिया और इन्फ्लुएंजा जैसी बीमारियों से हर साल 35 लाख से 50 लाख लोगों की जान बचाने में टीके मदद करते हैं.
+
+टीका शरीर की प्रतिरक्षा प्रणाली (इम्यून सिस्टम) को किसी संक्रमण की पहचान करना और उससे लड़ना सिखाता है, ताकि वास्तविक संक्रमण के संपर्क में आने से पहले ही शरीर उससे निपटने के लिए तैयार हो जाए.
+
+बेडफोर्ड बताती हैं, "टीके वास्तविक संक्रमण से गुज़रे बिना ही वह इम्यूनिटी दे देते हैं, जो आमतौर पर वास्तव में संक्रमण होने पर शरीर में विकसित होती है."
+
+उदाहरण के लिए, मम्प्स (गलसुआ), खसरा और रूबेला (एमएमआर) का टीका इन बीमारियों का कारण बनने वाले वायरस के कमज़ोर रूपों से तैयार किया जाता है. इसे शरीर में इंजेक्ट करने पर प्रतिरक्षा प्रणाली सक्रिय हो जाती है और भविष्य में वास्तविक संक्रमण के संपर्क में आने पर वह उसे पहचानकर तुरंत प्रतिक्रिया देती है.
+
+हालांकि, सभी टीके एक ही तरह से काम नहीं करते.
+
+मैसेंजर आरएनए (एमआरएनए) टीकों में आनुवंशिक निर्देशों का इस्तेमाल किया जाता है, जो अस्थायी रूप से कोशिकाओं को बिना नुक़सान वाले प्रोटीन बनाने के लिए कहते हैं.
+
+यह प्रोटीन शरीर में इम्यून रेस्पॉन्स पैदा करता है. फाइज़र का कोविड-19 टीका एमआरएनए टीके का एक उदाहरण है.
+
+### टीकों का परीक्षण कैसे किया जाता है?
+
+यह प्रक्रिया वैज्ञानिक शोध से शुरू होती है. इसमें यह देखा जाता है कि इस विषय पर क्षेत्र के दूसरे शोधकर्ताओं ने क्या काम किया है और वे किन निष्कर्षों पर पहुंचे हैं.
+
+जब वैज्ञानिक किसी नए विचार का परीक्षण करने के लिए तैयार होते हैं, तो वे प्रयोगशाला में जांच शुरू करते हैं. जांच सबसे पहले कोशिकाओं पर और फिर जानवरों पर, जिनमें अक्सर चूहों का इस्तेमाल किया जाता है.
+
+ऑक्सफोर्ड यूनिवर्सिटी के वैक्सीन नॉलेज प्रोजेक्ट के मुताबिक़, अगले चरण के परीक्षणों में जाने से पहले यह साबित करना ज़रूरी होता है कि परीक्षण किया जा रहा टीका जानवरों में इम्यून रेस्पॉन्स पैदा कर सकता है.
+
+इसके बाद इंसानों पर परीक्षण किए जाते हैं, जिन्हें आमतौर पर तीन चरणों में बांटा जाता है.
+
+फेज़ 1- पहले चरण में वॉलंटियर्स के एक छोटे समूह पर परीक्षण किया जाता है. इनमें आमतौर पर युवा और स्वस्थ वयस्क शामिल होते हैं. डब्ल्यूएचओ के मुताबिक़, इस चरण में सुरक्षा से जुड़ी किसी बड़ी चिंता और टीके की सही खुराक का पता लगाया जाता है.
+
+फेज़ 2- दूसरे चरण में स्वयंसेवकों के एक बड़े समूह पर परीक्षण किया जाता है. इसमें आमतौर पर कई सौ लोग शामिल होते हैं, जो उस आबादी से होते हैं जिसके लिए टीका तैयार किया गया है.
+
+उनकी तुलना ऐसे लोगों के एक समूह से की जाती है जिन्हें टीका नहीं दिया गया होता. इसे कंट्रोल ग्रुप कहा जाता है. डॉक्टर टीके के संभावित दुष्प्रभावों और शरीर की प्रतिरक्षा प्रतिक्रिया का अध्ययन करते हैं.
+
+फेज़ 3- तीसरे चरण में इससे भी बड़े समूह पर टीके का परीक्षण किया जाता है. इसमें आमतौर पर हज़ारों वॉलंटियर्स शामिल होते हैं. साथ ही एक कंट्रोल ग्रुप भी रखा जाता है.
+
+ये परीक्षण आमतौर पर अलग-अलग देशों में किए जाते हैं, ताकि यह सुनिश्चित किया जा सके कि टीका अलग-अलग उम्र, जातीयता (एथनेसिटी), सामाजिक पृष्ठभूमि और रहन-सहन वाले लोगों के बीच प्रभावी और सुरक्षित है.
+
+किसी टीके को इन तीनों चरणों से गुज़रने में कई दशक भी लग सकते हैं. मेनबी के नाम से जाने जाने वाले मेनिंगोकोकल बीमारी के टीके को विकसित करने में क़रीब 15 साल लगे थे.
+
+बेडफोर्ड कहती हैं, "जब आप किसी पूरी आबादी के स्वस्थ बच्चों को कोई टीका देने जा रहे होते हैं, तो आपको पूरी तरह आश्वस्त होना पड़ता है कि वह बहुत सुरक्षित है."
+
+हालांकि, असाधारण परिस्थितियों में सुरक्षा जांच से समझौता किए बिना टीकों को तेज़ी से विकसित और उनका परीक्षण किया जा सकता है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c5m2lke8jdzzo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    summary_hi: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.`,
+    content_hi: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.
+
+साल 2025 में भारत, पाकिस्तान, इंडोनेशिया, यूक्रेन, नाइजीरिया और इथियोपिया समेत 57 देशों में खसरे के बड़े प्रकोप दर्ज किए गए.
+
+विशेषज्ञों का कहना है कि मामलों में बढ़ोतरी का सीधा संबंध टीकाकरण की घटती दरों से है. विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) के मुताबिक़, साल 2019 में दुनियाभर के 86% बच्चों को खसरे के टीके की पहली खुराक दी गई थी, लेकिन साल 2025 तक यह आंकड़ा घटकर 84% हो गया.
+
+हालांकि ये दोनों आंकड़े भी उस 95% टीकाकरण कवरेज से काफ़ी कम हैं, जो किसी आबादी में खसरे के प्रसार को रोकने के लिए ज़रूरी है.
+
+टीकाकरण के प्रति हिचकिचाहट, टीकाकरण की कम दरों के पीछे एक प्रमुख कारण है. टीकों की सुरक्षा, उनके असर और उनके दुष्प्रभावों को लेकर चिंताएं ऑनलाइन ग़लत सूचनाओं के प्रसार से और बढ़ जाती हैं.
+
+लंदन स्कूल ऑफ़ हाइजीन एंड ट्रॉपिकल मेडिसिन में बाल स्वास्थ्य की प्रोफेसर हेलेन बेडफोर्ड कहती हैं, "इंटरनेट और मीडिया के इस दौर में टीकाकरण से जुड़े मिथक, अफ़वाहें और चिंताएं बहुत तेज़ी से दुनियाभर में फैल सकती हैं."
+
+हालांकि, ब्रिटेन की यूनिवर्सिटी ऑफ हडर्सफ़ील्ड में निवारक स्वास्थ्य की शोधकर्ता सुज़ाना कोला-पामर का कहना है कि टीकाकरण को लेकर हिचकिचाने वाले लोगों को तुरंत टीका-विरोधी नहीं मान लेना चाहिए.
+
+वह बीबीसी वर्ल्ड सर्विस से कहती हैं कि इसके बजाय, उनमें से कई लोग सिर्फ़ "आश्वासन चाहते हैं."
+
+तो वैज्ञानिक कैसे तय करते हैं कि कोई टीका सुरक्षित है और आप ऑनलाइन फैलाई जा रही ग़लत सूचनाओं की पहचान कैसे कर सकते हैं?
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+आज भी टीकों के विकास को चिकित्सा विज्ञान की सबसे बड़ी उपलब्धियों में से एक माना जाता है. डब्ल्यूएचओ का अनुमान है कि खसरा, टिटनेस, डिप्थीरिया और इन्फ्लुएंजा जैसी बीमारियों से हर साल 35 लाख से 50 लाख लोगों की जान बचाने में टीके मदद करते हैं.
+
+टीका शरीर की प्रतिरक्षा प्रणाली (इम्यून सिस्टम) को किसी संक्रमण की पहचान करना और उससे लड़ना सिखाता है, ताकि वास्तविक संक्रमण के संपर्क में आने से पहले ही शरीर उससे निपटने के लिए तैयार हो जाए.
+
+बेडफोर्ड बताती हैं, "टीके वास्तविक संक्रमण से गुज़रे बिना ही वह इम्यूनिटी दे देते हैं, जो आमतौर पर वास्तव में संक्रमण होने पर शरीर में विकसित होती है."
+
+उदाहरण के लिए, मम्प्स (गलसुआ), खसरा और रूबेला (एमएमआर) का टीका इन बीमारियों का कारण बनने वाले वायरस के कमज़ोर रूपों से तैयार किया जाता है. इसे शरीर में इंजेक्ट करने पर प्रतिरक्षा प्रणाली सक्रिय हो जाती है और भविष्य में वास्तविक संक्रमण के संपर्क में आने पर वह उसे पहचानकर तुरंत प्रतिक्रिया देती है.
+
+हालांकि, सभी टीके एक ही तरह से काम नहीं करते.
+
+मैसेंजर आरएनए (एमआरएनए) टीकों में आनुवंशिक निर्देशों का इस्तेमाल किया जाता है, जो अस्थायी रूप से कोशिकाओं को बिना नुक़सान वाले प्रोटीन बनाने के लिए कहते हैं.
+
+यह प्रोटीन शरीर में इम्यून रेस्पॉन्स पैदा करता है. फाइज़र का कोविड-19 टीका एमआरएनए टीके का एक उदाहरण है.
+
+### टीकों का परीक्षण कैसे किया जाता है?
+
+यह प्रक्रिया वैज्ञानिक शोध से शुरू होती है. इसमें यह देखा जाता है कि इस विषय पर क्षेत्र के दूसरे शोधकर्ताओं ने क्या काम किया है और वे किन निष्कर्षों पर पहुंचे हैं.
+
+जब वैज्ञानिक किसी नए विचार का परीक्षण करने के लिए तैयार होते हैं, तो वे प्रयोगशाला में जांच शुरू करते हैं. जांच सबसे पहले कोशिकाओं पर और फिर जानवरों पर, जिनमें अक्सर चूहों का इस्तेमाल किया जाता है.
+
+ऑक्सफोर्ड यूनिवर्सिटी के वैक्सीन नॉलेज प्रोजेक्ट के मुताबिक़, अगले चरण के परीक्षणों में जाने से पहले यह साबित करना ज़रूरी होता है कि परीक्षण किया जा रहा टीका जानवरों में इम्यून रेस्पॉन्स पैदा कर सकता है.
+
+इसके बाद इंसानों पर परीक्षण किए जाते हैं, जिन्हें आमतौर पर तीन चरणों में बांटा जाता है.
+
+फेज़ 1- पहले चरण में वॉलंटियर्स के एक छोटे समूह पर परीक्षण किया जाता है. इनमें आमतौर पर युवा और स्वस्थ वयस्क शामिल होते हैं. डब्ल्यूएचओ के मुताबिक़, इस चरण में सुरक्षा से जुड़ी किसी बड़ी चिंता और टीके की सही खुराक का पता लगाया जाता है.
+
+फेज़ 2- दूसरे चरण में स्वयंसेवकों के एक बड़े समूह पर परीक्षण किया जाता है. इसमें आमतौर पर कई सौ लोग शामिल होते हैं, जो उस आबादी से होते हैं जिसके लिए टीका तैयार किया गया है.
+
+उनकी तुलना ऐसे लोगों के एक समूह से की जाती है जिन्हें टीका नहीं दिया गया होता. इसे कंट्रोल ग्रुप कहा जाता है. डॉक्टर टीके के संभावित दुष्प्रभावों और शरीर की प्रतिरक्षा प्रतिक्रिया का अध्ययन करते हैं.
+
+फेज़ 3- तीसरे चरण में इससे भी बड़े समूह पर टीके का परीक्षण किया जाता है. इसमें आमतौर पर हज़ारों वॉलंटियर्स शामिल होते हैं. साथ ही एक कंट्रोल ग्रुप भी रखा जाता है.
+
+ये परीक्षण आमतौर पर अलग-अलग देशों में किए जाते हैं, ताकि यह सुनिश्चित किया जा सके कि टीका अलग-अलग उम्र, जातीयता (एथनेसिटी), सामाजिक पृष्ठभूमि और रहन-सहन वाले लोगों के बीच प्रभावी और सुरक्षित है.
+
+किसी टीके को इन तीनों चरणों से गुज़रने में कई दशक भी लग सकते हैं. मेनबी के नाम से जाने जाने वाले मेनिंगोकोकल बीमारी के टीके को विकसित करने में क़रीब 15 साल लगे थे.
+
+बेडफोर्ड कहती हैं, "जब आप किसी पूरी आबादी के स्वस्थ बच्चों को कोई टीका देने जा रहे होते हैं, तो आपको पूरी तरह आश्वस्त होना पड़ता है कि वह बहुत सुरक्षित है."
+
+हालांकि, असाधारण परिस्थितियों में सुरक्षा जांच से समझौता किए बिना टीकों को तेज़ी से विकसित और उनका परीक्षण किया जा सकता है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c5m2lke8jdzzo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक हमें कैसे पता चलेगा कि टीके सुरक्षित हैं? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 98126,
+    title: `तलवों की खुजली चैन से सोने नहीं देती? इस परेशानी के पीछे छिपे हो सकते हैं कई कारण - Jagran`,
+    slug: `health-breaking-report-3665-98126-2026`,
+    original_title: `तलवों की खुजली चैन से सोने नहीं देती? इस परेशानी के पीछे छिपे हो सकते हैं कई कारण - Jagran`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:09:37Z`,
+    updated_at: `2026-11-28T00:09:37Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/lifestyle/health-talwon-mein-khujli-ke-karan-why-feet-itch-before-sleep-how-to-treat-it-40448180.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/health-breaking-report-3665-98126-2026.webp`,
+    image_alt: `तलवों की खुजली चैन से सोने नहीं देती? इस परेशानी के पीछे छिपे हो सकते हैं कई कारण - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `स्किन पर खुजली होना कोई गंभीर बात नहीं लेकिन ऐसा लगातार हो रहा हो तो तुरंत ही डॉक्टरी सलाह लें।`,
+    content: `स्किन पर खुजली होना कोई गंभीर बात नहीं लेकिन ऐसा लगातार हो रहा हो तो तुरंत ही डॉक्टरी सलाह लें।
+
+तलवों की खुजली के कारण और घरेलू उपाय जानें, प्रुरिटस से पाएं राहत (Picture Credit- AI Generated)
+
+ड्राई स्किन, इन्फेक्शन, बीमारी तलवों की खुजली के कारण
+
+पैरों को साफ और मॉइश्चराइज रखना खुजली से राहत देगा
+
+लगातार खुजली होने पर तुरंत डॉक्टर से सलाह लें
+
+लाइफस्टाइल डेस्क, नई दिल्ली। त्वचा में लगातार खुजली होने की समस्या प्रुरिटस कहलाती है। यह सिर्फ स्किन पर होने वाली खुजली भर नहीं है, बल्कि यह स्किन एलर्जी, ड्राईनेस या इन्फेक्शन की वजह से भी हो सकता है। वहीं, लिवर की समस्या, थायरॉइड या फिर डायबिटीज में भी ऐसा देखा गया है। प्रूरिटस के क्या कारण हो सकते हैं और इससे कैसे बचा सकता है, जानेंगे इस आर्टिकल में।
+
+कई बार गर्म पानी से नहाना, केमिकल वाले साबुन, एक्जीमा या सोरायिस जैसी स्किन डिजीज से स्किन की ड्राईनेस बढ़ती है और खुजली होती है। अगर सही नाप के जूते ना पहने जाएं तो उससे भी स्किन के ड्राई होने और फटने का डर रहता है।
+
+अगर आपके पैरों में हर समय पसीना बना रहता है तो एथलीट्स फुट जैसे फंगल इन्फेक्शन का खतरा बढ़ जाता है। यह इन्फेक्शन गर्म, नमी वाले वातावरण में बढ़ता है जैसे जूते पहनने पर लगातार पसीना बहते रहना। सार्वजनिक स्वीमिंग पूल का इस्तेमाल भी इस इन्फेक्शन का कारण बन सकता है।
+
+काफी सारी महिलाओं को प्रेग्नेंसी के दौरान पैर, हाथ और पेट पर खुजली महसूस होती है।
+
+ज्यादातर डायबिटीज की वजह से होने वाली पेरीफेरल न्यूरोपैथी की समस्या या नर्व से जुड़े अन्य डिसऑर्डर में रात के समय पैरों के तलवों में खुजली होती है।
+
+जिन लोगों को ठंडे मौसम से एलर्जी होती है उनके पैरों के अंगूठे और उंगलियों में रेड पैचेस या सूजन हो जाती है। इसके साथ ही तेज खुजली भी होती है।
+
+कुछ खास पेन किलर्स, हाई ब्लड प्रेशर और कोलेस्ट्रॉल की दवाइयां भी पैरों में खुजली का कारण बन सकती हैं।
+
+इन दोनों ही स्थितियों में तलवों में खुजली महसूस हो सकती है। इन बीमारियों की वजह से स्किन ड्राई या पपड़ीदार हो सकती है, पैरों के तलवों में क्रैक की समस्या होने का खतरा भी बढ़ जाता है।
+
+### इन छोटे-छोटे उपायों से मिल सकती है राहत
+
+यदि इन छोटे-छोटे उपायों या सावधानियों के बावजूद भी खुजली बनी हुई है तो आपको डॉक्टरी सलाह की जरूरत है। यह किसी बीमारी की वजह से हो सकता है, जिसका तत्काल उपचार जरूरी है।
+
+यह भी पढ़ें- जिस खांसी को आप मौसम का असर समझ रहे हैं, कहीं वो लंग कैंसर की आहट तो नहीं? जानिए कब Cough Syrup नहीं आता काम
+
+यह भी पढ़ें- महिलाओं की सेहत के लिए किसी वरदान से कम नहीं ये ड्राई फ्रूट्स! दिल-दिमाग से लेकर इम्युनिटी तक का रखेंगे ख्याल
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/lifestyle/health-talwon-mein-khujli-ke-karan-why-feet-itch-before-sleep-how-to-treat-it-40448180.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `तलवों की खुजली चैन से सोने नहीं देती? इस परेशानी के पीछे छिपे हो सकते हैं कई कारण - Jagran`,
+    summary_hi: `स्किन पर खुजली होना कोई गंभीर बात नहीं लेकिन ऐसा लगातार हो रहा हो तो तुरंत ही डॉक्टरी सलाह लें।`,
+    content_hi: `स्किन पर खुजली होना कोई गंभीर बात नहीं लेकिन ऐसा लगातार हो रहा हो तो तुरंत ही डॉक्टरी सलाह लें।
+
+तलवों की खुजली के कारण और घरेलू उपाय जानें, प्रुरिटस से पाएं राहत (Picture Credit- AI Generated)
+
+ड्राई स्किन, इन्फेक्शन, बीमारी तलवों की खुजली के कारण
+
+पैरों को साफ और मॉइश्चराइज रखना खुजली से राहत देगा
+
+लगातार खुजली होने पर तुरंत डॉक्टर से सलाह लें
+
+लाइफस्टाइल डेस्क, नई दिल्ली। त्वचा में लगातार खुजली होने की समस्या प्रुरिटस कहलाती है। यह सिर्फ स्किन पर होने वाली खुजली भर नहीं है, बल्कि यह स्किन एलर्जी, ड्राईनेस या इन्फेक्शन की वजह से भी हो सकता है। वहीं, लिवर की समस्या, थायरॉइड या फिर डायबिटीज में भी ऐसा देखा गया है। प्रूरिटस के क्या कारण हो सकते हैं और इससे कैसे बचा सकता है, जानेंगे इस आर्टिकल में।
+
+कई बार गर्म पानी से नहाना, केमिकल वाले साबुन, एक्जीमा या सोरायिस जैसी स्किन डिजीज से स्किन की ड्राईनेस बढ़ती है और खुजली होती है। अगर सही नाप के जूते ना पहने जाएं तो उससे भी स्किन के ड्राई होने और फटने का डर रहता है।
+
+अगर आपके पैरों में हर समय पसीना बना रहता है तो एथलीट्स फुट जैसे फंगल इन्फेक्शन का खतरा बढ़ जाता है। यह इन्फेक्शन गर्म, नमी वाले वातावरण में बढ़ता है जैसे जूते पहनने पर लगातार पसीना बहते रहना। सार्वजनिक स्वीमिंग पूल का इस्तेमाल भी इस इन्फेक्शन का कारण बन सकता है।
+
+काफी सारी महिलाओं को प्रेग्नेंसी के दौरान पैर, हाथ और पेट पर खुजली महसूस होती है।
+
+ज्यादातर डायबिटीज की वजह से होने वाली पेरीफेरल न्यूरोपैथी की समस्या या नर्व से जुड़े अन्य डिसऑर्डर में रात के समय पैरों के तलवों में खुजली होती है।
+
+जिन लोगों को ठंडे मौसम से एलर्जी होती है उनके पैरों के अंगूठे और उंगलियों में रेड पैचेस या सूजन हो जाती है। इसके साथ ही तेज खुजली भी होती है।
+
+कुछ खास पेन किलर्स, हाई ब्लड प्रेशर और कोलेस्ट्रॉल की दवाइयां भी पैरों में खुजली का कारण बन सकती हैं।
+
+इन दोनों ही स्थितियों में तलवों में खुजली महसूस हो सकती है। इन बीमारियों की वजह से स्किन ड्राई या पपड़ीदार हो सकती है, पैरों के तलवों में क्रैक की समस्या होने का खतरा भी बढ़ जाता है।
+
+### इन छोटे-छोटे उपायों से मिल सकती है राहत
+
+यदि इन छोटे-छोटे उपायों या सावधानियों के बावजूद भी खुजली बनी हुई है तो आपको डॉक्टरी सलाह की जरूरत है। यह किसी बीमारी की वजह से हो सकता है, जिसका तत्काल उपचार जरूरी है।
+
+यह भी पढ़ें- जिस खांसी को आप मौसम का असर समझ रहे हैं, कहीं वो लंग कैंसर की आहट तो नहीं? जानिए कब Cough Syrup नहीं आता काम
+
+यह भी पढ़ें- महिलाओं की सेहत के लिए किसी वरदान से कम नहीं ये ड्राई फ्रूट्स! दिल-दिमाग से लेकर इम्युनिटी तक का रखेंगे ख्याल
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/lifestyle/health-talwon-mein-khujli-ke-karan-why-feet-itch-before-sleep-how-to-treat-it-40448180.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक तलवों की खुजली चैन से सोने नहीं देती? इस परेशानी के पीछे छिपे हो सकते हैं कई कारण - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+  {
+    id: 98127,
+    title: `NCP-SP announces support to delimitation, Congress calls it ‘unfortunate’`,
+    slug: `ncp-sp-announces-support-to-delimitation-congress-calls-it-unfortunate-2026`,
+    original_title: `NCP-SP announces support to delimitation, Congress calls it ‘unfortunate’`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:09:38Z`,
+    updated_at: `2026-11-28T00:09:38Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/news/national/ncpsp-decides-to-back-delimitation-says-jitendra-awhad/article71751118.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/ncp-sp-announces-support-to-delimitation-congress-calls-it-unfortunate-2026.jpg`,
+    image_alt: `NCP-SP announces support to delimitation, Congress calls it ‘unfortunate’`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `Mumbai The Nationalist Congress Party–Sharadchandra Pawar (NCP-SP) on Friday (November 27, 2026) announced its support for the delimitation Bills. The NCP-SP, led by Sharad Pawar and his daughter Supriya Sule, is a part of the Opposition bl`,
+    content: `Mumbai The Nationalist Congress Party–Sharadchandra Pawar (NCP-SP) on Friday (November 27, 2026) announced its support for the delimitation Bills. The NCP-SP, led by Sharad Pawar and his daughter Supriya Sule, is a part of the Opposition bloc, the Indian National Developmental, Inclusive Alliance (INDIA).
+
+Most of the INDIA parties oppose the Centre’s delimitation plan, and the Congress has termed the decision of its ally, the NCP-SP, to support the Bills as "unfortunate". Earlier in the day, Shiv Sena (UBT) leader Sanjay Raut had referred to parties supporting the Bills as "traitors”.
+
+Union Cabinet clears delimitation bill Union Cabinet clears delimitation bill A similar attempt by the government was rejected in the Lok Sabha during the Monsoon session in April Union Cabinet clears delimitation bill storyline 1 NCP-SP leader Jitendra Awhad on Friday (November 27, 2026) said in Mumbai, “We will support the delimitation Bill.
+
+We will attend the INDIA Bloc meeting.” He was referring to a meeting of INDIA bloc floor leaders called for Saturday morning to discuss the Opposition’s joint response to the Bills. Meanwhile, Ms. Sule will be in Mumbai over the weekend, as Mr. Pawar continues to remain hospitalised in the city.
+
+She will go to Delhi only on Monday (November 30) to attend the parliamentary session, she announced on her WhatsApp status. Mr. Pawar is likely to be discharged over the weekend, Mr. Awhad said. “Supriya Sule, along with the eight party MPs, has decided to support the delimitation Bill.
+
+The party will do so accordingly. That is the final decision,” Mr. Awhad said minutes after meeting Mr. Pawar at hospital. The party has already issued a whip to all its leaders to remain present in Delhi. When asked about his discussion with Mr. Pawar, he said that they did not discuss the party’s official stance per se.
+
+“The general point being discussed was that delimitation is a constitutional process. It will have to be done at some point,” he said. The Union Cabinet on Friday approved the Constitution Amendment Bill, providing a proportionate increase of 50% seats across all States. This ratio will continue for 25 years till it changes in accordance with the population in the Census after 2051.
+
+The Women’s Reservation law will come into effect along with the increase in seats. ‘Deeply unfortunate’ Reacting to NCP SP’s announcement, Congress leader Sachin Sawant called the decision “deeply unfortunate”. “It helps the [Narendra] Modi government’s authoritarian mindset. This Bill has been introduced to tighten the noose of authoritarianism that has been tightening for the past 12 years.
+
+The government’s intentions behind this Bill are not honest,” he said in a post on X. However, Maharashtra Congress sources told The Hindu that the party had anticipated that the NCP-SP would take this stance. The INDIA bloc has been rallying against the delimitation Bills. Criticising the Union government, Shiv Sena (UBT) MP Sanjay Raut called the move a ploy.
+
+“Realising they are set to lose in 2029, they have devised a new ploy. They intend to bring in 860 MPs and carry out a delimitation exercise. This Bill is anti-national and anti-democratic; it must be opposed. Those who vote in favour of this Bill will be traitors to the nation. Their names will be recorded in history as traitors,” he said.
+
+He added that the parties of the INDIA bloc cannot take an independent decision. “Whatever decision is to be taken will be taken within the INDIA bloc,” he said
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/ncpsp-decides-to-back-delimitation-says-jitendra-awhad/article71751118.ece)`,
+    title_en: `NCP-SP announces support to delimitation, Congress calls it ‘unfortunate’`,
+    summary_en: `Mumbai The Nationalist Congress Party–Sharadchandra Pawar (NCP-SP) on Friday (November 27, 2026) announced its support for the delimitation Bills. The NCP-SP, led by Sharad Pawar and his daughter Supriya Sule, is a part of the Opposition bl`,
+    content_en: `Mumbai The Nationalist Congress Party–Sharadchandra Pawar (NCP-SP) on Friday (November 27, 2026) announced its support for the delimitation Bills. The NCP-SP, led by Sharad Pawar and his daughter Supriya Sule, is a part of the Opposition bloc, the Indian National Developmental, Inclusive Alliance (INDIA).
+
+Most of the INDIA parties oppose the Centre’s delimitation plan, and the Congress has termed the decision of its ally, the NCP-SP, to support the Bills as "unfortunate". Earlier in the day, Shiv Sena (UBT) leader Sanjay Raut had referred to parties supporting the Bills as "traitors”.
+
+Union Cabinet clears delimitation bill Union Cabinet clears delimitation bill A similar attempt by the government was rejected in the Lok Sabha during the Monsoon session in April Union Cabinet clears delimitation bill storyline 1 NCP-SP leader Jitendra Awhad on Friday (November 27, 2026) said in Mumbai, “We will support the delimitation Bill.
+
+We will attend the INDIA Bloc meeting.” He was referring to a meeting of INDIA bloc floor leaders called for Saturday morning to discuss the Opposition’s joint response to the Bills. Meanwhile, Ms. Sule will be in Mumbai over the weekend, as Mr. Pawar continues to remain hospitalised in the city.
+
+She will go to Delhi only on Monday (November 30) to attend the parliamentary session, she announced on her WhatsApp status. Mr. Pawar is likely to be discharged over the weekend, Mr. Awhad said. “Supriya Sule, along with the eight party MPs, has decided to support the delimitation Bill.
+
+The party will do so accordingly. That is the final decision,” Mr. Awhad said minutes after meeting Mr. Pawar at hospital. The party has already issued a whip to all its leaders to remain present in Delhi. When asked about his discussion with Mr. Pawar, he said that they did not discuss the party’s official stance per se.
+
+“The general point being discussed was that delimitation is a constitutional process. It will have to be done at some point,” he said. The Union Cabinet on Friday approved the Constitution Amendment Bill, providing a proportionate increase of 50% seats across all States. This ratio will continue for 25 years till it changes in accordance with the population in the Census after 2051.
+
+The Women’s Reservation law will come into effect along with the increase in seats. ‘Deeply unfortunate’ Reacting to NCP SP’s announcement, Congress leader Sachin Sawant called the decision “deeply unfortunate”. “It helps the [Narendra] Modi government’s authoritarian mindset. This Bill has been introduced to tighten the noose of authoritarianism that has been tightening for the past 12 years.
+
+The government’s intentions behind this Bill are not honest,” he said in a post on X. However, Maharashtra Congress sources told The Hindu that the party had anticipated that the NCP-SP would take this stance. The INDIA bloc has been rallying against the delimitation Bills. Criticising the Union government, Shiv Sena (UBT) MP Sanjay Raut called the move a ploy.
+
+“Realising they are set to lose in 2029, they have devised a new ploy. They intend to bring in 860 MPs and carry out a delimitation exercise. This Bill is anti-national and anti-democratic; it must be opposed. Those who vote in favour of this Bill will be traitors to the nation. Their names will be recorded in history as traitors,” he said.
+
+He added that the parties of the INDIA bloc cannot take an independent decision. “Whatever decision is to be taken will be taken within the INDIA bloc,” he said
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/ncpsp-decides-to-back-delimitation-says-jitendra-awhad/article71751118.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for NCP-SP announces support to delimitation, Congress calls it ‘unfortunate’.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 98128,
+    title: `Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer`,
+    slug: `kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-2026`,
+    original_title: `Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `8 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:09:39Z`,
+    updated_at: `2026-11-28T00:09:39Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-officer/article71751055.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-2026.jpg`,
+    image_alt: `Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `KALLAKURICHI Kallakurichi MLA C. Arul Vignesh of the ruling Tamilaga Vettri Kazhagam (TVK) was arrested on Friday evening (November 27, 2026) by a police team on charges of harassing a woman IAS officer. The officer had accused him of makin`,
+    content: `KALLAKURICHI Kallakurichi MLA C. Arul Vignesh of the ruling Tamilaga Vettri Kazhagam (TVK) was arrested on Friday evening (November 27, 2026) by a police team on charges of harassing a woman IAS officer. The officer had accused him of making inappropriate advances and comments. TVK MLA Arul Vignesh denies charges of sending obscene messages to Kallakurichi Collector storyline 1 Collector files police complaint against Kallakurichi TVK MLA in Tamil Nadu storyline 1 A case was registered after the Madras High Court recently directed the State Public Prosecutor to get in touch with the officer regarding the allegations after she filed a formal police complaint.
+
+FIR registered against Kallakurichi TVK MLA for ‘misbehaving’ with woman IAS officer, Madras High Court told storyline 1 T.N. Chief Secretary did not receive complaint from woman IAS officer over Kallakurichi TVK MLA’s alleged misbehaviour, Madras HC told storyline 1 Collector files police complaint against Kallakurichi TVK MLA in Tamil Nadu storyline 1 Sexual harassment case against Kallakurichi MLA by IAS officer in Tamil Nadu: a timeline Sexual harassment case against Kallakurichi MLA by IAS officer in Tamil Nadu: a timeline Here’s a timeline of how the Kallakurichi MLA-IAS officer row in Tamil Nadu unfolded, the Opposition’s charges and more Sexual harassment case against Kallakurichi MLA by IAS officer in Tamil Nadu: a timeline storyline 1 Police sources said a team led by Shristi Singh, the Investigating Officer appointed by the Madras High Court, arrested the legislator at his residence in Kallakurichi on Friday evening and took him in a police vehicle.
+
+He was subsequently brought to the Circuit House in Kallakurichi on the Salem-Ulundurpet highway for questioning, where a large posse of police personnel has been deployed. Kallakurichi TVK MLA case: Internal Complaints Committee has been constituted, Madras High Court told storyline 1 The Kallakurichi All Women Police, which had registered a sexual harassment case against the MLA, served summons on Mr.
+
+Vignesh on Wednesday directing him to appear for questioning in connection with the case. Speculation over his arrest grew after Inspector Bhuvaneshwari, attached to the All Women Police station, visited the MLA’s house in Kallakurichi on Wednesday (November 25) and handed the summons to him in person.
+
+Kallakurichi TVK MLA Arul Vignesh summoned for questioning in harassment case storyline 1 On 23.11.2026, a senior lady officer in Kallakurichi District preferred complaint against Thiru C. Arul Vignesh, MLA, Kallakurichi Constituency regarding alleged harassment and inappropriate conduct.
+
+On the same day, a case in Kallakurichi AWPS Cr No. 91/2026 was registered under appropriate sections of law. Initial investigation was done by the local police and on the directions of the Hon’ble High Court of Madras in WP (Crl) No. 3183/2026 dated 24.11.2026, Tmt. Shristi Singh, IPS, Superintendent of Police, Tiruppur District took investigation of this case under the supervision of Tmt.
+
+N. Kamini, IPS, Inspector General of Police, Administration, Chennai. During the investigation, the petitioner and other witnesses have been enquired by the Investigation Officer. Consequent to the enquiry, the alleged accused Thiru C. Arul Vignesh, MLA, Kallakurichi Constituency has been arrested and the investigation is under progress.
+
+Relating to this incident, 201 social media posts were pulled down by the local police and the Cyber Crime Department of Tamil Nadu Police. However, since the Hon’ble High Court has also ordered against publishing, communicating or making known to the public any of the matters covered under sections PoSH Act, it is requested to avoid posting any post in contravention to the above directions..&mdash; Tamil Nadu Police (@tnpoliceoffl) November 27, 2026  The police have booked a case against the MLA invoking provisions of the Tamil Nadu Prohibition of Harassment of Women Act and Sections 75, 78 and 79 of the Bharatiya Nyaya Sanhita.
+
+Tiruppur Superintendent of Police Ms. Singh began preliminary investigation into the incident on Wednesday (November 25, 2026) after receiving the inquiry report from Kallakurichi Superintendent of Police I. Shahnaz at the All Women Police Station. Kallakurichi TVK MLA case Stalin seeks action against those who ‘pressured’ IAS officer to settle harassment complaint against TVK MLA Stalin seeks action against those who ‘pressured’ IAS officer to settle harassment complaint against TVK MLA DMK president M.K.
+
+Stalin also said that those who failed to act for 119 days and “pressured” the woman officer to settle the matter must also face action Kallakurichi MLA issue a setback to TVK government: Congress MP Kallakurichi MLA issue a setback to TVK government: Congress MP Karti Chidambaram said that the issue was a setback to the governance of the TVK party and said that the Chief Secretary should have given proper directions then and there Watch: Vijay promised women’s safety.
+
+Did his government deliver? | Focus Tamil Nadu Watch: Vijay promised women’s safety. Did his government deliver? | Focus Tamil Nadu A woman IAS officer in Tamil Nadu has filed a harassment complaint against Kallakurichi TVK MLA C. Arul Vignesh. The case has raised questions about Chief Minister Vijay’s commitment to women’s safety and his government’s response.
+
+In this episode of The Hindu Focus Tamil Nadu, we examine the Madras High Court’s intervention and the questions of accountability facing the TVK government. Inspector General of Police (Administration) N. Kamini also visited Kallakurichi on Thursday (November 26) and supervised the investigation.
+
+The opposition DMK, AIADMK, PMK and BJP had demanded his arrest after the incident came to light. The BJP Mahila Morcha also held Statewide protests on Friday (November 27), accusing the government of shielding the MLA. The local police and the Cyber Crime Department had taken down 201 social media posts related to the incident, according to the police.
+
+The High Court has barred publishing, communicating or making public any matter covered under the PoSH Act, it said, urging the public not to post anything that violates these directions. VIDEO | Kallakurichi: TVK MLA Arul Vignesh taken to court under heavy police security after the completion of interrogation.
+
+Arul Vignesh was arrested from his residence on Friday evening in connection with a sexual harassment complaint allegedly filed by a woman district collector. (Full video available on PTI Videos - https://t.co/bIyFWTfmBd)&mdash; Press Trust of India (@PTI_News) November 27, 2026  ehbWtLLA TVK MLA C.
+
+Arul Vignesh arrested in connection with alleged sexual harassment complaint filed by a woman IAS officer. TVK MLA C. Arul Vignesh arrested in connection with alleged sexual harassment complaint filed by a woman IAS officer The Hindu 33 16:9 On 23.11.2026, a senior lady officer in Kallakurichi District preferred complaint against Thiru C.
+
+Arul Vignesh, MLA, Kallakurichi Constituency regarding alleged harassment and inappropriate conduct. On the same day, a case in Kallakurichi AWPS Cr No. 91/2026 was registered under appropriate sections of law. Initial investigation was done by the local police and on the directions of the Hon’ble High Court of Madras in WP (Crl) No.
+
+3183/2026 dated 24.11.2026, Tmt. Shristi Singh, IPS, Superintendent of Police, Tiruppur District took investigation of this case under the supervision of Tmt. N. Kamini, IPS, Inspector General of Police, Administration, Chennai. During the investigation, the petitioner and other witnesses have been enquired by the Investigation Officer.
+
+Consequent to the enquiry, the alleged accused Thiru C. Arul Vignesh, MLA, Kallakurichi Constituency has been arrested and the investigation is under progress. Relating to this incident, 201 social media posts were pulled down by the local police and the Cyber Crime Department of Tamil Nadu Police.
+
+However, since the Hon’ble High Court has also ordered against publishing, communicating or making known to the public any of the matters covered under sections PoSH Act, it is requested to avoid posting any post in contravention to the above directions..&mdash; Tamil Nadu Police (@tnpoliceoffl) November 27, 2026  Kallakurichi TVK MLA case Stalin seeks action against those who ‘pressured’ IAS officer to settle harassment complaint against TVK MLA Stalin seeks action against those who ‘pressured’ IAS officer to settle harassment complaint against TVK MLA DMK president M.K.
+
+Stalin also said that those who failed to act for 119 days and “pressured” the woman officer to settle the matter must also face action Stalin seeks action against those who ‘pressured’ IAS officer to settle harassment complaint against Kallakurichi TVK MLA storyline 1 Kallakurichi MLA issue a setback to TVK government: Congress MP Kallakurichi MLA issue a setback to TVK government: Congress MP Karti Chidambaram said that the issue was a setback to the governance of the TVK party and said that the Chief Secretary should have given proper directions then and there Kallakurichi MLA issue a setback to TVK government: Congress MP storyline 1 Watch: Vijay promised women’s safety.
+
+Did his government deliver? | Focus Tamil Nadu Watch: Vijay promised women’s safety. Did his government deliver? | Focus Tamil Nadu A woman IAS officer in Tamil Nadu has filed a harassment complaint against Kallakurichi TVK MLA C. Arul Vignesh. The case has raised questions about Chief Minister Vijay’s commitment to women’s safety and his government’s response.
+
+In this episode of The Hindu Focus Tamil Nadu, we examine the Madras High Court’s intervention and the questions of accountability facing the TVK government. Watch: Vijay promised women’s safety. Did his government deliver? | Focus Tamil Nadu video 1 VIDEO | Kallakurichi: TVK MLA Arul Vignesh taken to court under heavy police security after the completion of interrogation.
+
+Arul Vignesh was arrested from his residence on Friday evening in connection with a sexual harassment complaint allegedly filed by a woman district collector. (Full video available on PTI Videos - https://t.co/bIyFWTfmBd)&mdash; Press Trust of India (@PTI_News) November 27, 2026
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-officer/article71751055.ece)`,
+    title_en: `Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer`,
+    summary_en: `KALLAKURICHI Kallakurichi MLA C. Arul Vignesh of the ruling Tamilaga Vettri Kazhagam (TVK) was arrested on Friday evening (November 27, 2026) by a police team on charges of harassing a woman IAS officer. The officer had accused him of makin`,
+    content_en: `KALLAKURICHI Kallakurichi MLA C. Arul Vignesh of the ruling Tamilaga Vettri Kazhagam (TVK) was arrested on Friday evening (November 27, 2026) by a police team on charges of harassing a woman IAS officer. The officer had accused him of making inappropriate advances and comments. TVK MLA Arul Vignesh denies charges of sending obscene messages to Kallakurichi Collector storyline 1 Collector files police complaint against Kallakurichi TVK MLA in Tamil Nadu storyline 1 A case was registered after the Madras High Court recently directed the State Public Prosecutor to get in touch with the officer regarding the allegations after she filed a formal police complaint.
+
+FIR registered against Kallakurichi TVK MLA for ‘misbehaving’ with woman IAS officer, Madras High Court told storyline 1 T.N. Chief Secretary did not receive complaint from woman IAS officer over Kallakurichi TVK MLA’s alleged misbehaviour, Madras HC told storyline 1 Collector files police complaint against Kallakurichi TVK MLA in Tamil Nadu storyline 1 Sexual harassment case against Kallakurichi MLA by IAS officer in Tamil Nadu: a timeline Sexual harassment case against Kallakurichi MLA by IAS officer in Tamil Nadu: a timeline Here’s a timeline of how the Kallakurichi MLA-IAS officer row in Tamil Nadu unfolded, the Opposition’s charges and more Sexual harassment case against Kallakurichi MLA by IAS officer in Tamil Nadu: a timeline storyline 1 Police sources said a team led by Shristi Singh, the Investigating Officer appointed by the Madras High Court, arrested the legislator at his residence in Kallakurichi on Friday evening and took him in a police vehicle.
+
+He was subsequently brought to the Circuit House in Kallakurichi on the Salem-Ulundurpet highway for questioning, where a large posse of police personnel has been deployed. Kallakurichi TVK MLA case: Internal Complaints Committee has been constituted, Madras High Court told storyline 1 The Kallakurichi All Women Police, which had registered a sexual harassment case against the MLA, served summons on Mr.
+
+Vignesh on Wednesday directing him to appear for questioning in connection with the case. Speculation over his arrest grew after Inspector Bhuvaneshwari, attached to the All Women Police station, visited the MLA’s house in Kallakurichi on Wednesday (November 25) and handed the summons to him in person.
+
+Kallakurichi TVK MLA Arul Vignesh summoned for questioning in harassment case storyline 1 On 23.11.2026, a senior lady officer in Kallakurichi District preferred complaint against Thiru C. Arul Vignesh, MLA, Kallakurichi Constituency regarding alleged harassment and inappropriate conduct.
+
+On the same day, a case in Kallakurichi AWPS Cr No. 91/2026 was registered under appropriate sections of law. Initial investigation was done by the local police and on the directions of the Hon’ble High Court of Madras in WP (Crl) No. 3183/2026 dated 24.11.2026, Tmt. Shristi Singh, IPS, Superintendent of Police, Tiruppur District took investigation of this case under the supervision of Tmt.
+
+N. Kamini, IPS, Inspector General of Police, Administration, Chennai. During the investigation, the petitioner and other witnesses have been enquired by the Investigation Officer. Consequent to the enquiry, the alleged accused Thiru C. Arul Vignesh, MLA, Kallakurichi Constituency has been arrested and the investigation is under progress.
+
+Relating to this incident, 201 social media posts were pulled down by the local police and the Cyber Crime Department of Tamil Nadu Police. However, since the Hon’ble High Court has also ordered against publishing, communicating or making known to the public any of the matters covered under sections PoSH Act, it is requested to avoid posting any post in contravention to the above directions..&mdash; Tamil Nadu Police (@tnpoliceoffl) November 27, 2026  The police have booked a case against the MLA invoking provisions of the Tamil Nadu Prohibition of Harassment of Women Act and Sections 75, 78 and 79 of the Bharatiya Nyaya Sanhita.
+
+Tiruppur Superintendent of Police Ms. Singh began preliminary investigation into the incident on Wednesday (November 25, 2026) after receiving the inquiry report from Kallakurichi Superintendent of Police I. Shahnaz at the All Women Police Station. Kallakurichi TVK MLA case Stalin seeks action against those who ‘pressured’ IAS officer to settle harassment complaint against TVK MLA Stalin seeks action against those who ‘pressured’ IAS officer to settle harassment complaint against TVK MLA DMK president M.K.
+
+Stalin also said that those who failed to act for 119 days and “pressured” the woman officer to settle the matter must also face action Kallakurichi MLA issue a setback to TVK government: Congress MP Kallakurichi MLA issue a setback to TVK government: Congress MP Karti Chidambaram said that the issue was a setback to the governance of the TVK party and said that the Chief Secretary should have given proper directions then and there Watch: Vijay promised women’s safety.
+
+Did his government deliver? | Focus Tamil Nadu Watch: Vijay promised women’s safety. Did his government deliver? | Focus Tamil Nadu A woman IAS officer in Tamil Nadu has filed a harassment complaint against Kallakurichi TVK MLA C. Arul Vignesh. The case has raised questions about Chief Minister Vijay’s commitment to women’s safety and his government’s response.
+
+In this episode of The Hindu Focus Tamil Nadu, we examine the Madras High Court’s intervention and the questions of accountability facing the TVK government. Inspector General of Police (Administration) N. Kamini also visited Kallakurichi on Thursday (November 26) and supervised the investigation.
+
+The opposition DMK, AIADMK, PMK and BJP had demanded his arrest after the incident came to light. The BJP Mahila Morcha also held Statewide protests on Friday (November 27), accusing the government of shielding the MLA. The local police and the Cyber Crime Department had taken down 201 social media posts related to the incident, according to the police.
+
+The High Court has barred publishing, communicating or making public any matter covered under the PoSH Act, it said, urging the public not to post anything that violates these directions. VIDEO | Kallakurichi: TVK MLA Arul Vignesh taken to court under heavy police security after the completion of interrogation.
+
+Arul Vignesh was arrested from his residence on Friday evening in connection with a sexual harassment complaint allegedly filed by a woman district collector. (Full video available on PTI Videos - https://t.co/bIyFWTfmBd)&mdash; Press Trust of India (@PTI_News) November 27, 2026  ehbWtLLA TVK MLA C.
+
+Arul Vignesh arrested in connection with alleged sexual harassment complaint filed by a woman IAS officer. TVK MLA C. Arul Vignesh arrested in connection with alleged sexual harassment complaint filed by a woman IAS officer The Hindu 33 16:9 On 23.11.2026, a senior lady officer in Kallakurichi District preferred complaint against Thiru C.
+
+Arul Vignesh, MLA, Kallakurichi Constituency regarding alleged harassment and inappropriate conduct. On the same day, a case in Kallakurichi AWPS Cr No. 91/2026 was registered under appropriate sections of law. Initial investigation was done by the local police and on the directions of the Hon’ble High Court of Madras in WP (Crl) No.
+
+3183/2026 dated 24.11.2026, Tmt. Shristi Singh, IPS, Superintendent of Police, Tiruppur District took investigation of this case under the supervision of Tmt. N. Kamini, IPS, Inspector General of Police, Administration, Chennai. During the investigation, the petitioner and other witnesses have been enquired by the Investigation Officer.
+
+Consequent to the enquiry, the alleged accused Thiru C. Arul Vignesh, MLA, Kallakurichi Constituency has been arrested and the investigation is under progress. Relating to this incident, 201 social media posts were pulled down by the local police and the Cyber Crime Department of Tamil Nadu Police.
+
+However, since the Hon’ble High Court has also ordered against publishing, communicating or making known to the public any of the matters covered under sections PoSH Act, it is requested to avoid posting any post in contravention to the above directions..&mdash; Tamil Nadu Police (@tnpoliceoffl) November 27, 2026  Kallakurichi TVK MLA case Stalin seeks action against those who ‘pressured’ IAS officer to settle harassment complaint against TVK MLA Stalin seeks action against those who ‘pressured’ IAS officer to settle harassment complaint against TVK MLA DMK president M.K.
+
+Stalin also said that those who failed to act for 119 days and “pressured” the woman officer to settle the matter must also face action Stalin seeks action against those who ‘pressured’ IAS officer to settle harassment complaint against Kallakurichi TVK MLA storyline 1 Kallakurichi MLA issue a setback to TVK government: Congress MP Kallakurichi MLA issue a setback to TVK government: Congress MP Karti Chidambaram said that the issue was a setback to the governance of the TVK party and said that the Chief Secretary should have given proper directions then and there Kallakurichi MLA issue a setback to TVK government: Congress MP storyline 1 Watch: Vijay promised women’s safety.
+
+Did his government deliver? | Focus Tamil Nadu Watch: Vijay promised women’s safety. Did his government deliver? | Focus Tamil Nadu A woman IAS officer in Tamil Nadu has filed a harassment complaint against Kallakurichi TVK MLA C. Arul Vignesh. The case has raised questions about Chief Minister Vijay’s commitment to women’s safety and his government’s response.
+
+In this episode of The Hindu Focus Tamil Nadu, we examine the Madras High Court’s intervention and the questions of accountability facing the TVK government. Watch: Vijay promised women’s safety. Did his government deliver? | Focus Tamil Nadu video 1 VIDEO | Kallakurichi: TVK MLA Arul Vignesh taken to court under heavy police security after the completion of interrogation.
+
+Arul Vignesh was arrested from his residence on Friday evening in connection with a sexual harassment complaint allegedly filed by a woman district collector. (Full video available on PTI Videos - https://t.co/bIyFWTfmBd)&mdash; Press Trust of India (@PTI_News) November 27, 2026
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-officer/article71751055.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 98129,
+    title: `अनंत सिंह लग्जरी कार की सनरूफ से बाहर निकले, गमछा लहराया; फिर ड्राइवर को लात मारते दिखे - AajTak`,
+    slug: `politics-breaking-report-6896-98129-2026`,
+    original_title: `अनंत सिंह लग्जरी कार की सनरूफ से बाहर निकले, गमछा लहराया; फिर ड्राइवर को लात मारते दिखे - AajTak`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:09:44Z`,
+    updated_at: `2026-11-28T00:09:44Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/bihar/story/anant-singh-viral-video-sunroof-driver-kick-daughter-wedding-lcln-dskc-2708142-2026-11-27`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b09a24dee842-anant-singh-viral-video-sunroof-driver-273124937.jpg`,
+    image_alt: `अनंत सिंह लग्जरी कार की सनरूफ से बाहर निकले, गमछा लहराया; फिर ड्राइवर को लात मारते दिखे - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `बिहार के बाहुबली विधायक अनंत सिंह की बेटी की शादी इन दिनों लगातार चर्चा में है. पटना के बाढ़ से लेकर उनके पैतृक गांव नदवां तक शादी में शामिल होने वालों की भारी भीड़ जुटी. भव्य आयोजन के कई वीडियो सोशल मीडिया पर वायरल हुए. अब एक और वीडियो चर्`,
+    content: `बिहार के बाहुबली विधायक अनंत सिंह की बेटी की शादी इन दिनों लगातार चर्चा में है. पटना के बाढ़ से लेकर उनके पैतृक गांव नदवां तक शादी में शामिल होने वालों की भारी भीड़ जुटी. भव्य आयोजन के कई वीडियो सोशल मीडिया पर वायरल हुए. अब एक और वीडियो चर्चा में है. इसमें अनंत सिंह अपनी लैंड क्रूजर कार की सनरूफ से बाहर निकलकर गमछा लहराते हुए लोगों का अभिवादन करते नजर आ रहे हैं.
+
+इसी वीडियो में वह ड्राइवर की तरफ पैर बढ़ाते और उसे धक्का देते भी दिखाई देते हैं. हालांकि, इस वायरल वीडियो की aajtak.in पुष्टि नहीं करता है. और पढ़ेंसोशल मीडिया पर वायरल वीडियो में अनंत सिंह लैंड क्रूजर की सनरूफ से बाहर निकले हुए दिखाई देते हैं. उनके हाथ में गमछा है, जिसे वह लहराकर आसपास मौजूद लोगों का अभिवादन कर रहे हैं.
+
+कार के चारों ओर लोगों की भीड़ भी नजर आती है.इसी दौरान वीडियो में अनंत सिंह ड्राइवर की तरफ देखते और उससे कुछ कहते दिखाई देते हैं. इसके बाद वह पैर से ड्राइवर की तरफ धक्का देते नजर आते हैं. वीडियो में यह दृश्य एक से अधिक बार दिखाई देता है. इसी को लेकर सोशल मीडिया पर चर्चा हो रही है.अनंत सिंह ने गाड़ी चलाते वक्त अपने ड्राइवर को मारा लात से   https://t.co/67DS1phRA9— Anuj Yadav (@Theanujjpov) November 27, 2026बेटी की शाही शादी ने देश-विदेश में बटोरी सुर्खियांअनंत सिंह की बेटी की शादी उनके पैतृक गांव नदवां में भव्य अंदाज में हुई.
+
+शादी में बड़ी संख्या में मेहमान और समर्थक पहुंचे. आयोजन से जुड़े वीडियो और तस्वीरें सोशल मीडिया पर खूब शेयर किए गए. Advertisement        इस शादी की चर्चा भारतीय मीडिया के साथ विदेशी मीडिया संस्थानों में भी हुई. भव्य आयोजन को लेकर सोशल मीडिया पर प्रतिक्रियाएं आईं. वहीं, बिहार की गरीबी और अमीर-गरीब के बीच आर्थिक असमानता को लेकर भी बहस छिड़ गई.फिलहाल, शादी से जुड़े वीडियो लगातार सोशल मीडिया पर सामने आ रहे हैं.
+
+अनंत सिंह का ड्राइवर की तरफ पैर बढ़ाते हुए दिखने वाला यह वीडियो भी लोगों का ध्यान खींच रहा है.बेटी की शादी में करोड़ों खर्च पर ED-CBI जांच की मांगउधर, बिहार के पूर्व मंत्री और जनशक्ति जनता दल के प्रमुख तेज प्रताप यादव ने अनंत सिंह की बेटी की शादी में करोड़ों रुपये खर्च होने को लेकर सवाल खड़े किए.
+
+उन्होंने कहा कि शादी में इतना पैसा खर्च करना गलत है और सरकार को इस मामले का संज्ञान लेना चाहिए.तेज प्रताप ने मांग की कि आखिर शादी में इतना पैसा कहां से आया, इसकी जांच होनी चाहिए. उन्होंने इस मामले में प्रवर्तन निदेशालय यानी ED और केंद्रीय जांच ब्यूरो यानी CBI से जांच कराने की मांग की.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/bihar/story/anant-singh-viral-video-sunroof-driver-kick-daughter-wedding-lcln-dskc-2708142-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अनंत सिंह लग्जरी कार की सनरूफ से बाहर निकले, गमछा लहराया; फिर ड्राइवर को लात मारते दिखे - AajTak`,
+    summary_hi: `बिहार के बाहुबली विधायक अनंत सिंह की बेटी की शादी इन दिनों लगातार चर्चा में है. पटना के बाढ़ से लेकर उनके पैतृक गांव नदवां तक शादी में शामिल होने वालों की भारी भीड़ जुटी. भव्य आयोजन के कई वीडियो सोशल मीडिया पर वायरल हुए. अब एक और वीडियो चर्`,
+    content_hi: `बिहार के बाहुबली विधायक अनंत सिंह की बेटी की शादी इन दिनों लगातार चर्चा में है. पटना के बाढ़ से लेकर उनके पैतृक गांव नदवां तक शादी में शामिल होने वालों की भारी भीड़ जुटी. भव्य आयोजन के कई वीडियो सोशल मीडिया पर वायरल हुए. अब एक और वीडियो चर्चा में है. इसमें अनंत सिंह अपनी लैंड क्रूजर कार की सनरूफ से बाहर निकलकर गमछा लहराते हुए लोगों का अभिवादन करते नजर आ रहे हैं.
+
+इसी वीडियो में वह ड्राइवर की तरफ पैर बढ़ाते और उसे धक्का देते भी दिखाई देते हैं. हालांकि, इस वायरल वीडियो की aajtak.in पुष्टि नहीं करता है. और पढ़ेंसोशल मीडिया पर वायरल वीडियो में अनंत सिंह लैंड क्रूजर की सनरूफ से बाहर निकले हुए दिखाई देते हैं. उनके हाथ में गमछा है, जिसे वह लहराकर आसपास मौजूद लोगों का अभिवादन कर रहे हैं.
+
+कार के चारों ओर लोगों की भीड़ भी नजर आती है.इसी दौरान वीडियो में अनंत सिंह ड्राइवर की तरफ देखते और उससे कुछ कहते दिखाई देते हैं. इसके बाद वह पैर से ड्राइवर की तरफ धक्का देते नजर आते हैं. वीडियो में यह दृश्य एक से अधिक बार दिखाई देता है. इसी को लेकर सोशल मीडिया पर चर्चा हो रही है.अनंत सिंह ने गाड़ी चलाते वक्त अपने ड्राइवर को मारा लात से   https://t.co/67DS1phRA9— Anuj Yadav (@Theanujjpov) November 27, 2026बेटी की शाही शादी ने देश-विदेश में बटोरी सुर्खियांअनंत सिंह की बेटी की शादी उनके पैतृक गांव नदवां में भव्य अंदाज में हुई.
+
+शादी में बड़ी संख्या में मेहमान और समर्थक पहुंचे. आयोजन से जुड़े वीडियो और तस्वीरें सोशल मीडिया पर खूब शेयर किए गए. Advertisement        इस शादी की चर्चा भारतीय मीडिया के साथ विदेशी मीडिया संस्थानों में भी हुई. भव्य आयोजन को लेकर सोशल मीडिया पर प्रतिक्रियाएं आईं. वहीं, बिहार की गरीबी और अमीर-गरीब के बीच आर्थिक असमानता को लेकर भी बहस छिड़ गई.फिलहाल, शादी से जुड़े वीडियो लगातार सोशल मीडिया पर सामने आ रहे हैं.
+
+अनंत सिंह का ड्राइवर की तरफ पैर बढ़ाते हुए दिखने वाला यह वीडियो भी लोगों का ध्यान खींच रहा है.बेटी की शादी में करोड़ों खर्च पर ED-CBI जांच की मांगउधर, बिहार के पूर्व मंत्री और जनशक्ति जनता दल के प्रमुख तेज प्रताप यादव ने अनंत सिंह की बेटी की शादी में करोड़ों रुपये खर्च होने को लेकर सवाल खड़े किए.
+
+उन्होंने कहा कि शादी में इतना पैसा खर्च करना गलत है और सरकार को इस मामले का संज्ञान लेना चाहिए.तेज प्रताप ने मांग की कि आखिर शादी में इतना पैसा कहां से आया, इसकी जांच होनी चाहिए. उन्होंने इस मामले में प्रवर्तन निदेशालय यानी ED और केंद्रीय जांच ब्यूरो यानी CBI से जांच कराने की मांग की.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/bihar/story/anant-singh-viral-video-sunroof-driver-kick-daughter-wedding-lcln-dskc-2708142-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक अनंत सिंह लग्जरी कार की सनरूफ से बाहर निकले, गमछा लहराया; फिर ड्राइवर को लात मारते दिखे - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98130,
+    title: `आज़म ख़ान ने ओवैसी की यूपी में रैलियों पर उठाए सवाल, अखिलेश यादव और राहुल गांधी पर क्या बोले?-इंटरव्यू`,
+    slug: `politics-breaking-report-16544-98130-2026`,
+    original_title: `आज़म ख़ान ने ओवैसी की यूपी में रैलियों पर उठाए सवाल, अखिलेश यादव और राहुल गांधी पर क्या बोले?-इंटरव्यू`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:09:45Z`,
+    updated_at: `2026-11-28T00:09:45Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/cj5y1p7rrrx5o`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/politics-breaking-report-16544-98130-2026.png`,
+    image_alt: `आज़म ख़ान ने ओवैसी की यूपी में रैलियों पर उठाए सवाल, अखिलेश यादव और राहुल गांधी पर क्या बोले?-इंटरव्यू`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `समाजवादी पार्टी के वरिष्ठ नेता आज़म ख़ान ने जेल से छूटने के बाद बीबीसी न्यूज़ हिन्दी को दिए एक इंटरव्यू में असदुद्दीन ओवैसी, अखिलेश यादव, राम मंदिर, कांग्रेस, जौहर यूनिवर्सिटी और अपने क़ानूनी मामलों सहित कई मुद्दों पर बात की.`,
+    content: `समाजवादी पार्टी के वरिष्ठ नेता आज़म ख़ान ने जेल से छूटने के बाद बीबीसी न्यूज़ हिन्दी को दिए एक इंटरव्यू में असदुद्दीन ओवैसी, अखिलेश यादव, राम मंदिर, कांग्रेस, जौहर यूनिवर्सिटी और अपने क़ानूनी मामलों सहित कई मुद्दों पर बात की.
+
+ओवैसी और समाजवादी पार्टी को लेकर पूछे गए एक सवाल पर आज़म ख़ान ने कहा कि ओवैसी राज्य में बीजेपी को फ़ायदा पहुंचाना चाहते हैं.
+
+उन्होंने कहा, "यही समझ में नहीं आ रहा है कि वो बीजेपी से लड़ रहे हैं या समाजवादी पार्टी से लड़ रहे हैं. अगर समाजवादी का नुक़सान होगा तो फ़ायदा ज़ाहिर है बीजेपी का होगा."
+
+आज़म ख़ान ने असदुद्दीन ओवैसी की उत्तर प्रदेश में रैलियों पर सवाल उठाते हुए कहा कि यह स्पष्ट नहीं है कि वह बीजेपी से लड़ रहे हैं या समाजवादी पार्टी से.
+
+उन्होंने कहा कि अगर समाजवादी पार्टी को नुक़सान होगा तो इसका फ़ायदा बीजेपी को ही मिलेगा. आज़म ने ओवैसी की हमदर्दी पर भी सवाल उठाए.
+
+उन्होंने कहा कि जब ओवैसी उनके घर के सामने से गुज़र रहे थे, तब मिलने क्यों नहीं आए या उनकी पत्नी को फ़ोन क्यों नहीं किया.
+
+उत्तर प्रदेश विधानसभा चुनावों से ठीक पहले सुप्रीम कोर्ट से मिली राहत के बाद उन्होंने भावुक अंदाज़ में कहा था कि 'अब चुनाव नहीं होगा, इंक़लाब होगा.'
+
+आज़म ख़ान ग़ाज़ियाबाद की डासना जेल में बंद थे. इससे एक दिन पहले इलाहाबाद हाई कोर्ट ने ईडी की ओर से दर्ज मनी लॉन्ड्रिंग के एक मामले में उन्हें अंतरिम ज़मानत दी थी.
+
+हालांकि, आज़म ख़ान की रिहाई के कुछ घंटे बाद ही इस आदेश पर रोक लगाने के लिए ईडी सुप्रीम कोर्ट पहुंची और तत्काल सुनवाई की मांग की. लेकिन अदालत ने यह मांग स्वीकार नहीं की.
+
+आज़म ख़ान और उनके बेटे अब्दुल्ला आज़म दो पैन कार्ड रखने के मामले में पहले जेल में थे.
+
+इस मामले में इलाहाबाद हाई कोर्ट ने 29 अक्तूबर को उन्हें ज़मानत दी थी. 31 अक्तूबर को जैसे ही आज़म ख़ान जेल से बाहर आए, ईडी ने उन्हें हिरासत में ले लिया.
+
+ईडी की यह कार्रवाई मोहम्मद अली जौहर यूनिवर्सिटी से जुड़े कथित मनी लॉन्ड्रिंग के मामले में हुई. इस मामले में आरोप है कि किसानों की कृषि भूमि पर मोहम्मद अली जौहर यूनिवर्सिटी ने ज़बरन क़ब्ज़ा किया था.
+
+### 'अखिलेश के जेल में आने से परेशानी बढ़ जाती है'
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+अखिलेश यादव के जेल में मिलने जाने के सवाल पर आज़म ख़ान ने कहा कि उनके जेल में मिलने आने से काफ़ी परेशानी होती है.
+
+उन्होंने कहा, "आप अंदाज़ा नहीं लगा सकते कि अखिलेश साहब के आने के पहले और आने के बाद हम पर कितने सितम के पहाड़ टूटते हैं. जेल में आने से पहले सख़्ती बढ़ा दी जाती है."
+
+उन्होंने कहा कि अगर कोई चीज़ छुपाकर इस्तेमाल भी कर रहे हैं, जैसे शेविंग क्रीम, तो वह भी कूड़ेदान में डाल दी जाती है.
+
+आज़म ख़ान ने कहा कि इसलिए वह नहीं चाहते थे कि अखिलेश यादव उनसे मिलने आएं.
+
+अपने ख़िलाफ़ दर्ज दो पैन कार्ड से जुड़े मामले पर आज़म ख़ान ने कहा कि उनके पास एक ही वैध पैन कार्ड था.
+
+उन्होंने कहा, "एक पैन कार्ड जिससे किसी किस्म का कोई कारोबार नहीं हुआ, कोई ट्रांज़ैक्शन नहीं हुआ, उसका कोई इस्तेमाल ही नहीं हुआ. वो पैन कार्ड सरेंडर कर दिया गया. और उन्हीं नियमों के तहत दूसरा नया पैन कार्ड बन गया. तो एक वक्त में एक ही पैन कार्ड रहा, दो रहे ही नहीं."
+
+जेल से रिहाई के बाद ईडी की कार्रवाई के बारे में उन्होंने कहा, "हम तो बहुत मुतमइन होकर बाहर आए थे और यह अंदाज़ा भी नहीं कर सकते थे कि आठ साल पहले जो एफआईआर लिखी गई हो, उसके लिए आज का ही दिन तय होगा."
+
+### जौहर यूनिवर्सिटी पर क्या बोले आज़म ख़ान
+
+बीती 15 जुलाई को रामपुर विकास प्राधिकरण ने दावा किया कि जौहर यूनिवर्सिटी के 40 में से 38 भवनों का निर्माण बिना स्वीकृत नक़्शा पास कराए किया गया है.
+
+रामपुर की मोहम्मद अली जौहर यूनिवर्सिटी की नींव क़रीब दो दशक पहले आज़म ख़ान ने रखी थी. आज़म ख़ान तब रामपुर के विधायक थे. अलग-अलग मौक़ों पर उन्होंने इस यूनिवर्सिटी को अपना ड्रीम प्रोजेक्ट बताया था.
+
+मोहम्मद अली जौहर यूनिवर्सिटी से जुड़े विवाद पर बात करते हुए आज़म ख़ान भावुक भी दिखाई दिए.
+
+जब उनसे पूछा गया कि यूनिवर्सिटी की 38 इमारतें गिराए जाने की ख़बर मिलने पर उनके मन में पहला ख़याल क्या आया था, तो इसके जवाब में आज़म ख़ान ने कहा कि अगर बेटा साथ न होता तो उनका हार्ट फ़ेल हो जाता. दिल की धड़कन रुक जाती.
+
+उन्होंने दावा किया कि यूनिवर्सिटी के निर्माण से जुड़े सभी काम क़ानून के दायरे में किए गए.
+
+उन्होंने कहा कि उस समय आरडीए नहीं था. जब कैंपस आरडीए के दायरे में आया, तो उसके बाद बनने वाली इमारतों के नक़्शे उससे पास कराए गए.
+
+उन्होंने कहा, "मैं तो कह रहा हूं कि जब बीएचयू (बनारस हिंदू यूनिवर्सिटी) और एएमयू (अलीगढ़ मुस्लिम यूनिवर्सिटी) बने थे, उस समय ये सारे क़ानून रहे होते तो मोहन मालवीय जी और सर सैयद साहब दोनों जेल में होते."
+
+"मैंने ग़ाज़ियाबाद में जज साहब से टपकते हुए आंसुओं के साथ ये कहा था कि जज साहब अगर मुझे ये मालूम होता कि यूनिवर्सिटी और स्कूल बनाने की इतनी बड़ी सज़ा मिलेगी तो मैं रिक्शा चला लेता, स्कूल नहीं जाता. और अपने बेटे को बीड़ियाँ बनाने बैठा देता, एम. टेक. नहीं कराता."
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cj5y1p7rrrx5o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `आज़म ख़ान ने ओवैसी की यूपी में रैलियों पर उठाए सवाल, अखिलेश यादव और राहुल गांधी पर क्या बोले?-इंटरव्यू`,
+    summary_hi: `समाजवादी पार्टी के वरिष्ठ नेता आज़म ख़ान ने जेल से छूटने के बाद बीबीसी न्यूज़ हिन्दी को दिए एक इंटरव्यू में असदुद्दीन ओवैसी, अखिलेश यादव, राम मंदिर, कांग्रेस, जौहर यूनिवर्सिटी और अपने क़ानूनी मामलों सहित कई मुद्दों पर बात की.`,
+    content_hi: `समाजवादी पार्टी के वरिष्ठ नेता आज़म ख़ान ने जेल से छूटने के बाद बीबीसी न्यूज़ हिन्दी को दिए एक इंटरव्यू में असदुद्दीन ओवैसी, अखिलेश यादव, राम मंदिर, कांग्रेस, जौहर यूनिवर्सिटी और अपने क़ानूनी मामलों सहित कई मुद्दों पर बात की.
+
+ओवैसी और समाजवादी पार्टी को लेकर पूछे गए एक सवाल पर आज़म ख़ान ने कहा कि ओवैसी राज्य में बीजेपी को फ़ायदा पहुंचाना चाहते हैं.
+
+उन्होंने कहा, "यही समझ में नहीं आ रहा है कि वो बीजेपी से लड़ रहे हैं या समाजवादी पार्टी से लड़ रहे हैं. अगर समाजवादी का नुक़सान होगा तो फ़ायदा ज़ाहिर है बीजेपी का होगा."
+
+आज़म ख़ान ने असदुद्दीन ओवैसी की उत्तर प्रदेश में रैलियों पर सवाल उठाते हुए कहा कि यह स्पष्ट नहीं है कि वह बीजेपी से लड़ रहे हैं या समाजवादी पार्टी से.
+
+उन्होंने कहा कि अगर समाजवादी पार्टी को नुक़सान होगा तो इसका फ़ायदा बीजेपी को ही मिलेगा. आज़म ने ओवैसी की हमदर्दी पर भी सवाल उठाए.
+
+उन्होंने कहा कि जब ओवैसी उनके घर के सामने से गुज़र रहे थे, तब मिलने क्यों नहीं आए या उनकी पत्नी को फ़ोन क्यों नहीं किया.
+
+उत्तर प्रदेश विधानसभा चुनावों से ठीक पहले सुप्रीम कोर्ट से मिली राहत के बाद उन्होंने भावुक अंदाज़ में कहा था कि 'अब चुनाव नहीं होगा, इंक़लाब होगा.'
+
+आज़म ख़ान ग़ाज़ियाबाद की डासना जेल में बंद थे. इससे एक दिन पहले इलाहाबाद हाई कोर्ट ने ईडी की ओर से दर्ज मनी लॉन्ड्रिंग के एक मामले में उन्हें अंतरिम ज़मानत दी थी.
+
+हालांकि, आज़म ख़ान की रिहाई के कुछ घंटे बाद ही इस आदेश पर रोक लगाने के लिए ईडी सुप्रीम कोर्ट पहुंची और तत्काल सुनवाई की मांग की. लेकिन अदालत ने यह मांग स्वीकार नहीं की.
+
+आज़म ख़ान और उनके बेटे अब्दुल्ला आज़म दो पैन कार्ड रखने के मामले में पहले जेल में थे.
+
+इस मामले में इलाहाबाद हाई कोर्ट ने 29 अक्तूबर को उन्हें ज़मानत दी थी. 31 अक्तूबर को जैसे ही आज़म ख़ान जेल से बाहर आए, ईडी ने उन्हें हिरासत में ले लिया.
+
+ईडी की यह कार्रवाई मोहम्मद अली जौहर यूनिवर्सिटी से जुड़े कथित मनी लॉन्ड्रिंग के मामले में हुई. इस मामले में आरोप है कि किसानों की कृषि भूमि पर मोहम्मद अली जौहर यूनिवर्सिटी ने ज़बरन क़ब्ज़ा किया था.
+
+### 'अखिलेश के जेल में आने से परेशानी बढ़ जाती है'
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+अखिलेश यादव के जेल में मिलने जाने के सवाल पर आज़म ख़ान ने कहा कि उनके जेल में मिलने आने से काफ़ी परेशानी होती है.
+
+उन्होंने कहा, "आप अंदाज़ा नहीं लगा सकते कि अखिलेश साहब के आने के पहले और आने के बाद हम पर कितने सितम के पहाड़ टूटते हैं. जेल में आने से पहले सख़्ती बढ़ा दी जाती है."
+
+उन्होंने कहा कि अगर कोई चीज़ छुपाकर इस्तेमाल भी कर रहे हैं, जैसे शेविंग क्रीम, तो वह भी कूड़ेदान में डाल दी जाती है.
+
+आज़म ख़ान ने कहा कि इसलिए वह नहीं चाहते थे कि अखिलेश यादव उनसे मिलने आएं.
+
+अपने ख़िलाफ़ दर्ज दो पैन कार्ड से जुड़े मामले पर आज़म ख़ान ने कहा कि उनके पास एक ही वैध पैन कार्ड था.
+
+उन्होंने कहा, "एक पैन कार्ड जिससे किसी किस्म का कोई कारोबार नहीं हुआ, कोई ट्रांज़ैक्शन नहीं हुआ, उसका कोई इस्तेमाल ही नहीं हुआ. वो पैन कार्ड सरेंडर कर दिया गया. और उन्हीं नियमों के तहत दूसरा नया पैन कार्ड बन गया. तो एक वक्त में एक ही पैन कार्ड रहा, दो रहे ही नहीं."
+
+जेल से रिहाई के बाद ईडी की कार्रवाई के बारे में उन्होंने कहा, "हम तो बहुत मुतमइन होकर बाहर आए थे और यह अंदाज़ा भी नहीं कर सकते थे कि आठ साल पहले जो एफआईआर लिखी गई हो, उसके लिए आज का ही दिन तय होगा."
+
+### जौहर यूनिवर्सिटी पर क्या बोले आज़म ख़ान
+
+बीती 15 जुलाई को रामपुर विकास प्राधिकरण ने दावा किया कि जौहर यूनिवर्सिटी के 40 में से 38 भवनों का निर्माण बिना स्वीकृत नक़्शा पास कराए किया गया है.
+
+रामपुर की मोहम्मद अली जौहर यूनिवर्सिटी की नींव क़रीब दो दशक पहले आज़म ख़ान ने रखी थी. आज़म ख़ान तब रामपुर के विधायक थे. अलग-अलग मौक़ों पर उन्होंने इस यूनिवर्सिटी को अपना ड्रीम प्रोजेक्ट बताया था.
+
+मोहम्मद अली जौहर यूनिवर्सिटी से जुड़े विवाद पर बात करते हुए आज़म ख़ान भावुक भी दिखाई दिए.
+
+जब उनसे पूछा गया कि यूनिवर्सिटी की 38 इमारतें गिराए जाने की ख़बर मिलने पर उनके मन में पहला ख़याल क्या आया था, तो इसके जवाब में आज़म ख़ान ने कहा कि अगर बेटा साथ न होता तो उनका हार्ट फ़ेल हो जाता. दिल की धड़कन रुक जाती.
+
+उन्होंने दावा किया कि यूनिवर्सिटी के निर्माण से जुड़े सभी काम क़ानून के दायरे में किए गए.
+
+उन्होंने कहा कि उस समय आरडीए नहीं था. जब कैंपस आरडीए के दायरे में आया, तो उसके बाद बनने वाली इमारतों के नक़्शे उससे पास कराए गए.
+
+उन्होंने कहा, "मैं तो कह रहा हूं कि जब बीएचयू (बनारस हिंदू यूनिवर्सिटी) और एएमयू (अलीगढ़ मुस्लिम यूनिवर्सिटी) बने थे, उस समय ये सारे क़ानून रहे होते तो मोहन मालवीय जी और सर सैयद साहब दोनों जेल में होते."
+
+"मैंने ग़ाज़ियाबाद में जज साहब से टपकते हुए आंसुओं के साथ ये कहा था कि जज साहब अगर मुझे ये मालूम होता कि यूनिवर्सिटी और स्कूल बनाने की इतनी बड़ी सज़ा मिलेगी तो मैं रिक्शा चला लेता, स्कूल नहीं जाता. और अपने बेटे को बीड़ियाँ बनाने बैठा देता, एम. टेक. नहीं कराता."
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/cj5y1p7rrrx5o)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक आज़म ख़ान ने ओवैसी की यूपी में रैलियों पर उठाए सवाल, अखिलेश यादव और राहुल गांधी पर क्या बोले?-इंटरव्यू से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 98131,
+    title: `I’ve struck audiophile gold on Black Friday with this stunning premium hi-fi bundle deal - What Hi-Fi?`,
+    slug: `ive-struck-audiophile-gold-on-black-friday-with-this-stunning-premium-2026`,
+    original_title: `I’ve struck audiophile gold on Black Friday with this stunning premium hi-fi bundle deal - What Hi-Fi?`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:09:47Z`,
+    updated_at: `2026-11-28T00:09:47Z`,
+    source_name: `What Hi-Fi?`,
+    source_url: `https://www.whathifi.com/hi-fi/this-stunning-hi-fi-system-deal-combines-five-star-kef-speakers-with-an-awesome-arcam-streaming-amp-and-ticks-all-the-black-friday-boxes`,
+    source_courtesy: `Source: What Hi-Fi?`,
+    image_url: `/images/articles/ive-struck-audiophile-gold-on-black-friday-with-this-stunning-premium-2026.jpg`,
+    image_alt: `I’ve struck audiophile gold on Black Friday with this stunning premium hi-fi bundle deal - What Hi-Fi?`,
+    image_courtesy: `Image: What Hi-Fi? (External Source Attribution)`,
+    image_photographer: `What Hi-Fi?`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `I seriously rate this streaming set-up`,
+    content: `I seriously rate this streaming set-up
+
+If you’re lucky enough to be on the hunt for a new hi-fi system in the Black Friday sales , you can spend a lot of time hunting down deals on individual products to try and piece together something suitable.
+
+To save you some time, a few specialist retailers have created their own system bundles which combine multiple products. It’s a great idea, but I have seen a few pairings I wouldn’t necessarily agree with, from a cost perspective or a system-matching point of view.
+
+However, I have spotted one bundle which combines two fantastic products I’ve tested and can heartily recommend. Not only do I think it’s perfectly matched and will sound fantastic, but it also happens to look sensational too.
+
+You can get Arcam’s excellent SA35 streaming amplifier and a pair of awesome KEF R3 Meta speakers for £4049 at Peter Tyson thanks to a bundle deal which includes £449 off when using the discount code BUNDLE10 .
+
+You just need to apply this at checkout to bag the full saving.
+
+The KEF speakers are actually already discounted to £1499 on the site should you just want the pair, but that price is available only for the Indigo Gloss finish. This bundle deal includes the other Black Gloss, White Gloss and Walnut finishes too.
+
+The KEF R3 Meta are stunning speakers in more ways than one. These 2023 What Hi-Fi? Award winners not only look every inch the premium standmounter, but they also deliver a wonderfully transparent, refined and expressive sound.
+
+The KEF’s character is a great match for the Arcam SA35 , which delivers not only amplification, but a range of useful features too. It boasts streaming support for multiple platforms, a phono stage for connecting a turntable, and there’s Bluetooth too. Don't forget to add the code BUNDLE10 during checkout.
+
+I know it isn’t cheap, but trust me, this is one of those systems that’s going to give you many hours of listening pleasure over many years.
+
+The KEF speakers are a long-time favourite of mine. They are impeccably made and look stunning in any of the finishes available – placed on suitable stands, they give you a real pride of ownership.
+
+There’s more to these speakers than just their good looks, though. In our KEF R3 Meta review , we say, “We haven’t come across many stereo speakers at this price point in recent years that are so accomplished in all the ‘hi-fi’ ways and fun to listen to in the same breath.”
+
+KEF’s iconic Uni-Q driver array combines with a hybrid aluminium bass driver to devastating effect. Integration between the units is seamless, and they serve up a spacious stereo image with plenty of breathing space. They’re a real joy to listen to.
+
+Add Arcam’s SA35 streaming amplifier to the equation, and this system will really fly. Its balanced, entertaining and unfussy character will help get the best out of the speakers.
+
+In our Arcam SA35 review , we say, “It’s a confident performance across the board,” and sum it up by saying, “the Arcam SA35 streaming amplifier is one of those rare do-it-all devices that does it all extremely well.”
+
+120 Watts of Class G amplification are more than enough to drive the KEFs, and you can feed them with music from a range of sources.
+
+The Arcam supports Apple AirPlay , Google Cast, Spotify Connect, Tidal Connect, Qobuz Connect, Amazon Music and Roon. There’s also playback from UPnP servers, and hi-res playback up to 32-bit/384kHz PCM and DSD256.
+
+Bluetooth connectivity allows convenient streaming from a smartphone, while the provision of both moving magnet and moving coil phono stages means you can always add a turntable at a later date too.
+
+If you’ve been in two minds about which hi-fi products to put together this Black Friday to create a great hi-fi system worth your money, I really do think this is an extremely classy set-up for £4049 at Peter Tyson .
+
+Our pick of the best Black Friday deals : great savings on wireless headphones, OLED TVs and more, handpicked by our experts
+
+A hi-fi beginner's guide to Black Friday deals – we have picked the best budget options for every audio category
+
+Amps for everyone! The five-star amplifiers that we recommend this Black Friday
+
+The latest hi-fi, home cinema and tech news, reviews, buying advice and deals, direct to your inbox.
+
+Andy is Deputy Editor of What Hi-Fi? and a consumer electronics journalist with nearly 20 years of experience writing news, reviews and features. Over the years he's also contributed to a number of other outlets, including The Sunday Times, the BBC, Stuff, and BA High Life Magazine. Premium wireless earbuds are his passion but he's also keen on car tech and in-car audio systems and can often be found cruising the countryside testing the latest set-ups. In his spare time Andy is a keen golfer and gamer.
+
+You must confirm your public display name before commenting
+
+Please logout and then login again, you will then be prompted to enter your display name.
+
+---
+
+**Original Source:** [What Hi-Fi?](https://www.whathifi.com/hi-fi/this-stunning-hi-fi-system-deal-combines-five-star-kef-speakers-with-an-awesome-arcam-streaming-amp-and-ticks-all-the-black-friday-boxes)`,
+    title_en: `I’ve struck audiophile gold on Black Friday with this stunning premium hi-fi bundle deal - What Hi-Fi?`,
+    summary_en: `I seriously rate this streaming set-up`,
+    content_en: `I seriously rate this streaming set-up
+
+If you’re lucky enough to be on the hunt for a new hi-fi system in the Black Friday sales , you can spend a lot of time hunting down deals on individual products to try and piece together something suitable.
+
+To save you some time, a few specialist retailers have created their own system bundles which combine multiple products. It’s a great idea, but I have seen a few pairings I wouldn’t necessarily agree with, from a cost perspective or a system-matching point of view.
+
+However, I have spotted one bundle which combines two fantastic products I’ve tested and can heartily recommend. Not only do I think it’s perfectly matched and will sound fantastic, but it also happens to look sensational too.
+
+You can get Arcam’s excellent SA35 streaming amplifier and a pair of awesome KEF R3 Meta speakers for £4049 at Peter Tyson thanks to a bundle deal which includes £449 off when using the discount code BUNDLE10 .
+
+You just need to apply this at checkout to bag the full saving.
+
+The KEF speakers are actually already discounted to £1499 on the site should you just want the pair, but that price is available only for the Indigo Gloss finish. This bundle deal includes the other Black Gloss, White Gloss and Walnut finishes too.
+
+The KEF R3 Meta are stunning speakers in more ways than one. These 2023 What Hi-Fi? Award winners not only look every inch the premium standmounter, but they also deliver a wonderfully transparent, refined and expressive sound.
+
+The KEF’s character is a great match for the Arcam SA35 , which delivers not only amplification, but a range of useful features too. It boasts streaming support for multiple platforms, a phono stage for connecting a turntable, and there’s Bluetooth too. Don't forget to add the code BUNDLE10 during checkout.
+
+I know it isn’t cheap, but trust me, this is one of those systems that’s going to give you many hours of listening pleasure over many years.
+
+The KEF speakers are a long-time favourite of mine. They are impeccably made and look stunning in any of the finishes available – placed on suitable stands, they give you a real pride of ownership.
+
+There’s more to these speakers than just their good looks, though. In our KEF R3 Meta review , we say, “We haven’t come across many stereo speakers at this price point in recent years that are so accomplished in all the ‘hi-fi’ ways and fun to listen to in the same breath.”
+
+KEF’s iconic Uni-Q driver array combines with a hybrid aluminium bass driver to devastating effect. Integration between the units is seamless, and they serve up a spacious stereo image with plenty of breathing space. They’re a real joy to listen to.
+
+Add Arcam’s SA35 streaming amplifier to the equation, and this system will really fly. Its balanced, entertaining and unfussy character will help get the best out of the speakers.
+
+In our Arcam SA35 review , we say, “It’s a confident performance across the board,” and sum it up by saying, “the Arcam SA35 streaming amplifier is one of those rare do-it-all devices that does it all extremely well.”
+
+120 Watts of Class G amplification are more than enough to drive the KEFs, and you can feed them with music from a range of sources.
+
+The Arcam supports Apple AirPlay , Google Cast, Spotify Connect, Tidal Connect, Qobuz Connect, Amazon Music and Roon. There’s also playback from UPnP servers, and hi-res playback up to 32-bit/384kHz PCM and DSD256.
+
+Bluetooth connectivity allows convenient streaming from a smartphone, while the provision of both moving magnet and moving coil phono stages means you can always add a turntable at a later date too.
+
+If you’ve been in two minds about which hi-fi products to put together this Black Friday to create a great hi-fi system worth your money, I really do think this is an extremely classy set-up for £4049 at Peter Tyson .
+
+Our pick of the best Black Friday deals : great savings on wireless headphones, OLED TVs and more, handpicked by our experts
+
+A hi-fi beginner's guide to Black Friday deals – we have picked the best budget options for every audio category
+
+Amps for everyone! The five-star amplifiers that we recommend this Black Friday
+
+The latest hi-fi, home cinema and tech news, reviews, buying advice and deals, direct to your inbox.
+
+Andy is Deputy Editor of What Hi-Fi? and a consumer electronics journalist with nearly 20 years of experience writing news, reviews and features. Over the years he's also contributed to a number of other outlets, including The Sunday Times, the BBC, Stuff, and BA High Life Magazine. Premium wireless earbuds are his passion but he's also keen on car tech and in-car audio systems and can often be found cruising the countryside testing the latest set-ups. In his spare time Andy is a keen golfer and gamer.
+
+You must confirm your public display name before commenting
+
+Please logout and then login again, you will then be prompted to enter your display name.
+
+---
+
+**Original Source:** [What Hi-Fi?](https://www.whathifi.com/hi-fi/this-stunning-hi-fi-system-deal-combines-five-star-kef-speakers-with-an-awesome-arcam-streaming-amp-and-ticks-all-the-black-friday-boxes)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to What Hi-Fi?.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for I’ve struck audiophile gold on Black Friday with this stunning premium hi-fi bundle deal - What Hi-Fi?.`,
+    primary_source: `What Hi-Fi?`,
+  },
+  {
+    id: 98132,
+    title: `Today’s NYT Wordle Hints, Answer and Help for Saturday, Nov. 28, #1988 - CNET`,
+    slug: `todays-nyt-wordle-hints-answer-and-help-for-saturday-nov-28-1988-cnet-2026`,
+    original_title: `Today’s NYT Wordle Hints, Answer and Help for Saturday, Nov. 28, #1988 - CNET`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:09:49Z`,
+    updated_at: `2026-11-28T00:09:49Z`,
+    source_name: `CNET`,
+    source_url: `https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-november-28-1988/`,
+    source_courtesy: `Source: CNET`,
+    image_url: `/images/articles/todays-nyt-wordle-hints-answer-and-help-for-saturday-nov-28-1988-cnet-2026.webp`,
+    image_alt: `Today’s NYT Wordle Hints, Answer and Help for Saturday, Nov. 28, #1988 - CNET`,
+    image_courtesy: `Image: CNET (External Source Attribution)`,
+    image_photographer: `CNET`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Need a Wordle hint today? Get spoiler-free hints for NYT Wordle No. 1,988 on Saturday, Nov. 28, then the answer, plus yesterday's word.`,
+    content: `Need a Wordle hint today? Get spoiler-free hints for NYT Wordle No. 1,988 on Saturday, Nov. 28, then the answer, plus yesterday's word.
+
+Looking for today’s Wordle answer? We’ve got Wordle hints first, followed by today’s answer for NYT Wordle No. 1,988 for Saturday, Nov. 28, 2026.
+
+I thought today’s Wordle answer was pretty difficult, with both a repeated letter and a super-rare one. If it’s time to rethink your starter word, check out our list of all the letters in the alphabet , ranked by frequency of use. Read on for hints and the answer.
+
+CNET publishes daily answers and hints for The New York Times Mini Crossword, Connections, Connections: Sports Edition and Strands puzzles.
+
+Before we show you today’s Wordle answer, we’ll give you some hints. If you don’t want a spoiler, look away now.
+
+Today’s Wordle answer has one repeated letter.
+
+Today’s Wordle answer has one vowel that is the repeated letter, so you’ll see it twice, plus it also has one sometimes vowel.
+
+Today’s Wordle answer begins with W.
+
+Today’s Wordle answer can refer to feeling dizzy or lightheaded.
+
+### Today’s NYT Wordle Hints, Answer and Help for Wednesday, Nov. 25, #1985
+
+### Today’s NYT Strands Hints, Spangram and Answers for Wednesday, Nov. 25, #997
+
+### Today’s NYT Connections Hints and Answers for Wednesday, Nov. 25, #1263
+
+### Today’s NYT Connections: Sports Edition Hints and Answers for Nov. 25 #793
+
+Yesterday’s Wordle answer, Nov. 27, No. 1,987, was SHEAF.
+
+Live Most popular among CNET readers right now
+
+---
+
+**Original Source:** [CNET](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-november-28-1988/)`,
+    title_en: `Today’s NYT Wordle Hints, Answer and Help for Saturday, Nov. 28, #1988 - CNET`,
+    summary_en: `Need a Wordle hint today? Get spoiler-free hints for NYT Wordle No. 1,988 on Saturday, Nov. 28, then the answer, plus yesterday's word.`,
+    content_en: `Need a Wordle hint today? Get spoiler-free hints for NYT Wordle No. 1,988 on Saturday, Nov. 28, then the answer, plus yesterday's word.
+
+Looking for today’s Wordle answer? We’ve got Wordle hints first, followed by today’s answer for NYT Wordle No. 1,988 for Saturday, Nov. 28, 2026.
+
+I thought today’s Wordle answer was pretty difficult, with both a repeated letter and a super-rare one. If it’s time to rethink your starter word, check out our list of all the letters in the alphabet , ranked by frequency of use. Read on for hints and the answer.
+
+CNET publishes daily answers and hints for The New York Times Mini Crossword, Connections, Connections: Sports Edition and Strands puzzles.
+
+Before we show you today’s Wordle answer, we’ll give you some hints. If you don’t want a spoiler, look away now.
+
+Today’s Wordle answer has one repeated letter.
+
+Today’s Wordle answer has one vowel that is the repeated letter, so you’ll see it twice, plus it also has one sometimes vowel.
+
+Today’s Wordle answer begins with W.
+
+Today’s Wordle answer can refer to feeling dizzy or lightheaded.
+
+### Today’s NYT Wordle Hints, Answer and Help for Wednesday, Nov. 25, #1985
+
+### Today’s NYT Strands Hints, Spangram and Answers for Wednesday, Nov. 25, #997
+
+### Today’s NYT Connections Hints and Answers for Wednesday, Nov. 25, #1263
+
+### Today’s NYT Connections: Sports Edition Hints and Answers for Nov. 25 #793
+
+Yesterday’s Wordle answer, Nov. 27, No. 1,987, was SHEAF.
+
+Live Most popular among CNET readers right now
+
+---
+
+**Original Source:** [CNET](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-november-28-1988/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to CNET.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Today’s NYT Wordle Hints, Answer and Help for Saturday, Nov. 28, #1988 - CNET.`,
+    primary_source: `CNET`,
+  },
+  {
+    id: 98133,
+    title: `ASUS यूजर्स सावधान: छोटी सी गलती से हैकर्स को मिल सकता है कंप्यूटर का एडमिन एक्सेस, CERT-In ने जारी की चेतावनी - Amar Ujala`,
+    slug: `asus-cert-in-amar-ujala-2026`,
+    original_title: `ASUS यूजर्स सावधान: छोटी सी गलती से हैकर्स को मिल सकता है कंप्यूटर का एडमिन एक्सेस, CERT-In ने जारी की चेतावनी - Amar Ujala`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:09:52Z`,
+    updated_at: `2026-11-28T00:09:52Z`,
+    source_name: `Amar Ujala`,
+    source_url: `https://www.amarujala.com/technology/tech-diary/asus-security-alert-cert-in-warns-of-critical-flaws-urges-users-to-update-software-2026-11-27`,
+    source_courtesy: `Source: Amar Ujala`,
+    image_url: `/images/articles/asus-cert-in-amar-ujala-2026.jpg`,
+    image_alt: `ASUS यूजर्स सावधान: छोटी सी गलती से हैकर्स को मिल सकता है कंप्यूटर का एडमिन एक्सेस, CERT-In ने जारी की चेतावनी - Amar Ujala`,
+    image_courtesy: `Image: Amar Ujala (External Source Attribution)`,
+    image_photographer: `Amar Ujala`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `अगर आप ASUS का लैपटॉप या डेस्कटॉप इस्तेमाल करते हैं तो आपके लिए एक जरूरी खबर है। भारत की साइबर सुरक्षा एजेंसी CERT-In ने कंपनी के कुछ सॉफ्टवेयर में गंभीर खामियों को लेकर चेतावनी जारी की है। इनका फायदा उठाकर साइबर अपराधी बिना अनुमति सिस्टम म`,
+    content: `अगर आप ASUS का लैपटॉप या डेस्कटॉप इस्तेमाल करते हैं तो आपके लिए एक जरूरी खबर है। भारत की साइबर सुरक्षा एजेंसी CERT-In ने कंपनी के कुछ सॉफ्टवेयर में गंभीर खामियों को लेकर चेतावनी जारी की है। इनका फायदा उठाकर साइबर अपराधी बिना अनुमति सिस्टम में दाखिल हो सकते हैं और एडमिनिस्ट्रेटर का अधिकार हासिल कर सकते हैं।
+
+हालांकि, इसका खतरा सभी ASUS डिवाइस पर नहीं, बल्कि कुछ खास सॉफ्टवेयर वर्जन पर है। कौन से चार सॉफ्टवेयर पर मंडरा रहा खतरा? CERT-In ने 26 नवंबर 2026 को CIVN-2026-0575 नंबर से सिक्योरिटी एडवाइजरी जारी की है। इसमें ASUS के चार सॉफ्टवेयर प्रोडक्ट्स को प्रभावित बताया गया है। इनमें आसुस कंट्रोल सेंटर एक्सप्रेस, कंट्रोल सेंटर डेटासेंटर, कंट्रोल सेंटर एंटरप्राइज और आर्मरी क्रेट शामिल हैं।
+
+इनमें से पहले तीन सॉफ्टवेयर का इस्तेमाल मुख्य रूप से कंपनियां और आईटी टीमें कई कंप्यूटरों को एक साथ मैनेज करने के लिए करती हैं। वहीं आर्मरी क्रेट आसुस के गेमिंग लैपटॉप और डेस्कटॉप में इस्तेमाल होता है। इसके जरिए हार्डवेयर सेटिंग्स और परफॉर्मेंस को नियंत्रित किया जाता है। इसलिए आम यूजर्स को सबसे पहले अपने डिवाइस में आर्मरी क्रेट का वर्जन चेक करना चाहिए।
+
+कैसे आपके सिस्टम पर कब्जा कर सकते हैं हैकर्स? एजेंसी के मुताबिक इन सॉफ्टवेयर में ऑथेंटिकेशन और ऑथराइजेशन से जुड़ी कमजोरियां मिली हैं। आसान भाषा में समझें तो ये खामियां किसी हमलावर को बिना सही पहचान साबित किए सिस्टम में दाखिल होने का रास्ता दे सकती हैं। कुछ मामलों में हमलावर नकली एक्सेस टोकन तैयार कर सकते हैं, अपने लिए एडमिन अकाउंट बना सकते हैं और पहले से मौजूद अकाउंट का पासवर्ड भी बदल सकते हैं।
+
+इन समस्याओं की मुख्य वजह सॉफ्टवेयर में पहले से मौजूद क्रिप्टोग्राफिक की, कमजोर परमिशन जांच और असुरक्षित सर्च पाथ बताई गई है। CERT-In ने इन वर्जन को बताया असुरक्षित आसुस कंट्रोल सेंटर एक्सप्रेस: 1.7.29 से पुराने वर्जन प्रभावित हैं। इसे 1.7.29 या नए वर्जन पर अपडेट करें। कंट्रोल सेंटर डेटासेंटर: 4.0.0.2 और इससे पुराने वर्जन में खामी है।
+
+कंट्रोल सेंटर इंटरप्राइज: 3.1.0.8 और इससे पुराने वर्जन प्रभावित हैं। आसुस आर्मरी क्रेट: 6.7.2 और इससे पुराने वर्जन को अपडेट करना जरूरी है। इस मामले में सबसे गंभीर खामी CVE-2026-114202 को माना गया है। जीरो डे इनीशिएटिव ने इसे 10.0 का CVSS स्कोर दिया है, जो इस स्केल पर सबसे गंभीर स्तर है।
+
+यह कमजोरी कंट्रोल सेंटर एक्सप्रेस में मिली है। इसके अलावा एजेंसी ने कुल पांच CVE नंबर वाली कमजोरियों की पहचान की है। ASUS यूजर्स तुरंत करें ये काम, कहां मिलेगा अपडेट? CERT-In ने यूजर्स और कंपनियों को प्रभावित सॉफ्टवेयर के सिक्योरिटी अपडेट इंस्टॉल करने की सलाह दी है। अगर आपके लैपटॉप या डेस्कटॉप में आर्मरी क्रेट मौजूद है तो सबसे पहले उसकी सेटिंग्स में जाकर मौजूदा वर्जन चेक करें।
+
+अगर यह 6.7.2 या इससे पुराना है तो इसे अपडेट करें। कंपनियों में कंट्रोल सेंटर इस्तेमाल करने वाली आईटी टीमों को भी सभी सिस्टम की जांच करनी चाहिए। साथ ही एडमिन अकाउंट और एक्सेस परमिशन पर नजर रखना जरूरी है, ताकि कोई अनजान अकाउंट मौजूद हो तो उसकी पहचान की जा सके। अपडेट के लिए ASUS की आधिकारिक वेबसाइट पर जाएं।
+
+किसी अनजान वेबसाइट से पैच या इंस्टॉलर डाउनलोड न करें।
+
+---
+
+**मूल स्रोत (Original Source):** [Amar Ujala](https://www.amarujala.com/technology/tech-diary/asus-security-alert-cert-in-warns-of-critical-flaws-urges-users-to-update-software-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `ASUS यूजर्स सावधान: छोटी सी गलती से हैकर्स को मिल सकता है कंप्यूटर का एडमिन एक्सेस, CERT-In ने जारी की चेतावनी - Amar Ujala`,
+    summary_hi: `अगर आप ASUS का लैपटॉप या डेस्कटॉप इस्तेमाल करते हैं तो आपके लिए एक जरूरी खबर है। भारत की साइबर सुरक्षा एजेंसी CERT-In ने कंपनी के कुछ सॉफ्टवेयर में गंभीर खामियों को लेकर चेतावनी जारी की है। इनका फायदा उठाकर साइबर अपराधी बिना अनुमति सिस्टम म`,
+    content_hi: `अगर आप ASUS का लैपटॉप या डेस्कटॉप इस्तेमाल करते हैं तो आपके लिए एक जरूरी खबर है। भारत की साइबर सुरक्षा एजेंसी CERT-In ने कंपनी के कुछ सॉफ्टवेयर में गंभीर खामियों को लेकर चेतावनी जारी की है। इनका फायदा उठाकर साइबर अपराधी बिना अनुमति सिस्टम में दाखिल हो सकते हैं और एडमिनिस्ट्रेटर का अधिकार हासिल कर सकते हैं।
+
+हालांकि, इसका खतरा सभी ASUS डिवाइस पर नहीं, बल्कि कुछ खास सॉफ्टवेयर वर्जन पर है। कौन से चार सॉफ्टवेयर पर मंडरा रहा खतरा? CERT-In ने 26 नवंबर 2026 को CIVN-2026-0575 नंबर से सिक्योरिटी एडवाइजरी जारी की है। इसमें ASUS के चार सॉफ्टवेयर प्रोडक्ट्स को प्रभावित बताया गया है। इनमें आसुस कंट्रोल सेंटर एक्सप्रेस, कंट्रोल सेंटर डेटासेंटर, कंट्रोल सेंटर एंटरप्राइज और आर्मरी क्रेट शामिल हैं।
+
+इनमें से पहले तीन सॉफ्टवेयर का इस्तेमाल मुख्य रूप से कंपनियां और आईटी टीमें कई कंप्यूटरों को एक साथ मैनेज करने के लिए करती हैं। वहीं आर्मरी क्रेट आसुस के गेमिंग लैपटॉप और डेस्कटॉप में इस्तेमाल होता है। इसके जरिए हार्डवेयर सेटिंग्स और परफॉर्मेंस को नियंत्रित किया जाता है। इसलिए आम यूजर्स को सबसे पहले अपने डिवाइस में आर्मरी क्रेट का वर्जन चेक करना चाहिए।
+
+कैसे आपके सिस्टम पर कब्जा कर सकते हैं हैकर्स? एजेंसी के मुताबिक इन सॉफ्टवेयर में ऑथेंटिकेशन और ऑथराइजेशन से जुड़ी कमजोरियां मिली हैं। आसान भाषा में समझें तो ये खामियां किसी हमलावर को बिना सही पहचान साबित किए सिस्टम में दाखिल होने का रास्ता दे सकती हैं। कुछ मामलों में हमलावर नकली एक्सेस टोकन तैयार कर सकते हैं, अपने लिए एडमिन अकाउंट बना सकते हैं और पहले से मौजूद अकाउंट का पासवर्ड भी बदल सकते हैं।
+
+इन समस्याओं की मुख्य वजह सॉफ्टवेयर में पहले से मौजूद क्रिप्टोग्राफिक की, कमजोर परमिशन जांच और असुरक्षित सर्च पाथ बताई गई है। CERT-In ने इन वर्जन को बताया असुरक्षित आसुस कंट्रोल सेंटर एक्सप्रेस: 1.7.29 से पुराने वर्जन प्रभावित हैं। इसे 1.7.29 या नए वर्जन पर अपडेट करें। कंट्रोल सेंटर डेटासेंटर: 4.0.0.2 और इससे पुराने वर्जन में खामी है।
+
+कंट्रोल सेंटर इंटरप्राइज: 3.1.0.8 और इससे पुराने वर्जन प्रभावित हैं। आसुस आर्मरी क्रेट: 6.7.2 और इससे पुराने वर्जन को अपडेट करना जरूरी है। इस मामले में सबसे गंभीर खामी CVE-2026-114202 को माना गया है। जीरो डे इनीशिएटिव ने इसे 10.0 का CVSS स्कोर दिया है, जो इस स्केल पर सबसे गंभीर स्तर है।
+
+यह कमजोरी कंट्रोल सेंटर एक्सप्रेस में मिली है। इसके अलावा एजेंसी ने कुल पांच CVE नंबर वाली कमजोरियों की पहचान की है। ASUS यूजर्स तुरंत करें ये काम, कहां मिलेगा अपडेट? CERT-In ने यूजर्स और कंपनियों को प्रभावित सॉफ्टवेयर के सिक्योरिटी अपडेट इंस्टॉल करने की सलाह दी है। अगर आपके लैपटॉप या डेस्कटॉप में आर्मरी क्रेट मौजूद है तो सबसे पहले उसकी सेटिंग्स में जाकर मौजूदा वर्जन चेक करें।
+
+अगर यह 6.7.2 या इससे पुराना है तो इसे अपडेट करें। कंपनियों में कंट्रोल सेंटर इस्तेमाल करने वाली आईटी टीमों को भी सभी सिस्टम की जांच करनी चाहिए। साथ ही एडमिन अकाउंट और एक्सेस परमिशन पर नजर रखना जरूरी है, ताकि कोई अनजान अकाउंट मौजूद हो तो उसकी पहचान की जा सके। अपडेट के लिए ASUS की आधिकारिक वेबसाइट पर जाएं।
+
+किसी अनजान वेबसाइट से पैच या इंस्टॉलर डाउनलोड न करें।
+
+---
+
+**मूल स्रोत (Original Source):** [Amar Ujala](https://www.amarujala.com/technology/tech-diary/asus-security-alert-cert-in-warns-of-critical-flaws-urges-users-to-update-software-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट Amar Ujala के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक ASUS यूजर्स सावधान: छोटी सी गलती से हैकर्स को मिल सकता है कंप्यूटर का एडमिन एक्सेस, CERT-In ने जारी की चेतावनी - Amar Ujala से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Amar Ujala`,
+  },
+  {
+    id: 98134,
+    title: `Vivo ने लॉन्च की पहली स्मार्टवॉच Vivo GT 2, 25 दिन की बैटरी और 100 से ज्यादा स्पोर्ट्स मोड, जानें कीमत - AajTak`,
+    slug: `vivo-vivo-gt-2-25-100-aajtak-2026`,
+    original_title: `Vivo ने लॉन्च की पहली स्मार्टवॉच Vivo GT 2, 25 दिन की बैटरी और 100 से ज्यादा स्पोर्ट्स मोड, जानें कीमत - AajTak`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:09:56Z`,
+    updated_at: `2026-11-28T00:09:56Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/technology/tech-news/story/vivo-watch-gt-2-launched-india-price-features-ttecm-dskc-2706967-2026-11-26`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b08346d9d6b1-vivo-watch-gt-2-263020558.png`,
+    image_alt: `Vivo ने लॉन्च की पहली स्मार्टवॉच Vivo GT 2, 25 दिन की बैटरी और 100 से ज्यादा स्पोर्ट्स मोड, जानें कीमत - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Vivo ने भारत में पहली बार स्मार्ट वॉच लॉन्च की है. कंपनी ने Vivo Watch GT 2 को 14,999 रुपये की शुरुआती कीमत पर पेश किया है. इसकी सबसे बड़ी खासियत 25 दिन तक चलने वाली बैटरी है. ये कंपनी का दावा है. और पढ़ेंइस स्मार्टवॉच में 2.07 इंच का AMOLE`,
+    content: `Vivo ने भारत में पहली बार स्मार्ट वॉच लॉन्च की है. कंपनी ने Vivo Watch GT 2 को 14,999 रुपये की शुरुआती कीमत पर पेश किया है. इसकी सबसे बड़ी खासियत 25 दिन तक चलने वाली बैटरी है. ये कंपनी का दावा है. और पढ़ेंइस स्मार्टवॉच में 2.07 इंच का AMOLED डिस्प्ले, GPS, ब्लूटूथ कॉलिंग और 100 से ज्यादा स्पोर्ट्स मोड मिलते हैं.
+
+इसके अलावा हार्ट रेट, ब्लड ऑक्सीजन, नींद और स्ट्रेस मॉनिटरिंग जैसे फीचर्स भी दिए गए हैं. यानी कंपनी इसे सिर्फ समय देखने वाली घड़ी नहीं, बल्कि फिटनेस और रोजमर्रा के काम आने वाले डिवाइस के तौर पर पेश कर रही है.यह भी पढ़ें: 200MP कैमरा और 400mm जूम! Vivo ने लॉन्च किए 3 नए फोन, फोन में लगा सकेंगे DSLR जैसा लेंसVivo ने इसे अपने X500 स्मार्टफोन सीरीज के साथ लॉन्च किया है.
+
+यह कंपनी की भारतीय बाजार में पहली स्मार्टवॉच है. ऐसे में देखना दिलचस्प होगा कि 15 हजार रुपये से कम कीमत वाले इस सेगमेंट में Vivo को कितनी सफलता मिलती है.Vivo Watch GT 2 की कीमत और सेल डेट Advertisement        Vivo Watch GT 2 की भारत में कीमत 14,999 रुपये रखी गई है. इसे ब्लैक और व्हाइट दो रंगों में खरीदा जा सकेगा.
+
+इसकी प्री-बुकिंग 26 नवंबर से 2 दिसंबर 2026 तक चलेगी. स्मार्टवॉच की बिक्री 3 दिसंबर से शुरू होगी. इसे Vivo की आधिकारिक वेबसाइट, Flipkart और चुनिंदा रिटेल स्टोर से खरीदा जा सकेगा.कंपनी इसके साथ कुछ खास ऑफर भी दे रही है. Vivo X500, V80 और S2 सीरीज के चुनिंदा फोन खरीदने पर Watch GT 2 के साथ 1,500 रुपये की छूट मिलेगी.
+
+इसके अलावा ऑनलाइन खरीदारी पर 6 महीने की नो-कॉस्ट EMI का विकल्प भी दिया गया है.25 दिन की बैटरी, लेकिन असली इस्तेमाल में कितना चलेगी?Vivo Watch GT 2 की सबसे बड़ी खासियत इसकी बैटरी है. कंपनी का दावा है कि यह स्मार्टवॉच एक बार चार्ज करने पर अधिकतम 25 दिन तक चल सकती है. इसमें 595mAh की बैटरी दी गई है.यह भी पढ़ें: अनंत सिंह की बेटी शिवांगी सिंह के हाथ में दिखा Apple का महंगा iPhone, कीमत जानकर रह जाएंगे हैरान!कंपनी की टेस्टिंग के मुताबिक, हल्के इस्तेमाल में यह 25 दिन चल सकती है.
+
+नॉर्मल इस्तेमाल में बैटरी करीब 14 दिन तक चलने का दावा है. वहीं, Always-On Display यानी हमेशा स्क्रीन चालू रखने वाले फीचर को ऑन करने पर बैटरी करीब 12 दिन चलेगी. Advertisement        इसका मतलब है कि अगर आप रोजाना वर्कआउट ट्रैक करते हैं, हार्ट रेट मॉनिटरिंग चालू रखते हैं और लगातार नोटिफिकेशन देखते हैं तो बैटरी का बैकअप कम हो सकता है.फिर भी 12 से 14 दिन का दावा इस कीमत की स्मार्टवॉच के लिए दिलचस्प है.
+
+खासकर उन लोगों के लिए जो हर दूसरे दिन स्मार्टवॉच चार्ज करने से परेशान रहते हैं.2.07 इंच की AMOLED स्क्रीन, धूप में भी दिखेगी साफVivo Watch GT 2 में 2.07 इंच का AMOLED डिस्प्ले दिया गया है. इसका रिफ्रेश रेट 60Hz है और इसमें 2,400 निट्स तक की लोकल पीक ब्राइटनेस मिलती है.इसका फायदा बाहर धूप में वॉकिंग या रनिंग करते समय हो सकता है.
+
+तेज रोशनी में भी स्क्रीन पर समय, नोटिफिकेशन और वर्कआउट से जुड़ी जानकारी देखना आसान हो सकता है.इसमें करीब 1.8mm के पतले साइड बेजल और 82.4 फीसदी स्क्रीन-टू-बॉडी रेशियो मिलता है. स्मार्टवॉच में हाई-ग्लॉस एल्युमिनियम फ्रेम दिया गया है. इसका डिजाइन बड़े डिस्प्ले वाली आयताकार स्मार्टवॉच जैसा है.
+
+कंपनी ने इसमें कई कस्टमाइज होने वाले वॉच फेस भी दिए हैं. यूजर अपनी पसंद के हिसाब से स्क्रीन का लुक बदल सकते हैं.बिना फोन साथ रखे भी ट्रैक कर सकेंगे वॉक और रनिंगVivo Watch GT 2 में GPS दिया गया है. इसकी मदद से यूजर बाहर वॉकिंग, रनिंग और साइकिलिंग के दौरान अपनी लोकेशन और रास्ते को ट्रैक कर सकते हैं.
+
+Advertisement        इसमें पांच सैटेलाइट सिस्टम का सपोर्ट मिलता है. यानी आउटडोर वर्कआउट के दौरान रूट और दूरी का रिकॉर्ड रखने के लिए हर समय फोन साथ रखने की जरूरत नहीं होगी.स्मार्टवॉच में 100 से ज्यादा स्पोर्ट्स मोड दिए गए हैं. इनमें रनिंग, वॉकिंग, साइकिलिंग, जिम और दूसरे खेल शामिल हैं.
+
+कंपनी ने टेनिस, बैडमिंटन और टेबल टेनिस जैसे खेलों के लिए भी खास ट्रैकिंग फीचर दिए हैं.इन खेलों के दौरान वॉच स्विंग और शॉट से जुड़ी जानकारी रिकॉर्ड कर सकती है. रनिंग करने वालों के लिए इसमें रनिंग कोच और गेट एनालिसिस जैसे फीचर भी दिए गए हैं. इससे यूजर अपनी दौड़ने की शैली और मूवमेंट को समझ सकते हैं.हार्ट रेट से लेकर नींद तक, कई हेल्थ फीचर्सVivo Watch GT 2 में हेल्थ और फिटनेस ट्रैकिंग के कई फीचर मिलते हैं.
+
+इसमें 24 घंटे हार्ट रेट मॉनिटरिंग और ब्लड ऑक्सीजन यानी SpO2 मॉनिटरिंग की सुविधा है.इसके अलावा यह नींद को ट्रैक कर सकती है. इसमें स्लीप स्टेज, सांस लेने की दर और नींद के दौरान हार्ट रेट से जुड़ी जानकारी रिकॉर्ड करने का दावा किया गया है.स्मार्टवॉच में स्ट्रेस मॉनिटरिंग के लिए HRV यानी हार्ट रेट वेरिएबिलिटी का इस्तेमाल किया जाता है.
+
+इसके साथ गाइडेड ब्रीदिंग एक्सरसाइज भी मिलती है. महिलाओं के लिए मेंस्ट्रुअल साइकिल ट्रैकिंग का फीचर भी दिया गया है. Advertisement        Android और iPhone दोनों के साथ करेगी कामVivo Watch GT 2 कंपनी के BlueOS पर चलती है. इसे एंड्रॉयड और आईफोन दोनों के साथ कनेक्ट किया जा सकता है. इसके लिए स्मार्टफोन में Origin Health ऐप इंस्टॉल करना होगा.---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/technology/tech-news/story/vivo-watch-gt-2-launched-india-price-features-ttecm-dskc-2706967-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Vivo ने लॉन्च की पहली स्मार्टवॉच Vivo GT 2, 25 दिन की बैटरी और 100 से ज्यादा स्पोर्ट्स मोड, जानें कीमत - AajTak`,
+    summary_hi: `Vivo ने भारत में पहली बार स्मार्ट वॉच लॉन्च की है. कंपनी ने Vivo Watch GT 2 को 14,999 रुपये की शुरुआती कीमत पर पेश किया है. इसकी सबसे बड़ी खासियत 25 दिन तक चलने वाली बैटरी है. ये कंपनी का दावा है. और पढ़ेंइस स्मार्टवॉच में 2.07 इंच का AMOLE`,
+    content_hi: `Vivo ने भारत में पहली बार स्मार्ट वॉच लॉन्च की है. कंपनी ने Vivo Watch GT 2 को 14,999 रुपये की शुरुआती कीमत पर पेश किया है. इसकी सबसे बड़ी खासियत 25 दिन तक चलने वाली बैटरी है. ये कंपनी का दावा है. और पढ़ेंइस स्मार्टवॉच में 2.07 इंच का AMOLED डिस्प्ले, GPS, ब्लूटूथ कॉलिंग और 100 से ज्यादा स्पोर्ट्स मोड मिलते हैं.
+
+इसके अलावा हार्ट रेट, ब्लड ऑक्सीजन, नींद और स्ट्रेस मॉनिटरिंग जैसे फीचर्स भी दिए गए हैं. यानी कंपनी इसे सिर्फ समय देखने वाली घड़ी नहीं, बल्कि फिटनेस और रोजमर्रा के काम आने वाले डिवाइस के तौर पर पेश कर रही है.यह भी पढ़ें: 200MP कैमरा और 400mm जूम! Vivo ने लॉन्च किए 3 नए फोन, फोन में लगा सकेंगे DSLR जैसा लेंसVivo ने इसे अपने X500 स्मार्टफोन सीरीज के साथ लॉन्च किया है.
+
+यह कंपनी की भारतीय बाजार में पहली स्मार्टवॉच है. ऐसे में देखना दिलचस्प होगा कि 15 हजार रुपये से कम कीमत वाले इस सेगमेंट में Vivo को कितनी सफलता मिलती है.Vivo Watch GT 2 की कीमत और सेल डेट Advertisement        Vivo Watch GT 2 की भारत में कीमत 14,999 रुपये रखी गई है. इसे ब्लैक और व्हाइट दो रंगों में खरीदा जा सकेगा.
+
+इसकी प्री-बुकिंग 26 नवंबर से 2 दिसंबर 2026 तक चलेगी. स्मार्टवॉच की बिक्री 3 दिसंबर से शुरू होगी. इसे Vivo की आधिकारिक वेबसाइट, Flipkart और चुनिंदा रिटेल स्टोर से खरीदा जा सकेगा.कंपनी इसके साथ कुछ खास ऑफर भी दे रही है. Vivo X500, V80 और S2 सीरीज के चुनिंदा फोन खरीदने पर Watch GT 2 के साथ 1,500 रुपये की छूट मिलेगी.
+
+इसके अलावा ऑनलाइन खरीदारी पर 6 महीने की नो-कॉस्ट EMI का विकल्प भी दिया गया है.25 दिन की बैटरी, लेकिन असली इस्तेमाल में कितना चलेगी?Vivo Watch GT 2 की सबसे बड़ी खासियत इसकी बैटरी है. कंपनी का दावा है कि यह स्मार्टवॉच एक बार चार्ज करने पर अधिकतम 25 दिन तक चल सकती है. इसमें 595mAh की बैटरी दी गई है.यह भी पढ़ें: अनंत सिंह की बेटी शिवांगी सिंह के हाथ में दिखा Apple का महंगा iPhone, कीमत जानकर रह जाएंगे हैरान!कंपनी की टेस्टिंग के मुताबिक, हल्के इस्तेमाल में यह 25 दिन चल सकती है.
+
+नॉर्मल इस्तेमाल में बैटरी करीब 14 दिन तक चलने का दावा है. वहीं, Always-On Display यानी हमेशा स्क्रीन चालू रखने वाले फीचर को ऑन करने पर बैटरी करीब 12 दिन चलेगी. Advertisement        इसका मतलब है कि अगर आप रोजाना वर्कआउट ट्रैक करते हैं, हार्ट रेट मॉनिटरिंग चालू रखते हैं और लगातार नोटिफिकेशन देखते हैं तो बैटरी का बैकअप कम हो सकता है.फिर भी 12 से 14 दिन का दावा इस कीमत की स्मार्टवॉच के लिए दिलचस्प है.
+
+खासकर उन लोगों के लिए जो हर दूसरे दिन स्मार्टवॉच चार्ज करने से परेशान रहते हैं.2.07 इंच की AMOLED स्क्रीन, धूप में भी दिखेगी साफVivo Watch GT 2 में 2.07 इंच का AMOLED डिस्प्ले दिया गया है. इसका रिफ्रेश रेट 60Hz है और इसमें 2,400 निट्स तक की लोकल पीक ब्राइटनेस मिलती है.इसका फायदा बाहर धूप में वॉकिंग या रनिंग करते समय हो सकता है.
+
+तेज रोशनी में भी स्क्रीन पर समय, नोटिफिकेशन और वर्कआउट से जुड़ी जानकारी देखना आसान हो सकता है.इसमें करीब 1.8mm के पतले साइड बेजल और 82.4 फीसदी स्क्रीन-टू-बॉडी रेशियो मिलता है. स्मार्टवॉच में हाई-ग्लॉस एल्युमिनियम फ्रेम दिया गया है. इसका डिजाइन बड़े डिस्प्ले वाली आयताकार स्मार्टवॉच जैसा है.
+
+कंपनी ने इसमें कई कस्टमाइज होने वाले वॉच फेस भी दिए हैं. यूजर अपनी पसंद के हिसाब से स्क्रीन का लुक बदल सकते हैं.बिना फोन साथ रखे भी ट्रैक कर सकेंगे वॉक और रनिंगVivo Watch GT 2 में GPS दिया गया है. इसकी मदद से यूजर बाहर वॉकिंग, रनिंग और साइकिलिंग के दौरान अपनी लोकेशन और रास्ते को ट्रैक कर सकते हैं.
+
+Advertisement        इसमें पांच सैटेलाइट सिस्टम का सपोर्ट मिलता है. यानी आउटडोर वर्कआउट के दौरान रूट और दूरी का रिकॉर्ड रखने के लिए हर समय फोन साथ रखने की जरूरत नहीं होगी.स्मार्टवॉच में 100 से ज्यादा स्पोर्ट्स मोड दिए गए हैं. इनमें रनिंग, वॉकिंग, साइकिलिंग, जिम और दूसरे खेल शामिल हैं.
+
+कंपनी ने टेनिस, बैडमिंटन और टेबल टेनिस जैसे खेलों के लिए भी खास ट्रैकिंग फीचर दिए हैं.इन खेलों के दौरान वॉच स्विंग और शॉट से जुड़ी जानकारी रिकॉर्ड कर सकती है. रनिंग करने वालों के लिए इसमें रनिंग कोच और गेट एनालिसिस जैसे फीचर भी दिए गए हैं. इससे यूजर अपनी दौड़ने की शैली और मूवमेंट को समझ सकते हैं.हार्ट रेट से लेकर नींद तक, कई हेल्थ फीचर्सVivo Watch GT 2 में हेल्थ और फिटनेस ट्रैकिंग के कई फीचर मिलते हैं.
+
+इसमें 24 घंटे हार्ट रेट मॉनिटरिंग और ब्लड ऑक्सीजन यानी SpO2 मॉनिटरिंग की सुविधा है.इसके अलावा यह नींद को ट्रैक कर सकती है. इसमें स्लीप स्टेज, सांस लेने की दर और नींद के दौरान हार्ट रेट से जुड़ी जानकारी रिकॉर्ड करने का दावा किया गया है.स्मार्टवॉच में स्ट्रेस मॉनिटरिंग के लिए HRV यानी हार्ट रेट वेरिएबिलिटी का इस्तेमाल किया जाता है.
+
+इसके साथ गाइडेड ब्रीदिंग एक्सरसाइज भी मिलती है. महिलाओं के लिए मेंस्ट्रुअल साइकिल ट्रैकिंग का फीचर भी दिया गया है. Advertisement        Android और iPhone दोनों के साथ करेगी कामVivo Watch GT 2 कंपनी के BlueOS पर चलती है. इसे एंड्रॉयड और आईफोन दोनों के साथ कनेक्ट किया जा सकता है. इसके लिए स्मार्टफोन में Origin Health ऐप इंस्टॉल करना होगा.---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/technology/tech-news/story/vivo-watch-gt-2-launched-india-price-features-ttecm-dskc-2706967-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Vivo ने लॉन्च की पहली स्मार्टवॉच Vivo GT 2, 25 दिन की बैटरी और 100 से ज्यादा स्पोर्ट्स मोड, जानें कीमत - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98135,
+    title: `Trump backs Iraqi PM’s oil smuggling crackdown - Al Jazeera`,
+    slug: `trump-backs-iraqi-pms-oil-smuggling-crackdown-al-jazeera-2026`,
+    original_title: `Trump backs Iraqi PM’s oil smuggling crackdown - Al Jazeera`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:09:58Z`,
+    updated_at: `2026-11-28T00:09:58Z`,
+    source_name: `Al Jazeera`,
+    source_url: `https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown`,
+    source_courtesy: `Source: Al Jazeera`,
+    image_url: `/images/articles/trump-backs-iraqi-pms-oil-smuggling-crackdown-al-jazeera-2026.webp`,
+    image_alt: `Trump backs Iraqi PM’s oil smuggling crackdown - Al Jazeera`,
+    image_courtesy: `Image: Al Jazeera (External Source Attribution)`,
+    image_photographer: `Al Jazeera`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.`,
+    content: `Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.
+
+US President Donald Trump has backed Iraqi Prime Minister Ali al-Zaidi’s drive to stop oil smuggling and assert state authority, moves that have put Baghdad in direct confrontation with Kurdish authorities and Iran-aligned militias.
+
+Trump said in a Truth Social post on Friday that Washington supports al-Zaidi’s efforts to “stop the smuggling of Iraqi oil, end corruption, and bring all weapons under the exclusive control of the state”.
+
+He said the United States wants a “united, prosperous, and strong Iraq that makes its own political decisions”. The endorsement comes as al-Zaidi, who has steered Iraq closer to Washington, risks antagonising both the Kurds and Iran, Agence France-Presse reported.
+
+Haider al-Aboudi told the Iraqi News Agency (INA) that Baghdad considers crude exports bypassing state marketer SOMO to be smuggling, since the proceeds do not reach the treasury. He said Iraq lost an estimated $100bn to smuggling through northern Iraq’s Kurdish region between 2008 and 2025.
+
+Reuters said it was unclear how the government calculated the figure.
+
+On Tuesday, al-Zaidi moved to place the Kurdish region’s border crossings and several oil fields under federal control, AFP reported. Iraq closed two crossings in the region on Thursday, one with Syria and one with Iran. Iraq’s highest court ruled on Wednesday that Baghdad can deploy federal forces along all international borders, including those of the Kurdish region of northern Iraq.
+
+Oil Minister Basim Mohammed said: “The oilfields in the region and Basra belong to all Iraqis and remain under the Iraqi flag.” INA reported that he said Iraq would not be lenient towards “any drop of oil exported outside legal contexts”.
+
+Kurdistan Regional Government (KRG) spokesman Peshawa Hawramani said the region does not want clashes with Baghdad, but sees the central government’s actions as aimed at restricting the semi-autonomous region and violating its constitutional rights.
+
+“We are not in favour of clashes and disagreement, but that does not mean we accept the violation of Kurdistan’s rights guaranteed by the constitution,” he said.
+
+The Kurdish government on Wednesday rejected the “military language and threats” in a statement from the Iraqi military spokesman, Reuters reported. It said it was working with federal authorities to combat corruption. Thousands of Kurds protested the decision on Thursday.
+
+The Kurdish crackdown came a week after al-Zaidi ordered the army to prepare to enter Jurf al-Sakha r, south of Baghdad, where the government accuses the Iran-backed Kataib Hezbollah of running a smuggling operation.
+
+Al Jazeera’s Mahmoud Abdelwahed, reporting from Erbil, said residents fear for their livelihoods if Baghdad takes over the region’s oil infrastructure, and spoke of a “trust deficiency” between the two governments. He said the Kurdish government denies any illicit oil operations and calls the campaign an attempt to undermine Kurdish constitutional and territorial rights.
+
+A meeting sponsored by the head of the Supreme Judicial Council is set for December 1 in Baghdad, he said. If it fails or stalls, the sides could face a constitutional and political conflict.
+
+Sajad Jiyad, an analyst at the Center for International Policy, told AFP that al-Zaidi’s “strategy is aligned with what America wants for Iraq and for its Iran policy”. Cutting off the oil flow, he said, is “exactly what US policy is right now: maximum pressure through economic blockade”.
+
+Trump has welcomed al-Zaidi at the White House, where he called him “a great fighter” and “a great fan of America”.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown)`,
+    title_en: `Trump backs Iraqi PM’s oil smuggling crackdown - Al Jazeera`,
+    summary_en: `Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.`,
+    content_en: `Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.
+
+US President Donald Trump has backed Iraqi Prime Minister Ali al-Zaidi’s drive to stop oil smuggling and assert state authority, moves that have put Baghdad in direct confrontation with Kurdish authorities and Iran-aligned militias.
+
+Trump said in a Truth Social post on Friday that Washington supports al-Zaidi’s efforts to “stop the smuggling of Iraqi oil, end corruption, and bring all weapons under the exclusive control of the state”.
+
+He said the United States wants a “united, prosperous, and strong Iraq that makes its own political decisions”. The endorsement comes as al-Zaidi, who has steered Iraq closer to Washington, risks antagonising both the Kurds and Iran, Agence France-Presse reported.
+
+Haider al-Aboudi told the Iraqi News Agency (INA) that Baghdad considers crude exports bypassing state marketer SOMO to be smuggling, since the proceeds do not reach the treasury. He said Iraq lost an estimated $100bn to smuggling through northern Iraq’s Kurdish region between 2008 and 2025.
+
+Reuters said it was unclear how the government calculated the figure.
+
+On Tuesday, al-Zaidi moved to place the Kurdish region’s border crossings and several oil fields under federal control, AFP reported. Iraq closed two crossings in the region on Thursday, one with Syria and one with Iran. Iraq’s highest court ruled on Wednesday that Baghdad can deploy federal forces along all international borders, including those of the Kurdish region of northern Iraq.
+
+Oil Minister Basim Mohammed said: “The oilfields in the region and Basra belong to all Iraqis and remain under the Iraqi flag.” INA reported that he said Iraq would not be lenient towards “any drop of oil exported outside legal contexts”.
+
+Kurdistan Regional Government (KRG) spokesman Peshawa Hawramani said the region does not want clashes with Baghdad, but sees the central government’s actions as aimed at restricting the semi-autonomous region and violating its constitutional rights.
+
+“We are not in favour of clashes and disagreement, but that does not mean we accept the violation of Kurdistan’s rights guaranteed by the constitution,” he said.
+
+The Kurdish government on Wednesday rejected the “military language and threats” in a statement from the Iraqi military spokesman, Reuters reported. It said it was working with federal authorities to combat corruption. Thousands of Kurds protested the decision on Thursday.
+
+The Kurdish crackdown came a week after al-Zaidi ordered the army to prepare to enter Jurf al-Sakha r, south of Baghdad, where the government accuses the Iran-backed Kataib Hezbollah of running a smuggling operation.
+
+Al Jazeera’s Mahmoud Abdelwahed, reporting from Erbil, said residents fear for their livelihoods if Baghdad takes over the region’s oil infrastructure, and spoke of a “trust deficiency” between the two governments. He said the Kurdish government denies any illicit oil operations and calls the campaign an attempt to undermine Kurdish constitutional and territorial rights.
+
+A meeting sponsored by the head of the Supreme Judicial Council is set for December 1 in Baghdad, he said. If it fails or stalls, the sides could face a constitutional and political conflict.
+
+Sajad Jiyad, an analyst at the Center for International Policy, told AFP that al-Zaidi’s “strategy is aligned with what America wants for Iraq and for its Iran policy”. Cutting off the oil flow, he said, is “exactly what US policy is right now: maximum pressure through economic blockade”.
+
+Trump has welcomed al-Zaidi at the White House, where he called him “a great fighter” and “a great fan of America”.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Al Jazeera.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Trump backs Iraqi PM’s oil smuggling crackdown - Al Jazeera.`,
+    primary_source: `Al Jazeera`,
+  },
+  {
+    id: 98136,
+    title: `Trump's tariff: Lanka, Pak may have upper hand over India after US deal`,
+    slug: `trumps-tariff-lanka-pak-may-have-upper-hand-over-india-after-us-deal-2026`,
+    original_title: `Trump's tariff: Lanka, Pak may have upper hand over India after US deal`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:01Z`,
+    updated_at: `2026-11-28T00:10:01Z`,
+    source_name: `Business Standard`,
+    source_url: `https://www.business-standard.com/world-news/fresh-us-tariff-plan-raises-uncertainty-over-indian-exporters-prospects-126112601291_1.html`,
+    source_courtesy: `Source: Business Standard`,
+    image_url: `/images/articles/trumps-tariff-lanka-pak-may-have-upper-hand-over-india-after-us-deal-2026.jpg`,
+    image_alt: `Trump's tariff: Lanka, Pak may have upper hand over India after US deal`,
+    image_courtesy: `Image: Business Standard (External Source Attribution)`,
+    image_photographer: `Business Standard`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `Indian exporters face fresh uncertainty as the US proposes higher tariffs on Indian goods.`,
+    content: `Indian exporters face fresh uncertainty as the US proposes higher tariffs on Indian goods.
+
+### OPEC+ may roll over current oil output targets at its Sunday meeting
+
+### Musk promises two SpaceX shares to every US child in $18 billion giveaway
+
+### Elon Musk doubles pledge, says every US kid to get two SpaceX shares
+
+### South Korea's central bank raises key interest rate to fight inflation
+
+### How a diner chain, where Huang once worked, welcomed his Nvidia return
+
+Don't miss the most important news and views of the day. Get them on our Telegram channel
+
+First Published: Nov 26 2026 | 7:45 PM IST
+
+---
+
+**Original Source:** [Business Standard](https://www.business-standard.com/world-news/fresh-us-tariff-plan-raises-uncertainty-over-indian-exporters-prospects-126112601291_1.html)`,
+    title_en: `Trump's tariff: Lanka, Pak may have upper hand over India after US deal`,
+    summary_en: `Indian exporters face fresh uncertainty as the US proposes higher tariffs on Indian goods.`,
+    content_en: `Indian exporters face fresh uncertainty as the US proposes higher tariffs on Indian goods.
+
+### OPEC+ may roll over current oil output targets at its Sunday meeting
+
+### Musk promises two SpaceX shares to every US child in $18 billion giveaway
+
+### Elon Musk doubles pledge, says every US kid to get two SpaceX shares
+
+### South Korea's central bank raises key interest rate to fight inflation
+
+### How a diner chain, where Huang once worked, welcomed his Nvidia return
+
+Don't miss the most important news and views of the day. Get them on our Telegram channel
+
+First Published: Nov 26 2026 | 7:45 PM IST
+
+---
+
+**Original Source:** [Business Standard](https://www.business-standard.com/world-news/fresh-us-tariff-plan-raises-uncertainty-over-indian-exporters-prospects-126112601291_1.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Business Standard.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Trump's tariff: Lanka, Pak may have upper hand over India after US deal.`,
+    primary_source: `Business Standard`,
+  },
+  {
+    id: 98137,
+    title: `ईरान का खौफ! रुबियो-बेसेंट समेत ट्रंप के कई सहयोगी सैन्य ठिकानों में किए गए शिफ्ट - AajTak`,
+    slug: `world-breaking-report-30670-98137-2026`,
+    original_title: `ईरान का खौफ! रुबियो-बेसेंट समेत ट्रंप के कई सहयोगी सैन्य ठिकानों में किए गए शिफ्ट - AajTak`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:05Z`,
+    updated_at: `2026-11-28T00:10:05Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/world/story/marco-rubio-scott-bessent-among-trump-officials-moving-military-housing-ntc-rmxk-dskc-2708228-2026-11-28`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b09ec8fe67ae-marco-rubio-203018851.jpg`,
+    image_alt: `ईरान का खौफ! रुबियो-बेसेंट समेत ट्रंप के कई सहयोगी सैन्य ठिकानों में किए गए शिफ्ट - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `ईरान से तनातनी के बीच अमेरिका में ट्रंप के प्रशासन के करीब छह कैबिनेट सदस्य वॉशिंगटन डीसी में सुरक्षित सैन्य आवासों में रहने चले गए हैं. यह कदम घरेलू राजनीतिक हिंसा और विदेशी दुश्मनों, खासकर ईरान से मिल रही धमकियों के बीच उठाया गया है. और प`,
+    content: `ईरान से तनातनी के बीच अमेरिका में ट्रंप के प्रशासन के करीब छह कैबिनेट सदस्य वॉशिंगटन डीसी में सुरक्षित सैन्य आवासों में रहने चले गए हैं. यह कदम घरेलू राजनीतिक हिंसा और विदेशी दुश्मनों, खासकर ईरान से मिल रही धमकियों के बीच उठाया गया है. और पढ़ेंCNN की रिपोर्ट के मुताबिक, इस बदलाव के तहत ट्रंप सरकार के कई वरिष्ठ अधिकारियों भी को ऐसे सैन्य आवासों में शिफ्ट किया गया है.
+
+यह आमतौर पर सेना के वरिष्ठ अधिकारियों के लिए रिजर्व होते हैं. इनमें से कई मकान 100 साल से भी ज्यादा पुराने हैं. ये सैन्य परिसरों के भीतर हैं, जहां एंट्री के लिए कड़े सुरक्षा इंतजाम हैं.अमेरिकी वित्त मंत्री स्कॉट बेसेंट हाल ही में सैन्य आवास में शिफ्ट होने वाले वरिष्ठ अधिकारियों में शामिल हैं.
+
+उन्होंने जॉर्जटाउन स्थित अपनी आलीशान हवेली छोड़कर सुरक्षित सैन्य परिसर में रहना शुरू कर दिया है. बताया जा रहा है कि उन्हें जान से मारने की धमकियां मिली थीं.बेसेंट ट्रंप प्रशासन की उस रणनीति का नेतृत्व कर रहे हैं, जिसके तहत ईरान पर व्यापक आर्थिक प्रतिबंध लगाए जा रहे हैं. उन्होंने माना कि ईरान की ओर से उन्हें और कैबिनेट के अन्य सदस्यों को मिल रही धमकियों के कारण उन्हें यह कदम उठाना पड़ा.
+
+Advertisement        हालांकि बेसेंट ने कहा, &#039;मैं इन धमकियों से डरने वाला नहीं हूं. उन्होंने मुझे और कैबिनेट के अन्य सदस्यों को जान से मारने की धमकियां दी हैं. हम डरने वाले नहीं हैं&#039;.अमेरिकी अटॉर्नी जनरल टॉड ब्लैंच भी सुरक्षा चिंताओं के चलते हाल ही में एक सैन्य ठिकाने पर रहने चले गए हैं.
+
+विदेश मंत्री मार्को रुबियो और रक्षा मंत्री पीट हेगसेथ भी सैन्य आवासों में रहने वाले ट्रंप प्रशासन के वरिष्ठ सहयोगियों में शामिल हैं.वहीं, व्हाइट हाउस के चीफ ऑफ स्टाफ स्टीफन मिलर, उनकी पत्नी केटी और उनके चार बच्चे भी पिछले साल सैन्य आवास में शिफ्ट हो गए थे. स्टीफन मिलर का परिवार वर्जीनिया स्थित अपने घर से उस समय बाहर चला गया था, जब उनके आवास के बाहर विरोध प्रदर्शन हुए और उनके घर का पता लिखे पर्चे बांटे गए.यह फैसला ट्रंप प्रशासन के वरिष्ठ अधिकारियों को मिल रही धमकियों के बीच लिया गया है.
+
+खासकर ईरान के खिलाफ युद्ध के बाद सुरक्षा चिंताएं बढ़ी हैं. CNN ने पहले अपनी रिपोर्ट में दावा किया था कि ईरान ट्रंप प्रशासन के वरिष्ठ अधिकारियों को निशाना बनाने के लिए वॉशिंगटन में डर्टी बम या रासायनिक हथियारों से हमले की योजना तैयार कर रहा था.विदेशी दुश्मनों से मिल रही धमकियों के अलावा घरेलू राजनीतिक हिंसा भी अधिकारियों के सैन्य आवासों में शिफ्ट होने की बड़ी वजह है.
+
+Advertisement        इस बीच सैन्य आवासों में नागरिक राजनीतिक नियुक्तियों वाले अधिकारियों की बढ़ती संख्या पर डेमोक्रेटिक सांसदों ने सवाल उठाए हैं. खास तौर पर उन सैन्य आवासों के इस्तेमाल पर सवाल किए जा रहे हैं, जो परंपरागत रूप से सेना के वरिष्ठ अधिकारियों के लिए हैं.सैन्य आवासों पर होने वाले खर्च को लेकर भी पहले सवाल उठ चुके हैं.
+
+पिछले साल रक्षा मंत्री पीट हेगसेथ को आलोचनाओं का सामना करना पड़ा था, जब सांसदों को पता चला कि सेना फोर्ट मैकनेयर स्थित उनके आवास की मरम्मत पर 1,37,297 डॉलर खर्च करने की तैयारी कर रही थी.सैन्य आवासों में रहने वाले कैबिनेट अधिकारियों को किराया देना पड़ता है. यह किराया आम तौर पर आवास के प्रकार और सुविधाओं के आधार पर 4,500 डॉलर (करीब 4 लाख रुपये) प्रति माह से अधिक होता है.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/marco-rubio-scott-bessent-among-trump-officials-moving-military-housing-ntc-rmxk-dskc-2708228-2026-11-28)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `ईरान का खौफ! रुबियो-बेसेंट समेत ट्रंप के कई सहयोगी सैन्य ठिकानों में किए गए शिफ्ट - AajTak`,
+    summary_hi: `ईरान से तनातनी के बीच अमेरिका में ट्रंप के प्रशासन के करीब छह कैबिनेट सदस्य वॉशिंगटन डीसी में सुरक्षित सैन्य आवासों में रहने चले गए हैं. यह कदम घरेलू राजनीतिक हिंसा और विदेशी दुश्मनों, खासकर ईरान से मिल रही धमकियों के बीच उठाया गया है. और प`,
+    content_hi: `ईरान से तनातनी के बीच अमेरिका में ट्रंप के प्रशासन के करीब छह कैबिनेट सदस्य वॉशिंगटन डीसी में सुरक्षित सैन्य आवासों में रहने चले गए हैं. यह कदम घरेलू राजनीतिक हिंसा और विदेशी दुश्मनों, खासकर ईरान से मिल रही धमकियों के बीच उठाया गया है. और पढ़ेंCNN की रिपोर्ट के मुताबिक, इस बदलाव के तहत ट्रंप सरकार के कई वरिष्ठ अधिकारियों भी को ऐसे सैन्य आवासों में शिफ्ट किया गया है.
+
+यह आमतौर पर सेना के वरिष्ठ अधिकारियों के लिए रिजर्व होते हैं. इनमें से कई मकान 100 साल से भी ज्यादा पुराने हैं. ये सैन्य परिसरों के भीतर हैं, जहां एंट्री के लिए कड़े सुरक्षा इंतजाम हैं.अमेरिकी वित्त मंत्री स्कॉट बेसेंट हाल ही में सैन्य आवास में शिफ्ट होने वाले वरिष्ठ अधिकारियों में शामिल हैं.
+
+उन्होंने जॉर्जटाउन स्थित अपनी आलीशान हवेली छोड़कर सुरक्षित सैन्य परिसर में रहना शुरू कर दिया है. बताया जा रहा है कि उन्हें जान से मारने की धमकियां मिली थीं.बेसेंट ट्रंप प्रशासन की उस रणनीति का नेतृत्व कर रहे हैं, जिसके तहत ईरान पर व्यापक आर्थिक प्रतिबंध लगाए जा रहे हैं. उन्होंने माना कि ईरान की ओर से उन्हें और कैबिनेट के अन्य सदस्यों को मिल रही धमकियों के कारण उन्हें यह कदम उठाना पड़ा.
+
+Advertisement        हालांकि बेसेंट ने कहा, &#039;मैं इन धमकियों से डरने वाला नहीं हूं. उन्होंने मुझे और कैबिनेट के अन्य सदस्यों को जान से मारने की धमकियां दी हैं. हम डरने वाले नहीं हैं&#039;.अमेरिकी अटॉर्नी जनरल टॉड ब्लैंच भी सुरक्षा चिंताओं के चलते हाल ही में एक सैन्य ठिकाने पर रहने चले गए हैं.
+
+विदेश मंत्री मार्को रुबियो और रक्षा मंत्री पीट हेगसेथ भी सैन्य आवासों में रहने वाले ट्रंप प्रशासन के वरिष्ठ सहयोगियों में शामिल हैं.वहीं, व्हाइट हाउस के चीफ ऑफ स्टाफ स्टीफन मिलर, उनकी पत्नी केटी और उनके चार बच्चे भी पिछले साल सैन्य आवास में शिफ्ट हो गए थे. स्टीफन मिलर का परिवार वर्जीनिया स्थित अपने घर से उस समय बाहर चला गया था, जब उनके आवास के बाहर विरोध प्रदर्शन हुए और उनके घर का पता लिखे पर्चे बांटे गए.यह फैसला ट्रंप प्रशासन के वरिष्ठ अधिकारियों को मिल रही धमकियों के बीच लिया गया है.
+
+खासकर ईरान के खिलाफ युद्ध के बाद सुरक्षा चिंताएं बढ़ी हैं. CNN ने पहले अपनी रिपोर्ट में दावा किया था कि ईरान ट्रंप प्रशासन के वरिष्ठ अधिकारियों को निशाना बनाने के लिए वॉशिंगटन में डर्टी बम या रासायनिक हथियारों से हमले की योजना तैयार कर रहा था.विदेशी दुश्मनों से मिल रही धमकियों के अलावा घरेलू राजनीतिक हिंसा भी अधिकारियों के सैन्य आवासों में शिफ्ट होने की बड़ी वजह है.
+
+Advertisement        इस बीच सैन्य आवासों में नागरिक राजनीतिक नियुक्तियों वाले अधिकारियों की बढ़ती संख्या पर डेमोक्रेटिक सांसदों ने सवाल उठाए हैं. खास तौर पर उन सैन्य आवासों के इस्तेमाल पर सवाल किए जा रहे हैं, जो परंपरागत रूप से सेना के वरिष्ठ अधिकारियों के लिए हैं.सैन्य आवासों पर होने वाले खर्च को लेकर भी पहले सवाल उठ चुके हैं.
+
+पिछले साल रक्षा मंत्री पीट हेगसेथ को आलोचनाओं का सामना करना पड़ा था, जब सांसदों को पता चला कि सेना फोर्ट मैकनेयर स्थित उनके आवास की मरम्मत पर 1,37,297 डॉलर खर्च करने की तैयारी कर रही थी.सैन्य आवासों में रहने वाले कैबिनेट अधिकारियों को किराया देना पड़ता है. यह किराया आम तौर पर आवास के प्रकार और सुविधाओं के आधार पर 4,500 डॉलर (करीब 4 लाख रुपये) प्रति माह से अधिक होता है.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/marco-rubio-scott-bessent-among-trump-officials-moving-military-housing-ntc-rmxk-dskc-2708228-2026-11-28)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक ईरान का खौफ! रुबियो-बेसेंट समेत ट्रंप के कई सहयोगी सैन्य ठिकानों में किए गए शिफ्ट - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98138,
+    title: `चीन ने पाकिस्तान के अंतरिक्ष यात्री के लिए भेजे लज़ीज़ पकवान,बटर चिकन, निहारी से लेकर मटन कोरमा तक`,
+    slug: `world-breaking-report-38113-98138-2026`,
+    original_title: `चीन ने पाकिस्तान के अंतरिक्ष यात्री के लिए भेजे लज़ीज़ पकवान,बटर चिकन, निहारी से लेकर मटन कोरमा तक`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:06Z`,
+    updated_at: `2026-11-28T00:10:06Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/c87524le20p7o`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/world-breaking-report-38113-98138-2026.jpg`,
+    image_alt: `चीन ने पाकिस्तान के अंतरिक्ष यात्री के लिए भेजे लज़ीज़ पकवान,बटर चिकन, निहारी से लेकर मटन कोरमा तक`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `चिकन बसरा, निहारी,  मटन कोरमा और चना शोरबा.`,
+    content: `चिकन बसरा, निहारी,  मटन कोरमा और चना शोरबा.
+
+इन पकवानों के नाम सुनते ही किसी व्यस्त पाकिस्तानी रेस्तरां या दावत का ख़याल आता है. लेकिन इन दिनों पाकिस्तान के सोशल मीडिया पर इन लज़ीज़ पकवानों की चर्चा एक अलग ही वजह से हो रही है.
+
+दरअसल, ये व्यंजन चीन के अंतरिक्ष स्टेशन पर मौजूद अंतरिक्ष यात्रियों के लिए तैयार किए गए ख़ास हलाल मेन्यू का हिस्सा हैं.
+
+चीन के सरकारी चैनल चाइना ग्लोबल टेलीविज़न नेटवर्क (सीजीटीएन) ने सोशल मीडिया प्लेटफॉर्म एक्स पर एक पोस्ट में बताया, "चीन के अंतरिक्ष स्टेशन पर छह लोगों के लिए रात्रिभोज का इंतज़ाम किया जा रहा है. इसमें पाकिस्तानी अंतरिक्ष यात्री के लिए ख़ास तौर पर चुने गए 100 से ज़्यादा तरह के हलाल डिश भी परोसे जाएंगे."
+
+सीजीटीएन के मुताबिक़, इन व्यंजनों में निहारी, मटन कोरमा और छोले की सब्ज़ी भी शामिल हैं.
+
+शेनझोउ-24 में चीनी अंतरिक्ष यात्री तांग होंगबो और वू यी के अलावा पाकिस्तानी अंतरिक्ष यात्री ज़ीशान अली भी सवार हैं.
+
+शेनझोउ-24 अंतरिक्ष मिशन के तहत तीन अंतरिक्ष यात्रियों को तियांगोंग अंतरिक्ष स्टेशन भेजा गया है.
+
+इनमें तांग होंगबो मिशन कमांडर, वू यी फ़्लाइट इंजीनियर और पाकिस्तानी पायलट मोहम्मद ज़ीशान अली पेलोड स्पेशलिस्ट के तौर पर शामिल हैं.
+
+बुधवार को जिउछुआन सैटेलाइट लॉन्च सेंटर से रवाना हुआ शेनझोउ-24 अंतरिक्ष मिशन चीन के अंतरिक्ष स्टेशन से जुड़ गया है. इसके बाद शेनझोउ-24 के चालक दल ने अंतरिक्ष स्टेशन में एंट्री की .
+
+इस मिशन में पाकिस्तानी अंतरिक्ष यात्री मोहम्मद ज़ीशान अली की मौजूदगी को देखते हुए चीन के अंतरिक्ष कार्यक्रम से जुड़े विभाग ने चीनी और अंग्रेज़ी, दोनों भाषाओं में कामकाज से जुड़े निर्देश तैयार किए हैं.
+
+इसके अलावा, पाकिस्तानी अंतरिक्ष यात्री की खानपान संबंधी पसंद को ध्यान में रखते हुए हलाल खाने का का भी इंतज़ाम किया गया है.
+
+अंतरिक्ष में भोजन का मामला हमेशा से चर्चा का विषय रहा है. ऐसे में पाकिस्तानी अंतरिक्ष यात्री के लिए हलाल खाने और दक्षिण एशियाई स्वाद वाले व्यंजनों को शामिल किए जाने से सोशल मीडिया पर भी बहस छिड़ गई है.
+
+पाकिस्तानी अंतरिक्ष यात्री मोहम्मद ज़ीशान अली तियांगोंग अंतरिक्ष स्टेशन पर क़रीब एक हफ़्ता बिताएंगे.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+यह ख़बर सामने आने के बाद सोशल मीडिया यूज़र्स पाकिस्तानी डिशेज के अंतरिक्ष तक पहुंचने पर हैरानी और ख़ुशी जता रहे हैं.
+
+कुछ यूज़र्स ने इसे चीन और पाकिस्तान के क़रीबी रिश्तों का प्रतीक बताया, जबकि दूसरे लोगों ने निहारी और कोरमे जैसे पारंपरिक पकवानों के अंतरिक्ष के सफ़र पर दिलचस्प टिप्पणियां कीं.
+
+असमा नाम की एक यूज़र ने पाकिस्तानी अंतरिक्ष यात्री के मेन्यू में ख़ास तौर पर निहारी को शामिल किए जाने की तारीफ़ करते हुए लिखा, "हमारे अंतरिक्ष यात्री के मेन्यू में निहारी को जगह देने के लिए शुक्रिया."
+
+लैला नाम की एक यूज़र ने किसी देश का नाम लिए बिना लिखा कि यह ख़बर निश्चित रूप से हमारे "पड़ोसियों की कैलोरी जलाने" का कारण बनेगी.
+
+ग़ौरतलब है कि पाकिस्तान के पहले अंतरिक्ष यात्री मोहम्मद ज़ीशान अली के चीनी अंतरिक्ष मिशन में शामिल होने की ख़बर को भारत में भी काफ़ी तवज्जो मिल रही है.
+
+देश के बड़े अख़बारों, टीवी चैनलों और डिजिटल प्लेटफॉर्म ने इस घटनाक्रम को प्रमुखता से जगह दी है.
+
+भारत में सोशल मीडिया पर भी इसे लेकर चर्चा जारी है. अंतरिक्ष में भारत और पाकिस्तान की उपलब्धियों और दोनों देशों के बीच होड़ की तुलना भी की जा रही है.
+
+गर्वसेसेक्युलर नाम के एक यूज़र ने लिखा, "हम भारतीयों के लिए यह गर्व की बात है कि बटर चिकन, जो एक भारतीय व्यंजन है, अंतरिक्ष तक पहुंच गया है. इससे क्या फ़र्क़ पड़ता है कि इसे चीनी अंतरिक्ष स्टेशन पर मौजूद एक पाकिस्तानी अंतरिक्ष यात्री के लिए तैयार किया गया है."
+
+इसके साथ ही उन्होंने लिखा, "हालांकि, हम बीफ़ निहारी से अपना कोई संबंध नहीं होने की घोषणा करते हैं."
+
+सोशल मीडिया प्लेटफ़ॉर्म एक्स पर पाकिस्तानी थिंक टैंक 'पाकिस्तान स्ट्रैटेजिक फ़ोरम' के अकाउंट से इसकी तारीफ़ करते हुए कहा गया, "अगर आपके पास वही दिल है तो आप कितनी बार जीत सकते हैं?"
+
+### मेन्यू में बिरयानी न होने से निराशा
+
+सोशल मीडिया पर कई यूजर्स ने पाकिस्तानी अंतरिक्ष यात्री की यात्रा की तारीफ़ करते हुए इसे चीन और पाकिस्तान के बीच घनिष्ठ संबंधों का प्रतीक बताया और साथ ही इस कदम को चीन की ग्लोबल पावर की ताक़त की अहमियत कहा.
+
+एलेक्स हैंक नाम के एक यूजर ने सोशल मीडिया पर अपनी पोस्ट में लिखा, "चीन की ओर से मेहमान की ख़ातिरदारी का एक अद्भुत प्रदर्शन. यही वजह है कि चीन को भविष्य की विश्व शक्ति माना जाता है. यह मिशन अंतरिक्ष सहयोग के एक नए युग का दरवाजा खोल सकता है."
+
+जहां एक ओर यूजर्स ने मेनू में निहारी को शामिल किए जाने पर आश्चर्य और खुशी व्यक्त की, वहीं कई यूजर्स इस बात से थोड़े निराश दिखे कि बिरयानी को मेन्यू में जगह नहीं मिली.
+
+सोशल मीडिया पर बिरयानी के स्वाद और उसे बनाने के तरीकों को लेकर यूजर्स के बीच हर दिन बातचीत होती रहती है. ऐसे में इस 'ऐतिहासिक' अवसर पर बिरयानी का उल्लेख न होने से कई यूजर्स निराश हैं.
+
+बिरयानी के एक प्रशंसक ने लिखा, "मेनू में बीफ़ निहारी देखकर अच्छा लगा, लेकिन जब तक बिरयानी को मेज पर जगह नहीं मिलती, तब तक मिशन का मजा पूरा नहीं होगा. इसलिए हम पाकिस्तानी अंतरिक्ष यात्री जीशान अली से जल्द से जल्द बिरयानी का आनंद लेते हुए अपनी तस्वीरें भेजने का इंतजार कर रहे हैं."
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c87524le20p7o)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `चीन ने पाकिस्तान के अंतरिक्ष यात्री के लिए भेजे लज़ीज़ पकवान,बटर चिकन, निहारी से लेकर मटन कोरमा तक`,
+    summary_hi: `चिकन बसरा, निहारी,  मटन कोरमा और चना शोरबा.`,
+    content_hi: `चिकन बसरा, निहारी,  मटन कोरमा और चना शोरबा.
+
+इन पकवानों के नाम सुनते ही किसी व्यस्त पाकिस्तानी रेस्तरां या दावत का ख़याल आता है. लेकिन इन दिनों पाकिस्तान के सोशल मीडिया पर इन लज़ीज़ पकवानों की चर्चा एक अलग ही वजह से हो रही है.
+
+दरअसल, ये व्यंजन चीन के अंतरिक्ष स्टेशन पर मौजूद अंतरिक्ष यात्रियों के लिए तैयार किए गए ख़ास हलाल मेन्यू का हिस्सा हैं.
+
+चीन के सरकारी चैनल चाइना ग्लोबल टेलीविज़न नेटवर्क (सीजीटीएन) ने सोशल मीडिया प्लेटफॉर्म एक्स पर एक पोस्ट में बताया, "चीन के अंतरिक्ष स्टेशन पर छह लोगों के लिए रात्रिभोज का इंतज़ाम किया जा रहा है. इसमें पाकिस्तानी अंतरिक्ष यात्री के लिए ख़ास तौर पर चुने गए 100 से ज़्यादा तरह के हलाल डिश भी परोसे जाएंगे."
+
+सीजीटीएन के मुताबिक़, इन व्यंजनों में निहारी, मटन कोरमा और छोले की सब्ज़ी भी शामिल हैं.
+
+शेनझोउ-24 में चीनी अंतरिक्ष यात्री तांग होंगबो और वू यी के अलावा पाकिस्तानी अंतरिक्ष यात्री ज़ीशान अली भी सवार हैं.
+
+शेनझोउ-24 अंतरिक्ष मिशन के तहत तीन अंतरिक्ष यात्रियों को तियांगोंग अंतरिक्ष स्टेशन भेजा गया है.
+
+इनमें तांग होंगबो मिशन कमांडर, वू यी फ़्लाइट इंजीनियर और पाकिस्तानी पायलट मोहम्मद ज़ीशान अली पेलोड स्पेशलिस्ट के तौर पर शामिल हैं.
+
+बुधवार को जिउछुआन सैटेलाइट लॉन्च सेंटर से रवाना हुआ शेनझोउ-24 अंतरिक्ष मिशन चीन के अंतरिक्ष स्टेशन से जुड़ गया है. इसके बाद शेनझोउ-24 के चालक दल ने अंतरिक्ष स्टेशन में एंट्री की .
+
+इस मिशन में पाकिस्तानी अंतरिक्ष यात्री मोहम्मद ज़ीशान अली की मौजूदगी को देखते हुए चीन के अंतरिक्ष कार्यक्रम से जुड़े विभाग ने चीनी और अंग्रेज़ी, दोनों भाषाओं में कामकाज से जुड़े निर्देश तैयार किए हैं.
+
+इसके अलावा, पाकिस्तानी अंतरिक्ष यात्री की खानपान संबंधी पसंद को ध्यान में रखते हुए हलाल खाने का का भी इंतज़ाम किया गया है.
+
+अंतरिक्ष में भोजन का मामला हमेशा से चर्चा का विषय रहा है. ऐसे में पाकिस्तानी अंतरिक्ष यात्री के लिए हलाल खाने और दक्षिण एशियाई स्वाद वाले व्यंजनों को शामिल किए जाने से सोशल मीडिया पर भी बहस छिड़ गई है.
+
+पाकिस्तानी अंतरिक्ष यात्री मोहम्मद ज़ीशान अली तियांगोंग अंतरिक्ष स्टेशन पर क़रीब एक हफ़्ता बिताएंगे.
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+यह ख़बर सामने आने के बाद सोशल मीडिया यूज़र्स पाकिस्तानी डिशेज के अंतरिक्ष तक पहुंचने पर हैरानी और ख़ुशी जता रहे हैं.
+
+कुछ यूज़र्स ने इसे चीन और पाकिस्तान के क़रीबी रिश्तों का प्रतीक बताया, जबकि दूसरे लोगों ने निहारी और कोरमे जैसे पारंपरिक पकवानों के अंतरिक्ष के सफ़र पर दिलचस्प टिप्पणियां कीं.
+
+असमा नाम की एक यूज़र ने पाकिस्तानी अंतरिक्ष यात्री के मेन्यू में ख़ास तौर पर निहारी को शामिल किए जाने की तारीफ़ करते हुए लिखा, "हमारे अंतरिक्ष यात्री के मेन्यू में निहारी को जगह देने के लिए शुक्रिया."
+
+लैला नाम की एक यूज़र ने किसी देश का नाम लिए बिना लिखा कि यह ख़बर निश्चित रूप से हमारे "पड़ोसियों की कैलोरी जलाने" का कारण बनेगी.
+
+ग़ौरतलब है कि पाकिस्तान के पहले अंतरिक्ष यात्री मोहम्मद ज़ीशान अली के चीनी अंतरिक्ष मिशन में शामिल होने की ख़बर को भारत में भी काफ़ी तवज्जो मिल रही है.
+
+देश के बड़े अख़बारों, टीवी चैनलों और डिजिटल प्लेटफॉर्म ने इस घटनाक्रम को प्रमुखता से जगह दी है.
+
+भारत में सोशल मीडिया पर भी इसे लेकर चर्चा जारी है. अंतरिक्ष में भारत और पाकिस्तान की उपलब्धियों और दोनों देशों के बीच होड़ की तुलना भी की जा रही है.
+
+गर्वसेसेक्युलर नाम के एक यूज़र ने लिखा, "हम भारतीयों के लिए यह गर्व की बात है कि बटर चिकन, जो एक भारतीय व्यंजन है, अंतरिक्ष तक पहुंच गया है. इससे क्या फ़र्क़ पड़ता है कि इसे चीनी अंतरिक्ष स्टेशन पर मौजूद एक पाकिस्तानी अंतरिक्ष यात्री के लिए तैयार किया गया है."
+
+इसके साथ ही उन्होंने लिखा, "हालांकि, हम बीफ़ निहारी से अपना कोई संबंध नहीं होने की घोषणा करते हैं."
+
+सोशल मीडिया प्लेटफ़ॉर्म एक्स पर पाकिस्तानी थिंक टैंक 'पाकिस्तान स्ट्रैटेजिक फ़ोरम' के अकाउंट से इसकी तारीफ़ करते हुए कहा गया, "अगर आपके पास वही दिल है तो आप कितनी बार जीत सकते हैं?"
+
+### मेन्यू में बिरयानी न होने से निराशा
+
+सोशल मीडिया पर कई यूजर्स ने पाकिस्तानी अंतरिक्ष यात्री की यात्रा की तारीफ़ करते हुए इसे चीन और पाकिस्तान के बीच घनिष्ठ संबंधों का प्रतीक बताया और साथ ही इस कदम को चीन की ग्लोबल पावर की ताक़त की अहमियत कहा.
+
+एलेक्स हैंक नाम के एक यूजर ने सोशल मीडिया पर अपनी पोस्ट में लिखा, "चीन की ओर से मेहमान की ख़ातिरदारी का एक अद्भुत प्रदर्शन. यही वजह है कि चीन को भविष्य की विश्व शक्ति माना जाता है. यह मिशन अंतरिक्ष सहयोग के एक नए युग का दरवाजा खोल सकता है."
+
+जहां एक ओर यूजर्स ने मेनू में निहारी को शामिल किए जाने पर आश्चर्य और खुशी व्यक्त की, वहीं कई यूजर्स इस बात से थोड़े निराश दिखे कि बिरयानी को मेन्यू में जगह नहीं मिली.
+
+सोशल मीडिया पर बिरयानी के स्वाद और उसे बनाने के तरीकों को लेकर यूजर्स के बीच हर दिन बातचीत होती रहती है. ऐसे में इस 'ऐतिहासिक' अवसर पर बिरयानी का उल्लेख न होने से कई यूजर्स निराश हैं.
+
+बिरयानी के एक प्रशंसक ने लिखा, "मेनू में बीफ़ निहारी देखकर अच्छा लगा, लेकिन जब तक बिरयानी को मेज पर जगह नहीं मिलती, तब तक मिशन का मजा पूरा नहीं होगा. इसलिए हम पाकिस्तानी अंतरिक्ष यात्री जीशान अली से जल्द से जल्द बिरयानी का आनंद लेते हुए अपनी तस्वीरें भेजने का इंतजार कर रहे हैं."
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c87524le20p7o)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक चीन ने पाकिस्तान के अंतरिक्ष यात्री के लिए भेजे लज़ीज़ पकवान,बटर चिकन, निहारी से लेकर मटन कोरमा तक से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 98139,
+    title: `How To Watch FIDE World Championship 2026 Game 4 - Chess.com`,
+    slug: `how-to-watch-fide-world-championship-2026-game-4-chesscom-2026`,
+    original_title: `How To Watch FIDE World Championship 2026 Game 4 - Chess.com`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:08Z`,
+    updated_at: `2026-11-28T00:10:08Z`,
+    source_name: `Chess.com`,
+    source_url: `https://www.chess.com/news/view/2026-fide-world-chess-championship-game-4`,
+    source_courtesy: `Source: Chess.com`,
+    image_url: `/images/articles/how-to-watch-fide-world-championship-2026-game-4-chesscom-2026.png`,
+    image_alt: `How To Watch FIDE World Championship 2026 Game 4 - Chess.com`,
+    image_courtesy: `Image: Chess.com (External Source Attribution)`,
+    image_photographer: `Chess.com`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov resumes after the rest day with game four on Saturday, November 28, at 9 a.m. ET / 15:00 CET /  7:30 p.m. IST `,
+    content: `The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov resumes after the rest day with game four on Saturday, November 28, at 9 a.m. ET / 15:00 CET /  7:30 p.m. IST .
+
+Gukesh will have the white pieces as the players hunt for a win after beginning with three draws. Don't miss all the action!
+
+The Salesforce FIDE World Championship 2026 in Geneva, Switzerland decides the next world champion. Uzbek Challenger Javokhir Sindarov plays Indian Defending Champion Gukesh Dommaraju in a 14-game match, with the winner the first to 7.5 points. The players have two hours for 40 moves, then 30 minutes to the end of the game, with 30 seconds added each move from move 41 onward. The prize fund is $2,500,000, with $200,000 for a win and the remaining money split equally. If tied 7-7, a playoff will take place, starting with four games of 15+10 rapid chess.
+
+### Watch The Salesforce FIDE World Chess Championship On Twitch To Earn Exclusive Flairs
+
+### New Classic Games App In Beta, Play And Learn 10 Incredible Games!
+
+---
+
+**Original Source:** [Chess.com](https://www.chess.com/news/view/2026-fide-world-chess-championship-game-4)`,
+    title_en: `How To Watch FIDE World Championship 2026 Game 4 - Chess.com`,
+    summary_en: `The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov resumes after the rest day with game four on Saturday, November 28, at 9 a.m. ET / 15:00 CET /  7:30 p.m. IST `,
+    content_en: `The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov resumes after the rest day with game four on Saturday, November 28, at 9 a.m. ET / 15:00 CET /  7:30 p.m. IST .
+
+Gukesh will have the white pieces as the players hunt for a win after beginning with three draws. Don't miss all the action!
+
+The Salesforce FIDE World Championship 2026 in Geneva, Switzerland decides the next world champion. Uzbek Challenger Javokhir Sindarov plays Indian Defending Champion Gukesh Dommaraju in a 14-game match, with the winner the first to 7.5 points. The players have two hours for 40 moves, then 30 minutes to the end of the game, with 30 seconds added each move from move 41 onward. The prize fund is $2,500,000, with $200,000 for a win and the remaining money split equally. If tied 7-7, a playoff will take place, starting with four games of 15+10 rapid chess.
+
+### Watch The Salesforce FIDE World Chess Championship On Twitch To Earn Exclusive Flairs
+
+### New Classic Games App In Beta, Play And Learn 10 Incredible Games!
+
+---
+
+**Original Source:** [Chess.com](https://www.chess.com/news/view/2026-fide-world-chess-championship-game-4)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Chess.com.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for How To Watch FIDE World Championship 2026 Game 4 - Chess.com.`,
+    primary_source: `Chess.com`,
+  },
+  {
+    id: 98140,
+    title: `Marc Marquez opens up: These are the reasons behind his MotoGP retirement - SPEEDWEEK.com`,
+    slug: `marc-marquez-opens-up-these-are-the-reasons-behind-his-motogp-retireme-2026`,
+    original_title: `Marc Marquez opens up: These are the reasons behind his MotoGP retirement - SPEEDWEEK.com`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:27Z`,
+    updated_at: `2026-11-28T00:10:27Z`,
+    source_name: `SPEEDWEEK.com`,
+    source_url: `https://www.speedweek.com/en/a/motogp/marc-marquez-opens-up-these-are-the-reasons-behind-his-motogp-retirement`,
+    source_courtesy: `Source: SPEEDWEEK.com`,
+    image_url: `/images/articles/marc-marquez-opens-up-these-are-the-reasons-behind-his-motogp-retireme-2026.jpg`,
+    image_alt: `Marc Marquez opens up: These are the reasons behind his MotoGP retirement - SPEEDWEEK.com`,
+    image_courtesy: `Image: SPEEDWEEK.com (External Source Attribution)`,
+    image_photographer: `SPEEDWEEK.com`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `Although MotoGP icon Marc Marquez’s retirement had been announced live, the icon himself had not said a word. Two hours after the bombshell announcement, Marquez attempted to explain his decision.`,
+    content: `Although MotoGP icon Marc Marquez’s retirement had been announced live, the icon himself had not said a word. Two hours after the bombshell announcement, Marquez attempted to explain his decision.
+
+This article is an automatically generated English version. The Original Article was published in German.
+
+MotoGP without a superstar: Stefan Bradl on the loss of Marc Marquez
+
+Rivola on Marquez: We would have loved to have battled against him next year too
+
+Pedro Acosta on Marc Márquez: “I fully understand his decision”
+
+Marc Marquez made up a 102-point deficit in the 2026 MotoGP season. Aprilia had all the cards in its hand this year with Bezzecchi and Martin – and lost the title battle.
+
+Just before the first free practice session for the Valencia Grand Prix, record-breaking MotoGP world champion Marc Marquez unexpectedly dropped the bombshell of his retirement. The Valencia Grand Prix will be the ten-time champion’s final race.
+
+Before Marc Marquez spoke for the first time about his unexpectedly announced retirement at a specially arranged press conference just under two hours later, the Spaniard had to make his way through a sea of people. Then ‘MM93’ took his seat next to the Tower of Champions, the large World Championship trophy.
+
+Marc Márquez then spoke for the first time about the decision that is set to change MotoGP at very short notice: “It’s obviously very difficult to be sitting here now. As I said before FP1, I’m so grateful and I’ve really enjoyed it. That’s what matters most – more than the successes. There may be more or fewer of those, but what matters more is the joy I’ve experienced.”
+
+On the crux of the decision: “I started in MotoGP in my own way, and I wanted to finish it in my own way. For me personally, the decision was made after the Japanese Grand Prix. The only person who knew about it was my brother. It was the whole situation that led me to this decision.” When the conversation turned to his relationship with ‘AM73’, the record-holding world champion had to pause, choking back tears.
+
+Marquez then went on to explain: “For me, it was also the only way to relieve the pressure. I wanted the title – but I had to make that decision; that feeling had set in by the time I reached Japan. Otherwise, I wouldn’t have had the energy to fight for the world title like that – and to win it.”
+
+Ahead of his final races, Marc Márquez also took stock of his condition once more: “The whole situation was at breaking point. It became clear that the situation with my arm was getting worse and worse and wasn’t going to improve. As well as the injuries I’d sustained this season, I’d also struggled with double vision on several occasions – once for 48 hours after Indonesia, and once for 12 hours after Le Mans. I recovered well from it, but we’re all only human. My passion is still there, the adrenaline is still there, and I’m fast and competitive. But I still feel that this is the right moment. It’s over – and I’m absolutely delighted.”
+
+### Marquez explains his decision to retire
+
+Marc Marquez on his contract: “I signed the contract with Ducati in March, when I was full of confidence, before undergoing another shoulder operation. I must thank Ducati; they’ve been completely understanding of my situation.”
+
+Marquez on the timing of his retirement: “I just felt that it was the right time, so I announced it before FP1. My father has known since yesterday evening, my mother since this morning. I also told Gigi and the team yesterday evening. That’s how I wanted it. The reason I didn’t say anything here earlier is also because I didn’t want to cause a big stir amongst the other riders – perhaps some of them might have had to rethink their careers.”
+
+A moving finale: a whole army of riders from all classes crowded onto the stage at the press conference. Alongside his brother Alex, Miller, Bezzecchi, Martin, Lecuona, Moreira, Zarco, Pirro and Alonso, a GP legend such as Dani Pedrosa also made an appearance.
+
+Don't miss out on any highlights: The Speedweek newsletter, sent out twice a week, delivers the latest news, exclusive commentary and all the important dates from the world of motorsports - directly into your inbox
+
+Maximo Quiles: Vom Rossi-Fan zum Moto3-Weltmeister
+
+Marquez spricht über seinen MotoGP-Rücktritt
+
+„Habe die Entscheidung in Motegi getroffen“
+
+Ducati caught off guard by Marquez’s retirement: Who will replace the world champion?
+
+Bezzecchi on Marquez’s retirement: “We’ll never fully understand it”
+
+Fabio Quartararo: “Everyone’s happy that the fastest rider is staying at home”
+
+Max Verstappen (Red Bull Racing): “We need to get that sorted”
+
+Kimi Antonelli fastest twice: Who could pose a threat to him in Qatar
+
+Audi’s appeal dismissed! Monza F1 race result stands
+
+FP2 Qatar: Two red flags in F1 practice! Kimi Antonelli fastest
+
+Laurent Mekies: F1 star Max Verstappen is “the best sensor in the car”
+
+---
+
+**Original Source:** [SPEEDWEEK.com](https://www.speedweek.com/en/a/motogp/marc-marquez-opens-up-these-are-the-reasons-behind-his-motogp-retirement)`,
+    title_en: `Marc Marquez opens up: These are the reasons behind his MotoGP retirement - SPEEDWEEK.com`,
+    summary_en: `Although MotoGP icon Marc Marquez’s retirement had been announced live, the icon himself had not said a word. Two hours after the bombshell announcement, Marquez attempted to explain his decision.`,
+    content_en: `Although MotoGP icon Marc Marquez’s retirement had been announced live, the icon himself had not said a word. Two hours after the bombshell announcement, Marquez attempted to explain his decision.
+
+This article is an automatically generated English version. The Original Article was published in German.
+
+MotoGP without a superstar: Stefan Bradl on the loss of Marc Marquez
+
+Rivola on Marquez: We would have loved to have battled against him next year too
+
+Pedro Acosta on Marc Márquez: “I fully understand his decision”
+
+Marc Marquez made up a 102-point deficit in the 2026 MotoGP season. Aprilia had all the cards in its hand this year with Bezzecchi and Martin – and lost the title battle.
+
+Just before the first free practice session for the Valencia Grand Prix, record-breaking MotoGP world champion Marc Marquez unexpectedly dropped the bombshell of his retirement. The Valencia Grand Prix will be the ten-time champion’s final race.
+
+Before Marc Marquez spoke for the first time about his unexpectedly announced retirement at a specially arranged press conference just under two hours later, the Spaniard had to make his way through a sea of people. Then ‘MM93’ took his seat next to the Tower of Champions, the large World Championship trophy.
+
+Marc Márquez then spoke for the first time about the decision that is set to change MotoGP at very short notice: “It’s obviously very difficult to be sitting here now. As I said before FP1, I’m so grateful and I’ve really enjoyed it. That’s what matters most – more than the successes. There may be more or fewer of those, but what matters more is the joy I’ve experienced.”
+
+On the crux of the decision: “I started in MotoGP in my own way, and I wanted to finish it in my own way. For me personally, the decision was made after the Japanese Grand Prix. The only person who knew about it was my brother. It was the whole situation that led me to this decision.” When the conversation turned to his relationship with ‘AM73’, the record-holding world champion had to pause, choking back tears.
+
+Marquez then went on to explain: “For me, it was also the only way to relieve the pressure. I wanted the title – but I had to make that decision; that feeling had set in by the time I reached Japan. Otherwise, I wouldn’t have had the energy to fight for the world title like that – and to win it.”
+
+Ahead of his final races, Marc Márquez also took stock of his condition once more: “The whole situation was at breaking point. It became clear that the situation with my arm was getting worse and worse and wasn’t going to improve. As well as the injuries I’d sustained this season, I’d also struggled with double vision on several occasions – once for 48 hours after Indonesia, and once for 12 hours after Le Mans. I recovered well from it, but we’re all only human. My passion is still there, the adrenaline is still there, and I’m fast and competitive. But I still feel that this is the right moment. It’s over – and I’m absolutely delighted.”
+
+### Marquez explains his decision to retire
+
+Marc Marquez on his contract: “I signed the contract with Ducati in March, when I was full of confidence, before undergoing another shoulder operation. I must thank Ducati; they’ve been completely understanding of my situation.”
+
+Marquez on the timing of his retirement: “I just felt that it was the right time, so I announced it before FP1. My father has known since yesterday evening, my mother since this morning. I also told Gigi and the team yesterday evening. That’s how I wanted it. The reason I didn’t say anything here earlier is also because I didn’t want to cause a big stir amongst the other riders – perhaps some of them might have had to rethink their careers.”
+
+A moving finale: a whole army of riders from all classes crowded onto the stage at the press conference. Alongside his brother Alex, Miller, Bezzecchi, Martin, Lecuona, Moreira, Zarco, Pirro and Alonso, a GP legend such as Dani Pedrosa also made an appearance.
+
+Don't miss out on any highlights: The Speedweek newsletter, sent out twice a week, delivers the latest news, exclusive commentary and all the important dates from the world of motorsports - directly into your inbox
+
+Maximo Quiles: Vom Rossi-Fan zum Moto3-Weltmeister
+
+Marquez spricht über seinen MotoGP-Rücktritt
+
+„Habe die Entscheidung in Motegi getroffen“
+
+Ducati caught off guard by Marquez’s retirement: Who will replace the world champion?
+
+Bezzecchi on Marquez’s retirement: “We’ll never fully understand it”
+
+Fabio Quartararo: “Everyone’s happy that the fastest rider is staying at home”
+
+Max Verstappen (Red Bull Racing): “We need to get that sorted”
+
+Kimi Antonelli fastest twice: Who could pose a threat to him in Qatar
+
+Audi’s appeal dismissed! Monza F1 race result stands
+
+FP2 Qatar: Two red flags in F1 practice! Kimi Antonelli fastest
+
+Laurent Mekies: F1 star Max Verstappen is “the best sensor in the car”
+
+---
+
+**Original Source:** [SPEEDWEEK.com](https://www.speedweek.com/en/a/motogp/marc-marquez-opens-up-these-are-the-reasons-behind-his-motogp-retirement)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to SPEEDWEEK.com.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Marc Marquez opens up: These are the reasons behind his MotoGP retirement - SPEEDWEEK.com.`,
+    primary_source: `SPEEDWEEK.com`,
+  },
+  {
+    id: 98141,
+    title: `न्यूजीलैंड को 110 पर 4 झटके, फिर भी भारत के हाथ से निकला पहला दिन, आकाश दीप ने बताई टीम इंडिया की कमी - AajTak`,
+    slug: `110-4-aajtak-2026`,
+    original_title: `न्यूजीलैंड को 110 पर 4 झटके, फिर भी भारत के हाथ से निकला पहला दिन, आकाश दीप ने बताई टीम इंडिया की कमी - AajTak`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:32Z`,
+    updated_at: `2026-11-28T00:10:32Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-2nd-test-christchurch-akash-deep-says-india-could-have-done-better-tspok-dskc-2707757-2026-11-27`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0938c88cad4-india-vs-new-zealand-2nd-test--akash-deep-270111276.jpg`,
+    image_alt: `न्यूजीलैंड को 110 पर 4 झटके, फिर भी भारत के हाथ से निकला पहला दिन, आकाश दीप ने बताई टीम इंडिया की कमी - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `न्यूजीलैंड को 110 पर 4 झटके, फिर भी भारत के हाथ से निकला पहला दिन, आकाश दीप ने बताई टीम इंडिया की कमी AajTak जिस तरह से हमने वापसी की उससे खुश हूं, हमारा लक्ष्य 300 रन का आंकड़ा पार करना है: ब्लंडेल Press Trust of India पहले की टेस्ट की तरह`,
+    content: `### क्राइस्टचर्च टेस्ट के पहले दिन (27 नवंबर) भारत ने न्यूजीलैंड के चार विकेट 110 रन पर झटक लिए थे, लेकिन मेजबान टीम ने वापसी करते हुए दिन का खेल 246/5 पर खत्म किया. आकाश दीप ने दो विकेट लिए. उन्होंने माना कि भारत बेहतर कर सकता था. वहीं टॉम ब्लंडेल और ग्लेन फिलिप्स ने छठे विकेट के लिए नाबाद 62 रन जोड़े.
+
+भारत और न्यूजीलैंड के बीच क्राइस्टचर्च में खेले जा रहे दूसरे टेस्ट के पहले दिन (27 नवंबर) टीम इंडिया ने गेंदबाजी में अच्छी शुरुआत की, लेकिन दिन का खेल खत्म होने तक मेजबान टीम ने वापसी कर ली. न्यूजीलैंड ने पहले दिन पांच विकेट पर 246 रन बना लिए. एक समय उसका स्कोर 110 रन पर चार विकेट था, लेकिन टॉम ब्लंडेल और ग्लेन फिलिप्स ने नाबाद साझेदारी कर भारत की मुश्किलें बढ़ा दीं.
+
+भारत के तेज गेंदबाज आकाश दीप ने दिन के खेल के बाद माना कि टीम इंडिया बेहतर प्रदर्शन कर सकती थी. उन्होंने बताया कि लंच के बाद भारतीय गेंदबाजों ने विकेट लेने की जल्दबाजी छोड़ सही लाइन-लेंथ पर गेंदबाजी करने और धैर्य बनाए रखने का फैसला किया. इसका फायदा भी मिला और दूसरे सत्र में भारत ने तीन विकेट हासिल किए.
+
+आकाश दीप ने कहा- पहले सेशन में गेंद में नमी थी और वह बल्ले पर ज्यादा तेजी से नहीं आ रही थी. शुरुआत में हम गेंद को जरूरत से ज्यादा स्विंग करा रहे थे. लंच के बाद हमने सही जगह गेंदबाजी करने और धैर्य बनाए रखने का फैसला किया. यही हमारी रणनीति थी और इससे हमें तीन विकेट मिले."
+
+उन्होंने आगे कहा- कुल मिलाकर दिन अच्छा रहा, लेकिन हम इससे बेहतर कर सकते थे. हालांकि, कोई बात नहीं.
+
+आकाश दीप ने पहले दिन दो विकेट हासिल किए. उन्होंने बताया कि उनकी कोशिश बल्लेबाजों को लगातार गेंद खेलने के लिए मजबूर करने की थी. उनके मुताबिक, पहले दिन पिच से गेंदबाजों को मदद मिल रही थी और भारतीय टीम इसका पूरा फायदा उठाना चाहती थी.
+
+उन्होंने कहा- हमें पता था कि यह पहला दिन है और गेंदबाजों को मदद मिलेगी. इसलिए इसका फायदा उठाना जरूरी था. मेरा ध्यान इस बात पर था कि बल्लेबाज ज्यादा से ज्यादा गेंद खेलें. मैंने पहले स्पेल में पांच-छह ओवर गेंदबाजी की और कोशिश की कि बल्लेबाज 80-90 प्रतिशत गेंदें खेलें. तेज गेंदबाज के लिए लगातार ऐसा करना आसान नहीं होता, क्योंकि कई बार स्टंप पर गेंद डालने की कोशिश में लाइन थोड़ी भटक जाती है. यह भी पढ़ें: IND vs NZ 2nd Test day 1 Highlights: क्राइस्टचर्च टेस्ट में पहला दिन समाप्त, न्यूजीलैंड का स्कोर 246/5, आकाश दीप की शानदार गेंदबाजी
+
+आकाश दीप ने यह भी कहा कि गेंद पुरानी होने के साथ बल्लेबाजी आसान होती जाती है. ऐसे में गेंदबाजों को विकेट लेने के साथ रनों पर अंकुश लगाने का संतुलन भी बनाना पड़ता है. सेट बल्लेबाज के लिए रन बनाना आसान होता है, जबकि नए बल्लेबाज को क्रीज पर टिकने में परेशानी होती है.
+
+ब्लंडेल ने की लैथम और कॉन्वे की तारीफ दूसरी ओर, न्यूजीलैंड के बल्लेबाज टॉम ब्लंडेल ने कप्तान टॉम लैथम और डेवोन कॉन्वे की शुरुआती बल्लेबाजी की तारीफ की. उन्होंने कहा कि हरी पिच पर पहले बल्लेबाजी करने के बावजूद दोनों ने जिस इरादे के साथ शुरुआत की, उससे ड्रेसिंग रूम में टीम को भरोसा मिला.
+
+ब्लंडेल के मुताबिक, पूरे दिन पिच पर गेंद मूवमेंट कर रही थी और बल्लेबाजों के लिए रन बनाना आसान नहीं था. हालांकि, उन्हें उम्मीद है कि अगले कुछ दिनों में पिच बल्लेबाजी के लिए बेहतर और तेज हो सकती है. उन्होंने यह भी कहा कि दूसरे दिन सुबह नई गेंद (Second New Ball) से भारतीय गेंदबाजों को मदद मिल सकती है. इस गेंद से अभी सिर्फ पांच ओवर हुए हैं.
+
+ब्लंडेल ने कहा- पूरे दिन गेंद काफी मूव कर रही थी. नई गेंद के साथ सुबह भी ऐसा जारी रहने की संभावना है. अगले कुछ दिनों में मौसम अच्छा रहने की उम्मीद है, जिससे पिच थोड़ी सपाट और तेज हो सकती है. शुरुआत में पिच धीमी थी, लेकिन पूरे दिन गेंद में हलचल रही. बल्लेबाज के तौर पर ऐसी पिच पर सहज महसूस करना मुश्किल होता है.
+
+Stumps on Day 1! #TeamIndia with the wicket of Daryl Mitchell in the final session Action resumes tomorrow ⏳ Scorecard ▶️ https://t.co/6iCwvH4Zap #NZvIND https://t.co/6ONWCreg3R
+
+300 रन के पार पहुंचना चाहेगा न्यूजीलैंड ब्लंडेल ने ग्लेन फिलिप्स के साथ अपनी नाबाद साझेदारी को टीम के लिए अहम बताया. उन्होंने कहा कि दूसरे दिन सुबह दोनों बल्लेबाजों की जिम्मेदारी होगी कि इस साझेदारी को आगे बढ़ाकर न्यूजीलैंड का स्कोर 300 रन के पार पहुंचाएं. यह भी पढ़ें: IND vs NZ: बुमराह की गेंदबाजी का अंदाज बदला, रन-अप से लेकर बॉल रिलीज तक दिखा अंतर, VIDEO
+
+उन्होंने भारतीय गेंदबाजों की भी तारीफ की. ब्लंडेल के मुताबिक, गेंद में लगातार मूवमेंट के कारण भारतीय गेंदबाजों का सामना करना चुनौतीपूर्ण था और उन्होंने पूरे दिन अच्छी गेंदबाजी की.
+
+भारत ने टॉस जीतकर चुनी गेंदबाजी इससे पहले भारतीय कप्तान शुभमन गिल ने टॉस जीतकर पहले गेंदबाजी का फैसला किया था. भारत ने प्लेइंग इलेवन में एक बदलाव किया और प्रसिद्ध कृष्णा की जगह गुरनूर बरार को टेस्ट डेब्यू का मौका दिया. न्यूजीलैंड ने अपनी टीम में कोई बदलाव नहीं किया.
+
+न्यूजीलैंड की ओर से कप्तान टॉम लैथम ने 128 गेंदों पर 59 रन बनाए. डेवोन कॉन्वे 31 रन बनाकर आउट हुए. उन्हें डेब्यू कर रहे गुरनूर बरार ने लंच से ठीक पहले पवेलियन भेजा. इसके बाद आकाश दीप ने लैथम को आउट किया. पहले दिन के खेल के दौरान आकाश दीप के खाते में दो विकेट आए. पहले दिन न्यूजीलैंड की टीम ने 246/5 का स्कोर बना लिया है.
+
+### क्या आकाश दीप के बयान से आप सहमत हैं?
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-2nd-test-christchurch-akash-deep-says-india-could-have-done-better-tspok-dskc-2707757-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `न्यूजीलैंड को 110 पर 4 झटके, फिर भी भारत के हाथ से निकला पहला दिन, आकाश दीप ने बताई टीम इंडिया की कमी - AajTak`,
+    summary_hi: `न्यूजीलैंड को 110 पर 4 झटके, फिर भी भारत के हाथ से निकला पहला दिन, आकाश दीप ने बताई टीम इंडिया की कमी AajTak जिस तरह से हमने वापसी की उससे खुश हूं, हमारा लक्ष्य 300 रन का आंकड़ा पार करना है: ब्लंडेल Press Trust of India पहले की टेस्ट की तरह`,
+    content_hi: `### क्राइस्टचर्च टेस्ट के पहले दिन (27 नवंबर) भारत ने न्यूजीलैंड के चार विकेट 110 रन पर झटक लिए थे, लेकिन मेजबान टीम ने वापसी करते हुए दिन का खेल 246/5 पर खत्म किया. आकाश दीप ने दो विकेट लिए. उन्होंने माना कि भारत बेहतर कर सकता था. वहीं टॉम ब्लंडेल और ग्लेन फिलिप्स ने छठे विकेट के लिए नाबाद 62 रन जोड़े.
+
+भारत और न्यूजीलैंड के बीच क्राइस्टचर्च में खेले जा रहे दूसरे टेस्ट के पहले दिन (27 नवंबर) टीम इंडिया ने गेंदबाजी में अच्छी शुरुआत की, लेकिन दिन का खेल खत्म होने तक मेजबान टीम ने वापसी कर ली. न्यूजीलैंड ने पहले दिन पांच विकेट पर 246 रन बना लिए. एक समय उसका स्कोर 110 रन पर चार विकेट था, लेकिन टॉम ब्लंडेल और ग्लेन फिलिप्स ने नाबाद साझेदारी कर भारत की मुश्किलें बढ़ा दीं.
+
+भारत के तेज गेंदबाज आकाश दीप ने दिन के खेल के बाद माना कि टीम इंडिया बेहतर प्रदर्शन कर सकती थी. उन्होंने बताया कि लंच के बाद भारतीय गेंदबाजों ने विकेट लेने की जल्दबाजी छोड़ सही लाइन-लेंथ पर गेंदबाजी करने और धैर्य बनाए रखने का फैसला किया. इसका फायदा भी मिला और दूसरे सत्र में भारत ने तीन विकेट हासिल किए.
+
+आकाश दीप ने कहा- पहले सेशन में गेंद में नमी थी और वह बल्ले पर ज्यादा तेजी से नहीं आ रही थी. शुरुआत में हम गेंद को जरूरत से ज्यादा स्विंग करा रहे थे. लंच के बाद हमने सही जगह गेंदबाजी करने और धैर्य बनाए रखने का फैसला किया. यही हमारी रणनीति थी और इससे हमें तीन विकेट मिले."
+
+उन्होंने आगे कहा- कुल मिलाकर दिन अच्छा रहा, लेकिन हम इससे बेहतर कर सकते थे. हालांकि, कोई बात नहीं.
+
+आकाश दीप ने पहले दिन दो विकेट हासिल किए. उन्होंने बताया कि उनकी कोशिश बल्लेबाजों को लगातार गेंद खेलने के लिए मजबूर करने की थी. उनके मुताबिक, पहले दिन पिच से गेंदबाजों को मदद मिल रही थी और भारतीय टीम इसका पूरा फायदा उठाना चाहती थी.
+
+उन्होंने कहा- हमें पता था कि यह पहला दिन है और गेंदबाजों को मदद मिलेगी. इसलिए इसका फायदा उठाना जरूरी था. मेरा ध्यान इस बात पर था कि बल्लेबाज ज्यादा से ज्यादा गेंद खेलें. मैंने पहले स्पेल में पांच-छह ओवर गेंदबाजी की और कोशिश की कि बल्लेबाज 80-90 प्रतिशत गेंदें खेलें. तेज गेंदबाज के लिए लगातार ऐसा करना आसान नहीं होता, क्योंकि कई बार स्टंप पर गेंद डालने की कोशिश में लाइन थोड़ी भटक जाती है. यह भी पढ़ें: IND vs NZ 2nd Test day 1 Highlights: क्राइस्टचर्च टेस्ट में पहला दिन समाप्त, न्यूजीलैंड का स्कोर 246/5, आकाश दीप की शानदार गेंदबाजी
+
+आकाश दीप ने यह भी कहा कि गेंद पुरानी होने के साथ बल्लेबाजी आसान होती जाती है. ऐसे में गेंदबाजों को विकेट लेने के साथ रनों पर अंकुश लगाने का संतुलन भी बनाना पड़ता है. सेट बल्लेबाज के लिए रन बनाना आसान होता है, जबकि नए बल्लेबाज को क्रीज पर टिकने में परेशानी होती है.
+
+ब्लंडेल ने की लैथम और कॉन्वे की तारीफ दूसरी ओर, न्यूजीलैंड के बल्लेबाज टॉम ब्लंडेल ने कप्तान टॉम लैथम और डेवोन कॉन्वे की शुरुआती बल्लेबाजी की तारीफ की. उन्होंने कहा कि हरी पिच पर पहले बल्लेबाजी करने के बावजूद दोनों ने जिस इरादे के साथ शुरुआत की, उससे ड्रेसिंग रूम में टीम को भरोसा मिला.
+
+ब्लंडेल के मुताबिक, पूरे दिन पिच पर गेंद मूवमेंट कर रही थी और बल्लेबाजों के लिए रन बनाना आसान नहीं था. हालांकि, उन्हें उम्मीद है कि अगले कुछ दिनों में पिच बल्लेबाजी के लिए बेहतर और तेज हो सकती है. उन्होंने यह भी कहा कि दूसरे दिन सुबह नई गेंद (Second New Ball) से भारतीय गेंदबाजों को मदद मिल सकती है. इस गेंद से अभी सिर्फ पांच ओवर हुए हैं.
+
+ब्लंडेल ने कहा- पूरे दिन गेंद काफी मूव कर रही थी. नई गेंद के साथ सुबह भी ऐसा जारी रहने की संभावना है. अगले कुछ दिनों में मौसम अच्छा रहने की उम्मीद है, जिससे पिच थोड़ी सपाट और तेज हो सकती है. शुरुआत में पिच धीमी थी, लेकिन पूरे दिन गेंद में हलचल रही. बल्लेबाज के तौर पर ऐसी पिच पर सहज महसूस करना मुश्किल होता है.
+
+Stumps on Day 1! #TeamIndia with the wicket of Daryl Mitchell in the final session Action resumes tomorrow ⏳ Scorecard ▶️ https://t.co/6iCwvH4Zap #NZvIND https://t.co/6ONWCreg3R
+
+300 रन के पार पहुंचना चाहेगा न्यूजीलैंड ब्लंडेल ने ग्लेन फिलिप्स के साथ अपनी नाबाद साझेदारी को टीम के लिए अहम बताया. उन्होंने कहा कि दूसरे दिन सुबह दोनों बल्लेबाजों की जिम्मेदारी होगी कि इस साझेदारी को आगे बढ़ाकर न्यूजीलैंड का स्कोर 300 रन के पार पहुंचाएं. यह भी पढ़ें: IND vs NZ: बुमराह की गेंदबाजी का अंदाज बदला, रन-अप से लेकर बॉल रिलीज तक दिखा अंतर, VIDEO
+
+उन्होंने भारतीय गेंदबाजों की भी तारीफ की. ब्लंडेल के मुताबिक, गेंद में लगातार मूवमेंट के कारण भारतीय गेंदबाजों का सामना करना चुनौतीपूर्ण था और उन्होंने पूरे दिन अच्छी गेंदबाजी की.
+
+भारत ने टॉस जीतकर चुनी गेंदबाजी इससे पहले भारतीय कप्तान शुभमन गिल ने टॉस जीतकर पहले गेंदबाजी का फैसला किया था. भारत ने प्लेइंग इलेवन में एक बदलाव किया और प्रसिद्ध कृष्णा की जगह गुरनूर बरार को टेस्ट डेब्यू का मौका दिया. न्यूजीलैंड ने अपनी टीम में कोई बदलाव नहीं किया.
+
+न्यूजीलैंड की ओर से कप्तान टॉम लैथम ने 128 गेंदों पर 59 रन बनाए. डेवोन कॉन्वे 31 रन बनाकर आउट हुए. उन्हें डेब्यू कर रहे गुरनूर बरार ने लंच से ठीक पहले पवेलियन भेजा. इसके बाद आकाश दीप ने लैथम को आउट किया. पहले दिन के खेल के दौरान आकाश दीप के खाते में दो विकेट आए. पहले दिन न्यूजीलैंड की टीम ने 246/5 का स्कोर बना लिया है.
+
+### क्या आकाश दीप के बयान से आप सहमत हैं?
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-2nd-test-christchurch-akash-deep-says-india-could-have-done-better-tspok-dskc-2707757-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक न्यूजीलैंड को 110 पर 4 झटके, फिर भी भारत के हाथ से निकला पहला दिन, आकाश दीप ने बताई टीम इंडिया की कमी - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98142,
+    title: `वैभव सूर्यवंशी टेस्ट में ठोकेंगे 500 रन! केविन पीटरसन की भविष्यवाणी, 5 साल का दिया टारगेट - AajTak`,
+    slug: `500-5-aajtak-2026`,
+    original_title: `वैभव सूर्यवंशी टेस्ट में ठोकेंगे 500 रन! केविन पीटरसन की भविष्यवाणी, 5 साल का दिया टारगेट - AajTak`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:35Z`,
+    updated_at: `2026-11-28T00:10:35Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/sports/cricket/story/vaibhav-sooryavanshi-500-test-runs-kevin-pietersen-ki-bhavishyavani-prediction-on-baby-boss-tspok-dskc-2706977-2026-11-26`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b082830cc51f-vaibhav-sooryavanshi-263807577-16x9.uuv2jorccnpna5td0e2xmq1k-nyk4nbupcjut2p7flg`,
+    image_alt: `वैभव सूर्यवंशी टेस्ट में ठोकेंगे 500 रन! केविन पीटरसन की भविष्यवाणी, 5 साल का दिया टारगेट - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `वैभव सूर्यवंशी टेस्ट में ठोकेंगे 500 रन! केविन पीटरसन की भविष्यवाणी, 5 साल का दिया टारगेट AajTak 'उसे खेलते देख बच्चा बन जाता हूं', वैभव सूर्यवंशी के मुरीद हुए सुनील गावस्कर, पर पर‍िवार से क्यों की ये अपील? AajTak वैभव सूर्यवंशी 500 बनाएगा.`,
+    content: `### वैभव सूर्यवंशी की बल्लेबाजी ने पूर्व इंग्लिश कप्तान केविन पीटरसन को भी प्रभावित किया है. पीटरसन ने भविष्यवाणी की है कि 15 साल के वैभव अगले पांच साल में टेस्ट मैच की एक पारी में 500 रन बना सकते हैं. UAE A के खिलाफ 53 गेंदों में 204 रन की ऐतिहासिक पारी के बाद उन्होंने यह बात कही.
+
+भारतीय क्रिकेट के युवा सनसनी वैभव सूर्यवंशी का बल्ला इन दिनों खूब धमाल मचा रहा है. 15 साल के इस बल्लेबाज की रिकॉर्डतोड़ पारियों ने अब इंग्लैंड के पूर्व कप्तान केविन पीटरसन को भी अपना मुरीद बना लिया है. पीटरसन ने वैभव को लेकर ऐसी भविष्यवाणी की है, जिसने क्रिकेट जगत का ध्यान खींचा है. उनका मानना है कि वैभव अगले पांच साल के भीतर टेस्ट क्रिकेट के एक मैच में 500 रन बना सकते हैं.
+
+पीटरसन ने गुरुवार को सोशल मीडिया प्लेटफॉर्म X पर लिखा- एक भविष्यवाणी है- वैभव अगले 5 साल में टेस्ट मैच में 500 रन बनाएंगे, उनका यह पोस्ट ACC मेन्स एशिया कप राइजिंग स्टार्स 2026 में UAE A के खिलाफ वैभव की ऐतिहासिक पारी के बाद आई है.
+
+Here’s a shout — Vaibhav will score a 500 in a Test Match within the next 5yrs!
+
+52 गेंदों में डबल सेंचुरी से रचा इतिहास वैभव ने मंगलवार को UAE A के खिलाफ महज 53 गेंदों में 204 रन ठोक दिए थे. उनकी इस पारी में 28 छक्के और 7 चौके शामिल थे. उन्होंने सिर्फ 28 गेंदों में शतक, 40 गेंदों में 150 रन और 52 गेंदों में दोहरा शतक पूरा किया. इसके साथ ही वह पुरुष लिस्ट-ए क्रिकेट में सबसे तेज शतक और दोहरा शतक लगाने वाले बल्लेबाज बन गए.
+
+वैभव की इस विस्फोटक पारी की बदौलत इंडिया A ने 250 रन का लक्ष्य महज 14.2 ओवर में हासिल कर लिया. टीम ने 3 विकेट पर 254 रन बनाकर सात विकेट से जीत दर्ज की. यह भी पढ़ें: INDA vs SLA: शॉर्ट बॉल के ट्रैप में फंसे वैभव सूर्यवंशी, छक्का मारने के चक्कर में हुए OUT, जनिथ लियानगे ने किया श‍िकार, VIDEO
+
+मैच के बाद वैभव ने बताया था कि शुरुआत में उनका इरादा पिच और परिस्थितियों को समझने का था. उन्होंने कहा कि पिछले दो मैचों में अच्छी शुरुआत के बावजूद वह उसे बड़ी पारी में नहीं बदल पाए थे. इसलिए इस बार उन्होंने शुरुआत में समय लेने का फैसला किया. हालांकि, एक-दो गेंद खेलने के बाद उन्हें लगा कि पिच से गेंदबाजों को ज्यादा मदद नहीं मिल रही है. इसके बाद उन्होंने अपनी ताकत के मुताबिक बल्लेबाजी की.
+
+श्रीलंका A के खिलाफ 40 रन बनाकर आउट हुए वैभव गुरुवार को श्रीलंका A के खिलाफ सेमीफाइनल में वैभव अपने दोहरे शतक जैसा प्रदर्शन नहीं दोहरा सके. उन्होंने 27 गेंदों में 40 रन बनाए, जिसमें 4 चौके और 3 छक्के शामिल रहे. उन्होंने अभिषेक शर्मा के साथ पहले विकेट के लिए 80 रन की साझेदारी की.
+
+आठवें ओवर में जनिथ लियानागे ने उनकी पारी का अंत किया. वैभव ने शॉर्ट गेंद पर पुल शॉट खेलने की कोशिश की, लेकिन मिड-ऑन के पास लसित क्रूसपुल्ले ने उनका कैच लपक लिया.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/vaibhav-sooryavanshi-500-test-runs-kevin-pietersen-ki-bhavishyavani-prediction-on-baby-boss-tspok-dskc-2706977-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `वैभव सूर्यवंशी टेस्ट में ठोकेंगे 500 रन! केविन पीटरसन की भविष्यवाणी, 5 साल का दिया टारगेट - AajTak`,
+    summary_hi: `वैभव सूर्यवंशी टेस्ट में ठोकेंगे 500 रन! केविन पीटरसन की भविष्यवाणी, 5 साल का दिया टारगेट AajTak 'उसे खेलते देख बच्चा बन जाता हूं', वैभव सूर्यवंशी के मुरीद हुए सुनील गावस्कर, पर पर‍िवार से क्यों की ये अपील? AajTak वैभव सूर्यवंशी 500 बनाएगा.`,
+    content_hi: `### वैभव सूर्यवंशी की बल्लेबाजी ने पूर्व इंग्लिश कप्तान केविन पीटरसन को भी प्रभावित किया है. पीटरसन ने भविष्यवाणी की है कि 15 साल के वैभव अगले पांच साल में टेस्ट मैच की एक पारी में 500 रन बना सकते हैं. UAE A के खिलाफ 53 गेंदों में 204 रन की ऐतिहासिक पारी के बाद उन्होंने यह बात कही.
+
+भारतीय क्रिकेट के युवा सनसनी वैभव सूर्यवंशी का बल्ला इन दिनों खूब धमाल मचा रहा है. 15 साल के इस बल्लेबाज की रिकॉर्डतोड़ पारियों ने अब इंग्लैंड के पूर्व कप्तान केविन पीटरसन को भी अपना मुरीद बना लिया है. पीटरसन ने वैभव को लेकर ऐसी भविष्यवाणी की है, जिसने क्रिकेट जगत का ध्यान खींचा है. उनका मानना है कि वैभव अगले पांच साल के भीतर टेस्ट क्रिकेट के एक मैच में 500 रन बना सकते हैं.
+
+पीटरसन ने गुरुवार को सोशल मीडिया प्लेटफॉर्म X पर लिखा- एक भविष्यवाणी है- वैभव अगले 5 साल में टेस्ट मैच में 500 रन बनाएंगे, उनका यह पोस्ट ACC मेन्स एशिया कप राइजिंग स्टार्स 2026 में UAE A के खिलाफ वैभव की ऐतिहासिक पारी के बाद आई है.
+
+Here’s a shout — Vaibhav will score a 500 in a Test Match within the next 5yrs!
+
+52 गेंदों में डबल सेंचुरी से रचा इतिहास वैभव ने मंगलवार को UAE A के खिलाफ महज 53 गेंदों में 204 रन ठोक दिए थे. उनकी इस पारी में 28 छक्के और 7 चौके शामिल थे. उन्होंने सिर्फ 28 गेंदों में शतक, 40 गेंदों में 150 रन और 52 गेंदों में दोहरा शतक पूरा किया. इसके साथ ही वह पुरुष लिस्ट-ए क्रिकेट में सबसे तेज शतक और दोहरा शतक लगाने वाले बल्लेबाज बन गए.
+
+वैभव की इस विस्फोटक पारी की बदौलत इंडिया A ने 250 रन का लक्ष्य महज 14.2 ओवर में हासिल कर लिया. टीम ने 3 विकेट पर 254 रन बनाकर सात विकेट से जीत दर्ज की. यह भी पढ़ें: INDA vs SLA: शॉर्ट बॉल के ट्रैप में फंसे वैभव सूर्यवंशी, छक्का मारने के चक्कर में हुए OUT, जनिथ लियानगे ने किया श‍िकार, VIDEO
+
+मैच के बाद वैभव ने बताया था कि शुरुआत में उनका इरादा पिच और परिस्थितियों को समझने का था. उन्होंने कहा कि पिछले दो मैचों में अच्छी शुरुआत के बावजूद वह उसे बड़ी पारी में नहीं बदल पाए थे. इसलिए इस बार उन्होंने शुरुआत में समय लेने का फैसला किया. हालांकि, एक-दो गेंद खेलने के बाद उन्हें लगा कि पिच से गेंदबाजों को ज्यादा मदद नहीं मिल रही है. इसके बाद उन्होंने अपनी ताकत के मुताबिक बल्लेबाजी की.
+
+श्रीलंका A के खिलाफ 40 रन बनाकर आउट हुए वैभव गुरुवार को श्रीलंका A के खिलाफ सेमीफाइनल में वैभव अपने दोहरे शतक जैसा प्रदर्शन नहीं दोहरा सके. उन्होंने 27 गेंदों में 40 रन बनाए, जिसमें 4 चौके और 3 छक्के शामिल रहे. उन्होंने अभिषेक शर्मा के साथ पहले विकेट के लिए 80 रन की साझेदारी की.
+
+आठवें ओवर में जनिथ लियानागे ने उनकी पारी का अंत किया. वैभव ने शॉर्ट गेंद पर पुल शॉट खेलने की कोशिश की, लेकिन मिड-ऑन के पास लसित क्रूसपुल्ले ने उनका कैच लपक लिया.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/vaibhav-sooryavanshi-500-test-runs-kevin-pietersen-ki-bhavishyavani-prediction-on-baby-boss-tspok-dskc-2706977-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक वैभव सूर्यवंशी टेस्ट में ठोकेंगे 500 रन! केविन पीटरसन की भविष्यवाणी, 5 साल का दिया टारगेट - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98143,
+    title: `King song Daddy Cool: Shah Rukh Khan and Kareena Kapoor reunite for a peppy dance track, share sizzling chemistry | Bollywood - Hindustan Times`,
+    slug: `king-song-daddy-cool-shah-rukh-khan-and-kareena-kapoor-reunite-for-a-p-2026`,
+    original_title: `King song Daddy Cool: Shah Rukh Khan and Kareena Kapoor reunite for a peppy dance track, share sizzling chemistry | Bollywood - Hindustan Times`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:37Z`,
+    updated_at: `2026-11-28T00:10:37Z`,
+    source_name: `Hindustan Times`,
+    source_url: `https://www.hindustantimes.com/entertainment/bollywood/king-song-daddy-cool-shah-rukh-khan-and-kareena-kapoor-reunite-for-a-peppy-dance-track-share-sizzling-chemistry-101795790849963.html`,
+    source_courtesy: `Source: Hindustan Times`,
+    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `King song Daddy Cool: Shah Rukh Khan and Kareena Kapoor reunite for a peppy dance track, share sizzling chemistry | Bollywood - Hindustan Times`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Kareena Kapoor had first teased about a special number for King after the makers released the film's first song, Tu Mil Jaaye, featuring Shah Rukh Khan and Deepika Padukone on November 2. Now, the song is out and it is yet another reason fo`,
+    content: `Kareena Kapoor had first teased about a special number for King after the makers released the film's first song, Tu Mil Jaaye, featuring Shah Rukh Khan and Deepika Padukone on November 2. Now, the song is out and it is yet another reason for fans to look forward to King. The makers unveiled the special track from King featuring Shah Rukh and Kareena, who were last seen together in Ra.One (2011).Daddy Cool with Shah Rukh and KareenaRemember Chammak Challo?
+
+Kareena's moves and her chemistry with Shah Rukh in that song made it a chartbuster upon release. The new song from King also features sizzling chemistry between Shah Rukh and Kareena, as they match each other steps on the dance floor for the peppy track. Daddy Cool is composed by Sachin-Jigar, while Arijit Singh and Shilpa Rao have lent the vocals.
+
+Vaibhavi Merchant has choreographed the song.“Back with Bebo… song old school, but still cool,” wrote Shah Rukh in the caption of his Instagram post as he shared the song.Check it out here: December 24 will mark Shah Rukh Khan's return to theatres with King, his first big-screen release since Dunki in 2023.
+
+The actor had a memorable year in 2023, with three releases: Pathaan, Jawan and Dunki. This time, he is returning with a large ensemble cast that includes Suhana Khan, Abhishek Bachchan, Jackie Shroff, Arshad Warsi and Raghav Juyal among others. Rani Mukerji, Deepika Padukone and Kareena Kapoor Khan will also make special appearances in the film.About KingKing, directed by Siddharth Anand, is backed by Gauri Khan's Red Chillies Entertainment and by Siddharth and Mamta Anand's Marflix Pictures.
+
+The film is reportedly inspired by the 1994 French film Léon: The Professional, starring Jean Reno. It is said to follow the relationship between an ageing, feared assassin, played by Shah Rukh, and his young protégé, portrayed by his daughter Suhana.
+
+---
+
+**Original Source:** [Hindustan Times](https://www.hindustantimes.com/entertainment/bollywood/king-song-daddy-cool-shah-rukh-khan-and-kareena-kapoor-reunite-for-a-peppy-dance-track-share-sizzling-chemistry-101795790849963.html)`,
+    title_en: `King song Daddy Cool: Shah Rukh Khan and Kareena Kapoor reunite for a peppy dance track, share sizzling chemistry | Bollywood - Hindustan Times`,
+    summary_en: `Kareena Kapoor had first teased about a special number for King after the makers released the film's first song, Tu Mil Jaaye, featuring Shah Rukh Khan and Deepika Padukone on November 2. Now, the song is out and it is yet another reason fo`,
+    content_en: `Kareena Kapoor had first teased about a special number for King after the makers released the film's first song, Tu Mil Jaaye, featuring Shah Rukh Khan and Deepika Padukone on November 2. Now, the song is out and it is yet another reason for fans to look forward to King. The makers unveiled the special track from King featuring Shah Rukh and Kareena, who were last seen together in Ra.One (2011).Daddy Cool with Shah Rukh and KareenaRemember Chammak Challo?
+
+Kareena's moves and her chemistry with Shah Rukh in that song made it a chartbuster upon release. The new song from King also features sizzling chemistry between Shah Rukh and Kareena, as they match each other steps on the dance floor for the peppy track. Daddy Cool is composed by Sachin-Jigar, while Arijit Singh and Shilpa Rao have lent the vocals.
+
+Vaibhavi Merchant has choreographed the song.“Back with Bebo… song old school, but still cool,” wrote Shah Rukh in the caption of his Instagram post as he shared the song.Check it out here: December 24 will mark Shah Rukh Khan's return to theatres with King, his first big-screen release since Dunki in 2023.
+
+The actor had a memorable year in 2023, with three releases: Pathaan, Jawan and Dunki. This time, he is returning with a large ensemble cast that includes Suhana Khan, Abhishek Bachchan, Jackie Shroff, Arshad Warsi and Raghav Juyal among others. Rani Mukerji, Deepika Padukone and Kareena Kapoor Khan will also make special appearances in the film.About KingKing, directed by Siddharth Anand, is backed by Gauri Khan's Red Chillies Entertainment and by Siddharth and Mamta Anand's Marflix Pictures.
+
+The film is reportedly inspired by the 1994 French film Léon: The Professional, starring Jean Reno. It is said to follow the relationship between an ageing, feared assassin, played by Shah Rukh, and his young protégé, portrayed by his daughter Suhana.
+
+---
+
+**Original Source:** [Hindustan Times](https://www.hindustantimes.com/entertainment/bollywood/king-song-daddy-cool-shah-rukh-khan-and-kareena-kapoor-reunite-for-a-peppy-dance-track-share-sizzling-chemistry-101795790849963.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Hindustan Times.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for King song Daddy Cool: Shah Rukh Khan and Kareena Kapoor reunite for a peppy dance track, share sizzling chemistry | Bollywood - Hindustan Times.`,
+    primary_source: `Hindustan Times`,
+  },
+  {
+    id: 98144,
+    title: `Plea Against Ramayana Movie : Supreme Court Refuses Urgent Listing, Says 'If You've Different View On... - Live Law`,
+    slug: `plea-against-ramayana-movie-supreme-court-refuses-urgent-listing-says-2026`,
+    original_title: `Plea Against Ramayana Movie : Supreme Court Refuses Urgent Listing, Says 'If You've Different View On... - Live Law`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:39Z`,
+    updated_at: `2026-11-28T00:10:39Z`,
+    source_name: `Live Law`,
+    source_url: `https://www.livelaw.in/top-stories/supreme-court-declines-urgent-listing-of-plea-against-ramayana-movie-dont-waste-court-time-make-your-own-movie-560296`,
+    source_courtesy: `Source: Live Law`,
+    image_url: `/images/articles/plea-against-ramayana-movie-supreme-court-refuses-urgent-listing-says-2026.jpg`,
+    image_alt: `Plea Against Ramayana Movie : Supreme Court Refuses Urgent Listing, Says 'If You've Different View On... - Live Law`,
+    image_courtesy: `Image: Live Law (External Source Attribution)`,
+    image_photographer: `Live Law`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `The Supreme Court on Friday declined an urgent listing of a plea challenging the recently released Ramayana movie starring Ranbir Kapoor, Sai Pallavi and Yash. The Court told the petitioner that those who disagree with the film's portrayal `,
+    content: `The Supreme Court on Friday declined an urgent listing of a plea challenging the recently released Ramayana movie starring Ranbir Kapoor, Sai Pallavi and Yash. The Court told the petitioner that those who disagree with the film's portrayal of the epic can make their own movie presenting a counter-view.The matter was mentioned before a bench headed by Chief Justice of India Surya Kant.
+
+The counsel appearing for the petitioner submitted that the plea had been registered on November 23 but had not been listed for hearing yet. Responding to the submission, CJI observed that the movie had already been released and that those who wanted to watch it had already seen it.The counsel contended that several facts had been distorted in the movie.Justice Joymalya Bagchi, however, questioned the need to approach the Court over the film's interpretation of the epic."They made a movie as they understand, you make a movie as you understand.
+
+Don't waste time of the court. If you have a counter view about the epic, you make a movie based on that," Justice Bagchi remarked. .desktop-ad   { display: block; }  .mobile-ad  { display: none;  }      @media (max-width: 767px) {      .desktop-ad { display: none;  }      .mobile-ad  { display: block; }  }          .ad_unit_wrapper {      text-align: center;      margin-top: 10px;  }    .insidecontent-ad-img {      width: 728px;      height: 220px;      max-width: 100%;      object-fit: cover;      display: block;      margin: 0 auto;  }    @media only screen and (max-width: 768px) {      .insidecontent-ad-img {          width: 100%;          height: auto;      }  }  The petition filed by Manoj Singh Thakur challenges the certification granted by the Central Board of Film Certification for the movie.
+
+It has named the film's producers Prime Focus Studios, Monster Mind Creations, Namit Malhotra, Yash, director Nitesh Tiwari, screenplay writer Sridhar Raghavan and dialogue writer Shreyas Jain as respondents. Case: MANOJ SINGH THAKUR v. UNION OF INDIA Diary No. 72618/2026
+
+---
+
+**Original Source:** [Live Law](https://www.livelaw.in/top-stories/supreme-court-declines-urgent-listing-of-plea-against-ramayana-movie-dont-waste-court-time-make-your-own-movie-560296)`,
+    title_en: `Plea Against Ramayana Movie : Supreme Court Refuses Urgent Listing, Says 'If You've Different View On... - Live Law`,
+    summary_en: `The Supreme Court on Friday declined an urgent listing of a plea challenging the recently released Ramayana movie starring Ranbir Kapoor, Sai Pallavi and Yash. The Court told the petitioner that those who disagree with the film's portrayal `,
+    content_en: `The Supreme Court on Friday declined an urgent listing of a plea challenging the recently released Ramayana movie starring Ranbir Kapoor, Sai Pallavi and Yash. The Court told the petitioner that those who disagree with the film's portrayal of the epic can make their own movie presenting a counter-view.The matter was mentioned before a bench headed by Chief Justice of India Surya Kant.
+
+The counsel appearing for the petitioner submitted that the plea had been registered on November 23 but had not been listed for hearing yet. Responding to the submission, CJI observed that the movie had already been released and that those who wanted to watch it had already seen it.The counsel contended that several facts had been distorted in the movie.Justice Joymalya Bagchi, however, questioned the need to approach the Court over the film's interpretation of the epic."They made a movie as they understand, you make a movie as you understand.
+
+Don't waste time of the court. If you have a counter view about the epic, you make a movie based on that," Justice Bagchi remarked. .desktop-ad   { display: block; }  .mobile-ad  { display: none;  }      @media (max-width: 767px) {      .desktop-ad { display: none;  }      .mobile-ad  { display: block; }  }          .ad_unit_wrapper {      text-align: center;      margin-top: 10px;  }    .insidecontent-ad-img {      width: 728px;      height: 220px;      max-width: 100%;      object-fit: cover;      display: block;      margin: 0 auto;  }    @media only screen and (max-width: 768px) {      .insidecontent-ad-img {          width: 100%;          height: auto;      }  }  The petition filed by Manoj Singh Thakur challenges the certification granted by the Central Board of Film Certification for the movie.
+
+It has named the film's producers Prime Focus Studios, Monster Mind Creations, Namit Malhotra, Yash, director Nitesh Tiwari, screenplay writer Sridhar Raghavan and dialogue writer Shreyas Jain as respondents. Case: MANOJ SINGH THAKUR v. UNION OF INDIA Diary No. 72618/2026
+
+---
+
+**Original Source:** [Live Law](https://www.livelaw.in/top-stories/supreme-court-declines-urgent-listing-of-plea-against-ramayana-movie-dont-waste-court-time-make-your-own-movie-560296)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Live Law.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Plea Against Ramayana Movie : Supreme Court Refuses Urgent Listing, Says 'If You've Different View On... - Live Law.`,
+    primary_source: `Live Law`,
+  },
+  {
+    id: 98145,
+    title: `Daddy Cool Song: फिल्म किंग का दूसरा गाना 'डैडी कूल' रिलीज, शाहरुख-करीना की जोड़ी ने लगाई आग - AajTak`,
+    slug: `daddy-cool-song-aajtak-2026`,
+    original_title: `Daddy Cool Song: फिल्म किंग का दूसरा गाना 'डैडी कूल' रिलीज, शाहरुख-करीना की जोड़ी ने लगाई आग - AajTak`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:43Z`,
+    updated_at: `2026-11-28T00:10:43Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/entertainment/bollywood-news/story/king-new-song-daddy-cool-out-shah-rukh-khan-sizzling-chemistry-with-kareena-kapoor-khan-tmovg-dskc-2708106-2026-11-27`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0998172b3e2-shahrukh-khan-kareena-kapoor-daddy-cool-274749861.jpg`,
+    image_alt: `Daddy Cool Song: फिल्म किंग का दूसरा गाना 'डैडी कूल' रिलीज, शाहरुख-करीना की जोड़ी ने लगाई आग - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Daddy Cool Song: फिल्म किंग का दूसरा गाना 'डैडी कूल' रिलीज, शाहरुख-करीना की जोड़ी ने लगाई आग AajTak King के नए गाने 'डैडी कूल' में शाह रुख-करीना कपूर का धमाका, 50 साल पुराने कल्ट क्लासिक सॉन्ग से है प्रेरित Jagran पठान vs किंग: कास्ट से डाय`,
+    content: `### शाहरुख खान की आने वाली फिल्म 'किंग' इस साल की सबसे मचअवेडेड फिल्मों में से एक है. अब, फिल्म मेकर्स ने 27 नवंबर को 'डैडी कूल' (Daddy Cool) नाम का एक नया गाना रिलीज़ किया है.
+
+शाहरुख खान की मचअवेटेड फिल्म 'किंग' का नया और दूसरा गाना डैडी कूल (Daddy Cool) रिलीज हो गया है.  यह गाना आज एक खास इंस्टाग्राम इवेंट के जरिए रिलीज किया गया. जिसमें शाहरुख खान और करीना कपूर खान को जबरदस्त केमिस्ट्री दिखाई दी. यह ऑफिशियल तौर पर फिल्म के लिए अपनी तरह का पहला प्रमोशनल इवेंट था.
+
+मुंबई में हुए इस गाने के लॉन्च इवेंट में शाहरुख खान और करीना कपूर एक साथ नजर आए, जिससे उनकी मशहूर ऑन-स्क्रीन जोड़ी की यादें ताज़ा हो गईं. इस गाने को सचिन-जिगर ने कंपोज किया है और इसके बोल कुमार ने लिखे हैं. गाने को अरिजीत सिंह और शिल्पा राव ने अपनी आवाज़ दी है, जबकि इस डांस नंबर की कोरियोग्राफी वैभवी मर्चेंट ने की है.
+
+शाहरुख खान ने किया पोस्ट शाहरुख खान ने अपने सोशल मीडिया हैंडल x पर गाना शेयर करते हुए लिखा, 'Back with Bebo...song Old School...but still Cool! Daddy Cool.'
+
+Back with Bebo... song Old School... but still Cool! Daddy Cool (King Version) song out now. #King in cinemas 24.12.26 https://t.co/SKpP32W3DG
+
+नया ट्रैक 'डैडी कूल', किंग के म्यूजिक एल्बम में शामिल होने वाला नया गाना है. हालांकि, फिल्म के पहले गाने 'तू मिल जाए' को 2 नवंबर को शाहरुख खान के 61वें जन्मदिन के दिन रिलीज किया था.  शाहरुख खान और करीना कपूर खान फिल्म किंग के साथ करीब 15 साल बाद नए गाने में साथ नजर आए हैं. इससे पहले यह जोड़ी साल 2011 में आई फिल्म 'रा.वन' के सुपरहिट गाने 'छम्मक छल्लो' में साथ दिखी थी.
+
+24 दिसंबर को रिलीज होगी फिल्म शाहरुख खान की मचअवेटेड फिल्म 'किंग' 24 दिसंबर 2026 को सिनेमाघरों में रिलीज होगी. सुपरस्टार ने खुद पुष्टि की है कि फिल्म की रिलीज डेट आगे नहीं बढ़ाई जाएगी, जिससे फिल्म में देरी होने की अटकलों पर विराम लग गया है.
+
+सिद्धार्थ आनंद द्वारा निर्देशित इस एक्शन थ्रिलर फिल्म में सुहाना खान, दीपिका पादुकोण, अभिषेक बच्चन, रानी मुखर्जी, अनिल कपूर, जैकी श्रॉफ, जयदीप अहलावत, अरशद वारसी और राघव जुयाल जैसे कलाकार भी नजर आएंगे.
+
+यह फिल्म शाहरुख की अपनी बेटी सुहाना के साथ पहली ऑन-स्क्रीन साझेदारी है, और 'पठान' के बाद सिद्धार्थ आनंद के साथ उनका यह दूसरा प्रोजेक्ट है. रेड चिलीज एंटरटेनमेंट और मार्फ्लिक्स पिक्चर्स द्वारा निर्मित, 'किंग' के इस साल की बड़ी बॉलीवुड रिलीज में से एक होने की उम्मीद है.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/king-new-song-daddy-cool-out-shah-rukh-khan-sizzling-chemistry-with-kareena-kapoor-khan-tmovg-dskc-2708106-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Daddy Cool Song: फिल्म किंग का दूसरा गाना 'डैडी कूल' रिलीज, शाहरुख-करीना की जोड़ी ने लगाई आग - AajTak`,
+    summary_hi: `Daddy Cool Song: फिल्म किंग का दूसरा गाना 'डैडी कूल' रिलीज, शाहरुख-करीना की जोड़ी ने लगाई आग AajTak King के नए गाने 'डैडी कूल' में शाह रुख-करीना कपूर का धमाका, 50 साल पुराने कल्ट क्लासिक सॉन्ग से है प्रेरित Jagran पठान vs किंग: कास्ट से डाय`,
+    content_hi: `### शाहरुख खान की आने वाली फिल्म 'किंग' इस साल की सबसे मचअवेडेड फिल्मों में से एक है. अब, फिल्म मेकर्स ने 27 नवंबर को 'डैडी कूल' (Daddy Cool) नाम का एक नया गाना रिलीज़ किया है.
+
+शाहरुख खान की मचअवेटेड फिल्म 'किंग' का नया और दूसरा गाना डैडी कूल (Daddy Cool) रिलीज हो गया है.  यह गाना आज एक खास इंस्टाग्राम इवेंट के जरिए रिलीज किया गया. जिसमें शाहरुख खान और करीना कपूर खान को जबरदस्त केमिस्ट्री दिखाई दी. यह ऑफिशियल तौर पर फिल्म के लिए अपनी तरह का पहला प्रमोशनल इवेंट था.
+
+मुंबई में हुए इस गाने के लॉन्च इवेंट में शाहरुख खान और करीना कपूर एक साथ नजर आए, जिससे उनकी मशहूर ऑन-स्क्रीन जोड़ी की यादें ताज़ा हो गईं. इस गाने को सचिन-जिगर ने कंपोज किया है और इसके बोल कुमार ने लिखे हैं. गाने को अरिजीत सिंह और शिल्पा राव ने अपनी आवाज़ दी है, जबकि इस डांस नंबर की कोरियोग्राफी वैभवी मर्चेंट ने की है.
+
+शाहरुख खान ने किया पोस्ट शाहरुख खान ने अपने सोशल मीडिया हैंडल x पर गाना शेयर करते हुए लिखा, 'Back with Bebo...song Old School...but still Cool! Daddy Cool.'
+
+Back with Bebo... song Old School... but still Cool! Daddy Cool (King Version) song out now. #King in cinemas 24.12.26 https://t.co/SKpP32W3DG
+
+नया ट्रैक 'डैडी कूल', किंग के म्यूजिक एल्बम में शामिल होने वाला नया गाना है. हालांकि, फिल्म के पहले गाने 'तू मिल जाए' को 2 नवंबर को शाहरुख खान के 61वें जन्मदिन के दिन रिलीज किया था.  शाहरुख खान और करीना कपूर खान फिल्म किंग के साथ करीब 15 साल बाद नए गाने में साथ नजर आए हैं. इससे पहले यह जोड़ी साल 2011 में आई फिल्म 'रा.वन' के सुपरहिट गाने 'छम्मक छल्लो' में साथ दिखी थी.
+
+24 दिसंबर को रिलीज होगी फिल्म शाहरुख खान की मचअवेटेड फिल्म 'किंग' 24 दिसंबर 2026 को सिनेमाघरों में रिलीज होगी. सुपरस्टार ने खुद पुष्टि की है कि फिल्म की रिलीज डेट आगे नहीं बढ़ाई जाएगी, जिससे फिल्म में देरी होने की अटकलों पर विराम लग गया है.
+
+सिद्धार्थ आनंद द्वारा निर्देशित इस एक्शन थ्रिलर फिल्म में सुहाना खान, दीपिका पादुकोण, अभिषेक बच्चन, रानी मुखर्जी, अनिल कपूर, जैकी श्रॉफ, जयदीप अहलावत, अरशद वारसी और राघव जुयाल जैसे कलाकार भी नजर आएंगे.
+
+यह फिल्म शाहरुख की अपनी बेटी सुहाना के साथ पहली ऑन-स्क्रीन साझेदारी है, और 'पठान' के बाद सिद्धार्थ आनंद के साथ उनका यह दूसरा प्रोजेक्ट है. रेड चिलीज एंटरटेनमेंट और मार्फ्लिक्स पिक्चर्स द्वारा निर्मित, 'किंग' के इस साल की बड़ी बॉलीवुड रिलीज में से एक होने की उम्मीद है.
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/bollywood-news/story/king-new-song-daddy-cool-out-shah-rukh-khan-sizzling-chemistry-with-kareena-kapoor-khan-tmovg-dskc-2708106-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Daddy Cool Song: फिल्म किंग का दूसरा गाना 'डैडी कूल' रिलीज, शाहरुख-करीना की जोड़ी ने लगाई आग - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98146,
+    title: `सरकार बोली- नेटफ्लिक्स भारत में पाकिस्तानी कंटेंट न दिखाए: पहलगाम हमले के बाद बैन किया था; वेबसीरीज लॉन्च ह... - Dainik Bhaskar`,
+    slug: `entertainment-breaking-report-36751-98146-2026`,
+    original_title: `सरकार बोली- नेटफ्लिक्स भारत में पाकिस्तानी कंटेंट न दिखाए: पहलगाम हमले के बाद बैन किया था; वेबसीरीज लॉन्च ह... - Dainik Bhaskar`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:44Z`,
+    updated_at: `2026-11-28T00:10:44Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/g/entertainment/bollywood/news/india-ministry-bans-pakistani-web-series-netflix-streaming-controversy-139803430.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/entertainment-breaking-report-36751-98146-2026.jpg`,
+    image_alt: `सरकार बोली- नेटफ्लिक्स भारत में पाकिस्तानी कंटेंट न दिखाए: पहलगाम हमले के बाद बैन किया था; वेबसीरीज लॉन्च ह... - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `केंद्र सरकार ने नेटफ्लिक्स से कहा है कि वह पाकिस्तान में बने किसी भी कंटेंट को भारत में स्ट्रीम न करे। न्यूज एजेंसी PTI ने गुरुवार को सूत्रों के मुताबिक यह जानकारी दी है।`,
+    content: `केंद्र सरकार ने नेटफ्लिक्स से कहा है कि वह पाकिस्तान में बने किसी भी कंटेंट को भारत में स्ट्रीम न करे। न्यूज एजेंसी PTI ने गुरुवार को सूत्रों के मुताबिक यह जानकारी दी है।
+
+सूचना एवं प्रसारण मंत्रालय को नेटफ्लिक्स की पहली पाकिस्तानी वेबसीरीज ‘जो बचे हैं संग समेट लो’ के भारत में रिलीज होने की आशंका को लेकर कई शिकायतें मिली थीं। इसके बाद मंत्रालय ने कंपनी से 8 मई 2025 की एडवाइजरी का पालन करने को कहा है।
+
+पिछले साल पहलगाम आतंकी हमले के बाद यह एडवाइजरी जारी की गई थी। इसमें कहा गया था कि पाकिस्तान में बने कंटेंट को भारत में नहीं दिखाया जा सकता।
+
+दो फिल्म संगठनों ने PM मोदी को पत्र लिखा
+
+सीरीज की संभावित रिलीज के विरोध में भारत के दो फिल्म संगठनों ने पीएम मोदी को पत्र लिखा था। इनमें ऑल इंडियन सिने वर्कर्स एसोसिएशन (AICWA) ने पाकिस्तान को आतंकवाद से जुड़ा देश बताते हुए सीरीज की रिलीज पर रोक लगाने की मांग की है।
+
+फेडरेशन ऑफ वेस्टर्न इंडिया सिने एम्प्लॉइज (FWICE) ने लिखा कि हम पाकिस्तानी शो का विरोध करता है। हमारे देश में पाकिस्तानी कलाकारों का स्वागत नहीं हो सकता। अगर यह सीरीज भारत में रिलीज हुई तो वह नेटफ्लिक्स के सभी प्रोजेक्ट्स की शूटिंग रुकवा देगा।
+
+पाकिस्तान के मंत्री बोले- कला और संस्कृति को हथियार बनाया जा रहा
+
+विवाद पर पाकिस्तान के मंत्री अहसान इकबाल ने सोशल मीडिया प्लेटफॉर्म X पर लिखा कि भारत पहले खेल, फिर पानी और अब कला-संस्कृति को हथियार बना रहा है।
+
+तीन पीढ़ियों और छह प्रेम कहानियों पर बनी सीरीज
+
+सीरीज की कहानी तीन पीढ़ियों और छह प्रेम कहानियों पर आधारित है। इसमें प्यार, परिवार, रिश्तों और पुराने जख्मों को दिखाया गया है। इसका पहला पार्ट 4 दिसंबर को दुनियाभर में नेटफ्लिक्स पर रिलीज होगा। हालांकि, भारत में यह सीरीज रिलीज होगी या नहीं, अभी इसकी पुष्टि नहीं हुई है। नेटफ्लिक्स ने इस बारे में कुछ नहीं कहा है।
+
+सीरीज का निर्देशन और निर्माण मोमिना दुरैद ने किया है। इसकी कहानी फरहत इश्तियाक के इसी नाम के उर्दू उपन्यास पर आधारित है।
+
+इसमें फवाद खान, माहिरा खान, हानिया आमिर, सनम सईद, अहद रजा मीर, इकरा अजीज, हमजा अली अब्बासी और माया अली नजर आएंगे।
+
+बेंगलुरु में विरोध के बाद पाकिस्तानी सीरीज ‘दर-ए-निजात’ की 2 स्क्रीनिंग रद्द
+
+बेंगलुरु में एक अन्य पाकिस्तानी ड्रामा सीरीज दर-ए-निजात की दो स्क्रीनिंग सोशल मीडिया पर विरोध के बाद रद्द कर दी गईं। ये कार्यक्रम 28 नवंबर और 5 दिसंबर को होने थे।
+
+पुलिस के मुताबिक, आयोजकों ने खुद दोनों कार्यक्रम रद्द किए। उन्होंने इसके लिए पुलिस से अनुमति भी नहीं ली थी। पहली स्क्रीनिंग फ्रेजर टाउन के एक रेस्टोरेंट में होनी थी। दूसरी स्क्रीनिंग माउवी प्राइवेट थिएटर में प्रस्तावित थी, जहां मेहमानों के लिए पाकिस्तानी कपड़े पहनने का ड्रेस कोड था।
+
+सीरीज का निर्देशन साकिब खान ने किया है। अगस्त में रिलीज हुई इस सीरीज के 23 एपिसोड को अक्टूबर तक सोशल मीडिया पर 1.7 अरब से ज्यादा व्यूज मिल चुके थे।
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/entertainment/bollywood/news/india-ministry-bans-pakistani-web-series-netflix-streaming-controversy-139803430.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `सरकार बोली- नेटफ्लिक्स भारत में पाकिस्तानी कंटेंट न दिखाए: पहलगाम हमले के बाद बैन किया था; वेबसीरीज लॉन्च ह... - Dainik Bhaskar`,
+    summary_hi: `केंद्र सरकार ने नेटफ्लिक्स से कहा है कि वह पाकिस्तान में बने किसी भी कंटेंट को भारत में स्ट्रीम न करे। न्यूज एजेंसी PTI ने गुरुवार को सूत्रों के मुताबिक यह जानकारी दी है।`,
+    content_hi: `केंद्र सरकार ने नेटफ्लिक्स से कहा है कि वह पाकिस्तान में बने किसी भी कंटेंट को भारत में स्ट्रीम न करे। न्यूज एजेंसी PTI ने गुरुवार को सूत्रों के मुताबिक यह जानकारी दी है।
+
+सूचना एवं प्रसारण मंत्रालय को नेटफ्लिक्स की पहली पाकिस्तानी वेबसीरीज ‘जो बचे हैं संग समेट लो’ के भारत में रिलीज होने की आशंका को लेकर कई शिकायतें मिली थीं। इसके बाद मंत्रालय ने कंपनी से 8 मई 2025 की एडवाइजरी का पालन करने को कहा है।
+
+पिछले साल पहलगाम आतंकी हमले के बाद यह एडवाइजरी जारी की गई थी। इसमें कहा गया था कि पाकिस्तान में बने कंटेंट को भारत में नहीं दिखाया जा सकता।
+
+दो फिल्म संगठनों ने PM मोदी को पत्र लिखा
+
+सीरीज की संभावित रिलीज के विरोध में भारत के दो फिल्म संगठनों ने पीएम मोदी को पत्र लिखा था। इनमें ऑल इंडियन सिने वर्कर्स एसोसिएशन (AICWA) ने पाकिस्तान को आतंकवाद से जुड़ा देश बताते हुए सीरीज की रिलीज पर रोक लगाने की मांग की है।
+
+फेडरेशन ऑफ वेस्टर्न इंडिया सिने एम्प्लॉइज (FWICE) ने लिखा कि हम पाकिस्तानी शो का विरोध करता है। हमारे देश में पाकिस्तानी कलाकारों का स्वागत नहीं हो सकता। अगर यह सीरीज भारत में रिलीज हुई तो वह नेटफ्लिक्स के सभी प्रोजेक्ट्स की शूटिंग रुकवा देगा।
+
+पाकिस्तान के मंत्री बोले- कला और संस्कृति को हथियार बनाया जा रहा
+
+विवाद पर पाकिस्तान के मंत्री अहसान इकबाल ने सोशल मीडिया प्लेटफॉर्म X पर लिखा कि भारत पहले खेल, फिर पानी और अब कला-संस्कृति को हथियार बना रहा है।
+
+तीन पीढ़ियों और छह प्रेम कहानियों पर बनी सीरीज
+
+सीरीज की कहानी तीन पीढ़ियों और छह प्रेम कहानियों पर आधारित है। इसमें प्यार, परिवार, रिश्तों और पुराने जख्मों को दिखाया गया है। इसका पहला पार्ट 4 दिसंबर को दुनियाभर में नेटफ्लिक्स पर रिलीज होगा। हालांकि, भारत में यह सीरीज रिलीज होगी या नहीं, अभी इसकी पुष्टि नहीं हुई है। नेटफ्लिक्स ने इस बारे में कुछ नहीं कहा है।
+
+सीरीज का निर्देशन और निर्माण मोमिना दुरैद ने किया है। इसकी कहानी फरहत इश्तियाक के इसी नाम के उर्दू उपन्यास पर आधारित है।
+
+इसमें फवाद खान, माहिरा खान, हानिया आमिर, सनम सईद, अहद रजा मीर, इकरा अजीज, हमजा अली अब्बासी और माया अली नजर आएंगे।
+
+बेंगलुरु में विरोध के बाद पाकिस्तानी सीरीज ‘दर-ए-निजात’ की 2 स्क्रीनिंग रद्द
+
+बेंगलुरु में एक अन्य पाकिस्तानी ड्रामा सीरीज दर-ए-निजात की दो स्क्रीनिंग सोशल मीडिया पर विरोध के बाद रद्द कर दी गईं। ये कार्यक्रम 28 नवंबर और 5 दिसंबर को होने थे।
+
+पुलिस के मुताबिक, आयोजकों ने खुद दोनों कार्यक्रम रद्द किए। उन्होंने इसके लिए पुलिस से अनुमति भी नहीं ली थी। पहली स्क्रीनिंग फ्रेजर टाउन के एक रेस्टोरेंट में होनी थी। दूसरी स्क्रीनिंग माउवी प्राइवेट थिएटर में प्रस्तावित थी, जहां मेहमानों के लिए पाकिस्तानी कपड़े पहनने का ड्रेस कोड था।
+
+सीरीज का निर्देशन साकिब खान ने किया है। अगस्त में रिलीज हुई इस सीरीज के 23 एपिसोड को अक्टूबर तक सोशल मीडिया पर 1.7 अरब से ज्यादा व्यूज मिल चुके थे।
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/entertainment/bollywood/news/india-ministry-bans-pakistani-web-series-netflix-streaming-controversy-139803430.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक सरकार बोली- नेटफ्लिक्स भारत में पाकिस्तानी कंटेंट न दिखाए: पहलगाम हमले के बाद बैन किया था; वेबसीरीज लॉन्च ह... - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+  {
+    id: 98147,
+    title: `Ramayana: Between Faith, Art and Commerce - Exchange4Media`,
+    slug: `ramayana-between-faith-art-and-commerce-exchange4media-2026`,
+    original_title: `Ramayana: Between Faith, Art and Commerce - Exchange4Media`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:47Z`,
+    updated_at: `2026-11-28T00:10:47Z`,
+    source_name: `Exchange4Media`,
+    source_url: `https://www.exchange4media.com/media-others-news/ramayana-between-faith-art-and-commerce-160548.html`,
+    source_courtesy: `Source: Exchange4Media`,
+    image_url: `/images/articles/ramayana-between-faith-art-and-commerce-exchange4media-2026.jpg`,
+    image_alt: `Ramayana: Between Faith, Art and Commerce - Exchange4Media`,
+    image_courtesy: `Image: Exchange4Media (External Source Attribution)`,
+    image_photographer: `Exchange4Media`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `In a podcast titled Whose Truth? Whose History?, Sanskrit scholar Nityanand Mishra makes an emphatic case against watching the new cinematic adaptation of the Ramayana. His objection is not to the use of creative imagination in interpreting`,
+    content: `In a podcast titled Whose Truth? Whose History?, Sanskrit scholar Nityanand Mishra makes an emphatic case against watching the new cinematic adaptation of the Ramayana. His objection is not to the use of creative imagination in interpreting an ancient epic, but to what he considers a serious failure of research and an unacceptable departure from the scriptural understanding of its principal characters.
+
+He is particularly disturbed by the portrayal of Ravana, whom he believes the film has sought to elevate at the expense of Rama. He also questions the film's depiction of Sita's response to her abduction and dialogue that appears to suggest that Ravana was not entirely evil. For Mishra, these are not minor cinematic liberties; they alter the moral character of a narrative that is sacred to millions.
+
+His refusal to watch the film is an expression of that conviction. His criticism raises a larger question that deserves consideration beyond the merits or shortcomings of any individual film: how does one translate a sacred epic into contemporary cinema without compromising the very essence that makes it sacred?
+
+Ramayana: Rise of a Legend, directed by Nitesh Tiwari, is arguably the most ambitious cinematic undertaking in the history of Indian cinema. With an unprecedented budget, an international production and distribution network, and music by A.R. Rahman and Hans Zimmer, the makers have clearly set their sights beyond the Indian market.
+
+The first instalment, released in November 2026, is only the beginning; the second is expected around Deepavali 2028. The ambition is to give an Indian epic a global cinematic presence, perhaps even create a franchise comparable to the great entertainment universes of Hollywood. Yet the Ramayana is no ordinary literary property waiting to be adapted.
+
+It is a living tradition, deeply embedded in the religious, cultural and emotional consciousness of millions. Valmiki's Sanskrit epic, Tulsidas's Ramcharitmanas, Kamban's Tamil retelling and countless regional and folk versions have given it different expressions. It has travelled beyond India into the cultural traditions of Thailand, Indonesia and Cambodia.
+
+Its characters are therefore not strangers to be introduced to an audience; they arrive with inherited meanings, beliefs and expectations. This makes the filmmaker's task particularly demanding. Creative freedom is indispensable, but it cannot be entirely divorced from an understanding of the source.
+
+The question is not whether every adaptation must reproduce one prescribed version, but whether it preserves the essential moral and spiritual character of the epic. The controversy surrounding Ravana illustrates this dilemma. His scholarship, devotion to Shiva, military prowess and formidable personality are part of the larger tradition.
+
+But these attributes cannot be considered in isolation from the arrogance, abduction of Sita and abuse of power that define his moral transgression. Mishra's objection is more fundamental. He questions the film's classification and characterisation of Ravana, arguing that presenting him as a morally respectable or essentially benevolent figure finds no justification in the scriptural tradition.
+
+His criticism of the suggestion that Ravana was not entirely bad, attributed to Sita in the film, is particularly pointed. Whether one agrees with every aspect of his interpretation or not, the underlying concern merits serious engagement. There is a difference between making an antagonist compelling and making him morally equivalent to the protagonist.
+
+Indeed, the magnitude of Rama's achievement derives partly from the formidable adversary he confronts. But the moral centre of the narrative cannot become blurred in the pursuit of dramatic effect. The portrayal of Rama presents an equally difficult challenge. Revered as Maryada Purushottam, he represents righteousness, restraint and adherence to dharma, even when personal sacrifice is demanded.
+
+His greatness is not simply that he defeats Ravana, but that he confronts adversity without abandoning his moral obligations. Popular cinema often seeks heroes with visible imperfections, emotional conflicts and dramatic transformations. Rama's moral composure may be less immediately amenable to such conventions.
+
+Yet the answer cannot be to diminish the ideal in order to make the hero more conventionally entertaining. The Ramayana offers abundant human drama through Dasharatha's anguish, Bharata's renunciation, Sita's courage, Lakshmana's loyalty and Hanuman's devotion. The challenge is to bring these dimensions alive without losing their moral depth.
+
+The debate is not confined to religious and scriptural criticism. Film critics, too, have questioned the balance of characterisation and the dominance of spectacle over storytelling. The Indian Express has drawn attention to Ravana's more elaborately developed screen presence, while international reviews have differed in their assessment of the film's visual achievement and narrative shortcomings.
+
+The Economist, in particular, has questioned whether the film's emphasis on spectacle, at the expense of character development and storytelling, will enable it to travel successfully beyond India. The filmmakers, on the other hand, have defended their ambition to present a more expansive and internationally accessible interpretation.
+
+The commercial dimension adds another layer to this debate. In a recent article in The Times of India, Neeraj Kaushal, Professor of Social Policy at Columbia University, argues that the overseas market for Indian films continues to depend substantially on the diaspora. For a film to become a genuine global commercial success, it must attract audiences in the West and China who have little or no cultural connection with India.
+
+This is a formidable challenge, even for a production of such scale. The Indian diaspora may provide an initial audience, but it cannot by itself sustain a global entertainment franchise. There is nothing objectionable about this ambition. The Ramayana's themes of duty, sacrifice, loyalty, the abuse of power and the conflict between good and evil have a universal resonance.
+
+But making the story accessible to the world should not mean making it conform to the expectations of Hollywood. Its cultural distinctiveness is not an impediment to its international appeal; it may well be its greatest asset. Ultimately, the film must be judged on more than its box-office performance.
+
+Commercial success, cinematic accomplishment and cultural significance are three different measures, and they need not necessarily coincide. A spectacular production may attract millions without deepening their understanding of the epic. Conversely, a film that stimulates curiosity about the Ramayana, its characters and its moral universe may leave a cultural legacy extending well beyond its theatrical run.
+
+It may be premature to pronounce a final verdict when the second instalment is yet to come. But one consideration should remain central. The Ramayana has survived not because one version has established an exclusive claim over it, but because successive generations and cultures have found new meanings in its characters and its moral universe.
+
+Its journey across centuries has been one of continuous renewal, without losing its essential identity. The challenge before its newest cinematic interpreters is therefore not merely to take the Ramayana to the world, but to ensure that, in the process, the world encounters the Ramayana itself—not simply a spectacular production carrying its name.
+
+That would be a far more enduring achievement than any box-office record or cinematic franchise.
+
+---
+
+**Original Source:** [Exchange4Media](https://www.exchange4media.com/media-others-news/ramayana-between-faith-art-and-commerce-160548.html)`,
+    title_en: `Ramayana: Between Faith, Art and Commerce - Exchange4Media`,
+    summary_en: `In a podcast titled Whose Truth? Whose History?, Sanskrit scholar Nityanand Mishra makes an emphatic case against watching the new cinematic adaptation of the Ramayana. His objection is not to the use of creative imagination in interpreting`,
+    content_en: `In a podcast titled Whose Truth? Whose History?, Sanskrit scholar Nityanand Mishra makes an emphatic case against watching the new cinematic adaptation of the Ramayana. His objection is not to the use of creative imagination in interpreting an ancient epic, but to what he considers a serious failure of research and an unacceptable departure from the scriptural understanding of its principal characters.
+
+He is particularly disturbed by the portrayal of Ravana, whom he believes the film has sought to elevate at the expense of Rama. He also questions the film's depiction of Sita's response to her abduction and dialogue that appears to suggest that Ravana was not entirely evil. For Mishra, these are not minor cinematic liberties; they alter the moral character of a narrative that is sacred to millions.
+
+His refusal to watch the film is an expression of that conviction. His criticism raises a larger question that deserves consideration beyond the merits or shortcomings of any individual film: how does one translate a sacred epic into contemporary cinema without compromising the very essence that makes it sacred?
+
+Ramayana: Rise of a Legend, directed by Nitesh Tiwari, is arguably the most ambitious cinematic undertaking in the history of Indian cinema. With an unprecedented budget, an international production and distribution network, and music by A.R. Rahman and Hans Zimmer, the makers have clearly set their sights beyond the Indian market.
+
+The first instalment, released in November 2026, is only the beginning; the second is expected around Deepavali 2028. The ambition is to give an Indian epic a global cinematic presence, perhaps even create a franchise comparable to the great entertainment universes of Hollywood. Yet the Ramayana is no ordinary literary property waiting to be adapted.
+
+It is a living tradition, deeply embedded in the religious, cultural and emotional consciousness of millions. Valmiki's Sanskrit epic, Tulsidas's Ramcharitmanas, Kamban's Tamil retelling and countless regional and folk versions have given it different expressions. It has travelled beyond India into the cultural traditions of Thailand, Indonesia and Cambodia.
+
+Its characters are therefore not strangers to be introduced to an audience; they arrive with inherited meanings, beliefs and expectations. This makes the filmmaker's task particularly demanding. Creative freedom is indispensable, but it cannot be entirely divorced from an understanding of the source.
+
+The question is not whether every adaptation must reproduce one prescribed version, but whether it preserves the essential moral and spiritual character of the epic. The controversy surrounding Ravana illustrates this dilemma. His scholarship, devotion to Shiva, military prowess and formidable personality are part of the larger tradition.
+
+But these attributes cannot be considered in isolation from the arrogance, abduction of Sita and abuse of power that define his moral transgression. Mishra's objection is more fundamental. He questions the film's classification and characterisation of Ravana, arguing that presenting him as a morally respectable or essentially benevolent figure finds no justification in the scriptural tradition.
+
+His criticism of the suggestion that Ravana was not entirely bad, attributed to Sita in the film, is particularly pointed. Whether one agrees with every aspect of his interpretation or not, the underlying concern merits serious engagement. There is a difference between making an antagonist compelling and making him morally equivalent to the protagonist.
+
+Indeed, the magnitude of Rama's achievement derives partly from the formidable adversary he confronts. But the moral centre of the narrative cannot become blurred in the pursuit of dramatic effect. The portrayal of Rama presents an equally difficult challenge. Revered as Maryada Purushottam, he represents righteousness, restraint and adherence to dharma, even when personal sacrifice is demanded.
+
+His greatness is not simply that he defeats Ravana, but that he confronts adversity without abandoning his moral obligations. Popular cinema often seeks heroes with visible imperfections, emotional conflicts and dramatic transformations. Rama's moral composure may be less immediately amenable to such conventions.
+
+Yet the answer cannot be to diminish the ideal in order to make the hero more conventionally entertaining. The Ramayana offers abundant human drama through Dasharatha's anguish, Bharata's renunciation, Sita's courage, Lakshmana's loyalty and Hanuman's devotion. The challenge is to bring these dimensions alive without losing their moral depth.
+
+The debate is not confined to religious and scriptural criticism. Film critics, too, have questioned the balance of characterisation and the dominance of spectacle over storytelling. The Indian Express has drawn attention to Ravana's more elaborately developed screen presence, while international reviews have differed in their assessment of the film's visual achievement and narrative shortcomings.
+
+The Economist, in particular, has questioned whether the film's emphasis on spectacle, at the expense of character development and storytelling, will enable it to travel successfully beyond India. The filmmakers, on the other hand, have defended their ambition to present a more expansive and internationally accessible interpretation.
+
+The commercial dimension adds another layer to this debate. In a recent article in The Times of India, Neeraj Kaushal, Professor of Social Policy at Columbia University, argues that the overseas market for Indian films continues to depend substantially on the diaspora. For a film to become a genuine global commercial success, it must attract audiences in the West and China who have little or no cultural connection with India.
+
+This is a formidable challenge, even for a production of such scale. The Indian diaspora may provide an initial audience, but it cannot by itself sustain a global entertainment franchise. There is nothing objectionable about this ambition. The Ramayana's themes of duty, sacrifice, loyalty, the abuse of power and the conflict between good and evil have a universal resonance.
+
+But making the story accessible to the world should not mean making it conform to the expectations of Hollywood. Its cultural distinctiveness is not an impediment to its international appeal; it may well be its greatest asset. Ultimately, the film must be judged on more than its box-office performance.
+
+Commercial success, cinematic accomplishment and cultural significance are three different measures, and they need not necessarily coincide. A spectacular production may attract millions without deepening their understanding of the epic. Conversely, a film that stimulates curiosity about the Ramayana, its characters and its moral universe may leave a cultural legacy extending well beyond its theatrical run.
+
+It may be premature to pronounce a final verdict when the second instalment is yet to come. But one consideration should remain central. The Ramayana has survived not because one version has established an exclusive claim over it, but because successive generations and cultures have found new meanings in its characters and its moral universe.
+
+Its journey across centuries has been one of continuous renewal, without losing its essential identity. The challenge before its newest cinematic interpreters is therefore not merely to take the Ramayana to the world, but to ensure that, in the process, the world encounters the Ramayana itself—not simply a spectacular production carrying its name.
+
+That would be a far more enduring achievement than any box-office record or cinematic franchise.
+
+---
+
+**Original Source:** [Exchange4Media](https://www.exchange4media.com/media-others-news/ramayana-between-faith-art-and-commerce-160548.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Exchange4Media.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Ramayana: Between Faith, Art and Commerce - Exchange4Media.`,
+    primary_source: `Exchange4Media`,
+  },
+  {
+    id: 98148,
+    title: `Ramayana: Turning heritage into soft power - The Pioneer`,
+    slug: `ramayana-turning-heritage-into-soft-power-the-pioneer-2026`,
+    original_title: `Ramayana: Turning heritage into soft power - The Pioneer`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:48Z`,
+    updated_at: `2026-11-28T00:10:48Z`,
+    source_name: `The Pioneer`,
+    source_url: `https://dailypioneer.com/opinion/ramayana-turning-heritage-into-soft-power`,
+    source_courtesy: `Source: The Pioneer`,
+    image_url: `/images/articles/ramayana-turning-heritage-into-soft-power-the-pioneer-2026.jpg`,
+    image_alt: `Ramayana: Turning heritage into soft power - The Pioneer`,
+    image_courtesy: `Image: The Pioneer (External Source Attribution)`,
+    image_photographer: `The Pioneer`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `The cinematic retelling of the Ramayana has opened new possibilities for Indian cinema, combining mythology, technology and global collaboration. Its wider significance lies in transforming civilisational storytelling into an instrument of `,
+    content: `The cinematic retelling of the Ramayana has opened new possibilities for Indian cinema, combining mythology, technology and global collaboration. Its wider significance lies in transforming civilisational storytelling into an instrument of cultural diplomacy, strengthening India’s soft power and expanding its creative economy.There is an unprecedented buzz surrounding the release of Ramayana and its impact on the silver screen, audiences and storytelling in the cinematic space.
+
+While there have been innumerable discussions and narrations on stories in the past, this adaptation has given a new mantra of success at the box office. Ramayana has translated a legacy, civilizational story to a unique cinematic experience. The movie has reinforced India’s first standing on the platform of global cinema, and solidified the influence of cultural heritage and setting within the cinema ecosystem.The deadly combination of Nitesh Tiwari and Namit Malhotra has opened a new chapter in filmmaking.
+
+Ramayana has given wings to dream big, expand the contours of filmmaking with a new inspiration to win hearts and minds of audiences globally. It is a unique mix of thoughts, insights, woven with clarity and depth. A new Page of cinematic excellence through which has blossomed since the World Premier on 27th October at the Academy Museum of Motion Pictures (David Geffen Theatre) in Los Angeles, California and the release on 5th November.The movie has accelerated the pace of India’s soft power prowess.
+
+It has triggered a new perception combining tradition with various forms of diplomacy, including the importance of civilizational diplomacy.Ramayana the movie has broken barriers of movie making not only in box office numbers, it has weaved together stakeholders who now could dream of putting in place an Indian product with international standing.There are many key takeaways in the cinema space after the spectacle has reached theatres.
+
+To begin with there should be an earnest effort to establish India as a global cinematic brand through appropriate verticals, platforms and institutions. The global journey of the movie which is truly a cinematic spectacle needs to draw its lessons from such ventures undertaken in the past.
+
+The movie in itself has given audiences a new grammar defining the contours of cinema on one hand, a diverse but integrated cultural language on the other.Audiences globally have gone berserk in excitement with Lord of the Rings, a movie that interconnected mythology and literature perfectly.
+
+On the other side of the spectrum, cinephiles have relished the flavour of cinematic experience through the ‘Marvel’ set of movies. Different themes, stories and ideas that have created a unique brand cohesion or the group from Iron Man in 2008 and Avengers Doomsday in December this year.
+
+In the past, India too has given shades of global imprint through movies like Baahubali, RRR, Kalki etc. These films combined storytelling, fantasy, mythology and visual effects to cast a profoundly impact on international circuit, which proved “Yes We Can”.Ramayana has given audiences a new experience to visually feel the power of philosophy, tradition, folklore, exploration and experimentation.
+
+This is a movie that has spoken a global language to visually appeal to audiences through its segments.The challenge emerging from the Ramayana experience is the need to keep pace and consistency with a new kind of cinematic universe. A universe which will require a new thought process, addressing global audience needs and mixing content with technological innovation and grandeur.
+
+A new model and strategy would have to be created, that places a matrix combining cultural nuances and sensitivity with theatrical needs, accessibility, distribution linkages and a pathway for global outreach. It would also be critical to keep balance between emotional and character portrayal, technological push and new formats of storytelling.
+
+At same time the creative competition from other countries like Korea, China and Japan would be a good professional reference to understand global practices. Strategists of this new page of cinematic experience, will also have to rethink approach towards creating a “Global Cinema Conversation”, redesigning the approach and pathway of a sustainable and digital ecosystem.The Ministry of I&amp;B could definitely work on series of themes and projects which would showcase the creative instinct, talent and capability of the Indian film Industry.
+
+India as a hub of creative services, investment and ideation. This would ensure a dual success strategy. Enhancing the depth and perspective of soft power dynamics, leading to meaningful collaborations and strengthening the outreach and deep rooting India’s creative economy. In this context what is required is a blueprint of the important role “Intellectual property” plays in the filmmaking domain.
+
+This would be a cross-cultural approach, i.e animation, gaming, OTT, Music, AR/VR - the new avenues of revenue generation. The larger picture would reflect with the impact on employment, revenue, export growth and new opportunity for India’s creative economy.Ramayana’s success has also given many firsts to begin with the collaboration between A.R.
+
+Rahman and Hans Zimmer has proved that words, notes, lyrics, tunes combine thought processes through an unbelievable emotional connect. A rare jugalbandi of ideas, instruments and Sangeet. A perfect fusion of two styles of music; India’s classical orientation with the beats of an orchestral composition.
+
+The bringing together of sound design with indigenous instruments and curated music has given music a new template of brand positioning. Many more future projects would try to attract the “Sur, Shabad and Sangeet” masterpieces of Indian music. This will certainly bring about a cultural awaking and renaissance of musical content threads within the global musical ecosystem.A key takeaway of this film could be a rethink on our “Global Distribution Strategy”.
+
+Indian films on international global circuit, need a streamlined need based, audience-centric distribution network. The Sony Pictures success needs to be taken forward realistically to build a global brand and visibility. For Indian cinema beyond theatres: the network needs to be reworked and reimagined.
+
+Cinema has emerged as a vehicle of Collaboration, Cooperation, Cohesion, Coordination and Convergence- the 5Cs of cinema. On the global front, cinema breaks barriers, overcomes obstacles, and thrives on the creativity of both old and new players.At the 57th IFFI, a new collaboration has dawned, bringing together Ramayana, BRICS, and the International Film Festival of India (IFFI), unveiling a bold new chapter in India’s cultural diplomacy.
+
+On these three verticals-ancient civilisational heritage, emerging-market geopolitics, and global cinema-though they seem different and apart, yet, they share a powerful strategic thread: the ability of cinematic storytelling to bridge borders, deepen South-South cooperation, and project India’s soft power on the world stage.&nbsp; By positioning IFFI as the cornerstone of BRICS cinematic cooperation, the spotlight on Ramayana as a powerful example of cross-border storytelling adapts across cultures has set a new wave of creativity and enthusiasm.
+
+The importance of cinema in geopolitics has grown significantly over recent years, with governments increasingly funding film projects that reflect their national interests and cultural heritage. Many countries use their film industries as a powerful tool for soft power to shape their global impression.This is the trajectory that the success of Ramayana would perhaps entail for the Indian film industry globally in the years to come.Ramayana has given audiences a new experience to visually feel the power of philosophy, tradition, folklore, exploration and experimentation.
+
+The roots of culture through history and technology have been curated effortlessly. This is a movie that has spoken a global language to visually appeal to audiences through its segments.The author is a former Civil Servant. Writes on Geostrategic Communication, Branding &amp; Cinema, Media &amp; Entertainment Industry; Views presented are personal.
+
+---
+
+**Original Source:** [The Pioneer](https://dailypioneer.com/opinion/ramayana-turning-heritage-into-soft-power)`,
+    title_en: `Ramayana: Turning heritage into soft power - The Pioneer`,
+    summary_en: `The cinematic retelling of the Ramayana has opened new possibilities for Indian cinema, combining mythology, technology and global collaboration. Its wider significance lies in transforming civilisational storytelling into an instrument of `,
+    content_en: `The cinematic retelling of the Ramayana has opened new possibilities for Indian cinema, combining mythology, technology and global collaboration. Its wider significance lies in transforming civilisational storytelling into an instrument of cultural diplomacy, strengthening India’s soft power and expanding its creative economy.There is an unprecedented buzz surrounding the release of Ramayana and its impact on the silver screen, audiences and storytelling in the cinematic space.
+
+While there have been innumerable discussions and narrations on stories in the past, this adaptation has given a new mantra of success at the box office. Ramayana has translated a legacy, civilizational story to a unique cinematic experience. The movie has reinforced India’s first standing on the platform of global cinema, and solidified the influence of cultural heritage and setting within the cinema ecosystem.The deadly combination of Nitesh Tiwari and Namit Malhotra has opened a new chapter in filmmaking.
+
+Ramayana has given wings to dream big, expand the contours of filmmaking with a new inspiration to win hearts and minds of audiences globally. It is a unique mix of thoughts, insights, woven with clarity and depth. A new Page of cinematic excellence through which has blossomed since the World Premier on 27th October at the Academy Museum of Motion Pictures (David Geffen Theatre) in Los Angeles, California and the release on 5th November.The movie has accelerated the pace of India’s soft power prowess.
+
+It has triggered a new perception combining tradition with various forms of diplomacy, including the importance of civilizational diplomacy.Ramayana the movie has broken barriers of movie making not only in box office numbers, it has weaved together stakeholders who now could dream of putting in place an Indian product with international standing.There are many key takeaways in the cinema space after the spectacle has reached theatres.
+
+To begin with there should be an earnest effort to establish India as a global cinematic brand through appropriate verticals, platforms and institutions. The global journey of the movie which is truly a cinematic spectacle needs to draw its lessons from such ventures undertaken in the past.
+
+The movie in itself has given audiences a new grammar defining the contours of cinema on one hand, a diverse but integrated cultural language on the other.Audiences globally have gone berserk in excitement with Lord of the Rings, a movie that interconnected mythology and literature perfectly.
+
+On the other side of the spectrum, cinephiles have relished the flavour of cinematic experience through the ‘Marvel’ set of movies. Different themes, stories and ideas that have created a unique brand cohesion or the group from Iron Man in 2008 and Avengers Doomsday in December this year.
+
+In the past, India too has given shades of global imprint through movies like Baahubali, RRR, Kalki etc. These films combined storytelling, fantasy, mythology and visual effects to cast a profoundly impact on international circuit, which proved “Yes We Can”.Ramayana has given audiences a new experience to visually feel the power of philosophy, tradition, folklore, exploration and experimentation.
+
+This is a movie that has spoken a global language to visually appeal to audiences through its segments.The challenge emerging from the Ramayana experience is the need to keep pace and consistency with a new kind of cinematic universe. A universe which will require a new thought process, addressing global audience needs and mixing content with technological innovation and grandeur.
+
+A new model and strategy would have to be created, that places a matrix combining cultural nuances and sensitivity with theatrical needs, accessibility, distribution linkages and a pathway for global outreach. It would also be critical to keep balance between emotional and character portrayal, technological push and new formats of storytelling.
+
+At same time the creative competition from other countries like Korea, China and Japan would be a good professional reference to understand global practices. Strategists of this new page of cinematic experience, will also have to rethink approach towards creating a “Global Cinema Conversation”, redesigning the approach and pathway of a sustainable and digital ecosystem.The Ministry of I&amp;B could definitely work on series of themes and projects which would showcase the creative instinct, talent and capability of the Indian film Industry.
+
+India as a hub of creative services, investment and ideation. This would ensure a dual success strategy. Enhancing the depth and perspective of soft power dynamics, leading to meaningful collaborations and strengthening the outreach and deep rooting India’s creative economy. In this context what is required is a blueprint of the important role “Intellectual property” plays in the filmmaking domain.
+
+This would be a cross-cultural approach, i.e animation, gaming, OTT, Music, AR/VR - the new avenues of revenue generation. The larger picture would reflect with the impact on employment, revenue, export growth and new opportunity for India’s creative economy.Ramayana’s success has also given many firsts to begin with the collaboration between A.R.
+
+Rahman and Hans Zimmer has proved that words, notes, lyrics, tunes combine thought processes through an unbelievable emotional connect. A rare jugalbandi of ideas, instruments and Sangeet. A perfect fusion of two styles of music; India’s classical orientation with the beats of an orchestral composition.
+
+The bringing together of sound design with indigenous instruments and curated music has given music a new template of brand positioning. Many more future projects would try to attract the “Sur, Shabad and Sangeet” masterpieces of Indian music. This will certainly bring about a cultural awaking and renaissance of musical content threads within the global musical ecosystem.A key takeaway of this film could be a rethink on our “Global Distribution Strategy”.
+
+Indian films on international global circuit, need a streamlined need based, audience-centric distribution network. The Sony Pictures success needs to be taken forward realistically to build a global brand and visibility. For Indian cinema beyond theatres: the network needs to be reworked and reimagined.
+
+Cinema has emerged as a vehicle of Collaboration, Cooperation, Cohesion, Coordination and Convergence- the 5Cs of cinema. On the global front, cinema breaks barriers, overcomes obstacles, and thrives on the creativity of both old and new players.At the 57th IFFI, a new collaboration has dawned, bringing together Ramayana, BRICS, and the International Film Festival of India (IFFI), unveiling a bold new chapter in India’s cultural diplomacy.
+
+On these three verticals-ancient civilisational heritage, emerging-market geopolitics, and global cinema-though they seem different and apart, yet, they share a powerful strategic thread: the ability of cinematic storytelling to bridge borders, deepen South-South cooperation, and project India’s soft power on the world stage.&nbsp; By positioning IFFI as the cornerstone of BRICS cinematic cooperation, the spotlight on Ramayana as a powerful example of cross-border storytelling adapts across cultures has set a new wave of creativity and enthusiasm.
+
+The importance of cinema in geopolitics has grown significantly over recent years, with governments increasingly funding film projects that reflect their national interests and cultural heritage. Many countries use their film industries as a powerful tool for soft power to shape their global impression.This is the trajectory that the success of Ramayana would perhaps entail for the Indian film industry globally in the years to come.Ramayana has given audiences a new experience to visually feel the power of philosophy, tradition, folklore, exploration and experimentation.
+
+The roots of culture through history and technology have been curated effortlessly. This is a movie that has spoken a global language to visually appeal to audiences through its segments.The author is a former Civil Servant. Writes on Geostrategic Communication, Branding &amp; Cinema, Media &amp; Entertainment Industry; Views presented are personal.
+
+---
+
+**Original Source:** [The Pioneer](https://dailypioneer.com/opinion/ramayana-turning-heritage-into-soft-power)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Pioneer.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Ramayana: Turning heritage into soft power - The Pioneer.`,
+    primary_source: `The Pioneer`,
+  },
+  {
+    id: 98149,
+    title: `रामायण के खिलाफ सुप्रीम कोर्ट पहुंची याचिका, CJI बोले- आप खुद बना लें फिल्म - ABP News`,
+    slug: `cji-abp-news-2026`,
+    original_title: `रामायण के खिलाफ सुप्रीम कोर्ट पहुंची याचिका, CJI बोले- आप खुद बना लें फिल्म - ABP News`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:52Z`,
+    updated_at: `2026-11-28T00:10:52Z`,
+    source_name: `ABP News`,
+    source_url: `https://www.abplive.com/news/india/ramayana-film-row-supreme-court-cji-suryakant-refuses-immediate-hearing-ann-3220066`,
+    source_courtesy: `Source: ABP News`,
+    image_url: `/images/articles/cji-abp-news-2026.jpg`,
+    image_alt: `रामायण के खिलाफ सुप्रीम कोर्ट पहुंची याचिका, CJI बोले- आप खुद बना लें फिल्म - ABP News`,
+    image_courtesy: `Image: ABP News (External Source Attribution)`,
+    image_photographer: `ABP News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `रामायण फिल्म को लेकर विवाद जारी है. हिंदू संगठन लगातार इस पर रोक लगाने की मांग कर रहे हैं. इसी बीच फिल्म 'रामायण' के खिलाफ दाखिल याचिका को तत्काल सुनवाई के लिए लगाने से सुप्रीम कोर्ट ने मना कर दिया है. याचिकाकर्ता का कहना था कि फिल्म में बह`,
+    content: `रामायण फिल्म को लेकर विवाद जारी है. हिंदू संगठन लगातार इस पर रोक लगाने की मांग कर रहे हैं. इसी बीच फिल्म 'रामायण' के खिलाफ दाखिल याचिका को तत्काल सुनवाई के लिए लगाने से सुप्रीम कोर्ट ने मना कर दिया है. याचिकाकर्ता का कहना था कि फिल्म में बहुत सी बातें मूल ग्रंथ से अलग दिखाई गई हैं.&nbsp;
+याचिकाकर्ता की अपील पर चीफ जस्टिस सूर्यकांत ने कहा कि यह फिल्म रिलीज हो चुकी है इसलिए तत्काल सुनवाई की कोई आवश्यकता नहीं है.
+
+उन्होंने साथ ही ये भी कहा कि आपके पास अगर कुछ अलग कहने को है तो आप खुद फिल्म बना सकते हैं. VHP ने जताई आपत्तिविश्व हिंदू परिषद (VHP) ने फिल्म के कथानक और किरदारों के चित्रण पर आपत्ति जताते हुए इसके प्रदर्शन पर तत्काल रोक की मांग की है. विहिप का आरोप है कि इस फिल्म में महर्षि वाल्मीकि की रामायण के मूल प्रसंगों से छेड़छाड़ की गई है.
+
+इसके अलावा ऐसी कई घटनाएं दिखाई गई हैं, जिनका मूल रामकथा में कोई आधार नहीं है. 'फिल्म में रामकथा के कई अहम प्रसंगों को जगह नहीं'विहिप के केंद्रीय महामंत्री बजरंग बागड़ा ने फिल्म पर सवाल उठाते हुए कहा है कि इसमें भगवान राम और उनके परिवार के चरित्रों को हल्के अंदाज में दिखाया गया है, जबकि रावण का महिमामंडन करने की कोशिश की गई है.
+
+बता दें कि विहिप की सबसे बड़ी आपत्ति ये है कि फिल्म में रामकथा के कई अहम प्रसंगों को जगह नहीं दी गई है. बागड़ा के मुताबिक अहिल्या उद्धार, निषादराज गुह की मित्रता और केवट की भक्ति जैसे प्रसंग भगवान राम के चरित्र और उनकी सामाजिक स्वीकार्यता को समझने के लिए बेहद महत्वपूर्ण हैं, लेकिन फिल्म में इनका कोई जिक्र तक नहीं है.
+
+विश्व हिंदू परिषद का आरोप है कि ऋषि-मुनियों के यज्ञ और साधना में बाधा डालने वाले राक्षसों के खिलाफ भगवान राम के संघर्ष को फिल्म में पत्नी के अपहरण का बदला लेने की व्यक्तिगत लड़ाई के तौर पर पेश किया गया है. विहिप का कहना है कि रामकथा केवल धार्मिक आख्यान नहीं बल्कि व्यक्तिगत, पारिवारिक और सामाजिक मर्यादाओं का आधार है.
+
+इसके साथ इस तरह की छेड़छाड़ करोड़ों रामभक्तों की आस्था को चोट पहुंचाती है. ये भी पढ़ें
+'वोट चोर' नारा देने वाले इटली के नेता को राहत, SC ने कहा- 'कानून का उल्लंघन है तो...'
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/news/india/ramayana-film-row-supreme-court-cji-suryakant-refuses-immediate-hearing-ann-3220066)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `रामायण के खिलाफ सुप्रीम कोर्ट पहुंची याचिका, CJI बोले- आप खुद बना लें फिल्म - ABP News`,
+    summary_hi: `रामायण फिल्म को लेकर विवाद जारी है. हिंदू संगठन लगातार इस पर रोक लगाने की मांग कर रहे हैं. इसी बीच फिल्म 'रामायण' के खिलाफ दाखिल याचिका को तत्काल सुनवाई के लिए लगाने से सुप्रीम कोर्ट ने मना कर दिया है. याचिकाकर्ता का कहना था कि फिल्म में बह`,
+    content_hi: `रामायण फिल्म को लेकर विवाद जारी है. हिंदू संगठन लगातार इस पर रोक लगाने की मांग कर रहे हैं. इसी बीच फिल्म 'रामायण' के खिलाफ दाखिल याचिका को तत्काल सुनवाई के लिए लगाने से सुप्रीम कोर्ट ने मना कर दिया है. याचिकाकर्ता का कहना था कि फिल्म में बहुत सी बातें मूल ग्रंथ से अलग दिखाई गई हैं.&nbsp;
+याचिकाकर्ता की अपील पर चीफ जस्टिस सूर्यकांत ने कहा कि यह फिल्म रिलीज हो चुकी है इसलिए तत्काल सुनवाई की कोई आवश्यकता नहीं है.
+
+उन्होंने साथ ही ये भी कहा कि आपके पास अगर कुछ अलग कहने को है तो आप खुद फिल्म बना सकते हैं. VHP ने जताई आपत्तिविश्व हिंदू परिषद (VHP) ने फिल्म के कथानक और किरदारों के चित्रण पर आपत्ति जताते हुए इसके प्रदर्शन पर तत्काल रोक की मांग की है. विहिप का आरोप है कि इस फिल्म में महर्षि वाल्मीकि की रामायण के मूल प्रसंगों से छेड़छाड़ की गई है.
+
+इसके अलावा ऐसी कई घटनाएं दिखाई गई हैं, जिनका मूल रामकथा में कोई आधार नहीं है. 'फिल्म में रामकथा के कई अहम प्रसंगों को जगह नहीं'विहिप के केंद्रीय महामंत्री बजरंग बागड़ा ने फिल्म पर सवाल उठाते हुए कहा है कि इसमें भगवान राम और उनके परिवार के चरित्रों को हल्के अंदाज में दिखाया गया है, जबकि रावण का महिमामंडन करने की कोशिश की गई है.
+
+बता दें कि विहिप की सबसे बड़ी आपत्ति ये है कि फिल्म में रामकथा के कई अहम प्रसंगों को जगह नहीं दी गई है. बागड़ा के मुताबिक अहिल्या उद्धार, निषादराज गुह की मित्रता और केवट की भक्ति जैसे प्रसंग भगवान राम के चरित्र और उनकी सामाजिक स्वीकार्यता को समझने के लिए बेहद महत्वपूर्ण हैं, लेकिन फिल्म में इनका कोई जिक्र तक नहीं है.
+
+विश्व हिंदू परिषद का आरोप है कि ऋषि-मुनियों के यज्ञ और साधना में बाधा डालने वाले राक्षसों के खिलाफ भगवान राम के संघर्ष को फिल्म में पत्नी के अपहरण का बदला लेने की व्यक्तिगत लड़ाई के तौर पर पेश किया गया है. विहिप का कहना है कि रामकथा केवल धार्मिक आख्यान नहीं बल्कि व्यक्तिगत, पारिवारिक और सामाजिक मर्यादाओं का आधार है.
+
+इसके साथ इस तरह की छेड़छाड़ करोड़ों रामभक्तों की आस्था को चोट पहुंचाती है. ये भी पढ़ें
+'वोट चोर' नारा देने वाले इटली के नेता को राहत, SC ने कहा- 'कानून का उल्लंघन है तो...'
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/news/india/ramayana-film-row-supreme-court-cji-suryakant-refuses-immediate-hearing-ann-3220066)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट ABP News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक रामायण के खिलाफ सुप्रीम कोर्ट पहुंची याचिका, CJI बोले- आप खुद बना लें फिल्म - ABP News से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `ABP News`,
+  },
+  {
+    id: 98150,
+    title: `सुट्टा में संगीतमय अखंड रामायण का आयोजन: बलखंडी बाबा हनुमान मंदिर में पाठ के बाद भंडारा, श्रद्धालुओं ने प्र... - Dainik Bhaskar`,
+    slug: `ramayana-breaking-report-66313-98150-2026`,
+    original_title: `सुट्टा में संगीतमय अखंड रामायण का आयोजन: बलखंडी बाबा हनुमान मंदिर में पाठ के बाद भंडारा, श्रद्धालुओं ने प्र... - Dainik Bhaskar`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T00:10:54Z`,
+    updated_at: `2026-11-28T00:10:54Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/local/uttar-pradesh/jhansi/asta/news/sutta-balkhandi-baba-hanuman-mandir-akhand-ramayan-bhandara-139814362.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/ramayana-breaking-report-66313-98150-2026.jpg`,
+    image_alt: `सुट्टा में संगीतमय अखंड रामायण का आयोजन: बलखंडी बाबा हनुमान मंदिर में पाठ के बाद भंडारा, श्रद्धालुओं ने प्र... - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `ग्राम सुट्टा के प्रसिद्ध बलखंडी बाबा हनुमान जी मंदिर परिसर में संगीतमय अखंड रामायण का आयोजन किया गया। इसमें ग्रामवासियों ने भाग लिया।`,
+    content: `ग्राम सुट्टा के प्रसिद्ध बलखंडी बाबा हनुमान जी मंदिर परिसर में संगीतमय अखंड रामायण का आयोजन किया गया। इसमें ग्रामवासियों ने भाग लिया।
+
+रामायण की चौपाइयों और भजनों के बीच श्रद्धालुओं ने भगवान श्रीराम के जीवन प्रसंग सुने। महेश गोस्वामी, पचौरी राजेश चतुर्वेदी सहित कई ग्रामवासी पाठ और धार्मिक कार्यक्रम में शामिल हुए।
+
+कार्यक्रम के बाद मंदिर परिसर में भंडारा हुआ। बड़ी संख्या में ग्रामवासी और श्रद्धालु पहुंचे और प्रसाद ग्रहण किया। ग्रामीणों ने आयोजन की व्यवस्थाओं में भी सहयोग किया।
+
+### अधूरा नहीं! पढ़िए पूरा! पढ़ें पूरी खबर दैनिक भास्कर ऐप पर
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/local/uttar-pradesh/jhansi/asta/news/sutta-balkhandi-baba-hanuman-mandir-akhand-ramayan-bhandara-139814362.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `सुट्टा में संगीतमय अखंड रामायण का आयोजन: बलखंडी बाबा हनुमान मंदिर में पाठ के बाद भंडारा, श्रद्धालुओं ने प्र... - Dainik Bhaskar`,
+    summary_hi: `ग्राम सुट्टा के प्रसिद्ध बलखंडी बाबा हनुमान जी मंदिर परिसर में संगीतमय अखंड रामायण का आयोजन किया गया। इसमें ग्रामवासियों ने भाग लिया।`,
+    content_hi: `ग्राम सुट्टा के प्रसिद्ध बलखंडी बाबा हनुमान जी मंदिर परिसर में संगीतमय अखंड रामायण का आयोजन किया गया। इसमें ग्रामवासियों ने भाग लिया।
+
+रामायण की चौपाइयों और भजनों के बीच श्रद्धालुओं ने भगवान श्रीराम के जीवन प्रसंग सुने। महेश गोस्वामी, पचौरी राजेश चतुर्वेदी सहित कई ग्रामवासी पाठ और धार्मिक कार्यक्रम में शामिल हुए।
+
+कार्यक्रम के बाद मंदिर परिसर में भंडारा हुआ। बड़ी संख्या में ग्रामवासी और श्रद्धालु पहुंचे और प्रसाद ग्रहण किया। ग्रामीणों ने आयोजन की व्यवस्थाओं में भी सहयोग किया।
+
+### अधूरा नहीं! पढ़िए पूरा! पढ़ें पूरी खबर दैनिक भास्कर ऐप पर
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/local/uttar-pradesh/jhansi/asta/news/sutta-balkhandi-baba-hanuman-mandir-akhand-ramayan-bhandara-139814362.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक सुट्टा में संगीतमय अखंड रामायण का आयोजन: बलखंडी बाबा हनुमान मंदिर में पाठ के बाद भंडारा, श्रद्धालुओं ने प्र... - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+{
     id: 98121,
     title: `England bowl, Owen and Stanlake come in for Australia`,
     slug: `england-bowl-owen-and-stanlake-come-in-for-australia-2026`,
