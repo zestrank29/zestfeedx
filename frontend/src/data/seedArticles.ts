@@ -26,7 +26,5223 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+  
+  
   {
+    id: 98185,
+    title: `Vaibhav Sooryavanshi slams fastest 100 and 200 in List A cricket`,
+    slug: `vaibhav-sooryavanshi-slams-fastest-100-and-200-in-list-a-cricket-2026`,
+    original_title: `Vaibhav Sooryavanshi slams fastest 100 and 200 in List A cricket`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:42:02Z`,
+    updated_at: `2026-11-28T05:42:02Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1563814.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Vaibhav Sooryavanshi slams fastest 100 and 200 in List A cricket`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `The India batter now holds the record for the fastest 50, 100, 150 and 200 in List A cricket`,
+    content: `The India batter now holds the record for the fastest 50, 100, 150 and 200 in List A cricket
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563814.html?ex_cid=OTC-RSS)`,
+    title_en: `Vaibhav Sooryavanshi slams fastest 100 and 200 in List A cricket`,
+    summary_en: `The India batter now holds the record for the fastest 50, 100, 150 and 200 in List A cricket`,
+    content_en: `The India batter now holds the record for the fastest 50, 100, 150 and 200 in List A cricket
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563814.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-98185`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-28 11:12:02 IST`,
+    detected_at: `2026-11-28T05:42:01Z`,
+    verified_at: `2026-11-28T05:42:02Z`,
+    approved_at: `2026-11-28T05:42:02Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding Vaibhav Sooryavanshi slams fastest 100 and 200 in List A cricket.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 98186,
+    title: `ICC's 2027-31 Future Tours Programme to be finalised in January`,
+    slug: `iccs-2027-31-future-tours-programme-to-be-finalised-in-january-2026`,
+    original_title: `ICC's 2027-31 Future Tours Programme to be finalised in January`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:42:02Z`,
+    updated_at: `2026-11-28T05:42:02Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1563804.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1517649763962-0c623266ddc0?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `ICC's 2027-31 Future Tours Programme to be finalised in January`,
+    image_courtesy: `Photo: Stadium Photography Wire (Unsplash License)`,
+    image_photographer: `Stadium Photography Wire`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `The delay in finalising the FTP is the discussion around Zimbabwe's inclusion in the World Test Championship`,
+    content: `The delay in finalising the FTP is the discussion around Zimbabwe's inclusion in the World Test Championship
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563804.html?ex_cid=OTC-RSS)`,
+    title_en: `ICC's 2027-31 Future Tours Programme to be finalised in January`,
+    summary_en: `The delay in finalising the FTP is the discussion around Zimbabwe's inclusion in the World Test Championship`,
+    content_en: `The delay in finalising the FTP is the discussion around Zimbabwe's inclusion in the World Test Championship
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1563804.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-98186`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-28 11:12:02 IST`,
+    detected_at: `2026-11-28T05:42:01Z`,
+    verified_at: `2026-11-28T05:42:02Z`,
+    approved_at: `2026-11-28T05:42:02Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding ICC's 2027-31 Future Tours Programme to be finalised in January.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 98153,
+    title: `More than 65% of Indian adolescents lack adequate Vitamin B12, Survey finds - Mathrubhumi English`,
+    slug: `more-than-65-of-indian-adolescents-lack-adequate-vitamin-b12-survey-fi-2026`,
+    original_title: `More than 65% of Indian adolescents lack adequate Vitamin B12, Survey finds - Mathrubhumi English`,
+    category: `health`,
+    topic: `nutrition`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:40:45Z`,
+    updated_at: `2026-11-28T05:40:45Z`,
+    source_name: `Mathrubhumi English`,
+    source_url: `https://english.mathrubhumi.com/lifestyle/health/icmr-survey-indian-adolescents-vitamin-b12-deficiency-pti8ua92tfu`,
+    source_courtesy: `Source: Mathrubhumi English`,
+    image_url: `/images/articles/more-than-65-of-indian-adolescents-lack-adequate-vitamin-b12-survey-fi-2026.jpg`,
+    image_alt: `More than 65% of Indian adolescents lack adequate Vitamin B12, Survey finds - Mathrubhumi English`,
+    image_courtesy: `Image: Mathrubhumi English (External Source Attribution)`,
+    image_photographer: `Mathrubhumi English`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `New Delhi: Nearly two-thirds of Indian adolescents have vitamin B12 deficiency, with the prevalence marginally higher among boys than girls, according to findings of a national survey conducted by the ICMR-National Institute of Nutrition (I`,
+    content: `New Delhi: Nearly two-thirds of Indian adolescents have vitamin B12 deficiency, with the prevalence marginally higher among boys than girls, according to findings of a national survey conducted by the ICMR-National Institute of Nutrition (ICMR-NIN).
+
+The survey found vitamin B12 deficiency in 66.1 per cent of adolescent boys aged 10-19 years and 65.4 per cent of girls in the same age group. Deficiency was defined as a serum vitamin B12 level below 203 pg/mL.
+
+The findings are part of the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA), conducted during 2023-25 to generate national estimates of anaemia and micronutrient deficiencies across different stages of life.
+
+The survey covered more than 2 lakh people across 183 districts in 35 states and Union Territories and over 81,000 households. More than 1.7 lakh blood samples were analysed, according to the ICMR-NIN factsheet.
+
+Among adolescent girls, vitamin B12 deficiency was more prevalent than iron or folate deficiency. While 65.4 per cent had low vitamin B12 levels, 36.3 per cent had iron deficiency, and 8.6 per cent had folate deficiency.
+
+Among adolescent boys, 66.1 per cent had vitamin B12 deficiency, compared with 10 per cent with iron deficiency and 6.3 per cent with folate deficiency.
+
+The survey found that vitamin B12 deficiency was not limited to adolescents. It was reported in 55.2 per cent of non-pregnant, non-lactating women aged 20-59 years and 57.4 per cent among women of reproductive age (15-49 years).
+
+Among adult men aged 20-59 years, the prevalence stood at 60.4 per cent. It was 41.2 per cent among women aged 60 years and above and 46.8 per cent among men in the same age group.
+
+Vitamin B12 deficiency was also recorded in 63.1 per cent of pregnant women and 51.8 per cent of lactating women.
+
+The survey indicated that the problem begins early in life, with vitamin B12 deficiency reported in 37.3 per cent of children aged 12-59 months and 46.5 per cent of those aged 5-9 years.
+
+The findings also highlighted the difference between micronutrient deficiencies and anaemia. Among adolescent girls, anaemia was reported in 46.3 per cent, while vitamin B12 deficiency affected 65.4 per cent. Among boys, the prevalence of anaemia was 22.8 per cent, compared with 66.1 per cent having vitamin B12 deficiency.
+
+The ICMR-NIN factsheet said SAMPADA provides nationally representative estimates of micronutrient deficiencies across the life course and can help identify nutritional gaps and priority groups for targeted interventions.
+
+(Except for the headline, this story has not been edited by Mathrubhumi and is published from a syndicated feed.)
+
+Published: 27 Nov 2026, 03:37 pm IST
+
+Disclaimer: Kindly avoid objectionable, derogatory, unlawful and lewd comments, while responding to reports. Such comments are punishable under cyber laws. Please keep away from personal attacks. The opinions expressed here are the personal opinions of readers and not that of Mathrubhumi.
+
+### Sabarimala's unique post office: The special Ayyappa stamp and a service that brings prasadam home
+
+### 'Hasina has become a thorn': Bangladesh says ousted PM straining ties with India
+
+### Christchurch Test: Tom Blundell happy with 246/5 on Day 1, targets 300+ against India
+
+### KFC among six restaurants sealed in Dehradun over environmental violations
+
+### Supreme Court orders junk food warning labels, with a separate red flag each for sugar, salt and fat
+
+### Ebola outbreak hits record scale in Congo as rebel fighting hampers containment
+
+### Obesity and fatty liver: When should you consider surgery?
+
+### 75 lakh fake face creams sold monthly worldwide as unregistered brands flood India via Gulf
+
+### Don't wait for joint pain: Why strength training matters as you age
+
+---
+
+**Original Source:** [Mathrubhumi English](https://english.mathrubhumi.com/lifestyle/health/icmr-survey-indian-adolescents-vitamin-b12-deficiency-pti8ua92tfu)`,
+    title_en: `More than 65% of Indian adolescents lack adequate Vitamin B12, Survey finds - Mathrubhumi English`,
+    summary_en: `New Delhi: Nearly two-thirds of Indian adolescents have vitamin B12 deficiency, with the prevalence marginally higher among boys than girls, according to findings of a national survey conducted by the ICMR-National Institute of Nutrition (I`,
+    content_en: `New Delhi: Nearly two-thirds of Indian adolescents have vitamin B12 deficiency, with the prevalence marginally higher among boys than girls, according to findings of a national survey conducted by the ICMR-National Institute of Nutrition (ICMR-NIN).
+
+The survey found vitamin B12 deficiency in 66.1 per cent of adolescent boys aged 10-19 years and 65.4 per cent of girls in the same age group. Deficiency was defined as a serum vitamin B12 level below 203 pg/mL.
+
+The findings are part of the Survey for Assessment of Markers of Population Health, Activity, Diet and Anthropometry (SAMPADA), conducted during 2023-25 to generate national estimates of anaemia and micronutrient deficiencies across different stages of life.
+
+The survey covered more than 2 lakh people across 183 districts in 35 states and Union Territories and over 81,000 households. More than 1.7 lakh blood samples were analysed, according to the ICMR-NIN factsheet.
+
+Among adolescent girls, vitamin B12 deficiency was more prevalent than iron or folate deficiency. While 65.4 per cent had low vitamin B12 levels, 36.3 per cent had iron deficiency, and 8.6 per cent had folate deficiency.
+
+Among adolescent boys, 66.1 per cent had vitamin B12 deficiency, compared with 10 per cent with iron deficiency and 6.3 per cent with folate deficiency.
+
+The survey found that vitamin B12 deficiency was not limited to adolescents. It was reported in 55.2 per cent of non-pregnant, non-lactating women aged 20-59 years and 57.4 per cent among women of reproductive age (15-49 years).
+
+Among adult men aged 20-59 years, the prevalence stood at 60.4 per cent. It was 41.2 per cent among women aged 60 years and above and 46.8 per cent among men in the same age group.
+
+Vitamin B12 deficiency was also recorded in 63.1 per cent of pregnant women and 51.8 per cent of lactating women.
+
+The survey indicated that the problem begins early in life, with vitamin B12 deficiency reported in 37.3 per cent of children aged 12-59 months and 46.5 per cent of those aged 5-9 years.
+
+The findings also highlighted the difference between micronutrient deficiencies and anaemia. Among adolescent girls, anaemia was reported in 46.3 per cent, while vitamin B12 deficiency affected 65.4 per cent. Among boys, the prevalence of anaemia was 22.8 per cent, compared with 66.1 per cent having vitamin B12 deficiency.
+
+The ICMR-NIN factsheet said SAMPADA provides nationally representative estimates of micronutrient deficiencies across the life course and can help identify nutritional gaps and priority groups for targeted interventions.
+
+(Except for the headline, this story has not been edited by Mathrubhumi and is published from a syndicated feed.)
+
+Published: 27 Nov 2026, 03:37 pm IST
+
+Disclaimer: Kindly avoid objectionable, derogatory, unlawful and lewd comments, while responding to reports. Such comments are punishable under cyber laws. Please keep away from personal attacks. The opinions expressed here are the personal opinions of readers and not that of Mathrubhumi.
+
+### Sabarimala's unique post office: The special Ayyappa stamp and a service that brings prasadam home
+
+### 'Hasina has become a thorn': Bangladesh says ousted PM straining ties with India
+
+### Christchurch Test: Tom Blundell happy with 246/5 on Day 1, targets 300+ against India
+
+### KFC among six restaurants sealed in Dehradun over environmental violations
+
+### Supreme Court orders junk food warning labels, with a separate red flag each for sugar, salt and fat
+
+### Ebola outbreak hits record scale in Congo as rebel fighting hampers containment
+
+### Obesity and fatty liver: When should you consider surgery?
+
+### 75 lakh fake face creams sold monthly worldwide as unregistered brands flood India via Gulf
+
+### Don't wait for joint pain: Why strength training matters as you age
+
+---
+
+**Original Source:** [Mathrubhumi English](https://english.mathrubhumi.com/lifestyle/health/icmr-survey-indian-adolescents-vitamin-b12-deficiency-pti8ua92tfu)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Mathrubhumi English.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for More than 65% of Indian adolescents lack adequate Vitamin B12, Survey finds - Mathrubhumi English.`,
+    primary_source: `Mathrubhumi English`,
+  },
+  {
+    id: 98154,
+    title: `66% Of Indian Teenagers Suffer From Vitamin B12 Deficiency, Reveals ICMR Survey - Trak.in`,
+    slug: `66-of-indian-teenagers-suffer-from-vitamin-b12-deficiency-reveals-icmr-2026`,
+    original_title: `66% Of Indian Teenagers Suffer From Vitamin B12 Deficiency, Reveals ICMR Survey - Trak.in`,
+    category: `health`,
+    topic: `nutrition`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:40:47Z`,
+    updated_at: `2026-11-28T05:40:47Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://trak.in/stories/66-of-indian-teenagers-suffer-from-vitamin-b12-deficiency-reveals-icmr-survey/`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/66-of-indian-teenagers-suffer-from-vitamin-b12-deficiency-reveals-icmr-2026.png`,
+    image_alt: `66% Of Indian Teenagers Suffer From Vitamin B12 Deficiency, Reveals ICMR Survey - Trak.in`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `Nearly two-thirds of Indian adolescents have vitamin B12 deficiency, according to a nationwide survey conducted by the Indian Council of Medical Research (ICMR) and the National Institute of Nutrition (NIN).`,
+    content: `Nearly two-thirds of Indian adolescents have vitamin B12 deficiency, according to a nationwide survey conducted by the Indian Council of Medical Research (ICMR) and the National Institute of Nutrition (NIN).
+
+The findings highlight a widespread nutritional challenge affecting children, adolescents, adults and pregnant women across India.
+
+Conducted between 2023 and 2025, the SAMPADA survey covered more than two lakh individuals from 81,000 households across 183 districts in 35 states and Union Territories.
+
+Researchers analysed over 1.7 lakh blood samples for haemoglobin estimation, with a subset examined for micronutrient deficiencies.
+
+Over 60% Of Indian Men And Pregnant Women Have Vitamin B12 Deficiency
+
+The survey defined vitamin B12 deficiency as serum vitamin B12 levels below 203 picograms per millilitre.
+
+The prevalence of vitamin B12 deficiency across different population groups was recorded as follows:
+
+The findings indicate that low vitamin B12 levels are widespread across both urban and rural populations.
+
+Why Vitamin B12 Is Essential For Human Health
+
+Vitamin B12 supports red blood cell production, DNA synthesis, brain development and healthy neurological functioning.
+
+Prolonged deficiency can cause fatigue, muscle weakness, memory difficulties, numbness and impaired balance. Severe, untreated deficiency can potentially result in permanent neurological damage.
+
+Among infants, inadequate vitamin B12 levels can contribute to developmental delays.
+
+Low maternal vitamin B12 levels have also been associated with adverse pregnancy outcomes, including low birth weight and developmental complications.
+
+What Causes Vitamin B12 Deficiency?
+
+Vitamin B12 occurs naturally in animal-based foods, including fish, meat, eggs and dairy products.
+
+Individuals consuming predominantly plant-based diets without adequate fortified foods or supplementation may face a higher risk of deficiency.
+
+However, inadequate dietary intake is not the only cause. Certain medical conditions, medications and impaired nutrient absorption can also contribute to low vitamin B12 levels.
+
+Experts Call For Changes In India’s Nutrition Programmes
+
+India’s existing anaemia prevention programmes primarily focus on iron and folic acid supplementation.
+
+Some medical experts have recommended greater attention to vitamin B12 through nutritional awareness, targeted supplementation and carefully planned food fortification.
+
+However, other researchers have cautioned against interpreting laboratory-based deficiency estimates as evidence of widespread clinical illness.
+
+The survey found comparable rates of vitamin B12 deficiency among individuals with and without anaemia.
+
+Experts have therefore called for further research to establish appropriate diagnostic thresholds for Indian populations and evaluate the actual health benefits of large-scale supplementation before introducing nationwide interventions.
+
+An ICMR nationwide nutrition survey has found vitamin B12 deficiency in 66.1% of adolescent boys, 65.4% of adolescent girls and 63.1% of pregnant women in India. The findings highlight potential nutritional and neurological health concerns. While experts have recommended greater attention to vitamin B12 intake, further research is needed to establish population-specific diagnostic thresholds and effective public health interventions.
+
+Get latest news and views related to startups, tech and business
+
+### Air India Plans Rs 6,000 Crore Cost Savings After Reporting Rs 22,238 Crore Annual Loss
+
+### India Plans Up To 30% Export Duty On Non-Basmati Rice To Control Prices
+
+### Indian Govt Asks Netflix To Stop Streaming Pakistani Content
+
+### HSBC Can Fire Employees In Pune, Hyderabad Amidst Restructuring Support Operations
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://trak.in/stories/66-of-indian-teenagers-suffer-from-vitamin-b12-deficiency-reveals-icmr-survey/)`,
+    title_en: `66% Of Indian Teenagers Suffer From Vitamin B12 Deficiency, Reveals ICMR Survey - Trak.in`,
+    summary_en: `Nearly two-thirds of Indian adolescents have vitamin B12 deficiency, according to a nationwide survey conducted by the Indian Council of Medical Research (ICMR) and the National Institute of Nutrition (NIN).`,
+    content_en: `Nearly two-thirds of Indian adolescents have vitamin B12 deficiency, according to a nationwide survey conducted by the Indian Council of Medical Research (ICMR) and the National Institute of Nutrition (NIN).
+
+The findings highlight a widespread nutritional challenge affecting children, adolescents, adults and pregnant women across India.
+
+Conducted between 2023 and 2025, the SAMPADA survey covered more than two lakh individuals from 81,000 households across 183 districts in 35 states and Union Territories.
+
+Researchers analysed over 1.7 lakh blood samples for haemoglobin estimation, with a subset examined for micronutrient deficiencies.
+
+Over 60% Of Indian Men And Pregnant Women Have Vitamin B12 Deficiency
+
+The survey defined vitamin B12 deficiency as serum vitamin B12 levels below 203 picograms per millilitre.
+
+The prevalence of vitamin B12 deficiency across different population groups was recorded as follows:
+
+The findings indicate that low vitamin B12 levels are widespread across both urban and rural populations.
+
+Why Vitamin B12 Is Essential For Human Health
+
+Vitamin B12 supports red blood cell production, DNA synthesis, brain development and healthy neurological functioning.
+
+Prolonged deficiency can cause fatigue, muscle weakness, memory difficulties, numbness and impaired balance. Severe, untreated deficiency can potentially result in permanent neurological damage.
+
+Among infants, inadequate vitamin B12 levels can contribute to developmental delays.
+
+Low maternal vitamin B12 levels have also been associated with adverse pregnancy outcomes, including low birth weight and developmental complications.
+
+What Causes Vitamin B12 Deficiency?
+
+Vitamin B12 occurs naturally in animal-based foods, including fish, meat, eggs and dairy products.
+
+Individuals consuming predominantly plant-based diets without adequate fortified foods or supplementation may face a higher risk of deficiency.
+
+However, inadequate dietary intake is not the only cause. Certain medical conditions, medications and impaired nutrient absorption can also contribute to low vitamin B12 levels.
+
+Experts Call For Changes In India’s Nutrition Programmes
+
+India’s existing anaemia prevention programmes primarily focus on iron and folic acid supplementation.
+
+Some medical experts have recommended greater attention to vitamin B12 through nutritional awareness, targeted supplementation and carefully planned food fortification.
+
+However, other researchers have cautioned against interpreting laboratory-based deficiency estimates as evidence of widespread clinical illness.
+
+The survey found comparable rates of vitamin B12 deficiency among individuals with and without anaemia.
+
+Experts have therefore called for further research to establish appropriate diagnostic thresholds for Indian populations and evaluate the actual health benefits of large-scale supplementation before introducing nationwide interventions.
+
+An ICMR nationwide nutrition survey has found vitamin B12 deficiency in 66.1% of adolescent boys, 65.4% of adolescent girls and 63.1% of pregnant women in India. The findings highlight potential nutritional and neurological health concerns. While experts have recommended greater attention to vitamin B12 intake, further research is needed to establish population-specific diagnostic thresholds and effective public health interventions.
+
+Get latest news and views related to startups, tech and business
+
+### Air India Plans Rs 6,000 Crore Cost Savings After Reporting Rs 22,238 Crore Annual Loss
+
+### India Plans Up To 30% Export Duty On Non-Basmati Rice To Control Prices
+
+### Indian Govt Asks Netflix To Stop Streaming Pakistani Content
+
+### HSBC Can Fire Employees In Pune, Hyderabad Amidst Restructuring Support Operations
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://trak.in/stories/66-of-indian-teenagers-suffer-from-vitamin-b12-deficiency-reveals-icmr-survey/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for 66% Of Indian Teenagers Suffer From Vitamin B12 Deficiency, Reveals ICMR Survey - Trak.in.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 98155,
+    title: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    slug: `health-breaking-report-97517-98155-2026`,
+    original_title: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:40:52Z`,
+    updated_at: `2026-11-28T05:40:52Z`,
+    source_name: `BBC`,
+    source_url: `https://www.bbc.com/hindi/articles/c5m2lke8jdzzo`,
+    source_courtesy: `Source: BBC`,
+    image_url: `/images/articles/health-breaking-report-97517-98155-2026.jpg`,
+    image_alt: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    image_courtesy: `Image: BBC (External Source Attribution)`,
+    image_photographer: `BBC`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.`,
+    content: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.
+
+साल 2025 में भारत, पाकिस्तान, इंडोनेशिया, यूक्रेन, नाइजीरिया और इथियोपिया समेत 57 देशों में खसरे के बड़े प्रकोप दर्ज किए गए.
+
+विशेषज्ञों का कहना है कि मामलों में बढ़ोतरी का सीधा संबंध टीकाकरण की घटती दरों से है. विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) के मुताबिक़, साल 2019 में दुनियाभर के 86% बच्चों को खसरे के टीके की पहली खुराक दी गई थी, लेकिन साल 2025 तक यह आंकड़ा घटकर 84% हो गया.
+
+हालांकि ये दोनों आंकड़े भी उस 95% टीकाकरण कवरेज से काफ़ी कम हैं, जो किसी आबादी में खसरे के प्रसार को रोकने के लिए ज़रूरी है.
+
+टीकाकरण के प्रति हिचकिचाहट, टीकाकरण की कम दरों के पीछे एक प्रमुख कारण है. टीकों की सुरक्षा, उनके असर और उनके दुष्प्रभावों को लेकर चिंताएं ऑनलाइन ग़लत सूचनाओं के प्रसार से और बढ़ जाती हैं.
+
+लंदन स्कूल ऑफ़ हाइजीन एंड ट्रॉपिकल मेडिसिन में बाल स्वास्थ्य की प्रोफेसर हेलेन बेडफोर्ड कहती हैं, "इंटरनेट और मीडिया के इस दौर में टीकाकरण से जुड़े मिथक, अफ़वाहें और चिंताएं बहुत तेज़ी से दुनियाभर में फैल सकती हैं."
+
+हालांकि, ब्रिटेन की यूनिवर्सिटी ऑफ हडर्सफ़ील्ड में निवारक स्वास्थ्य की शोधकर्ता सुज़ाना कोला-पामर का कहना है कि टीकाकरण को लेकर हिचकिचाने वाले लोगों को तुरंत टीका-विरोधी नहीं मान लेना चाहिए.
+
+वह बीबीसी वर्ल्ड सर्विस से कहती हैं कि इसके बजाय, उनमें से कई लोग सिर्फ़ "आश्वासन चाहते हैं."
+
+तो वैज्ञानिक कैसे तय करते हैं कि कोई टीका सुरक्षित है और आप ऑनलाइन फैलाई जा रही ग़लत सूचनाओं की पहचान कैसे कर सकते हैं?
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+आज भी टीकों के विकास को चिकित्सा विज्ञान की सबसे बड़ी उपलब्धियों में से एक माना जाता है. डब्ल्यूएचओ का अनुमान है कि खसरा, टिटनेस, डिप्थीरिया और इन्फ्लुएंजा जैसी बीमारियों से हर साल 35 लाख से 50 लाख लोगों की जान बचाने में टीके मदद करते हैं.
+
+टीका शरीर की प्रतिरक्षा प्रणाली (इम्यून सिस्टम) को किसी संक्रमण की पहचान करना और उससे लड़ना सिखाता है, ताकि वास्तविक संक्रमण के संपर्क में आने से पहले ही शरीर उससे निपटने के लिए तैयार हो जाए.
+
+बेडफोर्ड बताती हैं, "टीके वास्तविक संक्रमण से गुज़रे बिना ही वह इम्यूनिटी दे देते हैं, जो आमतौर पर वास्तव में संक्रमण होने पर शरीर में विकसित होती है."
+
+उदाहरण के लिए, मम्प्स (गलसुआ), खसरा और रूबेला (एमएमआर) का टीका इन बीमारियों का कारण बनने वाले वायरस के कमज़ोर रूपों से तैयार किया जाता है. इसे शरीर में इंजेक्ट करने पर प्रतिरक्षा प्रणाली सक्रिय हो जाती है और भविष्य में वास्तविक संक्रमण के संपर्क में आने पर वह उसे पहचानकर तुरंत प्रतिक्रिया देती है.
+
+हालांकि, सभी टीके एक ही तरह से काम नहीं करते.
+
+मैसेंजर आरएनए (एमआरएनए) टीकों में आनुवंशिक निर्देशों का इस्तेमाल किया जाता है, जो अस्थायी रूप से कोशिकाओं को बिना नुक़सान वाले प्रोटीन बनाने के लिए कहते हैं.
+
+यह प्रोटीन शरीर में इम्यून रेस्पॉन्स पैदा करता है. फाइज़र का कोविड-19 टीका एमआरएनए टीके का एक उदाहरण है.
+
+### टीकों का परीक्षण कैसे किया जाता है?
+
+यह प्रक्रिया वैज्ञानिक शोध से शुरू होती है. इसमें यह देखा जाता है कि इस विषय पर क्षेत्र के दूसरे शोधकर्ताओं ने क्या काम किया है और वे किन निष्कर्षों पर पहुंचे हैं.
+
+जब वैज्ञानिक किसी नए विचार का परीक्षण करने के लिए तैयार होते हैं, तो वे प्रयोगशाला में जांच शुरू करते हैं. जांच सबसे पहले कोशिकाओं पर और फिर जानवरों पर, जिनमें अक्सर चूहों का इस्तेमाल किया जाता है.
+
+ऑक्सफोर्ड यूनिवर्सिटी के वैक्सीन नॉलेज प्रोजेक्ट के मुताबिक़, अगले चरण के परीक्षणों में जाने से पहले यह साबित करना ज़रूरी होता है कि परीक्षण किया जा रहा टीका जानवरों में इम्यून रेस्पॉन्स पैदा कर सकता है.
+
+इसके बाद इंसानों पर परीक्षण किए जाते हैं, जिन्हें आमतौर पर तीन चरणों में बांटा जाता है.
+
+फेज़ 1- पहले चरण में वॉलंटियर्स के एक छोटे समूह पर परीक्षण किया जाता है. इनमें आमतौर पर युवा और स्वस्थ वयस्क शामिल होते हैं. डब्ल्यूएचओ के मुताबिक़, इस चरण में सुरक्षा से जुड़ी किसी बड़ी चिंता और टीके की सही खुराक का पता लगाया जाता है.
+
+फेज़ 2- दूसरे चरण में स्वयंसेवकों के एक बड़े समूह पर परीक्षण किया जाता है. इसमें आमतौर पर कई सौ लोग शामिल होते हैं, जो उस आबादी से होते हैं जिसके लिए टीका तैयार किया गया है.
+
+उनकी तुलना ऐसे लोगों के एक समूह से की जाती है जिन्हें टीका नहीं दिया गया होता. इसे कंट्रोल ग्रुप कहा जाता है. डॉक्टर टीके के संभावित दुष्प्रभावों और शरीर की प्रतिरक्षा प्रतिक्रिया का अध्ययन करते हैं.
+
+फेज़ 3- तीसरे चरण में इससे भी बड़े समूह पर टीके का परीक्षण किया जाता है. इसमें आमतौर पर हज़ारों वॉलंटियर्स शामिल होते हैं. साथ ही एक कंट्रोल ग्रुप भी रखा जाता है.
+
+ये परीक्षण आमतौर पर अलग-अलग देशों में किए जाते हैं, ताकि यह सुनिश्चित किया जा सके कि टीका अलग-अलग उम्र, जातीयता (एथनेसिटी), सामाजिक पृष्ठभूमि और रहन-सहन वाले लोगों के बीच प्रभावी और सुरक्षित है.
+
+किसी टीके को इन तीनों चरणों से गुज़रने में कई दशक भी लग सकते हैं. मेनबी के नाम से जाने जाने वाले मेनिंगोकोकल बीमारी के टीके को विकसित करने में क़रीब 15 साल लगे थे.
+
+बेडफोर्ड कहती हैं, "जब आप किसी पूरी आबादी के स्वस्थ बच्चों को कोई टीका देने जा रहे होते हैं, तो आपको पूरी तरह आश्वस्त होना पड़ता है कि वह बहुत सुरक्षित है."
+
+हालांकि, असाधारण परिस्थितियों में सुरक्षा जांच से समझौता किए बिना टीकों को तेज़ी से विकसित और उनका परीक्षण किया जा सकता है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c5m2lke8jdzzo)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `हमें कैसे पता चलेगा कि टीके सुरक्षित हैं?`,
+    summary_hi: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.`,
+    content_hi: `अत्यधिक संक्रामक बीमारी के दुनियाभर में दोबारा फैलने के बाद, 25 साल से अधिक समय में पहली बार अमेरिका ने खसरा (मिज़िल्स) उन्मूलन का दर्जा खो दिया है.
+
+साल 2025 में भारत, पाकिस्तान, इंडोनेशिया, यूक्रेन, नाइजीरिया और इथियोपिया समेत 57 देशों में खसरे के बड़े प्रकोप दर्ज किए गए.
+
+विशेषज्ञों का कहना है कि मामलों में बढ़ोतरी का सीधा संबंध टीकाकरण की घटती दरों से है. विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) के मुताबिक़, साल 2019 में दुनियाभर के 86% बच्चों को खसरे के टीके की पहली खुराक दी गई थी, लेकिन साल 2025 तक यह आंकड़ा घटकर 84% हो गया.
+
+हालांकि ये दोनों आंकड़े भी उस 95% टीकाकरण कवरेज से काफ़ी कम हैं, जो किसी आबादी में खसरे के प्रसार को रोकने के लिए ज़रूरी है.
+
+टीकाकरण के प्रति हिचकिचाहट, टीकाकरण की कम दरों के पीछे एक प्रमुख कारण है. टीकों की सुरक्षा, उनके असर और उनके दुष्प्रभावों को लेकर चिंताएं ऑनलाइन ग़लत सूचनाओं के प्रसार से और बढ़ जाती हैं.
+
+लंदन स्कूल ऑफ़ हाइजीन एंड ट्रॉपिकल मेडिसिन में बाल स्वास्थ्य की प्रोफेसर हेलेन बेडफोर्ड कहती हैं, "इंटरनेट और मीडिया के इस दौर में टीकाकरण से जुड़े मिथक, अफ़वाहें और चिंताएं बहुत तेज़ी से दुनियाभर में फैल सकती हैं."
+
+हालांकि, ब्रिटेन की यूनिवर्सिटी ऑफ हडर्सफ़ील्ड में निवारक स्वास्थ्य की शोधकर्ता सुज़ाना कोला-पामर का कहना है कि टीकाकरण को लेकर हिचकिचाने वाले लोगों को तुरंत टीका-विरोधी नहीं मान लेना चाहिए.
+
+वह बीबीसी वर्ल्ड सर्विस से कहती हैं कि इसके बजाय, उनमें से कई लोग सिर्फ़ "आश्वासन चाहते हैं."
+
+तो वैज्ञानिक कैसे तय करते हैं कि कोई टीका सुरक्षित है और आप ऑनलाइन फैलाई जा रही ग़लत सूचनाओं की पहचान कैसे कर सकते हैं?
+
+बीबीसी हिन्दी के संपादक आपके लिए लेकर आए हैं स्पेशल स्टोरीज़
+
+आज भी टीकों के विकास को चिकित्सा विज्ञान की सबसे बड़ी उपलब्धियों में से एक माना जाता है. डब्ल्यूएचओ का अनुमान है कि खसरा, टिटनेस, डिप्थीरिया और इन्फ्लुएंजा जैसी बीमारियों से हर साल 35 लाख से 50 लाख लोगों की जान बचाने में टीके मदद करते हैं.
+
+टीका शरीर की प्रतिरक्षा प्रणाली (इम्यून सिस्टम) को किसी संक्रमण की पहचान करना और उससे लड़ना सिखाता है, ताकि वास्तविक संक्रमण के संपर्क में आने से पहले ही शरीर उससे निपटने के लिए तैयार हो जाए.
+
+बेडफोर्ड बताती हैं, "टीके वास्तविक संक्रमण से गुज़रे बिना ही वह इम्यूनिटी दे देते हैं, जो आमतौर पर वास्तव में संक्रमण होने पर शरीर में विकसित होती है."
+
+उदाहरण के लिए, मम्प्स (गलसुआ), खसरा और रूबेला (एमएमआर) का टीका इन बीमारियों का कारण बनने वाले वायरस के कमज़ोर रूपों से तैयार किया जाता है. इसे शरीर में इंजेक्ट करने पर प्रतिरक्षा प्रणाली सक्रिय हो जाती है और भविष्य में वास्तविक संक्रमण के संपर्क में आने पर वह उसे पहचानकर तुरंत प्रतिक्रिया देती है.
+
+हालांकि, सभी टीके एक ही तरह से काम नहीं करते.
+
+मैसेंजर आरएनए (एमआरएनए) टीकों में आनुवंशिक निर्देशों का इस्तेमाल किया जाता है, जो अस्थायी रूप से कोशिकाओं को बिना नुक़सान वाले प्रोटीन बनाने के लिए कहते हैं.
+
+यह प्रोटीन शरीर में इम्यून रेस्पॉन्स पैदा करता है. फाइज़र का कोविड-19 टीका एमआरएनए टीके का एक उदाहरण है.
+
+### टीकों का परीक्षण कैसे किया जाता है?
+
+यह प्रक्रिया वैज्ञानिक शोध से शुरू होती है. इसमें यह देखा जाता है कि इस विषय पर क्षेत्र के दूसरे शोधकर्ताओं ने क्या काम किया है और वे किन निष्कर्षों पर पहुंचे हैं.
+
+जब वैज्ञानिक किसी नए विचार का परीक्षण करने के लिए तैयार होते हैं, तो वे प्रयोगशाला में जांच शुरू करते हैं. जांच सबसे पहले कोशिकाओं पर और फिर जानवरों पर, जिनमें अक्सर चूहों का इस्तेमाल किया जाता है.
+
+ऑक्सफोर्ड यूनिवर्सिटी के वैक्सीन नॉलेज प्रोजेक्ट के मुताबिक़, अगले चरण के परीक्षणों में जाने से पहले यह साबित करना ज़रूरी होता है कि परीक्षण किया जा रहा टीका जानवरों में इम्यून रेस्पॉन्स पैदा कर सकता है.
+
+इसके बाद इंसानों पर परीक्षण किए जाते हैं, जिन्हें आमतौर पर तीन चरणों में बांटा जाता है.
+
+फेज़ 1- पहले चरण में वॉलंटियर्स के एक छोटे समूह पर परीक्षण किया जाता है. इनमें आमतौर पर युवा और स्वस्थ वयस्क शामिल होते हैं. डब्ल्यूएचओ के मुताबिक़, इस चरण में सुरक्षा से जुड़ी किसी बड़ी चिंता और टीके की सही खुराक का पता लगाया जाता है.
+
+फेज़ 2- दूसरे चरण में स्वयंसेवकों के एक बड़े समूह पर परीक्षण किया जाता है. इसमें आमतौर पर कई सौ लोग शामिल होते हैं, जो उस आबादी से होते हैं जिसके लिए टीका तैयार किया गया है.
+
+उनकी तुलना ऐसे लोगों के एक समूह से की जाती है जिन्हें टीका नहीं दिया गया होता. इसे कंट्रोल ग्रुप कहा जाता है. डॉक्टर टीके के संभावित दुष्प्रभावों और शरीर की प्रतिरक्षा प्रतिक्रिया का अध्ययन करते हैं.
+
+फेज़ 3- तीसरे चरण में इससे भी बड़े समूह पर टीके का परीक्षण किया जाता है. इसमें आमतौर पर हज़ारों वॉलंटियर्स शामिल होते हैं. साथ ही एक कंट्रोल ग्रुप भी रखा जाता है.
+
+ये परीक्षण आमतौर पर अलग-अलग देशों में किए जाते हैं, ताकि यह सुनिश्चित किया जा सके कि टीका अलग-अलग उम्र, जातीयता (एथनेसिटी), सामाजिक पृष्ठभूमि और रहन-सहन वाले लोगों के बीच प्रभावी और सुरक्षित है.
+
+किसी टीके को इन तीनों चरणों से गुज़रने में कई दशक भी लग सकते हैं. मेनबी के नाम से जाने जाने वाले मेनिंगोकोकल बीमारी के टीके को विकसित करने में क़रीब 15 साल लगे थे.
+
+बेडफोर्ड कहती हैं, "जब आप किसी पूरी आबादी के स्वस्थ बच्चों को कोई टीका देने जा रहे होते हैं, तो आपको पूरी तरह आश्वस्त होना पड़ता है कि वह बहुत सुरक्षित है."
+
+हालांकि, असाधारण परिस्थितियों में सुरक्षा जांच से समझौता किए बिना टीकों को तेज़ी से विकसित और उनका परीक्षण किया जा सकता है.
+
+---
+
+**मूल स्रोत (Original Source):** [BBC](https://www.bbc.com/hindi/articles/c5m2lke8jdzzo)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट BBC के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक हमें कैसे पता चलेगा कि टीके सुरक्षित हैं? से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `BBC`,
+  },
+  {
+    id: 98156,
+    title: `मच्छर व वायरल सक्रिय: शहर में बढ़ गए प्लेटलेट्स गिरने व बुखार के रोगी - Dainik Bhaskar`,
+    slug: `health-breaking-report-62661-98156-2026`,
+    original_title: `मच्छर व वायरल सक्रिय: शहर में बढ़ गए प्लेटलेट्स गिरने व बुखार के रोगी - Dainik Bhaskar`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:40:54Z`,
+    updated_at: `2026-11-28T05:40:54Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/local/rajasthan/jodhpur/news/mosquitoes-and-viruses-are-active-patients-with-falling-platelets-and-fever-have-increased-in-the-city-dbp-139819899.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/health-breaking-report-62661-98156-2026.jpg`,
+    image_alt: `मच्छर व वायरल सक्रिय: शहर में बढ़ गए प्लेटलेट्स गिरने व बुखार के रोगी - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `देश के कई हिस्सों में डेंगू के मामले सामने आने के बीच जोधपुर में भी डेंगू जैसे लक्षण वाले मरीज अस्पतालों में पहुंच रहे हैं। हालांकि जांच रिपोर्ट में डेंगू की पुष्टि नहीं हो रही, लेकिन मरीजों के प्लेटलेट्स कम मिल रहे हैं। एमडीएम अस्पताल में `,
+    content: `देश के कई हिस्सों में डेंगू के मामले सामने आने के बीच जोधपुर में भी डेंगू जैसे लक्षण वाले मरीज अस्पतालों में पहुंच रहे हैं। हालांकि जांच रिपोर्ट में डेंगू की पुष्टि नहीं हो रही, लेकिन मरीजों के प्लेटलेट्स कम मिल रहे हैं। एमडीएम अस्पताल में रोजाना 3-4
+
+मेडिसिन के सीनियर प्रोफेसर डॉ. नवीन किशोरिया ने बताया कि अस्पताल में ऐसे मरीज आ रहे हैं, जिनमें क्लिनिकल परीक्षण के दौरान डेंगू जैसे लक्षण दिखाई दे रहे हैं, जांच रिपोर्ट में डेंगू की पुष्टि नहीं हो रही। एम्स की साप्ताहिक रिपोर्ट में भी 4-5 डेंगू के मरीज सामने आ रहे हैं। मलेरिया के एक-दो मामले भी मिल रहे हैं।
+
+थ्रोम्बोसाइटोपीनिया में खून में प्लेटलेट्स घटती हैं
+
+थ्रोम्बोसाइटोपीनिया अलग बीमारी नहीं, बल्कि खून में प्लेटलेट्स सामान्य से कम होने की स्थिति है। सामान्य तौर पर एक माइक्रोलीटर खून में डेढ़ लाख से साढ़े चार लाख तक प्लेटलेट्स होते हैं। प्लेटलेट्स शरीर में खून का थक्का जमाने और रक्तस्राव रोकने में अहम भूमिका निभाते हैं। इनकी संख्या कम होने पर शरीर में खून बहने का खतरा बढ़ सकता है।
+
+वायरल संक्रमण भी घटा सकता है प्लेटलेट्स
+
+मेडिसिन विशेषज्ञ प्रो. डॉ. पुनीत नाग ने बताया कि डेंगू के अलावा दूसरे वायरल संक्रमण भी शरीर में प्लेटलेट्स की संख्या कम कर सकते हैं। कुछ वायरल संक्रमण में बोनमैरो में प्लेटलेट्स बनने की प्रक्रिया प्रभावित होती है। जबकि कुछ में प्लेटलेट्स तेजी से नष्ट होने लगते हैं। इसलिए प्लेटलेट्स कम होने का मतलब हर बार डेंगू होना नहीं है। मरीज की स्थिति, लक्षण और अन्य जांचों के आधार पर बीमारी का कारण पता लगाया जाता है।
+
+प्लेटलेट्स कम होने पर त्वचा पर लाल या बैंगनी रंग के छोटे धब्बे, नाक और मसूड़ों से खून आना, शरीर पर आसानी से नीले निशान पड़ना और पेशाब या मल में खून आना जैसे लक्षण दिख सकते हैं। अत्यधिक कमजोरी, तेज पेट दर्द, लगातार उल्टी या किसी भी तरह का रक्तस्राव होने पर तुरंत अस्पताल पहुंचना चाहिए। विशेषज्ञों के अनुसार प्लेटलेट्स की संख्या के साथ मरीज की क्लिनिकल स्थिति पर नजर रखना जरूरी है। बिना चिकित्सकीय सलाह के प्लेटलेट्स चढ़वाने या दवाएं लेने से बचना चाहिए।
+
+### अधूरा नहीं! पढ़िए पूरा! पढ़ें पूरी खबर दैनिक भास्कर ऐप पर
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/local/rajasthan/jodhpur/news/mosquitoes-and-viruses-are-active-patients-with-falling-platelets-and-fever-have-increased-in-the-city-dbp-139819899.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `मच्छर व वायरल सक्रिय: शहर में बढ़ गए प्लेटलेट्स गिरने व बुखार के रोगी - Dainik Bhaskar`,
+    summary_hi: `देश के कई हिस्सों में डेंगू के मामले सामने आने के बीच जोधपुर में भी डेंगू जैसे लक्षण वाले मरीज अस्पतालों में पहुंच रहे हैं। हालांकि जांच रिपोर्ट में डेंगू की पुष्टि नहीं हो रही, लेकिन मरीजों के प्लेटलेट्स कम मिल रहे हैं। एमडीएम अस्पताल में `,
+    content_hi: `देश के कई हिस्सों में डेंगू के मामले सामने आने के बीच जोधपुर में भी डेंगू जैसे लक्षण वाले मरीज अस्पतालों में पहुंच रहे हैं। हालांकि जांच रिपोर्ट में डेंगू की पुष्टि नहीं हो रही, लेकिन मरीजों के प्लेटलेट्स कम मिल रहे हैं। एमडीएम अस्पताल में रोजाना 3-4
+
+मेडिसिन के सीनियर प्रोफेसर डॉ. नवीन किशोरिया ने बताया कि अस्पताल में ऐसे मरीज आ रहे हैं, जिनमें क्लिनिकल परीक्षण के दौरान डेंगू जैसे लक्षण दिखाई दे रहे हैं, जांच रिपोर्ट में डेंगू की पुष्टि नहीं हो रही। एम्स की साप्ताहिक रिपोर्ट में भी 4-5 डेंगू के मरीज सामने आ रहे हैं। मलेरिया के एक-दो मामले भी मिल रहे हैं।
+
+थ्रोम्बोसाइटोपीनिया में खून में प्लेटलेट्स घटती हैं
+
+थ्रोम्बोसाइटोपीनिया अलग बीमारी नहीं, बल्कि खून में प्लेटलेट्स सामान्य से कम होने की स्थिति है। सामान्य तौर पर एक माइक्रोलीटर खून में डेढ़ लाख से साढ़े चार लाख तक प्लेटलेट्स होते हैं। प्लेटलेट्स शरीर में खून का थक्का जमाने और रक्तस्राव रोकने में अहम भूमिका निभाते हैं। इनकी संख्या कम होने पर शरीर में खून बहने का खतरा बढ़ सकता है।
+
+वायरल संक्रमण भी घटा सकता है प्लेटलेट्स
+
+मेडिसिन विशेषज्ञ प्रो. डॉ. पुनीत नाग ने बताया कि डेंगू के अलावा दूसरे वायरल संक्रमण भी शरीर में प्लेटलेट्स की संख्या कम कर सकते हैं। कुछ वायरल संक्रमण में बोनमैरो में प्लेटलेट्स बनने की प्रक्रिया प्रभावित होती है। जबकि कुछ में प्लेटलेट्स तेजी से नष्ट होने लगते हैं। इसलिए प्लेटलेट्स कम होने का मतलब हर बार डेंगू होना नहीं है। मरीज की स्थिति, लक्षण और अन्य जांचों के आधार पर बीमारी का कारण पता लगाया जाता है।
+
+प्लेटलेट्स कम होने पर त्वचा पर लाल या बैंगनी रंग के छोटे धब्बे, नाक और मसूड़ों से खून आना, शरीर पर आसानी से नीले निशान पड़ना और पेशाब या मल में खून आना जैसे लक्षण दिख सकते हैं। अत्यधिक कमजोरी, तेज पेट दर्द, लगातार उल्टी या किसी भी तरह का रक्तस्राव होने पर तुरंत अस्पताल पहुंचना चाहिए। विशेषज्ञों के अनुसार प्लेटलेट्स की संख्या के साथ मरीज की क्लिनिकल स्थिति पर नजर रखना जरूरी है। बिना चिकित्सकीय सलाह के प्लेटलेट्स चढ़वाने या दवाएं लेने से बचना चाहिए।
+
+### अधूरा नहीं! पढ़िए पूरा! पढ़ें पूरी खबर दैनिक भास्कर ऐप पर
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/local/rajasthan/jodhpur/news/mosquitoes-and-viruses-are-active-patients-with-falling-platelets-and-fever-have-increased-in-the-city-dbp-139819899.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक मच्छर व वायरल सक्रिय: शहर में बढ़ गए प्लेटलेट्स गिरने व बुखार के रोगी - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+  {
+    id: 98157,
+    title: `SC orders lamp to be lit at Thiruparankundram Deepathoon on Nov 28, suspends temple trustees - The News Minute`,
+    slug: `sc-orders-lamp-to-be-lit-at-thiruparankundram-deepathoon-on-nov-28-sus-2026`,
+    original_title: `SC orders lamp to be lit at Thiruparankundram Deepathoon on Nov 28, suspends temple trustees - The News Minute`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:40:55Z`,
+    updated_at: `2026-11-28T05:40:55Z`,
+    source_name: `The News Minute`,
+    source_url: `https://www.thenewsminute.com/tamil-nadu/sc-orders-deepathoon-lamp-to-be-lit-at-thiruparankundram-on-nov-28-suspends-temple-trustees`,
+    source_courtesy: `Source: The News Minute`,
+    image_url: `/images/articles/sc-orders-lamp-to-be-lit-at-thiruparankundram-deepathoon-on-nov-28-sus-2026.jpg`,
+    image_alt: `SC orders lamp to be lit at Thiruparankundram Deepathoon on Nov 28, suspends temple trustees - The News Minute`,
+    image_courtesy: `Image: The News Minute (External Source Attribution)`,
+    image_photographer: `The News Minute`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `The Supreme Court on Friday suspended the board of trustees of the Thiruparankundram temple in Madurai district and ordered that the Karthigai Deepam be lit at the disputed pillar or Deepathoon on Saturday, November 28, after its earlier or`,
+    content: `The Supreme Court on Friday suspended the board of trustees of the Thiruparankundram temple in Madurai district and ordered that the Karthigai Deepam be lit at the disputed pillar or Deepathoon on Saturday, November 28, after its earlier order was not carried out.A Bench of Justices Aravind Kumar and Vipul M Pancholi appointed former High Court judges Justice S Vaidyanathan and Justice V Parthipan as receivers to administer the temple, according to the Live Law.
+
+They have to ensure that the lamp is lit, using the flame at Uchipillaiyar.The Supreme Court has also handed over the security of the entire hill to the Central Reserve Police Force (CRPF), citing the failure of the Tamil Nadu Police to implement its orders.The court has directed CRPF to ensure the peaceful functioning of the temple and the Dargah.&nbsp;A Siva temple and the Uchi Pillaiyar temple are located on the lower part of the Tirupurakundram hill, while the dargah stands at its summit.
+
+For decades, the customary Karthigai Deepam has been lit near the Uchi Pillaiyar Temple by the temple management. In 2025, however, Hindutva groups went to court demanding that the lamp be lit on the ‘deepathoon’, a stone pillar located at the hilltop, about 50 metres from the dargah.
+
+The DMK government did not implement the court’s order, and the new TVK government has followed the same course, this time citing the temple Devasthanam’s decision.The Supreme Court strongly criticised the Tamil Nadu government for not lighting the Karthigai Deepam at the pillar on November 24, as said in its earlier order.&nbsp;The court called the non-compliance a “flagrant violation and disobedience” and directed that the lamp be lit at the controversial site before the end of the ongoing Karthigai month.The court permitted every devotee to light it at the disputed site, at least 50 metres from the nearby dargah on all sides.
+
+It also directed the Central Reserve Police Force (CRPF) to protect the dargah and ensure that its visitors are not obstructed or prevented from praying.The bench of Justice Aravind Kumar&nbsp; and Justice Vipul Pancholi was hearing the contempt petitions against the Madurai District Collector and other authorities, along with applications seeking permission to light the lamp at the Deepathoon on another day during the month.&nbsp;The Supreme Court has also directed the state’s Chief Secretary to appear in person before it in connection with the non-compliance of its November 20 order.
+
+The court has also issued contempt notices to the Director General of Police, HR&amp;CE Secretary and Commissioner, Madurai District Collector, Commissioner of Police, Superintendent of Police, temple authorities and others.“The orders of the court can’t be diluted by whoever he or she is.
+
+If anybody is attempting to create a constitutional chaos, we will set it right,” Justice Aravind Kumar observed.&nbsp;“An order of this court is not an invitation to negotiation until the court itself modifies it. Therefore, when the order is flouted, we can't sit in silos,” the court said in its order, according to Live Law.&nbsp;The court said that the decision of the temple trustees who passed a resolution to light the lamp at the Uchi Pillayar temple was a “serious infraction”.&nbsp;The Supreme Court had, on November 20, permitted a restricted team authorised by the temple administration to light the lamp at the Deepathoon on November 24 as a one-time measure.
+
+The lamp was instead lit at the customary location near the Uchi Pillaiyar temple. The Madurai Collector’s report said the administration had made arrangements, but the ceremony could not proceed because the temple’s Board of Trustees had not authorised a team.In a preliminary status report filed before the Supreme Court on November 25, the Madurai District Collector Nishant Krishna told the Supreme Court that he made every effort to implement the court’s order permitting the lighting at the stone pillar near the Sikandar Badusha Dargah atop Thiruparankundram hill, but the temple’s Board of Trustees did not authorise a team to carry out the ceremony..Why was the lamp not lit at Thiruparankundram’s disputed pillar?
+
+What the Collector told SC
+.“The Collector wants us to believe that he did everything. A plea was taken to the High Court against prohibitory orders passed. The Board of Trustees came from nowhere and passed the resolution. The trustees were political appointees," said Senior Advocate Guru Krishnakumar, appearing for a devotee said during the hearing.“Mandamus issued to do it on November 24 in a certain manner.
+
+Duties were parcelled out to everyone, State administration. ASI was included in the mandamus,” Solicitor General Tushar Mehta, appearing for the ASI, said.“The ASI team was stopped at the dargah entrance point. Police were in control. The ASI team was asked to leave by the police and the ASI team remained on standby.
+
+They later descended the hill without examining the stone pillar,” he added.“This is a case of aggravated contempt and administrative arrogance. The state government had said ‘come what may, we will not allow the lighting of the lamp [on the stone pillar]’,” he said.Tushar Mehta has also demanded to constitute an agency like a former Supreme Court judge along with a central force to comply with the court order.Senior Advocate Saideepak Iyer, appearing for another petitioner, said the trustees were appointed by the state a week before the Supreme Court order.“Trustees are employees of the state.
+
+They were appointed only on November 13, a week before the SC order. They were state appointees and convenient shoulders from which the state could fire,” he said.Senior Advocate P Valliappan said the Ministers had made statements even before November 24, that the lamp would not be lit at the stone pillar.
+
+“We have time till December 15, let them light the lamp on any day,” he said.Senior Advocate Sankaranarayanan, appearing for the Collector said the district administration has done everything necessary to comply with the order. “Hearing must be first held on whether there was prima facie contempt at all.
+
+Then the question of purging arises. We have done all that is necessary to comply,” he said.He added the Collector was only directed to make all the arrangements and facilities for lighting the lamp and could not have done the religious act of lighting it.&nbsp;.Follow TNM&#39;s WhatsApp channel for news updates and story links.
+
+---
+
+**Original Source:** [The News Minute](https://www.thenewsminute.com/tamil-nadu/sc-orders-deepathoon-lamp-to-be-lit-at-thiruparankundram-on-nov-28-suspends-temple-trustees)`,
+    title_en: `SC orders lamp to be lit at Thiruparankundram Deepathoon on Nov 28, suspends temple trustees - The News Minute`,
+    summary_en: `The Supreme Court on Friday suspended the board of trustees of the Thiruparankundram temple in Madurai district and ordered that the Karthigai Deepam be lit at the disputed pillar or Deepathoon on Saturday, November 28, after its earlier or`,
+    content_en: `The Supreme Court on Friday suspended the board of trustees of the Thiruparankundram temple in Madurai district and ordered that the Karthigai Deepam be lit at the disputed pillar or Deepathoon on Saturday, November 28, after its earlier order was not carried out.A Bench of Justices Aravind Kumar and Vipul M Pancholi appointed former High Court judges Justice S Vaidyanathan and Justice V Parthipan as receivers to administer the temple, according to the Live Law.
+
+They have to ensure that the lamp is lit, using the flame at Uchipillaiyar.The Supreme Court has also handed over the security of the entire hill to the Central Reserve Police Force (CRPF), citing the failure of the Tamil Nadu Police to implement its orders.The court has directed CRPF to ensure the peaceful functioning of the temple and the Dargah.&nbsp;A Siva temple and the Uchi Pillaiyar temple are located on the lower part of the Tirupurakundram hill, while the dargah stands at its summit.
+
+For decades, the customary Karthigai Deepam has been lit near the Uchi Pillaiyar Temple by the temple management. In 2025, however, Hindutva groups went to court demanding that the lamp be lit on the ‘deepathoon’, a stone pillar located at the hilltop, about 50 metres from the dargah.
+
+The DMK government did not implement the court’s order, and the new TVK government has followed the same course, this time citing the temple Devasthanam’s decision.The Supreme Court strongly criticised the Tamil Nadu government for not lighting the Karthigai Deepam at the pillar on November 24, as said in its earlier order.&nbsp;The court called the non-compliance a “flagrant violation and disobedience” and directed that the lamp be lit at the controversial site before the end of the ongoing Karthigai month.The court permitted every devotee to light it at the disputed site, at least 50 metres from the nearby dargah on all sides.
+
+It also directed the Central Reserve Police Force (CRPF) to protect the dargah and ensure that its visitors are not obstructed or prevented from praying.The bench of Justice Aravind Kumar&nbsp; and Justice Vipul Pancholi was hearing the contempt petitions against the Madurai District Collector and other authorities, along with applications seeking permission to light the lamp at the Deepathoon on another day during the month.&nbsp;The Supreme Court has also directed the state’s Chief Secretary to appear in person before it in connection with the non-compliance of its November 20 order.
+
+The court has also issued contempt notices to the Director General of Police, HR&amp;CE Secretary and Commissioner, Madurai District Collector, Commissioner of Police, Superintendent of Police, temple authorities and others.“The orders of the court can’t be diluted by whoever he or she is.
+
+If anybody is attempting to create a constitutional chaos, we will set it right,” Justice Aravind Kumar observed.&nbsp;“An order of this court is not an invitation to negotiation until the court itself modifies it. Therefore, when the order is flouted, we can't sit in silos,” the court said in its order, according to Live Law.&nbsp;The court said that the decision of the temple trustees who passed a resolution to light the lamp at the Uchi Pillayar temple was a “serious infraction”.&nbsp;The Supreme Court had, on November 20, permitted a restricted team authorised by the temple administration to light the lamp at the Deepathoon on November 24 as a one-time measure.
+
+The lamp was instead lit at the customary location near the Uchi Pillaiyar temple. The Madurai Collector’s report said the administration had made arrangements, but the ceremony could not proceed because the temple’s Board of Trustees had not authorised a team.In a preliminary status report filed before the Supreme Court on November 25, the Madurai District Collector Nishant Krishna told the Supreme Court that he made every effort to implement the court’s order permitting the lighting at the stone pillar near the Sikandar Badusha Dargah atop Thiruparankundram hill, but the temple’s Board of Trustees did not authorise a team to carry out the ceremony..Why was the lamp not lit at Thiruparankundram’s disputed pillar?
+
+What the Collector told SC
+.“The Collector wants us to believe that he did everything. A plea was taken to the High Court against prohibitory orders passed. The Board of Trustees came from nowhere and passed the resolution. The trustees were political appointees," said Senior Advocate Guru Krishnakumar, appearing for a devotee said during the hearing.“Mandamus issued to do it on November 24 in a certain manner.
+
+Duties were parcelled out to everyone, State administration. ASI was included in the mandamus,” Solicitor General Tushar Mehta, appearing for the ASI, said.“The ASI team was stopped at the dargah entrance point. Police were in control. The ASI team was asked to leave by the police and the ASI team remained on standby.
+
+They later descended the hill without examining the stone pillar,” he added.“This is a case of aggravated contempt and administrative arrogance. The state government had said ‘come what may, we will not allow the lighting of the lamp [on the stone pillar]’,” he said.Tushar Mehta has also demanded to constitute an agency like a former Supreme Court judge along with a central force to comply with the court order.Senior Advocate Saideepak Iyer, appearing for another petitioner, said the trustees were appointed by the state a week before the Supreme Court order.“Trustees are employees of the state.
+
+They were appointed only on November 13, a week before the SC order. They were state appointees and convenient shoulders from which the state could fire,” he said.Senior Advocate P Valliappan said the Ministers had made statements even before November 24, that the lamp would not be lit at the stone pillar.
+
+“We have time till December 15, let them light the lamp on any day,” he said.Senior Advocate Sankaranarayanan, appearing for the Collector said the district administration has done everything necessary to comply with the order. “Hearing must be first held on whether there was prima facie contempt at all.
+
+Then the question of purging arises. We have done all that is necessary to comply,” he said.He added the Collector was only directed to make all the arrangements and facilities for lighting the lamp and could not have done the religious act of lighting it.&nbsp;.Follow TNM&#39;s WhatsApp channel for news updates and story links.
+
+---
+
+**Original Source:** [The News Minute](https://www.thenewsminute.com/tamil-nadu/sc-orders-deepathoon-lamp-to-be-lit-at-thiruparankundram-on-nov-28-suspends-temple-trustees)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The News Minute.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for SC orders lamp to be lit at Thiruparankundram Deepathoon on Nov 28, suspends temple trustees - The News Minute.`,
+    primary_source: `The News Minute`,
+  },
+  {
+    id: 98158,
+    title: `Is stubble burning in Punjab affecting Sri Lanka’s air quality?`,
+    slug: `is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality-2026`,
+    original_title: `Is stubble burning in Punjab affecting Sri Lanka’s air quality?`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:40:57Z`,
+    updated_at: `2026-11-28T05:40:57Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/sci-tech/science/is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality/article71750848.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality-2026.jpg`,
+    image_alt: `Is stubble burning in Punjab affecting Sri Lanka’s air quality?`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `You don’t have any Active Subscription.`,
+    content: `You don’t have any Active Subscription.
+
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
+
+Weather News November 28, 2026 e-Paper
+
+The View From India Looking at World Affairs from the Indian perspective.
+
+First Day First Show News and reviews from the world of cinema and streaming.
+
+Today's Cache Your download of the top 5 technology stories of the day.
+
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
+
+Data Point Decoding the headlines with facts, figures, and numbers
+
+THEdge At the cutting edge of education and careers
+
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
+
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Pollution from northern India and the wider region travels over the Bay of Bengal to Sri Lanka during the northeast monsoon, and crop burning is part of that mix
+
+Updated - November 28, 2026 10:37 am IST
+
+A drone view of paddy stubble burning in nearby fields, contributing to air pollution, in Faridkot district, Punjab.
+                                          | Photo Credit: Reuters
+
+In the months of October and November, farmers in Punjab and Haryana burn leftover rice stalks to clear their fields for wheat. The smoke chokes Delhi, but it does not stay there.
+
+In mid-November 2026, Sri Lanka’s Central Environmental Authority reported raised levels of fine dust (PM2.5 and PM10) across the Northern Province and in Anuradhapura, Puttalam, Trincomalee, Kurunegala and Colombo. It blamed much of this on winds blowing in from outside the island.
+
+Published - November 27, 2026 07:04 pm IST
+
+science (general) / The Hindu Explains / Punjab / Sri Lanka / air pollution
+
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+
+We have migrated to a new commenting platform. If you are already a registered user of The Hindu and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/sci-tech/science/is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality/article71750848.ece)`,
+    title_en: `Is stubble burning in Punjab affecting Sri Lanka’s air quality?`,
+    summary_en: `You don’t have any Active Subscription.`,
+    content_en: `You don’t have any Active Subscription.
+
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
+
+Weather News November 28, 2026 e-Paper
+
+The View From India Looking at World Affairs from the Indian perspective.
+
+First Day First Show News and reviews from the world of cinema and streaming.
+
+Today's Cache Your download of the top 5 technology stories of the day.
+
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
+
+Data Point Decoding the headlines with facts, figures, and numbers
+
+THEdge At the cutting edge of education and careers
+
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
+
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Pollution from northern India and the wider region travels over the Bay of Bengal to Sri Lanka during the northeast monsoon, and crop burning is part of that mix
+
+Updated - November 28, 2026 10:37 am IST
+
+A drone view of paddy stubble burning in nearby fields, contributing to air pollution, in Faridkot district, Punjab.
+                                          | Photo Credit: Reuters
+
+In the months of October and November, farmers in Punjab and Haryana burn leftover rice stalks to clear their fields for wheat. The smoke chokes Delhi, but it does not stay there.
+
+In mid-November 2026, Sri Lanka’s Central Environmental Authority reported raised levels of fine dust (PM2.5 and PM10) across the Northern Province and in Anuradhapura, Puttalam, Trincomalee, Kurunegala and Colombo. It blamed much of this on winds blowing in from outside the island.
+
+Published - November 27, 2026 07:04 pm IST
+
+science (general) / The Hindu Explains / Punjab / Sri Lanka / air pollution
+
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+
+We have migrated to a new commenting platform. If you are already a registered user of The Hindu and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/sci-tech/science/is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality/article71750848.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Is stubble burning in Punjab affecting Sri Lanka’s air quality?.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 98159,
+    title: `परिसीमन बिल पर अब राहुल गांधी ने संभाली कमान, INDIA ब्लॉक को एकजुट करने की तैयारी - AajTak`,
+    slug: `india-aajtak-2026`,
+    original_title: `परिसीमन बिल पर अब राहुल गांधी ने संभाली कमान, INDIA ब्लॉक को एकजुट करने की तैयारी - AajTak`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:00Z`,
+    updated_at: `2026-11-28T05:41:00Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/india/news/story/congress-opposes-proposed-delimitation-bill-rahul-gandhi-warns-allies-ahead-of-parliament-session-ntc-apdy-rptc-2708285-2026-11-28`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0a44c0a9e71-rahul-gandhi-280431505.jpg`,
+    image_alt: `परिसीमन बिल पर अब राहुल गांधी ने संभाली कमान, INDIA ब्लॉक को एकजुट करने की तैयारी - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `परिसीमन को लेकर संसद में होने वाली अगली बैठक से पहले कांग्रेस और सरकार के बीच टकराव बढ़ता दिख रहा है. कांग्रेस ने प्रस्तावित परिसीमन विधेयक का खुलकर विरोध करने का फैसला किया है. राहुल गांधी ने कहा है कि कांग्रेस इस विधेयक को रोकने के लिए पू`,
+    content: `परिसीमन को लेकर संसद में होने वाली अगली बैठक से पहले कांग्रेस और सरकार के बीच टकराव बढ़ता दिख रहा है. कांग्रेस ने प्रस्तावित परिसीमन विधेयक का खुलकर विरोध करने का फैसला किया है. राहुल गांधी ने कहा है कि कांग्रेस इस विधेयक को रोकने के लिए पूरी ताकत से लड़ेगी. पार्टी ने यह भी संकेत दिया है कि अगर विपक्षी गठबंधन का कोई दल इस मुद्दे पर अलग रुख अपनाता है, तो उसके साथ राजनीतिक संबंधों पर दोबारा विचार किया जा सकता है.
+
+और पढ़ेंकांग्रेस ने शुक्रवार को नरेंद्र मोदी सरकार पर आरोप लगाया कि संसद का विशेष सत्र महिला आरक्षण लागू करने के बजाय परिसीमन के लिए बुलाया जा रहा है. पार्टी का दावा है कि परिसीमन के जरिए लोकसभा में दो-तिहाई बहुमत हासिल करने की कोशिश की जा रही है.कांग्रेस की रणनीति बैठक में राहुल गांधी ने कहा कि पार्टी पीछे नहीं हटेगी.
+
+उन्होंने नेताओं से कहा कि कांग्रेस सभी विपक्षी दलों को साथ लाने की पूरी कोशिश करेगी और प्रस्तावित विधेयक को रोकने के लिए हर संभव प्रयास करेगी.सोनिया गांधी के आवास पर हुई बैठककांग्रेस संसदीय रणनीति समूह की बैठक कांग्रेस संसदीय दल की अध्यक्ष सोनिया गांधी के आवास पर हुई. बैठक में पार्टी अध्यक्ष मल्लिकार्जुन खड़गे, राहुल गांधी और कई वरिष्ठ नेता शामिल हुए.
+
+बैठक में राहुल गांधी ने कहा कि बीजेपी अपने राजनीतिक हितों के लिए विधेयक को फिर से ला रही है. उन्होंने कहा कि कांग्रेस पहले भी इसका विरोध कर चुकी है और इस बार भी विधेयक को रोकने के लिए पूरी ताकत से लड़ाई लड़ेगी. Advertisement        राहुल गांधी ने विपक्षी एकता पर भी जोर दिया. उन्होंने डीएमके, समाजवादी पार्टी और शरद पवार के नेतृत्व वाले एनसीपी गुट को विपक्ष की एकजुट रणनीति के लिए अहम बताया.विपक्षी दल अलग हुए तो कांग्रेस फिर सोचेगीकांग्रेस ने यह भी संकेत दिया है कि अगर विपक्षी गठबंधन का कोई दल परिसीमन के मुद्दे पर पहले तय किए गए सामूहिक रुख से अलग होता है, तो इसका असर गठबंधन के कामकाज पर पड़ सकता है.
+
+कांग्रेस के एक वरिष्ठ नेता ने कहा कि अगर शरद पवार के नेतृत्व वाला एनसीपी गुट परिसीमन विधेयक के पक्ष में वोट करता है, तो कांग्रेस को अपनी रणनीति पर दोबारा विचार करना पड़ सकता है. नेता ने कहा कि अगर गठबंधन का कोई दल पहले लिए गए सामूहिक फैसले से पीछे हटता है, तो उसके साथ पहले की तरह काम करना मुश्किल होगा.सांसदों को अंधेरे में रखने का लगाया आरोपकांग्रेस ने आरोप लगाया कि सरकार ने अभी तक सांसदों को प्रस्तावित विधेयकों की प्रतियां नहीं दी हैं, जबकि 30 नवंबर को लोकसभा में संविधान संशोधन विधेयक और इससे जुड़े दूसरे विधेयकों को पेश किया जाना है.कांग्रेस का आरोप है कि सरकार बड़े संवैधानिक बदलावों की तैयारी कर रही है, लेकिन विपक्षी सांसदों को इसकी पूरी जानकारी नहीं दी जा रही है.
+
+Advertisement        गौरव गोगोई बोले- मौजूदा सीटों की संख्या बनी रहेबैठक के बाद जोरहाट से कांग्रेस सांसद गौरव गोगोई ने कहा कि कांग्रेस शनिवार को मल्लिकार्जुन खड़गे के नेतृत्व में विपक्षी दलों के साथ फिर बैठक करेगी. उन्होंने कहा कि कांग्रेस की मांग साफ है कि लोकसभा की मौजूदा सीटों की संख्या बनी रहनी चाहिए.
+
+गोगोई ने कहा कि महिलाओं को 33 फीसदी आरक्षण मौजूदा लोकसभा की सीटों के आधार पर लागू किया जाना चाहिए. साथ ही राज्यों के बीच लोकसभा सीटों का मौजूदा बंटवारा अगले 25 साल तक नहीं बदला जाना चाहिए.उन्होंने परिसीमन की तुलना मतदाता सूची के विशेष गहन पुनरीक्षण से करते हुए सवाल उठाया कि क्या सरकार अब यह भी तय करना चाहती है कि कौन वोट देगा और किस जगह से वोट देगा.
+
+गोगोई ने चुनाव आयोग पर भी निशाना साधा. उन्होंने आरोप लगाया कि चुनाव आयोग मोदी सरकार के दबाव में काम कर रहा है. उन्होंने कहा कि ऐसी स्थिति में परिसीमन के जरिए लोगों के हित में क्या किया जा सकेगा, यह सवाल बना हुआ है.बीजेपी पर संविधान बदलने की कोशिश का आरोपगोगोई ने आरोप लगाया कि बीजेपी का असली मकसद संसद में अपनी संख्या बढ़ाकर संविधान में बदलाव करना है.
+
+उन्होंने कहा कि कांग्रेस और दूसरे विपक्षी दल इसका मजबूती से विरोध करेंगे. उन्होंने संसद में विपक्षी सांसदों के निलंबन और मुख्य चुनाव आयुक्त को कानूनी सुरक्षा देने वाले कानून का भी जिक्र किया. गोगोई ने आरोप लगाया कि सरकार पहले भी विपक्ष की आवाज दबाने की कोशिश करती रही है. Advertisement        जयराम रमेश ने सत्र के एजेंडे पर उठाए सवालइससे पहले कांग्रेस महासचिव जयराम रमेश ने संसद के सत्र के उद्देश्य को लेकर सरकार पर देश को गुमराह करने का आरोप लगाया.
+
+उन्होंने कहा कि नारी शक्ति वंदन अधिनियम के तहत संसद और राज्य विधानसभाओं में महिलाओं को 33 फीसदी आरक्षण देने का कानून सितंबर 2023 में सर्वसम्मति से पारित हुआ था. उनके मुताबिक, कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे ने इसके तुरंत लागू करने की मांग की थी, लेकिन सरकार ने इसे 16 अप्रैल 2026 की रात 10.40 बजे तक अधिसूचित नहीं किया.जयराम रमेश ने कहा कि विशेष सत्र का असली मुद्दा महिला आरक्षण नहीं, बल्कि परिसीमन है.
+
+उन्होंने परिसीमन की प्रक्रिया में मुख्य चुनाव आयुक्त ज्ञानेश कुमार की भूमिका पर भी सवाल उठाया.कांग्रेस ने कहा- राज्यों के बीच सीटों का बंटवारा नहीं बदलेकांग्रेस का कहना है कि प्रस्तावित परिसीमन में राज्यों के बीच लोकसभा सीटों का मौजूदा बंटवारा नहीं बदला जाना चाहिए. पार्टी ने यह भी मांग की है कि महिला आरक्षण को नए परिसीमन से जोड़ने के बजाय मौजूदा लोकसभा सीटों के आधार पर लागू किया जाए.
+
+कांग्रेस ने साफ किया है कि वह परिसीमन के मुद्दे पर विपक्षी दलों को साथ लाने की कोशिश करेगी और प्रस्तावित विधेयक का मजबूती से विरोध करेगी.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/india/news/story/congress-opposes-proposed-delimitation-bill-rahul-gandhi-warns-allies-ahead-of-parliament-session-ntc-apdy-rptc-2708285-2026-11-28)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `परिसीमन बिल पर अब राहुल गांधी ने संभाली कमान, INDIA ब्लॉक को एकजुट करने की तैयारी - AajTak`,
+    summary_hi: `परिसीमन को लेकर संसद में होने वाली अगली बैठक से पहले कांग्रेस और सरकार के बीच टकराव बढ़ता दिख रहा है. कांग्रेस ने प्रस्तावित परिसीमन विधेयक का खुलकर विरोध करने का फैसला किया है. राहुल गांधी ने कहा है कि कांग्रेस इस विधेयक को रोकने के लिए पू`,
+    content_hi: `परिसीमन को लेकर संसद में होने वाली अगली बैठक से पहले कांग्रेस और सरकार के बीच टकराव बढ़ता दिख रहा है. कांग्रेस ने प्रस्तावित परिसीमन विधेयक का खुलकर विरोध करने का फैसला किया है. राहुल गांधी ने कहा है कि कांग्रेस इस विधेयक को रोकने के लिए पूरी ताकत से लड़ेगी. पार्टी ने यह भी संकेत दिया है कि अगर विपक्षी गठबंधन का कोई दल इस मुद्दे पर अलग रुख अपनाता है, तो उसके साथ राजनीतिक संबंधों पर दोबारा विचार किया जा सकता है.
+
+और पढ़ेंकांग्रेस ने शुक्रवार को नरेंद्र मोदी सरकार पर आरोप लगाया कि संसद का विशेष सत्र महिला आरक्षण लागू करने के बजाय परिसीमन के लिए बुलाया जा रहा है. पार्टी का दावा है कि परिसीमन के जरिए लोकसभा में दो-तिहाई बहुमत हासिल करने की कोशिश की जा रही है.कांग्रेस की रणनीति बैठक में राहुल गांधी ने कहा कि पार्टी पीछे नहीं हटेगी.
+
+उन्होंने नेताओं से कहा कि कांग्रेस सभी विपक्षी दलों को साथ लाने की पूरी कोशिश करेगी और प्रस्तावित विधेयक को रोकने के लिए हर संभव प्रयास करेगी.सोनिया गांधी के आवास पर हुई बैठककांग्रेस संसदीय रणनीति समूह की बैठक कांग्रेस संसदीय दल की अध्यक्ष सोनिया गांधी के आवास पर हुई. बैठक में पार्टी अध्यक्ष मल्लिकार्जुन खड़गे, राहुल गांधी और कई वरिष्ठ नेता शामिल हुए.
+
+बैठक में राहुल गांधी ने कहा कि बीजेपी अपने राजनीतिक हितों के लिए विधेयक को फिर से ला रही है. उन्होंने कहा कि कांग्रेस पहले भी इसका विरोध कर चुकी है और इस बार भी विधेयक को रोकने के लिए पूरी ताकत से लड़ाई लड़ेगी. Advertisement        राहुल गांधी ने विपक्षी एकता पर भी जोर दिया. उन्होंने डीएमके, समाजवादी पार्टी और शरद पवार के नेतृत्व वाले एनसीपी गुट को विपक्ष की एकजुट रणनीति के लिए अहम बताया.विपक्षी दल अलग हुए तो कांग्रेस फिर सोचेगीकांग्रेस ने यह भी संकेत दिया है कि अगर विपक्षी गठबंधन का कोई दल परिसीमन के मुद्दे पर पहले तय किए गए सामूहिक रुख से अलग होता है, तो इसका असर गठबंधन के कामकाज पर पड़ सकता है.
+
+कांग्रेस के एक वरिष्ठ नेता ने कहा कि अगर शरद पवार के नेतृत्व वाला एनसीपी गुट परिसीमन विधेयक के पक्ष में वोट करता है, तो कांग्रेस को अपनी रणनीति पर दोबारा विचार करना पड़ सकता है. नेता ने कहा कि अगर गठबंधन का कोई दल पहले लिए गए सामूहिक फैसले से पीछे हटता है, तो उसके साथ पहले की तरह काम करना मुश्किल होगा.सांसदों को अंधेरे में रखने का लगाया आरोपकांग्रेस ने आरोप लगाया कि सरकार ने अभी तक सांसदों को प्रस्तावित विधेयकों की प्रतियां नहीं दी हैं, जबकि 30 नवंबर को लोकसभा में संविधान संशोधन विधेयक और इससे जुड़े दूसरे विधेयकों को पेश किया जाना है.कांग्रेस का आरोप है कि सरकार बड़े संवैधानिक बदलावों की तैयारी कर रही है, लेकिन विपक्षी सांसदों को इसकी पूरी जानकारी नहीं दी जा रही है.
+
+Advertisement        गौरव गोगोई बोले- मौजूदा सीटों की संख्या बनी रहेबैठक के बाद जोरहाट से कांग्रेस सांसद गौरव गोगोई ने कहा कि कांग्रेस शनिवार को मल्लिकार्जुन खड़गे के नेतृत्व में विपक्षी दलों के साथ फिर बैठक करेगी. उन्होंने कहा कि कांग्रेस की मांग साफ है कि लोकसभा की मौजूदा सीटों की संख्या बनी रहनी चाहिए.
+
+गोगोई ने कहा कि महिलाओं को 33 फीसदी आरक्षण मौजूदा लोकसभा की सीटों के आधार पर लागू किया जाना चाहिए. साथ ही राज्यों के बीच लोकसभा सीटों का मौजूदा बंटवारा अगले 25 साल तक नहीं बदला जाना चाहिए.उन्होंने परिसीमन की तुलना मतदाता सूची के विशेष गहन पुनरीक्षण से करते हुए सवाल उठाया कि क्या सरकार अब यह भी तय करना चाहती है कि कौन वोट देगा और किस जगह से वोट देगा.
+
+गोगोई ने चुनाव आयोग पर भी निशाना साधा. उन्होंने आरोप लगाया कि चुनाव आयोग मोदी सरकार के दबाव में काम कर रहा है. उन्होंने कहा कि ऐसी स्थिति में परिसीमन के जरिए लोगों के हित में क्या किया जा सकेगा, यह सवाल बना हुआ है.बीजेपी पर संविधान बदलने की कोशिश का आरोपगोगोई ने आरोप लगाया कि बीजेपी का असली मकसद संसद में अपनी संख्या बढ़ाकर संविधान में बदलाव करना है.
+
+उन्होंने कहा कि कांग्रेस और दूसरे विपक्षी दल इसका मजबूती से विरोध करेंगे. उन्होंने संसद में विपक्षी सांसदों के निलंबन और मुख्य चुनाव आयुक्त को कानूनी सुरक्षा देने वाले कानून का भी जिक्र किया. गोगोई ने आरोप लगाया कि सरकार पहले भी विपक्ष की आवाज दबाने की कोशिश करती रही है. Advertisement        जयराम रमेश ने सत्र के एजेंडे पर उठाए सवालइससे पहले कांग्रेस महासचिव जयराम रमेश ने संसद के सत्र के उद्देश्य को लेकर सरकार पर देश को गुमराह करने का आरोप लगाया.
+
+उन्होंने कहा कि नारी शक्ति वंदन अधिनियम के तहत संसद और राज्य विधानसभाओं में महिलाओं को 33 फीसदी आरक्षण देने का कानून सितंबर 2023 में सर्वसम्मति से पारित हुआ था. उनके मुताबिक, कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे ने इसके तुरंत लागू करने की मांग की थी, लेकिन सरकार ने इसे 16 अप्रैल 2026 की रात 10.40 बजे तक अधिसूचित नहीं किया.जयराम रमेश ने कहा कि विशेष सत्र का असली मुद्दा महिला आरक्षण नहीं, बल्कि परिसीमन है.
+
+उन्होंने परिसीमन की प्रक्रिया में मुख्य चुनाव आयुक्त ज्ञानेश कुमार की भूमिका पर भी सवाल उठाया.कांग्रेस ने कहा- राज्यों के बीच सीटों का बंटवारा नहीं बदलेकांग्रेस का कहना है कि प्रस्तावित परिसीमन में राज्यों के बीच लोकसभा सीटों का मौजूदा बंटवारा नहीं बदला जाना चाहिए. पार्टी ने यह भी मांग की है कि महिला आरक्षण को नए परिसीमन से जोड़ने के बजाय मौजूदा लोकसभा सीटों के आधार पर लागू किया जाए.
+
+कांग्रेस ने साफ किया है कि वह परिसीमन के मुद्दे पर विपक्षी दलों को साथ लाने की कोशिश करेगी और प्रस्तावित विधेयक का मजबूती से विरोध करेगी.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/india/news/story/congress-opposes-proposed-delimitation-bill-rahul-gandhi-warns-allies-ahead-of-parliament-session-ntc-apdy-rptc-2708285-2026-11-28)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक परिसीमन बिल पर अब राहुल गांधी ने संभाली कमान, INDIA ब्लॉक को एकजुट करने की तैयारी - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98160,
+    title: `DMK संविधान का समर्थन करती है', कांग्रेस ने संसद के विशेष सत्र से पहले की पूर्व सहयोगी की तारीफ - Jagran`,
+    slug: `dmk-jagran-2026`,
+    original_title: `DMK संविधान का समर्थन करती है', कांग्रेस ने संसद के विशेष सत्र से पहले की पूर्व सहयोगी की तारीफ - Jagran`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:02Z`,
+    updated_at: `2026-11-28T05:41:02Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/news/national-dmk-supports-the-constitution-congress-praises-former-ally-ahead-of-special-session-of-parliament-40450646.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/dmk-jagran-2026.webp`,
+    image_alt: `DMK संविधान का समर्थन करती है', कांग्रेस ने संसद के विशेष सत्र से पहले की पूर्व सहयोगी की तारीफ - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `कांग्रेस ने संसद के विशेष सत्र में संभावित परिसीमन विधेयक पर चर्चा के लिए DMK को विपक्षी दलों की बैठक में आमंत्रित किया है। कांग्रेस ने DMK की संविधान के प्रति प्रतिबद्धता की सराहना की।`,
+    content: `कांग्रेस ने संसद के विशेष सत्र में संभावित परिसीमन विधेयक पर चर्चा के लिए DMK को विपक्षी दलों की बैठक में आमंत्रित किया है। कांग्रेस ने DMK की संविधान के प्रति प्रतिबद्धता की सराहना की।
+
+कांग्रेस ने DMK की तारीफ की। (फोटो- ANI)
+
+कांग्रेस ने DMK को परिसीमन विधेयक पर बैठक में बुलाया।
+
+DMK ने तमिलनाडु की लोकसभा सीटों की हिस्सेदारी पर जोर दिया।
+
+कांग्रेस ने केंद्र सरकार पर 'बड़ा जाल बिछाने' का आरोप लगाया।
+
+डिजिटल डेस्क, नई दिल्ली। कांग्रेस ने DMK को विपक्षी दलों की बैठक में शामिल होने का न्योता दिया। यह बैठक संसद के विशेष सत्र के दौरान पेश किए जाने वाले परिसीमन विधेयक को लेकर चल रही अटकलों के बीच बुलाई गई है। साथ ही कांग्रेस ने DMK की जमकर तारीफ भी की है।
+
+कांग्रेस महासचिव के. सी. वेणुगोपाल DMK की तारीफ करते हुए कहा कि DMK हमेशा भारत के संविधान के साथ खड़ी रही है और जो कोई भी संविधान से प्यार करता है, वह परिसीमन विधेयक का समर्थन नहीं कर सकता है।
+
+वेणुगोपाल ने कहा, 'हम सभी से संपर्क कर रहे हैं। DMK हमेशा भारत के संविधान के साथ खड़ी रही है। मुझे लगता है कि जो कोई भी भारत के संविधान से प्यार करता है, वह इस तरह के बांटने वाले एजेंडे का समर्थन नहीं कर सकता।' उन्होंने आगे कहा, ' हम सभी विपक्षी दलों से संपर्क करेंगे।'
+
+यह घटनाक्रम ऐसे समय में हुआ है जब 'INDIA' गठबंधन और अन्य विपक्षी दल शनिवार सुबह 11:30 बजे बैठक करने वाले हैं, ताकि वे अपनी रणनीति पर चर्चा कर सकें और आगे की कार्रवाई तय कर सकें।
+
+वेणुगोपाल ने आरोप लगाया कि प्रधानमंत्री नरेंद्र मोदी और केंद्रीय गृह मंत्री अमित शाह के नेतृत्व वाली केंद्र सरकार भारत की जनता के लिए एक बड़ा जाल बिछाने की कोशिश कर रही है। उन्होंने दावा किया कि पूरी कवायद के पीछे यही साजिश है।
+
+उन्होंने कहा, 'भारत सरकार, प्रधानमंत्री मोदी और गृह मंत्री शाह भारत की जनता के लिए एक बड़ा जाल बिछाना चाहते हैं। इस पूरी घटना के पीछे यही साजिश है।' उन्होंने आगे कहा, 'INDIA गठबंधन और विपक्षी दलों की कल सुबह 11:30 बजे बैठक होगी। हम रणनीति बनाएंगे और कल सुबह 11:30 बजे कोई फैसला लेंगे।'
+
+### DMK ने गठबंधन की संभावना से किया इनकार
+
+यह सब ऐसे समय में हो रहा है जब परिसीमन प्रस्तावों पर DMK के संभावित रुख को लेकर अटकलें लगाई जा रही हैं। साथ ही, सत्ताधारी TVK ने आरोप लगाया है कि DMK, BJP के नेतृत्व वाली केंद्र सरकार के करीब जा सकती है। हालांकि, DMK ने BJP के साथ किसी भी तरह के गठबंधन की संभावना से इनकार किया है।
+
+इससे पहले दिन में, DMK प्रमुख एम.के. स्टालिन ने प्रस्तावित परिसीमन प्रक्रिया को लेकर अपनी पार्टी की दो मांगें दोहराईं। उन्होंने जोर देकर कहा कि किसी भी स्थिति में लोकसभा सीटों में तमिलनाडु की मौजूदा 7.18 प्रतिशत हिस्सेदारी को कम नहीं किया जाना चाहिए।
+
+केंद्र सरकार के संभावित परिसीमन कदम पर पार्टी प्रमुख ने जोर देकर कहा, 'हमारी स्थिति में कोई बदलाव नहीं है, कोई समझौता नहीं होगा। DMK तमिलनाडु के हितों से कभी समझौता नहीं करेगी और न ही अपने सिद्धांतों से पीछे हटेगी।'
+
+उन्होंने कहा, 'सत्ता के पदों के लिए अपने सिद्धांतों को त्यागने वाले बेशर्म और कृतघ्न लोगों को यह बात समझ लेनी चाहिए।' उनका यह बयान संभवतः कांग्रेस पार्टी पर निशाना साधते हुए था, जो इस साल की शुरुआत में हुए विधानसभा चुनावों में DMK की हार के बाद TVK गठबंधन और उसके नेतृत्व वाली सरकार में शामिल हो गई थी।
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/news/national-dmk-supports-the-constitution-congress-praises-former-ally-ahead-of-special-session-of-parliament-40450646.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `DMK संविधान का समर्थन करती है', कांग्रेस ने संसद के विशेष सत्र से पहले की पूर्व सहयोगी की तारीफ - Jagran`,
+    summary_hi: `कांग्रेस ने संसद के विशेष सत्र में संभावित परिसीमन विधेयक पर चर्चा के लिए DMK को विपक्षी दलों की बैठक में आमंत्रित किया है। कांग्रेस ने DMK की संविधान के प्रति प्रतिबद्धता की सराहना की।`,
+    content_hi: `कांग्रेस ने संसद के विशेष सत्र में संभावित परिसीमन विधेयक पर चर्चा के लिए DMK को विपक्षी दलों की बैठक में आमंत्रित किया है। कांग्रेस ने DMK की संविधान के प्रति प्रतिबद्धता की सराहना की।
+
+कांग्रेस ने DMK की तारीफ की। (फोटो- ANI)
+
+कांग्रेस ने DMK को परिसीमन विधेयक पर बैठक में बुलाया।
+
+DMK ने तमिलनाडु की लोकसभा सीटों की हिस्सेदारी पर जोर दिया।
+
+कांग्रेस ने केंद्र सरकार पर 'बड़ा जाल बिछाने' का आरोप लगाया।
+
+डिजिटल डेस्क, नई दिल्ली। कांग्रेस ने DMK को विपक्षी दलों की बैठक में शामिल होने का न्योता दिया। यह बैठक संसद के विशेष सत्र के दौरान पेश किए जाने वाले परिसीमन विधेयक को लेकर चल रही अटकलों के बीच बुलाई गई है। साथ ही कांग्रेस ने DMK की जमकर तारीफ भी की है।
+
+कांग्रेस महासचिव के. सी. वेणुगोपाल DMK की तारीफ करते हुए कहा कि DMK हमेशा भारत के संविधान के साथ खड़ी रही है और जो कोई भी संविधान से प्यार करता है, वह परिसीमन विधेयक का समर्थन नहीं कर सकता है।
+
+वेणुगोपाल ने कहा, 'हम सभी से संपर्क कर रहे हैं। DMK हमेशा भारत के संविधान के साथ खड़ी रही है। मुझे लगता है कि जो कोई भी भारत के संविधान से प्यार करता है, वह इस तरह के बांटने वाले एजेंडे का समर्थन नहीं कर सकता।' उन्होंने आगे कहा, ' हम सभी विपक्षी दलों से संपर्क करेंगे।'
+
+यह घटनाक्रम ऐसे समय में हुआ है जब 'INDIA' गठबंधन और अन्य विपक्षी दल शनिवार सुबह 11:30 बजे बैठक करने वाले हैं, ताकि वे अपनी रणनीति पर चर्चा कर सकें और आगे की कार्रवाई तय कर सकें।
+
+वेणुगोपाल ने आरोप लगाया कि प्रधानमंत्री नरेंद्र मोदी और केंद्रीय गृह मंत्री अमित शाह के नेतृत्व वाली केंद्र सरकार भारत की जनता के लिए एक बड़ा जाल बिछाने की कोशिश कर रही है। उन्होंने दावा किया कि पूरी कवायद के पीछे यही साजिश है।
+
+उन्होंने कहा, 'भारत सरकार, प्रधानमंत्री मोदी और गृह मंत्री शाह भारत की जनता के लिए एक बड़ा जाल बिछाना चाहते हैं। इस पूरी घटना के पीछे यही साजिश है।' उन्होंने आगे कहा, 'INDIA गठबंधन और विपक्षी दलों की कल सुबह 11:30 बजे बैठक होगी। हम रणनीति बनाएंगे और कल सुबह 11:30 बजे कोई फैसला लेंगे।'
+
+### DMK ने गठबंधन की संभावना से किया इनकार
+
+यह सब ऐसे समय में हो रहा है जब परिसीमन प्रस्तावों पर DMK के संभावित रुख को लेकर अटकलें लगाई जा रही हैं। साथ ही, सत्ताधारी TVK ने आरोप लगाया है कि DMK, BJP के नेतृत्व वाली केंद्र सरकार के करीब जा सकती है। हालांकि, DMK ने BJP के साथ किसी भी तरह के गठबंधन की संभावना से इनकार किया है।
+
+इससे पहले दिन में, DMK प्रमुख एम.के. स्टालिन ने प्रस्तावित परिसीमन प्रक्रिया को लेकर अपनी पार्टी की दो मांगें दोहराईं। उन्होंने जोर देकर कहा कि किसी भी स्थिति में लोकसभा सीटों में तमिलनाडु की मौजूदा 7.18 प्रतिशत हिस्सेदारी को कम नहीं किया जाना चाहिए।
+
+केंद्र सरकार के संभावित परिसीमन कदम पर पार्टी प्रमुख ने जोर देकर कहा, 'हमारी स्थिति में कोई बदलाव नहीं है, कोई समझौता नहीं होगा। DMK तमिलनाडु के हितों से कभी समझौता नहीं करेगी और न ही अपने सिद्धांतों से पीछे हटेगी।'
+
+उन्होंने कहा, 'सत्ता के पदों के लिए अपने सिद्धांतों को त्यागने वाले बेशर्म और कृतघ्न लोगों को यह बात समझ लेनी चाहिए।' उनका यह बयान संभवतः कांग्रेस पार्टी पर निशाना साधते हुए था, जो इस साल की शुरुआत में हुए विधानसभा चुनावों में DMK की हार के बाद TVK गठबंधन और उसके नेतृत्व वाली सरकार में शामिल हो गई थी।
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/news/national-dmk-supports-the-constitution-congress-praises-former-ally-ahead-of-special-session-of-parliament-40450646.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक DMK संविधान का समर्थन करती है', कांग्रेस ने संसद के विशेष सत्र से पहले की पूर्व सहयोगी की तारीफ - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+  {
+    id: 98161,
+    title: `No relief for Tata Trusts as Bombay High Court refuses to halt Tata Sons' November 30 board meeting - Bar and Bench`,
+    slug: `no-relief-for-tata-trusts-as-bombay-high-court-refuses-to-halt-tata-so-2026`,
+    original_title: `No relief for Tata Trusts as Bombay High Court refuses to halt Tata Sons' November 30 board meeting - Bar and Bench`,
+    category: `markets`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `9 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:03Z`,
+    updated_at: `2026-11-28T05:41:03Z`,
+    source_name: `Bar and Bench`,
+    source_url: `https://www.barandbench.com/news/no-relief-for-tata-trusts-as-bombay-high-court-refuses-to-halt-tata-sons-november-30-board-meeting`,
+    source_courtesy: `Source: Bar and Bench`,
+    image_url: `/images/articles/no-relief-for-tata-trusts-as-bombay-high-court-refuses-to-halt-tata-so-2026.jpg`,
+    image_alt: `No relief for Tata Trusts as Bombay High Court refuses to halt Tata Sons' November 30 board meeting - Bar and Bench`,
+    image_courtesy: `Image: Bar and Bench (External Source Attribution)`,
+    image_photographer: `Bar and Bench`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Markets, News, India`,
+    summary: `The Bombay High Court on Friday refused to stay the crucial board meeting of Tata Sons scheduled for November 30, even as Tata Trusts pushed for a stay on the same..Justice Abhay Ahuja said,"We are giving you time to file reply. I am not gr`,
+    content: `The Bombay High Court on Friday refused to stay the crucial board meeting of Tata Sons scheduled for November 30, even as Tata Trusts pushed for a stay on the same..Justice Abhay Ahuja said,"We are giving you time to file reply. I am not granting any relief. Let meeting go on November 30 and the meeting is subject to the outcome of the petition.".The matter will be heard next on January 21, 2027..Tata Trusts holds a 66% stake in Tata Sons.&nbsp;It has challenged a September 17 board resolution that reappoints N Chandrasekaran as executive chairman for five years starting February 21,&nbsp;2027.The board passed the resolution 4:1.&nbsp;Acting chair Harish Manwani cast a tie-breaking vote after Chandrasekaran abstained.&nbsp;Among the two Tata Trusts nominee directors,&nbsp;Venu Srinivasan voted for the move and Noel Tata voted against it.Tata Trusts argues the resolution is in violation of Articles 104B and 121 of Tata Sons’ Articles of Association.&nbsp;These rules require approval from a majority of trust-appointed directors on major decisions.&nbsp;The Trusts cite Supreme Court precedent from the Cyrus Mistry case and a legal opinion from former Chief Justice DY Chandrachud.
+
+They state a chair’s casting vote cannot override trust director rules or settle a split between trust nominees.The petitions seek court orders blocking the resolution before the November 30 board meeting.&nbsp;They also seek ₹65 crore in damages:&nbsp;₹50 crore for Sir Dorabji Tata Trust and ₹15 crore for Ratan Tata's trust.&nbsp;A Charity Commissioner order has stalled joint trust representation for the annual general meeting,&nbsp;adding to the dispute..Appearing for the Trusts, Senior Advocate Abhishek Manu Singhvi sought injunction or deferment of the board meeting scheduled for November 30."To protect their interests of 66% there were two clauses.
+
+At least so long as shareholding does not fall below 40% there will be 1/3rd directors of trust on board. This has been the position for decades," he said.Singhvi went on to argue,"The directors were 6. 1/3rd of 6 is 2. Two directors were nominated by the Trust. One is Noel Tata and the other was Venu Srinivasan.
+
+Section 121 with 104B (of Articles of Association) says that no decision which requires voting can be taken unless there is majority of nominee trust. Earlier, it was all nominee and now it is majority...The moment Noel Tata disagrees, there is lack of majority......The interpretation is suppose there is a tie - the casting vote to override the affirmative vote.
+
+The affirmative vote is the entry gate though. Once he disagrees, the matter dies. Despite Noel Tata’s vote, the board went ahead considered several issues and decided inter alia including term of Chandrasekaran...This is a private company. With this situation, we are clearly of the view on November 30, if this precedent is followed then affirmative vote is useless.".The Court asked,"The term is not coming into force?
+
+For whom the extension has been considered, is he on the board?"When Singhvi said that the minutes will be confirmed in the next meeting, the Court asked,"How do you know what will happen then?"Singhvi replied,"The precedent of the affirmative vote will be upheld...They should not act on any resolution that may be passed on November 30.
+
+I am seeking stay or deferment of the meeting or at least there should be no ignoring of the affirmative vote...suppose there is a tie, then the affirmative vote has to be considered. It cannot be rendered nugatory. Anything which overrides the affirmative vote is to be not considered."The Court then asked what the agenda was for the next meeting.
+
+Singhvi responded,"EGM is to be convened. Let us say despite Noel Tata’s negative vote, it happens, this will validate the earlier decision. I am only saying, today, the Court has to give some meaning and effect to the article. It is fulcrum of 66% owner. Validity and importance has been approved by Supreme Court.
+
+Affirmative vote is common in many companies. So long as they act, they respect the affirmative vote, they can go ahead.".Appearing for the Ratan D Tata Trust, Senior Advocate Aspi Chinoy argued,"The manner in which the casting vote happened, it is directly contrary to the language of Article 121 and it borders on absurd.
+
+They are completely misusing the chairman’s powers of casting vote on the equality of the board to create an affirmative majority, this is not a bonafide appreciation of the articles, this is clear misuse of articles.".Representing Noel Tata, Senior Advocate Mukul Rohatgi submitted,"Casting vote is common when there is balance to two sides.
+
+These two sides are not affirmative. Manwani could not come in because Noel and Srinivasan were not in agreement. The September 17 meeting was not right, we think it will be repeated November 30. It will jeopardise the manner in which board is conducted for helping certain individuals.
+
+The vote has to be 2/2 else not.".Also appearing for Noel Tata, Senior Advocate Janak Dwarkadas added,"The nominated directors on the board are those nominated jointly by the trust. Any person other than jointly nominated is a stranger. He is nobody to tell the trustee how to exercise their vote, whether they should agree, disagree or what they should do if they disagree...Whoever is the chairman, is not a super trustee, he is not a third nominee, he cannot interfere.
+
+He cannot take out a vote from his pocket in the event of an equality of votes.".Senior Advocate Harish Salve, for Tata Sons and Chandrasekaran, argued,"The point is so obvious that they want Noel Tata to run this company. The trustees are fighting with each other. They have appointed two directors; they could have appointed two more directors.
+
+It is a problem of their own creation. They are saying unless Noel Tata votes, nothing can move. A majority of the trustees respecting is not violative of Section 397 of the Companies Act. The injunction is to run the company how Noel Tata wishes."Referring to the minutes of the September 17 meeting, Salve said,"Confirming the minutes will not make the resolution right if you are challenging the resolution.
+
+If Noel Tata opposes the appointment - and the minutes say he supported - then you can challenge the minutes. But that is not the case. He has a problem with the resolution, he can challenge the resolution."However, the Court pointed out that Tata had not accepted the minutes of the meeting.
+
+Salve responded,"But he has not shown what is not accepted. What is wrong in the minutes? If they have a problem with the resolution, then those can be challenged. But this is the confusion they are trying to create.".Salve further submitted that Article 121 of the AoA does not rewrite the Companies Act."There is no real prejudice being caused, allow me 10 days time.
+
+We will argue for a day or two. We can finish the matter...If it is unanimous, then it goes to voting, if it does not, it does not. Now you are saying you need affirmative vote of majority. What happens when there is no majority? This is one important question. The trust cannot buy its own action."He also pointed out the Reserve Bank of India (RBI's) letter to Tata Sons to comply with regulations governing Upper Layer Non-Banking Finance Companies (NBFC-UL)."Compliance with RBI letter that is the real issue.
+
+We don’t want to push this. The independent director may push for it. These are letters which say list yourself. There is 7 months. 300 billion dollar company, it is not like it will be listed in 1-2 weeks. The EGM will convene in a week or so. If the EGM happens, then the trustees have the majority voting rights, they will vote it down.
+
+Why the worry. There are proposals by Noel Tata. He wants the Court to hold the board hostage. He wants it his way or the highway. I am opposing it all."He also told the Court that as per Section 50 of the Maharashtra Public Trusts Act, if the trust is filing a suit, it needs permission or consent in writing by the charity commissioner.Urging the Court to not pass an injunction, Salve said,"Today, if injunction is granted, Tata Sons says listing, he (Noel) will say I do not agree...He will say get my resolutions passed or nothing.
+
+What is the Court holding in balance? 15 days what is going to happen? Let the meeting go through. Any resolutions passed, we will write to the RBI that the matter is pending before the High Court and we will take it from there.".The Court then asked Senior Advocate Sudipto Sarkar, appearing for Tata Sons independent director Harish Manwani, whether he supported the Trusts' plea.
+
+Sarkar replied,"I am in line with Mr Salve."The Court then asked,"But you were the acting chairman."Sarkar said,"Yes, but I have to justify my actions. To put the casting vote...If there are opposing votes, then the company will be paralysed. If interim order is passed, then the company will not be able to function, no resolution will be able to pass.".Senior Advocate Ravi Kadam told the Court that the Trusts ran a media campaign instead of coming to court to challenge the September 17 resolution."The fourth item on the agenda is RBI compliance.
+
+How the voting should take place will be decided in the meeting, this item is critical...There was a direction from RBI to act immediately. There was an enquiry and there was a letter from RBI asking for a plan on listing. Why is it not disclosed? I do not have it now, but this self created urgency, they have come up with...If you give this injunction then we will not be able to give a plan...if the interpretation is wrong, then irreparable harm will be caused because we will be in breach of RBI directions.".Appearing for Srinivasan, Senior Advocate Birendra Saraf argued, "The trustees have not joined as plaintiffs, that is something to be considered.
+
+This brings about a deadlock. It paralyses functioning of the company. They want to split in part a and b and c...I have a fiduciary duty with the trust and with the company. This articles has to be given a practical meaning which does not strangulate the company’s working.".Senior Advocate Zal Andhyarujina, arguing for one of the directors, said that the Court has to consider a balance between injury and convenience before granting an injunction."The trust has a commanding position.
+
+This submission is supported by company law. They have not raised objections to the notices. If interdicted, the Court will raise unfairness. To raise a substantive point on speculative basis will not be reason enough for relief. As independent director, I support Mr Salve. The meeting needs to discuss important matters.
+
+People change their views as meetings take place. It is important to hold that meeting. There is no irretrievable injustice or harm caused.".Appearing for another director, Senior Advocate Virendra Tulzapurkar said that the relief should not be granted and the board meeting should be allowed to go on..[Read live account of hearing]
+
+---
+
+**Original Source:** [Bar and Bench](https://www.barandbench.com/news/no-relief-for-tata-trusts-as-bombay-high-court-refuses-to-halt-tata-sons-november-30-board-meeting)`,
+    title_en: `No relief for Tata Trusts as Bombay High Court refuses to halt Tata Sons' November 30 board meeting - Bar and Bench`,
+    summary_en: `The Bombay High Court on Friday refused to stay the crucial board meeting of Tata Sons scheduled for November 30, even as Tata Trusts pushed for a stay on the same..Justice Abhay Ahuja said,"We are giving you time to file reply. I am not gr`,
+    content_en: `The Bombay High Court on Friday refused to stay the crucial board meeting of Tata Sons scheduled for November 30, even as Tata Trusts pushed for a stay on the same..Justice Abhay Ahuja said,"We are giving you time to file reply. I am not granting any relief. Let meeting go on November 30 and the meeting is subject to the outcome of the petition.".The matter will be heard next on January 21, 2027..Tata Trusts holds a 66% stake in Tata Sons.&nbsp;It has challenged a September 17 board resolution that reappoints N Chandrasekaran as executive chairman for five years starting February 21,&nbsp;2027.The board passed the resolution 4:1.&nbsp;Acting chair Harish Manwani cast a tie-breaking vote after Chandrasekaran abstained.&nbsp;Among the two Tata Trusts nominee directors,&nbsp;Venu Srinivasan voted for the move and Noel Tata voted against it.Tata Trusts argues the resolution is in violation of Articles 104B and 121 of Tata Sons’ Articles of Association.&nbsp;These rules require approval from a majority of trust-appointed directors on major decisions.&nbsp;The Trusts cite Supreme Court precedent from the Cyrus Mistry case and a legal opinion from former Chief Justice DY Chandrachud.
+
+They state a chair’s casting vote cannot override trust director rules or settle a split between trust nominees.The petitions seek court orders blocking the resolution before the November 30 board meeting.&nbsp;They also seek ₹65 crore in damages:&nbsp;₹50 crore for Sir Dorabji Tata Trust and ₹15 crore for Ratan Tata's trust.&nbsp;A Charity Commissioner order has stalled joint trust representation for the annual general meeting,&nbsp;adding to the dispute..Appearing for the Trusts, Senior Advocate Abhishek Manu Singhvi sought injunction or deferment of the board meeting scheduled for November 30."To protect their interests of 66% there were two clauses.
+
+At least so long as shareholding does not fall below 40% there will be 1/3rd directors of trust on board. This has been the position for decades," he said.Singhvi went on to argue,"The directors were 6. 1/3rd of 6 is 2. Two directors were nominated by the Trust. One is Noel Tata and the other was Venu Srinivasan.
+
+Section 121 with 104B (of Articles of Association) says that no decision which requires voting can be taken unless there is majority of nominee trust. Earlier, it was all nominee and now it is majority...The moment Noel Tata disagrees, there is lack of majority......The interpretation is suppose there is a tie - the casting vote to override the affirmative vote.
+
+The affirmative vote is the entry gate though. Once he disagrees, the matter dies. Despite Noel Tata’s vote, the board went ahead considered several issues and decided inter alia including term of Chandrasekaran...This is a private company. With this situation, we are clearly of the view on November 30, if this precedent is followed then affirmative vote is useless.".The Court asked,"The term is not coming into force?
+
+For whom the extension has been considered, is he on the board?"When Singhvi said that the minutes will be confirmed in the next meeting, the Court asked,"How do you know what will happen then?"Singhvi replied,"The precedent of the affirmative vote will be upheld...They should not act on any resolution that may be passed on November 30.
+
+I am seeking stay or deferment of the meeting or at least there should be no ignoring of the affirmative vote...suppose there is a tie, then the affirmative vote has to be considered. It cannot be rendered nugatory. Anything which overrides the affirmative vote is to be not considered."The Court then asked what the agenda was for the next meeting.
+
+Singhvi responded,"EGM is to be convened. Let us say despite Noel Tata’s negative vote, it happens, this will validate the earlier decision. I am only saying, today, the Court has to give some meaning and effect to the article. It is fulcrum of 66% owner. Validity and importance has been approved by Supreme Court.
+
+Affirmative vote is common in many companies. So long as they act, they respect the affirmative vote, they can go ahead.".Appearing for the Ratan D Tata Trust, Senior Advocate Aspi Chinoy argued,"The manner in which the casting vote happened, it is directly contrary to the language of Article 121 and it borders on absurd.
+
+They are completely misusing the chairman’s powers of casting vote on the equality of the board to create an affirmative majority, this is not a bonafide appreciation of the articles, this is clear misuse of articles.".Representing Noel Tata, Senior Advocate Mukul Rohatgi submitted,"Casting vote is common when there is balance to two sides.
+
+These two sides are not affirmative. Manwani could not come in because Noel and Srinivasan were not in agreement. The September 17 meeting was not right, we think it will be repeated November 30. It will jeopardise the manner in which board is conducted for helping certain individuals.
+
+The vote has to be 2/2 else not.".Also appearing for Noel Tata, Senior Advocate Janak Dwarkadas added,"The nominated directors on the board are those nominated jointly by the trust. Any person other than jointly nominated is a stranger. He is nobody to tell the trustee how to exercise their vote, whether they should agree, disagree or what they should do if they disagree...Whoever is the chairman, is not a super trustee, he is not a third nominee, he cannot interfere.
+
+He cannot take out a vote from his pocket in the event of an equality of votes.".Senior Advocate Harish Salve, for Tata Sons and Chandrasekaran, argued,"The point is so obvious that they want Noel Tata to run this company. The trustees are fighting with each other. They have appointed two directors; they could have appointed two more directors.
+
+It is a problem of their own creation. They are saying unless Noel Tata votes, nothing can move. A majority of the trustees respecting is not violative of Section 397 of the Companies Act. The injunction is to run the company how Noel Tata wishes."Referring to the minutes of the September 17 meeting, Salve said,"Confirming the minutes will not make the resolution right if you are challenging the resolution.
+
+If Noel Tata opposes the appointment - and the minutes say he supported - then you can challenge the minutes. But that is not the case. He has a problem with the resolution, he can challenge the resolution."However, the Court pointed out that Tata had not accepted the minutes of the meeting.
+
+Salve responded,"But he has not shown what is not accepted. What is wrong in the minutes? If they have a problem with the resolution, then those can be challenged. But this is the confusion they are trying to create.".Salve further submitted that Article 121 of the AoA does not rewrite the Companies Act."There is no real prejudice being caused, allow me 10 days time.
+
+We will argue for a day or two. We can finish the matter...If it is unanimous, then it goes to voting, if it does not, it does not. Now you are saying you need affirmative vote of majority. What happens when there is no majority? This is one important question. The trust cannot buy its own action."He also pointed out the Reserve Bank of India (RBI's) letter to Tata Sons to comply with regulations governing Upper Layer Non-Banking Finance Companies (NBFC-UL)."Compliance with RBI letter that is the real issue.
+
+We don’t want to push this. The independent director may push for it. These are letters which say list yourself. There is 7 months. 300 billion dollar company, it is not like it will be listed in 1-2 weeks. The EGM will convene in a week or so. If the EGM happens, then the trustees have the majority voting rights, they will vote it down.
+
+Why the worry. There are proposals by Noel Tata. He wants the Court to hold the board hostage. He wants it his way or the highway. I am opposing it all."He also told the Court that as per Section 50 of the Maharashtra Public Trusts Act, if the trust is filing a suit, it needs permission or consent in writing by the charity commissioner.Urging the Court to not pass an injunction, Salve said,"Today, if injunction is granted, Tata Sons says listing, he (Noel) will say I do not agree...He will say get my resolutions passed or nothing.
+
+What is the Court holding in balance? 15 days what is going to happen? Let the meeting go through. Any resolutions passed, we will write to the RBI that the matter is pending before the High Court and we will take it from there.".The Court then asked Senior Advocate Sudipto Sarkar, appearing for Tata Sons independent director Harish Manwani, whether he supported the Trusts' plea.
+
+Sarkar replied,"I am in line with Mr Salve."The Court then asked,"But you were the acting chairman."Sarkar said,"Yes, but I have to justify my actions. To put the casting vote...If there are opposing votes, then the company will be paralysed. If interim order is passed, then the company will not be able to function, no resolution will be able to pass.".Senior Advocate Ravi Kadam told the Court that the Trusts ran a media campaign instead of coming to court to challenge the September 17 resolution."The fourth item on the agenda is RBI compliance.
+
+How the voting should take place will be decided in the meeting, this item is critical...There was a direction from RBI to act immediately. There was an enquiry and there was a letter from RBI asking for a plan on listing. Why is it not disclosed? I do not have it now, but this self created urgency, they have come up with...If you give this injunction then we will not be able to give a plan...if the interpretation is wrong, then irreparable harm will be caused because we will be in breach of RBI directions.".Appearing for Srinivasan, Senior Advocate Birendra Saraf argued, "The trustees have not joined as plaintiffs, that is something to be considered.
+
+This brings about a deadlock. It paralyses functioning of the company. They want to split in part a and b and c...I have a fiduciary duty with the trust and with the company. This articles has to be given a practical meaning which does not strangulate the company’s working.".Senior Advocate Zal Andhyarujina, arguing for one of the directors, said that the Court has to consider a balance between injury and convenience before granting an injunction."The trust has a commanding position.
+
+This submission is supported by company law. They have not raised objections to the notices. If interdicted, the Court will raise unfairness. To raise a substantive point on speculative basis will not be reason enough for relief. As independent director, I support Mr Salve. The meeting needs to discuss important matters.
+
+People change their views as meetings take place. It is important to hold that meeting. There is no irretrievable injustice or harm caused.".Appearing for another director, Senior Advocate Virendra Tulzapurkar said that the relief should not be granted and the board meeting should be allowed to go on..[Read live account of hearing]
+
+---
+
+**Original Source:** [Bar and Bench](https://www.barandbench.com/news/no-relief-for-tata-trusts-as-bombay-high-court-refuses-to-halt-tata-sons-november-30-board-meeting)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Bar and Bench.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for No relief for Tata Trusts as Bombay High Court refuses to halt Tata Sons' November 30 board meeting - Bar and Bench.`,
+    primary_source: `Bar and Bench`,
+  },
+  {
+    id: 98162,
+    title: `Adani Group seeks government nod to invest in airline sector: CFO - Moneycontrol.com`,
+    slug: `adani-group-seeks-government-nod-to-invest-in-airline-sector-cfo-money-2026`,
+    original_title: `Adani Group seeks government nod to invest in airline sector: CFO - Moneycontrol.com`,
+    category: `markets`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:05Z`,
+    updated_at: `2026-11-28T05:41:05Z`,
+    source_name: `Moneycontrol.com`,
+    source_url: `https://www.moneycontrol.com/news/business/companies/adani-group-seeks-government-nod-to-invest-in-airline-sector-cfo-14090534.html`,
+    source_courtesy: `Source: Moneycontrol.com`,
+    image_url: `/images/articles/adani-group-seeks-government-nod-to-invest-in-airline-sector-cfo-money-2026.jpg`,
+    image_alt: `Adani Group seeks government nod to invest in airline sector: CFO - Moneycontrol.com`,
+    image_courtesy: `Image: Moneycontrol.com (External Source Attribution)`,
+    image_photographer: `Moneycontrol.com`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Markets, News, India`,
+    summary: `The diversified Adani group, which runs multiple airports across the country, has requested the government to allow it to invest in the airline sector, a top official said on Friday.`,
+    content: `The diversified Adani group, which runs multiple airports across the country, has requested the government to allow it to invest in the airline sector, a top official said on Friday.
+
+Group chief finance officer Jugeshinder Robbie Singh told reporters that over 60 crore people in the country can fly, and the number of daily flights needs to go up by nearly 10 times to 30,000.
+
+"And that's why we requested the government to at least allow us to invest, so that we can facilitate the development of airlines. Some fund, some other airline company and things like that...or an entrepreneur who wants to go into that space," the CFO said while speaking on the sidelines of the India Debt Capital Market Summit here.
+
+In July this year, the group said it was "not evaluating any proposal to enter the airlines business". On November 3, Adani Airport Holdings chief executive Arun Bansal had ruled out entering the airlines business, saying that it is never a good strategy to compete with customers.
+
+Adani group runs eight airports in the country, including the ones in the financial capital and the satellite city of Navi Mumbai, and also Ahmedabad, Lucknow and Guwahati, which ferry over one-fourth of the country's air passenger traffic.
+
+The airline business has been reduced to a virtual duopoly with two strong domestic carriers -- the Tata Group-led Air India and Rahul Bhatia-run IndiGo, ruling the skies with a 90 per cent market share.
+
+Problems at IndiGo last year, which led to thousands of flight cancellations, led to voices demanding more airlines to operate in the country.
+
+Discover the latest Business News , Sensex , and Nifty updates. Obtain Personal Finance insights, tax queries, and expert opinions on Moneycontrol or download the Moneycontrol App to stay updated!
+
+Find the best of Al News in one place, specially curated for you every
+        weekend.
+
+Stay on top of the latest tech trends and biggest startup news.
+
+You are already a Moneycontrol Pro user.
+
+---
+
+**Original Source:** [Moneycontrol.com](https://www.moneycontrol.com/news/business/companies/adani-group-seeks-government-nod-to-invest-in-airline-sector-cfo-14090534.html)`,
+    title_en: `Adani Group seeks government nod to invest in airline sector: CFO - Moneycontrol.com`,
+    summary_en: `The diversified Adani group, which runs multiple airports across the country, has requested the government to allow it to invest in the airline sector, a top official said on Friday.`,
+    content_en: `The diversified Adani group, which runs multiple airports across the country, has requested the government to allow it to invest in the airline sector, a top official said on Friday.
+
+Group chief finance officer Jugeshinder Robbie Singh told reporters that over 60 crore people in the country can fly, and the number of daily flights needs to go up by nearly 10 times to 30,000.
+
+"And that's why we requested the government to at least allow us to invest, so that we can facilitate the development of airlines. Some fund, some other airline company and things like that...or an entrepreneur who wants to go into that space," the CFO said while speaking on the sidelines of the India Debt Capital Market Summit here.
+
+In July this year, the group said it was "not evaluating any proposal to enter the airlines business". On November 3, Adani Airport Holdings chief executive Arun Bansal had ruled out entering the airlines business, saying that it is never a good strategy to compete with customers.
+
+Adani group runs eight airports in the country, including the ones in the financial capital and the satellite city of Navi Mumbai, and also Ahmedabad, Lucknow and Guwahati, which ferry over one-fourth of the country's air passenger traffic.
+
+The airline business has been reduced to a virtual duopoly with two strong domestic carriers -- the Tata Group-led Air India and Rahul Bhatia-run IndiGo, ruling the skies with a 90 per cent market share.
+
+Problems at IndiGo last year, which led to thousands of flight cancellations, led to voices demanding more airlines to operate in the country.
+
+Discover the latest Business News , Sensex , and Nifty updates. Obtain Personal Finance insights, tax queries, and expert opinions on Moneycontrol or download the Moneycontrol App to stay updated!
+
+Find the best of Al News in one place, specially curated for you every
+        weekend.
+
+Stay on top of the latest tech trends and biggest startup news.
+
+You are already a Moneycontrol Pro user.
+
+---
+
+**Original Source:** [Moneycontrol.com](https://www.moneycontrol.com/news/business/companies/adani-group-seeks-government-nod-to-invest-in-airline-sector-cfo-14090534.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Moneycontrol.com.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Adani Group seeks government nod to invest in airline sector: CFO - Moneycontrol.com.`,
+    primary_source: `Moneycontrol.com`,
+  },
+  {
+    id: 98163,
+    title: `गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार`,
+    slug: `markets-breaking-report-22397-98163-2026`,
+    original_title: `गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार`,
+    category: `markets`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:08Z`,
+    updated_at: `2026-11-28T05:41:08Z`,
+    source_name: `DD News`,
+    source_url: `https://ddnews.gov.in/gold-and-silver-regain-their-shine-after-a-decline-silver-crosses-rs-1-54-lakh-mark/`,
+    source_courtesy: `Source: DD News`,
+    image_url: `https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Markets, News, India`,
+    summary: `27/11/26 | 1:21 pm							| bullion market | Commodity Market | Federal Reserve | Gold price | Gold Recovery | Short Covering | silver price | Silver Rally`,
+    content: `27/11/26 | 1:21 pm							| bullion market | Commodity Market | Federal Reserve | Gold price | Gold Recovery | Short Covering | silver price | Silver Rally
+
+### गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार
+
+पिछले कई कारोबारी सत्रों से जारी भारी गिरावट के बाद हफ्ते के आखिरी कारोबारी दिन शुक्रवार को सोने-चांदी की कीमतों में जोरदार रिकवरी देखने को मिली। निचले स्तरों पर खरीदारी और शॉर्ट कवरिंग के चलते दोनों कीमती धातुओं के दाम तेजी से उछले। हालांकि अमेरिकी अर्थव्यवस्था के मजबूत आंकड़े और फेडरल रिजर्व के सख्त रुख के कारण ब्याज दरों में संभावित बढ़ोतरी की आशंका अभी भी बनी हुई है, जिससे आगे की तेजी सीमित रह सकती है।
+
+एमसीएक्स पर दिसंबर डिलीवरी वाला सोना 2,028 रुपए की बढ़त के साथ 1,24,300 रुपए प्रति 10 ग्राम पर खुला। कारोबार के दौरान यह 3,100 रुपए या 2.6 प्रतिशत की तेजी के साथ 1,25,400 रुपए प्रति 10 ग्राम के आसपास कारोबार करता दिखाई दिया। हालांकि दिन के कारोबार में इसने 1,25,410 रुपए का हाई बनाया। इससे पहले पिछले सत्र में सोना 1,22,272 रुपए प्रति 10 ग्राम पर बंद हुआ था।
+
+हालिया गिरावट में सोना अपने रिकॉर्ड उच्च स्तर से काफी नीचे फिसल गया था, जिसके बाद निवेशकों ने निचले स्तरों पर खरीदारी शुरू कर दी।
+
+वहीं, चांदी में सोने की तुलना में अधिक मजबूती देखने को मिली। एमसीएक्स पर दिसंबर डिलीवरी वाली चांदी अपने पिछले बंद भाव 1,45,843 रुपए से 5,833 रुपए की छलांग के साथ 1,51,676 रुपए प्रति किलोग्राम पर खुली और बाद में यह 5.70 प्रतिशत यानी 8,300 रुपए की उछाल के साथ 1,54,150 रुपए प्रति किलोग्राम के आसपास कारोबार करती दिखी। वहीं, दिन के कारोबार में इसने 1,54,251 रुपए का हाई टच किया।
+
+हालिया बिकवाली में चांदी सोने से अधिक गिरी थी, इसलिए रिकवरी भी अधिक तेज रही।
+
+अंतरराष्ट्रीय बाजार में भी तेजी का माहौल रहा। कॉमेक्स पर सोना लगभग 3,659 डॉलर प्रति औंस और चांदी 44.10 डॉलर प्रति औंस के करीब कारोबार करती नजर आई। डॉलर में नरमी और तकनीकी शेयरों में सुधार से निवेशकों की जोखिम लेने की क्षमता बढ़ी, जिसका फायदा बुलियन बाजार को मिला।
+
+कीमती धातुओं में हालिया तेज गिरावट के बाद जिस तकनीकी रिकवरी की उम्मीद थी, वह अब दिखाई देने लगी है। दिसंबर में अमेरिकी फेडरल रिजर्व द्वारा ब्याज दरें बढ़ाने की संभावना बनी हुई है, जो आगे की तेजी पर दबाव डाल सकती है।
+
+इस बीच कच्चे तेल में भी तेजी देखने को मिली। मध्य पूर्व में आपूर्ति संबंधी चिंताओं के कारण ब्रेंट क्रूड और डब्ल्यूटीआई क्रूड दोनों ऊंचाई पर कारोबार कर रहे हैं। (इनपुट-आईएएनएस)
+
+4 seconds ago | National Capital Region
+
+### दिल्ली-एनसीआर में ठंड की दस्तक, अधिकतम तापमान में भी गिरावट के आसार
+
+### IFFI 2026: फिल्म निर्माता कार्तिक सुब्बाराज अपनी फिल्म ‘डोरोथी’ पर की चर्चा, ‘अच्छे’ और ‘बुरे’ के बीच के पारंपरिक अंतर को चुनौती देती हैं उनकी फ़िल्में
+
+गोवा में आयोजित 57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (इफ्फी) में, जाने-माने फिल्म निर्माता ...
+
+### IFFI 2026 : अभिनेता अंतोनियो सिमाओ ने पुर्तगाल में सिनेमाघरों में दर्शकों की घटती संख्या और घर पर बैठ कर फिल्म देखने की बढ़ती प्रवृत्ति पर जताई चिंता
+
+---
+
+**मूल स्रोत (Original Source):** [DD News](https://ddnews.gov.in/gold-and-silver-regain-their-shine-after-a-decline-silver-crosses-rs-1-54-lakh-mark/)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार`,
+    summary_hi: `27/11/26 | 1:21 pm							| bullion market | Commodity Market | Federal Reserve | Gold price | Gold Recovery | Short Covering | silver price | Silver Rally`,
+    content_hi: `27/11/26 | 1:21 pm							| bullion market | Commodity Market | Federal Reserve | Gold price | Gold Recovery | Short Covering | silver price | Silver Rally
+
+### गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार
+
+पिछले कई कारोबारी सत्रों से जारी भारी गिरावट के बाद हफ्ते के आखिरी कारोबारी दिन शुक्रवार को सोने-चांदी की कीमतों में जोरदार रिकवरी देखने को मिली। निचले स्तरों पर खरीदारी और शॉर्ट कवरिंग के चलते दोनों कीमती धातुओं के दाम तेजी से उछले। हालांकि अमेरिकी अर्थव्यवस्था के मजबूत आंकड़े और फेडरल रिजर्व के सख्त रुख के कारण ब्याज दरों में संभावित बढ़ोतरी की आशंका अभी भी बनी हुई है, जिससे आगे की तेजी सीमित रह सकती है।
+
+एमसीएक्स पर दिसंबर डिलीवरी वाला सोना 2,028 रुपए की बढ़त के साथ 1,24,300 रुपए प्रति 10 ग्राम पर खुला। कारोबार के दौरान यह 3,100 रुपए या 2.6 प्रतिशत की तेजी के साथ 1,25,400 रुपए प्रति 10 ग्राम के आसपास कारोबार करता दिखाई दिया। हालांकि दिन के कारोबार में इसने 1,25,410 रुपए का हाई बनाया। इससे पहले पिछले सत्र में सोना 1,22,272 रुपए प्रति 10 ग्राम पर बंद हुआ था।
+
+हालिया गिरावट में सोना अपने रिकॉर्ड उच्च स्तर से काफी नीचे फिसल गया था, जिसके बाद निवेशकों ने निचले स्तरों पर खरीदारी शुरू कर दी।
+
+वहीं, चांदी में सोने की तुलना में अधिक मजबूती देखने को मिली। एमसीएक्स पर दिसंबर डिलीवरी वाली चांदी अपने पिछले बंद भाव 1,45,843 रुपए से 5,833 रुपए की छलांग के साथ 1,51,676 रुपए प्रति किलोग्राम पर खुली और बाद में यह 5.70 प्रतिशत यानी 8,300 रुपए की उछाल के साथ 1,54,150 रुपए प्रति किलोग्राम के आसपास कारोबार करती दिखी। वहीं, दिन के कारोबार में इसने 1,54,251 रुपए का हाई टच किया।
+
+हालिया बिकवाली में चांदी सोने से अधिक गिरी थी, इसलिए रिकवरी भी अधिक तेज रही।
+
+अंतरराष्ट्रीय बाजार में भी तेजी का माहौल रहा। कॉमेक्स पर सोना लगभग 3,659 डॉलर प्रति औंस और चांदी 44.10 डॉलर प्रति औंस के करीब कारोबार करती नजर आई। डॉलर में नरमी और तकनीकी शेयरों में सुधार से निवेशकों की जोखिम लेने की क्षमता बढ़ी, जिसका फायदा बुलियन बाजार को मिला।
+
+कीमती धातुओं में हालिया तेज गिरावट के बाद जिस तकनीकी रिकवरी की उम्मीद थी, वह अब दिखाई देने लगी है। दिसंबर में अमेरिकी फेडरल रिजर्व द्वारा ब्याज दरें बढ़ाने की संभावना बनी हुई है, जो आगे की तेजी पर दबाव डाल सकती है।
+
+इस बीच कच्चे तेल में भी तेजी देखने को मिली। मध्य पूर्व में आपूर्ति संबंधी चिंताओं के कारण ब्रेंट क्रूड और डब्ल्यूटीआई क्रूड दोनों ऊंचाई पर कारोबार कर रहे हैं। (इनपुट-आईएएनएस)
+
+4 seconds ago | National Capital Region
+
+### दिल्ली-एनसीआर में ठंड की दस्तक, अधिकतम तापमान में भी गिरावट के आसार
+
+### IFFI 2026: फिल्म निर्माता कार्तिक सुब्बाराज अपनी फिल्म ‘डोरोथी’ पर की चर्चा, ‘अच्छे’ और ‘बुरे’ के बीच के पारंपरिक अंतर को चुनौती देती हैं उनकी फ़िल्में
+
+गोवा में आयोजित 57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (इफ्फी) में, जाने-माने फिल्म निर्माता ...
+
+### IFFI 2026 : अभिनेता अंतोनियो सिमाओ ने पुर्तगाल में सिनेमाघरों में दर्शकों की घटती संख्या और घर पर बैठ कर फिल्म देखने की बढ़ती प्रवृत्ति पर जताई चिंता
+
+---
+
+**मूल स्रोत (Original Source):** [DD News](https://ddnews.gov.in/gold-and-silver-regain-their-shine-after-a-decline-silver-crosses-rs-1-54-lakh-mark/)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Markets श्रेणी से जुड़ी यह रिपोर्ट DD News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `DD News`,
+  },
+  {
+    id: 98164,
+    title: `कोविड वैक्सीन के थे साइड इफेक्ट, जकरबर्ग के आरोप पर अब Musk ने भरी हामी - AajTak`,
+    slug: `musk-aajtak-2026`,
+    original_title: `कोविड वैक्सीन के थे साइड इफेक्ट, जकरबर्ग के आरोप पर अब Musk ने भरी हामी - AajTak`,
+    category: `markets`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:10Z`,
+    updated_at: `2026-11-28T05:41:10Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/technology/tech-news/story/elon-musk-reacts-mark-zuckerberg-vaccine-censorship-joe-rogan-ttecr-dskc-2708278-2026-11-28`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0a3fbdda069-elon-musk-support-mark-zuckerberg-on-covid-vaccination-284308770.jpg`,
+    image_alt: `कोविड वैक्सीन के थे साइड इफेक्ट, जकरबर्ग के आरोप पर अब Musk ने भरी हामी - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Markets, News, India`,
+    summary: `कोविड वैक्सीन के साइड इफेक्ट को लेकर Elon Musk ने बड़ा बयान दे दिया है. उन्होंने X प्लेटफॉर्म पर पोस्ट करके उस वीडियो पर अंग्रेजी में यप (हां) कहा है, जिसमें फेसबुक के को-फाउंडर और Meta के सीईओ मार्क जकरबर्ग ने वैक्सीन प्रोग्राम के साइड इफे`,
+    content: `कोविड वैक्सीन के साइड इफेक्ट को लेकर Elon Musk ने बड़ा बयान दे दिया है. उन्होंने X प्लेटफॉर्म पर पोस्ट करके उस वीडियो पर अंग्रेजी में यप (हां) कहा है, जिसमें फेसबुक के को-फाउंडर और Meta के सीईओ मार्क जकरबर्ग ने वैक्सीन प्रोग्राम के साइड इफेक्ट को लेकर जिक्र किया था. जकरबर्ग बताते हैं कि कैसे अमेरिका में बाइडेन सरकार ने इसको छिपाने के लिए उनपर दबाव बनाया.
+
+और पढ़ेंदरअसल, अमेरिका में कोविड वैक्सीनेशन को लेकर अक्सर सोशल मीडिया ढेरों तरह के साइड इफेक्ट के दावे किए जाते हैं. अब दुनिया के सबसे अमीर शख्स ने इसपर पोस्ट करके अपनी सहमति दर्ज की है. साथ ही कोविड वैक्सीन के साइड इफेक्ट को लेकर छिड़ी बहस को और तेज कर दिया है. दरअसल, Sayer Ji नाम के एक यूजर ने मेटा के CEO मार्क जकरबर्ग के जो रोगन पॉडकास्ट में दिए गए बयान का हवाला देते हुए पोस्ट किया था.
+
+इसमें दावा किया गया है कि कोविड वैक्सीन के संभावित साइड इफेक्ट्स से जुड़ी जानकारी को हटाने के लिए मेटा पर दबाव बनाया गया था. मस्क ने मार्क जकरबर्ग के पुराने इंटरव्यू पर भरी हामीशनिवार सुबह Elon Musk ने X प्लेटफॉर्म पर पोस्ट किया, जिसमें मार्क जकरबर्ग के पुराने इंटरव्यू को रिपोस्ट किया और मेंशन करते हुए Yup (हां) लिखा.
+
+मस्क का यह रिपोस्ट उनकी सहमति को बताता है. जकरबर्ग ने वीडियो में कहा है कि वैक्सीनेशन के साइड इफेक्ट्स को लेकर बताया है. मार्क ने यह बात सिर्फ अमेरिकी सरकार को लेकर कहीं हैं. Advertisement        यह भी पढ़ें: Starlink भूल जाइए! Airtel-Jio की तरह टेलीकॉम कंपनी लाएंगे Elon Musk?Elon Musk का पोस्ट Yup— Elon Musk (@elonmusk) November 28, 2026मार्क जकरबर्ग ने पॉडकास्ट में क्या-क्या कहा थामार्क जुकरबर्ग ने साल 2025 में जो रोगन नाम के पॉडकास्ट The Joe Rogan Experience में बातचीत के दौरान कोविड 19 महामारी के समय कंटेंट मॉडरेशन को लेकर कई बातें कहीं थीं.
+
+जकरबर्ग के मुताबिक, कोविड वैक्सीन कार्यक्रम को आगे बढ़ाने के दौरान अमेरिकी प्रशासन ने सोशल मीडिया प्लेटफॉर्म पर दबाव बनाया था. उन्होंने आरोप लगाया कि वैक्सीन के संभावित साइड इफेक्ट्स का भी जिक्र करने वाले कंटेंट को भी हटाने का दबाव बनाया. यह भी पढ़ें: मेरे लिए सम्मान की बात..., Nvidia के Jensen Huang की हायरिंग पर बोले Elon Muskजकरबर्ग ने कहा था कि मेटा ने ऐसे कंटेंट को हटाने से इनकार किया.
+
+उनके मुताबिक, वैक्सीन के साइड इफेक्ट्स की बात फैक्चुअल तौर पर सही थी. जकरबर्ग ने यह भी कहा था कि उन्हें इन बातचीत में सीधे तौर पर शामिल नहीं किया था और बाइडेन प्रशासन के लोगों की भूमिका को लेकर उन्होंने अपनी जानकारी के आधार पर बात रखी थी. उन्होंने आगे कहा कि कुल मिलाकर के वैक्सीन के नुकसान कम और फायदे ज्यादा हैं.
+
+---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/technology/tech-news/story/elon-musk-reacts-mark-zuckerberg-vaccine-censorship-joe-rogan-ttecr-dskc-2708278-2026-11-28)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `कोविड वैक्सीन के थे साइड इफेक्ट, जकरबर्ग के आरोप पर अब Musk ने भरी हामी - AajTak`,
+    summary_hi: `कोविड वैक्सीन के साइड इफेक्ट को लेकर Elon Musk ने बड़ा बयान दे दिया है. उन्होंने X प्लेटफॉर्म पर पोस्ट करके उस वीडियो पर अंग्रेजी में यप (हां) कहा है, जिसमें फेसबुक के को-फाउंडर और Meta के सीईओ मार्क जकरबर्ग ने वैक्सीन प्रोग्राम के साइड इफे`,
+    content_hi: `कोविड वैक्सीन के साइड इफेक्ट को लेकर Elon Musk ने बड़ा बयान दे दिया है. उन्होंने X प्लेटफॉर्म पर पोस्ट करके उस वीडियो पर अंग्रेजी में यप (हां) कहा है, जिसमें फेसबुक के को-फाउंडर और Meta के सीईओ मार्क जकरबर्ग ने वैक्सीन प्रोग्राम के साइड इफेक्ट को लेकर जिक्र किया था. जकरबर्ग बताते हैं कि कैसे अमेरिका में बाइडेन सरकार ने इसको छिपाने के लिए उनपर दबाव बनाया.
+
+और पढ़ेंदरअसल, अमेरिका में कोविड वैक्सीनेशन को लेकर अक्सर सोशल मीडिया ढेरों तरह के साइड इफेक्ट के दावे किए जाते हैं. अब दुनिया के सबसे अमीर शख्स ने इसपर पोस्ट करके अपनी सहमति दर्ज की है. साथ ही कोविड वैक्सीन के साइड इफेक्ट को लेकर छिड़ी बहस को और तेज कर दिया है. दरअसल, Sayer Ji नाम के एक यूजर ने मेटा के CEO मार्क जकरबर्ग के जो रोगन पॉडकास्ट में दिए गए बयान का हवाला देते हुए पोस्ट किया था.
+
+इसमें दावा किया गया है कि कोविड वैक्सीन के संभावित साइड इफेक्ट्स से जुड़ी जानकारी को हटाने के लिए मेटा पर दबाव बनाया गया था. मस्क ने मार्क जकरबर्ग के पुराने इंटरव्यू पर भरी हामीशनिवार सुबह Elon Musk ने X प्लेटफॉर्म पर पोस्ट किया, जिसमें मार्क जकरबर्ग के पुराने इंटरव्यू को रिपोस्ट किया और मेंशन करते हुए Yup (हां) लिखा.
+
+मस्क का यह रिपोस्ट उनकी सहमति को बताता है. जकरबर्ग ने वीडियो में कहा है कि वैक्सीनेशन के साइड इफेक्ट्स को लेकर बताया है. मार्क ने यह बात सिर्फ अमेरिकी सरकार को लेकर कहीं हैं. Advertisement        यह भी पढ़ें: Starlink भूल जाइए! Airtel-Jio की तरह टेलीकॉम कंपनी लाएंगे Elon Musk?Elon Musk का पोस्ट Yup— Elon Musk (@elonmusk) November 28, 2026मार्क जकरबर्ग ने पॉडकास्ट में क्या-क्या कहा थामार्क जुकरबर्ग ने साल 2025 में जो रोगन नाम के पॉडकास्ट The Joe Rogan Experience में बातचीत के दौरान कोविड 19 महामारी के समय कंटेंट मॉडरेशन को लेकर कई बातें कहीं थीं.
+
+जकरबर्ग के मुताबिक, कोविड वैक्सीन कार्यक्रम को आगे बढ़ाने के दौरान अमेरिकी प्रशासन ने सोशल मीडिया प्लेटफॉर्म पर दबाव बनाया था. उन्होंने आरोप लगाया कि वैक्सीन के संभावित साइड इफेक्ट्स का भी जिक्र करने वाले कंटेंट को भी हटाने का दबाव बनाया. यह भी पढ़ें: मेरे लिए सम्मान की बात..., Nvidia के Jensen Huang की हायरिंग पर बोले Elon Muskजकरबर्ग ने कहा था कि मेटा ने ऐसे कंटेंट को हटाने से इनकार किया.
+
+उनके मुताबिक, वैक्सीन के साइड इफेक्ट्स की बात फैक्चुअल तौर पर सही थी. जकरबर्ग ने यह भी कहा था कि उन्हें इन बातचीत में सीधे तौर पर शामिल नहीं किया था और बाइडेन प्रशासन के लोगों की भूमिका को लेकर उन्होंने अपनी जानकारी के आधार पर बात रखी थी. उन्होंने आगे कहा कि कुल मिलाकर के वैक्सीन के नुकसान कम और फायदे ज्यादा हैं.
+
+---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/technology/tech-news/story/elon-musk-reacts-mark-zuckerberg-vaccine-censorship-joe-rogan-ttecr-dskc-2708278-2026-11-28)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Markets श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक कोविड वैक्सीन के थे साइड इफेक्ट, जकरबर्ग के आरोप पर अब Musk ने भरी हामी - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98165,
+    title: `Dell's Black Friday Deals Are Here, Including $1,000 Off the XPS 16 We Loved - PCMag`,
+    slug: `dells-black-friday-deals-are-here-including-1000-off-the-xps-16-we-lov-2026`,
+    original_title: `Dell's Black Friday Deals Are Here, Including $1,000 Off the XPS 16 We Loved - PCMag`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `34 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:11Z`,
+    updated_at: `2026-11-28T05:41:11Z`,
+    source_name: `PCMag`,
+    source_url: `https://www.pcmag.com/news/dell-deals-black-friday-2026-laptops-desktops`,
+    source_courtesy: `Source: PCMag`,
+    image_url: `/images/articles/dells-black-friday-deals-are-here-including-1000-off-the-xps-16-we-lov-2026.webp`,
+    image_alt: `Dell's Black Friday Deals Are Here, Including $1,000 Off the XPS 16 We Loved - PCMag`,
+    image_courtesy: `Image: PCMag (External Source Attribution)`,
+    image_photographer: `PCMag`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `<p>I bounded out of bed this <a href="https://www.pcmag.com/deals/black-friday-2026-everything-you-need-to-know-about-best-deals-sales" target="_self">Black Friday</a> ready to go, because it's one of the most important days of the year for`,
+    content: `<p>I bounded out of bed this <a href="https://www.pcmag.com/deals/black-friday-2026-everything-you-need-to-know-about-best-deals-sales" target="_self">Black Friday</a> ready to go, because it's one of the most important days of the year for me. I write about deals because I know times are tough, and you deserve the absolute best prices on the tech you need for work and play.
+
+Dell's post-Thanksgiving sale is worth checking out because it's got legitimately huge price drops on tons of PCs, including many we've reviewed in depth.</p><div class="content-visibility-auto contain-intrinsic-size-[auto_none]" role="region" aria-label="Product Summary List" x-data="{ showMore: false }">
+        <div class="w-full">
+            <div class="relative mb-8 border-b border-gray-300 pb-3 text-base font-semibold uppercase leading-tight tracking-widest text-black md:leading-normal">
+                                    The Best Black Friday Dell Deals
+                                <span class="pointer-events-none absolute -bottom-1 left-0 inline-block h-2 w-16 scale-y-75 bg-black"></span>
+            </div>
+        </div>
+                                                                    <div role="region" aria-label="Dell 14 Plus Laptop Product Card" class="flex max-w-3xl justify-between border-b gap-x-4 border-gray-300 pb-6 md:pb-8" x-cloak x-show="showMore || 0 &lt; 10">
+                    <div class="flex gap-x-4">
+                                                                                    <a class="group relative hidden w-full max-w-32 overflow-hidden border-none no-underline md:mx-0 md:block" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell 14 Plus Laptop" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aonmkY?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=0" title="(Opens in a new tab)" aria-label="Dell 14 Plus Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-5.jpg" data-lazy-sized alt="Dell 14 Plus Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-5.jpg">
+                                </a>
+                                                    
+                        <div class="flex w-full flex-col justify-between gap-y-4 md:justify-center md:gap-y-2">
+                                                            <a class="text-secondary-300 block w-[fit-content] border-none text-lg font-bold leading-tight" data-module="product-summary-list" data-item="offer-title" data-element="offer" data-label="Dell 14 Plus Laptop" href="https://zdcs.link/aonmkY?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-title&amp;element_label=Dell%2014%20Plus%20Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=0" title="(Opens in a new tab)" aria-label="Dell 14 Plus Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <h3 class="font-stretch-ultra-condensed font-semibold">Dell 14 Plus Laptop</h3>
+                                </a>
+                            
+                                                            <div class="flex flex-col gap-x-3 gap-y-1 text-sm leading-tight md:flex-row md:text-base">
+                                                                            <div class="flex flex-wrap items-center gap-x-1">
+                                            <span class="font-bold">$1,199.99</span>
+
+                                                                                            <span> at Dell</span>
+                                            
+                                                                                    </div>
+                                                                                                                <div class="flex flex-wrap items-center gap-x-1">
+                                                                                            <span class="line-through">$1,579.99</span>
+                                            
+                                                                                            <span class="font-bold text-red-400"> Save $380.00</span>
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                    </div>
+
+                    <div class="flex flex-col items-end gap-y-4 sm:justify-center">
+                                                                                    <a class="group relative w-32 overflow-hidden border-none no-underline md:mx-0 md:hidden md:w-36" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell 14 Plus Laptop" href="https://zdcs.link/aonmkY?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=0" title="(Opens in a new tab)" aria-label="Dell 14 Plus Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-5.jpg" data-lazy-sized alt="Dell 14 Plus Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-5.jpg">
+                                </a>
+                                                    
+                                                    <a class="group mr-[3px] leading-normal" data-module="product-summary-list" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aonmkY?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-button&amp;element_label=Get%20Deal&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=0" title="(Opens in a new tab)" aria-label="Get Deal" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                </div>
+                                                                        <div role="region" aria-label="Dell XPS 14 Laptop Product Card" class="flex max-w-3xl justify-between border-b gap-x-4 border-gray-300 pb-6 md:pb-8 pt-6 md:pt-8" x-cloak x-show="showMore || 1 &lt; 10">
+                    <div class="flex gap-x-4">
+                                                                                    <a class="group relative hidden w-full max-w-32 overflow-hidden border-none no-underline md:mx-0 md:block" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell XPS 14 Laptop" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/z6xvK3?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=1" title="(Opens in a new tab)" aria-label="Dell XPS 14 Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-9.jpg" data-lazy-sized alt="Dell XPS 14 Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-9.jpg">
+                                </a>
+                                                    
+                        <div class="flex w-full flex-col justify-between gap-y-4 md:justify-center md:gap-y-2">
+                                                            <a class="text-secondary-300 block w-[fit-content] border-none text-lg font-bold leading-tight" data-module="product-summary-list" data-item="offer-title" data-element="offer" data-label="Dell XPS 14 Laptop" href="https://zdcs.link/z6xvK3?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-title&amp;element_label=Dell%20XPS%2014%20Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=1" title="(Opens in a new tab)" aria-label="Dell XPS 14 Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <h3 class="font-stretch-ultra-condensed font-semibold">Dell XPS 14 Laptop</h3>
+                                </a>
+                            
+                                                            <div class="flex flex-col gap-x-3 gap-y-1 text-sm leading-tight md:flex-row md:text-base">
+                                                                            <div class="flex flex-wrap items-center gap-x-1">
+                                            <span class="font-bold">$1,499.99</span>
+
+                                                                                            <span> at Dell</span>
+                                            
+                                                                                    </div>
+                                                                                                                <div class="flex flex-wrap items-center gap-x-1">
+                                                                                            <span class="line-through">$2,249.99</span>
+                                            
+                                                                                            <span class="font-bold text-red-400"> Save $750.00</span>
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                    </div>
+
+                    <div class="flex flex-col items-end gap-y-4 sm:justify-center">
+                                                                                    <a class="group relative w-32 overflow-hidden border-none no-underline md:mx-0 md:hidden md:w-36" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell XPS 14 Laptop" href="https://zdcs.link/z6xvK3?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=1" title="(Opens in a new tab)" aria-label="Dell XPS 14 Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-9.jpg" data-lazy-sized alt="Dell XPS 14 Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-9.jpg">
+                                </a>
+                                                    
+                                                    <a class="group mr-[3px] leading-normal" data-module="product-summary-list" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/z6xvK3?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-button&amp;element_label=Get%20Deal&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=1" title="(Opens in a new tab)" aria-label="Get Deal" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                </div>
+                                                                        <div role="region" aria-label="Dell XPS 16 Product Card" class="flex max-w-3xl justify-between border-b gap-x-4 border-gray-300 pb-6 md:pb-8 pt-6 md:pt-8" x-cloak x-show="showMore || 2 &lt; 10">
+                    <div class="flex gap-x-4">
+                                                                                    <a class="group relative hidden w-full max-w-32 overflow-hidden border-none no-underline md:mx-0 md:block" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell XPS 16" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aN5LOE?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=2" title="(Opens in a new tab)" aria-label="Dell XPS 16" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-7.jpg" data-lazy-sized alt="Dell 24 All-In-One Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-7.jpg">
+                                </a>
+                                                    
+                        <div class="flex w-full flex-col justify-between gap-y-4 md:justify-center md:gap-y-2">
+                                                            <a class="text-secondary-300 block w-[fit-content] border-none text-lg font-bold leading-tight" data-module="product-summary-list" data-item="offer-title" data-element="offer" data-label="Dell XPS 16" href="https://zdcs.link/aN5LOE?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-title&amp;element_label=Dell%20XPS%2016&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=2" title="(Opens in a new tab)" aria-label="Dell XPS 16" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <h3 class="font-stretch-ultra-condensed font-semibold">Dell XPS 16</h3>
+                                </a>
+                            
+                                                            <div class="flex flex-col gap-x-3 gap-y-1 text-sm leading-tight md:flex-row md:text-base">
+                                                                            <div class="flex flex-wrap items-center gap-x-1">
+                                            <span class="font-bold">$2,149.99</span>
+
+                                                                                            <span> at Dell</span>
+                                            
+                                                                                    </div>
+                                                                                                                <div class="flex flex-wrap items-center gap-x-1">
+                                                                                            <span class="line-through">$3,149.99</span>
+                                            
+                                                                                            <span class="font-bold text-red-400"> Save $1,000.00</span>
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                    </div>
+
+                    <div class="flex flex-col items-end gap-y-4 sm:justify-center">
+                                                                                    <a class="group relative w-32 overflow-hidden border-none no-underline md:mx-0 md:hidden md:w-36" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell XPS 16" href="https://zdcs.link/aN5LOE?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=2" title="(Opens in a new tab)" aria-label="Dell XPS 16" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-7.jpg" data-lazy-sized alt="Dell 24 All-In-One Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-7.jpg">
+                                </a>
+                                                    
+                                                    <a class="group mr-[3px] leading-normal" data-module="product-summary-list" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aN5LOE?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-button&amp;element_label=Get%20Deal&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=2" title="(Opens in a new tab)" aria-label="Get Deal" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                </div>
+                                                                        <div role="region" aria-label="Alienware 16 Aurora Gaming Laptop Product Card" class="flex max-w-3xl justify-between border-b gap-x-4 border-gray-300 pb-6 md:pb-8 pt-6 md:pt-8" x-cloak x-show="showMore || 3 &lt; 10">
+                    <div class="flex gap-x-4">
+                                                                                    <a class="group relative hidden w-full max-w-32 overflow-hidden border-none no-underline md:mx-0 md:block" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Alienware 16 Aurora Gaming Laptop" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aRADb8?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=3" title="(Opens in a new tab)" aria-label="Alienware 16 Aurora Gaming Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-8.jpg" data-lazy-sized alt="Alienware 16 Aurora Gaming Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-8.jpg">
+                                </a>
+                                                    
+                        <div class="flex w-full flex-col justify-between gap-y-4 md:justify-center md:gap-y-2">
+                                                            <a class="text-secondary-300 block w-[fit-content] border-none text-lg font-bold leading-tight" data-module="product-summary-list" data-item="offer-title" data-element="offer" data-label="Alienware 16 Aurora Gaming Laptop" href="https://zdcs.link/aRADb8?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-title&amp;element_label=Alienware%2016%20Aurora%20Gaming%20Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=3" title="(Opens in a new tab)" aria-label="Alienware 16 Aurora Gaming Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <h3 class="font-stretch-ultra-condensed font-semibold">Alienware 16 Aurora Gaming Laptop</h3>
+                                </a>
+                            
+                                                            <div class="flex flex-col gap-x-3 gap-y-1 text-sm leading-tight md:flex-row md:text-base">
+                                                                            <div class="flex flex-wrap items-center gap-x-1">
+                                            <span class="font-bold">$1,099.99</span>
+
+                                                                                            <span> at Dell</span>
+                                            
+                                                                                    </div>
+                                                                                                                <div class="flex flex-wrap items-center gap-x-1">
+                                                                                            <span class="line-through">$1,999.99</span>
+                                            
+                                                                                            <span class="font-bold text-red-400"> Save $900.00</span>
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                    </div>
+
+                    <div class="flex flex-col items-end gap-y-4 sm:justify-center">
+                                                                                    <a class="group relative w-32 overflow-hidden border-none no-underline md:mx-0 md:hidden md:w-36" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Alienware 16 Aurora Gaming Laptop" href="https://zdcs.link/aRADb8?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=3" title="(Opens in a new tab)" aria-label="Alienware 16 Aurora Gaming Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-8.jpg" data-lazy-sized alt="Alienware 16 Aurora Gaming Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-8.jpg">
+                                </a>
+                                                    
+                                                    <a class="group mr-[3px] leading-normal" data-module="product-summary-list" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aRADb8?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-button&amp;element_label=Get%20Deal&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=3" title="(Opens in a new tab)" aria-label="Get Deal" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                </div>
+                                                                        <div role="region" aria-label="Dell 24 All-In-One Desktop Product Card" class="flex max-w-3xl justify-between border-b gap-x-4 border-gray-300 pb-6 md:pb-8 pt-6 md:pt-8" x-cloak x-show="showMore || 4 &lt; 10">
+                    <div class="flex gap-x-4">
+                                                                                    <a class="group relative hidden w-full max-w-32 overflow-hidden border-none no-underline md:mx-0 md:block" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell 24 All-In-One Desktop" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/zJ7PZG?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=4" title="(Opens in a new tab)" aria-label="Dell 24 All-In-One Desktop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-7.jpg" data-lazy-sized alt="Dell 24 All-In-One Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-7.jpg">
+                                </a>
+                                                    
+                        <div class="flex w-full flex-col justify-between gap-y-4 md:justify-center md:gap-y-2">
+                                                            <a class="text-secondary-300 block w-[fit-content] border-none text-lg font-bold leading-tight" data-module="product-summary-list" data-item="offer-title" data-element="offer" data-label="Dell 24 All-In-One Desktop" href="https://zdcs.link/zJ7PZG?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-title&amp;element_label=Dell%2024%20All-In-One%20Desktop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=4" title="(Opens in a new tab)" aria-label="Dell 24 All-In-One Desktop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <h3 class="font-stretch-ultra-condensed font-semibold">Dell 24 All-In-One Desktop</h3>
+                                </a>
+                            
+                                                            <div class="flex flex-col gap-x-3 gap-y-1 text-sm leading-tight md:flex-row md:text-base">
+                                                                            <div class="flex flex-wrap items-center gap-x-1">
+                                            <span class="font-bold">$849.99</span>
+
+                                                                                            <span> at Dell</span>
+                                            
+                                                                                    </div>
+                                                                                                                <div class="flex flex-wrap items-center gap-x-1">
+                                                                                            <span class="line-through">$1,099.99</span>
+                                            
+                                                                                            <span class="font-bold text-red-400"> Save $250.00</span>
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                    </div>
+
+                    <div class="flex flex-col items-end gap-y-4 sm:justify-center">
+                                                                                    <a class="group relative w-32 overflow-hidden border-none no-underline md:mx-0 md:hidden md:w-36" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell 24 All-In-One Desktop" href="https://zdcs.link/zJ7PZG?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=4" title="(Opens in a new tab)" aria-label="Dell 24 All-In-One Desktop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-7.jpg" data-lazy-sized alt="Dell 24 All-In-One Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-7.jpg">
+                                </a>
+                                                    
+                                                    <a class="group mr-[3px] leading-normal" data-module="product-summary-list" data-item="offer-button" data-element="offer" data-label="See It" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/zJ7PZG?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-button&amp;element_label=Get%20Deal&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=4" title="(Opens in a new tab)" aria-label="See It" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">See It</span>
+                            </a>
+                                            </div>
+                </div>
+                                                                        <div role="region" aria-label="Alienware Aurora Gaming Desktop Product Card" class="flex max-w-3xl justify-between border-b gap-x-4 border-gray-300 pb-6 md:pb-8 pt-6 md:pt-8" x-cloak x-show="showMore || 5 &lt; 10">
+                    <div class="flex gap-x-4">
+                                                                                    <a class="group relative hidden w-full max-w-32 overflow-hidden border-none no-underline md:mx-0 md:block" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Alienware Aurora Gaming Desktop" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/QKw0mn?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=5" title="(Opens in a new tab)" aria-label="Alienware Aurora Gaming Desktop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-13.jpg" data-lazy-sized alt="Alienware Aurora Gaming Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-13.jpg">
+                                </a>
+                                                    
+                        <div class="flex w-full flex-col justify-between gap-y-4 md:justify-center md:gap-y-2">
+                                                            <a class="text-secondary-300 block w-[fit-content] border-none text-lg font-bold leading-tight" data-module="product-summary-list" data-item="offer-title" data-element="offer" data-label="Alienware Aurora Gaming Desktop" href="https://zdcs.link/QKw0mn?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-title&amp;element_label=Alienware%20Aurora%20Gaming%20Desktop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=5" title="(Opens in a new tab)" aria-label="Alienware Aurora Gaming Desktop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <h3 class="font-stretch-ultra-condensed font-semibold">Alienware Aurora Gaming Desktop</h3>
+                                </a>
+                            
+                                                            <div class="flex flex-col gap-x-3 gap-y-1 text-sm leading-tight md:flex-row md:text-base">
+                                                                            <div class="flex flex-wrap items-center gap-x-1">
+                                            <span class="font-bold">$3,479.99</span>
+
+                                                                                            <span> at Dell</span>
+                                            
+                                                                                    </div>
+                                                                                                                <div class="flex flex-wrap items-center gap-x-1">
+                                                                                            <span class="line-through">$3,879.99</span>
+                                            
+                                                                                            <span class="font-bold text-red-400"> Save $400.00</span>
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                    </div>
+
+                    <div class="flex flex-col items-end gap-y-4 sm:justify-center">
+                                                                                    <a class="group relative w-32 overflow-hidden border-none no-underline md:mx-0 md:hidden md:w-36" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Alienware Aurora Gaming Desktop" href="https://zdcs.link/QKw0mn?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=5" title="(Opens in a new tab)" aria-label="Alienware Aurora Gaming Desktop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-13.jpg" data-lazy-sized alt="Alienware Aurora Gaming Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-13.jpg">
+                                </a>
+                                                    
+                                                    <a class="group mr-[3px] leading-normal" data-module="product-summary-list" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/QKw0mn?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-button&amp;element_label=Get%20Deal&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=5" title="(Opens in a new tab)" aria-label="Get Deal" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                </div>
+                                                                        <div role="region" aria-label="Dell 24 Monitor Product Card" class="flex max-w-3xl justify-between border-b gap-x-4 border-gray-300 pb-6 md:pb-8 pt-6 md:pt-8" x-cloak x-show="showMore || 6 &lt; 10">
+                    <div class="flex gap-x-4">
+                                                                                    <a class="group relative hidden w-full max-w-32 overflow-hidden border-none no-underline md:mx-0 md:block" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell 24 Monitor" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/QqOWLp?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=6" title="(Opens in a new tab)" aria-label="Dell 24 Monitor" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-11.jpg" data-lazy-sized alt="Dell 24 Monitor" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-11.jpg">
+                                </a>
+                                                    
+                        <div class="flex w-full flex-col justify-between gap-y-4 md:justify-center md:gap-y-2">
+                                                            <a class="text-secondary-300 block w-[fit-content] border-none text-lg font-bold leading-tight" data-module="product-summary-list" data-item="offer-title" data-element="offer" data-label="Dell 24 Monitor" href="https://zdcs.link/QqOWLp?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-title&amp;element_label=Dell%2024%20Monitor&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=6" title="(Opens in a new tab)" aria-label="Dell 24 Monitor" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <h3 class="font-stretch-ultra-condensed font-semibold">Dell 24 Monitor</h3>
+                                </a>
+                            
+                                                            <div class="flex flex-col gap-x-3 gap-y-1 text-sm leading-tight md:flex-row md:text-base">
+                                                                            <div class="flex flex-wrap items-center gap-x-1">
+                                            <span class="font-bold">$99.99</span>
+
+                                                                                            <span> at Dell</span>
+                                            
+                                                                                    </div>
+                                                                                                                <div class="flex flex-wrap items-center gap-x-1">
+                                                                                            <span class="line-through">$139.99</span>
+                                            
+                                                                                            <span class="font-bold text-red-400"> Save $40.00</span>
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                    </div>
+
+                    <div class="flex flex-col items-end gap-y-4 sm:justify-center">
+                                                                                    <a class="group relative w-32 overflow-hidden border-none no-underline md:mx-0 md:hidden md:w-36" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell 24 Monitor" href="https://zdcs.link/QqOWLp?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=6" title="(Opens in a new tab)" aria-label="Dell 24 Monitor" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-11.jpg" data-lazy-sized alt="Dell 24 Monitor" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-11.jpg">
+                                </a>
+                                                    
+                                                    <a class="group mr-[3px] leading-normal" data-module="product-summary-list" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/QqOWLp?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-button&amp;element_label=Get%20Deal&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=6" title="(Opens in a new tab)" aria-label="Get Deal" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                </div>
+                            <button class="font-akshar mb-4 mt-6 flex items-center gap-x-1 text-sm font-medium text-gray-900 hover:cursor-pointer hover:text-red-400" aria-label="SEE -3 MORE" x-cloak x-show="!showMore &amp;&amp; 7 &gt; 10" x-on:click="showMore = !showMore" x-on:keydown.enter.prevent.stop="showMore = !showMore">
+            SEE -3 MORE
+            <svg class="inline-block size-3 -mt-px text-red-400 fill-current" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 320 512"><path fill="currentColor" d="M285.476 272.971 91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"></path></svg>        </button>
+    </div>
+<h2 id="laptop-deals">Laptop Deals</h2><h3>Dell 14 Plus Laptop</h3><div role="region" aria-label="Dell 14 Plus Laptop Shop Card">
+                <div class="mx-auto flex max-w-3xl flex-col gap-[20px] border-b border-gray-300 pb-8 md:flex-row md:gap-4 md:pb-4 pt-8 md:pt-4 border-t">
+                            <div class="mx-auto w-full md:mx-0 md:max-w-[362px]">
+                                            <a class="group relative block w-full overflow-hidden border-none no-underline" data-module="shop-card" data-item="offer-image" data-element="offer" data-label="Dell 14 Plus Laptop" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aonmkY?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Dell 14 Plus Laptop" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="!my-0 w-full aspect-video object-contain rounded" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-5.jpg" data-lazy-sized alt="Dell 14 Plus Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-5.jpg">
+                        </a>
+                                    </div>
+                        <div class="flex w-full flex-col justify-center gap-[20px] md:gap-4">
+                <div class="flex flex-col gap-3 leading-tight">
+                    
+                                            <h3 class="font-stretch-ultra-condensed w-[fit-content] !p-0 text-left text-xl font-semibold">
+                            Dell 14 Plus Laptop</h3>
+                    
+                                            <div class="text-sm font-normal">14-inch QHD+ display, Intel Core Ultra 7 256V CPU, 16GB RAM, 1TB SSD</div>
+                                                        </div>
+
+                                    <hr class="!m-0">
+                    <div class="flex flex-wrap items-center justify-between gap-4 leading-tight">
+                        <div class="flex flex-col gap-1 text-sm font-bold">
+                                                            <div class="inline-flex items-center gap-1">
+                                    <span>$1,199.99</span>
+                                                                            <span class="text-xs font-normal">at Dell</span>
+                                                                                                        </div>
+                                                                                        <div class="inline-flex items-center gap-1">
+                                                                            <span class="line-through">$1,579.99</span>
+                                                                                                                <span class="text-red-400">Save $380.00</span>
+                                                                    </div>
+                                                    </div>
+                                                    <a class="group mr-[3px] leading-normal" data-module="shop-card" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aonmkY?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-button&amp;element_label=Shop%20Now&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Get Deal" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+<p>Dell's got a lot of different laptops on sale for Black Friday, but snagging $380 off the high-quality Dell 14 Plus is the best offer to open up with.
+
+We gave it an "Excellent" rating in <a href="https://www.pcmag.com/reviews/dell-14-plus-db14250" target="_self">our review</a>, with PCMag expert <a href="https://www.pcmag.com/authors/charles-jefferies" target="_self"><u>Charles Jefferies</u></a> saying it "takes the midrange torch from its venerable Inspiron brand and runs with it, challenging top-tier mainstream laptops for the adoration of home users and students." With a sleek all-metal build, it's strong competition for Apple's MacBook Air.
+
+Performance is solid with a speedy Intel Core Ultra 7 processor running the show, and the QHD+ screen is crisp and colorful. We also liked its high-quality webcam and speakers.</p><div role="region" aria-label="Dell XPS 14 Laptop Shop Card">
+                <div class="mx-auto flex max-w-3xl flex-col gap-[20px] border-b border-gray-300 pb-8 md:flex-row md:gap-4 md:pb-4 pt-8 md:pt-4 border-t">
+                            <div class="mx-auto w-full md:mx-0 md:max-w-[362px]">
+                                            <a class="group relative block w-full overflow-hidden border-none no-underline" data-module="shop-card" data-item="offer-image" data-element="offer" data-label="Dell XPS 14 Laptop" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/z6xvK3?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Dell XPS 14 Laptop" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="!my-0 w-full aspect-video object-contain rounded" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-9.jpg" data-lazy-sized alt="Dell XPS 14 Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-9.jpg">
+                        </a>
+                                    </div>
+                        <div class="flex w-full flex-col justify-center gap-[20px] md:gap-4">
+                <div class="flex flex-col gap-3 leading-tight">
+                    
+                                            <h3 class="font-stretch-ultra-condensed w-[fit-content] !p-0 text-left text-xl font-semibold">
+                            Dell XPS 14 Laptop</h3>
+                    
+                                            <div class="text-sm font-normal">14-inch FHD+ display, Intel Core Ultra 7 355 CPU, 16GB RAM, 512GB SSD</div>
+                                                        </div>
+
+                                    <hr class="!m-0">
+                    <div class="flex flex-wrap items-center justify-between gap-4 leading-tight">
+                        <div class="flex flex-col gap-1 text-sm font-bold">
+                                                            <div class="inline-flex items-center gap-1">
+                                    <span>$1,499.99</span>
+                                                                            <span class="text-xs font-normal">at Dell</span>
+                                                                                                        </div>
+                                                                                        <div class="inline-flex items-center gap-1">
+                                                                            <span class="line-through">$2,249.99</span>
+                                                                                                                <span class="text-red-400">Save $750.00</span>
+                                                                    </div>
+                                                    </div>
+                                                    <a class="group mr-[3px] leading-normal" data-module="shop-card" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/z6xvK3?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-button&amp;element_label=Shop%20Now&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Get Deal" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+<p>We gleefully gave the redesigned XPS 14 an Editors' Choice award in <a href="https://www.pcmag.com/reviews/dell-xps-14-2026" target="_self">our review</a>, with our reviewer declaring the portable "pairs a refreshed, practical design with big boosts to speed and efficiency from Intel&rsquo;s &ldquo;Panther Lake&rdquo; Core Ultra processors." With a premium CNC aluminum chassis, Gorilla Glass screen, and an elegant design with minimal lines and a sleek glass touchpad, this one's as eye-catching as it is useful.
+
+This is the entry-level loadout of the XPS 14, with a price-conscious Core Ultra 7 CPU that still dominates productivity tasks. Battery life is also impressive, making this one of the most attractive laptops we've seen anywhere before Black Friday.</p><div class="mb-0 rounded-md bg-gray-100 p-3 md:p-5" id="related-video">
+    <div class="flex items-center">
+        <div class="w-6 flex-none">
+            <img class="w-full" src="/images/pcmag-simplified.png" alt="PCMag logo">
+        </div>
+        <div class="pl-2 text-base leading-normal md:pl-3">
+            <strong>You May Also Like</strong>
+        </div>
+    </div>
+    <div class="mt-3">
+        <div id="video-container-693afc76be1c4ff548856652"></div>
+        <script>
+            window.videoEmbeds = window.videoEmbeds || [];
+                            let data = {};
+                                        data.excoPlayListId = '693afc76be1c4ff548856652';
+                data.excoPlayListVideos = {"0aefa7a1-59b5-59d5-9f82-67634d0d9b7d":"0126l8Y3AOVbt99HTiD4EOD","1e36dccf-5c15-5458-b970-3d21ab2a1ae4":"07mUdiwjOzPTDl7TEAhCQtZ","27718777-c007-58c6-9c1f-568c8ca74a63":"07jpo1TutUZ3ws58IRgCoQj","45a82b48-7bf9-504d-9e78-29aeaef8f929":"04CCXTc5hQ0vKqvOi6yNuI8","4afcf9dc-5b19-50b5-acd8-8e56b8999fae":"00kMfrsBiZh3EFlZCrLsbUm","4dbab88e-4122-5560-86cd-fe068bbd26b6":"01pRsuu6EvH3X3hxF2Linbj","6025e3e3-a186-50a8-b0ae-9123906a8cb7":"05hXfWAj8geLUn8ULofg43t","6d22423e-a97a-5986-8a6a-70e699e44d6b":"05NvnOCJ1JPOoBQIvotj3jR","755abc09-f86f-4c8c-b83f-8d64fda985c7":"00gUBYqF000TlG7dH0ndKde","ae5a248a-973d-54de-aba2-37526f60007e":"07kZyuImtn85RR8M7JiBWKR"};
+            
+            window.videoEmbeds.push({
+                elemId: 'video-container-693afc76be1c4ff548856652',
+                data: data,
+                videoPlayerType: 'related-contextual',
+                variation: 'INJECTED',
+            });
+        </script>
+    </div>
+</div>
+<div role="region" aria-label="Dell XPS 16 Laptop Shop Card">
+                <div class="mx-auto flex max-w-3xl flex-col gap-[20px] border-b border-gray-300 pb-8 md:flex-row md:gap-4 md:pb-4 pt-8 md:pt-4 border-t">
+                            <div class="mx-auto w-full md:mx-0 md:max-w-[362px]">
+                                            <a class="group relative block w-full overflow-hidden border-none no-underline" data-module="shop-card" data-item="offer-image" data-element="offer" data-label="Dell XPS 16 Laptop" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aN5LOE?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Dell XPS 16 Laptop" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="!my-0 w-full aspect-video object-contain rounded" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-15.jpg" data-lazy-sized alt="Dell XPS 16 Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-15.jpg">
+                        </a>
+                                    </div>
+                        <div class="flex w-full flex-col justify-center gap-[20px] md:gap-4">
+                <div class="flex flex-col gap-3 leading-tight">
+                    
+                                            <h3 class="font-stretch-ultra-condensed w-[fit-content] !p-0 text-left text-xl font-semibold">
+                            Dell XPS 16 Laptop</h3>
+                    
+                                            <div class="text-sm font-normal">16-inch FHD+ display, Intel Core Ultra 7 358H CPU, 32GB RAM, 1TB SSD</div>
+                                                        </div>
+
+                                    <hr class="!m-0">
+                    <div class="flex flex-wrap items-center justify-between gap-4 leading-tight">
+                        <div class="flex flex-col gap-1 text-sm font-bold">
+                                                            <div class="inline-flex items-center gap-1">
+                                    <span>$2,149.99</span>
+                                                                            <span class="text-xs font-normal">at Dell</span>
+                                                                                                        </div>
+                                                                                        <div class="inline-flex items-center gap-1">
+                                                                            <span class="line-through">$3,149.99</span>
+                                                                                                                <span class="text-red-400">Save $1,000.00</span>
+                                                                    </div>
+                                                    </div>
+                                                    <a class="group mr-[3px] leading-normal" data-module="shop-card" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aN5LOE?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-button&amp;element_label=Shop%20Now&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Get Deal" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+<p>Want all of the performance and style of the XPS 14 and a bigger screen to boot?
+
+Good news: you can pick up a new XPS 16 with a tremendous component loadout for a thousand bucks off right now. We<a href="https://www.pcmag.com/reviews/dell-xps-16-2026" target="_self"> reviewed the XPS 16</a> and raved about it, with PCMag expert <a href="https://www.pcmag.com/authors/matthew-buzzi" target="_self">Matthew Buzzi</a> calling it "a pricey, premium laptop for well-heeled shoppers" thanks to its sleek, premium CNC aluminum chassis, solid performance, and bright, crisp 2K display protected by Corning Gorilla Glass.
+
+High-energy-density batteries make it a surprising marathon runner as well, delivering over 17 hours on a charge in our in-house testing. It's a splurge, but you get a lot of value for the money.</p><div role="region" aria-label="Dell 16 Plus Laptop Shop Card">
+                <div class="mx-auto flex max-w-3xl flex-col gap-[20px] border-b border-gray-300 pb-8 md:flex-row md:gap-4 md:pb-4 pt-8 md:pt-4 border-t">
+                            <div class="mx-auto w-full md:mx-0 md:max-w-[362px]">
+                                            <a class="group relative block w-full overflow-hidden border-none no-underline" data-module="shop-card" data-item="offer-image" data-element="offer" data-label="Dell 16 Plus Laptop" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/QbJ3rx?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Dell 16 Plus Laptop" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="!my-0 w-full aspect-video object-contain rounded" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-12.jpg" data-lazy-sized alt="Dell 16 Plus Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-12.jpg">
+                        </a>
+                                    </div>
+                        <div class="flex w-full flex-col justify-center gap-[20px] md:gap-4">
+                <div class="flex flex-col gap-3 leading-tight">
+                    
+                                            <h3 class="font-stretch-ultra-condensed w-[fit-content] !p-0 text-left text-xl font-semibold">
+                            Dell 16 Plus Laptop</h3>
+                    
+                                            <div class="text-sm font-normal">16-inch QHD+ display, Intel Core Ultra 7 258V CPU, 32GB RAM, 1TB SSD</div>
+                                                        </div>
+
+                                    <hr class="!m-0">
+                    <div class="flex flex-wrap items-center justify-between gap-4 leading-tight">
+                        <div class="flex flex-col gap-1 text-sm font-bold">
+                                                            <div class="inline-flex items-center gap-1">
+                                    <span>$1,199.99</span>
+                                                                            <span class="text-xs font-normal">at Dell</span>
+                                                                                                        </div>
+                                                                                        <div class="inline-flex items-center gap-1">
+                                                                            <span class="line-through">$2,079.99</span>
+                                                                                                                <span class="text-red-400">Save $880.00</span>
+                                                                    </div>
+                                                    </div>
+                                                    <a class="group mr-[3px] leading-normal" data-module="shop-card" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/QbJ3rx?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-button&amp;element_label=Shop%20Now&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Get Deal" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+<p>Want a bigger screen?
+
+We've got you covered. The Dell 16 Plus laptop easily took home an Editors' Choice award in <a href="https://www.pcmag.com/reviews/dell-16-plus-db16250" target="_self">our review</a>, gushing over its lengthy battery life that demands no compromises from the vibrant QHD+ screen, along with a solid-feeling aluminum build that's still relatively lightweight for its size.
+
+Under the hood, this configuration delivers a lot of value, with an eight-core Intel Core Ultra 7 processor powering your productivity and entertainment, paired with an impressive 32GB of DDR5 RAM for smooth multitasking and a full terabyte of onboard storage. Plenty of ports and a better-than-average webcam round out the machine, which you can snag for $400 off.</p><section class="offers my-4 flex flex-col items-center gap-y-6 border-x-0 border-b-2 border-red-400 lg:my-8" id="commerce-group" aria-label="More Black Friday Laptop Deals">
+        <div class="line-header decorative-horizontal-lines w-full before:border-red-400 after:border-red-400">
+            <div class="flex size-10 items-center justify-center rounded-full bg-red-400 text-white">
+                <svg class="size-6 mr-[0.1rem]" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 160.7 148.5" style="enable-background:new 0 0 160.7 148.5;" xml:space="preserve">
+<path fill="currentColor" d="M152.4,89.6l-90.6,56.6c-6.9,4.3-16,2.2-20.4-4.7L2.3,79.2c-4.3-6.9-2.2-16,4.7-20.3L97.5,2.3
+	c4.2-2.6,9.4-3,13.9-1l45,20.2c2.7,1.2,4.4,4,4.4,6.9l-1.4,49.2C159.2,82.5,156.6,87,152.4,89.6z M145.8,32.9l-40.5-18.2L14.8,71.3
+	L54,133.8l90.6-56.6L145.8,32.9z M115.8,51.7c-2.2-3.4-1.1-8,2.3-10.2c3.5-2.2,8-1.1,10.2,2.3c2.2,3.4,1.1,8-2.3,10.2
+	C122.5,56.2,118,55.1,115.8,51.7z"></path>
+</svg>            </div>
+        </div>
+                    <h3 class="font-stretch-condensed text-center leading-tight">More Black Friday Laptop Deals</h3>
+                <ul class="!mb-0 flex !list-none flex-col !pl-0 lg:text-lg">
+                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=04wfQKbrfJIZEtCGCtNczf9&amp;url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flaptop-computers%2Fspd%2Fxps13dx13260%2Fdx13260_so_42&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=1&amp;element_label=Dell+XPS+13+Intel+5+256GB+SSD+8GB+RAM+13.4%26quot%3B+Touch+Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=01zkqX8U43gfXQyAibJgasi" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="02JkilVdKi6uBbLr8JCUGzD" aria-label='Dell XPS 13 Intel 5 256GB SSD 8GB RAM 13.4" Touch Laptop' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="1" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Dell XPS 13 Intel 5 256GB SSD 8GB RAM 13.4" Touch Laptop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$549.99</strong>
+                                                                                                        <span class="text-sm line-through">($749.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $200.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=05kie42h3YvHwjr4G1w80Qq&amp;url=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0GR19X8DC&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=2&amp;element_label=Apple+MacBook+Air+M5+Chip+512GB+SSD+16GB+RAM+13.6%26quot%3B...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=03WYXdGdow6XnIvzuj8sdPY" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="05CwKOpEQDpz4p8rn7Yb14i" aria-label='Apple MacBook Air M5 Chip 512GB SSD 16GB RAM 13.6"...' data-aps-asin="B0GR19X8DC" data-aps-asc-tag="p00935-20" data-aps-asc-subtag="05CwKOpEQDpz4p8rn7Yb14i" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="2" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Apple MacBook Air M5 Chip 512GB SSD 16GB RAM 13.6"...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$999.00</strong>
+                                                                                                        <span class="text-sm line-through">($1,299.00)</span>
+                            <span class="text-sm font-bold text-red-400">Save $300.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=00EsVzDYUgykPrtmlRJp2Xl&amp;url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Floq-laptops%2Floq-15-series%2Flenovo-loq-essential-15irh11%2F83y90054us&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=3&amp;element_label=Lenovo+LOQ+Essential+Intel+7+RTX+3050+512GB+SSD+16...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=02SbMETi2dcj0HpLqvUKlQZ" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="06PieP5rDnUf7WaJ8RUAb7v" aria-label="Lenovo LOQ Essential Intel 7 RTX 3050 512GB SSD 16..." x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="3" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Lenovo LOQ Essential Intel 7 RTX 3050 512GB SSD 16...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$799.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,476.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $677.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=053mLh2CqQ87B6COi2cD2og&amp;url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-omnibook-x-ngai-17-dd0047nr&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=4&amp;element_label=HP+OmniBook+X+Intel+Ultra+7+512GB+SSD+16GB+RAM+17....&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=02IKfbhDqT8WrNlp4b83hSQ" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="07d3YYB3bvKCTOjjdYiETSi" aria-label="HP OmniBook X Intel Ultra 7 512GB SSD 16GB RAM 17...." x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="4" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    HP OmniBook X Intel Ultra 7 512GB SSD 16GB RAM 17....
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$749.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,599.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $850.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=05kie42h3YvHwjr4G1w80Qq&amp;url=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0H1SQ54TV&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=5&amp;element_label=Acer+Aspire+Go+Intel+7+512GB+SSD+16GB+RAM+16%26quot%3B+Touch+Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=04eaTt78mQbE0HpYQolWqQA" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="02UzBVx7hb6yowLR7bkOOOw" aria-label='Acer Aspire Go Intel 7 512GB SSD 16GB RAM 16" Touch Laptop' data-aps-asin="B0H1SQ54TV" data-aps-asc-tag="p00935-20" data-aps-asc-subtag="02UzBVx7hb6yowLR7bkOOOw" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="5" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Acer Aspire Go Intel 7 512GB SSD 16GB RAM 16" Touch Laptop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$699.00</strong>
+                                                                                                        <span class="text-sm line-through">($899.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $200.99</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=04wfQKbrfJIZEtCGCtNczf9&amp;url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flaptop-computers%2Fspd%2Fdell14sds14270%2Fds14270_so_22&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=6&amp;element_label=Dell+14S+Intel+7+512GB+SSD+16GB+RAM+14%26quot%3B+Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=021OeOVtS2fnNr1bY5F8HDf" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="07tUOGZVNqhLNrJgMa1C8Um" aria-label='Dell 14S Intel 7 512GB SSD 16GB RAM 14" Laptop' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="6" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Dell 14S Intel 7 512GB SSD 16GB RAM 14" Laptop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$899.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,199.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $300.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=04wfQKbrfJIZEtCGCtNczf9&amp;url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flaptop-computers%2Fspd%2Fdell16sds16260%2Fds16260_so_10&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=7&amp;element_label=Dell+16S+Intel+Ultra+7+512GB+SSD+16GB+RAM+16%26quot%3B+Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=06ZzC8k86k3qvVp2oNM0jX4" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="026m6cYzIzgtYqDP0DiZ00S" aria-label='Dell 16S Intel Ultra 7 512GB SSD 16GB RAM 16" Laptop' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="7" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Dell 16S Intel Ultra 7 512GB SSD 16GB RAM 16" Laptop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$949.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,549.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $600.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=06W8rERZzLBbDZlsVek4B4u&amp;url=https%3A%2F%2Fshopping.cnet.com%2Fapi%2Fv1%2Fadredirect.php%3Futm_campaign%3Dpcmag-deal-module%26url%3Dhttps%253A%252F%252Fwww.cnet.com%252Fshopping%252F&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=8&amp;element_label=Get+the+Best+Prices+On+Laptops&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05mwV0LnrCgekkyZHcQvnRZ" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="06C5slNXnaT56whiQkW2mq5" aria-label="Get the Best Prices On Laptops" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="8" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Get the Best Prices On Laptops
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">Download Our Free Price Comparison Tool $0</strong>
+                                                                                                </li>
+                                    </ul>
+        <small>*Deals are selected by our commerce team</small>
+    </section>
+<h3>Alienware 16 Aurora Gaming Laptop</h3><div role="region" aria-label="Alienware 16 Aurora Gaming Laptop Shop Card">
+                <div class="mx-auto flex max-w-3xl flex-col gap-[20px] border-b border-gray-300 pb-8 md:flex-row md:gap-4 md:pb-4 pt-8 md:pt-4 border-t">
+                            <div class="mx-auto w-full md:mx-0 md:max-w-[362px]">
+                                            <a class="group relative block w-full overflow-hidden border-none no-underline" data-module="shop-card" data-item="offer-image" data-element="offer" data-label="Alienware 16 Aurora Gaming Laptop" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aRADb8?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Alienware 16 Aurora Gaming Laptop" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="!my-0 w-full aspect-video object-contain rounded" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-8.jpg" data-lazy-sized alt="Alienware 16 Aurora Gaming Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-8.jpg">
+                        </a>
+                                    </div>
+                        <div class="flex w-full flex-col justify-center gap-[20px] md:gap-4">
+                <div class="flex flex-col gap-3 leading-tight">
+                    
+                                            <h3 class="font-stretch-ultra-condensed w-[fit-content] !p-0 text-left text-xl font-semibold">
+                            Alienware 16 Aurora Gaming Laptop</h3>
+                    
+                                            <div class="text-sm font-normal">16-inch QHD+ display, Intel Core 7 240H CPU, GeForce RTX 5050 GPU, 16GB RAM, 512GB SSD</div>
+                                                        </div>
+
+                                    <hr class="!m-0">
+                    <div class="flex flex-wrap items-center justify-between gap-4 leading-tight">
+                        <div class="flex flex-col gap-1 text-sm font-bold">
+                                                            <div class="inline-flex items-center gap-1">
+                                    <span>$1,099.99</span>
+                                                                            <span class="text-xs font-normal">at Dell</span>
+                                                                                                        </div>
+                                                                                        <div class="inline-flex items-center gap-1">
+                                                                            <span class="line-through">$1,999.99</span>
+                                                                                                                <span class="text-red-400">Save $900.00</span>
+                                                                    </div>
+                                                    </div>
+                                                    <a class="group mr-[3px] leading-normal" data-module="shop-card" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aRADb8?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-button&amp;element_label=Shop%20Now&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Get Deal" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+<p>Dell's Alienware subsidiary is one of the best-known names in the PC gaming space, pumping out a wide variety of futuristic-looking laptops and desktops equipped with the latest silicon.
+
+The Aurora 16 comes in a number of configurations, but right now Dell has an attractive entry-level loadout discounted by $900. Bearing a Blackwell-series Nvidia GPU, this machine can run all of the era's most popular games at speedy, stable framerates, and the Core 7 processor keeps up handily.
+
+While it's not suited for ultra-sharp 4K output, the QHD+ display is perfect for the fidelity you do get, and this is a nice price for a <a href="https://www.pcmag.com/picks/the-best-cheap-gaming-laptops" target="_self">budget gaming laptop</a> that will go the distance.</p><section class="offers my-4 flex flex-col items-center gap-y-6 border-x-0 border-b-2 border-red-400 lg:my-8" id="commerce-group" aria-label="More Black Friday Gaming Laptop Deals">
+        <div class="line-header decorative-horizontal-lines w-full before:border-red-400 after:border-red-400">
+            <div class="flex size-10 items-center justify-center rounded-full bg-red-400 text-white">
+                <svg class="size-6 mr-[0.1rem]" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 160.7 148.5" style="enable-background:new 0 0 160.7 148.5;" xml:space="preserve">
+<path fill="currentColor" d="M152.4,89.6l-90.6,56.6c-6.9,4.3-16,2.2-20.4-4.7L2.3,79.2c-4.3-6.9-2.2-16,4.7-20.3L97.5,2.3
+	c4.2-2.6,9.4-3,13.9-1l45,20.2c2.7,1.2,4.4,4,4.4,6.9l-1.4,49.2C159.2,82.5,156.6,87,152.4,89.6z M145.8,32.9l-40.5-18.2L14.8,71.3
+	L54,133.8l90.6-56.6L145.8,32.9z M115.8,51.7c-2.2-3.4-1.1-8,2.3-10.2c3.5-2.2,8-1.1,10.2,2.3c2.2,3.4,1.1,8-2.3,10.2
+	C122.5,56.2,118,55.1,115.8,51.7z"></path>
+</svg>            </div>
+        </div>
+                    <h3 class="font-stretch-condensed text-center leading-tight">More Black Friday Gaming Laptop Deals</h3>
+                <ul class="!mb-0 flex !list-none flex-col !pl-0 lg:text-lg">
+                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=02zLDwCqTbhlnKCTPdI0yqf&amp;url=https%3A%2F%2Fwww.walmart.com%2Fip%2Fseort%2F20906950993&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=1&amp;element_label=MSI+Cyborg+Max+Intel+7+RTX+5070+512GB+SSD+16GB+RAM...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=01SYkTRkMrz84eiyZk9YoY9" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="06wyJZ9ddSrEUaZ2Si7IuBZ" aria-label="MSI Cyborg Max Intel 7 RTX 5070 512GB SSD 16GB RAM..." x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="1" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    MSI Cyborg Max Intel 7 RTX 5070 512GB SSD 16GB RAM...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$1,299.00</strong>
+                                                                                                        <span class="text-sm line-through">($2,099.00)</span>
+                            <span class="text-sm font-bold text-red-400">Save $800.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=02zLDwCqTbhlnKCTPdI0yqf&amp;url=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-ROG-Strix-G16-Gaming-Laptop-16-WUXGA-165Hz-AMD-Ryzen-9-9955HX-NVIDIA-GeForce-RTX-5060-16GB-1TB-SSD-Windows-11-Eclipse-Gray%2F13567365941&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=2&amp;element_label=Asus+ROG+Strix+G16+Ryzen+9+RTX+5060+1TB+SSD+16GB+R...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05DuiLhcfknCw2d6ER4iPFK" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="07DeNToCq57javqf4RVLbqA" aria-label="Asus ROG Strix G16 Ryzen 9 RTX 5060 1TB SSD 16GB R..." x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="2" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Asus ROG Strix G16 Ryzen 9 RTX 5060 1TB SSD 16GB R...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$1,399.00</strong>
+                                                                                                        <span class="text-sm line-through">($1,999.00)</span>
+                            <span class="text-sm font-bold text-red-400">Save $600.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=00EsVzDYUgykPrtmlRJp2Xl&amp;url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-5-series%2Flenovo-legion-5-gen-10-15-inch-amd%2F83f10005us&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=3&amp;element_label=Lenovo+Legion+5+Ryzen+AI+7+RTX+5070+1TB+15%26quot%3B+OLED+Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=026t4aC53Horf6MFz0h1dLj" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="07p4C6VLezxKP8ILfGKgVLW" aria-label='Lenovo Legion 5 Ryzen AI 7 RTX 5070 1TB 15" OLED Laptop' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="3" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Lenovo Legion 5 Ryzen AI 7 RTX 5070 1TB 15" OLED Laptop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$1,799.99</strong>
+                                                                                                        <span class="text-sm line-through">($2,469.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $670.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=053mLh2CqQ87B6COi2cD2og&amp;url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhyperx-omen-15-inch-gaming-laptop-pc-15-gb0711nr&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=4&amp;element_label=HyperX+Omen+Ryzen+7+RTX+5070+1TB+SSD+16GB+RAM+15.3%26quot%3B+Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=03MMRwQt8HI5Bzmp5KB25Xp" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="03UcZVUGPlXhJc9s0T6xV7V" aria-label='HyperX Omen Ryzen 7 RTX 5070 1TB SSD 16GB RAM 15.3" Laptop' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="4" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    HyperX Omen Ryzen 7 RTX 5070 1TB SSD 16GB RAM 15.3" Laptop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$1,599.99</strong>
+                                                                                                        <span class="text-sm line-through">($2,199.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $600.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=05kie42h3YvHwjr4G1w80Qq&amp;url=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0GXQ6X3SD&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=5&amp;element_label=MSI+Stealth+A18+AI%2B+Ryzen+AI+9+RTX+5080+2TB+SSD+32...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=06oaWKjrjJIgTtvTabRZ1ar" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="02eBmdNa2q39KSzdQ7oppjv" aria-label="MSI Stealth A18 AI+ Ryzen AI 9 RTX 5080 2TB SSD 32..." data-aps-asin="B0GXQ6X3SD" data-aps-asc-tag="p00935-20" data-aps-asc-subtag="02eBmdNa2q39KSzdQ7oppjv" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="5" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    MSI Stealth A18 AI+ Ryzen AI 9 RTX 5080 2TB SSD 32...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$2,899.00</strong>
+                                                                                                        <span class="text-sm line-through">($3,499.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $600.99</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=00EsVzDYUgykPrtmlRJp2Xl&amp;url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-5-series%2Flenovo-legion-5i-gen-10-%2815-inch-intel%29%2F83f00006us&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=6&amp;element_label=Lenovo+Legion+5i+Intel+Ultra+7+RTX+5070+1TB+15.1%26quot%3B...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=06Tg3WZCRuZhkcd6waMu8g7" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="05cAeZ8IHMahMft0LKRYKD1" aria-label='Lenovo Legion 5i Intel Ultra 7 RTX 5070 1TB 15.1"...' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="6" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Lenovo Legion 5i Intel Ultra 7 RTX 5070 1TB 15.1"...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$1,949.99</strong>
+                                                                                                        <span class="text-sm line-through">($2,627.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $678.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=04wfQKbrfJIZEtCGCtNczf9&amp;url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flaptop-computers%2Fspd%2Falienware16area51aa16250%2Faa16250_so_6&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=7&amp;element_label=Alienware+16+Area-51+Intel+Ultra+9+RTX+5080+1TB+SS...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=01o2sy28O7Pa3xpCQZkKLTf" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="027sPWl7UilWUVVkw3rL8tO" aria-label="Alienware 16 Area-51 Intel Ultra 9 RTX 5080 1TB SS..." x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="7" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Alienware 16 Area-51 Intel Ultra 9 RTX 5080 1TB SS...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$4,349.99</strong>
+                                                                                                        <span class="text-sm line-through">($4,649.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $300.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=06W8rERZzLBbDZlsVek4B4u&amp;url=https%3A%2F%2Fshopping.cnet.com%2Fapi%2Fv1%2Fadredirect.php%3Futm_campaign%3Dpcmag-deal-module%26url%3Dhttps%253A%252F%252Fwww.cnet.com%252Fshopping%252F&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=8&amp;element_label=Get+the+Best+Prices+On+Laptops&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05mwV0LnrCgekkyZHcQvnRZ" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="06C5slNXnaT56whiQkW2mq5" aria-label="Get the Best Prices On Laptops" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="8" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Get the Best Prices On Laptops
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">Download Our Free Price Comparison Tool $0</strong>
+                                                                                                </li>
+                                    </ul>
+        <small>*Deals are selected by our commerce team</small>
+    </section>
+<h2 id="desktop-deals">Desktop Deals</h2><h3>Dell Pro Micro Desktop</h3><div role="region" aria-label="Dell Pro Micro Desktop Shop Card">
+                <div class="mx-auto flex max-w-3xl flex-col gap-[20px] border-b border-gray-300 pb-8 md:flex-row md:gap-4 md:pb-4 pt-8 md:pt-4 border-t">
+                            <div class="mx-auto w-full md:mx-0 md:max-w-[362px]">
+                                            <a class="group relative block w-full overflow-hidden border-none no-underline" data-module="shop-card" data-item="offer-image" data-element="offer" data-label="Dell Pro Micro Desktop" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/a5jmWx?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Dell Pro Micro Desktop" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="!my-0 w-full aspect-video object-contain rounded" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-14.jpg" data-lazy-sized alt="Dell Pro Micro Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-14.jpg">
+                        </a>
+                                    </div>
+                        <div class="flex w-full flex-col justify-center gap-[20px] md:gap-4">
+                <div class="flex flex-col gap-3 leading-tight">
+                    
+                                            <h3 class="font-stretch-ultra-condensed w-[fit-content] !p-0 text-left text-xl font-semibold">
+                            Dell Pro Micro Desktop</h3>
+                    
+                                            <div class="text-sm font-normal">Intel Core Ultra 5 235T CPU, 16GB RAM, 256GB SSD</div>
+                                                        </div>
+
+                                    <hr class="!m-0">
+                    <div class="flex flex-wrap items-center justify-between gap-4 leading-tight">
+                        <div class="flex flex-col gap-1 text-sm font-bold">
+                                                            <div class="inline-flex items-center gap-1">
+                                    <span>$853.00</span>
+                                                                            <span class="text-xs font-normal">at Dell</span>
+                                                                                                        </div>
+                                                                                        <div class="inline-flex items-center gap-1">
+                                                                            <span class="line-through">$1,493.00</span>
+                                                                                                                <span class="text-red-400">Save $640.00</span>
+                                                                    </div>
+                                                    </div>
+                                                    <a class="group mr-[3px] leading-normal" data-module="shop-card" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/a5jmWx?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-button&amp;element_label=Shop%20Now&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Get Deal" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+<p>The era of the massive, imposing office-tower PC is steadily coming to an end, as more and more manufacturers pivot to&nbsp;<a href="https://www.pcmag.com/picks/the-best-windows-mini-pcs" target="_self">mini PCs</a>, packing all&nbsp;the component power into a chassis that's a fraction of the size.
+
+Dell's Pro Micro is a compact model that'll tackle productivity tasks with ease, featuring a solid Core Ultra 5 processor, 16Gb of system memory, and Wi-Fi 6E connectivity. While the included 256GB SSD is pretty scant, the machine has a fair number of front- and rear-facing ports for additional peripherals.
+
+Multiple mounting options let you rest it on a desk, attach it to the underside, clamp it to a wall, and more. You can grab one at a 43% off Black Friday Week discount right now.</p><h3>Dell 24 All-In-One Desktop</h3><div role="region" aria-label="Dell 24 All-In-One Desktop Shop Card">
+                <div class="mx-auto flex max-w-3xl flex-col gap-[20px] border-b border-gray-300 pb-8 md:flex-row md:gap-4 md:pb-4 pt-8 md:pt-4 border-t">
+                            <div class="mx-auto w-full md:mx-0 md:max-w-[362px]">
+                                            <a class="group relative block w-full overflow-hidden border-none no-underline" data-module="shop-card" data-item="offer-image" data-element="offer" data-label="Dell 24 All-In-One Desktop" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/zJ7PZG?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Dell 24 All-In-One Desktop" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="!my-0 w-full aspect-video object-contain rounded" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-7.jpg" data-lazy-sized alt="Dell 24 All-In-One Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-7.jpg">
+                        </a>
+                                    </div>
+                        <div class="flex w-full flex-col justify-center gap-[20px] md:gap-4">
+                <div class="flex flex-col gap-3 leading-tight">
+                    
+                                            <h3 class="font-stretch-ultra-condensed w-[fit-content] !p-0 text-left text-xl font-semibold">
+                            Dell 24 All-In-One Desktop</h3>
+                    
+                                            <div class="text-sm font-normal">23.8-inch FHD display, Intel Core 3 100U CPU, 8GB RAM, 512GB SSD</div>
+                                                        </div>
+
+                                    <hr class="!m-0">
+                    <div class="flex flex-wrap items-center justify-between gap-4 leading-tight">
+                        <div class="flex flex-col gap-1 text-sm font-bold">
+                                                            <div class="inline-flex items-center gap-1">
+                                    <span>$849.99</span>
+                                                                            <span class="text-xs font-normal">at Dell</span>
+                                                                                                        </div>
+                                                                                        <div class="inline-flex items-center gap-1">
+                                                                            <span class="line-through">$1,099.99</span>
+                                                                                                                <span class="text-red-400">Save $250.00</span>
+                                                                    </div>
+                                                    </div>
+                                                    <a class="group mr-[3px] leading-normal" data-module="shop-card" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/zJ7PZG?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-button&amp;element_label=Shop%20Now&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Get Deal" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+<p>All-in-one desktops are great choices for many different computing situations.
+
+We like them for family rooms, kitchens, and other non-traditional areas where they can serve both entertainment and productivity. Before Black Friday hits, Dell is offering $150 off its latest 24-inch all-in-one, which we gave a&nbsp;<a href="https://www.pcmag.com/reviews/dell-24-all-in-one-ec24250" target="_self">very positive review</a>.
+
+Although its performance doesn't lead the pack, the hardware is well-constructed, with a good variety of ports and a crisp, clear webcam. We also appreciated that it ships with a wireless keyboard and mouse, to keep those ports free for your printer and other peripherals. There are a few different hardware loadouts on sale, so shop around to find the one you like the best.
+
+</p><section class="offers my-4 flex flex-col items-center gap-y-6 border-x-0 border-b-2 border-red-400 lg:my-8" id="commerce-group" aria-label="More Black Friday All-In-One Desktop Deals">
+        <div class="line-header decorative-horizontal-lines w-full before:border-red-400 after:border-red-400">
+            <div class="flex size-10 items-center justify-center rounded-full bg-red-400 text-white">
+                <svg class="size-6 mr-[0.1rem]" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 160.7 148.5" style="enable-background:new 0 0 160.7 148.5;" xml:space="preserve">
+<path fill="currentColor" d="M152.4,89.6l-90.6,56.6c-6.9,4.3-16,2.2-20.4-4.7L2.3,79.2c-4.3-6.9-2.2-16,4.7-20.3L97.5,2.3
+	c4.2-2.6,9.4-3,13.9-1l45,20.2c2.7,1.2,4.4,4,4.4,6.9l-1.4,49.2C159.2,82.5,156.6,87,152.4,89.6z M145.8,32.9l-40.5-18.2L14.8,71.3
+	L54,133.8l90.6-56.6L145.8,32.9z M115.8,51.7c-2.2-3.4-1.1-8,2.3-10.2c3.5-2.2,8-1.1,10.2,2.3c2.2,3.4,1.1,8-2.3,10.2
+	C122.5,56.2,118,55.1,115.8,51.7z"></path>
+</svg>            </div>
+        </div>
+                    <h3 class="font-stretch-condensed text-center leading-tight">More Black Friday All-In-One Desktop Deals</h3>
+                <ul class="!mb-0 flex !list-none flex-col !pl-0 lg:text-lg">
+                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=04wfQKbrfJIZEtCGCtNczf9&amp;url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Fspd%2Fdell24allinoneec24250%2Fec24250_so_21&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=1&amp;element_label=Dell+24+All-in-One+Intel+3+512GB+SSD+8GB+RAM+Desktop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05oUOTw1VxAQaauP1etILcS" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="04Hxo9qVl3fsOobPq5x2seO" aria-label="Dell 24 All-in-One Intel 3 512GB SSD 8GB RAM Desktop" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="1" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Dell 24 All-in-One Intel 3 512GB SSD 8GB RAM Desktop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$699.99</strong>
+                                                                                                        <span class="text-sm line-through">($999.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $300.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=04wfQKbrfJIZEtCGCtNczf9&amp;url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Fspd%2Fdell24allinoneec24250%2Fec24250_so_3&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=2&amp;element_label=Dell+24+All-in-One+Intel+7+512GB+SSD+8GB+RAM+Touch+Desktop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05MLNwLYY9C3WGaNzNj3wie" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="00rleItBro2imZc6GxCV3mD" aria-label="Dell 24 All-in-One Intel 7 512GB SSD 8GB RAM Touch Desktop" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="2" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Dell 24 All-in-One Intel 7 512GB SSD 8GB RAM Touch Desktop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$949.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,249.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $300.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=05kie42h3YvHwjr4G1w80Qq&amp;url=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0FPZ14SWZ&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=3&amp;element_label=Acer+Aspire+C27+Ryzen+5+512GB+SSD+16GB+RAM+27%26quot%3B+AIO+Desktop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05JJ26ckUxxbRdPVRU60kqS" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="01LLjz39SvHVAcuLR10w7zr" aria-label='Acer Aspire C27 Ryzen 5 512GB SSD 16GB RAM 27" AIO Desktop' data-aps-asin="B0FPZ14SWZ" data-aps-asc-tag="p00935-20" data-aps-asc-subtag="01LLjz39SvHVAcuLR10w7zr" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="3" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Acer Aspire C27 Ryzen 5 512GB SSD 16GB RAM 27" AIO Desktop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$659.99</strong>
+                                                                                                        <span class="text-sm line-through">($899.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $240.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=053mLh2CqQ87B6COi2cD2og&amp;url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-omnistudio-all-in-one-desktop-27-cv0000m-pc-27-c17vbav-1&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=4&amp;element_label=HP+OmniStudio+27%26quot%3B+All-in-One+Ryzen+5+256GB+SSD+8GB...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=00vafTHmGuaS5JaMv3xieRU" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="05RJ1Y7QEwc8RpUbo29tkCa" aria-label='HP OmniStudio 27" All-in-One Ryzen 5 256GB SSD 8GB...' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="4" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    HP OmniStudio 27" All-in-One Ryzen 5 256GB SSD 8GB...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$689.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,129.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $440.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=00EsVzDYUgykPrtmlRJp2Xl&amp;url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Fdesktops%2Fideacentre%2F500-series%2Flenovo-ideacentre-aio-gen-9-%2824-inch-amd%29%2Ff0hr001mus&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=5&amp;element_label=Lenovo+IdeaCentre+Ryzen+3+256GB+SSD+8GB+RAM+24%26quot%3B+AI...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=06gJehaauk08oGJqYlLBbuy" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="01QeeZBumSHfuNfk6ph9D0M" aria-label='Lenovo IdeaCentre Ryzen 3 256GB SSD 8GB RAM 24" AI...' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="5" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Lenovo IdeaCentre Ryzen 3 256GB SSD 8GB RAM 24" AI...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$639.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,072.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $433.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=053mLh2CqQ87B6COi2cD2og&amp;url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-omnistudio-all-in-one-desktop-next-gen-ai-24-cw0580m-pc&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=6&amp;element_label=HP+OmniStudio+24%26quot%3B+All-in-One+Ryzen+AI+7+512GB+SSD...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=04M37EvrGKCNfA8KY1m3Xal" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="07fCs1joAC4x8Fz825MYF8n" aria-label='HP OmniStudio 24" All-in-One Ryzen AI 7 512GB SSD...' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="6" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    HP OmniStudio 24" All-in-One Ryzen AI 7 512GB SSD...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$969.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,349.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $380.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=00EsVzDYUgykPrtmlRJp2Xl&amp;url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Fdesktops%2Fthinkcentre%2Fthinkcentre-neo-series%2Fthinkcentre-neo-55a-gen-6-24-inch-amd-all-in-one%2F13fa001qus&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=7&amp;element_label=Lenovo+ThinkCentre+Neo+55a+Ryzen+7+1TB+24%26quot%3B+AIO+Touch+Desktop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05i8BJXfsHp3BF4fYufPQxO" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="05Ku54249XJ8m28P7WTj3Pq" aria-label='Lenovo ThinkCentre Neo 55a Ryzen 7 1TB 24" AIO Touch Desktop' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="7" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Lenovo ThinkCentre Neo 55a Ryzen 7 1TB 24" AIO Touch Desktop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$1,089.00</strong>
+                                                                                                        <span class="text-sm line-through">($2,009.00)</span>
+                            <span class="text-sm font-bold text-red-400">Save $920.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=06W8rERZzLBbDZlsVek4B4u&amp;url=https%3A%2F%2Fshopping.cnet.com%2Fapi%2Fv1%2Fadredirect.php%3Futm_campaign%3Dpcmag-deal-module%26url%3Dhttps%253A%252F%252Fwww.cnet.com%252Fshopping%252F&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=8&amp;element_label=Get+the+Best+Prices+On+Desktops&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05mwV0LnrCgekkyZHcQvnRZ" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="06c6o0uIeBLz7ljh33unxe5" aria-label="Get the Best Prices On Desktops" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="8" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Get the Best Prices On Desktops
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">Download Our Free Price Comparison Tool $0</strong>
+                                                                                                </li>
+                                    </ul>
+        <small>*Deals are selected by our commerce team</small>
+    </section>
+<h3>Alienware Aurora Gaming Desktop</h3><div role="region" aria-label="Alienware Aurora Gaming Desktop Shop Card">
+                <div class="mx-auto flex max-w-3xl flex-col gap-[20px] border-b border-gray-300 pb-8 md:flex-row md:gap-4 md:pb-4 pt-8 md:pt-4 border-t">
+                            <div class="mx-auto w-full md:mx-0 md:max-w-[362px]">
+                                            <a class="group relative block w-full overflow-hidden border-none no-underline" data-module="shop-card" data-item="offer-image" data-element="offer" data-label="Alienware Aurora Gaming Desktop" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/QKw0mn?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Alienware Aurora Gaming Desktop" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="!my-0 w-full aspect-video object-contain rounded" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-13.jpg" data-lazy-sized alt="Alienware Aurora Gaming Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-13.jpg">
+                        </a>
+                                    </div>
+                        <div class="flex w-full flex-col justify-center gap-[20px] md:gap-4">
+                <div class="flex flex-col gap-3 leading-tight">
+                    
+                                            <h3 class="font-stretch-ultra-condensed w-[fit-content] !p-0 text-left text-xl font-semibold">
+                            Alienware Aurora Gaming Desktop</h3>
+                    
+                                            <div class="text-sm font-normal">Intel Core Ultra 7 265F CPU, GeForce RTX 5080 GPU, 32GB RAM, 1TB SSD</div>
+                                                        </div>
+
+                                    <hr class="!m-0">
+                    <div class="flex flex-wrap items-center justify-between gap-4 leading-tight">
+                        <div class="flex flex-col gap-1 text-sm font-bold">
+                                                            <div class="inline-flex items-center gap-1">
+                                    <span>$3,479.99</span>
+                                                                            <span class="text-xs font-normal">at Dell</span>
+                                                                                                        </div>
+                                                                                        <div class="inline-flex items-center gap-1">
+                                                                            <span class="line-through">$3,879.99</span>
+                                                                                                                <span class="text-red-400">Save $400.00</span>
+                                                                    </div>
+                                                    </div>
+                                                    <a class="group mr-[3px] leading-normal" data-module="shop-card" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/QKw0mn?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-button&amp;element_label=Shop%20Now&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Get Deal" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+<p>Have somebody on your shopping list who's been <em>very </em>good this year?
+
+A powerhouse gaming desktop will make them very happy to see under the tree. The Alienware Aurora is one of the most consistent products in the gaming space, and right now you can get $400 off a very solid machine for 4K gaming on all of the hottest titles of 2026 and beyond. We <a href="https://www.pcmag.com/reviews/alienware-aurora-2025" target="_self">reviewed</a>&nbsp;this one and praised its wide configuration options, impressive speed, and quiet cooling.
+
+The case is futuristic-looking but not ostentatious, with customizable LED lighting and a smaller footprint than its predecessor. Internally, you get a very good Core Ultra 7 processor, a Blackwell-series GPU, 32GB of RAM, and plenty of storage.</p><div class="py-4" data-parent-group="related-stories">
+    <div class="mx-0 border border-b border-l-0 border-r-0 border-t border-gray-300 py-4 md:ml-8 md:mr-24">
+        <h3 class="font-stretch-ultra-condensed mb-2 text-lg font-semibold uppercase">Recommended by Our Editors</h3>
+        <div class="flex flex-wrap">
+                            <div class="my-4 inline-flex w-full md:my-2">
+                    <a class="mr-4 inline min-w-24 max-w-24 no-underline md:min-w-28 md:max-w-28" data-module="related-recirc" data-item="related-recirc-list" data-element="related-recirc-image" data-position="1" data-title="PCMag Black Friday Mega Post Deals" href="/news/black-friday-sales-updates-deal-tracker" x-track-ga-click>
+                                                    <div class="relative aspect-video overflow-hidden">
+                                <img class="absolute inset-1/2 h-auto w-auto translate-center" data-image-loader="https://i.pcmag.com/imagery/articles/00KcZBydle7WS6GPDXTgL3G-124.fit_lpad.size_400x225.v1795805481.png" data-lazy-sized src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20225'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" alt="PCMag Black Friday Mega Post Deals">
+                            </div>
+                                            </a>
+                    <div class="flex w-auto flex-col justify-center md:mr-20">
+                        <a class="inline-block align-middle leading-tight no-underline" data-module="related-recirc" data-item="related-recirc-list" data-element="related-recirc-link" data-position="1" href="/news/black-friday-sales-updates-deal-tracker" aria-label="The 189+ Best Black Friday Tech Deals From Amazon, Apple, Bose, Dyson, Samsung, and More" x-track-ga-click>The 189+ Best Black Friday Tech Deals From Amazon, Apple, Bose, Dyson, Samsung, and More</a>
+                    </div>
+                </div>
+                            <div class="my-4 inline-flex w-full md:my-2">
+                    <a class="mr-4 inline min-w-24 max-w-24 no-underline md:min-w-28 md:max-w-28" data-module="related-recirc" data-item="related-recirc-list" data-element="related-recirc-image" data-position="2" data-title="Black Friday Live Blog Products " href="/news/nov-27-black-friday-live-update-deals" x-track-ga-click>
+                                                    <div class="relative aspect-video overflow-hidden">
+                                <img class="absolute inset-1/2 h-auto w-auto translate-center" data-image-loader="https://i.pcmag.com/imagery/articles/038DaWO4XkwBJQ58NB5wvAU-1.fit_lpad.size_400x225.v1795783980.png" data-lazy-sized src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20225'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" alt="Black Friday Live Blog Products ">
+                            </div>
+                                            </a>
+                    <div class="flex w-auto flex-col justify-center md:mr-20">
+                        <a class="inline-block align-middle leading-tight no-underline" data-module="related-recirc" data-item="related-recirc-list" data-element="related-recirc-link" data-position="2" href="/news/nov-27-black-friday-live-update-deals" aria-label="We Found the Best Black Friday Deals Live From Apple, Bose, Samsung, and More to Save up to 73%" x-track-ga-click>We Found the Best Black Friday Deals Live From Apple, Bose, Samsung, and More to Save up to 73%</a>
+                    </div>
+                </div>
+                            <div class="my-4 inline-flex w-full md:my-2">
+                    <a class="mr-4 inline min-w-24 max-w-24 no-underline md:min-w-28 md:max-w-28" data-module="related-recirc" data-item="related-recirc-list" data-element="related-recirc-image" data-position="3" data-title="Apple watches on orange background" href="/deals/apple-watch-early-black-friday-2026-deals-nov-20" x-track-ga-click>
+                                                    <div class="relative aspect-video overflow-hidden">
+                                <img class="absolute inset-1/2 h-auto w-auto translate-center" data-image-loader="https://i.pcmag.com/imagery/articles/01ZNK0M4qs5Q7egGTs34Fsn-1.fit_lpad.size_400x225.v1795792924.png" data-lazy-sized src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20225'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" alt="Apple watches on orange background">
+                            </div>
+                                            </a>
+                    <div class="flex w-auto flex-col justify-center md:mr-20">
+                        <a class="inline-block align-middle leading-tight no-underline" data-module="related-recirc" data-item="related-recirc-list" data-element="related-recirc-link" data-position="3" href="/deals/apple-watch-early-black-friday-2026-deals-nov-20" aria-label="We've Clocked These Top Black Friday Deals on Apple Watches" x-track-ga-click>We've Clocked These Top Black Friday Deals on Apple Watches</a>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>
+<section class="offers my-4 flex flex-col items-center gap-y-6 border-x-0 border-b-2 border-red-400 lg:my-8" id="commerce-group" aria-label="More Black Friday Gaming Desktop Deals">
+        <div class="line-header decorative-horizontal-lines w-full before:border-red-400 after:border-red-400">
+            <div class="flex size-10 items-center justify-center rounded-full bg-red-400 text-white">
+                <svg class="size-6 mr-[0.1rem]" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 160.7 148.5" style="enable-background:new 0 0 160.7 148.5;" xml:space="preserve">
+<path fill="currentColor" d="M152.4,89.6l-90.6,56.6c-6.9,4.3-16,2.2-20.4-4.7L2.3,79.2c-4.3-6.9-2.2-16,4.7-20.3L97.5,2.3
+	c4.2-2.6,9.4-3,13.9-1l45,20.2c2.7,1.2,4.4,4,4.4,6.9l-1.4,49.2C159.2,82.5,156.6,87,152.4,89.6z M145.8,32.9l-40.5-18.2L14.8,71.3
+	L54,133.8l90.6-56.6L145.8,32.9z M115.8,51.7c-2.2-3.4-1.1-8,2.3-10.2c3.5-2.2,8-1.1,10.2,2.3c2.2,3.4,1.1,8-2.3,10.2
+	C122.5,56.2,118,55.1,115.8,51.7z"></path>
+</svg>            </div>
+        </div>
+                    <h3 class="font-stretch-condensed text-center leading-tight">More Black Friday Gaming Desktop Deals</h3>
+                <ul class="!mb-0 flex !list-none flex-col !pl-0 lg:text-lg">
+                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=05kie42h3YvHwjr4G1w80Qq&amp;url=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DXVFR2MP&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=1&amp;element_label=CyberPowerPC+Gamer+Xtreme+Intel+i7+RTX+5060+Ti+1TB...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=055vhwVgiPWWi19NQFfpRCR" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="01kagd8mkD0Ug3lPlfUSq4F" aria-label="CyberPowerPC Gamer Xtreme Intel i7 RTX 5060 Ti 1TB..." data-aps-asin="B0DXVFR2MP" data-aps-asc-tag="p00935-20" data-aps-asc-subtag="01kagd8mkD0Ug3lPlfUSq4F" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="1" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    CyberPowerPC Gamer Xtreme Intel i7 RTX 5060 Ti 1TB...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$1,299.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,629.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $330.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=053mLh2CqQ87B6COi2cD2og&amp;url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fomen-16l-gaming-desktop-tg03-0085t-pc&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=2&amp;element_label=HP+Omen+16L+Intel+Ultra+7+RTX+5060+1TB+SSD+32GB+RAM+Desktop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05xRGVVuNRBjAvu6jlUiaLV" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="00cRYQtY0dvdy8MkdXfG2Rk" aria-label="HP Omen 16L Intel Ultra 7 RTX 5060 1TB SSD 32GB RAM Desktop" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="2" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    HP Omen 16L Intel Ultra 7 RTX 5060 1TB SSD 32GB RAM Desktop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$1,929.99</strong>
+                                                                                                        <span class="text-sm line-through">($2,999.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $1,070.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=05kie42h3YvHwjr4G1w80Qq&amp;url=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0HFVYCBN5&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=3&amp;element_label=MSI+Codex+R2+Intel+Ultra+7+RTX+5060+Ti+2TB+SSD+32G...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=06pRmkYKz3zehi7Hii9XsRC" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="05RCitvhfeLOv28LFKNb0dG" aria-label="MSI Codex R2 Intel Ultra 7 RTX 5060 Ti 2TB SSD 32G..." data-aps-asin="B0HFVYCBN5" data-aps-asc-tag="p00935-20" data-aps-asc-subtag="05RCitvhfeLOv28LFKNb0dG" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="3" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    MSI Codex R2 Intel Ultra 7 RTX 5060 Ti 2TB SSD 32G...
+
+---
+
+**Original Source:** [PCMag](https://www.pcmag.com/news/dell-deals-black-friday-2026-laptops-desktops)`,
+    title_en: `Dell's Black Friday Deals Are Here, Including $1,000 Off the XPS 16 We Loved - PCMag`,
+    summary_en: `<p>I bounded out of bed this <a href="https://www.pcmag.com/deals/black-friday-2026-everything-you-need-to-know-about-best-deals-sales" target="_self">Black Friday</a> ready to go, because it's one of the most important days of the year for`,
+    content_en: `<p>I bounded out of bed this <a href="https://www.pcmag.com/deals/black-friday-2026-everything-you-need-to-know-about-best-deals-sales" target="_self">Black Friday</a> ready to go, because it's one of the most important days of the year for me. I write about deals because I know times are tough, and you deserve the absolute best prices on the tech you need for work and play.
+
+Dell's post-Thanksgiving sale is worth checking out because it's got legitimately huge price drops on tons of PCs, including many we've reviewed in depth.</p><div class="content-visibility-auto contain-intrinsic-size-[auto_none]" role="region" aria-label="Product Summary List" x-data="{ showMore: false }">
+        <div class="w-full">
+            <div class="relative mb-8 border-b border-gray-300 pb-3 text-base font-semibold uppercase leading-tight tracking-widest text-black md:leading-normal">
+                                    The Best Black Friday Dell Deals
+                                <span class="pointer-events-none absolute -bottom-1 left-0 inline-block h-2 w-16 scale-y-75 bg-black"></span>
+            </div>
+        </div>
+                                                                    <div role="region" aria-label="Dell 14 Plus Laptop Product Card" class="flex max-w-3xl justify-between border-b gap-x-4 border-gray-300 pb-6 md:pb-8" x-cloak x-show="showMore || 0 &lt; 10">
+                    <div class="flex gap-x-4">
+                                                                                    <a class="group relative hidden w-full max-w-32 overflow-hidden border-none no-underline md:mx-0 md:block" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell 14 Plus Laptop" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aonmkY?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=0" title="(Opens in a new tab)" aria-label="Dell 14 Plus Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-5.jpg" data-lazy-sized alt="Dell 14 Plus Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-5.jpg">
+                                </a>
+                                                    
+                        <div class="flex w-full flex-col justify-between gap-y-4 md:justify-center md:gap-y-2">
+                                                            <a class="text-secondary-300 block w-[fit-content] border-none text-lg font-bold leading-tight" data-module="product-summary-list" data-item="offer-title" data-element="offer" data-label="Dell 14 Plus Laptop" href="https://zdcs.link/aonmkY?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-title&amp;element_label=Dell%2014%20Plus%20Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=0" title="(Opens in a new tab)" aria-label="Dell 14 Plus Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <h3 class="font-stretch-ultra-condensed font-semibold">Dell 14 Plus Laptop</h3>
+                                </a>
+                            
+                                                            <div class="flex flex-col gap-x-3 gap-y-1 text-sm leading-tight md:flex-row md:text-base">
+                                                                            <div class="flex flex-wrap items-center gap-x-1">
+                                            <span class="font-bold">$1,199.99</span>
+
+                                                                                            <span> at Dell</span>
+                                            
+                                                                                    </div>
+                                                                                                                <div class="flex flex-wrap items-center gap-x-1">
+                                                                                            <span class="line-through">$1,579.99</span>
+                                            
+                                                                                            <span class="font-bold text-red-400"> Save $380.00</span>
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                    </div>
+
+                    <div class="flex flex-col items-end gap-y-4 sm:justify-center">
+                                                                                    <a class="group relative w-32 overflow-hidden border-none no-underline md:mx-0 md:hidden md:w-36" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell 14 Plus Laptop" href="https://zdcs.link/aonmkY?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=0" title="(Opens in a new tab)" aria-label="Dell 14 Plus Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-5.jpg" data-lazy-sized alt="Dell 14 Plus Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-5.jpg">
+                                </a>
+                                                    
+                                                    <a class="group mr-[3px] leading-normal" data-module="product-summary-list" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aonmkY?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-button&amp;element_label=Get%20Deal&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=0" title="(Opens in a new tab)" aria-label="Get Deal" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                </div>
+                                                                        <div role="region" aria-label="Dell XPS 14 Laptop Product Card" class="flex max-w-3xl justify-between border-b gap-x-4 border-gray-300 pb-6 md:pb-8 pt-6 md:pt-8" x-cloak x-show="showMore || 1 &lt; 10">
+                    <div class="flex gap-x-4">
+                                                                                    <a class="group relative hidden w-full max-w-32 overflow-hidden border-none no-underline md:mx-0 md:block" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell XPS 14 Laptop" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/z6xvK3?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=1" title="(Opens in a new tab)" aria-label="Dell XPS 14 Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-9.jpg" data-lazy-sized alt="Dell XPS 14 Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-9.jpg">
+                                </a>
+                                                    
+                        <div class="flex w-full flex-col justify-between gap-y-4 md:justify-center md:gap-y-2">
+                                                            <a class="text-secondary-300 block w-[fit-content] border-none text-lg font-bold leading-tight" data-module="product-summary-list" data-item="offer-title" data-element="offer" data-label="Dell XPS 14 Laptop" href="https://zdcs.link/z6xvK3?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-title&amp;element_label=Dell%20XPS%2014%20Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=1" title="(Opens in a new tab)" aria-label="Dell XPS 14 Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <h3 class="font-stretch-ultra-condensed font-semibold">Dell XPS 14 Laptop</h3>
+                                </a>
+                            
+                                                            <div class="flex flex-col gap-x-3 gap-y-1 text-sm leading-tight md:flex-row md:text-base">
+                                                                            <div class="flex flex-wrap items-center gap-x-1">
+                                            <span class="font-bold">$1,499.99</span>
+
+                                                                                            <span> at Dell</span>
+                                            
+                                                                                    </div>
+                                                                                                                <div class="flex flex-wrap items-center gap-x-1">
+                                                                                            <span class="line-through">$2,249.99</span>
+                                            
+                                                                                            <span class="font-bold text-red-400"> Save $750.00</span>
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                    </div>
+
+                    <div class="flex flex-col items-end gap-y-4 sm:justify-center">
+                                                                                    <a class="group relative w-32 overflow-hidden border-none no-underline md:mx-0 md:hidden md:w-36" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell XPS 14 Laptop" href="https://zdcs.link/z6xvK3?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=1" title="(Opens in a new tab)" aria-label="Dell XPS 14 Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-9.jpg" data-lazy-sized alt="Dell XPS 14 Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-9.jpg">
+                                </a>
+                                                    
+                                                    <a class="group mr-[3px] leading-normal" data-module="product-summary-list" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/z6xvK3?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-button&amp;element_label=Get%20Deal&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=1" title="(Opens in a new tab)" aria-label="Get Deal" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                </div>
+                                                                        <div role="region" aria-label="Dell XPS 16 Product Card" class="flex max-w-3xl justify-between border-b gap-x-4 border-gray-300 pb-6 md:pb-8 pt-6 md:pt-8" x-cloak x-show="showMore || 2 &lt; 10">
+                    <div class="flex gap-x-4">
+                                                                                    <a class="group relative hidden w-full max-w-32 overflow-hidden border-none no-underline md:mx-0 md:block" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell XPS 16" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aN5LOE?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=2" title="(Opens in a new tab)" aria-label="Dell XPS 16" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-7.jpg" data-lazy-sized alt="Dell 24 All-In-One Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-7.jpg">
+                                </a>
+                                                    
+                        <div class="flex w-full flex-col justify-between gap-y-4 md:justify-center md:gap-y-2">
+                                                            <a class="text-secondary-300 block w-[fit-content] border-none text-lg font-bold leading-tight" data-module="product-summary-list" data-item="offer-title" data-element="offer" data-label="Dell XPS 16" href="https://zdcs.link/aN5LOE?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-title&amp;element_label=Dell%20XPS%2016&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=2" title="(Opens in a new tab)" aria-label="Dell XPS 16" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <h3 class="font-stretch-ultra-condensed font-semibold">Dell XPS 16</h3>
+                                </a>
+                            
+                                                            <div class="flex flex-col gap-x-3 gap-y-1 text-sm leading-tight md:flex-row md:text-base">
+                                                                            <div class="flex flex-wrap items-center gap-x-1">
+                                            <span class="font-bold">$2,149.99</span>
+
+                                                                                            <span> at Dell</span>
+                                            
+                                                                                    </div>
+                                                                                                                <div class="flex flex-wrap items-center gap-x-1">
+                                                                                            <span class="line-through">$3,149.99</span>
+                                            
+                                                                                            <span class="font-bold text-red-400"> Save $1,000.00</span>
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                    </div>
+
+                    <div class="flex flex-col items-end gap-y-4 sm:justify-center">
+                                                                                    <a class="group relative w-32 overflow-hidden border-none no-underline md:mx-0 md:hidden md:w-36" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell XPS 16" href="https://zdcs.link/aN5LOE?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=2" title="(Opens in a new tab)" aria-label="Dell XPS 16" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-7.jpg" data-lazy-sized alt="Dell 24 All-In-One Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-7.jpg">
+                                </a>
+                                                    
+                                                    <a class="group mr-[3px] leading-normal" data-module="product-summary-list" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aN5LOE?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-button&amp;element_label=Get%20Deal&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=2" title="(Opens in a new tab)" aria-label="Get Deal" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                </div>
+                                                                        <div role="region" aria-label="Alienware 16 Aurora Gaming Laptop Product Card" class="flex max-w-3xl justify-between border-b gap-x-4 border-gray-300 pb-6 md:pb-8 pt-6 md:pt-8" x-cloak x-show="showMore || 3 &lt; 10">
+                    <div class="flex gap-x-4">
+                                                                                    <a class="group relative hidden w-full max-w-32 overflow-hidden border-none no-underline md:mx-0 md:block" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Alienware 16 Aurora Gaming Laptop" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aRADb8?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=3" title="(Opens in a new tab)" aria-label="Alienware 16 Aurora Gaming Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-8.jpg" data-lazy-sized alt="Alienware 16 Aurora Gaming Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-8.jpg">
+                                </a>
+                                                    
+                        <div class="flex w-full flex-col justify-between gap-y-4 md:justify-center md:gap-y-2">
+                                                            <a class="text-secondary-300 block w-[fit-content] border-none text-lg font-bold leading-tight" data-module="product-summary-list" data-item="offer-title" data-element="offer" data-label="Alienware 16 Aurora Gaming Laptop" href="https://zdcs.link/aRADb8?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-title&amp;element_label=Alienware%2016%20Aurora%20Gaming%20Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=3" title="(Opens in a new tab)" aria-label="Alienware 16 Aurora Gaming Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <h3 class="font-stretch-ultra-condensed font-semibold">Alienware 16 Aurora Gaming Laptop</h3>
+                                </a>
+                            
+                                                            <div class="flex flex-col gap-x-3 gap-y-1 text-sm leading-tight md:flex-row md:text-base">
+                                                                            <div class="flex flex-wrap items-center gap-x-1">
+                                            <span class="font-bold">$1,099.99</span>
+
+                                                                                            <span> at Dell</span>
+                                            
+                                                                                    </div>
+                                                                                                                <div class="flex flex-wrap items-center gap-x-1">
+                                                                                            <span class="line-through">$1,999.99</span>
+                                            
+                                                                                            <span class="font-bold text-red-400"> Save $900.00</span>
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                    </div>
+
+                    <div class="flex flex-col items-end gap-y-4 sm:justify-center">
+                                                                                    <a class="group relative w-32 overflow-hidden border-none no-underline md:mx-0 md:hidden md:w-36" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Alienware 16 Aurora Gaming Laptop" href="https://zdcs.link/aRADb8?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=3" title="(Opens in a new tab)" aria-label="Alienware 16 Aurora Gaming Laptop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-8.jpg" data-lazy-sized alt="Alienware 16 Aurora Gaming Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-8.jpg">
+                                </a>
+                                                    
+                                                    <a class="group mr-[3px] leading-normal" data-module="product-summary-list" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aRADb8?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-button&amp;element_label=Get%20Deal&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=3" title="(Opens in a new tab)" aria-label="Get Deal" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                </div>
+                                                                        <div role="region" aria-label="Dell 24 All-In-One Desktop Product Card" class="flex max-w-3xl justify-between border-b gap-x-4 border-gray-300 pb-6 md:pb-8 pt-6 md:pt-8" x-cloak x-show="showMore || 4 &lt; 10">
+                    <div class="flex gap-x-4">
+                                                                                    <a class="group relative hidden w-full max-w-32 overflow-hidden border-none no-underline md:mx-0 md:block" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell 24 All-In-One Desktop" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/zJ7PZG?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=4" title="(Opens in a new tab)" aria-label="Dell 24 All-In-One Desktop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-7.jpg" data-lazy-sized alt="Dell 24 All-In-One Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-7.jpg">
+                                </a>
+                                                    
+                        <div class="flex w-full flex-col justify-between gap-y-4 md:justify-center md:gap-y-2">
+                                                            <a class="text-secondary-300 block w-[fit-content] border-none text-lg font-bold leading-tight" data-module="product-summary-list" data-item="offer-title" data-element="offer" data-label="Dell 24 All-In-One Desktop" href="https://zdcs.link/zJ7PZG?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-title&amp;element_label=Dell%2024%20All-In-One%20Desktop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=4" title="(Opens in a new tab)" aria-label="Dell 24 All-In-One Desktop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <h3 class="font-stretch-ultra-condensed font-semibold">Dell 24 All-In-One Desktop</h3>
+                                </a>
+                            
+                                                            <div class="flex flex-col gap-x-3 gap-y-1 text-sm leading-tight md:flex-row md:text-base">
+                                                                            <div class="flex flex-wrap items-center gap-x-1">
+                                            <span class="font-bold">$849.99</span>
+
+                                                                                            <span> at Dell</span>
+                                            
+                                                                                    </div>
+                                                                                                                <div class="flex flex-wrap items-center gap-x-1">
+                                                                                            <span class="line-through">$1,099.99</span>
+                                            
+                                                                                            <span class="font-bold text-red-400"> Save $250.00</span>
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                    </div>
+
+                    <div class="flex flex-col items-end gap-y-4 sm:justify-center">
+                                                                                    <a class="group relative w-32 overflow-hidden border-none no-underline md:mx-0 md:hidden md:w-36" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell 24 All-In-One Desktop" href="https://zdcs.link/zJ7PZG?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=4" title="(Opens in a new tab)" aria-label="Dell 24 All-In-One Desktop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-7.jpg" data-lazy-sized alt="Dell 24 All-In-One Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-7.jpg">
+                                </a>
+                                                    
+                                                    <a class="group mr-[3px] leading-normal" data-module="product-summary-list" data-item="offer-button" data-element="offer" data-label="See It" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/zJ7PZG?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-button&amp;element_label=Get%20Deal&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=4" title="(Opens in a new tab)" aria-label="See It" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">See It</span>
+                            </a>
+                                            </div>
+                </div>
+                                                                        <div role="region" aria-label="Alienware Aurora Gaming Desktop Product Card" class="flex max-w-3xl justify-between border-b gap-x-4 border-gray-300 pb-6 md:pb-8 pt-6 md:pt-8" x-cloak x-show="showMore || 5 &lt; 10">
+                    <div class="flex gap-x-4">
+                                                                                    <a class="group relative hidden w-full max-w-32 overflow-hidden border-none no-underline md:mx-0 md:block" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Alienware Aurora Gaming Desktop" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/QKw0mn?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=5" title="(Opens in a new tab)" aria-label="Alienware Aurora Gaming Desktop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-13.jpg" data-lazy-sized alt="Alienware Aurora Gaming Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-13.jpg">
+                                </a>
+                                                    
+                        <div class="flex w-full flex-col justify-between gap-y-4 md:justify-center md:gap-y-2">
+                                                            <a class="text-secondary-300 block w-[fit-content] border-none text-lg font-bold leading-tight" data-module="product-summary-list" data-item="offer-title" data-element="offer" data-label="Alienware Aurora Gaming Desktop" href="https://zdcs.link/QKw0mn?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-title&amp;element_label=Alienware%20Aurora%20Gaming%20Desktop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=5" title="(Opens in a new tab)" aria-label="Alienware Aurora Gaming Desktop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <h3 class="font-stretch-ultra-condensed font-semibold">Alienware Aurora Gaming Desktop</h3>
+                                </a>
+                            
+                                                            <div class="flex flex-col gap-x-3 gap-y-1 text-sm leading-tight md:flex-row md:text-base">
+                                                                            <div class="flex flex-wrap items-center gap-x-1">
+                                            <span class="font-bold">$3,479.99</span>
+
+                                                                                            <span> at Dell</span>
+                                            
+                                                                                    </div>
+                                                                                                                <div class="flex flex-wrap items-center gap-x-1">
+                                                                                            <span class="line-through">$3,879.99</span>
+                                            
+                                                                                            <span class="font-bold text-red-400"> Save $400.00</span>
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                    </div>
+
+                    <div class="flex flex-col items-end gap-y-4 sm:justify-center">
+                                                                                    <a class="group relative w-32 overflow-hidden border-none no-underline md:mx-0 md:hidden md:w-36" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Alienware Aurora Gaming Desktop" href="https://zdcs.link/QKw0mn?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=5" title="(Opens in a new tab)" aria-label="Alienware Aurora Gaming Desktop" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-13.jpg" data-lazy-sized alt="Alienware Aurora Gaming Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-13.jpg">
+                                </a>
+                                                    
+                                                    <a class="group mr-[3px] leading-normal" data-module="product-summary-list" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/QKw0mn?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-button&amp;element_label=Get%20Deal&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=5" title="(Opens in a new tab)" aria-label="Get Deal" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                </div>
+                                                                        <div role="region" aria-label="Dell 24 Monitor Product Card" class="flex max-w-3xl justify-between border-b gap-x-4 border-gray-300 pb-6 md:pb-8 pt-6 md:pt-8" x-cloak x-show="showMore || 6 &lt; 10">
+                    <div class="flex gap-x-4">
+                                                                                    <a class="group relative hidden w-full max-w-32 overflow-hidden border-none no-underline md:mx-0 md:block" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell 24 Monitor" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/QqOWLp?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=6" title="(Opens in a new tab)" aria-label="Dell 24 Monitor" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-11.jpg" data-lazy-sized alt="Dell 24 Monitor" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-11.jpg">
+                                </a>
+                                                    
+                        <div class="flex w-full flex-col justify-between gap-y-4 md:justify-center md:gap-y-2">
+                                                            <a class="text-secondary-300 block w-[fit-content] border-none text-lg font-bold leading-tight" data-module="product-summary-list" data-item="offer-title" data-element="offer" data-label="Dell 24 Monitor" href="https://zdcs.link/QqOWLp?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-title&amp;element_label=Dell%2024%20Monitor&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=6" title="(Opens in a new tab)" aria-label="Dell 24 Monitor" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <h3 class="font-stretch-ultra-condensed font-semibold">Dell 24 Monitor</h3>
+                                </a>
+                            
+                                                            <div class="flex flex-col gap-x-3 gap-y-1 text-sm leading-tight md:flex-row md:text-base">
+                                                                            <div class="flex flex-wrap items-center gap-x-1">
+                                            <span class="font-bold">$99.99</span>
+
+                                                                                            <span> at Dell</span>
+                                            
+                                                                                    </div>
+                                                                                                                <div class="flex flex-wrap items-center gap-x-1">
+                                                                                            <span class="line-through">$139.99</span>
+                                            
+                                                                                            <span class="font-bold text-red-400"> Save $40.00</span>
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                    </div>
+
+                    <div class="flex flex-col items-end gap-y-4 sm:justify-center">
+                                                                                    <a class="group relative w-32 overflow-hidden border-none no-underline md:mx-0 md:hidden md:w-36" data-module="product-summary-list" data-item="offer-image" data-element="offer" data-label="Dell 24 Monitor" href="https://zdcs.link/QqOWLp?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=6" title="(Opens in a new tab)" aria-label="Dell 24 Monitor" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="aspect-video object-contain w-full" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-11.jpg" data-lazy-sized alt="Dell 24 Monitor" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-11.jpg">
+                                </a>
+                                                    
+                                                    <a class="group mr-[3px] leading-normal" data-module="product-summary-list" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/QqOWLp?template=News&amp;module=product-summary-list&amp;element=offer&amp;item=offer-button&amp;element_label=Get%20Deal&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;position=6" title="(Opens in a new tab)" aria-label="Get Deal" target="_blank" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                </div>
+                            <button class="font-akshar mb-4 mt-6 flex items-center gap-x-1 text-sm font-medium text-gray-900 hover:cursor-pointer hover:text-red-400" aria-label="SEE -3 MORE" x-cloak x-show="!showMore &amp;&amp; 7 &gt; 10" x-on:click="showMore = !showMore" x-on:keydown.enter.prevent.stop="showMore = !showMore">
+            SEE -3 MORE
+            <svg class="inline-block size-3 -mt-px text-red-400 fill-current" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 320 512"><path fill="currentColor" d="M285.476 272.971 91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"></path></svg>        </button>
+    </div>
+<h2 id="laptop-deals">Laptop Deals</h2><h3>Dell 14 Plus Laptop</h3><div role="region" aria-label="Dell 14 Plus Laptop Shop Card">
+                <div class="mx-auto flex max-w-3xl flex-col gap-[20px] border-b border-gray-300 pb-8 md:flex-row md:gap-4 md:pb-4 pt-8 md:pt-4 border-t">
+                            <div class="mx-auto w-full md:mx-0 md:max-w-[362px]">
+                                            <a class="group relative block w-full overflow-hidden border-none no-underline" data-module="shop-card" data-item="offer-image" data-element="offer" data-label="Dell 14 Plus Laptop" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aonmkY?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Dell 14 Plus Laptop" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="!my-0 w-full aspect-video object-contain rounded" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-5.jpg" data-lazy-sized alt="Dell 14 Plus Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-5.jpg">
+                        </a>
+                                    </div>
+                        <div class="flex w-full flex-col justify-center gap-[20px] md:gap-4">
+                <div class="flex flex-col gap-3 leading-tight">
+                    
+                                            <h3 class="font-stretch-ultra-condensed w-[fit-content] !p-0 text-left text-xl font-semibold">
+                            Dell 14 Plus Laptop</h3>
+                    
+                                            <div class="text-sm font-normal">14-inch QHD+ display, Intel Core Ultra 7 256V CPU, 16GB RAM, 1TB SSD</div>
+                                                        </div>
+
+                                    <hr class="!m-0">
+                    <div class="flex flex-wrap items-center justify-between gap-4 leading-tight">
+                        <div class="flex flex-col gap-1 text-sm font-bold">
+                                                            <div class="inline-flex items-center gap-1">
+                                    <span>$1,199.99</span>
+                                                                            <span class="text-xs font-normal">at Dell</span>
+                                                                                                        </div>
+                                                                                        <div class="inline-flex items-center gap-1">
+                                                                            <span class="line-through">$1,579.99</span>
+                                                                                                                <span class="text-red-400">Save $380.00</span>
+                                                                    </div>
+                                                    </div>
+                                                    <a class="group mr-[3px] leading-normal" data-module="shop-card" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aonmkY?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-button&amp;element_label=Shop%20Now&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Get Deal" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+<p>Dell's got a lot of different laptops on sale for Black Friday, but snagging $380 off the high-quality Dell 14 Plus is the best offer to open up with.
+
+We gave it an "Excellent" rating in <a href="https://www.pcmag.com/reviews/dell-14-plus-db14250" target="_self">our review</a>, with PCMag expert <a href="https://www.pcmag.com/authors/charles-jefferies" target="_self"><u>Charles Jefferies</u></a> saying it "takes the midrange torch from its venerable Inspiron brand and runs with it, challenging top-tier mainstream laptops for the adoration of home users and students." With a sleek all-metal build, it's strong competition for Apple's MacBook Air.
+
+Performance is solid with a speedy Intel Core Ultra 7 processor running the show, and the QHD+ screen is crisp and colorful. We also liked its high-quality webcam and speakers.</p><div role="region" aria-label="Dell XPS 14 Laptop Shop Card">
+                <div class="mx-auto flex max-w-3xl flex-col gap-[20px] border-b border-gray-300 pb-8 md:flex-row md:gap-4 md:pb-4 pt-8 md:pt-4 border-t">
+                            <div class="mx-auto w-full md:mx-0 md:max-w-[362px]">
+                                            <a class="group relative block w-full overflow-hidden border-none no-underline" data-module="shop-card" data-item="offer-image" data-element="offer" data-label="Dell XPS 14 Laptop" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/z6xvK3?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Dell XPS 14 Laptop" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="!my-0 w-full aspect-video object-contain rounded" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-9.jpg" data-lazy-sized alt="Dell XPS 14 Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-9.jpg">
+                        </a>
+                                    </div>
+                        <div class="flex w-full flex-col justify-center gap-[20px] md:gap-4">
+                <div class="flex flex-col gap-3 leading-tight">
+                    
+                                            <h3 class="font-stretch-ultra-condensed w-[fit-content] !p-0 text-left text-xl font-semibold">
+                            Dell XPS 14 Laptop</h3>
+                    
+                                            <div class="text-sm font-normal">14-inch FHD+ display, Intel Core Ultra 7 355 CPU, 16GB RAM, 512GB SSD</div>
+                                                        </div>
+
+                                    <hr class="!m-0">
+                    <div class="flex flex-wrap items-center justify-between gap-4 leading-tight">
+                        <div class="flex flex-col gap-1 text-sm font-bold">
+                                                            <div class="inline-flex items-center gap-1">
+                                    <span>$1,499.99</span>
+                                                                            <span class="text-xs font-normal">at Dell</span>
+                                                                                                        </div>
+                                                                                        <div class="inline-flex items-center gap-1">
+                                                                            <span class="line-through">$2,249.99</span>
+                                                                                                                <span class="text-red-400">Save $750.00</span>
+                                                                    </div>
+                                                    </div>
+                                                    <a class="group mr-[3px] leading-normal" data-module="shop-card" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/z6xvK3?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-button&amp;element_label=Shop%20Now&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Get Deal" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+<p>We gleefully gave the redesigned XPS 14 an Editors' Choice award in <a href="https://www.pcmag.com/reviews/dell-xps-14-2026" target="_self">our review</a>, with our reviewer declaring the portable "pairs a refreshed, practical design with big boosts to speed and efficiency from Intel&rsquo;s &ldquo;Panther Lake&rdquo; Core Ultra processors." With a premium CNC aluminum chassis, Gorilla Glass screen, and an elegant design with minimal lines and a sleek glass touchpad, this one's as eye-catching as it is useful.
+
+This is the entry-level loadout of the XPS 14, with a price-conscious Core Ultra 7 CPU that still dominates productivity tasks. Battery life is also impressive, making this one of the most attractive laptops we've seen anywhere before Black Friday.</p><div class="mb-0 rounded-md bg-gray-100 p-3 md:p-5" id="related-video">
+    <div class="flex items-center">
+        <div class="w-6 flex-none">
+            <img class="w-full" src="/images/pcmag-simplified.png" alt="PCMag logo">
+        </div>
+        <div class="pl-2 text-base leading-normal md:pl-3">
+            <strong>You May Also Like</strong>
+        </div>
+    </div>
+    <div class="mt-3">
+        <div id="video-container-693afc76be1c4ff548856652"></div>
+        <script>
+            window.videoEmbeds = window.videoEmbeds || [];
+                            let data = {};
+                                        data.excoPlayListId = '693afc76be1c4ff548856652';
+                data.excoPlayListVideos = {"0aefa7a1-59b5-59d5-9f82-67634d0d9b7d":"0126l8Y3AOVbt99HTiD4EOD","1e36dccf-5c15-5458-b970-3d21ab2a1ae4":"07mUdiwjOzPTDl7TEAhCQtZ","27718777-c007-58c6-9c1f-568c8ca74a63":"07jpo1TutUZ3ws58IRgCoQj","45a82b48-7bf9-504d-9e78-29aeaef8f929":"04CCXTc5hQ0vKqvOi6yNuI8","4afcf9dc-5b19-50b5-acd8-8e56b8999fae":"00kMfrsBiZh3EFlZCrLsbUm","4dbab88e-4122-5560-86cd-fe068bbd26b6":"01pRsuu6EvH3X3hxF2Linbj","6025e3e3-a186-50a8-b0ae-9123906a8cb7":"05hXfWAj8geLUn8ULofg43t","6d22423e-a97a-5986-8a6a-70e699e44d6b":"05NvnOCJ1JPOoBQIvotj3jR","755abc09-f86f-4c8c-b83f-8d64fda985c7":"00gUBYqF000TlG7dH0ndKde","ae5a248a-973d-54de-aba2-37526f60007e":"07kZyuImtn85RR8M7JiBWKR"};
+            
+            window.videoEmbeds.push({
+                elemId: 'video-container-693afc76be1c4ff548856652',
+                data: data,
+                videoPlayerType: 'related-contextual',
+                variation: 'INJECTED',
+            });
+        </script>
+    </div>
+</div>
+<div role="region" aria-label="Dell XPS 16 Laptop Shop Card">
+                <div class="mx-auto flex max-w-3xl flex-col gap-[20px] border-b border-gray-300 pb-8 md:flex-row md:gap-4 md:pb-4 pt-8 md:pt-4 border-t">
+                            <div class="mx-auto w-full md:mx-0 md:max-w-[362px]">
+                                            <a class="group relative block w-full overflow-hidden border-none no-underline" data-module="shop-card" data-item="offer-image" data-element="offer" data-label="Dell XPS 16 Laptop" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aN5LOE?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Dell XPS 16 Laptop" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="!my-0 w-full aspect-video object-contain rounded" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-15.jpg" data-lazy-sized alt="Dell XPS 16 Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-15.jpg">
+                        </a>
+                                    </div>
+                        <div class="flex w-full flex-col justify-center gap-[20px] md:gap-4">
+                <div class="flex flex-col gap-3 leading-tight">
+                    
+                                            <h3 class="font-stretch-ultra-condensed w-[fit-content] !p-0 text-left text-xl font-semibold">
+                            Dell XPS 16 Laptop</h3>
+                    
+                                            <div class="text-sm font-normal">16-inch FHD+ display, Intel Core Ultra 7 358H CPU, 32GB RAM, 1TB SSD</div>
+                                                        </div>
+
+                                    <hr class="!m-0">
+                    <div class="flex flex-wrap items-center justify-between gap-4 leading-tight">
+                        <div class="flex flex-col gap-1 text-sm font-bold">
+                                                            <div class="inline-flex items-center gap-1">
+                                    <span>$2,149.99</span>
+                                                                            <span class="text-xs font-normal">at Dell</span>
+                                                                                                        </div>
+                                                                                        <div class="inline-flex items-center gap-1">
+                                                                            <span class="line-through">$3,149.99</span>
+                                                                                                                <span class="text-red-400">Save $1,000.00</span>
+                                                                    </div>
+                                                    </div>
+                                                    <a class="group mr-[3px] leading-normal" data-module="shop-card" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aN5LOE?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-button&amp;element_label=Shop%20Now&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Get Deal" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+<p>Want all of the performance and style of the XPS 14 and a bigger screen to boot?
+
+Good news: you can pick up a new XPS 16 with a tremendous component loadout for a thousand bucks off right now. We<a href="https://www.pcmag.com/reviews/dell-xps-16-2026" target="_self"> reviewed the XPS 16</a> and raved about it, with PCMag expert <a href="https://www.pcmag.com/authors/matthew-buzzi" target="_self">Matthew Buzzi</a> calling it "a pricey, premium laptop for well-heeled shoppers" thanks to its sleek, premium CNC aluminum chassis, solid performance, and bright, crisp 2K display protected by Corning Gorilla Glass.
+
+High-energy-density batteries make it a surprising marathon runner as well, delivering over 17 hours on a charge in our in-house testing. It's a splurge, but you get a lot of value for the money.</p><div role="region" aria-label="Dell 16 Plus Laptop Shop Card">
+                <div class="mx-auto flex max-w-3xl flex-col gap-[20px] border-b border-gray-300 pb-8 md:flex-row md:gap-4 md:pb-4 pt-8 md:pt-4 border-t">
+                            <div class="mx-auto w-full md:mx-0 md:max-w-[362px]">
+                                            <a class="group relative block w-full overflow-hidden border-none no-underline" data-module="shop-card" data-item="offer-image" data-element="offer" data-label="Dell 16 Plus Laptop" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/QbJ3rx?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Dell 16 Plus Laptop" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="!my-0 w-full aspect-video object-contain rounded" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-12.jpg" data-lazy-sized alt="Dell 16 Plus Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-12.jpg">
+                        </a>
+                                    </div>
+                        <div class="flex w-full flex-col justify-center gap-[20px] md:gap-4">
+                <div class="flex flex-col gap-3 leading-tight">
+                    
+                                            <h3 class="font-stretch-ultra-condensed w-[fit-content] !p-0 text-left text-xl font-semibold">
+                            Dell 16 Plus Laptop</h3>
+                    
+                                            <div class="text-sm font-normal">16-inch QHD+ display, Intel Core Ultra 7 258V CPU, 32GB RAM, 1TB SSD</div>
+                                                        </div>
+
+                                    <hr class="!m-0">
+                    <div class="flex flex-wrap items-center justify-between gap-4 leading-tight">
+                        <div class="flex flex-col gap-1 text-sm font-bold">
+                                                            <div class="inline-flex items-center gap-1">
+                                    <span>$1,199.99</span>
+                                                                            <span class="text-xs font-normal">at Dell</span>
+                                                                                                        </div>
+                                                                                        <div class="inline-flex items-center gap-1">
+                                                                            <span class="line-through">$2,079.99</span>
+                                                                                                                <span class="text-red-400">Save $880.00</span>
+                                                                    </div>
+                                                    </div>
+                                                    <a class="group mr-[3px] leading-normal" data-module="shop-card" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/QbJ3rx?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-button&amp;element_label=Shop%20Now&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Get Deal" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+<p>Want a bigger screen?
+
+We've got you covered. The Dell 16 Plus laptop easily took home an Editors' Choice award in <a href="https://www.pcmag.com/reviews/dell-16-plus-db16250" target="_self">our review</a>, gushing over its lengthy battery life that demands no compromises from the vibrant QHD+ screen, along with a solid-feeling aluminum build that's still relatively lightweight for its size.
+
+Under the hood, this configuration delivers a lot of value, with an eight-core Intel Core Ultra 7 processor powering your productivity and entertainment, paired with an impressive 32GB of DDR5 RAM for smooth multitasking and a full terabyte of onboard storage. Plenty of ports and a better-than-average webcam round out the machine, which you can snag for $400 off.</p><section class="offers my-4 flex flex-col items-center gap-y-6 border-x-0 border-b-2 border-red-400 lg:my-8" id="commerce-group" aria-label="More Black Friday Laptop Deals">
+        <div class="line-header decorative-horizontal-lines w-full before:border-red-400 after:border-red-400">
+            <div class="flex size-10 items-center justify-center rounded-full bg-red-400 text-white">
+                <svg class="size-6 mr-[0.1rem]" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 160.7 148.5" style="enable-background:new 0 0 160.7 148.5;" xml:space="preserve">
+<path fill="currentColor" d="M152.4,89.6l-90.6,56.6c-6.9,4.3-16,2.2-20.4-4.7L2.3,79.2c-4.3-6.9-2.2-16,4.7-20.3L97.5,2.3
+	c4.2-2.6,9.4-3,13.9-1l45,20.2c2.7,1.2,4.4,4,4.4,6.9l-1.4,49.2C159.2,82.5,156.6,87,152.4,89.6z M145.8,32.9l-40.5-18.2L14.8,71.3
+	L54,133.8l90.6-56.6L145.8,32.9z M115.8,51.7c-2.2-3.4-1.1-8,2.3-10.2c3.5-2.2,8-1.1,10.2,2.3c2.2,3.4,1.1,8-2.3,10.2
+	C122.5,56.2,118,55.1,115.8,51.7z"></path>
+</svg>            </div>
+        </div>
+                    <h3 class="font-stretch-condensed text-center leading-tight">More Black Friday Laptop Deals</h3>
+                <ul class="!mb-0 flex !list-none flex-col !pl-0 lg:text-lg">
+                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=04wfQKbrfJIZEtCGCtNczf9&amp;url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flaptop-computers%2Fspd%2Fxps13dx13260%2Fdx13260_so_42&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=1&amp;element_label=Dell+XPS+13+Intel+5+256GB+SSD+8GB+RAM+13.4%26quot%3B+Touch+Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=01zkqX8U43gfXQyAibJgasi" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="02JkilVdKi6uBbLr8JCUGzD" aria-label='Dell XPS 13 Intel 5 256GB SSD 8GB RAM 13.4" Touch Laptop' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="1" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Dell XPS 13 Intel 5 256GB SSD 8GB RAM 13.4" Touch Laptop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$549.99</strong>
+                                                                                                        <span class="text-sm line-through">($749.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $200.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=05kie42h3YvHwjr4G1w80Qq&amp;url=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0GR19X8DC&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=2&amp;element_label=Apple+MacBook+Air+M5+Chip+512GB+SSD+16GB+RAM+13.6%26quot%3B...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=03WYXdGdow6XnIvzuj8sdPY" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="05CwKOpEQDpz4p8rn7Yb14i" aria-label='Apple MacBook Air M5 Chip 512GB SSD 16GB RAM 13.6"...' data-aps-asin="B0GR19X8DC" data-aps-asc-tag="p00935-20" data-aps-asc-subtag="05CwKOpEQDpz4p8rn7Yb14i" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="2" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Apple MacBook Air M5 Chip 512GB SSD 16GB RAM 13.6"...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$999.00</strong>
+                                                                                                        <span class="text-sm line-through">($1,299.00)</span>
+                            <span class="text-sm font-bold text-red-400">Save $300.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=00EsVzDYUgykPrtmlRJp2Xl&amp;url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Floq-laptops%2Floq-15-series%2Flenovo-loq-essential-15irh11%2F83y90054us&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=3&amp;element_label=Lenovo+LOQ+Essential+Intel+7+RTX+3050+512GB+SSD+16...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=02SbMETi2dcj0HpLqvUKlQZ" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="06PieP5rDnUf7WaJ8RUAb7v" aria-label="Lenovo LOQ Essential Intel 7 RTX 3050 512GB SSD 16..." x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="3" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Lenovo LOQ Essential Intel 7 RTX 3050 512GB SSD 16...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$799.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,476.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $677.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=053mLh2CqQ87B6COi2cD2og&amp;url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-omnibook-x-ngai-17-dd0047nr&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=4&amp;element_label=HP+OmniBook+X+Intel+Ultra+7+512GB+SSD+16GB+RAM+17....&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=02IKfbhDqT8WrNlp4b83hSQ" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="07d3YYB3bvKCTOjjdYiETSi" aria-label="HP OmniBook X Intel Ultra 7 512GB SSD 16GB RAM 17...." x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="4" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    HP OmniBook X Intel Ultra 7 512GB SSD 16GB RAM 17....
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$749.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,599.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $850.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=05kie42h3YvHwjr4G1w80Qq&amp;url=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0H1SQ54TV&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=5&amp;element_label=Acer+Aspire+Go+Intel+7+512GB+SSD+16GB+RAM+16%26quot%3B+Touch+Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=04eaTt78mQbE0HpYQolWqQA" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="02UzBVx7hb6yowLR7bkOOOw" aria-label='Acer Aspire Go Intel 7 512GB SSD 16GB RAM 16" Touch Laptop' data-aps-asin="B0H1SQ54TV" data-aps-asc-tag="p00935-20" data-aps-asc-subtag="02UzBVx7hb6yowLR7bkOOOw" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="5" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Acer Aspire Go Intel 7 512GB SSD 16GB RAM 16" Touch Laptop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$699.00</strong>
+                                                                                                        <span class="text-sm line-through">($899.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $200.99</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=04wfQKbrfJIZEtCGCtNczf9&amp;url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flaptop-computers%2Fspd%2Fdell14sds14270%2Fds14270_so_22&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=6&amp;element_label=Dell+14S+Intel+7+512GB+SSD+16GB+RAM+14%26quot%3B+Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=021OeOVtS2fnNr1bY5F8HDf" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="07tUOGZVNqhLNrJgMa1C8Um" aria-label='Dell 14S Intel 7 512GB SSD 16GB RAM 14" Laptop' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="6" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Dell 14S Intel 7 512GB SSD 16GB RAM 14" Laptop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$899.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,199.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $300.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=04wfQKbrfJIZEtCGCtNczf9&amp;url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flaptop-computers%2Fspd%2Fdell16sds16260%2Fds16260_so_10&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=7&amp;element_label=Dell+16S+Intel+Ultra+7+512GB+SSD+16GB+RAM+16%26quot%3B+Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=06ZzC8k86k3qvVp2oNM0jX4" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="026m6cYzIzgtYqDP0DiZ00S" aria-label='Dell 16S Intel Ultra 7 512GB SSD 16GB RAM 16" Laptop' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="7" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Dell 16S Intel Ultra 7 512GB SSD 16GB RAM 16" Laptop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$949.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,549.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $600.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=06W8rERZzLBbDZlsVek4B4u&amp;url=https%3A%2F%2Fshopping.cnet.com%2Fapi%2Fv1%2Fadredirect.php%3Futm_campaign%3Dpcmag-deal-module%26url%3Dhttps%253A%252F%252Fwww.cnet.com%252Fshopping%252F&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=8&amp;element_label=Get+the+Best+Prices+On+Laptops&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05mwV0LnrCgekkyZHcQvnRZ" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="06C5slNXnaT56whiQkW2mq5" aria-label="Get the Best Prices On Laptops" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="8" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Get the Best Prices On Laptops
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">Download Our Free Price Comparison Tool $0</strong>
+                                                                                                </li>
+                                    </ul>
+        <small>*Deals are selected by our commerce team</small>
+    </section>
+<h3>Alienware 16 Aurora Gaming Laptop</h3><div role="region" aria-label="Alienware 16 Aurora Gaming Laptop Shop Card">
+                <div class="mx-auto flex max-w-3xl flex-col gap-[20px] border-b border-gray-300 pb-8 md:flex-row md:gap-4 md:pb-4 pt-8 md:pt-4 border-t">
+                            <div class="mx-auto w-full md:mx-0 md:max-w-[362px]">
+                                            <a class="group relative block w-full overflow-hidden border-none no-underline" data-module="shop-card" data-item="offer-image" data-element="offer" data-label="Alienware 16 Aurora Gaming Laptop" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aRADb8?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Alienware 16 Aurora Gaming Laptop" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="!my-0 w-full aspect-video object-contain rounded" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-8.jpg" data-lazy-sized alt="Alienware 16 Aurora Gaming Laptop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-8.jpg">
+                        </a>
+                                    </div>
+                        <div class="flex w-full flex-col justify-center gap-[20px] md:gap-4">
+                <div class="flex flex-col gap-3 leading-tight">
+                    
+                                            <h3 class="font-stretch-ultra-condensed w-[fit-content] !p-0 text-left text-xl font-semibold">
+                            Alienware 16 Aurora Gaming Laptop</h3>
+                    
+                                            <div class="text-sm font-normal">16-inch QHD+ display, Intel Core 7 240H CPU, GeForce RTX 5050 GPU, 16GB RAM, 512GB SSD</div>
+                                                        </div>
+
+                                    <hr class="!m-0">
+                    <div class="flex flex-wrap items-center justify-between gap-4 leading-tight">
+                        <div class="flex flex-col gap-1 text-sm font-bold">
+                                                            <div class="inline-flex items-center gap-1">
+                                    <span>$1,099.99</span>
+                                                                            <span class="text-xs font-normal">at Dell</span>
+                                                                                                        </div>
+                                                                                        <div class="inline-flex items-center gap-1">
+                                                                            <span class="line-through">$1,999.99</span>
+                                                                                                                <span class="text-red-400">Save $900.00</span>
+                                                                    </div>
+                                                    </div>
+                                                    <a class="group mr-[3px] leading-normal" data-module="shop-card" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/aRADb8?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-button&amp;element_label=Shop%20Now&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Get Deal" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+<p>Dell's Alienware subsidiary is one of the best-known names in the PC gaming space, pumping out a wide variety of futuristic-looking laptops and desktops equipped with the latest silicon.
+
+The Aurora 16 comes in a number of configurations, but right now Dell has an attractive entry-level loadout discounted by $900. Bearing a Blackwell-series Nvidia GPU, this machine can run all of the era's most popular games at speedy, stable framerates, and the Core 7 processor keeps up handily.
+
+While it's not suited for ultra-sharp 4K output, the QHD+ display is perfect for the fidelity you do get, and this is a nice price for a <a href="https://www.pcmag.com/picks/the-best-cheap-gaming-laptops" target="_self">budget gaming laptop</a> that will go the distance.</p><section class="offers my-4 flex flex-col items-center gap-y-6 border-x-0 border-b-2 border-red-400 lg:my-8" id="commerce-group" aria-label="More Black Friday Gaming Laptop Deals">
+        <div class="line-header decorative-horizontal-lines w-full before:border-red-400 after:border-red-400">
+            <div class="flex size-10 items-center justify-center rounded-full bg-red-400 text-white">
+                <svg class="size-6 mr-[0.1rem]" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 160.7 148.5" style="enable-background:new 0 0 160.7 148.5;" xml:space="preserve">
+<path fill="currentColor" d="M152.4,89.6l-90.6,56.6c-6.9,4.3-16,2.2-20.4-4.7L2.3,79.2c-4.3-6.9-2.2-16,4.7-20.3L97.5,2.3
+	c4.2-2.6,9.4-3,13.9-1l45,20.2c2.7,1.2,4.4,4,4.4,6.9l-1.4,49.2C159.2,82.5,156.6,87,152.4,89.6z M145.8,32.9l-40.5-18.2L14.8,71.3
+	L54,133.8l90.6-56.6L145.8,32.9z M115.8,51.7c-2.2-3.4-1.1-8,2.3-10.2c3.5-2.2,8-1.1,10.2,2.3c2.2,3.4,1.1,8-2.3,10.2
+	C122.5,56.2,118,55.1,115.8,51.7z"></path>
+</svg>            </div>
+        </div>
+                    <h3 class="font-stretch-condensed text-center leading-tight">More Black Friday Gaming Laptop Deals</h3>
+                <ul class="!mb-0 flex !list-none flex-col !pl-0 lg:text-lg">
+                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=02zLDwCqTbhlnKCTPdI0yqf&amp;url=https%3A%2F%2Fwww.walmart.com%2Fip%2Fseort%2F20906950993&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=1&amp;element_label=MSI+Cyborg+Max+Intel+7+RTX+5070+512GB+SSD+16GB+RAM...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=01SYkTRkMrz84eiyZk9YoY9" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="06wyJZ9ddSrEUaZ2Si7IuBZ" aria-label="MSI Cyborg Max Intel 7 RTX 5070 512GB SSD 16GB RAM..." x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="1" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    MSI Cyborg Max Intel 7 RTX 5070 512GB SSD 16GB RAM...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$1,299.00</strong>
+                                                                                                        <span class="text-sm line-through">($2,099.00)</span>
+                            <span class="text-sm font-bold text-red-400">Save $800.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=02zLDwCqTbhlnKCTPdI0yqf&amp;url=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-ROG-Strix-G16-Gaming-Laptop-16-WUXGA-165Hz-AMD-Ryzen-9-9955HX-NVIDIA-GeForce-RTX-5060-16GB-1TB-SSD-Windows-11-Eclipse-Gray%2F13567365941&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=2&amp;element_label=Asus+ROG+Strix+G16+Ryzen+9+RTX+5060+1TB+SSD+16GB+R...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05DuiLhcfknCw2d6ER4iPFK" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="07DeNToCq57javqf4RVLbqA" aria-label="Asus ROG Strix G16 Ryzen 9 RTX 5060 1TB SSD 16GB R..." x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="2" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Asus ROG Strix G16 Ryzen 9 RTX 5060 1TB SSD 16GB R...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$1,399.00</strong>
+                                                                                                        <span class="text-sm line-through">($1,999.00)</span>
+                            <span class="text-sm font-bold text-red-400">Save $600.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=00EsVzDYUgykPrtmlRJp2Xl&amp;url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-5-series%2Flenovo-legion-5-gen-10-15-inch-amd%2F83f10005us&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=3&amp;element_label=Lenovo+Legion+5+Ryzen+AI+7+RTX+5070+1TB+15%26quot%3B+OLED+Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=026t4aC53Horf6MFz0h1dLj" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="07p4C6VLezxKP8ILfGKgVLW" aria-label='Lenovo Legion 5 Ryzen AI 7 RTX 5070 1TB 15" OLED Laptop' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="3" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Lenovo Legion 5 Ryzen AI 7 RTX 5070 1TB 15" OLED Laptop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$1,799.99</strong>
+                                                                                                        <span class="text-sm line-through">($2,469.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $670.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=053mLh2CqQ87B6COi2cD2og&amp;url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhyperx-omen-15-inch-gaming-laptop-pc-15-gb0711nr&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=4&amp;element_label=HyperX+Omen+Ryzen+7+RTX+5070+1TB+SSD+16GB+RAM+15.3%26quot%3B+Laptop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=03MMRwQt8HI5Bzmp5KB25Xp" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="03UcZVUGPlXhJc9s0T6xV7V" aria-label='HyperX Omen Ryzen 7 RTX 5070 1TB SSD 16GB RAM 15.3" Laptop' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="4" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    HyperX Omen Ryzen 7 RTX 5070 1TB SSD 16GB RAM 15.3" Laptop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$1,599.99</strong>
+                                                                                                        <span class="text-sm line-through">($2,199.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $600.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=05kie42h3YvHwjr4G1w80Qq&amp;url=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0GXQ6X3SD&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=5&amp;element_label=MSI+Stealth+A18+AI%2B+Ryzen+AI+9+RTX+5080+2TB+SSD+32...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=06oaWKjrjJIgTtvTabRZ1ar" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="02eBmdNa2q39KSzdQ7oppjv" aria-label="MSI Stealth A18 AI+ Ryzen AI 9 RTX 5080 2TB SSD 32..." data-aps-asin="B0GXQ6X3SD" data-aps-asc-tag="p00935-20" data-aps-asc-subtag="02eBmdNa2q39KSzdQ7oppjv" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="5" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    MSI Stealth A18 AI+ Ryzen AI 9 RTX 5080 2TB SSD 32...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$2,899.00</strong>
+                                                                                                        <span class="text-sm line-through">($3,499.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $600.99</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=00EsVzDYUgykPrtmlRJp2Xl&amp;url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-5-series%2Flenovo-legion-5i-gen-10-%2815-inch-intel%29%2F83f00006us&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=6&amp;element_label=Lenovo+Legion+5i+Intel+Ultra+7+RTX+5070+1TB+15.1%26quot%3B...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=06Tg3WZCRuZhkcd6waMu8g7" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="05cAeZ8IHMahMft0LKRYKD1" aria-label='Lenovo Legion 5i Intel Ultra 7 RTX 5070 1TB 15.1"...' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="6" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Lenovo Legion 5i Intel Ultra 7 RTX 5070 1TB 15.1"...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$1,949.99</strong>
+                                                                                                        <span class="text-sm line-through">($2,627.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $678.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=04wfQKbrfJIZEtCGCtNczf9&amp;url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flaptop-computers%2Fspd%2Falienware16area51aa16250%2Faa16250_so_6&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=7&amp;element_label=Alienware+16+Area-51+Intel+Ultra+9+RTX+5080+1TB+SS...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=01o2sy28O7Pa3xpCQZkKLTf" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="027sPWl7UilWUVVkw3rL8tO" aria-label="Alienware 16 Area-51 Intel Ultra 9 RTX 5080 1TB SS..." x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="7" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Alienware 16 Area-51 Intel Ultra 9 RTX 5080 1TB SS...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$4,349.99</strong>
+                                                                                                        <span class="text-sm line-through">($4,649.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $300.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=06W8rERZzLBbDZlsVek4B4u&amp;url=https%3A%2F%2Fshopping.cnet.com%2Fapi%2Fv1%2Fadredirect.php%3Futm_campaign%3Dpcmag-deal-module%26url%3Dhttps%253A%252F%252Fwww.cnet.com%252Fshopping%252F&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=8&amp;element_label=Get+the+Best+Prices+On+Laptops&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05mwV0LnrCgekkyZHcQvnRZ" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="06C5slNXnaT56whiQkW2mq5" aria-label="Get the Best Prices On Laptops" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="8" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Get the Best Prices On Laptops
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">Download Our Free Price Comparison Tool $0</strong>
+                                                                                                </li>
+                                    </ul>
+        <small>*Deals are selected by our commerce team</small>
+    </section>
+<h2 id="desktop-deals">Desktop Deals</h2><h3>Dell Pro Micro Desktop</h3><div role="region" aria-label="Dell Pro Micro Desktop Shop Card">
+                <div class="mx-auto flex max-w-3xl flex-col gap-[20px] border-b border-gray-300 pb-8 md:flex-row md:gap-4 md:pb-4 pt-8 md:pt-4 border-t">
+                            <div class="mx-auto w-full md:mx-0 md:max-w-[362px]">
+                                            <a class="group relative block w-full overflow-hidden border-none no-underline" data-module="shop-card" data-item="offer-image" data-element="offer" data-label="Dell Pro Micro Desktop" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/a5jmWx?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Dell Pro Micro Desktop" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="!my-0 w-full aspect-video object-contain rounded" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-14.jpg" data-lazy-sized alt="Dell Pro Micro Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-14.jpg">
+                        </a>
+                                    </div>
+                        <div class="flex w-full flex-col justify-center gap-[20px] md:gap-4">
+                <div class="flex flex-col gap-3 leading-tight">
+                    
+                                            <h3 class="font-stretch-ultra-condensed w-[fit-content] !p-0 text-left text-xl font-semibold">
+                            Dell Pro Micro Desktop</h3>
+                    
+                                            <div class="text-sm font-normal">Intel Core Ultra 5 235T CPU, 16GB RAM, 256GB SSD</div>
+                                                        </div>
+
+                                    <hr class="!m-0">
+                    <div class="flex flex-wrap items-center justify-between gap-4 leading-tight">
+                        <div class="flex flex-col gap-1 text-sm font-bold">
+                                                            <div class="inline-flex items-center gap-1">
+                                    <span>$853.00</span>
+                                                                            <span class="text-xs font-normal">at Dell</span>
+                                                                                                        </div>
+                                                                                        <div class="inline-flex items-center gap-1">
+                                                                            <span class="line-through">$1,493.00</span>
+                                                                                                                <span class="text-red-400">Save $640.00</span>
+                                                                    </div>
+                                                    </div>
+                                                    <a class="group mr-[3px] leading-normal" data-module="shop-card" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/a5jmWx?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-button&amp;element_label=Shop%20Now&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Get Deal" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+<p>The era of the massive, imposing office-tower PC is steadily coming to an end, as more and more manufacturers pivot to&nbsp;<a href="https://www.pcmag.com/picks/the-best-windows-mini-pcs" target="_self">mini PCs</a>, packing all&nbsp;the component power into a chassis that's a fraction of the size.
+
+Dell's Pro Micro is a compact model that'll tackle productivity tasks with ease, featuring a solid Core Ultra 5 processor, 16Gb of system memory, and Wi-Fi 6E connectivity. While the included 256GB SSD is pretty scant, the machine has a fair number of front- and rear-facing ports for additional peripherals.
+
+Multiple mounting options let you rest it on a desk, attach it to the underside, clamp it to a wall, and more. You can grab one at a 43% off Black Friday Week discount right now.</p><h3>Dell 24 All-In-One Desktop</h3><div role="region" aria-label="Dell 24 All-In-One Desktop Shop Card">
+                <div class="mx-auto flex max-w-3xl flex-col gap-[20px] border-b border-gray-300 pb-8 md:flex-row md:gap-4 md:pb-4 pt-8 md:pt-4 border-t">
+                            <div class="mx-auto w-full md:mx-0 md:max-w-[362px]">
+                                            <a class="group relative block w-full overflow-hidden border-none no-underline" data-module="shop-card" data-item="offer-image" data-element="offer" data-label="Dell 24 All-In-One Desktop" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/zJ7PZG?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Dell 24 All-In-One Desktop" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="!my-0 w-full aspect-video object-contain rounded" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-7.jpg" data-lazy-sized alt="Dell 24 All-In-One Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-7.jpg">
+                        </a>
+                                    </div>
+                        <div class="flex w-full flex-col justify-center gap-[20px] md:gap-4">
+                <div class="flex flex-col gap-3 leading-tight">
+                    
+                                            <h3 class="font-stretch-ultra-condensed w-[fit-content] !p-0 text-left text-xl font-semibold">
+                            Dell 24 All-In-One Desktop</h3>
+                    
+                                            <div class="text-sm font-normal">23.8-inch FHD display, Intel Core 3 100U CPU, 8GB RAM, 512GB SSD</div>
+                                                        </div>
+
+                                    <hr class="!m-0">
+                    <div class="flex flex-wrap items-center justify-between gap-4 leading-tight">
+                        <div class="flex flex-col gap-1 text-sm font-bold">
+                                                            <div class="inline-flex items-center gap-1">
+                                    <span>$849.99</span>
+                                                                            <span class="text-xs font-normal">at Dell</span>
+                                                                                                        </div>
+                                                                                        <div class="inline-flex items-center gap-1">
+                                                                            <span class="line-through">$1,099.99</span>
+                                                                                                                <span class="text-red-400">Save $250.00</span>
+                                                                    </div>
+                                                    </div>
+                                                    <a class="group mr-[3px] leading-normal" data-module="shop-card" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/zJ7PZG?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-button&amp;element_label=Shop%20Now&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Get Deal" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+<p>All-in-one desktops are great choices for many different computing situations.
+
+We like them for family rooms, kitchens, and other non-traditional areas where they can serve both entertainment and productivity. Before Black Friday hits, Dell is offering $150 off its latest 24-inch all-in-one, which we gave a&nbsp;<a href="https://www.pcmag.com/reviews/dell-24-all-in-one-ec24250" target="_self">very positive review</a>.
+
+Although its performance doesn't lead the pack, the hardware is well-constructed, with a good variety of ports and a crisp, clear webcam. We also appreciated that it ships with a wireless keyboard and mouse, to keep those ports free for your printer and other peripherals. There are a few different hardware loadouts on sale, so shop around to find the one you like the best.
+
+</p><section class="offers my-4 flex flex-col items-center gap-y-6 border-x-0 border-b-2 border-red-400 lg:my-8" id="commerce-group" aria-label="More Black Friday All-In-One Desktop Deals">
+        <div class="line-header decorative-horizontal-lines w-full before:border-red-400 after:border-red-400">
+            <div class="flex size-10 items-center justify-center rounded-full bg-red-400 text-white">
+                <svg class="size-6 mr-[0.1rem]" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 160.7 148.5" style="enable-background:new 0 0 160.7 148.5;" xml:space="preserve">
+<path fill="currentColor" d="M152.4,89.6l-90.6,56.6c-6.9,4.3-16,2.2-20.4-4.7L2.3,79.2c-4.3-6.9-2.2-16,4.7-20.3L97.5,2.3
+	c4.2-2.6,9.4-3,13.9-1l45,20.2c2.7,1.2,4.4,4,4.4,6.9l-1.4,49.2C159.2,82.5,156.6,87,152.4,89.6z M145.8,32.9l-40.5-18.2L14.8,71.3
+	L54,133.8l90.6-56.6L145.8,32.9z M115.8,51.7c-2.2-3.4-1.1-8,2.3-10.2c3.5-2.2,8-1.1,10.2,2.3c2.2,3.4,1.1,8-2.3,10.2
+	C122.5,56.2,118,55.1,115.8,51.7z"></path>
+</svg>            </div>
+        </div>
+                    <h3 class="font-stretch-condensed text-center leading-tight">More Black Friday All-In-One Desktop Deals</h3>
+                <ul class="!mb-0 flex !list-none flex-col !pl-0 lg:text-lg">
+                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=04wfQKbrfJIZEtCGCtNczf9&amp;url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Fspd%2Fdell24allinoneec24250%2Fec24250_so_21&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=1&amp;element_label=Dell+24+All-in-One+Intel+3+512GB+SSD+8GB+RAM+Desktop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05oUOTw1VxAQaauP1etILcS" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="04Hxo9qVl3fsOobPq5x2seO" aria-label="Dell 24 All-in-One Intel 3 512GB SSD 8GB RAM Desktop" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="1" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Dell 24 All-in-One Intel 3 512GB SSD 8GB RAM Desktop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$699.99</strong>
+                                                                                                        <span class="text-sm line-through">($999.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $300.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=04wfQKbrfJIZEtCGCtNczf9&amp;url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Fspd%2Fdell24allinoneec24250%2Fec24250_so_3&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=2&amp;element_label=Dell+24+All-in-One+Intel+7+512GB+SSD+8GB+RAM+Touch+Desktop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05MLNwLYY9C3WGaNzNj3wie" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="00rleItBro2imZc6GxCV3mD" aria-label="Dell 24 All-in-One Intel 7 512GB SSD 8GB RAM Touch Desktop" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="2" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Dell 24 All-in-One Intel 7 512GB SSD 8GB RAM Touch Desktop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$949.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,249.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $300.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=05kie42h3YvHwjr4G1w80Qq&amp;url=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0FPZ14SWZ&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=3&amp;element_label=Acer+Aspire+C27+Ryzen+5+512GB+SSD+16GB+RAM+27%26quot%3B+AIO+Desktop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05JJ26ckUxxbRdPVRU60kqS" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="01LLjz39SvHVAcuLR10w7zr" aria-label='Acer Aspire C27 Ryzen 5 512GB SSD 16GB RAM 27" AIO Desktop' data-aps-asin="B0FPZ14SWZ" data-aps-asc-tag="p00935-20" data-aps-asc-subtag="01LLjz39SvHVAcuLR10w7zr" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="3" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Acer Aspire C27 Ryzen 5 512GB SSD 16GB RAM 27" AIO Desktop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$659.99</strong>
+                                                                                                        <span class="text-sm line-through">($899.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $240.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=053mLh2CqQ87B6COi2cD2og&amp;url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-omnistudio-all-in-one-desktop-27-cv0000m-pc-27-c17vbav-1&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=4&amp;element_label=HP+OmniStudio+27%26quot%3B+All-in-One+Ryzen+5+256GB+SSD+8GB...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=00vafTHmGuaS5JaMv3xieRU" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="05RJ1Y7QEwc8RpUbo29tkCa" aria-label='HP OmniStudio 27" All-in-One Ryzen 5 256GB SSD 8GB...' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="4" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    HP OmniStudio 27" All-in-One Ryzen 5 256GB SSD 8GB...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$689.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,129.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $440.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=00EsVzDYUgykPrtmlRJp2Xl&amp;url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Fdesktops%2Fideacentre%2F500-series%2Flenovo-ideacentre-aio-gen-9-%2824-inch-amd%29%2Ff0hr001mus&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=5&amp;element_label=Lenovo+IdeaCentre+Ryzen+3+256GB+SSD+8GB+RAM+24%26quot%3B+AI...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=06gJehaauk08oGJqYlLBbuy" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="01QeeZBumSHfuNfk6ph9D0M" aria-label='Lenovo IdeaCentre Ryzen 3 256GB SSD 8GB RAM 24" AI...' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="5" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Lenovo IdeaCentre Ryzen 3 256GB SSD 8GB RAM 24" AI...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$639.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,072.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $433.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=053mLh2CqQ87B6COi2cD2og&amp;url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-omnistudio-all-in-one-desktop-next-gen-ai-24-cw0580m-pc&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=6&amp;element_label=HP+OmniStudio+24%26quot%3B+All-in-One+Ryzen+AI+7+512GB+SSD...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=04M37EvrGKCNfA8KY1m3Xal" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="07fCs1joAC4x8Fz825MYF8n" aria-label='HP OmniStudio 24" All-in-One Ryzen AI 7 512GB SSD...' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="6" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    HP OmniStudio 24" All-in-One Ryzen AI 7 512GB SSD...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$969.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,349.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $380.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=00EsVzDYUgykPrtmlRJp2Xl&amp;url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Fdesktops%2Fthinkcentre%2Fthinkcentre-neo-series%2Fthinkcentre-neo-55a-gen-6-24-inch-amd-all-in-one%2F13fa001qus&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=7&amp;element_label=Lenovo+ThinkCentre+Neo+55a+Ryzen+7+1TB+24%26quot%3B+AIO+Touch+Desktop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05i8BJXfsHp3BF4fYufPQxO" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="05Ku54249XJ8m28P7WTj3Pq" aria-label='Lenovo ThinkCentre Neo 55a Ryzen 7 1TB 24" AIO Touch Desktop' x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="7" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Lenovo ThinkCentre Neo 55a Ryzen 7 1TB 24" AIO Touch Desktop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$1,089.00</strong>
+                                                                                                        <span class="text-sm line-through">($2,009.00)</span>
+                            <span class="text-sm font-bold text-red-400">Save $920.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=06W8rERZzLBbDZlsVek4B4u&amp;url=https%3A%2F%2Fshopping.cnet.com%2Fapi%2Fv1%2Fadredirect.php%3Futm_campaign%3Dpcmag-deal-module%26url%3Dhttps%253A%252F%252Fwww.cnet.com%252Fshopping%252F&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=8&amp;element_label=Get+the+Best+Prices+On+Desktops&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05mwV0LnrCgekkyZHcQvnRZ" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="06c6o0uIeBLz7ljh33unxe5" aria-label="Get the Best Prices On Desktops" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="8" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    Get the Best Prices On Desktops
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">Download Our Free Price Comparison Tool $0</strong>
+                                                                                                </li>
+                                    </ul>
+        <small>*Deals are selected by our commerce team</small>
+    </section>
+<h3>Alienware Aurora Gaming Desktop</h3><div role="region" aria-label="Alienware Aurora Gaming Desktop Shop Card">
+                <div class="mx-auto flex max-w-3xl flex-col gap-[20px] border-b border-gray-300 pb-8 md:flex-row md:gap-4 md:pb-4 pt-8 md:pt-4 border-t">
+                            <div class="mx-auto w-full md:mx-0 md:max-w-[362px]">
+                                            <a class="group relative block w-full overflow-hidden border-none no-underline" data-module="shop-card" data-item="offer-image" data-element="offer" data-label="Alienware Aurora Gaming Desktop" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/QKw0mn?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-image&amp;element_label=&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Alienware Aurora Gaming Desktop" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" class="!my-0 w-full aspect-video object-contain rounded" data-image-loader="https://i.pcmag.com/imagery/articles/0638GL2YhnGtUmvKamHLf5L-13.jpg" data-lazy-sized alt="Alienware Aurora Gaming Desktop" data-image-path="articles/0638GL2YhnGtUmvKamHLf5L-13.jpg">
+                        </a>
+                                    </div>
+                        <div class="flex w-full flex-col justify-center gap-[20px] md:gap-4">
+                <div class="flex flex-col gap-3 leading-tight">
+                    
+                                            <h3 class="font-stretch-ultra-condensed w-[fit-content] !p-0 text-left text-xl font-semibold">
+                            Alienware Aurora Gaming Desktop</h3>
+                    
+                                            <div class="text-sm font-normal">Intel Core Ultra 7 265F CPU, GeForce RTX 5080 GPU, 32GB RAM, 1TB SSD</div>
+                                                        </div>
+
+                                    <hr class="!m-0">
+                    <div class="flex flex-wrap items-center justify-between gap-4 leading-tight">
+                        <div class="flex flex-col gap-1 text-sm font-bold">
+                                                            <div class="inline-flex items-center gap-1">
+                                    <span>$3,479.99</span>
+                                                                            <span class="text-xs font-normal">at Dell</span>
+                                                                                                        </div>
+                                                                                        <div class="inline-flex items-center gap-1">
+                                                                            <span class="line-through">$3,879.99</span>
+                                                                                                                <span class="text-red-400">Save $400.00</span>
+                                                                    </div>
+                                                    </div>
+                                                    <a class="group mr-[3px] leading-normal" data-module="shop-card" data-item="offer-button" data-element="offer" data-label="Get Deal" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L" href="https://zdcs.link/QKw0mn?template=News&amp;module=shop-card&amp;element=offer&amp;item=offer-button&amp;element_label=Shop%20Now&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L" title="(Opens in a new tab)" aria-label="Get Deal" x-track-ga-click x-bind-one-true-click="" data-parent-group="affiliate-link" target="_blank" rel="sponsored">
+                                <span class="shadow-solid-button w-32 md:w-36">Get Deal</span>
+                            </a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+<p>Have somebody on your shopping list who's been <em>very </em>good this year?
+
+A powerhouse gaming desktop will make them very happy to see under the tree. The Alienware Aurora is one of the most consistent products in the gaming space, and right now you can get $400 off a very solid machine for 4K gaming on all of the hottest titles of 2026 and beyond. We <a href="https://www.pcmag.com/reviews/alienware-aurora-2025" target="_self">reviewed</a>&nbsp;this one and praised its wide configuration options, impressive speed, and quiet cooling.
+
+The case is futuristic-looking but not ostentatious, with customizable LED lighting and a smaller footprint than its predecessor. Internally, you get a very good Core Ultra 7 processor, a Blackwell-series GPU, 32GB of RAM, and plenty of storage.</p><div class="py-4" data-parent-group="related-stories">
+    <div class="mx-0 border border-b border-l-0 border-r-0 border-t border-gray-300 py-4 md:ml-8 md:mr-24">
+        <h3 class="font-stretch-ultra-condensed mb-2 text-lg font-semibold uppercase">Recommended by Our Editors</h3>
+        <div class="flex flex-wrap">
+                            <div class="my-4 inline-flex w-full md:my-2">
+                    <a class="mr-4 inline min-w-24 max-w-24 no-underline md:min-w-28 md:max-w-28" data-module="related-recirc" data-item="related-recirc-list" data-element="related-recirc-image" data-position="1" data-title="PCMag Black Friday Mega Post Deals" href="/news/black-friday-sales-updates-deal-tracker" x-track-ga-click>
+                                                    <div class="relative aspect-video overflow-hidden">
+                                <img class="absolute inset-1/2 h-auto w-auto translate-center" data-image-loader="https://i.pcmag.com/imagery/articles/00KcZBydle7WS6GPDXTgL3G-124.fit_lpad.size_400x225.v1795805481.png" data-lazy-sized src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20225'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" alt="PCMag Black Friday Mega Post Deals">
+                            </div>
+                                            </a>
+                    <div class="flex w-auto flex-col justify-center md:mr-20">
+                        <a class="inline-block align-middle leading-tight no-underline" data-module="related-recirc" data-item="related-recirc-list" data-element="related-recirc-link" data-position="1" href="/news/black-friday-sales-updates-deal-tracker" aria-label="The 189+ Best Black Friday Tech Deals From Amazon, Apple, Bose, Dyson, Samsung, and More" x-track-ga-click>The 189+ Best Black Friday Tech Deals From Amazon, Apple, Bose, Dyson, Samsung, and More</a>
+                    </div>
+                </div>
+                            <div class="my-4 inline-flex w-full md:my-2">
+                    <a class="mr-4 inline min-w-24 max-w-24 no-underline md:min-w-28 md:max-w-28" data-module="related-recirc" data-item="related-recirc-list" data-element="related-recirc-image" data-position="2" data-title="Black Friday Live Blog Products " href="/news/nov-27-black-friday-live-update-deals" x-track-ga-click>
+                                                    <div class="relative aspect-video overflow-hidden">
+                                <img class="absolute inset-1/2 h-auto w-auto translate-center" data-image-loader="https://i.pcmag.com/imagery/articles/038DaWO4XkwBJQ58NB5wvAU-1.fit_lpad.size_400x225.v1795783980.png" data-lazy-sized src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20225'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" alt="Black Friday Live Blog Products ">
+                            </div>
+                                            </a>
+                    <div class="flex w-auto flex-col justify-center md:mr-20">
+                        <a class="inline-block align-middle leading-tight no-underline" data-module="related-recirc" data-item="related-recirc-list" data-element="related-recirc-link" data-position="2" href="/news/nov-27-black-friday-live-update-deals" aria-label="We Found the Best Black Friday Deals Live From Apple, Bose, Samsung, and More to Save up to 73%" x-track-ga-click>We Found the Best Black Friday Deals Live From Apple, Bose, Samsung, and More to Save up to 73%</a>
+                    </div>
+                </div>
+                            <div class="my-4 inline-flex w-full md:my-2">
+                    <a class="mr-4 inline min-w-24 max-w-24 no-underline md:min-w-28 md:max-w-28" data-module="related-recirc" data-item="related-recirc-list" data-element="related-recirc-image" data-position="3" data-title="Apple watches on orange background" href="/deals/apple-watch-early-black-friday-2026-deals-nov-20" x-track-ga-click>
+                                                    <div class="relative aspect-video overflow-hidden">
+                                <img class="absolute inset-1/2 h-auto w-auto translate-center" data-image-loader="https://i.pcmag.com/imagery/articles/01ZNK0M4qs5Q7egGTs34Fsn-1.fit_lpad.size_400x225.v1795792924.png" data-lazy-sized src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20225'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" alt="Apple watches on orange background">
+                            </div>
+                                            </a>
+                    <div class="flex w-auto flex-col justify-center md:mr-20">
+                        <a class="inline-block align-middle leading-tight no-underline" data-module="related-recirc" data-item="related-recirc-list" data-element="related-recirc-link" data-position="3" href="/deals/apple-watch-early-black-friday-2026-deals-nov-20" aria-label="We've Clocked These Top Black Friday Deals on Apple Watches" x-track-ga-click>We've Clocked These Top Black Friday Deals on Apple Watches</a>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>
+<section class="offers my-4 flex flex-col items-center gap-y-6 border-x-0 border-b-2 border-red-400 lg:my-8" id="commerce-group" aria-label="More Black Friday Gaming Desktop Deals">
+        <div class="line-header decorative-horizontal-lines w-full before:border-red-400 after:border-red-400">
+            <div class="flex size-10 items-center justify-center rounded-full bg-red-400 text-white">
+                <svg class="size-6 mr-[0.1rem]" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 160.7 148.5" style="enable-background:new 0 0 160.7 148.5;" xml:space="preserve">
+<path fill="currentColor" d="M152.4,89.6l-90.6,56.6c-6.9,4.3-16,2.2-20.4-4.7L2.3,79.2c-4.3-6.9-2.2-16,4.7-20.3L97.5,2.3
+	c4.2-2.6,9.4-3,13.9-1l45,20.2c2.7,1.2,4.4,4,4.4,6.9l-1.4,49.2C159.2,82.5,156.6,87,152.4,89.6z M145.8,32.9l-40.5-18.2L14.8,71.3
+	L54,133.8l90.6-56.6L145.8,32.9z M115.8,51.7c-2.2-3.4-1.1-8,2.3-10.2c3.5-2.2,8-1.1,10.2,2.3c2.2,3.4,1.1,8-2.3,10.2
+	C122.5,56.2,118,55.1,115.8,51.7z"></path>
+</svg>            </div>
+        </div>
+                    <h3 class="font-stretch-condensed text-center leading-tight">More Black Friday Gaming Desktop Deals</h3>
+                <ul class="!mb-0 flex !list-none flex-col !pl-0 lg:text-lg">
+                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=05kie42h3YvHwjr4G1w80Qq&amp;url=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DXVFR2MP&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=1&amp;element_label=CyberPowerPC+Gamer+Xtreme+Intel+i7+RTX+5060+Ti+1TB...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=055vhwVgiPWWi19NQFfpRCR" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="01kagd8mkD0Ug3lPlfUSq4F" aria-label="CyberPowerPC Gamer Xtreme Intel i7 RTX 5060 Ti 1TB..." data-aps-asin="B0DXVFR2MP" data-aps-asc-tag="p00935-20" data-aps-asc-subtag="01kagd8mkD0Ug3lPlfUSq4F" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="1" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    CyberPowerPC Gamer Xtreme Intel i7 RTX 5060 Ti 1TB...
+
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$1,299.99</strong>
+                                                                                                        <span class="text-sm line-through">($1,629.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $330.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=053mLh2CqQ87B6COi2cD2og&amp;url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fomen-16l-gaming-desktop-tg03-0085t-pc&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=2&amp;element_label=HP+Omen+16L+Intel+Ultra+7+RTX+5060+1TB+SSD+32GB+RAM+Desktop&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=05xRGVVuNRBjAvu6jlUiaLV" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="00cRYQtY0dvdy8MkdXfG2Rk" aria-label="HP Omen 16L Intel Ultra 7 RTX 5060 1TB SSD 32GB RAM Desktop" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="2" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    HP Omen 16L Intel Ultra 7 RTX 5060 1TB SSD 32GB RAM Desktop
+</a>                                                    <span>&mdash;</span>
+                            <strong class="text-base">$1,929.99</strong>
+                                                                                                        <span class="text-sm line-through">($2,999.99)</span>
+                            <span class="text-sm font-bold text-red-400">Save $1,070.00</span>
+                                            </li>
+                                                                <li class="flex flex-wrap items-center gap-x-2 overflow-hidden md:flex-nowrap md:whitespace-nowrap lg:truncate">
+                        <a href="https://cc.pcmag.com/v1/otc/01r1WRIAJykbQgN4oGQ8FSi?merchant=05kie42h3YvHwjr4G1w80Qq&amp;url=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0HFVYCBN5&amp;template=article-page&amp;module=offers-group&amp;element=offer-group-link&amp;item=text-link&amp;position=3&amp;element_label=MSI+Codex+R2+Intel+Ultra+7+RTX+5060+Ti+2TB+SSD+32G...&amp;u=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdell-deals-black-friday-2026-laptops-desktops&amp;page_type=article&amp;page_uuid=0638GL2YhnGtUmvKamHLf5L&amp;object_type=article&amp;object_uuid=0638GL2YhnGtUmvKamHLf5L&amp;product_uuid=06pRmkYKz3zehi7Hii9XsRC" data-commerce="1" target="_blank" title="(Opens in a new tab)" rel="sponsored" data-parent-group="affiliate-link" class="offer-link font-stretch-condensed lg:truncate" offer-uuid="05RCitvhfeLOv28LFKNb0dG" aria-label="MSI Codex R2 Intel Ultra 7 RTX 5060 Ti 2TB SSD 32G..." data-aps-asin="B0HFVYCBN5" data-aps-asc-tag="p00935-20" data-aps-asc-subtag="05RCitvhfeLOv28LFKNb0dG" x-track-ga-click="1" data-element="offer-group-link" data-action="text-link" data-item="text-link" data-position="3" data-module="offers-group" data-page-type="article" data-page-uuid="0638GL2YhnGtUmvKamHLf5L" data-object-type="article" data-object-uuid="0638GL2YhnGtUmvKamHLf5L">
+    MSI Codex R2 Intel Ultra 7 RTX 5060 Ti 2TB SSD 32G...
+
+---
+
+**Original Source:** [PCMag](https://www.pcmag.com/news/dell-deals-black-friday-2026-laptops-desktops)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to PCMag.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Dell's Black Friday Deals Are Here, Including $1,000 Off the XPS 16 We Loved - PCMag.`,
+    primary_source: `PCMag`,
+  },
+  {
+    id: 98166,
+    title: `Wordle today: The answer and hints for November 27, 2026 - Mashable`,
+    slug: `wordle-today-the-answer-and-hints-for-november-27-2026-mashable-2026`,
+    original_title: `Wordle today: The answer and hints for November 27, 2026 - Mashable`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:12Z`,
+    updated_at: `2026-11-28T05:41:12Z`,
+    source_name: `Mashable`,
+    source_url: `https://mashable.com/entertainment/wordle-today-answer-november-27-2026`,
+    source_courtesy: `Source: Mashable`,
+    image_url: `/images/articles/wordle-today-the-answer-and-hints-for-november-27-2026-mashable-2026.webp`,
+    image_alt: `Wordle today: The answer and hints for November 27, 2026 - Mashable`,
+    image_courtesy: `Image: Mashable (External Source Attribution)`,
+    image_photographer: `Mashable`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Today's Wordle answer should be easy to solve if you're a farmer.If you just want to be told today's word, you can jump to the bottom of this article for today's Wordle solution revealed. But if you'd rather solve it yourself, keep reading `,
+    content: `Today's Wordle answer should be easy to solve if you're a farmer.If you just want to be told today's word, you can jump to the bottom of this article for today's Wordle solution revealed. But if you'd rather solve it yourself, keep reading for some clues, tips, and strategies to assist you.
+
+SEE ALSO:
+        
+            Mahjong, Sudoku, free crossword, and more: Play games on Mashable
+            
+        
+    
+
+        SEE ALSO:
+        
+            NYT Connections hints today: Clues, answers for November 27, 2026
+            
+        
+    
+Where did Wordle come from?Originally created by engineer Josh Wardle as a gift for his partner, Wordle rapidly spread to become an international phenomenon, with thousands of people around the globe playing every day.
+
+Alternate Wordle versions created by fans also sprang up, including battle royale Squabble, music identification game Heardle, and variations like Dordle and Quordle that make you guess multiple words at once.&nbsp;Wordle eventually became so popular that it was purchased by the New York Times, and TikTok creators even livestream themselves playing.What's the best Wordle starting word?The best Wordle starting word is the one that speaks to you.
+
+But if you prefer to be strategic in your approach, we have a few ideas to help you pick a word that might help you find the solution faster. One tip is to select a word that includes at least two different vowels, plus some common consonants like S, T, R, or N.What happened to the Wordle archive?The entire archive of past Wordle puzzles was originally available for anyone to enjoy whenever they felt like it, but it was later taken down, with the website's creator stating it was done at the request of the New York Times.
+
+However, the New York Times then rolled out its own Wordle Archive, available only to NYT Games subscribers. Is Wordle getting harder?It might feel like Wordle is getting harder, but it actually isn't any more difficult than when it first began. You can turn on Wordle's Hard Mode if you're after more of a challenge, though.Here's a subtle hint for today's Wordle answer:Bundle of stalks.Does today's Wordle answer have a double letter?No letter appears twice.Want more tech and digital culture news delivered to your inbox daily or sent straight to your device?
+
+Sign up for Mashable's Top Stories newsletter or get Mashable push alerts today.Today's Wordle is a 5-letter word that starts with...Today's Wordle starts with the letter S.The Wordle answer today is...Get your last guesses in now, because it's your final chance to solve today's Wordle before we reveal the solution.Drumroll please!The solution to today's Wordle is...SHEAFDon't feel down if you didn't manage to guess it this time.
+
+There will be a new Wordle for you to stretch your brain with tomorrow, and we'll be back again to guide you with more helpful hints. Are you also playing NYT Strands? See hints and answers for today's Strands.Reporting by Chance Townsend, Caitlin Welsh, Sam Haysom, Amanda Yeo, Shannon Connellan, Cecily Mauran, Mike Pearl, and Adam Rosenberg contributed to this article.Meet The Mashable 101: Our list of the content creators shaping the internet todayIf you're looking for more puzzles, Mashable's got games now!
+
+Check out our games hub for Mahjong, Sudoku, free crossword, and more.
+
+---
+
+**Original Source:** [Mashable](https://mashable.com/entertainment/wordle-today-answer-november-27-2026)`,
+    title_en: `Wordle today: The answer and hints for November 27, 2026 - Mashable`,
+    summary_en: `Today's Wordle answer should be easy to solve if you're a farmer.If you just want to be told today's word, you can jump to the bottom of this article for today's Wordle solution revealed. But if you'd rather solve it yourself, keep reading `,
+    content_en: `Today's Wordle answer should be easy to solve if you're a farmer.If you just want to be told today's word, you can jump to the bottom of this article for today's Wordle solution revealed. But if you'd rather solve it yourself, keep reading for some clues, tips, and strategies to assist you.
+
+SEE ALSO:
+        
+            Mahjong, Sudoku, free crossword, and more: Play games on Mashable
+            
+        
+    
+
+        SEE ALSO:
+        
+            NYT Connections hints today: Clues, answers for November 27, 2026
+            
+        
+    
+Where did Wordle come from?Originally created by engineer Josh Wardle as a gift for his partner, Wordle rapidly spread to become an international phenomenon, with thousands of people around the globe playing every day.
+
+Alternate Wordle versions created by fans also sprang up, including battle royale Squabble, music identification game Heardle, and variations like Dordle and Quordle that make you guess multiple words at once.&nbsp;Wordle eventually became so popular that it was purchased by the New York Times, and TikTok creators even livestream themselves playing.What's the best Wordle starting word?The best Wordle starting word is the one that speaks to you.
+
+But if you prefer to be strategic in your approach, we have a few ideas to help you pick a word that might help you find the solution faster. One tip is to select a word that includes at least two different vowels, plus some common consonants like S, T, R, or N.What happened to the Wordle archive?The entire archive of past Wordle puzzles was originally available for anyone to enjoy whenever they felt like it, but it was later taken down, with the website's creator stating it was done at the request of the New York Times.
+
+However, the New York Times then rolled out its own Wordle Archive, available only to NYT Games subscribers. Is Wordle getting harder?It might feel like Wordle is getting harder, but it actually isn't any more difficult than when it first began. You can turn on Wordle's Hard Mode if you're after more of a challenge, though.Here's a subtle hint for today's Wordle answer:Bundle of stalks.Does today's Wordle answer have a double letter?No letter appears twice.Want more tech and digital culture news delivered to your inbox daily or sent straight to your device?
+
+Sign up for Mashable's Top Stories newsletter or get Mashable push alerts today.Today's Wordle is a 5-letter word that starts with...Today's Wordle starts with the letter S.The Wordle answer today is...Get your last guesses in now, because it's your final chance to solve today's Wordle before we reveal the solution.Drumroll please!The solution to today's Wordle is...SHEAFDon't feel down if you didn't manage to guess it this time.
+
+There will be a new Wordle for you to stretch your brain with tomorrow, and we'll be back again to guide you with more helpful hints. Are you also playing NYT Strands? See hints and answers for today's Strands.Reporting by Chance Townsend, Caitlin Welsh, Sam Haysom, Amanda Yeo, Shannon Connellan, Cecily Mauran, Mike Pearl, and Adam Rosenberg contributed to this article.Meet The Mashable 101: Our list of the content creators shaping the internet todayIf you're looking for more puzzles, Mashable's got games now!
+
+Check out our games hub for Mahjong, Sudoku, free crossword, and more.
+
+---
+
+**Original Source:** [Mashable](https://mashable.com/entertainment/wordle-today-answer-november-27-2026)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Mashable.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Wordle today: The answer and hints for November 27, 2026 - Mashable.`,
+    primary_source: `Mashable`,
+  },
+  {
+    id: 98167,
+    title: `Croma Black Friday Sale 2026 में iPhone 16 से MacBook तक मिल रहा बड़ा डिस्काउंट, ₹11,761 में खरीदें 5G फोन - Navbharat Live`,
+    slug: `croma-black-friday-sale-2026-iphone-16-macbook-11761-5g-navbharat-live-2026`,
+    original_title: `Croma Black Friday Sale 2026 में iPhone 16 से MacBook तक मिल रहा बड़ा डिस्काउंट, ₹11,761 में खरीदें 5G फोन - Navbharat Live`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:14Z`,
+    updated_at: `2026-11-28T05:41:14Z`,
+    source_name: `Navbharat Live`,
+    source_url: `https://navbharatlive.com/technology/croma-black-friday-sale-2026-offers-big-discounts-from-iphone-16-to-macbook-5g-phone-srs13`,
+    source_courtesy: `Source: Navbharat Live`,
+    image_url: `/images/articles/croma-black-friday-sale-2026-iphone-16-macbook-11761-5g-navbharat-live-2026.jpg`,
+    image_alt: `Croma Black Friday Sale 2026 में iPhone 16 से MacBook तक मिल रहा बड़ा डिस्काउंट, ₹11,761 में खरीदें 5G फोन - Navbharat Live`,
+    image_courtesy: `Image: Navbharat Live (External Source Attribution)`,
+    image_photographer: `Navbharat Live`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Highlight:Croma की Black Friday Sale 2026 आपके लिए काम की हो सकती है।भारत में 26 नवंबर से 30 नवंबर 2026 तक पांच दिवसीय सेल शुरू की है।इसमें iPhone, Samsung, Oppo, Lenovo, HP और Sony जैसे ब्रांड के प्रोडक्ट्स पर 50% तक छूट देने का ऐलान किया `,
+    content: `Highlight:Croma की Black Friday Sale 2026 आपके लिए काम की हो सकती है।भारत में 26 नवंबर से 30 नवंबर 2026 तक पांच दिवसीय सेल शुरू की है।इसमें iPhone, Samsung, Oppo, Lenovo, HP और Sony जैसे ब्रांड के प्रोडक्ट्स पर 50% तक छूट देने का ऐलान किया गया है।.Croma Black Friday Sale 2026: नया स्मार्टफोन, लैपटॉप या स्मार्ट टीवी खरीदने की प्लानिंग कर रहे हैं तो Croma की Black Friday Sale 2026 आपके लिए काम की हो सकती है।
+
+कंपनी ने भारत में 26 नवंबर से 30 नवंबर 2026 तक पांच दिवसीय सेल शुरू की है। इसमें iPhone, Samsung, Oppo, Lenovo, HP और Sony जैसे ब्रांड के प्रोडक्ट्स पर 50% तक छूट देने का ऐलान किया गया है। इसकी खास बात यह है कि कुछ प्रोडक्ट्स पर बैंक कैशबैक, एक्सचेंज बोनस और EMI का फायदा भी मिल रहा है।.iPhone 16 और iPhone 17 Pro Max पर मिल रहा ऑफरCroma की सेल के बारे में बताए तो इसमें Apple के प्रोडक्ट्स पर मिलने वाले ऑफर्स आकर्षण का केंद्र हैं।
+
+iPhone 16 (128GB) की प्रभावी कीमत 45,490 रुपये बताई गई है। इसमें 2,000 रुपये तक बैंक कैशबैक, iPhone 14 (128GB) एक्सचेंज करने पर 24,000 रुपये तक और 8,000 रुपये तक अतिरिक्त एक्सचेंज बोनस शामिल है।वहीं iPhone 17 Pro Max (256GB) की कीमत ऑफर्स के बाद 96,290 रुपये से शुरू होती है। इस पर 4,000 रुपये तक बैंक कैशबैक मिल सकता है।
+
+MacBook Neo (8GB RAM, 256GB स्टोरेज) की प्रभावी कीमत 42,714 रुपये है। इसके साथ 12,000 रुपये तक एक्सचेंज बेनिफिट और 7,000 रुपये तक बैंक कैशबैक दिया जा रहा है।.Samsung और Oppo के 5G फोन भी सस्तेAndroid स्मार्टफोन खरीदने वालों के लिए भी सेल में कई विकल्प हैं। Oppo F35 Pro 5G (6GB RAM, 128GB स्टोरेज) की शुरुआती प्रभावी कीमत 11,761 रुपये है।
+
+वहीं Redmi 17C 5G (4GB RAM, 128GB स्टोरेज) 11,999 रुपये में उपलब्ध है। वहीं प्रीमियम सेगमेंट में Samsung Galaxy S26 Ultra (12GB RAM, 256GB स्टोरेज) की कीमत 85,999 रुपये रखी गई है।.iOS 27.3 Update में Siri AI होगा पहले से ज्यादा स्मार्ट, Safari में आएंगे नए फीचर्स, जानें कब मिलेगा अपडेट.लैपटॉप और स्मार्ट टीवी पर भी ऑफर्सलैपटॉप खरीदने वालों को चुनिंदा मॉडल पर 20% तक एक्सचेंज बोनस और बैंक कैशबैक मिल सकता है।
+
+Lenovo Yoga S7 की प्रभावी कीमत 1,02,392 रुपये, HP OmniBook 5 AI (16GB RAM, 512GB स्टोरेज) की शुरुआती कीमत 69,810 रुपये और Acer Aspire Lite की कीमत 43,609 रुपये से शुरू है।टीवी की बात करें तो LG 55-इंच AI Nano TV 44,990 रुपये और Sony 65-इंच Bravia 3II 1,16,990 रुपये में मिल रहा है।
+
+LG 75-इंच 4K AI Nano TV की कीमत 89,990 रुपये है। चुनिंदा टीवी पर 26,000 रुपये तक कैशबैक और EMI डिस्काउंट भी उपलब्ध है। टीवी के साथ कुछ साउंडबार खरीदने पर 12% तक अतिरिक्त छूट मिल सकती है।.WhatsApp यूजर्स के चैट्स अब Google Drive के बिना होंगे सेव, कंपनी दे रही है 2GB फ्री क्लाउड स्टोरेज.Air Fryer और पर्सनल केयर प्रोडक्ट्स पर छूटछोटे घरेलू उपकरणों में Philips Digital Air Fryer (4.2 लीटर) की कीमत 7,299 रुपये है।
+
+वहीं चुनिंदा Philips पर्सनल केयर प्रोडक्ट्स पर 30% तक और Havells के ग्रूमिंग प्रोडक्ट्स पर 50% तक छूट दी जा रही है। साथ ही ध्यान रखें कि बताई गई कई कीमतें बैंक ऑफर और एक्सचेंज के बाद की प्रभावी कीमतें हैं। वास्तविक छूट पुराने डिवाइस की स्थिति, एक्सचेंज वैल्यू, बैंक और उपलब्ध ऑफर्स पर निर्भर करेगी।
+
+खरीदारी से पहले अंतिम कीमत और ऑफर की शर्तें जरूर जांचें।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/technology/croma-black-friday-sale-2026-offers-big-discounts-from-iphone-16-to-macbook-5g-phone-srs13)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Croma Black Friday Sale 2026 में iPhone 16 से MacBook तक मिल रहा बड़ा डिस्काउंट, ₹11,761 में खरीदें 5G फोन - Navbharat Live`,
+    summary_hi: `Highlight:Croma की Black Friday Sale 2026 आपके लिए काम की हो सकती है।भारत में 26 नवंबर से 30 नवंबर 2026 तक पांच दिवसीय सेल शुरू की है।इसमें iPhone, Samsung, Oppo, Lenovo, HP और Sony जैसे ब्रांड के प्रोडक्ट्स पर 50% तक छूट देने का ऐलान किया `,
+    content_hi: `Highlight:Croma की Black Friday Sale 2026 आपके लिए काम की हो सकती है।भारत में 26 नवंबर से 30 नवंबर 2026 तक पांच दिवसीय सेल शुरू की है।इसमें iPhone, Samsung, Oppo, Lenovo, HP और Sony जैसे ब्रांड के प्रोडक्ट्स पर 50% तक छूट देने का ऐलान किया गया है।.Croma Black Friday Sale 2026: नया स्मार्टफोन, लैपटॉप या स्मार्ट टीवी खरीदने की प्लानिंग कर रहे हैं तो Croma की Black Friday Sale 2026 आपके लिए काम की हो सकती है।
+
+कंपनी ने भारत में 26 नवंबर से 30 नवंबर 2026 तक पांच दिवसीय सेल शुरू की है। इसमें iPhone, Samsung, Oppo, Lenovo, HP और Sony जैसे ब्रांड के प्रोडक्ट्स पर 50% तक छूट देने का ऐलान किया गया है। इसकी खास बात यह है कि कुछ प्रोडक्ट्स पर बैंक कैशबैक, एक्सचेंज बोनस और EMI का फायदा भी मिल रहा है।.iPhone 16 और iPhone 17 Pro Max पर मिल रहा ऑफरCroma की सेल के बारे में बताए तो इसमें Apple के प्रोडक्ट्स पर मिलने वाले ऑफर्स आकर्षण का केंद्र हैं।
+
+iPhone 16 (128GB) की प्रभावी कीमत 45,490 रुपये बताई गई है। इसमें 2,000 रुपये तक बैंक कैशबैक, iPhone 14 (128GB) एक्सचेंज करने पर 24,000 रुपये तक और 8,000 रुपये तक अतिरिक्त एक्सचेंज बोनस शामिल है।वहीं iPhone 17 Pro Max (256GB) की कीमत ऑफर्स के बाद 96,290 रुपये से शुरू होती है। इस पर 4,000 रुपये तक बैंक कैशबैक मिल सकता है।
+
+MacBook Neo (8GB RAM, 256GB स्टोरेज) की प्रभावी कीमत 42,714 रुपये है। इसके साथ 12,000 रुपये तक एक्सचेंज बेनिफिट और 7,000 रुपये तक बैंक कैशबैक दिया जा रहा है।.Samsung और Oppo के 5G फोन भी सस्तेAndroid स्मार्टफोन खरीदने वालों के लिए भी सेल में कई विकल्प हैं। Oppo F35 Pro 5G (6GB RAM, 128GB स्टोरेज) की शुरुआती प्रभावी कीमत 11,761 रुपये है।
+
+वहीं Redmi 17C 5G (4GB RAM, 128GB स्टोरेज) 11,999 रुपये में उपलब्ध है। वहीं प्रीमियम सेगमेंट में Samsung Galaxy S26 Ultra (12GB RAM, 256GB स्टोरेज) की कीमत 85,999 रुपये रखी गई है।.iOS 27.3 Update में Siri AI होगा पहले से ज्यादा स्मार्ट, Safari में आएंगे नए फीचर्स, जानें कब मिलेगा अपडेट.लैपटॉप और स्मार्ट टीवी पर भी ऑफर्सलैपटॉप खरीदने वालों को चुनिंदा मॉडल पर 20% तक एक्सचेंज बोनस और बैंक कैशबैक मिल सकता है।
+
+Lenovo Yoga S7 की प्रभावी कीमत 1,02,392 रुपये, HP OmniBook 5 AI (16GB RAM, 512GB स्टोरेज) की शुरुआती कीमत 69,810 रुपये और Acer Aspire Lite की कीमत 43,609 रुपये से शुरू है।टीवी की बात करें तो LG 55-इंच AI Nano TV 44,990 रुपये और Sony 65-इंच Bravia 3II 1,16,990 रुपये में मिल रहा है।
+
+LG 75-इंच 4K AI Nano TV की कीमत 89,990 रुपये है। चुनिंदा टीवी पर 26,000 रुपये तक कैशबैक और EMI डिस्काउंट भी उपलब्ध है। टीवी के साथ कुछ साउंडबार खरीदने पर 12% तक अतिरिक्त छूट मिल सकती है।.WhatsApp यूजर्स के चैट्स अब Google Drive के बिना होंगे सेव, कंपनी दे रही है 2GB फ्री क्लाउड स्टोरेज.Air Fryer और पर्सनल केयर प्रोडक्ट्स पर छूटछोटे घरेलू उपकरणों में Philips Digital Air Fryer (4.2 लीटर) की कीमत 7,299 रुपये है।
+
+वहीं चुनिंदा Philips पर्सनल केयर प्रोडक्ट्स पर 30% तक और Havells के ग्रूमिंग प्रोडक्ट्स पर 50% तक छूट दी जा रही है। साथ ही ध्यान रखें कि बताई गई कई कीमतें बैंक ऑफर और एक्सचेंज के बाद की प्रभावी कीमतें हैं। वास्तविक छूट पुराने डिवाइस की स्थिति, एक्सचेंज वैल्यू, बैंक और उपलब्ध ऑफर्स पर निर्भर करेगी।
+
+खरीदारी से पहले अंतिम कीमत और ऑफर की शर्तें जरूर जांचें।
+
+---
+
+**मूल स्रोत (Original Source):** [Navbharat Live](https://navbharatlive.com/technology/croma-black-friday-sale-2026-offers-big-discounts-from-iphone-16-to-macbook-5g-phone-srs13)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट Navbharat Live के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Croma Black Friday Sale 2026 में iPhone 16 से MacBook तक मिल रहा बड़ा डिस्काउंट, ₹11,761 में खरीदें 5G फोन - Navbharat Live से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Navbharat Live`,
+  },
+  {
+    id: 98168,
+    title: `विंडोज 11 लगभग 900 एमबी रैम खाली कर देता है, जिससे 8 जीबी वाले कंप्यूटरों को और अधिक उम्मीद मिलती है। - Vietnam.vn`,
+    slug: `11-900-8-vietnamvn-2026`,
+    original_title: `विंडोज 11 लगभग 900 एमबी रैम खाली कर देता है, जिससे 8 जीबी वाले कंप्यूटरों को और अधिक उम्मीद मिलती है। - Vietnam.vn`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:16Z`,
+    updated_at: `2026-11-28T05:41:16Z`,
+    source_name: `Vietnam.vn`,
+    source_url: `https://www.vietnam.vn/hi/windows-11-giai-phong-gan-900-mb-ram-may-tinh-8-gb-co-them-hy-vong`,
+    source_courtesy: `Source: Vietnam.vn`,
+    image_url: `/images/articles/11-900-8-vietnamvn-2026.webp`,
+    image_alt: `विंडोज 11 लगभग 900 एमबी रैम खाली कर देता है, जिससे 8 जीबी वाले कंप्यूटरों को और अधिक उम्मीद मिलती है। - Vietnam.vn`,
+    image_courtesy: `Image: Vietnam.vn (External Source Attribution)`,
+    image_photographer: `Vietnam.vn`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `माइक्रोसॉफ्ट का कहना है कि विंडोज 11 ने रैम की खपत को काफी कम कर दिया है, जिससे 8GB रैम वाले कंप्यूटर कई कार्यों में बेहतर प्रदर्शन कर पाते हैं।`,
+    content: `माइक्रोसॉफ्ट का कहना है कि विंडोज 11 ने रैम की खपत को काफी कम कर दिया है, जिससे 8GB रैम वाले कंप्यूटर कई कार्यों में बेहतर प्रदर्शन कर पाते हैं।
+
+विंडोज़ लेटेस्ट के अनुसार, कई उपयोगकर्ताओं ने पाया है कि हाल ही में विंडोज़ 11 का अनुभव पहले से अधिक सुगम हो गया है। यह ऑपरेटिंग सिस्टम पर रैम के बेहतर उपयोग के लिए माइक्रोसॉफ्ट द्वारा किए गए प्रयासों का परिणाम है।
+
+माइक्रोसॉफ्ट ने स्वीकार किया है कि विंडोज 11 में उसके अपने बैकग्राउंड एप्लिकेशन और सेवाएं लगभग 900 एमबी सिस्टम मेमोरी का उपयोग करती हैं। 32 जीबी रैम वाले सिस्टम पर यह समस्या नगण्य रूप से प्रभावित करती है, लेकिन 8 जीबी रैम वाले सिस्टम पर यह स्पष्ट रूप से दिखाई देने लगती है।
+
+माइक्रोसॉफ्ट विंडोज 11 पर रैम के उपयोग में काफी सुधार कर रहा है।
+
+पिछले सप्ताह आयोजित इग्नाइट 2026 कार्यक्रम में, माइक्रोसॉफ्ट ने कहा कि कंपनी को उम्मीद है कि विंडोज के निरंतर अपग्रेड के साथ मौजूदा उपकरणों पर उपयोगकर्ता अनुभव में सुधार होगा। मेमोरी की मौजूदा उच्च लागत के कारण, कंपनी मेमोरी प्रदर्शन को अनुकूलित करने में भारी निवेश कर रही है, विशेष रूप से 8GB और 16GB रैम वाले उपकरणों के लिए।
+
+विशेष रूप से, Microsoft 365 ऐप अब पहले की तुलना में 360 MB कम मेमोरी का उपयोग करता है, जबकि डिफेंडर, परव्यू और वनड्राइव जैसी सेवाओं ने अपनी कुल मेमोरी खपत में 500 MB से अधिक की कमी की है। इस ऑप्टिमाइजेशन के बदौलत कुल मिलाकर लगभग 900 MB मेमोरी की बचत हुई है, जो एक प्रभावशाली आंकड़ा है।
+
+इसके अलावा, माइक्रोसॉफ्ट ने घोषणा की कि अक्टूबर 2026 के अपडेट के बाद, विंडोज 11 की रिस्पॉन्सिवनेस में 20% तक सुधार हो सकता है। आधिकारिक परीक्षणों से पता चला कि 8 जीबी रैम वाले कंप्यूटर पर ऑफिस का प्रदर्शन, टीम्स कॉल सिमुलेशन, 4K वीडियो प्लेबैक और 20 एज और आउटलुक टैब खोलने जैसे उच्च-लोड वाले परिदृश्यों में, जनवरी के अपडेट की तुलना में लगभग 21% तेज था।
+
+विंडोज 11 के 25H2 और 26H2 अपडेट के साथ, रीस्टार्ट के बाद 8 जीबी रैम वाले लैपटॉप पर मेमोरी का उपयोग।
+
+अंतर्राष्ट्रीय मीडिया संस्थानों ने 8 जीबी रैम वाले एक पुराने लैपटॉप पर भी परीक्षण किए। विंडोज 11 25H2 से 26H2 में अपग्रेड करने के बाद, रीस्टार्ट के बाद मेमोरी का उपयोग लगभग 5 जीबी से घटकर 3.3 जीबी हो गया, जबकि उपलब्ध मेमोरी 2.9 जीबी से बढ़कर 4.6 जीबी हो गई। 8 जीबी रैम वाली एक अन्य वर्चुअल मशीन में भी मेमोरी का उपयोग 4.1 जीबी से घटकर लगभग 2.8 जीबी और फिर 3.2 जीबी हो गया, जो एक महत्वपूर्ण सुधार दर्शाता है।
+
+इन सुधारों से भविष्य में विंडोज 11 उपयोगकर्ताओं को बेहतर अनुभव मिलने की उम्मीद है।
+
+### BYD फ्रांस में एक कार फैक्ट्री का अधिग्रहण करने के लिए बातचीत कर रही है।
+
+### गूगल ने जेमिनी के फ्री वर्जन में नए टूल जोड़े हैं।
+
+### अपने iPhone की एक्टिवेशन तिथि को प्रभावी और आसानी से कैसे जांचें।
+
+### माज़दा सीएक्स-5 के समान आकार की चीनी एसयूवी की कीमतों में डीलरों के पास लगभग आधा अरब वीएनडी की कमी देखी जा रही है।
+
+### डिजिटल बैरोमीटर ऐप का उपयोग करके आईफोन के दबाव को आसानी से कैसे मापें।
+
+### एंड्रॉइड डिवाइस पर बैटरी चार्ज साइकल की संख्या को सुविधाजनक और आसानी से कैसे जांचें।
+
+---
+
+**मूल स्रोत (Original Source):** [Vietnam.vn](https://www.vietnam.vn/hi/windows-11-giai-phong-gan-900-mb-ram-may-tinh-8-gb-co-them-hy-vong)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `विंडोज 11 लगभग 900 एमबी रैम खाली कर देता है, जिससे 8 जीबी वाले कंप्यूटरों को और अधिक उम्मीद मिलती है। - Vietnam.vn`,
+    summary_hi: `माइक्रोसॉफ्ट का कहना है कि विंडोज 11 ने रैम की खपत को काफी कम कर दिया है, जिससे 8GB रैम वाले कंप्यूटर कई कार्यों में बेहतर प्रदर्शन कर पाते हैं।`,
+    content_hi: `माइक्रोसॉफ्ट का कहना है कि विंडोज 11 ने रैम की खपत को काफी कम कर दिया है, जिससे 8GB रैम वाले कंप्यूटर कई कार्यों में बेहतर प्रदर्शन कर पाते हैं।
+
+विंडोज़ लेटेस्ट के अनुसार, कई उपयोगकर्ताओं ने पाया है कि हाल ही में विंडोज़ 11 का अनुभव पहले से अधिक सुगम हो गया है। यह ऑपरेटिंग सिस्टम पर रैम के बेहतर उपयोग के लिए माइक्रोसॉफ्ट द्वारा किए गए प्रयासों का परिणाम है।
+
+माइक्रोसॉफ्ट ने स्वीकार किया है कि विंडोज 11 में उसके अपने बैकग्राउंड एप्लिकेशन और सेवाएं लगभग 900 एमबी सिस्टम मेमोरी का उपयोग करती हैं। 32 जीबी रैम वाले सिस्टम पर यह समस्या नगण्य रूप से प्रभावित करती है, लेकिन 8 जीबी रैम वाले सिस्टम पर यह स्पष्ट रूप से दिखाई देने लगती है।
+
+माइक्रोसॉफ्ट विंडोज 11 पर रैम के उपयोग में काफी सुधार कर रहा है।
+
+पिछले सप्ताह आयोजित इग्नाइट 2026 कार्यक्रम में, माइक्रोसॉफ्ट ने कहा कि कंपनी को उम्मीद है कि विंडोज के निरंतर अपग्रेड के साथ मौजूदा उपकरणों पर उपयोगकर्ता अनुभव में सुधार होगा। मेमोरी की मौजूदा उच्च लागत के कारण, कंपनी मेमोरी प्रदर्शन को अनुकूलित करने में भारी निवेश कर रही है, विशेष रूप से 8GB और 16GB रैम वाले उपकरणों के लिए।
+
+विशेष रूप से, Microsoft 365 ऐप अब पहले की तुलना में 360 MB कम मेमोरी का उपयोग करता है, जबकि डिफेंडर, परव्यू और वनड्राइव जैसी सेवाओं ने अपनी कुल मेमोरी खपत में 500 MB से अधिक की कमी की है। इस ऑप्टिमाइजेशन के बदौलत कुल मिलाकर लगभग 900 MB मेमोरी की बचत हुई है, जो एक प्रभावशाली आंकड़ा है।
+
+इसके अलावा, माइक्रोसॉफ्ट ने घोषणा की कि अक्टूबर 2026 के अपडेट के बाद, विंडोज 11 की रिस्पॉन्सिवनेस में 20% तक सुधार हो सकता है। आधिकारिक परीक्षणों से पता चला कि 8 जीबी रैम वाले कंप्यूटर पर ऑफिस का प्रदर्शन, टीम्स कॉल सिमुलेशन, 4K वीडियो प्लेबैक और 20 एज और आउटलुक टैब खोलने जैसे उच्च-लोड वाले परिदृश्यों में, जनवरी के अपडेट की तुलना में लगभग 21% तेज था।
+
+विंडोज 11 के 25H2 और 26H2 अपडेट के साथ, रीस्टार्ट के बाद 8 जीबी रैम वाले लैपटॉप पर मेमोरी का उपयोग।
+
+अंतर्राष्ट्रीय मीडिया संस्थानों ने 8 जीबी रैम वाले एक पुराने लैपटॉप पर भी परीक्षण किए। विंडोज 11 25H2 से 26H2 में अपग्रेड करने के बाद, रीस्टार्ट के बाद मेमोरी का उपयोग लगभग 5 जीबी से घटकर 3.3 जीबी हो गया, जबकि उपलब्ध मेमोरी 2.9 जीबी से बढ़कर 4.6 जीबी हो गई। 8 जीबी रैम वाली एक अन्य वर्चुअल मशीन में भी मेमोरी का उपयोग 4.1 जीबी से घटकर लगभग 2.8 जीबी और फिर 3.2 जीबी हो गया, जो एक महत्वपूर्ण सुधार दर्शाता है।
+
+इन सुधारों से भविष्य में विंडोज 11 उपयोगकर्ताओं को बेहतर अनुभव मिलने की उम्मीद है।
+
+### BYD फ्रांस में एक कार फैक्ट्री का अधिग्रहण करने के लिए बातचीत कर रही है।
+
+### गूगल ने जेमिनी के फ्री वर्जन में नए टूल जोड़े हैं।
+
+### अपने iPhone की एक्टिवेशन तिथि को प्रभावी और आसानी से कैसे जांचें।
+
+### माज़दा सीएक्स-5 के समान आकार की चीनी एसयूवी की कीमतों में डीलरों के पास लगभग आधा अरब वीएनडी की कमी देखी जा रही है।
+
+### डिजिटल बैरोमीटर ऐप का उपयोग करके आईफोन के दबाव को आसानी से कैसे मापें।
+
+### एंड्रॉइड डिवाइस पर बैटरी चार्ज साइकल की संख्या को सुविधाजनक और आसानी से कैसे जांचें।
+
+---
+
+**मूल स्रोत (Original Source):** [Vietnam.vn](https://www.vietnam.vn/hi/windows-11-giai-phong-gan-900-mb-ram-may-tinh-8-gb-co-them-hy-vong)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट Vietnam.vn के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक विंडोज 11 लगभग 900 एमबी रैम खाली कर देता है, जिससे 8 जीबी वाले कंप्यूटरों को और अधिक उम्मीद मिलती है। - Vietnam.vn से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Vietnam.vn`,
+  },
+  {
+    id: 98169,
+    title: `Bangladesh labour unrest: Zara, H&M among brands shifting orders to India, other Asian hubs`,
+    slug: `bangladesh-labour-unrest-zara-hm-among-brands-shifting-orders-to-india-2026`,
+    original_title: `Bangladesh labour unrest: Zara, H&M among brands shifting orders to India, other Asian hubs`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:18Z`,
+    updated_at: `2026-11-28T05:41:18Z`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/world/south-asia/bangladesh-labour-unrest-zara-hm-among-brands-shifting-orders-to-india-other-asian-hubs/articleshow/136225135.cms`,
+    source_courtesy: `Source: The Times of India`,
+    image_url: `/images/articles/bangladesh-labour-unrest-zara-hm-among-brands-shifting-orders-to-india-2026.jpg`,
+    image_alt: `Bangladesh labour unrest: Zara, H&M among brands shifting orders to India, other Asian hubs`,
+    image_courtesy: `Image: The Times of India (External Source Attribution)`,
+    image_photographer: `The Times of India`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `The ongoing labour unrest in Bangladesh prompted global fashion retailers, including Zara and H&M, to shift a significant share of their orders to other Asian manufacturing hubs in the first half of November, Reuters reported, citing factor`,
+    content: `The ongoing labour unrest in Bangladesh prompted global fashion retailers, including Zara and H&M, to shift a significant share of their orders to other Asian manufacturing hubs in the first half of November, Reuters reported, citing factory owners.The orders, diverted between November 1-18, accounted for about one-tenth of their total orders and were valued at around $254 million.Most of the diverted orders went to India, while buyers also turned to Vietnam, Cambodia and Indonesia to minimise supply-chain risks and ensure more reliable deliveries.Industry leaders in Bangladesh say rising wages, energy shortages and political uncertainty have eroded the country's low-cost advantage, which helped establish it as the world's second-largest apparel exporter after China.According to the Bangladesh Garment Manufacturers and Exporters Association, the protests have resulted in production losses exceeding $400 million.
+
+The garment industry accounts for more than 80% of the country's export earnings and nearly 40% of its manufacturing jobs.Minimum wage hike fails to ease unrestThe pressure on Bangladesh's garment industry intensified on Wednesday after the government approved a 36% increase in the minimum wage for garment workers, the smallest hike in four decades.The increase fell significantly short of workers' demand for more than double their existing wages, triggering fresh clashes with police.
+
+However, Abdur Rahman Tarafder, secretary of the ministry of labour and employment, described the hike as "satisfactory" and expressed hope that all workers would resume work from Saturday.Industry leaders said the wage increase would nevertheless narrow Bangladesh's labour-cost advantage over India.
+
+Trade unions, however, maintained that the revised wages remained low by global industry standards.Factory owners, who spoke on condition of anonymity over concerns about their relationships with international buyers, said the unrest had prompted global brands, including Zara, H&M, Marks & Spencer and Celio, to divert orders to other countries, with India receiving the bulk of the business.Energy shortages and delivery delays disrupt garment productionFactory owners said their bigger concern was that the shift in business to other countries could become permanent, even after the situation in Bangladesh stabilises.Persistent energy shortages, worsened by the Middle East crisis, have further disrupted production and forced some factories to depend on more expensive alternative power sources.India can offer buyers a delivery advantage of about a week, while Vietnam and Cambodia can reduce lead times by as much as 15 days.Rival sourcing hubs can typically complete production and delivery within 60 to 90 days, compared with around 120 days in Bangladesh.The disruptions have also led to production backlogs, with manufacturers around Dhaka losing an estimated 20 to 25 production days.
+
+Some factories are considering overtime and air freight to meet delivery commitments.Political tensions surrounding former prime minister Sheikh Hasina's possible return to Dhaka from India have also added to concerns over further disruption.Industry leaders have called for stability and uninterrupted production to retain international buyers.You use AI every day.
+
+Now get your AI Quotient. Take the AIQ test.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/world/south-asia/bangladesh-labour-unrest-zara-hm-among-brands-shifting-orders-to-india-other-asian-hubs/articleshow/136225135.cms)`,
+    title_en: `Bangladesh labour unrest: Zara, H&M among brands shifting orders to India, other Asian hubs`,
+    summary_en: `The ongoing labour unrest in Bangladesh prompted global fashion retailers, including Zara and H&M, to shift a significant share of their orders to other Asian manufacturing hubs in the first half of November, Reuters reported, citing factor`,
+    content_en: `The ongoing labour unrest in Bangladesh prompted global fashion retailers, including Zara and H&M, to shift a significant share of their orders to other Asian manufacturing hubs in the first half of November, Reuters reported, citing factory owners.The orders, diverted between November 1-18, accounted for about one-tenth of their total orders and were valued at around $254 million.Most of the diverted orders went to India, while buyers also turned to Vietnam, Cambodia and Indonesia to minimise supply-chain risks and ensure more reliable deliveries.Industry leaders in Bangladesh say rising wages, energy shortages and political uncertainty have eroded the country's low-cost advantage, which helped establish it as the world's second-largest apparel exporter after China.According to the Bangladesh Garment Manufacturers and Exporters Association, the protests have resulted in production losses exceeding $400 million.
+
+The garment industry accounts for more than 80% of the country's export earnings and nearly 40% of its manufacturing jobs.Minimum wage hike fails to ease unrestThe pressure on Bangladesh's garment industry intensified on Wednesday after the government approved a 36% increase in the minimum wage for garment workers, the smallest hike in four decades.The increase fell significantly short of workers' demand for more than double their existing wages, triggering fresh clashes with police.
+
+However, Abdur Rahman Tarafder, secretary of the ministry of labour and employment, described the hike as "satisfactory" and expressed hope that all workers would resume work from Saturday.Industry leaders said the wage increase would nevertheless narrow Bangladesh's labour-cost advantage over India.
+
+Trade unions, however, maintained that the revised wages remained low by global industry standards.Factory owners, who spoke on condition of anonymity over concerns about their relationships with international buyers, said the unrest had prompted global brands, including Zara, H&M, Marks & Spencer and Celio, to divert orders to other countries, with India receiving the bulk of the business.Energy shortages and delivery delays disrupt garment productionFactory owners said their bigger concern was that the shift in business to other countries could become permanent, even after the situation in Bangladesh stabilises.Persistent energy shortages, worsened by the Middle East crisis, have further disrupted production and forced some factories to depend on more expensive alternative power sources.India can offer buyers a delivery advantage of about a week, while Vietnam and Cambodia can reduce lead times by as much as 15 days.Rival sourcing hubs can typically complete production and delivery within 60 to 90 days, compared with around 120 days in Bangladesh.The disruptions have also led to production backlogs, with manufacturers around Dhaka losing an estimated 20 to 25 production days.
+
+Some factories are considering overtime and air freight to meet delivery commitments.Political tensions surrounding former prime minister Sheikh Hasina's possible return to Dhaka from India have also added to concerns over further disruption.Industry leaders have called for stability and uninterrupted production to retain international buyers.You use AI every day.
+
+Now get your AI Quotient. Take the AIQ test.
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/world/south-asia/bangladesh-labour-unrest-zara-hm-among-brands-shifting-orders-to-india-other-asian-hubs/articleshow/136225135.cms)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Times of India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Bangladesh labour unrest: Zara, H&M among brands shifting orders to India, other Asian hubs.`,
+    primary_source: `The Times of India`,
+  },
+  {
+    id: 98170,
+    title: `US links India export edge to cheap Chinese manufacturing inputs`,
+    slug: `us-links-india-export-edge-to-cheap-chinese-manufacturing-inputs-2026`,
+    original_title: `US links India export edge to cheap Chinese manufacturing inputs`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:21Z`,
+    updated_at: `2026-11-28T05:41:21Z`,
+    source_name: `Business Standard`,
+    source_url: `https://www.business-standard.com/economy/news/us-links-india-export-edge-to-cheap-chinese-manufacturing-inputs-126112601531_1.html`,
+    source_courtesy: `Source: Business Standard`,
+    image_url: `/images/articles/us-links-india-export-edge-to-cheap-chinese-manufacturing-inputs-2026.jpg`,
+    image_alt: `US links India export edge to cheap Chinese manufacturing inputs`,
+    image_courtesy: `Image: Business Standard (External Source Attribution)`,
+    image_photographer: `Business Standard`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `Jamieson Greer, United States Trade Representative`,
+    content: `Jamieson Greer, United States Trade Representative
+
+### PLI scheme to help telecom manufacturers remain competitive: Scindia premium
+
+### Rupee falls as oil climbs above $96/barrel; 10-year bond yield rises 7 bps
+
+### Trump's fresh tariff threats: Textile exports to US down 25% in 9 months premium
+
+### Trump's tariff threats: Smaller medtech exporters face margin pressure premium
+
+### Trump tariff threat puts Indian gems, jewellery exports on the edge premium
+
+Don't miss the most important news and views of the day. Get them on our Telegram channel
+
+First Published: Nov 26 2026 | 11:14 PM IST
+
+---
+
+**Original Source:** [Business Standard](https://www.business-standard.com/economy/news/us-links-india-export-edge-to-cheap-chinese-manufacturing-inputs-126112601531_1.html)`,
+    title_en: `US links India export edge to cheap Chinese manufacturing inputs`,
+    summary_en: `Jamieson Greer, United States Trade Representative`,
+    content_en: `Jamieson Greer, United States Trade Representative
+
+### PLI scheme to help telecom manufacturers remain competitive: Scindia premium
+
+### Rupee falls as oil climbs above $96/barrel; 10-year bond yield rises 7 bps
+
+### Trump's fresh tariff threats: Textile exports to US down 25% in 9 months premium
+
+### Trump's tariff threats: Smaller medtech exporters face margin pressure premium
+
+### Trump tariff threat puts Indian gems, jewellery exports on the edge premium
+
+Don't miss the most important news and views of the day. Get them on our Telegram channel
+
+First Published: Nov 26 2026 | 11:14 PM IST
+
+---
+
+**Original Source:** [Business Standard](https://www.business-standard.com/economy/news/us-links-india-export-edge-to-cheap-chinese-manufacturing-inputs-126112601531_1.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Business Standard.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for US links India export edge to cheap Chinese manufacturing inputs.`,
+    primary_source: `Business Standard`,
+  },
+  {
+    id: 98171,
+    title: `स्कूलों में बुर्का-नकाब बैन, 30% से ज्यादा विदेशी बच्चे नहीं... इटली सरकार का बड़ा फैसला, भड़का विपक्ष! - AajTak`,
+    slug: `30-aajtak-2026`,
+    original_title: `स्कूलों में बुर्का-नकाब बैन, 30% से ज्यादा विदेशी बच्चे नहीं... इटली सरकार का बड़ा फैसला, भड़का विपक्ष! - AajTak`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:24Z`,
+    updated_at: `2026-11-28T05:41:24Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/world/story/italy-schools-burqa-ban-education-law-foreign-students-ntc-amkr-dskc-2708255-2026-11-28`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0a435e71141-italy-burqa-ban-285837774.jpg`,
+    image_alt: `स्कूलों में बुर्का-नकाब बैन, 30% से ज्यादा विदेशी बच्चे नहीं... इटली सरकार का बड़ा फैसला, भड़का विपक्ष! - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `इटली ने स्कूलों में बुर्का और नकाब पर बैन लगा दिया है. नए कानून के तहत अब छात्र स्कूलों में अपना चेहरा इस तरह नहीं ढक पाएंगे जिससे उनकी पहचान छिप जाए. इस नियम से क्लासरूम में बुर्का और नकाब बैन हो गए हैं, हालांकि ऐसे नकाब को छूट मिलेगी जिनस`,
+    content: `इटली ने स्कूलों में बुर्का और नकाब पर बैन लगा दिया है. नए कानून के तहत अब छात्र स्कूलों में अपना चेहरा इस तरह नहीं ढक पाएंगे जिससे उनकी पहचान छिप जाए. इस नियम से क्लासरूम में बुर्का और नकाब बैन हो गए हैं, हालांकि ऐसे नकाब को छूट मिलेगी जिनसे चेहरा साफ पहचाना जा सके. वहीं, चेहरा ढकने से जुड़े नियम को तोड़ने पर 1,000 यूरो तक का जुर्माना लग सकता है.
+
+और पढ़ेंबता दें, इटली के चैंबर ऑफ डेप्युटीज ने 26 नवंबर को इस विवादित एजुकेशन कानून को अंतिम मंजूरी दी, जिसमें इसके पक्ष में 142 और विरोध में 112 वोट पड़े, जबकि इस दौरान चार सदस्य गैरहाजिर रहे.साथ ही कानून में फर्स्ट-ईयर की क्लासरूम में विदेशी छात्रों की संख्या की लिमिट 30% तय कर दी गई है.
+
+जानकारी के मुताबिक, जिन छात्रों को इटैलियन भाषा की अच्छी समझ है, उन्हें इस 30% की लिमिट से छूट मिलेगी. अगर कोई स्कूल तय लिमिट का पालन नहीं कर पाता है, तो एजुकेशन अथॉरिटीज छात्रों को आसपास के दूसरे संस्थानों में शिफ्ट करने का इंतजाम कर सकती हैं.नए नियमों में उन विदेशी माता-पिता के लिए इटैलियन भाषा के कोर्स का भी प्रावधान है, जिनकी भाषा से जुड़ी दिक्कतों का असर उनके बच्चों की पढ़ाई पर पड़ता है.
+
+Advertisement        इस बीच, विपक्षी दलों ने सरकार पर भेदभाव बढ़ाने का आरोप लगाते हुए इस कानून की कड़ी आलोचना की है. वोटिंग के दौरान विपक्षी लॉमेकर्स ने एक प्लेकार्ड भी दिखाया, जिस पर लिखा था, &#039;स्कूल में कोई भी विदेशी नहीं है.&#039;वहीं, एजुकेशन मिनिस्टर ज्यूसेप्पे वाल्डिटारा ने इस कानून का बचाव करते हुए कहा, &#039;यह कानून इटैलियन भाषा के ज्ञान और साझा नियमों के सम्मान के जरिए एकजुटता को बढ़ावा देगा.&#039; इस नए एजुकेशन कानून में डिजिटल टेक्स्टबुक्स, दिव्यांग छात्रों के लिए सपोर्ट और टीचर्स की भर्ती से जुड़े प्रावधान भी शामिल किए गए हैं.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/italy-schools-burqa-ban-education-law-foreign-students-ntc-amkr-dskc-2708255-2026-11-28)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `स्कूलों में बुर्का-नकाब बैन, 30% से ज्यादा विदेशी बच्चे नहीं... इटली सरकार का बड़ा फैसला, भड़का विपक्ष! - AajTak`,
+    summary_hi: `इटली ने स्कूलों में बुर्का और नकाब पर बैन लगा दिया है. नए कानून के तहत अब छात्र स्कूलों में अपना चेहरा इस तरह नहीं ढक पाएंगे जिससे उनकी पहचान छिप जाए. इस नियम से क्लासरूम में बुर्का और नकाब बैन हो गए हैं, हालांकि ऐसे नकाब को छूट मिलेगी जिनस`,
+    content_hi: `इटली ने स्कूलों में बुर्का और नकाब पर बैन लगा दिया है. नए कानून के तहत अब छात्र स्कूलों में अपना चेहरा इस तरह नहीं ढक पाएंगे जिससे उनकी पहचान छिप जाए. इस नियम से क्लासरूम में बुर्का और नकाब बैन हो गए हैं, हालांकि ऐसे नकाब को छूट मिलेगी जिनसे चेहरा साफ पहचाना जा सके. वहीं, चेहरा ढकने से जुड़े नियम को तोड़ने पर 1,000 यूरो तक का जुर्माना लग सकता है.
+
+और पढ़ेंबता दें, इटली के चैंबर ऑफ डेप्युटीज ने 26 नवंबर को इस विवादित एजुकेशन कानून को अंतिम मंजूरी दी, जिसमें इसके पक्ष में 142 और विरोध में 112 वोट पड़े, जबकि इस दौरान चार सदस्य गैरहाजिर रहे.साथ ही कानून में फर्स्ट-ईयर की क्लासरूम में विदेशी छात्रों की संख्या की लिमिट 30% तय कर दी गई है.
+
+जानकारी के मुताबिक, जिन छात्रों को इटैलियन भाषा की अच्छी समझ है, उन्हें इस 30% की लिमिट से छूट मिलेगी. अगर कोई स्कूल तय लिमिट का पालन नहीं कर पाता है, तो एजुकेशन अथॉरिटीज छात्रों को आसपास के दूसरे संस्थानों में शिफ्ट करने का इंतजाम कर सकती हैं.नए नियमों में उन विदेशी माता-पिता के लिए इटैलियन भाषा के कोर्स का भी प्रावधान है, जिनकी भाषा से जुड़ी दिक्कतों का असर उनके बच्चों की पढ़ाई पर पड़ता है.
+
+Advertisement        इस बीच, विपक्षी दलों ने सरकार पर भेदभाव बढ़ाने का आरोप लगाते हुए इस कानून की कड़ी आलोचना की है. वोटिंग के दौरान विपक्षी लॉमेकर्स ने एक प्लेकार्ड भी दिखाया, जिस पर लिखा था, &#039;स्कूल में कोई भी विदेशी नहीं है.&#039;वहीं, एजुकेशन मिनिस्टर ज्यूसेप्पे वाल्डिटारा ने इस कानून का बचाव करते हुए कहा, &#039;यह कानून इटैलियन भाषा के ज्ञान और साझा नियमों के सम्मान के जरिए एकजुटता को बढ़ावा देगा.&#039; इस नए एजुकेशन कानून में डिजिटल टेक्स्टबुक्स, दिव्यांग छात्रों के लिए सपोर्ट और टीचर्स की भर्ती से जुड़े प्रावधान भी शामिल किए गए हैं.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/italy-schools-burqa-ban-education-law-foreign-students-ntc-amkr-dskc-2708255-2026-11-28)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक स्कूलों में बुर्का-नकाब बैन, 30% से ज्यादा विदेशी बच्चे नहीं... इटली सरकार का बड़ा फैसला, भड़का विपक्ष! - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98172,
+    title: `अमेरिका में तूफान से 10 लाख घरों की बिजली गुल: 2500 फ्लाइट्स लेट, 450 रद्द; 14 साल में पानी सबसे ऊंचे लेवल ... - Dainik Bhaskar`,
+    slug: `10-2500-450-14-dainik-bhaskar-2026`,
+    original_title: `अमेरिका में तूफान से 10 लाख घरों की बिजली गुल: 2500 फ्लाइट्स लेट, 450 रद्द; 14 साल में पानी सबसे ऊंचे लेवल ... - Dainik Bhaskar`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:27Z`,
+    updated_at: `2026-11-28T05:41:27Z`,
+    source_name: `Dainik Bhaskar`,
+    source_url: `https://www.bhaskar.com/g/international/news/usa-storm-flights-cancelled-coastal-flooding-alert-latest-updates-139811926.html`,
+    source_courtesy: `Source: Dainik Bhaskar`,
+    image_url: `/images/articles/10-2500-450-14-dainik-bhaskar-2026.jpg`,
+    image_alt: `अमेरिका में तूफान से 10 लाख घरों की बिजली गुल: 2500 फ्लाइट्स लेट, 450 रद्द; 14 साल में पानी सबसे ऊंचे लेवल ... - Dainik Bhaskar`,
+    image_courtesy: `Image: Dainik Bhaskar (External Source Attribution)`,
+    image_photographer: `Dainik Bhaskar`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `अमेरिका में तूफान से तेज हवाओं और भारी बारिश के कारण 10 लाख से ज्यादा घरों की बिजली गुल हो गई। वहीं, 2500 से ज्यादा फ्लाइट्स लेट हुईं और 450 से ज्यादा उड़ानें रद्द करनी पड़ीं।`,
+    content: `अमेरिका में तूफान से तेज हवाओं और भारी बारिश के कारण 10 लाख से ज्यादा घरों की बिजली गुल हो गई। वहीं, 2500 से ज्यादा फ्लाइट्स लेट हुईं और 450 से ज्यादा उड़ानें रद्द करनी पड़ीं।
+
+मौसम विभाग ने चेतावनी दी है कि समुद्र का जलस्तर 14 साल के सबसे ऊंचे स्तर पर पहुंच सकता है। इससे न्यूयॉर्क, न्यू जर्सी और फिलाडेल्फिया समेत कई तटीय इलाकों में बाढ़ का खतरा बढ़ गया है।
+
+पूर्वी तट की ओर बढ़ रहे इस तूफान को 'नॉरईस्टर' कहा जाता है। यह तूफान तेज हवाओं, भारी बारिश और समुद्र में ऊंची लहरों के लिए जाना जाता है।
+
+थैंक्सगिविंग के लिए यात्रा कर रहे लोगों की परेशानी बढ़ी
+
+खराब मौसम के कारण लाखों लोगों की यात्रा प्रभावित हो रही है। थैंक्सगिविंग अमेरिका का बड़ा त्योहार है। इस दौरान लोग अपने परिवार और दोस्तों के साथ समय बिताने के लिए दूसरे शहरों में जाते हैं। ऐसे में हवाई सफर में देरी से यात्रियों की परेशानी बढ़ गई है।
+
+इसका असर सिर्फ हवाई सफर पर ही नहीं, बल्कि त्योहार के कार्यक्रमों पर भी पड़ा है। न्यूयॉर्क में होने वाली मशहूर थैंक्सगिविंग डे परेड को शनिवार तक के लिए टाल दिया गया है। यह परेड का 100वां साल है और इसके इतिहास में पहली बार इसे टालना पड़ा है।
+
+न्यूयॉर्क के मेयर जोहरान ममदानी ने तूफान के खतरे को देखते हुए यह फैसला लिया है। परेड की आयोजक कंपनी मैसीज ने कहा कि लोगों की सुरक्षा उसकी सबसे बड़ी प्राथमिकता है।
+
+अमेरिका के पश्चिमी तट पर समुद्र में उठ रही तेज लहरों ने किनारे बने कई ढांचों को नुकसान पहुंचाया है। सैन डिएगो के आसपास समुद्र का पानी पुराने रिकॉर्ड से भी ऊपर पहुंच गया। इससे आसपास के निचले इलाकों में पानी भरने का खतरा बढ़ गया है।
+
+वहीं, पूर्वी तट पर 2012 में आए सुपरस्टॉर्म सैंडी के बाद समुद्र का जलस्तर सबसे ज्यादा होने का अनुमान है। डेलावेयर और न्यू जर्सी के कुछ इलाकों में तेज हवाओं के कारण बिजली की लाइनें टूटने और सप्लाई बंद होने का खतरा बना हुआ है।
+
+मध्य अमेरिका में बारिश और बर्फबारी का अनुमान
+
+मौसम का असर सिर्फ तटीय इलाकों तक सीमित नहीं है। अमेरिका के मध्य हिस्सों में बुधवार से शुक्रवार तक बारिश और बर्फबारी होने का अनुमान है। इससे कई इलाकों में ठंड और बढ़ सकती है।
+
+इसके अलावा पैसिफिक नॉर्थवेस्ट इलाके में बुधवार रात से बारिश और तेज हवाओं का एक और दौर शुरू होने की आशंका है। यानी देश के अलग-अलग हिस्सों में लोगों को अभी खराब मौसम से राहत मिलने की उम्मीद कम है।
+
+नॉरईस्टर अमेरिका के पूर्वी तट पर आने वाला तेज तूफान है। इसका नाम इसलिए पड़ा क्योंकि इस दौरान हवाएं उत्तर-पूर्व दिशा से चलती हैं। यह तूफान साल के किसी भी समय आ सकता है, लेकिन सितंबर से अप्रैल के बीच ज्यादा आता है। इस दौरान इसकी ताकत भी ज्यादा होती है।
+
+अमेरिका के पूर्वी तट पर इस तूफान के बनने की खास वजह ठंडी और गर्म हवाओं का मिलना है। सर्दियों में आर्कटिक की ठंडी हवाएं कनाडा और अमेरिका से होते हुए अटलांटिक महासागर की ओर बढ़ती हैं। वहीं, मैक्सिको की खाड़ी और अटलांटिक महासागर से गर्म हवाएं उत्तर की तरफ आती हैं।
+
+गल्फ स्ट्रीम नाम की गर्म समुद्री धारा की वजह से सर्दियों में भी समुद्र का पानी गर्म रहता है। इससे समुद्र के ऊपर की हवा भी गर्म हो जाती है। जब समुद्र की गर्म हवा और जमीन की ठंडी हवा आपस में मिलती हैं, तो नॉरईस्टर तूफान बनता है और उसे ताकत मिलती है।
+
+मौसम वैज्ञानिक ब्रायन एडवर्ड्स के मुताबिक, अमेरिका में हर साल औसतन 3 नॉरईस्टर तूफान आते हैं। इनका असर खासतौर पर वॉशिंगटन डीसी, फिलाडेल्फिया, न्यूयॉर्क और बोस्टन जैसे शहरों में देखने को मिलता है। यहां भारी बारिश या बर्फबारी होती है।
+
+अमेरिकी थैंक्सगिविंग तूफान गूगल पर ट्रेंड कर रहा है…
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/international/news/usa-storm-flights-cancelled-coastal-flooding-alert-latest-updates-139811926.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `अमेरिका में तूफान से 10 लाख घरों की बिजली गुल: 2500 फ्लाइट्स लेट, 450 रद्द; 14 साल में पानी सबसे ऊंचे लेवल ... - Dainik Bhaskar`,
+    summary_hi: `अमेरिका में तूफान से तेज हवाओं और भारी बारिश के कारण 10 लाख से ज्यादा घरों की बिजली गुल हो गई। वहीं, 2500 से ज्यादा फ्लाइट्स लेट हुईं और 450 से ज्यादा उड़ानें रद्द करनी पड़ीं।`,
+    content_hi: `अमेरिका में तूफान से तेज हवाओं और भारी बारिश के कारण 10 लाख से ज्यादा घरों की बिजली गुल हो गई। वहीं, 2500 से ज्यादा फ्लाइट्स लेट हुईं और 450 से ज्यादा उड़ानें रद्द करनी पड़ीं।
+
+मौसम विभाग ने चेतावनी दी है कि समुद्र का जलस्तर 14 साल के सबसे ऊंचे स्तर पर पहुंच सकता है। इससे न्यूयॉर्क, न्यू जर्सी और फिलाडेल्फिया समेत कई तटीय इलाकों में बाढ़ का खतरा बढ़ गया है।
+
+पूर्वी तट की ओर बढ़ रहे इस तूफान को 'नॉरईस्टर' कहा जाता है। यह तूफान तेज हवाओं, भारी बारिश और समुद्र में ऊंची लहरों के लिए जाना जाता है।
+
+थैंक्सगिविंग के लिए यात्रा कर रहे लोगों की परेशानी बढ़ी
+
+खराब मौसम के कारण लाखों लोगों की यात्रा प्रभावित हो रही है। थैंक्सगिविंग अमेरिका का बड़ा त्योहार है। इस दौरान लोग अपने परिवार और दोस्तों के साथ समय बिताने के लिए दूसरे शहरों में जाते हैं। ऐसे में हवाई सफर में देरी से यात्रियों की परेशानी बढ़ गई है।
+
+इसका असर सिर्फ हवाई सफर पर ही नहीं, बल्कि त्योहार के कार्यक्रमों पर भी पड़ा है। न्यूयॉर्क में होने वाली मशहूर थैंक्सगिविंग डे परेड को शनिवार तक के लिए टाल दिया गया है। यह परेड का 100वां साल है और इसके इतिहास में पहली बार इसे टालना पड़ा है।
+
+न्यूयॉर्क के मेयर जोहरान ममदानी ने तूफान के खतरे को देखते हुए यह फैसला लिया है। परेड की आयोजक कंपनी मैसीज ने कहा कि लोगों की सुरक्षा उसकी सबसे बड़ी प्राथमिकता है।
+
+अमेरिका के पश्चिमी तट पर समुद्र में उठ रही तेज लहरों ने किनारे बने कई ढांचों को नुकसान पहुंचाया है। सैन डिएगो के आसपास समुद्र का पानी पुराने रिकॉर्ड से भी ऊपर पहुंच गया। इससे आसपास के निचले इलाकों में पानी भरने का खतरा बढ़ गया है।
+
+वहीं, पूर्वी तट पर 2012 में आए सुपरस्टॉर्म सैंडी के बाद समुद्र का जलस्तर सबसे ज्यादा होने का अनुमान है। डेलावेयर और न्यू जर्सी के कुछ इलाकों में तेज हवाओं के कारण बिजली की लाइनें टूटने और सप्लाई बंद होने का खतरा बना हुआ है।
+
+मध्य अमेरिका में बारिश और बर्फबारी का अनुमान
+
+मौसम का असर सिर्फ तटीय इलाकों तक सीमित नहीं है। अमेरिका के मध्य हिस्सों में बुधवार से शुक्रवार तक बारिश और बर्फबारी होने का अनुमान है। इससे कई इलाकों में ठंड और बढ़ सकती है।
+
+इसके अलावा पैसिफिक नॉर्थवेस्ट इलाके में बुधवार रात से बारिश और तेज हवाओं का एक और दौर शुरू होने की आशंका है। यानी देश के अलग-अलग हिस्सों में लोगों को अभी खराब मौसम से राहत मिलने की उम्मीद कम है।
+
+नॉरईस्टर अमेरिका के पूर्वी तट पर आने वाला तेज तूफान है। इसका नाम इसलिए पड़ा क्योंकि इस दौरान हवाएं उत्तर-पूर्व दिशा से चलती हैं। यह तूफान साल के किसी भी समय आ सकता है, लेकिन सितंबर से अप्रैल के बीच ज्यादा आता है। इस दौरान इसकी ताकत भी ज्यादा होती है।
+
+अमेरिका के पूर्वी तट पर इस तूफान के बनने की खास वजह ठंडी और गर्म हवाओं का मिलना है। सर्दियों में आर्कटिक की ठंडी हवाएं कनाडा और अमेरिका से होते हुए अटलांटिक महासागर की ओर बढ़ती हैं। वहीं, मैक्सिको की खाड़ी और अटलांटिक महासागर से गर्म हवाएं उत्तर की तरफ आती हैं।
+
+गल्फ स्ट्रीम नाम की गर्म समुद्री धारा की वजह से सर्दियों में भी समुद्र का पानी गर्म रहता है। इससे समुद्र के ऊपर की हवा भी गर्म हो जाती है। जब समुद्र की गर्म हवा और जमीन की ठंडी हवा आपस में मिलती हैं, तो नॉरईस्टर तूफान बनता है और उसे ताकत मिलती है।
+
+मौसम वैज्ञानिक ब्रायन एडवर्ड्स के मुताबिक, अमेरिका में हर साल औसतन 3 नॉरईस्टर तूफान आते हैं। इनका असर खासतौर पर वॉशिंगटन डीसी, फिलाडेल्फिया, न्यूयॉर्क और बोस्टन जैसे शहरों में देखने को मिलता है। यहां भारी बारिश या बर्फबारी होती है।
+
+अमेरिकी थैंक्सगिविंग तूफान गूगल पर ट्रेंड कर रहा है…
+
+---
+
+**मूल स्रोत (Original Source):** [Dainik Bhaskar](https://www.bhaskar.com/g/international/news/usa-storm-flights-cancelled-coastal-flooding-alert-latest-updates-139811926.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट Dainik Bhaskar के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक अमेरिका में तूफान से 10 लाख घरों की बिजली गुल: 2500 फ्लाइट्स लेट, 450 रद्द; 14 साल में पानी सबसे ऊंचे लेवल ... - Dainik Bhaskar से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Dainik Bhaskar`,
+  },
+  {
+    id: 98173,
+    title: `Nottingham Forest 3-2 Chelsea, Premier League: Post-match reaction, ratings - We Ain't Got No History`,
+    slug: `nottingham-forest-3-2-chelsea-premier-league-post-match-reaction-ratin-2026`,
+    original_title: `Nottingham Forest 3-2 Chelsea, Premier League: Post-match reaction, ratings - We Ain't Got No History`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:31Z`,
+    updated_at: `2026-11-28T05:41:31Z`,
+    source_name: `We Ain't Got No History`,
+    source_url: `https://weaintgotnohistory.sbnation.com/premier-league/174393/nottingham-forest-3-2-chelsea-premier-league-post-match-reaction-ratings`,
+    source_courtesy: `Source: We Ain't Got No History`,
+    image_url: `/images/articles/nottingham-forest-3-2-chelsea-premier-league-post-match-reaction-ratin-2026.webp`,
+    image_alt: `Nottingham Forest 3-2 Chelsea, Premier League: Post-match reaction, ratings - We Ain't Got No History`,
+    image_courtesy: `Image: We Ain't Got No History (External Source Attribution)`,
+    image_photographer: `We Ain't Got No History`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `Before today’s match Nottingham Forest had only won a single Premier League game at home this season, beating the “almighty” Manchester City led by the former Chelsea Enzos 3-1 on the back of a Liam Delap brace. Our last defeat at their tur`,
+    content: `Before today’s match Nottingham Forest had only won a single Premier League game at home this season, beating the “almighty” Manchester City led by the former Chelsea Enzos 3-1 on the back of a Liam Delap brace. Our last defeat at their turf was in 1997, with Ruud Gullit at helm.
+
+So when Delap forced Emiliano Martínez to intervene very early on just to have us concede the opener a couple of minutes later with an Igor Jesus effort, it’s not like we were expecting any different from a team that look just as bad as the pre-Gullit era iterations in the 1990s.
+
+As the camera panned to a mildly exasperated Xabi Alonso on the sidelines, it was hard not to follow his lead while staring at the screen. Was it really possible to wrest back a modicum of respect in this competition with a malfunctioning personnel and the heavy damage inflicted on them by the manager’s own choices?
+
+Turns out, it wasn’t. With Wesley Fofana adding another entry to the already long list of reasons to see him out of the club at the earliest convenience, Emmanuel Emegha’s goal right after his giving up a penalty chance to Delap converted by Morgan Gibbs-White did little to turn our fortunes around.
+
+While some would liken this to a slugfest given how ugly the football was on the pitch, it was a bloodbath for Chelsea in the very important term of getting shots on target. In one such occasion Gibbs-White would net his brace to restore Forest’s two-goal lead. To make matters even more annoying, Emegha scored a second goal in the last minutes of the match that will inevitably lead to several “what if” scenarios among the fanbase.
+
+None of which will change another very bad loss from a team that shows week in and out there isn’t enough talent here to carry such a lackadaisical squad on its shoulders. * Moisés Caicedo, centre-back. * The less said about the first half, the better. * You have to wonder if Wesley Fofana wants a just cause dismissal with performances like today’s.
+
+* Does anyone know where we can find the “100-point squad” roadmaps from the not-so-distant past? * Next up: Crystal Palace at home in the Premier League
+* KTBFFH. PLAYER RATINGS
+
+---
+
+**Original Source:** [We Ain't Got No History](https://weaintgotnohistory.sbnation.com/premier-league/174393/nottingham-forest-3-2-chelsea-premier-league-post-match-reaction-ratings)`,
+    title_en: `Nottingham Forest 3-2 Chelsea, Premier League: Post-match reaction, ratings - We Ain't Got No History`,
+    summary_en: `Before today’s match Nottingham Forest had only won a single Premier League game at home this season, beating the “almighty” Manchester City led by the former Chelsea Enzos 3-1 on the back of a Liam Delap brace. Our last defeat at their tur`,
+    content_en: `Before today’s match Nottingham Forest had only won a single Premier League game at home this season, beating the “almighty” Manchester City led by the former Chelsea Enzos 3-1 on the back of a Liam Delap brace. Our last defeat at their turf was in 1997, with Ruud Gullit at helm.
+
+So when Delap forced Emiliano Martínez to intervene very early on just to have us concede the opener a couple of minutes later with an Igor Jesus effort, it’s not like we were expecting any different from a team that look just as bad as the pre-Gullit era iterations in the 1990s.
+
+As the camera panned to a mildly exasperated Xabi Alonso on the sidelines, it was hard not to follow his lead while staring at the screen. Was it really possible to wrest back a modicum of respect in this competition with a malfunctioning personnel and the heavy damage inflicted on them by the manager’s own choices?
+
+Turns out, it wasn’t. With Wesley Fofana adding another entry to the already long list of reasons to see him out of the club at the earliest convenience, Emmanuel Emegha’s goal right after his giving up a penalty chance to Delap converted by Morgan Gibbs-White did little to turn our fortunes around.
+
+While some would liken this to a slugfest given how ugly the football was on the pitch, it was a bloodbath for Chelsea in the very important term of getting shots on target. In one such occasion Gibbs-White would net his brace to restore Forest’s two-goal lead. To make matters even more annoying, Emegha scored a second goal in the last minutes of the match that will inevitably lead to several “what if” scenarios among the fanbase.
+
+None of which will change another very bad loss from a team that shows week in and out there isn’t enough talent here to carry such a lackadaisical squad on its shoulders. * Moisés Caicedo, centre-back. * The less said about the first half, the better. * You have to wonder if Wesley Fofana wants a just cause dismissal with performances like today’s.
+
+* Does anyone know where we can find the “100-point squad” roadmaps from the not-so-distant past? * Next up: Crystal Palace at home in the Premier League
+* KTBFFH. PLAYER RATINGS
+
+---
+
+**Original Source:** [We Ain't Got No History](https://weaintgotnohistory.sbnation.com/premier-league/174393/nottingham-forest-3-2-chelsea-premier-league-post-match-reaction-ratings)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to We Ain't Got No History.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Nottingham Forest 3-2 Chelsea, Premier League: Post-match reaction, ratings - We Ain't Got No History.`,
+    primary_source: `We Ain't Got No History`,
+  },
+  {
+    id: 98174,
+    title: `Summary, Columbus Crew 1-0 Inter Miami in MLS - VAVEL.com`,
+    slug: `summary-columbus-crew-1-0-inter-miami-in-mls-vavelcom-2026`,
+    original_title: `Summary, Columbus Crew 1-0 Inter Miami in MLS - VAVEL.com`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:33Z`,
+    updated_at: `2026-11-28T05:41:33Z`,
+    source_name: `VAVEL.com`,
+    source_url: `https://www.vavel.com/en-us/soccer/2026/11/27/1280895-columbus-crew-vs-inter-miami-live-score-mls.html`,
+    source_courtesy: `Source: VAVEL.com`,
+    image_url: `/images/articles/summary-columbus-crew-1-0-inter-miami-in-mls-vavelcom-2026.jpg`,
+    image_alt: `Summary, Columbus Crew 1-0 Inter Miami in MLS - VAVEL.com`,
+    image_courtesy: `Image: VAVEL.com (External Source Attribution)`,
+    image_photographer: `VAVEL.com`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `Columbus Crew defeated Inter Miami 1-0 in MLS at ScottsMiracle-Gro Field. Relive the goals, key highlights, match stats and minute-by-minute recap on VAVEL.`,
+    content: `Columbus Crew defeated Inter Miami 1-0 in MLS at ScottsMiracle-Gro Field. Relive the goals, key highlights, match stats and minute-by-minute recap on VAVEL.
+
+The match ends with a final score of Columbus Crew 1–0 Inter Miami; thanks to a last-minute goal from Santiago Rodriguez, the home side secures the victory in a thrilling match that remained intense right up to the final minute.
+
+### Entering the final stretch of the match
+
+Entering the final stretch of the match, Columbus is moving the ball around and attempting to catch the goalkeeper off guard with long-range shots; the pace is intense in these closing moments, which are proving to be highly exciting, while Miami defends.
+
+Final minutes of the match; we are 6 minutes—plus stoppage time—away from the end of a game that has seen no goals, with both teams growing increasingly desperate as they struggle to find any real clarity.
+
+### The referee has already started issuing yellow cards due to the number
+
+The referee has already started issuing yellow cards due to the number of fouls we’ve committed at this stage of the match; Columbus is pressing following their substitutions and searching for a winning goal, while Miami is forced to defend.
+
+### Columbus is already making changes with the goal of being
+
+Columbus is already making changes with the goal of being more attacking-minded and gaining more possession; as we approach the final 10 minutes, a nail-biting and thrilling finish to the match awaits us.
+
+Inter Miami has a corner kick, and their tallest players are moving up to try for a header; Columbus is struggling defensively, unable to shake off the pressure from the visitors, and more substitutions are on the way.
+
+### Inter Miami makes its first adjustments
+
+Inter Miami makes its first adjustments, aiming to freshen up the midfield and push for the opening goal; the visitors keep attacking, but they lack composure when it comes to finishing their dangerous plays.
+
+### Columbus capitalizes on a lapse by Miami to steal the ball
+
+Columbus capitalizes on a lapse by Miami to steal the ball and take a shot from outside the box, but the ball goes wide of the goal defended by the visitors; the pace of the match has slowed down once again.
+
+### The coaches are already conferring with their assistants to start
+
+The coaches are already conferring with their assistants to start considering substitutions; we still haven’t seen much in the way of goal threats during this second half—which has gradually improved—and the score remains 0-0.
+
+### There’s a fierce battle for the ball in midfield
+
+There’s a fierce battle for the ball in midfield, and Columbus has regained possession; they’re looking to use speed along the flanks to get the ball into the penalty area—once again, we’re seeing a very exciting end-to-end contest.
+
+### Inter Miami moves the ball all over the pitch
+
+Inter Miami moves the ball all over the pitch, looking to unlock Columbus’s defense—which remains compact and denies the visitors any clear chances—but while the match stays 0-0, Miami is gradually gaining momentum.
+
+The second half is underway, and Inter Miami is pressing, looking to catch their opponents off guard with the opening goal; there is a great deal of intensity in these first few minutes of the second half, while Columbus defends and tries to win back possession.
+
+There have been very few dangerous attacking plays—Columbus has managed 5 shots on target, while Inter Miami has had 6. It remains to be seen how they can make adjustments for this match, with Columbus currently holding the advantage in this round.
+
+### Tactical takeaways & benches for the second half
+
+Beyond the 0-0 scoreline, midfield control has hinged on passing accuracy, with Columbus Crew completing 88% of 241 passes against 86% of 242 for Inter Miami. On the benches, options like Nicholas Hagen / Andrés Herrera and Facundo Mura / Luis Suárez are ready if either coach moves early after the restart.
+
+### First-half stats: Columbus Crew 0-0 Inter Miami
+
+An intense, scoreless first half leaves Columbus Crew and Inter Miami level at 0-0. Possession is split 50-50, though Columbus pushed harder with seven total shots and six corners against five and two for Miami, with both teams putting two shots on target, as reflected in the first-half statistical breakdown for Columbus Crew vs Inter Miami .
+
+The first half ends with the score at 0-0 between Columbus and Inter Miami. There was little in the way of goal threats during these opening 45 minutes; it remains to be seen how both teams will make adjustments for the second half of this big soccer match.
+
+### The Columbus goalkeeper is already playing a key role in preventing
+
+The Columbus goalkeeper is already playing a key role in preventing the visitors from taking the lead; he has stopped several shots, and Columbus has managed to stay safe during this first half, while the fans continue to cheer them on.
+
+### Heavy rain begins to fall on the pitch in Columbus
+
+---
+
+**Original Source:** [VAVEL.com](https://www.vavel.com/en-us/soccer/2026/11/27/1280895-columbus-crew-vs-inter-miami-live-score-mls.html)`,
+    title_en: `Summary, Columbus Crew 1-0 Inter Miami in MLS - VAVEL.com`,
+    summary_en: `Columbus Crew defeated Inter Miami 1-0 in MLS at ScottsMiracle-Gro Field. Relive the goals, key highlights, match stats and minute-by-minute recap on VAVEL.`,
+    content_en: `Columbus Crew defeated Inter Miami 1-0 in MLS at ScottsMiracle-Gro Field. Relive the goals, key highlights, match stats and minute-by-minute recap on VAVEL.
+
+The match ends with a final score of Columbus Crew 1–0 Inter Miami; thanks to a last-minute goal from Santiago Rodriguez, the home side secures the victory in a thrilling match that remained intense right up to the final minute.
+
+### Entering the final stretch of the match
+
+Entering the final stretch of the match, Columbus is moving the ball around and attempting to catch the goalkeeper off guard with long-range shots; the pace is intense in these closing moments, which are proving to be highly exciting, while Miami defends.
+
+Final minutes of the match; we are 6 minutes—plus stoppage time—away from the end of a game that has seen no goals, with both teams growing increasingly desperate as they struggle to find any real clarity.
+
+### The referee has already started issuing yellow cards due to the number
+
+The referee has already started issuing yellow cards due to the number of fouls we’ve committed at this stage of the match; Columbus is pressing following their substitutions and searching for a winning goal, while Miami is forced to defend.
+
+### Columbus is already making changes with the goal of being
+
+Columbus is already making changes with the goal of being more attacking-minded and gaining more possession; as we approach the final 10 minutes, a nail-biting and thrilling finish to the match awaits us.
+
+Inter Miami has a corner kick, and their tallest players are moving up to try for a header; Columbus is struggling defensively, unable to shake off the pressure from the visitors, and more substitutions are on the way.
+
+### Inter Miami makes its first adjustments
+
+Inter Miami makes its first adjustments, aiming to freshen up the midfield and push for the opening goal; the visitors keep attacking, but they lack composure when it comes to finishing their dangerous plays.
+
+### Columbus capitalizes on a lapse by Miami to steal the ball
+
+Columbus capitalizes on a lapse by Miami to steal the ball and take a shot from outside the box, but the ball goes wide of the goal defended by the visitors; the pace of the match has slowed down once again.
+
+### The coaches are already conferring with their assistants to start
+
+The coaches are already conferring with their assistants to start considering substitutions; we still haven’t seen much in the way of goal threats during this second half—which has gradually improved—and the score remains 0-0.
+
+### There’s a fierce battle for the ball in midfield
+
+There’s a fierce battle for the ball in midfield, and Columbus has regained possession; they’re looking to use speed along the flanks to get the ball into the penalty area—once again, we’re seeing a very exciting end-to-end contest.
+
+### Inter Miami moves the ball all over the pitch
+
+Inter Miami moves the ball all over the pitch, looking to unlock Columbus’s defense—which remains compact and denies the visitors any clear chances—but while the match stays 0-0, Miami is gradually gaining momentum.
+
+The second half is underway, and Inter Miami is pressing, looking to catch their opponents off guard with the opening goal; there is a great deal of intensity in these first few minutes of the second half, while Columbus defends and tries to win back possession.
+
+There have been very few dangerous attacking plays—Columbus has managed 5 shots on target, while Inter Miami has had 6. It remains to be seen how they can make adjustments for this match, with Columbus currently holding the advantage in this round.
+
+### Tactical takeaways & benches for the second half
+
+Beyond the 0-0 scoreline, midfield control has hinged on passing accuracy, with Columbus Crew completing 88% of 241 passes against 86% of 242 for Inter Miami. On the benches, options like Nicholas Hagen / Andrés Herrera and Facundo Mura / Luis Suárez are ready if either coach moves early after the restart.
+
+### First-half stats: Columbus Crew 0-0 Inter Miami
+
+An intense, scoreless first half leaves Columbus Crew and Inter Miami level at 0-0. Possession is split 50-50, though Columbus pushed harder with seven total shots and six corners against five and two for Miami, with both teams putting two shots on target, as reflected in the first-half statistical breakdown for Columbus Crew vs Inter Miami .
+
+The first half ends with the score at 0-0 between Columbus and Inter Miami. There was little in the way of goal threats during these opening 45 minutes; it remains to be seen how both teams will make adjustments for the second half of this big soccer match.
+
+### The Columbus goalkeeper is already playing a key role in preventing
+
+The Columbus goalkeeper is already playing a key role in preventing the visitors from taking the lead; he has stopped several shots, and Columbus has managed to stay safe during this first half, while the fans continue to cheer them on.
+
+### Heavy rain begins to fall on the pitch in Columbus
+
+---
+
+**Original Source:** [VAVEL.com](https://www.vavel.com/en-us/soccer/2026/11/27/1280895-columbus-crew-vs-inter-miami-live-score-mls.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to VAVEL.com.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Summary, Columbus Crew 1-0 Inter Miami in MLS - VAVEL.com.`,
+    primary_source: `VAVEL.com`,
+  },
+  {
+    id: 98175,
+    title: `IND vs NZ 2nd Test Day 2 Live Score: न्यूजीलैंड के सामने टीम इंड‍िया का संघर्ष जारी, पंत और राहुल क्रीज पर - AajTak`,
+    slug: `ind-vs-nz-2nd-test-day-2-live-score-aajtak-2026`,
+    original_title: `IND vs NZ 2nd Test Day 2 Live Score: न्यूजीलैंड के सामने टीम इंड‍िया का संघर्ष जारी, पंत और राहुल क्रीज पर - AajTak`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `5 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:37Z`,
+    updated_at: `2026-11-28T05:41:37Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-2nd-test-live-cricket-score-ind-vs-nz-day-2-match-tspoa-tspok-dskc-2707469-2026-11-28`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0a3288b06f3-ind-vs-nz-2nd-test-day-2-284647837.jpg`,
+    image_alt: `IND vs NZ 2nd Test Day 2 Live Score: न्यूजीलैंड के सामने टीम इंड‍िया का संघर्ष जारी, पंत और राहुल क्रीज पर - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `India vs New Zealand 2nd Test: भारत और न्यूजीलैंड के बीच दो मैचों की टेस्ट सीरीज का आखिरी मुकाबला क्राइस्टचर्च के हेगले ओवल में खेला जा रहा है. मुकाबले में दूसरे दिन (28 नवंबर) स्टम्प तक भारत ने अपनी पहली पारी में 6 विकेट पर 116 रन बना लिए.`,
+    content: `India vs New Zealand 2nd Test: भारत और न्यूजीलैंड के बीच दो मैचों की टेस्ट सीरीज का आखिरी मुकाबला क्राइस्टचर्च के हेगले ओवल में खेला जा रहा है. मुकाबले में दूसरे दिन (28 नवंबर) स्टम्प तक भारत ने अपनी पहली पारी में 6 विकेट पर 116 रन बना लिए. ध्रुव जुरेल 7 रन बनाकर नॉटआउट हैं. भारत पहली पारी के आधार पर कीवी टीम से अब भी 240 रन पीछे है.
+
+और पढ़ेंन्यूजीलैंड की टीम पहली पारी में 356 रन बनाकर आउट हो गई. आकाश दीप ने 99 रन देकर पांच व‍िकेट हास‍िल किए. मुकाबले में टॉस भारतीय टीम ने जीता था और पहले गेंदबाजी का निर्णय लिया था. दोनों टीमों के बीच टेस्ट सीरीज का पहला मुकाबला वेलिंगटन के बेसिन रिजर्व में खेला गया था, जो ड्रॉ पर छूटा.
+
+अब ये मुकाबला काफी अहम है.भारत की पहली पारी की हाइलाइट्स भारत की पहली पारी में बेहद खराब शुरुआत रही. मैट हेनरी ने भारत की पारी के पहले ही ओवर में यशस्वी जायसवाल (0) को न‍िपटा द‍िया. इसके बाद नंबर 3 पर आए देवदत्त पड‍िक्कल ने 20 गेंदों पर तेज 21 रन बनाए. लेकिन वो व‍िकेटकीपर टॉम ब्लंडेल को काइल जेमिसन की गेंद पर कैच थमा बैठे.
+
+भारतीय कप्तान शुभमन ग‍िल भी कुछ खास नहीं कर सके और 17 रन बनाकर चायकाल से कुछ पहले आउट हो गए. Advertisement        विकेटकीपर बैटर ऋषभ पंत का प्रदर्शन भी कुछ खास नहीं रहा. पंत क्रीज पर नजरें जमाने के बाद 23 रनों के निजी स्कोर पर जैकब डफी का शिकार बने. जैकब डफी ने फिर केएल राहुल (25 रन) के रूप में भारतीय टीम को पांचवां झटका दिया.
+
+फिर दूसरे दिन के खेल में अंतिम गेंद पर वॉशिंगटन सुंदर (10 रन) चलते बने.भारत की पहली पारी का स्कोरकार्ड: 116/6 (46 ओवर)बल्लेबाज			विकेट			रन		यशस्वी जायसवाल 			बोल्ड मैट हेनरी 			00		केएल राहुल 			कॉट डेवोन कॉन्वे बोल्ड जैकब डफी			25		देवदत्त पड‍िक्कल 			कॉट टॉम ब्लंडेल बोल्ड काइल जेमिसन 			21 		शुभमन ग‍िल 			कॉट टॉम लैथम बोल्ड काइल जेमिसन 			17		ऋषभ पंत 			कॉट काइल जेमिसन बोल्ड जैकब डफी			23		वॉशिंगटन सुंदर			कॉट टॉम लैथम बोल्ड नाथन स्मिथ			10		ध्रुव जुरेल			नाबाद			7		विकेट पतन: 1-0 (यशस्वी जायसवाल, 0.6 ओवर), 2-33 (देवदत्त पडिक्कल, 7.2 ओवर), 3-59 (शुभमन गिल, 14.4 ओवर), 4-96 (ऋषभ पंत, 26.6 ओवर), 5-104 (केएल राहुल, 30.5 ओवर), 6-116 (वॉशिंगटन सुंदर, 45.6 ओवर)न्यूजीलैंड की पहली पारी: आकाश दीप का पंजा, ब्लंंडेल ने जड़े 89 इस मुकाबले का पहला दिन उतार-चढ़ाव भरा रहा था.
+
+एक समय न्यूजीलैंड का स्कोर एक विकेट पर 110 रन था, लेकिन उसी स्कोर पर कीवियों ने तीन विकेट गंवाए. इसके बाद दो बेहतरीन साझेदारियों ने न्यूजीलैंड को फिर फ्रंटफुट पर पहुंचा दिया. न्यूजीलैंड के लिए कप्तािन टॉम लैथम ने पहले दिन के खेल में शानदार 59 रन बनाए. वहीं विकेटकीपर बल्लेबाज टॉम ब्लंडेल भी अर्धशतकीय आंकड़े को पार करने में सफल रहे.
+
+शुरुआती दिन के खेल में ग्लेन फिलिप्स, डेवोन कॉन्वे और डेरिल मिचेल ने भी बल्ले से प्रभावशाली प्रदर्शन किए. Advertisement        दूसरे द‍िन पहली पारी में न्यूजीलैंड ने 246/5 के स्कोर से आगे खेलना शुरू किया. लेकिन सबसे पहले ग्लेन फ‍िल‍िप्स 36 रन बनाकर अंशुल कम्बोज की गेंद पर पंत को कैच थमा बैठे.
+
+इसके बाद नाथन स्म‍िथ (26 ) आकाश दीप की गेंद पर कॉट एंड बोल्ड हो गए. काइल जेमिसन और मैट हेनरी दोनों ने 19-19 रन बनाए और दोनों ही आकाश दीप की गेंद पर आउट हुए. टॉम ब्लंडेल 89 रन बनाकर न्यूजीलैंड के हाइएस्ट स्कोरर रहे. आकाश दीप ने भारतीय टीम की ओर से पहली पारी में 99 रन देकर 5 व‍िकेट हास‍िल किए.
+
+अंशुल कम्बोज और गुरनूर बरार को 2-2 सफलताएं म‍िलीं, वहीं वॉश‍िंगटन सुंदर को एक व‍िकेट म‍िला. न्यूजीलैंड की पहली पारी का स्कोरकार्ड: 356-10 (116.3 ओवर)बल्लेबाज			विकेट			रन		टॉम लैथम			कॉट ऋषभ पंत बोल्ड आकाश दीप			59		डेवोन कॉन्वे			LBW गुरनूर बरार			31		हेनरी निकोल्स			कॉट आकाश दीप बोल्ड अंशुल कम्बोज			16		रचिन रवींद्र			कॉट ऋषभ पंत बोल्ड आकाश दीप			0		डेरिल मिचेल			कॉट ध्रुव जुरेल बोल्ड वॉशिंगटन सुंदर			31		टॉम ब्लंडेल			कॉट आकाशदीप बोल्ड गुरनूर बरार			89		ग्लेन फिलिप्स			कॉट पंत बोल्ड अंशुल कम्बोज			36		नाथन स्मिथ			कॉट एंड बोल्ड आकाश दीप			26		काइल जेमिसन 			कॉट यशस्वी बोल्ड आकाश दीप			19		मैट हेनरी			कॉट पंत बोल्ड आकाश दीप 			19		जैकब डफी 			नाबाद			2		विकेट पतन: 1-77 (डेवोन कॉन्वे, 25.6 ओवर), 2-110 (टॉम लैथम, 41.3 ओवर), 3-110 (हेनरी निकोल्स, 42.1 ओवर), 4-110 (रचिन रवींद्र, 43.6 ओवर), 5-184 (डेरिल मिचेल, 64.4 ओवर), 6-247 (ग्लेन फिलिप्स, 86.2 ओवर), 7-291 (नाथन स्मिथ, 100.1 ओवर), 8-324 (काइल जेमीसन, 106.5 ओवर), 9-346 (टॉम ब्लंडेल, 115.4 ओवर), 10-356 (मैट हेनरी, 116.3 ओवर) Advertisement        मुकाबले में न्यूजीलैंड की प्लेइंग-11: टॉम लैथम (कप्तान), डेवोन कॉन्वे, हेनरी निकोल्स, रचिन रवींद्र, डेरिल मिचेल, टॉम ब्लंडेल (विकेटकीपर), ग्लेन फिलिप्स, नाथन स्मिथ, काइल जेमिसन, मैट हेनरी और जैकब डफी.मुकाबले में भारत की प्लेइंग-11: केएल राहुल, यशस्वी जायसवाल, देवदत्त पडिक्कल, शुभमन गिल (कप्तान), ऋषभ पंत (विकेटकीपर), ध्रुव जुरेल, वॉशिंगटन सुंदर, अंशुल कम्बोज, आकाश दीप, जसप्रीत बुमराह और गुरनूर बरार.भारत और न्यूजीलैंड के बीच अब तक रेड बॉल क्रिकेट में 66 मुकाबले खेले गए हैं.
+
+इस दौरान भारतीय टीम ने 22 टेस्ट मैचों में जीत दर्ज की. वहीं न्यूजीलैंड ने 16 मुकाबले अपने नाम किए. जबकि 28 टेस्ट मैच ड्रॉ पर छूटे.भारत बनाम न्यूजीलैंड (हेड टू हेड)कुल टेस्ट मैच: 66भारत ने जीते: 22न्यूजीलैंड ने जीते: 16ड्रॉ रहे: 28न्यूजीलैंड का फुल स्क्वॉड: टॉम लैथम (कप्तान), डेवोन कॉन्वे, हेनरी निकोल्स, रचिन रवींद्र, डेरिल मिचेल, टॉम ब्लंडेल (विकेटकीपर), ग्लेन फिलिप्स, नाथन स्मिथ, डीन फॉक्सक्रॉफ्ट, विल यंग, काइल जेमिसन, मैट हेनरी, मैथ्यू फिशर और जैकब डफी.भारत का फुल स्क्वॉड: शुभमन गिल (कप्तान), यशस्वी जायसवाल, केएल राहुल (उप-कप्तान), देवदत्त पडिक्कल, ऋषभ पंत (विकेटकीपर), ध्रुव जुरेल (विकेटकीपर), रवींद्र जडेजा, अंशुल कम्बोज, जसप्रीत बुमराह, प्रसिद्ध कृष्णा, वॉशिंगटन सुंदर, मोहम्मद सिराज, आकाश दीप, साई सुदर्शन, नीतीश कुमार रेड्डी और गुरनूर बरार.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-2nd-test-live-cricket-score-ind-vs-nz-day-2-match-tspoa-tspok-dskc-2707469-2026-11-28)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `IND vs NZ 2nd Test Day 2 Live Score: न्यूजीलैंड के सामने टीम इंड‍िया का संघर्ष जारी, पंत और राहुल क्रीज पर - AajTak`,
+    summary_hi: `India vs New Zealand 2nd Test: भारत और न्यूजीलैंड के बीच दो मैचों की टेस्ट सीरीज का आखिरी मुकाबला क्राइस्टचर्च के हेगले ओवल में खेला जा रहा है. मुकाबले में दूसरे दिन (28 नवंबर) स्टम्प तक भारत ने अपनी पहली पारी में 6 विकेट पर 116 रन बना लिए.`,
+    content_hi: `India vs New Zealand 2nd Test: भारत और न्यूजीलैंड के बीच दो मैचों की टेस्ट सीरीज का आखिरी मुकाबला क्राइस्टचर्च के हेगले ओवल में खेला जा रहा है. मुकाबले में दूसरे दिन (28 नवंबर) स्टम्प तक भारत ने अपनी पहली पारी में 6 विकेट पर 116 रन बना लिए. ध्रुव जुरेल 7 रन बनाकर नॉटआउट हैं. भारत पहली पारी के आधार पर कीवी टीम से अब भी 240 रन पीछे है.
+
+और पढ़ेंन्यूजीलैंड की टीम पहली पारी में 356 रन बनाकर आउट हो गई. आकाश दीप ने 99 रन देकर पांच व‍िकेट हास‍िल किए. मुकाबले में टॉस भारतीय टीम ने जीता था और पहले गेंदबाजी का निर्णय लिया था. दोनों टीमों के बीच टेस्ट सीरीज का पहला मुकाबला वेलिंगटन के बेसिन रिजर्व में खेला गया था, जो ड्रॉ पर छूटा.
+
+अब ये मुकाबला काफी अहम है.भारत की पहली पारी की हाइलाइट्स भारत की पहली पारी में बेहद खराब शुरुआत रही. मैट हेनरी ने भारत की पारी के पहले ही ओवर में यशस्वी जायसवाल (0) को न‍िपटा द‍िया. इसके बाद नंबर 3 पर आए देवदत्त पड‍िक्कल ने 20 गेंदों पर तेज 21 रन बनाए. लेकिन वो व‍िकेटकीपर टॉम ब्लंडेल को काइल जेमिसन की गेंद पर कैच थमा बैठे.
+
+भारतीय कप्तान शुभमन ग‍िल भी कुछ खास नहीं कर सके और 17 रन बनाकर चायकाल से कुछ पहले आउट हो गए. Advertisement        विकेटकीपर बैटर ऋषभ पंत का प्रदर्शन भी कुछ खास नहीं रहा. पंत क्रीज पर नजरें जमाने के बाद 23 रनों के निजी स्कोर पर जैकब डफी का शिकार बने. जैकब डफी ने फिर केएल राहुल (25 रन) के रूप में भारतीय टीम को पांचवां झटका दिया.
+
+फिर दूसरे दिन के खेल में अंतिम गेंद पर वॉशिंगटन सुंदर (10 रन) चलते बने.भारत की पहली पारी का स्कोरकार्ड: 116/6 (46 ओवर)बल्लेबाज			विकेट			रन		यशस्वी जायसवाल 			बोल्ड मैट हेनरी 			00		केएल राहुल 			कॉट डेवोन कॉन्वे बोल्ड जैकब डफी			25		देवदत्त पड‍िक्कल 			कॉट टॉम ब्लंडेल बोल्ड काइल जेमिसन 			21 		शुभमन ग‍िल 			कॉट टॉम लैथम बोल्ड काइल जेमिसन 			17		ऋषभ पंत 			कॉट काइल जेमिसन बोल्ड जैकब डफी			23		वॉशिंगटन सुंदर			कॉट टॉम लैथम बोल्ड नाथन स्मिथ			10		ध्रुव जुरेल			नाबाद			7		विकेट पतन: 1-0 (यशस्वी जायसवाल, 0.6 ओवर), 2-33 (देवदत्त पडिक्कल, 7.2 ओवर), 3-59 (शुभमन गिल, 14.4 ओवर), 4-96 (ऋषभ पंत, 26.6 ओवर), 5-104 (केएल राहुल, 30.5 ओवर), 6-116 (वॉशिंगटन सुंदर, 45.6 ओवर)न्यूजीलैंड की पहली पारी: आकाश दीप का पंजा, ब्लंंडेल ने जड़े 89 इस मुकाबले का पहला दिन उतार-चढ़ाव भरा रहा था.
+
+एक समय न्यूजीलैंड का स्कोर एक विकेट पर 110 रन था, लेकिन उसी स्कोर पर कीवियों ने तीन विकेट गंवाए. इसके बाद दो बेहतरीन साझेदारियों ने न्यूजीलैंड को फिर फ्रंटफुट पर पहुंचा दिया. न्यूजीलैंड के लिए कप्तािन टॉम लैथम ने पहले दिन के खेल में शानदार 59 रन बनाए. वहीं विकेटकीपर बल्लेबाज टॉम ब्लंडेल भी अर्धशतकीय आंकड़े को पार करने में सफल रहे.
+
+शुरुआती दिन के खेल में ग्लेन फिलिप्स, डेवोन कॉन्वे और डेरिल मिचेल ने भी बल्ले से प्रभावशाली प्रदर्शन किए. Advertisement        दूसरे द‍िन पहली पारी में न्यूजीलैंड ने 246/5 के स्कोर से आगे खेलना शुरू किया. लेकिन सबसे पहले ग्लेन फ‍िल‍िप्स 36 रन बनाकर अंशुल कम्बोज की गेंद पर पंत को कैच थमा बैठे.
+
+इसके बाद नाथन स्म‍िथ (26 ) आकाश दीप की गेंद पर कॉट एंड बोल्ड हो गए. काइल जेमिसन और मैट हेनरी दोनों ने 19-19 रन बनाए और दोनों ही आकाश दीप की गेंद पर आउट हुए. टॉम ब्लंडेल 89 रन बनाकर न्यूजीलैंड के हाइएस्ट स्कोरर रहे. आकाश दीप ने भारतीय टीम की ओर से पहली पारी में 99 रन देकर 5 व‍िकेट हास‍िल किए.
+
+अंशुल कम्बोज और गुरनूर बरार को 2-2 सफलताएं म‍िलीं, वहीं वॉश‍िंगटन सुंदर को एक व‍िकेट म‍िला. न्यूजीलैंड की पहली पारी का स्कोरकार्ड: 356-10 (116.3 ओवर)बल्लेबाज			विकेट			रन		टॉम लैथम			कॉट ऋषभ पंत बोल्ड आकाश दीप			59		डेवोन कॉन्वे			LBW गुरनूर बरार			31		हेनरी निकोल्स			कॉट आकाश दीप बोल्ड अंशुल कम्बोज			16		रचिन रवींद्र			कॉट ऋषभ पंत बोल्ड आकाश दीप			0		डेरिल मिचेल			कॉट ध्रुव जुरेल बोल्ड वॉशिंगटन सुंदर			31		टॉम ब्लंडेल			कॉट आकाशदीप बोल्ड गुरनूर बरार			89		ग्लेन फिलिप्स			कॉट पंत बोल्ड अंशुल कम्बोज			36		नाथन स्मिथ			कॉट एंड बोल्ड आकाश दीप			26		काइल जेमिसन 			कॉट यशस्वी बोल्ड आकाश दीप			19		मैट हेनरी			कॉट पंत बोल्ड आकाश दीप 			19		जैकब डफी 			नाबाद			2		विकेट पतन: 1-77 (डेवोन कॉन्वे, 25.6 ओवर), 2-110 (टॉम लैथम, 41.3 ओवर), 3-110 (हेनरी निकोल्स, 42.1 ओवर), 4-110 (रचिन रवींद्र, 43.6 ओवर), 5-184 (डेरिल मिचेल, 64.4 ओवर), 6-247 (ग्लेन फिलिप्स, 86.2 ओवर), 7-291 (नाथन स्मिथ, 100.1 ओवर), 8-324 (काइल जेमीसन, 106.5 ओवर), 9-346 (टॉम ब्लंडेल, 115.4 ओवर), 10-356 (मैट हेनरी, 116.3 ओवर) Advertisement        मुकाबले में न्यूजीलैंड की प्लेइंग-11: टॉम लैथम (कप्तान), डेवोन कॉन्वे, हेनरी निकोल्स, रचिन रवींद्र, डेरिल मिचेल, टॉम ब्लंडेल (विकेटकीपर), ग्लेन फिलिप्स, नाथन स्मिथ, काइल जेमिसन, मैट हेनरी और जैकब डफी.मुकाबले में भारत की प्लेइंग-11: केएल राहुल, यशस्वी जायसवाल, देवदत्त पडिक्कल, शुभमन गिल (कप्तान), ऋषभ पंत (विकेटकीपर), ध्रुव जुरेल, वॉशिंगटन सुंदर, अंशुल कम्बोज, आकाश दीप, जसप्रीत बुमराह और गुरनूर बरार.भारत और न्यूजीलैंड के बीच अब तक रेड बॉल क्रिकेट में 66 मुकाबले खेले गए हैं.
+
+इस दौरान भारतीय टीम ने 22 टेस्ट मैचों में जीत दर्ज की. वहीं न्यूजीलैंड ने 16 मुकाबले अपने नाम किए. जबकि 28 टेस्ट मैच ड्रॉ पर छूटे.भारत बनाम न्यूजीलैंड (हेड टू हेड)कुल टेस्ट मैच: 66भारत ने जीते: 22न्यूजीलैंड ने जीते: 16ड्रॉ रहे: 28न्यूजीलैंड का फुल स्क्वॉड: टॉम लैथम (कप्तान), डेवोन कॉन्वे, हेनरी निकोल्स, रचिन रवींद्र, डेरिल मिचेल, टॉम ब्लंडेल (विकेटकीपर), ग्लेन फिलिप्स, नाथन स्मिथ, डीन फॉक्सक्रॉफ्ट, विल यंग, काइल जेमिसन, मैट हेनरी, मैथ्यू फिशर और जैकब डफी.भारत का फुल स्क्वॉड: शुभमन गिल (कप्तान), यशस्वी जायसवाल, केएल राहुल (उप-कप्तान), देवदत्त पडिक्कल, ऋषभ पंत (विकेटकीपर), ध्रुव जुरेल (विकेटकीपर), रवींद्र जडेजा, अंशुल कम्बोज, जसप्रीत बुमराह, प्रसिद्ध कृष्णा, वॉशिंगटन सुंदर, मोहम्मद सिराज, आकाश दीप, साई सुदर्शन, नीतीश कुमार रेड्डी और गुरनूर बरार.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-2nd-test-live-cricket-score-ind-vs-nz-day-2-match-tspoa-tspok-dskc-2707469-2026-11-28)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक IND vs NZ 2nd Test Day 2 Live Score: न्यूजीलैंड के सामने टीम इंड‍िया का संघर्ष जारी, पंत और राहुल क्रीज पर - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98176,
+    title: `ऋषभ पंत ने रचा नया इतिहास... WTC में बनाया छक्कों का महारिकॉर्ड, बेन स्टोक्स पीछे छूटे - AajTak`,
+    slug: `wtc-aajtak-2026`,
+    original_title: `ऋषभ पंत ने रचा नया इतिहास... WTC में बनाया छक्कों का महारिकॉर्ड, बेन स्टोक्स पीछे छूटे - AajTak`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:40Z`,
+    updated_at: `2026-11-28T05:41:40Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/sports/cricket/story/rishabh-pant-breaks-ben-stokes-record-most-sixes-in-wtc-history-ind-vs-nz-2nd-test-christchurch-tspoa-dskc-2708440-2026-11-28`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0a59ea9df2b-indias-rishabh-pant-bats-during-day-two-of-the-second-test-cricket-match-between-new-zealand-and-in-283449313.jpg`,
+    image_alt: `ऋषभ पंत ने रचा नया इतिहास... WTC में बनाया छक्कों का महारिकॉर्ड, बेन स्टोक्स पीछे छूटे - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `क्राइस्टचर्च के हेगले ओवल में भारत और न्यूजीलैंड के बीच टेस्ट सीरीज का दूसरा एवं आखिरी मुकाबला खेला जा रहा है. इस मुकाबले में ऋषभ पंत से धमाकेदार प्रदर्शन की उम्मीद की जा रही थी, लेकिन उन्होंने भारत की पहली पारी में निराश किया. पंत ने 1 चौक`,
+    content: `क्राइस्टचर्च के हेगले ओवल में भारत और न्यूजीलैंड के बीच टेस्ट सीरीज का दूसरा एवं आखिरी मुकाबला खेला जा रहा है. इस मुकाबले में ऋषभ पंत से धमाकेदार प्रदर्शन की उम्मीद की जा रही थी, लेकिन उन्होंने भारत की पहली पारी में निराश किया. पंत ने 1 चौके और 1 छक्के की मदद से 39 गेंदों पर 23 रन बनाए.
+
+पंत बड़ा शॉट मारने के चक्कर में जैकब डफी की गेंद पर काइल जेमिसन के हाथों लपके गए. और पढ़ेंहालांकि इस छोटी सी पारी के दौरान ऋषभ पंत ने वर्ल्ड टेस्ट चैम्पियनशिप (WTC) में एक बड़ी उपलब्धि हासिल कर ली है. उन्होंने इंग्लैंड के पूर्व ऑलराउंडर बेन स्टोक्स को पीछे छोड़ते हुए डब्ल्यूटीसी के इतिहास में सबसे ज्यादा छक्के लगाने का रिकॉर्ड अपने नाम कर लिया.🚨 𝗥𝗲𝗰𝗼𝗿𝗱 𝗔𝗹𝗲𝗿𝘁 Rishabh Pant now has the Most Sixes in ICC World Test Championship history!
+
+🔝 👏 Updates ▶️ https://t.co/6iCwvH4Zap #TeamIndia | #NZvIND https://t.co/UKbanSgUbN— BCCI (@BCCI) November 28, 2026ऋषभ पंत के नाम अब वर्ल्ड टेस्ट चैम्पियनशिप में 89 छक्के हो गए हैं. इससे पहले यह रिकॉर्ड बेन स्टोक्स के पास था, जिन्होंने इस टूर्नामेंट में 88 छक्के लगाए थे. पंत ने एक छक्का अधिक लगाकर इंग्लैंड के पूर्व कप्तान को पीछे छोड़ दिया और इस खास सूची में शीर्ष स्थान हासिल कर लिया.यह भी पढ़ें: ऑस्ट्रेलियाई टीम का ऐलान, 13 साल बाद नाथन लायन की छुट्टी, दो नए खिलाड़ियों की एंट्रीवर्ल्ड टेस्ट चैम्पियनशिप में छक्के लगाने के मामले में ऋषभ पंत और बेन स्टोक्स के बीच लंबे समय तक मुकाबला देखने को मिला था.
+
+अब 89 छक्कों के साथ भारतीय बल्लेबाज इस सूची में सबसे आगे निकल गए हैं. Advertisement        WTC में सबसे ज़्यादा छक्केऋषभ पंत (भारत)- 89बेन स्टोक्स (इंग्लैंड)- 88रोहित शर्मा (भारत)- 56शुभमन गिल (भारत)- 48यशस्वी जायसवाल (भारत)- 45ऋषभ पंत टेस्ट इतिहास में सबसे ज्यादा छक्के लगाने वाले बल्लेबाजों की लिस्ट में दूसरे स्थान पर हैं.
+
+पंत ने अब तक टेस्ट क्रिकेट में 109 छक्के लगाए हैं. पंत इस मामले में इंग्लैंड के बेन स्टोक्स (138) से पीछे हैं.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/rishabh-pant-breaks-ben-stokes-record-most-sixes-in-wtc-history-ind-vs-nz-2nd-test-christchurch-tspoa-dskc-2708440-2026-11-28)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `ऋषभ पंत ने रचा नया इतिहास... WTC में बनाया छक्कों का महारिकॉर्ड, बेन स्टोक्स पीछे छूटे - AajTak`,
+    summary_hi: `क्राइस्टचर्च के हेगले ओवल में भारत और न्यूजीलैंड के बीच टेस्ट सीरीज का दूसरा एवं आखिरी मुकाबला खेला जा रहा है. इस मुकाबले में ऋषभ पंत से धमाकेदार प्रदर्शन की उम्मीद की जा रही थी, लेकिन उन्होंने भारत की पहली पारी में निराश किया. पंत ने 1 चौक`,
+    content_hi: `क्राइस्टचर्च के हेगले ओवल में भारत और न्यूजीलैंड के बीच टेस्ट सीरीज का दूसरा एवं आखिरी मुकाबला खेला जा रहा है. इस मुकाबले में ऋषभ पंत से धमाकेदार प्रदर्शन की उम्मीद की जा रही थी, लेकिन उन्होंने भारत की पहली पारी में निराश किया. पंत ने 1 चौके और 1 छक्के की मदद से 39 गेंदों पर 23 रन बनाए.
+
+पंत बड़ा शॉट मारने के चक्कर में जैकब डफी की गेंद पर काइल जेमिसन के हाथों लपके गए. और पढ़ेंहालांकि इस छोटी सी पारी के दौरान ऋषभ पंत ने वर्ल्ड टेस्ट चैम्पियनशिप (WTC) में एक बड़ी उपलब्धि हासिल कर ली है. उन्होंने इंग्लैंड के पूर्व ऑलराउंडर बेन स्टोक्स को पीछे छोड़ते हुए डब्ल्यूटीसी के इतिहास में सबसे ज्यादा छक्के लगाने का रिकॉर्ड अपने नाम कर लिया.🚨 𝗥𝗲𝗰𝗼𝗿𝗱 𝗔𝗹𝗲𝗿𝘁 Rishabh Pant now has the Most Sixes in ICC World Test Championship history!
+
+🔝 👏 Updates ▶️ https://t.co/6iCwvH4Zap #TeamIndia | #NZvIND https://t.co/UKbanSgUbN— BCCI (@BCCI) November 28, 2026ऋषभ पंत के नाम अब वर्ल्ड टेस्ट चैम्पियनशिप में 89 छक्के हो गए हैं. इससे पहले यह रिकॉर्ड बेन स्टोक्स के पास था, जिन्होंने इस टूर्नामेंट में 88 छक्के लगाए थे. पंत ने एक छक्का अधिक लगाकर इंग्लैंड के पूर्व कप्तान को पीछे छोड़ दिया और इस खास सूची में शीर्ष स्थान हासिल कर लिया.यह भी पढ़ें: ऑस्ट्रेलियाई टीम का ऐलान, 13 साल बाद नाथन लायन की छुट्टी, दो नए खिलाड़ियों की एंट्रीवर्ल्ड टेस्ट चैम्पियनशिप में छक्के लगाने के मामले में ऋषभ पंत और बेन स्टोक्स के बीच लंबे समय तक मुकाबला देखने को मिला था.
+
+अब 89 छक्कों के साथ भारतीय बल्लेबाज इस सूची में सबसे आगे निकल गए हैं. Advertisement        WTC में सबसे ज़्यादा छक्केऋषभ पंत (भारत)- 89बेन स्टोक्स (इंग्लैंड)- 88रोहित शर्मा (भारत)- 56शुभमन गिल (भारत)- 48यशस्वी जायसवाल (भारत)- 45ऋषभ पंत टेस्ट इतिहास में सबसे ज्यादा छक्के लगाने वाले बल्लेबाजों की लिस्ट में दूसरे स्थान पर हैं.
+
+पंत ने अब तक टेस्ट क्रिकेट में 109 छक्के लगाए हैं. पंत इस मामले में इंग्लैंड के बेन स्टोक्स (138) से पीछे हैं.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/rishabh-pant-breaks-ben-stokes-record-most-sixes-in-wtc-history-ind-vs-nz-2nd-test-christchurch-tspoa-dskc-2708440-2026-11-28)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक ऋषभ पंत ने रचा नया इतिहास... WTC में बनाया छक्कों का महारिकॉर्ड, बेन स्टोक्स पीछे छूटे - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98177,
+    title: `Shah Rukh Khan reveals what inspired him to make ‘King’: ‘Am I still a hero at 60, and can I play my age?`,
+    slug: `shah-rukh-khan-reveals-what-inspired-him-to-make-king-am-i-still-a-her-2026`,
+    original_title: `Shah Rukh Khan reveals what inspired him to make ‘King’: ‘Am I still a hero at 60, and can I play my age?`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:41Z`,
+    updated_at: `2026-11-28T05:41:41Z`,
+    source_name: `The Times of India`,
+    source_url: `https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-reveals-what-inspired-him-to-make-king-am-i-still-a-hero-at-60-and-can-i-play-my-age/articleshow/136235574.cms`,
+    source_courtesy: `Source: The Times of India`,
+    image_url: `/images/articles/shah-rukh-khan-reveals-what-inspired-him-to-make-king-am-i-still-a-her-2026.jpg`,
+    image_alt: `Shah Rukh Khan reveals what inspired him to make ‘King’: ‘Am I still a hero at 60, and can I play my age?`,
+    image_courtesy: `Image: The Times of India (External Source Attribution)`,
+    image_photographer: `The Times of India`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Shah Rukh Khan will soon be back in fighting form on the big screen with his December release, 'King'. The actor on Friday hosted a special song-launch event that saw him take over the stage to interact with his fans and discuss his film jo`,
+    content: `Shah Rukh Khan will soon be back in fighting form on the big screen with his December release, 'King'. The actor on Friday hosted a special song-launch event that saw him take over the stage to interact with his fans and discuss his film journey, while also opening up about the motivaton behind his new action entertainer.Opening up about the reasons that inspired him to take up the movie ‘King’, Shah Rukh confessed at the ‘Daddy Cool’ song launch that he wanted to explore whether he could continue playing a hero at the age of 60 while also embracing characters closer to his real age.Explaining his first motivation, SRK recalled how he felt when he entered the film industry and how becoming a leading man had always been a personal ambition.
+
+Khan said, "I did King because I always felt that I always wanted to be a hero. I'll tell you the reason, because when I joined the film industry, I felt that I was not good-looking. I thought that when I get a chance to be a hero, I just took it very personally. That someone who is so simple-looking as I am, can become a hero.
+
+So I hold it very dearly that I always have to play the hero."The actor also shared an amusing memory from a film shoot, recalling how the age difference between him and the actresses he was paired with eventually became something he could no longer ignore. Without revealing the film, actress or director, he narrated an incident involving a romantic scene in which his character was supposed to express his love for the leading lady.Recalling how the moment unfolded, he said, "And one more thing, did you finish your tomorrow morning's math homework, daughter?"Explaining how the experience made him reconsider the kind of roles he wanted to play, SRK said, "The age difference became so much between the girls I was acting with, that I started feeling I should play my age, which is 61, and be as cool as a 61-year-old can be.
+
+So even today, if I sit down or stand up and say any of the dialogues, it still seems relevant. Because my daughter Suhana is also in the film, all the girls in the world think, 'mera dad aisa bana tha'."Summing up his motivation behind choosing ‘King’, the superstar said he wanted to challenge himself and find out whether he could still be a hero while playing his actual age.
+
+He added, "So that's the reason for King. I just wanted to do it out of (curiosity). Am I still a hero at 60 and play my age?"Directed by Siddharth Anand, 'King' is set to release in cinemas worldwide on December 24, 2026.Get the latest Bollywood & Entertainment News, and more. Download the TOI app.Give your child the gift of confidence!
+
+Claim your exclusive TOI Masterclass spot today!
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-reveals-what-inspired-him-to-make-king-am-i-still-a-hero-at-60-and-can-i-play-my-age/articleshow/136235574.cms)`,
+    title_en: `Shah Rukh Khan reveals what inspired him to make ‘King’: ‘Am I still a hero at 60, and can I play my age?`,
+    summary_en: `Shah Rukh Khan will soon be back in fighting form on the big screen with his December release, 'King'. The actor on Friday hosted a special song-launch event that saw him take over the stage to interact with his fans and discuss his film jo`,
+    content_en: `Shah Rukh Khan will soon be back in fighting form on the big screen with his December release, 'King'. The actor on Friday hosted a special song-launch event that saw him take over the stage to interact with his fans and discuss his film journey, while also opening up about the motivaton behind his new action entertainer.Opening up about the reasons that inspired him to take up the movie ‘King’, Shah Rukh confessed at the ‘Daddy Cool’ song launch that he wanted to explore whether he could continue playing a hero at the age of 60 while also embracing characters closer to his real age.Explaining his first motivation, SRK recalled how he felt when he entered the film industry and how becoming a leading man had always been a personal ambition.
+
+Khan said, "I did King because I always felt that I always wanted to be a hero. I'll tell you the reason, because when I joined the film industry, I felt that I was not good-looking. I thought that when I get a chance to be a hero, I just took it very personally. That someone who is so simple-looking as I am, can become a hero.
+
+So I hold it very dearly that I always have to play the hero."The actor also shared an amusing memory from a film shoot, recalling how the age difference between him and the actresses he was paired with eventually became something he could no longer ignore. Without revealing the film, actress or director, he narrated an incident involving a romantic scene in which his character was supposed to express his love for the leading lady.Recalling how the moment unfolded, he said, "And one more thing, did you finish your tomorrow morning's math homework, daughter?"Explaining how the experience made him reconsider the kind of roles he wanted to play, SRK said, "The age difference became so much between the girls I was acting with, that I started feeling I should play my age, which is 61, and be as cool as a 61-year-old can be.
+
+So even today, if I sit down or stand up and say any of the dialogues, it still seems relevant. Because my daughter Suhana is also in the film, all the girls in the world think, 'mera dad aisa bana tha'."Summing up his motivation behind choosing ‘King’, the superstar said he wanted to challenge himself and find out whether he could still be a hero while playing his actual age.
+
+He added, "So that's the reason for King. I just wanted to do it out of (curiosity). Am I still a hero at 60 and play my age?"Directed by Siddharth Anand, 'King' is set to release in cinemas worldwide on December 24, 2026.Get the latest Bollywood & Entertainment News, and more. Download the TOI app.Give your child the gift of confidence!
+
+Claim your exclusive TOI Masterclass spot today!
+
+---
+
+**Original Source:** [The Times of India](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-reveals-what-inspired-him-to-make-king-am-i-still-a-hero-at-60-and-can-i-play-my-age/articleshow/136235574.cms)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Times of India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Shah Rukh Khan reveals what inspired him to make ‘King’: ‘Am I still a hero at 60, and can I play my age?.`,
+    primary_source: `The Times of India`,
+  },
+  {
+    id: 98178,
+    title: `Shah Rukh Khan's King Eyes a 20-Year Career Milestone as Bollywood's Three-Hour Films Gross Over ₹4,380 Crore in 2026 - Sacnilk`,
+    slug: `shah-rukh-khans-king-eyes-a-20-year-career-milestone-as-bollywoods-thr-2026`,
+    original_title: `Shah Rukh Khan's King Eyes a 20-Year Career Milestone as Bollywood's Three-Hour Films Gross Over ₹4,380 Crore in 2026 - Sacnilk`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:44Z`,
+    updated_at: `2026-11-28T05:41:44Z`,
+    source_name: `Sacnilk`,
+    source_url: `https://www.sacnilk.com/news/shah-rukh-khans-king-eyes-a-20-year-career-milestone-as-bollywoods-three-hour-films-gross-over-4380-crore-in-2026`,
+    source_courtesy: `Source: Sacnilk`,
+    image_url: `/images/articles/shah-rukh-khans-king-eyes-a-20-year-career-milestone-as-bollywoods-thr-2026.jpg`,
+    image_alt: `Shah Rukh Khan's King Eyes a 20-Year Career Milestone as Bollywood's Three-Hour Films Gross Over ₹4,380 Crore in 2026 - Sacnilk`,
+    image_courtesy: `Image: Sacnilk (External Source Attribution)`,
+    image_photographer: `Sacnilk`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `King's reported three-hour-plus runtime could mark a first for Shah Rukh Khan in two decades as the box office performance of Bollywood's longest films of 2026 offers encouraging precedents.`,
+    content: `King's reported three-hour-plus runtime could mark a first for Shah Rukh Khan in two decades as the box office performance of Bollywood's longest films of 2026 offers encouraging precedents.
+
+Mumbai, November 27, 2026: Bollywood's biggest theatrical successes over the past few years have challenged several conventional beliefs about commercial cinema, including the notion that shorter films have a better chance of attracting audiences. Ranbir Kapoor's Animal offered an early indication of this changing trend in 2023, while the subsequent success of Aditya Dhar's Dhurandhar further demonstrated that audiences were willing to spend considerably more time in cinemas. Interestingly, 2026 has taken this trend even further, with several of the year's biggest Hindi releases running well beyond three hours.
+
+Shah Rukh Khan 's upcoming action thriller King could become the latest addition to this list. The Siddharth Anand directorial is currently listed with a runtime of 3 hours and 17 minutes on an American movie ticketing platform. If the duration remains unchanged following CBFC certification, King will become Shah Rukh Khan's first film in 20 years to run beyond three hours, since Karan Johar's Kabhi Alvida Naa Kehna in 2006.
+
+### Four of Bollywood's Top Six Grossers in 2026 Run for Over Three Hours
+
+What makes King's reported runtime particularly interesting is the box office performance of similarly lengthy films this year. Four of the six highest-grossing Bollywood films in the Hindi market have runtimes exceeding three hours, with two of them occupying the top positions.
+
+Note: Collections as of November 26, 2026. Ramayana is still running, and its overseas and worldwide collections are estimates subject to revision.
+
+Interestingly, all four films crossed the ₹200 crore Hindi net mark despite their lengthy runtimes. However, each entered cinemas with an established source of audience interest. Dhurandhar 2 and Border 2 were sequels, Ramayana brought a familiar epic to the big screen, while Mirzapur The Movie benefited from the popularity of an established streaming series.
+
+King, on the other hand, is not an extension of an existing cinematic franchise. Much of its initial appeal rests on Shah Rukh Khan's star power, his reunion with Siddharth Anand after Pathaan and the curiosity surrounding a new action-driven story.
+
+### King Could Become Shah Rukh Khan's First Three-Hour Film in 20 Years
+
+If the reported duration remains unchanged, King would become Shah Rukh Khan's first film to exceed three hours since Karan Johar's Kabhi Alvida Naa Kehna in 2006. Even the superstar's three successful theatrical releases in 2023 were considerably shorter.
+
+King could be approximately 51 minutes longer than Pathaan, despite both films being helmed by Siddharth Anand. The upcoming action thriller also features a substantial ensemble, including Suhana Khan, Deepika Padukone, Abhishek Bachchan, Rani Mukerji and Jaideep Ahlawat, giving the filmmaker a considerably larger set of characters to accommodate within the narrative.
+
+Max 500 characters, 100 words. Comments are moderated.
+
+### King Box Office: Can Shah Rukh Khan Help Siddharth Anand Close the ₹1,238 Crore Gap With Aditya Dhar?
+
+Mumbai, November 19, 2026: Aditya Dhar has taken Bollywood's box office to a new level with Dhurandhar and Dhurandhar 2. The two films have ...
+
+### Shah Rukh Khan's King Kerala Rights Go to E4 Entertainment, Can It Complete SRK's Hat-Trick and Beat Jawan's Over ₹13 Cr Record?
+
+Mumbai, November 9, 2026: Shah Rukh Khan's upcoming action entertainer King is gradually putting together its theatrical distribution networ...
+
+### Shah Rukh Khan's King Commands the Market Like a King as Pre Release Deals Reach ₹665 Crore
+
+Mumbai, November 2, 2026: Shah Rukh Khan's upcoming action thriller King is emerging as one of Bollywood's biggest financial bets, with its ...
+
+### King First Song Tu Mil Jaaye Out as Shah Rukh Khan Reunites With Deepika and Ed Sheeran Joins Arijit Singh
+
+Mumbai, November 2, 2026: Shah Rukh Khan has marked his 61st birthday with a special surprise for fans as the first song from his upcoming a...
+
+### 2026 Set to Become Biggest Year at Indian Box Office: 15000+ Crore in Sight With Ramayana, King, and Avengers: Doomsday Coming Next
+
+Mumbai, October 31 - Indian cinema is heading towards another historic milestone as 2026 is set to become the highest-grossing year ever at ...
+
+### Phars Films Acquires Overseas Rights of Shah Rukh Khan's King at a Record Price for Indian Films
+
+Mumbai, October 30 - Shah Rukh Khan's much-awaited action entertainer King has reportedly secured a historic overseas distribution deal, nea...
+
+---
+
+**Original Source:** [Sacnilk](https://www.sacnilk.com/news/shah-rukh-khans-king-eyes-a-20-year-career-milestone-as-bollywoods-three-hour-films-gross-over-4380-crore-in-2026)`,
+    title_en: `Shah Rukh Khan's King Eyes a 20-Year Career Milestone as Bollywood's Three-Hour Films Gross Over ₹4,380 Crore in 2026 - Sacnilk`,
+    summary_en: `King's reported three-hour-plus runtime could mark a first for Shah Rukh Khan in two decades as the box office performance of Bollywood's longest films of 2026 offers encouraging precedents.`,
+    content_en: `King's reported three-hour-plus runtime could mark a first for Shah Rukh Khan in two decades as the box office performance of Bollywood's longest films of 2026 offers encouraging precedents.
+
+Mumbai, November 27, 2026: Bollywood's biggest theatrical successes over the past few years have challenged several conventional beliefs about commercial cinema, including the notion that shorter films have a better chance of attracting audiences. Ranbir Kapoor's Animal offered an early indication of this changing trend in 2023, while the subsequent success of Aditya Dhar's Dhurandhar further demonstrated that audiences were willing to spend considerably more time in cinemas. Interestingly, 2026 has taken this trend even further, with several of the year's biggest Hindi releases running well beyond three hours.
+
+Shah Rukh Khan 's upcoming action thriller King could become the latest addition to this list. The Siddharth Anand directorial is currently listed with a runtime of 3 hours and 17 minutes on an American movie ticketing platform. If the duration remains unchanged following CBFC certification, King will become Shah Rukh Khan's first film in 20 years to run beyond three hours, since Karan Johar's Kabhi Alvida Naa Kehna in 2006.
+
+### Four of Bollywood's Top Six Grossers in 2026 Run for Over Three Hours
+
+What makes King's reported runtime particularly interesting is the box office performance of similarly lengthy films this year. Four of the six highest-grossing Bollywood films in the Hindi market have runtimes exceeding three hours, with two of them occupying the top positions.
+
+Note: Collections as of November 26, 2026. Ramayana is still running, and its overseas and worldwide collections are estimates subject to revision.
+
+Interestingly, all four films crossed the ₹200 crore Hindi net mark despite their lengthy runtimes. However, each entered cinemas with an established source of audience interest. Dhurandhar 2 and Border 2 were sequels, Ramayana brought a familiar epic to the big screen, while Mirzapur The Movie benefited from the popularity of an established streaming series.
+
+King, on the other hand, is not an extension of an existing cinematic franchise. Much of its initial appeal rests on Shah Rukh Khan's star power, his reunion with Siddharth Anand after Pathaan and the curiosity surrounding a new action-driven story.
+
+### King Could Become Shah Rukh Khan's First Three-Hour Film in 20 Years
+
+If the reported duration remains unchanged, King would become Shah Rukh Khan's first film to exceed three hours since Karan Johar's Kabhi Alvida Naa Kehna in 2006. Even the superstar's three successful theatrical releases in 2023 were considerably shorter.
+
+King could be approximately 51 minutes longer than Pathaan, despite both films being helmed by Siddharth Anand. The upcoming action thriller also features a substantial ensemble, including Suhana Khan, Deepika Padukone, Abhishek Bachchan, Rani Mukerji and Jaideep Ahlawat, giving the filmmaker a considerably larger set of characters to accommodate within the narrative.
+
+Max 500 characters, 100 words. Comments are moderated.
+
+### King Box Office: Can Shah Rukh Khan Help Siddharth Anand Close the ₹1,238 Crore Gap With Aditya Dhar?
+
+Mumbai, November 19, 2026: Aditya Dhar has taken Bollywood's box office to a new level with Dhurandhar and Dhurandhar 2. The two films have ...
+
+### Shah Rukh Khan's King Kerala Rights Go to E4 Entertainment, Can It Complete SRK's Hat-Trick and Beat Jawan's Over ₹13 Cr Record?
+
+Mumbai, November 9, 2026: Shah Rukh Khan's upcoming action entertainer King is gradually putting together its theatrical distribution networ...
+
+### Shah Rukh Khan's King Commands the Market Like a King as Pre Release Deals Reach ₹665 Crore
+
+Mumbai, November 2, 2026: Shah Rukh Khan's upcoming action thriller King is emerging as one of Bollywood's biggest financial bets, with its ...
+
+### King First Song Tu Mil Jaaye Out as Shah Rukh Khan Reunites With Deepika and Ed Sheeran Joins Arijit Singh
+
+Mumbai, November 2, 2026: Shah Rukh Khan has marked his 61st birthday with a special surprise for fans as the first song from his upcoming a...
+
+### 2026 Set to Become Biggest Year at Indian Box Office: 15000+ Crore in Sight With Ramayana, King, and Avengers: Doomsday Coming Next
+
+Mumbai, October 31 - Indian cinema is heading towards another historic milestone as 2026 is set to become the highest-grossing year ever at ...
+
+### Phars Films Acquires Overseas Rights of Shah Rukh Khan's King at a Record Price for Indian Films
+
+Mumbai, October 30 - Shah Rukh Khan's much-awaited action entertainer King has reportedly secured a historic overseas distribution deal, nea...
+
+---
+
+**Original Source:** [Sacnilk](https://www.sacnilk.com/news/shah-rukh-khans-king-eyes-a-20-year-career-milestone-as-bollywoods-three-hour-films-gross-over-4380-crore-in-2026)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Sacnilk.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Shah Rukh Khan's King Eyes a 20-Year Career Milestone as Bollywood's Three-Hour Films Gross Over ₹4,380 Crore in 2026 - Sacnilk.`,
+    primary_source: `Sacnilk`,
+  },
+  {
+    id: 98179,
+    title: `रात के 3 बजे घर बुलाया', काम के बदले बूढ़े शख्स ने की डिमांड, चौंकी एक्ट्रेस, किया ब्लॉक - AajTak`,
+    slug: `3-aajtak-2026`,
+    original_title: `रात के 3 बजे घर बुलाया', काम के बदले बूढ़े शख्स ने की डिमांड, चौंकी एक्ट्रेस, किया ब्लॉक - AajTak`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:47Z`,
+    updated_at: `2026-11-28T05:41:47Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/entertainment/news/photo/manisha-rani-casting-couch-old-man-called-her-midnight-demands-favor-bihari-girl-shocked-tmovf-2708151-2026-11-28`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6b09bfc0383b6-manisha-rani-casting-couch-273703121.jpg`,
+    image_alt: `रात के 3 बजे घर बुलाया', काम के बदले बूढ़े शख्स ने की डिमांड, चौंकी एक्ट्रेस, किया ब्लॉक - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `मनीषा रानी ने बिहार के गांव से निकलकर इंडस्ट्री में अपना बड़ा नाम कमाया है. मनीषा सोशल मीडिया के साथ टीवी इंडस्ट्री की भी स्टार बन चुकी हैं.`,
+    content: `मनीषा रानी ने बिहार के गांव से निकलकर इंडस्ट्री में अपना बड़ा नाम कमाया है. मनीषा सोशल मीडिया के साथ टीवी इंडस्ट्री की भी स्टार बन चुकी हैं.
+
+लेकिन करियर में इस मुकाम तक पहुंचना मनीषा रानी के लिए आसान नहीं था. उन्होंने काफी मेहनत की और कई मुश्किलें भी झेलीं.
+
+मनीषा करियर में कास्टिंग काउच का भी सामना कर चुकी हैं. Galatta India संग अपने एक पुराने इंटरव्यू में उन्होंने अपने साथ हुए एक खराब एक्सपीरियंस पर बात की थी.
+
+मनीषा से पूछा गया था कि क्या कभी कुछ लोगों ने उनसे काम के बदले फेवर मांगे हैं? इसपर मनीषा ने हामी भरी थी.
+
+एक्ट्रेस ने कहा था- एक शख्स था, उसने मेरे कई वीडियोज देखे और मुझे कॉन्फिडेंस दिया कि तुम तो हो जाओगी सेलेक्ट.उसके बाद एक गंजा बूढ़ा था करीब 45-50 साल का...उसने काम को लेकर मुझे काफी उम्मीदें दीं.. जब मैं बिहार में थी.
+
+'फिर जब मैं मुंबई आई, तो वो शख्स तब से मुझे मिलने के लिए बोल रहा था. फिर एक बार रात के तीन बजे कॉल करके मिलने के लिए बुलाने लगा. कहता मेरे घर आ जाओ.'
+
+'मैंने मना कर दिया कि घर तो नहीं आ सकती, तो फिर वो मुझसे रूडली बात करने लगा. कहने लगा- तुमने कैसे मुझे बोला कि तुम नहीं आओगी.
+
+'तुम्हें इंडस्ट्री में टिकने नहीं दूंगा. ये सब बोलकर उसने फोन काट दिया. उसके बाद मैंने उसे तभी ब्लॉक कर दिया. मुझे समझ आ गया था कि ये कोई काम-वाम तो दिलवाएगा नहीं.'
+
+खैर, मनीषा रानी आज एक बड़ी स्टार बन चुकी हैं. उनकी तगड़ी फैन फॉलोइंग हैं. मनीषा फैंस के दिलों पर राज करती हैं.
+
+(Photos: Instagram @manisharani002)
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/news/photo/manisha-rani-casting-couch-old-man-called-her-midnight-demands-favor-bihari-girl-shocked-tmovf-2708151-2026-11-28)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `रात के 3 बजे घर बुलाया', काम के बदले बूढ़े शख्स ने की डिमांड, चौंकी एक्ट्रेस, किया ब्लॉक - AajTak`,
+    summary_hi: `मनीषा रानी ने बिहार के गांव से निकलकर इंडस्ट्री में अपना बड़ा नाम कमाया है. मनीषा सोशल मीडिया के साथ टीवी इंडस्ट्री की भी स्टार बन चुकी हैं.`,
+    content_hi: `मनीषा रानी ने बिहार के गांव से निकलकर इंडस्ट्री में अपना बड़ा नाम कमाया है. मनीषा सोशल मीडिया के साथ टीवी इंडस्ट्री की भी स्टार बन चुकी हैं.
+
+लेकिन करियर में इस मुकाम तक पहुंचना मनीषा रानी के लिए आसान नहीं था. उन्होंने काफी मेहनत की और कई मुश्किलें भी झेलीं.
+
+मनीषा करियर में कास्टिंग काउच का भी सामना कर चुकी हैं. Galatta India संग अपने एक पुराने इंटरव्यू में उन्होंने अपने साथ हुए एक खराब एक्सपीरियंस पर बात की थी.
+
+मनीषा से पूछा गया था कि क्या कभी कुछ लोगों ने उनसे काम के बदले फेवर मांगे हैं? इसपर मनीषा ने हामी भरी थी.
+
+एक्ट्रेस ने कहा था- एक शख्स था, उसने मेरे कई वीडियोज देखे और मुझे कॉन्फिडेंस दिया कि तुम तो हो जाओगी सेलेक्ट.उसके बाद एक गंजा बूढ़ा था करीब 45-50 साल का...उसने काम को लेकर मुझे काफी उम्मीदें दीं.. जब मैं बिहार में थी.
+
+'फिर जब मैं मुंबई आई, तो वो शख्स तब से मुझे मिलने के लिए बोल रहा था. फिर एक बार रात के तीन बजे कॉल करके मिलने के लिए बुलाने लगा. कहता मेरे घर आ जाओ.'
+
+'मैंने मना कर दिया कि घर तो नहीं आ सकती, तो फिर वो मुझसे रूडली बात करने लगा. कहने लगा- तुमने कैसे मुझे बोला कि तुम नहीं आओगी.
+
+'तुम्हें इंडस्ट्री में टिकने नहीं दूंगा. ये सब बोलकर उसने फोन काट दिया. उसके बाद मैंने उसे तभी ब्लॉक कर दिया. मुझे समझ आ गया था कि ये कोई काम-वाम तो दिलवाएगा नहीं.'
+
+खैर, मनीषा रानी आज एक बड़ी स्टार बन चुकी हैं. उनकी तगड़ी फैन फॉलोइंग हैं. मनीषा फैंस के दिलों पर राज करती हैं.
+
+(Photos: Instagram @manisharani002)
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/news/photo/manisha-rani-casting-couch-old-man-called-her-midnight-demands-favor-bihari-girl-shocked-tmovf-2708151-2026-11-28)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक रात के 3 बजे घर बुलाया', काम के बदले बूढ़े शख्स ने की डिमांड, चौंकी एक्ट्रेस, किया ब्लॉक - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 98180,
+    title: `King के नए गाने 'डैडी कूल' में शाह रुख-करीना कपूर का धमाका, 50 साल पुराने कल्ट क्लासिक सॉन्ग से है प्रेरित - Jagran`,
+    slug: `king-50-jagran-2026`,
+    original_title: `King के नए गाने 'डैडी कूल' में शाह रुख-करीना कपूर का धमाका, 50 साल पुराने कल्ट क्लासिक सॉन्ग से है प्रेरित - Jagran`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:48Z`,
+    updated_at: `2026-11-28T05:41:48Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/entertainment/bollywood-king-song-daddy-cool-featuring-kareena-kapoor-shah-rukh-khan-became-party-anthem-40450692.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/king-50-jagran-2026.webp`,
+    image_alt: `King के नए गाने 'डैडी कूल' में शाह रुख-करीना कपूर का धमाका, 50 साल पुराने कल्ट क्लासिक सॉन्ग से है प्रेरित - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `किंग (King) से शाह रुख खान (Shah Rukh Khan) और करीना कपूर (Kareena Kapoor) का गाना डैडी कूल (Daddy Cool) रिलीज हुआ है।`,
+    content: `किंग (King) से शाह रुख खान (Shah Rukh Khan) और करीना कपूर (Kareena Kapoor) का गाना डैडी कूल (Daddy Cool) रिलीज हुआ है।
+
+डैडी कूल में करीना और शाह रुख की दमदार केमिस्ट्री। फोटो क्रेडिट- यूट्यूब
+
+फिल्म किंग का नया गाना डैडी कूल आउट
+
+करीना और शाह रुख के डांस ने लूटी महफिल
+
+एंटरटेनमेंट डेस्क, नई दिल्ली। आ गया साल 2026 का सबसे बड़ा पार्टी एंथम! मोस्ट अवेटेड फिल्म किंग (King) का दूसरा गाना जारी कर दिया गया है। पहला गाना शाह रुख खान और दीपिका पादुकोण का था और अब दूसरा गाना करीना कपूर खान का है।
+
+15 साल बाद करीना कपूर खान और शाह रुख खान वापस बड़े पर्दे पर लौटे हैं और किंग के लेटेस्ट गाने 'डैडी कूल' (Daddy Cool) में उनकी केमिस्ट्री देखने लायक है।
+
+27 नवंबर 2026 को किंग का गाना 'डैडी कूल (किंग वर्जन)' आउट हुआ जो एक पार्टी एंथम है। इस गाने में शाह रुख और करीना की एनर्जी, केमिस्ट्री और डांस स्टेप्स छा गए हैं। इस पार्टी एंथम में शाह रुख खान और करीना कपूर खान अपने शानदार मूव्स से डांस फ्लोर पर आग लगाते नजर आ रहे हैं।
+
+### शाह रुख-करीना की केमिस्ट्री ने जीता दिल
+
+61 साल के शाह रुख खान का अंदाज, आकर्षण और बॉलीवुड के पारंपरिक रंगीन मिजाज के साथ गाने में जान डालते हैं, वहीं करीना कपूर खान अपने स्टाइलिश और सदाबहार अंदाज से चार-चांद लगा रही हैं। उनके डांस मूव्स शानदार हैं। दोनों को फेमस कोरियोग्राफर वैभवी मर्चेंट ने कोरियोग्राफ किया है।
+
+बात करें गाने की तो यह बोनी एम. (Boney M.) के मशहूर ग्लोबल हिट गाने 'डैडी कूल' (Daddy Cool 1976) को बॉलीवुड स्टाइल में रीमिक्स किया है। ओरिजिनल गाने को फ्रैंक फारियन और जॉर्ज रेयम ने लिखा था। वहीं, शाह रुख के 'डैडी कूल (किंग वर्जन)' को सचिन-जिगर ने बॉलीवुड टच दिया है।
+
+### अरिजीत-शिल्पा की आवाज में रिकॉर्ड हुआ गाना
+
+राष्ट्रीय पुरस्कार विजेता गायक अरिजीत सिंह (Arijit Singh) और शिल्पा राव (Shilpa Rao) ने अपनी आवाज से इस गाने को और भी जोशीला और शानदार बना दिया है। कुमार ने इसके हिंदी बोल लिखे हैं।
+
+### यूट्यूब पर आते ही छाया किंग का गाना
+
+आपको बता दें कि 'डैडी कूल (किंग वर्जन)' को हाउस ऑफ इंस्टाग्राम 2026 प्रोग्राम में लॉन्च किया गया है जहां देश के 700 से ज्यादा कंटेंट क्रिएटर्स आए थे। फिलहाल, इसे यूट्यूब पर जारी कर दिया गया है और अब यह आते ही सोशल मीडिया पर धमाल मचा रहा है।
+
+सिद्धार्थ आनंद के निर्देशन में बनी ' किंग ' का निर्माण रेड चिलीज एंटरटेनमेंट और मार्फ्लिक्स पिक्चर्स ने किया है। यह फिल्म 24 दिसंबर 2026 को दुनियाभर के सिनेमाघरों में रिलीज होगी।
+
+यह भी पढ़ें- खुल गया शाह रुख खान की King का राज, ट्रेलर को लेकर मेकर्स ने बनाया मास्टर प्लान?
+
+यह भी पढ़ें- 'दर्जी के पास जाता हूं...', Shah Rukh Khan को क्यों लगता है दोनों हाथ कट जाने का डर? डॉक्टर के भी काटे थे चक्कर
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/entertainment/bollywood-king-song-daddy-cool-featuring-kareena-kapoor-shah-rukh-khan-became-party-anthem-40450692.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `King के नए गाने 'डैडी कूल' में शाह रुख-करीना कपूर का धमाका, 50 साल पुराने कल्ट क्लासिक सॉन्ग से है प्रेरित - Jagran`,
+    summary_hi: `किंग (King) से शाह रुख खान (Shah Rukh Khan) और करीना कपूर (Kareena Kapoor) का गाना डैडी कूल (Daddy Cool) रिलीज हुआ है।`,
+    content_hi: `किंग (King) से शाह रुख खान (Shah Rukh Khan) और करीना कपूर (Kareena Kapoor) का गाना डैडी कूल (Daddy Cool) रिलीज हुआ है।
+
+डैडी कूल में करीना और शाह रुख की दमदार केमिस्ट्री। फोटो क्रेडिट- यूट्यूब
+
+फिल्म किंग का नया गाना डैडी कूल आउट
+
+करीना और शाह रुख के डांस ने लूटी महफिल
+
+एंटरटेनमेंट डेस्क, नई दिल्ली। आ गया साल 2026 का सबसे बड़ा पार्टी एंथम! मोस्ट अवेटेड फिल्म किंग (King) का दूसरा गाना जारी कर दिया गया है। पहला गाना शाह रुख खान और दीपिका पादुकोण का था और अब दूसरा गाना करीना कपूर खान का है।
+
+15 साल बाद करीना कपूर खान और शाह रुख खान वापस बड़े पर्दे पर लौटे हैं और किंग के लेटेस्ट गाने 'डैडी कूल' (Daddy Cool) में उनकी केमिस्ट्री देखने लायक है।
+
+27 नवंबर 2026 को किंग का गाना 'डैडी कूल (किंग वर्जन)' आउट हुआ जो एक पार्टी एंथम है। इस गाने में शाह रुख और करीना की एनर्जी, केमिस्ट्री और डांस स्टेप्स छा गए हैं। इस पार्टी एंथम में शाह रुख खान और करीना कपूर खान अपने शानदार मूव्स से डांस फ्लोर पर आग लगाते नजर आ रहे हैं।
+
+### शाह रुख-करीना की केमिस्ट्री ने जीता दिल
+
+61 साल के शाह रुख खान का अंदाज, आकर्षण और बॉलीवुड के पारंपरिक रंगीन मिजाज के साथ गाने में जान डालते हैं, वहीं करीना कपूर खान अपने स्टाइलिश और सदाबहार अंदाज से चार-चांद लगा रही हैं। उनके डांस मूव्स शानदार हैं। दोनों को फेमस कोरियोग्राफर वैभवी मर्चेंट ने कोरियोग्राफ किया है।
+
+बात करें गाने की तो यह बोनी एम. (Boney M.) के मशहूर ग्लोबल हिट गाने 'डैडी कूल' (Daddy Cool 1976) को बॉलीवुड स्टाइल में रीमिक्स किया है। ओरिजिनल गाने को फ्रैंक फारियन और जॉर्ज रेयम ने लिखा था। वहीं, शाह रुख के 'डैडी कूल (किंग वर्जन)' को सचिन-जिगर ने बॉलीवुड टच दिया है।
+
+### अरिजीत-शिल्पा की आवाज में रिकॉर्ड हुआ गाना
+
+राष्ट्रीय पुरस्कार विजेता गायक अरिजीत सिंह (Arijit Singh) और शिल्पा राव (Shilpa Rao) ने अपनी आवाज से इस गाने को और भी जोशीला और शानदार बना दिया है। कुमार ने इसके हिंदी बोल लिखे हैं।
+
+### यूट्यूब पर आते ही छाया किंग का गाना
+
+आपको बता दें कि 'डैडी कूल (किंग वर्जन)' को हाउस ऑफ इंस्टाग्राम 2026 प्रोग्राम में लॉन्च किया गया है जहां देश के 700 से ज्यादा कंटेंट क्रिएटर्स आए थे। फिलहाल, इसे यूट्यूब पर जारी कर दिया गया है और अब यह आते ही सोशल मीडिया पर धमाल मचा रहा है।
+
+सिद्धार्थ आनंद के निर्देशन में बनी ' किंग ' का निर्माण रेड चिलीज एंटरटेनमेंट और मार्फ्लिक्स पिक्चर्स ने किया है। यह फिल्म 24 दिसंबर 2026 को दुनियाभर के सिनेमाघरों में रिलीज होगी।
+
+यह भी पढ़ें- खुल गया शाह रुख खान की King का राज, ट्रेलर को लेकर मेकर्स ने बनाया मास्टर प्लान?
+
+यह भी पढ़ें- 'दर्जी के पास जाता हूं...', Shah Rukh Khan को क्यों लगता है दोनों हाथ कट जाने का डर? डॉक्टर के भी काटे थे चक्कर
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/entertainment/bollywood-king-song-daddy-cool-featuring-kareena-kapoor-shah-rukh-khan-became-party-anthem-40450692.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक King के नए गाने 'डैडी कूल' में शाह रुख-करीना कपूर का धमाका, 50 साल पुराने कल्ट क्लासिक सॉन्ग से है प्रेरित - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+  {
+    id: 98181,
+    title: `India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM`,
+    slug: `india-laos-relationship-rooted-in-common-heritage-of-buddhism-ramayana-2026`,
+    original_title: `India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:51Z`,
+    updated_at: `2026-11-28T05:41:51Z`,
+    source_name: `DD News`,
+    source_url: `https://ddnews.gov.in/en/india-laos-relationship-rooted-in-common-heritage-of-buddhism-ramayana-eam/`,
+    source_courtesy: `Source: DD News`,
+    image_url: `https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM DD News`,
+    content: `### India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM
+
+Highlighting the deep-rooted civilisational ties between India and Laos, reflected in the shared Buddhist heritage and enduring legacy of the Ramayana, External Affairs Minister (EAM) S Jaishankar on Wednesday said that the bilateral partnership is anchored in longstanding cultural and people-to-people connections.
+
+In his opening remarks during the 10th India-Lao PDR Joint Commission Meeting with Laos Deputy Prime Minister and Foreign Minister Thongsavanh Phomvihane in New Delhi, the EAM said, “Our two countries have close civilisational ties reflected in the common heritage of Buddhism and Ramayana. Our relations go back in history based on deep cultural and people-to-people linkages.”
+
+“I fondly remember my own visit to your beautiful country during your ASEAN chairship in 2024. I also had at that time an opportunity to call on the Prime Minister during my visit,” he added.
+
+EAM Jaishankar also recalled PM Narendra Modi’s visit to Laos in 2024, during which several agreements and MOUs were signed.
+
+“Today we have an opportunity to review them to explore a wide-ranging agenda, to look at our political cooperation, economic ties, defense, development partnerships, education, culture to culture, and of course, our multilateral cooperation. I’m very confident that our discussions today will be very productive,” he noted.
+
+The EAM also congratulated his counterpart Phomvihane on the successful conduct of Laos’ National Assembly elections earlier this year and his elevation as Deputy Prime Minister and Minister of Foreign Affairs.
+
+Phomvihane arrived in India on Monday to co-chair the 10th India–Lao PDR Joint Commission Meeting.
+
+“A warm welcome to DPM and FM Thongsavan Phomvihane of Lao PDR on his first visit to India to co-chair the 10th India–Lao PDR Joint Commission Meeting with EAM S. Jaishankar,” Ministry of External Affairs (MEA) posted on X.
+
+“India and Lao PDR are celebrating 70 years of diplomatic ties. The visit will add momentum to the longstanding partnership between India and Lao and further deepen cooperation across areas of mutual interest,” it added.
+
+### National Overseas Scholarship Scheme: How ST students can pursue higher education abroad with government support
+
+The National Overseas Scholarship (NOS) Scheme for Scheduled Tribe (ST) students provides financial assistance to meritorious tribal students seeking Master's and PhD degrees at reputed universities abroad. With 20 fresh scholarships offered every ye...
+
+### Lightning could get up to 140 pc more common in future of high emissions: Study
+
+Globally, lightning could get 76 per cent to 140 per cent more common by the end of the century than between 1995 and 2014 -- roughly 30 per cent more lightning per degree of global warming, new research reveals.
+Cloud-to-ground lightning -- dangero...
+
+### India’s Poverty Turnaround, Gold’s Fragile Rebound, and Bangladesh’s Garment Wage Protests
+
+Inside This Week’s Economic Brief
+ 
+This week’s Economic Brief covers Finance Minister Nirmala Sitharaman’s account of India’s decade-long poverty reduction, gold’s rebound from a 14-month low and what it means for investors, and the wag...
+
+---
+
+**Original Source:** [DD News](https://ddnews.gov.in/en/india-laos-relationship-rooted-in-common-heritage-of-buddhism-ramayana-eam/)`,
+    title_en: `India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM`,
+    summary_en: `India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM DD News`,
+    content_en: `### India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM
+
+Highlighting the deep-rooted civilisational ties between India and Laos, reflected in the shared Buddhist heritage and enduring legacy of the Ramayana, External Affairs Minister (EAM) S Jaishankar on Wednesday said that the bilateral partnership is anchored in longstanding cultural and people-to-people connections.
+
+In his opening remarks during the 10th India-Lao PDR Joint Commission Meeting with Laos Deputy Prime Minister and Foreign Minister Thongsavanh Phomvihane in New Delhi, the EAM said, “Our two countries have close civilisational ties reflected in the common heritage of Buddhism and Ramayana. Our relations go back in history based on deep cultural and people-to-people linkages.”
+
+“I fondly remember my own visit to your beautiful country during your ASEAN chairship in 2024. I also had at that time an opportunity to call on the Prime Minister during my visit,” he added.
+
+EAM Jaishankar also recalled PM Narendra Modi’s visit to Laos in 2024, during which several agreements and MOUs were signed.
+
+“Today we have an opportunity to review them to explore a wide-ranging agenda, to look at our political cooperation, economic ties, defense, development partnerships, education, culture to culture, and of course, our multilateral cooperation. I’m very confident that our discussions today will be very productive,” he noted.
+
+The EAM also congratulated his counterpart Phomvihane on the successful conduct of Laos’ National Assembly elections earlier this year and his elevation as Deputy Prime Minister and Minister of Foreign Affairs.
+
+Phomvihane arrived in India on Monday to co-chair the 10th India–Lao PDR Joint Commission Meeting.
+
+“A warm welcome to DPM and FM Thongsavan Phomvihane of Lao PDR on his first visit to India to co-chair the 10th India–Lao PDR Joint Commission Meeting with EAM S. Jaishankar,” Ministry of External Affairs (MEA) posted on X.
+
+“India and Lao PDR are celebrating 70 years of diplomatic ties. The visit will add momentum to the longstanding partnership between India and Lao and further deepen cooperation across areas of mutual interest,” it added.
+
+### National Overseas Scholarship Scheme: How ST students can pursue higher education abroad with government support
+
+The National Overseas Scholarship (NOS) Scheme for Scheduled Tribe (ST) students provides financial assistance to meritorious tribal students seeking Master's and PhD degrees at reputed universities abroad. With 20 fresh scholarships offered every ye...
+
+### Lightning could get up to 140 pc more common in future of high emissions: Study
+
+Globally, lightning could get 76 per cent to 140 per cent more common by the end of the century than between 1995 and 2014 -- roughly 30 per cent more lightning per degree of global warming, new research reveals.
+Cloud-to-ground lightning -- dangero...
+
+### India’s Poverty Turnaround, Gold’s Fragile Rebound, and Bangladesh’s Garment Wage Protests
+
+Inside This Week’s Economic Brief
+ 
+This week’s Economic Brief covers Finance Minister Nirmala Sitharaman’s account of India’s decade-long poverty reduction, gold’s rebound from a 14-month low and what it means for investors, and the wag...
+
+---
+
+**Original Source:** [DD News](https://ddnews.gov.in/en/india-laos-relationship-rooted-in-common-heritage-of-buddhism-ramayana-eam/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to DD News.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for India-Laos relationship rooted in common heritage of Buddhism, Ramayana: EAM.`,
+    primary_source: `DD News`,
+  },
+  {
+    id: 98182,
+    title: `PM Modi references Ramayana's appeal among youth at joint briefing with Nepal PM - India Today`,
+    slug: `pm-modi-references-ramayanas-appeal-among-youth-at-joint-briefing-with-2026`,
+    original_title: `PM Modi references Ramayana's appeal among youth at joint briefing with Nepal PM - India Today`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:55Z`,
+    updated_at: `2026-11-28T05:41:55Z`,
+    source_name: `India Today`,
+    source_url: `https://www.indiatoday.in/movies/bollywood/story/pm-modi-references-ramayanas-appeal-among-youth-at-joint-briefing-with-nepal-pm-ranbir-sai-pallavi-yash-3044946-2026-11-23`,
+    source_courtesy: `Source: India Today`,
+    image_url: `/images/articles/pm-modi-references-ramayanas-appeal-among-youth-at-joint-briefing-with-2026.webp`,
+    image_alt: `PM Modi references Ramayana's appeal among youth at joint briefing with Nepal PM - India Today`,
+    image_courtesy: `Image: India Today (External Source Attribution)`,
+    image_photographer: `India Today`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `Prime Minister Narendra Modi on Monday made special reference to director Nitesh Tiwari&#039;s Ramayana: Rise of a Legend during his joint briefing with Nepal Prime Minister Balendra Shah in New Delhi. While speaking about Indo-Nepal cultur`,
+    content: `Prime Minister Narendra Modi on Monday made special reference to director Nitesh Tiwari&#039;s Ramayana: Rise of a Legend during his joint briefing with Nepal Prime Minister Balendra Shah in New Delhi. While speaking about Indo-Nepal cultural ties in connection to Lord Rama and Goddess Sita, PM Modi highlighted how the story of Ramayana is reaching the &quot;younger generation through films and technology.&quot;PM Modi, during his joint press conference with the Nepal PM said, &quot;The story of Ramayana is reaching the younger generation through films and technology.
+
+We want the young creators of India and Nepal to work together in order to represent their heritage globally with the help of new and advanced mediums. At the next WAVE summit, we will welcome a new delegation from Nepal.&quot;PM Modi also recalled his 2018 visit to Janakpur, where he had said that India&#039;s sacred pilgrimage sites and Lord Rama&#039;s story were incomplete without Nepal.&quot;India and Nepal&#039;s relationship is woven through threads of shared history, faith, culture and deep people-to-people ties.
+
+Lord Rama and Mata Sita are symbols of our shared civilisation and faith,&quot; he said.Ramayana: Rise of a Legend based on sage Valmiki&#039;s Ramayana recently released globally on November 5, 2026. The film features Ranbir Kapoor as Lord Rama, Sai Pallavi as Goddess Sita, Ravie Dubey as Lakshman and Yash as Ravana, Arun Govil as Dashrath, Lara Dutta as Queen Kaikeyi and Rakul Preet Singh as Supranakha.The epic drama is co-produced by Namit Malhotra and Yash.
+
+The film&#039;s sequel is scheduled to release in 2028.Meanwhile, recently Ramayana: Rise of a Legend was screened in Rome for Vatican Cardinal Peter Kodwo Turkson and invited Catholic officials. The Cardinal drew parallels between the Indian epic and Biblical narratives while praising its music and visuals.- EndsRead more |  Did Ramayana music for 3 years: AR Rahman on turning down 10-12 films for the epicMust Watch
+
+---
+
+**Original Source:** [India Today](https://www.indiatoday.in/movies/bollywood/story/pm-modi-references-ramayanas-appeal-among-youth-at-joint-briefing-with-nepal-pm-ranbir-sai-pallavi-yash-3044946-2026-11-23)`,
+    title_en: `PM Modi references Ramayana's appeal among youth at joint briefing with Nepal PM - India Today`,
+    summary_en: `Prime Minister Narendra Modi on Monday made special reference to director Nitesh Tiwari&#039;s Ramayana: Rise of a Legend during his joint briefing with Nepal Prime Minister Balendra Shah in New Delhi. While speaking about Indo-Nepal cultur`,
+    content_en: `Prime Minister Narendra Modi on Monday made special reference to director Nitesh Tiwari&#039;s Ramayana: Rise of a Legend during his joint briefing with Nepal Prime Minister Balendra Shah in New Delhi. While speaking about Indo-Nepal cultural ties in connection to Lord Rama and Goddess Sita, PM Modi highlighted how the story of Ramayana is reaching the &quot;younger generation through films and technology.&quot;PM Modi, during his joint press conference with the Nepal PM said, &quot;The story of Ramayana is reaching the younger generation through films and technology.
+
+We want the young creators of India and Nepal to work together in order to represent their heritage globally with the help of new and advanced mediums. At the next WAVE summit, we will welcome a new delegation from Nepal.&quot;PM Modi also recalled his 2018 visit to Janakpur, where he had said that India&#039;s sacred pilgrimage sites and Lord Rama&#039;s story were incomplete without Nepal.&quot;India and Nepal&#039;s relationship is woven through threads of shared history, faith, culture and deep people-to-people ties.
+
+Lord Rama and Mata Sita are symbols of our shared civilisation and faith,&quot; he said.Ramayana: Rise of a Legend based on sage Valmiki&#039;s Ramayana recently released globally on November 5, 2026. The film features Ranbir Kapoor as Lord Rama, Sai Pallavi as Goddess Sita, Ravie Dubey as Lakshman and Yash as Ravana, Arun Govil as Dashrath, Lara Dutta as Queen Kaikeyi and Rakul Preet Singh as Supranakha.The epic drama is co-produced by Namit Malhotra and Yash.
+
+The film&#039;s sequel is scheduled to release in 2028.Meanwhile, recently Ramayana: Rise of a Legend was screened in Rome for Vatican Cardinal Peter Kodwo Turkson and invited Catholic officials. The Cardinal drew parallels between the Indian epic and Biblical narratives while praising its music and visuals.- EndsRead more |  Did Ramayana music for 3 years: AR Rahman on turning down 10-12 films for the epicMust Watch
+
+---
+
+**Original Source:** [India Today](https://www.indiatoday.in/movies/bollywood/story/pm-modi-references-ramayanas-appeal-among-youth-at-joint-briefing-with-nepal-pm-ranbir-sai-pallavi-yash-3044946-2026-11-23)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to India Today.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for PM Modi references Ramayana's appeal among youth at joint briefing with Nepal PM - India Today.`,
+    primary_source: `India Today`,
+  },
+  {
+    id: 98183,
+    title: `रामायण बनी इंडिया में 1000 करोड़ कमाने वाले बॉलीवुड की दूसरी फिल्म, जानें 23वें दिन - ABP News`,
+    slug: `1000-23-abp-news-2026`,
+    original_title: `रामायण बनी इंडिया में 1000 करोड़ कमाने वाले बॉलीवुड की दूसरी फिल्म, जानें 23वें दिन - ABP News`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:57Z`,
+    updated_at: `2026-11-28T05:41:57Z`,
+    source_name: `ABP News`,
+    source_url: `https://www.abplive.com/entertainment/bollywood/ramayana-box-office-collection-day-23-becomes-2nd-bollywood-film-to-cross-1000cr-in-india-net-after-dhurandhar-2-3220318`,
+    source_courtesy: `Source: ABP News`,
+    image_url: `/images/articles/1000-23-abp-news-2026.jpg`,
+    image_alt: `रामायण बनी इंडिया में 1000 करोड़ कमाने वाले बॉलीवुड की दूसरी फिल्म, जानें 23वें दिन - ABP News`,
+    image_courtesy: `Image: ABP News (External Source Attribution)`,
+    image_photographer: `ABP News`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `नितेश तिवारी की फिल्म 'रामायण' रिलीज के बाद से ही बॉक्स ऑफिस पर छाई हुई है और ये एक के बाद एक नए रिकॉर्ड्स बना रही है. ये अब तक ही तीसरी ऑल टाइम वर्ल्डवाइड हाईएस्ट ग्रॉसर इंडियन फिल्म बन चुकी है. वहीं, 2026 की दूसरी सबसे ज्यादा कमाई करने वा`,
+    content: `नितेश तिवारी की फिल्म 'रामायण' रिलीज के बाद से ही बॉक्स ऑफिस पर छाई हुई है और ये एक के बाद एक नए रिकॉर्ड्स बना रही है. ये अब तक ही तीसरी ऑल टाइम वर्ल्डवाइड हाईएस्ट ग्रॉसर इंडियन फिल्म बन चुकी है. वहीं, 2026 की दूसरी सबसे ज्यादा कमाई करने वाली फिल्म का रिकॉर्ड भी अपने नाम कर चुकी है.
+
+इसी के साथ ही अब इसने अपने नाम एक और रिकॉर्ड कर लिया है.&nbsp;
+'रामायण' की रिलीज को 23 दिनों का वक्त हो गया है और इस बीच फिल्म ने कई रिकॉर्ड्स दुनियाभर के साथ ही इंडिया में भी बनाए. ऐसे में अब 23वें दिन की कमाई के बाद फिल्म ने इंडिया में भी 1000 करोड़ का नेट कलेक्शन का आंकड़ा पार कर लिया है, जिसके बाद ये इस आंकड़े को पार करने वाली बॉलीवुड की दूसरी फिल्म बन गई है.
+
+चलिए बताते हैं कलेक्शन... 'रामायण' का डे-23 बॉक्स ऑफिस कलेक्शन
+'रामायण' ने बॉक्स ऑफिस पर बंपर कमाई की है और अच्छा खासा कलेक्शन कर नए रिकॉर्ड्स को अपने नाम किया. इसके आगे कोई भी फिल्म टिक नहीं पाई.&nbsp;- सैकनिल्क के अनुसार, फिल्म ने पहले हफ्ते 564.60 करोड़ का कलेक्शन किया था.- जबकि दूसरे हफ्ते 299.15 करोड़ और तीसरे वीक 128.35 करोड़ का कारोबार किया.- इसके बाद फिल्म ने 23वें दिन 8.45 करोड़ का बिजनेस किया.&nbsp;- फिल्म का टोटल इंडिया नेट कलेक्शन 1,000.55 करोड़ हो चुका है.- वहीं, इसका इंडिया ग्रॉस कलेक्शन 1,195.10 करोड़ हो गया है.
+
+'रामायण' बनी 1000 करोड़ कमाने वाली बॉलीवुड की दूसरी फिल्म
+'रामायण' ने इंडिया में 1000 करोड़ के क्लब एंट्री मारने के साथ ही बड़ा रिकॉर्ड भी अपने नाम कर लिया है. ये बॉलीवुड की दूसरी 1000 करोड़ी फिल्म बन गई है. इस रिकॉर्ड को अपने नाम करने वाली पहली फिल्म 'धुरंधर 2' थी, जिसका इंडिया नेट कलेक्शन 1000 करोड़ से ज्यादा था.&nbsp;
+वहीं, ऑल ओवर इंडियन फिल्मों में बात की जाए तो नितेश तिवारी की फिल्म इंडिया में 1000 करोड़ का नेट कलेक्शन करने वाली चौथी फिल्म बन चुकी है.
+
+पहली फिल्म 'बाहुबली 2' और दूसरी 'पुष्पा 2' थी. मेकर्स के लिए ये किसी बड़ी सफलता से कम नहीं है. इसी के साथ ही रणबीर कपूर ने भी अपने करियर में नया कीर्तिमान इसके जरिए स्थापित कर लिया है. ये उनके करियर की सबसे बड़ी हिट बन चुकी है.
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/entertainment/bollywood/ramayana-box-office-collection-day-23-becomes-2nd-bollywood-film-to-cross-1000cr-in-india-net-after-dhurandhar-2-3220318)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `रामायण बनी इंडिया में 1000 करोड़ कमाने वाले बॉलीवुड की दूसरी फिल्म, जानें 23वें दिन - ABP News`,
+    summary_hi: `नितेश तिवारी की फिल्म 'रामायण' रिलीज के बाद से ही बॉक्स ऑफिस पर छाई हुई है और ये एक के बाद एक नए रिकॉर्ड्स बना रही है. ये अब तक ही तीसरी ऑल टाइम वर्ल्डवाइड हाईएस्ट ग्रॉसर इंडियन फिल्म बन चुकी है. वहीं, 2026 की दूसरी सबसे ज्यादा कमाई करने वा`,
+    content_hi: `नितेश तिवारी की फिल्म 'रामायण' रिलीज के बाद से ही बॉक्स ऑफिस पर छाई हुई है और ये एक के बाद एक नए रिकॉर्ड्स बना रही है. ये अब तक ही तीसरी ऑल टाइम वर्ल्डवाइड हाईएस्ट ग्रॉसर इंडियन फिल्म बन चुकी है. वहीं, 2026 की दूसरी सबसे ज्यादा कमाई करने वाली फिल्म का रिकॉर्ड भी अपने नाम कर चुकी है.
+
+इसी के साथ ही अब इसने अपने नाम एक और रिकॉर्ड कर लिया है.&nbsp;
+'रामायण' की रिलीज को 23 दिनों का वक्त हो गया है और इस बीच फिल्म ने कई रिकॉर्ड्स दुनियाभर के साथ ही इंडिया में भी बनाए. ऐसे में अब 23वें दिन की कमाई के बाद फिल्म ने इंडिया में भी 1000 करोड़ का नेट कलेक्शन का आंकड़ा पार कर लिया है, जिसके बाद ये इस आंकड़े को पार करने वाली बॉलीवुड की दूसरी फिल्म बन गई है.
+
+चलिए बताते हैं कलेक्शन... 'रामायण' का डे-23 बॉक्स ऑफिस कलेक्शन
+'रामायण' ने बॉक्स ऑफिस पर बंपर कमाई की है और अच्छा खासा कलेक्शन कर नए रिकॉर्ड्स को अपने नाम किया. इसके आगे कोई भी फिल्म टिक नहीं पाई.&nbsp;- सैकनिल्क के अनुसार, फिल्म ने पहले हफ्ते 564.60 करोड़ का कलेक्शन किया था.- जबकि दूसरे हफ्ते 299.15 करोड़ और तीसरे वीक 128.35 करोड़ का कारोबार किया.- इसके बाद फिल्म ने 23वें दिन 8.45 करोड़ का बिजनेस किया.&nbsp;- फिल्म का टोटल इंडिया नेट कलेक्शन 1,000.55 करोड़ हो चुका है.- वहीं, इसका इंडिया ग्रॉस कलेक्शन 1,195.10 करोड़ हो गया है.
+
+'रामायण' बनी 1000 करोड़ कमाने वाली बॉलीवुड की दूसरी फिल्म
+'रामायण' ने इंडिया में 1000 करोड़ के क्लब एंट्री मारने के साथ ही बड़ा रिकॉर्ड भी अपने नाम कर लिया है. ये बॉलीवुड की दूसरी 1000 करोड़ी फिल्म बन गई है. इस रिकॉर्ड को अपने नाम करने वाली पहली फिल्म 'धुरंधर 2' थी, जिसका इंडिया नेट कलेक्शन 1000 करोड़ से ज्यादा था.&nbsp;
+वहीं, ऑल ओवर इंडियन फिल्मों में बात की जाए तो नितेश तिवारी की फिल्म इंडिया में 1000 करोड़ का नेट कलेक्शन करने वाली चौथी फिल्म बन चुकी है.
+
+पहली फिल्म 'बाहुबली 2' और दूसरी 'पुष्पा 2' थी. मेकर्स के लिए ये किसी बड़ी सफलता से कम नहीं है. इसी के साथ ही रणबीर कपूर ने भी अपने करियर में नया कीर्तिमान इसके जरिए स्थापित कर लिया है. ये उनके करियर की सबसे बड़ी हिट बन चुकी है.
+
+---
+
+**मूल स्रोत (Original Source):** [ABP News](https://www.abplive.com/entertainment/bollywood/ramayana-box-office-collection-day-23-becomes-2nd-bollywood-film-to-cross-1000cr-in-india-net-after-dhurandhar-2-3220318)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट ABP News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक रामायण बनी इंडिया में 1000 करोड़ कमाने वाले बॉलीवुड की दूसरी फिल्म, जानें 23वें दिन - ABP News से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `ABP News`,
+  },
+  {
+    id: 98184,
+    title: `109 साल पहले आई थी पहली 'रामायण', एक हफ्ते में कमाए थे 30, 000; फिल्म में नहीं था कोई डायलॉग - Jagran`,
+    slug: `109-30-000-jagran-2026`,
+    original_title: `109 साल पहले आई थी पहली 'रामायण', एक हफ्ते में कमाए थे 30, 000; फिल्म में नहीं था कोई डायलॉग - Jagran`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T05:41:58Z`,
+    updated_at: `2026-11-28T05:41:58Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/entertainment/bollywood-dadasaheb-phalke-made-first-film-based-on-ramayana-titled-lanka-dahan-109-years-before-40450579.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/109-30-000-jagran-2026.webp`,
+    image_alt: `109 साल पहले आई थी पहली 'रामायण', एक हफ्ते में कमाए थे 30, 000; फिल्म में नहीं था कोई डायलॉग - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `क्या आप जानते हैं रामायण से प्रेरित पहली फिल्म बॉलीवुड में 109 साल पहले बनी थी, जिसने बॉक्स ऑफिस पर जबरदस्त कमाई की थी?`,
+    content: `क्या आप जानते हैं रामायण से प्रेरित पहली फिल्म बॉलीवुड में 109 साल पहले बनी थी, जिसने बॉक्स ऑफिस पर जबरदस्त कमाई की थी?
+
+109 साल पहले 'रामायण' पर बनी थी पहली फिल्म
+
+बॉक्स ऑफिस पर फिल्म ने किया था जबरदस्त कलेक्शन
+
+एंटरटेनमेंट डेस्क, नई दिल्ली। नमित मल्होत्रा की 'रामायण: पार्ट 1' इस वक्त थिएटर्स में चल रही है। फिल्म दर्शकों को काफी पसंद आई है और यह बॉक्स ऑफिस पर जबरदस्त प्रदर्शन कर रही है। इसके पहले भी पौराणिक ग्रंथ रामायण से प्रेरित कई फिल्में और टीवी बन चुकी हैं जिन्हें दर्शकों ने खूब प्यार दिया। लेकिन क्या आप जानते हैं हिंदी सिनेमा में रामायण पर आधारित पहली फिल्म कब बनी थी?
+
+इस सवाल का जवाब है 109 साल पहले। जी हां भारतीय सिनेमा के वेटरन फिल्ममेकर दादा साहेब फाल्के (Dadasaheb Phalke) ने 1917 में रामायण पर आधारित एक फिल्म बनाई थी जिसे उन्होंने लिखा और डायरेक्ट किया था। इस फिल्म का नाम था लंका दहन (Lanka Dahan)।
+
+यह भी पढ़ें- Ramayana के 'विश्वामित्र' को मिला था 'भगवान राम' के पिता का रोल, पिता की फटकार के बाद दिया था ऑडिशन
+
+1913 में राजा हरिश्चंद्र बनाने के बाद दादा साहेब फाल्के की यह दूसरी फीचर फिल्म थी। इस फिल्म ने बॉक्स ऑफिस (Box Office) पर जबरदस्त प्रदर्शन करते हुए उस वक्त पहले हफ्ते में 30,000 रुपये की जबरदस्त कमाई की थी। यह फिल्म लगभग 15000 के बजट के आसपास बनी थी और एक हफ्ते में ही इसने बजट से दुगनी कमाई की।
+
+भारतीय सिनेमा की शुरुआती फिल्में मूक थीं और लंका दहन भी उन्हीं फिल्मों में से एक है। इस फिल्म में एक डायलॉग नहीं थे। स्क्रीन पर टेक्स्ट और कलाकारों के अभिनय से ही फिल्म आगे बढ़ती थी।
+
+### एक ही एक्टर ने निभाया था राम-सीता का किरदार
+
+उस जमाने में मेल एक्टर ही फीमेल किरदार निभाए करते थे और इसीलिए अभिनेता अन्ना सालुंके ने 'लंका दहन' में श्रीराम और माता सीता दोनों की भूमिका निभाई थी। उनके अलावा इसमें गनपत जी शिंदे ने हनुमान की भूमिका निभाई थी।
+
+फिल्म में इस्तेमाल की गई ट्रिक फोटोग्राफी और स्पेशल इफेक्ट्स ने दर्शकों को खूब रोमांचित किया। आम जनता के बीच यह फिल्म काफी लोकप्रिय रही। फिल्म इतिहासकार अमृत गंगार के अनुसार, टिकट काउंटरों से मिले सिक्कों को बोरियों में भरकर बैलगाड़ियों के जरिए निर्माता के दफ्तर तक पहुंचाया जाता था।
+
+बॉम्बे के मैजेस्टिक सिनेमा के बाहर लंबी कतारें लग जाती थीं, जहां लोग टिकट पाने के लिए आपस में झगड़ पड़ते थे और टिकट काउंटर पर सिक्के उछालते थे, क्योंकि फिल्म अक्सर 'हाउसफुल' रहती थी।
+
+'लंका दहन' 1917 की एक भारतीय मूक फिल्म है, जिसका निर्देशन दादा साहब फाल्के ने किया था। फाल्के ने ही इस फिल्म की पटकथा भी लिखी थी।
+
+यह भी पढ़ें- दुनियाभर ने जपा 'राम नाम', Ramayana ने गुरुवार को बॉक्स ऑफिस पर कर दिखाया कमाल; 22वें दिन दनादन हुई धनवर्षा
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/entertainment/bollywood-dadasaheb-phalke-made-first-film-based-on-ramayana-titled-lanka-dahan-109-years-before-40450579.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `109 साल पहले आई थी पहली 'रामायण', एक हफ्ते में कमाए थे 30, 000; फिल्म में नहीं था कोई डायलॉग - Jagran`,
+    summary_hi: `क्या आप जानते हैं रामायण से प्रेरित पहली फिल्म बॉलीवुड में 109 साल पहले बनी थी, जिसने बॉक्स ऑफिस पर जबरदस्त कमाई की थी?`,
+    content_hi: `क्या आप जानते हैं रामायण से प्रेरित पहली फिल्म बॉलीवुड में 109 साल पहले बनी थी, जिसने बॉक्स ऑफिस पर जबरदस्त कमाई की थी?
+
+109 साल पहले 'रामायण' पर बनी थी पहली फिल्म
+
+बॉक्स ऑफिस पर फिल्म ने किया था जबरदस्त कलेक्शन
+
+एंटरटेनमेंट डेस्क, नई दिल्ली। नमित मल्होत्रा की 'रामायण: पार्ट 1' इस वक्त थिएटर्स में चल रही है। फिल्म दर्शकों को काफी पसंद आई है और यह बॉक्स ऑफिस पर जबरदस्त प्रदर्शन कर रही है। इसके पहले भी पौराणिक ग्रंथ रामायण से प्रेरित कई फिल्में और टीवी बन चुकी हैं जिन्हें दर्शकों ने खूब प्यार दिया। लेकिन क्या आप जानते हैं हिंदी सिनेमा में रामायण पर आधारित पहली फिल्म कब बनी थी?
+
+इस सवाल का जवाब है 109 साल पहले। जी हां भारतीय सिनेमा के वेटरन फिल्ममेकर दादा साहेब फाल्के (Dadasaheb Phalke) ने 1917 में रामायण पर आधारित एक फिल्म बनाई थी जिसे उन्होंने लिखा और डायरेक्ट किया था। इस फिल्म का नाम था लंका दहन (Lanka Dahan)।
+
+यह भी पढ़ें- Ramayana के 'विश्वामित्र' को मिला था 'भगवान राम' के पिता का रोल, पिता की फटकार के बाद दिया था ऑडिशन
+
+1913 में राजा हरिश्चंद्र बनाने के बाद दादा साहेब फाल्के की यह दूसरी फीचर फिल्म थी। इस फिल्म ने बॉक्स ऑफिस (Box Office) पर जबरदस्त प्रदर्शन करते हुए उस वक्त पहले हफ्ते में 30,000 रुपये की जबरदस्त कमाई की थी। यह फिल्म लगभग 15000 के बजट के आसपास बनी थी और एक हफ्ते में ही इसने बजट से दुगनी कमाई की।
+
+भारतीय सिनेमा की शुरुआती फिल्में मूक थीं और लंका दहन भी उन्हीं फिल्मों में से एक है। इस फिल्म में एक डायलॉग नहीं थे। स्क्रीन पर टेक्स्ट और कलाकारों के अभिनय से ही फिल्म आगे बढ़ती थी।
+
+### एक ही एक्टर ने निभाया था राम-सीता का किरदार
+
+उस जमाने में मेल एक्टर ही फीमेल किरदार निभाए करते थे और इसीलिए अभिनेता अन्ना सालुंके ने 'लंका दहन' में श्रीराम और माता सीता दोनों की भूमिका निभाई थी। उनके अलावा इसमें गनपत जी शिंदे ने हनुमान की भूमिका निभाई थी।
+
+फिल्म में इस्तेमाल की गई ट्रिक फोटोग्राफी और स्पेशल इफेक्ट्स ने दर्शकों को खूब रोमांचित किया। आम जनता के बीच यह फिल्म काफी लोकप्रिय रही। फिल्म इतिहासकार अमृत गंगार के अनुसार, टिकट काउंटरों से मिले सिक्कों को बोरियों में भरकर बैलगाड़ियों के जरिए निर्माता के दफ्तर तक पहुंचाया जाता था।
+
+बॉम्बे के मैजेस्टिक सिनेमा के बाहर लंबी कतारें लग जाती थीं, जहां लोग टिकट पाने के लिए आपस में झगड़ पड़ते थे और टिकट काउंटर पर सिक्के उछालते थे, क्योंकि फिल्म अक्सर 'हाउसफुल' रहती थी।
+
+'लंका दहन' 1917 की एक भारतीय मूक फिल्म है, जिसका निर्देशन दादा साहब फाल्के ने किया था। फाल्के ने ही इस फिल्म की पटकथा भी लिखी थी।
+
+यह भी पढ़ें- दुनियाभर ने जपा 'राम नाम', Ramayana ने गुरुवार को बॉक्स ऑफिस पर कर दिखाया कमाल; 22वें दिन दनादन हुई धनवर्षा
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/entertainment/bollywood-dadasaheb-phalke-made-first-film-based-on-ramayana-titled-lanka-dahan-109-years-before-40450579.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक 109 साल पहले आई थी पहली 'रामायण', एक हफ्ते में कमाए थे 30, 000; फिल्म में नहीं था कोई डायलॉग - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+{
     id: 98151,
     title: `Clayton and Rocchiccioli named in Australia Test squad for New Zealand series`,
     slug: `clayton-and-rocchiccioli-named-in-australia-test-squad-for-new-ze-2026`,
