@@ -5,6 +5,7 @@ import { useSearchParams } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
 import BreakingStrip from "@/components/BreakingStrip";
+import LiveIndiaPulse from "@/components/LiveIndiaPulse";
 import HeroGrid from "@/components/HeroGrid";
 import AdSlot from "@/components/AdSlot";
 import MorningBriefCard from "@/components/MorningBriefCard";
@@ -272,6 +273,9 @@ export function HomePageContent({
     <div className={`min-h-screen flex flex-col bg-[#FAF8F4] dark:bg-[#080C16] text-[#0B1020] dark:text-[#F1F5F9] transition-colors ${isHindi ? "font-hindi" : ""}`}>
       {/* Breaking Strip */}
       <BreakingStrip currentLanguage={currentLanguage} />
+
+      {/* Compact Live India Pulse Bar */}
+      <LiveIndiaPulse currentLanguage={currentLanguage} />
 
       <Suspense fallback={null}>
         <SearchParamsWatcher onParams={handleParams} />

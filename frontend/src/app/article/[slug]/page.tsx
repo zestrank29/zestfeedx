@@ -29,6 +29,7 @@ import ArticleShareBar from "./ArticleShareBar";
 import ReaderCounter from "@/components/ReaderCounter";
 import AiSummarizer from "@/components/AiSummarizer";
 import LiveCricketWidget from "@/components/LiveCricketWidget";
+import ArticleReaderToggle from "@/components/ArticleReaderToggle";
 
 function formatSeoTitle(rawTitle: string): string {
   const clean = rawTitle.replace(/^[🚨🏹🎬🌐🏏🩺⚡📰\s]+/, "").trim();
@@ -484,7 +485,15 @@ export default async function ArticlePage({ params }: Props) {
             </ul>
           </section>
 
-          {/* Article Main Text Content */}
+          {/* Article Main Text Content with 60-Second Brief vs Full Deep-Dive Toggle */}
+          <ArticleReaderToggle
+            isHindi={isHindi}
+            deck={article.deck}
+            takeaways={article.key_takeaways}
+            whyItMatters={article.why_it_matters_today || article.why_it_matters}
+            whoIsAffected={article.who_is_affected}
+            contentMarkdown={article.content_markdown}
+          >
           <div className="text-base leading-relaxed text-[#0B1020] dark:text-[#F1F5F9] space-y-6 first-letter-dropcap">
             {article.content_markdown
               .trim()
@@ -569,6 +578,7 @@ export default async function ArticlePage({ params }: Props) {
                 );
               })}
           </div>
+          </ArticleReaderToggle>
 
           {/* Reserved In-Article Ad Slot (Zero CLS) */}
           <div className="my-8">
