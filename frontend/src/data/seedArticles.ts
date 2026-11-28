@@ -8,7 +8,1823 @@ export const SEED_ARTICLES: Article[] = [
   
   
   
+  
+  
   {
+    id: 184,
+    title: `2027 World Cup venue at Victoria Falls stages first official match`,
+    slug: `2027-world-cup-venue-at-victoria-falls-stages-first-official-matc-2026`,
+    original_title: `2027 World Cup venue at Victoria Falls stages first official match`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:19:10Z`,
+    updated_at: `2026-11-28T06:19:10Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564330.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `2027 World Cup venue at Victoria Falls stages first official match`,
+    image_courtesy: `Photo: Athletics & Cricket Media Desk (Unsplash License)`,
+    image_photographer: `Athletics & Cricket Media Desk`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `The Mosi-oa-Tunya Cricket Stadium in Zimbabwe will be hosting four games during next year's World Cup`,
+    content: `The Mosi-oa-Tunya Cricket Stadium in Zimbabwe will be hosting four games during next year's World Cup
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564330.html?ex_cid=OTC-RSS)`,
+    title_en: `2027 World Cup venue at Victoria Falls stages first official match`,
+    summary_en: `The Mosi-oa-Tunya Cricket Stadium in Zimbabwe will be hosting four games during next year's World Cup`,
+    content_en: `The Mosi-oa-Tunya Cricket Stadium in Zimbabwe will be hosting four games during next year's World Cup
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564330.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-184`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-28 11:49:10 IST`,
+    detected_at: `2026-11-28T06:19:09Z`,
+    verified_at: `2026-11-28T06:19:10Z`,
+    approved_at: `2026-11-28T06:19:10Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding 2027 World Cup venue at Victoria Falls stages first official match.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+  {
+    id: 185,
+    title: `'Carefree' Shami content to focus on white-ball cricket after Test retirement`,
+    slug: `carefree-shami-content-to-focus-on-white-ball-cricket-after-test-2026`,
+    original_title: `'Carefree' Shami content to focus on white-ball cricket after Test retirement`,
+    category: `cricket`,
+    topic: `cricket`,
+    language: `en`,
+    fomo_badge: `Cricket Wire`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:19:10Z`,
+    updated_at: `2026-11-28T06:19:10Z`,
+    source_name: `ESPNcricinfo Wire`,
+    source_url: `https://www.cricinfo.com/ci/content/story/1564312.html?ex_cid=OTC-RSS`,
+    source_courtesy: `Source: ESPNcricinfo Wire`,
+    image_url: `https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `'Carefree' Shami content to focus on white-ball cricket after Test retirement`,
+    image_courtesy: `Photo: Stadium Photography Wire (Unsplash License)`,
+    image_photographer: `Stadium Photography Wire`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Report — Attributed to Primary Source`,
+    tags: `Cricket, Sports, Match Report`,
+    summary: `Looking ahead to the Vijay Hazare Trophy, the Bengal quick said he can "pick and choose" games now`,
+    content: `Looking ahead to the Vijay Hazare Trophy, the Bengal quick said he can "pick and choose" games now
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564312.html?ex_cid=OTC-RSS)`,
+    title_en: `'Carefree' Shami content to focus on white-ball cricket after Test retirement`,
+    summary_en: `Looking ahead to the Vijay Hazare Trophy, the Bengal quick said he can "pick and choose" games now`,
+    content_en: `Looking ahead to the Vijay Hazare Trophy, the Bengal quick said he can "pick and choose" games now
+
+---
+
+**Original Source:** [ESPNcricinfo Wire](https://www.cricinfo.com/ci/content/story/1564312.html?ex_cid=OTC-RSS)`,
+    author_name: `ZestFeedX Cricket Desk`,
+    author_bio: `Cricket wire dispatches attributed to primary sports sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    is_live_cricket: true,
+    match_id: `match-dispatch-185`,
+    live_score: `Score Under Official Verification`,
+    match_status: `Active Match Progress`,
+    score_verified_at: `2026-11-28 11:49:10 IST`,
+    detected_at: `2026-11-28T06:19:09Z`,
+    verified_at: `2026-11-28T06:19:10Z`,
+    approved_at: `2026-11-28T06:19:10Z`,
+    why_it_matters_today: `Tournament and championship standings impact regarding 'Carefree' Shami content to focus on white-ball cricket after Test retirement.`,
+    who_is_affected: `Cricket fans, fantasy sport participants, selectors, and sports analysts worldwide.`,
+  },
+{
+    id: 168,
+    title: `ICMR Survey Finds Widespread Vitamin B12 Deficiency Among Indians: Symptoms, Causes And What To Do - Health and Me`,
+    slug: `icmr-survey-finds-widespread-vitamin-b12-deficiency-among-indians-symp-2026`,
+    original_title: `ICMR Survey Finds Widespread Vitamin B12 Deficiency Among Indians: Symptoms, Causes And What To Do - Health and Me`,
+    category: `health`,
+    topic: `nutrition`,
+    language: `en`,
+    fomo_badge: `Health Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:18:17Z`,
+    updated_at: `2026-11-28T06:18:17Z`,
+    source_name: `Indian Council of Medical Research (ICMR)`,
+    source_url: `https://www.healthandme.com/health-news/icmr-survey-finds-widespread-vitamin-b12-deficiency-among-indians-symptoms-causes-and-what-to-do-article-156566267`,
+    source_courtesy: `Source: Indian Council of Medical Research (ICMR)`,
+    image_url: `/images/articles/icmr-survey-finds-widespread-vitamin-b12-deficiency-among-indians-symp-2026.webp`,
+    image_alt: `ICMR Survey Finds Widespread Vitamin B12 Deficiency Among Indians: Symptoms, Causes And What To Do - Health and Me`,
+    image_courtesy: `Image: Indian Council of Medical Research (ICMR) (External Source Attribution)`,
+    image_photographer: `Indian Council of Medical Research (ICMR)`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `Vitamin B12 deficiency is widespread across age groups in India, according to a nationwide survey by the Indian Council of Medical Research (ICMR). The nutrient is essential for brain and nerve health, red blood cell formation and DNA synth`,
+    content: `Vitamin B12 deficiency is widespread across age groups in India, according to a nationwide survey by the Indian Council of Medical Research (ICMR). The nutrient is essential for brain and nerve health, red blood cell formation and DNA synthesis.The findings from the Survey for Assessment of Markers of Population Health, Activity, Diet & Anthropometry (SAMPADA), conducted in 2023–25, showed particularly high deficiency rates among adolescent boys and girls, pregnant women and adult men.The survey defined vitamin B12 deficiency as serum vitamin B12 levels below 203 pg/mL.
+
+More than 60% of each of these three population groups had levels below this threshold.Also read: 1 In 2 Indian Women And Nearly 1 In 2 Girls Have Anemia: New ICMR Survey Reveals Burden In Young Children TooVitamin B12 Deficiency: Who Is Most Affected?The survey found varying rates of vitamin B12 deficiency across age groups:ChildrenChildren aged 5–9 years: 46.5% had low vitamin B12 levels.Children aged 12–59 months: 37.3% were deficient.AdolescentsBoys: 66.1% were deficient.Girls: 65.4% were deficient.Adult womenPregnant women: 63.1% had low vitamin B12 levels.Women of reproductive age (15–49 years): 57.4% were deficient.Women aged 20–59 years: 55.2% had low levels.Lactating women: 51.8% were deficient.Adult men and older peopleMen aged 20–59 years: 60.4% were deficient.Men aged 60 and above: 46.8% were deficient.Women aged 60 and above: 41.2% were deficient.The survey also found differences in vitamin B12 deficiency rates between urban and rural populations.Adult men: 69% in urban areas versus 57.1% in rural areas.Pregnant women: 65.8% in urban areas versus 61.7% in rural areas.Adolescent girls: 66.5% in rural areas versus 61.7% in urban areas.Adolescent boys: 68.6% in urban areas versus 65.3% in rural areas.What Is Vitamin B12?Read More: ICMR Flags Widespread Antibiotic Resistance Across India: From E.
+
+coli To Typhoid, Which Drugs Are Failing?Vitamin B12 is an essential nutrient that supports red blood cell formation, DNA synthesis and the normal functioning of the nervous system. It also helps maintain the myelin sheath, the protective covering around nerves that enables them to transmit signals properly.The vitamin is naturally found in animal-derived foods such as meat, fish, eggs and dairy products.
+
+People who consume little or no animal-based food may be at greater risk of inadequate intake. However, deficiency can also result from poor absorption and certain medical conditions.Symptoms Of Vitamin B12 DeficiencyVitamin B12 deficiency can cause symptoms that develop gradually and may go unnoticed initially.
+
+Common signs include:Numbness or tingling in the hands, legs or feetDifficulty walking and maintaining balanceWeakness and fatigueAnemiaTongue inflammation or swellingMemory problems, confusion and cognitive difficulties   Because these symptoms can occur with several other conditions, vitamin B12 deficiency may go undetected or be misdiagnosed.A blood test can help identify low vitamin B12 levels.
+
+Treatment may involve oral supplements or injections, depending on the severity and underlying cause of the deficiency. Early diagnosis is important because prolonged deficiency can cause nerve damage, which may not always be fully reversible. Why Vegetarians May Be At Greater RiskDr Priyanka Sehrawat, who trained at the All India Institute of Medical Sciences (AIIMS), Delhi, highlighted the risk of vitamin B12 deficiency among vegetarians in an Instagram post.She explained in an Instagram post that plants do not naturally produce vitamin B12.
+
+As a result, people following strictly plant-based diets may not get adequate amounts of the nutrient through food alone.Research has also reported vitamin B12 deficiency among vegetarians across age groups, including children, adolescents, adults and older people.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.healthandme.com/health-news/icmr-survey-finds-widespread-vitamin-b12-deficiency-among-indians-symptoms-causes-and-what-to-do-article-156566267)`,
+    title_en: `ICMR Survey Finds Widespread Vitamin B12 Deficiency Among Indians: Symptoms, Causes And What To Do - Health and Me`,
+    summary_en: `Vitamin B12 deficiency is widespread across age groups in India, according to a nationwide survey by the Indian Council of Medical Research (ICMR). The nutrient is essential for brain and nerve health, red blood cell formation and DNA synth`,
+    content_en: `Vitamin B12 deficiency is widespread across age groups in India, according to a nationwide survey by the Indian Council of Medical Research (ICMR). The nutrient is essential for brain and nerve health, red blood cell formation and DNA synthesis.The findings from the Survey for Assessment of Markers of Population Health, Activity, Diet & Anthropometry (SAMPADA), conducted in 2023–25, showed particularly high deficiency rates among adolescent boys and girls, pregnant women and adult men.The survey defined vitamin B12 deficiency as serum vitamin B12 levels below 203 pg/mL.
+
+More than 60% of each of these three population groups had levels below this threshold.Also read: 1 In 2 Indian Women And Nearly 1 In 2 Girls Have Anemia: New ICMR Survey Reveals Burden In Young Children TooVitamin B12 Deficiency: Who Is Most Affected?The survey found varying rates of vitamin B12 deficiency across age groups:ChildrenChildren aged 5–9 years: 46.5% had low vitamin B12 levels.Children aged 12–59 months: 37.3% were deficient.AdolescentsBoys: 66.1% were deficient.Girls: 65.4% were deficient.Adult womenPregnant women: 63.1% had low vitamin B12 levels.Women of reproductive age (15–49 years): 57.4% were deficient.Women aged 20–59 years: 55.2% had low levels.Lactating women: 51.8% were deficient.Adult men and older peopleMen aged 20–59 years: 60.4% were deficient.Men aged 60 and above: 46.8% were deficient.Women aged 60 and above: 41.2% were deficient.The survey also found differences in vitamin B12 deficiency rates between urban and rural populations.Adult men: 69% in urban areas versus 57.1% in rural areas.Pregnant women: 65.8% in urban areas versus 61.7% in rural areas.Adolescent girls: 66.5% in rural areas versus 61.7% in urban areas.Adolescent boys: 68.6% in urban areas versus 65.3% in rural areas.What Is Vitamin B12?Read More: ICMR Flags Widespread Antibiotic Resistance Across India: From E.
+
+coli To Typhoid, Which Drugs Are Failing?Vitamin B12 is an essential nutrient that supports red blood cell formation, DNA synthesis and the normal functioning of the nervous system. It also helps maintain the myelin sheath, the protective covering around nerves that enables them to transmit signals properly.The vitamin is naturally found in animal-derived foods such as meat, fish, eggs and dairy products.
+
+People who consume little or no animal-based food may be at greater risk of inadequate intake. However, deficiency can also result from poor absorption and certain medical conditions.Symptoms Of Vitamin B12 DeficiencyVitamin B12 deficiency can cause symptoms that develop gradually and may go unnoticed initially.
+
+Common signs include:Numbness or tingling in the hands, legs or feetDifficulty walking and maintaining balanceWeakness and fatigueAnemiaTongue inflammation or swellingMemory problems, confusion and cognitive difficulties   Because these symptoms can occur with several other conditions, vitamin B12 deficiency may go undetected or be misdiagnosed.A blood test can help identify low vitamin B12 levels.
+
+Treatment may involve oral supplements or injections, depending on the severity and underlying cause of the deficiency. Early diagnosis is important because prolonged deficiency can cause nerve damage, which may not always be fully reversible. Why Vegetarians May Be At Greater RiskDr Priyanka Sehrawat, who trained at the All India Institute of Medical Sciences (AIIMS), Delhi, highlighted the risk of vitamin B12 deficiency among vegetarians in an Instagram post.She explained in an Instagram post that plants do not naturally produce vitamin B12.
+
+As a result, people following strictly plant-based diets may not get adequate amounts of the nutrient through food alone.Research has also reported vitamin B12 deficiency among vegetarians across age groups, including children, adolescents, adults and older people.
+
+---
+
+**Original Source:** [Indian Council of Medical Research (ICMR)](https://www.healthandme.com/health-news/icmr-survey-finds-widespread-vitamin-b12-deficiency-among-indians-symptoms-causes-and-what-to-do-article-156566267)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Indian Council of Medical Research (ICMR).`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for ICMR Survey Finds Widespread Vitamin B12 Deficiency Among Indians: Symptoms, Causes And What To Do - Health and Me.`,
+    primary_source: `Indian Council of Medical Research (ICMR)`,
+  },
+  {
+    id: 169,
+    title: `योनि से बदबू आती है, लेकिन कोई इंफेक्शन नहीं है? डॉक्टर ने खुद बताए इसके 5 बड़े कारण - Onlymyhealth`,
+    slug: `5-onlymyhealth-2026`,
+    original_title: `योनि से बदबू आती है, लेकिन कोई इंफेक्शन नहीं है? डॉक्टर ने खुद बताए इसके 5 बड़े कारण - Onlymyhealth`,
+    category: `health`,
+    topic: `public-health`,
+    language: `hi`,
+    fomo_badge: `स्वास्थ्य वायर`,
+    read_time: `6 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:18:19Z`,
+    updated_at: `2026-11-28T06:18:19Z`,
+    source_name: `Onlymyhealth`,
+    source_url: `https://www.onlymyhealth.com/hindi/what-causes-vaginal-odour-without-infection-explained-by-doctor-12977852147`,
+    source_courtesy: `Source: Onlymyhealth`,
+    image_url: `/images/articles/5-onlymyhealth-2026.webp`,
+    image_alt: `योनि से बदबू आती है, लेकिन कोई इंफेक्शन नहीं है? डॉक्टर ने खुद बताए इसके 5 बड़े कारण - Onlymyhealth`,
+    image_courtesy: `Image: Onlymyhealth (External Source Attribution)`,
+    image_photographer: `Onlymyhealth`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Health, News, India`,
+    summary: `महिलाओं के लिए योनि या प्राइवेट पार्ट से आने वाली बदबू एक ऐसी समस्या है, जिसके बारे में वे अक्सर खुलकर बात करने से बचती हैं। कई बार नहाने और साफ-सफाई रखने के बावजूद, उन्हें दिनभर दुर्गंध महसूस होती है। इसे हम अक्सर योनि संक्रमण से जोड़कर देख`,
+    content: `महिलाओं के लिए योनि या प्राइवेट पार्ट से आने वाली बदबू एक ऐसी समस्या है, जिसके बारे में वे अक्सर खुलकर बात करने से बचती हैं। कई बार नहाने और साफ-सफाई रखने के बावजूद, उन्हें दिनभर दुर्गंध महसूस होती है। इसे हम अक्सर योनि संक्रमण से जोड़कर देखते हैं, लेकिन क्या आप जानते हैं कि यह जरूरी नहीं कि हर बार बदबू का कारण कोई संक्रमण ही हो।
+
+वृंदावन स्थित Mumma's Blessing IVF और Birthing Paradise की मेडिकल डायरेक्टर, गायनेकोलॉजिस्ट और IVF स्पेशलिस्ट डॉ. शोभा गुप्ता के अनुसार, "योनि का अपना प्राकृतिक वातावरण और हल्की गंध होती है। हर महिला में यह गंध अलग हो सकती है और मासिक चक्र के अलग-अलग चरणों में इसमें थोड़ा बदलाव आना सामान्य है। इसलिए प्राइवेट पार्ट से हल्की प्राकृतिक गंध आने का मतलब यह नहीं है कि महिला की साफ-सफाई में कोई कमी है या उसे संक्रमण है। समस्या तब होती है, जब गंध अचानक बहुत तेज हो जाए, लंबे समय तक बनी रहे या उसके साथ दूसरे असामान्य लक्षण दिखाई दें।"
+
+2012 में Journal of Lower Genital Tract Disease में प्रकाशित समीक्षा के अनुसार, महिलाओं में योनि की दुर्गंध के सबसे आम कारण बैक्टीरियल वेजिनोसिस (Bacterial vaginosis) और ट्राइकोमोनिएसिस (Trichomoniasis) जैसे संक्रमण हैं।
+
+### इंफेक्शन न होने बावजूद प्राइवेट पार्ट से बदबू आने के कारण
+
+महिलाओं के प्राइवेट पार्ट के आसपास पसीने की ग्रंथियां होती हैं। गर्मी, उमस, शारीरिक गतिविधि और लंबे समय तक बैठकर काम करने के कारण इस हिस्से में पसीना अधिक जमा हो सकता है। जांघों के बीच और बाहरी जननांगों के आसपास नमी बनी रहने से त्वचा पर मौजूद सामान्य बैक्टीरिया पसीने के घटकों को तोड़ते हैं, जिससे शरीर की गंध बढ़ सकती है।
+
+डॉ. शोभा गुप्ता सलाह देती हैं, "यदि व्यायाम करने, यात्रा करने या लंबे समय तक बाहर रहने के बाद कपड़े नहीं बदले जाते, तो यह गंध अधिक महसूस हो सकती है। इसलिए इस हिस्से को साफ और सूखा रखना जरूरी है।"
+
+इसे भी पढ़ें: Vaginal Discharge: महिलाओं में सफेद पानी के साथ दिखें ये 7 बदलाव, तो न करें नजरअंदाज
+
+हम जो खाते हैं, उसका असर शरीर की गंध पर भी पड़ सकता है। लहसुन, प्याज और कुछ तेज गंध वाले खाद्य पदार्थों के सेवन से शरीर के पसीने और सांस की गंध में बदलाव आ सकता है। पर्याप्त पानी नहीं पीने से पेशाब अधिक गाढ़ा हो सकता है, जिससे उसके आसपास गंध महसूस हो सकती है।
+
+2020 में International Journal of Molecular Sciences के अनुसार, खानपान भी योनि की गंध को प्रभावित करता है। हालांकि, खान-पान से योनि की गंध में सीधे बदलाव होने के प्रमाण सीमित हैं। केवल किसी विशेष खाद्य पदार्थ को बंद कर देने से योनि की बदबू का इलाज नहीं किया जा सकता। संतुलित भोजन और पर्याप्त पानी पीना सामान्य स्वास्थ्य के लिए उपयोगी है।
+
+लगातार बहुत तंग जींस, नायलॉन या सिंथेटिक कपड़े पहनने से प्राइवेट पार्ट के आसपास हवा कम पास होती है। इससे पसीना और नमी लंबे समय तक बनी रहती है। ऐसी स्थिति में त्वचा पर जलन, खुजली और अप्रिय गंध की समस्या बढ़ सकती है। विशेषकर गर्मियों में लंबे समय तक एक ही कपड़े पहनना या पसीने से भीगे अंडरगारमेंट्स में रहना परेशानी बढ़ा सकता है। सूती और आरामदायक अंडरगारमेंट्स पहनना बेहतर विकल्प है।
+
+NCBI के StatPearls में प्रकाशित अध्याय वेजिनाइटिस (Vaginitis — योनि में सूजन या जलन) के अनुसार, महिलाओं के शरीर में एस्ट्रोजन हार्मोन का स्तर मासिक चक्र, गर्भावस्था, प्रसव के बाद और रजोनिवृत्ति के दौरान बदलता रहता है। इन बदलावों का असर योनि के प्राकृतिक वातावरण, नमी और स्राव पर पड़ सकता है।
+
+डॉ. शोभा गुप्ता उदाहरण से समझाती हैं, "मेनोपॉज के बाद एस्ट्रोजन कम होने से योनि में सूखापन और प्राकृतिक अम्लीय वातावरण में बदलाव आ सकता है। इससे कुछ महिलाओं को गंध में बदलाव महसूस हो सकता है। इसी तरह मासिक धर्म के दौरान रक्त के कारण भी कुछ समय के लिए अलग गंध आना सामान्य हो सकता है।"
+
+कभी-कभी महिलाओं को लगता है कि योनि से बदबू आ रही है, जबकि वास्तव में गंध पेशाब की हो सकती है। पेशाब की कुछ बूंदें अंडरगारमेंट्स में रह जाने, पर्याप्त पानी न पीने या पेशाब के बाद ठीक से सफाई न होने से गंध महसूस हो सकती है। उम्र बढ़ने, प्रसव या पेल्विक फ्लोर की कमजोरी के कारण पेशाब का हल्का रिसाव भी इसकी वजह बन सकता है।
+
+### बदबू से बचने के लिए किन बातों का रखें ध्यान?
+
+डॉ. शोभा गुप्ता के अनुसार, प्राइवेट पार्ट की सफाई के लिए बहुत अधिक उत्पादों का इस्तेमाल करने की जरूरत नहीं है। कुछ सामान्य सावधानियां अपनाकर नमी और बाहरी गंध को कम किया जा सकता है।
+
+इसे भी पढ़ें: Cervical Health: White Discharge में बदबू को न करें इग्नोर? डॉक्टर से जानें सर्वाइकल इंफेक्शन के लक्षण
+
+यदि बदबू अचानक बहुत तेज हो जाए, मछली जैसी गंध आने लगे, योनि स्राव का रंग या बनावट बदल जाए, खुजली, जलन, पेशाब में दर्द या पेट के निचले हिस्से में दर्द हो, तो स्त्री रोग विशेषज्ञ से जांच करानी चाहिए। बैक्टीरियल वेजिनोसिस जैसे संक्रमण में कई बार खुजली या दर्द नहीं होता, केवल असामान्य गंध ही प्रमुख लक्षण हो सकती है। इसलिए बिना जांच के यह मान लेना सही नहीं है कि संक्रमण नहीं है।
+
+डॉ. शोभा गुप्ता के अनुसार, योनि की प्राकृतिक गंध हर महिला में अलग होती है और इसे पूरी तरह खत्म करने की कोशिश नहीं करनी चाहिए। जरूरत से ज्यादा सफाई, सुगंधित स्प्रे और योनि के अंदर साबुन का इस्तेमाल प्राकृतिक संतुलन बिगाड़ सकता है। साफ-सफाई के साथ शरीर में होने वाले बदलावों को समझना और असामान्य लक्षण दिखाई देने पर समय पर प्रोफेशनल की मदद लें।
+
+### एक स्वस्थ महिला की योनि का सामान्य pH स्तर कितना होता है?
+
+### क्या एंटीबायोटिक लेने से भी योनि की गंध में परिवर्तन होता है?
+
+इस जानकारी की सटीकता, समयबद्धता और वास्तविकता सुनिश्चित करने का हर सम्भव प्रयास किया गया है हालांकि इसकी नैतिक जि़म्मेदारी ओन्लीमायहेल्थ डॉट कॉम की नहीं है। हमारा आपसे विनम्र निवेदन है कि किसी भी उपाय को आजमाने से पहले अपने चिकित्सक से अवश्य संपर्क करें। हमारा उद्देश्य आपको जानकारी मुहैया कराना मात्र है।
+
+मीरा टैगोर 2009 से पत्रकारिता में सक्रिय हैं और पिछले 5 वर्षों से विशेष रूप से हेल्थ जर्नलिज्म पर काम कर रही हैं। फिलहाल वह OnlyMyHealthमें सीनियर सब एडिटर के तौर पर कार्यरत हैं।
+वह महिला स्वास्थ्य और यौन स्वास्थ्य जैसे संवेदनशील विषयों पर लिखती हैं और इनसे जुड़ी जानकारी को प्रमाणित स्रोतों और रिसर्च के आधार पर सटीक और सरल भाषा में पाठकों तक पहुंचाने की कोशिश करती हैं। जिन विषयों में मेडिकल पुष्टि जरूरी होती है, उन्हें प्रकाशित होने से पहले डॉक्टरों द्वारा रिव्यू किया जाता है।
+उन्होंने अपने करियर की शुरुआत प्रिंट मीडिया से की थी और OnlyMyHealth से पहले Image Reflection Centre, Haribhoomi और MyUpchar के साथ काम कर चुकी हैं।
+
+### How we keep this article up to date:
+
+We work with experts and keep a close eye on the latest in health and wellness. Whenever there is a new research or helpful information, we update our articles with accurate and useful advice.
+
+---
+
+**मूल स्रोत (Original Source):** [Onlymyhealth](https://www.onlymyhealth.com/hindi/what-causes-vaginal-odour-without-infection-explained-by-doctor-12977852147)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `योनि से बदबू आती है, लेकिन कोई इंफेक्शन नहीं है? डॉक्टर ने खुद बताए इसके 5 बड़े कारण - Onlymyhealth`,
+    summary_hi: `महिलाओं के लिए योनि या प्राइवेट पार्ट से आने वाली बदबू एक ऐसी समस्या है, जिसके बारे में वे अक्सर खुलकर बात करने से बचती हैं। कई बार नहाने और साफ-सफाई रखने के बावजूद, उन्हें दिनभर दुर्गंध महसूस होती है। इसे हम अक्सर योनि संक्रमण से जोड़कर देख`,
+    content_hi: `महिलाओं के लिए योनि या प्राइवेट पार्ट से आने वाली बदबू एक ऐसी समस्या है, जिसके बारे में वे अक्सर खुलकर बात करने से बचती हैं। कई बार नहाने और साफ-सफाई रखने के बावजूद, उन्हें दिनभर दुर्गंध महसूस होती है। इसे हम अक्सर योनि संक्रमण से जोड़कर देखते हैं, लेकिन क्या आप जानते हैं कि यह जरूरी नहीं कि हर बार बदबू का कारण कोई संक्रमण ही हो।
+
+वृंदावन स्थित Mumma's Blessing IVF और Birthing Paradise की मेडिकल डायरेक्टर, गायनेकोलॉजिस्ट और IVF स्पेशलिस्ट डॉ. शोभा गुप्ता के अनुसार, "योनि का अपना प्राकृतिक वातावरण और हल्की गंध होती है। हर महिला में यह गंध अलग हो सकती है और मासिक चक्र के अलग-अलग चरणों में इसमें थोड़ा बदलाव आना सामान्य है। इसलिए प्राइवेट पार्ट से हल्की प्राकृतिक गंध आने का मतलब यह नहीं है कि महिला की साफ-सफाई में कोई कमी है या उसे संक्रमण है। समस्या तब होती है, जब गंध अचानक बहुत तेज हो जाए, लंबे समय तक बनी रहे या उसके साथ दूसरे असामान्य लक्षण दिखाई दें।"
+
+2012 में Journal of Lower Genital Tract Disease में प्रकाशित समीक्षा के अनुसार, महिलाओं में योनि की दुर्गंध के सबसे आम कारण बैक्टीरियल वेजिनोसिस (Bacterial vaginosis) और ट्राइकोमोनिएसिस (Trichomoniasis) जैसे संक्रमण हैं।
+
+### इंफेक्शन न होने बावजूद प्राइवेट पार्ट से बदबू आने के कारण
+
+महिलाओं के प्राइवेट पार्ट के आसपास पसीने की ग्रंथियां होती हैं। गर्मी, उमस, शारीरिक गतिविधि और लंबे समय तक बैठकर काम करने के कारण इस हिस्से में पसीना अधिक जमा हो सकता है। जांघों के बीच और बाहरी जननांगों के आसपास नमी बनी रहने से त्वचा पर मौजूद सामान्य बैक्टीरिया पसीने के घटकों को तोड़ते हैं, जिससे शरीर की गंध बढ़ सकती है।
+
+डॉ. शोभा गुप्ता सलाह देती हैं, "यदि व्यायाम करने, यात्रा करने या लंबे समय तक बाहर रहने के बाद कपड़े नहीं बदले जाते, तो यह गंध अधिक महसूस हो सकती है। इसलिए इस हिस्से को साफ और सूखा रखना जरूरी है।"
+
+इसे भी पढ़ें: Vaginal Discharge: महिलाओं में सफेद पानी के साथ दिखें ये 7 बदलाव, तो न करें नजरअंदाज
+
+हम जो खाते हैं, उसका असर शरीर की गंध पर भी पड़ सकता है। लहसुन, प्याज और कुछ तेज गंध वाले खाद्य पदार्थों के सेवन से शरीर के पसीने और सांस की गंध में बदलाव आ सकता है। पर्याप्त पानी नहीं पीने से पेशाब अधिक गाढ़ा हो सकता है, जिससे उसके आसपास गंध महसूस हो सकती है।
+
+2020 में International Journal of Molecular Sciences के अनुसार, खानपान भी योनि की गंध को प्रभावित करता है। हालांकि, खान-पान से योनि की गंध में सीधे बदलाव होने के प्रमाण सीमित हैं। केवल किसी विशेष खाद्य पदार्थ को बंद कर देने से योनि की बदबू का इलाज नहीं किया जा सकता। संतुलित भोजन और पर्याप्त पानी पीना सामान्य स्वास्थ्य के लिए उपयोगी है।
+
+लगातार बहुत तंग जींस, नायलॉन या सिंथेटिक कपड़े पहनने से प्राइवेट पार्ट के आसपास हवा कम पास होती है। इससे पसीना और नमी लंबे समय तक बनी रहती है। ऐसी स्थिति में त्वचा पर जलन, खुजली और अप्रिय गंध की समस्या बढ़ सकती है। विशेषकर गर्मियों में लंबे समय तक एक ही कपड़े पहनना या पसीने से भीगे अंडरगारमेंट्स में रहना परेशानी बढ़ा सकता है। सूती और आरामदायक अंडरगारमेंट्स पहनना बेहतर विकल्प है।
+
+NCBI के StatPearls में प्रकाशित अध्याय वेजिनाइटिस (Vaginitis — योनि में सूजन या जलन) के अनुसार, महिलाओं के शरीर में एस्ट्रोजन हार्मोन का स्तर मासिक चक्र, गर्भावस्था, प्रसव के बाद और रजोनिवृत्ति के दौरान बदलता रहता है। इन बदलावों का असर योनि के प्राकृतिक वातावरण, नमी और स्राव पर पड़ सकता है।
+
+डॉ. शोभा गुप्ता उदाहरण से समझाती हैं, "मेनोपॉज के बाद एस्ट्रोजन कम होने से योनि में सूखापन और प्राकृतिक अम्लीय वातावरण में बदलाव आ सकता है। इससे कुछ महिलाओं को गंध में बदलाव महसूस हो सकता है। इसी तरह मासिक धर्म के दौरान रक्त के कारण भी कुछ समय के लिए अलग गंध आना सामान्य हो सकता है।"
+
+कभी-कभी महिलाओं को लगता है कि योनि से बदबू आ रही है, जबकि वास्तव में गंध पेशाब की हो सकती है। पेशाब की कुछ बूंदें अंडरगारमेंट्स में रह जाने, पर्याप्त पानी न पीने या पेशाब के बाद ठीक से सफाई न होने से गंध महसूस हो सकती है। उम्र बढ़ने, प्रसव या पेल्विक फ्लोर की कमजोरी के कारण पेशाब का हल्का रिसाव भी इसकी वजह बन सकता है।
+
+### बदबू से बचने के लिए किन बातों का रखें ध्यान?
+
+डॉ. शोभा गुप्ता के अनुसार, प्राइवेट पार्ट की सफाई के लिए बहुत अधिक उत्पादों का इस्तेमाल करने की जरूरत नहीं है। कुछ सामान्य सावधानियां अपनाकर नमी और बाहरी गंध को कम किया जा सकता है।
+
+इसे भी पढ़ें: Cervical Health: White Discharge में बदबू को न करें इग्नोर? डॉक्टर से जानें सर्वाइकल इंफेक्शन के लक्षण
+
+यदि बदबू अचानक बहुत तेज हो जाए, मछली जैसी गंध आने लगे, योनि स्राव का रंग या बनावट बदल जाए, खुजली, जलन, पेशाब में दर्द या पेट के निचले हिस्से में दर्द हो, तो स्त्री रोग विशेषज्ञ से जांच करानी चाहिए। बैक्टीरियल वेजिनोसिस जैसे संक्रमण में कई बार खुजली या दर्द नहीं होता, केवल असामान्य गंध ही प्रमुख लक्षण हो सकती है। इसलिए बिना जांच के यह मान लेना सही नहीं है कि संक्रमण नहीं है।
+
+डॉ. शोभा गुप्ता के अनुसार, योनि की प्राकृतिक गंध हर महिला में अलग होती है और इसे पूरी तरह खत्म करने की कोशिश नहीं करनी चाहिए। जरूरत से ज्यादा सफाई, सुगंधित स्प्रे और योनि के अंदर साबुन का इस्तेमाल प्राकृतिक संतुलन बिगाड़ सकता है। साफ-सफाई के साथ शरीर में होने वाले बदलावों को समझना और असामान्य लक्षण दिखाई देने पर समय पर प्रोफेशनल की मदद लें।
+
+### एक स्वस्थ महिला की योनि का सामान्य pH स्तर कितना होता है?
+
+### क्या एंटीबायोटिक लेने से भी योनि की गंध में परिवर्तन होता है?
+
+इस जानकारी की सटीकता, समयबद्धता और वास्तविकता सुनिश्चित करने का हर सम्भव प्रयास किया गया है हालांकि इसकी नैतिक जि़म्मेदारी ओन्लीमायहेल्थ डॉट कॉम की नहीं है। हमारा आपसे विनम्र निवेदन है कि किसी भी उपाय को आजमाने से पहले अपने चिकित्सक से अवश्य संपर्क करें। हमारा उद्देश्य आपको जानकारी मुहैया कराना मात्र है।
+
+मीरा टैगोर 2009 से पत्रकारिता में सक्रिय हैं और पिछले 5 वर्षों से विशेष रूप से हेल्थ जर्नलिज्म पर काम कर रही हैं। फिलहाल वह OnlyMyHealthमें सीनियर सब एडिटर के तौर पर कार्यरत हैं।
+वह महिला स्वास्थ्य और यौन स्वास्थ्य जैसे संवेदनशील विषयों पर लिखती हैं और इनसे जुड़ी जानकारी को प्रमाणित स्रोतों और रिसर्च के आधार पर सटीक और सरल भाषा में पाठकों तक पहुंचाने की कोशिश करती हैं। जिन विषयों में मेडिकल पुष्टि जरूरी होती है, उन्हें प्रकाशित होने से पहले डॉक्टरों द्वारा रिव्यू किया जाता है।
+उन्होंने अपने करियर की शुरुआत प्रिंट मीडिया से की थी और OnlyMyHealth से पहले Image Reflection Centre, Haribhoomi और MyUpchar के साथ काम कर चुकी हैं।
+
+### How we keep this article up to date:
+
+We work with experts and keep a close eye on the latest in health and wellness. Whenever there is a new research or helpful information, we update our articles with accurate and useful advice.
+
+---
+
+**मूल स्रोत (Original Source):** [Onlymyhealth](https://www.onlymyhealth.com/hindi/what-causes-vaginal-odour-without-infection-explained-by-doctor-12977852147)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Health श्रेणी से जुड़ी यह रिपोर्ट Onlymyhealth के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक योनि से बदबू आती है, लेकिन कोई इंफेक्शन नहीं है? डॉक्टर ने खुद बताए इसके 5 बड़े कारण - Onlymyhealth से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Onlymyhealth`,
+  },
+  {
+    id: 170,
+    title: `Thirupparankundram row: 'Deepathoon' set for lamp lighting as preparations begin on hill`,
+    slug: `thirupparankundram-row-deepathoon-set-for-lamp-lighting-as-preparation-2026`,
+    original_title: `Thirupparankundram row: 'Deepathoon' set for lamp lighting as preparations begin on hill`,
+    category: `politics`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:18:21Z`,
+    updated_at: `2026-11-28T06:18:21Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/thirupparankundram-row-deepathoon-set-for-lamp-lighting-as-preparation-2026.jpg`,
+    image_alt: `Thirupparankundram row: 'Deepathoon' set for lamp lighting as preparations begin on hill`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `You don’t have any Active Subscription.`,
+    content: `You don’t have any Active Subscription.
+
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
+
+Weather News November 28, 2026 e-Paper
+
+The View From India Looking at World Affairs from the Indian perspective.
+
+First Day First Show News and reviews from the world of cinema and streaming.
+
+Today's Cache Your download of the top 5 technology stories of the day.
+
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
+
+Data Point Decoding the headlines with facts, figures, and numbers
+
+THEdge At the cutting edge of education and careers
+
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
+
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram
+
+Updated - November 28, 2026 11:46 am IST
+
+Temporary platform and scaffolding erected around Deepathoon pillar on November 28, 2026
+                                                  | Photo Credit:  
+                          ANI
+
+T emporary platforms and scaffolding are being erected around the ‘ Deepathoon ’ stone pillar atop Thiruparankundram Hill ahead of Saturday’s (November 28, 2026) lamp lighting. The work is being carried out under CRPF security, while BJP and Hindu Munnani leaders are also expected to visit the hill for the ceremony.
+
+Supreme Court-appointed receivers Justice S. Vaidyanathan and Justice V. Parthiban arrived at Madurai airport to oversee the court-directed lamp lighting at ‘Deepathoon’. The former judges declined to comment on the matter, saying they would first discuss the issues before making any public statement.
+
+The Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram hill. Hearing the contempt petitions on Friday (November 27, 2026), the court accused the authorities and the Board of Trustees of having acted “according to their political bosses”.
+
+The Supreme Court directed the temple receivers to light the Karthigai Deepam at the stone pillar -- ‘deepathoon’ -- on Saturday (November 28, 2026) after consultations with the priests.
+
+This year’s festival might be over, but the long-standing issue is far from resolved. Disagreements over the use of the hill by the Muslim and Hindu communities, its ownership and traditional practices have existed since 1915. Now, with the apex Court’s order being a temporary arrangement, legal closure is yet to come.
+
+Supreme Court-appointed receivers Justice S. Vaidyanathan and Justice V. Parthiban arrived at the Sri Subramaniya Swamy Temple in. Accompanied by CRPF personnel, the receivers are set to proceed to the Deepathoon site.
+
+A devotee at Thiruparankundram welcomes the Supreme Court’s verdict.
+
+DMK MP P. Wilson says the Tamil Nadu government failed to present a consistent position before the Supreme Court on the Karthigai Deepam dispute. He argues that the state’s differing stands in the review and contempt proceedings led the court to issue its latest direction on lighting the lamp at Deepathoon.
+
+Supreme Court-appointed receivers Justice S. Vaidyanathan and Justice V. Parthiban arrived at Madurai airport on to oversee the court-directed lamp lighting at ‘Deepathoon.’
+
+Work on a temporary platform and scaffolding has begun around the Deepathoon stone pillar atop Thiruparankundram Hill ahead of the lamp lighting. The preparations are underway under CRPF security, with BJP and Hindu Munnani leaders also scheduled to visit the hill.
+
+CRPF personnel assumed full security and surveillance control of Thiruparankundram Hill early Saturday, following a Supreme Court directive. The troops received a warm welcome from local residents and devotees, who showered them and their vehicles with flower petals.
+
+Special prayers were held at Sikandar Dargah atop Thiruparankundram Hill, with Muslim devotees allowed to enter after security checks amid heightened security over the ‘Deepathoon’ dispute.
+
+DMK spokesperson TKS Elangovan questions the move to light the Karthigai Deepam at the ‘Deepathoon’ stone pillar, arguing that it goes against a century-old tradition.
+
+CRPF personnel were seen moving towards Thiruparankundram Hill ahead of the lighting of the ‘Deepathoon’ today.
+
+Scores of Hindu and Muslim devotees began arriving at the foothills of Thiruparankundram hill early Saturday morning, November 28, following the Supreme Court’s directive permitting the lighting of the Karthigai Deepam atop the Deepathoon stone pillar.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece)`,
+    title_en: `Thirupparankundram row: 'Deepathoon' set for lamp lighting as preparations begin on hill`,
+    summary_en: `You don’t have any Active Subscription.`,
+    content_en: `You don’t have any Active Subscription.
+
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
+
+Weather News November 28, 2026 e-Paper
+
+The View From India Looking at World Affairs from the Indian perspective.
+
+First Day First Show News and reviews from the world of cinema and streaming.
+
+Today's Cache Your download of the top 5 technology stories of the day.
+
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
+
+Data Point Decoding the headlines with facts, figures, and numbers
+
+THEdge At the cutting edge of education and careers
+
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
+
+Gender Agenda Stories from beyond the binary.
+
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+
+### Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram
+
+Updated - November 28, 2026 11:46 am IST
+
+Temporary platform and scaffolding erected around Deepathoon pillar on November 28, 2026
+                                                  | Photo Credit:  
+                          ANI
+
+T emporary platforms and scaffolding are being erected around the ‘ Deepathoon ’ stone pillar atop Thiruparankundram Hill ahead of Saturday’s (November 28, 2026) lamp lighting. The work is being carried out under CRPF security, while BJP and Hindu Munnani leaders are also expected to visit the hill for the ceremony.
+
+Supreme Court-appointed receivers Justice S. Vaidyanathan and Justice V. Parthiban arrived at Madurai airport to oversee the court-directed lamp lighting at ‘Deepathoon’. The former judges declined to comment on the matter, saying they would first discuss the issues before making any public statement.
+
+The Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram hill. Hearing the contempt petitions on Friday (November 27, 2026), the court accused the authorities and the Board of Trustees of having acted “according to their political bosses”.
+
+The Supreme Court directed the temple receivers to light the Karthigai Deepam at the stone pillar -- ‘deepathoon’ -- on Saturday (November 28, 2026) after consultations with the priests.
+
+This year’s festival might be over, but the long-standing issue is far from resolved. Disagreements over the use of the hill by the Muslim and Hindu communities, its ownership and traditional practices have existed since 1915. Now, with the apex Court’s order being a temporary arrangement, legal closure is yet to come.
+
+Supreme Court-appointed receivers Justice S. Vaidyanathan and Justice V. Parthiban arrived at the Sri Subramaniya Swamy Temple in. Accompanied by CRPF personnel, the receivers are set to proceed to the Deepathoon site.
+
+A devotee at Thiruparankundram welcomes the Supreme Court’s verdict.
+
+DMK MP P. Wilson says the Tamil Nadu government failed to present a consistent position before the Supreme Court on the Karthigai Deepam dispute. He argues that the state’s differing stands in the review and contempt proceedings led the court to issue its latest direction on lighting the lamp at Deepathoon.
+
+Supreme Court-appointed receivers Justice S. Vaidyanathan and Justice V. Parthiban arrived at Madurai airport on to oversee the court-directed lamp lighting at ‘Deepathoon.’
+
+Work on a temporary platform and scaffolding has begun around the Deepathoon stone pillar atop Thiruparankundram Hill ahead of the lamp lighting. The preparations are underway under CRPF security, with BJP and Hindu Munnani leaders also scheduled to visit the hill.
+
+CRPF personnel assumed full security and surveillance control of Thiruparankundram Hill early Saturday, following a Supreme Court directive. The troops received a warm welcome from local residents and devotees, who showered them and their vehicles with flower petals.
+
+Special prayers were held at Sikandar Dargah atop Thiruparankundram Hill, with Muslim devotees allowed to enter after security checks amid heightened security over the ‘Deepathoon’ dispute.
+
+DMK spokesperson TKS Elangovan questions the move to light the Karthigai Deepam at the ‘Deepathoon’ stone pillar, arguing that it goes against a century-old tradition.
+
+CRPF personnel were seen moving towards Thiruparankundram Hill ahead of the lighting of the ‘Deepathoon’ today.
+
+Scores of Hindu and Muslim devotees began arriving at the foothills of Thiruparankundram hill early Saturday morning, November 28, following the Supreme Court’s directive permitting the lighting of the Karthigai Deepam atop the Deepathoon stone pillar.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Thirupparankundram row: 'Deepathoon' set for lamp lighting as preparations begin on hill.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 171,
+    title: `परिसीमन बिल का समर्थन करेगी NCP', शरद पवार से मुलाकात के बाद जितेंद्र आव्हाड का एलान - Jagran`,
+    slug: `ncp-jagran-2026`,
+    original_title: `परिसीमन बिल का समर्थन करेगी NCP', शरद पवार से मुलाकात के बाद जितेंद्र आव्हाड का एलान - Jagran`,
+    category: `politics`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:18:23Z`,
+    updated_at: `2026-11-28T06:18:23Z`,
+    source_name: `Jagran`,
+    source_url: `https://www.jagran.com/news/national-ncp-sp-to-support-delimitation-bill-announcement-by-jitendra-awhad-following-meeting-with-sharad-pawar-40450493.html`,
+    source_courtesy: `Source: Jagran`,
+    image_url: `/images/articles/ncp-jagran-2026.webp`,
+    image_alt: `परिसीमन बिल का समर्थन करेगी NCP', शरद पवार से मुलाकात के बाद जितेंद्र आव्हाड का एलान - Jagran`,
+    image_courtesy: `Image: Jagran (External Source Attribution)`,
+    image_photographer: `Jagran`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Politics, News, India`,
+    summary: `NCP (शरद पवार गुट) ने परिसीमन बिल का समर्थन करने का एलान किया है। विधायक जितेंद्र आव्हाड ने शरद पवार से मुलाकात के बाद यह जानकारी दी।`,
+    content: `NCP (शरद पवार गुट) ने परिसीमन बिल का समर्थन करने का एलान किया है। विधायक जितेंद्र आव्हाड ने शरद पवार से मुलाकात के बाद यह जानकारी दी।
+
+NCP (शरद पवार) परिसीमन बिल का समर्थन करेगी।
+
+जितेंद्र आव्हाड ने शरद पवार से मुलाकात के बाद घोषणा की।
+
+शरद पवार ब्रीच कैंडी अस्पताल में भर्ती हैं, सुप्रिया सुले अनुपस्थित।
+
+डिजिटल डेस्क, नई दिल्ली। NCP (शरद पवार) की पार्टी परिसीमन बिल का समर्थन करेगी। इस समर्थन का पार्टी के विधायक जितेंद्र आव्हाड ने किया है। शरद पवार से मुलाकात के बाद विधायक जितेंद्र आव्हाड ने समर्थन देने की बात कही है। न्यूज एजेंसी IANS के मुताबिक जितेंद्र आव्हाड शरद पवार से मिलने ब्रिच केंडी हॉस्पिटल पहुंचे थे। उनसे मुलाकात के बाद उन्होंने परिसीमन बिल को समर्थन देने का एलान किया है।
+
+न्यूज एजेंसी ANI के मुताबिक मुंबई के ब्रीच कैंडी अस्पताल के बाहर, जहां शरद पवार भर्ती हैं, आव्हाड ने कहा, 'यह चर्चा हमारी पार्टी के आधिकारिक रुख के बारे में नहीं थी। मुख्य बात यह थी कि परिसीमन (डिलिमिटेशन) की प्रक्रिया एक संवैधानिक आवश्यकता है। परिसीमन प्रक्रिया का समर्थन करने का निर्णय लिया गया है, और हम निश्चित रूप से इसका समर्थन करेंगे। हम परिसीमन का समर्थन करेंगे।'
+
+### बिल का विरोध करना जल्दबाजी-सुप्रिया सूले
+
+यह घटनाक्रम तब सामने आया है जब गुरुवार को पार्टी की राष्ट्रीय कार्यकारी अध्यक्ष सुप्रिया सुले ने केंद्र के प्रस्ताव पर नरम रुख अपनाते हुए कहा कि कानून की पूरी जानकारी सामने आने से पहले ही उसका विरोध करना जल्दबाजी होगी। उन्होंने न्यूज एजेंसी पीटीआई से कहा, 'बिल को आने दीजिए। हो सकता है कि परिसीमन विधेयक (डिलिमिटेशन बिल) में कुछ अच्छा भी हो।'
+
+सुले ने कहा, 'कोई विधेयक देश के हित में है या नहीं, इस पर विचार किए बिना सिर्फ इसलिए विरोध करना कि आप विपक्ष में हैं, या आंख मूंदकर समर्थन करना क्योंकि आप सत्ता में हैं यह एक स्वस्थ लोकतंत्र के लिए गलत है। हर बात का विरोध करना जरूरी नहीं है। हम सुधार के सुझाव भी दे सकते हैं और बता सकते हैं कि क्या बदलाव किए जाने चाहिए। हो सकता है कि इसमें कुछ अच्छा हो।'
+
+इससे पहले दिन में, सुले ने बताया कि वह शनिवार को होने वाली 'इंडिया' (INDIA) गठबंधन की बैठक में शामिल नहीं हो पाएंगी। इस बैठक में संसद के विशेष सत्र के लिए विपक्ष की रणनीति पर चर्चा होनी थी। सुले ने बताया कि उनके पिता शरद पवार की तबीयत ठीक नहीं है, इसलिए वह इसमें हिस्सा नहीं ले सकेंगी।
+
+### NCP (SP) ने व्हिप जारी कर सांसदों को दिया निर्देश
+
+एनसीपी (एसपी) ने अपने लोकसभा सांसदों के लिए एक 'व्हिप' भी जारी किया है, जिसमें उन्हें 30 नवंबर से सदन में मौजूद रहने का निर्देश दिया गया है। एनसीपी (एसपी) के पास आठ लोकसभा सांसद हैं। पार्टी ने यह कदम ऐसे समय में उठाया है जब परिसीमन से जुड़े संवैधानिक संशोधन को पारित करने के लिए जरूरी संख्या बल पर चर्चा चल रही है।
+
+इस तरह के कानून को पारित करने के लिए सदन में मौजूद और मतदान करने वाले सदस्यों के दो-तिहाई बहुमत की आवश्यकता होती है। 543 सदस्यों वाले सदन में अभी पांच सीटें खाली हैं, जिससे प्रभावी संख्या 538 रह जाती है। इस हिसाब से, दो-तिहाई बहुमत के लिए लगभग 359 वोटों की जरूरत होगी।
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/news/national-ncp-sp-to-support-delimitation-bill-announcement-by-jitendra-awhad-following-meeting-with-sharad-pawar-40450493.html)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `परिसीमन बिल का समर्थन करेगी NCP', शरद पवार से मुलाकात के बाद जितेंद्र आव्हाड का एलान - Jagran`,
+    summary_hi: `NCP (शरद पवार गुट) ने परिसीमन बिल का समर्थन करने का एलान किया है। विधायक जितेंद्र आव्हाड ने शरद पवार से मुलाकात के बाद यह जानकारी दी।`,
+    content_hi: `NCP (शरद पवार गुट) ने परिसीमन बिल का समर्थन करने का एलान किया है। विधायक जितेंद्र आव्हाड ने शरद पवार से मुलाकात के बाद यह जानकारी दी।
+
+NCP (शरद पवार) परिसीमन बिल का समर्थन करेगी।
+
+जितेंद्र आव्हाड ने शरद पवार से मुलाकात के बाद घोषणा की।
+
+शरद पवार ब्रीच कैंडी अस्पताल में भर्ती हैं, सुप्रिया सुले अनुपस्थित।
+
+डिजिटल डेस्क, नई दिल्ली। NCP (शरद पवार) की पार्टी परिसीमन बिल का समर्थन करेगी। इस समर्थन का पार्टी के विधायक जितेंद्र आव्हाड ने किया है। शरद पवार से मुलाकात के बाद विधायक जितेंद्र आव्हाड ने समर्थन देने की बात कही है। न्यूज एजेंसी IANS के मुताबिक जितेंद्र आव्हाड शरद पवार से मिलने ब्रिच केंडी हॉस्पिटल पहुंचे थे। उनसे मुलाकात के बाद उन्होंने परिसीमन बिल को समर्थन देने का एलान किया है।
+
+न्यूज एजेंसी ANI के मुताबिक मुंबई के ब्रीच कैंडी अस्पताल के बाहर, जहां शरद पवार भर्ती हैं, आव्हाड ने कहा, 'यह चर्चा हमारी पार्टी के आधिकारिक रुख के बारे में नहीं थी। मुख्य बात यह थी कि परिसीमन (डिलिमिटेशन) की प्रक्रिया एक संवैधानिक आवश्यकता है। परिसीमन प्रक्रिया का समर्थन करने का निर्णय लिया गया है, और हम निश्चित रूप से इसका समर्थन करेंगे। हम परिसीमन का समर्थन करेंगे।'
+
+### बिल का विरोध करना जल्दबाजी-सुप्रिया सूले
+
+यह घटनाक्रम तब सामने आया है जब गुरुवार को पार्टी की राष्ट्रीय कार्यकारी अध्यक्ष सुप्रिया सुले ने केंद्र के प्रस्ताव पर नरम रुख अपनाते हुए कहा कि कानून की पूरी जानकारी सामने आने से पहले ही उसका विरोध करना जल्दबाजी होगी। उन्होंने न्यूज एजेंसी पीटीआई से कहा, 'बिल को आने दीजिए। हो सकता है कि परिसीमन विधेयक (डिलिमिटेशन बिल) में कुछ अच्छा भी हो।'
+
+सुले ने कहा, 'कोई विधेयक देश के हित में है या नहीं, इस पर विचार किए बिना सिर्फ इसलिए विरोध करना कि आप विपक्ष में हैं, या आंख मूंदकर समर्थन करना क्योंकि आप सत्ता में हैं यह एक स्वस्थ लोकतंत्र के लिए गलत है। हर बात का विरोध करना जरूरी नहीं है। हम सुधार के सुझाव भी दे सकते हैं और बता सकते हैं कि क्या बदलाव किए जाने चाहिए। हो सकता है कि इसमें कुछ अच्छा हो।'
+
+इससे पहले दिन में, सुले ने बताया कि वह शनिवार को होने वाली 'इंडिया' (INDIA) गठबंधन की बैठक में शामिल नहीं हो पाएंगी। इस बैठक में संसद के विशेष सत्र के लिए विपक्ष की रणनीति पर चर्चा होनी थी। सुले ने बताया कि उनके पिता शरद पवार की तबीयत ठीक नहीं है, इसलिए वह इसमें हिस्सा नहीं ले सकेंगी।
+
+### NCP (SP) ने व्हिप जारी कर सांसदों को दिया निर्देश
+
+एनसीपी (एसपी) ने अपने लोकसभा सांसदों के लिए एक 'व्हिप' भी जारी किया है, जिसमें उन्हें 30 नवंबर से सदन में मौजूद रहने का निर्देश दिया गया है। एनसीपी (एसपी) के पास आठ लोकसभा सांसद हैं। पार्टी ने यह कदम ऐसे समय में उठाया है जब परिसीमन से जुड़े संवैधानिक संशोधन को पारित करने के लिए जरूरी संख्या बल पर चर्चा चल रही है।
+
+इस तरह के कानून को पारित करने के लिए सदन में मौजूद और मतदान करने वाले सदस्यों के दो-तिहाई बहुमत की आवश्यकता होती है। 543 सदस्यों वाले सदन में अभी पांच सीटें खाली हैं, जिससे प्रभावी संख्या 538 रह जाती है। इस हिसाब से, दो-तिहाई बहुमत के लिए लगभग 359 वोटों की जरूरत होगी।
+
+---
+
+**मूल स्रोत (Original Source):** [Jagran](https://www.jagran.com/news/national-ncp-sp-to-support-delimitation-bill-announcement-by-jitendra-awhad-following-meeting-with-sharad-pawar-40450493.html)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Politics श्रेणी से जुड़ी यह रिपोर्ट Jagran के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक परिसीमन बिल का समर्थन करेगी NCP', शरद पवार से मुलाकात के बाद जितेंद्र आव्हाड का एलान - Jagran से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Jagran`,
+  },
+  {
+    id: 172,
+    title: `Stock Market Highlights, Nov 27: Sensex tumbles 989 points, Nifty slips below 25,650 as IT stocks, HDFC Bank drag - BusinessLine`,
+    slug: `stock-market-highlights-nov-27-sensex-tumbles-989-points-nifty-slips-b-2026`,
+    original_title: `Stock Market Highlights, Nov 27: Sensex tumbles 989 points, Nifty slips below 25,650 as IT stocks, HDFC Bank drag - BusinessLine`,
+    category: `markets`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:18:25Z`,
+    updated_at: `2026-11-28T06:18:25Z`,
+    source_name: `BusinessLine`,
+    source_url: `https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-27-november-2026/article71746210.ece`,
+    source_courtesy: `Source: BusinessLine`,
+    image_url: `/images/articles/stock-market-highlights-nov-27-sensex-tumbles-989-points-nifty-slips-b-2026.webp`,
+    image_alt: `Stock Market Highlights, Nov 27: Sensex tumbles 989 points, Nifty slips below 25,650 as IT stocks, HDFC Bank drag - BusinessLine`,
+    image_courtesy: `Image: BusinessLine (External Source Attribution)`,
+    image_photographer: `BusinessLine`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Markets, News, India`,
+    summary: `Stock Market Highlights, Nov 27: Sensex tumbles 989 points, Nifty slips below 25,650 as IT stocks, HDFC Bank drag BusinessLine Stock markets snap two-day rally; Sensex tanks 989 points amid profit booking The Hindu Markets give up gains aft`,
+    content: `### Sensex, Nifty, Share Prices Highlights: After four weeks of gains, investors turned cautious as global uncertainties, currency weakness and elevated oil prices weighed on sentiment.
+
+S ensex Today, Nifty 50 | Stock Market Highlights: Find here all the live updates related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 27th November 2026.
+
+Indian benchmark equity indices snapped their two-day winning streak on Friday, with the Sensex plunging 989.33 points, or 1.17 per cent, to 83,339.26 and the Nifty declining 277.30 points, or 1.07 per cent, to 25,607.20.
+
+Profit-taking in heavyweight IT stocks and HDFC Bank, coupled with rising crude oil prices, a weaker rupee and higher domestic bond yields, weighed on market sentiment. HCL Technologies, Infosys, TCS, Bajaj Finserv, Tech Mahindra and Axis Bank were among the major Sensex laggards, while Bharat Electronics, Titan, InterGlobe Aviation, Tata Steel, Power Grid and Trent advanced.
+
+Brent crude rose 0.76 per cent to $97.22 a barrel amid renewed Middle East tensions. Despite the domestic market weakness, Asian equities rallied, led by South Korea and Shanghai.
+
+Foreign institutional investors bought equities worth ₹5,843.33 crore on Thursday, according to exchange data. European markets also traded higher.
+
+Sensex: Plunged 989.33 points, or 1.17 per cent, to close at 83,339.26.
+
+Nifty: Declined 277.30 points, or 1.07 per cent, to settle at 25,607.20.
+
+Intraday low: Sensex shed 1,120.26 points to touch 83,208.33.
+
+Market trend: Benchmark indices snapped their two-day winning streak.
+
+Major losers: HCL Tech, Infosys, TCS, Bajaj Finserv, Tech Mahindra and Axis Bank.
+
+Major gainers: Bharat Electronics, Titan, InterGlobe Aviation, Tata Steel, Power Grid and Trent.
+
+Crude oil: Brent crude climbed 0.76 per cent to $97.22 a barrel.
+
+Key pressures: Higher crude prices, a weaker rupee, rising domestic bond yields and profit-taking in heavyweight stocks.
+
+Sectoral performance: IT and auto stocks were among the key laggards.
+
+FII activity: Foreign institutional investors bought equities worth ₹5,843.33 crore on Thursday.
+
+### Rupee nosedives 60 paise to settle at 92.98 against US dollar
+
+Rupee slides 60 paise to 92.98 per dollar amid oil spikes, weak markets, and strong dollar pressures.
+
+### ADB Signs $75 Million Loan Deal with Veritas Finance to Enhance Access to Finance for MSMEs in India
+
+The Asian Development Bank (ADB) has signed a $75 million loan deal with Veritas Finance Limited (VFL) to help expand loans to micro, small, and medium-sized enterprises (MSMEs) in India, including at least 30% for eligible women borrowers.
+
+ADB financing for the Veritas Finance Expanding Access to Finance for Micro, Small, and Medium-Sized Enterprises Project has also helped mobilize parallel loans of $55 million from commercial lenders and provided technical support to VFL to create a dedicated secured term loan product for women borrowers. The project will help bridge the MSME financing gap of more than $300 billion, improve access to formal finance for MSMEs—including those owned by women—and enable VFL to diversify its funding sources to better meet MSMEs’ financing needs.
+
+### Rane eyes new OEMs to cut Maruti dependence as debt, margin pressures persist
+
+Rane aims to diversify beyond Maruti Suzuki with three new OEMs by FY29 amid debt, margin pressures, and export-driven growth.
+
+### India’s growth remains resilient, but inflation, oil prices and rupee weakness pose near-term risks: Brickwork Ratings
+
+India’s growth momentum remains resilient, but inflation, oil and the rupee are key risks in the near term. Robust domestic demand, strong industrial activity and healthy credit growth continue to support the economy. However, higher commodity prices, a weaker rupee and sticky inflation are emerging as the key headwinds in the near term. : Brickworks
+
+### National Bank for Financing Infrastructure and Development and World Bank Group partner to mobilise long-term capital for India’s infrastructure
+
+The National Bank for Financing Infrastructure and Development (the Institution) welcomed the approval of the Unlocking Private Capital for Long-Term Infrastructure Financing and Bond-Market Transformation (UPLIFT) Project by the World Bank Group’s Board of Executive Directors. The approval marks an important milestone in development of domestic bond market.
+
+The UPLIFT Project is the joint Partial Credit Enhancement (PCE) facility being developed by the Institution and International Bank for Reconstruction and Development (IBRD), part of the World Bank Group. In addition to the PCE approval from IBRD, the Multilateral Investment Guarantee Agency (MIGA) has approved a US$1 billion guarantee aimed at mobilising international capital and expanding financing for clean energy infrastructure. The MIGA guarantee is aimed at improving access to long-tenor foreign currency financing from international lenders.
+
+India is targeting a USD 30 trillion economy by 2047, representing a sevenfold increase in GDP from USD 3.9 trillion in FY26. Achieving this ambition will require substantial investment in infrastructure over the medium to long term. According to a report by the Institution, India requires infrastructure investments of approximately INR 168-172 trillion through FY31; however, only INR 38-40 trillion has been financed to date. Urbanisation, energy security and universal connectivity are the key pillars of the Viksit Bharat 2047 vision, and these pillars are dependent on the development of robust infrastructure assets.
+
+### Market correction reflects global risk reassessment, rupee weakness and rising crude prices; investors should focus on fundamentally strong stocks: PL Capital's Vikram Kasat
+
+---
+
+**Original Source:** [BusinessLine](https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-27-november-2026/article71746210.ece)`,
+    title_en: `Stock Market Highlights, Nov 27: Sensex tumbles 989 points, Nifty slips below 25,650 as IT stocks, HDFC Bank drag - BusinessLine`,
+    summary_en: `Stock Market Highlights, Nov 27: Sensex tumbles 989 points, Nifty slips below 25,650 as IT stocks, HDFC Bank drag BusinessLine Stock markets snap two-day rally; Sensex tanks 989 points amid profit booking The Hindu Markets give up gains aft`,
+    content_en: `### Sensex, Nifty, Share Prices Highlights: After four weeks of gains, investors turned cautious as global uncertainties, currency weakness and elevated oil prices weighed on sentiment.
+
+S ensex Today, Nifty 50 | Stock Market Highlights: Find here all the live updates related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 27th November 2026.
+
+Indian benchmark equity indices snapped their two-day winning streak on Friday, with the Sensex plunging 989.33 points, or 1.17 per cent, to 83,339.26 and the Nifty declining 277.30 points, or 1.07 per cent, to 25,607.20.
+
+Profit-taking in heavyweight IT stocks and HDFC Bank, coupled with rising crude oil prices, a weaker rupee and higher domestic bond yields, weighed on market sentiment. HCL Technologies, Infosys, TCS, Bajaj Finserv, Tech Mahindra and Axis Bank were among the major Sensex laggards, while Bharat Electronics, Titan, InterGlobe Aviation, Tata Steel, Power Grid and Trent advanced.
+
+Brent crude rose 0.76 per cent to $97.22 a barrel amid renewed Middle East tensions. Despite the domestic market weakness, Asian equities rallied, led by South Korea and Shanghai.
+
+Foreign institutional investors bought equities worth ₹5,843.33 crore on Thursday, according to exchange data. European markets also traded higher.
+
+Sensex: Plunged 989.33 points, or 1.17 per cent, to close at 83,339.26.
+
+Nifty: Declined 277.30 points, or 1.07 per cent, to settle at 25,607.20.
+
+Intraday low: Sensex shed 1,120.26 points to touch 83,208.33.
+
+Market trend: Benchmark indices snapped their two-day winning streak.
+
+Major losers: HCL Tech, Infosys, TCS, Bajaj Finserv, Tech Mahindra and Axis Bank.
+
+Major gainers: Bharat Electronics, Titan, InterGlobe Aviation, Tata Steel, Power Grid and Trent.
+
+Crude oil: Brent crude climbed 0.76 per cent to $97.22 a barrel.
+
+Key pressures: Higher crude prices, a weaker rupee, rising domestic bond yields and profit-taking in heavyweight stocks.
+
+Sectoral performance: IT and auto stocks were among the key laggards.
+
+FII activity: Foreign institutional investors bought equities worth ₹5,843.33 crore on Thursday.
+
+### Rupee nosedives 60 paise to settle at 92.98 against US dollar
+
+Rupee slides 60 paise to 92.98 per dollar amid oil spikes, weak markets, and strong dollar pressures.
+
+### ADB Signs $75 Million Loan Deal with Veritas Finance to Enhance Access to Finance for MSMEs in India
+
+The Asian Development Bank (ADB) has signed a $75 million loan deal with Veritas Finance Limited (VFL) to help expand loans to micro, small, and medium-sized enterprises (MSMEs) in India, including at least 30% for eligible women borrowers.
+
+ADB financing for the Veritas Finance Expanding Access to Finance for Micro, Small, and Medium-Sized Enterprises Project has also helped mobilize parallel loans of $55 million from commercial lenders and provided technical support to VFL to create a dedicated secured term loan product for women borrowers. The project will help bridge the MSME financing gap of more than $300 billion, improve access to formal finance for MSMEs—including those owned by women—and enable VFL to diversify its funding sources to better meet MSMEs’ financing needs.
+
+### Rane eyes new OEMs to cut Maruti dependence as debt, margin pressures persist
+
+Rane aims to diversify beyond Maruti Suzuki with three new OEMs by FY29 amid debt, margin pressures, and export-driven growth.
+
+### India’s growth remains resilient, but inflation, oil prices and rupee weakness pose near-term risks: Brickwork Ratings
+
+India’s growth momentum remains resilient, but inflation, oil and the rupee are key risks in the near term. Robust domestic demand, strong industrial activity and healthy credit growth continue to support the economy. However, higher commodity prices, a weaker rupee and sticky inflation are emerging as the key headwinds in the near term. : Brickworks
+
+### National Bank for Financing Infrastructure and Development and World Bank Group partner to mobilise long-term capital for India’s infrastructure
+
+The National Bank for Financing Infrastructure and Development (the Institution) welcomed the approval of the Unlocking Private Capital for Long-Term Infrastructure Financing and Bond-Market Transformation (UPLIFT) Project by the World Bank Group’s Board of Executive Directors. The approval marks an important milestone in development of domestic bond market.
+
+The UPLIFT Project is the joint Partial Credit Enhancement (PCE) facility being developed by the Institution and International Bank for Reconstruction and Development (IBRD), part of the World Bank Group. In addition to the PCE approval from IBRD, the Multilateral Investment Guarantee Agency (MIGA) has approved a US$1 billion guarantee aimed at mobilising international capital and expanding financing for clean energy infrastructure. The MIGA guarantee is aimed at improving access to long-tenor foreign currency financing from international lenders.
+
+India is targeting a USD 30 trillion economy by 2047, representing a sevenfold increase in GDP from USD 3.9 trillion in FY26. Achieving this ambition will require substantial investment in infrastructure over the medium to long term. According to a report by the Institution, India requires infrastructure investments of approximately INR 168-172 trillion through FY31; however, only INR 38-40 trillion has been financed to date. Urbanisation, energy security and universal connectivity are the key pillars of the Viksit Bharat 2047 vision, and these pillars are dependent on the development of robust infrastructure assets.
+
+### Market correction reflects global risk reassessment, rupee weakness and rising crude prices; investors should focus on fundamentally strong stocks: PL Capital's Vikram Kasat
+
+---
+
+**Original Source:** [BusinessLine](https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-27-november-2026/article71746210.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to BusinessLine.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Stock Market Highlights, Nov 27: Sensex tumbles 989 points, Nifty slips below 25,650 as IT stocks, HDFC Bank drag - BusinessLine.`,
+    primary_source: `BusinessLine`,
+  },
+  {
+    id: 173,
+    title: `गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार`,
+    slug: `markets-breaking-report-30181-173-2026`,
+    original_title: `गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार`,
+    category: `markets`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:18:27Z`,
+    updated_at: `2026-11-28T06:18:27Z`,
+    source_name: `DD News`,
+    source_url: `https://ddnews.gov.in/gold-and-silver-regain-their-shine-after-a-decline-silver-crosses-rs-1-54-lakh-mark/`,
+    source_courtesy: `Source: DD News`,
+    image_url: `https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Markets, News, India`,
+    summary: `27/11/26 | 1:21 pm							| bullion market | Commodity Market | Federal Reserve | Gold price | Gold Recovery | Short Covering | silver price | Silver Rally`,
+    content: `27/11/26 | 1:21 pm							| bullion market | Commodity Market | Federal Reserve | Gold price | Gold Recovery | Short Covering | silver price | Silver Rally
+
+### गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार
+
+पिछले कई कारोबारी सत्रों से जारी भारी गिरावट के बाद हफ्ते के आखिरी कारोबारी दिन शुक्रवार को सोने-चांदी की कीमतों में जोरदार रिकवरी देखने को मिली। निचले स्तरों पर खरीदारी और शॉर्ट कवरिंग के चलते दोनों कीमती धातुओं के दाम तेजी से उछले। हालांकि अमेरिकी अर्थव्यवस्था के मजबूत आंकड़े और फेडरल रिजर्व के सख्त रुख के कारण ब्याज दरों में संभावित बढ़ोतरी की आशंका अभी भी बनी हुई है, जिससे आगे की तेजी सीमित रह सकती है।
+
+एमसीएक्स पर दिसंबर डिलीवरी वाला सोना 2,028 रुपए की बढ़त के साथ 1,24,300 रुपए प्रति 10 ग्राम पर खुला। कारोबार के दौरान यह 3,100 रुपए या 2.6 प्रतिशत की तेजी के साथ 1,25,400 रुपए प्रति 10 ग्राम के आसपास कारोबार करता दिखाई दिया। हालांकि दिन के कारोबार में इसने 1,25,410 रुपए का हाई बनाया। इससे पहले पिछले सत्र में सोना 1,22,272 रुपए प्रति 10 ग्राम पर बंद हुआ था।
+
+हालिया गिरावट में सोना अपने रिकॉर्ड उच्च स्तर से काफी नीचे फिसल गया था, जिसके बाद निवेशकों ने निचले स्तरों पर खरीदारी शुरू कर दी।
+
+वहीं, चांदी में सोने की तुलना में अधिक मजबूती देखने को मिली। एमसीएक्स पर दिसंबर डिलीवरी वाली चांदी अपने पिछले बंद भाव 1,45,843 रुपए से 5,833 रुपए की छलांग के साथ 1,51,676 रुपए प्रति किलोग्राम पर खुली और बाद में यह 5.70 प्रतिशत यानी 8,300 रुपए की उछाल के साथ 1,54,150 रुपए प्रति किलोग्राम के आसपास कारोबार करती दिखी। वहीं, दिन के कारोबार में इसने 1,54,251 रुपए का हाई टच किया।
+
+हालिया बिकवाली में चांदी सोने से अधिक गिरी थी, इसलिए रिकवरी भी अधिक तेज रही।
+
+अंतरराष्ट्रीय बाजार में भी तेजी का माहौल रहा। कॉमेक्स पर सोना लगभग 3,659 डॉलर प्रति औंस और चांदी 44.10 डॉलर प्रति औंस के करीब कारोबार करती नजर आई। डॉलर में नरमी और तकनीकी शेयरों में सुधार से निवेशकों की जोखिम लेने की क्षमता बढ़ी, जिसका फायदा बुलियन बाजार को मिला।
+
+कीमती धातुओं में हालिया तेज गिरावट के बाद जिस तकनीकी रिकवरी की उम्मीद थी, वह अब दिखाई देने लगी है। दिसंबर में अमेरिकी फेडरल रिजर्व द्वारा ब्याज दरें बढ़ाने की संभावना बनी हुई है, जो आगे की तेजी पर दबाव डाल सकती है।
+
+इस बीच कच्चे तेल में भी तेजी देखने को मिली। मध्य पूर्व में आपूर्ति संबंधी चिंताओं के कारण ब्रेंट क्रूड और डब्ल्यूटीआई क्रूड दोनों ऊंचाई पर कारोबार कर रहे हैं। (इनपुट-आईएएनएस)
+
+### IFFI 2026 में फिल्मकारों ने ‘द केरल स्टोरी 2: गोज़ बियॉन्ड’ और ‘डेमोग्राफी इज़ डेस्टिनी’ के निर्माण से जुड़े अनुभव साझा किए
+
+38 mins ago | National Capital Region
+
+### दिल्ली-एनसीआर में ठंड की दस्तक, अधिकतम तापमान में भी गिरावट के आसार
+
+### IFFI 2026: फिल्म निर्माता कार्तिक सुब्बाराज अपनी फिल्म ‘डोरोथी’ पर की चर्चा, ‘अच्छे’ और ‘बुरे’ के बीच के पारंपरिक अंतर को चुनौती देती हैं उनकी फ़िल्में
+
+गोवा में आयोजित 57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (इफ्फी) में, जाने-माने फिल्म निर्माता ...
+
+---
+
+**मूल स्रोत (Original Source):** [DD News](https://ddnews.gov.in/gold-and-silver-regain-their-shine-after-a-decline-silver-crosses-rs-1-54-lakh-mark/)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार`,
+    summary_hi: `27/11/26 | 1:21 pm							| bullion market | Commodity Market | Federal Reserve | Gold price | Gold Recovery | Short Covering | silver price | Silver Rally`,
+    content_hi: `27/11/26 | 1:21 pm							| bullion market | Commodity Market | Federal Reserve | Gold price | Gold Recovery | Short Covering | silver price | Silver Rally
+
+### गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार
+
+पिछले कई कारोबारी सत्रों से जारी भारी गिरावट के बाद हफ्ते के आखिरी कारोबारी दिन शुक्रवार को सोने-चांदी की कीमतों में जोरदार रिकवरी देखने को मिली। निचले स्तरों पर खरीदारी और शॉर्ट कवरिंग के चलते दोनों कीमती धातुओं के दाम तेजी से उछले। हालांकि अमेरिकी अर्थव्यवस्था के मजबूत आंकड़े और फेडरल रिजर्व के सख्त रुख के कारण ब्याज दरों में संभावित बढ़ोतरी की आशंका अभी भी बनी हुई है, जिससे आगे की तेजी सीमित रह सकती है।
+
+एमसीएक्स पर दिसंबर डिलीवरी वाला सोना 2,028 रुपए की बढ़त के साथ 1,24,300 रुपए प्रति 10 ग्राम पर खुला। कारोबार के दौरान यह 3,100 रुपए या 2.6 प्रतिशत की तेजी के साथ 1,25,400 रुपए प्रति 10 ग्राम के आसपास कारोबार करता दिखाई दिया। हालांकि दिन के कारोबार में इसने 1,25,410 रुपए का हाई बनाया। इससे पहले पिछले सत्र में सोना 1,22,272 रुपए प्रति 10 ग्राम पर बंद हुआ था।
+
+हालिया गिरावट में सोना अपने रिकॉर्ड उच्च स्तर से काफी नीचे फिसल गया था, जिसके बाद निवेशकों ने निचले स्तरों पर खरीदारी शुरू कर दी।
+
+वहीं, चांदी में सोने की तुलना में अधिक मजबूती देखने को मिली। एमसीएक्स पर दिसंबर डिलीवरी वाली चांदी अपने पिछले बंद भाव 1,45,843 रुपए से 5,833 रुपए की छलांग के साथ 1,51,676 रुपए प्रति किलोग्राम पर खुली और बाद में यह 5.70 प्रतिशत यानी 8,300 रुपए की उछाल के साथ 1,54,150 रुपए प्रति किलोग्राम के आसपास कारोबार करती दिखी। वहीं, दिन के कारोबार में इसने 1,54,251 रुपए का हाई टच किया।
+
+हालिया बिकवाली में चांदी सोने से अधिक गिरी थी, इसलिए रिकवरी भी अधिक तेज रही।
+
+अंतरराष्ट्रीय बाजार में भी तेजी का माहौल रहा। कॉमेक्स पर सोना लगभग 3,659 डॉलर प्रति औंस और चांदी 44.10 डॉलर प्रति औंस के करीब कारोबार करती नजर आई। डॉलर में नरमी और तकनीकी शेयरों में सुधार से निवेशकों की जोखिम लेने की क्षमता बढ़ी, जिसका फायदा बुलियन बाजार को मिला।
+
+कीमती धातुओं में हालिया तेज गिरावट के बाद जिस तकनीकी रिकवरी की उम्मीद थी, वह अब दिखाई देने लगी है। दिसंबर में अमेरिकी फेडरल रिजर्व द्वारा ब्याज दरें बढ़ाने की संभावना बनी हुई है, जो आगे की तेजी पर दबाव डाल सकती है।
+
+इस बीच कच्चे तेल में भी तेजी देखने को मिली। मध्य पूर्व में आपूर्ति संबंधी चिंताओं के कारण ब्रेंट क्रूड और डब्ल्यूटीआई क्रूड दोनों ऊंचाई पर कारोबार कर रहे हैं। (इनपुट-आईएएनएस)
+
+### IFFI 2026 में फिल्मकारों ने ‘द केरल स्टोरी 2: गोज़ बियॉन्ड’ और ‘डेमोग्राफी इज़ डेस्टिनी’ के निर्माण से जुड़े अनुभव साझा किए
+
+38 mins ago | National Capital Region
+
+### दिल्ली-एनसीआर में ठंड की दस्तक, अधिकतम तापमान में भी गिरावट के आसार
+
+### IFFI 2026: फिल्म निर्माता कार्तिक सुब्बाराज अपनी फिल्म ‘डोरोथी’ पर की चर्चा, ‘अच्छे’ और ‘बुरे’ के बीच के पारंपरिक अंतर को चुनौती देती हैं उनकी फ़िल्में
+
+गोवा में आयोजित 57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (इफ्फी) में, जाने-माने फिल्म निर्माता ...
+
+---
+
+**मूल स्रोत (Original Source):** [DD News](https://ddnews.gov.in/gold-and-silver-regain-their-shine-after-a-decline-silver-crosses-rs-1-54-lakh-mark/)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Markets श्रेणी से जुड़ी यह रिपोर्ट DD News के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक गिरावट के बाद सोने-चांदी में लौटी चमक, चांदी 1.54 लाख रुपये के पार से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `DD News`,
+  },
+  {
+    id: 174,
+    title: `Radiomics Shows Promise in Distinguishing Bone Tumours - EMJ`,
+    slug: `radiomics-shows-promise-in-distinguishing-bone-tumours-emj-2026`,
+    original_title: `Radiomics Shows Promise in Distinguishing Bone Tumours - EMJ`,
+    category: `tech`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:18:29Z`,
+    updated_at: `2026-11-28T06:18:29Z`,
+    source_name: `EMJ`,
+    source_url: `https://www.emjreviews.com/radiology/news/radiomics-shows-promise-in-distinguishing-bone-tumours/`,
+    source_courtesy: `Source: EMJ`,
+    image_url: `/images/articles/radiomics-shows-promise-in-distinguishing-bone-tumours-emj-2026.webp`,
+    image_alt: `Radiomics Shows Promise in Distinguishing Bone Tumours - EMJ`,
+    image_courtesy: `Image: EMJ (External Source Attribution)`,
+    image_photographer: `EMJ`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `This site is intended for healthcare professionals`,
+    content: `This site is intended for healthcare professionals
+
+RADIOMICS could help radiologists distinguish benign cartilage tumours from those that may require further investigation, according to a review examining the use of artificial intelligence (AI) in bone tumour imaging.
+
+Researchers concluded that the technology still requires further testing before it can be used reliably in clinical practice.
+
+The review investigated whether AI could help differentiate enchondromas, which are benign cartilage tumours, from atypical cartilaginous tumours (ACTs) and chondrosarcomas, which can require further investigation or treatment.
+
+Radiomics involves analysing features of medical images, including patterns, textures and shapes, that may not be easily distinguishable through visual assessment alone.
+
+Researchers explored how these features could be used by machine learning and deep learning models to classify cartilage tumours using imaging techniques such as MRI, CT and SPECT/CT.
+
+The review included 14 reports covering 13 retrospective studies, involving 1,447 participants.
+
+Researchers assessed how accurately the models distinguished enchondromas from ACTs or chondrosarcomas, as well as the quality of the research and whether the findings could be applied in clinical practice.
+
+### Promising Results, but Evidence Remains Limited
+
+Across the studies reporting usable diagnostic results, sensitivity ranged from 80.0% to 93.5%, while specificity ranged from 72.7% to 100%.
+
+These findings suggest that radiomics could help identify differences between benign and potentially malignant cartilage tumours.
+
+However, the studies varied considerably in their imaging techniques, AI methods and approaches to testing their models, making direct comparisons difficult. All studies were retrospective, and only one used testing at an independent geographical location to assess how well its model performed beyond the original study setting.
+
+### Further Research Needed Before Clinical Use
+
+The researchers highlighted substantial methodological weaknesses across the evidence, meaning that promising diagnostic results do not necessarily translate into reliable clinical performance.
+
+Further prospective studies involving multiple centres may be needed to determine whether radiomics can improve radiologists’ assessments and support decisions about monitoring, referral or treatment.
+
+Clausen NA et al. Radiomics-Based Differentiation of Enchondroma from Atypical Cartilaginous Tumour and Chondrosarcoma: A Systematic Review and Appraisal. J Digit Imaging Inform Med.2026; DOI: 10.1007/s10278-026-02539-1.
+
+Featured Image: Richman Photo on Adobe Stock
+
+Each article is made available under the terms of the Creative Commons Attribution-Non Commercial 4.0 License .
+
+Rate this content's potential impact on patient outcomes
+
+Average rating 0 / 5. Vote count: 0
+
+No votes so far! Be the first to rate this content.
+
+### AI Framework Improves Osteoporosis Screening Using Hand X-Rays
+
+### CT and MRI Support Surgical Planning in Oral Cancer
+
+### We Have Misunderstood What Radiologists Do
+
+### Imaging Features of Mature Retroperitoneal Teratoma
+
+---
+
+**Original Source:** [EMJ](https://www.emjreviews.com/radiology/news/radiomics-shows-promise-in-distinguishing-bone-tumours/)`,
+    title_en: `Radiomics Shows Promise in Distinguishing Bone Tumours - EMJ`,
+    summary_en: `This site is intended for healthcare professionals`,
+    content_en: `This site is intended for healthcare professionals
+
+RADIOMICS could help radiologists distinguish benign cartilage tumours from those that may require further investigation, according to a review examining the use of artificial intelligence (AI) in bone tumour imaging.
+
+Researchers concluded that the technology still requires further testing before it can be used reliably in clinical practice.
+
+The review investigated whether AI could help differentiate enchondromas, which are benign cartilage tumours, from atypical cartilaginous tumours (ACTs) and chondrosarcomas, which can require further investigation or treatment.
+
+Radiomics involves analysing features of medical images, including patterns, textures and shapes, that may not be easily distinguishable through visual assessment alone.
+
+Researchers explored how these features could be used by machine learning and deep learning models to classify cartilage tumours using imaging techniques such as MRI, CT and SPECT/CT.
+
+The review included 14 reports covering 13 retrospective studies, involving 1,447 participants.
+
+Researchers assessed how accurately the models distinguished enchondromas from ACTs or chondrosarcomas, as well as the quality of the research and whether the findings could be applied in clinical practice.
+
+### Promising Results, but Evidence Remains Limited
+
+Across the studies reporting usable diagnostic results, sensitivity ranged from 80.0% to 93.5%, while specificity ranged from 72.7% to 100%.
+
+These findings suggest that radiomics could help identify differences between benign and potentially malignant cartilage tumours.
+
+However, the studies varied considerably in their imaging techniques, AI methods and approaches to testing their models, making direct comparisons difficult. All studies were retrospective, and only one used testing at an independent geographical location to assess how well its model performed beyond the original study setting.
+
+### Further Research Needed Before Clinical Use
+
+The researchers highlighted substantial methodological weaknesses across the evidence, meaning that promising diagnostic results do not necessarily translate into reliable clinical performance.
+
+Further prospective studies involving multiple centres may be needed to determine whether radiomics can improve radiologists’ assessments and support decisions about monitoring, referral or treatment.
+
+Clausen NA et al. Radiomics-Based Differentiation of Enchondroma from Atypical Cartilaginous Tumour and Chondrosarcoma: A Systematic Review and Appraisal. J Digit Imaging Inform Med.2026; DOI: 10.1007/s10278-026-02539-1.
+
+Featured Image: Richman Photo on Adobe Stock
+
+Each article is made available under the terms of the Creative Commons Attribution-Non Commercial 4.0 License .
+
+Rate this content's potential impact on patient outcomes
+
+Average rating 0 / 5. Vote count: 0
+
+No votes so far! Be the first to rate this content.
+
+### AI Framework Improves Osteoporosis Screening Using Hand X-Rays
+
+### CT and MRI Support Surgical Planning in Oral Cancer
+
+### We Have Misunderstood What Radiologists Do
+
+### Imaging Features of Mature Retroperitoneal Teratoma
+
+---
+
+**Original Source:** [EMJ](https://www.emjreviews.com/radiology/news/radiomics-shows-promise-in-distinguishing-bone-tumours/)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to EMJ.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Radiomics Shows Promise in Distinguishing Bone Tumours - EMJ.`,
+    primary_source: `EMJ`,
+  },
+  {
+    id: 175,
+    title: `Vivo ने लॉन्च की पहली स्मार्टवॉच Vivo GT 2, 25 दिन की बैटरी और 100 से ज्यादा स्पोर्ट्स मोड, जानें कीमत - AajTak`,
+    slug: `vivo-vivo-gt-2-25-100-aajtak-2026`,
+    original_title: `Vivo ने लॉन्च की पहली स्मार्टवॉच Vivo GT 2, 25 दिन की बैटरी और 100 से ज्यादा स्पोर्ट्स मोड, जानें कीमत - AajTak`,
+    category: `tech`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:18:39Z`,
+    updated_at: `2026-11-28T06:18:39Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/technology/tech-news/story/vivo-watch-gt-2-launched-india-price-features-ttecm-dskc-2706967-2026-11-26`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b08346d9d6b1-vivo-watch-gt-2-263020558.png`,
+    image_alt: `Vivo ने लॉन्च की पहली स्मार्टवॉच Vivo GT 2, 25 दिन की बैटरी और 100 से ज्यादा स्पोर्ट्स मोड, जानें कीमत - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Tech, News, India`,
+    summary: `Vivo ने भारत में पहली बार स्मार्ट वॉच लॉन्च की है. कंपनी ने Vivo Watch GT 2 को 14,999 रुपये की शुरुआती कीमत पर पेश किया है. इसकी सबसे बड़ी खासियत 25 दिन तक चलने वाली बैटरी है. ये कंपनी का दावा है. और पढ़ेंइस स्मार्टवॉच में 2.07 इंच का AMOLE`,
+    content: `Vivo ने भारत में पहली बार स्मार्ट वॉच लॉन्च की है. कंपनी ने Vivo Watch GT 2 को 14,999 रुपये की शुरुआती कीमत पर पेश किया है. इसकी सबसे बड़ी खासियत 25 दिन तक चलने वाली बैटरी है. ये कंपनी का दावा है. और पढ़ेंइस स्मार्टवॉच में 2.07 इंच का AMOLED डिस्प्ले, GPS, ब्लूटूथ कॉलिंग और 100 से ज्यादा स्पोर्ट्स मोड मिलते हैं.
+
+इसके अलावा हार्ट रेट, ब्लड ऑक्सीजन, नींद और स्ट्रेस मॉनिटरिंग जैसे फीचर्स भी दिए गए हैं. यानी कंपनी इसे सिर्फ समय देखने वाली घड़ी नहीं, बल्कि फिटनेस और रोजमर्रा के काम आने वाले डिवाइस के तौर पर पेश कर रही है.यह भी पढ़ें: 200MP कैमरा और 400mm जूम! Vivo ने लॉन्च किए 3 नए फोन, फोन में लगा सकेंगे DSLR जैसा लेंसVivo ने इसे अपने X500 स्मार्टफोन सीरीज के साथ लॉन्च किया है.
+
+यह कंपनी की भारतीय बाजार में पहली स्मार्टवॉच है. ऐसे में देखना दिलचस्प होगा कि 15 हजार रुपये से कम कीमत वाले इस सेगमेंट में Vivo को कितनी सफलता मिलती है.Vivo Watch GT 2 की कीमत और सेल डेट Advertisement        Vivo Watch GT 2 की भारत में कीमत 14,999 रुपये रखी गई है. इसे ब्लैक और व्हाइट दो रंगों में खरीदा जा सकेगा.
+
+इसकी प्री-बुकिंग 26 नवंबर से 2 दिसंबर 2026 तक चलेगी. स्मार्टवॉच की बिक्री 3 दिसंबर से शुरू होगी. इसे Vivo की आधिकारिक वेबसाइट, Flipkart और चुनिंदा रिटेल स्टोर से खरीदा जा सकेगा.कंपनी इसके साथ कुछ खास ऑफर भी दे रही है. Vivo X500, V80 और S2 सीरीज के चुनिंदा फोन खरीदने पर Watch GT 2 के साथ 1,500 रुपये की छूट मिलेगी.
+
+इसके अलावा ऑनलाइन खरीदारी पर 6 महीने की नो-कॉस्ट EMI का विकल्प भी दिया गया है.25 दिन की बैटरी, लेकिन असली इस्तेमाल में कितना चलेगी?Vivo Watch GT 2 की सबसे बड़ी खासियत इसकी बैटरी है. कंपनी का दावा है कि यह स्मार्टवॉच एक बार चार्ज करने पर अधिकतम 25 दिन तक चल सकती है. इसमें 595mAh की बैटरी दी गई है.यह भी पढ़ें: अनंत सिंह की बेटी शिवांगी सिंह के हाथ में दिखा Apple का महंगा iPhone, कीमत जानकर रह जाएंगे हैरान!कंपनी की टेस्टिंग के मुताबिक, हल्के इस्तेमाल में यह 25 दिन चल सकती है.
+
+नॉर्मल इस्तेमाल में बैटरी करीब 14 दिन तक चलने का दावा है. वहीं, Always-On Display यानी हमेशा स्क्रीन चालू रखने वाले फीचर को ऑन करने पर बैटरी करीब 12 दिन चलेगी. Advertisement        इसका मतलब है कि अगर आप रोजाना वर्कआउट ट्रैक करते हैं, हार्ट रेट मॉनिटरिंग चालू रखते हैं और लगातार नोटिफिकेशन देखते हैं तो बैटरी का बैकअप कम हो सकता है.फिर भी 12 से 14 दिन का दावा इस कीमत की स्मार्टवॉच के लिए दिलचस्प है.
+
+खासकर उन लोगों के लिए जो हर दूसरे दिन स्मार्टवॉच चार्ज करने से परेशान रहते हैं.2.07 इंच की AMOLED स्क्रीन, धूप में भी दिखेगी साफVivo Watch GT 2 में 2.07 इंच का AMOLED डिस्प्ले दिया गया है. इसका रिफ्रेश रेट 60Hz है और इसमें 2,400 निट्स तक की लोकल पीक ब्राइटनेस मिलती है.इसका फायदा बाहर धूप में वॉकिंग या रनिंग करते समय हो सकता है.
+
+तेज रोशनी में भी स्क्रीन पर समय, नोटिफिकेशन और वर्कआउट से जुड़ी जानकारी देखना आसान हो सकता है.इसमें करीब 1.8mm के पतले साइड बेजल और 82.4 फीसदी स्क्रीन-टू-बॉडी रेशियो मिलता है. स्मार्टवॉच में हाई-ग्लॉस एल्युमिनियम फ्रेम दिया गया है. इसका डिजाइन बड़े डिस्प्ले वाली आयताकार स्मार्टवॉच जैसा है.
+
+कंपनी ने इसमें कई कस्टमाइज होने वाले वॉच फेस भी दिए हैं. यूजर अपनी पसंद के हिसाब से स्क्रीन का लुक बदल सकते हैं.बिना फोन साथ रखे भी ट्रैक कर सकेंगे वॉक और रनिंगVivo Watch GT 2 में GPS दिया गया है. इसकी मदद से यूजर बाहर वॉकिंग, रनिंग और साइकिलिंग के दौरान अपनी लोकेशन और रास्ते को ट्रैक कर सकते हैं.
+
+Advertisement        इसमें पांच सैटेलाइट सिस्टम का सपोर्ट मिलता है. यानी आउटडोर वर्कआउट के दौरान रूट और दूरी का रिकॉर्ड रखने के लिए हर समय फोन साथ रखने की जरूरत नहीं होगी.स्मार्टवॉच में 100 से ज्यादा स्पोर्ट्स मोड दिए गए हैं. इनमें रनिंग, वॉकिंग, साइकिलिंग, जिम और दूसरे खेल शामिल हैं.
+
+कंपनी ने टेनिस, बैडमिंटन और टेबल टेनिस जैसे खेलों के लिए भी खास ट्रैकिंग फीचर दिए हैं.इन खेलों के दौरान वॉच स्विंग और शॉट से जुड़ी जानकारी रिकॉर्ड कर सकती है. रनिंग करने वालों के लिए इसमें रनिंग कोच और गेट एनालिसिस जैसे फीचर भी दिए गए हैं. इससे यूजर अपनी दौड़ने की शैली और मूवमेंट को समझ सकते हैं.हार्ट रेट से लेकर नींद तक, कई हेल्थ फीचर्सVivo Watch GT 2 में हेल्थ और फिटनेस ट्रैकिंग के कई फीचर मिलते हैं.
+
+इसमें 24 घंटे हार्ट रेट मॉनिटरिंग और ब्लड ऑक्सीजन यानी SpO2 मॉनिटरिंग की सुविधा है.इसके अलावा यह नींद को ट्रैक कर सकती है. इसमें स्लीप स्टेज, सांस लेने की दर और नींद के दौरान हार्ट रेट से जुड़ी जानकारी रिकॉर्ड करने का दावा किया गया है.स्मार्टवॉच में स्ट्रेस मॉनिटरिंग के लिए HRV यानी हार्ट रेट वेरिएबिलिटी का इस्तेमाल किया जाता है.
+
+इसके साथ गाइडेड ब्रीदिंग एक्सरसाइज भी मिलती है. महिलाओं के लिए मेंस्ट्रुअल साइकिल ट्रैकिंग का फीचर भी दिया गया है. Advertisement        Android और iPhone दोनों के साथ करेगी कामVivo Watch GT 2 कंपनी के BlueOS पर चलती है. इसे एंड्रॉयड और आईफोन दोनों के साथ कनेक्ट किया जा सकता है. इसके लिए स्मार्टफोन में Origin Health ऐप इंस्टॉल करना होगा.---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/technology/tech-news/story/vivo-watch-gt-2-launched-india-price-features-ttecm-dskc-2706967-2026-11-26)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Vivo ने लॉन्च की पहली स्मार्टवॉच Vivo GT 2, 25 दिन की बैटरी और 100 से ज्यादा स्पोर्ट्स मोड, जानें कीमत - AajTak`,
+    summary_hi: `Vivo ने भारत में पहली बार स्मार्ट वॉच लॉन्च की है. कंपनी ने Vivo Watch GT 2 को 14,999 रुपये की शुरुआती कीमत पर पेश किया है. इसकी सबसे बड़ी खासियत 25 दिन तक चलने वाली बैटरी है. ये कंपनी का दावा है. और पढ़ेंइस स्मार्टवॉच में 2.07 इंच का AMOLE`,
+    content_hi: `Vivo ने भारत में पहली बार स्मार्ट वॉच लॉन्च की है. कंपनी ने Vivo Watch GT 2 को 14,999 रुपये की शुरुआती कीमत पर पेश किया है. इसकी सबसे बड़ी खासियत 25 दिन तक चलने वाली बैटरी है. ये कंपनी का दावा है. और पढ़ेंइस स्मार्टवॉच में 2.07 इंच का AMOLED डिस्प्ले, GPS, ब्लूटूथ कॉलिंग और 100 से ज्यादा स्पोर्ट्स मोड मिलते हैं.
+
+इसके अलावा हार्ट रेट, ब्लड ऑक्सीजन, नींद और स्ट्रेस मॉनिटरिंग जैसे फीचर्स भी दिए गए हैं. यानी कंपनी इसे सिर्फ समय देखने वाली घड़ी नहीं, बल्कि फिटनेस और रोजमर्रा के काम आने वाले डिवाइस के तौर पर पेश कर रही है.यह भी पढ़ें: 200MP कैमरा और 400mm जूम! Vivo ने लॉन्च किए 3 नए फोन, फोन में लगा सकेंगे DSLR जैसा लेंसVivo ने इसे अपने X500 स्मार्टफोन सीरीज के साथ लॉन्च किया है.
+
+यह कंपनी की भारतीय बाजार में पहली स्मार्टवॉच है. ऐसे में देखना दिलचस्प होगा कि 15 हजार रुपये से कम कीमत वाले इस सेगमेंट में Vivo को कितनी सफलता मिलती है.Vivo Watch GT 2 की कीमत और सेल डेट Advertisement        Vivo Watch GT 2 की भारत में कीमत 14,999 रुपये रखी गई है. इसे ब्लैक और व्हाइट दो रंगों में खरीदा जा सकेगा.
+
+इसकी प्री-बुकिंग 26 नवंबर से 2 दिसंबर 2026 तक चलेगी. स्मार्टवॉच की बिक्री 3 दिसंबर से शुरू होगी. इसे Vivo की आधिकारिक वेबसाइट, Flipkart और चुनिंदा रिटेल स्टोर से खरीदा जा सकेगा.कंपनी इसके साथ कुछ खास ऑफर भी दे रही है. Vivo X500, V80 और S2 सीरीज के चुनिंदा फोन खरीदने पर Watch GT 2 के साथ 1,500 रुपये की छूट मिलेगी.
+
+इसके अलावा ऑनलाइन खरीदारी पर 6 महीने की नो-कॉस्ट EMI का विकल्प भी दिया गया है.25 दिन की बैटरी, लेकिन असली इस्तेमाल में कितना चलेगी?Vivo Watch GT 2 की सबसे बड़ी खासियत इसकी बैटरी है. कंपनी का दावा है कि यह स्मार्टवॉच एक बार चार्ज करने पर अधिकतम 25 दिन तक चल सकती है. इसमें 595mAh की बैटरी दी गई है.यह भी पढ़ें: अनंत सिंह की बेटी शिवांगी सिंह के हाथ में दिखा Apple का महंगा iPhone, कीमत जानकर रह जाएंगे हैरान!कंपनी की टेस्टिंग के मुताबिक, हल्के इस्तेमाल में यह 25 दिन चल सकती है.
+
+नॉर्मल इस्तेमाल में बैटरी करीब 14 दिन तक चलने का दावा है. वहीं, Always-On Display यानी हमेशा स्क्रीन चालू रखने वाले फीचर को ऑन करने पर बैटरी करीब 12 दिन चलेगी. Advertisement        इसका मतलब है कि अगर आप रोजाना वर्कआउट ट्रैक करते हैं, हार्ट रेट मॉनिटरिंग चालू रखते हैं और लगातार नोटिफिकेशन देखते हैं तो बैटरी का बैकअप कम हो सकता है.फिर भी 12 से 14 दिन का दावा इस कीमत की स्मार्टवॉच के लिए दिलचस्प है.
+
+खासकर उन लोगों के लिए जो हर दूसरे दिन स्मार्टवॉच चार्ज करने से परेशान रहते हैं.2.07 इंच की AMOLED स्क्रीन, धूप में भी दिखेगी साफVivo Watch GT 2 में 2.07 इंच का AMOLED डिस्प्ले दिया गया है. इसका रिफ्रेश रेट 60Hz है और इसमें 2,400 निट्स तक की लोकल पीक ब्राइटनेस मिलती है.इसका फायदा बाहर धूप में वॉकिंग या रनिंग करते समय हो सकता है.
+
+तेज रोशनी में भी स्क्रीन पर समय, नोटिफिकेशन और वर्कआउट से जुड़ी जानकारी देखना आसान हो सकता है.इसमें करीब 1.8mm के पतले साइड बेजल और 82.4 फीसदी स्क्रीन-टू-बॉडी रेशियो मिलता है. स्मार्टवॉच में हाई-ग्लॉस एल्युमिनियम फ्रेम दिया गया है. इसका डिजाइन बड़े डिस्प्ले वाली आयताकार स्मार्टवॉच जैसा है.
+
+कंपनी ने इसमें कई कस्टमाइज होने वाले वॉच फेस भी दिए हैं. यूजर अपनी पसंद के हिसाब से स्क्रीन का लुक बदल सकते हैं.बिना फोन साथ रखे भी ट्रैक कर सकेंगे वॉक और रनिंगVivo Watch GT 2 में GPS दिया गया है. इसकी मदद से यूजर बाहर वॉकिंग, रनिंग और साइकिलिंग के दौरान अपनी लोकेशन और रास्ते को ट्रैक कर सकते हैं.
+
+Advertisement        इसमें पांच सैटेलाइट सिस्टम का सपोर्ट मिलता है. यानी आउटडोर वर्कआउट के दौरान रूट और दूरी का रिकॉर्ड रखने के लिए हर समय फोन साथ रखने की जरूरत नहीं होगी.स्मार्टवॉच में 100 से ज्यादा स्पोर्ट्स मोड दिए गए हैं. इनमें रनिंग, वॉकिंग, साइकिलिंग, जिम और दूसरे खेल शामिल हैं.
+
+कंपनी ने टेनिस, बैडमिंटन और टेबल टेनिस जैसे खेलों के लिए भी खास ट्रैकिंग फीचर दिए हैं.इन खेलों के दौरान वॉच स्विंग और शॉट से जुड़ी जानकारी रिकॉर्ड कर सकती है. रनिंग करने वालों के लिए इसमें रनिंग कोच और गेट एनालिसिस जैसे फीचर भी दिए गए हैं. इससे यूजर अपनी दौड़ने की शैली और मूवमेंट को समझ सकते हैं.हार्ट रेट से लेकर नींद तक, कई हेल्थ फीचर्सVivo Watch GT 2 में हेल्थ और फिटनेस ट्रैकिंग के कई फीचर मिलते हैं.
+
+इसमें 24 घंटे हार्ट रेट मॉनिटरिंग और ब्लड ऑक्सीजन यानी SpO2 मॉनिटरिंग की सुविधा है.इसके अलावा यह नींद को ट्रैक कर सकती है. इसमें स्लीप स्टेज, सांस लेने की दर और नींद के दौरान हार्ट रेट से जुड़ी जानकारी रिकॉर्ड करने का दावा किया गया है.स्मार्टवॉच में स्ट्रेस मॉनिटरिंग के लिए HRV यानी हार्ट रेट वेरिएबिलिटी का इस्तेमाल किया जाता है.
+
+इसके साथ गाइडेड ब्रीदिंग एक्सरसाइज भी मिलती है. महिलाओं के लिए मेंस्ट्रुअल साइकिल ट्रैकिंग का फीचर भी दिया गया है. Advertisement        Android और iPhone दोनों के साथ करेगी कामVivo Watch GT 2 कंपनी के BlueOS पर चलती है. इसे एंड्रॉयड और आईफोन दोनों के साथ कनेक्ट किया जा सकता है. इसके लिए स्मार्टफोन में Origin Health ऐप इंस्टॉल करना होगा.---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/technology/tech-news/story/vivo-watch-gt-2-launched-india-price-features-ttecm-dskc-2706967-2026-11-26)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Tech श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Vivo ने लॉन्च की पहली स्मार्टवॉच Vivo GT 2, 25 दिन की बैटरी और 100 से ज्यादा स्पोर्ट्स मोड, जानें कीमत - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 176,
+    title: `Attack on Saudi’s Jazan refinery kills one person, disrupts operations - Al Jazeera`,
+    slug: `attack-on-saudis-jazan-refinery-kills-one-person-disrupts-operations-a-2026`,
+    original_title: `Attack on Saudi’s Jazan refinery kills one person, disrupts operations - Al Jazeera`,
+    category: `world`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:18:41Z`,
+    updated_at: `2026-11-28T06:18:41Z`,
+    source_name: `Al Jazeera`,
+    source_url: `https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations`,
+    source_courtesy: `Source: Al Jazeera`,
+    image_url: `/images/articles/attack-on-saudis-jazan-refinery-kills-one-person-disrupts-operations-a-2026.webp`,
+    image_alt: `Attack on Saudi’s Jazan refinery kills one person, disrupts operations - Al Jazeera`,
+    image_courtesy: `Image: Al Jazeera (External Source Attribution)`,
+    image_photographer: `Al Jazeera`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.`,
+    content: `The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.
+
+An aerial projectile has hit an oil refinery in Saudi Arabia’s city of Jazan, killing one worker and injuring several other people, according to the country’s Ministry of Energy.
+
+Thursday’s attack on the facility on the kingdom’s Red Sea coast caused a fire and temporarily halted some operations, the ministry said.
+
+The statement did not identify who carried out the strike, but earlier the Saudi-led military coalition fighting Yemen’s Houthis said that the Iranian-backed group had ⁠⁠attacked the refinery. It came after Saudi Arabia’s civil defence agency had issued an alert about potential danger in Jazan province.
+
+The strike was the Houthis ‘ latest blow against key Saudi facilities, a day after the group claimed attacks on Ras Tanura, the kingdom’s largest refinery and a major crude export hub, and the Red Sea ports of Jeddah and Jazan, amid escalating hostilities between the two sides.
+
+The Saudi Ministry of Energy said the worker who died was Nepali, while the injured were of various nationalities.
+
+The injured received medical care, while emergency personnel and specialised technical teams arrived at the site to assess the damage and verify the safety of the facilities following the attack, the ministry added.
+
+The refinery in southwestern Saudi Arabia , near the Yemeni border, is designed to process up to 400,000 barrels of crude oil per day.
+
+The Saudi-led coalition, which is backing Yemen’s internationally recognised government in its fight with the Houthis, condemned the strike and threatened a counterattack.
+
+“Targeting civilians and ⁠⁠civilian infrastructure would ⁠⁠be ⁠⁠met with a firm military ‌‌response,” coalition spokesman Turki al-Maliki posted on X.
+
+Later on Thursday, the coalition claimed its forces had destroyed a Houthi ballistic missile launch platform in Yemen’s Hodeidah governorate used by the armed group to stage the attack on the Jazan refinery, according to al-Maliki. There was no immediate statement from the Houthis regarding the strike.
+
+On the ground in Yemen, meanwhile, Saudi-backed government forces claimed they had carried out 767 strikes on Houthi positions on Thursday.
+
+In a post on X, the forces’ spokesman Majed Abdullah al-Nuzaili said the strikes had “neutralised” 117 Houthi fighters and destroyed 87 vehicles and combat assets.
+
+Al-Nuzaili added that government forces continued to confront Houthi formations on the front lines in northern and western Marib governorate, as well as in the governorates of al-Jawf, Taiz, Lahj, Shabwah and Hajjah.
+
+Earlier on Thursday, a series of air strikes targeted Yemen’s Houthi-held capital, Sanaa, according to media affiliated with the armed group, which is also known as Ansar Allah – Arabic for Supporters of God.
+
+Elsewhere, Houthi forces targeted Habib al-Sarm and al-Hujalla, as well as al-Aqroud in al-Masrakh district.
+
+The Houthis, who control the most populous areas of Yemen, have launched missiles and drones at Saudi airports, oil facilities and office buildings since the country’s civil war reignited in July, in a spillover from the US-Iran war.
+
+The attacks have previously temporarily disrupted some of Aramco’s operations and caused the cancellation of most international flights to Riyadh. They also forced Saudi Arabia to postpone or cancel major international events, including football’s AFC Asian Cup and the flagship FII investment conference.
+
+The fighting has also exacerbated dire humanitarian conditions for Yemeni civilians.
+
+The World Health Organization (WHO) reported that as of Monday, 2,361 people had been killed and 10,982 injured since fighting in Yemen escalated in August. More than 360,000 people have also been forced to flee their homes in Yemen since the start of August, according to the UN.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations)`,
+    title_en: `Attack on Saudi’s Jazan refinery kills one person, disrupts operations - Al Jazeera`,
+    summary_en: `The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.`,
+    content_en: `The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.
+
+An aerial projectile has hit an oil refinery in Saudi Arabia’s city of Jazan, killing one worker and injuring several other people, according to the country’s Ministry of Energy.
+
+Thursday’s attack on the facility on the kingdom’s Red Sea coast caused a fire and temporarily halted some operations, the ministry said.
+
+The statement did not identify who carried out the strike, but earlier the Saudi-led military coalition fighting Yemen’s Houthis said that the Iranian-backed group had ⁠⁠attacked the refinery. It came after Saudi Arabia’s civil defence agency had issued an alert about potential danger in Jazan province.
+
+The strike was the Houthis ‘ latest blow against key Saudi facilities, a day after the group claimed attacks on Ras Tanura, the kingdom’s largest refinery and a major crude export hub, and the Red Sea ports of Jeddah and Jazan, amid escalating hostilities between the two sides.
+
+The Saudi Ministry of Energy said the worker who died was Nepali, while the injured were of various nationalities.
+
+The injured received medical care, while emergency personnel and specialised technical teams arrived at the site to assess the damage and verify the safety of the facilities following the attack, the ministry added.
+
+The refinery in southwestern Saudi Arabia , near the Yemeni border, is designed to process up to 400,000 barrels of crude oil per day.
+
+The Saudi-led coalition, which is backing Yemen’s internationally recognised government in its fight with the Houthis, condemned the strike and threatened a counterattack.
+
+“Targeting civilians and ⁠⁠civilian infrastructure would ⁠⁠be ⁠⁠met with a firm military ‌‌response,” coalition spokesman Turki al-Maliki posted on X.
+
+Later on Thursday, the coalition claimed its forces had destroyed a Houthi ballistic missile launch platform in Yemen’s Hodeidah governorate used by the armed group to stage the attack on the Jazan refinery, according to al-Maliki. There was no immediate statement from the Houthis regarding the strike.
+
+On the ground in Yemen, meanwhile, Saudi-backed government forces claimed they had carried out 767 strikes on Houthi positions on Thursday.
+
+In a post on X, the forces’ spokesman Majed Abdullah al-Nuzaili said the strikes had “neutralised” 117 Houthi fighters and destroyed 87 vehicles and combat assets.
+
+Al-Nuzaili added that government forces continued to confront Houthi formations on the front lines in northern and western Marib governorate, as well as in the governorates of al-Jawf, Taiz, Lahj, Shabwah and Hajjah.
+
+Earlier on Thursday, a series of air strikes targeted Yemen’s Houthi-held capital, Sanaa, according to media affiliated with the armed group, which is also known as Ansar Allah – Arabic for Supporters of God.
+
+Elsewhere, Houthi forces targeted Habib al-Sarm and al-Hujalla, as well as al-Aqroud in al-Masrakh district.
+
+The Houthis, who control the most populous areas of Yemen, have launched missiles and drones at Saudi airports, oil facilities and office buildings since the country’s civil war reignited in July, in a spillover from the US-Iran war.
+
+The attacks have previously temporarily disrupted some of Aramco’s operations and caused the cancellation of most international flights to Riyadh. They also forced Saudi Arabia to postpone or cancel major international events, including football’s AFC Asian Cup and the flagship FII investment conference.
+
+The fighting has also exacerbated dire humanitarian conditions for Yemeni civilians.
+
+The World Health Organization (WHO) reported that as of Monday, 2,361 people had been killed and 10,982 injured since fighting in Yemen escalated in August. More than 360,000 people have also been forced to flee their homes in Yemen since the start of August, according to the UN.
+
+---
+
+**Original Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Al Jazeera.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Attack on Saudi’s Jazan refinery kills one person, disrupts operations - Al Jazeera.`,
+    primary_source: `Al Jazeera`,
+  },
+  {
+    id: 177,
+    title: `स्पेन के कैनरी आइलैंड के पास बड़ा हादसा, प्रवासियों से भरी नाव में 8 लोगों के शव मिले - AajTak`,
+    slug: `8-aajtak-2026`,
+    original_title: `स्पेन के कैनरी आइलैंड के पास बड़ा हादसा, प्रवासियों से भरी नाव में 8 लोगों के शव मिले - AajTak`,
+    category: `world`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `1 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:18:46Z`,
+    updated_at: `2026-11-28T06:18:46Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/world/story/migrants-found-dead-on-boat-spain-canary-islands-ntc-rmxk-dskc-2708232-2026-11-28`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0a0960f072a-spain-boat-accident-275111611.jpg`,
+    image_alt: `स्पेन के कैनरी आइलैंड के पास बड़ा हादसा, प्रवासियों से भरी नाव में 8 लोगों के शव मिले - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `World, News, India`,
+    summary: `स्पेन के कैनरी आइलैंड के पास करीब 100 प्रवासियों से भरी एक नाव में 8 प्रवासियों के शव मिले हैं. गंभीर हालत में 6 लोगों को हेलिकॉप्टर के जरिए अस्पताल पहुंचाया गया. और पढ़ेंयह नाव एल हिएरो द्वीप से करीब 39 नॉटिकल मील (72 किलोमीटर) दक्षिण में `,
+    content: `स्पेन के कैनरी आइलैंड के पास करीब 100 प्रवासियों से भरी एक नाव में 8 प्रवासियों के शव मिले हैं. गंभीर हालत में 6 लोगों को हेलिकॉप्टर के जरिए अस्पताल पहुंचाया गया. और पढ़ेंयह नाव एल हिएरो द्वीप से करीब 39 नॉटिकल मील (72 किलोमीटर) दक्षिण में मिली थी. यह घटना स्पेन में रविवार को होने वाले आम चुनाव से ठीक पहले हुई है, जहां आव्रजन बड़ा चुनावी मुद्दा है.यह हादसा दुनिया के सबसे खतरनाक प्रवासी मार्गों में शामिल अटलांटिक समुद्री रास्ते पर यात्रा के जोखिमों को उजागर करता है.
+
+इस ताजा त्रासदी पर कैनरी आइलैंड के रीजनल लीडर फर्नांडो क्लाविजो ने दुख जताते हुए सोशल मीडिया पर लिखा, इस नई त्रासदी से बहुत दुख और बेबसी महसूस हो रही है.क्लाविजो ने स्पेन सरकार और यूरोपीय आयोग से तत्काल कदम उठाने की मांग की. उन्होंने कहा कि मानवीय संकट की शुरुआत एल हिएरो से नहीं, बल्कि सेनेगल और गाम्बिया के तटों से होती है.
+
+वहां की सरकारों को कार्रवाई करने की जरूरत है. Advertisement        गौरतलब है कि कैनरी आइलैंड में अक्टूबर से प्रवासियों के पहुंचने की संख्या में तेजी आई है. 25 नवंबर को एक ही दिन में 2,100 प्रवासी यहां पहुंचे, जो अब तक का सबसे बड़ा आंकड़ा है. इनमें से ज्यादातर लोग एल हिएरो द्वीप पहुंचे, जिसकी आबादी करीब 11,400 है.हर साल हजारों प्रवासी खराब मौसम, ऊंची समुद्री लहरों और तेज धाराओं के बावजूद अटलांटिक महासागर के रास्ते स्पेन पहुंचने की कोशिश करते हैं.
+
+इनमें से ज्यादातर लोग क्षमता से अधिक भरी हुई नावों में खतरनाक समुद्री यात्रा करते हैं.---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/migrants-found-dead-on-boat-spain-canary-islands-ntc-rmxk-dskc-2708232-2026-11-28)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `स्पेन के कैनरी आइलैंड के पास बड़ा हादसा, प्रवासियों से भरी नाव में 8 लोगों के शव मिले - AajTak`,
+    summary_hi: `स्पेन के कैनरी आइलैंड के पास करीब 100 प्रवासियों से भरी एक नाव में 8 प्रवासियों के शव मिले हैं. गंभीर हालत में 6 लोगों को हेलिकॉप्टर के जरिए अस्पताल पहुंचाया गया. और पढ़ेंयह नाव एल हिएरो द्वीप से करीब 39 नॉटिकल मील (72 किलोमीटर) दक्षिण में `,
+    content_hi: `स्पेन के कैनरी आइलैंड के पास करीब 100 प्रवासियों से भरी एक नाव में 8 प्रवासियों के शव मिले हैं. गंभीर हालत में 6 लोगों को हेलिकॉप्टर के जरिए अस्पताल पहुंचाया गया. और पढ़ेंयह नाव एल हिएरो द्वीप से करीब 39 नॉटिकल मील (72 किलोमीटर) दक्षिण में मिली थी. यह घटना स्पेन में रविवार को होने वाले आम चुनाव से ठीक पहले हुई है, जहां आव्रजन बड़ा चुनावी मुद्दा है.यह हादसा दुनिया के सबसे खतरनाक प्रवासी मार्गों में शामिल अटलांटिक समुद्री रास्ते पर यात्रा के जोखिमों को उजागर करता है.
+
+इस ताजा त्रासदी पर कैनरी आइलैंड के रीजनल लीडर फर्नांडो क्लाविजो ने दुख जताते हुए सोशल मीडिया पर लिखा, इस नई त्रासदी से बहुत दुख और बेबसी महसूस हो रही है.क्लाविजो ने स्पेन सरकार और यूरोपीय आयोग से तत्काल कदम उठाने की मांग की. उन्होंने कहा कि मानवीय संकट की शुरुआत एल हिएरो से नहीं, बल्कि सेनेगल और गाम्बिया के तटों से होती है.
+
+वहां की सरकारों को कार्रवाई करने की जरूरत है. Advertisement        गौरतलब है कि कैनरी आइलैंड में अक्टूबर से प्रवासियों के पहुंचने की संख्या में तेजी आई है. 25 नवंबर को एक ही दिन में 2,100 प्रवासी यहां पहुंचे, जो अब तक का सबसे बड़ा आंकड़ा है. इनमें से ज्यादातर लोग एल हिएरो द्वीप पहुंचे, जिसकी आबादी करीब 11,400 है.हर साल हजारों प्रवासी खराब मौसम, ऊंची समुद्री लहरों और तेज धाराओं के बावजूद अटलांटिक महासागर के रास्ते स्पेन पहुंचने की कोशिश करते हैं.
+
+इनमें से ज्यादातर लोग क्षमता से अधिक भरी हुई नावों में खतरनाक समुद्री यात्रा करते हैं.---- समाप्त ----
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/world/story/migrants-found-dead-on-boat-spain-canary-islands-ntc-rmxk-dskc-2708232-2026-11-28)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `World श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक स्पेन के कैनरी आइलैंड के पास बड़ा हादसा, प्रवासियों से भरी नाव में 8 लोगों के शव मिले - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 178,
+    title: `IPL 2027: Rohit Sharma back in the saddle for Mumbai Indians`,
+    slug: `ipl-2027-rohit-sharma-back-in-the-saddle-for-mumbai-indians-2026`,
+    original_title: `IPL 2027: Rohit Sharma back in the saddle for Mumbai Indians`,
+    category: `sports`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:18:52Z`,
+    updated_at: `2026-11-28T06:18:52Z`,
+    source_name: `The Hindu`,
+    source_url: `https://www.thehindu.com/sport/cricket/ipl-2027-rohit-sharma-to-return-as-mumbai-indians-captain-after-three-seasons/article71750731.ece`,
+    source_courtesy: `Source: The Hindu`,
+    image_url: `/images/articles/ipl-2027-rohit-sharma-back-in-the-saddle-for-mumbai-indians-2026.jpg`,
+    image_alt: `IPL 2027: Rohit Sharma back in the saddle for Mumbai Indians`,
+    image_courtesy: `Image: The Hindu (External Source Attribution)`,
+    image_photographer: `The Hindu`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `Mumbai Rohit Sharma, three years after being stripped of captaincy, has been reinstated as Mumbai Indians skipper for the Indian Premier League 2027, returning to the role in which he led the franchise to all five of its IPL titles. After t`,
+    content: `Mumbai Rohit Sharma, three years after being stripped of captaincy, has been reinstated as Mumbai Indians skipper for the Indian Premier League 2027, returning to the role in which he led the franchise to all five of its IPL titles. After trading Hardik Pandya, who led the side for three seasons, to Punjab Kings, Mumbai has turned to the man behind its most successful era.
+
+The timing of the announcement was significant. PBKS retains 19 players, releases seven players; ₹18.6 crore available for IPL 2027 auction PBKS retains 19 players, releases seven players; ₹18.6 crore available for IPL 2027 auction PBKS has retained has six slots left, including two overseas ones ahead of the IPL 2027 auction.
+
+PBKS retains 19 players, releases seven players; ₹18.6 crore available for IPL 2027 auction storyline 1 On November 27, 2017, Rohit was appointed India’s stand-in ODI captain for the first time, with Virat Kohli rested for the home series against Sri Lanka. Six years later, on the same date, Mumbai announced Hardik as its captain, replacing Rohit.
+
+On Friday, the franchise handed the reins back to its most successful leader. “Mumbai Indians has been a huge part of my life, and leading this team has always been something I have always taken great pride in,” Rohit said. “The conversations with Nita (Ambani) bhabhi and Akash (Ambani) about the season ahead have been exciting, and I have a lot of belief in what we can achieve,” he said, adding: “I am ready for the 20th season, to the challenges ahead, and to giving our Paltan plenty of moments to celebrate.
+
+The focus will be on playing our brand of cricket, competing together and enjoying the game.” Hardik Pandya traded to Punjab Kings in exchange of Arshdeep Singh ahead of IPL 2027 Hardik Pandya traded to Punjab Kings in exchange of Arshdeep Singh ahead of IPL 2027 The high-profile player-for-player swap, confirmed by the IPL executives through a media statement, involves two players who have been central to their respective teams in recent seasons Hardik Pandya traded to Punjab Kings in exchange of Arshdeep Singh ahead of IPL 2027 storyline 1 Rohit remains Mumbai’s longest-serving captain, having led the franchise in 163 matches across the IPL and Champions League T20, recording 93 wins and 70 defeats.
+
+He captained Mumbai in five IPL finals — 2013, 2015, 2017, 2019 and 2020 — and won every one. His return follows three seasons of mixed fortunes under Hardik. Mumbai finished last in 2024, reached the playoffs in 2025 before losing to Punjab Kings in Qualifier 2, and slipped to ninth in 2026.
+
+The Hindu understands that Rohit was among several candidates considered for the captaincy. Jasprit Bumrah, Suryakumar Yadav and Tilak Varma were also in contention. The franchise, however, opted for the man whose leadership brought it its five championships. “As we celebrate the 20th season of Mumbai Indians, it is a very special moment for all of us to see Rohit lead the team once again,” Nita Ambani said.
+
+“He has given us so many wonderful memories over the years, and I know how much he means to our Paltan. I hope this new chapter brings many more moments of pride for him, for our team and for the millions of fans who love Mumbai Indians,” she said.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/sport/cricket/ipl-2027-rohit-sharma-to-return-as-mumbai-indians-captain-after-three-seasons/article71750731.ece)`,
+    title_en: `IPL 2027: Rohit Sharma back in the saddle for Mumbai Indians`,
+    summary_en: `Mumbai Rohit Sharma, three years after being stripped of captaincy, has been reinstated as Mumbai Indians skipper for the Indian Premier League 2027, returning to the role in which he led the franchise to all five of its IPL titles. After t`,
+    content_en: `Mumbai Rohit Sharma, three years after being stripped of captaincy, has been reinstated as Mumbai Indians skipper for the Indian Premier League 2027, returning to the role in which he led the franchise to all five of its IPL titles. After trading Hardik Pandya, who led the side for three seasons, to Punjab Kings, Mumbai has turned to the man behind its most successful era.
+
+The timing of the announcement was significant. PBKS retains 19 players, releases seven players; ₹18.6 crore available for IPL 2027 auction PBKS retains 19 players, releases seven players; ₹18.6 crore available for IPL 2027 auction PBKS has retained has six slots left, including two overseas ones ahead of the IPL 2027 auction.
+
+PBKS retains 19 players, releases seven players; ₹18.6 crore available for IPL 2027 auction storyline 1 On November 27, 2017, Rohit was appointed India’s stand-in ODI captain for the first time, with Virat Kohli rested for the home series against Sri Lanka. Six years later, on the same date, Mumbai announced Hardik as its captain, replacing Rohit.
+
+On Friday, the franchise handed the reins back to its most successful leader. “Mumbai Indians has been a huge part of my life, and leading this team has always been something I have always taken great pride in,” Rohit said. “The conversations with Nita (Ambani) bhabhi and Akash (Ambani) about the season ahead have been exciting, and I have a lot of belief in what we can achieve,” he said, adding: “I am ready for the 20th season, to the challenges ahead, and to giving our Paltan plenty of moments to celebrate.
+
+The focus will be on playing our brand of cricket, competing together and enjoying the game.” Hardik Pandya traded to Punjab Kings in exchange of Arshdeep Singh ahead of IPL 2027 Hardik Pandya traded to Punjab Kings in exchange of Arshdeep Singh ahead of IPL 2027 The high-profile player-for-player swap, confirmed by the IPL executives through a media statement, involves two players who have been central to their respective teams in recent seasons Hardik Pandya traded to Punjab Kings in exchange of Arshdeep Singh ahead of IPL 2027 storyline 1 Rohit remains Mumbai’s longest-serving captain, having led the franchise in 163 matches across the IPL and Champions League T20, recording 93 wins and 70 defeats.
+
+He captained Mumbai in five IPL finals — 2013, 2015, 2017, 2019 and 2020 — and won every one. His return follows three seasons of mixed fortunes under Hardik. Mumbai finished last in 2024, reached the playoffs in 2025 before losing to Punjab Kings in Qualifier 2, and slipped to ninth in 2026.
+
+The Hindu understands that Rohit was among several candidates considered for the captaincy. Jasprit Bumrah, Suryakumar Yadav and Tilak Varma were also in contention. The franchise, however, opted for the man whose leadership brought it its five championships. “As we celebrate the 20th season of Mumbai Indians, it is a very special moment for all of us to see Rohit lead the team once again,” Nita Ambani said.
+
+“He has given us so many wonderful memories over the years, and I know how much he means to our Paltan. I hope this new chapter brings many more moments of pride for him, for our team and for the millions of fans who love Mumbai Indians,” she said.
+
+---
+
+**Original Source:** [The Hindu](https://www.thehindu.com/sport/cricket/ipl-2027-rohit-sharma-to-return-as-mumbai-indians-captain-after-three-seasons/article71750731.ece)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Hindu.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for IPL 2027: Rohit Sharma back in the saddle for Mumbai Indians.`,
+    primary_source: `The Hindu`,
+  },
+  {
+    id: 179,
+    title: `ऑस्ट्रेलियाई टीम का ऐलान, 13 साल बाद नाथन लायन की छुट्टी, दो नए खिलाड़ियों की एंट्री - AajTak`,
+    slug: `13-aajtak-2026`,
+    original_title: `ऑस्ट्रेलियाई टीम का ऐलान, 13 साल बाद नाथन लायन की छुट्टी, दो नए खिलाड़ियों की एंट्री - AajTak`,
+    category: `sports`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:18:57Z`,
+    updated_at: `2026-11-28T06:18:57Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/sports/cricket/story/australia-test-squad-vs-new-zealand-nathan-lyon-dropped-corey-rocchiccioli-jack-clayton-picked-tspoa-dskc-2708300-2026-11-28`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b0a50538555c-nathan-lyon-285354266.jpg`,
+    image_alt: `ऑस्ट्रेलियाई टीम का ऐलान, 13 साल बाद नाथन लायन की छुट्टी, दो नए खिलाड़ियों की एंट्री - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Sports, News, India`,
+    summary: `ऑस्ट्रेलिया ने न्यूजीलैंड के खिलाफ चार टेस्ट मैचों की सीरीज के लिए अपनी टीम घोषित कर दी है. सबसे चौंकाने वाला फैसला दिग्गज ऑफ स्पिनर नाथन लायन को बाहर रखने का रहा. लायन 2013 से ऑस्ट्रेलिया के प्रमुख स्पिनर रहे हैं, लेकिन हालिया प्रदर्शन के `,
+    content: `ऑस्ट्रेलिया ने न्यूजीलैंड के खिलाफ चार टेस्ट मैचों की सीरीज के लिए अपनी टीम घोषित कर दी है. सबसे चौंकाने वाला फैसला दिग्गज ऑफ स्पिनर नाथन लायन को बाहर रखने का रहा. लायन 2013 से ऑस्ट्रेलिया के प्रमुख स्पिनर रहे हैं, लेकिन हालिया प्रदर्शन के बाद चयनकर्ताओं ने उनकी जगह कोरी रोचिचियोली पर भरोसा जताया है.
+
+रोचिचियोली और बल्लेबाज जैक क्लेटन को पहली बार टेस्ट टीम में चुना गया है. और पढ़ें39 साल के नाथन लायन ने 2011 में टेस्ट डेब्यू किया था. लायन अब तक 145 टेस्ट मैचों में 577 विकेट हासिल किए हैं. ऑस्ट्रेलिया के लिए उनसे ज्यादा टेस्ट विकेट सिर्फ शेन वॉर्न (708) ने लिए हैं. टेस्ट क्रिकेट में सर्वाधिक विकेट लेने वाले गेंदबाजों की सूची में लायन छठे स्थान पर हैं.JUST IN: Fresh faces in line for Test debut with Lyon bombshell confirmed.
+
+Full story: https://t.co/pG5drytpEf https://t.co/8LciKaZvKq— cricket.com.au (@cricketcomau) November 27, 2026हालांकि, साउथ अफ्रीका दौरा नाथन लायन के लिए अच्छा नहीं रहा. तीन मैचों में उन्होंने 43.67 की औसत से छह विकेट लिए और गकेबरहा में दूसरे टेस्ट से बाहर भी रहे. इसके बाद शेफील्ड शील्ड में वापसी करते हुए न्यू साउथ वेल्स के लिए दो मैचों में सात विकेट झटके.यह भी पढ़ें: आकाश दीप ने 5 विकेट लेकर जहीर खान-ईशांत शर्मा के क्लब में मारी एंट्री, बुमराह के नाम शर्मनाक रिकॉर्डमुख्य चयनकर्ता जॉर्ज बेली ने माना कि हालिया मुकाबलों में नाथन लायन गेंद से अपेक्षित प्रभाव नहीं छोड़ सके.
+
+इसके बावजूद उन्होंने अनुभवी स्पिनर के योगदान को अहम बताया. बेली ने कहा कि लायन का अनुभव और स्किल टीम के लिए अब भी उपयोगी हो सकता है. Advertisement        चयनकर्ताओं ने 29 वर्षीय कोरी रोचिचियोली को स्पिन विभाग में मौका दिया है. उन्होंने इस सीजन वेस्टर्न ऑस्ट्रेलिया के लिए 33.88 की औसत से 18 विकेट लिए हैं.
+
+पिछले सप्ताह तस्मानिया के खिलाफ शतक लगाकर उन्होंने अपनी बल्लेबाजी क्षमता भी दिखाई. वहीं, जैक क्लेटन पहली बार टेस्ट टीम में चुने गए हैं. कूपर कोनोली और मार्नस लाबुशेन को इस बार टीम में जगह नहीं मिली है.यह भी पढ़ें: 38 साल की उम्र में WWE स्टार ब्रॉनसन रीड का निधन, सामने आई मौत की &#039;दर्दनाक&#039; वजह ऑस्ट्रेलिया और न्यूजीलैंड के बीच पहला टेस्ट 9 दिसंबर से पर्थ में शुरू होगा.
+
+इसके बाद सीरीज के मुकाबले एडिलेड, मेलबर्न और सिडनी में खेले जाएंगे.ऑस्ट्रेलियाई टीम: पैट कमिंस (कप्तान), स्कॉट बोलैंड, एलेक्स कैरी, जैक क्लेटन, कैमरन ग्रीन, जोश हेजलवुड, ट्रेविस हेड, जोश इंग्लिस, माइकल नेसर, मैट रेनशॉ, कोरी रोचिचिओली, स्टीव स्मिथ और मिचेल स्टार्क.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/australia-test-squad-vs-new-zealand-nathan-lyon-dropped-corey-rocchiccioli-jack-clayton-picked-tspoa-dskc-2708300-2026-11-28)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `ऑस्ट्रेलियाई टीम का ऐलान, 13 साल बाद नाथन लायन की छुट्टी, दो नए खिलाड़ियों की एंट्री - AajTak`,
+    summary_hi: `ऑस्ट्रेलिया ने न्यूजीलैंड के खिलाफ चार टेस्ट मैचों की सीरीज के लिए अपनी टीम घोषित कर दी है. सबसे चौंकाने वाला फैसला दिग्गज ऑफ स्पिनर नाथन लायन को बाहर रखने का रहा. लायन 2013 से ऑस्ट्रेलिया के प्रमुख स्पिनर रहे हैं, लेकिन हालिया प्रदर्शन के `,
+    content_hi: `ऑस्ट्रेलिया ने न्यूजीलैंड के खिलाफ चार टेस्ट मैचों की सीरीज के लिए अपनी टीम घोषित कर दी है. सबसे चौंकाने वाला फैसला दिग्गज ऑफ स्पिनर नाथन लायन को बाहर रखने का रहा. लायन 2013 से ऑस्ट्रेलिया के प्रमुख स्पिनर रहे हैं, लेकिन हालिया प्रदर्शन के बाद चयनकर्ताओं ने उनकी जगह कोरी रोचिचियोली पर भरोसा जताया है.
+
+रोचिचियोली और बल्लेबाज जैक क्लेटन को पहली बार टेस्ट टीम में चुना गया है. और पढ़ें39 साल के नाथन लायन ने 2011 में टेस्ट डेब्यू किया था. लायन अब तक 145 टेस्ट मैचों में 577 विकेट हासिल किए हैं. ऑस्ट्रेलिया के लिए उनसे ज्यादा टेस्ट विकेट सिर्फ शेन वॉर्न (708) ने लिए हैं. टेस्ट क्रिकेट में सर्वाधिक विकेट लेने वाले गेंदबाजों की सूची में लायन छठे स्थान पर हैं.JUST IN: Fresh faces in line for Test debut with Lyon bombshell confirmed.
+
+Full story: https://t.co/pG5drytpEf https://t.co/8LciKaZvKq— cricket.com.au (@cricketcomau) November 27, 2026हालांकि, साउथ अफ्रीका दौरा नाथन लायन के लिए अच्छा नहीं रहा. तीन मैचों में उन्होंने 43.67 की औसत से छह विकेट लिए और गकेबरहा में दूसरे टेस्ट से बाहर भी रहे. इसके बाद शेफील्ड शील्ड में वापसी करते हुए न्यू साउथ वेल्स के लिए दो मैचों में सात विकेट झटके.यह भी पढ़ें: आकाश दीप ने 5 विकेट लेकर जहीर खान-ईशांत शर्मा के क्लब में मारी एंट्री, बुमराह के नाम शर्मनाक रिकॉर्डमुख्य चयनकर्ता जॉर्ज बेली ने माना कि हालिया मुकाबलों में नाथन लायन गेंद से अपेक्षित प्रभाव नहीं छोड़ सके.
+
+इसके बावजूद उन्होंने अनुभवी स्पिनर के योगदान को अहम बताया. बेली ने कहा कि लायन का अनुभव और स्किल टीम के लिए अब भी उपयोगी हो सकता है. Advertisement        चयनकर्ताओं ने 29 वर्षीय कोरी रोचिचियोली को स्पिन विभाग में मौका दिया है. उन्होंने इस सीजन वेस्टर्न ऑस्ट्रेलिया के लिए 33.88 की औसत से 18 विकेट लिए हैं.
+
+पिछले सप्ताह तस्मानिया के खिलाफ शतक लगाकर उन्होंने अपनी बल्लेबाजी क्षमता भी दिखाई. वहीं, जैक क्लेटन पहली बार टेस्ट टीम में चुने गए हैं. कूपर कोनोली और मार्नस लाबुशेन को इस बार टीम में जगह नहीं मिली है.यह भी पढ़ें: 38 साल की उम्र में WWE स्टार ब्रॉनसन रीड का निधन, सामने आई मौत की &#039;दर्दनाक&#039; वजह ऑस्ट्रेलिया और न्यूजीलैंड के बीच पहला टेस्ट 9 दिसंबर से पर्थ में शुरू होगा.
+
+इसके बाद सीरीज के मुकाबले एडिलेड, मेलबर्न और सिडनी में खेले जाएंगे.ऑस्ट्रेलियाई टीम: पैट कमिंस (कप्तान), स्कॉट बोलैंड, एलेक्स कैरी, जैक क्लेटन, कैमरन ग्रीन, जोश हेजलवुड, ट्रेविस हेड, जोश इंग्लिस, माइकल नेसर, मैट रेनशॉ, कोरी रोचिचिओली, स्टीव स्मिथ और मिचेल स्टार्क.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/sports/cricket/story/australia-test-squad-vs-new-zealand-nathan-lyon-dropped-corey-rocchiccioli-jack-clayton-picked-tspoa-dskc-2708300-2026-11-28)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Sports श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक ऑस्ट्रेलियाई टीम का ऐलान, 13 साल बाद नाथन लायन की छुट्टी, दो नए खिलाड़ियों की एंट्री - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 180,
+    title: `Shah Rukh Khan says starring with much younger actresses made him want to embrace his age in King, now wants to be a cool 61-year-old hero | Bollywood - Hindustan Times`,
+    slug: `shah-rukh-khan-says-starring-with-much-younger-actresses-made-him-want-2026`,
+    original_title: `Shah Rukh Khan says starring with much younger actresses made him want to embrace his age in King, now wants to be a cool 61-year-old hero | Bollywood - Hindustan Times`,
+    category: `entertainment`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `2 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:18:58Z`,
+    updated_at: `2026-11-28T06:18:58Z`,
+    source_name: `Hindustan Times`,
+    source_url: `https://www.hindustantimes.com/entertainment/bollywood/shah-rukh-khan-says-starring-with-much-younger-actresses-made-him-want-to-embrace-his-age-in-king-now-wants-to-be-a-cool-61-year-old-hero-101795833777398.html`,
+    source_courtesy: `Source: Hindustan Times`,
+    image_url: `https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=85`,
+    image_alt: `Shah Rukh Khan says starring with much younger actresses made him want to embrace his age in King, now wants to be a cool 61-year-old hero | Bollywood - Hindustan Times`,
+    image_courtesy: `Image: Unsplash Stock Illustration (Unsplash License)`,
+    image_photographer: `Unsplash Stock Illustration`,
+    image_license: `Unsplash License`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `Actor Shah Rukh Khan and filmmaker Karan Johar attended a Meta event in Mumbai on Friday evening. The Bollywood star spoke about his upcoming film King with Siddharth Anand while there. Revealing why he went grey-haired and decided to play `,
+    content: `Actor Shah Rukh Khan and filmmaker Karan Johar attended a Meta event in Mumbai on Friday evening. The Bollywood star spoke about his upcoming film King with Siddharth Anand while there. Revealing why he went grey-haired and decided to play his age in the film, the actor pointed out the age gap between him and his leading ladies.
+
+He also stated that he just wanted to be a cool 61-year-old hero.Shah Rukh Khan on acting with much younger actresses and being coolShah Rukh spoke about why he wanted to star in King. “I’ve always wanted to be a hero. I felt I wasn’t good-looking when I first entered the film industry.
+
+So, when I got the chance to be a hero, for someone as simple-looking as I am, I hold it very dearly,” he explained.“Secondly, I was shooting for a film which I won’t name, but Karan knows. I won’t name the director and heroine either. I was standing in front of her and telling her one of my amazing love dialogues,” he said, adding, “I love you a lot; I want to get lost in your eyes.
+
+I feel like I’ve seen the world when I look at you. And one more thing: I hope you finished your math homework for tomorrow, beti (daughter). So, with the age difference between me, and the girls I was acting with, I started feeling I should play my age, which is 61 now. And be as cool as a 61-year-old can be.”Shah Rukh said that, with his grey-haired look in King, he wanted girls to look at him differently now.
+
+“So, even if today I sit down or stand up and say any of the dialogue, it still seems relevant. And all the girls in the world, because my daughter Suhana is also part of the film, all the girls think, this is how my dad should be. I just wanted to be a hero at 60 and play my age,” said the actor.
+
+About Siddharth Anand’s KingKing is directed by Siddharth Anand, who co-wrote the screenplay with Sujoy Ghosh, Suresh Nair, and Sagar Pandya. It will mark Shah Rukh’s daughter, Suhana Khan’s, theatrical debut. Abhishek Bachchan, Deepika Padukone, Anil Kapoor, Rani Mukerji, Jaideep Ahlawat, Jackie Shroff, Arshad Warsi, Raghav Juyal and Abhay Verma also star in it.
+
+Kareena Kapoor appears in the song Daddy Cool, which was released on Friday. The film will be released in theatres on December 24.
+
+---
+
+**Original Source:** [Hindustan Times](https://www.hindustantimes.com/entertainment/bollywood/shah-rukh-khan-says-starring-with-much-younger-actresses-made-him-want-to-embrace-his-age-in-king-now-wants-to-be-a-cool-61-year-old-hero-101795833777398.html)`,
+    title_en: `Shah Rukh Khan says starring with much younger actresses made him want to embrace his age in King, now wants to be a cool 61-year-old hero | Bollywood - Hindustan Times`,
+    summary_en: `Actor Shah Rukh Khan and filmmaker Karan Johar attended a Meta event in Mumbai on Friday evening. The Bollywood star spoke about his upcoming film King with Siddharth Anand while there. Revealing why he went grey-haired and decided to play `,
+    content_en: `Actor Shah Rukh Khan and filmmaker Karan Johar attended a Meta event in Mumbai on Friday evening. The Bollywood star spoke about his upcoming film King with Siddharth Anand while there. Revealing why he went grey-haired and decided to play his age in the film, the actor pointed out the age gap between him and his leading ladies.
+
+He also stated that he just wanted to be a cool 61-year-old hero.Shah Rukh Khan on acting with much younger actresses and being coolShah Rukh spoke about why he wanted to star in King. “I’ve always wanted to be a hero. I felt I wasn’t good-looking when I first entered the film industry.
+
+So, when I got the chance to be a hero, for someone as simple-looking as I am, I hold it very dearly,” he explained.“Secondly, I was shooting for a film which I won’t name, but Karan knows. I won’t name the director and heroine either. I was standing in front of her and telling her one of my amazing love dialogues,” he said, adding, “I love you a lot; I want to get lost in your eyes.
+
+I feel like I’ve seen the world when I look at you. And one more thing: I hope you finished your math homework for tomorrow, beti (daughter). So, with the age difference between me, and the girls I was acting with, I started feeling I should play my age, which is 61 now. And be as cool as a 61-year-old can be.”Shah Rukh said that, with his grey-haired look in King, he wanted girls to look at him differently now.
+
+“So, even if today I sit down or stand up and say any of the dialogue, it still seems relevant. And all the girls in the world, because my daughter Suhana is also part of the film, all the girls think, this is how my dad should be. I just wanted to be a hero at 60 and play my age,” said the actor.
+
+About Siddharth Anand’s KingKing is directed by Siddharth Anand, who co-wrote the screenplay with Sujoy Ghosh, Suresh Nair, and Sagar Pandya. It will mark Shah Rukh’s daughter, Suhana Khan’s, theatrical debut. Abhishek Bachchan, Deepika Padukone, Anil Kapoor, Rani Mukerji, Jaideep Ahlawat, Jackie Shroff, Arshad Warsi, Raghav Juyal and Abhay Verma also star in it.
+
+Kareena Kapoor appears in the song Daddy Cool, which was released on Friday. The film will be released in theatres on December 24.
+
+---
+
+**Original Source:** [Hindustan Times](https://www.hindustantimes.com/entertainment/bollywood/shah-rukh-khan-says-starring-with-much-younger-actresses-made-him-want-to-embrace-his-age-in-king-now-wants-to-be-a-cool-61-year-old-hero-101795833777398.html)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to Hindustan Times.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Shah Rukh Khan says starring with much younger actresses made him want to embrace his age in King, now wants to be a cool 61-year-old hero | Bollywood - Hindustan Times.`,
+    primary_source: `Hindustan Times`,
+  },
+  {
+    id: 181,
+    title: `Pakistani Web Series Row: नेटफ्लिक्स पर नहीं चलेगा पाकिस्तानी कंटेंट? सरकार की एडवाइजरी और कानून का पूरा गणित समझिए - AajTak`,
+    slug: `pakistani-web-series-row-aajtak-2026`,
+    original_title: `Pakistani Web Series Row: नेटफ्लिक्स पर नहीं चलेगा पाकिस्तानी कंटेंट? सरकार की एडवाइजरी और कानून का पूरा गणित समझिए - AajTak`,
+    category: `entertainment`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:19:04Z`,
+    updated_at: `2026-11-28T06:19:04Z`,
+    source_name: `AajTak`,
+    source_url: `https://www.aajtak.in/entertainment/news/story/netflix-pakistani-web-series-jo-bachay-hain-sang-samait-lo-india-release-controversy-pahalgam-attack-tmovj-rpti-2707908-2026-11-27`,
+    source_courtesy: `Source: AajTak`,
+    image_url: `https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6b09596158d83-fawad-mahiras-pakistani-netflix-series-in-indiafawad-mahiras-pakistani-netflix-series-in-india-272016247.jpg`,
+    image_alt: `Pakistani Web Series Row: नेटफ्लिक्स पर नहीं चलेगा पाकिस्तानी कंटेंट? सरकार की एडवाइजरी और कानून का पूरा गणित समझिए - AajTak`,
+    image_courtesy: `Image: AajTak (External Source Attribution)`,
+    image_photographer: `AajTak`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Entertainment, News, India`,
+    summary: `पाकिस्तानी एक्टर फवाद खान और माहिरा खान की नई वेब सीरीज &#039;जो बचे हैं संग समेट लो&#039; रिलीज से पहले ही विवादों में घिर गई है. इस सीरीज को लेकर भारत में जमकर विरोध हो रहा है. इस मामले में सूचना और प्रसारण मंत्रालय ने स्ट्रीमिंग प्लेटफॉर`,
+    content: `पाकिस्तानी एक्टर फवाद खान और माहिरा खान की नई वेब सीरीज &#039;जो बचे हैं संग समेट लो&#039; रिलीज से पहले ही विवादों में घिर गई है. इस सीरीज को लेकर भारत में जमकर विरोध हो रहा है. इस मामले में सूचना और प्रसारण मंत्रालय ने स्ट्रीमिंग प्लेटफॉर्म नेटफ्लिक्स को साफ निर्देश दिए हैं कि पाकिस्तान में बनने वाला कोई भी कंटेंट भारत में स्ट्रीम नहीं होना चाहिए.
+
+और पढ़ेंसूचना एवं प्रसारण मंत्रालय ने आठ मई 2025 को सभी ओटीटी प्लेटफॉर्म्स, मीडिया स्ट्रीमिंग सेवाओं और भारत में काम करने वाले डिजिटल इंटरमीडियरीज के लिए एक एडवाइजरी जारी की थी. यह फैसला 22 अप्रैल 2025 को जम्मू-कश्मीर के पहलगाम में हुए आतंकी हमले के बाद लिया गया था. मंत्रालय ने अपनी एडवाइजरी में राष्ट्रीय सुरक्षा का हवाला देते हुए कहा था कि भारत में काम करने वाले सभी ओटीटी और स्ट्रीमिंग प्लेटफॉर्म तत्काल प्रभाव से पाकिस्तान में बने कंटेंट को दिखाना बंद करें.ऐसे में जब 24 नवंबर को फवाद खान, माहिरा खान, सनम सईद, हानिया आमिर, अहद रजा मीर और इकरा अजीज जैसे पाकिस्तानी कलाकारों की सीरीज &#039;जो बचे हैं संग समेट लो&#039; का ट्रेलर सामने आया तो विरोध शुरू हुआ.
+
+यह सीरीज 4 दिसंबर को नेटफ्लिक्स पर रिलीज होने वाली है. यह पाकिस्तान की पहली ओरिजिनल सीरीज है, जिसे ग्लोबली नेटफ्लिक्स रिलीज कर रहा है. Advertisement        इसी के बाद भारत में इसके प्रसारण को लेकर विरोध शुरू हुआ. ऑल इंडिया सिने वर्कर्स एसोसिएशन (AICWA) ने प्रधानमंत्री नरेंद्र मोदी को पत्र लिखकर सीरीज की भारत में रिलीज रोकने और पाकिस्तानी कंटेंट पर स्थायी प्रतिबंध लगाने की मांग की.
+
+फेडरेशन ऑफ वेस्टर्न इंडिया सिने एम्प्लॉइज ने भी विरोध जताया. इसके बाद सूचना एवं प्रसारण मंत्रालय को इस सीरीज की भारत में संभावित रिलीज को लेकर कई शिकायतें और ज्ञापन मिले. 26 नवंबर 2026 को मंत्रालय ने नेटफ्लिक्स से कहा कि वह आठ मई 2025 की एडवाइजरी का पालन करे और पाकिस्तान में बने किसी भी कंटेंट को भारत में स्ट्रीम नहीं करे.ऐसे में अब सरकार ने इस बार सिर्फ 2025 की एडवाइजरी का हवाला नहीं दिया है बल्कि नेटफ्लिक्स के अपने पुराने आश्वासन को भी याद दिलाया है.
+
+नेटफ्लिक्स सरकार के इस निर्देश को मानने के लिए बाध्य है?यह इस पूरे मामले का सबसे महत्वपूर्ण कानूनी सवाल है. इसके दो पहलू हैं. पहला भारत में ओटीटी प्लेटफॉर्म्स सूचना प्रौद्योगिकी नियम, 2021 के तहत आते हैं. इन नियमों के पार्ट 3 में ओटीटी प्लेटफॉर्म्स के लिए कोड ऑफ एथिक्स यानी आचार संहिता निर्धारित की गई है.इसके मुताबिक किसी भी कंटेंट को प्रसारित करते समय प्लेटफॉर्म को इन बातों का ध्यान रखना होता है.
+
+Advertisement        - ऐसा कंटेंट नहीं होना चाहिए जो भारत की संप्रभुता और अखंडता को प्रभावित करे.- ऐसा कंटेंट नहीं होना चाहिए जिससे देश की सुरक्षा को खतरा हो.- ऐसा कंटेंट नहीं होना चाहिए जो दूसरे देशों के साथ भारत के मैत्रीपूर्ण संबंधों को नुकसान पहुंचाए.- ऐसा कंटेंट नहीं होना चाहिए जिससे हिंसा भड़कने या सार्वजनिक व्यवस्था बिगड़ने की आशंका हो.दूसरा, आईटी एक्ट का सेक्शन 69A.
+
+यह प्रावधान सरकार को ज्यादा ठोस कानूनी अधिकार देता है. सूचना प्रौद्योगिकी अधिनियम, 2000 की धारा 69A के तहत केंद्र सरकार कुछ परिस्थितियों में किसी ऑनलाइन जानकारी या कंटेंट तक सार्वजनिक पहुंच को ब्लॉक करने का आदेश दे सकती है.इसके पीछे ये आधार हो सकते हैं:-- भारत की संप्रभुता और अखंडता.- देश की रक्षा और सुरक्षा.- दूसरे देशों के साथ मैत्रीपूर्ण संबंध.- सार्वजनिक व्यवस्था बनाए रखना.- किसी संज्ञेय अपराध को भड़कने से रोकना.अगर सरकार इस धारा के तहत वैध ब्लॉकिंग आदेश जारी करती है, तो संबंधित प्लेटफॉर्म के लिए उसका पालन करना कानूनी रूप से जरूरी होता है.क्या है पूरा मामला?दरअसल, नेटफ्लिक्स की पाकिस्तानी सीरीज जो बचे हैं संग समेट लो का ट्रेलर सामने आने के बाद से ही इसे भारत में रिलीज ना करने की मांग उठ रही है.
+
+इस सीरीज में फवाद खान, माहिरा खान, हानिया आमिर, अहद रजा मीर, इकरा अजीज और सनम सईद जैसे पाकिस्तानी कलाकार नजर आएंगे. ये सीरीज 4 दिसंबर 2026 को दुनियाभर में नेटफ्लिक्स पर रिलीज होने वाली है. Advertisement        हालांकि, भारत में इसे स्ट्रीम किया जाएगा या नहीं, इस पर अभी स्थिति साफ नहीं है.
+
+इस मामले में सूचना और प्रसारण मंत्रालय को भी कई शिकायतें मिली थीं. इसके बाद मंत्रालय ने नेटफ्लिक्स को पाकिस्तान से जुड़े कंटेंट को भारत में उपलब्ध ना कराने की बात दोबारा याद दिलाई है.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/news/story/netflix-pakistani-web-series-jo-bachay-hain-sang-samait-lo-india-release-controversy-pahalgam-attack-tmovj-rpti-2707908-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `Pakistani Web Series Row: नेटफ्लिक्स पर नहीं चलेगा पाकिस्तानी कंटेंट? सरकार की एडवाइजरी और कानून का पूरा गणित समझिए - AajTak`,
+    summary_hi: `पाकिस्तानी एक्टर फवाद खान और माहिरा खान की नई वेब सीरीज &#039;जो बचे हैं संग समेट लो&#039; रिलीज से पहले ही विवादों में घिर गई है. इस सीरीज को लेकर भारत में जमकर विरोध हो रहा है. इस मामले में सूचना और प्रसारण मंत्रालय ने स्ट्रीमिंग प्लेटफॉर`,
+    content_hi: `पाकिस्तानी एक्टर फवाद खान और माहिरा खान की नई वेब सीरीज &#039;जो बचे हैं संग समेट लो&#039; रिलीज से पहले ही विवादों में घिर गई है. इस सीरीज को लेकर भारत में जमकर विरोध हो रहा है. इस मामले में सूचना और प्रसारण मंत्रालय ने स्ट्रीमिंग प्लेटफॉर्म नेटफ्लिक्स को साफ निर्देश दिए हैं कि पाकिस्तान में बनने वाला कोई भी कंटेंट भारत में स्ट्रीम नहीं होना चाहिए.
+
+और पढ़ेंसूचना एवं प्रसारण मंत्रालय ने आठ मई 2025 को सभी ओटीटी प्लेटफॉर्म्स, मीडिया स्ट्रीमिंग सेवाओं और भारत में काम करने वाले डिजिटल इंटरमीडियरीज के लिए एक एडवाइजरी जारी की थी. यह फैसला 22 अप्रैल 2025 को जम्मू-कश्मीर के पहलगाम में हुए आतंकी हमले के बाद लिया गया था. मंत्रालय ने अपनी एडवाइजरी में राष्ट्रीय सुरक्षा का हवाला देते हुए कहा था कि भारत में काम करने वाले सभी ओटीटी और स्ट्रीमिंग प्लेटफॉर्म तत्काल प्रभाव से पाकिस्तान में बने कंटेंट को दिखाना बंद करें.ऐसे में जब 24 नवंबर को फवाद खान, माहिरा खान, सनम सईद, हानिया आमिर, अहद रजा मीर और इकरा अजीज जैसे पाकिस्तानी कलाकारों की सीरीज &#039;जो बचे हैं संग समेट लो&#039; का ट्रेलर सामने आया तो विरोध शुरू हुआ.
+
+यह सीरीज 4 दिसंबर को नेटफ्लिक्स पर रिलीज होने वाली है. यह पाकिस्तान की पहली ओरिजिनल सीरीज है, जिसे ग्लोबली नेटफ्लिक्स रिलीज कर रहा है. Advertisement        इसी के बाद भारत में इसके प्रसारण को लेकर विरोध शुरू हुआ. ऑल इंडिया सिने वर्कर्स एसोसिएशन (AICWA) ने प्रधानमंत्री नरेंद्र मोदी को पत्र लिखकर सीरीज की भारत में रिलीज रोकने और पाकिस्तानी कंटेंट पर स्थायी प्रतिबंध लगाने की मांग की.
+
+फेडरेशन ऑफ वेस्टर्न इंडिया सिने एम्प्लॉइज ने भी विरोध जताया. इसके बाद सूचना एवं प्रसारण मंत्रालय को इस सीरीज की भारत में संभावित रिलीज को लेकर कई शिकायतें और ज्ञापन मिले. 26 नवंबर 2026 को मंत्रालय ने नेटफ्लिक्स से कहा कि वह आठ मई 2025 की एडवाइजरी का पालन करे और पाकिस्तान में बने किसी भी कंटेंट को भारत में स्ट्रीम नहीं करे.ऐसे में अब सरकार ने इस बार सिर्फ 2025 की एडवाइजरी का हवाला नहीं दिया है बल्कि नेटफ्लिक्स के अपने पुराने आश्वासन को भी याद दिलाया है.
+
+नेटफ्लिक्स सरकार के इस निर्देश को मानने के लिए बाध्य है?यह इस पूरे मामले का सबसे महत्वपूर्ण कानूनी सवाल है. इसके दो पहलू हैं. पहला भारत में ओटीटी प्लेटफॉर्म्स सूचना प्रौद्योगिकी नियम, 2021 के तहत आते हैं. इन नियमों के पार्ट 3 में ओटीटी प्लेटफॉर्म्स के लिए कोड ऑफ एथिक्स यानी आचार संहिता निर्धारित की गई है.इसके मुताबिक किसी भी कंटेंट को प्रसारित करते समय प्लेटफॉर्म को इन बातों का ध्यान रखना होता है.
+
+Advertisement        - ऐसा कंटेंट नहीं होना चाहिए जो भारत की संप्रभुता और अखंडता को प्रभावित करे.- ऐसा कंटेंट नहीं होना चाहिए जिससे देश की सुरक्षा को खतरा हो.- ऐसा कंटेंट नहीं होना चाहिए जो दूसरे देशों के साथ भारत के मैत्रीपूर्ण संबंधों को नुकसान पहुंचाए.- ऐसा कंटेंट नहीं होना चाहिए जिससे हिंसा भड़कने या सार्वजनिक व्यवस्था बिगड़ने की आशंका हो.दूसरा, आईटी एक्ट का सेक्शन 69A.
+
+यह प्रावधान सरकार को ज्यादा ठोस कानूनी अधिकार देता है. सूचना प्रौद्योगिकी अधिनियम, 2000 की धारा 69A के तहत केंद्र सरकार कुछ परिस्थितियों में किसी ऑनलाइन जानकारी या कंटेंट तक सार्वजनिक पहुंच को ब्लॉक करने का आदेश दे सकती है.इसके पीछे ये आधार हो सकते हैं:-- भारत की संप्रभुता और अखंडता.- देश की रक्षा और सुरक्षा.- दूसरे देशों के साथ मैत्रीपूर्ण संबंध.- सार्वजनिक व्यवस्था बनाए रखना.- किसी संज्ञेय अपराध को भड़कने से रोकना.अगर सरकार इस धारा के तहत वैध ब्लॉकिंग आदेश जारी करती है, तो संबंधित प्लेटफॉर्म के लिए उसका पालन करना कानूनी रूप से जरूरी होता है.क्या है पूरा मामला?दरअसल, नेटफ्लिक्स की पाकिस्तानी सीरीज जो बचे हैं संग समेट लो का ट्रेलर सामने आने के बाद से ही इसे भारत में रिलीज ना करने की मांग उठ रही है.
+
+इस सीरीज में फवाद खान, माहिरा खान, हानिया आमिर, अहद रजा मीर, इकरा अजीज और सनम सईद जैसे पाकिस्तानी कलाकार नजर आएंगे. ये सीरीज 4 दिसंबर 2026 को दुनियाभर में नेटफ्लिक्स पर रिलीज होने वाली है. Advertisement        हालांकि, भारत में इसे स्ट्रीम किया जाएगा या नहीं, इस पर अभी स्थिति साफ नहीं है.
+
+इस मामले में सूचना और प्रसारण मंत्रालय को भी कई शिकायतें मिली थीं. इसके बाद मंत्रालय ने नेटफ्लिक्स को पाकिस्तान से जुड़े कंटेंट को भारत में उपलब्ध ना कराने की बात दोबारा याद दिलाई है.---- समाप्त ----      ये भी देखें
+
+---
+
+**मूल स्रोत (Original Source):** [AajTak](https://www.aajtak.in/entertainment/news/story/netflix-pakistani-web-series-jo-bachay-hain-sang-samait-lo-india-release-controversy-pahalgam-attack-tmovj-rpti-2707908-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Entertainment श्रेणी से जुड़ी यह रिपोर्ट AajTak के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक Pakistani Web Series Row: नेटफ्लिक्स पर नहीं चलेगा पाकिस्तानी कंटेंट? सरकार की एडवाइजरी और कानून का पूरा गणित समझिए - AajTak से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `AajTak`,
+  },
+  {
+    id: 182,
+    title: `Before Directing Ramayana, Nitesh Tiwari Was an IIT Bombay Grad Who Quit His Tech Job to Write - The Better India`,
+    slug: `before-directing-ramayana-nitesh-tiwari-was-an-iit-bombay-grad-who-qui-2026`,
+    original_title: `Before Directing Ramayana, Nitesh Tiwari Was an IIT Bombay Grad Who Quit His Tech Job to Write - The Better India`,
+    category: `ramayana`,
+    topic: ``,
+    language: `en`,
+    fomo_badge: `News Wire`,
+    read_time: `4 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:19:06Z`,
+    updated_at: `2026-11-28T06:19:06Z`,
+    source_name: `The Better India`,
+    source_url: `https://thebetterindia.com/culture/iit-bombay-engineer-nitesh-tiwari-ramayana-filmmaker-journey-12842210`,
+    source_courtesy: `Source: The Better India`,
+    image_url: `/images/articles/before-directing-ramayana-nitesh-tiwari-was-an-iit-bombay-grad-who-qui-2026.png`,
+    image_alt: `Before Directing Ramayana, Nitesh Tiwari Was an IIT Bombay Grad Who Quit His Tech Job to Write - The Better India`,
+    image_courtesy: `Image: The Better India (External Source Attribution)`,
+    image_photographer: `The Better India`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `When Nitesh Tiwari left a software company after four months, he had no film career waiting for him, only an IIT Bombay engineering degree and an interest in writing. Advertisment Nearly three decades later, he has directed Ramayana: Part 1`,
+    content: `When Nitesh Tiwari left a software company after four months, he had no film career waiting for him, only an IIT Bombay engineering degree and an interest in writing. Advertisment Nearly three decades later, he has directed Ramayana: Part 1. Released on 5 November 2026, it travelled to more than 130 countries and crossed ₹1,000 crore in worldwide gross collections in its opening week, according to a Prime Focus investor presentation.
+
+Yet Tiwari's route to the director's chair began in a college hostel. Advertisment Add The Better India As A Trusted Source The campus where storytelling began Tiwari graduated from IIT Bombay in 1996 with a BTech in Metallurgical Engineering. He did not arrive on campus thinking of a career in cinema; its extracurricular culture introduced him to performance and writing.
+
+Hostel competitions brought students into theatre, one-act plays and miming. Encouraged by a senior, Tiwari entered the Freshy Miming Competition and won. He then won the senior competition for four consecutive years and directed hostel plays in his third and fourth years. Advertisment He told Hindustan Times in 2022 that the response to his performances sparked his interest in dramatics and writing.
+
+Engineering, he said, later helped him think analytically while structuring screenplays. During his third year, he interned at advertising agency RK Swamy BBDO, where he decided to give writing a chance. His experience reflects the influence of campus theatre in shaping creative careers.
+
+Advertisment From software to advertising, then cinema After graduating, Tiwari joined a software company. He kept questioning whether he wanted to do that work for the rest of his life. Four months later, he quit, choosing to try writing before the comfort of a salary made it harder to change direction.
+
+He joined FCB Ulka at one-fourth of his software salary, Hindustan Times reported. Three of the five agencies he applied to rejected him. Ulka hired him after a copy test and a poem, despite initially questioning why an IIT graduate wanted to write. Advertising became a substantial career.
+
+IIT Bombay's alumni profile says Tiwari spent 18 years in the industry: four at FCB Ulka, three at Lowe Lintas and 11 at Leo Burnett. He rose to become Chief Creative Officer at Leo Burnett in Mumbai. Advertising taught him to write for audiences and collaborate. Advertisment After four months at a software company, Tiwari quit to pursue writing before financial security made switching careers harder.
+
+Photograph: ( India Today ) His entry into filmmaking was not part of a mapped career plan. Tiwari and fellow advertising professional Vikas Bahl had written Chillar Party but could not find a director willing to take on a film featuring children and a dog. They decided to direct it themselves rather than abandon the script.
+
+In a 2019 interview with Scroll, Tiwari described the move as an unplanned step into filmmaking. Released in 2011, Chillar Party won the National Film Award for Best Children's Film and Best Original Screenplay. Tiwari went on to direct Bhoothnath Returns, Dangal and Chhichhore. He also co-wrote Nil Battey Sannata and Bareilly Ki Barfi.
+
+His journey is among the engineering graduates who found their way into filmmaking . A much larger canvas Dangal became a defining point in his career. The 2016 film, based on wrestler Mahavir Singh Phogat and his daughters Geeta and Babita, became a major international commercial success, including in China, where it reached audiences well beyond the usual Hindi-film market.
+
+Nitesh Tiwari's filmography spans heartfelt coming-of-age stories, sporting triumphs, family entertainers and ambitious mythological storytelling. Photograph: ( Instagram/@vp_films_0 ) Tiwari received the Filmfare Award for Best Director in 2017, according to IIT Bombay's alumni profile.
+
+Chhichhore, released in 2019, returned him to the campus setting that had shaped his early creative life. His career also reflects the relationship between theatre and cinema in the making of performers and storytellers. His latest assignment, Ramayana, takes that storytelling journey to a different scale, drawing on an epic familiar to audiences across generations.
+
+The two-part adaptation brings together a large cast and a global production and distribution effort. The first instalment was released in Hindi, Tamil, Telugu, Kannada and Malayalam. Prime Focus's November 2026 investor presentation described it as the widest global release for an Indian film, with screenings in more than 130 countries and major premium formats including IMAX, Dolby Cinema, ScreenX and 4DX.
+
+The company also reported that the film crossed ₹1,000 crore in worldwide gross collections in its opening week. The figures come from the production company's disclosure. A second instalment is planned. His journey was not an overnight leap from engineering to cinema. It passed through years of advertising, writing and collaboration.
+
+It began with a decision to leave a job after four months and give writing a chance; it has since taken him from hostel performances to a film released across continents. Sources 'Mr. Nitesh Tiwari': by IIT Bombay Alumni Association, publication date not specified, IIT Bombay Alumni Profile .
+
+' Nitesh Tiwari: I Always Make Films for the Audience and Not for Myself ': by Mihir Chitre for Hindustan Times, Published on 30 September 2022 ' Chhichhore Director Nitesh Tiwari: Closest to My Heart, and I've Always Followed My Heart ': by Devarsi Ghosh for Scroll, Published on 5 September 2019
+
+---
+
+**Original Source:** [The Better India](https://thebetterindia.com/culture/iit-bombay-engineer-nitesh-tiwari-ramayana-filmmaker-journey-12842210)`,
+    title_en: `Before Directing Ramayana, Nitesh Tiwari Was an IIT Bombay Grad Who Quit His Tech Job to Write - The Better India`,
+    summary_en: `When Nitesh Tiwari left a software company after four months, he had no film career waiting for him, only an IIT Bombay engineering degree and an interest in writing. Advertisment Nearly three decades later, he has directed Ramayana: Part 1`,
+    content_en: `When Nitesh Tiwari left a software company after four months, he had no film career waiting for him, only an IIT Bombay engineering degree and an interest in writing. Advertisment Nearly three decades later, he has directed Ramayana: Part 1. Released on 5 November 2026, it travelled to more than 130 countries and crossed ₹1,000 crore in worldwide gross collections in its opening week, according to a Prime Focus investor presentation.
+
+Yet Tiwari's route to the director's chair began in a college hostel. Advertisment Add The Better India As A Trusted Source The campus where storytelling began Tiwari graduated from IIT Bombay in 1996 with a BTech in Metallurgical Engineering. He did not arrive on campus thinking of a career in cinema; its extracurricular culture introduced him to performance and writing.
+
+Hostel competitions brought students into theatre, one-act plays and miming. Encouraged by a senior, Tiwari entered the Freshy Miming Competition and won. He then won the senior competition for four consecutive years and directed hostel plays in his third and fourth years. Advertisment He told Hindustan Times in 2022 that the response to his performances sparked his interest in dramatics and writing.
+
+Engineering, he said, later helped him think analytically while structuring screenplays. During his third year, he interned at advertising agency RK Swamy BBDO, where he decided to give writing a chance. His experience reflects the influence of campus theatre in shaping creative careers.
+
+Advertisment From software to advertising, then cinema After graduating, Tiwari joined a software company. He kept questioning whether he wanted to do that work for the rest of his life. Four months later, he quit, choosing to try writing before the comfort of a salary made it harder to change direction.
+
+He joined FCB Ulka at one-fourth of his software salary, Hindustan Times reported. Three of the five agencies he applied to rejected him. Ulka hired him after a copy test and a poem, despite initially questioning why an IIT graduate wanted to write. Advertising became a substantial career.
+
+IIT Bombay's alumni profile says Tiwari spent 18 years in the industry: four at FCB Ulka, three at Lowe Lintas and 11 at Leo Burnett. He rose to become Chief Creative Officer at Leo Burnett in Mumbai. Advertising taught him to write for audiences and collaborate. Advertisment After four months at a software company, Tiwari quit to pursue writing before financial security made switching careers harder.
+
+Photograph: ( India Today ) His entry into filmmaking was not part of a mapped career plan. Tiwari and fellow advertising professional Vikas Bahl had written Chillar Party but could not find a director willing to take on a film featuring children and a dog. They decided to direct it themselves rather than abandon the script.
+
+In a 2019 interview with Scroll, Tiwari described the move as an unplanned step into filmmaking. Released in 2011, Chillar Party won the National Film Award for Best Children's Film and Best Original Screenplay. Tiwari went on to direct Bhoothnath Returns, Dangal and Chhichhore. He also co-wrote Nil Battey Sannata and Bareilly Ki Barfi.
+
+His journey is among the engineering graduates who found their way into filmmaking . A much larger canvas Dangal became a defining point in his career. The 2016 film, based on wrestler Mahavir Singh Phogat and his daughters Geeta and Babita, became a major international commercial success, including in China, where it reached audiences well beyond the usual Hindi-film market.
+
+Nitesh Tiwari's filmography spans heartfelt coming-of-age stories, sporting triumphs, family entertainers and ambitious mythological storytelling. Photograph: ( Instagram/@vp_films_0 ) Tiwari received the Filmfare Award for Best Director in 2017, according to IIT Bombay's alumni profile.
+
+Chhichhore, released in 2019, returned him to the campus setting that had shaped his early creative life. His career also reflects the relationship between theatre and cinema in the making of performers and storytellers. His latest assignment, Ramayana, takes that storytelling journey to a different scale, drawing on an epic familiar to audiences across generations.
+
+The two-part adaptation brings together a large cast and a global production and distribution effort. The first instalment was released in Hindi, Tamil, Telugu, Kannada and Malayalam. Prime Focus's November 2026 investor presentation described it as the widest global release for an Indian film, with screenings in more than 130 countries and major premium formats including IMAX, Dolby Cinema, ScreenX and 4DX.
+
+The company also reported that the film crossed ₹1,000 crore in worldwide gross collections in its opening week. The figures come from the production company's disclosure. A second instalment is planned. His journey was not an overnight leap from engineering to cinema. It passed through years of advertising, writing and collaboration.
+
+It began with a decision to leave a job after four months and give writing a chance; it has since taken him from hostel performances to a film released across continents. Sources 'Mr. Nitesh Tiwari': by IIT Bombay Alumni Association, publication date not specified, IIT Bombay Alumni Profile .
+
+' Nitesh Tiwari: I Always Make Films for the Audience and Not for Myself ': by Mihir Chitre for Hindustan Times, Published on 30 September 2022 ' Chhichhore Director Nitesh Tiwari: Closest to My Heart, and I've Always Followed My Heart ': by Devarsi Ghosh for Scroll, Published on 5 September 2019
+
+---
+
+**Original Source:** [The Better India](https://thebetterindia.com/culture/iit-bombay-engineer-nitesh-tiwari-ramayana-filmmaker-journey-12842210)`,
+    title_hi: ``,
+    summary_hi: ``,
+    content_hi: ``,
+    author_name: `ZestFeedX Wire Desk`,
+    author_bio: `Aggregated wire summary attributed to primary news sources.`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Full report attributed to The Better India.`,
+    who_is_affected: `Readers tracking verified news updates across India.`,
+    what_readers_are_searching_for: `Complete coverage and source attribution for Before Directing Ramayana, Nitesh Tiwari Was an IIT Bombay Grad Who Quit His Tech Job to Write - The Better India.`,
+    primary_source: `The Better India`,
+  },
+  {
+    id: 183,
+    title: `सुप्रीम कोर्ट अपडेट: रामायण फिल्म के खिलाफ याचिका पर तत्काल सुनवाई से शीर्ष अदालत ने किया इनकार - Amar Ujala`,
+    slug: `amar-ujala-2026`,
+    original_title: `सुप्रीम कोर्ट अपडेट: रामायण फिल्म के खिलाफ याचिका पर तत्काल सुनवाई से शीर्ष अदालत ने किया इनकार - Amar Ujala`,
+    category: `ramayana`,
+    topic: ``,
+    language: `hi`,
+    fomo_badge: `न्यूज़ वायर`,
+    read_time: `3 min read`,
+    views_count: 0,
+    shares_count: 0,
+    published_at: `2026-11-28T06:19:09Z`,
+    updated_at: `2026-11-28T06:19:09Z`,
+    source_name: `Amar Ujala`,
+    source_url: `https://www.amarujala.com/india-news/supreme-court-updates-of-27-nov-supreme-court-verdicts-hindi-film-ramayana-supreme-court-news-2026-11-27`,
+    source_courtesy: `Source: Amar Ujala`,
+    image_url: `/images/articles/amar-ujala-2026.jpg`,
+    image_alt: `सुप्रीम कोर्ट अपडेट: रामायण फिल्म के खिलाफ याचिका पर तत्काल सुनवाई से शीर्ष अदालत ने किया इनकार - Amar Ujala`,
+    image_courtesy: `Image: Amar Ujala (External Source Attribution)`,
+    image_photographer: `Amar Ujala`,
+    image_license: `External Source Attribution`,
+    fact_check_status: `Wire Summary — Attributed to Primary Source`,
+    tags: `Ramayana, News, India`,
+    summary: `सुप्रीम कोर्ट में आप नेता नरेश बालियान को जमानत सुप्रीम कोर्ट ने आम आदमी पार्टी (आप) के पूर्व विधायक नरेश बालियान को जमानत दे दी है, जिन्हें गैंगस्टर कपिल सांगवान उर्फ नंदू के नेतृत्व वाले संगठित अपराध गिरोह से संबंध होने के आरोप में महाराष`,
+    content: `सुप्रीम कोर्ट में आप नेता नरेश बालियान को जमानत सुप्रीम कोर्ट ने आम आदमी पार्टी (आप) के पूर्व विधायक नरेश बालियान को जमानत दे दी है, जिन्हें गैंगस्टर कपिल सांगवान उर्फ नंदू के नेतृत्व वाले संगठित अपराध गिरोह से संबंध होने के आरोप में महाराष्ट्र संगठित अपराध नियंत्रण अधिनियम (एमसीओसीए) के तहत गिरफ्तार किया गया था।
+
+दिल्ली उच्च न्यायालय ने 3 अगस्त, 2026 को उनकी जमानत याचिका खारिज कर दी थी। सुप्रीम कोर्ट ने फिलिबेक के वीडियो हटाने की अर्जी खारिज सुप्रीम कोर्ट ने इतालवी राजनेता जियाकोमो फिलिबेक के सोशल मीडिया वीडियो हटाने की याचिका शुक्रवार को खारिज कर दी। इन वीडियो में फिलिबेक को &quot;वोट चोर, गद्दी छोड़&quot; का नारा लगाते हुए दिखाया गया था।
+
+यह नारा 13-14 नवंबर को हैदराबाद में हुए भारत समिट में लगाया गया था। जस्टिस विक्रम नाथ और जस्टिस अपारेष कुमार सिंह की पीठ ने यह आदेश दिए। याचिका में कुछ सोशल मीडिया प्लेटफॉर्म्स से वीडियो हटाने का निर्देश मांगा गया था। पीठ ने याचिका खारिज करते हुए कहा कि याचिकाकर्ता प्रतिनिधित्व देने के लिए स्वतंत्र हैं।
+
+फिलिबेक, जो पार्टी ऑफ यूरोपियन सोशलिस्ट्स के महासचिव हैं, ने इस नारे से राजनीतिक विवाद खड़ा कर दिया था। उन्होंने कांग्रेस नेता राहुल गांधी के स्वच्छ चुनावी सूची के अभियान की सराहना की थी। यह नारा नरेंद्र मोदी के नेतृत्व वाली केंद्र सरकार पर विपक्ष के हमले से निकला था। फिलिबेक की टिप्पणी फिलिबेक ने इस महीने की शुरुआत में रामलीला मैदान में हुए विपक्ष के मार्च का भी जिक्र किया था।
+
+उन्होंने कहा था कि लोकतंत्र की रक्षा नागरिकों को करनी चाहिए। उन्होंने राहुल गांधी के &quot;एक व्यक्ति, एक वोट&quot; सिद्धांत का समर्थन किया। फिलिबेक ने कहा कि कांग्रेस पार्टी ने आधुनिक भारत की लोकतांत्रिक नींव बनाई है। सुप्रीम कोर्ट ने रणबीर कपूर अभिनीत हिंदी फिल्म &amp;#39;रामायण&amp;#39; को चुनौती देने वाली याचिका पर तत्काल सुनवाई से इनकार कर दिया।
+
+याचिकाकर्ता के वकील ने दलील दी कि फिल्म में महाकाव्य रामायण को विकृत तरीके से प्रस्तुत किया गया है। इस पर शीर्ष अदालत ने कहा कि फिल्म पहले ही रिलीज हो चुकी है और निर्माताओं ने अपनी समझ के आधार पर महाकाव्य को प्रस्तुत किया है। अदालत ने टिप्पणी की कि जिन लोगों की रामायण को लेकर अलग व्याख्या है, वे अपनी फिल्म बना सकते हैं।
+
+साथ ही कोर्ट ने वकील को अपना समय बर्बाद न करने की चेतावनी भी दी। केंद्र मां की जाति पर बच्चों को प्रमाणपत्र देने पर विचार करे सुप्रीम कोर्ट ने केंद्र से तलाक, परित्याग, गोद लेने और एकल मातृत्व जैसे मामलों में बच्चों को उनकी मां की जाति के आधार पर जाति प्रमाणपत्र जारी करने के लिए दिशानिर्देश तैयार करने की संभावना तलाशने को कहा है।
+
+जस्टिस जॉयमाल्या बागची व जस्टिस वी. मोहना की पीठ ने कहा कि ये मुद्दा विशेष रूप से उन मामलों में बेहद महत्वपूर्ण हो जाता है, जहां बच्चे की कस्टडी मां के पास है। पीठ ने इस पर विचार किया कि क्या जाति आधारित आरक्षण और प्रवासन से जुड़े संविधान पीठ के फैसलों में तय सिद्धांतों से छेड़छाड़ किए बिना, पिता की जाति से बच्चे की जाति तय करने के नियम में कोई अपवाद बनाया जा सकता है।
+
+समान जाति के माता-पिता और अंतरजातीय विवाह से जुड़े मामलों को अलग-अलग सुनने से इन्कार करते हुए कोर्ट ने कहा, सभी याचिकाओं पर एक साथ विचार होगा। शीर्ष कोर्ट ने अटॉर्नी जनरल से मांगी सहायता : पीठ ने अटॉर्नी जनरल आर. वेंकटरमणी के जरिये केंद्र सरकार को मामले पर विचार करने का निर्देश दिया।
+
+पीठ ने अटॉर्नी जनरल से इसके कानूनी व सांविधानिक सवालों को सुलझाने में अदालत की सहायता करने का भी आग्रह किया।
+
+---
+
+**मूल स्रोत (Original Source):** [Amar Ujala](https://www.amarujala.com/india-news/supreme-court-updates-of-27-nov-supreme-court-verdicts-hindi-film-ramayana-supreme-court-news-2026-11-27)`,
+    title_en: ``,
+    summary_en: ``,
+    content_en: ``,
+    title_hi: `सुप्रीम कोर्ट अपडेट: रामायण फिल्म के खिलाफ याचिका पर तत्काल सुनवाई से शीर्ष अदालत ने किया इनकार - Amar Ujala`,
+    summary_hi: `सुप्रीम कोर्ट में आप नेता नरेश बालियान को जमानत सुप्रीम कोर्ट ने आम आदमी पार्टी (आप) के पूर्व विधायक नरेश बालियान को जमानत दे दी है, जिन्हें गैंगस्टर कपिल सांगवान उर्फ नंदू के नेतृत्व वाले संगठित अपराध गिरोह से संबंध होने के आरोप में महाराष`,
+    content_hi: `सुप्रीम कोर्ट में आप नेता नरेश बालियान को जमानत सुप्रीम कोर्ट ने आम आदमी पार्टी (आप) के पूर्व विधायक नरेश बालियान को जमानत दे दी है, जिन्हें गैंगस्टर कपिल सांगवान उर्फ नंदू के नेतृत्व वाले संगठित अपराध गिरोह से संबंध होने के आरोप में महाराष्ट्र संगठित अपराध नियंत्रण अधिनियम (एमसीओसीए) के तहत गिरफ्तार किया गया था।
+
+दिल्ली उच्च न्यायालय ने 3 अगस्त, 2026 को उनकी जमानत याचिका खारिज कर दी थी। सुप्रीम कोर्ट ने फिलिबेक के वीडियो हटाने की अर्जी खारिज सुप्रीम कोर्ट ने इतालवी राजनेता जियाकोमो फिलिबेक के सोशल मीडिया वीडियो हटाने की याचिका शुक्रवार को खारिज कर दी। इन वीडियो में फिलिबेक को &quot;वोट चोर, गद्दी छोड़&quot; का नारा लगाते हुए दिखाया गया था।
+
+यह नारा 13-14 नवंबर को हैदराबाद में हुए भारत समिट में लगाया गया था। जस्टिस विक्रम नाथ और जस्टिस अपारेष कुमार सिंह की पीठ ने यह आदेश दिए। याचिका में कुछ सोशल मीडिया प्लेटफॉर्म्स से वीडियो हटाने का निर्देश मांगा गया था। पीठ ने याचिका खारिज करते हुए कहा कि याचिकाकर्ता प्रतिनिधित्व देने के लिए स्वतंत्र हैं।
+
+फिलिबेक, जो पार्टी ऑफ यूरोपियन सोशलिस्ट्स के महासचिव हैं, ने इस नारे से राजनीतिक विवाद खड़ा कर दिया था। उन्होंने कांग्रेस नेता राहुल गांधी के स्वच्छ चुनावी सूची के अभियान की सराहना की थी। यह नारा नरेंद्र मोदी के नेतृत्व वाली केंद्र सरकार पर विपक्ष के हमले से निकला था। फिलिबेक की टिप्पणी फिलिबेक ने इस महीने की शुरुआत में रामलीला मैदान में हुए विपक्ष के मार्च का भी जिक्र किया था।
+
+उन्होंने कहा था कि लोकतंत्र की रक्षा नागरिकों को करनी चाहिए। उन्होंने राहुल गांधी के &quot;एक व्यक्ति, एक वोट&quot; सिद्धांत का समर्थन किया। फिलिबेक ने कहा कि कांग्रेस पार्टी ने आधुनिक भारत की लोकतांत्रिक नींव बनाई है। सुप्रीम कोर्ट ने रणबीर कपूर अभिनीत हिंदी फिल्म &amp;#39;रामायण&amp;#39; को चुनौती देने वाली याचिका पर तत्काल सुनवाई से इनकार कर दिया।
+
+याचिकाकर्ता के वकील ने दलील दी कि फिल्म में महाकाव्य रामायण को विकृत तरीके से प्रस्तुत किया गया है। इस पर शीर्ष अदालत ने कहा कि फिल्म पहले ही रिलीज हो चुकी है और निर्माताओं ने अपनी समझ के आधार पर महाकाव्य को प्रस्तुत किया है। अदालत ने टिप्पणी की कि जिन लोगों की रामायण को लेकर अलग व्याख्या है, वे अपनी फिल्म बना सकते हैं।
+
+साथ ही कोर्ट ने वकील को अपना समय बर्बाद न करने की चेतावनी भी दी। केंद्र मां की जाति पर बच्चों को प्रमाणपत्र देने पर विचार करे सुप्रीम कोर्ट ने केंद्र से तलाक, परित्याग, गोद लेने और एकल मातृत्व जैसे मामलों में बच्चों को उनकी मां की जाति के आधार पर जाति प्रमाणपत्र जारी करने के लिए दिशानिर्देश तैयार करने की संभावना तलाशने को कहा है।
+
+जस्टिस जॉयमाल्या बागची व जस्टिस वी. मोहना की पीठ ने कहा कि ये मुद्दा विशेष रूप से उन मामलों में बेहद महत्वपूर्ण हो जाता है, जहां बच्चे की कस्टडी मां के पास है। पीठ ने इस पर विचार किया कि क्या जाति आधारित आरक्षण और प्रवासन से जुड़े संविधान पीठ के फैसलों में तय सिद्धांतों से छेड़छाड़ किए बिना, पिता की जाति से बच्चे की जाति तय करने के नियम में कोई अपवाद बनाया जा सकता है।
+
+समान जाति के माता-पिता और अंतरजातीय विवाह से जुड़े मामलों को अलग-अलग सुनने से इन्कार करते हुए कोर्ट ने कहा, सभी याचिकाओं पर एक साथ विचार होगा। शीर्ष कोर्ट ने अटॉर्नी जनरल से मांगी सहायता : पीठ ने अटॉर्नी जनरल आर. वेंकटरमणी के जरिये केंद्र सरकार को मामले पर विचार करने का निर्देश दिया।
+
+पीठ ने अटॉर्नी जनरल से इसके कानूनी व सांविधानिक सवालों को सुलझाने में अदालत की सहायता करने का भी आग्रह किया।
+
+---
+
+**मूल स्रोत (Original Source):** [Amar Ujala](https://www.amarujala.com/india-news/supreme-court-updates-of-27-nov-supreme-court-verdicts-hindi-film-ramayana-supreme-court-news-2026-11-27)`,
+    author_name: `ZestFeedX न्यूज़ डेस्क`,
+    author_bio: `प्राथमिक समाचार स्रोतों पर आधारित संपादकीय वायर डेस्क।`,
+    author_url: `https://zestfeedx.com/about/`,
+    medical_reviewed: false,
+    medical_reviewer_name: ``,
+    medical_reviewer_credentials: ``,
+    why_it_matters_today: `Ramayana श्रेणी से जुड़ी यह रिपोर्ट Amar Ujala के प्राथमिक समाचार बुलेटिन पर आधारित है।`,
+    who_is_affected: `संबंधित पाठक, नागरिक एवं नीति-निर्माता।`,
+    what_readers_are_searching_for: `पाठक सुप्रीम कोर्ट अपडेट: रामायण फिल्म के खिलाफ याचिका पर तत्काल सुनवाई से शीर्ष अदालत ने किया इनकार - Amar Ujala से जुड़ी आधिकारिक जानकारी और ताज़ा अपडेट देख रहे हैं।`,
+    primary_source: `Amar Ujala`,
+  },
+{
     id: 166,
     title: `Latham, Blundell fifties give NZ advantage after hard-fought opening day`,
     slug: `latham-blundell-fifties-give-nz-advantage-after-hard-fought-openi-2026`,
